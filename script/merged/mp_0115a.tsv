@@ -1,0 +1,318 @@
+mp_0115a
+init
+Grasshopper_ON
+Grasshopper_OFF
+cicada_ON
+cicada_OFF
+lp_butterfly
+0x173f	0x36	Choice		Swallowtail Butterfly	
+0x176c	0x36	Choice		？？？？？？	
+0x17a8	0x36	Choice		White Butterfly	
+0x17cf	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x180b	0x36	Choice		Marbled Fritillary	
+0x1835	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x1871	0x36	Choice		Morpho Butterfly	
+0x1899	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x18b5	0x36	Choice		Quit	mp_0002 0x433f
+0x193b	0x41	None		[Swallowtail Butterfly] Papilionidae	
+				Large butterfly with brightly colored wings.	
+				It flies elegantly with its long tail and wings,	
+				and lives by feeding on nectar.	
+0x1a96	0x41	None		[White Butterfly] Pieris rapae	
+				Medium-size butterfly with white wings. As its caterpillar	
+				the cabbageworm, they eat rape blossoms and other leaves.	
+				They emerge from their chrysalis in spring.	
+0x1c0e	0x41	None		[Marbled Fritillary] Argynnini	
+				Orange butterfly with a leopard pattern on its wings.	
+				In the heat of the summer season, they stop moving	
+				and sleep until the fall.	
+0x1d68	0x41	None		[Morpho Butterfly] Morpho	
+				Beautiful butterfly inhabiting the tropics.	
+				They prefer rotting fruits and animal corpses.	
+				Males instinctually patrol the riverside.	
+lp_grasshopper
+0x2060	0x36	Choice		Grasshopper	
+0x2083	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x20bf	0x36	Choice		Locust	
+0x20dd	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x2119	0x36	Choice		Giant Preying Mantis	
+0x2145	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x2181	0x36	Choice		Bell Cricket	
+0x21a5	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x21c1	0x36	Choice		Quit	mp_0002 0x433f
+0x2247	0x41	None		[Grasshopper] Acrida cinerea	
+				Grasshopper called the inviting grasshopper.	
+				With a triangular head, males make a	
+				"kachikachikachi" sound when they fly.	
+0x2395	0x41	None		[Locust] Locusta migratoria	
+				Large grasshopper living mainly in grassy plains.	
+				When there is not much food, they swarm and	
+				destroy crops everywhere as "locusts."	
+0x24ee	0x41	None		[Giant Preying Mantis] Tenodera aridifolia	
+				Predatory insect with large sickle-shaped forelegs.	
+				Capturing and eating various insects with quick	
+				movements, it is king of the grassy plains.	
+0x2685	0x41	None		[Bell Cricket] Homoeogryllus japonicus	
+				Nocturnal insect living mainly in warm areas.	
+				In fall, males rub their wings together,	
+				making a beautiful ringing sound.	
+lp_cicada
+0x290c	0x36	Choice		Singing Cicada	
+0x2932	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x296e	0x36	Choice		Yezo Cicada	
+0x2991	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x29cd	0x36	Choice		Cicada	
+0x29eb	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x2a27	0x36	Choice		Evening Cicada	
+0x2a4d	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x2a69	0x36	Choice		Quit	mp_0002 0x433f
+0x2b13	0x41	None		[Singing Cicada] Hyalessa maculaticollis	
+				Large cicada with a black sturdy body.	
+				With a grand ringing call in summer, their	
+				lifespan is exhausted with the end of summer.	
+0x2c98	0x41	None		[Yezo Cicada] Lyristes japonicus	
+				Large cicada living in northern regions and dense mountains.	
+				Perching upside down on tree bark,	
+				"gii, gii" is their monotone call.	
+0x2e18	0x41	None		[Cicada] Meimuna opalifera	
+				Cicada active from summer to fall. Because you	
+				can hear their "tsuku tsuku boushi" cry,	
+				that is how they get their Japanese common	
+				name of "Tsukutsukuboushi." This species of	
+				cicada has no common name in English.	
+0x2fe2	0x41	None		[Evening Cicada] Tanna japonensis	
+				Cicada living in forests of Japanese cypress and cedar.	
+				From summer to fall, their sad	
+				"kanakanakana" cry resounds.	
+lp_dragonfly
+0x32cf	0x36	Choice		Oniyanma	
+0x32ef	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x332b	0x36	Choice		Damselfly	
+0x334c	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x3388	0x36	Choice		Banded Darter	
+0x33ad	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x33e9	0x36	Choice		Butterfly Dragonfly	
+0x3414	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x3430	0x36	Choice		Quit	mp_0002 0x433f
+0x34b6	0x41	None		[Oniyanma] Anotogaster sieboldii	
+				Large dragonfly with striped black and yellow body pattern.	
+				Though it is wild, showing it a twirling finger will lure it.	
+0x360a	0x41	None		[Damselfly] Zygoptera	
+				Small dragonfly that lives near water.	
+				When it stops on a leaf, it gently folds its	
+				wings, appearing like a single thread.	
+0x3753	0x41	None		[Banded Darter] Sympetrum pedemontanum elatum	
+				Dragonfly with crimson body and wings.	
+				When mating, the male and female couple and	
+				take flight. Popularly called the red dragonfly.	
+0x38bd	0x41	None		[Butterfly Dragonfly] Rhyothemis fuliginosa	
+				Small dragonfly with shining black and blue wings.	
+				Though they can only live near water, they	
+				flutter like butterflies when they fly.	
+lp_stagbeetle
+0x3bc6	0x36	Choice		Longhorn Beetle	
+0x3bed	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x3c29	0x36	Choice		Large Stag Beetle	
+0x3c52	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x3c8e	0x36	Choice		Goliath Beetle	
+0x3cb4	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x3cf0	0x36	Choice		Sawtooth Stag Beetle	
+0x3d1c	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x3d38	0x36	Choice		Quit	mp_0002 0x433f
+0x3dbe	0x41	None		[Large Stag Beetle] Dorcus hopei binodulosus	
+				Large rhinocerous beetle that prefers the sap of	
+				sawtooth oak. Males grow a horn that looks	
+				like a hoe, that changes the shape of its jaw.	
+0x3f2e	0x41	None		[Sawtooth Stag Beetle] Prosopocoilus inclinatus	
+				Rhinocerous beetle that grows a horn that looks like a saw.	
+				Though it has a belligerent nature, when it receives	
+				a shock, it pretends to be dead and falls.	
+0x40b2	0x41	None		[Longhorn Beetle] Cerambycidae	
+				Species of rhinocerous beetle with a long antenna.	
+0x41be	0x41	None		[Goliath Beetle] Goliathus	
+				Giant rhinocerous beetle boasting a super-heavy weight.	
+				Though it feeds on nectar and pollen, it is the	
+				heaviest of all known insects.	
+lp_beetle
+0x4447	0x36	Choice		Jap. Rhino Beetle	
+0x4470	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x44ac	0x36	Choice		Caucasus Beetle	
+0x44d3	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x450f	0x36	Choice		Hercules Beetle	
+0x4536	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x4572	0x36	Choice		Megasoma	
+0x4592	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x45ae	0x36	Choice		Quit	mp_0002 0x433f
+0x4634	0x41	None		[Hercules Beetle] Dynastes hercules	
+				Large rhinoceros beetle crowned with the name of a legendary	
+				hero. Has one large horn. As the name says, it is king of the	
+				forest, boasting the largest size class among all insects.	
+0x47c6	0x41	None		[Caucasus Beetle] Chalcosoma chiron	
+				Large rhinoceros beetle with a characteristic	
+				three-pronged horn. Though it lives in the high	
+				mountain zone, it has a fierce belligerence and	
+				equals the hercules beetle as the strongest	
+				rhinoceros beetle.	
+0x496d	0x41	None		[Megasoma] Megasoma elephas	
+				Extra-large rhinoceros beetle with a heavy body weight.	
+				Though when it is an adult, it is too large to be placed	
+				on one hand, it lives by feeding on sap.	
+0x4adb	0x41	None		[Jap. Rhinoceros Beetle] Trypoxylus dichotomus	
+				With a large body and strong legs, it is an exemplar	
+				rhinoceros beetle. The horn that males have is split	
+				in two, and is seen as a decorative helmet.	
+lp_fly
+0x4d81	0x36	Choice		Japanese Silk Moth	
+0x4dab	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x4de7	0x36	Choice		Mosquito	
+0x4e07	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x4e43	0x36	Choice		Honey Bee	
+0x4e64	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x4ea0	0x36	Choice		Fly	
+0x4ebb	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x4ed7	0x36	Choice		Quit	mp_0002 0x433f
+0x4f81	0x41	None		[Japanese Silk Moth] Saturniidae	
+				Large nocturnal insect.	
+				Because their caterpillars make beautiful, green-tinged	
+				cocoons, humans keep them as pets.	
+0x50f1	0x41	None		[Honey Bee] Apis	
+				Small social insects that live in large groups.	
+				Though they store honey in their nest, enemies	
+				can't easily approach due to their sharp stingers.	
+0x5270	0x41	None		[Fly] Muscomorpha	
+				Insect that flies about with quick movements.	
+				In addition to eating fruits and feces, their larva,	
+				called maggots, appear on animal corpses.	
+0x53eb	0x41	None		[Mosquito] Culicidae	
+				The sound made by the wings of this flying insect is grating	
+				to the ears. The females stick humans and animals, sucking	
+				their blood, and sometimes spread infectious disease.	
+lp_sandbug
+0x5697	0x36	Choice		Ant Lion Larva	
+0x56bd	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x56f9	0x36	Choice		Dung Beetle	
+0x571c	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x5758	0x36	Choice		Tarantula	
+0x5779	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x57b5	0x36	Choice		Scorpion	
+0x57d5	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x57f1	0x36	Choice		Quit	mp_0002 0x433f
+0x5877	0x41	None		[Scorpion] Scorpiones	
+				Arthropod that lives in wasteland and arid regions.	
+				Has a stinger containing deadly poison on its tail,	
+				which can easily kill a human.	
+0x59cc	0x41	None		[Tarantula] Theraphosidae	
+				Large spider living in tropical regions.	
+				With a hairy body, it walks around on the surface,	
+				and holds poison in its strong fangs.	
+0x5b20	0x41	None		[Dung Beetle] Scarabaeus	
+				A species of scarab beetle (Scarabaeidae).	
+				Has the strange character of rolling animal dung into	
+				balls and transporting them to its nest for use as food.	
+0x5c8b	0x41	None		[Ant Lion Larva] Myrmeleontidae	
+				The larva of the ant lion (paradise dragonfly).	
+				Makes a nest in dry sandy soil in the shape of a mortar,	
+				eating insects that fall into it.	
+lp_nodata
+0x5de8	0x41	None		【？？？？？？】	
+					
+				　　　　　　（ＮＯ　ＤＡＴＡ）　　　　　　	
+lp_nothing
+0x5e74	0x40	UNDEF		It seems there's nothing on display.	
+subev_showroom_first
+0x61df	0x06	ALTO		ANI_SURPRISE	
+0x6209	0x06	NOI		ANI_SURPRISE	
+0x6232	0x98	ALTO		T-This is...!	
+0x6279	0x06	NOI		ANI_GESTURE1	
+0x62a2	0x98	NOI		We're in a forest...!?	
+0x62d9	0x06	ALTO		ANI_LOOK_AROUND	
+0x6306	0x98	ALTO		It looks like an insect	
+				exhibit room. So much	
+				equipment is here...	
+0x646c	0x6B	ALTO		Unknown	
+0x64a0	0x06	ALTO		ANI_JOY	
+0x64c5	0x98	ALTO		This is the first time I've seen	
+				such a magnificent display.	
+				Yeah, very interesting!	
+0x6541	0x06	ALTO		ANI_JOY	
+0x6566	0x98	ALTO		I can't let something this	
+				interesting pass by.	
+				...Anyway, I'll go look at them!	
+talk_Coron
+0x66ac	0x98	Coron		Dr. Volans designed each	
+				exhibit room at the museum.	
+0x6700	0x98	Coron		Natural history is Dr. Volans'	
+				specialty, and he spent much	
+				Mira making them.	
+0x676c	0x98	Coron		Ah, what a splendid research space...	
+0x67b2	0x98	Coron		A-Ahem.	
+				By the way, I am responsible for	
+				organizing the exhibit rooms.	
+0x6887	0x98	Coron		...Achoo...!	
+0x68b4	0x98	Coron		Huh, I got a chill all of a sudden...	
+				As a matter of fact, I am sensitive to cold...	
+0x6942	0x3F	Name		Researcher Caelum	mp_0115 0xb4da
+0x6975	0x98	Coron		Uhuhu, you're managing the reception	
+				desk well, aren't you Coron.	
+0x69d6	0x98	Coron		Since she, like me, has had a nice	
+				body from the start, I didn't	
+				want to waste it.	
+0x6a47	0x98	Coron		Since she is always so uncool,	
+				I've got to dress her up every now and then㈱	
+0x6adb	0x98	Coron		Since she, like me, has had a nice	mp_0115a 0x69d6
+				body from the start, I didn't	
+				want to waste it.	
+0x6b4c	0x98	Coron		But...I'm already at my limit.	
+				If I tease her too much,	
+				she'll cry.	
+0x6bda	0x3F	Name		Researcher Caelum	mp_0115 0xb4da
+0x6c0d	0x98	Coron		Huhu, I am Caelum.	
+				Today, I'm switching clothes with Coron	
+				and leaving the reception desk to her.	
+0x6c8d	0x98	Coron		Even though we have the same face,	
+				because she doesn't have enough confidence,	
+				I want to give her special training.	
+0x6d1f	0x98	Coron		And I'm wearing this researcher's rag.	
+				Ya gotta work behind the scenes	
+				sometimes, y'know?☆	
+0x6dc1	0x98	Coron		I've gotta work behind the	
+				scenes sometimes, so I switch	
+				with Coron from time to time.	
+0x6e36	0x98	Coron		But, the strength of these	
+				glasses is pretty intense～....	
+				I'm getting a little dizzy.	
+0x6ef1	0x98	Coron		The empire's great natural history encyclopedia	
+				is the foremost reference book for plant and	
+				animal data.	
+0x6f79	0x98	Coron		If "the destruction" is hypothesized therein,	
+				then probably, there's no mistake...	
+0x6feb	0x98	Coron		...I'm sorry.	
+				I just wanted to express my	
+				wish a little more, but...	
+0x7076	0x98	Coron		Anyway, we'll try to look	
+				for some way to save Eartha.	
+0x70cc	0x98	Coron		Nayuta, please do	
+				not lose hope.	
+0x7128	0x98	Coron		...Nayuta, I hear your sister	
+				collapsed due to illness...	
+0x7181	0x98	Coron		If there is anything we can do for you,	
+				please do not hesitate to say it.	
+0x721e	0x98	Coron		Because Caelum is fashionable	
+				and sociable, she was popular	
+				even in the empire.	
+0x728c	0x98	Coron		Even though we are twins...	
+				We aren't like each other at all.	
+0x72e9	0x98	Coron		Someone like me is just a plain	
+				researcher with no good qualities...	
+0x734d	0x98	Coron		...Ah, even if I say so myself,	
+				I've given up.	
+0x739b	0x6B	ALTO		Sweatdrop	
+0x73f5	0x98	Coron		It's fine. If I just	
+				research, then...	
+0x743b	0x98	Coron		But sometimes,	
+				Caelum gets jealous.	
+0x749a	0x98	Coron		Uhuhuhu, today I'm going to	
+				devote myself to studying	
+				insect life cycles...	
+0x7504	0x98	Coron		I'm sure coming along with	
+				Dr. Volans was the right answer...	

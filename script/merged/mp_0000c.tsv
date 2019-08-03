@@ -1,0 +1,530 @@
+mp_0000c
+init
+LP_Shop1
+0x96c	0x41	None		～  Bar & Inn <Moon View Pavillion>  ～	mp_0000 0x254e
+				  We have tasty food and warm rooms	
+				    ready for you.	
+LP_Shop2
+0xa4c	0x41	None		★Welcome to general store <Sunset>!★	mp_0000 0x262e
+				  From daily necessities to souvenirs,	
+				  leave it to <Sunset>!	
+				  Would you like to try <Star Shards>,	
+				  Remnant Island's most popular product?	
+talk_Dorado
+0xb7b	0x98	Dorado		I was just about to leave	
+				on patrol with Axe and	
+				the others, but...	
+0xbde	0x98	Bootie		...Hey, don't ignore me.	
+				Take me with you too!	
+0xc2d	0x6B	Dorado		Sweatdrop	
+0xc8f	0x98	Dorado		Ah, you're annoying!!	
+				This is a job for adults!	
+0xcdf	0x98	Dorado		Generally, in front of monsters,	
+				you run away and are scared	
+				of them.	
+0xd6c	0x98	Dorado		This time, only ferocious monsters	
+				are coming out. We've got to increase	
+				our patrols.	
+0xde1	0x98	Dorado		I've got to fulfill my duty	
+				as town guard!	
+talk_Lupus
+0xe72	0x98	Lupus		That rubble won't move no matter what.	
+				I was thinking of asking my mom	
+				for help.	
+0xee1	0x6B	Lupus		Sweatdrop	
+0xf14	0x98	Lupus		...My god, it seriously	
+				moved...	
+0xf7c	0x98	Lupus		Even Columba and Sculp	
+				couldn't move that rubble...	
+0xfcf	0x98	Lupus		So the unthinkable	
+				hidden ball was this	
+				close...	
+0x1054	0x98	Lupus		You're just in time, doctor.	
+				My father just called for you.	
+0x10af	0x98	Lupus		As elder, he wants you to	
+				listen to his story.	
+0x10fd	0x98	Hydol		I see...	
+				I was just thinking I	
+				had something to ask him.	
+0x1154	0x98	Hydol		Lyra and Vel's medical	
+				exams are finished.	
+				Alright, I'll head there immediately.	
+0x1211	0x98	Lupus		Nayuta, leave the island to	
+				me for now.	
+0x1258	0x98	Lupus		Don't overdo it, OK?	
+talk_Canis
+0x12bd	0x98	Canis		*huff, huff, huff*	
+				I thought I'd remove	
+				this rubble, but...	
+0x1317	0x98	Canis		As I thought, it'll only move	
+				a little with these thin arms.	
+0x1373	0x6B	Lupus		Sweatdrop	
+0x13a6	0x98	Lupus		(I-I can't believe this...	
+				 She's really moving it herself...)	
+0x142c	0x98	Canis		Even if I'm not useful,	
+				I'm doing all I can to help.	
+0x1480	0x98	Canis		Because Nayuta is	
+				doing his best...	
+				I can't lose hope!	
+talk_Columha
+0x1503	0x98	Columha		Though people with physical	
+				strength decided to clean up	
+				the rubble...	
+0x156a	0x98	Columha		...As expected, it's difficult.	
+				It seems impossible	
+				by human hands...	
+0x15d0	0x98	Columha		Though it'll take time,	
+				it seems all we can do	
+				is break it with a hammer.	
+0x1662	0x98	Columha		Though we're somehow doing our	
+				best with cleaning up rubble now...	
+				pushing seems difficult.	
+0x16de	0x98	Columha		Though it'll take time,	mp_0000c 0x15d0
+				it seems all we can do	
+				is break it with a hammer.	
+talk_Ursaminor
+0x17b9	0x98	Ursaminor		Though the world has become	
+				like this, I'm glad I met my	
+				sister.	
+0x181c	0x98	Ursaminor		...If she can make amends with	
+				my father, I'll be even happier.	
+talk_Ursaminor_and_Reticul
+0x188b	0x98	Ursaminor		Reticul, I'm glad you're safe...	
+0x18d0	0x98	Ursaminor		I was really worried about you...	
+0x1916	0x98	Reticul		Ursamina...	
+				Yeah, I'm really sorry.	
+0x195b	0x98	Reticul		I'll help out with restoration	
+				of the village, so there's	
+				no need for you to worry.	
+0x19cf	0x98	Ursaminor		...Did you make up	
+				with father?	
+0x1a12	0x98	Reticul		N-No...	
+				As you might expect, it's a little	
+				difficult to look him in the eye you know...	
+0x1a8a	0x98	Reticul		W-Well, sooner or later I will, OK?	
+talk_Sculp
+0x1c12	0x98	Sculp		Say Nayuta,	
+				There's something I want you to hear.	
+0x1c63	0x98	ALTO		Huh, me?	
+				What could it possibly be?	
+0x1ca5	0x98	Sculp		The truth is, recently I heard	
+				a story from Antoria, but...	
+0x1d00	0x98	Sculp		If I used more fertile "soil,"	
+				I'd definitely be able to	
+				raise vegetables better.	
+0x1d70	0x98	Sculp		Though using fertilizer is	
+				fairly popular on the continent.	
+0x1dcb	0x98	Sculp		However, I can't find very good	
+				soil on Remnant Island...	
+				Nayuta, do you have any idea about this?	
+0x1e4c	0x98	ALTO		Hmm, fertile soil, huh...?	
+				I'm afraid I don't have any idea.	
+0x1ea7	0x98	ALTO		Originally, the soil on Remnant Island	
+				everywhere is full of salt and hard...	
+0x1f13	0x98	Sculp		As I thought...	
+				If you say it, then it must be true.	
+0x1f67	0x98	Sculp		Ah, it seems I've asked the	
+				impossible of you.	
+				Sorry, forget it.	
+0x1fc6	0x98	Sculp		But if you get some good "soil"	
+				somewhere, it'll be a help if	
+				you give a little to me.	
+0x203b	0x98	Sculp		Won't you keep that in mind	
+				for me?	
+0x207e	0x98	ALTO		Yeah, got it.	mp_0000 0x7d86
+0x20ab	0x98	ALTO		(Fertile "soil," was it...?	
+				 If I find some, shall I	
+				 bring it to Sculp?)	
+0x2253	0x98	Sculp		Hmm...It seems like I'll	
+				need to remove that stone.	
+0x22a6	0x98	Sculp		I can't believe there exists a human	
+				who could move that by themselves.	
+0x230d	0x98	Axe		Next is the one that fell near	
+				your cow shed I guess...	
+0x2362	0x98	Axe		When I'm done with my rounds,	
+				I'll meet you there. We've got to	
+				do something soon.	
+0x240c	0x98	Sculp		Nayuta, I'm worried about the village.	
+				We will show you we can protect	
+				the place that you'll return to.	
+0x2492	0x98	Sculp		So be absolutely sure	
+				to return safely for us.	
+0x2516	0x98	Sculp		Monsters I haven't seen before	
+				are infesting this place.	
+				Though I told him to be careful...	
+0x2590	0x98	Sculp		Anyway, I'm glad Bootie's safe.	
+0x25d0	0x98	Sculp		However...It would be good if	
+				the kids didn't go outside for	
+				awhile.	
+0x265b	0x98	Sculp		Only monsters we can't make	
+				a dent in are coming out now.	
+0x26b4	0x98	Sculp		Though Orvus is making his rounds,	
+				the kids should stay inside.	
+0x2749	0x98	Sculp		Ah...What should I do.	
+				Of all things, this huge	
+				stone had to fall...	
+0x27ac	0x98	Sculp		Well at least Jessica's safe,	
+				and I can repair this shed	
+				anytime.	
+0x280c	0x98	Sculp		More importantly,	
+				I've got to think of the village.	
+0x28ab	0x98	Sculp		That's right, our vegetables haven't	
+				wilted due to this weather.	
+0x290b	0x98	Sculp		That might be because of the	
+				soil you brought me, Nayuta.	
+0x2964	0x98	Sculp		...Thank you, Nayuta!	
+0x29c2	0x98	Sculp		I'll repair the field and look after Jessica.	
+				...After that, I'll try to move the stone	
+				in the plaza with everyone.	
+0x2a54	0x98	Sculp		Man, I'll have to brace myself	
+				for being busy.	
+talk_Sculp_add
+0x2af2	0x98	Sculp		Hmm!? Hey, Nayuta...	mp_0000 0x974f
+				Isn't that pretty good "soil!?"	
+0x2b46	0x98	Sculp		It is dark, has a soft feel and has a fragrant	mp_0000 0x97a3
+				earthy scent... There's no mistake- It is	
+				of excellent quality.	
+0x2bd3	0x98	ALTO		Yeah, the truth is, I found it	mp_0000 0x9830
+				someplace...	
+0x2c1d	0x98	ALTO		That's right, if it's all right with you,	mp_0000 0x987a
+				can I give it to you?	
+0x2cab	0x98	Sculp		Oh, what a big help!	mp_0000 0x9907
+0x2ce0	0x98	Sculp		If I have this, I'll be able to	mp_0000 0x993c
+				quickly raise vegetables and	
+				have more free time than usual.	
+0x2d5b	0x98	Sculp		...By the way, Sasha of the general	mp_0000 0x99b7
+				store came to tell me she wants to	
+				stock my vegetables.	
+0x2dd5	0x98	Sculp		Because she said she wants to stock	mp_0000 0x9a31
+				my vegetables, I'm honored by the request	
+				and I thought I would respond to it somehow.	
+0x2e6e	0x98	Sculp		Anyhow, you helped me out, Nayuta.	mp_0000 0x9aca
+				Please use this well for me.	
+0x2ecd	0x98	ALTO		I'm glad you found it useful.	mp_0000 0x9b29
+0x2f0a	0x98	ALTO		If something happens again,	mp_0000 0x9b66
+				I won't hesitate to tell you.	
+0x2f62	0x98	Sculp		Yeah, you helped me out.	mp_0000 0x9bbe
+				I'll look forward to then, Nayuta.	
+0x2ff1	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
+				to the general store lineup.	
+0x3042	0x07	System	#4C	If you give "soil" to Sculp,	mp_0000 0x9c9e
+				the lineup of vegetables the general	
+				store is able to sell will be enhanced.	
+0x30ba	0x07	System	#4C	If you find "soil,"	mp_0000 0x9d16
+				proactively bring it here.	
+0x3150	0x98	Sculp		Hmm, Nayuta...	mp_0000 0x9dac
+				It looks like you again have	
+				some good soil.	
+0x31aa	0x98	Sculp		If it's all right with you, please give it here.	mp_0000 0x9e06
+				I've again got some things I want to try	
+				on the field.	
+0x3230	0x98	ALTO		Yeah, sure.	mp_0000 0x9e8c
+				If it is useful to you, Sculp.	
+0x32a9	0x98	Sculp		Yeah, this too is very fertile.	mp_0000 0x9f04
+0x32e9	0x98	Sculp		Alright...Time to go try it.	mp_0000 0x9f44
+0x3326	0x98	Sculp		I've got to quickly sell the vegetables	mp_0000 0x9f81
+				I'm able to grow now.	
+0x33b7	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
+				to the general store lineup.	
+0x3442	0x98	Sculp		Hmm, Nayuta...	mp_0000 0x9dac
+				It looks like you again have	
+				some good soil.	
+0x349c	0x98	Sculp		What's more, it's of unthinkably	mp_0000 0xa0f7
+				fine quality. ...Hmm, just where	
+				on Remnant Island did you get his...	
+0x3521	0x98	ALTO		Yeah, various things happened.	mp_0000 0xa17c
+0x355f	0x98	ALTO		Anyhow, I'm giving this to	mp_0000 0xa1ba
+				you, Sculp.	
+0x35d4	0x98	Sculp		Thank you as always.	mp_0000 0xa22e
+				You're a great help.	
+0x361d	0x98	Sculp		With just this good soil,	mp_0000 0xa277
+				there's no mistake I can produce	
+				even more vegetable varieties!	
+0x3695	0x98	Sculp		Haha, as a farmer, I'm happy to	mp_0000 0xa2ef
+				say that there's none better	
+				than this.	
+0x36fb	0x98	Sculp		I should be able to sell these raised	mp_0000 0xa355
+				vegetables to the general store. Nayuta,	
+				I'm glad you found this for me.	
+0x37bc	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
+				to the general store lineup.	
+talk_Sculp_addmes
+0x38f9	0xC1	System		handed over.	mp_0000 0xa553
+0x39f9	0xC1	System		handed over.	mp_0000 0xa553
+0x3af9	0xC1	System		handed over.	mp_0000 0xa553
+talk_Bootie
+0x3b83	0x98	Bootie		Hey Nayuta, what are you doing looking	
+				at me like that...	
+				There's no way I'll stay at home!	
+0x3bfe	0x98	Bootie		If I don't stand up at a time like this,	
+				I'm not a man.	
+0x3c56	0x98	Bootie		And so,	
+				Remnant Island patrol, start!	
+0x3c9c	0x98	Dorado		I said, stay at home!	
+0x3cfb	0x98	Bootie		...Even I have some strength.	
+0x3d3a	0x98	Bootie		Nayuta, leave everyone in	
+				this village to me!	
+talk_Aquela
+0x3db6	0x98	Aquela		My, you...	
+0x3de2	0x98	Aquela		Huhu, you have good eyes.	
+0x3e1d	0x98	Aquela		And in the turning of the stars,	
+				I can see you are one burdened	
+				with a great destiny.	
+0x3e92	0x6B	Aquela		Ellipsis	
+0x3ec6	0x98	ALTO		Y-You are?	
+0x3ef0	0x98	Aquela		Huhuhu...As an astrologer,	
+				you are of interest.	
+0x3f40	0x98	Aquela		That's right,	
+				please take this, boy.	
+0x3f85	0xC1	System		obtained.	mp_0000 0x7558
+0x4004	0x98	Aquela		I got very interesting	
+				suggestion from you...	
+				This is thanks for that.	
+0x40bc	0x6B	Aquela		Ellipsis	
+0x40f0	0x98	Aquela		...It is passed down that my	
+				clan made a great error in	
+				the distant past.	
+0x4159	0x98	Aquela		Because of that, disaster was	
+				invited, and the world was	
+				covered in oceans...	
+0x41c6	0x98	Aquela		Because of that my tribe has,	
+				for generations, secretly	
+				watching over this world.	
+0x4237	0x98	Aquela		Though a long time has passed and most of	
+				what was handed down has been lost,	
+				this is our duty as descendants of the criminals.	
+0x42d6	0x6B	ALTO		Surprise	
+0x4300	0x6B	NOI		Surprise	
+0x4331	0x98	ALTO		(T-Then...	
+				 Noi, could this person be...)	
+0x4379	0x98	NOI		(A descendant of the people	
+				 who caused the great war	
+				 of the past...?)	
+0x43dd	0x98	NOI		(I-It's not an impossible story...	
+				 Probably.)	
+0x4429	0x98	Aquela		As for the mission you two	
+				must complete, I am sure the	
+				ancestors are watching over you...	
+0x44a3	0x98	Aquela		Though I will not enquire as to	
+				the details, please do your best.	
+0x453f	0x98	Aquela		Huhu, this kind of story all of	
+				a sudden makes me surprised.	
+0x459c	0x98	Aquela		However, if I look at your face,	
+				I can see the story is truthful.	
+0x45fe	0x98	Aquela		Though I do not know the details	
+				of your mission... I feel it is connected	
+				with our dearest wish.	
+0x467f	0x98	Aquela		...Our wish to someday, be forgiven	
+				for that eternal crime.	
+0x4703	0x98	Aquela		Though I do not know the details	
+				of your mission...	
+				Please do your best.	
+0x476b	0x98	Aquela		Our ancestors, who regret their	
+				past crimes, are surely watching	
+				over you.	
+0x480b	0x98	Aquela		I can see...	
+				Inside of your heart, an	
+				illuminating fiber of intent.	
+0x486e	0x98	Aquela		Though it is thin and unreliable,	
+				it is an indispensable light called	
+				"hope," necessary for proceeding.	
+0x48f5	0x98	Aquela		Huhu, I wonder what kind of	
+				future it will lead you to...	
+				Once again, resolve yourself.	
+0x4994	0x98	Aquela		I can see...	
+				Inside of your hearts,	
+				the light called "hope"...	
+0x49f2	0x98	Aquela		Huhu, I wonder what kind of	mp_0000c 0x48f5
+				future it will lead you to...	
+				Once again, resolve yourself.	
+0x4a9f	0x98	Aquela		Rocks falling from heaven,	
+				and the angry climate of	
+				the Ciencia Sea...	
+0x4b05	0x98	Aquela		And, as for the mission	
+				for which I came to this	
+				village...	
+0x4b60	0x6B	Aquela		Ellipsis	
+0x4b94	0x6B	NOI		Surprise	
+0x4bc5	0x98	Aquela		...It's no good.	
+				I still can't see anything...	
+0x4c14	0x6B	NOI		Ellipsis	
+0x4c45	0x98	NOI		(This person...Though it's small	
+				 I can feel magic power from her...)	
+0x4ca8	0x98	ALTO		(Huh...!?	
+				 Then her fortunes must be...)	
+0x4cef	0x98	NOI		(Though I can't say if it's certain...	
+				 For now, I should be careful.)	
+0x4d8d	0x98	Aquela		Rocks falling from heaven,	mp_0000c 0x4a9f
+				and the angry climate of	
+				the Ciencia Sea...	
+0x4df3	0x98	Aquela		And, as for the mission	
+				for which I came to this village,	
+				I still cannot see it...	
+0x4e8d	0x98	Aquela		...Huhu, I wonder if there	
+				is something on my face.	
+talk_Hydol
+0x4f43	0x98	Lupus		Good timing, doctor.	
+				My old man is calling you.	
+0x4f92	0x98	Lupus		From now on, as part of your	
+				doctor's rounds, he wants	
+				you to listen to something.	
+0x5003	0x98	Hydol		I see... I too was thinking I	
+				have something to ask him.	
+0x505b	0x98	Hydol		I've already completed Lyra	
+				and Vel's exams.	
+				Alright, I'll head there now.	
+0x5124	0x98	Hydol		Though I examined Lyra and	
+				Vel just to make sure, they	
+				are not particularly injured.	
+0x5197	0x98	Hydol		That they are safe after meeting	
+				a monster that strong is thanks	
+				to you, Nayuta.	
+0x5206	0x98	Hydol		Please protect everyone with	
+				your strength from now on,	
+				you two.	
+0x528d	0x98	Hydol		This week, there has been a rapid	
+				increase in people attacked by	
+				monsters...	
+0x52f8	0x98	Hydol		As a doctor, I too must	
+				carry out my duties.	
+talk_Cow
+talk_Reticul
+0x53dc	0x98	Reticul		Ah, you awakened.	
+				You worried me.	
+0x541f	0x98	Reticul		In the end, we didn't have	
+				time to wait for you two...	
+0x5477	0x98	Reticul		I worried the whole time	
+				about you somehow coming back.	
+0x54d0	0x98	ALTO		I'm sorry...But,	
+				I'm glad you're safe too.	
+0x5519	0x98	Reticul		Hmm, as I thought,	
+				it looks like you're a little down.	
+0x5571	0x98	Reticul		Well, that happens sometimes.	
+				You should rest easy for awhile.	
+0x55f9	0x98	Reticul		I wonder if I can make up with father...	
+				Hmm, I've got to think about it, but...	
+0x566b	0x98	Reticul		For right now, I don't want	
+				to face him that much.	
+				He seems seriously mad.	
+talk_Axe
+0x5749	0x98	Axe		To move this stone	
+				I found on patrols...	
+0x578f	0x98	Axe		Though it's little by little,	
+				it should be a good method.	
+0x57e6	0x98	Axe		Heh, Remnant Island will be	
+				back to normal in no time.	
+0x5862	0x98	Axe		If we put our strength together,	
+				we should be able to overcome	
+				anything.	
+0x58c7	0x98	Axe		You've got to take back the missing	
+				Kureha and Cygna...	
+				And restore peace on Remnant Island.	
+talk_Pyxia
+0x5986	0x98	Pyxia		The people of this island	
+				are good people, somehow.	
+0x59d9	0x98	Pyxia		Even in a time like this, they are positive,	
+				and stand and face difficulties...	
+0x5a48	0x98	Pyxia		Somehow, I've finally decided	
+				what I want to paint.	
+0x5ac3	0x98	Pyxia		Somehow, I've finally decided	mp_0000c 0x5a48
+				what I want to paint.	
+0x5b16	0x98	Pyxia		We too must do our best	
+				and get through this situation!	
+0x5ba3	0x98	Pyxia		So this kind of thing has happened	
+				to that blue sky and ocean.	
+0x5c01	0x98	Pyxia		It has an aspect of that famous	
+				painter's painting, "The End Day,"	
+				but...	
+0x5c69	0x98	Pyxia		...I-It can't be.	
+0x5cc3	0x98	Pyxia		So this kind of thing has happened	
+				to that blue sky and ocean...	
+0x5d23	0x98	Pyxia		Somehow, it doesn't have	
+				the sense of reality...	
+				I feel like I can't believe it.	
+talk_Horolo
+0x5dda	0x98	Horolo		Somehow, you have an	
+				amazingly good face.	
+0x5e24	0x98	Horolo		The shape is full of determination	
+				and will...	
+				I think it's super cool～.	
+0x5e8d	0x98	Horolo		I don't understand the situation	
+				well, but...	
+				I'm rooting for you.	
+0x5f17	0x98	Horolo		Somehow, you have an	mp_0000c 0x5dda
+				amazingly good face.	
+0x5f61	0x98	Horolo		I don't understand the situation	mp_0000c 0x5e8d
+				well, but...	
+				I'm rooting for you.	
+0x5ff9	0x98	Horolo		Somehow, it seems	
+				unthinkable things have	
+				happened to the world.	
+0x6059	0x98	Horolo		At this rate, I wonder	
+				if the art contest this	
+				year will be canceled.	
+0x60be	0x98	Horolo		Even though I came to Remnant	
+				Island and got a good inspiration.	
+				I'm dejected～...	
+0x6158	0x98	Horolo		If the world is like this, I wonder if the	
+				art contest this year will be canceled.	
+0x61cb	0x98	Horolo		Even though I came to Remnant Island	
+				and got a good inspiration.	
+				I'm dejected～...	
+SB_6_S08_appear_ALTO
+0x6275	0x6B	ALTO		Ellipsis	
+SB_6_S08_appear_NOI
+SB_6_S08_move_ALTO
+SB_6_S08_move_NOI
+SB_6_S08_appear_Bootie
+SB_6_S08_exit_ALTO
+SB_6_S08_exit_NOI
+SB_6_S08_turn_Bootie
+EV_6_S08_call_help
+0x65d5	0x06	ALTO		ANI_WAIT	
+0x68b1	0x06	ALTO		ANI_GESTURE2	
+0x68db	0x98	ALTO		Everyone from the village...	
+				They were doing better	
+				than I expected.	
+0x695b	0x98	ALTO		Even though they are each	
+				worried about many things,	
+				they are positive and doing their best.	
+0x69dd	0x06	NOI		ANI_NOD	
+0x6a01	0x98	NOI	#6A	Yeah, even I feel at least	
+				a little better	
+				after seeing everyone.	
+0x6a6a	0x06	ALTO		ANI_THINK	
+0x6a91	0x98	ALTO		So everyone is doing	
+				what they can...	
+0x6add	0x98	ALTO		(...But, now that the gate is broken,	
+				 there's nothing we can do...)	
+0x6b50	0x3F	Name		Child's Voice	
+0x6b65	0x98	Bootie	#16S	...Hey, Nayuta～!	
+0x6bac	0x06	ALTO		ANI_WAIT	
+0x6bd2	0x6B	ALTO		Surprise	
+0x6c1c	0x6B	NOI		Surprise	
+0x6eaa	0x06	Bootie		ANI_GESTURE2	
+0x6ed6	0x98	Bootie	#6A	*huff, puff*...	
+				Perfect timing.	
+				Noi's here too, huh...	
+0x6f2f	0x06	ALTO		ANI_WAIT4	
+0x6f56	0x98	ALTO		What's wrong, Bootie?	
+				You're in such a rush...	
+0x6fe1	0x06	Bootie		ANI_GESTURE1	
+0x700d	0x98	Bootie	#6A	W-We've got a big problem...	
+				A monster appeared on the cape!	
+0x7089	0x06	ALTO		ANI_WAIT	
+0x70af	0x6B	ALTO		Exclamation	
+0x70e1	0x6B	NOI		Exclamation	
+0x7112	0x06	NOI		ANI_SURPRISE	
+0x713b	0x98	NOI		A monster!?	
+0x7165	0x06	Bootie		ANI_DENY	
+0x718d	0x98	Bootie	#6A	It's totally different from	
+				the weak monsters that have	
+				come out up until now!	
+0x7226	0x98	Bootie	#6A	Brother Dorado let me	
+				escape somehow, but...	
+0x7296	0x06	Bootie		ANI_COMPLAIN	
+0x72c2	0x98	Bootie	#6A	It's Vel...	
+				Vel failed to escape!	
+0x734d	0x98	NOI		Nayuta!	
+0x73ab	0x06	ALTO		ANI_NOD	
+0x73d0	0x98	ALTO	#6A	Let's go...Vel's in trouble!	

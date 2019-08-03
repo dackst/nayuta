@@ -1,0 +1,17 @@
+mp_3001a
+init
+ev_timer
+ev_goal
+close_door1_2
+0x416	0x6B	ALTO		Exclamation	
+dead_EV01
+open_door1_2
+battle_skill
+0x8d6	0x06	mahouzin2		ANI_STOP2	
+0x918	0x6B	ALTO		Exclamation	
+dead_skill
+open_door03
+0xe43	0x07	System	#3C	Defeated high-rank monster [Dizoldyne]!	
+0xf02	0x06	NOI		ANI_TAMEATK1	
+0xf65	0x07	System	#1C	Noi recovered the spring magic #4C『#772ILuna Butterfly』#1C!	
+0xff5	0xC1	System		obtained.	mp_0000 0x7558

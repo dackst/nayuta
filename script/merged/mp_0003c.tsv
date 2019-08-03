@@ -1,0 +1,247 @@
+mp_0003c
+init
+talk_Puppis
+0x4a9	0x98	Puppis		Everywhere on the Ciencia Sea,	
+				there are stories about animals	
+				somewhere starting to escape.	
+0x525	0x98	Puppis		...It may be possible that the "Great Flood"	
+				spoke of in legends is happening.	
+0x594	0x98	Puppis		Us, without wings or gills,	
+				even so, have to stick to	
+				land and live.	
+0x620	0x98	Puppis		According to legend, the	
+				surface was once destroyed	
+				by a "Great Flood."	
+0x687	0x98	Puppis		Us, without wings or gills,	mp_0003c 0x594
+				even so, have to stick to	
+				land and live.	
+0x721	0x98	Puppis		Even if you fell	
+				from that broken moon,	
+				you'd be fine.	
+0x777	0x98	Puppis		Just how high is it?	
+				I can't think that if a living	
+				thing fell it would be fine.	
+0x7e7	0x98	Puppis		Maybe some kind	
+				of god is protecting	
+				you.	
+0x858	0x98	Puppis		Maybe some kind	mp_0003c 0x7e7
+				of god is protecting	
+				you.	
+0x8a1	0x98	Puppis		A god that is	
+				still our ally.	
+0x915	0x98	Puppis		Hey boy.	
+				...You seem down.	
+0x950	0x98	ALTO		Ahaha...	
+				D-Does it look that way?	
+0x990	0x98	NOI		C-Captain.	
+				It's been awhile.	
+0x9ca	0x98	Puppis		Oh, the fairy's with you.	
+				There's a strange toughness	
+				about you two...	
+0xa30	0x98	Puppis		Hmph, well whatever.	
+				I'm not that kind of guy.	
+0xa7f	0x6B	ALTO		Surprise	
+0xab1	0x98	ALTO		"I'm not that kind of guy."	
+				...What does that mean?	
+0xb03	0x98	Puppis		Well the rumor is...War finally	
+				broke out on the north continent.	
+0xb65	0x98	Puppis		The uneasiness over this	
+				abnormal weather will	
+				magnify the chaos.	
+0xbc6	0x98	Puppis		The flight of the nobles at Saint	
+				Cerize is in chaos too...	
+				This island is more peaceful.	
+0xc3f	0x98	ALTO		I-Is that so...	
+				Something like a war	
+				at a time like this...	
+0xc98	0x98	NOI		As expected, humans are foolish.	
+				I cannot understand it...	
+0xcf0	0x6B	ALTO		Ellipsis	
+0xd1a	0x6B	NOI		Ellipsis	
+0xd4b	0x6B	Puppis		Sweatdrop	
+0xd7f	0x98	Puppis		...You're making me depressed.	
+0xdbf	0x98	Puppis		Forget this chat.	
+				I'm not worried about the kids.	
+0xe11	0x98	Puppis		The adults focused on our defense	
+				are in a bit of a panic.	
+0xe94	0x98	Puppis		The war is because of the neighboring	
+				countries, the broken moon, and the	
+				abnormal weather.	
+0xf0f	0x98	Puppis		There's no way people could cause	
+				a global scale disaster like this.	
+				Good grief, cool your head.	
+talk_Crux
+0xfd7	0x98	Crux		The truth is, it's already time to set sail, but,	
+				due to the storms offshore, we can't	
+				set sail.	
+0x1055	0x6B	Crux		Ellipsis	
+0x1087	0x98	Crux		...Somehow, this is really bad, right?	
+0x10cd	0x98	Crux		If it continues like this, the storm will	
+				get steadily worse and come this	
+				way, and...!	
+0x1142	0x6B	Crux		Sweatdrop	
+0x1174	0x98	Crux		I-I might be overthinking things.	
+				Hahaha...	
+0x11e6	0x98	Crux		Even in a time like this,	
+				the people of Remnant Island	
+				won't panic...	
+0x1249	0x98	Crux		Ooh, I've got to follow	
+				their example a little more.	
+0x12d2	0x98	Crux		That reminds me, even on Saint Cerize,	
+				a huge monster appeared and is	
+				causing a panic.	
+0x1346	0x98	Crux		It took the full power of the	
+				vigilante corps to finish it	
+				off...	
+0x13a5	0x98	Crux		Everywhere you look there's stories like that.	
+0x141b	0x98	Crux		Though the Captain's strong,	
+				he hasn't lifted a weapon	
+				or an oar...	
+0x147c	0x98	Crux		...In a situation like this,	
+				it wonder how long it will continue.	
+0x1512	0x98	Crux		Because of the abnormal weather,	
+				the coastal currents have become	
+				violent.	
+0x157a	0x98	Crux		Sailing too has become difficult,	
+				and it'll take twice as much time	
+				as normal.	
+0x15e6	0x98	Crux		...Well even so, the Captain	
+				absolutely won't stop his ship.	
+0x1669	0x98	Crux		So that this small island won't	
+				be isolated, we'll brace	
+				ourselves and launch the ship...	
+0x16e0	0x98	Crux		Well, that's second hand	
+				info from the Captain.	
+talk_Axe
+0x17aa	0x98	Axe		Nayuta...	
+				That's remarkable.	
+0x17e4	0x98	Axe		You guys washed up on shore	
+				a little while after the	
+				abnormalities started.	
+0x184c	0x98	ALTO		Is that so...	mp_0001 0xcecd
+0x1879	0x98	Axe		Though the open sea has become	
+				stormy, I'm getting along.	
+0x18d0	0x98	Axe		I've got to thank the gods.	
+0x190a	0x98	NOI		(Master Kureha...	
+				 She cast a spell on us	
+				 so we would reach Remnant Island.)	
+0x1974	0x98	ALTO		(Why in the world would she do	
+				 something like that...?)	
+0x19cb	0x98	ALTO		(...Kureha...)	
+0x1a33	0x98	Axe		Though I'm glad you guys	
+				are safe...	
+0x1a75	0x98	Axe		The conditions around here	
+				aren't safe to fish in.	
+0x1ac5	0x98	Axe		Though it's not the case that I can't get any,	
+				there's not many of them and I can't catch	
+				as much as I usually do.	
+0x1b54	0x98	Axe		Sometimes I catch fish from the deep	
+				sea I haven't seen before...	
+				I wonder just what's happening.	
+0x1bfa	0x98	Axe		This strange weather can't be	
+				good for fish health.	
+0x1c4b	0x98	Axe		It's like all the fish somehow moved.	
+				I wonder just what's happening.	
+talk_Carina
+0x1cde	0x98	Carina		Nayuta...	
+				Now that you've woken up,	
+				you're all right.	
+0x1d33	0x98	Carina		I was really worried about you.	
+0x1d74	0x98	ALTO		Haha...I'm sorry.	
+0x1da5	0x98	baby		Abu, abu...	
+0x1dd0	0x98	NOI		Wawa...	
+				You're not allowed to grab my hair!	
+0x1e19	0x98	Carina		Huhu, it seems	
+				Collie likes you,	
+				Noi.	
+0x1e5e	0x98	Carina		...Anyway, you two.	
+				Get your bodies plenty of rest.	
+0x1eb2	0x98	ALTO		...Yes.	mp_0002 0x90fc
+0x1f01	0x98	baby		Abu, abu...	mp_0003c 0x1da5
+0x1f2c	0x98	Carina		Huhu, it seems Collie likes you, Noi.	
+0x1f73	0x98	Carina		...Anyway, you two.	mp_0003c 0x1e5e
+				Get your bodies plenty of rest.	
+talk_Bell
+0x1ff5	0x98	Bell		Because the fish have declined,	
+				father goes out every day and	
+				night to fish...	
+0x2061	0x98	Bell		He works even more than	
+				before, and can't be with me, but...	
+0x20bc	0x6B	Bell		Ellipsis	
+0x20ee	0x98	Bell		...Vel is fine!	
+				Because Vel is helping father.	
+0x213b	0x98	Bell		Because when Vel grows up...Vel will	
+				be a fisherman like father!	
+0x21c2	0x98	Bell		Vel will help father someday.	
+0x21ff	0x98	Bell		Because when Vel grows up...Vel will	mp_0003c 0x213b
+				be a fisherman like father!	
+talk_Vavo
+0x22a4	0x98	Vavo		The phenomenon of rubble falling	
+				like this should have ended, but...	
+				With this, I do not think everything is over.	
+0x2334	0x98	Vavo		As for the events that will happen after this...	
+				As for predicting them, an examination	
+				of the rubble may prove effective.	
+0x23cc	0x98	Vavo		Especially at a time like this, it's	
+				scholarship's time to shine. I will	
+				do my very best.	
+0x246b	0x98	Vavo		Precisely because of this unexplainable situation,	
+				scholarship should be able to relieve some of	
+				the anxiety.	
+0x24f6	0x98	Vavo		Nayuta, thank you for your	
+				support, as always.	
+0x2579	0x98	Vavo		Hmm, that rubble has not hit	
+				the museum is a silver lining.	
+0x25d3	0x98	Vavo		However, from a research angle,	
+				this is very intriguing...	
+				If I investigate this thoroughly...	
+0x264f	0x98	Vavo		...Whoops, that was indiscrete.	
+				Sorry, it slipped out...	
+0x26ce	0x98	Vavo		Mysterious ruins like these are not	
+				only in the Ciencia Sea, but continue	
+				to rain down throughout the world.	
+0x2758	0x98	Vavo		There's heavy damage everywhere...	
+				To be delighted at them is	
+				an indiscretion.	
+talk_Camelope
+0x280c	0x98	Camelope		I talked at length with Sasha, and she	
+				decided to return once to the head	
+				family.	
+0x287f	0x98	Camelope		The company and trade of my	
+				Camelope family is already famous...	
+				We have plenty of reserve supplies.	
+0x2905	0x98	Camelope		...I think I will return immediately	
+				and release the stores.	
+0x298c	0x98	Camelope		Though Sasha is concerned about her place...	
+				On the contrary, I as family head must	
+				convince her.	
+0x2a0f	0x98	Camelope		Huhu, that girl has grown.	
+0x2a69	0x98	Camelope		...Now, I think I will go and see	
+				how she's doing.	
+0x2abe	0x98	Camelope		I hope she is well, but...	
+talk_Norma
+0x2b42	0x98	Norma		The hardness of will of the lady of the	
+				house is famous among the relatives.	
+0x2bae	0x98	Norma		Something like persuading her...	
+				Ooh, milady has become a fine woman.	
+0x2c13	0x98	Camelope		...Norma, I wonder what you are saying.	
+0x2ca2	0x98	Norma		Huh!?	
+				I-It was nothing!	
+0x2d01	0x98	Norma		A-Anyhow, I will return	
+				to the residence for now.	
+0x2d52	0x98	Norma		Nayuta, you are heading off	
+				to stop these abnormalities...	
+				Please, take care of yourself.	
+0x2e00	0x98	Norma		The mansion on the continent	
+				is severely damaged, and I will	
+				return to my parents home for now.	
+0x2e7e	0x98	Norma		However, the lady of the house said	
+				she was going to see how milady	
+				was doing no matter what.	
+0x2efa	0x98	Norma		Huhu, at a time like this,	
+				she brought me too.	
+0x2f70	0x98	Norma		Even so, in a situation like this,	
+				I can't imagine the ferryboats	
+				moving.	
+0x2fd8	0x98	Norma		As for the continent, it is	
+				truly in chaos...	

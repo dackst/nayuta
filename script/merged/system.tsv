@@ -1,0 +1,316 @@
+system
+gameover
+return_point
+0x22c	0x6B	NOI		Unknown	
+0x292	0x06	NOI		MOT_PANIC	
+0x2d2	0x06	ALTO		ANI_KNOCKDOWN2	
+0x2fe	0x06	NOI		ANI_PANIC	
+goal_stage
+0x583	0x07	System	#4C	You have conquered the fourth season 	
+				of Forest Continent <Oltapia>.	
+0x5d5	0x07	System	#4C	As a special favor, an additional function	
+				has been added to the Astrolabe.	
+0x6d8	0x07	System	#4C	You have conquered the fourth season 	
+				of Abyss Continent <Rieseweld>.	
+0x72b	0x07	System	#4C	As a special favor, an additional function	system 0x5d5
+				has been added to the Astrolabe.	
+0x82e	0x07	System	#4C	You have conquered the fourth season 	
+				of Sacred Mountain Continent <Heimmel>.	
+0x889	0x07	System	#4C	As a special favor, an additional function	system 0x5d5
+				has been added to the Astrolabe.	
+0x98c	0x07	System	#4C	You have conquered the fourth season 	
+				of Origin Continent <La Worg>.	
+0x9de	0x07	System	#4C	As a special favor, an additional function	system 0x5d5
+				has been added to the Astrolabe.	
+jamp_dai01
+jamp_dai_half
+fsw_crystal
+MoveTo
+tuto_arts_change
+0x17d8	0x07	System	#4C	Noi has become able	
+				to equip several arts.	
+0x1810	0x07	System	#4C	You can change between them quickly	
+				in battle by pressing the L button.	
+training_Aulbath
+0x188f	0x98	Aulbath		There is nothing more	
+				I can teach you.	
+0x18d7	0x98	Aulbath		If it is the you that exists now,	
+				you will be able to oppose	
+				any difficulty.	
+0x1944	0x98	Aulbath		You need not hesitate, no matter the	
+				obstacle. Push on, following the path	
+				that you believe in.	
+0x1a8c	0x98	Aulbath		Hmm, I can see that you have	
+				tested yourself.	
+0x26b3	0x06	Aulbath		ANI_WAIT0	
+0x26dd	0x98	Aulbath		Now then...	
+				I shall grant you this equipment.	
+0x272c	0x98	Aulbath		Please wait a moment.	
+0x2863	0x06	Aulbath		ANI_HANDOVER	
+0x28b8	0xC1	System		obtained.	mp_0000 0x7558
+0x2925	0xC1	System		obtained.	mp_0000 0x7558
+0x2992	0xC1	System		obtained.	mp_0000 0x7558
+0x29ff	0xC1	System		obtained.	mp_0000 0x7558
+0x2a6c	0xC1	System		obtained.	mp_0000 0x7558
+0x2acf	0x06	Aulbath		ANI_GESTURE2	
+0x2b1c	0x98	Aulbath		I used it when I was young.	
+0x2b5a	0x98	Aulbath		I'm sure it will be useful to you.	
+0x2bb5	0x98	Aulbath		This was handed down in a certain	
+				region, and it is said that it has	
+				the power of exorcism.	
+0x2c31	0x98	Aulbath		I'm sure it will be useful to you.	system 0x2b5a
+0x2c8c	0x98	Aulbath		I obtained it when I was young,	
+				a magic sword, so to speak.	
+0x2ce9	0x98	Aulbath		Though handling it is difficult,	
+				I'm sure it will be useful to you.	
+0x2d64	0x98	Aulbath		This is battle gear that I received	
+				from a certain character while	
+				travelling in the East.	
+0x2ddf	0x98	Aulbath		Though handling it is difficult,	system 0x2ce9
+				I'm sure it will be useful to you.	
+0x2e5a	0x98	Aulbath		I obtained it while travelling	
+				in an unexplored region.	
+0x2eb3	0x98	Aulbath		This sword is still burdened with	
+				a great destiny...	
+				You may be able to master it.	
+0x2f30	0x06	ALTO		ANI_OJIGI	
+0x2f57	0x98	ALTO	#6A	I'll use it thankfully!	mp_4099 0x728c
+0x2f9b	0x06	Aulbath		ANI_WAIT0	
+0x2fc5	0x98	Aulbath		Hmm, with this, I think I will	
+				give you that equipment...	
+0x3020	0x98	Aulbath		So you have received	
+				something like that before.	
+				Then, I will give you this.	
+0x308d	0x06	Aulbath		ANI_HANDOVER	
+0x30c2	0x40	UNDEF		Accepted some shining stones.	
+0x3108	0xC1	System		obtained.	mp_0000 0x7558
+0x3189	0x06	Aulbath		ANI_GESTURE2	
+0x31b6	0x98	Aulbath		Do not tire, and endeavor	
+				train yourself.	
+0x3201	0x98	ALTO	#6A	Yes!	mp_0001 0xfd91
+0x3252	0x06	Aulbath		ANI_WAIT2	
+0x329c	0x98	Aulbath		Now then...	
+				I shall grant you a new skill.	
+0x330a	0x98	Aulbath		Now then...	
+				This time, I will instruct you in the	
+				use of one of the secret techniques.	
+0x338b	0x98	Aulbath		Now then...	
+				I've prepared a new training for you.	
+0x33e0	0x98	Aulbath		I will begin right away.	
+				...Are you ready?	
+0x342c	0x06	ALTO		ANI_NOD	
+0x3451	0x98	ALTO	#6A	Yes...	
+				Thank you for training me!	
+0x3504	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_2	
+0x3557	0x06	Aulbath		ANI_WAIT3	
+0x36d2	0xC1	System		#3CLearned technique 『Spinning Cut』!	mp_0002 0xb046
+0x37a8	0xC1	System		#3CLearned technique 『Down Thrust』!	mp_0002 0xb13a
+0x387d	0xC1	System		#3C『Mastery: One-Handed Swords ①』 learned!	mp_0002 0xb22d
+0x395a	0xC1	System		#3CLearned 『Guard』!	mp_0002 0xb328
+0x3a1f	0xC1	System		#3CLearned 『Air Evasion』!	mp_0002 0xb40b
+0x3aea	0xC1	System		#3CLearned secret technique 『Meteor Attack』!	mp_0002 0xb4f4
+0x3bee	0xC1	System		#3CLearned technique 『Kamaitachi』!	mp_0002 0xb71c
+0x3cc2	0xC1	System		#3C『CHAIN』 has been strengthened!	mp_0002 0xb80e
+0x3dbb	0xC1	System		#3C『Magic Charge』 has been strengthened!	mp_0002 0xb8ff
+0x3e95	0xC1	System		#3C『Mastery: Two-Handed Swords ①』 learned!	mp_0002 0xbb23
+0x3f72	0xC1	System		#3CLearned secret technique 『Vacuum Blade』!	mp_0002 0xbc1e
+0x4075	0xC1	System		#3C『Mastery: One-Handed Swords ②』 learned!	mp_0002 0xbd19
+0x4178	0xC1	System		#3C『CHAIN Bonus』 has been strengthened!	mp_0002 0xbf40
+0x4277	0xC1	System		#3CLearned technique 『Swallow Return』!	mp_0002 0xc037
+0x434f	0xC1	System		#3C『Evasion』 fully mastered!	mp_0002 0xc259
+0x4443	0xC1	System		#3C『Mastery: Two-Handed Swords ②』 learned!	mp_0002 0xc345
+0x4546	0xC1	System		#3CLearned secret technique 『Whirlwind』!	mp_0002 0xc440
+0x4646	0xC1	System		#3CLearned 『Counter』!	mp_0002 0xc538
+0x4733	0xC1	System		#3C『Mastery: One-Handed Swords ③』 learned!	mp_0002 0xc61d
+0x4836	0xC1	System		#3C『Magic Charge』 has been strengthened further!	mp_0002 0xc718
+0x493e	0xC1	System		#3C『CHAIN』 has been strengthened further!	mp_0002 0xc818
+0x4a3f	0xC1	System		#3C『Guard』 fully mastered!	mp_0002 0xc911
+0x4b31	0xC1	System		#3C『Consecutive Evasion』 learned!	mp_0002 0xc9fb
+0x4c2a	0xC1	System		#3C『Mastery: Two-Handed Swords ③』 learned!	mp_0002 0xcaec
+0x4d2d	0xC1	System		#3CLearned secret technique 『Fallen Lotus』!	mp_0002 0xcbe7
+0x561a	0x98	ALTO		*pant, pant*...	mp_7098 0x6680
+				I-I did it...	
+0x5656	0x98	Aulbath		Huhu, somehow, it seems	
+				you have made it your own.	
+0x56aa	0x98	Aulbath		By all means, please apply	
+				that skill effectively in your	
+				battles for me.	
+0x5736	0x98	ALTO		*pant, pant*...	
+				...Master, I did it!!	
+0x577a	0x98	Aulbath		Huhu, somehow, it seems	system 0x5656
+				you have made it your own.	
+0x57ce	0x98	Aulbath		Later, you should polish	
+				up that secret technique	
+				with your own hands.	
+0x583f	0x98	ALTO		*pant, pant*...	mp_7099c 0x4f96
+0x586e	0x98	Aulbath		Hmm, this is about it.	
+0x58a7	0x98	Aulbath		Accumulate training and open up	
+				a new state of mind. Hereafter, do	
+				not abandon your concentration.	
+0x5971	0x06	ALTO		ANI_NOUTOU	
+0x59de	0x06	ALTO		ANI_OJIGI	
+0x5a05	0x98	ALTO	#6A	Thank you, Master!	
+0x5b81	0x06	Aulbath		ANI_WAIT3	
+0x5bab	0x6B	Aulbath		Ellipsis	
+0x5be0	0x98	Aulbath		...There is nothing more	
+				I can teach to you.	
+0x5c2e	0x98	Aulbath		To have come this far	
+				at your age...	
+0x5c74	0x06	Aulbath		ANI_NOD	
+0x5c9c	0x98	Aulbath		Huhu, as expected, it seems	
+				my eyes do not deceive me.	
+0x5cf4	0x06	ALTO		ANI_GESTURE1	
+0x5d1e	0x98	ALTO		Master...	mp_0002 0x16e8
+0x5d47	0x06	Aulbath		ANI_GESTURE1	
+0x5d74	0x98	Aulbath		If it is the you that exists now,	system 0x18d7
+				you will be able to oppose	
+				any difficulty.	
+0x5de1	0x06	Aulbath		ANI_NOD	
+0x5e09	0x98	Aulbath		You need not hesitate, no matter the	system 0x1944
+				obstacle. Push on, following the path	
+				that you believe in.	
+0x5e89	0x06	ALTO		ANI_THANKS	
+0x5eb1	0x98	ALTO		Yes!	
+				Thank you very much!	
+0x5f89	0x07	System	#4C	You can reference the acquired skill under "manual"	
+				in the menu. If you speak with Master and select "hear	
+				tactics instruction," you can hear more detailed info.	
+0x6093	0x98	Aulbath		It seems you have accumulated	
+				seals in your training book.	
+0x6117	0x98	Aulbath		...Yes, if you accumulate six more trainings,	
+				you may be able to receive something.	
+				When you have trained, come show me again.	
+0x61cc	0x98	Aulbath		...Yes, if you accumulate five more trainings,	
+				you may be able to receive something.	
+				When you have trained, come show me again.	
+0x6282	0x98	Aulbath		...Yes, if you accumulate four more trainings,	
+				you may be able to receive something.	
+				When you have trained, come show me again.	
+0x6338	0x98	Aulbath		...Yes, if you accumulate three more trainings,	
+				you may be able to receive something.	
+				When you have trained, come show me again.	
+0x63ef	0x98	Aulbath		...Yes, if you accumulate two more trainings,	
+				you may be able to receive something.	
+				When you have trained, come show me again.	
+0x64a4	0x98	Aulbath		...Yes, if you accumulate one more training,	
+				you may be able to receive something.	
+				When you have trained, come show me again.	
+0x659c	0x98	Aulbath		...Yes, if you accumulate six more trainings,	
+				you may be able to receive something.	
+0x6627	0x98	Aulbath		...Yes, if you accumulate five more trainings,	
+				you may be able to receive something.	
+0x66b3	0x98	Aulbath		...Yes, if you accumulate four more trainings,	
+				you may be able to receive something.	
+0x673f	0x98	Aulbath		...Yes, if you accumulate three more trainings,	
+				you may be able to receive something.	
+0x67cc	0x98	Aulbath		...Yes, if you accumulate two more trainings,	
+				you may be able to receive something.	
+0x6857	0x98	Aulbath		...Yes, if you accumulate one more trainings,	
+				you may be able to receive something.	
+0x68d6	0x98	Aulbath		Nayuta, come again once you have trained.	
+				I look forward to that time.	
+collectget_dog
+0x6aca	0x98	Dog		*whimper*...	
+0x6af5	0x98	Dog		Ruff, ruff!	mp_0004 0x7911
+0x6b1f	0x98	ALTO		Hmm? It seems like	
+				it wants something, but...	
+0x6b6b	0x98	ALTO		Come to think of it, I've got	
+				something Nora will love,	
+				don't I?	
+0x6bc9	0x98	ALTO		Alright, since it's a rare chance,	
+				I'll give you this, Nora.	
+0x6d04	0xC1	System		given to Nora.	
+0x6e4c	0xC1	System		given to Nora.	system 0x6d04
+0x6fb2	0xC1	System		given to Nora.	system 0x6d04
+0x70fa	0xC1	System		given to Nora.	system 0x6d04
+0x7186	0x98	Dog		Ruff, ruffruff♪	
+0x721a	0x98	ALTO		You're giving me these?	
+				Ahaha, thanks.	
+0x725f	0x98	ALTO		Thank goodness	
+				she seems happy.	
+				Let's play again sometime.	
+0x72c1	0x98	ALTO		Ahaha, thanks.	mp_0117 0x1bd6
+0x72ef	0x98	ALTO		Hmm, even so, Nora	
+				brings me various things...	
+0x733c	0x98	ALTO		The truth is, she might be	
+				even more of a collection	
+				expert than I am.	
+0x73a0	0x98	Dog		...*whimper*?	
+0x73cc	0x98	ALTO		Haha, nevermind.	
+				Let's take care of	
+				each other, alright?	
+0x7422	0x98	Dog		Ruff!	
+dog_reward
+0x74f2	0xC1	System		obtained.	mp_0000 0x7558
+0x757d	0xC1	System		obtained.	mp_0000 0x7558
+0x7608	0xC1	System		obtained.	mp_0000 0x7558
+0x7693	0xC1	System		obtained.	mp_0000 0x7558
+0x771e	0xC1	System		obtained.	mp_0000 0x7558
+0x77a9	0xC1	System		obtained.	mp_0000 0x7558
+0x7834	0xC1	System		obtained.	mp_0000 0x7558
+0x78bf	0xC1	System		obtained.	mp_0000 0x7558
+0x794a	0xC1	System		obtained.	mp_0000 0x7558
+0x79d5	0xC1	System		obtained.	mp_0000 0x7558
+0x7a60	0xC1	System		obtained.	mp_0000 0x7558
+0x7b2b	0xC1	System		obtained.	mp_0000 0x7558
+0x7bb6	0xC1	System		obtained.	mp_0000 0x7558
+0x7c41	0xC1	System		obtained.	mp_0000 0x7558
+0x7ccc	0xC1	System		obtained.	mp_0000 0x7558
+0x7d57	0xC1	System		obtained.	mp_0000 0x7558
+0x7de2	0xC1	System		obtained.	mp_0000 0x7558
+0x7e6d	0xC1	System		obtained.	mp_0000 0x7558
+0x7ef8	0xC1	System		obtained.	mp_0000 0x7558
+0x7f83	0xC1	System		obtained.	mp_0000 0x7558
+0x800e	0xC1	System		obtained.	mp_0000 0x7558
+0x8099	0xC1	System		obtained.	mp_0000 0x7558
+0x8124	0xC1	System		obtained.	mp_0000 0x7558
+0x81f1	0xC1	System		obtained.	mp_0000 0x7558
+0x827c	0xC1	System		obtained.	mp_0000 0x7558
+0x8307	0xC1	System		obtained.	mp_0000 0x7558
+0x8392	0xC1	System		obtained.	mp_0000 0x7558
+0x841d	0xC1	System		obtained.	mp_0000 0x7558
+0x84a8	0xC1	System		obtained.	mp_0000 0x7558
+0x8533	0xC1	System		obtained.	mp_0000 0x7558
+0x85be	0xC1	System		obtained.	mp_0000 0x7558
+0x8649	0xC1	System		obtained.	mp_0000 0x7558
+0x86d4	0xC1	System		obtained.	mp_0000 0x7558
+0x875f	0xC1	System		obtained.	mp_0000 0x7558
+0x882c	0xC1	System		obtained.	mp_0000 0x7558
+0x88b7	0xC1	System		obtained.	mp_0000 0x7558
+0x8942	0xC1	System		obtained.	mp_0000 0x7558
+0x89cd	0xC1	System		obtained.	mp_0000 0x7558
+0x8a58	0xC1	System		obtained.	mp_0000 0x7558
+0x8ae3	0xC1	System		obtained.	mp_0000 0x7558
+0x8b6e	0xC1	System		obtained.	mp_0000 0x7558
+0x8bf9	0xC1	System		obtained.	mp_0000 0x7558
+0x8c84	0xC1	System		obtained.	mp_0000 0x7558
+0x8d0f	0xC1	System		obtained.	mp_0000 0x7558
+0x8d9a	0xC1	System		obtained.	mp_0000 0x7558
+0x8e25	0xC1	System		obtained.	mp_0000 0x7558
+0x8ef2	0xC1	System		obtained.	mp_0000 0x7558
+0x8f7d	0xC1	System		obtained.	mp_0000 0x7558
+0x9008	0xC1	System		obtained.	mp_0000 0x7558
+0x9093	0xC1	System		obtained.	mp_0000 0x7558
+0x911e	0xC1	System		obtained.	mp_0000 0x7558
+0x91a9	0xC1	System		obtained.	mp_0000 0x7558
+0x9234	0xC1	System		obtained.	mp_0000 0x7558
+0x92bf	0xC1	System		obtained.	mp_0000 0x7558
+0x934a	0xC1	System		obtained.	mp_0000 0x7558
+0x93d5	0xC1	System		obtained.	mp_0000 0x7558
+0x9460	0xC1	System		obtained.	mp_0000 0x7558
+0x94eb	0xC1	System		obtained.	mp_0000 0x7558
+0x9576	0xC1	System		obtained.	mp_0000 0x7558
+0x9601	0xC1	System		obtained.	mp_0000 0x7558
+0x968c	0xC1	System		obtained.	mp_0000 0x7558
+0x9717	0xC1	System		obtained.	mp_0000 0x7558
+0x97a2	0xC1	System		obtained.	mp_0000 0x7558
+0x982d	0xC1	System		obtained.	mp_0000 0x7558
+Michy_common
+0x98c0	0x3F	Name		Mysterious Life Form	
+0x9902	0x98	Michy		Mishishi♪	mp_0112 0x15a92
+0x9971	0x6B	ALTO		Sweatdrop	
+0x99c3	0x98	ALTO		W-What is the world is this...	
+0x9a01	0x98	ALTO		(I haven't seen a life-form like	
+				 this before. I wonder where	
+				 it came from.)	
+0x9a76	0x98	ALTO		(I found it again...)	

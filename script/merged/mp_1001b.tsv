@@ -1,0 +1,44 @@
+mp_1001b
+init
+ev_goal
+hashira2
+0x4bb	0x06	sw3		ANI_LEVER_ON_LOCK	
+hashira2_timer
+0x628	0x06	sw3		ANI_STOP1	
+hashira3
+0x650	0x06	sw		ANI_LEVER_ON_LOCK	
+hashira3_timer
+0x980	0x06	sw		ANI_STOP1	
+boss_battle
+0xa08	0x06	mahouzin		ANI_STOP2	
+0xa49	0x6B	ALTO		Exclamation	
+dead_ev01
+open_door_1
+0xfa0	0x07	System	#3C	Defeated high-rank monster [Storm Parrot]!	
+0x1062	0x06	NOI		ANI_TAMEATK1	
+0x10c5	0x07	System	#1C	Noi recovered the summer magic "#770ICyclone!"	
+0x1146	0xC1	System		obtained.	mp_0000 0x7558
+jump_dai
+0x12fa	0x06	sw2		ANI_LEVER_ON_LOCK	
+crystal1
+crystal3
+EV_2_S18_jungle_summer
+0x1baf	0x06	ALTO		ANI_LOOK_AROUND	
+0x1bdc	0x98	ALTO		The scenery	mp_1000b 0x1dd1
+				completely changed...	
+0x1c1c	0x06	ALTO		ANI_WAIT	
+0x1c60	0x98	ALTO		The sun is dazzling and	mp_1000b 0x1e55
+				the forest verdant...	
+0x1cb8	0x06	ALTO		ANI_WAIT4	
+0x1cdf	0x98	ALTO		I can't believe this is the	mp_1000b 0x1ed4
+				same place as before...	
+0x1d31	0x06	NOI		ANI_GUTSPOSE	
+0x1d5a	0x98	NOI	#6A	Heheh, that's the power	mp_1000b 0x1f4f
+				of the Astrolabe for you!	
+0x1de4	0x06	ALTO		ANI_WAIT	
+0x1e42	0x06	NOI		ANI_GESTURE2	
+0x1e6b	0x98	NOI	#6A	The geographical features may	mp_1000b 0x2060
+				have changed too...	
+				Let's proceed with plenty of caution!	
+0x1ee2	0x06	ALTO		ANI_NOD	
+0x1fbb	0x06	ALTO		ANI_WAIT	

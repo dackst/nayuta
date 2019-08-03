@@ -1,0 +1,33 @@
+0x8	Basic Controls ①
+0x30	Basic Controls ②
+0x58	Basic Controls ③
+0x80	Notification Icons
+0xa8	Quests
+0xd0	Lunch Box Prep ①
+0xf8	Lunch Box Prep ②
+0x120	Trophies
+0x148	Clearing Stages ①
+0x170	Clearing Stages ②
+0x198	Clearing Stages ③
+0x1c0	Status Abnormalities
+0x1e8	World Map ①
+0x210	World Map ②
+0x238	World Map ③
+0x260	Stage Results
+0x288	Four Season Magic ①
+0x2b0	Four Season Magic ②
+0x2d8	Gear Crafts ①
+0x300	Gear Crafts ②
+0x328	Gear Crafts ③
+0x350	Gear Crafts ④
+0x378	Craft Gauge
+0x3a0	Swdtech:Spinning Cut
+0x3c8	Swdtech:Down Thrust
+0x3f0	Swdtech:Kamaitachi
+0x418	Swdtech:Swallow Retn
+0x440	Mastery/1H Swords
+0x468	Mastery/2H Swords
+0x490	Mastery/Guarding
+0x4b8	Mastery/Evasion
+0x4e0	Mastery/CHAIN
+0x508	Mastery/Magic Charge

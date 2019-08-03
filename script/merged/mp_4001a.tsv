@@ -1,0 +1,20 @@
+mp_4001a
+init
+ev_goal
+open_door1
+0x3a0	0x06	switch1		ANI_LEVER_ON_LOCK	
+open_door2
+0x44a	0x06	switch2		ANI_LEVER_ON_LOCK	
+close_door3
+0x4b2	0x6B	ALTO		Exclamation	
+dead_EV01
+open_door3_4
+battle_skill
+0x976	0x06	mahouzin2		ANI_STOP2	
+0x9b8	0x6B	ALTO		Exclamation	
+dead_skill
+open_door05
+0xffc	0x07	System	#3C	Defeated high-rank monster [Bulmenes]!	
+0x10ba	0x06	NOI		ANI_TAMEATK1	
+0x111d	0x07	System	#1C	Noi recovered the Spring Magic #4C『#776IFlower Dance』#1C!	
+0x11ab	0xC1	System		obtained.	mp_0000 0x7558

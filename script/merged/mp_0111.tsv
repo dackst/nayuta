@@ -1,0 +1,1261 @@
+mp_0111
+init
+talk_Eida
+0xb5f	0x98	ALTO		(Now that you mention it...	
+				 It's like the strange stone shard	
+				 from before...)	
+0xbcc	0x98	ALTO		Wasn't Ada knowledge	
+				about minerals and such?	
+0xc18	0x98	ALTO		I found a strange, mineral-	
+				like rock, you see...	
+0xc68	0x98	Eida		Huh? A strange rock?	
+0xc9c	0x98	Eida		Then, I'd better show it to my old man.	
+				He knows even more about then than	
+				I do.	
+0xde6	0x98	Eida		Oh yeah, Nayuta.	
+				You've collected various things while	
+				exploring the ruins, haven't you.	
+0xe5c	0x98	Eida		But I don't think you've found anything	
+				like a high-quality "mineral."	
+0xec1	0x98	ALTO		"Mineral"...?	
+0xeee	0x98	Eida		Yeah, it seems like the mineral materials	
+				for making weapons has increased in price	
+				lately. We can't keep enough in stock.	
+0xf86	0x98	Eida		If we had a few more minerals,	
+				our lineup would be even bigger.	
+0xfe4	0x98	ALTO		("Minerals," eh? If I find some,	
+				 shall I take them to Ada?)	
+0x117a	0x36	Choice		Talk	mp_0002 0x42a1
+0x118c	0x36	Choice		Shopping	
+0x11a2	0x36	Choice		Quit	mp_0002 0x433f
+0x1279	0x98	Eida		Minerals for making weapons have increased in price.	
+				If we had some, our lineup would be bigger...	
+talk_Eida_add
+0x13e0	0x98	Eida		Oh, Nayuta...	
+				Isn't that some kind of mineral?	
+0x142d	0x98	Eida		Seems like it's pretty good quality.	
+				That's great! Where did you find it?	
+0x1495	0x98	ALTO		Yeah, I got it somewhere...	
+0x14d0	0x98	ALTO		Oh yeah! If it's alright with you,	
+				shall I give it to you?	
+0x1557	0x98	Eida		Is that really all right?	
+				Thank you, you've been a big help.	
+0x15b2	0x98	Eida		Haven't you been working hard lately?	
+				I was thinking of expanding the	
+				product lineup too.	
+0x1629	0x98	Eida		If I had that mineral, I could ask the old man	
+				to make some good weapons for me.	
+				Don't hold back. Buy them!☆	
+0x16b4	0x98	ALTO		Ahaha...You're a	
+				businessman as usual.	
+0x16f9	0x98	ALTO		I'll be interested in them a little later.	
+				Take care of me when that time comes,	
+				Ada.	
+0x17a0	0x07	System	#3C	New items have been added to	
+				the weapon shop's lineup.	
+0x17ec	0x07	System	#4C	If you give "minerals" to Ada, you can	
+				enhance the weapon shop's lineup.	
+0x1842	0x07	System	#4C	If you find "minerals," bring	
+				them to Ada.	
+0x18d4	0x98	Eida		Oh, Nayuta...	
+				Looks like you've brought	
+				me minerals again.	
+0x192c	0x98	Eida		Hand them over, if it's alright with you.	
+				In return, I'll sell you some	
+				cool weapons!	
+0x199f	0x98	ALTO		Yeah, okay.	
+				I'm looking forward to it.	
+0x1a12	0x98	Eida		Thank you. I'll give these to	
+				my old man to make armor	
+				for you.	
+0x1a6f	0x98	Eida		They'll be on sale soon,	
+				so please look forward to it!	
+0x1af8	0x07	System	#3C	New items have been added to the	
+				weapons shop's lineup.	
+0x1b7f	0x98	Eida		Oh, Nayuta...	mp_0111 0x18d4
+				Looks like you've brought	
+				me minerals again.	
+0x1bd7	0x98	Eida		And what's more, it's a rare one.	
+				...Where in the world did you get	
+				this???	
+0x1c40	0x98	ALTO		Haha, that's a secret.	
+0x1c76	0x98	ALTO		Anyway, I'll give	
+				this to you.	
+0x1ce1	0x98	Eida		Wow, you're always a big help.	
+0x1d1f	0x98	Eida		With just this and my old man's arms,	
+				our lineup will be the best in the world.	
+0x1d8d	0x98	Eida		...Nayuta, welcome to the best weapon	
+				shop in the world. We have super cool	
+				weapons, so take your time looking at them!	
+0x1e56	0x07	System	#3C	New items have been added to the	mp_0111 0x1af8
+				weapons shop's lineup.	
+talk_Eida_addmes
+0x1f71	0xC1	System		handed over.	mp_0000 0xa553
+0x2071	0xC1	System		handed over.	mp_0000 0xa553
+0x2171	0xC1	System		handed over.	mp_0000 0xa553
+0x2271	0xC1	System		handed over.	mp_0000 0xa553
+talk_Eida_sub
+0x230b	0x98	Eida		If it isn't Noi!	
+				Haha, you came back for me.	
+0x2356	0x98	NOI		Thanks...is what I want to say but,	
+				I don't have any memories of you	
+				from before...	
+0x23c6	0x98	Eida		Those kinds of details	
+				don't matter.	
+0x2409	0x98	Eida		Hmm, my sense of smell	
+				always knows about these	
+				things.	
+0x245e	0x98	Eida		I'm definitely prepared	
+				for this!	
+0x249e	0x98	ALTO		Ahaha, you're certainly lively.	
+0x2517	0x98	Eida		Noi returned...	
+0x2546	0x98	Eida		Hmm, this smells like	
+				an incident!	
+0x2587	0x98	Eida		I'm definitely prepared	mp_0111 0x245e
+				for this!	
+0x25ef	0x98	Eida		Hmm, this smells like	
+				an incident.	
+0x2630	0x98	Eida		I'm definitely prepared	mp_0111 0x245e
+				for this!	
+0x26a6	0x98	Eida		Good grief...	
+				Nothing can be done with	
+				free time lately.	
+0x26fc	0x98	Eida		This past year, there have been	
+				hardly any monster outbreaks, so	
+				we haven't had any demand for weapons.	
+0x2781	0x98	Eida		Once in a while customers came, requesting	
+				kitchen knife repair or repair of Dorado's	
+				blunt spear.	
+0x2801	0x98	Eida		...Well, there's no mistake	
+				that this is peace.	
+0x2877	0x98	Eida		With unusual things in their place,	
+				nothing can be done with free time.	
+0x28dd	0x98	Eida		It's been really lonely	
+				without Cygna, our	
+				regular customer...	
+0x296f	0x98	Eida		I heard from Orvus.	
+				You guys...fought on	
+				the broken moon.	
+0x29c6	0x98	Eida		...No matter what happens,	
+				we islanders share in it with you.	
+0x2a22	0x98	Eida		I can't forget fighting	
+				together with you guys.	
+0x2a98	0x98	Eida		...No matter what happens,	mp_0111 0x29c6
+				we islanders share in it with you.	
+0x2af4	0x98	Eida		Return if you're in pain.	
+				We'll definitely support you.	
+0x2b80	0x98	Eida		Oh, Nayuta...	
+				You've got a smile on your face.	
+0x2bcd	0x98	Eida		Hehe, you've got to use	
+				our shop's weapons.	
+0x2c17	0x98	Eida		Now, if you need something,	
+				please take a look.	
+				We've gathered some nice weapons.	
+0x2cae	0x98	Eida		Using our weapons will	
+				put a smile on your face.	
+0x2cfd	0x98	Eida		Now, if you need something,	mp_0111 0x2c17
+				please take a look.	
+				We've gathered some nice weapons.	
+0x2da2	0x98	Eida		I can't believe that kind of thing	
+				appeared from the center of	
+				the moon...	
+0x2e0a	0x98	Eida		Since then, monsters have appeared	
+				more frequently and the climate's been	
+				thrown out of whack...	
+0x2e88	0x98	Eida		And an unknown being like	
+				Noi appeared too. It's enough	
+				to knock me off my feet.	
+0x2ef6	0x98	NOI		I-I'm sorry...	
+				I didn't mean to	
+				threaten you.	
+0x2f40	0x98	Eida		Hehe, somehow, I understand	
+				that you're not a bad person.	
+0x2f98	0x98	Eida		Anyway, as for that moon...	
+				It might be some kind of	
+				ominous sign.	
+0x3020	0x98	Eida		I can't believe that kind of thing	
+				appeared from the center of	
+				the moon.	
+0x3086	0x98	Eida		My old man took the initiative and	
+				I'm helping him with the work, but...	
+				It can't be helped that nothing's happened yet.	
+0x3152	0x98	Eida		Kureha...	
+				She has a bit of a strange air about her,	
+				she is a kind and good person.	
+0x31c2	0x98	Eida		All we can do is make and sell	
+				weapons...	
+0x320a	0x98	Eida		...Nayuta, take care of that girl	
+				for me, OK?	
+0x327e	0x98	Eida		All we can do is make and sell	mp_0111 0x31c2
+				weapons...	
+0x32c6	0x98	Eida		...Nayuta, take care of that girl	mp_0111 0x320a
+				for me, OK?	
+0x332e	0x98	Eida		Ooh, I'm cold somehow...	
+				With this temperature,	
+				maybe a storm is coming.	
+0x3394	0x98	Eida		Maybe I'll light a little fire.	
+				I'll get cold in a situation like this.	
+0x342e	0x98	Eida		That girl called Kureha is getting	
+				used to this island little by little.	
+0x3495	0x98	Eida		She looked happy and turned	
+				the corner there awhile ago.	
+				...Yeah, she went to the cape.	
+0x350a	0x98	ALTO		The cape, huh...	
+				Thanks Ada.	
+0x3545	0x98	Eida		Hehe, by the way...	
+				Of Kureha and Lyra,	
+				which do you like more?	
+0x35a2	0x98	Eida		Tell me in secret, OK?	
+0x35d8	0x6B	ALTO		Sweatdrop	
+0x3632	0x98	Eida		The air of Kureha is	
+				different than us	
+				island girls somehow.	
+0x368c	0x98	Eida		It seems like she grew up	
+				in a city somewhere, but	
+				she's a good kid all the same.	
+0x3717	0x98	Eida		If you're talking about Kureha,	
+				she went out a little while ago.	
+0x3776	0x98	Eida		That girl works pretty fast.	
+				She finished sorting the ledger	
+				really quickly.	
+0x37e0	0x98	Eida		When I think about her kindness,	
+				it doesn't match her appearance.	
+				I wonder if she'll help again.	
+0x3892	0x98	Eida		Haha, Nayuta,	
+				are you worried about whether	
+				that girl will get into trouble?	
+0x38fc	0x98	Eida		It's alright.	
+				As expected, we can't let such	
+				a thin girl touch dangerous things.	
+0x396a	0x98	Eida		From the start she said she wanted	
+				to wield weapons.	
+0x39bd	0x6B	ALTO		Sweatdrop	
+0x39ef	0x98	ALTO		Sorry, Ada.	
+				Kureha is a little	
+				otherwordly.	
+0x3a38	0x98	ALTO		If it's alright with you,	
+				be careful as you watch over	
+				her for me.	
+0x3a98	0x98	Eida		Hehehe, leave it to me!	
+0x3acf	0x98	ALTO		(She looks like she's enjoying herself...)	
+0x3b41	0x98	Eida		Well, leave that girl to me.	
+				At least I won't make her	
+				do dangerous things.	
+0x3baa	0x98	Eida		More than that...don't you have	
+				to explain things to your sister?	
+0x3c0a	0x6B	ALTO		Sweatdrop	
+0x3c72	0x98	Eida		Nayuta...	
+				Somehow, you seem more	
+				reliable lately.	
+0x3cc1	0x98	Eida		In the past you clung to Cygna,	
+				were unsteady and unsure of yourself,	
+				and wondered whether everything would be alright.	
+0x3d56	0x6B	ALTO		Sweatdrop	
+0x3d88	0x98	ALTO		S-So you thought	
+				that, huh...	
+0x3dc4	0x98	Eida		Ahaha, don't worry, don't worry.	
+				At least I don't think that now.	
+0x3e24	0x98	Eida		I only understand one thing	
+				about you now...	
+0x3e6f	0x98	Eida		If it's you now, you can surely achieve it.	
+				Well, do your best.	
+0x3ef5	0x98	Eida		I only understand one thing	mp_0111 0x3e24
+				about you now...	
+0x3f40	0x98	Eida		If it's you now, you can surely achieve it.	mp_0111 0x3e6f
+				Well, do your best.	
+0x3fd4	0x98	Eida		...Nayuta, you have a gloomy expression.	
+0x401c	0x98	ALTO		Huh...	mp_0001 0x166ea
+0x4042	0x98	Eida		It seems Eartha's collapsed.	
+				I understand your feelings.	
+0x4099	0x98	Eida		You don't have to look so down.	
+				Even Eartha seems energetic.	
+0x40f4	0x98	Eida		That's my feeling anyway...	
+				It'll be alright. There is definitely hope.	
+0x415a	0x98	Eida		If you understand, smile!!	
+				I'll try to smile too!	
+0x41aa	0x98	ALTO		Haha...	
+				Thanks, Ada.	
+0x41dd	0x98	Eida		That's fine!	
+0x4231	0x98	Eida		It's alright, she'll get better soon.	
+				I understand your sister's	
+				feelings pretty well☆	
+0x42a6	0x98	Eida		If you have such a gloomy face	
+				then Eartha won't get better.	
+				Though it hurts, you've got to smile!	
+0x4362	0x98	Eida		Even so,	
+				the peach of eternal youth...	
+0x43a7	0x98	Eida		Hehe, I can't wait	
+				to drink it!㈱	
+0x43e7	0x98	Eida		When it's finished, I'll give you some,	
+				so look forward to it, OK?	
+0x446c	0x98	Eida		Hey, Nayuta,	
+				did something happen	
+				to Cygna?	
+0x44b5	0x98	ALTO		Huh...What do you mean?	
+0x44ec	0x98	Eida		Y'see, he dropped by our shop	
+				to buy a weapon, but...	
+0x4540	0x98	Eida		Because he was pretty serious,	
+				somehow, he didn't want to gossip.	
+0x45a0	0x98	ALTO		I-Is that so...	mp_0101 0x51b9
+0x45cf	0x98	ALTO		(Cygna...	
+				 What the hell happened to you?)	
+0x4640	0x98	Eida		Because Cygna was	
+				pretty serious, somehow	
+				he didn't want to gossip.	
+0x46a1	0x98	Eida		Did something happen to him, I wonder?	
+0x471f	0x98	Eida		Lately, it seems monsters	
+				are appearing here and there	
+				on the island.	
+0x4782	0x98	Eida		The only people we have who can	
+				fight them are you, Cygna and Master,	
+				is that right?	
+0x47f4	0x98	Eida		But when I compare you to the others,	
+				you have a ways to go, maybe...	
+0x4858	0x98	Eida		If push comes to shove,	
+				buy a nice weapon.	
+				There's no disadvantage☆	
+0x48e2	0x98	Eida		Lately, it seems monsters	mp_0111 0x471f
+				are appearing here and there	
+				on the island.	
+0x4945	0x98	Eida		If push comes to shove,	mp_0111 0x4858
+				buy a nice weapon.	
+				There's no disadvantage☆	
+0x49dd	0x98	Eida		Even though it seems Orvus'	
+				story is important, I'll	
+				return to work.	
+0x4a3f	0x98	Eida		Well even so, this is the first time	
+				I've seen a ruin this big.	
+0x4a9d	0x98	Eida		...It seems that you've been	
+				coming in here more often this year...	
+				Nah, must be my imagination.	
+0x4b43	0x98	Eida		...Oh, sorry, sorry.	
+				If you need something,	
+				please buy!	
+0x4b98	0x98	Eida		We're a little disorderly now but,	
+				we should have everything in	
+				order soon.	
+0x4c37	0x98	Eida		Hey there, Nayuta!	
+0x4c69	0x98	Eida		Somehow, I heard lively	
+				voices outside, but...	
+				As expected, you've returned.	
+0x4cd3	0x98	ALTO		Yeah, Ada.	
+				Cygna's with me.	
+0x4d0d	0x98	Eida		Ahaha, is that right.	
+0x4d42	0x98	Eida		If we're talking about him,	
+				he'll show his face soon.	
+0x4d96	0x98	Eida		...But even so...	
+0x4dc7	0x98	ALTO		U-umm...	
+				Why are you staring like that?	
+0x4e0d	0x98	Eida		Well you see, while you've been	
+				away for a while you've gotten a	
+				little more muscular.	
+0x4e81	0x98	Eida		Hehehe...	
+				It seems this will be	
+				good for teasing Lyra.	
+0x4ed5	0x98	ALTO		Umm...why did you put	
+				Lyra into the conversation there?	
+0x4f2b	0x98	Eida		Ahaha, don't worry about it.	
+				I'm looking forward to	
+				your sister's cooking☆	
+0x4f94	0x6B	ALTO		Question	
+0x5000	0x98	Eida		Ever since you and Cygna came	
+				to the island, I've had a lot of	
+				free time.	
+0x5067	0x98	Eida		The villagers would ask my old	
+				man for help blacksmithing, but	
+				never for any weapons.	
+0x50da	0x98	Eida		Well, when you want to do something	
+				swordplay related during your summer	
+				vacation, drop by our shop.	
+0x515c	0x98	Eida		I'll let you pick any cool-looking	
+				weapon you want☆	
+0x51d7	0x98	Eida		When you want to do something	
+				swordplay related during your summer	
+				vacation, drop by our shop.	
+0x5253	0x98	Eida		I'll let you pick any cool-looking	mp_0111 0x515c
+				weapon you want☆	
+talk_Columha
+0x552e	0x98	Columha		Mm...Nayta,	
+				You've collected four	
+				"Zemuria Stones," huh...	
+0x5589	0x98	Columha		Where in the world did you get so many...?	
+				...No, it's fine, but...	
+0x55ee	0x98	Columha		...Anyway, if you hand them over,	
+				I can reforge the weapons and...	
+0x569f	0x98	Columha		If I had four "Zemuria Stones," I	
+				should be able to make unthinkably	
+				strong weapons...	
+0x5716	0x98	Columha		Nayuta, if you happen to come across some,	
+				bring them to my place.	
+				I'll make strong weapons for you.	
+0x57cf	0x98	Columha		Haha, that the two of	
+				you are here is most	
+				fitting...	
+0x5825	0x98	Columha		I don't know the details, but	
+				I'll get fired up and strike this	
+				sword with everything I've got.	
+0x58a5	0x98	Columha		Use that and give	
+				it the form it should have.	
+0x591c	0x98	Columha		I'll get fired up and strike this	
+				sword with everything I've got.	
+0x597f	0x98	Columha		Use that and give	mp_0111 0x58a5
+				it the form it should have.	
+0x5a04	0x98	Columha		In Saint Cerize and the surrounding	
+				countries, it is having a renaissance,	
+				it seems.	
+0x5a79	0x98	Columha		There were countries and town with hatred	
+				in the past, but it seems they are now joining	
+				hands.	
+0x5af9	0x98	Columha		It seems that disputes and stupidity	
+				haven't disappeared from this world	
+				though...	
+0x5b6c	0x98	Columha		When the renaissance is complete,	
+				the world will be a little better of a	
+				place.	
+0x5c04	0x98	Columha		People are foolish animals...	
+				Especially the dumb ones...	
+0x5c5f	0x98	Columha		Now that the traces of those abnormalities	
+				disappeared, I want it to be a little better	
+				of a world. ...That is what I think.	
+0x5d32	0x98	Columha		...Already, what we can	
+				say to you means nothing.	
+0x5d85	0x98	Columha		...Be careful, Nayuta.	
+0x5dbe	0x98	Columha		And return safely...	
+				That is all.	
+0x5e29	0x98	Columha		...Be careful, Nayuta.	mp_0111 0x5d85
+0x5e62	0x98	Columha		And return safely...	
+0x5ecf	0x98	Columha		I'm making a hammer out of	
+				rubble that will be done in	
+				a few minutes...	
+0x5f37	0x98	Columha		It's delayed due to abnormality,	
+				and it's hard to get for free.	
+				We're getting along somehow.	
+0x5fb4	0x98	Columha		But, we plan to make your	
+				weapons our top priority...	
+				So rest easy.	
+0x6040	0x98	Columha		It's delayed due to abnormality,	mp_0111 0x5f37
+				and it's hard to get for free.	
+				We're getting along somehow.	
+0x60bd	0x98	Columha		But, we plan to make your	mp_0111 0x5fb4
+				weapons our top priority...	
+				So rest easy.	
+0x6157	0x98	Columha		It seems Zext was manipulating	
+				that empty suit of mail.	
+0x61b0	0x98	Columha		With that arsenal of yours,	
+				you have the strength to	
+				oppose an army maybe...	
+0x621d	0x98	Columha		...Nayuta, be careful	
+				of that...	
+0x6287	0x98	Columha		That Zext is no ordinary	
+				man, certainly...	
+0x62d3	0x98	Columha		...Nayuta, excercise	
+				plenty of caution...	
+0x633a	0x98	Columha		It sure is noisy outside...	
+				Did something happen?	
+0x638d	0x98	Columha		Around here, there have been	
+				many incidents...	
+				...Must be my imagination...	
+0x642d	0x98	Columha		Must be because we don't have	
+				anything for amusement on	
+				this island.	
+0x6492	0x98	Columha		If a person that attracted attention	
+				came, just that would start	
+				many rumors...	
+0x6502	0x98	Columha		...With that silver-haired girl,	
+				I guess I couldn't be helped, yeah...	
+0x6592	0x98	Columha		With that silver-haired girl,	
+				I guess the rumors couldn't	
+				be helped.	
+0x65f7	0x98	Columha		...I want that girl to come	
+				to like this island though...	
+0x6688	0x98	Columha		...That silver-haired girl...	
+				I think she is called Kureha.	
+0x66e5	0x98	Columha		Yes...Even Ada doesn't	
+				have that much grace...	
+0x6775	0x98	Eida		Father,	
+				I was wondering if you have	
+				something to say to me?	
+0x67ce	0x98	Columha		...It's...nothing.	
+0x6821	0x6B	ALTO		Sweatdrop	
+0x6881	0x98	Columha		(Even Ada doesn't	
+				 have that much grace...)	
+0x6904	0x98	Columha		Y-Yes...If I had a girl like	
+				that in my shop then...	
+0x695a	0x98	Columha		I'm nervous, and I'm losing my grip	
+				on reality...	
+0x69ed	0x98	Eida		Hey, old man!	
+				That's pretty rude you know!	
+0x6a36	0x6B	Columha		Sweatdrop	
+0x6ab7	0x98	Columha		(My Ada is exactly the	
+				 opposite...)	
+0x6afd	0x98	Columha		(I've got to calm down	
+				 somehow...)	
+0x6b78	0x98	Columha		That's right...	
+				Eartha might be able to help...	
+0x6bc9	0x98	Columha		...Hmm...Hmm...	
+0x6bfb	0x6B	ALTO		Ellipsis	
+0x6c25	0x6B	Columha		Ellipsis	
+0x6c9a	0x98	Eida		...I've had enough of you, old man!	
+				Just say one or two sensible	
+				things already!	
+0x6d08	0x98	Columha		Y-Yeah, got it.	
+0x6d3a	0x98	Columha		...That's good, Nayuta.	
+0x6d74	0x98	ALTO		Ahaha...	
+				Thanks, mister.	
+0x6df7	0x98	Columha		(Something sensible...	
+				 I think I'll say it properly	
+				 this time...)	
+0x6e5b	0x98	Columha		(...Well, here goes nothing.)	
+0x6ed1	0x98	Columha		That good-natured girl	
+				has suddenly fallen ill...	
+0x6f24	0x98	Columha		I want to do something but...	
+				Striking swords is all I can do.	
+0x6f84	0x98	Columha		But the least I can do	
+				is pray for Eartha's disease	
+				to heal...	
+0x700b	0x98	Columha		...Striking swords is all I can do.	
+0x7051	0x98	Columha		But the least I can do	mp_0111 0x6f84
+				is pray for Eartha's disease	
+				to heal...	
+0x70e6	0x98	Columha		...When I was young, there was	
+				a military campaign.	
+0x713b	0x98	Columha		Cygna's facial expression was...	
+				The face he made often during that time was like that.	
+0x71b4	0x98	Columha		The face of a soldier going to war...	
+0x7224	0x98	Columha		Cygna's facial expression was...	
+				Like the face of a soldier going to war...	
+0x7291	0x98	Columha		...Ah, I'm sorry, I forgot.	
+				I didn't want to make you uneasy.	
+0x7326	0x98	Columha		Speaking of Orvus Alhazen,	
+				he is the greatest swordsman	
+				in the Ciencia Sea.	
+0x7392	0x98	Columha		When he came to the island,	
+				I, too, was surprised...	
+0x73e8	0x98	ALTO		As a master, he's pretty famous.	
+				Even in Saint Cerize,	
+				I heard that story...	
+0x7452	0x98	Columha		Hmm, he's already retired...	
+				How regrettable...	
+0x74a3	0x98	Columha		If he was on active duty, I would	
+				gladly take up the sword...	
+0x752a	0x98	Columha		If Orvus was on active duty,	
+				I'd gladly take up the sword...	
+0x7588	0x98	Columha		Anyhow, I'm just about to	
+				forge this kitchen knife...	
+0x7615	0x98	Columha		...Goo...Goo...Oh...	
+0x764c	0x98	ALTO		What's wrong mister?	
+0x76d8	0x98	Eida		Oh, it's alright, it's alright.	
+0x7717	0x98	Eida		That vibration just now	
+				caused him to miss and	
+				hit his thumb.	
+0x777e	0x6B	ALTO		Sweatdrop	
+0x77b0	0x98	ALTO		G-Get well soon...	
+0x782e	0x98	Columha		...Goo...Goo...	
+0x7860	0x40	UNDEF		Colomba's is in agony...	
+0x78cf	0x98	Columha		...Oh, lad...	
+				It's been awhile.	
+0x7910	0x98	ALTO		Yeah, it has, Mister Columba.	
+0x794d	0x98	Columha		Yes...	
+0x7976	0x6B	Columha		Ellipsis	
+0x79a3	0x6B	ALTO		Ellipsis	
+0x7a1d	0x98	Eida		...Old man, since it's a rare chance,	
+				just say one or two sensible things	
+				for a change!	
+0x7ab3	0x98	Columha		O-Okay...	mp_0001 0x14e8b
+0x7b00	0x98	Columha		...But, what's with you.	
+				It's summer vacation.	
+				You should rest your body.	
+0x7b6a	0x6B	ALTO		Sweatdrop	
+0x7b9c	0x98	ALTO		Y-Yeah, thanks mister.	
+				(Those two are at it as always...)	
+0x7c4f	0x98	Columha		Yes...	
+				Saying sensible things is	
+				against my nature.	
+0x7ca3	0x98	Columha		...Sorry but, I'll return to work.	
+talk_Columha_add
+0x7e7a	0x6B	Columha		Exclamation	
+0x7eaf	0x98	Columha		Hmm...Nayuta,	
+				that thing that you have,	
+				could it be...	
+0x7f06	0x06	Columha		ANI_SURPRISE	
+0x7f33	0x98	Columha	#16S	I-I-It's...	
+				#18SA Zemuria Stone, isn't it!!?	
+0x7fa1	0x06	ALTO		ANI_THINK2	
+0x7fc9	0x98	ALTO		Umm, is this stone fragment	
+				that amazing a thing?	
+0x8019	0x06	Columha		ANI_TALK	
+0x8042	0x98	Columha		There's nothing more amazing...	
+				...It's hard to find something to	
+				compare it to, hmm...	
+0x80ba	0x06	Columha		ANI_GESTURE1	
+0x80e7	0x98	Columha		I even let out my	
+				wild cry, hmm...	
+0x812b	0x06	ALTO		ANI_WAIT	
+0x8151	0x6B	ALTO		Sweatdrop	
+0x81b7	0x06	NOI		ANI_GUTSPOSE	
+0x81e0	0x98	NOI	#6A	"Zemuria Stones" are rarely	
+				held by strong life-forms.	
+0x8237	0x98	NOI	#6A	It is so hard that it can't be	
+				transformed or processed	
+				by humans, but...	
+0x82aa	0x06	NOI		ANI_GUTSPOSE	
+0x82d3	0x98	NOI	#6A	"Zemuria Stones" are rarely	mp_0111 0x81e0
+				held by strong life-forms.	
+0x832a	0x98	NOI	#6A	It is so hard that it can't be	mp_0111 0x8237
+				transformed or processed	
+				by humans, but...	
+0x83ad	0x98	Columha		Hmm, as you'd expect,	
+				you know everything, fairy...	
+0x8413	0x98	Columha		Anyhow, it is an unthinkable	
+				mineral that, no matter what	
+				method is used, can't even be scratched.	
+0x8496	0x98	Columha		Legends about this mineral were	
+				handed down from the old	
+				civilization...	
+0x84ff	0x98	Columha		However, awhile back, I learned a method	
+				for manufacturing it from a certain guy...	
+0x858e	0x6B	ALTO		Exclamation	
+0x85b8	0x06	ALTO		ANI_SURPRISE	
+0x85e2	0x06	NOI		ANI_SURPRISE	
+0x8613	0x6B	NOI		Coldsweat	
+0x863c	0x06	NOI		ANI_TMP	
+0x8697	0x06	NOI		ANI_COMPLAIN	
+0x86c0	0x98	NOI	#6A	N-No way...	
+0x86ed	0x98	NOI	#6A	Surey, some of the Mythos'	
+				technology was passed down	
+				to humans!	
+0x8757	0x06	NOI		ANI_COMPLAIN	
+0x8780	0x98	NOI	#6A	T-There's no way this can be...	
+0x87c1	0x98	NOI	#6A	Surey, some of the Mythos'	mp_0111 0x86ed
+				technology was passed down	
+				to humans!	
+0x882f	0x98	ALTO		In other words...	
+				Old man, could you be...?	
+0x8883	0x6B	ALTO		Exclamation	
+0x88ad	0x06	ALTO		ANI_SURPRISE	
+0x88df	0x98	ALTO		Huh, really!?	
+0x890c	0x98	ALTO		Then, it can't believe it...	
+0x894a	0x06	Columha		ANI_NOD	
+0x8972	0x98	Columha		Yeah, I could make that	
+				into an unthinkably	
+				strong weapon...	
+0x8a0d	0x06	Columha		ANI_THINK	
+0x8a37	0x98	Columha		Hmm, if I just had a little	
+				more of that, that is...	
+0x8a8d	0x06	Columha		ANI_GESTURE2	
+0x8aba	0x98	Columha		...If they're about this big,	
+				I'll want four of them.	
+0x8b11	0x98	Columha		Nayuta, if you manage to get them,	
+				bring them to me.	
+				I'll make the strongest weapon for you.	
+0x8b8e	0x06	ALTO		ANI_NOD	
+0x8bb3	0x98	ALTO		Yeah, if I find them,	
+				I'll bring them.	
+0x8bf8	0x98	ALTO		I'll look forward to your help	
+				at that time, Columba!	
+0x8ce2	0x06	Columha		ANI_GESTURE2	
+0x8d0f	0x98	Columha		...Nayuta, what will you do.	
+				It's up to you...	
+subev_zemuria
+0x8d96	0x06	ALTO		ANI_NOD	
+0x8dbb	0x98	ALTO		Yeah...	
+				Then, please do.	
+0x8df2	0x06	ALTO		ANI_JOY	
+0x8e17	0x98	ALTO		I'm interested in the weapon made	
+				from a legendary mineral.	
+0x8e71	0x06	Columha		ANI_JOY	
+0x8e99	0x98	Columha		Got it...Then,	
+				I'll take care of the	
+				"Zemuria Stones."	
+0x8ef0	0x98	Columha		...Just wait a moment.	
+				However, stand back.	
+0x8f71	0x06	NOI		ANI_GESTURE1	
+0x8f9a	0x98	NOI	#6A	It's unexpected that a human	
+				can handle "Zemuria Stone"...	
+0x8ff5	0x98	NOI	#6A	Let me see it too!	
+				This is of great interest!	
+0x904d	0x06	NOI		ANI_GESTURE1	
+0x9076	0x98	NOI	#6A	It is unexpected that a human	
+				can handle "Zemuria Stone"...	
+0x90d2	0x98	NOI	#6A	Let me see it too!	mp_0111 0x8ff5
+				This is of great interest!	
+0x9168	0x98	Columha		Hmm...This should be fine...	
+0x9203	0xC1	System		obtained!	
+0x9276	0x6B	NOI		Sweatdrop	
+0x92c1	0x06	NOI		ANI_TMP	
+0x92e5	0x98	NOI	#6A	Will it really be a weapon...	
+0x9324	0x06	NOI		ANI_DULL	
+0x9349	0x98	NOI	#6A	Something like the processing technique	
+				for stones is not a big deal, hmm...	
+0x93c0	0x06	NOI		ANI_DEJECTED	
+0x93e9	0x98	NOI	#6A	Will it really be a weapon...	mp_0111 0x92e5
+0x9428	0x06	NOI		ANI_THINK	
+0x944e	0x98	NOI	#6A	Something like the processing technique	mp_0111 0x9349
+				for stones is not a big deal, hmm...	
+0x94d2	0x98	ALTO		Ahaha, you look like you're	
+				deep in thought, Noi.	
+0x9522	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x9550	0x98	ALTO		Certainly it's a dangerous	
+				technique if misapplied...	
+				You've got to handle it with caution.	
+0x95f8	0x06	NOI		ANI_NOD	
+0x961c	0x98	NOI	#6A	Yeah...	
+				It should be alright if that's the case.	
+0x966d	0x06	NOI		ANI_SPEECH	
+0x9694	0x98	NOI	#6A	It seems our battle power is up,	
+				so we'll use it thankfully!	
+0x96fb	0x06	NOI		ANI_NOD	
+0x971f	0x98	NOI	#6A	Yes...	
+				It should be all right if that's the case.	
+0x9771	0x06	NOI		ANI_SPEECH	
+0x9798	0x98	NOI	#6A	It seems our battle power is up,	mp_0111 0x9694
+				so we'll use it thankfully!	
+0x980e	0x06	ALTO		ANI_THANKS	
+0x9836	0x98	ALTO		Once again...Thank you, Columba!	
+0x9880	0x06	ALTO		ANI_THANKS	
+0x98a8	0x98	ALTO		Thanks, old man Columba!	
+0x98e2	0x06	ALTO		ANI_THINK2	
+0x990a	0x98	ALTO		...By the way, are you all right?	
+				It looks like your face is quite pale.	
+0x9971	0x06	Columha		ANI_WAIT3	
+0x999b	0x98	Columha		Oh, don't worry about that...	
+0x99db	0x98	Columha		Somehow, I feel like I made	
+				an unthinkable thing.	
+0x9a2e	0x06	Columha		ANI_GESTURE2	
+0x9a5b	0x98	Columha		I don't feel like smithing anything	
+				for awhile.	
+				...That is all.	
+0x9abb	0x06	ALTO		ANI_THINK	
+0x9aea	0x98	ALTO		(This weapon is pretty amazing...)	
+0x9b2c	0x06	ALTO		ANI_JOY	
+0x9b51	0x98	ALTO		Anyhow, thanks old man.	
+				I'll use it well.	
+talk_Cetus
+0x9c1b	0x98	Cetus		Hmm, hmm...	
+				On a remote island you can buy	
+				pretty reliable equipment, can't you.	
+0x9c8a	0x98	Cetus		We'll be exploring from here on,	
+				so we've got to assemble some	
+				reliable equipment...	
+0x9d17	0x98	Cetus		...Hey, Reticul...	
+				Don't touch things so indiscriminately, OK!?	
+0x9d9e	0x98	Cetus		Anyhow, the equipment's brand new.	
+				And the price is reasonable too...	
+talk_Reticul
+0x9e31	0x98	Reticul		Haha, though it's said this island	
+				is made of ruins...	
+				I wonder how.	
+0x9e96	0x98	Reticul		I'd like to find some	
+				treasure though～.	
+0x9f08	0x98	Reticul		I mean, this weapon	
+				suits me, doesn't it?	
+0x9f53	0x98	Reticul		Though, I do want a more	
+				elegant one.	
+talk_Creha
+0x9fff	0x98	Creha		I've wiped the dust off the shelves,	
+				and made them beautiful.	
+0xa05c	0x98	Creha		Somehow, they seemed to get	
+				more beautiful, little by little.	
+0xa0b9	0x98	Creha		By the way...	
+				That stuff called "armor"...	
+				I wonder what it is used for...	
+0xa122	0x98	ALTO		Ahahaha...	
+				(It looks like she's doing this with zeal.	
+				 Kureha's doing her very best...)	
+talk_Eida_Creha
+0xa23c	0x06	Eida		ANI_WAIT0	
+0xa2e3	0x06	ALTO		ANI_SURPRISE	
+0xa30d	0x98	ALTO	#6A	Huh, Kureha!?	
+				Why are you here now...	
+0xa354	0x06	Eida		ANI_GESTURE1	
+0xa37e	0x98	Eida		Oh, you're here too Nayuta.	
+				A beauty like this is homestaying	
+				at your house, right?	
+0xa3ef	0x98	Eida		Why did your sister keep	
+				something like this a secret	
+				from me☆	
+0xa44c	0x6B	ALTO		Sweatdrop	
+0xa47e	0x06	ALTO		ANI_DEJECTED	
+0xa4a8	0x98	ALTO	#6A	(S-Somehow, it think she's got	
+				 the wrong idea...)	
+0xa4fc	0x06	ALTO		ANI_GESTURE1	
+0xa526	0x98	ALTO	#6A	U-Umm, Kureha...	
+				If you like, shall I show you around	
+				the island?	
+0xa588	0x98	ALTO	#6A	If she's forcing you to do this,	
+				it's okay to say you don't like it.	
+0xa5ee	0x06	Eida		ANI_SURPRISE	
+0xa618	0x98	Eida		W-What!?	
+				What are you saying I...!	
+0xa659	0x06	Creha		ANI_DENY	
+0xa680	0x98	Creha		No, I'm all right.	
+				I said I wanted to...	
+0xa704	0x98	Creha		Umm, if I'm not a bother to you,	
+				please let me help more.	
+0xa799	0x06	Eida		ANI_JOY	
+0xa7be	0x98	Eida		Yes, yes, Kureha is cute	
+				unlike Nayuta～☆	
+0xa807	0x06	Eida		ANI_WAIT3	
+0xa82e	0x98	Eida		Okay, then, next is to	
+				arrange the ledger!	
+0xa877	0x98	Eida		Man, I've had the honor of teaching	
+				her the joy of manual labor.	
+0xa8d6	0x06	ALTO		ANI_SCRATCH_HEAD	
+0xa904	0x98	ALTO	#6A	(H-Hmm,	
+				 I wonder if she's all right...)	
+0xa94e	0x98	ALTO	#6A	(Well, Ada is also caring...	
+				 I guess I don't need to be	
+				 that worried.)	
+0xaa2f	0x06	Eida		ANI_WAIT0	
+quest_Eida
+0xaada	0x98	Eida		My old man's face back then,	
+				well, it was a masterpiece.	
+				That girl and I burst into laughter.	
+0xab55	0x98	Eida		If you find her, tell her to	
+				come visit with us again.	
+0xad12	0x98	Eida		I want you to search for a rare fruit	
+				I haven't soaked in alcohol up to now.	
+0xad7d	0x98	Eida		Of course, it can't just be rare,	
+				it has to be delicious, too.	
+0xadda	0x98	Eida		Huhu, I'm excited for	
+				what you're going to bring me.	
+quest_Columha
+0xaee0	0x98	Columha		...That child called Equlea said,	
+				if I remember correctly,	
+				"I'm going to watch the fish."	
+0xaf5a	0x98	Columha		She didn't tell us	
+				the exact place, though.	
+0xafa7	0x98	Columha		...Phew, even so...	
+				......My fingers hurt...	
+0xb06d	0x98	Columha		Island Loco Moco is white rice	
+				topped with hamburger, sunny-side-up	
+				fried eggs and wild island vegetables.	
+0xb0f8	0x98	Columha		It's not very well known now, but	
+				it was quite popular once.	
+0xb156	0x98	Columha		Give it to your acquaintance	
+				while it's still warm.	
+QS_21_quest_start
+0xb34a	0x06	Eida		ANI_WAIT0	
+0xb371	0x98	Eida		Every year this time I do a soak, see-	
+				This time, I was thinking	
+				you could help me out.	
+0xb3e6	0x98	Eida		Though it's sudden, will	
+				you take the job?	
+0xb439	0x06	Eida		ANI_GESTURE2	
+0xb463	0x98	Eida		Hey Nayuta.	
+				Welcome.	
+0xb496	0x06	ALTO		ANI_OJIGI	
+0xb4bd	0x98	ALTO	#6A	Hello Ada.	
+0xb4ea	0x06	ALTO		ANI_GESTURE1	
+0xb514	0x98	ALTO	#6A	Umm, about that request...	
+				About that sake soak thing.	
+0xb56c	0x06	Eida		ANI_NOD	
+0xb591	0x98	Eida		Yeah, exactly!	
+				Each year around this time, I do a soak.	
+0xb5e7	0x06	Eida		ANI_WAIT0	
+0xb60e	0x98	Eida		Since you're here, I thought	
+				you could help me with it	
+				this time.	
+0xb66d	0x98	Eida		Though it's quick, will	
+				you take the job?	
+0xb6f5	0x36	Choice		[Accept]	mp_0000 0xeaf5
+0xb70b	0x36	Choice		[Quit]	mp_0000 0xeb0b
+0xb7a9	0x06	ALTO		ANI_SCRATCH_HEAD	
+0xb7d7	0x98	ALTO	#6A	Umm, I have a little work	
+				I can't get away from right now...	
+0xb835	0x06	Eida		ANI_GESTURE1	
+0xb85f	0x98	Eida		Is that so? Can't be helped I guess.	
+0xb8a3	0x98	Eida		If you become able to take it,	
+				come see me again.	
+QS_21_ask_work
+0xb967	0x06	ALTO		ANI_NOD	
+0xb98c	0x98	ALTO	#6A	Yeah, I'm good.	
+				Will you tell me about the job?	
+0xb9dd	0x06	Eida		ANI_JOY	
+0xba02	0x98	Eida		Okay, okay.	mp_0000 0xeeb0
+0xba2d	0x98	Eida		As for what I need your help with Nayuta,	
+				the fact of the matter is, I need you to	
+				supply "fruit" to soak in the sake.	
+0xbac1	0x06	ALTO		ANI_THINK	
+0xbae8	0x98	ALTO	#6A	A fruit to soak in the sake...	
+0xbb29	0x98	ALTO	#6A	I don't know too many details,	
+				but often you hear of plums, apples	
+				or apricots being used for this.	
+0xbbad	0x06	ALTO		ANI_WAIT2	
+0xbbd4	0x06	Eida		ANI_GESTURE1	
+0xbbfe	0x98	Eida		Yeah, those are popular.	
+0xbc36	0x98	Eida		You soak those kinds of fruits	
+				with sugar and brandy and	
+				ferment them from 6 months to a year.	
+0xbcb2	0x06	Eida		ANI_LAUGH	
+0xbcd9	0x98	Eida		Just by doing that, you can make	
+				some delicious fruit sake㈱	
+0xbd34	0x06	ALTO		ANI_WAIT	
+0xbd5a	0x98	ALTO	#6A	O-Okay...	mp_0001 0x14e8b
+0xbd86	0x06	Eida		ANI_WAIT4	
+0xbdad	0x98	Eida		But this time, I'm not looking for	
+				a fruit that's that common.	
+0xbe0a	0x98	Eida		I want you to search for a rare fruit	
+				I haven't soaked before.	
+0xbe67	0x98	Eida		Of course, it can't just be rare.	
+				It's got to be delicious, too.	
+0xbec6	0x06	ALTO		ANI_NOD	
+0xbeeb	0x98	ALTO	#6A	I see...	
+0xbf16	0x06	Eida		ANI_WAIT0	
+0xbf3d	0x98	Eida		Well, I've got some things	
+				to do while waiting for it.	
+				I want to try something different every now and then.	
+0xbfc7	0x98	Eida		Because you know a lot about plants and stuff,	
+				and you've set foot in various places,	
+				I thought you'd have some idea about it.	
+0xc063	0x06	Eida		ANI_WAIT2	
+0xc08a	0x98	Eida		...Well, want to try it?	
+0xc0c2	0x06	ALTO		ANI_THANKS	
+0xc0ea	0x98	ALTO		Yeah, that's right.	
+				I don't know a lot about sake, but	
+				I'll try to do what I can.	
+0xc159	0x06	ALTO		ANI_THINK2	
+0xc181	0x98	ALTO	#6A	(Though for something like a fruit...	
+				 I have no idea of any around here.)	
+0xc1ed	0x98	ALTO	#6A	(Maybe someone at the	
+				 bar will know something?	
+				 ...I'll try gathering info.)	
+0xc28f	0x07	System	#3C	Quest [Supreme Fruit Sake] started!	
+QS_21_quest_end
+0xc4c9	0x06	Eida		ANI_GESTURE2	
+0xc4f3	0x98	Eida		Hey, Nayuta.	
+				I wonder if you found that fruit	
+				that's good for soaking sake.	
+0xc55c	0x06	ALTO		ANI_NOD	
+0xc581	0x98	ALTO	#6A	Yeah, I brought it.	
+0xc5b7	0x06	ALTO		ANI_HANDOVER	
+0xc60d	0x40	UNDEF		Handed over 100-Year Peach.	
+0xc667	0x06	Eida		ANI_WAIT4	
+0xc68e	0x98	Eida		This is...a peach?	
+				A kind I've never seen	
+				before though...	
+0xc6e6	0x06	ALTO		ANI_GESTURE1	
+0xc710	0x98	ALTO	#6A	It seems a rare peach grows on a	
+				certain uninhabited island.	
+0xc76e	0x98	ALTO	#6A	It's said that you can get	
+				eternal youth from it, and it's	
+				amazingly delicious.	
+0xc7de	0x06	Eida		ANI_SURPRISE	
+0xc808	0x98	Eida		Hey, hey!!	
+				So there is a peach like that.	
+0xc850	0x98	Eida		You found something that looks	
+				pretty interesting㈱	
+0xc8a2	0x06	ALTO		ANI_SCRATCH_HEAD	
+0xc8d0	0x98	ALTO	#6A	Ahaha, that's good.	
+				So the job's completed then?	
+0xc922	0x06	Eida		ANI_NOD	
+0xc947	0x98	Eida		Yeah, yeah, good work.	
+				With something like this,	
+				even your sister would be satisfied.	
+0xc9ba	0x06	Eida		ANI_WAIT0	
+0xc9e1	0x98	Eida		This is my thanks to you.	
+				Take good care of it.	
+0xca2f	0x06	Eida		ANI_HANDOVER	
+0xca61	0xC1	System		received.	mp_0000 0x12596
+0xcada	0x06	ALTO		ANI_THANKS	
+0xcb02	0x98	ALTO	#6A	Haha, then I'll accept	
+				it graciously.	
+0xcb49	0x06	Eida		ANI_GOODIDEA	
+0xcb73	0x98	Eida		...Alright, I've got to try putting this peach	
+				in the sake immediately!	
+0xcbd9	0x06	Eida		ANI_WAIT3	
+0xcc00	0x98	Eida		When it's done, I'll give you some,	
+				so please look forward to it!	
+0xcc60	0x06	ALTO		ANI_GESTURE1	
+0xcc8a	0x98	ALTO	#6A	No, no, I'm a minor.	
+0xccc1	0x98	ALTO	#6A	My sister can probably use it	
+				in her sweets...	
+0xcd11	0x6B	Eida		Unknown	
+0xcd43	0x06	Eida		ANI_JOY	
+0xcd68	0x98	Eida		It'll be about a year 'till it's ready...	
+				Ah, I can't wait～㈱	
+0xcdc5	0x6B	ALTO		Sweatdrop	
+0xcdf7	0x06	ALTO		ANI_DEJECTED	
+0xce21	0x98	ALTO	#6A	(Hmm, it doesn't seem like she heard me...	
+				 Well, as long as she's happy, I guess.)	
+0xceca	0x07	System	#3C	Quest [Supreme Fruit Sake] completed!	
+QS_24_get_local_cuisine
+0xd13d	0x06	ALTO		ANI_THINK	
+0xd164	0x98	ALTO	#6A	(It's a bit rude to say it but,	
+				 Columba doesn't exact seem the	
+				 cooking type...)	
+0xd1d6	0x98	ALTO	#6A	(Maybe the expert local cuisine	
+				 chef the elder spoke of is...)	
+0xd277	0x98	Columha		...What's wrong, Nayuta.	
+				Do you need something from me?	
+0xd2d0	0x06	ALTO		ANI_WAIT	
+0xd2f6	0x98	ALTO	#6A	Umm, I have something I want you	
+				to listen to...	
+0xd348	0x06	ALTO		ANI_GESTURE1	
+0xd372	0x98	ALTO	#6A	Do you have any idea where I can	
+				get this island's local cuisine?	
+0xd3d5	0x06	Columha		ANI_THINK	
+0xd3ff	0x98	Columha		Local cuisine, eh?	
+0xd434	0x98	Columha		...Are you talking about	
+				"Island Loco Moco?"	
+0xd482	0x06	Columha		ANI_WAIT	
+0xd4ab	0x6B	ALTO		Sweatdrop	
+0xd4dd	0x06	ALTO		ANI_CHAGRINED	
+0xd508	0x98	ALTO	#6A	(As expected, it was Columba...)	
+0xd54b	0x06	ALTO		ANI_NOD	
+0xd570	0x98	ALTO	#6A	Sorry, but...	
+				I'm searching for island	
+				specialties right now.	
+0xd5ce	0x06	ALTO		ANI_GESTURE2	
+0xd5f8	0x98	ALTO	#6A	What kind of food is this	
+				"Island Loco Moco?"	
+0xd647	0x06	Columha		ANI_TALK	
+0xd670	0x98	Columha		It's pineapple, sunny-side-up	
+				fried egg and vegetable collected	
+				near the island on top of white rice.	
+0xd6f6	0x98	Columha		It's relatively unknown now, but in the	
+				past it was very popular on the island.	
+0xd767	0x98	Columha		It's pretty hearty and island youths	
+				would often eat it for lunch.	
+0xd7cb	0x06	Columha		ANI_WAIT2	
+0xd7f5	0x98	Columha		If it's alright with you, I can treat	
+				you to some. How about it?	
+0xd857	0x06	ALTO		ANI_OJIGI	
+0xd87e	0x98	ALTO	#6A	Ah, then,	
+				thank you very much!	
+0xd8be	0x98	ALTO	#6A	An acquaintance of mine said	
+				he wants to eat it, so can you wrap	
+				that up for me?	
+0xd92f	0x06	Columha		ANI_NOD	
+0xd957	0x98	Columha		Yeah...	
+				Then, wait right there.	
+0xdadb	0x98	Columha		...It's done.	
+				Take it with you.	
+0xdb55	0x06	Columha		ANI_HANDOVER	
+0xdb8a	0xC1	System		received.	mp_0000 0x12596
+0xdc6a	0x06	ALTO		ANI_GUTSPOSE	
+0xdc94	0x98	ALTO	#6A	Hmm, smells delicious...	
+				(Though I'll give it to Gio, it looks	
+				 like he's going to eat with his fingers.)	
+0xdd1e	0x06	Columha		ANI_LAUGH	
+0xdd48	0x98	Columha		...Hehe, if you say that,	
+				then I'm truly happy.	
+0xdd99	0x06	Columha		ANI_WAIT3	
+0xddc3	0x98	Columha		Sometimes I treat Ada to it,	
+				but every time she makes	
+				these special requests...	
+0xde33	0x98	Columha		Thanks to that, I've gone through	
+				many versions of it.	
+0xde8b	0x98	Columha		...It's is the result of hardship.	
+0xded0	0x06	ALTO		ANI_THANKS	
+0xdef8	0x98	ALTO	#6A	A-Anyway...	
+				Thank you very much.	
+0xdf6e	0x06	ALTO		ANI_JOY	
+0xdf93	0x98	ALTO	#6A	(With this, I've collected three	
+				 famous products from the island. I'll	
+				 bring them to Gio.)	
+0xe056	0x06	ALTO		ANI_THINK2	
+0xe07e	0x98	ALTO	#6A	(The last one is the	
+				 "Ruins Rock Salt" that the	
+				 elder spoke of, eh...)	
+0xe0e7	0x98	ALTO	#6A	(He said I'd find it in the	
+				 vicinity of the seaside ruins.	
+				 I'll try searching there for a bit.)	
+QS_41_getting_information
+0xe3a7	0x98	Eida		Hey Nayuta, what's wrong?	
+0xe3e0	0x06	ALTO		ANI_GESTURE1	
+0xe40a	0x98	ALTO	#6A	Ada, you may have heard this,	
+				but...	
+0xe450	0x40	UNDEF		Told Ada about the missing Equlea.	
+0xe493	0x06	Eida		ANI_GOODIDEA	
+0xe4bd	0x98	Eida		Ah, ah,	
+				that rich girl, eh?	
+0xe4f7	0x06	Eida		ANI_WAIT0	
+0xe51e	0x98	Eida		If it's her, she comes to	
+				play early in the morning.	
+0xe571	0x06	ALTO		ANI_SURPRISE_WEAK	
+0xe5a0	0x98	ALTO	#6A	Seriously!?	mp_0101 0x16016
+0xe5ce	0x06	Eida		ANI_NOD	
+0xe5f3	0x98	Eida		She asked us to inspect	
+				the sword by striking them.	
+0xe645	0x06	Eida		ANI_GESTURE2	
+0xe66f	0x98	Eida		I could hear the	
+				bang, bang sounds even	
+				outside, so I became interested in it.	
+0xe704	0x98	Eida		Well, that rich girl has her good points,	
+				but she's pretty strange, isn't she.	
+				...Isn't that right old man?	
+0xe8cd	0x98	Columha		...Hmm...Yeah, I guess.	
+0xe907	0x06	Columha		ANI_GESTURE2	
+0xe934	0x98	Columha		She just sits there,	
+				happily staring.	
+0xe97b	0x98	Columha		...Because of that, I was nervous	
+				and hit my fingers again.	
+0xe9d8	0x06	ALTO		ANI_SCRATCH_HEAD	
+0xea06	0x98	ALTO	#6A	A-Ahaha...	
+0xea6d	0x98	Eida		The face of my old man then	
+				was a masterpiece～.	
+				I laughed hard with her.	
+0xead4	0x06	Eida		ANI_WAIT3	
+0xeafb	0x98	Eida		Until then she stared at me sternly,	
+				and her facial expression seemed strange.	
+0xeb68	0x06	ALTO		ANI_NOD	
+0xeb8d	0x98	ALTO	#6A	Really...?	
+0xebd2	0x06	ALTO		ANI_GESTURE2	
+0xebfc	0x98	ALTO	#6A	...Wait, isn't that just like with Kureha?	
+				You'll enjoy yourself at anyone's expense, Ada.	
+0xec78	0x06	Eida		ANI_LAUGH	
+0xec9f	0x98	Eida		Ahaha, it's fine, it's fine.	
+0xecdb	0x98	Eida		My motto is to	
+				enjoy what you can, see♪	
+0xed22	0x06	ALTO		ANI_DEJECTED	
+0xed4c	0x98	ALTO	#6A	Well, that's fine but...	
+0xed89	0x06	ALTO		ANI_GESTURE1	
+0xedb3	0x98	ALTO	#6A	By the way, after that,	
+				do you know which way	
+				Equlea was heading?	
+0xee15	0x06	Eida		ANI_THINK	
+0xee3c	0x98	Eida		Hmm, now that you mention it,	
+				it seems like she did say something...	
+0xee9f	0x06	Columha		ANI_TALK	
+0xeec8	0x98	Columha		...Yeah, it was "I'm going to watch the fish,"	
+				or something like that.	
+0xef30	0x06	Eida		ANI_WAIT	
+0xef56	0x98	Columha		She didn't say specifically	
+				where she was going.	
+0xefa8	0x06	Columha		ANI_WAIT	
+0xefd1	0x06	ALTO		ANI_THINK2	
+0xeff9	0x98	ALTO	#6A	"Fish" was it?	
+				I can think of various things.	
+0xf048	0x06	ALTO		ANI_OJIGI	
+0xf06f	0x98	ALTO	#6A	Thank you both.	
+				I'll try searching for her	
+				for a little.	
+0xf0c8	0x06	Eida		ANI_GESTURE2	
+0xf0f2	0x98	Eida		Well, do your best～.	
+0xf127	0x98	Eida		If you find her,	
+				tell her to come again.	
+0xf16e	0x06	ALTO		ANI_THANKS	
+0xf196	0x98	ALTO	#6A	Ahaha, understood.	
+QS_41_sub_turn_Eida
+QS_41_getting_information2
+0xf521	0x98	Eida		Hey Nayuta, what's wrong?	mp_0111 0xe3a7
+0xf55a	0x06	ALTO		ANI_GESTURE1	
+0xf584	0x98	ALTO	#6A	Ada, I have something I	
+				want to ask you...	
+0xf5d0	0x40	UNDEF		Told Ada about the missing Equlea.	mp_0111 0xe450
+0xf613	0x06	Eida		ANI_GOODIDEA	
+0xf63d	0x98	Eida		Ah, ah,	mp_0111 0xe4bd
+				that rich girl, eh?	
+0xf677	0x06	Eida		ANI_WAIT0	
+0xf69e	0x98	Eida		If it's here, she comes to	
+				play early in the morning.	
+0xf6f2	0x06	ALTO		ANI_SURPRISE_WEAK	
+0xf721	0x98	ALTO	#6A	Seriously!?	mp_0101 0x16016
+0xf74f	0x06	Eida		ANI_NOD	
+0xf774	0x98	Eida		She asked us to inspect	mp_0111 0xe5f3
+				the sword by striking them.	
+0xf7c6	0x06	Eida		ANI_GESTURE2	
+0xf7f0	0x98	Eida		I could hear the	mp_0111 0xe66f
+				bang, bang sounds even	
+				outside, so I became interested in it.	
+0xf85c	0x98	Eida		Well, that rich girl has her good points,	mp_0111 0xe704
+				but she's pretty strange, isn't she.	
+				...Isn't that right old man?	
+0xfa49	0x98	Columha		...Hmm...Yeah, I guess.	mp_0111 0xe8cd
+0xfa83	0x06	Columha		ANI_GESTURE2	
+0xfab0	0x98	Columha		She just sits there,	mp_0111 0xe934
+				happily staring.	
+0xfaf7	0x98	Columha		...Because of that, I was nervous	mp_0111 0xe97b
+				and hit my fingers again.	
+0xfb54	0x06	ALTO		ANI_SCRATCH_HEAD	
+0xfb82	0x98	ALTO	#6A	A-Ahaha...	mp_0111 0xea06
+0xfbe9	0x98	Eida		The face of my old man then	mp_0111 0xea6d
+				was a masterpiece～.	
+				I laughed hard with her.	
+0xfc50	0x06	Eida		ANI_WAIT3	
+0xfc77	0x98	Eida		Until then she stared at me sternly,	mp_0111 0xeafb
+				and her facial expression seemed strange.	
+0xfce4	0x06	ALTO		ANI_NOD	
+0xfd1f	0x98	ALTO	#6A	Really...?	mp_0111 0xeb8d
+0xfd64	0x06	ALTO		ANI_GESTURE2	
+0xfd8e	0x98	ALTO	#6A	...Wait, isn't that just like with Kureha?	mp_0111 0xebfc
+				You'll enjoy yourself at anyone's expense, Ada.	
+0xfe0a	0x06	Eida		ANI_LAUGH	
+0xfe31	0x98	Eida		Ahaha, it's fine, it's fine.	mp_0111 0xec9f
+0xfe6d	0x98	Eida		My motto is to	mp_0111 0xecdb
+				enjoy what you can, see♪	
+0xfeb4	0x06	ALTO		ANI_DEJECTED	
+0xfede	0x98	ALTO	#6A	Well, that's fine but...	mp_0111 0xed4c
+0xff1b	0x06	ALTO		ANI_GESTURE1	
+0xff45	0x98	ALTO	#6A	By the way, after that,	mp_0111 0xedb3
+				do you know which way	
+				Equlea was heading?	
+0xffa7	0x06	Eida		ANI_THINK	
+0xffce	0x98	Eida		Hmm, now that you mention it,	mp_0111 0xee3c
+				it seems like she did say something...	
+0x10031	0x06	Columha		ANI_TALK	
+0x1005a	0x98	Columha		...Yeah, it was "I'm going to watch the fish,"	mp_0111 0xeec8
+				or something like that.	
+0x100c2	0x06	Eida		ANI_WAIT	
+0x100e8	0x98	Columha		She didn't say specifically	mp_0111 0xef56
+				where she was going.	
+0x1013a	0x06	Columha		ANI_WAIT	
+0x10163	0x06	ALTO		ANI_THINK2	
+0x10197	0x98	ALTO	#6A	"Fish" was it?	mp_0111 0xeff9
+				I can think of various things.	
+0x101e6	0x06	ALTO		ANI_OJIGI	
+0x1020d	0x98	ALTO	#6A	Thank you both.	mp_0111 0xf06f
+				I'll try searching for her	
+				for a little.	
+0x10266	0x06	Eida		ANI_GESTURE2	
+0x10290	0x98	Eida		Well, do your best～.	mp_0111 0xf0f2
+0x102c5	0x98	Eida		If you find her,	mp_0111 0xf127
+				tell her to come again.	
+0x1030c	0x06	ALTO		ANI_THANKS	
+0x1034a	0x98	ALTO	#6A	Ahaha, understood.	mp_0111 0xf196
+EV_4_S08_creha_scene_2nd
+0x1062e	0x06	Columha		ANI_BLACKSMITH	
+0x10973	0x98	Creha	#0W	...The sword is...being made...	
+0x10b1a	0x06	Eida		ANI_COMPLAIN	
+0x10b44	0x98	Eida	#6A	How is it? Amazing, right?	
+0x10b81	0x06	Eida		ANI_WAIT3	
+0x10ba8	0x98	Eida	#6A	My old man is a skilled	
+				blacksmithing master.	
+0x10bf7	0x06	Eida		ANI_GESTURE2	
+0x10c21	0x98	Eida	#6A	Well, our only customers on the island	
+				are Nayuta and Cygna, though.	
+0x10c8f	0x06	Creha		ANI_NOD	
+0x10d49	0x98	Creha		...Amazing.	
+0x10d7d	0x6B	Creha		Ellipsis	
+0x10e7a	0x98	Creha		If it's alright, I can	
+				help out...	
+0x10ebc	0x06	Creha		ANI_COMPLAIN	
+0x10f06	0x98	Creha		If possible, let me	
+				forge the swords.	
+0x10f72	0x06	Eida		ANI_SURPRISE	
+0x10f9c	0x98	Eida	#6A	What!?	
+0x10fcd	0x06	Creha		ANI_WAIT2	
+0x11043	0x98	Creha	#0W	I have...something I want	
+				to make sure of on this island.	
+0x110be	0x98	Creha	#0W	Because of that, somehow,	
+				I want to be useful in any way I can...	
+0x1112a	0x06	Eida		ANI_WAIT4	
+0x11151	0x98	Eida	#6A	Hmmm, I don't exactly understand,	
+				but...	
+0x111a3	0x06	Eida		ANI_LAUGH	
+0x111ca	0x98	Eida	#6A	Ahaha, I like you.	
+				As expected from Nayuta's friend.	
+0x11228	0x6B	Creha		Question	
+0x1130e	0x06	Eida		ANI_DENY	
+0x11334	0x98	Eida	#6A	Well, the blacksmith's workshop	
+				is dangerous, so as you'd expect	
+				it's impossible.	
+0x113a6	0x06	Eida		ANI_GESTURE1	
+0x113d0	0x98	Eida	#6A	But since you're here, I'll have you	
+				help me with the product display.	
+0x11438	0x06	Eida		ANI_WAIT3	
+0x1145f	0x98	Eida	#6A	Then, will you come with me to the back?	
+0x114b2	0x06	Creha		ANI_NOD	
+0x1156c	0x98	Creha		Yes!	mp_0001 0xfd91
+SB_4_S08_blacksmith

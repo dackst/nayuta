@@ -1,0 +1,43 @@
+0x2	name	トップ
+0x138	mission	ミッション説明
+0x16a	name	Star Garden
+0x1be	desc	Go to the island where the Star Garden is.
+0x2a0	mission	ミッション説明
+0x2d2	name	Star Garden
+0x326	desc	Go to the island where the Star Garden is.
+0x408	mission	ミッション説明
+0x43a	name	Star Garden
+0x48e	desc	Go to the island where the Star Garden is.
+0x570	mission	ミッション説明
+0x5a2	name	Lower Stratum
+0x6d8	mission	Clear it \nwithin 4:00
+0x70a	name	Center Stratum
+0x840	mission	Clear it w/o using \nGear Shield
+0x872	name	Under Olt
+0x8c6	desc	Go to the district under Oltapia.
+0x9a8	mission	ミッション説明
+0x9da	name	Municipal District Ⅰ
+0xb10	mission	Clear taking dmg \n10 times or less
+0xb42	name	Olt Pillar
+0xc78	mission	ミッション説明
+0xcaa	name	Under Riese
+0xcfe	desc	Go to the district under Rieseweld.
+0xde0	mission	ミッション説明
+0xe12	name	Municipal District Ⅱ
+0xf48	mission	Achieve at least \nCHAIN 40
+0xf7a	name	Riese Pillar
+0x10b0	mission	ミッション説明
+0x10e2	name	Under Heim
+0x1136	desc	Go to the district under Heimmel.
+0x1218	mission	ミッション説明
+0x124a	name	Municipal District Ⅲ
+0x1380	mission	Clear it falling \n3 times or less
+0x13b2	name	Heim Pillar
+0x14e8	mission	ミッション説明
+0x151a	name	Under Wor
+0x156e	desc	Go to the district under La Worg.
+0x1650	mission	ミッション説明
+0x1682	name	Municipal District Ⅳ
+0x17b8	mission	Don't let craft \ngauge expire
+0x17ea	name	Wor Pillar
+0x1920	mission	ミッション説明

@@ -1,0 +1,86 @@
+mp_8100b
+init
+EV_8_S16_help_s_and_c
+0x33b	0x06	Creha		ANI_FLY_SIT	
+0x4a8	0x06	Signa		ANI_FLY_SIT	
+0x6ee	0x98	ALTO	#0W	...This place...	
+				Is it the same as before?	
+0x73a	0x06	ALTO		ANI_LOOK_AROUND	
+0x785	0x98	ALTO	#0W	But, the atmosphere is completely different...	
+				It's become amazingly beautiful...	
+0x842	0x6B	ALTO		Exclamation	
+0xa8d	0x06	Signa		ANI_FLY_SIT_END	
+0xb04	0x06	Signa		ANI_FLY_SIT_END2	
+0xbb2	0x98	Signa	#0W	.....................	mp_0003 0xc610
+0xdf8	0x06	Creha		ANI_FLY_SIT_END	
+0xe6f	0x06	Creha		ANI_FLY_SIT_END2	
+0xf1d	0x98	Creha	#0W	.....................	mp_0003 0xc610
+0x1026	0x98	ALTO		Kureha, Cygna!!	
+0x1107	0x41	None	#0W#2E#6C#12S#0W	──Do not worry, they are both safe.	
+				They are just sleeping now...#0E	
+0x14c4	0x06	ALTO		ANI_GESTURE2	
+0x14ee	0x98	ALTO		Noi...! Thank goodness,	
+				you're alright too!	
+0x1540	0x06	Noi2		ANI_NOD	
+0x1565	0x98	Noi2	#0W	...Yeah.	
+				It's because you beat	
+				that idol for me.	
+0x15b6	0x98	Noi2	#0W	The abnormalities of the Astrolabe	
+				completely disappeared and	
+				those two were set free.	
+0x1635	0x06	Noi2		ANI_THINK	
+0x16a0	0x98	Noi2	#0W	Thanks to that...We finally have	
+				a little chance to talk.	
+0x1703	0x6B	ALTO		Surprise	
+0x1741	0x06	ALTO		ANI_GESTURE1	
+0x176b	0x98	ALTO	#1W	"Finally"...#0WWhat do you mean?	
+0x17b6	0x6B	Noi2		Ellipsis	
+0x17e8	0x06	Noi2		ANI_WAIT	
+0x182c	0x98	Noi2	#0W	I am an existence that should have	
+				disappeared a year ago...	
+0x18a8	0x98	Noi2	#0W	Now that the abnormalities are gone,	
+				I, who brought them in,	
+				should disappear with them...	
+0x192b	0x6B	ALTO		Exclamation	
+0x195d	0x06	ALTO		ANI_COMPLAIN	
+0x1987	0x98	ALTO		N-No way...	
+				Why didn't you tell me!?	
+0x19ca	0x98	ALTO		If I knew that, I would have	
+				looked for another way...	
+0x1a27	0x06	Noi2		ANI_DENY	
+0x1a6b	0x98	Noi2	#0W	...No,	
+				there are no other methods.	
+0x1aaf	0x98	Noi2	#0W	For Masters Kureha and Cygna too,	
+				defeating that idol as soon as possible	
+				was the best way of solving it.	
+0x1b57	0x98	Noi2	#0W	And, if I said something,	
+				you wouldn't have been able	
+				to fight your hardest...	
+0x1c60	0x98	Noi2	#0W	Hehe, you have a good	
+				head and you're very kind...	
+0x1cec	0x98	Noi2	#0W	And from time to time,	
+				you're very stubborn.	
+0x1d42	0x98	ALTO	#200x#270y#1W	...Noi!!	
+0x1e8d	0x6B	ALTO		Exclamation	
+0x1ee9	0x06	ALTO		ANI_LOOK_AROUND	
+0x1f16	0x98	ALTO	#0W	Is this...Am I returning	
+				to the outside world!?	
+0x1ff1	0x98	Noi2	#1W	...With this, I truly bid you farewell.	
+0x2083	0x06	ALTO		ANI_COMPLAIN	
+0x20bb	0x98	ALTO	#2W	Wait...Wait, Noi!	
+0x211b	0x98	ALTO	#1W	I swore I would save you!	
+0x2157	0x06	ALTO		ANI_DENY	
+0x218b	0x98	ALTO	#1W	I can't leave you in a place like this!	
+0x21dd	0x06	Noi2		ANI_GESTURE1	
+0x2215	0x98	Noi2	#1W	I will absolutely never forget	
+				our adventures together...	
+0x227e	0x98	Noi2	#1W	To Master Kureha and Cygna...	
+				And to the new me too,	
+				please tell them I said hi.	
+0x2349	0x98	Noi2	#3W	Goodbye...and thanks.	
+				Be well, Nayuta.	
+0x2457	0x98	ALTO	#40M#18S	Noi! Noi────!!	
+0x24ad	0x06	ALTO		ANI_PLEASE_WAIT	
+0x26e4	0x6B	Noi2		Ellipsis	
+0x2768	0x98	Noi2	#2W	...This is for the best...	
+0x27d1	0x06	Noi2		ANI_WIPE_TEAR	

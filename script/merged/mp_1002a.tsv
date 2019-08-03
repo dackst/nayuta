@@ -1,0 +1,281 @@
+mp_1002a
+init
+ev_goal
+push_box
+0x7b7	0x06	boxpoint		ANI_ON	
+boss_battle
+0x885	0x6B	ALTO		Exclamation	
+dead_ev1
+open_door2_3
+0xcec	0x6B	ALTO		Exclamation	
+open_door4
+open_door5
+0xf3e	0x06	switch		ANI_LEVER_ON_LOCK	
+put_monster
+0xfa5	0x6B	ALTO		Exclamation	
+dead_ev2
+open_door1
+crystal1
+QS_12_discovery_rose
+0x1609	0x06	ALTO		ANI_JOY	
+0x162e	0x98	ALTO		Ah, this is probably	
+				the Eternal Rose!	
+0x16b3	0x98	NOI	#6A	It's certainly a pretty flower but...	
+				are you taking it with you?	
+0x1755	0x06	ALTO		ANI_NOD	
+0x177a	0x98	ALTO		Yeah, an acquaintance of	
+				mine is looking for this──	
+0x17ce	0x06	ALTO		ANI_GESTURE1	
+0x17f8	0x98	ALTO		Say, because it's growing here,	
+				does that mean I'm not free to	
+				take it?	
+0x185d	0x06	NOI		ANI_THINK	
+0x1883	0x98	NOI	#6A	No, I think there's many more of	
+				these growing further inside...	
+0x18e4	0x06	NOI		ANI_NOD	
+0x1908	0x98	NOI	#6A	...Yeah, if it's just one,	
+				then it should be fine, I think.	
+0x1964	0x06	ALTO		ANI_THANKS	
+0x198c	0x98	ALTO		Alright, thanks Noi!	
+0x1aa0	0x06	ALTO		ANI_SIT6	
+0x1b1d	0xC1	System		obtained.	mp_0000 0x7558
+0x1bb7	0x06	ALTO		ANI_WAIT	
+0x1c41	0x06	NOI		ANI_THINK	
+0x1c67	0x98	NOI	#6A	But...what will you use it for?	
+0x1ca8	0x06	NOI		ANI_WAIT	
+0x1ccd	0x06	ALTO		ANI_GESTURE2	
+0x1cf7	0x98	ALTO		Yeah, it's a present for someone.	
+0x1d38	0x6B	NOI		Question	
+0x1d69	0x98	ALTO		(I can't forget to	
+				 give this to Sculp	
+				 later.)	
+0x1f63	0x40	UNDEF		A beautiful rose is blooming.	
+0x1fbb	0x98	ALTO		What is this, I wonder...	
+0x1ff4	0x98	ALTO		Well, it doesn't seem	
+				related to our progress.	
+SB_1_S05_appear_ALTO
+SB_1_S05_appear_NOI
+SB_1_S05_appear_Signa
+EV_1_S05_jungle3_start
+0x2504	0x06	st		ANI_PATA2	
+0x2710	0x06	ALTO		ANI_WAIT4	
+0x2737	0x98	ALTO		Phew...We've come a long way.	
+0x2791	0x06	ALTO		ANI_WAIT	
+0x27d2	0x06	ALTO		ANI_GESTURE2	
+0x27fc	0x98	ALTO		Where are we now?	
+0x28ab	0x06	NOI		ANI_GESTURE1	
+0x28d4	0x98	NOI	#6A	Y-Yeah, it looks like we've	
+				gotten much closer to the	
+				interior of the continent...	
+0x294e	0x06	Signa		ANI_WAIT3	
+0x2976	0x98	Signa		Hmm...Even so, I don't see that	
+				Zext guy or the mask guy	
+				anywhere.	
+0x29d7	0x06	Signa		ANI_GESTURE2	
+0x2a02	0x98	Signa		Does that mean we have to go further in?	
+0x2a53	0x6B	NOI		Ellipsis	
+0x2a7c	0x06	NOI		ANI_THINK	
+0x2aaa	0x98	NOI	#6A	(Could it be...)	
+0x2ae4	0x06	ALTO		ANI_GESTURE1	
+0x2b0e	0x98	ALTO		...What's wrong, Noi?	
+				Is there something you're	
+				worried about?	
+0x2b72	0x06	NOI		ANI_DENY	
+0x2b97	0x98	NOI	#6A	...N-No.	
+				Nevermind.	
+0x2bd6	0x98	NOI	#6A	Anyway, we should have	
+				shortened the distance	
+				between us and Zext a little.	
+0x2c41	0x06	NOI		ANI_GUTSPOSE	
+0x2c6a	0x98	NOI	#6A	For now, let's	
+				keep proceeding ahead!	
+0x2cb8	0x06	Signa		ANI_NOD	
+0x2cde	0x98	Signa		Alright!	mp_0004 0x99aa
+0x2d0f	0x06	ALTO		ANI_JOY	
+0x2d34	0x98	ALTO		Let's proceed carefully!	
+SB_1_S06_move_ALTO
+SB_1_S06_move_NOI
+SB_1_S06_move_Signa
+EV_1_S06_look_cage_1st
+0x31b2	0x06	Gio		ANI_SEALED	
+0x3283	0x06	ALTO		ANI_GUTSPOSE	
+0x32ad	0x98	ALTO		Alright, it looks like the	
+				path opens up here.	
+0x3334	0x98	Signa		It finally feels like this is the interior but...	
+				Noi, what's past here?	
+0x3419	0x98	NOI		Past here is...	
+				The <Temple> of Oltapia.	
+0x3467	0x06	ALTO		ANI_THINK2	
+0x348f	0x98	ALTO	#6A	<Temple>...？	
+0x34dc	0x98	NOI		Umm, the explanation is	
+				difficult but...	
+0x353f	0x98	NOI		In a word, it's a facility that	
+				controls the entire continent.	
+0x359b	0x06	NOI		ANI_GESTURE1	
+0x35c4	0x98	NOI		If the "Warden" was there,	
+				we would know where	
+				Zext is, probably...	
+0x362c	0x06	Signa		ANI_THINK	
+0x3654	0x98	Signa		You said you were the	
+				warden of the <Garden>...	
+0x36a3	0x06	Signa		ANI_GESTURE2	
+0x36ce	0x98	Signa		This continent has	
+				one too.	
+0x3711	0x06	ALTO		ANI_COMPLAIN	
+0x373b	0x98	ALTO	#6A	...Wait a minute!	
+				"Warden of the Continent..."	
+				You should have told us before.	
+0x37aa	0x98	ALTO	#6A	The scale is too big.	
+				I can't even imagine it.	
+0x382e	0x41	None	#0W#2E#310c	...Greetings...#0E	
+0x38a5	0x6B	NOI		Exclamation	
+0x38d6	0x6B	Signa		Exclamation	
+0x3909	0x6B	ALTO		Exclamation	
+0x393b	0x06	ALTO		ANI_SURPRISE_WEAK	
+0x396a	0x98	ALTO	#6A	W-What was that just now!?	
+0x39af	0x06	Signa		ANI_WAIT3	
+0x39d7	0x98	Signa		Someone's...voice?	
+0x3a0a	0x98	Signa		It couldn't be one of Zext's	
+				companions, could it?	
+0x3a64	0x06	NOI		ANI_DENY	
+0x3a89	0x98	NOI		...N-No!	
+				This voice is...	
+0x3ac8	0x41	None	#0W#2E#310c	...Mm, you there...	
+				...Could it be, Noi!?#0E	
+0x3b58	0x06	NOI		ANI_GOODIDEA	
+0x3b81	0x98	NOI		A-As I thought...	
+				It's <Gio>'s voice!	
+0x3bc4	0x06	NOI		ANI_LOOK_AROUND	
+0x3bf0	0x98	NOI		Where are you, Gio!?	
+0x3c2b	0x41	None	#0W#2E#310c	Oh...So this is the guidance of the stars too.	
+				This is a godsend!#0E	
+0x3ccb	0x41	None	#0W#2E#310c	This way, this way!#0E	
+0x3f2e	0x98	Signa	#500x#500y	Could it be...in there!?	
+0x3f79	0x98	ALTO	#250x#500y	I've been interested since we	
+				started fighting monsters but...	
+				Noi, what is that?	
+0x3ffa	0x98	NOI	#0x#500y	I-I don't know!	
+				That such a thing should exist	
+				is totally strange...!	
+0x4064	0x98	NOI	#100x#500y	...Gio, are you there!?	
+0x40c8	0x41	None	#0W#2E#310c	...That is right, I am here!#0E	
+0x4144	0x41	None	#0W#2E#310c	Yes, it has been many years indeed...	
+				I am glad to see you, Noi!#0E	
+0x43e5	0x98	ALTO		Umm...	
+				Do you know him, Noi?	
+0x4458	0x06	NOI		ANI_NOD	
+0x447c	0x98	NOI	#6A	Y-Yeah.	mp_0005c 0x6aba
+0x44a5	0x06	NOI		ANI_GESTURE1	
+0x44ce	0x98	NOI	#N#6A	<Lychnis Gio>...	
+				I just said he was the	
+				warden of this continent.	
+0x4539	0x41	None	#0W#2E#310c	...Hmm...?	
+				There are two strange presences 	
+				other than you, Noi...#0E	
+0x45d9	0x41	None	#0W#2E#310c	Could they possibly be...humans!?#0E	
+0x46d8	0x06	NOI		ANI_GESTURE2	
+0x4701	0x98	NOI	#6A	Gio, Nayuta and Cygna	
+				came out here with me	
+				for some reason...	
+0x4767	0x40	UNDEF		Noi summarized the situation up to now.	
+0x47b7	0x41	None	#0W#2E#310c	Hmm...Is that so.#0E	
+0x4828	0x41	None	#0W#2E#310c	To think humans would ever	
+				see <Terra>...#0E	
+0x48b0	0x41	None	#0W#2E#310c	And what's more, that these	
+				humans would be acting together with	
+				you, Noi, who hates them...#0E	
+0x4972	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x49a0	0x98	ALTO	#6A	Ahaha, well, we kind of forced	
+				her to let us help, but...	
+0x4a03	0x06	Signa		ANI_GESTURE2	
+0x4a2e	0x98	Signa	#6A	You don't seem to be	
+				very afraid of us, right?	
+0x4a87	0x41	None	#0W#2E#310c	...Well, not that much.	
+				I have heard about humans	
+				in stories, you see...#0E	
+0x4b2d	0x41	None	#0W#2E#310c	For you who have been	
+				acting with Noi from the beginning,	
+				vigilance is not necessary.#0E	
+0x4be0	0x41	None	#0W#2E#310c	Nayuta and Cygna, was it.	
+				I ask you for a favor.#0E	
+0x4c77	0x06	NOI		ANI_COMPLAIN	
+0x4ca0	0x98	NOI	#6A	Aside from that...	
+				Why are you in a place like this, Gio!?	
+0x4d03	0x06	ALTO		ANI_NOD	
+0x4d28	0x98	ALTO	#6A	Oh, that's right.	
+				You told us earlier that	
+				the warden is in the <Temple>...	
+0x4d9c	0x41	None	#0W#2E#310c	Yes...about that...#0E	
+0x4e0f	0x41	None	#0W#2E#310c	In truth, a man calling	
+				himself "Zext" appeared in the	
+				<Temple> just now.#0E	
+0x4ebe	0xBC	ALTO		Exclamation	
+0x4efc	0xBC	NOI		Exclamation	
+0x4f39	0xBC	Signa		Exclamation	
+0x4f78	0x06	NOI		ANI_SURPRISE	
+0x4fa1	0x98	NOI	#6A	Z-Zext!?	
+0x4fd3	0x41	None	#0W#2E#310c	Yes...It's pathetic but...	
+				I was swiftly defeated by him	
+				and captured.#0E	
+0x5077	0x41	None	#0W#2E#310c	On top of that, he	
+				made a "Cage" and	
+				sealed me inside.#0E	
+0x5113	0x06	Signa		ANI_WAIT3	
+0x513b	0x98	Signa	#6A	He manufactured a "Cage"...	
+				This stupidly large one!?	
+0x519b	0x06	ALTO		ANI_THINK	
+0x51c2	0x98	ALTO	#6A	As I thought, it looks like it has	
+				a terribly great power...	
+0x5220	0x98	ALTO	#6A	What should we do	
+				to help you escape, Gio?	
+0x5274	0x06	ALTO		ANI_WAIT	
+0x529a	0x41	None	#0W#2E#310c	Somehow, it seems the barrier	
+				attached to this "Cage" uses the	
+				seasons of its surroundings.#0E	
+0x5353	0x41	None	#0W#2E#310c	If you take back the <Master Gear> and	
+				restore this continent's climate to normal, it's	
+				possible that the barrier will be dispelled.#0E	
+0x543d	0x06	Signa		ANI_GESTURE1	
+0x5468	0x98	Signa	#6A	If nothing else,	
+				it seems we must take back	
+				the <Master Gear>.	
+0x54d0	0xBC	NOI		Ellipsis	
+0x5562	0x98	ALTO		Hey, what's wrong, Noi?	
+				It looks like you're thinking	
+				about something, but...	
+0x5605	0x98	NOI	#6A	N-No, it's nothing...	
+0x5661	0x98	NOI	#6A	(...Z-Zext headed for the	
+				 temple. That means...)	
+0x56b3	0x98	NOI	#6A	(Then, it's as I thought...)	
+0x56f9	0x41	None	#0W#2E#310c	...Be that as it may, if you do not	
+				recover the <Master Gear> quickly,	
+				something bad may happen.#0E	
+0x57b7	0x41	None	#0W#2E#310c	Noi, and...	
+				Nayuta and Cygna too.#0E	
+0x5837	0x41	None	#0W#2E#310c	As soon as possible, please	
+				proceed to the <Temple> that is just past here.#0E	
+0x595f	0x06	ALTO		ANI_THANKS	
+0x5987	0x98	ALTO	#6A	Understood...	
+				For right now, please	
+				leave this to us.	
+0x59e5	0x06	Signa		ANI_JOY	
+0x5a0b	0x98	Signa	#6A	Rest easy. We'll	
+				beat that Zext guy up	
+				for you!	
+0x5a81	0x98	NOI	#6A	...Y-Yeah, that's right.	
+0x5ad7	0x06	NOI		ANI_GUTSPOSE	
+0x5b00	0x98	NOI	#6A	Gio...	
+				We'll definitely come	
+				save you later!	
+0x5b54	0x41	None	#0W#2E#310c	Mmm...please do your best for me!#0E	
+0x5e5f	0x06	ALTO		ANI_JOY	
+0x5e84	0x98	ALTO		Now then...	
+				Let's head to the <Temple> quickly!	
+0x5ed2	0x06	ALTO		ANI_GESTURE1	
+0x5efc	0x98	ALTO		Noi, please guide us.	
+0x5f39	0x06	NOI		ANI_NOD	
+0x5f5d	0x98	NOI	#6A	Yeah...and y'know,	
+				I know that without you telling me!	
+0x5fbc	0x06	Signa		ANI_WAIT0	
+0x5fe4	0x98	Signa		(.....................)	
+0x6189	0xCE	Objective		It seems Zext is at the temple. Let's face him!	

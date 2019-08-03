@@ -1,0 +1,23 @@
+mp_7020
+init
+EarthQuake_Loop
+move6_on
+0x8a2	0x06	switch1		ANI_LEVER_ON_LOCK	
+battle_boss
+0x937	0x6B	ALTO		Exclamation	
+dead_event
+move11_on
+move14_on
+0xe0b	0x06	switch3		ANI_LEVER_ON_LOCK	
+m1_in
+move_timer1
+entry
+battle_skill
+0x102e	0x06	mahouzin2		ANI_STOP2	
+0x1070	0x6B	ALTO		Exclamation	
+dead_skill
+open_door01
+0x1478	0x07	System	#3C	Defeated high-rank monster [Evil Tycoon]!	
+0x1539	0x06	NOI		ANI_TAMEATK1	
+0x159c	0x07	System	#1C	Noi recovered the summer magic, #4C『#781IHailstorm』#1C!	
+0x1628	0xC1	System		obtained.	mp_0000 0x7558

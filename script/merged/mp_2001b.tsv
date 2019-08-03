@@ -1,0 +1,143 @@
+mp_2001b
+init
+ev_goal
+open_door1
+0x781	0x06	swt01		ANI_LEVER_ON_LOCK	
+boss_battle01
+0x883	0x06	mahouzin		ANI_STOP2	
+0x8c4	0x6B	ALTO		Exclamation	
+dead_EV01
+open_door2_3
+0x103b	0x07	System	#3C	Defeated High-Rank Monster [Bullet Popo]!	
+0x10fc	0x06	NOI		ANI_TAMEATK1	
+0x115f	0x07	System	#1C	Noi recovered the summer magic, [Bullet Bee]!	
+0x11df	0xC1	System		obtained.	mp_0000 0x7558
+boss_battle02
+0x1357	0x6B	ALTO		Exclamation	
+dead_EV02
+set_jampdai01
+SB_2_S16_alto_move
+SB_2_S16_noi_move
+EV_2_S16_big_hindrance
+0x19d2	0x06	st		ANI_PATA2	
+0x1aa8	0x6B	ALTO		Exclamation	
+0x1ad2	0x6B	NOI		Exclamation	
+0x1c08	0x06	ALTO		ANI_SURPRISE	
+0x1c32	0x98	ALTO		W-What is this...	
+				A huge gear!?	
+0x1c78	0x06	NOI		ANI_SURPRISE	
+0x1ca1	0x98	NOI	#6A	Maybe it used to be	
+				embedded in the ceiling, but	
+				now it has fallen!	
+0x1db0	0x06	ALTO		ANI_THINK2	
+0x1dd8	0x98	ALTO		Now that you mention it, it seems	
+				like I've seen gear-like things	
+				many times...	
+0x1e45	0x98	ALTO		Maybe this is the world	
+				made by the <Mythos>...	
+0x1e93	0x06	ALTO		ANI_GESTURE2	
+0x1ebd	0x98	ALTO		Haha, it seems devices even more	
+				amazing than the Astrolabe	
+				are still hidden.	
+0x1f28	0x98	ALTO		Someday, I want to	
+				investigate them, but...	
+0x1f7a	0x06	NOI		ANI_DULL	
+0x1f9f	0x98	NOI	#6A	Y-Yeah...	mp_0004 0x5c94
+0x200e	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x203c	0x98	ALTO		...Sorry.	
+				We've got to concentrate on	
+				finding Cygna right now.	
+0x2098	0x98	ALTO		First up, we've got to do something	
+				with this gear that's blocking the path.	
+0x212e	0x06	NOI		ANI_WAIT	
+0x2183	0x06	NOI		ANI_GUTSPOSE	
+0x21ac	0x98	NOI	#6A	...If it's that, then we're alright.	
+				Because we have	
+				"Gear Buster" now!	
+0x2213	0x98	NOI	#6A	This power I received from Gio	
+				should be able to destroy this	
+				gear!	
+0x227e	0x06	ALTO		ANI_JOY	
+0x22a3	0x98	ALTO		Oh, that's right.	
+				Let's give it a try!	
+0x22fa	0x06	NOI		ANI_DEJECTED	
+0x2323	0x98	NOI	#6A	...You're right.	
+				We can't proceed like this...	
+0x237a	0x98	ALTO		It might be good to	
+				suspend the search	
+				for the time being.	
+0x23d2	0x06	ALTO		ANI_GESTURE2	
+0x23fc	0x98	ALTO		Next, want to try	
+				saving Gio?	
+0x247b	0x98	NOI	#6A	Yeah, Gio might know	
+				a good method for this...	
+0x24ca	0x06	NOI		ANI_NOD	
+0x24ee	0x98	NOI	#6A	Let's try going to "Summer"	
+				of <Oltapia>!	
+0x2540	0xCE	Objective		Next, let's save Gio in summer of Oltapia.	
+SB_2_S21_turn_ALTO
+SB_2_S21_turn_NOI
+EV_2_S21_look_cage_2nd
+0x29e2	0x41	None	#0W#2E#029c	Haaa...Why do I have to go through this...#0E	
+0x2a74	0x6B	ALTO		Exclamation	
+0x2aa6	0x6B	NOI		Exclamation	
+0x2af4	0x98	ALTO		That voice now was...!?	
+0x2b50	0x98	NOI	#6A	...It can't be!	
+0x2cae	0x06	ALTO		ANI_SURPRISE_WEAK	
+0x2cdd	0x98	ALTO	#6A	That was...the same as	
+				when Gio was trapped!?	
+0x2d34	0x06	NOI		ANI_GESTURE1	
+0x2d5d	0x98	NOI	#6A	...Elis...	
+				It can't be, is that you, Elis!?	
+0x2db1	0x41	None	#0W#2E#029c	...Could it be, Noi?	
+				Are you close?#0E	
+0x2e33	0x41	None	#1W#2E#029c	Oh, good...	
+				you are safe!#0E	
+0x2ed0	0x98	ALTO		It appears to be...a woman.	
+0x2f13	0x06	NOI		ANI_NOD	
+0x2f37	0x98	NOI	#6A	Yeah, she is	
+				<Song Maiden> Elislette...	
+				This continent's warden.	
+0x2f9f	0x41	None	#0W#2E#029c	My...what do we have here?	
+				I feel a strange presence near you...#0E	
+0x3064	0x41	None	#0W#2E#029c	...It cannot be...	
+				Is this presence, a "human!?"#0E	
+0x30f3	0x41	None	#0W#2E#029c	For Noi to be acting with a human...#0E	
+0x317f	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x31ad	0x98	ALTO	#6A	Umm, I am called Nayuta.	
+				In truth, there are various circumstances...	
+0x321c	0x40	UNDEF		Nayuta briefly explained everything up to now.	
+0x3273	0x41	None	#0W#2E#029c	I see...	
+				It looks as though something	
+				similar happened on <Oltapia>.#0E	
+0x3315	0x41	None	#0W#2E#029c	I, too, was captured by "Zext"	
+				when I was in my temple.#0E	
+0x33ab	0x41	None	#0W#2E#029c	In this cramped and painful	
+				situation, I cannot sing, you see...#0E	
+0x344a	0x41	None	#0W#2E#029c	...And, of all things, to misrepresent	
+				himself as the head of the <Mythos>...	
+				That I truly cannot forgive!#0E	
+0x351a	0x06	NOI		ANI_NOD	
+0x353e	0x98	NOI	#6A	Yeah...	
+				We can't leave things like this.	
+0x35a4	0x98	NOI	#6A	But...I expect those people	
+				plan to stop this continent's	
+				<Temple> as well.	
+0x362c	0x98	ALTO	#6A	The situation is the same as before,	
+				so it's a strong possibility.	
+0x3698	0x41	None	#0W#2E#029c	...Noi, and Nayuta too.	
+				For now anyway, hurry and	
+				head for the <Temple>.#0E	
+0x3779	0x41	None	#0W#2E#029c	Since there has not been much	
+				time that has passed since I was trapped,	
+				if you hurry, you should arrive in time!#0E	
+0x3847	0x41	None	#0W#2E#029c	I entrust everything to you.	
+				Please, do this that I ask of you!#0E	
+0x3919	0x06	ALTO		ANI_THANKS	
+0x3941	0x98	ALTO	#6A	Please leave it to me!	
+0x3982	0x06	NOI		ANI_GUTSPOSE	
+0x39ab	0x98	NOI	#6A	Just wait, Elis!	
+				We'll recover the <Master Gear> and	
+				get you out of there soon!	
+0x3c56	0xCE	Objective		Zext went to the temple again. We've gotta hurry there!	
+EV_2_Sxx_break_obj

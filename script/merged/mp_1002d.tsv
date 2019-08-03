@@ -1,0 +1,30 @@
+mp_1002d
+init
+ev_goal
+switch1
+0x6fa	0x06	switch1		ANI_LEVER_ON_LOCK	
+switch2
+0x793	0x06	switch2		ANI_LEVER_ON_LOCK	
+switch3
+0x82c	0x06	switch3		ANI_LEVER_ON_LOCK	
+open_door4
+switch4
+0x93d	0x06	switch4		ANI_LEVER_ON_LOCK	
+switch5
+0x9d6	0x06	switch5		ANI_LEVER_ON_LOCK	
+jump01_put
+ev_timer
+0xc07	0x06	switch4		ANI_STOP1	
+0xc31	0x06	switch5		ANI_STOP1	
+push_box
+0xc87	0x06	boxpoint		ANI_ON	
+crystal
+monster_put2
+0xfb2	0x6B	ALTO		Exclamation	
+dead_ev02
+put_hana01
+0x1244	0x6B	ALTO		Exclamation	
+monster_put3
+0x138c	0x6B	ALTO		Exclamation	
+dead_ev05
+open_door3

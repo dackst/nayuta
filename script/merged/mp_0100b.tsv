@@ -1,0 +1,163 @@
+mp_0100b
+init
+EV_6_S35_bombard_earth
+0x766	0x06	Creha2		ANI_GRASP_CLOTH	
+0xcee	0x06	ALTO		ANI_FIND	
+0xd14	0x98	ALTO	#1W#6A	..................	mp_0000d 0x70fd
+0xd54	0x98	ALTO	#1W#6A	...This is...	
+				...Our world right now...	
+0xda8	0x98	ALTO	#0W#6A	On the other side of	
+				<The End of the World>...	
+				...there is something like this...	
+0xe25	0x06	NOI		ANI_DENY	
+0xe52	0x98	NOI	#1W#6A	...No way...	
+0xe8b	0x98	Creha	#0W	...At this time, the <Core> of the	
+				planet suffered a grave injury.	
+0xef0	0x98	Creha	#0W	Even now, the	
+				"destruction" is advancing.	
+0xf44	0x98	Creha	#0W	Now, to the humans	
+				that have built up the surface,	
+				it is but a trifle...	
+0xfb6	0x98	Creha	#0W	Anyhow, before long...	
+				complete "death" will	
+				visit the surface.	
+0x11f1	0x98	Creha	#1W	Because of us, this beautiful	
+				planet's appearance can be restored.	
+0x12d1	0x98	Creha	#1W	...Even so...	
+0x130a	0xBC	Creha		Ellipsis	
+0x13b4	0x98	Creha	#1W	Even so,	
+				are you saying what we're	
+				doing is a mistake!?	
+0x1437	0x98	Creha	#1W#16S	Answer me, Nayuta!	
+0x1479	0x98	NOI	#1W#6A	...Master Kureha...	
+0x166d	0x98	ALTO	#2W#6A	.....................	
+				.....................	
+0x16d3	0x98	ALTO	#3W#6A	...Even so...	mp_0100b 0x12d1
+0x1769	0x06	ALTO		ANI_DENY	
+0x17a5	0x98	ALTO	#2W#6A	──You are wrong.	
+0x1905	0x06	ALTO		ANI_GESTURE1	
+0x192f	0x98	ALTO	#0W#6A	On the surface, people are	
+				eagerly living out "history."	
+0x1994	0x98	ALTO	#0W#6A	Even though there's little land	
+				left, and their lifespans are short,	
+				people can take over various things...	
+0x1a2b	0x98	ALTO	#0W#6A	And as for the surface world they	
+				have made, various literature and ruins	
+				are proof of it.	
+0x1b81	0x06	ALTO		ANI_JOY	
+0x1ba6	0x98	ALTO	#0W#6A	To me, that world is absolutely	
+				not a "trifle."	
+0x1c02	0x98	NOI		Nayuta...	mp_0000d 0x7671
+0x1c7e	0x98	ALTO	#6A	When the god-like gaze of the	
+				<Mythos> looks down on us, the	
+				surface must seem small...	
+0x1cfe	0x98	ALTO	#6A	But I can't imagine our world	
+				as a "trifle," no matter what.	
+0x1db0	0x98	ALTO	#1W#6A	But...	
+0x1f61	0x98	ALTO	#0W#100x#270y	Even though it was only for a little	
+				while, you spent some time at my	
+				house, Kureha.	
+0x1ff6	0x98	ALTO	#0W#100x#270y	These past five years, Cygna came	
+				to work the Handyman Shop with me on	
+				Remnant Island.	
+0x208d	0x98	ALTO	#1W#100x#270y	──If it is you two,	
+				you should understand that already, right?	
+0x210f	0x98	ALTO	#3W#100x#270y	That world is	
+				truly irreplaceable.	
+0x2218	0x98	Creha	#1W	..................!	
+0x235d	0x06	ALTO		ANI_COMPLAIN	
+0x2395	0x98	ALTO	#1W#6A	People and <Mythos>	
+				should live together!	
+0x23f9	0x98	ALTO	#0W#6A	Rather than a <Remaking>,	
+				surely there must be some other method!	
+0x2475	0x98	ALTO	#0W#6A	Let's not give up until the	
+				end, and search for it together!	
+0x24fd	0xBC	Creha		Ellipsis	
+0x25a1	0x06	Creha		ANI_WAIT2	
+0x25df	0x98	Creha	#1W	...Thank you.	mp_0100a 0x8a4e
+0x2626	0x98	Creha	#0W	If it is you, Nayuta...	
+0x26c5	0x98	Creha	#1W	If it is you,	
+				I can believe what you said.	
+EV_7_S17_collapse_core
+EV_7_S20_byebye_tera
+0x2cc8	0x06	ALTO		ANI_FLY_IN_SPACE	
+0x30ad	0x98	ALTO	#2W	.....................	mp_0003 0xc610
+0x3139	0x98	ALTO	#1W	...This place...is...	
+0x31bd	0x98	ALTO	#0W	Is this...a dream, maybe...	
+0x3247	0x98	ALTO	#0W	Somehow...I'm sleepy...	
+0x32b5	0x41	None	#0W#2E#226c	──It's not a dream or anything.#0E	
+0x3336	0x41	None	#1W#2E#226c	See, look below.#0E	
+0x3418	0x98	ALTO	#1W	Huh...	mp_0001 0x166ea
+0x346f	0x98	ALTO	#3W	Ah...	mp_0004 0x6a21
+0x35d5	0x06	ALTO		ANI_WAKE_IN_SPACE	
+0x3a9f	0x98	ALTO	#0W#6A	Cygna, Kureha...	
+0x3add	0x98	ALTO	#0W#6A	Oh, that's right...	
+				It went well...	
+0x3b2d	0x06	Creha3		ANI_NOD	
+0x3b74	0x98	Creha3	#0W	Yeah...Looks like we completely	
+				repaired the core of the planet.	
+0x3bd8	0x98	Creha3	#0W	Your world should	
+				be all right now.	
+0x3c27	0x06	Signa		ANI_WAIT6	
+0x3c95	0x98	Signa	#0W	Well, the case is closed.	
+0x3d3f	0x98	Signa	#0W	Thanks to you,	
+				<Terra> completely used	
+				up its power.	
+0x3d9d	0x98	ALTO	#0W#6A	Huh...	mp_0001 0x166ea
+0x3eab	0x98	ALTO	#0W#440x#230y	It's...so far...	
+0x3fc4	0x06	Creha3		ANI_GESTURE1	
+0x3ff8	0x98	Creha3	#0W	Thanks to the recoil earlier,	
+				it's out of its orbit.	
+0x4050	0x98	Creha3	#0W	Though we can control it with	
+				<Terra>'s functions now...	
+0x40b4	0x06	Signa		ANI_WAIT5	
+0x40f3	0x98	Signa	#0W	It'll be ahwile until it's	
+				again near the surface.	
+0x4148	0x98	Signa	#0W	──Until then...	
+				it's farewell for awhile.	
+0x41ba	0x98	ALTO	#0W#6A	Farewell...	
+0x41f3	0xBC	ALTO		Exclamation	
+0x426a	0x98	ALTO	#0W#6A#16S	Wait, what do you	
+				mean by that!?	
+0x43c3	0x06	Creha3		ANI_THINK	
+0x4402	0x98	Creha3	#0W	...Though I'm truly worried...	
+0x4445	0x06	Creha3		ANI_DENY	
+0x447b	0x98	Creha3	#2W	As I thought, we	
+				can't leave Noi behind.	
+0x44f5	0x98	ALTO	#2W#6A	...Ah...	mp_0001 0xd6a4
+0x452b	0x06	Signa		ANI_GESTURE2	
+0x4564	0x98	Signa	#1W	I think we need to fix the	
+				completely broken <Astrolabe>.	
+0x45ce	0x98	Signa	#1W	I don't know how long	
+				it'll take, but...	
+				Please wait for us.	
+0x4634	0x06	Creha3		ANI_WAIT2	
+0x46b3	0x98	Creha3	#1W	This time...we'll live together	
+				on <Remnant Island> with Noi.	
+0x472a	0x98	Creha3	#1W	...Because surely, I will go	
+				to meet you again!	
+0x4793	0x98	ALTO	#3W#6A	...Kureha...	
+0x48e1	0x6B	ALTO		Ellipsis	
+0x4979	0x98	ALTO	#0W	...Though I'll be lonely,	
+				it's a promise.	
+0x4a16	0x98	ALTO	#1W	I will wait.	
+				On that beautiful surface...	
+0x4aa9	0x98	ALTO	#1W#16S	On <Remnant Island>,	
+				I'll be waiting!	
+0x4bc6	0x06	Signa		ANI_NOD	
+0x4c19	0x98	Signa	#1W#16S	Yeah...A promise!	
+0x4c60	0x98	Signa	#1W	Say hi to Master, Lyra	
+				and Eartha for me!	
+0x4da0	0x06	Creha3		ANI_PRAY	
+0x4dd6	0x98	Creha3	#2W	...Truly, thank you!	
+0x4e17	0x06	Creha3		ANI_WAIT2	
+0x4e76	0x98	Creha3	#1W	See you again, Nayuta!	
+0x5304	0x06	ALTO		ANI_WAKE_IN_SPACE_END	
+0x5696	0x41	None	#2W#2E	This world has an "End"...	
+				We were taught that since long ago.#0E	
+0x5744	0x41	None	#1W#2E	However...The truth was different.#0E	
+0x57d7	0x41	None	#2W#2E	The world is wide without limit...	
+				In it are the people important to me.#0E	
+0x588f	0x41	None	#1W#2E	I will continue to wait.	
+				Until the day I meet them again──#0E	
+EV_7_S20_fallto_cape_cs

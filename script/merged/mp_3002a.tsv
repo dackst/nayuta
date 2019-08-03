@@ -1,0 +1,56 @@
+mp_3002a
+init
+ev_timer
+ev_goal
+battle
+0x9be	0x6B	ALTO		Exclamation	
+dead_EV01
+kaze1_on
+kaze2_on
+kaze3_on
+kaze4_on
+kaze5_on
+kaze6_on
+battle_boss
+0x11a4	0x6B	ALTO		Exclamation	
+dead_EV02
+open_door_1_2_3
+box_put
+box_put2
+ev_timer2
+0x258f	0x06	sw01		ANI_LEVER_OFF	
+door03_open
+0x25d2	0x06	boxpoint		ANI_ON	
+0x2695	0x06	sw01		ANI_LEVER_ON_LOCK	
+dead_EV04
+0x2756	0x07	System	#3C	Defeated high-rank monster [Lindblum]!	
+0x2815	0x06	ALTO		ANI_TAMEATK1	
+0x2847	0xC1	System		obtained.	mp_0000 0x7558
+0x2a49	0x06	ALTO		ANI_NOD	
+0x2a6e	0x98	ALTO		Phew...We defeated it somehow.	mp_1000d 0x15cc
+0x2aac	0x06	ALTO		ANI_GESTURE2	
+0x2ad6	0x98	ALTO		Does it seem like that monster	mp_1000d 0x1634
+				appeared due to the abnormalities?	
+0x2b36	0x06	NOI		ANI_NOD	
+0x2b72	0x98	NOI	#6A	Yes, that power...	mp_1000d 0x16d0
+				There's no mistake.	
+0x2bb9	0x06	NOI		ANI_LAUGH	
+0x2bdf	0x98	NOI	#6A	But with this, this region	mp_1000d 0x173d
+				should be a little more peaceful.	
+0x2c3c	0x98	NOI	#6A	Nayuta, let's report to the	mp_1000d 0x179a
+				spirit that made the request!	
+0x2ca0	0x98	NOI	#6A	Yeah, there's no mistake.	mp_1000d 0x17fe
+0x2cdb	0x06	NOI		ANI_LAUGH	
+0x2d01	0x98	NOI	#6A	With this, this region	mp_1000d 0x185f
+				should be a little more peaceful.	
+0x2d5a	0x98	NOI	#6A	Nayuta, let's report to the	mp_1000d 0x179a
+				spirit that made the request!	
+0x2db6	0x06	ALTO		ANI_GUTSPOSE	
+0x2de0	0x98	ALTO		Yeah!	mp_0001 0x1174e
+encount_secret
+0x3122	0x6B	ALTO		Exclamation	
+0x314c	0x6B	NOI		Exclamation	
+0x3239	0x98	NOI		That monster...!	mp_1000d 0x1c91
+0x3270	0x98	ALTO		It's the monster that spirit asked	mp_1000d 0x1cc8
+				us to defeat...	
+				Let's fight it carefully!	

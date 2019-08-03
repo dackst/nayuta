@@ -1,0 +1,32 @@
+mp_2000a
+init
+ev_goal
+ob_sw_cb
+0x50a	0x06	ob_sw_00		ANI_CHANGE_GREEN	
+0x53c	0x06	ob_sw_01		ANI_CHANGE_GREEN	
+0x56e	0x06	ob_sw_02		ANI_CHANGE_GREEN	
+0x671	0x06	ob_sw_00		ANI_CHANGE_RED	
+0x6a1	0x06	ob_sw_01		ANI_CHANGE_RED	
+0x6d1	0x06	ob_sw_02		ANI_CHANGE_RED	
+point
+ob_sw_cb2
+0x94f	0x06	ob_sw_00		ANI_CHANGE_GREEN	
+0x981	0x06	ob_sw_01		ANI_CHANGE_GREEN	
+0x9b3	0x06	ob_sw_02		ANI_CHANGE_GREEN	
+0xb35	0x06	ob_sw_00		ANI_CHANGE_RED	
+0xb65	0x06	ob_sw_01		ANI_CHANGE_RED	
+0xb95	0x06	ob_sw_02		ANI_CHANGE_RED	
+boss_battle01
+0xd0a	0x6B	ALTO		Exclamation	
+dead_EV01
+open_door2_A0
+open_door4
+boss_battle02
+0x122f	0x6B	ALTO		Exclamation	
+dead_EV02
+open_door4_3
+open_door1
+boss_battle03
+0x172a	0x6B	ALTO		Exclamation	
+dead_EV03
+open_door5

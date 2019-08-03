@@ -1,0 +1,139 @@
+mp_3001d
+init
+ev_goal
+close_door1_2
+0x768	0x06	mahouzin		ANI_STOP2	
+0x7a9	0x6B	ALTO		Exclamation	
+dead_EV01
+open_door1_2
+0xd52	0x07	System	#3C	Defeated high-rank monster, "Gear Cho!"	
+0xe11	0x06	NOI		ANI_TAMEATK1	
+0xe74	0x07	System	#1C	Noi recovered the winter magic, #4C『#769IIcicle Spear』#1C!	
+0xf03	0xC1	System		obtained.	mp_0000 0x7558
+Frost01
+Frost01_Cmd
+0x10df	0x06	ob_309_01		ANI_LEVER_ON	
+0x111e	0x06	ob_309_01		ANI_LEVER_OFF	
+Frost02
+Frost02_Cmd
+0x11e8	0x06	ob_309_02		ANI_LEVER_ON	
+0x1227	0x06	ob_309_02		ANI_LEVER_OFF	
+Frost03
+Frost03_Cmd
+0x12f1	0x06	ob_309_03		ANI_LEVER_ON	
+0x1330	0x06	ob_309_03		ANI_LEVER_OFF	
+Frost04
+Frost04_Cmd
+0x13fa	0x06	ob_309_04		ANI_LEVER_ON	
+0x1439	0x06	ob_309_04		ANI_LEVER_OFF	
+Frost05
+Frost05_Cmd
+0x1503	0x06	ob_309_05		ANI_LEVER_ON	
+0x1542	0x06	ob_309_05		ANI_LEVER_OFF	
+ice01
+ice01_Cmd
+0x16c9	0x06	ob_309_01		ANI_10	
+0x1738	0x06	ob_309_01		ANI_20	
+0x17a7	0x06	ob_309_01		ANI_30	
+0x1816	0x06	ob_309_01		ANI_40	
+0x1885	0x06	ob_309_01		ANI_50	
+0x18f4	0x06	ob_309_01		ANI_60	
+0x1963	0x06	ob_309_01		ANI_70	
+0x19d2	0x06	ob_309_01		ANI_80	
+0x1a41	0x06	ob_309_01		ANI_90	
+0x1ab0	0x06	ob_309_01		ANI_100	
+ice02
+ice02_Cmd
+0x1c3b	0x06	ob_309_02		ANI_10	
+0x1caa	0x06	ob_309_02		ANI_20	
+0x1d19	0x06	ob_309_02		ANI_30	
+0x1d88	0x06	ob_309_02		ANI_40	
+0x1df7	0x06	ob_309_02		ANI_50	
+0x1e66	0x06	ob_309_02		ANI_60	
+0x1ed5	0x06	ob_309_02		ANI_70	
+0x1f44	0x06	ob_309_02		ANI_80	
+0x1fb3	0x06	ob_309_02		ANI_90	
+0x2022	0x06	ob_309_02		ANI_100	
+ice03
+ice03_Cmd
+0x21ad	0x06	ob_309_03		ANI_10	
+0x221c	0x06	ob_309_03		ANI_20	
+0x228b	0x06	ob_309_03		ANI_30	
+0x22fa	0x06	ob_309_03		ANI_40	
+0x2369	0x06	ob_309_03		ANI_50	
+0x23d8	0x06	ob_309_03		ANI_60	
+0x2447	0x06	ob_309_03		ANI_70	
+0x24b6	0x06	ob_309_03		ANI_80	
+0x2525	0x06	ob_309_03		ANI_90	
+0x2594	0x06	ob_309_03		ANI_100	
+ice04
+ice04_Cmd
+0x271f	0x06	ob_309_04		ANI_10	
+0x278e	0x06	ob_309_04		ANI_20	
+0x27fd	0x06	ob_309_04		ANI_30	
+0x286c	0x06	ob_309_04		ANI_40	
+0x28db	0x06	ob_309_04		ANI_50	
+0x294a	0x06	ob_309_04		ANI_60	
+0x29b9	0x06	ob_309_04		ANI_70	
+0x2a28	0x06	ob_309_04		ANI_80	
+0x2a97	0x06	ob_309_04		ANI_90	
+0x2b06	0x06	ob_309_04		ANI_100	
+ice05
+ice05_Cmd
+0x2c91	0x06	ob_309_05		ANI_10	
+0x2d00	0x06	ob_309_05		ANI_20	
+0x2d6f	0x06	ob_309_05		ANI_30	
+0x2dde	0x06	ob_309_05		ANI_40	
+0x2e4d	0x06	ob_309_05		ANI_50	
+0x2ebc	0x06	ob_309_05		ANI_60	
+0x2f2b	0x06	ob_309_05		ANI_70	
+0x2f9a	0x06	ob_309_05		ANI_80	
+0x3009	0x06	ob_309_05		ANI_90	
+0x3078	0x06	ob_309_05		ANI_100	
+SB_3_S10_appear_ALTO
+0x3198	0x6B	ALTO		Exclamation	
+SB_3_S10_appear_NOI
+0x32ca	0x6B	NOI		Exclamation	
+EV_3_S10_mount2_start
+0x34bf	0x06	st		ANI_PATA2	
+0x3683	0x06	ALTO		ANI_SIT6	
+0x36a9	0x98	ALTO	#290x#120y	It's a cliff!	
+0x36ec	0x98	ALTO	#290x#120y	As you might expect,	
+				it's too wide for me to jump...	
+0x3749	0x06	NOI		ANI_THINK	
+0x376f	0x98	NOI		Hmm, even with my power,	
+				carrying you is pretty difficult...	
+0x3811	0x06	NOI		ANI_SURPRISE	
+0x383a	0x98	NOI	#6A	...Hey, what is that!?	
+0x3934	0x06	ALTO		ANI_WAIT	
+0x397a	0x98	ALTO		A gear is floating?	
+0x39b5	0x98	NOI		The <Mythos> of great antiquity	
+				created those as an alternate	
+				transportation device.	
+0x3a26	0x98	NOI		One walks along the fixed gears	
+				using magic, though...	
+0x3b20	0x06	NOI		ANI_GESTURE2	
+0x3b49	0x98	NOI	#6A	...As I thought, it's no good.	
+				As you are now, you can't use magic.	
+0x3c03	0x06	ALTO		ANI_DEJECTED	
+0x3c2d	0x98	ALTO		No way...	mp_0100 0x1c977
+0x3c56	0x6B	NOI		Unknown	
+0x3c87	0x06	NOI		ANI_COMPLAIN	
+0x3cb0	0x98	NOI	#6A	B-But, I'm sure there	
+				is some method!	
+0x3cf6	0x98	NOI	#6A	Want to try searching for it?	
+0x3d52	0x98	ALTO		Another method...is it.	
+				It would be good if that's	
+				the case.	
+0x3dac	0x06	NOI		ANI_GUTSPOSE	
+0x3dd5	0x98	NOI	#6A	It might be good to suspend our exploration	
+				for now and help Elislette next.	
+0x3e42	0x98	NOI	#6A	We should be able to release	
+				her from the "Cage" now...	
+0x3e9a	0x06	ALTO		ANI_THINK2	
+0x3ec2	0x98	ALTO		The <Rieseweld> continent...	
+				That might be good.	
+0x3f11	0x06	ALTO		ANI_GESTURE2	
+0x3f3b	0x98	ALTO		Then, we'll retrace our	
+				steps, for now.	
+0x4087	0xCE	Objective		There's a cliff - we can't proceed. Let's help Elislette next.	

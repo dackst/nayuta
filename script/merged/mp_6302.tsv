@@ -1,0 +1,238 @@
+mp_6302
+init
+talk_Nemeas
+0x71f	0x98	Nemeas		The <Mythos> have	
+				"Ancient Memories" that	
+				were not given to Noi.	
+0x77f	0x98	Nemeas		Because of that, as for	
+				the source of their mission...	
+0x7d6	0x98	Nemeas		Now that you have learned that, will you	
+				be able to maintain your determination?	
+0x847	0x98	Nemeas		I will entrust you	
+				with the rest.	
+0x889	0x98	Nemeas		May the stars guide your path.	
+0x8f1	0x98	Nemeas		...Nayuta, Noi.	
+				I will entrust the rest	
+				to your determination.	
+0x94f	0x98	Nemeas		May the stars guide your path.	mp_6302 0x889
+boss_retry
+0xa5b	0x06	b008		ANI_WAIT	
+boss_demo1
+0xc6e	0x06	PLAYER1		ANI_WAIT	
+0xc97	0x06	PLAYER2		ANI_WAIT	
+0xcc0	0x06	b008		ANI_WAIT	
+0xde0	0x06	b008		ANI_DEMO2	
+SB_6_S22_appear_ALTO
+SB_6_S22_appear_NOI
+EV_6_S22_in_bossmap4
+0x1509	0x06	st		ANI_PATA1	
+0x1735	0x06	ALTO		ANI_LOOK_AROUND	
+0x1762	0x98	ALTO		This is the interior	mp_6300 0x18ae
+				of the "Pillar"...	
+0x17e0	0x98	ALTO	#6A	It certainly is the	mp_6300 0x192c
+				place that supplies the	
+				continent with <Power of Stars>.	
+0x1885	0x98	NOI		Yeah, exactly right.	mp_6300 0x19d1
+0x18b8	0x06	NOI		ANI_GESTURE2	
+0x18e1	0x98	NOI		The <Stellagear> should be	mp_6300 0x1a2d
+				installed in the center of	
+				this place.	
+0x1947	0x06	ALTO		ANI_JOY	
+0x196c	0x98	ALTO	#6A	Anyway, let's try looking for it!	mp_6300 0x1ab8
+EV_6_S29_hituzi_boss
+0x1e9d	0x41	None	#1W#2E#710c	──So you have come.#0E	mp_6300 0x220d
+0x1f1a	0x6B	ALTO		Exclamation	
+0x1f6a	0x6B	NOI		Exclamation	
+0x23a2	0x06	NOI		ANI_SURPRISE	
+0x23cb	0x98	NOI	#6A	Nemeas!?	
+0x23fd	0x06	Nemeas		ANI_NOD	
+0x2424	0x98	Nemeas		Nayuta, and Noi too.	mp_6301 0x2b24
+0x247a	0x98	Nemeas		I cannot give you	
+				the <Stellagear>.	
+0x24be	0x06	Nemeas		ANI_GESTURE2	
+0x250a	0x98	Nemeas		Please leave immediately.	
+0x256d	0x6B	ALTO		Exclamation	
+0x259f	0x6B	NOI		Exclamation	
+0x25d0	0x06	ALTO		ANI_COMPLAIN	
+0x25fa	0x98	ALTO	#6A	Why!?	mp_0004c 0x3162
+0x2672	0x06	NOI		ANI_GESTURE1	
+0x269b	0x98	NOI	#6A	I-It can't be!!	mp_6301 0x2cff
+0x273b	0x98	Nemeas		...I learned the truth.	
+0x27b4	0x98	Nemeas		The mission of the <Mythos>...	mp_6300 0x2b5b
+				And the true reason for the	
+				existence of <Terra>.	
+0x284c	0x06	Nemeas		ANI_GESTURE1	
+0x2898	0x98	Nemeas		As a <Warden> of the continents,	mp_6300 0x2c43
+				I cannot allow you to interfere in	
+				the <Remaking> of Master Kureha and the others.	
+0x2953	0x06	NOI		ANI_COMPLAIN	
+0x297c	0x98	NOI	#6A	...What do you mean, Nemeas!?	
+0x29f2	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f
+				surface where Nayuta is...	
+0x2a48	0x06	NOI		ANI_DENY	
+0x2a6d	0x98	NOI	#6A	We don't want to let Master	mp_6300 0x2e1a
+				Kureha do that!	
+0x2ac1	0x06	ALTO		ANI_JOY	
+0x2ae6	0x98	ALTO	#6A	Yeah, we've got to stop her,	mp_6300 0x2e93
+				no matter what!	
+0x2ba4	0x06	Nemeas		ANI_DENY	
+0x2bcc	0x98	Nemeas		...That is naive, isn't it.	
+0x2c09	0x98	Nemeas		If you think you will stop	
+				the <Mythos>' mission	
+				with that attitude...	
+0x2cb7	0x98	Nemeas		I all can say is,	
+				how shallow!	
+0x2d08	0x06	Nemeas		ANI_DENY	
+0x2d30	0x98	Nemeas		I cannot give you	mp_6302 0x247a
+				the <Stellagear>.	
+0x2d74	0x06	Nemeas		ANI_GESTURE2	
+0x2da0	0x98	Nemeas		Please, leave	
+				as you are.	
+0x2de2	0x06	NOI		ANI_COMPLAIN	
+0x2e0b	0x98	NOI	#6A	No way...	
+				Nemeas, you too!?	
+0x2e86	0x98	Nemeas		I am terribly sorry, Noi.	
+0x2f09	0x98	Nemeas		However, as I am a <Warden>...	
+				It cannot be helped.	
+0x2fd5	0x98	Nemeas		...As much as possible, I	
+				do not wish to fight you two.	
+0x302d	0x06	Nemeas		ANI_GESTURE1	
+0x3079	0x98	Nemeas		Please...Will you	
+				retrace your steps?	
+0x30e7	0x06	ALTO		ANI_DENY	
+0x310d	0x98	ALTO	#6A	...We must proceed	
+				ahead.	
+0x3148	0x06	ALTO		ANI_JOY	
+0x316d	0x98	ALTO	#6A	To meet Cygna and Kureha	
+				once more!	
+0x3222	0x98	Nemeas		...Too bad.	
+0x3297	0x98	Nemeas		Then──!	
+0x3311	0x06	Nemeas		ANI_WAIT	
+0x3447	0x06	Nemeas		ANI_USE_POWER	
+0x3630	0x98	Nemeas	#2W#240x#0y	I, <Sage> Nemeas,	
+				though conflict is not my specialty...	
+0x36aa	0x98	Nemeas	#1W#240x#0y	For the mission of the <Mythos>,	
+				I will challenge you with my full power!	
+0x3acd	0x06	b008		ANI_DEMO1	
+0x3f95	0x06	NOI		ANI_GESTURE1	
+0x3fe9	0x98	NOI	#1W#6A	It's Nemeas' true form!!	
+0x404b	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
+0x414a	0x98	ALTO	#1W	We will absolutely win this!	
+SB_6_S29_equip_se
+EV_6_S30_bye_nemeas
+0x4892	0x06	Nemeas		ANI_WAIT	
+0x4a5f	0x06	Nemeas		ANI_DENY	
+0x4a95	0x98	Nemeas	#1W	As expected, 	
+				my power was not sufficient...	
+0x4b55	0x06	Nemeas		ANI_GESTURE1	
+0x4b8f	0x98	Nemeas	#1W	...Indeed, as expected.	
+0x4bd3	0x06	ALTO		ANI_GESTURE2	
+0x4bfd	0x98	ALTO	#6A	Nemeas...	
+0x4c51	0x6B	Nemeas		Ellipsis	
+0x4c85	0x98	Nemeas		As for you two...	
+0x4cc0	0x06	Nemeas		ANI_GESTURE2	
+0x4d0c	0x98	Nemeas		Have you thought about the reason	
+				the <Mythos> will go so far for	
+				their mission?	
+0x4da4	0x6B	ALTO		Question	
+0x4dd6	0x6B	NOI		Question	
+0x4ebe	0x98	Nemeas		The <Mythos> have	mp_6302 0x71f
+				"Ancient Memories" that	
+				were not given to Noi.	
+0x4f5e	0x98	Nemeas		Because of that, as for	
+				the root of their mission...	
+0x5023	0x98	Nemeas		When you learned that,	
+				your will pierced...	
+0x5077	0x06	NOI		ANI_THINK	
+0x509d	0x98	NOI	#6A	Ancient memories...	
+0x50da	0x06	ALTO		ANI_DENY	
+0x5100	0x98	ALTO	#6A	...We too have something	
+				we can't give up on.	
+0x5197	0x06	NOI		ANI_WAIT	
+0x51bc	0x06	ALTO		ANI_GESTURE2	
+0x51e6	0x98	ALTO	#6A	Even if they know something...	
+				My thoughts of stopping Kureha	
+				and the others will not change.	
+0x526c	0x06	Nemeas		ANI_NOD	
+0x52db	0x98	Nemeas		Huhu...It seems that was	
+				a foolish question.	
+0x5b00	0x06	NOI		ANI_TAKE_OUT	
+0x5bde	0x40	NOI		The <Crimson Stellagear>!	
+0x5c1e	0x40	Nemeas		Please, take it.	
+				You are qualified.	
+0x5cc6	0xC1	System		obtained.	mp_0000 0x7558
+0x5e7e	0x06	NOI		ANI_WAIT	
+0x5f1f	0x06	Nemeas		ANI_GESTURE1	
+0x5f6b	0x98	Nemeas		...I will leave the rest	
+				to your will.	
+0x5fb2	0x06	Nemeas		ANI_NOD	
+0x6071	0x98	Nemeas		May the stars guide your path.	mp_6302 0x889
+0x60b1	0x98	Nemeas		Please take care of	
+				Master Kureha and the others.	
+0x610b	0x06	ALTO		ANI_THANKS	
+0x6133	0x98	ALTO	#6A	Yes!	mp_0001 0xfd91
+0x6226	0x06	NOI		ANI_GESTURE2	
+0x624f	0x98	NOI	#6A	Anyway with this, we've	mp_6300 0x63a4
+				gathered all of the <Stellagears>!	
+0x62b2	0x98	ALTO		Let's go to the <Astrolabe>...	mp_6300 0x6434
+				and chase after Kureha and the others!	
+SB_6_S31_turn_Gio
+SB_6_S31_turn_Erislet
+SB_6_S31_turn_Algorl
+SB_6_S31_turn_Nemeas
+SB_6_S31_exit_Gio
+SB_6_S31_exit_Erislet
+SB_6_S31_exit_Algorl
+SB_6_S31_exit_Nemeas
+EV_6_S31_4gear_get
+0x6fbe	0x40	UNDEF		After that, Nayuta and Noi hurried	
+				to the <Garden> with the four	
+				Stellagears they had gathered.	
+0x711e	0x98	Nemeas	#1W	...............	mp_0001 0xc917
+0x71a2	0x41	None	#1W#2E#310c	──It seems they have gone.#0E	
+0x734e	0x06	Gio		ANI_WAIT	
+0x744c	0x06	Erislet		ANI_WAIT	
+0x755a	0x06	Algorl		ANI_WAIT	
+0x7640	0x06	Nemeas		ANI_NOD	
+0x7675	0x98	Nemeas	#1W	...Yes, with this, it seems	
+				those two can proceed	
+				to the lower stratum.	
+0x76df	0x06	Nemeas		ANI_GESTURE2	
+0x7741	0x98	Nemeas	#1W	As for whether this is correct or not...	
+				For me, it is difficult to ascertain.	
+0x7850	0x98	Gio	#1W#6A	...Is that so.	mp_0001 0xa6e5
+0x78e6	0x98	Gio	#1W#6A	However, I do not think it is	
+				good for the surface to be	
+				destroyed.	
+0x7971	0x06	Erislet		ANI_NOD	
+0x79a7	0x98	Erislet	#0W#6A	That might be true...	
+0x79e5	0x06	Erislet		ANI_GESTURE2	
+0x7a49	0x98	Erislet	#3W#6A	Those two may	
+				find some answer.	
+0x7ae7	0x98	Algorl	#1W	Everything is guided by the stars...	
+				We can only entrust this to them.	
+0x7d61	0x06	Gio		ANI_GESTURE2	
+0x7d98	0x98	Gio	#1W#6A	...It seems like it's about time.	
+0x7dde	0x06	Gio		ANI_DENY	
+0x7e19	0x98	Gio	#1W#6A	Since our true bodies were	
+				lost, it cannot be helped...	
+0x7e7c	0x06	Erislet		ANI_GESTURE1	
+0x7ed8	0x98	Erislet	#2W	Ahh, I'm getting sad.	
+0x7f9c	0x98	Erislet	#0W	...Perhaps it would have been	
+				good to at least say goodbye.	
+0x8180	0x06	Nemeas		ANI_NOD	
+0x81d5	0x98	Nemeas	#2W	We will meet	
+				again someday.	
+0x8214	0x06	Nemeas		ANI_GESTURE1	
+0x829e	0x98	Nemeas	#2W	Everyone, be well.	
+0x839f	0x06	Algorl		ANI_TALK	
+0x83d5	0x98	Algorl	#6A	...Many years have passed.	
+				However, it has been fun.	
+0x8435	0x06	Algorl		ANI_WAIT	
+0x8504	0x06	Gio		ANI_LAUGH	
+0x857a	0x98	Gio	#2W	Hahaha, I think so too.	
+				So I go, with a laugh.	
+0x86bb	0x06	Erislet		ANI_LAUGH	
+0x873d	0x98	Erislet	#3W	Huhu, see you...again.	
+EV_6_S40_check_bossmap4
+0x8e6a	0x40	UNDEF		Nemeas is not here.	

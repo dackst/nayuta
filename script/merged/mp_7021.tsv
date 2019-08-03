@@ -1,0 +1,51 @@
+mp_7021
+init
+ev_goal
+move_timer1
+move_timer2
+m_se_12
+m_se_20
+m1_in
+m1_out1
+m1_out2
+move_timer1b
+move_timer2b
+m2_in
+m2_out1
+m2_out2
+move_timer1c
+move_timer2c
+m3_in
+m3_out1
+m3_out2
+move_timer1d
+m4_in
+m4_out1
+move_timer1e
+move_timer2e
+m5_in
+m5_out1
+m5_out2
+move02
+0x26a1	0x06	switch1		ANI_LEVER_ON_LOCK	
+move05
+0x2841	0x06	switch2		ANI_LEVER_ON_LOCK	
+move03
+0x29e1	0x06	switch3		ANI_LEVER_ON_LOCK	
+battle1
+0x2a49	0x6B	ALTO		Exclamation	
+battle1_dead
+battle1_end
+battle2
+0x2f0b	0x6B	ALTO		Exclamation	
+battle2_dead
+battle2_end
+battle3
+0x341b	0x6B	ALTO		Exclamation	
+battle3_dead
+battle3_end
+battle4
+0x39e7	0x6B	ALTO		Exclamation	
+battle4_dead
+battle4_end
+ice01_off

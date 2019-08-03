@@ -1,0 +1,135 @@
+mp_0106
+init
+EV_2_S00_planning
+0x3b4	0x06	ALTO		ANI_WARP	
+0x44e	0x06	NOI		ANI_WALK_HOLD	
+0x4cc	0x06	komono07		ANI_STOP	
+0x574	0x40	UNDEF		After that, Noi and Nayuta collected the <Master Gear>	
+				waiting at the altar.	
+0x5e0	0x40	UNDEF		Then, to chase after the distant Cygna, they decided	
+				to return to the <Garden> for the time being.	
+0x742	0x40	NOI		Anyway...	
+				It's good that we were able to recover	
+				this <Master Gear of Earth>.	
+0x7b4	0x40	ALTO	#0W	..................	mp_0002 0x1b64
+				..................	
+0x884	0x98	NOI	#6A	...Say, Nayuta...	
+0x8bf	0x6B	ALTO		Surprise	
+0x906	0x98	ALTO		Sorry...	
+				Cygna hasn't said anything	
+				like that until now.	
+0x964	0x98	NOI	#6A	You...You've known	
+				Cygna for a long time,	
+				haven't you.	
+0x9c2	0x98	NOI	#6A	Have you known him since	
+				you were kids?	
+0xa12	0x98	ALTO		Ehehe...	
+				It's hasn't been THAT long.	
+0xa5d	0x98	ALTO		Cygna came to the island five years ago...	
+0xaaf	0x98	ALTO		Even though Cygna lost his memory,	
+				my fencing instructor cared for him.	
+0xb1d	0x98	NOI	#6A	Really!?	
+0xb4f	0x98	ALTO		By chance, I found him	
+				washed up on the beach.	
+0xba4	0x98	ALTO		...Around that time, I had already	
+				lost both my parents.	
+0xc03	0x98	ALTO		And my sister had just started	
+				work observing Star Shards...	
+0xc66	0x98	ALTO		Day after day, I would sit in front of	
+				their grave, staring blankly at the sea.	
+0xcdc	0x98	ALTO		At a time like that...	
+				Cygna called out to me.	
+0xdb7	0x3F	Name		Cygna	mp_0101 0x14e16
+0xdc4	0x40	ALTO	#0W#266c	If you sit there all day,	
+				nothing interesting will happen, see?	
+0xe32	0x40	ALTO	#0W#266c	The truth is, while walking this	
+				island, I thought of something good.	
+0xea6	0x40	ALTO	#0W#266c	A "Handyman Shop"...	
+				You want to do it with me?	
+0xfa2	0x98	ALTO		...Even though he lost his memory,	
+				he was that positive...	
+				Somehow, I think he encouraged me.	
+0x1025	0x98	ALTO		Then, ever since we got close,	
+				we've always been together.	
+0x1086	0x98	NOI	#6A	Is that so...	mp_0001 0xcecd
+0x10bd	0x98	ALTO		Even so...	
+				I wouldn't expect you to	
+				ask about our past.	
+0x111a	0x98	ALTO		Ehehe, maybe you're gettting	
+				used to humans a little?	
+0x1176	0x6B	NOI		Unknown	
+0x119f	0x98	NOI	#6A	T-There's no way that would ever happen!	
+0x11fc	0x98	NOI	#0W#6A#12S	...It's nothing, really...	
+0x1247	0x98	ALTO		Heheh...anyway,	
+				once we return to the garden,	
+				let's search for Cygna.	
+0x12c6	0x98	ALTO		(Cygna...	
+				 What on earth could've happened to you?)	
+0x151c	0x06	ALTO		ANI_WAIT	
+0x1542	0x06	NOI		ANI_WAIT	
+EV_2_S27_return_garden
+0x16b4	0x06	ALTO		ANI_WARP	
+0x171f	0x06	NOI		ANI_WALK_HOLD	
+0x17ba	0x06	komono06		ANI_STOP	
+0x18f2	0x98	NOI		...In any event, that person	
+				was the real Master Zext...	
+0x1948	0x98	NOI		What should I do...	
+0x1997	0x98	ALTO	#6A	...I don't know the details.	
+0x19d6	0x98	ALTO	#6A	It's possible that there are	
+				circumstances surrounding him, too, but...	
+0x1a5c	0x98	NOI		...Yeah...	
+				For now, we should think about	
+				what we should do after this...	
+0x1be8	0x06	ALTO		ANI_WAIT	
+0x1c0e	0x06	NOI		ANI_WAIT	
+EV_1_S13_warp
+QS_83_quest_start
+0x1ff6	0x06	ALTO		ANI_WARP	
+0x2061	0x06	NOI		ANI_WALK	
+0x2177	0x6B	NOI		Exclamation	
+0x21a8	0x98	NOI		This feeling is...	
+0x21f6	0x98	ALTO	#6A	What's wrong, Noi?	
+0x2248	0x98	NOI		...If we are exploring <Terra>,	
+				we should be cautious.	
+0x229c	0x98	NOI		Oltapia, Rieseweld,	
+				Heimmel, La Worg...	
+0x22e9	0x98	NOI		I feel the presence of a strong power	
+				from each of their temples.	
+0x2348	0x98	NOI	#0W	Is this...#0W The idols are out of control!?	
+0x239e	0x6B	ALTO		Exclamation	
+0x23d0	0x98	ALTO	#6A	"Idols"...!?	
+0x23ff	0x98	ALTO	#6A	B-But, we should have defeated	
+				the idols of the four continents...	
+0x246b	0x98	NOI		It is possible that due to	
+				abnormalities of the Astrolabe	
+				they've revived.	
+0x24d2	0x98	NOI		What's more, somehow,	
+				they have more power than	
+				they did before.	
+0x252f	0x98	NOI		It looks like the climate	
+				has become abnormal once again,	
+				and we cannot get close to the temples, but...	
+0x25bc	0x6B	ALTO		Ellipsis	
+0x25ee	0x98	ALTO	#6A	No...let's try going.	
+0x2626	0x98	ALTO	#6A	It's possible the idols are	
+				stopping the function of the temples,	
+				and I can't leave things like this.	
+0x26ac	0x98	ALTO	#6A	And, I have to become stronger	
+				to repair the abnormality of	
+				the Astrolabe.	
+0x2717	0x98	ALTO	#6A	The reason those idols exist	
+				is to be the ideal perfect	
+				opponents, isn't it.	
+0x278c	0x98	NOI		Nayuta...that's right.	
+0x27c1	0x98	NOI		I'm not doing this only	
+				for the <Mythos>...	
+0x28ae	0x98	NOI		I've prepared myself.	
+				As your partner,	
+				I will follow you anywhere.	
+0x2915	0x98	ALTO	#6A	Yeah, thanks.	
+0x2945	0x98	ALTO	#6A	Let's prepare ourselves and try going	
+				to each of the four temples. For Kureha	
+				and Cygna both!	
+0x2ac2	0x07	System	#3C	Quest [Crush the Four Idols] started!	
+0x2b35	0x06	ALTO		ANI_WAIT	
+0x2b5b	0x06	NOI		ANI_WAIT	

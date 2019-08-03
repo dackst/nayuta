@@ -1,0 +1,136 @@
+0x2	name	トップ
+0x138	mission	ミッション説明
+0x16a	name	Star Garden
+0x1be	desc	Go to the island where the Star Garden is.
+0x2a0	mission	ミッション説明
+0x2d2	name	Star Garden
+0x326	desc	Go to the island where the Star Garden is.
+0x408	mission	ミッション説明
+0x43a	name	Oltapia
+0x48e	desc	Go to Forest Continent <Oltapia>.
+0x570	mission	ミッション説明
+0x5a2	name	Shaded Animal Trail春
+0x6d8	mission	Defeat at least \n10 monsters
+0x70a	name	Lakeside Tree Path 春
+0x840	mission	Get at least 50 \nshining stones
+0x872	name	Hermit's Path/Spring
+0x9a8	mission	Destroy at least \n25 objects
+0x9da	name	Shaded Animal Trail春
+0xb10	mission	Achieve at least \nCHAIN 30
+0xb42	name	Lakeside Tree Path 夏
+0xc78	mission	Take damage \n10 times or less
+0xcaa	name	Hermit's Path/Summer
+0xde0	mission	Clear it \nwithin 3:00
+0xe12	name	Shaded Animal Trail夏
+0xf48	mission	Defeat at least \n38 monsters
+0xf7a	name	Lakeside Tree Path 秋
+0x10b0	mission	Clear it \nwithin 1:30
+0x10e2	name	Hermit's Path / Fall
+0x1218	mission	Don't even take \ndamage once
+0x124a	name	Shaded Animal Trail冬
+0x1380	mission	Defeat 25 foes \nwith magic
+0x13b2	name	Lakeside Tree Path 冬
+0x14e8	mission	Clear, jumping \n10 times or less
+0x151a	name	Hermit's Path/Winter
+0x1650	mission	Get at least 30 \nshining stones
+0x1682	name	Oltapia Temple
+0x16d6	desc	mp_1011
+0x17b8	mission	Defeat at least \n60 monsters
+0x17ea	name	Temple/Inner Sanctum
+0x1920	mission	ミッション説明
+0x1952	name	Rieseweld
+0x19a6	desc	Go to Abyss Continent <Rieseweld>.
+0x1a88	mission	ミッション説明
+0x1aba	name	Great Echoing Caves春
+0x1bf0	mission	Get at least 40 \nshining stones
+0x1c22	name	Scrying Pool Caves 春
+0x1d58	mission	Clear it without \nusing a lunchbox
+0x1d8a	name	Dragon River Cavern春
+0x1ec0	mission	Defeat 15 foes \nwith your sword
+0x1ef2	name	Great Echoing Caves夏
+0x2028	mission	Destroy at least \n16 objects
+0x205a	name	Scrying Pool Caves 夏
+0x2190	mission	Defeat 10 foes \nwith magic
+0x21c2	name	Dragon River Cavern夏
+0x22f8	mission	Get at least 30 \nshining stones
+0x232a	name	Great Echoing Caves秋
+0x2460	mission	Eat five or more \nlunch boxes
+0x2492	name	Scrying Pool Caves 秋
+0x25c8	mission	Clear it falling \n5 times or less
+0x25fa	name	Dragon River Cavern秋
+0x2730	mission	Clear it defeating \n3 foes or less
+0x2762	name	Great Echoing Caves冬
+0x2898	mission	Clear taking dmg \n10 times or less
+0x28ca	name	Scrying Pool Caves 冬
+0x2a00	mission	Clear it falling \n3 times or less
+0x2a32	name	Dragon River Cavern冬
+0x2b68	mission	Destroy at least \n40 objects
+0x2b9a	name	Rieseweld Temple
+0x2bee	desc	mp_2011
+0x2cd0	mission	Defeat at least \n50 monsters
+0x2d02	name	Temple/Inner Sanctum
+0x2e38	mission	ミッション説明
+0x2e6a	name	Heimmel
+0x2ebe	desc	Go to Holy Mountain Continent <Heimmel>.
+0x2fa0	mission	ミッション説明
+0x2fd2	name	Wind Cutting Valley春
+0x3108	mission	Defeat 20 foes \nwith magic
+0x313a	name	Giant Dragon Graveyard
+0x3270	mission	Get at least 40 \nshining stones
+0x32a2	name	Heavenly Mountain 春
+0x33d8	mission	Clear it falling \n5 times or less
+0x340a	name	Wind Cutting Valley夏
+0x3540	mission	Clear it w/o using \nlunch boxes
+0x3572	name	Giant Dragon Graveyard
+0x36a8	mission	Clear it falling \n3 times or less
+0x36da	name	Heavenly Mountain 夏
+0x3810	mission	Clear it \nwithin 2:30
+0x3842	name	Wind Cutting Valley秋
+0x3978	mission	Clear it falling \n3 times or less
+0x39aa	name	Giant Dragon Graveyard
+0x3ae0	mission	Destroy at least \n45 objects
+0x3b12	name	Heavenly Mountain 秋
+0x3c48	mission	Defeat at least \n30 monsters
+0x3c7a	name	Wind Cutting Valley 冬
+0x3db0	mission	Clear it \nwithin 1:30
+0x3de2	name	Giant Dragon Graveyard
+0x3f18	mission	Defeat 50 foes \nwith your sword
+0x3f4a	name	Heavenly Mountain 冬
+0x4080	mission	Use lunch boxes \n1 time or less
+0x40b2	name	Heimmel Temple
+0x4106	desc	mp_3011
+0x41e8	mission	Defeat at least \n70 monsters
+0x421a	name	Temple/Inner Sanctum
+0x4350	mission	ミッション説明
+0x4382	name	La Worg
+0x43d6	desc	Go to Origin Continent <La Worg>.
+0x44b8	mission	ミッション説明
+0x44ea	name	Ancient Reef / Spring
+0x4620	mission	Defeat at least \n35 monsters
+0x4652	name	Pulsating Fault 春
+0x4788	mission	Destroy at least \n35 objects
+0x47ba	name	Underworld Crater 春
+0x48f0	mission	Use lunch boxes \n1 time or less
+0x4922	name	Ancient Reef / Summer
+0x4a58	mission	Clear taking dmg \n10 times or less
+0x4a8a	name	Pulsating Fault 夏
+0x4bc0	mission	Defeat 15 foes \nwith magic
+0x4bf2	name	Underworld Crater 夏
+0x4d28	mission	Get at least 65 \nshining stones
+0x4d5a	name	Ancient Reef / Fall
+0x4e90	mission	Don't let craft \ngauge expire
+0x4ec2	name	Pulsating Fault/Fall
+0x4ff8	mission	Clear it \nwithin 1:30
+0x502a	name	Underworld Crater 秋
+0x5160	mission	Clear it w/o using \nGear Shield
+0x5192	name	Ancient Reef / Winter
+0x52c8	mission	Destroy at least \n77 objects
+0x52fa	name	Pulsating Fault 冬
+0x5430	mission	Defeat 15 foes \nwith your sword
+0x5462	name	Underworld Crater 冬
+0x5598	mission	Uncover secret of \nall gimmicks!
+0x55ca	name	La Worg Temple
+0x561e	desc	mp_4011
+0x5700	mission	Defeat at least \n35 monsters
+0x5732	name	Temple/Inner Sanctum
+0x5868	mission	ミッション説明

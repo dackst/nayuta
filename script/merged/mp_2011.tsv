@@ -1,0 +1,51 @@
+mp_2011
+init
+ev_goal
+battle01
+0x7fc	0x6B	ALTO		Exclamation	
+dead_EV01
+down_footing
+battle02
+0xcd8	0x6B	ALTO		Exclamation	
+dead_EV02
+set_switch02-01
+battle03
+0x1144	0x6B	ALTO		Exclamation	
+dead_EV03
+set_switch03-01
+battle04
+0x16cf	0x6B	ALTO		Exclamation	
+dead_EV04
+set_switch05-01
+battle05
+0x1cbe	0x6B	ALTO		Exclamation	
+dead_EV05
+set_switch04-02
+battle06
+0x2086	0x6B	ALTO		Exclamation	
+dead_EV06
+battle07
+0x24b0	0x6B	ALTO		Exclamation	
+dead_EV07
+set_switch07-01
+water_taki_se
+water_se_200
+water_se_300
+water_se_400
+water_se_500
+water_00-01
+water_01-03
+water_02-03
+0x33e8	0x06	swt03-01		ANI_STOP1	
+water_03-04
+0x34a3	0x06	swt04-01		ANI_STOP1	
+water_04-05
+0x355e	0x06	swt05-01		ANI_STOP1	
+water_02-06
+water_05-06
+0x3769	0x06	swt06-01		ANI_STOP1	
+water_06-02
+0x3841	0x06	swt02-01		ANI_STOP1	
+0x386c	0x06	swt02-02		ANI_STOP1	
+water_06-07
+water_07-08

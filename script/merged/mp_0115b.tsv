@@ -1,0 +1,155 @@
+mp_0115b
+init
+lp_fossil1
+0x11f5	0x41	None		Archaeopteryx	
+				A bird that lived in ancient times.	
+				Though it had primitive wings, discoveries of it	
+				are rare and not much is known about how it lived.	
+lp_fossil2
+0x13ba	0x41	None		[Dinosaur Egg]	
+				A bundle of ancient dinosaur egg fossils.	
+				For some reason they were buried in sand.	
+				You can observe tiny dinosaur skeletons inside.	
+lp_fossil3
+0x157c	0x41	None		[Ammonite] Ammonoidea	
+				Snail that lived in ancient times.	
+				A representative ancient organism whose fossils	
+				can be found throughout the world. Though even	
+				now, there are various opinions on its classification.	
+lp_fossil4
+0x1779	0x41	None		Trilobite	
+				Representative ancient arthropod.	
+				It is thought to have crawled around ancient	
+				oceans, eating mud and such.	
+lp_stuffed1
+0x1920	0x41	None		[Serpent] Elapidae	
+				Large poisonous serpent known as the "Cobra."	
+				It threatens by standing up the front part of its body,	
+				using a pleated organ to fire warning sounds.	
+lp_stuffed2
+0x1af8	0x41	None		[Sea Turtle] Chelonioidea	
+				Sea reptile with oar-shaped limbs.	
+				Known to be extremely long-lived,	
+				specimens may live for 100 years or more.	
+lp_stuffed3
+0x1cb2	0x41	None		[Owl] Strigidae	
+				Nocturnal bird with good night vision.	
+				Preferring tree cavities, at night they cry with	
+				their distinctive "hoo, hoo" call.	
+lp_stuffed4
+0x1e6e	0x41	None		[Penguin] Spheniscidae	
+				Sea bird living in cold regions.	
+				They stand erect and walk unsteadily on land.	
+				Because they raise their chicks in groups, they	
+				have gotten the name, "human bird."	
+lp_stuffed5
+0x2058	0x41	None		[Frog] Anura	
+				Amphibian living near water.	
+				Though when they are small, they have a fishlike appearance,	
+				when they are grown they climb to land, with a noisy	
+				"croak, croak" call.	
+lp_stuffed6
+0x2239	0x41	None		[Eagle] Haliaeetus leucocephalus	
+				Large bird known for its courage.	
+				Its great wings are spread out when it flies,	
+				and sometimes it carries off even small calves.	
+				It is known as "king of the skies."	
+lp_stuffed7
+0x242e	0x41	None		[Ancient Wolf] Canis	
+				A carnivorous species that acts in groups.	
+				It is thought that "dogs" are a species	
+				originally born of tamed wolves.	
+lp_stuffed8
+0x25e8	0x41	None		[Ancient Bear] Ursus	
+				Ancient white animal with a large build.	
+				Living in the center of the cold region,	
+				it preys on seals and dolphins.	
+lp_stuffed9
+0x27a0	0x41	None		[Dodo] Raphidae	
+				Large bird called the Dodo.	
+				Because it can't fly, it was over-hunted by	
+				humans, and sadly, is considered extinct.	
+lp_stuffed10
+0x2955	0x41	None		[Giant Deer] Megaloceros giganteus	
+				Ancient large animal with a splendid pair of horns.	
+				Males swung their horns, larger than their bodies,	
+				to fight off their enemies.	
+lp_stuffed11
+0x2b2e	0x41	None		[Sabretooth] Smilodon	
+				Big cat that lived in ancient times.	
+				Plunging its naked tusks deeply, it is thought to	
+				have brought down its prey with a single blow.	
+lp_stuffed12
+0x2cfd	0x41	None		[Frill Lizard] Chlamydosaurus	
+				Reptile with characteristic frills around its neck.	
+				Strongly aware of its territory, it expands the	
+				frills to threaten its opponents.	
+lp_dinosaur_cam
+lp_dinosaur
+0x317b	0x36	Choice		Tyrannosaurus	
+0x31b0	0x36	Choice		Tyrannosaur Skeleton	
+0x31dc	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x3218	0x36	Choice		Pteranodon	
+0x324a	0x36	Choice		Pterosaur Skeleton	
+0x3274	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x32b0	0x36	Choice		Triceratops	
+0x32e3	0x36	Choice		Ceratops Skeleton	
+0x330c	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x3348	0x36	Choice		Plesiosaurus	
+0x337c	0x36	Choice		Plesiosaur Skeleton	
+0x33a7	0x36	Choice		？？？？？？	mp_0115a 0x176c
+0x33c3	0x36	Choice		Quit	mp_0002 0x433f
+0x351f	0x41	None		Tyrannosaurus	
+				Dinosaur species that lived in ancient times.	
+				Appropriately nicknamed "tyrant dragon," it has a large body	
+				and fangs, and is thought to have attacked and eaten all other	
+				kinds of animals.	
+0x364e	0x41	None		Tyrannosaur Skeleton	
+				It seems to be the skeleton of a tyrant dragon.	
+				Because part of it is missing, the details are unknown.	
+0x385a	0x41	None		Pterodactyl [Pteranodon]	
+				Dinosaur species that lived in ancient times.	
+				It is thought to have hunted by swooping down	
+				from the high skies with its large wings.	
+0x395f	0x41	None		Pterosaur Skeleton	
+				It seems to be the skeleton of a pterosaur.	
+				Because part of it is missing, the details are unknown.	
+0x3b65	0x41	None		Triceratops	
+				Dinosaur species that lived in ancient times.	
+				Having three large horns and a collar, it seems	
+				it fought like the water buffalo, by charging.	
+0x3c64	0x41	None		Ceratops Skeleton	
+				It seems to be the skeleton of a ceratopsian.	
+				Because part of it is missing, the details are unknown.	
+0x3e6b	0x41	None		Plesiosaurus	
+				Dinosaur species that lived in ancient times.	
+				Calmly swimming in the sea, it seems it preyed	
+				on fish and squid, making use of its long neck.	
+0x3f6b	0x41	None		Plesiosaur Skeleton	
+				It seems to be the skeleton of a plesiosaur.	
+				Because part of it is missing, the details are unknown.	
+lp_nodata
+0x40d9	0x41	None		【？？？？？？】	mp_0115a 0x5de8
+					
+				　　　　　　（ＮＯ　ＤＡＴＡ）　　　　　　	
+lp_nothing
+0x4165	0x40	UNDEF		It seems there's nothing on display.	mp_0115a 0x5e74
+subev_showroom_first
+0x45d2	0x06	ALTO		ANI_SURPRISE	
+0x45fc	0x06	NOI		ANI_SURPRISE	
+0x4625	0x98	ALTO		T-This is...!	mp_0115a 0x6232
+0x466c	0x98	NOI		Somehow, it seems this is a	
+				different constructed room...	
+0x46c5	0x06	ALTO		ANI_LOOK_AROUND	
+0x46f2	0x98	ALTO		It looks like an exhibit room for	
+				fossils and taxidermies...	
+				There's even real dioramas...	
+0x4870	0x6B	ALTO		Unknown	
+0x48a4	0x06	ALTO		ANI_JOY	
+0x48c9	0x98	ALTO		This is the first time I've seen	
+				such a magnificent exhibit.	
+				Yeah, very interesting!	
+0x4945	0x06	ALTO		ANI_JOY	
+0x496a	0x98	ALTO		I can't let something this	mp_0115a 0x6566
+				interesting pass by.	
+				...Anyway, I'll go look at them!	

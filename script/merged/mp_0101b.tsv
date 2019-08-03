@@ -1,0 +1,260 @@
+mp_0101b
+init
+0x40b	0x06	gate_a		ANI_PATA2	
+0x444	0x06	st		ANI_PATA3	
+lp_portal
+0x682	0x98	NOI		Nayuta, if we go along that tree root,	
+				we should be able to go to <Heliograd>!	
+0x6ee	0x98	ALTO		We've got to hurry...	
+				Anyway, let's try going!	
+0x7ad	0xC9	YesNoBox		Use the transfer device?	
+0x94f	0x06	st		ANI_PATA1	
+EV_entry3
+LP_Monsyo
+0xcb8	0x40	UNDEF		A strange crest is carved on the stone monument.	
+talk_Cetus
+0xd7d	0x98	Cetus		It looks like something	
+				happened in this world...	
+0xdce	0x98	Cetus		Anyhow, we'll wait here	
+				until your return.	
+0xe18	0x98	Cetus		We won't be able to be of help, but at least	
+				when going back to the island we'll be with you.	
+				Save your friends and come back safely, okay?	
+0xeea	0x98	Cetus		Don't worry about this place.	
+				Even though things appear like this,	
+				we intend to be useful to you.	
+0xf6a	0x98	Cetus		When you return to the island, we'll	
+				be with you. Definitely return safely.	
+talk_Reticul
+0x1043	0x98	Reticul		Though somehow it seems there's	
+				various things happening, I will wait	
+				here for you.	
+0x10b7	0x98	Reticul		Now, get going and	
+				save your friend.	
+0x10fd	0x98	Reticul		Pass through that gate	
+				to return to the village!	
+0x1177	0x98	Reticul		Now, get going and	mp_0101b 0x10b7
+				save your friend.	
+0x11bd	0x98	Reticul		Pass through that gate	mp_0101b 0x10fd
+				to return to the village!	
+SUB_meet_adventurer
+0x12cb	0x06	Cetus		ANI_WAIT0	
+0x1387	0x06	ALTO		ANI_SURPRISE_WEAK	
+0x13b6	0x98	ALTO		Ah...It's you guys!?	
+0x13ea	0x98	Cetus		Oh, it's you guys!	
+				Most importantly, you're safe.	
+0x1453	0x06	NOI		ANI_COMPLAIN	
+0x147c	0x98	NOI	#6A	Or should I say,	
+				you're in <Terra> again...	
+				I told you that you should leave!	
+0x14e9	0x06	Reticul		ANI_DIRECT	
+0x1514	0x98	Reticul		W-We planned to return	
+				soon, but...	
+0x1559	0x98	Reticul		Just then, suddenly, the four continents	
+				changed their appearance...	
+0x15bd	0x06	Reticul		ANI_WAIT4	
+0x15e9	0x06	NOI		ANI_GESTURE2	
+0x1612	0x98	NOI	#6A	You got involved...	
+				But, I'm glad you're safe.	
+0x1661	0x06	Cetus		ANI_WAIT3	
+0x1693	0x06	NOI		ANI_COMPLAIN	
+0x16bc	0x98	NOI	#6A	Or should I say,	
+				you're in <Terra> again...	
+0x1708	0x98	NOI	#6A	Hurry and get out of here!	
+				This isn't any kind of situation	
+				you can handle!	
+0x1773	0x6B	Cetus		Sweatdrop	
+0x179e	0x6B	Reticul		Sweatdrop	
+0x17d3	0x98	Reticul		W-We planned to return	mp_0101b 0x1514
+				soon, but...	
+0x1818	0x06	Reticul		ANI_DIRECT	
+0x1843	0x98	Reticul		Anyway, various things happened,	
+				and before I knew it, the sky had	
+				become strange!	
+0x18b6	0x06	ALTO		ANI_THINK2	
+0x18de	0x98	ALTO	#6A	You got involved...	mp_0101b 0x1612
+				But, I'm glad you're safe.	
+0x192e	0x06	Cetus		ANI_WAIT3	
+0x1956	0x98	Cetus		Just now, the fairy-like one	
+				appeared, wandered around,	
+				and brought us here.	
+0x19c3	0x98	Cetus		I don't know exactly what will	
+				happen, but it seems something	
+				is happening in this world.	
+0x1a3b	0x98	Cetus		It seems to be connected to the	
+				reason you two are adventuring	
+				in this world...	
+0x1aa9	0x06	Cetus		ANI_GESTURE2	
+0x1ad4	0x98	Cetus		Hey, are you all right?	
+				I can see your faces are	
+				as if to scold us...	
+0x1b38	0x98	Cetus		Did you find the friend you said	
+				you were looking for, from before?	
+0x1b9b	0x06	ALTO		ANI_DENY	
+0x1bc1	0x98	ALTO		No, not yet...But it's all right.	
+				We will definitely settle things	
+				with Cygna and Kureha.	
+0x1c38	0x06	ALTO		ANI_GESTURE1	
+0x1c62	0x98	ALTO		If you go through the gate on the other	
+				side, you will return to Remnant Island.	
+				Please, hurry...	
+0x1ce1	0x6B	Cetus		Ellipsis	
+0x1d0c	0x6B	Reticul		Ellipsis	
+0x1d99	0x06	Cetus		ANI_DULL	
+0x1dc8	0x06	Reticul		ANI_WAIT3	
+0x1df2	0x98	Cetus		Well, we planned to but...	
+				We changed our mind.	
+0x1e41	0x06	ALTO		ANI_SURPRISE_WEAK	
+0x1e70	0x98	ALTO		Huh?	mp_0004 0x392d
+0x1e94	0x06	NOI		ANI_THINK	
+0x1eba	0x98	NOI	#6A	W-Why?	mp_0101 0x8930
+0x1ee2	0x06	NOI		ANI_WAIT	
+0x1f07	0x06	Reticul		ANI_DIRECT	
+0x1f32	0x98	Reticul		Well you see...	
+				Could we just leave you two	
+				and run away?	
+0x1f8c	0x06	Reticul		ANI_WAIT3	
+0x1fb6	0x98	Reticul		If we did that, it would be like	
+				throwing away our good name	
+				as adventurers!	
+0x203d	0x98	Cetus		...You are still an amateur.	
+0x208f	0x06	Cetus		ANI_JOY	
+0x20b5	0x98	Cetus		Anyway, we've decided to wait	
+				here a little longer.	
+0x2108	0x98	Cetus		It doesn't seem that we can be of help	
+				to you...At least when you return to the	
+				island, let us know how everyone is.	
+0x219b	0x98	NOI	#6A	B-But...	
+0x21c5	0x06	Reticul		ANI_GESTURE2	
+0x21f2	0x98	Reticul		Haha, I'm all right.	
+				If it really becomes dangerous here,	
+				we'll escape immediately.	
+0x2266	0x06	Reticul		ANI_WAIT3	
+0x2290	0x98	Reticul		Now, get going and	mp_0101b 0x10b7
+				save your friend.	
+0x22d6	0x98	Reticul		Then, when you return to the island,	
+				let's all go through the gate together!	
+0x234c	0x06	ALTO		ANI_NOD	
+0x2371	0x98	ALTO		...Understood.	mp_0000 0x1c46f
+0x239f	0x06	ALTO		ANI_JOY	
+0x23c4	0x98	ALTO		Thank you very much, you two!	
+0x2401	0x06	NOI		ANI_GUTSPOSE	
+0x242a	0x98	NOI	#6A	Just wait...I'll definitely	
+				bring back everyone!	
+0x2500	0x06	Cetus		ANI_WAIT0	
+0x2552	0x06	Reticul		ANI_WAIT0	
+SUB_alto_move
+SUB_noi_move
+SB_5_S02_appear_ALTO
+0x2891	0x6B	ALTO		Exclamation	
+EV_5_S02_talk_noi
+0x2d5f	0x98	ALTO	#0W#480x#270y	W-What is this!?	
+				The sky and the condition of the Garden...	
+0x2e60	0x98	ALTO		...I've got to find Noi!	
+0x3057	0x06	NOI		ANI_DENY	
+0x3084	0x98	NOI	#1W	N-No way...	
+				This is...	
+0x30d7	0x98	ALTO	#0x#500y#16S	Noi!	mp_0004 0x1a9c3
+0x310f	0x6B	NOI		Surprise	
+0x3282	0x06	NOI		ANI_GESTURE2	
+0x32ab	0x98	NOI		Nayuta...	
+				Thank goodness I found you!	
+0x32f6	0x06	NOI		ANI_COMPLAIN	
+0x331f	0x98	NOI		...Master Kureha is...	
+				Where is Master Kureha!?	
+0x336c	0x98	NOI		Is she with Cygna!?	
+0x33c4	0x98	ALTO	#6A#0W	...Noi, I'm sorry.	
+				Kureha is...	
+0x3410	0x40	UNDEF		Nayuta explained about Cygna leaving again,	
+				and that Kureha followed Selam.	
+0x3483	0x06	NOI		ANI_GESTURE1	
+0x34ac	0x98	NOI	#0W	N-No way...	
+				Why in the world...!?	
+0x34f6	0x06	ALTO		ANI_DENY	
+0x351c	0x98	ALTO	#6A	...I don't know about Cygna either.	
+0x357f	0x98	ALTO	#6A	However, as for Kureha...	
+				She said she remembered,	
+				"A mission I must accomplish."	
+0x35f9	0x06	NOI		ANI_SURPRISE	
+0x3636	0x98	NOI	#16S	!!!!	
+0x3682	0x98	NOI	#1W#12S	Is that so...	mp_0001 0xcecd
+0x36bd	0x98	NOI	#0W#12S	...As I thought...	
+0x36fd	0x6B	NOI		Ellipsis	
+0x374b	0x98	NOI		...Just after you separated,	
+				the condition of Terra changed.	
+0x37a5	0x06	NOI		ANI_GESTURE1	
+0x37ce	0x98	NOI		Because the temples have stopped,	
+				all of the <Power of Stars> of the four	
+				continents flow through the <Garden>.	
+0x3862	0x06	NOI		ANI_DENY	
+0x3887	0x98	NOI		No, more correctly...	
+				Through <Heliograd>.	
+0x38d7	0x6B	ALTO		Surprise	
+0x3909	0x06	ALTO		ANI_THINK2	
+0x3931	0x98	ALTO	#6A	T-That's what	
+				that Selam said...	
+0x39f3	0x3F	Name		Selam	
+0x3a00	0x40	ALTO		If this temple is stopped, the <Power of Stars> of the	
+				four continents will all flow through a single point...	
+0x3a8d	0x40	ALTO		Because of that, the most important preparation for	
+				releasing the seal of <Terra> will be in order.	
+0x3b97	0x98	ALTO	#6A#0W	(..................)	
+0x3bd1	0x98	ALTO	#6A#0W	(...Selam, was it...)	
+0x3cb8	0x06	ALTO		ANI_GESTURE2	
+0x3ce2	0x98	ALTO		Then, the "Seal" of Terra	
+				is concealed there?	
+0x3d36	0x06	NOI		ANI_NOD	
+0x3d5a	0x98	NOI	#6A	...No doubt about it.	
+0x3d91	0x98	NOI	#6A	<Heliograd> is the central pillar	
+				that delivers this world's	
+				<Power of Stars>...	
+0x3e09	0x06	NOI		ANI_GESTURE1	
+0x3e32	0x98	NOI	#6A	Probably Master Kureha,	
+				the <Final Key>, is there.	
+0x3e85	0x98	NOI	#6A	With Zext and Master Selam,	
+				to fulfill the mission of the <Mythos>...	
+0x3f8f	0x6B	ALTO		Ellipsis	
+0x3fc1	0x06	ALTO		ANI_GESTURE1	
+0x3feb	0x98	ALTO	#6A	...That Kureha is a <Key>,	
+				and that the "Seal" is here...	
+				You knew that all along.	
+0x4066	0x06	ALTO		ANI_COMPLAIN	
+0x4090	0x98	ALTO	#6A	...I want you to tell me.	
+				Just what is sealed there?	
+0x40ee	0x6B	NOI		Ellipsis	
+0x413c	0x98	NOI	#0W	...Even if I wanted to say, I can't.	
+0x418a	0x06	ALTO		ANI_GESTURE2	
+0x41b4	0x98	ALTO	#6A	...?	
+				What do you mean by that?	
+0x4211	0x98	NOI		By nature, I am a <Warden>,	
+				who follows the orders of	
+				Master Kureha and the others...	
+0x4283	0x06	NOI		ANI_GESTURE1	
+0x42ac	0x98	NOI		I was made such that I cannot speak	
+				about important things, such as	
+				the "Seal" of the <Mythos>.	
+0x4330	0x06	ALTO		ANI_WAIT4	
+0x4357	0x98	ALTO	#6A	So you were made, you say...	
+0x4396	0x98	ALTO	#6A	That's right, speaking of that,	
+				I heard that Kureha and the others	
+				created the <Wardens>...	
+0x441a	0x06	NOI		ANI_DENY	
+0x443f	0x98	NOI		...I don't know what we should do.	
+0x44ad	0x98	NOI	#0W	...I'm sorry, Nayuta.	
+0x44ec	0x06	ALTO		ANI_GESTURE2	
+0x4516	0x98	ALTO	#6A	...Now, I'm thinking of going	
+				to the place where Kureha and the	
+				others are.	
+0x4582	0x06	ALTO		ANI_JOY	
+0x45a7	0x98	ALTO	#6A	A seal that threatens <Terra>...	
+				Even Kureha should not desire that.	
+0x4632	0x06	NOI		ANI_NOD	
+0x4656	0x98	NOI		...Yeah, that's right.	
+0x479b	0x98	NOI	#500x#500y	It looks like from that	
+				tree root, we can go to the outer	
+				wall of <Heliograd>.	
+0x4810	0x98	NOI	#500x#500y	Anyway, let's try going!	
+0x4859	0x98	ALTO	#0x#500y	Got it!	
+0x48c4	0x07	System	#3C	You have become able	
+				to go to <Heliograd>.	
+0x49b7	0xCE	Objective		Gotta go to Heliograd! Let's go along the tree root!	

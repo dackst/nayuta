@@ -1,0 +1,174 @@
+mp_0004c
+init
+lp_post
+0x708	0x98	ALTO		Huh...	
+				Somehow, it looks like a strange	
+				letter is inside.	
+0x75f	0x98	ALTO		It looks like it's from someone	
+				connected to the wardens...	
+0x7b9	0x98	ALTO		I should visit the temple	
+				once and try asking about it.	
+lp_ladder_u
+lp_ladder_d
+lp_telescope
+0xb9e	0x40	UNDEF		Nayuta peered through the astronomical telescope.	mp_0004 0x2875
+0xe3d	0x07	System	#4C	You can operate the telescope using the analog stick.	
+				With the L button, you can zoom in,	
+				and with the R button, you can zoom out.	
+lp_tera
+0xfbb	0x40	UNDEF		The gate has lost all of its power.	
+0x1009	0x40	UNDEF		The gate has lost all of its power.	mp_0004c 0xfbb
+0x109f	0x98	NOI		...Nayuta, let's go.	
+0x10d2	0x98	ALTO		...Okay.	
+talk_Ophiuchus
+0x116b	0x98	Ophiuchus		Master Michey is in a state	
+				of meditation for some reason...	
+0x11cb	0x98	Ophiuchus		Abnormalities have been going	
+				on here for awhile.	
+0x1220	0x98	Ophiuchus		We must think of Master Michey,	
+				who has an attachment to this island.	
+0x12b1	0x98	Ophiuchus		...However, while I'm thinking this and that,	
+				before I know it, he has moved, because	
+				he's Master Michey.	
+0x133d	0x98	Ophiuchus		Phew, I've got to take care	
+				not to lose sight of him...	
+0x13be	0x98	Ophiuchus		He comes and goes as he pleases.	
+				I'm terribly sorry.	
+0x1416	0x98	Ophiuchus		Though Master Michey was about	
+				to leave on a walk...	
+0x146e	0x98	Ophiuchus		Somehow, it seems he prefers places	
+				where he can catch the eyes of	
+				the people.	
+0x1507	0x98	Ophiuchus		I'm terribly sorry that he comes	
+				and goes as he pleases.	
+0x1563	0x98	Ophiuchus		I'll be careful to ensure he	
+				does not scare your sheep...	
+talk_SheepA
+talk_SheepB
+talk_Nora
+0x169e	0x98	Dog		Ruff, ruff!	mp_0004 0x7911
+0x16e2	0x98	ALTO		Huh? It looks like you're holding	mp_0004 0x7955
+				something in your mouth, but...	
+0x1742	0x98	ALTO		Could it be that you're giving	mp_0004 0x79b5
+				these to me?	
+0x178c	0x98	Dog		Ruff♪	mp_0004 0x79ff
+0x17b1	0x98	ALTO		Hmm, then since you went through	mp_0004 0x7a24
+				trouble to find those, I'll accept them.	
+0x1841	0x98	ALTO		Ah, you're holding something again.	mp_0004 0x7ab4
+				...Are you giving those to me?	
+0x18a2	0x98	Dog		Ruff♪	mp_0004 0x79ff
+0x18c7	0x98	ALTO		Haha, then I'll accept them thankfully.	mp_0004 0x7b3a
+sub_Nora
+0x19db	0x98	Dog		Bwow!	
+0x1a3d	0x98	Dog		...Yip yap!	
+0x1a67	0x98	Dog		...*whimper*...!	
+talk_Michy
+subev_get_dog2
+0x1e93	0x06	ALTO		ANI_GESTURE2	
+0x1ebd	0x98	ALTO		Yeah, it looks like setting	mp_0004 0x3ccc
+				up the shed went well.	
+0x1f0e	0x6B	Dog		Unknown	
+0x1f3f	0x3F	Name		Stray Dog	mp_0004 0x3d4e
+0x1f74	0x98	Dog		Ruff, ruff♪	mp_0001 0x3a9c
+0x1fc9	0x06	NOI		ANI_NOD	
+0x2005	0x98	NOI		This one looks happy with it.	mp_0004 0x3e14
+0x204b	0x98	NOI		This one looks happy with it.	mp_0004 0x3e14
+0x20a0	0x06	Asa		ANI_THINK	
+0x20c6	0x98	Asa		But now,	mp_0004 0x3ed5
+				I need a name to call you.	
+0x2107	0x98	Asa		I wonder what name would be good.	mp_0004 0x3f16
+0x215b	0x06	ALTO		ANI_THINK	
+0x2182	0x98	ALTO		Hmm, then...it's "Nora."	
+				This one's name will be Nora.	
+0x21d7	0x06	ALTO		ANI_WAIT	
+0x2212	0x06	Asa		ANI_NOD	
+0x2236	0x98	Asa		Yes, I don't think it's too bad.	mp_0004 0x4066
+0x2280	0x06	Asa		ANI_WAIT4	
+0x22a6	0x98	Asa		Huhu, nice to meet you,	mp_0004 0x40d6
+				Nora♪	
+0x22e2	0x98	Dog		Ruff, ruff, whine!	mp_0004 0x4112
+SB_6_S01_appear_ALTO
+SB_6_S01_move_ALTO
+EV_6_S01_stop_warp
+0x27f9	0x6B	ALTO_pj		Exclamation	
+0x2826	0x06	ALTO_pj		ANI_SURPRISE	
+0x29df	0x06	ALTO_pj		ANI_LOOK_AROUND	
+0x2a30	0x98	ALTO_pj		W-What is with the sky!?	
+				And the atmosphere of the island, too...	
+0x2a9b	0x06	ALTO_pj		ANI_WAIT	
+0x2b29	0x98	ALTO_pj		...Anyway,	
+				I've got to go to <Terra>!	
+0x309f	0x6B	ALTO_pj		Question	
+0x30d4	0x06	ALTO_pj		ANI_SURPRISE_WEAK	
+0x3106	0x98	ALTO_pj	#6A#0W	The transfer gate's not moving?	
+0x3162	0x98	ALTO_pj	#16S#6A	Why!?	
+0x3199	0x06	ALTO_pj		ANI_COMPLAIN	
+0x31ce	0x98	ALTO_pj	#16S#6A	...Please move!	
+				#16SPlease take me to <Terra>!	
+0x3225	0x98	ALTO_pj	#16S#6A	Cygna...and Kureha...	
+				#16SI need to talk to them!	
+0x32a8	0x06	ALTO		ANI_WAIT	
+0x3460	0x98	NOI	#6A	Nayuta...	mp_0000d 0x7671
+0x34a2	0x98	ALTO_pj	#0W	...Noi, please tell me.	
+0x34df	0x98	ALTO_pj	#0W	After that, what happened?	
+0x3527	0x06	NOI		ANI_GESTURE1	
+0x3550	0x98	NOI	#6A	...We were probably saved	
+				by Master Kureha.	
+0x35bc	0x98	ALTO_pj		Kureha...!?	
+0x3607	0x98	NOI	#6A	It seems she cast her	
+				magic on us just in time...	
+0x3679	0x06	NOI		ANI_GESTURE2	
+0x36a2	0x98	NOI	#6A	Because of that, we arrived	
+				safely on this island.	
+0x36fd	0x06	NOI		ANI_DENY	
+0x3722	0x98	NOI	#6A	But...When I opened my eyes,	
+				various changes were happening	
+				even in this word...	
+0x379a	0x6B	ALTO_pj		Ellipsis	
+0x37f0	0x06	NOI		ANI_GESTURE1	
+0x3819	0x98	NOI	#6A	...The transfer gate, too.	
+				Before I knew it, it	
+				disconnected.	
+0x3876	0x06	NOI		ANI_COMPLAIN	
+0x389f	0x98	NOI	#6A	It was probably done so that	
+				we wouldn't interfere more than	
+				we already have, I think.	
+0x3915	0x98	NOI	#6A	By Master Kureha...	
+				and Master Selam.	
+0x3963	0x98	ALTO_pj	#1W	..................	mp_0000d 0x70fd
+0x39b2	0x98	ALTO_pj		...There are still way too many	
+				things I don't understand.	
+0x3a0e	0x98	ALTO_pj		Like, what will happen to our	
+				world from now on...	
+0x3a62	0x98	ALTO_pj		Like, why Kureha	
+				saved us...	
+0x3aa8	0x98	ALTO_pj		...But...	
+0x3b05	0x06	ALTO_pj		ANI_DENY	
+0x3b2e	0x98	ALTO_pj		...I don't know what	
+				to do anymore...	
+0x3b7d	0x06	NOI		ANI_GESTURE2	
+0x3ba6	0x98	NOI	#6A	Nayuta...	mp_0000d 0x7671
+SB_6_S03_appear_ALTO
+SB_6_S03_appear_NOI
+EV_6_S03_go_for_walk
+0x4221	0x98	ALTO		...I forgot something.	
+0x428c	0x98	ALTO	#6A	Noi, is it alright	
+				for you to walk in the	
+				village?	
+0x42e7	0x06	NOI		ANI_GESTURE1	
+0x4310	0x98	NOI		U-Umm...	
+				The truth is, when you awakened,	
+				I had already introduced myself, generally.	
+0x439f	0x98	NOI		So as not to frighten folks,	
+				I made in homes wherever	
+				possible, but...	
+0x440a	0x06	ALTO		ANI_GESTURE2	
+0x4434	0x98	ALTO	#6A	...I see.	
+0x4460	0x06	ALTO		ANI_WAIT4	
+0x4487	0x98	ALTO	#6A	...Well, it seems there are no	
+				problems with taking a walk then.	
+				Let's get going.	
+0x4516	0x06	NOI		ANI_NOD	
+0x453a	0x98	NOI		...Okay.	mp_0004c 0x10d2
+0x4677	0x06	ALTO		ANI_WAIT	
+0x470f	0xCE	Objective		I'll try going around the island with Noi.	

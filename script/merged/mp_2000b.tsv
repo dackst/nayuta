@@ -1,0 +1,50 @@
+mp_2000b
+init
+ev_goal
+ob_sw_cb
+0x50b	0x06	ob_sw_00		ANI_CHANGE_GREEN	
+0x53d	0x06	ob_sw_01		ANI_CHANGE_GREEN	
+0x56f	0x06	ob_sw_02		ANI_CHANGE_GREEN	
+0x5a1	0x06	ob_sw_03		ANI_CHANGE_GREEN	
+0x6a3	0x06	door_B_00		ANI_STOP2	
+0x74d	0x06	ob_sw_00		ANI_CHANGE_GREEN	
+0x77f	0x06	ob_sw_01		ANI_CHANGE_GREEN	
+0x7b1	0x06	ob_sw_02		ANI_CHANGE_GREEN	
+0x7e3	0x06	ob_sw_03		ANI_CHANGE_GREEN	
+0x8e8	0x06	ob_sw_00		ANI_CHANGE_RED	
+0x918	0x06	ob_sw_01		ANI_CHANGE_RED	
+0x948	0x06	ob_sw_02		ANI_CHANGE_RED	
+0x978	0x06	ob_sw_03		ANI_CHANGE_RED	
+point
+crystal
+boss_battle01
+0xdd6	0x6B	ALTO		Exclamation	
+dead_EV01
+open_door1_2
+SB_2_S15_alto_move
+SB_2_S15_noi_move
+0x1580	0x06	NOI		ANI_LOOK_AROUND	
+EV_2_S15_cave1_start
+0x18c6	0x06	st		ANI_PATA2	
+0x19c8	0x98	ALTO		Again this is...	
+				An unthinkably vast cave.	
+0x1a11	0x98	ALTO		Light reflects off the water's surface,	
+				giving this place an amazingly	
+				magical atmosphere.	
+0x1a91	0x06	NOI		ANI_THINK	
+0x1ab7	0x98	NOI	#6A	Yeah, but...	
+				As expected, the climate of this	
+				continent is strange too.	
+0x1b1e	0x98	NOI	#6A	In this season, the whole	
+				surface should be frozen over, and	
+				the climate should be cold...	
+0x1bdc	0x98	ALTO		...Anyway,	
+				Cygna should be somewhere	
+				in this place.	
+0x1c2d	0x06	ALTO		ANI_JOY	
+0x1c52	0x98	ALTO		We've got to take back	
+				the <Master Gears> from	
+				Zext, too!	
+0x1ce1	0x06	NOI		ANI_NOD	
+0x1d05	0x98	NOI	#6A	Yeah!	
+				Let's try going where we can!	

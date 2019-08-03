@@ -1,0 +1,59 @@
+mp_1000b
+init
+ev_goal
+fog_off
+fog_on
+boss_battle
+0x9f9	0x6B	ALTO		Exclamation	
+dead_ev01
+open_door1_2
+crystal
+tbox
+QS_21_get_fruit
+0x13d9	0x6B	NOI		Exclamation	
+0x140a	0x06	NOI		ANI_SURPRISE	
+0x1433	0x98	NOI		Ah...	
+				It became a	
+				delicious-looking fruit!	
+0x147a	0x06	ALTO		ANI_JOY	
+0x149f	0x98	ALTO	#6A	Yes, just like I thought!	
+0x1539	0x06	ALTO		ANI_HANDOVER	
+0x15c4	0xC1	System		obtained.	mp_0000 0x7558
+0x16b7	0x98	NOI		Nayuta, did you plant that sapling	
+				in "Spring" to make this fruit?	
+0x174f	0x98	ALTO	#6A	Yeah, if it's the Astrolabe we're talking	
+				about, we can use it to quicken the growth	
+				of plants.	
+0x17cf	0x06	NOI		ANI_THINK	
+0x17f5	0x98	NOI		You've certainly mastered the use	
+				of the Astrolabe...	
+0x1848	0x06	NOI		ANI_GESTURE2	
+0x1871	0x98	NOI		H-Humans are pretty	
+				capable.	
+0x18ab	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x18d9	0x98	ALTO		Ahaha...	
+				It might be a little different than	
+				its proper use though...	
+0x193c	0x98	ALTO	#6A	Alright, I'll go deliver this	
+				fruit to Ada quickly.	
+QS_21_LookPoint
+EV_2_S17_jungle_summer
+0x1da4	0x06	ALTO		ANI_LOOK_AROUND	
+0x1dd1	0x98	ALTO		The scenery	
+				completely changed...	
+0x1e11	0x06	ALTO		ANI_WAIT	
+0x1e55	0x98	ALTO		The sun is dazzling and	
+				the forest verdant...	
+0x1ead	0x06	ALTO		ANI_WAIT4	
+0x1ed4	0x98	ALTO		I can't believe this is the	
+				same place as before...	
+0x1f26	0x06	NOI		ANI_GUTSPOSE	
+0x1f4f	0x98	NOI	#6A	Heheh, that's the power	
+				of the Astrolabe for you!	
+0x1fd9	0x06	ALTO		ANI_WAIT	
+0x2037	0x06	NOI		ANI_GESTURE2	
+0x2060	0x98	NOI	#6A	The geographical features may	
+				have changed too...	
+				Let's proceed with plenty of caution!	
+0x20d7	0x06	ALTO		ANI_NOD	
+0x21b0	0x06	ALTO		ANI_WAIT	
