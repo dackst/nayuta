@@ -35,10 +35,10 @@ EV_6_S19_in_bossmap1
 				of the "Pillar"...	
 0x17d1	0x98	ALTO	#6A	It certainly is the	mp_6300 0x192c
 				place that supplies the	
-				continent with <Power of Stars>.	
+				continent with Power of Stars.	
 0x1876	0x98	NOI		Yeah, exactly right.	mp_6300 0x19d1
 0x18a9	0x06	NOI		ANI_GESTURE2	
-0x18d2	0x98	NOI		The <Stellagear> should be	mp_6300 0x1a2d
+0x18d2	0x98	NOI		The Stellagear should be	mp_6300 0x1a2d
 				installed in the center of	
 				this place.	
 0x1938	0x06	ALTO		ANI_JOY	
@@ -52,7 +52,7 @@ EV_6_S23_yagi_boss
 0x23d8	0x06	Gio		ANI_NOD	
 0x23fc	0x98	Gio		Nayuta, and Noi too.	mp_6301 0x2b24
 0x244c	0x98	Gio		I am sorry but, I cannot	
-				hand over the <Stellagear>	
+				hand over the Stellagear	
 				to you.	
 0x24a4	0x06	Gio		ANI_GESTURE2	
 0x24ea	0x98	Gio		You should leave immediately.	mp_6301 0x2bd2
@@ -64,13 +64,13 @@ EV_6_S23_yagi_boss
 0x2675	0x98	NOI	#6A	It can't be, Gio!!	
 0x2707	0x98	Gio		We finally know	
 				the truth.	
-0x2779	0x98	Gio		The mission of the <Mythos>...	mp_6300 0x2b5b
+0x2779	0x98	Gio		The mission of the Mythos...	mp_6300 0x2b5b
 				And the true reason for the	
-				existence of <Terra>.	
+				existence of Terra.	
 0x280b	0x06	Gio		ANI_GESTURE1	
-0x2851	0x98	Gio		As a <Warden> of the continents,	mp_6300 0x2c43
+0x2851	0x98	Gio		As a Warden of the continents,	mp_6300 0x2c43
 				I cannot allow you to interfere in	
-				the <Remaking> of Master Kureha and the others.	
+				the Remaking of Master Kureha and the others.	
 0x2906	0x06	NOI		ANI_COMPLAIN	
 0x292f	0x98	NOI	#6A	...What do you mean, Gio!?	
 0x299c	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f
@@ -84,7 +84,7 @@ EV_6_S23_yagi_boss
 0x2b45	0x06	Gio		ANI_DENY	
 0x2b6a	0x98	Gio		...How naive.	mp_6300 0x2f7d
 0x2b96	0x98	Gio		Do you think you can stand in the way	
-				of the <Mythos>' mission with an	
+				of the Mythos' mission with an	
 				attitude like that!?	
 0x2c64	0x98	Gio	#16S	──Don't make me laugh,	
 				youngster!	
@@ -92,11 +92,11 @@ EV_6_S23_yagi_boss
 0x2d01	0x98	Gio		I do not really want	
 				to confront you two, but...	
 0x2d6c	0x98	Gio		I cannot give you	mp_6302 0x247a
-				the <Stellagear>.	
+				the Stellagear.	
 0x2dd2	0x06	ALTO		ANI_COMPLAIN	
 0x2dfc	0x98	ALTO	#6A	Gio!!	
 0x2e5e	0x98	Gio		Though it is sad,	
-				we are <Wardens>...	
+				we are Wardens...	
 0x2ee3	0x98	Gio		We cannot oppose	
 				the will of our masters.	
 0x2f88	0x98	Gio		If you tell me to step aside,	
@@ -110,7 +110,7 @@ EV_6_S23_yagi_boss
 0x3268	0x06	Gio		ANI_USE_POWER	
 0x343f	0x98	Gio	#1W#240x#0y	If you say you will face me...	
 				Then I, too, will show no mercy.	
-0x34ff	0x98	Gio	#1W#240x#0y	I, <Lychnis>, will stop	
+0x34ff	0x98	Gio	#1W#240x#0y	I, Lychnis, will stop	
 				you, with all of my power!	
 0x3c09	0x06	b011		ANI_DEMO1	
 0x3e32	0x06	NOI		ANI_GESTURE1	
@@ -132,20 +132,20 @@ EV_6_S24_bye_gio
 				my "honor."	
 0x4b16	0x06	Gio		ANI_GESTURE1	
 0x4b81	0x98	Gio		The proud mission of the	
-				<Wardens>, to protect life	
+				Wardens, to protect life	
 				on the continents...	
 0x4be6	0x06	Gio		ANI_NOD	
 0x4c27	0x98	Gio		That was given to me	
 				by Master Kureha and	
 				the others.	
-0x4c9e	0x98	NOI	#6A	...The mission of the <Wardens>...	
+0x4c9e	0x98	NOI	#6A	...The mission of the Wardens...	
 0x4cfe	0x06	NOI		ANI_GESTURE1	
 0x4d27	0x98	NOI	#6A	Gio, I...!	
 0x4dfb	0x98	Gio		Stop what you're	
 				saying, Noi.	
 0x4e36	0x98	Gio		You must still show your	
 				way to the duty of	
-				the <Mythos>.	
+				the Mythos.	
 0x4ece	0x98	Gio		And, that will of yours	
 				defeated me.	
 				You should be proud of it.	
@@ -157,7 +157,7 @@ EV_6_S24_bye_gio
 0x50f2	0x98	Gio		Then, I too will bet on you.	
 0x58dc	0x06	NOI		ANI_TAKE_OUT	
 0x59ba	0x40	Gio		You should take this...	
-				This pillar's <Stellagear>.	
+				This pillar's Stellagear.	
 0x5a13	0x40	ALTO		Gio...	
 				Thank you very much!	
 0x5ab1	0xC1	System		obtained.	mp_0000 0x7558
@@ -174,9 +174,9 @@ EV_6_S24_bye_gio
 				Leave the rest to us!	
 0x60d6	0x06	NOI		ANI_GESTURE2	
 0x60ff	0x98	NOI	#6A	Anyway with this, we've	mp_6300 0x63a4
-				gathered all of the <Stellagears>!	
+				gathered all of the Stellagears!	
 0x616a	0x06	ALTO		ANI_JOY	
-0x618f	0x98	ALTO		Let's go to the <Astrolabe>...	mp_6300 0x6434
+0x618f	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
 				and chase after Kureha and the others!	
 EV_6_S37_check_bossmap1
 0x666d	0x40	UNDEF		Gio is not here.	

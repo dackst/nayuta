@@ -10,10 +10,10 @@ EV_7_S11_look_starball
 0x12b4	0x98	ALTO	#6A	...Looking at it up close, it's incredible.	
 0x1302	0x98	ALTO	#6A	Even I understand that it's	
 				overflowing with life force...	
-0x1366	0x98	NOI	#6A	Since long ago, <Terra> has waited	
+0x1366	0x98	NOI	#6A	Since long ago, Terra has waited	
 				for this day of Remaking...	
 0x13c5	0x98	NOI	#6A	To someday, send this	
-				<Planetarium> to the surface...	
+				Planetarium to the surface...	
 0x145f	0x98	ALTO	#6A	...And, Zext is	
 				in there?	
 0x14dd	0x98	NOI	#6A	Yeah...	
@@ -21,7 +21,7 @@ EV_7_S11_look_starball
 				with which to give the final order.	
 0x1543	0x06	NOI		ANI_GUTSPOSE	
 0x156c	0x98	NOI	#6A	Now that Zext has gotten the	
-				<Shining Wings of the Mythos>,	
+				Shining Wings of the Mythos,	
 				we've got to hurry!	
 0x1601	0x98	ALTO	#6A	...Once we jump in,	
 				it seems there's no going back.	

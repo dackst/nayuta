@@ -166,7 +166,7 @@ talk_Aulbath_sub
 0x2943	0x98	Aulbath		Hmm...then that is good.	
 0x297e	0x98	ALTO		(..It seems I kept Noi a secret,	
 				 and there's no way I can talk about	
-				 the incident at the ruins or <Terra>.)	
+				 the incident at the ruins or Terra.)	
 0x2a09	0x98	Aulbath		For a moment, I sensed an	
 				unusual presence in those ruins...	
 				Somehow, it must have been my imagination.	
@@ -446,7 +446,7 @@ quest_Aulbath
 				 them, offer up this box	
 				 as the seasons change"...	
 0x6551	0x98	Aulbath		If it is you, Nayuta, you may have	
-				some idea where in <Terra> that is.	
+				some idea where in Terra that is.	
 0x6676	0x98	Aulbath		Use that sword freely, and	mp_0002 0x3109
 				show me you can destroy	
 				those scarecrows.	
@@ -603,14 +603,14 @@ QS_02_jump_avoid
 				of the scholar than the sword.	
 0x905b	0x06	Aulbath		ANI_GESTURE2	
 0x9088	0x98	Aulbath		In order to search for	
-				<Lost Heaven>.	
+				Lost Heaven.	
 0x90d7	0x06	ALTO		ANI_NOD	
 0x90fc	0x98	ALTO	#6A	...Yes.	
 0x9126	0x98	ALTO	#6A	My father headed for the	
-				other side of <End of the World>,	
+				other side of End of the World,	
 				believing it existed.	
 0x9197	0x98	ALTO	#6A	The truth is, this world	
-				has nothing like an <End>.	
+				has nothing like an End.	
 				Surely there must be something beyond.	
 0x921a	0x06	ALTO		ANI_THANKS	
 0x9242	0x98	ALTO	#6A	So saying, my father	
@@ -830,7 +830,7 @@ QS_24_get_salt
 				...Just who is it, I wonder?	
 QS_81_quest_start
 0xe73e	0x06	ALTO		ANI_WAIT	
-0xe88c	0x98	Aulbath		There is something related to <Terra>	
+0xe88c	0x98	Aulbath		There is something related to Terra	
 				that I would like to request of you two,	
 				but...	
 0xe902	0x98	Aulbath		If you have time, will you accept?	
@@ -844,7 +844,7 @@ QS_81_quest_start
 0xea97	0x98	NOI	#6A	Did something happen?	
 0xeace	0x06	Aulbath		ANI_NOD	
 0xeaf6	0x98	Aulbath		Hmm, the truth is, it is	
-				related to <Terra>.	
+				related to Terra.	
 0xeb44	0x98	Aulbath		If you have time, will you accept?	mp_0002 0xe902
 0xebc9	0x36	Choice		[Accept]	mp_0000 0xeaf5
 0xebdf	0x36	Choice		[Quit]	mp_0000 0xeb0b
@@ -930,7 +930,7 @@ QS_81_undertake
 0xfd18	0x98	NOI	#6A	It probably means to shower it	
 				in Power of Stars that is attuned	
 				to each season.	
-0xfd88	0x98	NOI	#6A	We can use the <Astrolabe>	
+0xfd88	0x98	NOI	#6A	We can use the Astrolabe	
 				to change the season...	
 0xfddb	0x98	NOI	#6A	This was made	
 				using the same technology.	
@@ -955,7 +955,7 @@ QS_81_undertake
 0x1012c	0x98	NOI	#6A	The one I took over for, the	
 				"Past Noi" had some relevant	
 				knowledge.	
-0x10190	0x98	NOI	#6A	In <Terra> on the four continents,	
+0x10190	0x98	NOI	#6A	In Terra on the four continents,	
 				there seem to be places where the Power of Stars	
 				flows more strongly than the surroundings...	
 0x10230	0x98	NOI	#6A	If we use places like that,	
@@ -1044,6 +1044,6 @@ EV_2_S04_under_noi
 0x1190d	0x98	ALTO		Speaking of that...	
 				I made Noi wait for me, didn't I?	
 0x11979	0x98	ALTO		I said nothing and left...	
-				I should return to <Terra> quickly.	
+				I should return to Terra quickly.	
 0x11ab9	0xCE	Objective		Looks like Cygna's not here. I should return to Terra for Noi.	
 atari

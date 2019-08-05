@@ -45,7 +45,7 @@ EV_4_S04_lava1_start
 0x1f17	0x06	ALTO		ANI_THINK2	
 0x1f3f	0x98	ALTO		Maybe it's the case that	
 				the activity is due to the	
-				influence of the stolen <Master Gear>...	
+				influence of the stolen Master Gear...	
 0x1ff1	0x98	ALTO		Even so, this is an incredible heat.	
 				...Noi, are you all right?	
 0x2087	0x98	NOI	#6A	Y-Yeah, somehow.	
@@ -73,7 +73,7 @@ EV_4_S05_look_lava
 0x2651	0x06	NOI		ANI_DENY	
 0x2676	0x98	NOI	#6A	...It's no good, I can't think of any.	
 0x26f6	0x98	NOI	#6A	As I thought, we should	
-				probably go to <Heimmel>	
+				probably go to Heimmel	
 				and save Algol.	
 0x278e	0x06	ALTO		ANI_NOD	
 0x27b3	0x98	ALTO		You're right...	
@@ -84,7 +84,7 @@ SB_4_S06_move_NOI
 EV_4_S06_look_cage_4th
 0x2d5e	0x06	ALTO		ANI_NOUTOU	
 0x2e2c	0x41	None	#0W#2E#610c	Oh stars in the heavens...	
-				Somehow, please protect <Terra>...#0E	
+				Somehow, please protect Terra...#0E	
 0x2ed0	0x6B	ALTO		Surprise	
 0x2f02	0x6B	NOI		Surprise	
 0x2f33	0x06	ALTO		ANI_LOOK_AROUND	
@@ -153,10 +153,10 @@ EV_4_S06_look_cage_4th
 				do should be the same.	
 0x4147	0x06	ALTO		ANI_JOY	
 0x416c	0x98	ALTO		As soon as possible, we should	
-				take back the <Master Gear> from Zext!	
+				take back the Master Gear from Zext!	
 0x41d8	0x41	None	#0W#2E#710c	To the human...	
 				Nayuta, I believe.#0E	
-0x42ae	0x41	None	#0W#2E#710c	I entrust the fate of this <Terra>	
+0x42ae	0x41	None	#0W#2E#710c	I entrust the fate of this Terra	
 				to you and Noi.#0E	
 0x433f	0x41	None	#0W#2E#710c	To stop Zext...	
 				Please head for the temple	

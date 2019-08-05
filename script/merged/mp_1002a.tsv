@@ -104,9 +104,9 @@ EV_1_S06_look_cage_1st
 0x3334	0x98	Signa		It finally feels like this is the interior but...	
 				Noi, what's past here?	
 0x3419	0x98	NOI		Past here is...	
-				The <Temple> of Oltapia.	
+				The Temple of Oltapia.	
 0x3467	0x06	ALTO		ANI_THINK2	
-0x348f	0x98	ALTO	#6A	<Temple>...？	
+0x348f	0x98	ALTO	#6A	Temple...？	
 0x34dc	0x98	NOI		Umm, the explanation is	
 				difficult but...	
 0x353f	0x98	NOI		In a word, it's a facility that	
@@ -117,7 +117,7 @@ EV_1_S06_look_cage_1st
 				Zext is, probably...	
 0x362c	0x06	Signa		ANI_THINK	
 0x3654	0x98	Signa		You said you were the	
-				warden of the <Garden>...	
+				warden of the Garden...	
 0x36a3	0x06	Signa		ANI_GESTURE2	
 0x36ce	0x98	Signa		This continent has	
 				one too.	
@@ -144,7 +144,7 @@ EV_1_S06_look_cage_1st
 				...Could it be, Noi!?#0E	
 0x3b58	0x06	NOI		ANI_GOODIDEA	
 0x3b81	0x98	NOI		A-As I thought...	
-				It's <Gio>'s voice!	
+				It's Gio's voice!	
 0x3bc4	0x06	NOI		ANI_LOOK_AROUND	
 0x3bf0	0x98	NOI		Where are you, Gio!?	
 0x3c2b	0x41	None	#0W#2E#310c	Oh...So this is the guidance of the stars too.	
@@ -166,7 +166,7 @@ EV_1_S06_look_cage_1st
 0x4458	0x06	NOI		ANI_NOD	
 0x447c	0x98	NOI	#6A	Y-Yeah.	mp_0005c 0x6aba
 0x44a5	0x06	NOI		ANI_GESTURE1	
-0x44ce	0x98	NOI	#N#6A	<Lychnis Gio>...	
+0x44ce	0x98	NOI	#N#6A	Lychnis Gio...	
 				I just said he was the	
 				warden of this continent.	
 0x4539	0x41	None	#0W#2E#310c	...Hmm...?	
@@ -180,7 +180,7 @@ EV_1_S06_look_cage_1st
 0x4767	0x40	UNDEF		Noi summarized the situation up to now.	
 0x47b7	0x41	None	#0W#2E#310c	Hmm...Is that so.#0E	
 0x4828	0x41	None	#0W#2E#310c	To think humans would ever	
-				see <Terra>...#0E	
+				see Terra...#0E	
 0x48b0	0x41	None	#0W#2E#310c	And what's more, that these	
 				humans would be acting together with	
 				you, Noi, who hates them...#0E	
@@ -204,11 +204,11 @@ EV_1_S06_look_cage_1st
 0x4d03	0x06	ALTO		ANI_NOD	
 0x4d28	0x98	ALTO	#6A	Oh, that's right.	
 				You told us earlier that	
-				the warden is in the <Temple>...	
+				the warden is in the Temple...	
 0x4d9c	0x41	None	#0W#2E#310c	Yes...about that...#0E	
 0x4e0f	0x41	None	#0W#2E#310c	In truth, a man calling	
 				himself "Zext" appeared in the	
-				<Temple> just now.#0E	
+				Temple just now.#0E	
 0x4ebe	0xBC	ALTO		Exclamation	
 0x4efc	0xBC	NOI		Exclamation	
 0x4f39	0xBC	Signa		Exclamation	
@@ -232,13 +232,13 @@ EV_1_S06_look_cage_1st
 0x529a	0x41	None	#0W#2E#310c	Somehow, it seems the barrier	
 				attached to this "Cage" uses the	
 				seasons of its surroundings.#0E	
-0x5353	0x41	None	#0W#2E#310c	If you take back the <Master Gear> and	
+0x5353	0x41	None	#0W#2E#310c	If you take back the Master Gear and	
 				restore this continent's climate to normal, it's	
 				possible that the barrier will be dispelled.#0E	
 0x543d	0x06	Signa		ANI_GESTURE1	
 0x5468	0x98	Signa	#6A	If nothing else,	
 				it seems we must take back	
-				the <Master Gear>.	
+				the Master Gear.	
 0x54d0	0xBC	NOI		Ellipsis	
 0x5562	0x98	ALTO		Hey, what's wrong, Noi?	
 				It looks like you're thinking	
@@ -248,12 +248,12 @@ EV_1_S06_look_cage_1st
 				 temple. That means...)	
 0x56b3	0x98	NOI	#6A	(Then, it's as I thought...)	
 0x56f9	0x41	None	#0W#2E#310c	...Be that as it may, if you do not	
-				recover the <Master Gear> quickly,	
+				recover the Master Gear quickly,	
 				something bad may happen.#0E	
 0x57b7	0x41	None	#0W#2E#310c	Noi, and...	
 				Nayuta and Cygna too.#0E	
 0x5837	0x41	None	#0W#2E#310c	As soon as possible, please	
-				proceed to the <Temple> that is just past here.#0E	
+				proceed to the Temple that is just past here.#0E	
 0x595f	0x06	ALTO		ANI_THANKS	
 0x5987	0x98	ALTO	#6A	Understood...	
 				For right now, please	
@@ -270,7 +270,7 @@ EV_1_S06_look_cage_1st
 0x5b54	0x41	None	#0W#2E#310c	Mmm...please do your best for me!#0E	
 0x5e5f	0x06	ALTO		ANI_JOY	
 0x5e84	0x98	ALTO		Now then...	
-				Let's head to the <Temple> quickly!	
+				Let's head to the Temple quickly!	
 0x5ed2	0x06	ALTO		ANI_GESTURE1	
 0x5efc	0x98	ALTO		Noi, please guide us.	
 0x5f39	0x06	NOI		ANI_NOD	

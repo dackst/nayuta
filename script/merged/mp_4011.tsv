@@ -42,16 +42,16 @@ EV_4_S18_go_temple_top
 0x2163	0x06	stop		ANI_STOP	
 0x23da	0x98	ALTO	#6A	...Though it seems like the shaking stopped...	
 0x246b	0x98	NOI		It looks like the supply of	
-				<Power of Stars> stopped too...	
+				Power of Stars stopped too...	
 0x24c4	0x06	NOI		ANI_COMPLAIN	
 0x24ed	0x98	NOI		Like this...	
-				It'll be like in <Rieseweld>!	
+				It'll be like in Rieseweld!	
 0x253d	0x06	ALTO		ANI_THINK	
 0x2564	0x98	ALTO	#6A	Abnormalities that cover all of	
-				<Terra> might occur...	
+				Terra might occur...	
 0x25bc	0x06	ALTO		ANI_JOY	
 0x25e1	0x98	ALTO	#6A	...Let's hurry!	
 				Quickly, let's take back	
-				the <Master Gear>!	
+				the Master Gear!	
 0x2645	0x06	NOI		ANI_NOD	
 0x2669	0x98	NOI		Y-Yeah!	mp_0004 0x64d8

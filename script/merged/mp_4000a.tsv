@@ -83,7 +83,7 @@ EV_5_S06_help_nemeas
 				once again introduce myself.	
 0x338c	0x06	Nemeas		ANI_GESTURE1	
 0x345e	0x98	Nemeas	#2W	I am Nemeas...	
-				The warden of this <La Worg>.	
+				The warden of this La Worg.	
 0x3834	0x06	Nemeas		ANI_GESTURE2	
 0x3880	0x98	Nemeas		Master Kureha 	
 				is by Zext's side...	
@@ -92,7 +92,7 @@ EV_5_S06_help_nemeas
 				That this has happened means...	
 0x39c2	0x06	ALTO		ANI_COMPLAIN	
 0x39ec	0x98	ALTO	#6A	Do you have any idea about Kureha's...	
-				...about the <Mythos>' mission?	
+				...about the Mythos' mission?	
 0x3ac9	0x98	ALTO	#6A	I want to know no matter what.	
 				Kureha's true motives...	
 0x3b45	0x98	NOI		Nayuta...	mp_0000d 0x7671
@@ -108,7 +108,7 @@ EV_5_S06_help_nemeas
 0x3e2a	0x98	ALTO	#6A	...Is that so...	mp_0001 0xcc63
 0x3e82	0x98	NOI	#0W	..................	mp_0000d 0x70fd
 0x3f7e	0x98	Nemeas		Anyhow...You want to know a method	
-				for climbing the cliff at <Heliograd>,	
+				for climbing the cliff at Heliograd,	
 				I am told.	
 0x407e	0x06	Nemeas		ANI_GESTURE1	
 0x40ca	0x98	Nemeas		By giving Noi my "Power,"	
@@ -126,7 +126,7 @@ EV_5_S06_help_nemeas
 				walls with uneven surfaces.	
 0x4829	0x06	Nemeas		ANI_WAIT	
 0x4899	0x98	Nemeas		If you have that power,	
-				you can climb <Heliograd>.	
+				you can climb Heliograd.	
 0x4914	0x06	ALTO		ANI_THANKS	
 0x493c	0x98	ALTO	#6A	Thank you very much!	mp_3002c 0x6128
 0x497b	0x06	NOI		ANI_GUTSPOSE	
@@ -134,7 +134,7 @@ EV_5_S06_help_nemeas
 0x49da	0x06	Nemeas		ANI_GESTURE2	
 0x4a26	0x98	Nemeas		I with Gio and the others	
 				will be in my temple,	
-				attempting to control the <Power of Stars>.	
+				attempting to control the Power of Stars.	
 0x4b59	0x98	Nemeas		Please, may the guidance	
 				of the stars light your way forward...	
 0x4ec7	0x98	ALTO	#6A	With this, our preparations are in order.	

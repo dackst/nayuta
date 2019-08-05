@@ -10,19 +10,19 @@ EV_3_S28_at_tower_top
 0x706	0x98	Zext	#0W	...How are things progressing?	
 0x75d	0x98	Seram	#0W#6A	Without delay.	
 0x7a8	0x98	Seram	#1W#6A	The remaining continent──	
-				For <La Worg>,	
+				For La Worg,	
 				everything is in order.	
 0x825	0x98	Zext	#1W	...Good work.	
 				I'll leave our continued	
 				progress there in your hands.	
 0x8a0	0x98	Zext	#1W	Before long, I will put the finishing	
-				touches on the <Final Key>.	
+				touches on the Final Key.	
 0x919	0x98	Seram	#0W#6A	──By your command.	
 0xbb5	0x98	Zext	#0W	Heheheh...	
 				So everything is going according to plan, huh.	
 0xc26	0x98	Zext	#1W	Before long, I will spell the end	
 				of this fabricated world...	
-0xcf3	0x98	Zext	#1W	The greatest wish of the <Mythos>...	
+0xcf3	0x98	Zext	#1W	The greatest wish of the Mythos...	
 				I will definitely fulfill it.	
 EV_3_S28_at_tower_top_cs
 EV_5_S19_meet_zext
@@ -48,16 +48,16 @@ EV_5_S19_meet_zext
 				no longer exists.	
 0x2946	0x98	ALTO	#6A	...Tch...	mp_0115 0x14718
 0x297a	0x98	Zext		──With this, all preparations are in order.	
-0x29c7	0x98	Zext		Next, it is time to fill this <Heliograd>	
-				with the <Power of Stars>...	
-0x2a2c	0x98	Zext		We <Mythos> have succeeded	
+0x29c7	0x98	Zext		Next, it is time to fill this Heliograd	
+				with the Power of Stars...	
+0x2a2c	0x98	Zext		We Mythos have succeeded	
 				in our lost mission.	
 0x2af3	0xBC	ALTO		Ellipsis	
 0x2b31	0x98	ALTO	#6A	...Please tell me.	
 0x2b66	0x98	ALTO	#6A	Your...	
 				The true objective	
-				of the <Mythos>.	
-0x2bb2	0x98	ALTO	#6A	Plunging <Terra> into danger...	
+				of the Mythos.	
+0x2bb2	0x98	ALTO	#6A	Plunging Terra into danger...	
 				even attacking Remnant Island...	
 				What could you be planning?	
 0x2c7b	0x06	Zext		ANI_SIT2_NOD	
@@ -69,23 +69,23 @@ EV_5_S19_meet_zext
 				You do not know the	
 				true history of your world.	
 0x2f6f	0x98	Zext		Long ago..	
-				We <Mythos> lived	
+				We Mythos lived	
 				on your world.	
 0x2fd4	0x98	ALTO	#16S#240x#270y	!?	
-0x300c	0x98	Zext		Once, <Mythos>	
+0x300c	0x98	Zext		Once, Mythos	
 				coexisted with "Humans."	
 0x3052	0x98	Zext		In those days, we gave out the	
 				vast knowledge and technology	
 				we possessed.	
-0x30c2	0x98	Zext		Furthermore, by manipulating the <Power	
-				of Stars>, we guided the world righteously.	
+0x30c2	0x98	Zext		Furthermore, by manipulating the Power	
+				of Stars, we guided the world righteously.	
 0x313c	0x98	Zext	#0W	Those people worshipped us...	
 				──as "a race of gods."	
 0x319c	0x98	ALTO	#0W#240x#270y	A race...of gods...	
 0x3240	0x40	ALTO		Then...	
-				The mural carved in <Heimmel> meant...	
+				The mural carved in Heimmel meant...	
 0x33e3	0x98	Seram		Hehe, an image of the	
-				<Mythos> guiding "your world,"	
+				Mythos guiding "your world,"	
 				isn't it.	
 0x3440	0x98	Seram		Well, relations between people	
 				and gods were going well.	
@@ -113,7 +113,7 @@ EV_5_S19_meet_zext
 				existing animals and plants.	
 0x393e	0x98	Zext		Furthermore, it was the cornerstone	
 				for one day "remaking" the world──	
-0x3a07	0x98	Zext	#1W	That is the──#0W<Terra> plan.	
+0x3a07	0x98	Zext	#1W	That is the──#0WTerra plan.	
 0x3a65	0x98	ALTO	#1W#40x#270y#16S	...!!	mp_0110 0x23435
 0x3c6b	0x06	NOI		ANI_SURPRISE	
 0x3c9c	0x98	NOI	#230x#160y#16S#6A	Ah!?	
@@ -123,7 +123,7 @@ EV_5_S19_meet_zext
 0x3e95	0x98	Zext		The Astrolabe in this tower has an important	
 				function other than overseeing life.	
 0x3f05	0x98	Zext		That is──Gathering a colossal amount	
-				of <Power of Stars> to execute the plan.	
+				of Power of Stars to execute the plan.	
 0x3f7b	0x98	Zext		Hehe, now, that duty is on the verge	
 				of being performed...	
 0x3fdc	0xBC	ALTO		Exclamation	
@@ -132,7 +132,7 @@ EV_5_S19_meet_zext
 				because...!	
 0x40aa	0x98	Zext		Hehe, everything was for the plan.	
 0x40ec	0x98	Zext		For that reason, the	
-				abnormalities in <Terra> do not	
+				abnormalities in Terra do not	
 				exceed a trivial sacrifice.	
 0x4162	0x06	NOI		ANI_GESTURE1	
 0x418b	0x98	NOI	#1W#6A	Zext...You!	
@@ -140,14 +140,14 @@ EV_5_S19_meet_zext
 0x42a0	0x98	Zext		Selam, Kureha.	
 				Release them.	
 0x42db	0x98	Zext		The proof of the executors of the plan...	
-				The power of the <Shining Wings of	
-				the Mythos>!	
+				The power of the Shining Wings of	
+				the Mythos!	
 0x435a	0x98	Seram	#6A	──By your command.	mp_5200 0x919
 0x43e0	0x06	Creha		ANI_NOD	
 0x440e	0x98	Creha	#0W#6A	......(*nods*)	
 0x49bd	0x06	Seram		ANI_WAIT	
 0x4a36	0x98	ALTO	#1W#6A	W-Wait!!	
-0x4a6c	0x98	ALTO	#6A	If the mission of the <Mythos>	
+0x4a6c	0x98	ALTO	#6A	If the mission of the Mythos	
 				is to *remake* our world...	
 0x4ac8	0x98	ALTO	#6A	What will happen to the world	
 				the we live on now!?	
@@ -161,7 +161,7 @@ EV_5_S19_meet_zext
 0x4c6c	0x98	Zext		If that kind of thing is about to	
 				disappear, it is no big deal.	
 0x4cca	0x98	Zext		Our mission...	
-				To <Remake> the world...	
+				To Remake the world...	
 				can be compared to justice itself.	
 0x4d32	0x98	ALTO	#6A	N-No way!!	
 0x4d67	0x06	ALTO		ANI_TENSION_STRONG_DENY	
@@ -171,7 +171,7 @@ EV_5_S19_meet_zext
 				They are in that world!	
 0x4f5a	0x98	Creha		...We must accomplish our	
 				mission by any means necessary.	
-0x4fb3	0x98	Creha		For the life living on <Terra> too...	
+0x4fb3	0x98	Creha		For the life living on Terra too...	
 0x5047	0x98	Creha	#0W	...That is why...	
 0x50de	0x98	Creha	#16S#1W	Even if I have to be your opponent!!	
 0x5180	0x98	ALTO	#280x#280y#1W	...Kureha...!	
@@ -219,7 +219,7 @@ EV_5_S19_meet_zext
 0x61b7	0x98	NOI		...Well, you see...	mp_4100 0x1eb6
 0x621c	0x98	ALTO	#6A	...W-What do you mean!?	
 0x6256	0x98	ALTO	#6A	Noi said she was made to not	
-				be able to speak about the <Mythos>...	
+				be able to speak about the Mythos...	
 0x63cd	0x98	Creha		Wait...	
 				That has nothing to do with the plan.	
 0x6466	0x98	Zext	#6A	Hehe, what's wrong...	
@@ -234,7 +234,7 @@ EV_5_S19_meet_zext
 0x666e	0x98	Zext	#6A	Noi was originally an existence	
 				created by Kureha and Cygna...	
 0x66ce	0x98	Zext	#6A	Therefore, to achieve the	
-				<Mythos>' mission, she must	
+				Mythos' mission, she must	
 				follow their orders.	
 0x6739	0x98	Zext	#6A	Precisely because of that,	
 				there are many things that she	
@@ -267,7 +267,7 @@ EV_5_S19_meet_zext
 0x7084	0x98	Zext	#2W	Hehe, I've wasted	
 				too much time already.	
 0x70dc	0x98	Zext	#3W	──Now, begin.	
-0x711c	0x98	Zext	#2W	Now, <Terra> will reveal	
+0x711c	0x98	Zext	#2W	Now, Terra will reveal	
 				its true form!	
 0x734e	0x06	Seram		ANI_RISE_HAND2	
 0x737b	0x06	Creha		ANI_RISE_HAND	
@@ -280,17 +280,17 @@ EV_5_S19_meet_zext
 				The time has come to fulfill	
 				our lost mission!	
 0x7e16	0x98	Zext	#2W	The "False Surface" will end.	
-				The <Remaking> has already begun!!	
+				The Remaking has already begun!!	
 0x7e8e	0x98	ALTO	#1W#6A	...Sur...face...?	
 0x7ed3	0x98	ALTO	#1W#6A	...It can't be...	
-				...This <Terra> is...!	
+				...This Terra is...!	
 0x7f6a	0x98	Zext	#1W	Hehe...	
 				The human child's guess is good.	
-0x7fca	0x98	Zext	#N#3W	Yes, this <Terra> is...	
+0x7fca	0x98	Zext	#N#3W	Yes, this Terra is...	
 				in the distant skies of	
 				your world.	
 0x803e	0x98	Zext	#2W	So far that you will faint...	
-				It is only for the <Remaking>.	
+				It is only for the Remaking.	
 0x80a4	0x98	ALTO	#3W#16S#6A	...!!	mp_0110 0x23435
 0x812d	0x98	Zext	#1W	Now then...our story is finished.	
 0x817f	0x98	Zext	#1W	We no longer have need of that	

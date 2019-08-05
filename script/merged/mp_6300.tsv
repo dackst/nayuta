@@ -33,10 +33,10 @@ EV_6_S20_in_bossmap2
 				of the "Pillar"...	
 0x192c	0x98	ALTO	#6A	It certainly is the	
 				place that supplies the	
-				continent with <Power of Stars>.	
+				continent with Power of Stars.	
 0x19d1	0x98	NOI		Yeah, exactly right.	
 0x1a04	0x06	NOI		ANI_GESTURE2	
-0x1a2d	0x98	NOI		The <Stellagear> should be	
+0x1a2d	0x98	NOI		The Stellagear should be	
 				installed in the center of	
 				this place.	
 0x1a93	0x06	ALTO		ANI_JOY	
@@ -51,7 +51,7 @@ EV_6_S25_usi_boss
 				surprised, but...	
 0x20b9	0x06	NOI		ANI_GESTURE2	
 0x20e2	0x98	NOI		Anyway, let's search	
-				for the <Stellagear>!	
+				for the Stellagear!	
 0x215d	0x06	ALTO		ANI_WAIT	
 0x21a6	0x06	ALTO		ANI_NOD	
 0x220d	0x41	None	#1W#2E#029c	──So you have come.#0E	
@@ -60,7 +60,7 @@ EV_6_S25_usi_boss
 0x276d	0x06	NOI		ANI_SURPRISE	
 0x2796	0x98	NOI	#6A	E-Elis!?	
 0x2812	0x98	Erislet		I'm sorry but, I've	
-				hidden the <Stellagear>.	
+				hidden the Stellagear.	
 0x28aa	0x98	Erislet		Leave immediately.	
 0x2908	0x6B	ALTO		Exclamation	
 0x293a	0x6B	NOI		Exclamation	
@@ -70,13 +70,13 @@ EV_6_S25_usi_boss
 0x2a3a	0x98	NOI	#6A	It can't be...Elis!!	
 0x2ada	0x98	Erislet		...We finally know	
 				the truth.	
-0x2b5b	0x98	Erislet		The mission of the <Mythos>...	
+0x2b5b	0x98	Erislet		The mission of the Mythos...	
 				And the true reason for the	
-				existence of <Terra>.	
+				existence of Terra.	
 0x2bf5	0x06	Erislet		ANI_GESTURE1	
-0x2c43	0x98	Erislet		As a <Warden> of the continents,	
+0x2c43	0x98	Erislet		As a Warden of the continents,	
 				I cannot allow you to interfere in	
-				the <Remaking> of Master Kureha and the others.	
+				the Remaking of Master Kureha and the others.	
 0x2d00	0x06	NOI		ANI_COMPLAIN	
 0x2d29	0x98	NOI	#6A	...What do you mean, Elis!?	
 0x2d9f	0x98	NOI	#6A	Something like erasing the	
@@ -97,7 +97,7 @@ EV_6_S25_usi_boss
 0x3156	0x98	Erislet		...I'm sorry, you two.	
 0x31fa	0x06	Erislet		ANI_GESTURE2	
 0x3227	0x98	Erislet		I've hidden the	
-				<Stellagear>.	
+				Stellagear.	
 0x328f	0x06	NOI		ANI_COMPLAIN	
 0x32b8	0x98	NOI	#6A	Elis...You too!?	
 0x332b	0x98	Erislet		...Noi, though you are	
@@ -112,7 +112,7 @@ EV_6_S25_usi_boss
 0x36b7	0x06	Erislet		ANI_USE_POWER	
 0x38a6	0x98	Erislet	#0W#240x#0y	I'll say this in advance...	
 				Don't expect me to hold back.	
-0x3922	0x98	Erislet	#1W#240x#0y	<Song Maiden> Elislette...	
+0x3922	0x98	Erislet	#1W#240x#0y	Song Maiden Elislette...	
 				I will give you a melody of frost!	
 0x4022	0x06	b010		ANI_DEMO1	
 0x41ee	0x06	NOI		ANI_GESTURE1	
@@ -151,7 +151,7 @@ EV_6_S26_bye_erislet
 0x5390	0x06	Erislet		ANI_LAUGH	
 0x5404	0x98	Erislet		...Huhu, you've become strong.	
 0x5bfd	0x06	NOI		ANI_TAKE_OUT	
-0x5cd3	0x40	Erislet		That is the <Stellagear> of this place.	
+0x5cd3	0x40	Erislet		That is the Stellagear of this place.	
 0x5d1d	0x40	Erislet		Please, take it with you.	
 0x5dbd	0xC1	System		obtained.	mp_0000 0x7558
 0x5f7c	0x06	NOI		ANI_WAIT	
@@ -169,9 +169,9 @@ EV_6_S26_bye_erislet
 0x6278	0x98	NOI	#6A	Yeah, leave it to us!	mp_0112 0x1e6fb
 0x637b	0x06	NOI		ANI_GESTURE2	
 0x63a4	0x98	NOI	#6A	Anyway with this, we've	
-				gathered all of the <Stellagears>!	
+				gathered all of the Stellagears!	
 0x640f	0x06	ALTO		ANI_JOY	
-0x6434	0x98	ALTO		Let's go to the <Astrolabe>...	
+0x6434	0x98	ALTO		Let's go to the Astrolabe...	
 				and chase after Kureha and the others!	
 EV_6_S38_check_bossmap2
 0x690c	0x40	UNDEF		Elislette is not here.	

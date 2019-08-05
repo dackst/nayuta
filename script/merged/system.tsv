@@ -7,19 +7,19 @@ return_point
 0x2fe	0x06	NOI		ANI_PANIC	
 goal_stage
 0x583	0x07	System	#4C	You have conquered the fourth season 	
-				of Forest Continent <Oltapia>.	
+				of Forest Continent Oltapia.	
 0x5d5	0x07	System	#4C	As a special favor, an additional function	
 				has been added to the Astrolabe.	
 0x6d8	0x07	System	#4C	You have conquered the fourth season 	
-				of Abyss Continent <Rieseweld>.	
+				of Abyss Continent Rieseweld.	
 0x72b	0x07	System	#4C	As a special favor, an additional function	system 0x5d5
 				has been added to the Astrolabe.	
 0x82e	0x07	System	#4C	You have conquered the fourth season 	
-				of Sacred Mountain Continent <Heimmel>.	
+				of Sacred Mountain Continent Heimmel.	
 0x889	0x07	System	#4C	As a special favor, an additional function	system 0x5d5
 				has been added to the Astrolabe.	
 0x98c	0x07	System	#4C	You have conquered the fourth season 	
-				of Origin Continent <La Worg>.	
+				of Origin Continent La Worg.	
 0x9de	0x07	System	#4C	As a special favor, an additional function	system 0x5d5
 				has been added to the Astrolabe.	
 jamp_dai01

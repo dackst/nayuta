@@ -109,11 +109,11 @@ EV_0_S15_find_noi
 0x378b	0x98	Zext	#1W#6A	Hmph... it seems some	
 				kids are present.	
 0x397a	0x06	NOI		ANI_SLEEP_WITH_ORBMENT	
-0x39da	0x98	Zext	#1W#6A	<Noi>...	
+0x39da	0x98	Zext	#1W#6A	Noi...	
 				You have been a thorn in my side.	
 0x3a3f	0x98	Zext	#1W#6A	Of all things, to think that	
-				you would bring the final <Master	
-				Gear> to this side...	
+				you would bring the final Master	
+				Gear to this side...	
 0x3acd	0x06	Zext		ANI_HIT_GROUND	
 0x3c99	0x06	NOI		ANI_SLEEP_WITH_ORBMENT	
 0x3ccc	0x06	komono07		ANI_WAIT	

@@ -166,7 +166,7 @@ EV_1_S04_defeat_mons
 0x3d81	0x98	Signa		It threw some strange attacks at us...	
 0x3ded	0x06	NOI		ANI_GESTURE1	
 0x3e16	0x98	NOI		Umm...the truth is,	
-				While I was protecting the <Master Gear>,	
+				While I was protecting the Master Gear,	
 				when I was running from Zext...	
 0x3e90	0x98	NOI		The power of Arts (combat magic)	
 				was stolen from me.	
@@ -194,7 +194,7 @@ EV_1_S04_defeat_mons
 0x42bb	0x98	ALTO	#6A	In our world, things like "Magic"	
 				are the subject of fairly tales...	
 0x433f	0x06	ALTO		ANI_JOY	
-0x4364	0x98	ALTO	#6A	Of course <Terra> would be	
+0x4364	0x98	ALTO	#6A	Of course Terra would be	
 				a world where magic exists!!	
 0x43e9	0x6B	ALTO		Unknown	
 0x4467	0x6B	Signa		Sweatdrop	

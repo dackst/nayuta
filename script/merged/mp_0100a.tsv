@@ -1,7 +1,7 @@
 mp_0100a
 init
 lp_ctrl
-0xa7b	0x36	Choice		Insert <Stellagears>	
+0xa7b	0x36	Choice		Insert Stellagears	
 0xad5	0x36	Choice		Unlock Additional Functions	mp_0100 0xf69
 0xb3e	0x36	Choice		Cancel	mp_0100 0xfd2
 0xc68	0x40	UNDEF		A complicated mechanical structure is embedded in	mp_0100 0x10de
@@ -62,13 +62,13 @@ AL_shop
 0x2696	0x07	System	#3C	The craft gauge expended when you use	mp_0100 0x2bb4
 				Gear Drive is substantially decreased!	
 0x27c2	0x07	System	#4C	You have become able to go to "Autumn"	mp_0100 0x2ce0
-				of Forest Continent <Oltapia>.	
+				of Forest Continent Oltapia.	
 0x2957	0x07	System	#4C	You have become able to go to "Spring"	mp_0100 0x2e75
-				of Abyss Continent <Rieseweld>.	
+				of Abyss Continent Rieseweld.	
 0x2aed	0x07	System	#4C	You have become able to go to "Summer"	mp_0100 0x300b
-				of Sacred Mountain Continent <Heimmel>.	
+				of Sacred Mountain Continent Heimmel.	
 0x2c8b	0x07	System	#4C	You have become able to go to "Winter"	mp_0100 0x31a9
-				of Origin Continent <La Worg>.	
+				of Origin Continent La Worg.	
 0x2e20	0x07	System	#3C	On infinity difficulty, enemies' level limit has been released.	mp_0100 0x333e
 0x2e98	0x07	System	#4C	※Item, "Restore Enemies' Level Limit" has been added.	mp_0100 0x33b6
 				If you unlock this, enemy levels will	
@@ -83,25 +83,25 @@ EV_6_S33_set_all_key
 0x3808	0x98	ALTO		Even so...	
 				The appearance of the Astrolabe	
 				has changed considerably.	
-0x3872	0x98	NOI	#6A	The function of <Remaking>	
+0x3872	0x98	NOI	#6A	The function of Remaking	
 				that hasn't been used until now	
 				has started to operate...	
 0x38e6	0x06	NOI		ANI_DENY	
-0x390b	0x98	NOI	#6A	Because the released <Seals>	
+0x390b	0x98	NOI	#6A	Because the released Seals	
 				all work together, even I can't	
 				stop it.	
 0x3970	0x98	NOI	#6A	As long as we can't	
 				stop Zext's execution of	
-				<Remaking>...	
+				Remaking...	
 0x39d2	0x06	ALTO		ANI_THINK2	
 0x39fa	0x98	ALTO		Is that so...	
 				Then, it seems all we can	
 				do is hurry.	
 0x3a5f	0x06	NOI		ANI_GESTURE1	
 0x3a88	0x98	NOI	#6A	Yeah...	
-				Using the <Stellagears>!	
+				Using the Stellagears!	
 0x3ac9	0x98	NOI	#6A	If we put these in the same spots	
-				as the <Master Gears>, then...	
+				as the Master Gears, then...	
 0x3b32	0x06	ALTO		ANI_WAIT	
 0x3d12	0x06	NOI		ANI_TAKE_OUT	
 0x3dbb	0x06	komono09		ANI_STOP	
@@ -127,7 +127,7 @@ EV_6_S33_set_all_key
 0x5549	0x98	ALTO	#0W#6A	What is that!?	
 0x5585	0x98	NOI	#0W#6A	Yeah...It's an elevator to	
 				the lower stratum,	
-				to the <Stellarium>!	
+				to the Stellarium!	
 0x56d6	0x98	NOI	#6A	Let's get going, Nayuta!	
 0x574b	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x58c4	0x41	None	#0W#2E#373c	──No, you mustn't!#0E	
@@ -143,7 +143,7 @@ EV_6_S33_set_all_key
 				come this far.	
 0x603a	0x06	Creha		ANI_DENY	
 0x6069	0x98	Creha		...Immediately, turn around.	
-0x60a6	0x98	Creha		Heading for the <Remaking>,	
+0x60a6	0x98	Creha		Heading for the Remaking,	
 				the plan has entered its final stage...	
 0x6157	0x98	Creha	#0W	...It can no longer be stopped.	
 0x61a2	0x98	ALTO	#6A	Kureha...	
@@ -167,17 +167,17 @@ EV_6_S33_set_all_key
 0x6551	0x98	NOI	#6A	T-Then...	mp_0100 0x1b719
 0x657c	0x06	NOI		ANI_COMPLAIN	
 0x65a5	0x98	NOI	#6A	Why did you save us	
-				at <Heliograd>!?	
+				at Heliograd!?	
 0x65f2	0x98	NOI	#0W#6A	The truth is, somewhere	
 				in your heart, you're	
 				confused!	
 0x66b7	0x98	Creha	#0W	...I am not confused.	
-0x66f0	0x98	Creha		Because the mission of the <Mythos>	
+0x66f0	0x98	Creha		Because the mission of the Mythos	
 				is an absolute, necessary thing...	
 0x6775	0xBC	ALTO		Ellipsis	
 0x67b3	0x06	ALTO		ANI_GESTURE1	
 0x67dd	0x98	ALTO	#6A	...Why do you guys have to be	
-				so obsessive about the <Mission>?	
+				so obsessive about the Mission?	
 0x683e	0x98	ALTO	#6A	As for our world, until now,	
 				it hasn't been remade, destroyed,	
 				or anything like that.	
@@ -192,7 +192,7 @@ EV_6_S33_set_all_key
 0x6a1e	0xBC	NOI		Question	
 0x6b0a	0x06	Creha		ANI_PUT_HAND_CONSOLE	
 0x6d63	0x98	NOI	#6A	Master Kureha, what are...	
-0x6dce	0x98	Creha	#0W	In the <Astrolabe>, even now	
+0x6dce	0x98	Creha	#0W	In the Astrolabe, even now	
 				there are some remaining	
 				"Ancient Memories."	
 0x6e39	0x98	Creha	#0W	Dreadfully painful memories	
@@ -205,7 +205,7 @@ EV_6_S36_break_up_creha
 				"disaster" to be settled.	
 0x79f5	0x98	Creha	#0W	For the day when the	
 				surface, which had lost everything,	
-				could be <Remade>...	
+				could be Remade...	
 0x7a6c	0x98	Creha		However, in the end,	
 				that was interrupted.	
 0x7abe	0x06	NOI		ANI_GESTURE1	
@@ -218,11 +218,11 @@ EV_6_S36_break_up_creha
 				and started to build a new history.	
 0x7cbf	0x06	Creha		ANI_DENY	
 0x7cee	0x98	Creha		As far as destroying humanity	
-				with the <Remaking>...	
+				with the Remaking...	
 				That I could not do.	
 0x7da4	0x98	Creha		Because of that, we fell	
-				asleep in the <Garden>.	
-0x7df4	0x98	Creha		We entrusted all life on <Terra>	
+				asleep in the Garden.	
+0x7df4	0x98	Creha		We entrusted all life on Terra	
 				to Noi and the wardens...	
 0x7e9c	0xBC	Creha		Ellipsis	
 0x7f19	0x98	Creha		But...	
@@ -288,12 +288,12 @@ EV_6_S36_break_up_creha
 0x8e8c	0x98	NOI	#6A	Yeah, that's a good idea!	
 0x8ec7	0x98	NOI	#6A	As for performing the remaking,	
 				only Masters Kureha and Selam, with the	
-				<Shining Wings of the Mythos> can do it.	
+				Shining Wings of the Mythos can do it.	
 0x8f5f	0x98	NOI	#6A	If we just convince Master Selam,	
-				we can stop the <Remaking>!	
+				we can stop the Remaking!	
 0x8fc5	0x06	ALTO		ANI_GESTURE2	
 0x8fef	0x98	ALTO	#6A	Let's go together, Kureha!	
-0x902c	0x98	ALTO	#6A	To <Terra>'s lower stratum,	
+0x902c	0x98	ALTO	#6A	To Terra's lower stratum,	
 				where Cygna and Zext are──	
 0x90d0	0x41	None	#1W#2E#833c	──There is no need for that.#0E	
 0x9164	0xBC	ALTO		Exclamation	
@@ -318,7 +318,7 @@ EV_6_S36_break_up_creha
 0x9ee8	0x06	Creha		ANI_CAPTURED	
 0x9f8c	0x98	Zext	#1W	──Kureha, come with me.	
 				Before long, preparations at the	
-				<Planetarium> will be in order.	
+				Planetarium will be in order.	
 0xa01d	0x98	Zext	#2W	I need to put the	
 				finishing touches on you...	
 0xa0a1	0x98	Creha	#3W#6A	...No, you can't!	
@@ -330,7 +330,7 @@ EV_6_S36_break_up_creha
 				#16Swith them, as a "human!"	
 0xa2f7	0x98	Zext	#2W	What a joke...	
 0xa382	0x98	Zext	#2W	Very well, as what I need is the	
-				<Shining Wings>... Your will matters	
+				Shining Wings... Your will matters	
 				not.	
 0xa4fa	0x06	ALTO		ANI_WAKE_UP_HALF	
 0xa53e	0x98	ALTO	#4W#6A#16S	L-Let go of Kureha!!	
@@ -351,7 +351,7 @@ EV_6_S36_break_up_creha
 0xb2b1	0x06	NOI		ANI_GESTURE1	
 0xb2e8	0x98	NOI	#0W#6A	Master Kureha should be	
 				is in the lower stratum...	
-				in the <Stellarium>!	
+				in the Stellarium!	
 0xb360	0x98	NOI	#0W#6A	Let's hurry and chase after them!!	
 0xb3af	0x06	ALTO		ANI_NOD	
 0xb3e2	0x98	ALTO	#2W	Yeah!	mp_0001 0x1174e
@@ -369,7 +369,7 @@ EV_7_S19_use_astrolabe
 0xc382	0x06	Creha		ANI_WAIT	
 0xc3ca	0x98	Creha		...For now, our preparations are complete.	
 0xc415	0x98	Creha		Next, if we use the power	
-				of the <Shining Wings>...	
+				of the Shining Wings...	
 0xc470	0x06	Signa		ANI_WAIT4	
 0xc498	0x98	Signa	#6A	I'm a little tired, but...	
 				I don't think I'll die.	
@@ -389,18 +389,18 @@ EV_7_S19_use_astrolabe
 				This is another thing I kept	
 				from you until now.	
 0xcbed	0x98	Noi	#0W	Though I am the warden	
-				of the <Garden>, the truth is,	
+				of the Garden, the truth is,	
 				I have another role...	
 0xcca3	0x98	Noi	#0W	That is──	
-				I am the idol of this <Astrolabe>.	
-0xccfa	0x98	ALTO	#6A	The idol of the <Astrolabe>!?	
+				I am the idol of this Astrolabe.	
+0xccfa	0x98	ALTO	#6A	The idol of the Astrolabe!?	
 0xcd42	0x06	Creha		ANI_GESTURE2	
 0xcda3	0x98	Creha	#6A	The idol in opposition to the one	
-				in the center of the <Planetarium>...	
+				in the center of the Planetarium...	
 				That is Noi.	
 0xce19	0x98	Creha	#6A	An existence to preserve and	
 				protect all life here, using the power	
-				of the <Astrolabe>...	
+				of the Astrolabe...	
 0xceb3	0x98	Signa	#6A	Which reminds me,	
 				I didn't have a chance to tell	
 				you about that, Nayuta...	
@@ -408,7 +408,7 @@ EV_7_S19_use_astrolabe
 				that amazing!?	
 0xcf8a	0x98	Noi	#0W	...For that plan I told you about	
 				earlier, I'll need to concentrate the	
-				power of the <Astrolabe>.	
+				power of the Astrolabe.	
 0xd00b	0x98	Noi	#0W	In order to do that, I needed	
 				to change into spirit form.	
 0xd08a	0x06	Noi		ANI_ROTATE	
@@ -439,7 +439,7 @@ EV_7_S19_use_astrolabe
 0xd7f3	0x06	Creha		ANI_WAIT2	
 0xd81b	0x98	Creha		...We need to perform an operation	
 				that goes beyond the limits of	
-				the <Astrolabe>'s power.	
+				the Astrolabe's power.	
 0xd894	0x98	Creha		After that, it's likely that all of	
 				its functions will stop.	
 0xd93e	0x98	Creha	#0W	Even the existence of Noi, which	
@@ -457,7 +457,7 @@ EV_7_S19_use_astrolabe
 0xdc3f	0x06	Noi		ANI_DENY	
 0xdcbc	0x98	Noi	#0W	...I'm sorry.	
 				This is all we can do anymore.	
-0xdd09	0x98	Noi	#0W	The <Planetarium> was	
+0xdd09	0x98	Noi	#0W	The Planetarium was	
 				able to hold back the collapse.	
 				We'll use that power now.	
 0xddc2	0x98	Noi	#0W	If we don't hurry...	
@@ -512,7 +512,7 @@ EV_7_S19_use_astrolabe
 				my existence will completely	
 				disappear.	
 0xedec	0x98	Noi	#2W	It will melt into the	
-				<Power of Stars>, and	
+				Power of Stars, and	
 				will always be with you...	
 0xef48	0x98	ALTO	#2W#6A	..................	mp_0000d 0x70fd
 0xef8e	0x98	ALTO	#1W#6A	...You have already decided, right?	
@@ -539,7 +539,7 @@ EV_7_S19_use_astrolabe
 0xf684	0x98	Creha	#1W#6A	Thank you...	
 0xf703	0x06	Signa		ANI_WAIT4	
 0xf739	0x98	Signa	#1W#6A	Both as Cygna of Remnant Island,	
-				and as Selam of the <Mythos>...	
+				and as Selam of the Mythos...	
 0xf7ad	0x98	Signa	#3W#6A	...I'm proud of you.	
 0xf81b	0x98	Noi	#4W	Ehehe!	
 0xf84b	0x06	Noi		ANI_OJIGI	

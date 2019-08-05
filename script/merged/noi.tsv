@@ -4,7 +4,7 @@ talk_Noi
 0xad	0x98	NOI		Master Kureha should be	
 				in Heliograd.	
 0xf0	0x98	NOI		You could say it's the	
-				center of <Terra>...	
+				center of Terra...	
 				This won't be easy.	
 0x14c	0x98	NOI		Nayuta, let's be	
 				perfectly prepared	
@@ -15,7 +15,7 @@ talk_Noi
 				don't have a direct impact on	
 				this world...	
 0x277	0x98	NOI		...I think we should hurry to	
-				<La Worg> temple!	
+				La Worg temple!	
 0x2f8	0x98	NOI		Nayuta, I want you to go	
 				check on Master Kureha.	
 0x346	0x98	NOI		It looks like she left	
@@ -45,7 +45,7 @@ talk_Noi
 				talking about, I can relax and leave	
 				everything to her.	
 0x7b5	0x98	NOI		Let's resume the exploration	
-				of <Terra>, Nayuta!	
+				of Terra, Nayuta!	
 0x803	0x98	ALTO		Yeah, we'll find Cygna this time	
 				for sure!	
 0x874	0x98	NOI		...If it's your sister we're talking about,	
@@ -75,7 +75,7 @@ talk_Noi
 0xd12	0x98	NOI		(Our business is finished.	
 				 I should resume the search	
 				 for Cygna and Zext.)	
-0xd7b	0x98	NOI		(Next is the <Rieseweld> continent...	
+0xd7b	0x98	NOI		(Next is the Rieseweld continent...	
 				 Let's hurry, Nayuta!)	
 0xe6e	0x98	Asa		Here Noi, say	
 				aaaaah!	
@@ -113,15 +113,15 @@ quest_Noi
 0x1436	0x06	NOI		ANI_WAIT	
 0x14b9	0x98	NOI		I-I'm not exactly sure, but...	
 				I don't know if anything's happening	
-				in <Terra> right now.	
+				in Terra right now.	
 0x152f	0x98	NOI		If you want to search for that	
 				animal, let's hurry, Nayuta!	
 0x162e	0x98	NOI		Hey, Nayuta!	
 				Let's give the "Elumi Resin"	
 				to your sister!	
 0x168e	0x98	NOI		("Elumi Resin"...	
-				 I can probably get it in <Fall>	
-				 of <Oltapia>.)	
+				 I can probably get it in Fall	
+				 of Oltapia.)	
 0x16ed	0x98	NOI		(Let's go search for a tree	
 				 growing in a shady place, Nayuta!)	
 0x17c0	0x06	NOI		ANI_WAIT	

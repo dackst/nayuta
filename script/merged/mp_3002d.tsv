@@ -132,9 +132,9 @@ EV_3_S12_look_cage_3rd
 0x488c	0x6B	NOI		Exclamation	
 0x48e9	0x41	None	#0W#2E#030c	...I will not forgive you...I cannot forgive you...#0E	
 0x49dc	0x41	None	#0W#2E#030c	The one misrepresenting himself as	
-				the head of the <Mythos>...	
+				the head of the Mythos...	
 				Just wait...#0E	
-0x4a85	0x41	None	#0W#2E#030c	With my hands, I, the <Guardian King>	
+0x4a85	0x41	None	#0W#2E#030c	With my hands, I, the Guardian King	
 				will pass my judgment!!#0E	
 0x4b29	0x6B	ALTO		Unknown	
 0x4b53	0x6B	NOI		Unknown	
@@ -169,7 +169,7 @@ EV_3_S12_look_cage_3rd
 0x5332	0x41	None	#0W#2E#030c	If your story is true,	
 				that is a likely possibility.#0E	
 0x53c5	0x41	None	#0W#2E#030c	However, if we consider whether	
-				that man is truly the head of the <Mythos>...#0E	
+				that man is truly the head of the Mythos...#0E	
 0x5471	0x41	None	#0W#2E#030c	Who in the world is the "masked man"...#0E	
 0x5500	0x6B	ALTO		Exclamation	
 0x5532	0x6B	NOI		Exclamation	
@@ -178,13 +178,13 @@ EV_3_S12_look_cage_3rd
 				The one we met before at the ruins!?	
 0x5608	0x98	NOI	#6A	...That masked man has been Zext's	
 				right hand man ever since he appeared	
-				in <Terra>.	
+				in Terra.	
 0x56b4	0x98	NOI	#6A	I don't know his true identity, but	
 				his skill with the sword is amazing...	
 0x571f	0x98	NOI	#6A	Almost all of the four	
-				<Master Gears> were stolen by him.	
+				Master Gears were stolen by him.	
 0x57b1	0x98	ALTO		I haven't seen his face ever since	
-				I came to <Terra>, though...	
+				I came to Terra, though...	
 0x580f	0x06	ALTO		ANI_GESTURE1	
 0x5839	0x98	ALTO		If he captured Algol,	
 				it's likely that he is	
@@ -202,4 +202,4 @@ EV_3_S12_look_cage_3rd
 0x5bc1	0x06	NOI		ANI_NOD	
 0x5be5	0x98	NOI	#6A	Wait for us, Algol!	
 0x5c22	0x06	ALTO		ANI_JOY	
-0x5c47	0x98	ALTO	#6A	We will definitely take back the <Temple>!	
+0x5c47	0x98	ALTO	#6A	We will definitely take back the Temple!	

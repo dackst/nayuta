@@ -219,11 +219,11 @@ EV_6_S11_help_lyra
 0x6bed	0x06	NOI		ANI_DENY	
 0x6c12	0x98	NOI	#6A	But, as for that...	
 				It wasn't because I'm	
-				an ally of the <Mythos>.	
+				an ally of the Mythos.	
 0x6c7c	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x6d3b	0x98	ALTO		Huh?	mp_0004 0x392d
 0x6d85	0x06	NOI		ANI_GESTURE1	
-0x6dae	0x98	NOI	#6A	As for the <Mythos>...	
+0x6dae	0x98	NOI	#6A	As for the Mythos...	
 				Because their power	
 				is truly great...	
 0x6e2f	0x98	NOI	#6A	Probably, we cannot	

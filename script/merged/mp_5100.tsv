@@ -12,7 +12,7 @@ EV_5_S03_arrive_tower
 0x98e	0x98	NOI	#0W	This is the first time	
 				I've seen this situation, too...	
 0xa03	0x98	NOI	#0W	I'm sure the	
-				release of the <Seal>	
+				release of the Seal	
 				is a bad omen...	
 0xa5e	0x06	ALTO		ANI_WAIT	
 0xabf	0x6B	ALTO		Ellipsis	
@@ -22,7 +22,7 @@ EV_5_S03_arrive_tower
 				this tower.	
 0xbcb	0x06	NOI		ANI_NOD	
 0xbef	0x98	NOI		Yeah...	mp_1100 0x68da
-0xf56	0x98	ALTO		<Heliograd>...	
+0xf56	0x98	ALTO		Heliograd...	
 				As I thought, it's very impressive.	
 0xfc4	0x98	ALTO		It's so tall, I can't measure	
 				it with my sextant, but...	
@@ -33,13 +33,13 @@ EV_5_S03_arrive_tower
 0x1134	0x98	ALTO	#16S	F- 50,000 arge!?	
 0x1170	0x06	NOI		ANI_GESTURE1	
 0x1199	0x98	NOI	#6A	It's because the tower is for sending the	
-				<Astrolabe>'s power to all four continents...	
+				Astrolabe's power to all four continents...	
 0x1236	0x98	NOI	#6A	...Conversely, this	
 				tower can interfere	
-				with all of <Terra>...	
+				with all of Terra...	
 0x129c	0x06	ALTO		ANI_WAIT4	
 0x12c3	0x98	ALTO		...There, the	
-				<Mythos> are assembled.	
+				Mythos are assembled.	
 0x131c	0x98	ALTO		Furthermore, they're releasing	
 				some "Seal"...	
 0x1370	0x06	ALTO		ANI_GESTURE2	
@@ -77,7 +77,7 @@ EV_5_S04_hear_many_voice
 				help you directly.#0E	
 0x1d47	0x41	None	#0W#2E#029c	However, I have one suggestion.#0E	
 0x1dce	0x41	None	#0W#2E#030c	...How about first going to	
-				<La Worg> and releasing Nemeas?#0E	
+				La Worg and releasing Nemeas?#0E	
 0x1e70	0x6B	ALTO		Surprise	
 0x1ea2	0x6B	NOI		Surprise	
 0x1ed3	0x06	ALTO		ANI_GOODIDEA	
@@ -85,12 +85,12 @@ EV_5_S04_hear_many_voice
 				We haven't yet been able	
 				to free Nemeas.	
 0x1ffe	0x98	NOI	#6A	Even among the wardens,	
-				Nemeas is a called a <Wise Man>.	
+				Nemeas is a called a Wise Man.	
 0x2057	0x06	NOI		ANI_GUTSPOSE	
 0x2080	0x98	NOI	#6A	It's possible that he might now	
 				a good method...!	
 0x20da	0x06	ALTO		ANI_GESTURE1	
-0x2104	0x98	ALTO		The climate of <La Worg>	
+0x2104	0x98	ALTO		The climate of La Worg	
 				has been restored to normal.	
 				It seems we can save him now.	
 0x2175	0x06	ALTO		ANI_JOY	
@@ -100,18 +100,18 @@ EV_5_S04_hear_many_voice
 				Then it seems your	
 				objective is set.#0E	
 0x2334	0x41	None	#0W#2E#310c	From our temples, we will	
-				search for a method to stop the <Power of	
-				Stars> flowing from the tower.#0E	
+				search for a method to stop the Power of	
+				Stars flowing from the tower.#0E	
 0x23fc	0x41	None	#0W#2E#029c	We'll leave the rest to you,	
 				you two!#0E	
 0x24b4	0x06	ALTO		ANI_THANKS	
 0x24dc	0x98	ALTO		Yeah!	
 				Leave this to us!	
-0x260a	0x07	System	#3C	"Spring" of Origin Continent <La Worg>	
+0x260a	0x07	System	#3C	"Spring" of Origin Continent La Worg	
 				has been unlocked.	
-0x2695	0x07	System	#3C	"Summer" of Origin Continent <La Worg>	
+0x2695	0x07	System	#3C	"Summer" of Origin Continent La Worg	
 				has been unlocked.	
-0x27a0	0x07	System	#3C	"Winter" of Origin Continent <La Worg>	
+0x27a0	0x07	System	#3C	"Winter" of Origin Continent La Worg	
 				has been unlocked.	
 0x29ca	0xCE	Objective		Let's go help Nemeas in spring of the Origin Continent!	
 EV_5_S05_hear_neme_voice
@@ -126,7 +126,7 @@ EV_5_S05_hear_neme_voice
 				You escaped the "Cage!?"	
 0x2e32	0x41	None	#0W#2E#710c	Yes, thanks to you	
 				restoring the climate	
-				of <La Worg>.#0E	
+				of La Worg.#0E	
 0x2ece	0x41	None	#0W#2E#310c	──Hmm, it seems	
 				Nemeas too was safely released.#0E	
 0x2f66	0x98	ALTO		Gio!	
@@ -137,7 +137,7 @@ EV_5_S05_hear_neme_voice
 0x30e4	0x41	None	#0W#2E#710c	In the present situation,	
 				you will hear from everyone.#0E	
 0x3179	0x41	None	#0W#2E#710c	From here, you will	
-				climb <Heliograd> won't you?#0E	
+				climb Heliograd won't you?#0E	
 0x3210	0x06	ALTO		ANI_JOY	
 0x3235	0x98	ALTO		Yes...	
 				To confirm Kureha's	
@@ -148,8 +148,8 @@ EV_5_S05_hear_neme_voice
 0x3317	0x41	None	#0W#2E#310c	Then, I will entrust	
 				you with that task.#0E	
 0x339e	0x41	None	#0W#2E#310c	From our temples, we will	mp_5100 0x2334
-				search for a method to stop the <Power of	
-				Stars> flowing from the tower.#0E	
+				search for a method to stop the Power of	
+				Stars flowing from the tower.#0E	
 0x3466	0x41	None	#0W#2E#029c	Please take care of	
 				Master Kureha for us, you two!#0E	
 0x34ff	0x06	NOI		ANI_NOD	
@@ -157,10 +157,10 @@ EV_5_S05_hear_neme_voice
 				Leave it to us!	
 0x3562	0x41	None	#0W#2E#710c	Please, may you two be	
 				guided by the stars...#0E	
-0x370a	0x07	System	#3C	"Spring" of Origin Continent <La Worg>	mp_5100 0x260a
+0x370a	0x07	System	#3C	"Spring" of Origin Continent La Worg	mp_5100 0x260a
 				has been unlocked.	
-0x378d	0x07	System	#3C	"Summer" of Origin Continent <La Worg>	mp_5100 0x2695
+0x378d	0x07	System	#3C	"Summer" of Origin Continent La Worg	mp_5100 0x2695
 				has been unlocked.	
-0x3890	0x07	System	#3C	"Winter" of Origin Continent <La Worg>	mp_5100 0x27a0
+0x3890	0x07	System	#3C	"Winter" of Origin Continent La Worg	mp_5100 0x27a0
 				has been unlocked.	
 0x3ab2	0xCE	Objective		Let's meet Kureha in Heliograd and ask her true intentions!	

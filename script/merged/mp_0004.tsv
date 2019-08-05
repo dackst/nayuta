@@ -45,10 +45,10 @@ lp_tera
 0x2ddf	0x40	UNDEF		The gate that lost its power is silently standing.	
 stp_village
 0x2f0b	0x98	ALTO		(I can meet those two again!)	
-0x2f48	0x98	ALTO		...I'll hurry to <Terra>.	
+0x2f48	0x98	ALTO		...I'll hurry to Terra.	
 				I have to make sure they're safe!	
 0x2fa2	0x98	NOI		Yes, yes!	
-0x3064	0x98	ALTO		First, I'll go to <Terra>	
+0x3064	0x98	ALTO		First, I'll go to Terra	
 				to meet Kureha.	
 0x30ac	0x98	NOI		Yeah, we've got to	
 				thank her properly!	
@@ -59,7 +59,7 @@ stp_village
 				and confirm the requests.	
 stp_tera
 0x32c9	0x98	ALTO		I don't have time to go to	
-				<Terra> right now.	
+				Terra right now.	
 0x3315	0x98	ALTO		Quickly, I've got to find a clue	
 				for the Yupina Grass!	
 ent_tera
@@ -118,7 +118,7 @@ subev_return_island1
 0x4a2c	0x06	Signa		ANI_DEJECTED	
 0x4a6b	0x98	ALTO		Can you believe this!?	
 				We really went to	
-				<Lost Heaven>!!	
+				Lost Heaven!!	
 0x4ac1	0x06	ALTO		ANI_GUTSPOSE	
 0x4aeb	0x98	ALTO		And that's not all.	
 				Just how far does that	
@@ -169,7 +169,7 @@ subev_return_island1
 				How about our work as	
 				the Handyman Shop?	
 0x5205	0x06	Signa		ANI_WAIT2	
-0x522d	0x98	Signa		If you want to explore <Terra>,	
+0x522d	0x98	Signa		If you want to explore Terra,	
 				just say the Handyman Shop	
 				is closed for the day.	
 0x529d	0x06	ALTO		ANI_THINK	
@@ -650,7 +650,7 @@ EV_0_S17_noi_warp
 0xf5d8	0x6B	NOI		Surprise	
 0xf609	0x98	NOI		If it's around here, then possibly...	
 				I get the feeling that there's a	
-				<Transfer Gate> nearby!	
+				Transfer Gate nearby!	
 0xf684	0x06	NOI		ANI_LOOK_AROUND	
 0xf6b0	0x98	NOI		Ummm, ummm....	
 0xf6fc	0x6B	NOI		Exclamation	
@@ -901,7 +901,7 @@ EV_2_S08_go_tera
 0x14ed0	0x98	ALTO	#5W	ha...?	
 0x14f1e	0x06	NOI		ANI_COMPLAIN	
 0x14f47	0x98	NOI		N-Nevermind.	
-				More than that, shall we hurry to <Terra>?	
+				More than that, shall we hurry to Terra?	
 0x14f9c	0x98	NOI		There's something I want to show you, Nayuta!	
 0x14ff0	0x06	ALTO		ANI_THINK	
 0x15017	0x98	ALTO	#6A	Something to show me?	
@@ -925,7 +925,7 @@ EV_2_S31_return_island
 				 good advice!)	
 EV_3_S01_go_museum
 0x15a82	0x06	ALTO		ANI_THINK2	
-0x15aaa	0x98	ALTO		(The <Yupina Grass> that treats	
+0x15aaa	0x98	ALTO		(The Yupina Grass that treats	
 				 Hell Fever...	
 				 It seems like a pretty rare herb, but...)	
 0x15b21	0x98	ALTO		(The first thing that comes to mind	
@@ -941,7 +941,7 @@ SB_3_S26_creha_move
 SB_3_S26_lyra_move
 EV_3_S26_meet_lyra
 0x165fb	0x98	Creha		This is the world Nayuta lives in...	
-0x16640	0x98	Creha		The atmosphere is different from the <Garden>.	
+0x16640	0x98	Creha		The atmosphere is different from the Garden.	
 0x16697	0x06	ALTO		ANI_GESTURE2	
 0x166c1	0x98	ALTO	#6A	Ahaha...This is just a rural	
 				area of this world.	
@@ -1031,12 +1031,12 @@ EV_4_S00_to_see_off
 				be careful you two.	
 0x1841c	0x06	ALTO		ANI_WAIT4	
 0x18443	0x98	ALTO		Alright...Let's return to	
-				<Terra> soon.	
+				Terra soon.	
 0x18489	0x98	ALTO		We must chase after Zext	
 				and Cygna...	
 0x184d5	0x06	NOI		ANI_GESTURE1	
 0x184fe	0x98	NOI	#6A	First is as always,	
-				to use the <Astrolabe> to search	
+				to use the Astrolabe to search	
 				for new reactions!	
 0x1856d	0x06	ALTO		ANI_NOD	
 0x18592	0x98	ALTO		Yeah, let's do that.	
@@ -1073,7 +1073,7 @@ EV_8_S05_remove_warp
 				It doesn't seem like	
 				there are any problems.	
 0x19a3b	0x98	NOI		I'll promptly connect a path	
-				to <Terra>.	
+				to Terra.	
 0x19aad	0x06	NOI		ANI_USE_POWER	
 0x19b2c	0x98	NOI	#0W	──By my authority as a warden,	
 				I command you to connect to the "Garden!"	
@@ -1082,7 +1082,7 @@ EV_8_S05_remove_warp
 0x19e37	0x06	ALTO		ANI_SURPRISE	
 0x19e69	0x98	ALTO	#6A	It's moving!	
 0x19ed8	0x06	NOI		ANI_GESTURE1	
-0x19f01	0x98	NOI		It's proof that <Terra> is	
+0x19f01	0x98	NOI		It's proof that Terra is	
 				close to the surface.	
 0x19f4f	0x98	NOI		Just having been taught by the	
 				"Voice," all I could do was try it...	
@@ -1090,7 +1090,7 @@ EV_8_S05_remove_warp
 0x19fcf	0x06	ALTO		ANI_THINK2	
 0x19ff7	0x98	ALTO	#6A	(The owner of that "Voice"...	
 				 It seems it pierces the structure	
-				 and situation of <Terra>.)	
+				 and situation of Terra.)	
 0x1a074	0x98	ALTO	#6A	(I wonder whose it truly is...)	
 0x1a0be	0x06	NOI		ANI_GESTURE2	
 0x1a0e7	0x98	NOI		...Mr. Nayuta?	
@@ -1111,7 +1111,7 @@ EV_8_S05_remove_warp
 0x1a370	0x06	ALTO		ANI_THANKS	
 0x1a398	0x98	ALTO	#6A	Yeah, me too!	
 0x1a3d0	0x06	ALTO		ANI_JOY	
-0x1a3f5	0x98	ALTO	#6A	Anyway, let's hurry to <Terra> now.	
+0x1a3f5	0x98	ALTO	#6A	Anyway, let's hurry to Terra now.	
 				I want to see if Cygna and Kureha are OK.	
 0x1a529	0xCE	Objective		Let's go to Terra and confirm that Cygna and Kureha are safe!	
 EV_4_S14_go_temple4
@@ -1131,10 +1131,10 @@ EV_4_S14_go_temple4
 0x1ac06	0x06	ALTO		ANI_THINK2	
 0x1ac2e	0x98	ALTO		More importantly, the snow...	
 				Could it be the influence of the	
-				abnormalities in <Terra>?	
+				abnormalities in Terra?	
 0x1acac	0x06	NOI		ANI_DENY	
 0x1acd1	0x98	NOI	#6A	No...	
-				<Terra> and this world	
+				Terra and this world	
 				are completely separated.	
 0x1ad27	0x98	NOI	#6A	As much as they might want to,	
 				they cannot do anything to the extent	
@@ -1161,7 +1161,7 @@ EV_4_S14_go_temple4
 				Kureha is safe.	
 0x1b109	0x06	NOI		ANI_GESTURE1	
 0x1b132	0x98	NOI	#6A	Nayuta, let's hurry and	
-				return to <La Worg> temple!	
+				return to La Worg temple!	
 0x1b18e	0x06	ALTO		ANI_NOD	
 0x1b1b3	0x98	ALTO		Yeah...let's.	
 				We've got to overtake that	

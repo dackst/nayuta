@@ -169,11 +169,11 @@ talk_Volans
 				On a remote island such as this, you should	
 				not have been able to obtain it in a short time.	
 0x2e82	0x98	Volans		If we assume that it is possible...	
-				<Star Shards>, this island's special product,	
+				Star Shards, this island's special product,	
 				the brilliant world reflected in them...	
 0x2f1c	0x98	Volans		Nayuta, could it be that you...	
 				If it has some connection	
-				to <Lost Heaven>...	
+				to Lost Heaven...	
 0x2f89	0x6B	Volans		Ellipsis	
 0x2fbd	0x6B	ALTO		Unknown	
 0x2fef	0x98	ALTO		U-Umm, you see...	mp_0110 0x11d08
@@ -187,7 +187,7 @@ talk_Volans
 0x314b	0x98	ALTO		(Hmm, somehow it looks like	
 				 his button was pressed...)	
 0x31c9	0x98	Volans		Nayuta, could it be that you...	
-				From that <Lost Heaven>...	
+				From that Lost Heaven...	
 0x3224	0x98	Volans		Maybe you can become my	mp_0115 0x308b
 				ultimate subject of research.	
 0x327a	0x98	Volans		Huhuhu...Hahahahahaha!	mp_0115 0x30e1
@@ -228,9 +228,9 @@ talk_Volans
 0x3924	0x98	Volans		Only his name.	
 0x3954	0x98	Volans		Certainly, he was the one who first	
 				proposed "End of the World" and	
-				<Lost Heaven> related research.	
+				Lost Heaven related research.	
 0x39d7	0x98	Volans		His hypothesis stated that there	
-				exists another world, <Lost Heaven>,	
+				exists another world, Lost Heaven,	
 				facing the end.	
 0x3a4c	0x98	Volans		My specialty is ruins and natural history,	
 				and his field was a little different...His essay	
@@ -253,7 +253,7 @@ talk_Volans
 0x3ddf	0x98	Volans		My objective is to identify the	
 				true nature of the ruins that fall in the	
 				Ciencia Sea and Remnant Island.	
-0x3e68	0x98	Volans		<Lost Heaven> and "The End of the World"	
+0x3e68	0x98	Volans		Lost Heaven and "The End of the World"	
 				are also of interest to researchers.	
 0x3ed6	0x98	Volans		"The End of the World" is considered	
 				to be real, but this has not been	
@@ -1072,7 +1072,7 @@ QS_42_undertake
 0x10783	0x6B	ALTO		Exclamation	
 0x107b5	0x6B	NOI		Exclamation	
 0x107e6	0x98	ALTO	#6A	Though it was written on the request,	
-				and investigation of <Terra>!?	
+				and investigation of Terra!?	
 0x1084c	0x06	Volans		ANI_TALK	
 0x10874	0x98	Volans		...The abnormalities happening in our	
 				world are, to be honest,	
@@ -1082,7 +1082,7 @@ QS_42_undertake
 				are whispered as if they are true.	
 0x10967	0x98	Volans		There's no mistake that the abnormalities	
 				are likely connected to what you call	
-				<Terra>, correct?	
+				Terra, correct?	
 0x109e8	0x06	Volans		ANI_WAIT	
 0x10a10	0x98	NOI	#6A	You see...	
 0x10a3c	0x06	Volans		ANI_DENY	
@@ -1103,7 +1103,7 @@ QS_42_undertake
 0x10cbb	0x06	Volans		ANI_NOD	
 0x10ce2	0x98	Volans		Yes, exactly right.	mp_0003 0x10455
 0x10d17	0x98	Volans		There should be some connection	
-				between <Terra> and the history	
+				between Terra and the history	
 				of the surface...	
 0x10d88	0x98	Volans		There's no mistake that there is	
 				an answer somewhere regarding	
@@ -1132,7 +1132,7 @@ QS_42_undertake
 				Then please do so.	
 0x1119b	0x06	ALTO		ANI_GESTURE2	
 0x111c5	0x98	ALTO	#6A	Then, Noi,	
-				where in <Terra> do you	
+				where in Terra do you	
 				think we should search?	
 0x11220	0x98	ALTO	#6A	It would be good to have some	
 				clue for starting our investigation.	
@@ -1143,7 +1143,7 @@ QS_42_undertake
 				of Star Capital Lexendria,	
 				there might be something there.	
 0x1138e	0x06	ALTO		ANI_THINK2	
-0x113b6	0x98	ALTO	#6A	<Lexendria>, huh...	
+0x113b6	0x98	ALTO	#6A	Lexendria, huh...	
 				I see, that might be a good line.	
 0x11425	0x6B	ALTO		Surprise	
 0x11457	0x06	ALTO		ANI_GESTURE2	
@@ -1213,7 +1213,7 @@ QS_42_quest_end
 				it can only be Zext...	
 0x12290	0x06	NOI		ANI_GESTURE1	
 0x122b9	0x98	NOI	#6A	He should have lost his	
-				life when he left <Terra>.	
+				life when he left Terra.	
 0x12314	0x06	Volans		ANI_GESTURE2	
 0x12340	0x98	Volans		Hmm, though there's various	
 				things I don't understand...	
@@ -1230,14 +1230,14 @@ QS_42_quest_end
 0x1252f	0x06	Volans		ANI_WAIT	
 0x12557	0x06	ALTO		ANI_NOD	
 0x1257c	0x98	ALTO	#6A	Yes...I think it's talking	
-				about the <Star Shards>.	
+				about the Star Shards.	
 0x125d1	0x98	ALTO	#6A	That is the reason the	
-				<Mythos> put them in Terra...	
+				Mythos put them in Terra...	
 0x12627	0x98	ALTO	#6A	The fact of the matter is, this	
 				is a warning to prevent us humans	
 				from making the same mistake...	
 0x126b1	0x06	NOI		ANI_THINK	
-0x126d7	0x98	NOI	#6A	So the <Star Shards> had	
+0x126d7	0x98	NOI	#6A	So the Star Shards had	
 				that kind of meaning...	
 0x12730	0x06	Volans		ANI_THINK	
 0x12759	0x6B	Volans		Ellipsis	
@@ -1261,7 +1261,7 @@ QS_42_quest_end
 				There should be some method.	
 0x12aa5	0x06	NOI		ANI_NOD	
 0x12ac9	0x98	NOI	#6A	...That's right.	mp_0100 0x17f91
-0x12b03	0x98	NOI	#6A	The will of the <Mythos>	
+0x12b03	0x98	NOI	#6A	The will of the Mythos	
 				won't change!	
 0x12b52	0x06	Volans		ANI_NOD	
 0x12b79	0x98	Volans		Huhu, it seems you have already	
@@ -1292,8 +1292,8 @@ QS_42_quest_end
 0x13031	0x07	System	#3C	Quest [Otherworld Investigation] completed!	
 LithographMes
 0x13242	0x41	None	#2E#0W	──Many months have passed	
-				since I left <Terra>...	
-				The two children of the <Mythos>	
+				since I left Terra...	
+				The two children of the Mythos	
 				abandoned their mission and sleep.	
 					
 				Before long, I too,	
@@ -1304,13 +1304,13 @@ LithographMes
 					
 				In the future, if by some chance,	
 				the day humans set foot in	
-				<Terra> comes──	
+				Terra comes──	
 				I want to warn them against	
 				making the same mistakes.#0E	
 0x13473	0x41	None	#2E#0W	──Once, there was a large	
-				continent called <Lexendria>	
+				continent called Lexendria	
 				on the surface.	
-				Therein, <Mythos> and <People> shared	
+				Therein, Mythos and People shared	
 				their vast knowledge and technology,	
 				and walked and prospered together.	
 					
@@ -1323,8 +1323,8 @@ LithographMes
 				were started.	
 					
 				On countless occasions, the battles	
-				that occurred upset the balance of <Power	
-				of Stars> that composes the world,	
+				that occurred upset the balance of Power	
+				of Stars that composes the world,	
 				and the planet's "Core" was	
 				wounded.#0E	
 0x1372c	0x41	None	#2E#0W	Then, on the day of the greatest	
@@ -1332,27 +1332,27 @@ LithographMes
 				The planet's "Core" was finally destroyed.	
 					
 				A large-scale explosion happened	
-				in the center of <Lexendria>, the	
+				in the center of Lexendria, the	
 				continent that became the battle front...	
 				At that time, nearly the entire world	
 				sank due to the flood it caused.#0E	
-0x138a3	0x41	None	#2E#0W	The <Mythos>, predicting the	
+0x138a3	0x41	None	#2E#0W	The Mythos, predicting the	
 				conclusion, desired to Remake the surface	
-				someday, and created <Terra>.	
+				someday, and created Terra.	
 				Though they created a great city	
 				to protect the humans, naming	
-				it <Lexendria>...	
+				it Lexendria...	
 					
 				The "destruction" came more quickly	
-				than predicted, and many <Mythos>	
+				than predicted, and many Mythos	
 				and humans met the same fate as the surface.#0E	
 0x13a26	0x41	None	#2E#0W	──To the few human children who survived.	
-				I want you to feel how the <Star Capital> is,	
+				I want you to feel how the Star Capital is,	
 				where no one exists anymore. I want you to	
 				feel this exceedingly futile and sad conclusion.	
 					
 				I want you to feel the nature and lives	
-				the <Mythos> left behind in "stones."	
+				the Mythos left behind in "stones."	
 				To feel that what was lost were indeed	
 				esistences that should have been valued.#0E	
 0x13bd5	0x41	None	#2E#0W	And, I wish strongly.	
@@ -1377,7 +1377,7 @@ EV_3_S02_meet_volans
 				There's something	
 				I want you to hear.	
 0x14189	0x40	UNDEF		Nayuta explained about Eartha's Hell Fever and her	
-				symptoms, and asked about <Yupina Grass>.	
+				symptoms, and asked about Yupina Grass.	
 0x1420d	0x06	Volans		ANI_SURPRISE	
 0x14239	0x98	Volans		Hmm...	
 				So something like that has happened.	
@@ -1385,7 +1385,7 @@ EV_3_S02_meet_volans
 0x142ae	0x98	Volans		To hear a name like that on	
 				a remote island like this is...	
 0x14312	0x98	Volans		...In truth, I have some idea	
-				about the <Yupina Grass> though...	
+				about the Yupina Grass though...	
 0x1437b	0x6B	ALTO		Exclamation	
 0x143ad	0x06	ALTO		ANI_COMPLAIN	
 0x143d7	0x98	ALTO	#6A	R-Really...!?	
@@ -1416,19 +1416,19 @@ EV_3_S02_meet_volans
 0x149dc	0x98	Caelum		Y-Yes...	
 				Please wait a moment.	
 0x14daa	0x98	Volans		...Here, look at this page.	
-0x14e7f	0x41	None	#2E	<Yupina Grass>#0E	
+0x14e7f	0x41	None	#2E	Yupina Grass#0E	
 0x14ee5	0x41	None	#2E	Distributed in a high mountain region in the north,	
 				an annual with light blue flower petals.#0E	
 0x14f98	0x41	None	#2E	According to legend, it raises the	
 				life force, and it is a silver bullet for	
-				<Hell Fever>.#0E	
+				Hell Fever.#0E	
 0x15048	0x41	None	#2E	But────	
 0x150a8	0x41	None	#2E	In recent years, living specimens have not been confirmed.	
 				An influential theory suggests the plant went extinct	
 				some ten-odd years ago.#0E	
 0x1521a	0x98	ALTO	#1W#6A	──No, this can't be......	
 0x152a1	0x98	Volans		As you just read...	
-				<Yupina Grass> is an extinct plant.	
+				Yupina Grass is an extinct plant.	
 0x15321	0x06	book		ANI_CLOSE	
 0x15348	0x06	Volans		ANI_WAIT1	
 0x1537b	0x98	Volans		Of course, we do not have	
@@ -1498,7 +1498,7 @@ EV_6_S07_meet_volans
 				Am I not wrong, Noi?	
 0x1631b	0x06	NOI		ANI_NOD	
 0x1633f	0x98	NOI	#6A	...Yes, exactly right.	
-0x16377	0x98	NOI	#6A	For a long time, <Terra> has	
+0x16377	0x98	NOI	#6A	For a long time, Terra has	
 				continued to exist as a "moon"	
 				in that sky.	
 0x163df	0x98	NOI	#6A	Little by little, it ages,	
@@ -1506,14 +1506,14 @@ EV_6_S07_meet_volans
 				as ruins, I think...	
 0x1645f	0x06	NOI		ANI_GESTURE2	
 0x16488	0x98	NOI	#6A	And, you could say the	
-				<Star Shards> are the same.	
-0x164db	0x98	NOI	#6A	The <Mythos> made those,	
+				Star Shards are the same.	
+0x164db	0x98	NOI	#6A	The Mythos made those,	
 				and kept them in Terra...	
 0x16536	0x06	ALTO		ANI_THINK	
-0x1655d	0x98	ALTO	#6A	...The <Star Shards> fall with	
+0x1655d	0x98	ALTO	#6A	...The Star Shards fall with	
 				the ruins.	
 0x165a8	0x98	ALTO	#6A	They both have the same source...	
-				It's because <Terra> is in the sky.	
+				It's because Terra is in the sky.	
 0x16617	0x06	Volans		ANI_GESTURE2	
 0x16643	0x98	Volans		Huhu, our conversation is	
 				already over, is it not?	
@@ -1523,8 +1523,8 @@ EV_6_S07_meet_volans
 0x16715	0x06	NOI		ANI_GESTURE2	
 0x1673e	0x06	ALTO		ANI_WAIT	
 0x16764	0x98	NOI	#6A	Interesting things?	
-0x167d2	0x98	Volans		Both the ruins and the <Star	
-				Shards> that are downpouring	
+0x167d2	0x98	Volans		Both the ruins and the Star	
+				Shards that are downpouring	
 				are concentrated on this island.	
 0x1684c	0x06	Volans		ANI_GESTURE2	
 0x16878	0x98	Volans		However, if the main cause is the	
@@ -1533,7 +1533,7 @@ EV_6_S07_meet_volans
 0x1690b	0x06	ALTO		ANI_THINK2	
 0x16933	0x98	ALTO	#6A	...Certainly...	
 0x16965	0x98	ALTO		It seems there is a "reason" that these	
-				things fall on <Remnant Island>.	
+				things fall on Remnant Island.	
 0x16a12	0x06	Volans		ANI_NOD	
 0x16a39	0x98	Volans		Huhu, I think so too.	
 0x16a70	0x06	Volans		ANI_WAIT	

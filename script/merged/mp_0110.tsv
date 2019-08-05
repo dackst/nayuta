@@ -353,8 +353,8 @@ talk_Asa_sub
 				I'll try going during a break from	
 				handyman work.	
 0x6965	0x98	Asa		Oh yes! Today I'm meeting a merchant	
-				to to deliver an analyzed <Star	
-				Shard>.	
+				to to deliver an analyzed Star	
+				Shard.	
 0x69ce	0x98	Asa		So, I need you to watch the house this	
 				morning, and I promise I'll make you	
 				something good come noontime.	
@@ -362,8 +362,8 @@ talk_Asa_sub
 0x6a8e	0x98	ALTO		Ahaha, yeah.	
 				I'm excited.	
 0x6aee	0x98	Asa		Oh yes! Today I'm meeting a merchant to	
-				to deliver some analyzed <Star	
-				Shards>.	
+				to deliver some analyzed Star	
+				Shards.	
 0x6b5a	0x98	Asa		I even drew some excellent sketches of	
 				the scenes that can be seen inside.	
 0x6bc2	0x98	Asa		Haha, it would be good if	
@@ -427,7 +427,7 @@ talk_Lupus
 0x75f3	0x98	Lupus		Damn, I've really done it now.	
 talk_Antlia
 0x7660	0x98	Antlia		I can't believe Eartha has	
-				contracted <Hell Fever>...	
+				contracted Hell Fever...	
 0x76b6	0x98	Antlia		...I have no words.	
 0x76eb	0x98	Antlia		Yupina Grass...	
 				It seems there are those who know about	
@@ -620,7 +620,7 @@ talk_Hydol
 0x9886	0x98	Hydol		There are especially many reports of it	
 				from the Empire, near the "End."	
 0x98ee	0x98	Hydol		The symptoms of this disease cannot	
-				be stopped, save to <Yupina Grass>.	
+				be stopped, save to Yupina Grass.	
 				However that herb is now...	
 0x9970	0x98	Hydol		...No, enough.	
 				Anyway, I'll do what I can.	
@@ -628,8 +628,8 @@ talk_Hydol
 0x9a1e	0x98	Hydol		I won't say to worry, but...	
 				Nayuta, take care of yourself.	
 LP_Viewer1
-0x9aaf	0x40	UNDEF		It's a <Star Shard Observation	
-				Machine>.	
+0x9aaf	0x40	UNDEF		It's a Star Shard Observation	
+				Machine.	
 0x9aff	0x98	ALTO		Because this is a tool Eartha uses to	
 				do her work, I can't just use it however	
 				I want.	
@@ -637,17 +637,17 @@ LP_Viewer1
 				used to use, so when I want to use it,	
 				I'll use the one in my room.	
 LP_Viewer2
-0x9c2c	0x40	UNDEF		It's a <Star Shard Observation	mp_0110 0x9aaf
-				Machine>.	
-0x9ecc	0x36	Choice		Star Shard <Bouquet>	
-0x9f08	0x36	Choice		Star Shard <Dusk>	
-0x9f41	0x36	Choice		Star Shard <Dizzy Shine>	
-0x9f81	0x36	Choice		Star Shard <Great Echo>	
-0x9fc0	0x36	Choice		Star Shard <Daybreak Cloud>	
-0xa003	0x36	Choice		Star Shard <Light of Wisdom>	
-0xa047	0x36	Choice		Star Shard <Under the Sun>	
-0xa089	0x36	Choice		Star Shard <Shining Star>	
-0xa0ca	0x36	Choice		Star Shard <Dreams>	
+0x9c2c	0x40	UNDEF		It's a Star Shard Observation	mp_0110 0x9aaf
+				Machine.	
+0x9ecc	0x36	Choice		Star Shard Bouquet	
+0x9f08	0x36	Choice		Star Shard Dusk	
+0x9f41	0x36	Choice		Star Shard Dizzy Shine	
+0x9f81	0x36	Choice		Star Shard Great Echo	
+0x9fc0	0x36	Choice		Star Shard Daybreak Cloud	
+0xa003	0x36	Choice		Star Shard Light of Wisdom	
+0xa047	0x36	Choice		Star Shard Under the Sun	
+0xa089	0x36	Choice		Star Shard Shining Star	
+0xa0ca	0x36	Choice		Star Shard Dreams	
 0xa0ed	0x36	Choice		Quit	mp_0002 0x433f
 0xa15b	0x06	ALTO		ANI_HANDOVER	
 0xa203	0x06	horogram2		ANI_PATA1	
@@ -665,12 +665,12 @@ LP_benri_desk
 				after four months, I've got to	
 				get fired up.	
 LP_bottle
-0xaaf9	0x40	UNDEF		<Star Shards> are packed into	
+0xaaf9	0x40	UNDEF		Star Shards are packed into	
 				this small, plain bottle.	
 0xab58	0x98	ALTO		On the beaches of Remnant Island,	
 				ones like these wash ashore once	
 				in a while.	
-0xabc4	0x98	ALTO		Plain "shards" don't reflect <Lost Heaven>,	
+0xabc4	0x98	ALTO		Plain "shards" don't reflect Lost Heaven,	
 				so they don't have monetary value, but...	
 0xac38	0x98	ALTO		As you'd expect, they are pretty,	
 				so I came to collect them.	
@@ -777,7 +777,7 @@ QS_58_asa_noi_talk
 				over there is...	
 0xc15b	0x06	NOI		ANI_SURPRISE	
 0xc184	0x98	NOI		It can't be!	
-				Could it have gone to <Terra>!?	
+				Could it have gone to Terra!?	
 0xc1ce	0x06	ALTO		ANI_NOD	
 0xc1f3	0x98	ALTO	#6A	I've got to hurry and find it!	
 0xc234	0x98	ALTO	#6A	(Maybe I should	
@@ -998,10 +998,10 @@ QS_22_quest_start
 0xf7e8	0x06	Asa		ANI_THINK	
 0xf80e	0x98	Asa		The truth is, Nayuta...	
 0xf844	0x98	Asa		Somehow, the condition of my	
-				<Star Shard Observation	
-				Machine> is bad.	
+				Star Shard Observation	
+				Machine is bad.	
 0xf8a6	0x98	Asa		I can't project the contents	
-				of the <Star Shards> well...	
+				of the Star Shards well...	
 0xf8fd	0x6B	ALTO		Exclamation	
 0xf92f	0x06	ALTO		ANI_SURPRISE	
 0xf959	0x98	ALTO	#6A	Huh...!?	
@@ -1013,8 +1013,8 @@ QS_22_quest_start
 				will you help me repair it?	
 0xfaa8	0x06	Asa		ANI_GESTURE2	
 0xfad1	0x98	Asa		Somehow, it looks like the condition	
-				of my <Star Shard Observation	
-				Machine> is bad.	
+				of my Star Shard Observation	
+				Machine is bad.	
 0xfb41	0x98	Asa		If it's all right with you,	mp_0110 0xfa2b
 				will you help me repair it?	
 0xfbb8	0x36	Choice		[Accept]	mp_0000 0xeaf5
@@ -1045,14 +1045,14 @@ QS_22_undertake
 0x102d5	0x06	Asa		ANI_WAIT2	
 0x103d3	0x06	ALTO		ANI_LOOK_AROUND	
 0x10400	0x98	NOI	#6A	(Oh yeah, the people on this side use	
-				 this machine to look at <Star Shards>...)	
+				 this machine to look at Star Shards...)	
 0x10486	0x06	Lyra		ANI_GESTURE2	
 0x104b0	0x98	Lyra		How was it, Nayuta?	
 				Do you know what's wrong?	
 0x104fc	0x06	ALTO		ANI_THINK	
 0x10523	0x98	ALTO	#6A	Maybe...	
 0x1054e	0x98	ALTO	#6A	It looks like the "lens" to project the	
-				<Star Shard> contents is exhausted.	
+				Star Shard contents is exhausted.	
 0x105bb	0x98	ALTO	#6A	It's been awhile since it was replaced,	
 				and I think it's time for some maintenance.	
 0x10630	0x06	Asa		ANI_GOODIDEA	
@@ -1122,7 +1122,7 @@ QS_22_undertake
 0x110db	0x06	NOI		ANI_GESTURE1	
 0x11104	0x98	NOI	#6A	If I remember correctly, it can be	
 				taken from a tree that grows in a	
-				dark place in "Autumn" of <Oltapia>.	
+				dark place in "Autumn" of Oltapia.	
 0x1118d	0x98	NOI	#6A	Even though it's dark, the	
 				resin shines beautifully, so if	
 				we search, I'm sure we'll find it!	
@@ -1382,7 +1382,7 @@ EV_0_S04_asa_entry
 0x15a23	0x40	Asa	#1W	Wow, how beautiful!	
 0x15a66	0x40	Asa	#0W	This is...Maybe it's a tower somewhere?	
 0x15abd	0x40	Asa	#0W	It's rare to be able to see one this clearly.	
-0x15c08	0x98	Asa	#1W	This <Star Shard>...	
+0x15c08	0x98	Asa	#1W	This Star Shard...	
 				it might be worth	
 				a good bit.	
 0x15c5a	0x06	Asa		ANI_SIT1_LAUGH	
@@ -1441,14 +1441,14 @@ EV_0_S06_breakfast
 				whole other league.	
 0x1741f	0x06	Asa		ANI_SIT1_GESTURE1	
 0x1744d	0x98	Asa		What's more, I have the	
-				<Star Shard Observation> work I	
+				Star Shard Observation work I	
 				inherited from mother.	
 0x174c0	0x98	ALTO	#6A	I analyze the views within	
-				<Star Shards>...	
+				Star Shards...	
 0x17541	0x06	ALTO		ANI_SIT2_GESTURE2	
 0x17570	0x98	ALTO	#6A	It's certainly work you won't	
 				find outside the island.	
-0x175ef	0x98	Signa		Yeah, the <Star Shards> themselves	
+0x175ef	0x98	Signa		Yeah, the Star Shards themselves	
 				are Remnant Island's special	
 				product.	
 0x17693	0x98	Signa		Well, how has your work	
@@ -1462,7 +1462,7 @@ EV_0_S06_breakfast
 0x1782d	0x98	ALTO	#6A	Rare?	
 0x17855	0x06	ALTO		ANI_SIT2_GESTURE1	
 0x17884	0x98	ALTO	#6A	What kind of view can you	
-				see in that <Star Shard>?	
+				see in that Star Shard?	
 0x17938	0x98	Asa		Haha, since you're here, want to	
 				try looking? It's installed in the	
 				observation machine.	
@@ -1475,7 +1475,7 @@ EV_0_S06_breakfast
 				I'll head there right now!	
 0x17cc7	0x06	Signa		ANI_SIT2_DENY	
 0x17cf3	0x98	Signa		Hey, pretty excited aren't we?	
-				The <Star Shard> won't escape	
+				The Star Shard won't escape	
 				that easily.	
 0x17d63	0x06	Asa		ANI_SIT1_LAUGH	
 0x17dd0	0x98	Asa		Haha, well then, let's clean up	
@@ -1483,7 +1483,7 @@ EV_0_S06_breakfast
 0x17fc0	0x06	ALTO		ANI_SIT1	
 0x18040	0x06	Signa		ANI_WAIT0	
 0x180bf	0x06	Asa		ANI_WAIT0	
-0x18286	0x41	None	#0W#2E	<Star Shards>──	
+0x18286	0x41	None	#0W#2E	Star Shards──	
 				It is the name of mysterious	
 				crystals that fall with shooting stars	
 				in the area around	
@@ -1494,7 +1494,7 @@ EV_0_S06_breakfast
 				This is the mysterious special property	
 				that these crystals have.	
 0x18450	0x41	None	#0W#2E	The people call that world	
-				<Lost Heaven>, and send their	
+				Lost Heaven, and send their	
 				thoughts out to it.	
 0x18596	0x06	horogram		ANI_PATA1	
 0x18695	0x40	ALTO		Amazing! This is amazing, Eartha!	
@@ -1503,7 +1503,7 @@ EV_0_S06_breakfast
 				The surrounding scene is beautiful too...	
 0x187d8	0x06	ALTO		ANI_SIT1_NOD	
 0x18892	0x98	ALTO		...Indeed, it is truly beautiful.	
-0x188f1	0x98	ALTO		I have looked at <Star Shards> every	
+0x188f1	0x98	ALTO		I have looked at Star Shards every	
 				now and then, but this is	
 				the first time I've seen one like this.	
 0x1899b	0x06	Asa		ANI_GESTURE2	
@@ -1516,7 +1516,7 @@ EV_0_S06_breakfast
 0x18b95	0x06	ALTO		ANI_WAIT	
 0x18c42	0x98	ALTO	#6A#16S	If this isn't great, then nothing is!	
 0x18cb5	0x06	ALTO		ANI_GESTURE1	
-0x18cdf	0x98	ALTO	#6A	Many times you see in <Star Shards>	
+0x18cdf	0x98	ALTO	#6A	Many times you see in Star Shards	
 				forests or animals, or the sea or sky.	
 				Things in nature.	
 0x18d5c	0x06	ALTO		ANI_THINK2	
@@ -1529,16 +1529,16 @@ EV_0_S06_breakfast
 0x18e45	0x06	ALTO		ANI_WAIT	
 0x18ed5	0x06	ALTO		ANI_THINK	
 0x18efc	0x98	ALTO		The only thing that can be	
-				seen in <Star Shards> is	
-				the world of <Lost Heaven>...	
+				seen in Star Shards is	
+				the world of Lost Heaven...	
 0x18f6b	0x98	ALTO		"Does it exist in this world?"	
 				"If it exists...just where is it?"	
-				"Why do <Star Shards> reflect this world?"	
+				"Why do Star Shards reflect this world?"	
 0x18ff5	0x98	ALTO		Researchers have continued to	
 				tackle these kinds of questions	
 				for a long time.	
 0x19061	0x98	ALTO		There might be a reason	
-				<Star Shards> only fall in the	
+				Star Shards only fall in the	
 				area around Remnant Island.	
 0x190d9	0x06	ALTO		ANI_NOD	
 0x190fe	0x98	ALTO		...No, I'm sure there is!	
@@ -1554,7 +1554,7 @@ EV_0_S06_breakfast
 				own world again.	
 0x19374	0x06	Signa		ANI_WAIT4	
 0x19409	0x98	Signa		Good grief indeed.	mp_0101 0x626e
-0x1948a	0x98	Signa		(<Lost Heaven>, huh...)	
+0x1948a	0x98	Signa		(Lost Heaven, huh...)	
 0x194c2	0x98	Signa		(I wonder if it has something to do with	
 				 the accident involving	
 				 Nayuta's parents...)	
@@ -1734,7 +1734,7 @@ EV_0_S16_noi_wakeup
 				she is afraid of the things	
 				called "Humans."	
 0x1d50f	0x06	Signa		ANI_GESTURE1	
-0x1d53a	0x98	Signa	#N	Um, <Noi>, was it?	
+0x1d53a	0x98	Signa	#N	Um, Noi, was it?	
 				There's no way we would eat you.	
 				We're not that kind of vigilantes.	
 0x1d5e1	0x98	NOI		W-Why do you know my name?	
@@ -1770,7 +1770,7 @@ EV_0_S16_noi_wakeup
 0x1dc0b	0xBC	NOI		Exclamation	
 0x1dc79	0x98	NOI	#18S	Ah...aaaaaah!	
 0x1dced	0x06	Signa		ANI_WAIT	
-0x1dd14	0x98	NOI	#16S	The <Master Gear> is missing!	
+0x1dd14	0x98	NOI	#16S	The Master Gear is missing!	
 				#16SI lost it!!	
 0x1dd9d	0x98	NOI		C-Could it be that...	
 				You guys...!?	
@@ -1785,7 +1785,7 @@ EV_0_S16_noi_wakeup
 0x1e075	0x98	ALTO	#6A	W-Wait!	
 				We would never...!	
 0x1e0b1	0x98	ALTO	#6A	What's more, what is	
-				a <Master Gear>?	
+				a Master Gear?	
 0x1e117	0x06	Signa		ANI_WAIT4	
 0x1e15e	0x98	Signa		Hey Nayuta, maybe she's talking	
 				about the machine stolen by	
@@ -1831,7 +1831,7 @@ EV_0_S16_noi_wakeup
 				will you?	
 0x1ea64	0x06	NOI		ANI_DENY	
 0x1eacb	0x98	NOI		...I-I'm sorry...	
-				Now that the <Master Gear> has been	
+				Now that the Master Gear has been	
 				stolen, it's a race against time!	
 0x1eb9e	0x98	NOI		I do thank you for saving	
 				me though....	
@@ -1913,7 +1913,7 @@ EV_2_S07_lecture_on_noi
 0x201b2	0x40	UNDEF		Noi held back, but Eartha's gentle yet pushy	
 				invitation that couldn't be refused made Noi say OK.	
 0x20233	0x40	UNDEF		And then...	
-				Just like that, Noi and Nayuta returned to <Terra>.	
+				Just like that, Noi and Nayuta returned to Terra.	
 0x202be	0x06	ALTO		ANI_WAIT	
 EV_2_S09_disease_symptom
 0x205da	0x06	Lyra		ANI_DEJECTED	
@@ -1984,7 +1984,7 @@ EV_3_S00_detect_disease
 0x21c12	0x06	Asa_b		ANI_SLEEP_IN_BED	
 0x21f4d	0x98	Hydol		...Nayuta, you──	
 0x21f80	0x98	Hydol		You've heard the name,	
-				<Hell Fever>, haven't you?	
+				Hell Fever, haven't you?	
 0x21ff0	0x98	ALTO	#1W#6A	...Hell...Fever...	
 				Yes, certainly...	
 0x22041	0x06	Hydol		ANI_WAIT3	
@@ -2008,7 +2008,7 @@ EV_3_S00_detect_disease
 0x2238f	0x06	Hydol		ANI_NOD	
 0x223b5	0x98	Hydol		...I'll get straight to the point.	
 				Your sister, Eartha is...	
-0x22419	0x98	Hydol		Suffering from <Hell Fever>.	
+0x22419	0x98	Hydol		Suffering from Hell Fever.	
 0x22472	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x224bf	0x98	ALTO	#6A#18S	!!!!	mp_0101b 0x3636
 0x224f2	0x98	ALTO	#1W#6A	Wha...	
@@ -2043,14 +2043,14 @@ EV_3_S00_detect_disease
 0x23058	0x98	Hydol		One day, she came to me feeling ill.	
 				That's when I found it.	
 0x23134	0x06	ALTO		ANI_GESTURE1	
-0x2315e	0x98	ALTO	#6A	How can <Hell Fever>	
+0x2315e	0x98	ALTO	#6A	How can Hell Fever	
 				be cured?	
 0x231a6	0x06	Hydol		ANI_WAIT3	
 0x231ce	0x98	Hydol		...It is said that this illness is an	
 				incurable disease whose cause	
 				is unknown.	
 0x2323c	0x98	Hydol		There is only one cure...	
-				The herb called <Yupina Grass> that	
+				The herb called Yupina Grass that	
 				is exceedingly rare.	
 0x232ad	0x98	Hydol		I searched for it too...	
 0x232ee	0xBC	Hydol		Ellipsis	
@@ -2066,7 +2066,7 @@ EV_3_S00_detect_disease
 0x23518	0x98	ALTO	#6A	...If that's the case...	
 0x23586	0x06	ALTO		ANI_JOY	
 0x235ab	0x98	ALTO	#6A	I will show you I can get this	
-				<Yupina Grass>...!	
+				Yupina Grass...!	
 0x236d9	0x98	Hydol	#6A	N-Nayuta!?	
 0x23873	0x06	Lyra		ANI_WAIT2	
 0x239ba	0xBC	ALTO		Exclamation	
@@ -2109,12 +2109,12 @@ EV_3_S22_recovery_asa
 0x24db1	0x98	Asa_b	#0W#6A	...Doctor, is this...?	
 0x24df6	0x06	Hydol		ANI_WAIT3	
 0x24e1e	0x98	Hydol	#6A	The truth is, Nayuta brought that	
-				<Yupina Grass> earlier.	
+				Yupina Grass earlier.	
 0x24e7a	0x98	Hydol	#6A	As you'd expect, I was surprised, but...	
 				certainly, it seems it was effective.	
 0x24eeb	0x98	Hydol	#6A	If we have this...	
 				the day of your complete recovery	
-				from <Hell Fever> should be near.	
+				from Hell Fever should be near.	
 0x24f6b	0xBC	ALTO		Exclamation	
 0x24fa1	0xBC	Lyra		Exclamation	
 0x24fd7	0xBC	Asa		Exclamation	
@@ -2151,7 +2151,7 @@ EV_3_S22_recovery_asa
 0x25b98	0x06	Hydol		ANI_THINK	
 0x25bc0	0x98	Hydol	#6A	But, I'm interested...	
 				Nayuta, where did you	
-				obtain the <Yupina Grass>?	
+				obtain the Yupina Grass?	
 0x25c65	0x06	Lyra		ANI_COMPLAIN	
 0x25c8f	0x6B	Lyra		Unknown	
 0x25cd7	0x98	Lyra	#6A	Hey, Doctor, come on!	
@@ -2334,7 +2334,7 @@ EV_3_S23_confide_asa
 0x29e0f	0x98	Asa_b		...Nayuta.	
 				Because I was on the brink, will you	
 				explain to me the circumstances?	
-0x29e7e	0x98	Asa_b		About the <Yupina Grass>	
+0x29e7e	0x98	Asa_b		About the Yupina Grass	
 				that cured my illness...	
 0x29ecf	0x98	Asa_b		That you were able to do something like	
 				obtain an herb that should be extinct,	
@@ -2374,7 +2374,7 @@ EV_3_S23_confide_asa
 0x2a6d8	0x98	ALTO	#6A	Eartha, this might be a little long, but...	
 				Please listen for us.	
 0x2a7a7	0x40	UNDEF		Nayuta began to explain the events	
-				related to <Terra> one after another.	
+				related to Terra one after another.	
 0x2a80f	0x40	UNDEF		About his battles with Noi, and Cygna's	
 				whereabouts being unknown...	
 0x2a873	0x40	UNDEF		And, about Kureha's speech,	
@@ -2382,7 +2382,7 @@ EV_3_S23_confide_asa
 0x2a8fd	0x98	Asa_b		...I see...	mp_0100a 0xd531
 0x2a931	0x6B	Asa_b		Ellipsis	
 0x2a9b2	0x98	Asa_b		...Nayuta, you've been mixed up	
-				with <Lost Heaven> this whole time.	
+				with Lost Heaven this whole time.	
 0x2aa15	0x98	Asa_b		Both father and mother left	
 				to search for that world,	
 				and met their ends...	
@@ -2396,9 +2396,9 @@ EV_3_S23_confide_asa
 0x2abfa	0x98	Asa_b		...I cannot deny	
 				those emotions.	
 0x2ac3a	0x98	Asa_b		In my taking over the	
-				<Star Shard Observer> work too,	
+				Star Shard Observer work too,	
 				that feeling is somewhere in my heart...	
-0x2ad05	0x98	Asa_b		But, <Lost Heaven> is not	
+0x2ad05	0x98	Asa_b		But, Lost Heaven is not	
 				a simple paradise.	
 0x2ad51	0x98	Asa_b		There are monsters, and	
 				many dangers.	
@@ -2413,7 +2413,7 @@ EV_3_S23_confide_asa
 				mere interest.	
 0x2af14	0x98	ALTO	#6A	Cygna, of course, and Noi and Kureha...	
 0x2af5e	0x98	ALTO	#6A	To protect what's important to me...	
-				That is why I want to go to <Terra>.	
+				That is why I want to go to Terra.	
 0x2afe6	0x98	NOI	#6A	Nayuta...	mp_0000d 0x7671
 0x2b05f	0x98	Asa_b		...Huhu, it that so.	
 0x2b0da	0x98	Asa_b		If you're willing to say that much...	
@@ -2430,7 +2430,7 @@ EV_3_S23_confide_asa
 0x2b358	0x98	ALTO	#16S#6A	Ehh!?	
 0x2b38c	0x98	NOI	#16S#6A	You want to bring Master Kureha!?	
 0x2b3fa	0x98	Asa_b		From what I heard, you were able to	
-				obtain the <Yupina Grass>	
+				obtain the Yupina Grass	
 				because of her, right?	
 0x2b46d	0x98	Asa_b		Because it's a special chance,	
 				I want to thank her directly.	
@@ -2477,7 +2477,7 @@ EV_3_S27_bring_creha
 0x2c638	0x06	Asa		ANI_OJIGI	
 0x2c66c	0x98	Asa	#1W	Huhu, likewise.	
 0x2c6ab	0x98	Asa	#1W	It seems that you helped me with	
-				the <Yupina Grass> matter...	
+				the Yupina Grass matter...	
 				I truly thank you.	
 0x2c723	0x06	Creha		ANI_DENY	
 0x2c758	0x98	Creha	#1W#6A	No...the ones who found it	
@@ -2563,7 +2563,7 @@ EV_3_S27_bring_creha
 				if Nayuta's sister is there, then	
 				everything should be all right...	
 0x2d9aa	0x98	NOI		This place might be safer than	
-				<Terra>, where Zext is!	
+				Terra, where Zext is!	
 0x2da1c	0xBC	Creha		Ellipsis	
 0x2da5b	0x98	Creha		...Then, I will accept	
 				your gracious offer.	
@@ -2692,7 +2692,7 @@ EV_6_S00_wakeup_nayuta
 				You've been sleeping for several days...	
 0x30fec	0x98	ALTO_pj	#6A#0W	That has nothing to do with this!	
 0x31074	0x98	ALTO_pj	#0W#6A	Quickly, we've got to return	
-				to <Terra>, and stop Kureha and Cygna!	
+				to Terra, and stop Kureha and Cygna!	
 0x310e7	0x06	NOI		ANI_DENY	
 0x3114e	0x98	NOI		B-But...right now...	
 0x311c6	0x98	ALTO_pj	#6A#16S	Quiet, Noi!	
@@ -2733,7 +2733,7 @@ EV_6_S02_state_order
 0x322b5	0x40	Asa		After that, there was a downpour	
 				of much rubble from the sky.	
 0x32310	0x40	Asa		I was surprised when I heard about it from Noi.	
-				So that moon is <Terra>...	
+				So that moon is Terra...	
 0x323dc	0x98	Asa		The climate around here too,	
 				is strange somehow.	
 0x3242a	0x06	Asa		ANI_SIT1_GESTURE2	
@@ -2824,7 +2824,7 @@ EV_6_S14_talk_asa
 0x33731	0x06	NOI		ANI_NOD	
 0x33755	0x98	NOI	#6A	Right!	
 				That transfer gate	
-				connects to <Terra>!	
+				connects to Terra!	
 0x3392e	0xCE	Objective		We've gotta stop those two. We'll see Master when we're ready!	
 EV_8_S01_breakfast
 0x33a5e	0x06	ALTO		ANI_SIT2	
@@ -2838,7 +2838,7 @@ EV_8_S01_breakfast
 0x33de3	0x06	ALTO		ANI_SIT2_NOD	
 0x33e0d	0x98	ALTO	#6A	Yeah, today is work for	
 				the Handyman Shop.	
-0x33e59	0x98	ALTO	#6A	The <Star Festival> is near,	
+0x33e59	0x98	ALTO	#6A	The Star Festival is near,	
 				and requests have been coming	
 				in, one after the next.	
 0x33ed4	0x06	Asa		ANI_SIT1_NOD	
@@ -2897,7 +2897,7 @@ EV_8_S04_talk_noi
 				it might be that, "I don't know them"	
 				is the right answer.	
 0x34e1f	0x98	NOI	#6A	I was just born	
-				as a new <Warden>...	
+				as a new Warden...	
 0x34e64	0x98	NOI	#6A	Even though my form is the same,	
 				I am different from the original Noi.	
 0x34ed3	0x06	Asa		ANI_GESTURE1	
@@ -2922,14 +2922,14 @@ EV_8_S04_talk_noi
 				to do on this "Remnant Island."	
 0x35247	0x98	ALTO		Something you must do?	
 0x3529a	0x98	NOI	#6A	...It is to bring a certain person	
-				to <Terra>.	
+				to Terra.	
 0x352f1	0x98	NOI	#6A	──The person named	
 				"Nayuta Herschel"....	
 0x35344	0x6B	ALTO		Exclamation	
 0x35394	0x6B	Lyra		Exclamation	
 0x353e4	0x6B	Asa		Exclamation	
 0x35432	0x98	ALTO		You're going to bring me	
-				to <Terra>!?	
+				to Terra!?	
 0x3547e	0x98	NOI	#0W#6A	“Me”...?	
 0x354ad	0x98	NOI	#6A	Can it be that you are...!?	
 0x3554b	0x98	ALTO		Yes, I am Nayuta...	
@@ -2943,10 +2943,10 @@ EV_8_S04_talk_noi
 0x356d1	0x98	Lyra		Um, I am his childhood friend, Lyra...	
 0x35717	0x06	Lyra		ANI_COMPLAIN	
 0x35741	0x98	Lyra		But more importantly,	
-				you're taking him to <Terra>!?	
+				you're taking him to Terra!?	
 0x357ce	0x98	NOI	#6A	...The truth is, troubling	
 				things are happening in	
-				<Terra> now.	
+				Terra now.	
 0x35842	0x98	NOI	#6A	The important machine	
 				called the Astrolabe is, for reasons unknown,	
 				causing disturbances...	
@@ -2961,7 +2961,7 @@ EV_8_S04_talk_noi
 0x35a5e	0x98	ALTO		S-Sleeping?	
 				Why are they...	
 0x35a98	0x98	ALTO		Maybe it has something	
-				to do with <Terra>?	
+				to do with Terra?	
 0x35ae9	0x98	NOI	#6A	I don't know the details...	
 				I have only just awakened.	
 0x35b40	0x98	NOI	#6A	Anyway, if you would like to see	
@@ -2983,7 +2983,7 @@ EV_8_S04_talk_noi
 0x35eb8	0x06	Asa		ANI_GESTURE2	
 0x35ee1	0x98	Asa		...Nayuta, what will you do?	
 0x35f39	0x98	ALTO	#6A	...I've decided.	
-0x35f6c	0x98	ALTO	#6A	On <Terra>...	
+0x35f6c	0x98	ALTO	#6A	On Terra...	
 				Something is happening	
 				to Cygna and Kureha.	
 0x35fc6	0x98	ALTO	#6A	Like this, there's no	
@@ -2992,7 +2992,7 @@ EV_8_S04_talk_noi
 0x36043	0x98	Asa		Huhu, that's Nayuta for you.	
 0x3607e	0x06	ALTO		ANI_SIT1_NOD	
 0x360c5	0x98	NOI	#6A	Thank you very much.	
-0x360fb	0x98	NOI	#6A	Then, let's head to <Terra>	
+0x360fb	0x98	NOI	#6A	Then, let's head to Terra	
 				immediately.	
 0x36157	0x06	NOI		ANI_WAKE_UP_FLY	
 0x361d2	0x98	NOI	#6A	I sense the presence of a transfer gate	

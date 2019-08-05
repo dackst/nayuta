@@ -7,11 +7,11 @@ EV_6_S35_bombard_earth
 0xd54	0x98	ALTO	#1W#6A	...This is...	
 				...Our world right now...	
 0xda8	0x98	ALTO	#0W#6A	On the other side of	
-				<The End of the World>...	
+				The End of the World...	
 				...there is something like this...	
 0xe25	0x06	NOI		ANI_DENY	
 0xe52	0x98	NOI	#1W#6A	...No way...	
-0xe8b	0x98	Creha	#0W	...At this time, the <Core> of the	
+0xe8b	0x98	Creha	#0W	...At this time, the Core of the	
 				planet suffered a grave injury.	
 0xef0	0x98	Creha	#0W	Even now, the	
 				"destruction" is advancing.	
@@ -49,7 +49,7 @@ EV_6_S35_bombard_earth
 				not a "trifle."	
 0x1c02	0x98	NOI		Nayuta...	mp_0000d 0x7671
 0x1c7e	0x98	ALTO	#6A	When the god-like gaze of the	
-				<Mythos> looks down on us, the	
+				Mythos looks down on us, the	
 				surface must seem small...	
 0x1cfe	0x98	ALTO	#6A	But I can't imagine our world	
 				as a "trifle," no matter what.	
@@ -66,9 +66,9 @@ EV_6_S35_bombard_earth
 				truly irreplaceable.	
 0x2218	0x98	Creha	#1W	..................!	
 0x235d	0x06	ALTO		ANI_COMPLAIN	
-0x2395	0x98	ALTO	#1W#6A	People and <Mythos>	
+0x2395	0x98	ALTO	#1W#6A	People and Mythos	
 				should live together!	
-0x23f9	0x98	ALTO	#0W#6A	Rather than a <Remaking>,	
+0x23f9	0x98	ALTO	#0W#6A	Rather than a Remaking,	
 				surely there must be some other method!	
 0x2475	0x98	ALTO	#0W#6A	Let's not give up until the	
 				end, and search for it together!	
@@ -101,7 +101,7 @@ EV_7_S20_byebye_tera
 0x3c27	0x06	Signa		ANI_WAIT6	
 0x3c95	0x98	Signa	#0W	Well, the case is closed.	
 0x3d3f	0x98	Signa	#0W	Thanks to you,	
-				<Terra> completely used	
+				Terra completely used	
 				up its power.	
 0x3d9d	0x98	ALTO	#0W#6A	Huh...	mp_0001 0x166ea
 0x3eab	0x98	ALTO	#0W#440x#230y	It's...so far...	
@@ -109,7 +109,7 @@ EV_7_S20_byebye_tera
 0x3ff8	0x98	Creha3	#0W	Thanks to the recoil earlier,	
 				it's out of its orbit.	
 0x4050	0x98	Creha3	#0W	Though we can control it with	
-				<Terra>'s functions now...	
+				Terra's functions now...	
 0x40b4	0x06	Signa		ANI_WAIT5	
 0x40f3	0x98	Signa	#0W	It'll be ahwile until it's	
 				again near the surface.	
@@ -127,13 +127,13 @@ EV_7_S20_byebye_tera
 0x44f5	0x98	ALTO	#2W#6A	...Ah...	mp_0001 0xd6a4
 0x452b	0x06	Signa		ANI_GESTURE2	
 0x4564	0x98	Signa	#1W	I think we need to fix the	
-				completely broken <Astrolabe>.	
+				completely broken Astrolabe.	
 0x45ce	0x98	Signa	#1W	I don't know how long	
 				it'll take, but...	
 				Please wait for us.	
 0x4634	0x06	Creha3		ANI_WAIT2	
 0x46b3	0x98	Creha3	#1W	This time...we'll live together	
-				on <Remnant Island> with Noi.	
+				on Remnant Island with Noi.	
 0x472a	0x98	Creha3	#1W	...Because surely, I will go	
 				to meet you again!	
 0x4793	0x98	ALTO	#3W#6A	...Kureha...	
@@ -142,7 +142,7 @@ EV_7_S20_byebye_tera
 				it's a promise.	
 0x4a16	0x98	ALTO	#1W	I will wait.	
 				On that beautiful surface...	
-0x4aa9	0x98	ALTO	#1W#16S	On <Remnant Island>,	
+0x4aa9	0x98	ALTO	#1W#16S	On Remnant Island,	
 				I'll be waiting!	
 0x4bc6	0x06	Signa		ANI_NOD	
 0x4c19	0x98	Signa	#1W#16S	Yeah...A promise!	

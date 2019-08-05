@@ -27,12 +27,12 @@ map_maguma_off
 talk_Nemeas
 0x2ef5	0x98	Nemeas		I truly thank both of you.	
 0x2f31	0x98	Nemeas		I think I want to begin to control the	
-				<Power of Stars> flowing into Heliograd.	
+				Power of Stars flowing into Heliograd.	
 0x2fa1	0x98	Nemeas		Please hurry ahead, you two.	
 				...I leave Master Kureha	
 				in your care.	
 0x300e	0x98	Nemeas		We will attempt to control the power	
-				flowing from <Heliograd>.	
+				flowing from Heliograd.	
 0x306d	0x98	Nemeas		I do not know whether you can	
 				cross Zext and take back	
 				Master Kureha, but...	
@@ -149,8 +149,8 @@ QS_54_ask_reason
 				has not yet returned...	
 0x46da	0x06	Nemeas		ANI_DENY	
 0x4702	0x98	Nemeas		If those children are not saved,	
-				I cannot control the <Power of	
-				Stars>...	
+				I cannot control the Power of	
+				Stars...	
 0x476b	0x06	NOI		ANI_DEJECTED	
 0x4794	0x98	NOI	#6A	I-Is that so...	mp_0101 0x51b9
 0x47c5	0x06	NOI		ANI_THINK	
@@ -293,7 +293,7 @@ stp_qs54_last
 0x66ee	0x06	NOI		ANI_NOD	
 0x6712	0x98	NOI	#6A	Ehehe, as expected	
 				from the spirits of	
-				<Sage> Nemeas.	
+				Sage Nemeas.	
 0x6767	0x98	ALTO		Haha, it's possible that	
 				they are like their master.	
 0x67ba	0x98	ALTO		In addition, it seems they did their	
@@ -351,8 +351,8 @@ stp_qs54_last
 0x72c5	0x06	NOI		ANI_WAIT	
 0x72ea	0x06	Nemeas		ANI_NOD	
 0x7313	0x98	Nemeas		Well then, I think I want to	
-				begin to control the <Power	
-				of Stars> in this land.	
+				begin to control the Power	
+				of Stars in this land.	
 0x7383	0x06	Nemeas		ANI_GESTURE2	
 0x73af	0x98	Nemeas		You two should head to	
 				Heliograd.	
@@ -488,13 +488,13 @@ quest_SpiritD
 0x8e41	0x06	NOI		ANI_GESTURE2	
 0x8e82	0x98	NOI	#6A	It seems it appeared in "Summer" of	
 				"The Crater to the Underworld" in the center	
-				of <La Worg>.	
+				of La Worg.	
 0x8f00	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb5ed
 				when we have time, we should proceed	
 				carefully, it says.	
 0x8f82	0x98	NOI	#6A	It seems it appeared in "Summer" of	
 				"The Crater to the Underworld" in the center	
-				of <La Worg>!	
+				of La Worg!	
 0x9000	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb6ef
 				when we have time, it wants us to proceed	
 				carefully.	
@@ -547,8 +547,8 @@ quest_SpiritD_End
 0x9cdd	0x6B	SpiritD		Unknown	
 0x9d12	0x06	ALTO		ANI_JOY	
 0x9d37	0x98	ALTO		Haha, thanks. I'll accept it.	mp_1099 0xc3ff
-				(In Japanese, 5963 -> "go-ku-ro-san"	
-				 -> "Thanks for your hard work!")	
+				(In Japanese, 5963 - "go-ku-ro-san"	
+				 - "Thanks for your hard work!")	
 0x9db9	0x06	NOI		ANI_THINK	
 0x9df7	0x98	NOI	#6A	We have to go already...	mp_1099 0xc4bf
 				Please do your best	
@@ -676,7 +676,7 @@ QS_83_quest_end
 				It was a test for us, wasn't it?	
 0xcad8	0x06	Algorl		ANI_NOD	
 0xcaff	0x98	Algorl		Yes...We understand everything that has	mp_1099 0xf082
-				happened to <Terra> from start to end.	
+				happened to Terra from start to end.	
 0xcb6e	0x98	Algorl		In order to save the two Mythos,	mp_1099 0xf0f1
 				I think we should offer our final	
 				assistance.	
@@ -766,7 +766,7 @@ QS_83_quest_end
 0xdd76	0x06	Nemeas		ANI_GESTURE1	
 0xdda2	0x98	Nemeas	#1W	When this time of change is over,	mp_1099 0x10325
 				spin a new history with the true meaning	
-				of <Terra>.	
+				of Terra.	
 0xde31	0x98	Algorl	#3W	...And finally,	mp_1099 0x103b4
 				We will grant you our	
 				remaining power.	
@@ -810,7 +810,7 @@ EV_4_S19_boss_battle
 0xf770	0x6B	NOI		Surprise	
 0xf7a1	0x06	NOI		ANI_GOODIDEA	
 0xf7ca	0x98	NOI	#6A	Nayuta, is that...!	
-0xf961	0x98	NOI	#200x#270y	The <Master Gear of Fire>!	
+0xf961	0x98	NOI	#200x#270y	The Master Gear of Fire!	
 0xf9ac	0x98	ALTO	#280x#270y	If we only had that, then...!	
 0xfba1	0x98	NOI	#2W#6A	Ah...!	mp_0101 0xf07d
 0xfbe2	0x98	ALTO	#0W#6A	Is it the same as before!?	
@@ -820,7 +820,7 @@ EV_4_S19_boss_battle
 0xfd17	0x06	NOI		ANI_SURPRISE	
 0xff21	0x06	ALTO		ANI_TENSION_WAIT	
 0xffde	0x06	b003		ANI_DEMO1	
-0x10102	0x98	NOI	#1W#16S#6A	The <La Worg> temple is...!!	
+0x10102	0x98	NOI	#1W#16S#6A	The La Worg temple is...!!	
 0x10155	0x98	ALTO	#1W	Such extreme heat...	
 				Is that producing lava!?	
 0x101ac	0x06	ALTO		ANI_BATTOU2	
@@ -834,7 +834,7 @@ EV_4_S20_get_gear_4th
 0x10659	0x06	b003		ANI_DEMO5	
 0x1082c	0x98	ALTO	#0W	*pant, pant*...We did it!	
 0x10870	0x98	NOI	#0W#6A	Look at that!	
-0x10b8c	0x98	ALTO		This is the <Master Gear of Fire>!	
+0x10b8c	0x98	ALTO		This is the Master Gear of Fire!	
 				Noi, let's hurry and collect it!	
 0x10bf6	0x06	NOI		ANI_NOD	
 0x10c1a	0x98	NOI	#6A	O-Okay!	mp_0002d 0x89f1
@@ -843,7 +843,7 @@ EV_4_S20_get_gear_4th
 0x10e7c	0xC1	System		obtained.	mp_0000 0x7558
 0x11084	0x06	b003		ANI_DEMO4	
 0x110ab	0x98	ALTO	#0W#6A#10M	We just have to set this	
-				in the <Astrolabe> and...	
+				in the Astrolabe and...	
 0x1113e	0x98	NOI	#0W#10M#6A	Yeah! We can restrain	
 				the abnormalities!	
 0x112ae	0x3F	Name		Voice	mp_0000d 0x4c24
@@ -877,7 +877,7 @@ EV_4_S20_get_gear_4th
 0x12155	0x98	Signa		But...	
 				Nayuta, you really don't	
 				listen to what people tell you.	
-0x121d2	0x98	Signa		Even though I told you to return to <Remnant Island>,	
+0x121d2	0x98	Signa		Even though I told you to return to Remnant Island,	
 				You've come all the way to a place like this.	
 0x1225d	0x06	ALTO		ANI_COMPLAIN	
 0x12287	0x98	ALTO	#6A	Do you think I could just leave you	
@@ -891,7 +891,7 @@ EV_4_S20_get_gear_4th
 0x1245d	0x98	NOI	#6A	Anyway...	
 				With this, we've found Cygna!	
 0x124a5	0x98	NOI	#6A	Next is to completely	
-				restore the <Astrolabe>──	
+				restore the Astrolabe──	
 0x12547	0xBC	ALTO		Surprise	
 0x1257d	0xBC	NOI		Surprise	
 0x125b2	0xBC	Signa		Surprise	
@@ -912,7 +912,7 @@ EV_4_S24_go_astrolabe
 0x1303a	0x06	NOI		ANI_WORRIED	
 0x13143	0xBC	ALTO		Unknown	
 0x13179	0xBC	NOI		Unknown	
-0x13206	0x98	NOI	#0W#6A	The crest of <Terra> is rising...	
+0x13206	0x98	NOI	#0W#6A	The crest of Terra is rising...	
 				What in the world is this!	
 0x1326e	0x98	ALTO	#0W#6A	Can it be the "Seal"	
 				is being released!?	
@@ -924,7 +924,7 @@ EV_4_S24_go_astrolabe
 				They are still preparing for that.	
 0x13431	0x06	Signa		ANI_WAIT3	
 0x13459	0x98	Signa		To completely release the seal,	
-				it seems they need the <Key>.	
+				it seems they need the Key.	
 0x134c9	0xBC	ALTO		Exclamation	
 0x134ff	0xBC	NOI		Exclamation	
 0x13604	0x98	NOI	#6A	That's what Master Selam said...	
@@ -940,8 +940,8 @@ EV_4_S24_go_astrolabe
 				various information.	
 0x13804	0x98	ALTO	#6A	I-Is that so...	mp_0101 0x51b9
 0x13870	0x98	NOI	#6A	Anyway...	
-				Let's hurry now to the <Garden>!	
-0x138bb	0x98	NOI	#6A	If it's the fully restored <Astrolabe>, we	
+				Let's hurry now to the Garden!	
+0x138bb	0x98	NOI	#6A	If it's the fully restored Astrolabe, we	
 				might be able to stop not only the abnormalities,	
 				but the release of the "Seal," too!	
 0x13978	0x98	ALTO	#6A	T-That's right!	

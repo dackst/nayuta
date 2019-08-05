@@ -763,7 +763,7 @@ talk_Antlia
 0xb078	0x98	Antlia		Now then, let's get	
 				down to business, shall we?	
 0xb0c8	0x98	Antlia		Today I intend to request a new	
-				<Star Shard> from Eartha.	
+				Star Shard from Eartha.	
 0xb122	0x98	Antlia		Huhu, I wonder what kind of	
 				scenery it will be...	
 				I too am looking forward to it.	
@@ -782,16 +782,16 @@ talk_Antlia
 				of their travels.	
 0xb438	0x98	Antlia		Since the incident a year ago,	
 				it's become steadily more	
-				difficult to obtain <Star Shards>.	
-0xb4b3	0x98	Antlia		Now that their source, <Lost Heaven>,	
+				difficult to obtain Star Shards.	
+0xb4b3	0x98	Antlia		Now that their source, Lost Heaven,	
 				has left, it cannot be helped...	
 0xb51a	0x98	Antlia		At least, we should handle	
-				carefully the existing <Shards>.	
-0xb59e	0x98	Antlia		As for that those beautiful <Star	
-				Shards> have become difficult to	
+				carefully the existing Shards.	
+0xb59e	0x98	Antlia		As for that those beautiful Star	
+				Shards have become difficult to	
 				obtain, it is a lonely thing...	
 0xb620	0x98	Antlia		At least, we should handle	mp_0112 0xb51a
-				carefully the existing <Shards>.	
+				carefully the existing Shards.	
 0xb6b2	0x98	Antlia		The world that is reflected in the	
 				Star Shards has long been the	
 				aspiration of people.	
@@ -898,7 +898,7 @@ talk_Antlia
 				I plan to stay on this island for two or	
 				three days.	
 0xcb9f	0x98	Antlia		Now then, I'm stocking a new	
-				<Star Shard> so I have to be going.	
+				Star Shard so I have to be going.	
 0xcc00	0x98	Antlia		As for the ferry's departure...	
 				Hmm, it seems there's still time.	
 0xcc8a	0x98	Antlia		When my work is finished,	
@@ -921,13 +921,13 @@ talk_Antlia
 0xd035	0x98	ALTO		Ah, trader Antlia.	
 				You've come.	
 0xd073	0x98	Antlia		Yes, I've come to ask your sister	
-				to analyze a <Star Shard> that	
+				to analyze a Star Shard that	
 				I've obtained.	
 0xd0e2	0x98	Antlia		I came here last night.	
 				There's a bit of time	
 				until our meeting.	
 0xd142	0x98	ALTO		Is that so.	
-0xd16d	0x98	ALTO		If it is that <Star Shard> you're talking	
+0xd16d	0x98	ALTO		If it is that Star Shard you're talking	
 				about, even I have looked inside. It showed	
 				a very mysterious and beautiful scene.	
 0xd207	0x98	ALTO		Eartha says it is a	
@@ -936,10 +936,10 @@ talk_Antlia
 				Thank you for that story.	
 0xd290	0x98	Antlia		Then, I'm looking forward	
 				to your sister coming.	
-0xd31b	0x98	Antlia		<Star Shards> are a type of crystal found in	
+0xd31b	0x98	Antlia		Star Shards are a type of crystal found in	
 				the Ciencia Sea in which have the property	
 				of projecting mysterious scenery.	
-0xd3b4	0x98	Antlia		A scene of the so-called <Lost Heaven>.	
+0xd3b4	0x98	Antlia		A scene of the so-called Lost Heaven.	
 0xd3fd	0x98	Antlia		The scenes projected in each "Shard" are	
 				all different, and their transactional	
 				value changes accordingly.	
@@ -951,11 +951,11 @@ talk_Antlia
 0xd563	0x98	Antlia		Even though she is still young,	
 				her work is thorough and	
 				she always helps me.	
-0xd5f8	0x98	Antlia		<Star Shards> are mysterious crystals	
+0xd5f8	0x98	Antlia		Star Shards are mysterious crystals	
 				found in the Ciencia Sea, and they are	
 				popular among nobles and collectors.	
 0xd689	0x98	Antlia		Remnant Island produces these "Shards"	
-				and a skilled <Star Shard Observer>	
+				and a skilled Star Shard Observer	
 				is present too, which helps me out.	
 0xd717	0x98	Antlia		Huhu, your sister provides a	
 				"Shard" sketch as a bonus...	
@@ -1894,7 +1894,7 @@ quest_Antlia
 				 instantly.)	
 0x19199	0x98	ALTO		(I'll try searching for a suitable place	
 				 to plant the sapling in "Spring" of	
-				 <Forest Continent Oltapia>.)	
+				 Forest Continent Oltapia.)	
 quest_Hydol
 0x19300	0x98	Hydol		Janis from the elder's house,	
 				fisherman Carina, and	
@@ -2398,7 +2398,7 @@ QS_13_quest_end
 0x1f994	0x06	Gruz		ANI_WAIT	
 0x1fb14	0x06	Gruz		ANI_GESTURE2	
 0x1fb3e	0x98	Gruz		Look, my new menu...	
-				<Gruz Special>!!	
+				Gruz Special!!	
 0x1fb82	0x98	Gruz		Little Nayuta, little Noi,	
 				Eat it without holding	
 				anything back!	
@@ -2549,7 +2549,7 @@ QS_21_get_seedling
 				 this tree instantly.)	
 0x21cbe	0x98	ALTO	#6A	(I'll try searching for a suitable place	
 				 to grow this sapling in "Spring" of	
-				 <Forest Continent Oltapia>.	
+				 Forest Continent Oltapia.	
 0x21dfd	0x06	Antlia		ANI_SIT1	
 QS_25_quest_start
 0x21f90	0x06	Hydol		ANI_THINK	

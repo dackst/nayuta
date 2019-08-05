@@ -1,14 +1,14 @@
 mp_0000c
 init
 LP_Shop1
-0x96c	0x41	None		～  Bar & Inn <Moon View Pavillion>  ～	mp_0000 0x254e
+0x96c	0x41	None		～  Bar & Inn Moon View Pavillion  ～	mp_0000 0x254e
 				  We have tasty food and warm rooms	
 				    ready for you.	
 LP_Shop2
-0xa4c	0x41	None		★Welcome to general store <Sunset>!★	mp_0000 0x262e
+0xa4c	0x41	None		★Welcome to general store Sunset!★	mp_0000 0x262e
 				  From daily necessities to souvenirs,	
-				  leave it to <Sunset>!	
-				  Would you like to try <Star Shards>,	
+				  leave it to Sunset!	
+				  Would you like to try Star Shards,	
 				  Remnant Island's most popular product?	
 talk_Dorado
 0xb7b	0x98	Dorado		I was just about to leave	

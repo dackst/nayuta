@@ -97,14 +97,14 @@ EV_6_S01_stop_warp
 				And the atmosphere of the island, too...	
 0x2a9b	0x06	ALTO_pj		ANI_WAIT	
 0x2b29	0x98	ALTO_pj		...Anyway,	
-				I've got to go to <Terra>!	
+				I've got to go to Terra!	
 0x309f	0x6B	ALTO_pj		Question	
 0x30d4	0x06	ALTO_pj		ANI_SURPRISE_WEAK	
 0x3106	0x98	ALTO_pj	#6A#0W	The transfer gate's not moving?	
 0x3162	0x98	ALTO_pj	#16S#6A	Why!?	
 0x3199	0x06	ALTO_pj		ANI_COMPLAIN	
 0x31ce	0x98	ALTO_pj	#16S#6A	...Please move!	
-				#16SPlease take me to <Terra>!	
+				#16SPlease take me to Terra!	
 0x3225	0x98	ALTO_pj	#16S#6A	Cygna...and Kureha...	
 				#16SI need to talk to them!	
 0x32a8	0x06	ALTO		ANI_WAIT	

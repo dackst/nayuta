@@ -3,7 +3,7 @@ init
 gamestart_after
 EV_8_S00_1years_after
 0xa06	0x06	ALTO		ANI_USE_TELESCOPE	
-0xbce	0x41	None	#0W#2E	──One year later, <Remnant Island>.#0E	
+0xbce	0x41	None	#0W#2E	──One year later, Remnant Island.#0E	
 0xc4e	0x41	None	#0W#2E	Nayuta, having turned 16,	
 				visited for his second summer vacation...#0E	
 0xceb	0x41	None	#0W#2E	And when he came home	
@@ -20,7 +20,7 @@ EV_8_S00_1years_after
 0x132c	0x98	Asa	#6A	Even if it's summer vacation,	
 				it's not good to stay up late.	
 0x13a9	0x98	ALTO		...It's been a year since then...	
-				<Terra> has once again started	
+				Terra has once again started	
 				to come closer to the surface.	
 0x1426	0x98	ALTO		Tonight, I think I see it even closer	
 				than last night, maybe.	
@@ -49,7 +49,7 @@ EV_8_S00_1years_after
 				I'll go to bed soon.	
 0x191d	0x06	ALTO		ANI_WAIT	
 0x19d1	0x06	ALTO		ANI_THINK2	
-0x1a17	0x98	ALTO		(...I observed <Terra>,	
+0x1a17	0x98	ALTO		(...I observed Terra,	
 				 and I wonder what I should do.)	
 0x1a6e	0x98	ALTO		(The transfer gate stopped working...	
 				 I've no way to see them.)	

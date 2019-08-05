@@ -64,13 +64,13 @@ AL_shop
 0x2bb4	0x07	System	#3C	The craft gauge expended when you use	
 				Gear Drive is substantially decreased!	
 0x2ce0	0x07	System	#4C	You have become able to go to "Autumn"	
-				of Forest Continent <Oltapia>.	
+				of Forest Continent Oltapia.	
 0x2e75	0x07	System	#4C	You have become able to go to "Spring"	
-				of Abyss Continent <Rieseweld>.	
+				of Abyss Continent Rieseweld.	
 0x300b	0x07	System	#4C	You have become able to go to "Summer"	
-				of Sacred Mountain Continent <Heimmel>.	
+				of Sacred Mountain Continent Heimmel.	
 0x31a9	0x07	System	#4C	You have become able to go to "Winter"	
-				of Origin Continent <La Worg>.	
+				of Origin Continent La Worg.	
 0x333e	0x07	System	#3C	On infinity difficulty, enemies' level limit has been released.	
 0x33b6	0x07	System	#4C	※Item, "Restore Enemies' Level Limit" has been added.	
 				If you unlock this, enemy levels will	
@@ -108,9 +108,9 @@ QS_35_use_astrolabe
 0x4307	0x06	NOI		ANI_OPERATION	
 0x46f0	0x98	NOI	#6A	──There they are!	
 0x4a51	0x98	NOI		It looks like those two are	
-				somewhere in <Rieseweld>.	
+				somewhere in Rieseweld.	
 0x4aa4	0x06	ALTO		ANI_THINK2	
-0x4acc	0x98	ALTO	#6A	Somewhere is <Rieseweld>, huh...	
+0x4acc	0x98	ALTO	#6A	Somewhere is Rieseweld, huh...	
 				Do you know the location?	
 0x4b28	0x06	NOI		ANI_THINK	
 0x4b4e	0x98	NOI		Hmm, that much is...	
@@ -143,7 +143,7 @@ QS_58_use_astrolabe
 0x54ea	0x06	NOI		ANI_OPERATION	
 0x5926	0x98	NOI	#6A	...Ah, there's a reaction!	
 0x5962	0x98	NOI	#6A	It looks like a strange animal	
-				snuck into <La Worg>!	
+				snuck into La Worg!	
 0x59d1	0x98	ALTO	#6A	H-He really came to Terra!?	
 0x5a0f	0xBC	ALTO		Sweatdrop	
 0x5a4d	0x98	ALTO	#6A	(Hmm, in other words...	
@@ -192,7 +192,7 @@ EV_2_S11_set_gear_1st
 0x6ee7	0x98	NOI	#6A	Just look.	
 0x70cf	0x06	NOI		ANI_TAKE_OUT	
 0x7178	0x06	komono07		ANI_STOP	
-0x7244	0x98	NOI		If I put the <Master Gear>	
+0x7244	0x98	NOI		If I put the Master Gear	
 				here, then...	
 0x7359	0x06	NOI		ANI_STOP	
 0x737e	0x06	NOI		ANI_TAKE_OUT_LOOP	
@@ -205,9 +205,9 @@ EV_2_S11_set_gear_1st
 0x8187	0x98	ALTO	#6A#1W	...Wh...Wh-Wh-Wha......	
 0x81e0	0x06	ALTO		ANI_SURPRISE	
 0x820a	0x98	ALTO	#18S#6A	...What the heck is this!?	
-0x8268	0x98	NOI		This machine is the <Astrolabe>...	
+0x8268	0x98	NOI		This machine is the Astrolabe...	
 0x82a9	0x98	NOI		It is a machine that manages the	
-				nature and ecology of <Terra>.	
+				nature and ecology of Terra.	
 0x8323	0x98	ALTO	#6A	Manage...nature and ecology!?	
 0x8363	0x98	ALTO	#6A	...A-Ahaha...	
 				It's so amazing, I can't understand	
@@ -216,13 +216,13 @@ EV_2_S11_set_gear_1st
 0x85b2	0x06	ALTO		ANI_SURPRISE	
 0x85dc	0x98	ALTO	#16S	S-Something came out of it!?	
 0x8624	0x98	NOI		First, to restore the climate	
-				of <Oltapia>!	
+				of Oltapia!	
 EV_2_S13_use_astrolabe
 0x897e	0x06	NOI		ANI_OPERATION	
 0x8d8b	0x98	NOI	#6A	Alright...That should	
 				hold back the abnormalities	
-				in <Oltapia>.	
-0x8dea	0x98	NOI	#6A	But, the <Power of Stars> is	
+				in Oltapia.	
+0x8dea	0x98	NOI	#6A	But, the Power of Stars is	
 				in disarray, and it seems I can't put the	
 				temple back to how it was...	
 0x8e6d	0x98	NOI	#6A	Even though there's no	
@@ -234,7 +234,7 @@ EV_2_S13_use_astrolabe
 0x8f75	0xBC	NOI		Exclamation	
 0x8fb2	0x98	NOI	#6A	Ah...	
 				There's a reaction at the	
-				northeast continent, <Rieseweld>!	
+				northeast continent, Rieseweld!	
 0x9013	0x98	NOI	#6A	As I thought, Cygna is	
 				probably chasing Zext...	
 0x938b	0xBC	ALTO		Ellipsis	
@@ -245,10 +245,10 @@ EV_2_S13_use_astrolabe
 				#16Sthis is more amazing than all of them!	
 0x962a	0x06	NOI		ANI_LAUGH	
 0x9650	0x98	NOI	#6A	Uhuhu, were you surprised?	
-				This is the <Astrolabe>...	
-0x96a6	0x98	NOI	#6A	The <Mythos> built it, and	
+				This is the Astrolabe...	
+0x96a6	0x98	NOI	#6A	The Mythos built it, and	
 				it's a very important machine.	
-0x9726	0x98	ALTO		The <Mythos>...	
+0x9726	0x98	ALTO		The Mythos...	
 				It's the name of the race	
 				of that "Kureha" girl, right?	
 0x97cf	0x06	ALTO		ANI_THINK	
@@ -264,15 +264,15 @@ EV_2_S13_use_astrolabe
 				explained with just technology.	
 0x99e8	0x06	NOI		ANI_THINK	
 0x9a0e	0x98	NOI	#6A	Hmm, to put it simply...	
-0x9a48	0x98	NOI	#6A	It uses the <Power of Stars>	
+0x9a48	0x98	NOI	#6A	It uses the Power of Stars	
 				in this world.	
 0x9acc	0x06	ALTO		ANI_GESTURE2	
-0x9b1c	0x98	ALTO		The <Power of Stars>,	
+0x9b1c	0x98	ALTO		The Power of Stars,	
 				was it flowing at	
 				Oltapia Temple?	
 0x9b79	0x06	NOI		ANI_GESTURE1	
 0x9ba2	0x98	NOI	#6A	Umm...	
-				The source of the <Power of Stars>	
+				The source of the Power of Stars	
 				is all of existence.	
 0x9c00	0x98	NOI		Not just animals, mind you,	
 				it also dwells in trees, water, wind	
@@ -282,7 +282,7 @@ EV_2_S13_use_astrolabe
 0x9cb3	0x06	ALTO		ANI_THINK	
 0x9d1e	0x98	ALTO		This world is made of...	
 0x9d5e	0x98	NOI		This Astrolabe manipulates	
-				the <Power of Stars> to do things	
+				the Power of Stars to do things	
 				like change the climate...	
 0x9dd2	0x98	NOI	#6A	It can also do things like	
 				know of all life on each continent.	
@@ -307,16 +307,16 @@ EV_2_S13_use_astrolabe
 0xa181	0x06	NOI		ANI_DENY	
 0xa1a6	0x98	NOI	#6A	Y-Yeah, nevermind.	
 0xa1da	0x98	NOI		Anyway, if we take back the	
-				<Master Gears>, we can stop	
+				Master Gears, we can stop	
 				the abnormalities!	
 0xa28d	0x98	ALTO		Then, we want to go the	
-				<Rieseweld> continent as soon	
+				Rieseweld continent as soon	
 				as possible.	
 0xa339	0xBC	ALTO		Surprise	
 0xa377	0x06	ALTO		ANI_GESTURE2	
 0xa3a1	0x98	ALTO		Come to think of it...	
 				Gio is trapped on the	
-				<Oltapia> continent.	
+				Oltapia continent.	
 0xa408	0x98	NOI	#6A	Yeah... Now that we	
 				were able to restore the climate to	
 				normal, we might be able to save him!	
@@ -330,7 +330,7 @@ EV_2_S13_use_astrolabe
 				way I want to go before	
 				we get there.	
 0xa658	0x07	System	#3C	You can now go to the	
-				Abyss Continent, <Rieseweld>.	
+				Abyss Continent, Rieseweld.	
 0xa8e2	0xCE	Objective		Gotta search for Cygna and Zext. Let's team up!	
 0xaa43	0x07	System	#3C	A new function has been	
 				added to the Astrolabe.	
@@ -373,7 +373,7 @@ EV_2_S29_find_creha
 				they certainly are amazing.	
 				Even though the sun is shining outside...	
 0xbc89	0x98	ALTO		(Maybe it projects images	
-				 like the <Star Shards>...)	
+				 like the Star Shards...)	
 0xbcdd	0x98	ALTO		(...Say, isn't it weird that	
 				 this girl doesn't know that?)	
 0xbe6f	0xBC	ALTO		Ellipsis	
@@ -420,7 +420,7 @@ EV_2_S29_find_creha
 EV_3_S05_set_gear_2nd
 0xcf92	0x06	NOI		ANI_TAKE_OUT	
 0xd03b	0x06	komono06		ANI_STOP	
-0xd165	0x40	NOI	#6A	And so, to place the <Master Gear of Water>...	
+0xd165	0x40	NOI	#6A	And so, to place the Master Gear of Water...	
 0xd256	0x06	NOI		ANI_STOP	
 0xd27b	0x06	NOI		ANI_TAKE_OUT_LOOP	
 0xd2b1	0x06	NOI		ANI_ATTACH	
@@ -433,7 +433,7 @@ EV_3_S07_use_astrolabe
 0xe1e6	0x06	ALTO		ANI_GESTURE1	
 0xe210	0x98	ALTO		Noi, I know it's sudden, but...	
 				I want you to search for the herb	
-				<Yupina Grass> for me.	
+				Yupina Grass for me.	
 0xe286	0x98	ALTO		"It is distributed in the high mountain region	
 				 in the north and and has small blue flowers"...	
 				That's what was written in the reference book.	
@@ -449,7 +449,7 @@ EV_3_S07_use_astrolabe
 0xe51d	0x98	ALTO		Hmm, Cygna is my friend.	
 				He's not around now though...	
 0xe589	0x98	ALTO		Zext is the same as you,	
-				one of the <Mythos>, but...	
+				one of the Mythos, but...	
 0xe5f9	0x98	ALTO		...Noi, are you all right?	
 				Because he is the real...	
 0xe654	0x98	NOI	#6A	...I thought about it here	
@@ -468,7 +468,7 @@ EV_3_S07_use_astrolabe
 				important to us!	
 0xe874	0x98	NOI		Yeah!	mp_0001 0x1174e
 0xe8a0	0x98	NOI	#6A	Then, let the search for	
-				<Yupina Grass>, Cygna and	
+				Yupina Grass, Cygna and	
 				Zext begin!	
 0xe942	0x98	Creha		Before you do that...	
 0xe9b4	0x06	ALTO		ANI_GESTURE2	
@@ -482,7 +482,7 @@ EV_3_S07_use_astrolabe
 				since I awakened...	
 0xeb70	0x06	ALTO		ANI_THINK	
 0xeb97	0x98	ALTO		(...Maybe it was her instinct	
-				 to save <Terra>...)	
+				 to save Terra...)	
 0xebe8	0x98	ALTO		(As for that man Zext...	
 				 I wonder if we can expect	
 				 things like this from him.)	
@@ -491,16 +491,16 @@ EV_3_S07_use_astrolabe
 				 Kureha...?)	
 0xecbf	0xBC	NOI		Exclamation	
 0xecfc	0x98	NOI	#6A#16S	──There's a reaction!	
-0xedc3	0x98	NOI	#6A	First the <Yupina Grass>...	
+0xedc3	0x98	NOI	#6A	First the Yupina Grass...	
 0xee00	0x98	NOI	#6A	It lives on the	
-				<Heimmel> continent	
+				Heimmel continent	
 				northeast of here!	
 0xee5e	0x06	ALTO		ANI_SURPRISE_WEAK	
 0xee8d	0xBC	ALTO		Exclamation	
 0xeecb	0x06	ALTO		ANI_COMPLAIN	
 0xeef5	0x98	ALTO		S-Seriously!?	
 0xef22	0x98	ALTO		As I thought, it still	
-				existed on <Terra>...	
+				existed on Terra...	
 0xef6d	0x98	ALTO		If we have that, then	
 				we can give it to my	
 				sister, and...!	
@@ -519,11 +519,11 @@ EV_3_S07_use_astrolabe
 0xf4b3	0x98	ALTO	#6A	For now, with this	
 				we've determined their destination.	
 0xf543	0x06	NOI		ANI_GUTSPOSE	
-0xf56c	0x98	NOI	#6A	The Sacred Mountain Continent <Heimmel>.	
-				The <Yupina Grass>, Cygna and Zext too.	
+0xf56c	0x98	NOI	#6A	The Sacred Mountain Continent Heimmel.	
+				The Yupina Grass, Cygna and Zext too.	
 				Everything is there!	
 0xf5f1	0x98	NOI	#6A	Not to mention, now that the season	
-				of <Rieseweld> has changed back to	
+				of Rieseweld has changed back to	
 				how it originally was...	
 0xf678	0x98	ALTO	#6A	It seems we can save	
 				Elislette, who is there.	
@@ -556,13 +556,13 @@ EV_3_S07_use_astrolabe
 0xfc0a	0x98	NOI	#6A	We'll be back, Master Kureha!	
 0xfd6c	0x98	Creha	#0W	...............	mp_0001 0xc917
 0xfe17	0x07	System	#3C	You can now go to the	
-				Sacred Mountain Continent, <Heimmel>.	
+				Sacred Mountain Continent, Heimmel.	
 0xfe84	0x07	System	#3C	"Winter" of Abyss Continent	
-				<Rieseweld> has been unlocked.	
+				Rieseweld has been unlocked.	
 0xff08	0x07	System	#3C	"Autumn" of Abyss Continent	
-				<Rieseweld> has been unlocked.	
+				Rieseweld has been unlocked.	
 0x1000c	0x07	System	#3C	"Spring" of Abyss Continent	
-				<Rieseweld> has been unlocked.	
+				Rieseweld has been unlocked.	
 0x101ca	0xCE	Objective		Yupina Grass is on the mountain continent. Let's go, Nayuta!	
 SB_3_S25_alto_move
 SB_3_S25_noi_move
@@ -608,7 +608,7 @@ EV_3_S25_invite_creha
 				 has some interest in it, maybe?)	
 0x10f8a	0x06	NOI		ANI_GUTSPOSE	
 0x10fb3	0x98	NOI	#6A	Then, let's all go to	
-				<Remnant Island>!	
+				Remnant Island!	
 EV_3_S18_set_gear_3rd
 0x11539	0x06	NOI		ANI_TAKE_OUT	
 0x115e2	0x06	komono05		ANI_STOP	
@@ -618,9 +618,9 @@ EV_3_S18_set_gear_3rd
 0x119ec	0x06	NOI		ANI_OPERATION	
 EV_3_S20_go_mountain
 0x121eb	0x06	NOI		ANI_OPERATION	
-0x12594	0x98	NOI	#6A	With this, the climate of <Heimmel>	
+0x12594	0x98	NOI	#6A	With this, the climate of Heimmel	
 				is restored!	
-0x125e5	0x98	Creha		Has the plant called <Yupina Grass>	
+0x125e5	0x98	Creha		Has the plant called Yupina Grass	
 				also been restored?	
 0x12644	0x98	ALTO		...We've got to go confirm that!	
 0x127c9	0x98	NOI	#6A	Ah...Wait, Nayuta!	
@@ -636,7 +636,7 @@ EV_4_S01_use_astrolabe
 0x13311	0xBC	NOI		Exclamation	
 0x1334e	0x98	NOI	#6A#16S	There's a reaction!	
 0x13387	0x98	NOI	#6A	It is southeast from here,	
-				the Origin Continent <La Worg>...	
+				the Origin Continent La Worg...	
 0x133e4	0x98	NOI	#6A	It looks like Cygna...	
 				and Zext are there!	
 0x13437	0x98	ALTO		It's finally the fourth continent, huh...	
@@ -652,9 +652,9 @@ EV_4_S01_use_astrolabe
 				all we can do is chase them.	
 0x1362f	0x98	ALTO		On the other hand,	
 				if we somehow recover the fourth	
-				<Master Gear>, then...	
+				Master Gear, then...	
 0x136b4	0x98	NOI	#6A	Yeah...	
-				The <Astrolabe>'s functions	
+				The Astrolabe's functions	
 				will be completely restored!	
 0x13714	0x98	NOI	#6A	If we do that, then the temples	
 				that were stopped up until now	
@@ -670,9 +670,9 @@ EV_4_S01_use_astrolabe
 0x13c5b	0x06	NOI		ANI_GESTURE1	
 0x13c84	0x98	NOI	#6A	That's right, Nayuta.	
 				We've become able to go to	
-				<La Worg> for the time being, but...	
+				La Worg for the time being, but...	
 0x13cf9	0x98	NOI	#6A	First, it might be good to	
-				go to <Heimmel>.	
+				go to Heimmel.	
 0x13d45	0x98	NOI	#6A	We might be able to free	
 				the captured Algol soon.	
 0x13d9f	0x06	ALTO		ANI_NOD	
@@ -685,37 +685,37 @@ EV_4_S01_use_astrolabe
 0x13eab	0x06	NOI		ANI_NOD	
 0x13ecf	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
 0x13f7a	0x07	System	#3C	You have become able to go to the	
-				Origin Continent, <La Worg>.	
-0x13fea	0x07	System	#3C	"Autumn" of Sacred Mountain Continent <Heimmel>	
+				Origin Continent, La Worg.	
+0x13fea	0x07	System	#3C	"Autumn" of Sacred Mountain Continent Heimmel	
 				has been unlocked.	
-0x14076	0x07	System	#3C	"Spring" of Sacred Mountain Continent <Heimmel>	
+0x14076	0x07	System	#3C	"Spring" of Sacred Mountain Continent Heimmel	
 				has been unlocked.	
-0x14182	0x07	System	#3C	"Summer" of Sacred Mountain Continent <Heimmel>	
+0x14182	0x07	System	#3C	"Summer" of Sacred Mountain Continent Heimmel	
 				has been unlocked.	
 0x1445b	0xCE	Objective		Abnormalities remain on the mountain. Let's go save Algol!	
 EV_8_S08_emergency_al
 0x147bd	0x3F	Name		Voice	mp_0000d 0x4c24
-0x147ca	0x41	None	#0W#995c#1E	──After <Terra> separated	
+0x147ca	0x41	None	#0W#995c#1E	──After Terra separated	
 				from the surface a year ago...#0E	
-0x14863	0x41	None	#0W#995c#1E	The two <Mythos>	
+0x14863	0x41	None	#0W#995c#1E	The two Mythos	
 				immediately set about repairing	
 				the Astrolabe.#0E	
 0x14930	0x41	None	#0W#995c#1E	Though the repair took much	
-				time, those two, manipulating the <Power of	
-				Stars>, proceeded steadily.#0E	
+				time, those two, manipulating the Power of	
+				Stars, proceeded steadily.#0E	
 0x149f1	0x41	None	#0W#995c#1E	The effect was that one part	
 				of the functionality was restored, but...#0E	
 0x14a96	0x41	None	#0W#995c#1E	At that time, a problem happened.#0E	
 0x14db2	0x41	None	#0W#995c#1E	For reasons unknown, abnormalities	
 				were caused by the Astrolabe.#0E	
-0x14e51	0x41	None	#0W#995c#1E	The same as when the <Master Gears>	
+0x14e51	0x41	None	#0W#995c#1E	The same as when the Master Gears	
 				were once lost, many abnormalities started	
 				to occur.#0E	
 0x1507d	0x06	Creha2		ANI_NOD	
 0x152d2	0x41	None	#0W#995c#1E	The two used the technology	
-				of the <Mythos> to stop the abnormalities.#0E	
+				of the Mythos to stop the abnormalities.#0E	
 0x15377	0x41	None	#0W#995c#1E	Inside the Astrolabe,	
-				with great <Power of Stars>	
+				with great Power of Stars	
 				they formed a hyperspace...#0E	
 0x15422	0x41	None	#0W#995c#1E	In that "Inner World"	
 				they put their own souls.#0E	
@@ -741,7 +741,7 @@ EV_8_S08_emergency_al
 0x15f59	0x41	None	#0W#995c#1E	No matter the fate, a manifestation	
 				with the same abilities as before will appear.#0E	
 0x1600a	0x41	None	#0W#995c#1E	That is a strange detail of	
-				<Terra> now.──#0E	
+				Terra now.──#0E	
 EV_8_S10_in_astrolabe
 0x16272	0x98	ALTO		(I need to go alone into the	
 				 "Inner World" of the Astrolabe.)	
@@ -826,7 +826,7 @@ EV_8_S17_happy_end
 0x18f1f	0x98	Creha2		I am sure the chaotic climate	
 				has also been restored.	
 0x18f7d	0x06	Signa2		ANI_GESTURE2	
-0x18fa9	0x98	Signa2		With this, the abnormalities in <Terra>	
+0x18fa9	0x98	Signa2		With this, the abnormalities in Terra	
 				should be settled immediately.	
 0x19030	0x98	Signa2		Thanks to you, Nayuta.	
 				I thank you.	
@@ -853,7 +853,7 @@ EV_8_S17_happy_end
 0x19645	0x06	Signa2		ANI_GESTURE2	
 0x19671	0x98	Signa2		I am Cygna...	
 				Together with Kureha here,	
-				we are the <Mythos>.	
+				we are the Mythos.	
 0x196d6	0x06	Creha2		ANI_TALK	
 0x196fe	0x98	Creha2		Nice to meet you, Noi.	
 				And, thank you for saving us.	
@@ -863,7 +863,7 @@ EV_8_S17_happy_end
 0x197d9	0x98	NOI	#0W#6A	U-Umm, that's not true...	
 0x1984b	0x41	None	#0W#995c#1E	That it seems you have awakened	
 				is the most important thing,	
-				<Mythos>...#0E	
+				Mythos...#0E	
 0x198f1	0x41	None	#0W#995c#1E	And, child of the surface and warden.#0E	
 0x199a2	0x6B	ALTO		Exclamation	
 0x199cc	0x6B	NOI		Exclamation	
@@ -890,9 +890,9 @@ EV_8_S17_happy_end
 0x19fc2	0x6B	Creha2		Question	
 0x19fee	0x6B	Signa2		Ellipsis	
 0x1a078	0x98	Signa2		...I see.	mp_0004c 0x4434
-0x1a0a3	0x98	Signa2		Outside of us <Mythos>, the only	
+0x1a0a3	0x98	Signa2		Outside of us Mythos, the only	
 				existence that could come here is...	
-0x1a151	0x98	Signa2		──<Planetarium>...It's you, isn't it?	
+0x1a151	0x98	Signa2		──Planetarium...It's you, isn't it?	
 0x1a1d8	0x98	ALTO		Huh!?	
 0x1a514	0x6B	ALTO		Exclamation	
 0x1a546	0x6B	NOI		Exclamation	
@@ -984,7 +984,7 @@ EV_8_S17_happy_end
 				That's amazing!	
 0x1b9ed	0x06	Signa2		ANI_NOD	
 0x1ba22	0x98	Signa2	#1W#6A	Well, as expected	
-				from the <Planetarium>...	
+				from the Planetarium...	
 0x1bb83	0x98	NOI	#2W#6A	...Truly, thank you...	
 0x1bc2a	0x06	NOI		ANI_WIPE_TEAR	
 0x1bc54	0x98	NOI	#2W#6A	...*cry*...	
@@ -1004,7 +1004,7 @@ EV_8_S17_happy_end
 				all see each other to come this	
 				soon, huh.	
 0x1c375	0x06	NOI		ANI_WIPE_TEAR	
-0x1c3ad	0x98	Signa2	#1W#6A	<Planetarium>, I can't	
+0x1c3ad	0x98	Signa2	#1W#6A	Planetarium, I can't	
 				say thanks enough to you.	
 0x1c41a	0x98	Zext	#1W	...Though I said it awhile ago,	
 				I simply ended the	
@@ -1022,7 +1022,7 @@ EV_8_S17_happy_end
 				I must pass down to you.	
 0x1c6e6	0x98	Zext	#1W	For making an appearance.	
 0x1c738	0x98	ALTO	#0W#6A	Something you have to tell us?	
-0x1c792	0x98	Zext	#1W	──<Terra> has separated from the	
+0x1c792	0x98	Zext	#1W	──Terra has separated from the	
 				surface, and has started a journey	
 				to the ocean of stars.	
 0x1c81d	0x98	Zext	#1W	Very soon, the transfer gate links	
@@ -1044,13 +1044,13 @@ EV_8_S17_happy_end
 0x1cbaf	0x98	Zext	#2W	No matter where you go,	
 				I will not stop you.	
 0x1cc29	0x98	NOI	#1W#6A	Eh...	
-0x1cda9	0x98	Zext	#2W	One year ago, <Terra> lost its	
-				<Remaking> role.	
+0x1cda9	0x98	Zext	#2W	One year ago, Terra lost its	
+				Remaking role.	
 0x1ce08	0x98	Zext	#2W	And, because the Astrolabe	
 				has stopped, life on Terra has	
 				started to separate from management.	
 0x1ce95	0x98	Zext	#2W	The meaning of that is,	
-				the <Mythos> and <Warden>	
+				the Mythos and Warden	
 				are no longer needed.	
 0x1cf05	0x6B	ALTO		Surprise	
 0x1cf37	0x6B	NOI		Surprise	
@@ -1058,7 +1058,7 @@ EV_8_S17_happy_end
 0x1cf9c	0x6B	Signa2		Surprise	
 0x1cfde	0x06	NOI		ANI_GESTURE1	
 0x1d007	0x98	NOI	#1W#6A	That means...!	
-0x1d050	0x98	Zext	#1W	Already, <Terra> has	
+0x1d050	0x98	Zext	#1W	Already, Terra has	
 				started to separate from the surface.	
 				You cannot delay your decision.	
 0x1d0e1	0x98	Zext	#0W	...The ones to decide will be you all.	
@@ -1086,7 +1086,7 @@ EV_8_S17_happy_end
 0x1d946	0x98	ALTO	#3W	Cygna!	
 0x1da86	0x98	Zext	#1W	...If you pass through the transfer gate,	
 				it means you will separate from	
-				<Terra> forever.	
+				Terra forever.	
 0x1db72	0x98	Zext	#2W	Farewell, Mythos.	
 				And...child of the surface.	
 0x1dcc9	0x06	NOI		ANI_NOD	
@@ -1129,7 +1129,7 @@ EV_4_S26_set_gear_4th
 0x1f9a6	0x06	komono08		ANI_STOP	
 0x1faa1	0x06	NOI		ANI_STOP	
 0x1fac6	0x06	NOI		ANI_TAKE_OUT_LOOP	
-0x1fb60	0x40	NOI		With this, the <Astrolabe> is completely restored!	
+0x1fb60	0x40	NOI		With this, the Astrolabe is completely restored!	
 0x1fbb1	0x40	NOI		We've got to hurry!	
 0x1fc5f	0x06	NOI		ANI_ATTACH	
 0x1ff13	0x06	NOI		ANI_OPERATION	
@@ -1144,11 +1144,11 @@ EV_4_S26_set_gear_4th
 0x20888	0x98	Signa	#6A	...It's because all of the	
 				temples were stopped, probably.	
 0x208e5	0x98	Signa	#6A	Probably...	
-				The <Power of Stars> or whatever	
+				The Power of Stars or whatever	
 				everywhere is in chaos, isn't it?	
 0x2095d	0x98	NOI	#0W	T-That might be true, but...	
 0x2099b	0x98	NOI		To not be able to operate	
-				the restored <Astrolabe> is...!!	
+				the restored Astrolabe is...!!	
 0x20a19	0x98	ALTO	#0W#6A	Tch...	
 				Just what should we do...	
 0x20a66	0x6B	ALTO		Surprise	
@@ -1156,11 +1156,11 @@ EV_4_S26_set_gear_4th
 0x20b06	0x06	ALTO		ANI_GESTURE2	
 0x20b30	0x98	ALTO	#6A	...That's right!	
 				How about borrowing Kureha's power!?	
-0x20b87	0x98	ALTO	#6A	Like that time in <Rieseweld>...	
+0x20b87	0x98	ALTO	#6A	Like that time in Rieseweld...	
 				She might be able to do something!	
 0x20bff	0xBC	NOI		Exclamation	
 0x20c51	0x98	NOI		T-That's right...	
-				If we had the powers of the <Mythos>!	
+				If we had the powers of the Mythos!	
 0x20cc5	0x98	Signa	#6A	The one called Kureha is the	
 				one who was sleeping there, huh.	
 				...Where is she now?	

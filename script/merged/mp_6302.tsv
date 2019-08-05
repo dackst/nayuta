@@ -1,7 +1,7 @@
 mp_6302
 init
 talk_Nemeas
-0x71f	0x98	Nemeas		The <Mythos> have	
+0x71f	0x98	Nemeas		The Mythos have	
 				"Ancient Memories" that	
 				were not given to Noi.	
 0x77f	0x98	Nemeas		Because of that, as for	
@@ -31,10 +31,10 @@ EV_6_S22_in_bossmap4
 				of the "Pillar"...	
 0x17e0	0x98	ALTO	#6A	It certainly is the	mp_6300 0x192c
 				place that supplies the	
-				continent with <Power of Stars>.	
+				continent with Power of Stars.	
 0x1885	0x98	NOI		Yeah, exactly right.	mp_6300 0x19d1
 0x18b8	0x06	NOI		ANI_GESTURE2	
-0x18e1	0x98	NOI		The <Stellagear> should be	mp_6300 0x1a2d
+0x18e1	0x98	NOI		The Stellagear should be	mp_6300 0x1a2d
 				installed in the center of	
 				this place.	
 0x1947	0x06	ALTO		ANI_JOY	
@@ -48,7 +48,7 @@ EV_6_S29_hituzi_boss
 0x23fd	0x06	Nemeas		ANI_NOD	
 0x2424	0x98	Nemeas		Nayuta, and Noi too.	mp_6301 0x2b24
 0x247a	0x98	Nemeas		I cannot give you	
-				the <Stellagear>.	
+				the Stellagear.	
 0x24be	0x06	Nemeas		ANI_GESTURE2	
 0x250a	0x98	Nemeas		Please leave immediately.	
 0x256d	0x6B	ALTO		Exclamation	
@@ -58,13 +58,13 @@ EV_6_S29_hituzi_boss
 0x2672	0x06	NOI		ANI_GESTURE1	
 0x269b	0x98	NOI	#6A	I-It can't be!!	mp_6301 0x2cff
 0x273b	0x98	Nemeas		...I learned the truth.	
-0x27b4	0x98	Nemeas		The mission of the <Mythos>...	mp_6300 0x2b5b
+0x27b4	0x98	Nemeas		The mission of the Mythos...	mp_6300 0x2b5b
 				And the true reason for the	
-				existence of <Terra>.	
+				existence of Terra.	
 0x284c	0x06	Nemeas		ANI_GESTURE1	
-0x2898	0x98	Nemeas		As a <Warden> of the continents,	mp_6300 0x2c43
+0x2898	0x98	Nemeas		As a Warden of the continents,	mp_6300 0x2c43
 				I cannot allow you to interfere in	
-				the <Remaking> of Master Kureha and the others.	
+				the Remaking of Master Kureha and the others.	
 0x2953	0x06	NOI		ANI_COMPLAIN	
 0x297c	0x98	NOI	#6A	...What do you mean, Nemeas!?	
 0x29f2	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f
@@ -78,13 +78,13 @@ EV_6_S29_hituzi_boss
 0x2ba4	0x06	Nemeas		ANI_DENY	
 0x2bcc	0x98	Nemeas		...That is naive, isn't it.	
 0x2c09	0x98	Nemeas		If you think you will stop	
-				the <Mythos>' mission	
+				the Mythos' mission	
 				with that attitude...	
 0x2cb7	0x98	Nemeas		I all can say is,	
 				how shallow!	
 0x2d08	0x06	Nemeas		ANI_DENY	
 0x2d30	0x98	Nemeas		I cannot give you	mp_6302 0x247a
-				the <Stellagear>.	
+				the Stellagear.	
 0x2d74	0x06	Nemeas		ANI_GESTURE2	
 0x2da0	0x98	Nemeas		Please, leave	
 				as you are.	
@@ -92,7 +92,7 @@ EV_6_S29_hituzi_boss
 0x2e0b	0x98	NOI	#6A	No way...	
 				Nemeas, you too!?	
 0x2e86	0x98	Nemeas		I am terribly sorry, Noi.	
-0x2f09	0x98	Nemeas		However, as I am a <Warden>...	
+0x2f09	0x98	Nemeas		However, as I am a Warden...	
 				It cannot be helped.	
 0x2fd5	0x98	Nemeas		...As much as possible, I	
 				do not wish to fight you two.	
@@ -109,9 +109,9 @@ EV_6_S29_hituzi_boss
 0x3297	0x98	Nemeas		Then──!	
 0x3311	0x06	Nemeas		ANI_WAIT	
 0x3447	0x06	Nemeas		ANI_USE_POWER	
-0x3630	0x98	Nemeas	#2W#240x#0y	I, <Sage> Nemeas,	
+0x3630	0x98	Nemeas	#2W#240x#0y	I, Sage Nemeas,	
 				though conflict is not my specialty...	
-0x36aa	0x98	Nemeas	#1W#240x#0y	For the mission of the <Mythos>,	
+0x36aa	0x98	Nemeas	#1W#240x#0y	For the mission of the Mythos,	
 				I will challenge you with my full power!	
 0x3acd	0x06	b008		ANI_DEMO1	
 0x3f95	0x06	NOI		ANI_GESTURE1	
@@ -132,11 +132,11 @@ EV_6_S30_bye_nemeas
 0x4c85	0x98	Nemeas		As for you two...	
 0x4cc0	0x06	Nemeas		ANI_GESTURE2	
 0x4d0c	0x98	Nemeas		Have you thought about the reason	
-				the <Mythos> will go so far for	
+				the Mythos will go so far for	
 				their mission?	
 0x4da4	0x6B	ALTO		Question	
 0x4dd6	0x6B	NOI		Question	
-0x4ebe	0x98	Nemeas		The <Mythos> have	mp_6302 0x71f
+0x4ebe	0x98	Nemeas		The Mythos have	mp_6302 0x71f
 				"Ancient Memories" that	
 				were not given to Noi.	
 0x4f5e	0x98	Nemeas		Because of that, as for	
@@ -157,7 +157,7 @@ EV_6_S30_bye_nemeas
 0x52db	0x98	Nemeas		Huhu...It seems that was	
 				a foolish question.	
 0x5b00	0x06	NOI		ANI_TAKE_OUT	
-0x5bde	0x40	NOI		The <Crimson Stellagear>!	
+0x5bde	0x40	NOI		The Crimson Stellagear!	
 0x5c1e	0x40	Nemeas		Please, take it.	
 				You are qualified.	
 0x5cc6	0xC1	System		obtained.	mp_0000 0x7558
@@ -173,8 +173,8 @@ EV_6_S30_bye_nemeas
 0x6133	0x98	ALTO	#6A	Yes!	mp_0001 0xfd91
 0x6226	0x06	NOI		ANI_GESTURE2	
 0x624f	0x98	NOI	#6A	Anyway with this, we've	mp_6300 0x63a4
-				gathered all of the <Stellagears>!	
-0x62b2	0x98	ALTO		Let's go to the <Astrolabe>...	mp_6300 0x6434
+				gathered all of the Stellagears!	
+0x62b2	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
 				and chase after Kureha and the others!	
 SB_6_S31_turn_Gio
 SB_6_S31_turn_Erislet
@@ -186,7 +186,7 @@ SB_6_S31_exit_Algorl
 SB_6_S31_exit_Nemeas
 EV_6_S31_4gear_get
 0x6fbe	0x40	UNDEF		After that, Nayuta and Noi hurried	
-				to the <Garden> with the four	
+				to the Garden with the four	
 				Stellagears they had gathered.	
 0x711e	0x98	Nemeas	#1W	...............	mp_0001 0xc917
 0x71a2	0x41	None	#1W#2E#310c	──It seems they have gone.#0E	

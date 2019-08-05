@@ -129,7 +129,7 @@ EV_6_S13_talk_aulbath
 				It might be impossible to do quickly,	
 				but...	
 0x3b0a	0x98	ALTO	#1W#6A	I will definitely find a way	
-				to go to <Terra>.	
+				to go to Terra.	
 0x3b65	0x06	ALTO		ANI_JOY	
 0x3b98	0x98	ALTO	#1W#6A	Then, this time for sure,	
 				I'll defeat Zext. I'll show you I can	
@@ -137,7 +137,7 @@ EV_6_S13_talk_aulbath
 0x3c1a	0x06	NOI		ANI_GESTURE1	
 0x3c51	0x98	NOI	#1W	I feel the same!	
 0x3c8b	0x06	NOI		ANI_GUTSPOSE	
-0x3cc2	0x98	NOI	#1W	For <Terra>...	
+0x3cc2	0x98	NOI	#1W	For Terra...	
 				And, for this surface world too!	
 0x3d1a	0x06	Aulbath		ANI_NOD	
 0x3d50	0x98	Aulbath	#2W	...Huhu, very well.	
@@ -159,7 +159,7 @@ EV_6_S13_talk_aulbath
 0x4820	0x98	NOI	#1W#6A	A-A transfer gate!!	
 0x49d6	0x98	NOI		...This is just like the one	
 				at the main entrance of the	
-				<Garden>!	
+				Garden!	
 0x4bd8	0x06	NOI		ANI_GESTURE1	
 0x4c01	0x98	NOI		If I have this, with my power,	
 				I should be able to connect it!	
@@ -193,7 +193,7 @@ EV_6_S13_talk_aulbath
 				I decided to peer through the gate.	
 0x535d	0x40	Aulbath	#0W	...What was there,	
 				was an exceedingly beautiful world.	
-0x53b8	0x40	Aulbath	#0W	It was like the world of <Lost Heaven>	
+0x53b8	0x40	Aulbath	#0W	It was like the world of Lost Heaven	
 				that you can see through the Star Shards...	
 				I had a hunch that it was that very place.	
 0x5459	0x40	Aulbath	#0W	However, I...	
@@ -213,7 +213,7 @@ EV_6_S13_talk_aulbath
 0x587d	0x06	ALTO		ANI_NOD	
 0x58a2	0x98	ALTO	#0W	So that's what happened...	mp_0101 0x8b6b
 0x5935	0x98	Aulbath	#6A	...Nayuta.	
-				Cygna was originally from <Terra>.	
+				Cygna was originally from Terra.	
 0x5987	0x98	Aulbath	#6A	Now that he has regained his	
 				memories, to him, that must	
 				seem correct.	
@@ -254,7 +254,7 @@ EV_6_S13_talk_aulbath
 0x61d9	0x40	UNDEF		Nayuta and Noi decided to return	
 				to Herschel House for now.	
 0x6234	0x40	UNDEF		They explained the situation to Eartha, and told her	
-				they were once again heading for <Terra>.	
+				they were once again heading for Terra.	
 SB_6_S15_warp_ALTO
 SB_6_S15_warp_NOI
 EV_6_S15_repair_warp
@@ -264,7 +264,7 @@ EV_6_S15_repair_warp
 0x6dcf	0x98	Aulbath	#6A	...Hmm, it seems it connected.	
 0x6e4b	0x06	NOI		ANI_JOY	
 0x6e6f	0x98	NOI		With this, we can again	
-				go to <Terra>!	
+				go to Terra!	
 0x6eb3	0x06	NOI		ANI_WAIT	
 0x6f10	0x06	ALTO		ANI_GESTURE2	
 0x6f3a	0x98	ALTO	#6A	From here on, I don't	

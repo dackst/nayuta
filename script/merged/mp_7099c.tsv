@@ -17,7 +17,7 @@ EV_7_S14_battle_zext
 0x111d	0x98	Zext		Kureha, Selam...	
 				My foolish children.	
 0x1161	0x98	Zext		Again and again, they forgot	
-				the mission of the <Mythos>.	
+				the mission of the Mythos.	
 0x120d	0x98	Zext		...Now, you should	
 				simply watch from there.	
 0x1257	0x98	Zext		The end of everything...	
@@ -31,13 +31,13 @@ EV_7_S14_battle_zext
 				Even so, you call yourself a father!?	
 0x1744	0x98	Zext		...Human child.	
 				That is a foolish question.	
-0x178e	0x98	Zext		The <Mythos> are a race of gods...	
+0x178e	0x98	Zext		The Mythos are a race of gods...	
 				The fathers of all life, so to speak.	
 0x17fd	0x98	Zext		For my mischievous children, it is	
 				my natural duty to give them	
 				a fitting punishment.	
 0x1870	0x98	Zext		On this occasion,	
-				the <Remaking> will be so──	
+				the Remaking will be so──	
 0x18c6	0x06	NOI		ANI_ANGRYTALK	
 0x1904	0x98	NOI	#16S	...D-Don't joke around!	
 0x1946	0x98	ALTO	#6A	...Kureha showed us the	
@@ -45,12 +45,12 @@ EV_7_S14_battle_zext
 0x1993	0x98	ALTO	#6A	Therein, you should have breathed	
 				your last breath...	
 0x19f2	0x98	ALTO	#6A	...Why have you once again	
-				appeared on <Terra>?	
+				appeared on Terra?	
 0x1a57	0x98	ALTO	#16S#6A	Why have you, who seemed kind,	
 				become like this!?	
 0x1c46	0x98	Zext	#1W	...............	mp_0001 0xc917
-0x1c78	0x98	Zext		...When we <Mythos> lose our lives,	
-				we melt into the <Power of Stars> at	
+0x1c78	0x98	Zext		...When we Mythos lose our lives,	
+				we melt into the Power of Stars at	
 				the same time.	
 0x1ced	0x98	Zext		That is to say...	
 				We are absorbed into	
@@ -80,7 +80,7 @@ EV_7_S14_battle_zext
 				the surface cannot be avoided...	
 0x2204	0x98	Zext		When I understood that,	
 				I once again went down	
-				to <Terra>.	
+				to Terra.	
 0x2264	0x98	NOI	#0W#200x#270y	H-How in the world!?	
 0x22ac	0x06	Zext		ANI_DENY	
 0x231e	0x98	Zext		...I myself do not know the cause.	
@@ -92,14 +92,14 @@ EV_7_S14_battle_zext
 0x2495	0x98	Zext	#16S	That is precisely why...	
 				#16SI must carry out the plan!!	
 0x2818	0x98	ALTO	#6A	W-What is that!?	mp_0002d 0x627c
-0x2853	0x98	NOI		The <Planetarium> terminal	
+0x2853	0x98	NOI		The Planetarium terminal	
 				has activated!	
 0x2978	0x06	Zext		ANI_POINT	
 0x29d1	0x98	Zext	#0W#6A	This time for sure,	
 				I will take it back.	
 0x2a2c	0x98	Zext	#4A	The world where once,	
 				a multitude of life forms prospered!!	
-0x2a9f	0x98	Zext	#2W#6A#18S	──<Remaking>, start!!	
+0x2a9f	0x98	Zext	#2W#6A#18S	──Remaking, start!!	
 0x2cb1	0x06	Zext		ANI_WAIT	
 0x2d33	0x06	ALTO		ANI_TENSION_WAIT	
 0x2df5	0x06	NOI		ANI_WORRIED	
@@ -110,9 +110,9 @@ EV_7_S14_battle_zext
 0x2f00	0x06	NOI		ANI_WAIT	
 0x2f25	0x98	ALTO	#6A	Wedge...!?	
 0x2f90	0x98	Zext	#140x#120y	Yes, by this,	
-				<Terra> and the surface will be	
+				Terra and the surface will be	
 				deeply tied together...	
-0x2ffd	0x98	Zext	#140x#120y	After that, the <Planetarium>	
+0x2ffd	0x98	Zext	#140x#120y	After that, the Planetarium	
 				will descend to the surface and the	
 				plan will be complete.	
 0x30c9	0x98	Zext	#140x#120y	The trifling history created by the	
@@ -132,11 +132,11 @@ EV_7_S14_battle_zext
 0x33c9	0x06	NOI		ANI_COMPLAIN	
 0x33f2	0x98	NOI	#6A	Zext...Reconsider!	
 0x3426	0x98	NOI	#6A	There must be some method other	
-				than <Remaking>!	
+				than Remaking!	
 0x348b	0x98	NOI	#6A	If it is you who cared for	
 				Masters Kureha and Selam...	
 				You should know that already!	
-0x352d	0x98	Zext	#140x#120y	A method other than <Remaking>?	
+0x352d	0x98	Zext	#140x#120y	A method other than Remaking?	
 0x35ba	0x06	Zext		ANI_DENY	
 0x35e8	0x98	Zext	#140x#120y	That is simply a pretext	
 				to delay the problem!	
@@ -165,9 +165,9 @@ EV_7_S14_battle_zext
 0x4050	0x98	Zext	#1W	Also, to prevent repeating the mistakes	
 				of the past, I will erase those sinful humans.	
 0x40d6	0x98	Zext	#1W	Together with the humans,	
-				the foolish <Wardens> are also criminals...	
+				the foolish Wardens are also criminals...	
 0x41a7	0x98	Zext	#2W	I, Zext Ji Quarius Dominador,	
-				of the <Mythos>...	
+				of the Mythos...	
 0x4245	0x06	Zext		ANI_ATK8	
 0x42e7	0x98	Zext	#2W#16S	With this body,	
 				#16Swill judge you two!!	
@@ -182,7 +182,7 @@ EV_7_S15_last_battle
 0x4e61	0x06	Creha		ANI_STONE	
 0x4f05	0x98	Zext	#2W	...Impossible!!	
 0x4f37	0x98	Zext	#1W	That I would lose...to a human...	
-				and a <Warden>...!!	
+				and a Warden...!!	
 0x4f96	0x98	ALTO	#1W	*pant, pant*...	
 0x4fd0	0x98	NOI	#1W#6A	Alright...we won!!	
 0x5115	0x98	Zext	#2W	...Guh....	
@@ -192,7 +192,7 @@ EV_7_S15_last_battle
 0x5a9b	0x06	ALTO		ANI_SIT6	
 0x5b86	0x98	Creha	#0W	...Nayu...ta..., ...Noi...?	
 0x5bcd	0x06	NOI		ANI_GOODIDEA	
-0x5bf6	0x98	NOI	#N	The <Power of Stars> stolen	
+0x5bf6	0x98	NOI	#N	The Power of Stars stolen	
 				by Zext is returning!!	
 0x5c6f	0x98	Creha	#1W	...Right...As expected,	
 				you two saved me...	
@@ -207,11 +207,11 @@ EV_7_S15_last_battle
 0x6067	0x98	ALTO	#6A	This battle has	
 				no meaning.	
 0x60a4	0x98	ALTO	#6A	You too can search for	
-				a path other than <Remaking>,	
+				a path other than Remaking,	
 				together with us and everyone.	
 0x6196	0x98	Zext	#18S	──Quiet!!	
 0x61cd	0x98	Zext	#1W	I must...I must fulfill	
-				the mission of the <Mythos>!	
+				the mission of the Mythos!	
 0x6223	0x98	Zext	#0W	To save the surface	
 				that is being destroyed!!	
 0x63d5	0x06	NOI		ANI_SURPRISE	
@@ -242,24 +242,24 @@ EV_7_S15_last_battle
 				Master Kureha, possibly...	
 0x703e	0xBC	Creha		Ellipsis	
 0x707d	0x98	Creha	#0W#6A	His original form was...	
-0x7125	0x98	Creha	#0W#6A	──The idol of the <Planetarium>.	
+0x7125	0x98	Creha	#0W#6A	──The idol of the Planetarium.	
 0x71c5	0x3F	Name		Zext	mp_7099c 0x69d5
 0x71d1	0x98	ZextRobo	#0x#250y#16S#6A	！！！！	mp_0100a 0xda21
 0x721c	0x98	ALTO		An idol!?	
 0x724d	0x98	ZextRobo	#0W#0x#250y#6A	...What foolish things are you saying..	
-				#0WI am the real head of the <Mythos>!!	
+				#0WI am the real head of the Mythos!!	
 0x72cd	0x98	ZextRobo	#0x#250y#6A	My daughter, you should	
 				understand that better than anyone!	
 0x738c	0x98	Creha	#6A	...After our father died...	
-				The <Planetarium> took in his	
+				The Planetarium took in his	
 				form and memories.	
 0x73fa	0x98	Creha	#6A	It materialized them	
-				as an <Idol>...	
+				as an Idol...	
 0x7449	0x98	Creha	#6A	For a long time, it protected	
 				us as a substitute father.	
 0x74ac	0x98	ZextRobo	#3W#0x#250y#6A	......!!	mp_5098 0x4e28
 0x7534	0x98	Creha	#6A	For abandoning the mission	
-				of the <Mythos> too, you forgave us...	
+				of the Mythos too, you forgave us...	
 0x75a0	0x98	Creha	#6A	And, after we had decided to sleep,	
 				you watched over Terra and the surface...	
 0x7618	0x98	NOI	#0W#6A	I-I didn't know...	
@@ -275,9 +275,9 @@ EV_7_S15_last_battle
 				you came to think of yourself	
 				as the real Zext.	
 0x7a11	0x98	Creha	#6A	However...	
-				It was the <Remaking> mission	
+				It was the Remaking mission	
 				only that you could not forget.	
-0x7a83	0x98	Creha	#6A	As the <Planetarium>, you were	
+0x7a83	0x98	Creha	#6A	As the Planetarium, you were	
 				created for that purpose...	
 0x7b0a	0x98	ZextRobo	#1W	...Tch...!	mp_0110 0x31601
 0x7b43	0x98	Creha	#6A	After that, for the sake of the mission,	
@@ -295,7 +295,7 @@ EV_7_S15_last_battle
 0x7d43	0x98	ALTO	#6A	That...	
 				So that is how Cygna and I	
 				got involved...	
-0x7dd6	0x98	NOI	#0W#6A	An <Idol> going crazy	
+0x7dd6	0x98	NOI	#0W#6A	An Idol going crazy	
 				for a weighty mission...	
 0x7e28	0x98	NOI	#0W#6A	Though I too, am in	
 				the same position...	
@@ -305,7 +305,7 @@ EV_7_S15_last_battle
 0x7f3e	0x98	ZextRobo	#3W	I am...I am...#6WI AM...	
 0x8093	0x06	ZextRobo		ANI_WALK_BACK	
 0x8218	0x06	komono17		ANI_FALL	
-0x826e	0x98	ZextRobo	#0W#45M	I was not the head of the <Mythos>...	
+0x826e	0x98	ZextRobo	#0W#45M	I was not the head of the Mythos...	
 0x82c4	0x98	ZextRobo	#2W#45M	I was...wrong?	
 0x8303	0x98	ZextRobo	#0W#45M	Why in the world was I...created...	
 0x84d3	0x06	ALTO		ANI_SUPPORT_CREHA3_MIRROR	
@@ -338,15 +338,15 @@ EV_7_S15_last_battle
 				return everything to nothingness...	
 				With the mission I am charged with!#0E	
 0x9b19	0x41	None	#2E#733c#1W#16S	──This time for sure, I will execute	
-				the <Remaking>!#0E	
-0x9d5a	0x98	NOI	#6A#16S	That is the idol of the <Planetarium>!!	
+				the Remaking!#0E	
+0x9d5a	0x98	NOI	#6A#16S	That is the idol of the Planetarium!!	
 0x9da7	0x98	NOI	#6A#16S	It's the true form of "Zext!"	
 0x9df2	0x98	ALTO	#16S	W-What should we do!?	mp_2099 0x4f2e
 0x9e52	0x98	Creha	#6A	The final order of the	
-				<Planetarium> itself!!	
+				Planetarium itself!!	
 0x9edc	0x98	NOI	#6A	Nayuta, you have to stop it!!	
 0x9f1b	0x98	NOI	#6A	Like this, the surface will──	
-				Everyone on <Remnant Island> will...!	
+				Everyone on Remnant Island will...!	
 0x9fc5	0x98	ALTO	#0W	(Tch, he still had some power	
 				 left after that last battle...)	
 0xa087	0x98	ALTO	#0W	(However...	
@@ -415,8 +415,8 @@ EV_7_S16_defeat_zext
 				I pity "him" a little...	
 0xc80e	0x06	NOI		ANI_THINK	
 0xc834	0xBC	NOI		Ellipsis	
-0xc871	0x98	NOI	#6A	...He was the <Planetarium> itself.	
-0xc8b6	0x98	NOI	#6A	The <Remaking> was his	
+0xc871	0x98	NOI	#6A	...He was the Planetarium itself.	
+0xc8b6	0x98	NOI	#6A	The Remaking was his	
 				sole reason for existence.	
 0xc910	0x06	NOI		ANI_WAIT	
 0xc977	0x98	NOI	#6A	That's exactly why, even if he	
@@ -453,10 +453,10 @@ EV_7_S16_defeat_zext
 EV_7_S18_go_astrolabe
 0xd93b	0xBC	ALTO		Unknown	
 0xd971	0x06	ALTO		ANI_COMPLAIN	
-0xd99b	0x98	ALTO	#0W#6A	The <Core> of the planet	
+0xd99b	0x98	ALTO	#0W#6A	The Core of the planet	
 				has started to go out of control!?	
 0xd9fb	0x98	ALTO	#1W#6A	N-No way...#0WWhy!?	
-0xda90	0x98	Creha		Originally, the planet's <Core>	
+0xda90	0x98	Creha		Originally, the planet's Core	
 				was broken...	
 0xdadd	0x98	Creha		After that, it looks like the	
 				impact of the crystal that fell	
@@ -472,7 +472,7 @@ EV_7_S18_go_astrolabe
 0xdd3f	0x06	Signa		ANI_GESTURE2	
 0xdd89	0x98	Signa		Is there no way!?	
 0xddbb	0x98	Signa		If it's us, who can manipulate the	
-				<Power of Stars>, then...!	
+				Power of Stars, then...!	
 0xde7d	0x06	Creha		ANI_THINK	
 0xdead	0x98	Creha	#1W	..................	mp_0000d 0x70fd
 0xdf0a	0x98	Creha		...It's no good, it's not enough...	
@@ -482,7 +482,7 @@ EV_7_S18_go_astrolabe
 0xe025	0x98	Signa	#2W	.....................	mp_0003 0xc610
 0xe05e	0x98	Signa	#0W	...As I thought...	
 				All we can do is the	
-				<Remaking>?	
+				Remaking?	
 0xe0bb	0xBC	ALTO		Exclamation	
 0xe110	0xBC	NOI		Exclamation	
 0xe163	0xBC	Creha		Exclamation	
@@ -499,17 +499,17 @@ EV_7_S18_go_astrolabe
 				 Is that the only way!?)	
 0xe4d7	0x98	ALTO	#6A	(Think, Nayuta Herschel...)	
 0xe515	0x98	ALTO	#6A	(For our surface...	
-				 For <Remnant Island>,	
+				 For Remnant Island,	
 				 what should we do!!)	
 0xe64e	0x98	ALTO	#6A#0W	...............	mp_0001 0xc917
-0xe683	0x98	ALTO	#6A#0W	...The <Astrolabe>...	
+0xe683	0x98	ALTO	#6A#0W	...The Astrolabe...	
 0xe702	0x06	ALTO		ANI_GOODIDEA	
 0xe734	0x98	ALTO		Noi, what would happen if	
-				we used the <Astrolabe>!?	
+				we used the Astrolabe!?	
 0xe7c0	0x98	NOI	#6A	The Astrolabe?	
 0xe7f8	0x06	ALTO		ANI_GESTURE1	
 0xe822	0x98	ALTO		If we use the Power of Stars	
-				with the <Astrolabe>,	
+				with the Astrolabe,	
 				wouldn't that work!?	
 0xe887	0x98	ALTO		Can't we stop the runaway of	
 				the planet's core by using that!?	
@@ -522,11 +522,11 @@ EV_7_S18_go_astrolabe
 				Certainly, if we had that...	
 0xeb8d	0x06	Creha		ANI_DENY	
 0xec02	0x98	Creha	#0W	...No, it's no good.	
-0xec71	0x98	Creha		<Terra> and the surface	
+0xec71	0x98	Creha		Terra and the surface	
 				are separated...	
 0xecb9	0x98	Creha		Not very much, but	
 				it should be outside the	
-				<Astrolabe>'s effect range...	
+				Astrolabe's effect range...	
 0xeda6	0x06	ALTO		ANI_DEJECTED	
 0xedd0	0x98	ALTO	#6A	Is...that so...	
 0xee29	0x98	Signa		...Damn!!	
@@ -541,8 +541,8 @@ EV_7_S18_go_astrolabe
 				down to the surface awhile ago...	
 				If we use that...!	
 0xf21e	0x40	NOI		That crystal is an anchor used to send	
-				the <Planetarium> to the surface...	
-0xf286	0x40	NOI		It strongly connects <Terra> to	
+				the Planetarium to the surface...	
+0xf286	0x40	NOI		It strongly connects Terra to	
 				the surface, is what "Zext" said!	
 0xf3ce	0x06	NOI		ANI_GESTURE1	
 0xf3f7	0x98	NOI	#6A	If we use the crystal,	
@@ -550,7 +550,7 @@ EV_7_S18_go_astrolabe
 				with the Astrolabe!	
 0xf45c	0x98	NOI	#6A	In addition, we can	
 				send in the Power of Stars	
-				from the <Planetarium>, too...	
+				from the Planetarium, too...	
 0xf4c9	0x98	NOI	#6A	We can not just stop the	
 				destruction, but restore the	
 				core as well!!	
@@ -559,7 +559,7 @@ EV_7_S18_go_astrolabe
 				Seems like it'll go well!	
 0xf5c6	0x06	ALTO		ANI_NOD	
 0xf5eb	0x98	ALTO		This is the only way other than	
-				<Remaking> to save the surface...	
+				Remaking to save the surface...	
 				maybe.	
 0xf651	0x98	ALTO		If we decide that...!!	
 0xf6f3	0xBC	ALTO		Exclamation	
@@ -572,17 +572,17 @@ EV_7_S18_go_astrolabe
 0xf862	0x06	Creha		ANI_SURPRISE	
 0xfa10	0x98	Signa		Guh...	
 				This place has already started to crumble!!	
-0xfa89	0x98	Creha		Now that the <Planetarium>'s idol	
+0xfa89	0x98	Creha		Now that the Planetarium's idol	
 				is defeated...	
 0xfafe	0x98	NOI	#6A#1W	.....................	mp_0003 0xc610
 0xfb8d	0x98	NOI	#6A	──Everyone, hurry to	
-				the <Astrolabe>!	
+				the Astrolabe!	
 0xfce7	0x98	ALTO		Huh...What will you do, Noi!?	
 0xfd2c	0x06	NOI		ANI_GUTSPOSE	
 0xfd55	0x98	NOI	#6A	I've got to stop the collapse	
-				of the <Planetarium> somehow!	
+				of the Planetarium somehow!	
 0xfdb1	0x98	NOI	#6A	For that strategy,	
-				we need <Planetarium> energy...	
+				we need Planetarium energy...	
 				I can't leave this alone!	
 0xfe1d	0x98	NOI	#6A	Everyone, go ahead of	
 				me, and get everything ready!	
@@ -606,7 +606,7 @@ EV_7_S18_go_astrolabe
 0x107ae	0x98	NOI	#1W	..................	mp_0000d 0x70fd
 0x107f0	0x98	NOI	#2W	...Nayuta, Master Kureha, Cygna...	
 0x10867	0x98	NOI	#1W	──I'm sorry.	
-0x108ef	0x98	NOI	#1W	Even the <Planetarium>...	
+0x108ef	0x98	NOI	#1W	Even the Planetarium...	
 				Sorry for not realizing until now.	
 0x1095a	0x98	NOI	#2W	But, it's all right.	
 				I won't leave you alone...	

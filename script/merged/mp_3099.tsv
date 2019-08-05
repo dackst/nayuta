@@ -191,9 +191,9 @@ QS_44_undertake
 				collect my scattered power.	
 0x57fb	0x98	Algorl		As for the place my power is sealed in,	
 				according to the spirits, it is in	
-				<La Worg>, the origin continent, it seems.	
+				La Worg, the origin continent, it seems.	
 0x5890	0x06	NOI		ANI_GESTURE2	
-0x58b9	0x98	NOI	#6A	<La Worg>...	
+0x58b9	0x98	NOI	#6A	La Worg...	
 				So your power is there...	
 0x5900	0x06	ALTO		ANI_NOD	
 0x5925	0x98	ALTO		Understood.	
@@ -275,7 +275,7 @@ QS_44_quest_end
 				for a short time, but..	
 0x6de5	0x98	Algorl		In the end, that is all I can do. Though the	
 				head of the Mythos may have gone bad,	
-				he is the existence that created this world of <Terra>.	
+				he is the existence that created this world of Terra.	
 0x6e8f	0x98	Algorl		As for this matter...	
 				Before long, a plan that can settle	
 				the power of one warden will come to pass.	
@@ -530,8 +530,8 @@ quest_SpiritD
 0xa490	0xC1	System		received.	mp_0000 0x12596
 0xa509	0x06	ALTO		ANI_SURPRISE_WEAK	
 0xa538	0x98	ALTO		Ah...Maybe this is advance payment?	
-				(In Japanese, 39 -> "san-kyuu"	
-				 -> "Thanks!")	
+				(In Japanese, 39 - "san-kyuu"	
+				 - "Thanks!")	
 0xa5a7	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xa5d5	0x98	ALTO		Ahaha, hang in there...	
 0xa60c	0x06	NOI		ANI_GUTSPOSE	
@@ -571,8 +571,8 @@ quest_SpiritD_End
 0xb12d	0x6B	SpiritD		Unknown	
 0xb162	0x06	ALTO		ANI_JOY	
 0xb187	0x98	ALTO		Haha, thanks. I'll accept it.	mp_1099 0xc3ff
-				(In Japanese, 5963 -> "go-ku-ro-san"	
-				 -> "Thanks for your hard work!")	
+				(In Japanese, 5963 - "go-ku-ro-san"	
+				 - "Thanks for your hard work!")	
 0xb209	0x06	NOI		ANI_THINK	
 0xb247	0x98	NOI	#6A	We have to go already...	mp_1099 0xc4bf
 				Please do your best	
@@ -700,7 +700,7 @@ QS_83_quest_end
 				It was a test for us, wasn't it?	
 0xe5d3	0x06	Algorl		ANI_NOD	
 0xe5fa	0x98	Algorl		Yes...We understand everything that has	mp_1099 0xf082
-				happened to <Terra> from start to end.	
+				happened to Terra from start to end.	
 0xe669	0x98	Algorl		In order to save the two Mythos,	mp_1099 0xf0f1
 				I think we should offer our final	
 				assistance.	
@@ -790,7 +790,7 @@ QS_83_quest_end
 0xf871	0x06	Nemeas		ANI_GESTURE1	
 0xf89d	0x98	Nemeas	#1W	When this time of change is over,	mp_1099 0x10325
 				spin a new history with the true meaning	
-				of <Terra>.	
+				of Terra.	
 0xf92c	0x98	Algorl	#3W	...And finally,	mp_1099 0x103b4
 				We will grant you our	
 				remaining power.	
@@ -846,7 +846,7 @@ EV_3_S16_boss_battle
 0x1127f	0x6B	ALTO		Surprise	
 0x112b1	0x6B	NOI		Surprise	
 0x1139e	0x98	NOI		There it is...	
-				The <Master Gear of Wind>!	
+				The Master Gear of Wind!	
 0x113ed	0x98	ALTO		Thank goodness...we found it!	
 0x114ce	0x06	ALTO		ANI_WAIT4	
 0x114f5	0x98	ALTO	#6A	They really left it behind again...	
@@ -857,16 +857,16 @@ EV_3_S16_boss_battle
 				What is that on the back?	
 0x11708	0x98	ALTO	#6A	It looks like a mural of some kind...	
 0x11775	0x98	NOI	#6A	That was drawn	
-				by the <Mythos>.	
+				by the Mythos.	
 0x117bd	0x98	NOI	#6A	That light in the center is	
 				the source of all life, the	
-				<Power of Stars>...	
+				Power of Stars...	
 0x11828	0x98	NOI	#6A	Using it,	
 				the people on both sides	
 				are guiding the world...	
 0x1188b	0x06	ALTO		ANI_SURPRISE	
 0x118b5	0x98	ALTO	#6A	Guiding the world...huh.	
-				I heard that they created <Terra>, too...	
+				I heard that they created Terra, too...	
 0x11919	0x98	ALTO	#6A	They are like what we call	
 				"Gods" in my world.	
 0x1198e	0x98	NOI	#0W#6A#12S	...But, from the start they were...	
@@ -874,10 +874,10 @@ EV_3_S16_boss_battle
 0x11ab3	0x06	NOI		ANI_DENY	
 0x11ad8	0x98	NOI	#6A	...N-Nevermind.	
 0x11b09	0x98	NOI	#6A	Anyway...	
-				Shall we collect the <Master Gear> now?	
+				Shall we collect the Master Gear now?	
 0x11b63	0x06	ALTO		ANI_NOD	
 0x11b88	0x98	ALTO	#6A	...Yes, let's.	
-0x11bb9	0x98	ALTO	#6A	With this, we can revive the <Yupina Grass>,	
+0x11bb9	0x98	ALTO	#6A	With this, we can revive the Yupina Grass,	
 				and save my sister──	
 0x11c52	0x6B	ALTO		Surprise	
 0x11c7c	0x6B	NOI		Surprise	
@@ -897,7 +897,7 @@ EV_3_S16_boss_battle
 				...This is...	
 0x12429	0x06	b002		ANI_BEFORE	
 0x125f8	0x06	b002		ANI_APPEAR0	
-0x126b2	0x98	NOI	#1W#18S	The Idol of <Heimmel>!	
+0x126b2	0x98	NOI	#1W#18S	The Idol of Heimmel!	
 0x126fa	0xBC	ALTO		Exclamation	
 0x12746	0x98	ALTO	#1W#16S#8M	Watch out!	
 0x1278e	0x06	b002		ANI_APPEAR2	
@@ -906,7 +906,7 @@ EV_3_S16_boss_battle
 				set this up for us!?	
 0x12ae2	0x98	NOI	#0W#6A	Let's finish it, Nayuta!	
 0x12b1f	0x06	NOI		ANI_GUTSPOSE	
-0x12b56	0x98	NOI	#0W#6A	To take back the <Master Gear>...	
+0x12b56	0x98	NOI	#0W#6A	To take back the Master Gear...	
 				And save your sister!	
 0x12bb9	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
 0x12bf9	0x98	ALTO	#1W#16S#6A	Got it!!	
@@ -916,13 +916,13 @@ EV_3_S16_boss_battle
 EV_3_S17_get_gear_3rd
 0x1329e	0x06	NOI		ANI_GOODIDEA	
 0x132cf	0x98	NOI	#6A	We did it...	
-				It's the <Master Gear of Wind>!	
+				It's the Master Gear of Wind!	
 0x1343b	0x06	NOI		ANI_REMOVE	
 0x134bb	0x06	komono05		ANI_STOP	
 0x135ef	0xC1	System		obtained.	mp_0000 0x7558
 0x1379e	0x06	ALTO		ANI_JOY	
 0x137c3	0x40	ALTO	#6A	With this, we might be able	
-				to revive the <Yupina Grass>!	
+				to revive the Yupina Grass!	
 0x13826	0x40	NOI		Yeah, I'm sure we can!	
 0x138cf	0x06	NOI		ANI_TAKE_OUT_END	
 0x139ea	0x98	NOI		Quickly, let's restore the	

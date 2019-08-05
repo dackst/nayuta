@@ -186,16 +186,16 @@ EV_3_S11_help_eris
 0x5f14	0x98	Erislet		Yes...and you haven't seen the	
 				child called Cygna at all since then.	
 0x5fed	0x06	Erislet		ANI_DENY	
-0x6016	0x98	Erislet		The matter of the <Yupina Grass> is	
+0x6016	0x98	Erislet		The matter of the Yupina Grass is	
 				difficult too. I have no idea.	
 0x6097	0x98	NOI	#6A	As I thought, all we can do is try	
-				searching <Heimmel>.	
+				searching Heimmel.	
 0x619c	0x98	ALTO		Right...	
 0x61cc	0x06	Erislet		ANI_GESTURE1	
 0x6264	0x98	Erislet		Even so...	
 				That information was	
 				shocking to me.	
-0x630e	0x98	Erislet		For the head of the <Mythos>	
+0x630e	0x98	Erislet		For the head of the Mythos	
 				to attack my temple...	
 0x638c	0x06	NOI		ANI_DENY	
 0x63b1	0x98	NOI	#6A	Even now, I don't want to	
@@ -213,7 +213,7 @@ EV_3_S11_help_eris
 0x6610	0x06	ALTO		ANI_GESTURE1	
 0x663a	0x98	ALTO	#6A	Umm...I'm interested in it, but,	
 				what kind of connection do these	
-				two <Mythos> have?	
+				two Mythos have?	
 0x66af	0x98	ALTO	#6A	It seems they have some	
 				kind of close relationship.	
 0x6765	0x98	Erislet		...If my memory is correct,	
@@ -228,7 +228,7 @@ EV_3_S11_help_eris
 				from a long time ago!	
 0x6a27	0x98	NOI	#6A	Umm, for now,	
 				Master Kureha says it's true, too...	
-0x6a7a	0x98	NOI	#6A	The <Mythos> are long lived,	
+0x6a7a	0x98	NOI	#6A	The Mythos are long lived,	
 				several tens of times longer	
 				than humans.	
 0x6ae0	0x6B	ALTO		Sweatdrop	
@@ -237,7 +237,7 @@ EV_3_S11_help_eris
 				for a long time", you meant...	
 0x6bda	0x06	ALTO		ANI_WAIT	
 0x6cc2	0x98	ALTO	#6A	Are there any other	
-				<Mythos>?	
+				Mythos?	
 0x6d01	0x06	Erislet		ANI_GESTURE1	
 0x6dca	0x98	Erislet		In truth, there was just	
 				one other, but...	
@@ -262,7 +262,7 @@ EV_3_S11_help_eris
 0x7455	0x98	Erislet		...Alright, I've decided.	
 				I too will fight Zext.	
 0x74a7	0x06	ALTO		ANI_WAIT	
-0x75b0	0x98	Erislet		Even if he is one of the <Mythos>...	
+0x75b0	0x98	Erislet		Even if he is one of the Mythos...	
 				He is very different from Kureha.	
 0x7639	0x06	Erislet		ANI_GESTURE1	
 0x7666	0x98	Erislet		Even though I say that,	
@@ -293,13 +293,13 @@ EV_3_S11_help_eris
 0x805c	0x98	ALTO	#6A	We will do our best for you!	
 0x80a3	0x06	Erislet		ANI_GESTURE2	
 0x80f1	0x98	Erislet		Then, I will go to the	
-				<Temple> of this continent.	
-0x8202	0x98	Erislet		Please find the <Yupina Grass> and	
+				Temple of this continent.	
+0x8202	0x98	Erislet		Please find the Yupina Grass and	
 				the Cygna child quickly.	
 				...Farewell.	
 0x859e	0x06	ALTO		ANI_GESTURE1	
 0x85c8	0x98	ALTO	#6A	Then, we'll hurry to	
-				<Heimmel>.	
+				Heimmel.	
 0x8611	0x06	NOI		ANI_GUTSPOSE	
 0x86c6	0x98	NOI		Yeah...	
 				We've got various things to do this time.	

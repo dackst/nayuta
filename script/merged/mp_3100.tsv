@@ -2,8 +2,8 @@ mp_3100
 init
 EV_3_S14_temple3_front
 0x73e	0x06	ALTO		ANI_FIND	
-0x764	0x98	ALTO	#6A	So that's the temple of <Heimmel>...	
-0x7b3	0x98	NOI	#6A	It looks like the <Power of Stars>	
+0x764	0x98	ALTO	#6A	So that's the temple of Heimmel...	
+0x7b3	0x98	NOI	#6A	It looks like the Power of Stars	
 				hasn't stopped yet...	
 0x80c	0x98	NOI	#6A	Zext might have not yet	
 				reached the altar.	
@@ -32,7 +32,7 @@ EV_3_S14_temple3_front
 				shutdown this temple?	
 0x11d4	0x06	NOI		ANI_ANGRYTALK	
 0x11fe	0x98	NOI		Before that, we will take back the	
-				<Master Gear> from you here and now!	
+				Master Gear from you here and now!	
 0x1278	0x98	Seram		Hmph...	
 				That's why I'm saying you're slow.	
 0x139c	0x06	Seram		ANI_GESTURE2	
@@ -93,7 +93,7 @@ EV_3_S14_temple3_front
 				Because this is Noi's world!	
 0x2cc8	0x98	ALTO	#0W	And...my sister	
 				collapsed due to illness...!	
-0x2d71	0x98	ALTO		If I had the <Master Gear>,	
+0x2d71	0x98	ALTO		If I had the Master Gear,	
 				I could obtain the herbs!	
 				...That's why!!	
 0x2ddc	0x98	Seram	#0W#0x#250y	...............	mp_0001 0xc917
@@ -103,7 +103,7 @@ EV_3_S14_temple3_front
 0x3073	0x6B	NOI		Surprise	
 0x30a4	0x98	Seram		...My patience grows thin.	
 				I'll step aside this time.	
-0x30f9	0x98	Seram		If it's the <Master Gear> you want,	
+0x30f9	0x98	Seram		If it's the Master Gear you want,	
 				it remains in the altar on the top floor...	
 				Take it, if you like.	
 0x3185	0x6B	ALTO		Exclamation	
@@ -113,7 +113,7 @@ EV_3_S14_temple3_front
 0x323a	0x98	NOI		W-What are you planning...!?	
 0x32c3	0x98	Seram		From the beginning, you were	
 				no obstacle to our "plan."	
-0x331a	0x98	Seram		Whether you get the <Master Gear>	
+0x331a	0x98	Seram		Whether you get the Master Gear	
 				or not, it's impossible for you to stop	
 				us...	
 0x3388	0x98	Seram		...Hmph, well, at least you	
@@ -123,7 +123,7 @@ EV_3_S14_temple3_front
 				What is your	
 				true objective!?	
 0x3480	0x98	ALTO	#6A	Just what will you do	
-				to this <Terra>!	
+				to this Terra!	
 0x3588	0x98	Seram	#0W	──Oh, now that you mention it,	
 				I forgot to give my name.	
 0x36bb	0x98	Seram	#2W	My name is Selam...	mp_3002c 0x5347
@@ -150,10 +150,10 @@ EV_3_S14_temple3_front
 0x3e52	0x06	NOI		ANI_THINK	
 0x3e78	0x98	NOI	#0W	...If it's really "Selam" beneath that mask...	
 0x3f12	0x98	NOI	#0W	Then that man may be	
-				a <Mythos>...	
+				a Mythos...	
 0x3f5d	0x6B	ALTO		Exclamation	
 0x3f87	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x3fbe	0x98	ALTO	#6A	The <Mythos>...	
+0x3fbe	0x98	ALTO	#6A	The Mythos...	
 				The same race as Kureha...!?	
 0x4014	0x98	NOI		...Master Selam fell	
 				asleep in the garden	
@@ -172,7 +172,7 @@ EV_3_S14_temple3_front
 				all we can do is think about it.	
 0x42e8	0x98	NOI		...You're right.	mp_0115 0x1296f
 0x4317	0x98	NOI		For now, we need to take back	
-				the <Master Gear> for your sister...	
+				the Master Gear for your sister...	
 0x437f	0x06	NOI		ANI_GUTSPOSE	
 0x43a8	0x98	NOI		Let's go to the altar, Nayuta!	
 0x43ed	0x06	ALTO		ANI_NOD	

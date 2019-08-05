@@ -47,10 +47,10 @@ EV_6_S21_in_bossmap3
 				of the "Pillar"...	
 0x1e9a	0x98	ALTO	#6A	It certainly is the	mp_6300 0x192c
 				place that supplies the	
-				continent with <Power of Stars>.	
+				continent with Power of Stars.	
 0x1f3f	0x98	NOI		Yeah, exactly right.	mp_6300 0x19d1
 0x1f72	0x06	NOI		ANI_GESTURE2	
-0x1f9b	0x98	NOI		The <Stellagear> should be	mp_6300 0x1a2d
+0x1f9b	0x98	NOI		The Stellagear should be	mp_6300 0x1a2d
 				installed in the center of	
 				this place.	
 0x2001	0x06	ALTO		ANI_JOY	
@@ -64,7 +64,7 @@ EV_6_S27_sisi_boss
 0x2afd	0x06	Algorl		ANI_NOD	
 0x2b24	0x98	Algorl		Nayuta, and Noi too.	
 0x2b5a	0x98	Algorl		I cannot hand over the	
-				<Stellagear> to you.	
+				Stellagear to you.	
 0x2ba6	0x06	Algorl		ANI_GESTURE2	
 0x2bd2	0x98	Algorl		You should leave immediately.	
 0x2c19	0x6B	ALTO		Exclamation	
@@ -74,13 +74,13 @@ EV_6_S27_sisi_boss
 0x2cd6	0x06	NOI		ANI_GESTURE2	
 0x2cff	0x98	NOI	#6A	I-It can't be!!	
 0x2d4f	0x98	Algorl		...I finally learned the truth.	
-0x2db0	0x98	Algorl		About the mission of the <Mythos>...	
+0x2db0	0x98	Algorl		About the mission of the Mythos...	
 				And the true reason for the existence	
-				of <Terra>.	
+				of Terra.	
 0x2e4e	0x06	Algorl		ANI_GESTURE1	
-0x2e7a	0x98	Algorl		As a <Warden> of the continents,	mp_6300 0x2c43
+0x2e7a	0x98	Algorl		As a Warden of the continents,	mp_6300 0x2c43
 				I cannot allow you to interfere in	
-				the <Remaking> of Master Kureha and the others.	
+				the Remaking of Master Kureha and the others.	
 0x2f15	0x06	NOI		ANI_COMPLAIN	
 0x2f3e	0x98	NOI	#6A	...What do you mean, Algol!?	
 0x2f93	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f
@@ -93,7 +93,7 @@ EV_6_S27_sisi_boss
 				no matter what!	
 0x3105	0x06	Algorl		ANI_DENY	
 0x312d	0x98	Algorl		...If you say you will stand in the way	
-				of the <Mythos>' mission with an	
+				of the Mythos' mission with an	
 				attitude like that...	
 0x31e7	0x98	Algorl	#16S	──That is absurd!!	
 0x3233	0x06	Algorl		ANI_DENY	
@@ -101,26 +101,26 @@ EV_6_S27_sisi_boss
 				than you already have.	
 0x32aa	0x06	Algorl		ANI_GESTURE2	
 0x32d6	0x98	Algorl		I cannot hand over the	mp_6301 0x2b5a
-				<Stellagear> to you.	
+				Stellagear to you.	
 0x332a	0x06	NOI		ANI_COMPLAIN	
 0x3353	0x98	NOI	#6A	Algol!!	
 				You too!?	
 0x33a4	0x98	Algorl		...The edge is	
 				already drawn.	
 0x3402	0x98	Algorl		Everything is because of	
-				my loyalty to the <Mythos>...	
+				my loyalty to the Mythos...	
 0x3481	0x98	Algorl		At the very least,	
 				I will have you get out of my way.	
 0x34df	0x06	ALTO		ANI_DENY	
 0x3505	0x98	ALTO	#6A	....We can't do that.	
 0x353d	0x06	ALTO		ANI_JOY	
 0x3562	0x98	ALTO	#6A	Because we need	
-				the <Stellagear>!	
+				the Stellagear!	
 0x35d5	0x06	Algorl		ANI_NOD	
 0x35fc	0x98	Algorl		...Then, I will not forgive you.	
 0x368d	0x06	Algorl		ANI_WAIT	
 0x37c3	0x06	Algorl		ANI_USE_POWER	
-0x3914	0x98	Algorl	#1W#240x#0y	<Guardian King> Algol...	
+0x3914	0x98	Algorl	#1W#240x#0y	Guardian King Algol...	
 				Now is the time to show you my essence.	
 0x3996	0x98	Algorl	#6W#240x#0y	Come at me!	
 0x4155	0x06	b009		ANI_DEMO1	
@@ -140,11 +140,11 @@ EV_6_S28_bye_algorl
 0x50fa	0x98	ALTO	#6A	Algol...	
 0x5145	0x98	Algorl		You two tested my power...	
 				There are no words for the defeated.	
-0x51c4	0x98	Algorl		...The <Mythos> granted me	
+0x51c4	0x98	Algorl		...The Mythos granted me	
 				power, yet I stand where I	
 				am now.	
 0x5249	0x06	Algorl		ANI_GESTURE1	
-0x5275	0x98	Algorl		If I would question the <Remaking>	
+0x5275	0x98	Algorl		If I would question the Remaking	
 				I would need even more power	
 				than you two have now.	
 0x52f3	0x06	NOI		ANI_NOD	
@@ -152,7 +152,7 @@ EV_6_S28_bye_algorl
 0x5351	0x06	ALTO		ANI_GESTURE1	
 0x537b	0x98	ALTO	#6A	Honestly speaking,	
 				I haven't measured the	
-				<Mythos>' power.	
+				Mythos' power.	
 0x53ee	0x06	ALTO		ANI_DENY	
 0x5414	0x98	ALTO	#6A	However, we absolutely	
 				cannot lose.	
@@ -162,7 +162,7 @@ EV_6_S28_bye_algorl
 0x54cf	0x06	Algorl		ANI_GESTURE2	
 0x54fb	0x98	Algorl		...I have heard your words.	
 0x5d10	0x06	NOI		ANI_TAKE_OUT	
-0x5dee	0x40	Algorl	#0W	The <Jade Stellagear>.	
+0x5dee	0x40	Algorl	#0W	The Jade Stellagear.	
 				...You should take it with you.	
 0x5eac	0xC1	System		obtained.	mp_0000 0x7558
 0x6064	0x06	NOI		ANI_WAIT	
@@ -181,9 +181,9 @@ EV_6_S28_bye_algorl
 				Leave the rest to us!	
 0x640e	0x06	NOI		ANI_GESTURE2	
 0x6437	0x98	NOI	#6A	Anyway with this, we've	mp_6300 0x63a4
-				gathered all of the <Stellagears>!	
+				gathered all of the Stellagears!	
 0x64a2	0x06	ALTO		ANI_JOY	
-0x64c7	0x98	ALTO		Let's go to the <Astrolabe>...	mp_6300 0x6434
+0x64c7	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
 				and chase after Kureha and the others!	
 EV_6_S39_check_bossmap3
 0x69a7	0x40	UNDEF		Algol is not here.	

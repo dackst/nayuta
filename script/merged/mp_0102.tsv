@@ -22,7 +22,7 @@ tuto_season_change
 				Forest Continent Oltapia.	
 0x2d22	0x07	System	#4C	The Astrolabe has	
 				again begun to move.	
-0x2d56	0x07	System	#4C	By using the <Master Gear>, you	
+0x2d56	0x07	System	#4C	By using the Master Gear, you	
 				can manipulate the "Season" of the	
 				continent.	
 0x2db2	0x07	System	#4C	When selecting continents,	
@@ -37,7 +37,7 @@ EV_1_S14_first_field
 0x41df	0x07	System	#4C	Furthermore, on the right column	
 				of the screen is displayed information	
 				about the currently selected stage.	
-0x44a6	0x07	System	#3C	Please select <Forest Continent Oltapia>.	
+0x44a6	0x07	System	#3C	Please select Forest Continent Oltapia.	
 EV_2_S12_change_seasons
 EV_3_S06_change_seasons
 EV_3_S19_change_seasons

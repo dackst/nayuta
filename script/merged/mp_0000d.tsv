@@ -2,14 +2,14 @@ mp_0000d
 init
 0x873	0x06	Dorado		ANI_SLEEP2	
 LP_Shop1
-0x9d0	0x41	None		～  Bar & Inn <Moon View Pavillion>  ～	mp_0000 0x254e
+0x9d0	0x41	None		～  Bar & Inn Moon View Pavillion  ～	mp_0000 0x254e
 				  We have tasty food and warm rooms	
 				    ready for you.	
 LP_Shop2
-0xab0	0x41	None		★Welcome to general store <Sunset>!★	mp_0000 0x262e
+0xab0	0x41	None		★Welcome to general store Sunset!★	mp_0000 0x262e
 				  From daily necessities to souvenirs,	
-				  leave it to <Sunset>!	
-				  Would you like to try <Star Shards>,	
+				  leave it to Sunset!	
+				  Would you like to try Star Shards,	
 				  Remnant Island's most popular product?	
 stp_port
 0xbc5	0x98	ALTO		I don't have time for any detours...	
@@ -290,7 +290,7 @@ EV_5_S00_talk_islander
 0x6eb1	0x41	None	#2E	Nayuta explained the general circumstances	
 				surrounding Kureha's departure to the Elder.#0E	
 0x7057	0x98	Lyra	#0W	Nayuta, you...	
-				You went to <Lost Heaven>...	
+				You went to Lost Heaven...	
 0x70a4	0x98	Lyra	#0W	And what's more, Cygna's location	
 				is unknown...	
 0x70fd	0x98	ALTO	#1W	..................	

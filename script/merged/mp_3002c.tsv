@@ -82,7 +82,7 @@ QS_81_hang_out_box
 				a thing, but...	
 0x22dc	0x06	ALTO		ANI_JOY	
 0x2301	0x98	ALTO		...Alright, the next one should be the last.	
-				Let's head for the <Abyss Continent>!	
+				Let's head for the Abyss Continent!	
 SB_4_S03_escape_ALTO
 SB_4_S03_move_ALTO
 SB_4_S03_move_NOI
@@ -153,7 +153,7 @@ EV_4_S03_help_algorl
 0x4fc3	0x06	Algorl		ANI_GESTURE1	
 0x4fef	0x98	Algorl		...The Selam from before	
 				did not bear a grudge	
-				against <Terra>.	
+				against Terra.	
 0x504e	0x06	ALTO		ANI_WAIT	
 0x5074	0x98	Algorl		He hated acts that run counter to moral principles,	
 				and wielded his power for the weak...	
@@ -214,7 +214,7 @@ EV_4_S03_help_algorl
 0x6561	0x98	NOI		With this, Algol is all right.	
 0x65a6	0x06	NOI		ANI_GESTURE2	
 0x65ec	0x98	NOI		Let's go, Nayuta...	
-				To the <La Worg> continent!	
+				To the La Worg continent!	
 0x665e	0x06	ALTO		ANI_JOY	
 0x6683	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x6994	0x07	System	#4C	Activate "Shield" by holding the R button.	

@@ -4,13 +4,13 @@ EV_2_S00_planning
 0x3b4	0x06	ALTO		ANI_WARP	
 0x44e	0x06	NOI		ANI_WALK_HOLD	
 0x4cc	0x06	komono07		ANI_STOP	
-0x574	0x40	UNDEF		After that, Noi and Nayuta collected the <Master Gear>	
+0x574	0x40	UNDEF		After that, Noi and Nayuta collected the Master Gear	
 				waiting at the altar.	
 0x5e0	0x40	UNDEF		Then, to chase after the distant Cygna, they decided	
-				to return to the <Garden> for the time being.	
+				to return to the Garden for the time being.	
 0x742	0x40	NOI		Anyway...	
 				It's good that we were able to recover	
-				this <Master Gear of Earth>.	
+				this Master Gear of Earth.	
 0x7b4	0x40	ALTO	#0W	..................	mp_0002 0x1b64
 				..................	
 0x884	0x98	NOI	#6A	...Say, Nayuta...	
@@ -89,7 +89,7 @@ QS_83_quest_start
 0x2177	0x6B	NOI		Exclamation	
 0x21a8	0x98	NOI		This feeling is...	
 0x21f6	0x98	ALTO	#6A	What's wrong, Noi?	
-0x2248	0x98	NOI		...If we are exploring <Terra>,	
+0x2248	0x98	NOI		...If we are exploring Terra,	
 				we should be cautious.	
 0x229c	0x98	NOI		Oltapia, Rieseweld,	
 				Heimmel, La Worg...	
@@ -122,7 +122,7 @@ QS_83_quest_start
 				opponents, isn't it.	
 0x278c	0x98	NOI		Nayuta...that's right.	
 0x27c1	0x98	NOI		I'm not doing this only	
-				for the <Mythos>...	
+				for the Mythos...	
 0x28ae	0x98	NOI		I've prepared myself.	
 				As your partner,	
 				I will follow you anywhere.	

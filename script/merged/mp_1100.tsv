@@ -26,7 +26,7 @@ talk_Cetus
 				for supporting us in various ways.	
 talk_Reticul
 0x937	0x98	Reticul		It's really too bad that we didn't	
-				obtain any treasure in <Terra>, but...	
+				obtain any treasure in Terra, but...	
 0x9a2	0x98	Reticul		For now, we'll return to the	
 				original world and feel relieved.	
 0xa02	0x98	NOI		(...Her shamelessness hasn't changed.)	
@@ -34,7 +34,7 @@ talk_Reticul
 0xa8d	0x98	Reticul		By the way, does this world really	
 				not have any treasure anywhere?	
 0xaf1	0x98	Reticul		Because, this place is	
-				<Lost Heaven> isn't it?	
+				Lost Heaven isn't it?	
 0xb41	0x98	ALTO		U-Umm...	
 				Reticul, you realized?	
 0xb7f	0x98	Reticul		Yeah, well.	
@@ -238,7 +238,7 @@ EV_1_S07_temple_front
 0x3d62	0x98	NOI	#6A	We're here!	
 0x3f7b	0x06	ALTO		ANI_USE_SEXTANT	
 0x4022	0x06	Signa		ANI_WAIT2	
-0x404a	0x98	Signa	#6A	So this is the <Temple>...	
+0x404a	0x98	Signa	#6A	So this is the Temple...	
 0x4090	0x98	ALTO		It looks like a building considerably taller	
 				than the ruin that fell earlier...	
 0x40fe	0x98	ALTO		Hmm...It's no good.	
@@ -250,7 +250,7 @@ EV_1_S07_temple_front
 				ascending around here...	
 0x4214	0x06	ALTO		ANI_USE_SEXTANT_END	
 0x4308	0x98	ALTO		Noi, what in the world are those?	
-0x43c3	0x98	NOI	#6A	That is...the <Power of Stars>.	
+0x43c3	0x98	NOI	#6A	That is...the Power of Stars.	
 0x440c	0x6B	ALTO		Question	
 0x443e	0x6B	Signa		Question	
 0x4471	0x06	ALTO		ANI_THINK2	
@@ -261,10 +261,10 @@ EV_1_S07_temple_front
 				out there...	
 0x4567	0x06	NOI		ANI_GESTURE1	
 0x4590	0x98	NOI	#6A	It is something very important	
-				to this world of <Terra>.	
+				to this world of Terra.	
 0x45e9	0x06	ALTO		ANI_WAIT	
-0x460f	0x98	NOI	#6A	<Temples> are places to control that	
-				<Power of Stars>...	
+0x460f	0x98	NOI	#6A	Temples are places to control that	
+				Power of Stars...	
 0x4670	0x06	NOI		ANI_DENY	
 0x4695	0x98	NOI	#6A	Well...	
 				It's not very important right now,	
@@ -288,20 +288,20 @@ EV_1_S07_temple_front
 0x4d82	0x06	Signa		ANI_WAIT4	
 0x4db2	0x98	Signa	#6A	...It stopped, huh...	
 0x4e75	0x98	ALTO		...You called that light of	
-				the temple, the <Power of Stars>	
+				the temple, the Power of Stars	
 				didn't you.	
 0x4edb	0x06	ALTO		ANI_GESTURE2	
 0x4f05	0x98	ALTO		It looks like it disappeared though...	
 0x4f53	0x6B	NOI		Unknown	
 0x4fa1	0x98	NOI	#6A	I'm sure it's because of Zext!	
-0x5015	0x98	NOI		<Temples> are furnished with an	
+0x5015	0x98	NOI		Temples are furnished with an	
 				emergency shutdown feature for times	
 				when stuff happens.	
 0x508a	0x06	NOI		ANI_COMPLAIN	
-0x50b3	0x98	NOI	#6A	With the <Master Gear>, Zext used that feature	
-				and cut off the supply of <Power of Stars>!	
+0x50b3	0x98	NOI	#6A	With the Master Gear, Zext used that feature	
+				and cut off the supply of Power of Stars!	
 0x5136	0x06	Signa		ANI_GESTURE2	
-0x5161	0x98	Signa		...If the <Power of Stars> is shut off...	
+0x5161	0x98	Signa		...If the Power of Stars is shut off...	
 				What in the world will happen?	
 0x51ef	0x98	NOI	#6A	Probably...	
 				From here on very unusual things	
@@ -317,7 +317,7 @@ EV_1_S07_temple_front
 0x53f4	0x06	ALTO		ANI_COMPLAIN	
 0x541e	0x98	ALTO		T-This beautiful world will...!?	
 0x5466	0x06	Signa		ANI_WAIT3	
-0x548e	0x98	Signa		It seems like this <Power of Stars> thing	
+0x548e	0x98	Signa		It seems like this Power of Stars thing	
 				is a very important thing, indeed...	
 0x5504	0x6B	Signa		Ellipsis	
 0x5574	0x06	Signa		ANI_WAIT	
@@ -325,9 +325,9 @@ EV_1_S07_temple_front
 				hold back the abnormalities?	
 0x562a	0x98	NOI	#6A	There's only one way...	
 				All we can do is take back	
-				the <Master Gear> from Zext!	
+				the Master Gear from Zext!	
 0x5699	0x06	NOI		ANI_GESTURE1	
-0x56c2	0x98	NOI	#6A	If we take it to the <Garden>,	
+0x56c2	0x98	NOI	#6A	If we take it to the Garden,	
 				we should at least be able to	
 				stop abnormalities in this place!	
 0x5748	0x06	Signa		ANI_NOD	
@@ -335,7 +335,7 @@ EV_1_S07_temple_front
 				That much I understand.	
 0x57f5	0x98	NOI	#6A	Zext is at the continent control	
 				device on the top floor...	
-				He probably used the <Altar>.	
+				He probably used the Altar.	
 0x5881	0x98	NOI	#6A	We've got to catch him	
 				before he goes somewhere else...!	
 0x5916	0x98	ALTO		Let's go, Cygna!	
@@ -376,8 +376,8 @@ EV_1_S07_temple_front
 0x5fca	0x98	ALTO		T-This can't be...	
 0x6004	0x06	Signa		ANI_WAIT3	
 0x602c	0x98	Signa	#6A	Hey, don't worry. I'll	
-				definitely get the <Master	
-				Gear> back for you.	
+				definitely get the Master	
+				Gear back for you.	
 0x6093	0x06	Signa		ANI_WAIT0	
 0x60bb	0x98	Signa	#6A	So...listen up.	
 				Absolutely do not follow me.	
@@ -430,8 +430,8 @@ EV_1_S07_temple_front
 0x6b9f	0x98	ALTO		Thanks, Noi.	
 0x6be8	0x98	NOI	#6A	I-I'm not doing this	
 				for you or anything!	
-0x6c32	0x98	NOI	#6A	Recovering the <Master	
-				Gear> was my mission	
+0x6c32	0x98	NOI	#6A	Recovering the Master	
+				Gear was my mission	
 				from the beginning you see...	
 0x6c9b	0x06	NOI		ANI_GUTSPOSE	
 0x6cc4	0x98	NOI	#6A	I can't back down	

@@ -34,7 +34,7 @@ EV_2_S16_big_hindrance
 				like I've seen gear-like things	
 				many times...	
 0x1e45	0x98	ALTO		Maybe this is the world	
-				made by the <Mythos>...	
+				made by the Mythos...	
 0x1e93	0x06	ALTO		ANI_GESTURE2	
 0x1ebd	0x98	ALTO		Haha, it seems devices even more	
 				amazing than the Astrolabe	
@@ -73,7 +73,7 @@ EV_2_S16_big_hindrance
 				a good method for this...	
 0x24ca	0x06	NOI		ANI_NOD	
 0x24ee	0x98	NOI	#6A	Let's try going to "Summer"	
-				of <Oltapia>!	
+				of Oltapia!	
 0x2540	0xCE	Objective		Next, let's save Gio in summer of Oltapia.	
 SB_2_S21_turn_ALTO
 SB_2_S21_turn_NOI
@@ -96,7 +96,7 @@ EV_2_S21_look_cage_2nd
 0x2ed0	0x98	ALTO		It appears to be...a woman.	
 0x2f13	0x06	NOI		ANI_NOD	
 0x2f37	0x98	NOI	#6A	Yeah, she is	
-				<Song Maiden> Elislette...	
+				Song Maiden Elislette...	
 				This continent's warden.	
 0x2f9f	0x41	None	#0W#2E#029c	My...what do we have here?	
 				I feel a strange presence near you...#0E	
@@ -109,25 +109,25 @@ EV_2_S21_look_cage_2nd
 0x321c	0x40	UNDEF		Nayuta briefly explained everything up to now.	
 0x3273	0x41	None	#0W#2E#029c	I see...	
 				It looks as though something	
-				similar happened on <Oltapia>.#0E	
+				similar happened on Oltapia.#0E	
 0x3315	0x41	None	#0W#2E#029c	I, too, was captured by "Zext"	
 				when I was in my temple.#0E	
 0x33ab	0x41	None	#0W#2E#029c	In this cramped and painful	
 				situation, I cannot sing, you see...#0E	
 0x344a	0x41	None	#0W#2E#029c	...And, of all things, to misrepresent	
-				himself as the head of the <Mythos>...	
+				himself as the head of the Mythos...	
 				That I truly cannot forgive!#0E	
 0x351a	0x06	NOI		ANI_NOD	
 0x353e	0x98	NOI	#6A	Yeah...	
 				We can't leave things like this.	
 0x35a4	0x98	NOI	#6A	But...I expect those people	
 				plan to stop this continent's	
-				<Temple> as well.	
+				Temple as well.	
 0x362c	0x98	ALTO	#6A	The situation is the same as before,	
 				so it's a strong possibility.	
 0x3698	0x41	None	#0W#2E#029c	...Noi, and Nayuta too.	
 				For now anyway, hurry and	
-				head for the <Temple>.#0E	
+				head for the Temple.#0E	
 0x3779	0x41	None	#0W#2E#029c	Since there has not been much	
 				time that has passed since I was trapped,	
 				if you hurry, you should arrive in time!#0E	
@@ -137,7 +137,7 @@ EV_2_S21_look_cage_2nd
 0x3941	0x98	ALTO	#6A	Please leave it to me!	
 0x3982	0x06	NOI		ANI_GUTSPOSE	
 0x39ab	0x98	NOI	#6A	Just wait, Elis!	
-				We'll recover the <Master Gear> and	
+				We'll recover the Master Gear and	
 				get you out of there soon!	
 0x3c56	0xCE	Objective		Zext went to the temple again. We've gotta hurry there!	
 EV_2_Sxx_break_obj

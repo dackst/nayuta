@@ -263,7 +263,7 @@ LP_haka
 				 I can save you!)	
 0x4eee	0x98	ALTO		(Father, mother...	
 				 Are you watching me from heaven?)	
-0x4f42	0x98	ALTO		(<Lost Heaven> really exists!)	
+0x4f42	0x98	ALTO		(Lost Heaven really exists!)	
 0x4f80	0x98	ALTO		(Though there's many things	
 				 I don't understand...	
 				 Please cheer me on.)	
@@ -280,7 +280,7 @@ subev_haka
 0x5437	0x98	ALTO		(Father, the ship that you and	
 				 the other astronomers were on sunk...	
 				 It's already been five years since then.)	
-0x5509	0x98	ALTO		(Seeking <Lost Heaven> and	
+0x5509	0x98	ALTO		(Seeking Lost Heaven and	
 				 heading for "the end of the world,"	
 				 you didn't return...)	
 0x5585	0x6B	PLAYER1		Ellipsis	
@@ -292,7 +292,7 @@ subev_haka
 				 a fine adult.)	
 0x5732	0x06	ALTO		ANI_NOD	
 0x5757	0x98	ALTO		(Father, your dream...	
-				 even <Lost Heaven>,	
+				 even Lost Heaven,	
 				 someday, I will show you I can find it.)	
 0x57e8	0x98	ALTO		(That's why...	
 				 You should watch over me from the heavens.)	
@@ -1260,7 +1260,7 @@ EV_4_S13_meet_creha
 				changed quite a bit.	
 0x166ea	0x98	Creha	#0W	Huh...	
 0x16803	0x98	ALTO	#6A	Certainly, you have great power	
-				as one of the <Mythos>.	
+				as one of the Mythos.	
 0x1685c	0x98	ALTO	#6A	But, you used that power	
 				to save Eartha,	
 				and help the villagers...	
@@ -1282,11 +1282,11 @@ EV_4_S13_meet_creha
 0x16b50	0x98	Creha		I've become used to it...	
 				I'm sure that's thanks to you.	
 0x16bce	0x98	ALTO	#0W#6A	Huh...	mp_0001 0x166ea
-0x16d59	0x98	Creha	#1W	...When I saw you in <Terra>,	
+0x16d59	0x98	Creha	#1W	...When I saw you in Terra,	
 				I understood.	
 0x16dbd	0x98	Creha	#1W	For Eartha's sake, you	
 				frantically searched for the	
-				<Yupina Grass>.	
+				Yupina Grass.	
 0x16e41	0x06	Creha		ANI_DENY	
 0x16e76	0x98	Creha	#1W	No, it was even before that...	
 				When you searched for the one	

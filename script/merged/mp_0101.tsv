@@ -307,7 +307,7 @@ subev_return_garden
 0x6f04	0x98	NOI	#6A	...Anyway, if your preparations	
 				are complete, let's go to Oltapia.	
 0x6f67	0x98	NOI	#6A	We have to take back	
-				the <Master Gear>!	
+				the Master Gear!	
 0x6faf	0x06	ALTO		ANI_NOD	
 0x6fd4	0x98	ALTO		Yeah, that's right.	mp_0000 0x1478f
 0x7007	0x06	Signa		ANI_JOY	
@@ -549,13 +549,13 @@ EV_0_S19_arrive_garden
 0xbdc1	0x98	Signa	#480x#270y	...Hey, could that possibly be...?	
 0xbe16	0x98	ALTO	#480x#270y	Yeah, no doubt about it...	
 0xbf6b	0x40	ALTO	#16S	It's the huge tower that was	
-				projected from the <Star Shard>!!	
+				projected from the Star Shard!!	
 0xc113	0x06	Signa		ANI_WAIT3	
 0xc143	0x98	Signa		...Then it's the case.	
 0xc17a	0x98	Signa		Could this place be...	
 				No, this "World" is...	
 0xc217	0x06	ALTO		ANI_JOY	
-0xc260	0x98	ALTO	#16S#6A	<Lost Heaven>!!	
+0xc260	0x98	ALTO	#16S#6A	Lost Heaven!!	
 0xc29e	0x6B	ALTO		Ellipsis	
 0xc2d0	0x98	ALTO	#1W#6A	So it really, truly exists...	
 				........................	
@@ -592,7 +592,7 @@ EV_0_S20_meet_creha
 				structure is used for...	
 0xcd90	0x06	ALTO		ANI_THINK2	
 0xcdb8	0x98	ALTO	#6A	(I've truly arrived	
-				 at <Lost Heaven>.)	
+				 at Lost Heaven.)	
 0xce01	0x98	ALTO	#6A	(It's been so sudden.	
 				 I haven't really felt it yet...)	
 0xce62	0x06	ALTO		ANI_JOY	
@@ -601,7 +601,7 @@ EV_0_S20_meet_creha
 				 as best I can.)	
 0xcef2	0x98	ALTO	#6A	(I will unravel the mysteries	
 				 of the "End of the World" and	
-				 the <Star Shards>!)	
+				 the Star Shards!)	
 0xcf6c	0x06	ALTO		ANI_DENY	
 0xcf92	0x98	ALTO	#6A	(...But I won't really,	
 				 will I?)	
@@ -625,7 +625,7 @@ EV_0_S20_meet_creha
 				infinity has a distinct end...	
 				beyond which one cannot go.#0E	
 0xd823	0x41	None	#0W#2E	...Even so, I reached it.	
-				The lost paradise of <Lost Heaven>...#0E	
+				The lost paradise of Lost Heaven...#0E	
 0xd8c4	0x41	None	#0W#2E	──Now──#0E	
 0xda14	0x3F	Name		???	
 0xda1f	0x98	Creha	#200x#40y#1W	.....................	mp_0003 0xc610
@@ -707,7 +707,7 @@ EV_1_S00_go_jungle
 0xf74c	0x06	NOI		ANI_DEJECTED	
 0xf7b7	0x98	NOI		Oh, I'm such an idiot...	
 				Letting humans into this	
-				<Sacred Garden>...	
+				Sacred Garden...	
 0xf818	0x06	NOI		ANI_GUTSPOSE	
 0xf883	0x98	NOI		If it's become like this,	
 				I have to protect Master Kureha!	
@@ -731,23 +731,23 @@ EV_1_S00_go_jungle
 0xfc3e	0x98	NOI		T-Things?	
 0xfc6e	0x06	ALTO		ANI_GESTURE1	
 0xfc98	0x98	ALTO	#6A	About this world of	
-				<Lost Heaven>...	
+				Lost Heaven...	
 0xfcde	0x98	ALTO	#6A	What kind of world is this?	
 				Where is it in relation	
 				to our world? and such.	
 0xfd52	0x06	NOI		ANI_THINK	
-0xfdba	0x98	NOI		<Lost Heaven>...?	
+0xfdba	0x98	NOI		Lost Heaven...?	
 				People from the other	
 				world call it that.	
 0xfe5c	0x06	NOI		ANI_GESTURE1	
-0xfe85	0x98	NOI		──This world's name is <Terra>...	
-0xfec7	0x98	NOI		Together with the <Garden> on this island,	
+0xfe85	0x98	NOI		──This world's name is Terra...	
+0xfec7	0x98	NOI		Together with the Garden on this island,	
 				there are four continents that	
 				make up this beautiful world.	
 0xff53	0x06	ALTO		ANI_THINK2	
-0xff7b	0x98	ALTO	#6A	<Terra>...If I remember correctly,	
+0xff7b	0x98	ALTO	#6A	Terra...If I remember correctly,	
 				it's an old word used to refer to Earth.	
-0xffe8	0x98	ALTO		The <Garden> and the	
+0xffe8	0x98	ALTO		The Garden and the	
 				four continents, huh...	
 0x10033	0x98	ALTO	#6A	Even so, I wonder if it's past	
 				the "End" of our world...	
@@ -762,16 +762,16 @@ EV_1_S00_go_jungle
 				talking about, there's one	
 				right here!	
 0x1040b	0x98	Signa	#6A	You called her	
-				<Kureha> just now, right?	
+				Kureha just now, right?	
 0x1045e	0x98	NOI	#6A	D-Don't lump her her in	
 				with yourselves!	
-0x104a7	0x98	NOI	#6A	Master Kureha is one of the <Mythos>,	
+0x104a7	0x98	NOI	#6A	Master Kureha is one of the Mythos,	
 				a descendant of the race that	
 				created this world.	
 0x1051e	0x98	NOI	#6A	Awhile back, some things	
 				happened and she fell	
 				asleep though...	
-0x10585	0x98	ALTO	#6A	The <Mythos>...	
+0x10585	0x98	ALTO	#6A	The Mythos...	
 				They created this world!?	
 0x105d0	0x98	ALTO	#6A	And then...they fell asleep and	
 				have been sleeping in this place	
@@ -785,7 +785,7 @@ EV_1_S00_go_jungle
 0x1088e	0x98	NOI		Y-Yeah, that's about it...	
 0x10909	0x98	NOI		This garden is entrusted to me	
 				while Master Kureha sleeps...	
-				It's the position of the <Warden>.	
+				It's the position of the Warden.	
 0x1098d	0x06	ALTO		ANI_COMPLAIN	
 0x109b7	0x98	ALTO	#6A	You supervise a huge place like this	
 				all by yourself!?	
@@ -793,16 +793,16 @@ EV_1_S00_go_jungle
 0x10a17	0x98	ALTO	#6A	Hmm, well then...	
 				What is that huge tower you	
 				came from just now?	
-0x10c31	0x98	NOI		That is <Heliograd>.	
+0x10c31	0x98	NOI		That is Heliograd.	
 				The most important place	
 				in this world...	
 0x10ca8	0x98	NOI	#16S	...aaaaah!!	
 0x10e0e	0x06	NOI		ANI_WORRIED	
 0x10e55	0x98	NOI		I-I can't hang around and chat right now!	
 0x10e9d	0x98	NOI		I...I've got to take back	
-				the <Master Gear>!!	
+				the Master Gear!!	
 0x10f32	0x06	ALTO		ANI_THINK2	
-0x10f5a	0x98	ALTO	#6A	The <Master Gear>...	
+0x10f5a	0x98	ALTO	#6A	The Master Gear...	
 				It was the thing taken by	
 				the man called Zext.	
 0x10fc6	0x06	Signa		ANI_GESTURE2	
@@ -811,16 +811,16 @@ EV_1_S00_go_jungle
 0x1105f	0x06	NOI		ANI_COMPLAIN	
 0x110a5	0x98	NOI	#16S	If it's not important,	
 				then nothing is!	
-0x11138	0x98	NOI		Because it was stolen, <Terra>'s	
+0x11138	0x98	NOI		Because it was stolen, Terra's	
 				climate has gone crazy and	
 				monsters have begun to appear...	
-0x111f3	0x98	NOI		If I don't get the <Master Gear>	
+0x111f3	0x98	NOI		If I don't get the Master Gear	
 				from Zext, this world will be	
 				thrown into chaos!	
 0x1143a	0x06	NOI		ANI_GUTSPOSE	
 0x11463	0x98	NOI		Master Kureha...	
 				I'll return to you soon!	
-0x114ec	0x98	NOI		As the warden of the <Garden>...	
+0x114ec	0x98	NOI		As the warden of the Garden...	
 				I'll show you I can stop Zext!	
 0x11593	0x06	NOI		ANI_NOD	
 0x115b7	0x98	NOI		...Somehow, please wait for me!	
@@ -832,7 +832,7 @@ EV_1_S00_go_jungle
 0x11a6d	0x98	Signa		Listen up, listen to	
 				what we have to say!	
 0x11ab6	0x98	Signa		Do you really plan to take back	
-				the <Master Gear> or whatever	
+				the Master Gear or whatever	
 				all by yourself?	
 0x11b23	0x98	Signa		That skilled masked guy	
 				is over there too y'know.	
@@ -893,10 +893,10 @@ EV_1_S00_go_jungle
 0x123eb	0x98	Signa		I'm Cygna Alhazen.	
 0x1241e	0x98	Signa		We three will do whatever it takes	
 				to show you we can take back	
-				the <Master Gear> or whatever!	
+				the Master Gear or whatever!	
 0x124a3	0x06	NOI		ANI_NOD	
 0x124c7	0x98	NOI	#6A	...Understood.	mp_0000 0x1c46f
-0x124f7	0x98	NOI	#6A	For <Terra> and Master Kureha!!	
+0x124f7	0x98	NOI	#6A	For Terra and Master Kureha!!	
 0x127b9	0x06	Signa		ANI_WAIT3	
 0x127ee	0x06	st		ANI_STOP2	
 0x1286b	0x06	NOI		ANI_USE_POWER	
@@ -910,10 +910,10 @@ EV_1_S00_go_jungle
 0x12cc7	0x98	ALTO	#6A	Noi, what is this...？	
 0x12d1c	0x06	NOI		ANI_WAIT	
 0x12d75	0x98	NOI		This is a "Transporter Device" that	
-				connects this <Garden> to the	
+				connects this Garden to the	
 				other continents!	
 0x12de5	0x98	NOI		It seems that Selam headed for the	
-				continent called <Oltapia> southwest	
+				continent called Oltapia southwest	
 				of here, but...	
 0x12e59	0x06	NOI		ANI_ROTATE	
 0x12e80	0x98	NOI		By using this, we can	
@@ -926,14 +926,14 @@ EV_1_S00_go_jungle
 0x12f9f	0x98	ALTO	#6A	I wonder what kind of mechanism	
 				it uses...	
 0x12feb	0x98	ALTO		If I could figure it out, we could go from	
-				<Remnant Island> to Saint Cerize	
+				Remnant Island to Saint Cerize	
 				in an instant easily!	
 0x13072	0x6B	NOI		Unknown	
 0x130b8	0x06	NOI		ANI_ANGRYTALK	
 0x130e2	0x98	NOI		...Oh, enough already!	
 				I'll leave you behind!	
 0x13152	0x98	NOI		Are you listening? there are four	
-				<Master Gears> in all, but...	
+				Master Gears in all, but...	
 0x131af	0x98	NOI		They all fell into the	
 				hands of Zext.	
 0x131f2	0x98	NOI		If we don't recover them quickly, Zext will use	
@@ -944,7 +944,7 @@ EV_1_S00_go_jungle
 0x1337e	0x06	Signa		ANI_WAIT2	
 0x133a6	0x98	Signa	#6A	Well then, hurry and	
 				take us to that	
-				<Oltapia> continent!	
+				Oltapia continent!	
 0x13409	0x06	NOI		ANI_NOD	
 0x1342d	0x98	NOI		Understood...	
 				You two, to the center	
@@ -952,13 +952,13 @@ EV_1_S00_go_jungle
 0x135fd	0x06	NOI		ANI_GUTSPOSE	
 0x13626	0x98	NOI	#6A	Are you guys ready?	
 0x1365b	0x98	NOI	#6A#16S	Here we go...	
-				#16STo Forest Continent <Oltapia>!	
+				#16STo Forest Continent Oltapia!	
 0x136f0	0x06	st		ANI_PATA1	
 0x13736	0x6B	ALTO		Unknown	
 0x13760	0x6B	Signa		Unknown	
 0x1378b	0x06	ALTO		ANI_SURPRISE	
 0x137b5	0x06	Signa		ANI_SURPRISE	
-0x13a01	0xCE	Objective		Looking for the <Master Gear>. Let's search Oltapia together!	
+0x13a01	0xCE	Objective		Looking for the Master Gear. Let's search Oltapia together!	
 SB_1_S00_heart
 SB_1_S00_alto_move
 SB_1_S00_signa_move
@@ -984,7 +984,7 @@ EV_2_S01_look_around
 				manipulating it...	
 0x14561	0x06	NOI		ANI_THINK	
 0x14587	0x98	NOI	#6A	Though it's now connected	
-				only to <Oltapia>...	
+				only to Oltapia...	
 0x145d6	0x98	NOI	#6A	It's possible that he found another	
 				teleporter unknown to us though...	
 0x14645	0x6B	NOI		Ellipsis	
@@ -1025,13 +1025,13 @@ EV_2_S01_look_around
 EV_2_S10_return_tera
 0x158f0	0x98	NOI		This way!	
 0x15c8c	0x98	ALTO	#6A	This is...	
-				the <Heliograd> gate?	
+				the Heliograd gate?	
 0x15cd6	0x98	NOI		Hmm...	
 				Just wait a minute.	
 0x15d38	0x06	NOI		ANI_USE_POWER	
 0x15ec2	0x06	NOI		ANI_WAIT	
 0x15efc	0x98	NOI		Beyond here is the most important	
-				"machine" in <Terra>.	
+				"machine" in Terra.	
 0x15f51	0x98	NOI		If we use it, we might	
 				learn Cygna's location!	
 0x15fa5	0x6B	ALTO		Exclamation	
@@ -1054,7 +1054,7 @@ EV_2_S14_hear_gio_voice
 0x167ba	0x98	NOI		This voice is...Gio!?	
 0x167ee	0x98	ALTO		Where in the world is it coming from?	
 0x16833	0x41	None	#0W#2E#310c	I am communicating with you	
-				telepathically from <Oltapia> temple.#0E	
+				telepathically from Oltapia temple.#0E	
 0x168d3	0x41	None	#0W#2E#310c	The truth is, earlier,	
 				I was finally able to	
 				destroy that "cage."#0E	
@@ -1082,7 +1082,7 @@ EV_2_S14_hear_gio_voice
 0x170a6	0x41	None	#0W#2E#310c	It seems all you can do is directly	
 				confirm the true identity of "Zext."#0E	
 0x1714d	0x41	None	#0W#2E#310c	Anyway, my proper place	
-				is at the <Temple>.#0E	
+				is at the Temple.#0E	
 0x171d7	0x41	None	#0W#2E#310c	If you need something,	
 				please come ask me.	
 				...Well then.#0E	
@@ -1142,7 +1142,7 @@ EV_2_S30_talk_creha
 				It can't be like this...	
 0x188fb	0x06	NOI		ANI_COMPLAIN	
 0x1892c	0x98	NOI	#6A	Then, about me...	
-				and the <Mythos>...!?	
+				and the Mythos...!?	
 0x18992	0x6B	Creha		Ellipsis	
 0x18a0b	0x06	Creha		ANI_SIT1_DENY	
 0x18a3f	0x98	Creha	#0W	......I'm sorry.	
@@ -1158,12 +1158,12 @@ EV_2_S30_talk_creha
 0x18c6e	0x98	NOI	#6A	...Yeah, well there can't	
 				be any mistake about that.	
 0x18cc3	0x98	NOI	#6A	She felt the unusual	
-				phenomena occurring in <Terra>	
+				phenomena occurring in Terra	
 				and awakened...	
 0x18d26	0x98	NOI	#6A	Then, while still unconscious,	
 				I think she used a "power."	
-0x18d81	0x98	NOI	#6A	Because the <Mythos> are a race	
-				that can manipulate the <Power of Stars>...	
+0x18d81	0x98	NOI	#6A	Because the Mythos are a race	
+				that can manipulate the Power of Stars...	
 0x18df5	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x18e24	0x98	ALTO	#6A	Manipulate the Power of Stars!?	
 0x18e66	0x98	ALTO	#6A	(If that's the case, I can accept	
@@ -1198,7 +1198,7 @@ EV_3_S04_meet_creha
 0x1995d	0x06	ALTO		ANI_LOOK_AROUND	
 0x19992	0x98	ALTO		(...If Noi was around,	
 				 maybe she'd have some idea	
-				 about the <Yupina Grass>...)	
+				 about the Yupina Grass...)	
 0x19a00	0x98	ALTO		(I've got to find her quickly!)	
 0x19a9a	0x06	Creha		ANI_WAIT	
 0x19ac1	0x98	Creha	#30x#270y	...What's wrong?	mp_0001 0x1656d
@@ -1217,7 +1217,7 @@ EV_3_S04_meet_creha
 0x19ed3	0x98	Creha	#6A	...Did something happen?	
 0x19f17	0x06	ALTO		ANI_COMPLAIN	
 0x19f5f	0x98	ALTO		I must hurry and find the	
-				herb called <Yupina Grass>!	
+				herb called Yupina Grass!	
 0x19ff7	0x98	ALTO	#0W	If I don't hurry, then my sister will...!	
 				My sister is sick!!	
 0x1a05e	0x6B	Creha		Surprise	
@@ -1263,8 +1263,8 @@ EV_3_S04_meet_creha
 0x1b0f1	0x98	ALTO		Even though she herself knew about it...	
 				Somehow, please lend me a hand.	
 0x1b158	0x98	ALTO		Will you search using the	
-				<Astrolabe> and find out whether	
-				<Yupina Grass> exists in this world?	
+				Astrolabe and find out whether	
+				Yupina Grass exists in this world?	
 0x1b1dd	0x06	NOI		ANI_NOD	
 0x1b21e	0x98	NOI	#6A	...Understood.	
 				You've saved me many times...	
@@ -1304,19 +1304,19 @@ EV_3_S08_hear_eris_voice
 				to be that of father and daughter.	
 0x1bfd2	0x40	UNDEF		Concerned for the girl who had lost her memories,	
 				they decided to remain silent about it for now.	
-0x1c191	0x41	None	#0W#2E#029c	<Yupina Grass> and	
+0x1c191	0x41	None	#0W#2E#029c	Yupina Grass and	
 				that Cygna child...	
 				I hope you find them soon.#0E	
 0x1c238	0x06	ALTO		ANI_NOD	
 0x1c25d	0x98	ALTO		Yes...Thank you very much.	
 0x1c297	0x41	None	#0W#2E#029c	Anyway, I plan to remain at	
-				the <Temple> for some time.#0E	
+				the Temple for some time.#0E	
 0x1c32d	0x41	None	#0W#2E#029c	I have various things to do...	
 				If you need something,	
 				don't hold back and come.#0E	
 0x1c4fa	0x06	ALTO		ANI_GESTURE2	
 0x1c524	0x98	ALTO	#6A	Then, let's hurry to	
-				<Heimmel>.	
+				Heimmel.	
 0x1c59d	0x06	NOI		ANI_NOD	
 0x1c5c1	0x98	NOI		Yeah...	
 				We've got a bunch of things to do this time.	
@@ -1328,7 +1328,7 @@ EV_3_S24_meet_gio
 0x1cbe4	0x98	Gio		Oh, it's you guys.	mp_0000 0x1a8e1
 0x1cc1d	0x06	ALTO		ANI_GESTURE2	
 0x1cc47	0x98	ALTO	#6A	Gio, you've come to	
-				the <Garden>.	
+				the Garden.	
 0x1ccc2	0x98	NOI	#6A	I'd like you to come here only	
 				when I go to Nayuta's world.	
 0x1cd83	0x98	NOI	#6A	I'm worried about leaving	
@@ -1359,14 +1359,14 @@ EV_3_S24_meet_gio
 0x1d216	0x06	ALTO		ANI_WAIT	
 0x1d2d2	0x06	ALTO		ANI_GESTURE1	
 0x1d2fc	0x98	ALTO	#6A	Hmm, by the way, what about Kureha?	
-0x1d35f	0x98	Gio		She is at the <Astrolabe> now...	
+0x1d35f	0x98	Gio		She is at the Astrolabe now...	
 				Somehow, she seems down.	
 0x1d3c1	0x98	Gio		As for her memory loss,	
 				it seems everything we've thought	
 				of has been useless.	
 0x1d42c	0x06	Gio		ANI_GESTURE2	
 0x1d455	0x98	Gio		She knows how to manipulate the	
-				<Power of Stars>, even though	
+				Power of Stars, even though	
 				she is confused.	
 0x1d4ed	0x98	NOI	#6A	...I'm worried.	
 0x1d551	0x98	Gio		Anyway, all we can do	
@@ -1384,7 +1384,7 @@ EV_3_S24_meet_gio
 				can cheer her up.	
 0x1d98e	0x06	NOI		ANI_NOD	
 0x1d9b2	0x98	NOI	#6A	Yeah...	
-				Let's hurry to the <Astrolabe>!	
+				Let's hurry to the Astrolabe!	
 0x1da64	0x06	ALTO		ANI_WAIT	
 0x1daf7	0xCE	Objective		Kureha's by the Astrolabe. Let's hurry there.	
 EV_4_S02_hear_algo_voice
@@ -1420,7 +1420,7 @@ EV_4_S02_hear_algo_voice
 0x1e89e	0x98	NOI	#6A	...With this, Algol is all right.	
 0x1e8e1	0x06	NOI		ANI_GUTSPOSE	
 0x1e90a	0x98	NOI	#6A	Let's go, Nayuta...	
-				To <La Worg> continent!	
+				To La Worg continent!	
 0x1e956	0x06	ALTO		ANI_NOD	
 0x1e97b	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x1ea35	0xCE	Objective		Cygna and Zext went to the origin continent. Let's chase them!	
@@ -1530,14 +1530,14 @@ EV_8_S07_check_sleeper
 				sleeping there are now in	
 				a deep sleep.#0E	
 0x219c0	0x41	None	#0W#995c#1E	By a certain incident that	
-				happened in <Terra>, their souls	
+				happened in Terra, their souls	
 				have been captured.#0E	
 0x21a75	0x98	NOI	#6A	Captured souls...!?	
 0x21ab2	0x06	ALTO		ANI_THINK2	
 0x21ada	0x6B	ALTO		Ellipsis	
 0x21b0c	0x98	ALTO	#6A	...Just who are you?	
 0x21b43	0x98	ALTO	#6A	Calling me out to	
-				<Terra>...	
+				Terra...	
 				Just what is your objective?	
 0x21ba5	0x06	ALTO		ANI_COMPLAIN	
 0x21bcf	0x98	ALTO	#6A	Could it be that those	
@@ -1545,7 +1545,7 @@ EV_8_S07_check_sleeper
 0x21c31	0x41	None	#0W#995c#1E	...My true identity is	
 				of little significance.#0E	
 0x21cbe	0x41	None	#0W#995c#1E	If you wish to wake the	
-				<Mythos> sleeping there...	
+				Mythos sleeping there...	
 				Be quiet now and listen.#0E	
 0x21d6f	0x6B	NOI		Ellipsis	
 0x21dd8	0x98	NOI	#6A	Nayuta...	
@@ -1562,7 +1562,7 @@ EV_8_S07_check_sleeper
 0x21fe7	0x41	None	#0W#995c#1E	Then good.#0E	
 0x2206f	0x41	None	#0W#995c#1E	──Then, allow me to	
 				explain in order.	
-				Of what happened in this <Terra>.#0E	
+				Of what happened in this Terra.#0E	
 EV_8_S09_go_astrolabe
 0x222f2	0x06	ALTO		ANI_WAIT3	
 0x2237b	0x06	NOI		ANI_THINK	
@@ -1572,7 +1572,7 @@ EV_8_S09_go_astrolabe
 0x22456	0x98	ALTO	#6A	So that's what's going on...	
 0x2249d	0x41	None	#0W#995c#1E	Then, this is the main issue.	
 				...Nayuta Herschel.#0E	
-0x2252d	0x41	None	#0W#995c#1E	If you want to save the <Mythos>...	
+0x2252d	0x41	None	#0W#995c#1E	If you want to save the Mythos...	
 				You must head for the inner	
 				world of the Astrolabe.#0E	
 0x225ea	0x6B	ALTO		Exclamation	
@@ -1583,10 +1583,10 @@ EV_8_S09_go_astrolabe
 0x226d1	0x06	NOI		ANI_DENY	
 0x226f6	0x98	NOI	#6A	Do you think you can	
 				do something like that!?	
-0x2274c	0x41	None	#0W#995c#1E	The idol of the <Astrolabe>...	
+0x2274c	0x41	None	#0W#995c#1E	The idol of the Astrolabe...	
 				If it is you, you can likely open	
 				the gate to the Inner World.#0E	
-0x22807	0x41	None	#0W#995c#1E	Anyhow, the <Astrolabe>	
+0x22807	0x41	None	#0W#995c#1E	Anyhow, the Astrolabe	
 				is Noi herself.#0E	
 0x2288d	0x41	None	#0W#995c#1E	However, because of that...	
 				Noi cannot oppose herself.#0E	
@@ -1594,7 +1594,7 @@ EV_8_S09_go_astrolabe
 				Do you have to	
 				be alone, Nayuta?	
 0x2297d	0x98	ALTO	#0W#6A	.........	
-0x229b4	0x41	None	#0W#995c#1E	If you would save the <Mythos>,	
+0x229b4	0x41	None	#0W#995c#1E	If you would save the Mythos,	
 				this is the only way.#0E	
 0x22a48	0x41	None	#0W#995c#1E	However, I do not	
 				know what sort of dangers	
@@ -1651,7 +1651,7 @@ EV_8_S09_go_astrolabe
 0x2357e	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x235ac	0x98	ALTO		Ahaha, having that said to my	
 				face is a little embarrassing.	
-0x2360f	0x98	NOI	#6A	...Just leave the <Terra>	
+0x2360f	0x98	NOI	#6A	...Just leave the Terra	
 				climate control functions	
 				to me.	
 0x23669	0x98	NOI	#6A	...Because strong monsters	
@@ -1662,7 +1662,7 @@ EV_8_S09_go_astrolabe
 				Let's get our equipment perfectly	
 				ready, and go to the Astrolabe!	
 0x237dc	0x07	System	#3C	You are again able to use equipment items.	
-0x2382d	0x07	System	#3C	You can go to "Winter" of <Oltapia>,	
-				"Autumn" of <Rieseweld>, "Spring" of <Heimmel>,	
-				and "Summer" of <La Worg>.	
+0x2382d	0x07	System	#3C	You can go to "Winter" of Oltapia,	
+				"Autumn" of Rieseweld, "Spring" of Heimmel,	
+				and "Summer" of La Worg.	
 0x23a41	0xCE	Objective		Nayuta, let's prepare carefully, then head to the Astrolabe!	

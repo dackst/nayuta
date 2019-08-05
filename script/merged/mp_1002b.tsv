@@ -111,7 +111,7 @@ QS_81_hang_out_box
 0x31be	0x06	NOI		ANI_GESTURE1	
 0x31e7	0x98	NOI	#6A	A structure that senses the Power of Stars...	
 				It seems like you could construct them in various	
-				places in <Terra>.	
+				places in Terra.	
 0x3279	0x98	NOI	#6A	It's possible that once, the Mythos made	
 				such things on a daily basis.	
 0x32e0	0x06	ALTO		ANI_NOD	
@@ -120,8 +120,8 @@ QS_81_hang_out_box
 0x3347	0x06	ALTO		ANI_JOY	
 0x336c	0x98	ALTO		Alright. Anyway,	
 				let's try searching for the next altar.	
-0x33c3	0x98	ALTO		Next is either the <Abyss Continent> or	
-				the <Sacred Mountain> continent...	
+0x33c3	0x98	ALTO		Next is either the Abyss Continent or	
+				the Sacred Mountain continent...	
 				Which one is next in line?	
 EV_2_S19_jungle_summer
 0x37f4	0x06	ALTO		ANI_LOOK_AROUND	
@@ -205,7 +205,7 @@ EV_2_S20_help_gio
 0x67eb	0x98	ALTO	#1W#6A	You are...	
 				(Just a little more and I'll think	
 				 of him as an old man...)	
-0x68e6	0x98	Gio	#1W	Indeed, I am <Lychnis> Gio...	
+0x68e6	0x98	Gio	#1W	Indeed, I am Lychnis Gio...	
 				I am the warden of this Oltapia.	
 0x698f	0x06	Gio		ANI_GESTURE1	
 0x69c6	0x98	Gio	#1W	You are a human child, are you not?	
@@ -233,7 +233,7 @@ EV_2_S20_help_gio
 0x71c1	0x98	Gio		No...I have not seen him.	
 0x724e	0x98	Gio		If you searched with the Astrolabe,	
 				it seems there is a strong possibility	
-				that he is on <Rieseweld>...	
+				that he is on Rieseweld...	
 0x72da	0xBC	Gio		Ellipsis	
 0x7375	0x98	Gio		By the way, Noi.	
 				As for the man called Zext	
@@ -248,14 +248,14 @@ EV_2_S20_help_gio
 0x7540	0x06	ALTO		ANI_COMPLAIN	
 0x756a	0x98	ALTO	#6A	W-What do you mean!?	
 				By "Master" Zext...	
-0x75ee	0x98	Gio		The <Mythos> race that	
+0x75ee	0x98	Gio		The Mythos race that	
 				created Terra...	
 0x7650	0x98	Gio		"Zext" is the name	
 				of its leader.	
 0x76e4	0x98	Gio		I heard he died	
 				long ago, but...	
 0x772a	0x06	ALTO		ANI_GESTURE2	
-0x7754	0x98	ALTO	#6A	The <Mythos> are...	
+0x7754	0x98	ALTO	#6A	The Mythos are...	
 				That's Kureha's race, right!?	
 0x77fc	0x98	ALTO	#6A	Noi, why didn't you tell	
 				me about this until now!?	
@@ -303,14 +303,14 @@ EV_2_S20_help_gio
 0x86be	0x98	Gio		In so doing, we were given various powers	
 				to bestow when the time comes.	
 0x8724	0x06	Gio		ANI_NOD	
-0x878a	0x98	Gio		That time is now, when <Terra> is in danger...	
+0x878a	0x98	Gio		That time is now, when Terra is in danger...	
 				Please use it well.	
 0x87f2	0x06	NOI		ANI_GESTURE2	
 0x881b	0x98	NOI	#6A	Thank you, Gio!	
 0x88ce	0x98	Gio		And you, human child...	
 				Nayuta, I believe.	
 0x8916	0x06	Gio		ANI_TALK	
-0x8958	0x98	Gio		As for the matter of you visiting <Terra> too,	
+0x8958	0x98	Gio		As for the matter of you visiting Terra too,	
 				I am sure it is no coincidence.	
 0x89c4	0x06	Gio		ANI_NOD	
 0x8a05	0x98	Gio		The path will be grim...	
@@ -319,7 +319,7 @@ EV_2_S20_help_gio
 0x8a7c	0x98	ALTO	#6A	Yes!	mp_0001 0xfd91
 0x8aab	0x06	Gio		ANI_LAUGH	
 0x8b13	0x98	Gio		Heheheh, you have a good face.	
-0x8b9a	0x98	Gio		I will go to the <Temple>,	
+0x8b9a	0x98	Gio		I will go to the Temple,	
 				where I belong.	
 0x8c18	0x98	Gio		If you need something,	
 				please come visit.	

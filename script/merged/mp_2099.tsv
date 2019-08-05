@@ -2,14 +2,14 @@ mp_2099
 first_init
 init
 talk_Erislet
-0x1958	0x98	Erislet		The mission of the <Mythos>...	
+0x1958	0x98	Erislet		The mission of the Mythos...	
 				Even Nemeas didn't know.	
 0x19b1	0x98	Erislet		It may be a matter concerning	
-				this world of <Terra> itself.	
+				this world of Terra itself.	
 0x1a0e	0x98	Erislet		...If Zext's words are not a lie.	
 0x1a7a	0x98	Erislet		As for us wardens, we will	
-				attempt to control the <Power	
-				of Stars> from the temples.	
+				attempt to control the Power	
+				of Stars from the temples.	
 0x1aef	0x98	Erislet		I will leave Master Kureha to	
 				you two!	
 0x1b6d	0x98	Erislet		Good grief, it's	
@@ -18,15 +18,15 @@ talk_Erislet
 				to Master Kureha.	
 				I have a bad feeling about this...	
 0x1c4f	0x98	Erislet		As for us wardens, we will	mp_2099 0x1a7a
-				attempt to control the <Power	
-				of Stars> from the temples.	
+				attempt to control the Power	
+				of Stars from the temples.	
 0x1cc4	0x98	Erislet		I will leave Master Kureha to	mp_2099 0x1aef
 				you two!	
 0x1d42	0x98	Erislet		If you retrieve the remaining	
-				<Master Gear> of the origin continent,	
+				Master Gear of the origin continent,	
 				you can completely repair the Astrolabe.	
 0x1dd0	0x98	Erislet		Speaking of that,	
-				all <Master Gears> up until now	
+				all Master Gears up until now	
 				have been left in the altars.	
 0x1e40	0x98	Erislet		Zext...	
 				Just what could his true objective be	
@@ -35,8 +35,8 @@ talk_Erislet
 0x1f0f	0x98	Erislet		I've tried various things since then,	
 				but this temple is mostly shut down.	
 0x1f7b	0x98	Erislet		However, I can send a minimum amount of the	
-				<Power of Stars> to every place on this continent...	
-				You must quickly retrieve the final <Master Gear>.	
+				Power of Stars to every place on this continent...	
+				You must quickly retrieve the final Master Gear.	
 0x2065	0x98	Erislet		It seems Master Kureha went to	
 				the human world.	
 0x20b6	0x98	Erislet		Certainly, for Master Kureha now,	
@@ -201,7 +201,7 @@ QS_33_undertake
 0x4377	0x98	Erislet		Yes...I understood this when 	
 				I searched the place where a	
 				creature used to live in...	
-0x440f	0x98	Erislet		Somehow, it seems the <Moon Bird>	
+0x440f	0x98	Erislet		Somehow, it seems the Moon Bird	
 				that used to live on this Rieseweld	
 				continent has disappeared.	
 0x4490	0x6B	ALTO		Exclamation	
@@ -220,8 +220,8 @@ QS_33_undertake
 0x46d4	0x98	Erislet		Because the climate is in disarray,	
 				Moon Bird numbers have decreased	
 				considerably in a short time.	
-0x4757	0x98	Erislet		That might be because the <Power	
-				of Stars>, the source of all life in this	
+0x4757	0x98	Erislet		That might be because the Power	
+				of Stars, the source of all life in this	
 				world, has temporarily stopped.	
 0x47e2	0x06	Erislet		ANI_WAIT	
 0x480b	0x06	ALTO		ANI_THINK	
@@ -231,7 +231,7 @@ QS_33_undertake
 0x48cd	0x06	Erislet		ANI_WAIT	
 0x48f6	0x06	NOI		ANI_DEJECTED	
 0x491f	0x98	NOI	#6A	That was originally my responsibility.	
-				It's because I allowed the <Master Gears>	
+				It's because I allowed the Master Gears	
 				to be stolen...	
 0x499f	0x98	NOI	#6A	Master Kureha,	
 				I'm sorry...	
@@ -278,7 +278,7 @@ QS_33_undertake
 				are called "Penguins"...	
 0x5267	0x06	ALTO		ANI_WAIT	
 0x528d	0x06	NOI		ANI_THINK	
-0x52b3	0x98	NOI	#6A	Now that we've recovered the <Master Gear>,	
+0x52b3	0x98	NOI	#6A	Now that we've recovered the Master Gear,	
 				we can return the climate of Rieseweld to normal.	
 0x5331	0x06	NOI		ANI_JOY	
 0x5355	0x98	NOI	#6A	If we are talking about now, there should	
@@ -566,8 +566,8 @@ quest_SpiritD_End
 0x91f1	0x6B	SpiritD		Unknown	
 0x9226	0x06	ALTO		ANI_JOY	
 0x924b	0x98	ALTO		Haha, thanks. I'll accept it.	mp_1099 0xc3ff
-				(In Japanese, 5963 -> "go-ku-ro-san"	
-				 -> "Thanks for your hard work!")	
+				(In Japanese, 5963 - "go-ku-ro-san"	
+				 - "Thanks for your hard work!")	
 0x92cd	0x06	NOI		ANI_THINK	
 0x930b	0x98	NOI	#6A	We have to go already...	mp_1099 0xc4bf
 				Please do your best	
@@ -697,7 +697,7 @@ QS_83_quest_end
 				It was a test for us, wasn't it?	
 0xc903	0x06	Algorl		ANI_NOD	
 0xc92a	0x98	Algorl		Yes...We understand everything that has	mp_1099 0xf082
-				happened to <Terra> from start to end.	
+				happened to Terra from start to end.	
 0xc999	0x98	Algorl		In order to save the two Mythos,	mp_1099 0xf0f1
 				I think we should offer our final	
 				assistance.	
@@ -787,7 +787,7 @@ QS_83_quest_end
 0xdba1	0x06	Nemeas		ANI_GESTURE1	
 0xdbcd	0x98	Nemeas	#1W	When this time of change is over,	mp_1099 0x10325
 				spin a new history with the true meaning	
-				of <Terra>.	
+				of Terra.	
 0xdc5c	0x98	Algorl	#3W	...And finally,	mp_1099 0x103b4
 				We will grant you our	
 				remaining power.	
@@ -922,7 +922,7 @@ EV_2_S23_boss_battle
 0x12c7b	0x6B	SpiritA		Unknown	
 0x12d6a	0x6B	SpiritB		Unknown	
 0x12e59	0x6B	SpiritC		Unknown	
-0x132dc	0x98	Zext	#6A	The spirits of <Rieseweld> is it?	
+0x132dc	0x98	Zext	#6A	The spirits of Rieseweld is it?	
 0x13320	0x98	Zext	#6A	...Step aside.	
 				There is something I need to do.	
 0x13379	0x98	SpiritA		...............!	
@@ -946,7 +946,7 @@ EV_2_S23_boss_battle
 0x13f7b	0x06	ALTO		ANI_GESTURE1	
 0x13fc3	0x98	ALTO		The thing he has is...!	
 0x14020	0x06	NOI		ANI_GESTURE2	
-0x14049	0x98	NOI		The <Master Gear of Water> that	
+0x14049	0x98	NOI		The Master Gear of Water that	
 				rules the Rieseweld continent!	
 0x140a5	0x06	NOI		ANI_COMPLAIN	
 0x140eb	0x98	NOI		Give it back, Zext!	
@@ -957,7 +957,7 @@ EV_2_S23_boss_battle
 				Noi, that is not like you.	
 0x14257	0x98	Zext	#6A	No, because he was there, that 	
 				is the precise reason you were able	
-				to defeat the idols on <Oltapia>...	
+				to defeat the idols on Oltapia...	
 0x142e7	0xBC	ALTO		Surprise	
 0x14343	0x06	ALTO		ANI_GESTURE2	
 0x1436d	0x98	ALTO		...As I thought,	
@@ -996,10 +996,10 @@ EV_2_S23_boss_battle
 0x15a77	0x06	ALTO		ANI_WAIT	
 0x15a9d	0x98	ALTO		...The sky is...!?	
 0x15b36	0x98	NOI		...Two temples have been stopped,	
-				and the balance of the <Power of	
-				Stars> in this world is crumbling...	
+				and the balance of the Power of	
+				Stars in this world is crumbling...	
 0x15c34	0x98	NOI	#6A	At this rate...	
-				<Terra> itself could collapse!	
+				Terra itself could collapse!	
 0x15cbe	0x98	ALTO		N-No way...	mp_0111 0x86c0
 0x15e18	0x98	NOI	#6A	To steal the name of Master Zext	
 				and do things like this...	
@@ -1007,16 +1007,16 @@ EV_2_S23_boss_battle
 0x15ea9	0x98	Zext		...An imposter, you say.	
 				It seems you misunderstand.	
 0x15f24	0x98	Zext		My name is Zext Ji Quarius Dominador...	
-0x15f6b	0x98	Zext		The genuine leader of the <Mythos>.	
+0x15f6b	0x98	Zext		The genuine leader of the Mythos.	
 0x15fcb	0x98	Zext		I cannot believe you did not know this...	
-				──<Noi Stelladia>.	
+				──Noi Stelladia.	
 0x16030	0x06	NOI		ANI_SURPRISE	
 0x1606d	0x98	NOI	#6A#16S	!!!!	mp_0101b 0x3636
 0x160b4	0x98	ALTO	#6A	Stelladia...?	
 0x16109	0x98	NOI		M-My true name,	
 				I guess...	
 0x1615e	0x98	NOI	#6A	But why...	
-				Only the <Mythos>	
+				Only the Mythos	
 				should know that name though...	
 0x161ba	0x06	NOI		ANI_GESTURE1	
 0x161e3	0x98	NOI	#6A	Then, is he really...!?	
@@ -1037,7 +1037,7 @@ EV_2_S23_boss_battle
 0x16e0a	0x06	b001		ANI_EV1	
 0x1708b	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0x171b1	0x06	NOI		ANI_SURPRISE	
-0x17205	0x98	NOI	#1W	The <Rieseweld> idol...!!	
+0x17205	0x98	NOI	#1W	The Rieseweld idol...!!	
 				Just like before, it's out of control...	
 0x1729b	0x98	ALTO	#0W	...It seems we have no choice but to fight.	
 0x17332	0x98	ALTO	#1W	Let's go, Noi!	mp_1099 0x152c1
@@ -1066,7 +1066,7 @@ EV_2_S24_boss_end
 0x188c2	0x6B	ALTO		Exclamation	
 0x18918	0x06	ALTO		ANI_GESTURE2	
 0x18942	0x98	ALTO		Ah...look at that, Noi!	
-0x18b54	0x98	NOI	#N#500x#500y	The <Master Gear of Water>...!	
+0x18b54	0x98	NOI	#N#500x#500y	The Master Gear of Water...!	
 0x18b9d	0x98	NOI	#N#500x#500y	That he left it behind again means...	
 0x18c93	0x06	ALTO		ANI_GESTURE1	
 0x18cbd	0x98	ALTO	#6A	I don't understand the reason, but...	
@@ -1077,9 +1077,9 @@ EV_2_S24_boss_end
 0x18dd3	0x6B	NOI		Ellipsis	
 0x18e04	0x06	NOI		ANI_DENY	
 0x18e29	0x98	NOI		No...	
-				This time, the balance of the <Power of Stars>	
+				This time, the balance of the Power of Stars	
 				across all Terra has been upset!	
-0x18ed3	0x98	NOI		With only two <Master Gears>,	
+0x18ed3	0x98	NOI		With only two Master Gears,	
 				I cannot restore this level of	
 				abnormalities...	
 0x18f45	0x06	ALTO		ANI_COMPLAIN	
@@ -1094,12 +1094,12 @@ EV_2_S24_boss_end
 0x1941d	0x98	NOI		The sky is steadily worsening...	
 				At this rate...	
 0x19490	0x98	NOI		No, it's no good...	
-				<Terra> will end!	
+				Terra will end!	
 0x194db	0x6B	ALTO		Ellipsis	
 0x19545	0x06	ALTO		ANI_GESTURE2	
 0x1956f	0x98	ALTO	#6A	...Anyway Noi, let's go to the garden!	
 0x195b8	0x06	ALTO		ANI_NOD	
-0x195dd	0x98	ALTO	#6A	Even if the <Astrolabe>'s power	
+0x195dd	0x98	ALTO	#6A	Even if the Astrolabe's power	
 				is insufficient...	
 				We should do what we can!	
 0x19682	0x98	NOI		Yeah...	mp_1100 0x68da
@@ -1108,7 +1108,7 @@ EV_2_S24_boss_end
 				he's in danger...	
 0x19752	0x06	ALTO		ANI_COMPLAIN	
 0x1977c	0x98	ALTO	#6A	Something like waiting	
-				for <Terra> to collapse...	
+				for Terra to collapse...	
 				There's no way I can give up!	
 0x1983a	0x6B	ALTO		Exclamation	
 0x1987c	0x06	ALTO		ANI_LOOK_AROUND	
@@ -1129,11 +1129,11 @@ EV_2_S26_get_gear_2nd
 0x1a308	0x06	NOI		ANI_COMPLAIN	
 0x1a331	0x98	NOI		Could it be...	
 				Maybe something happened	
-				in the <Garden>!!	
+				in the Garden!!	
 0x1a38f	0x06	ALTO		ANI_NOD	
 0x1a3b4	0x98	ALTO	#6A	Y-Yeah...right!	
 0x1a430	0x98	ALTO	#6A	Then, let's collect the	
-				next <Master Gear>	
+				next Master Gear	
 0x1a4c4	0x98	NOI	#6A	Oh, that's right...	
 				A-Anyway, let's hurry!	
 0x1a630	0xC1	System		obtained.	mp_0000 0x7558

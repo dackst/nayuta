@@ -67,7 +67,7 @@ EV_1_S01_jungle1_start
 				I've got to get used to this quickly too.	
 0x280f	0x06	ALTO		ANI_WAIT4	
 0x2840	0x98	ALTO	#6A	...Anyhow,	
-				This is the <Forest Continent>, huh.	
+				This is the Forest Continent, huh.	
 0x2899	0x06	ALTO		ANI_WAIT	
 0x28da	0x06	ALTO		ANI_LOOK_AROUND	
 0x2907	0x98	ALTO		The cherry trees are blooming	
@@ -87,7 +87,7 @@ EV_1_S01_jungle1_start
 0x2b6d	0x98	NOI	#6A	Normally, there should be a	
 				verdant green forest beneath the	
 				sun's rays in this season.	
-0x2c01	0x98	NOI	#6A	But, due to the <Master Gear>	
+0x2c01	0x98	NOI	#6A	But, due to the Master Gear	
 				being stolen, the climate is	
 				going crazy in a big way.	
 0x2c7d	0x06	ALTO		ANI_GESTURE2	
@@ -96,7 +96,7 @@ EV_1_S01_jungle1_start
 				It's not a good situation.	
 0x2d3c	0x98	NOI	#6A	Anyway, we must hurry	
 				and take back the	
-				<Master Gear>...!	
+				Master Gear...!	
 0x2d95	0x06	NOI		ANI_GUTSPOSE	
 0x2dbe	0x98	NOI		Let's depart immediately, you two!	
 				Zext should definitely be	
@@ -127,7 +127,7 @@ EV_1_S02_jungle1_end
 0x3df6	0x06	NOI		ANI_THINK	
 0x3e1c	0x98	NOI	#6A	Speaking of Zext...	
 				Where is he planning on going with	
-				the <Master Gear> I wonder...	
+				the Master Gear I wonder...	
 0x3f22	0x06	Signa		ANI_WAIT4	
 0x3f4a	0x98	Signa		Anyway, it looks like he's no	
 				longer here. Let's keep	

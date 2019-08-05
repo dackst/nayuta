@@ -7,7 +7,7 @@ EV_0_S00_night_ship
 0xbb7	0x41	None	#0W#2E	1579 (N.S.), Summer#0E	
 0xc25	0x41	None	#0W#2E	Approximately 980 Selge	
 				southwest of the Port City of Saint	
-				Cerize on the <Ciencia Sea>...#0E	
+				Cerize on the Ciencia Sea...#0E	
 0x113c	0x98	ALTO	#0W	It sure got windy...	
 0x131e	0x06	ALTO		ANI_USE_SEXTANT	
 0x13cd	0x98	ALTO	#1W	87.61 degrees?	
@@ -36,7 +36,7 @@ EV_0_S00_night_ship
 				You're as enthusiastic as ever...	
 0x2287	0x06	Signa		ANI_WAIT3	
 0x2303	0x98	Signa	#0W	The captain said that we should be at	
-				<Remnant Island> by morning.	
+				Remnant Island by morning.	
 0x2376	0x98	Signa	#0W	You better head to bed now,	
 				or else you'll wake up with bags	
 				under your eyes.	
@@ -57,7 +57,7 @@ EV_0_S00_night_ship
 0x292a	0x98	ALTO	#1W	Ahaha, sorry, my bad.	
 0x298b	0x06	ALTO		ANI_THINK2	
 0x29df	0x98	ALTO	#0W	Still, it's been about 4 months since we	
-				last came home to <Remnant Island>, eh?	
+				last came home to Remnant Island, eh?	
 0x2a5f	0x98	ALTO	#0W	It would be good if my sister, Lyra and	
 				Master are all doing fine.	
 0x2acb	0x06	Signa		ANI_GESTURE2	
@@ -87,7 +87,7 @@ EV_0_S00_night_ship
 0x380e	0x98	ALTO	#1W	Wow, how beautiful...	
 				Hey, look! They're shooting in the	
 				direction of Remnant Island!	
-0x3892	0x98	ALTO	#1W	I wonder if there are <Star Shards>	
+0x3892	0x98	ALTO	#1W	I wonder if there are Star Shards	
 				inside!	
 0x38f5	0x98	Signa	#1W	I'm sure there are.	
 				......Even so, it's a beautiful view.	

@@ -2,14 +2,14 @@ mp_0000
 first_init
 init
 LP_Shop1
-0x254e	0x41	None		～  Bar & Inn <Moon View Pavillion>  ～	
+0x254e	0x41	None		～  Bar & Inn Moon View Pavillion  ～	
 				  We have tasty food and warm rooms	
 				    ready for you.	
 LP_Shop2
-0x262e	0x41	None		★Welcome to general store <Sunset>!★	
+0x262e	0x41	None		★Welcome to general store Sunset!★	
 				  From daily necessities to souvenirs,	
-				  leave it to <Sunset>!	
-				  Would you like to try <Star Shards>,	
+				  leave it to Sunset!	
+				  Would you like to try Star Shards,	
 				  Remnant Island's most popular product?	
 talk_Dorado
 0x2773	0x98	Dorado		When monsters come out this	
@@ -763,7 +763,7 @@ talk_Pyxia
 				and make the landscape only I can make!	
 0xb641	0x98	Horolo		Pyxia, I think that's an abstract-.	
 0xb6cc	0x98	Pyxia		Doing something like sketching	
-				<Star Shard> scenery...	
+				Star Shard scenery...	
 				I think that's a pretty good idea.	
 0xb744	0x98	Pyxia		Huhu, I can't lose...	
 				As the egg of an artist.	
@@ -773,7 +773,7 @@ talk_Pyxia
 0xb859	0x98	Pyxia		If I have these pigments, I should	
 				be able to draw an amazing picture!	
 0xb8d3	0x98	Pyxia	#18S	My goal is the chicken of the artist!	
-0xb941	0x98	Pyxia		This is <Remnant Island>...	
+0xb941	0x98	Pyxia		This is Remnant Island...	
 				It sure is a carefree place.	
 0xb999	0x98	Pyxia		Though it seems there's	
 				various interesting things, too...	
@@ -809,7 +809,7 @@ talk_Horolo
 				I'll have to make good use of my image,	
 				and make the landscape only I can make!	
 0xbf81	0x98	Horolo		Pyxia, I think that's an abstract-.	mp_0000 0xb641
-0xc00c	0x98	Horolo		Sketching <Star Shards>...	
+0xc00c	0x98	Horolo		Sketching Star Shards...	
 				In contrast to normal paintings,	
 				it seems they are very difficult.	
 0xc089	0x98	Horolo		I long for them～,	
@@ -1027,10 +1027,10 @@ QS_38_ask_reason
 0xf095	0x06	Horolo		ANI_WAIT	
 0xf0bd	0x06	Pyxia		ANI_GESTURE2	
 0xf0e8	0x98	Pyxia		I wanted to come to	
-				<Remnant Island>	
+				Remnant Island	
 				for a long time.	
 0xf13c	0x98	Pyxia		I thought the fallen ruins and	
-				<Star Shards> and such	
+				Star Shards and such	
 				would be a good stimulus.	
 0xf1aa	0x06	Pyxia		ANI_DEJECTED	
 0xf1d5	0x98	Pyxia		But...Phew...	
@@ -1101,7 +1101,7 @@ QS_38_ask_reason
 				 of "pigment' from the geologic	
 				 strata of a high mountain...)	
 0xfc84	0x98	ALTO	#6A	(I might be able to get them	
-				 if I go to <Terra>.	
+				 if I go to Terra.	
 				 ...I'll try searching there!)	
 0xfd29	0x07	System	#3C	Quest [Pigments Supply] started!	
 QS_38_quest_end

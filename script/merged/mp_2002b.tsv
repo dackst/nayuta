@@ -42,7 +42,7 @@ SUB_meet_adventurer
 0x1e86	0x06	ALTO		ANI_GESTURE2	
 0x1eb0	0x98	ALTO		You guys are...!?	
 0x1ee1	0x06	NOI		ANI_COMPLAIN	
-0x1f0a	0x98	NOI		H-How did you get to <Terra>!?	
+0x1f0a	0x98	NOI		H-How did you get to Terra!?	
 0x1f75	0x06	Cetus		ANI_SURPRISE	
 0x1fa0	0x06	Reticul		ANI_SURPRISE	
 0x1fcd	0x6B	Cetus		Exclamation	
@@ -52,7 +52,7 @@ SUB_meet_adventurer
 				Somehow, I'm excited...	
 0x2091	0x3F	Name		Youth with Rucksack	mp_0003 0xa0db
 0x20ac	0x06	Cetus		ANI_WAIT2	
-0x20d4	0x98	Cetus		Hmm, so this is called <Terra>...	
+0x20d4	0x98	Cetus		Hmm, so this is called Terra...	
 				If people like this are here,	
 				it is certainly a strange world.	
 0x2183	0x06	Cetus		ANI_WAIT3	
@@ -176,7 +176,7 @@ SUB_meet_adventurer
 				humans coming here to happen again...	
 0x3829	0x06	NOI		ANI_DEJECTED	
 0x3852	0x98	NOI		I wonder whether they will lay waste to	
-				<Terra> or tell other humans about it...	
+				Terra or tell other humans about it...	
 				Ooh, I'm worried about these things...	
 0x3944	0x06	ALTO		ANI_GESTURE2	
 0x396e	0x98	ALTO		Because they don't seem like bad people,	

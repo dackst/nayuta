@@ -15,7 +15,7 @@ EV_7_S04_temple5_front
 0x1b94	0x06	ALTO		ANI_LOOK_AROUND	
 0x1bc1	0x98	ALTO		This place is...Some kind of temple?	
 0x1c9d	0x98	NOI		It's a place for controlling the	
-				<Planetarium>, which is even	
+				Planetarium, which is even	
 				more important to Terra.	
 0x1d10	0x06	NOI		ANI_GESTURE1	
 0x1d39	0x98	NOI		...Zext and the others	
@@ -32,13 +32,13 @@ EV_7_S05_check_starball
 0x2317	0x98	NOI		There it is!	
 0x24d1	0x06	ALTO		ANI_SURPRISE	
 0x24fb	0x98	ALTO		Could that be the	
-				<Planetarium>!?	
+				Planetarium!?	
 0x2543	0x06	NOI		ANI_NOD	
 0x2567	0x98	NOI	#6A	Yeah, looks like it hasn't	
 				been activated yet...	
 0x25f0	0x98	NOI	#6A	It has the important roles of	
 				being Terra's core, and executing	
-				the <Remaking>.	
+				the Remaking.	
 0x2697	0x06	ALTO		ANI_GESTURE2	
 0x26c1	0x98	ALTO		It does that?	
 0x2728	0x41	None	#0W#1E#889c	──I will tell you.#0E	
@@ -48,14 +48,14 @@ EV_7_S05_check_starball
 0x2917	0x98	NOI		This voice...	
 0x2953	0x06	ALTO		ANI_COMPLAIN	
 0x2991	0x98	ALTO	#16S	──Cygna!!	
-0x29c8	0x41	None	#0W#1E#889c	In the future, this <Planetarium> will	
+0x29c8	0x41	None	#0W#1E#889c	In the future, this Planetarium will	
 				descend to the surface, and substitute	
 				for the half-destroyed planet's core.#0E	
 0x2a99	0x41	None	#0W#1E#889c	By doing that, the world's	
 				original form will be restored,	
 				and a new era will begin.#0E	
 0x2b53	0x06	ALTO		ANI_THINK	
-0x2b7a	0x98	ALTO		A substitute <Core>...	
+0x2b7a	0x98	ALTO		A substitute Core...	
 				So that is its structure.	
 0x2bd1	0x06	ALTO		ANI_GESTURE2	
 0x2bfb	0x98	ALTO		...Cygna, where are you!?	
@@ -78,9 +78,9 @@ EV_7_S06_meet_seram
 0x36bf	0x98	Seram		They are continuing	
 				preparations elsewhere.	
 0x371f	0x98	Seram		This place is for controlling	
-				the <Planetarium> remotely...	
+				the Planetarium remotely...	
 0x377a	0x06	Seram		ANI_GESTURE2	
-0x37a5	0x98	Seram		To execute the <Remaking>,	
+0x37a5	0x98	Seram		To execute the Remaking,	
 				a direct order is needed	
 				from Kureha and myself.	
 0x3817	0x06	ALTO		ANI_COMPLAIN	
@@ -88,7 +88,7 @@ EV_7_S06_meet_seram
 				There's no way Kureha wants that!	
 0x389a	0x06	ALTO		ANI_GESTURE2	
 0x38c4	0x98	ALTO	#6A	Because she said	
-				she will stop the <Remaking>!	
+				she will stop the Remaking!	
 0x393b	0x98	Seram		Yeah...Thanks to your	
 				unnecessary persuasion.	
 0x399d	0x06	Seram		ANI_GESTURE1	
@@ -112,10 +112,10 @@ EV_7_S06_meet_seram
 				something like that!?	
 0x3e07	0x98	Seram	#6A	──I've said it many times.	
 0x3e47	0x98	Seram	#6A	Compared to the mission of	
-				the <Mythos>, it is but a small	
+				the Mythos, it is but a small	
 				sacrifice.	
 0x3eae	0x06	Seram		ANI_GESTURE2	
-0x3ed9	0x98	Seram	#6A#0W	If she would interfere with the <Remaking>...	
+0x3ed9	0x98	Seram	#6A#0W	If she would interfere with the Remaking...	
 				She is nothing more than a hindrance.	
 0x3f5a	0x06	NOI		ANI_COMPLAIN	
 0x3fa0	0x98	NOI		Master Selam, why!?	
@@ -132,7 +132,7 @@ EV_7_S06_meet_seram
 				destruction are being repeated...	
 0x41dc	0x06	Seram		ANI_NOD	
 0x4202	0x98	Seram	#6A	...As expected, we should have	
-				executed the <Remaking> at that	
+				executed the Remaking at that	
 				time.	
 0x4270	0x06	ALTO		ANI_DENY	
 0x42b4	0x98	ALTO		Therefore...	
@@ -141,7 +141,7 @@ EV_7_S06_meet_seram
 0x4311	0x98	ALTO		That kind of thing...	
 				It's wrong!	
 0x4351	0x06	ALTO		ANI_GESTURE2	
-0x4399	0x98	ALTO		If it were the you on <Remnant Island>,	
+0x4399	0x98	ALTO		If it were the you on Remnant Island,	
 				you'd know that, right!?	
 0x44c8	0x06	Seram		ANI_DENY	
 0x44f7	0x98	Seram	#6A	...Now, now, you're making no progress.	
@@ -229,7 +229,7 @@ EV_7_S09_seram_stone
 				of your attitude in that talk.	
 0x6950	0xBC	Seram		Ellipsis	
 0x698f	0x06	Seram		ANI_WAKE_UP	
-0x6ab0	0x98	Seram	#6A	...I thought the <Remaking> was important	
+0x6ab0	0x98	Seram	#6A	...I thought the Remaking was important	
 				from the bottom of my heart.	
 0x6b21	0x98	Seram	#6A	Since I joined the vigilante	
 				corps in Saint Cerize, I came to	
@@ -239,7 +239,7 @@ EV_7_S09_seram_stone
 0x6c0d	0x06	NOI		ANI_GESTURE1	
 0x6c36	0x98	NOI		Master Selam...	
 0x6c6c	0x98	Seram	#6A	Even the fact that Remnant Island	
-				would be erased in the <Remaking>...	
+				would be erased in the Remaking...	
 				I had prepared myself for it.	
 0x6cfa	0x98	Seram	#6A	By bearing the continuing	
 				pain of that crime for eternity,	
@@ -272,7 +272,7 @@ EV_7_S09_seram_stone
 0x72a3	0x98	Seram		Since I returned to being "Selam,"	
 				I bet everything on one thing.	
 0x7304	0x98	Seram		With an unshakeable will, I headed	
-				for the <Remaking> head on, in	
+				for the Remaking head on, in	
 				denial...	
 0x736e	0x98	Seram		Until one who could push through	
 				that will by testing my strength	
@@ -290,7 +290,7 @@ EV_7_S09_seram_stone
 				defeated me in a	
 				test of strength and will.	
 0x7662	0x98	Seram		Because of that, I too...	
-				I too can impart that the <Remaking>	
+				I too can impart that the Remaking	
 				is a mistake.	
 0x76d5	0x98	Seram		I thank you, Nayuta.	
 0x7712	0x06	ALTO		ANI_WAIT4	
@@ -309,10 +309,10 @@ EV_7_S09_seram_stone
 0x7b83	0x06	Seram		ANI_TAKE_HELMET2-1	
 0x7bf4	0x06	Signa		ANI_TAKE_HELMET2-2	
 0x7d4a	0x98	Signa	#2W	I will head for the	
-				<Planetarium> with you.	
+				Planetarium with you.	
 0x7dfe	0x06	Signa		ANI_DENY	
 0x7e33	0x98	Signa	#1W	Not as Selam Il Ordene	
-				of the <Mythos>...	
+				of the Mythos...	
 0x7eb4	0x98	Signa	#2W	But as Cygna Alhazen,	
 				a human living on the surface.	
 0x80f5	0x98	ALTO	#1W	Cygna!	mp_0100 0x1d946
@@ -336,11 +336,11 @@ EV_7_S09_seram_stone
 0x84a3	0x06	NOI		ANI_GUTSPOSE	
 0x84e9	0x98	NOI		If we have the two	
 				"Shining Wings of the Mythos,"	
-				we can stop the <Remaking>!	
+				we can stop the Remaking!	
 0x8578	0x06	Signa		ANI_GESTURE1	
 0x85a3	0x98	Signa	#6A	Yeah...After that,	
 				let's all think of a method	
-				other than <Remaking>.	
+				other than Remaking.	
 0x8631	0x98	Signa	#6A	...Defeating Zext	
 				might be the only way...	
 0x8686	0xBC	ALTO		Surprise	
@@ -380,7 +380,7 @@ EV_7_S09_seram_stone
 				That presence of yours...	
 0x965d	0x06	Signa		ANI_COMPLAIN	
 0x9688	0x98	Signa	#6A	Can it be,	
-				the <Shining Wings of the Mythos>!?	
+				the Shining Wings of the Mythos!?	
 0x96e1	0x6B	NOI		Exclamation	
 0x9712	0x06	ALTO		ANI_TENSION_SURPRISE	
 0x9744	0x98	ALTO	#0W#6A	Huh...	mp_0001 0x166ea
@@ -394,7 +394,7 @@ EV_7_S09_seram_stone
 0x98fc	0x98	ALTO	#18S#N#240x#200y	──！！！？	
 0x9948	0x98	Zext		Though I planned to remake her personality...	
 				She was a little too stubborn.	
-0x99b3	0x98	Zext		I made her give up the <Shining Wing>	
+0x99b3	0x98	Zext		I made her give up the Shining Wing	
 				needed for the Remaking, and stole	
 				all of her power.	
 0x9a51	0x98	Zext		She will never wake again.	
@@ -422,16 +422,16 @@ EV_7_S09_seram_stone
 0xb45e	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0xb64f	0x06	NOI		ANI_SURPRISE	
 0xb678	0x98	NOI	#6A	Ah...	
-				Cygna's <Shining Wing>!	
+				Cygna's Shining Wing!	
 0xb6be	0x98	Zext_b		Hehehe...	
 				With this, the power that I distributed	
 				has come back to me.	
 0xb72c	0x98	Zext_b		My children, your sacrifice	
 				has not been in vain.	
 0xb906	0x06	Zext_b		ANI_PUT_UP_ROD	
-0xb9ba	0x98	Zext_b	#1W	──Now, <Planetarium>...!	
+0xb9ba	0x98	Zext_b	#1W	──Now, Planetarium...!	
 				Awaken now!!	
-0xc305	0x98	NOI	#0W#0x#500y	The <Planetarium>...	
+0xc305	0x98	NOI	#0W#0x#500y	The Planetarium...	
 				It's started to move!!	
 0xc361	0x98	Zext_b	#0W#500x#500y	Hehe, how beautiful...	
 0xc4d6	0x98	Zext_b		...Then, farewell, human child.	
@@ -444,7 +444,7 @@ EV_7_S09_seram_stone
 0xca36	0x06	NOI		ANI_WORRIED	
 0xca86	0x06	ALTO		ANI_NOUTOU	
 0xcb00	0x98	NOI		At this rate...	
-				The <Remaking> will begin!!	
+				The Remaking will begin!!	
 0xcb51	0x98	Signa	#1W#240x#500y	...Ooh...	mp_0001c 0x4b32
 0xccbb	0x98	ALTO		Cygna!!	mp_6100 0x605e
 0xccf2	0x06	NOI		ANI_COMPLAIN	
@@ -457,7 +457,7 @@ EV_7_S09_seram_stone
 0xcf2a	0x06	gl		ANI_STOP1	
 0xd131	0x98	NOI		Is that...A transfer device!?	
 0xd17d	0x06	Signa		ANI_SLEEP2	
-0xd223	0x98	Signa	#0W#6A#180x#220y	The <Planetarium>...	
+0xd223	0x98	Signa	#0W#6A#180x#220y	The Planetarium...	
 				It's past the next section...	
 0xd2ac	0x98	Signa	#2W#6A#180x#220y	Now, hurry!!	
 0xd337	0x98	ALTO		Cygna!!	mp_6100 0x605e
@@ -473,17 +473,17 @@ EV_7_S09_seram_stone
 0xd660	0x06	NOI		ANI_GESTURE1	
 0xd689	0x98	NOI		...W-Wait! Could it possibly be...	
 0xda52	0x98	ALTO		C-Cygna is...turning to stone!?	
-0xdae6	0x98	NOI		It is the <Mythos>' state	
+0xdae6	0x98	NOI		It is the Mythos' state	
 				of apparent death.	
 0xdb30	0x06	NOI		ANI_GESTURE1	
-0xdb59	0x98	NOI		Probably, along with the <Shining Wing>,	
+0xdb59	0x98	NOI		Probably, along with the Shining Wing,	
 				a large amount of Power of Stars was	
 				stolen...	
 0xdbd5	0x98	ALTO	#6A	A state of apparent death...	
 				Then, we can still save him!?	
 0xdc39	0x06	NOI		ANI_GESTURE2	
 0xdc62	0x98	NOI		If we don't hurry, he will fade	
-				and melt into the <Power of Stars>, but...	
+				and melt into the Power of Stars, but...	
 0xdcca	0x06	NOI		ANI_GUTSPOSE	
 0xdcf3	0x98	NOI		If we defeat that Zext,	
 				and his power returns...!	
@@ -494,7 +494,7 @@ EV_7_S09_seram_stone
 0xdf41	0x06	ALTO		ANI_GESTURE1	
 0xdf6b	0x98	ALTO	#6A	──Let's hurry, Noi.	
 0xdfab	0x06	ALTO		ANI_JOY	
-0xdfd0	0x98	ALTO	#6A	To stop Zext's <Remaking>	
+0xdfd0	0x98	ALTO	#6A	To stop Zext's Remaking	
 				no matter what...	
 				And to save Kureha and Cygna!!	
 0xe043	0x06	NOI		ANI_NOD	

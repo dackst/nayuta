@@ -137,19 +137,19 @@ talk_Cetus
 				doesn't know what will happen	
 				to this world from now on...	
 0x2305	0x98	Cetus		There's no method for peace	
-				other than that <Terra> and this	
+				other than that Terra and this	
 				world to recognize each other.	
 0x237f	0x98	Cetus		...When you see that	
 				beautiful world, you can't	
 				bear a grudge.	
-0x2404	0x98	Cetus		Though it seems that <Terra>	
+0x2404	0x98	Cetus		Though it seems that Terra	
 				will erase us...	
 				I don't bear any grudge.	
 0x2469	0x98	Cetus		Well for right now, we should do as Reticul	
 				said. Getting through these abnormalities	
 				together is top priority.	
 0x24f7	0x98	Cetus		Nayuta, Noi...	
-				We'll leave <Terra> to you.	
+				We'll leave Terra to you.	
 0x2579	0x98	Cetus		Monsters might appear around	
 				here again. We've decided to	
 				take care of it.	
@@ -163,7 +163,7 @@ talk_Cetus
 0x276e	0x98	Cetus		We stopped for awhile on this island	
 				to help remove rubble.	
 0x27c9	0x98	Cetus		Please leave this to us, and go to	
-				<Terra> without any reservation.	
+				Terra without any reservation.	
 				I'm expecting good news, you two!	
 talk_Cetus_and_Reticul
 0x287d	0x98	Cetus		Reticul, do you really intend to	
@@ -287,7 +287,7 @@ LP_haka
 0x40e7	0x98	NOI		Nayuta, this place is...	
 0x411e	0x98	ALTO		Yeah...	
 				My parents are sleeping.	
-0x415d	0x98	ALTO		(...The true form of <Lost Heaven> that my father	
+0x415d	0x98	ALTO		(...The true form of Lost Heaven that my father	
 				 was searching for was that kind of thing...)	
 0x41db	0x98	ALTO		(I wonder what in the world	
 				 I should do.	
@@ -299,11 +299,11 @@ EV_6_S04_look_new_ruin
 0x455c	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x458b	0x98	ALTO		...Ah!	
 0x46a5	0x98	ALTO	#N#500x#500y	...The two *moons* are one...	
-0x46f6	0x98	NOI	#N#0x#500y	That is <Terra>...	
+0x46f6	0x98	NOI	#N#0x#500y	That is Terra...	
 0x4731	0x98	NOI	#N#0x#500y	Because the "Seal" was released,	
 				its true form appeared...	
 				They are already starting to control its posture...	
-0x47c6	0x98	NOI	#N#0x#500y	...For the <Remaking>...	
+0x47c6	0x98	NOI	#N#0x#500y	...For the Remaking...	
 0x480f	0x98	ALTO	#N#500x#500y	It was there the whole time...	
 0x4859	0x98	ALTO	#N#500x#500y	To erase the surface...	
 0x4912	0x98	ALTO	#0W	...............	mp_0001 0xc917

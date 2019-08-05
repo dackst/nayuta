@@ -13,7 +13,7 @@ EV_3_S21_get_yupina
 0xa67	0x98	ALTO	#0W#6A	...It's still...withered...	
 0xab0	0x98	NOI		It looked as if you cheered	
 				up a little, but...	
-0xafd	0x98	NOI		Even in <Heimmel>'s normal climate,	
+0xafd	0x98	NOI		Even in Heimmel's normal climate,	
 				this plant no longer lives...	
 0xbb0	0x98	ALTO	#6A	...According to the picture book, 	
 				if I remember correctly, it was written	
@@ -59,7 +59,7 @@ EV_3_S21_get_yupina
 0x205c	0x06	ALTO		ANI_SURPRISE	
 0x2086	0x06	NOI		ANI_SURPRISE	
 0x20f2	0x98	ALTO	#0W	T-That wing-like thing is...	
-0x2139	0x98	NOI	#0W	...The <Shining Wing of the Mythos>!	
+0x2139	0x98	NOI	#0W	...The Shining Wing of the Mythos!	
 0x2282	0x06	Creha		ANI_PRAY	
 0x233a	0x98	Creha	#1W#20M	Please...	
 0x237f	0x98	Creha	#1W#20M	Bloom once more!	
@@ -68,24 +68,24 @@ EV_3_S21_get_yupina
 0x2693	0x06	NOI		ANI_LOOK_AROUND	
 0x26cb	0x06	ALTO		ANI_LOOK_AROUND	
 0x2714	0x98	NOI	#6A	T-This is...	mp_0101 0xdbc3
-0x2742	0x98	ALTO	#6A	The <Yupina Grass> is reviving!?	
+0x2742	0x98	ALTO	#6A	The Yupina Grass is reviving!?	
 0x2a7e	0x06	Creha		ANI_WAIT	
 0x2ac9	0x06	ALTO		ANI_COMPLAIN	
 0x2af3	0x98	ALTO	#6A	Kureha, what exactly did you do!?	
 0x2b7d	0x06	Creha		ANI_DENY	
 0x2bac	0x98	Creha	#0W	...I do not know.	mp_3002c 0x5634
 0x2be1	0x98	Creha	#0W	My body just...moved on its own...	
-0x2c61	0x98	NOI	#6A	The <Shining Wing of the Mythos> that	
+0x2c61	0x98	NOI	#6A	The Shining Wing of the Mythos that	
 				appears when Master Kureha uses her powers.	
 0x2d06	0x98	NOI	#6A	I am sure she manipulated the	
-				<Power of Stars>, and restored the	
+				Power of Stars, and restored the	
 				power of life to them!	
 0x2da4	0x98	Creha		I can do...	
 				things like this...	
 0x2e0a	0x06	Creha		ANI_NOD	
 0x2e30	0x98	Creha		But, I am glad it was useful to you.	
 0x2e7d	0x06	ALTO		ANI_THINK2	
-0x2ea5	0x98	ALTO	#6A	(The <Mythos>, huh...)	
+0x2ea5	0x98	ALTO	#6A	(The Mythos, huh...)	
 0x2ede	0x98	ALTO	#6A	(They truly have a god-like power...)	
 0x2f4d	0x06	Creha		ANI_WAIT	
 0x2f8b	0xBC	Creha		Question	
@@ -106,12 +106,12 @@ EV_3_S21_get_yupina
 0x338c	0x98	Creha		...I am sure that you both	
 				have been doing your best.	
 0x33e1	0x98	Creha		More importantly,	
-				you should collect the <Yupina Grass> now...	
+				you should collect the Yupina Grass now...	
 0x3447	0x06	ALTO		ANI_GUTSPOSE	
 0x3471	0x98	ALTO	#6A	Yeah, you're right...	
 				I've got to carry as much as I can!	
 0x3552	0x40	UNDEF		After that, Noi and Kureha helped	
-				Nayuta gather the <Yupina Grass>...	
+				Nayuta gather the Yupina Grass...	
 0x35b7	0x40	UNDEF		Leaving those two at the garden,	
 				he hurried home.	
 0x3608	0x40	UNDEF		After that...	

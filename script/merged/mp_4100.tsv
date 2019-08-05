@@ -13,7 +13,7 @@ SB_4_S10_appear_NOI
 EV_4_S10_meet_seram
 0x987	0x06	st		ANI_PATA2	
 0xd65	0x06	ALTO		ANI_WAIT4	
-0xd8c	0x98	ALTO	#6A	So this is the temple of <La Worg>...	
+0xd8c	0x98	ALTO	#6A	So this is the temple of La Worg...	
 0xdd4	0x06	ALTO		ANI_WAIT	
 0xe17	0x98	ALTO		From looking at it, it looks like	
 				it hasn't been shut down yet.	
@@ -41,11 +41,11 @@ EV_4_S10_meet_seram
 0x1823	0x06	Seram		ANI_NOD	
 0x1849	0x98	Seram		Precisely.	
 0x18b4	0x98	Seram		If we shut down this temple,	
-				all the continent's <Power of Stars>	
+				all the continent's Power of Stars	
 				will flow into a single point...	
 0x193d	0x98	Seram		To do that is the most important	
 				preparation for releasing the seal	
-				on <Terra>.	
+				on Terra.	
 0x19b3	0x06	ALTO		ANI_THINK2	
 0x19db	0x98	ALTO	#6A	The "Seal"...	
 				It was as Nemeas said...	
@@ -60,7 +60,7 @@ EV_4_S10_meet_seram
 0x1cd2	0x06	Seram		ANI_GESTURE1	
 0x1cfd	0x98	Seram	#6A	That is because there is	
 				something that we...	
-				that the <Mythos> must do.	
+				that the Mythos must do.	
 0x1d6f	0x06	ALTO		ANI_DENY	
 0x1d95	0x98	ALTO		W-Wait just a moment.	
 				What is *that*?	
@@ -79,7 +79,7 @@ EV_4_S10_meet_seram
 				it's doing very well.	
 0x2212	0x98	Seram		Zext, who is not here,	
 				is starting to prepare to obtain	
-				the <Key> that will release the seal.	
+				the Key that will release the seal.	
 0x228e	0x06	Seram		ANI_GESTURE1	
 0x22b9	0x98	Seram		To you guys, from here on	
 				it's a domain you can't predict.	
@@ -91,7 +91,7 @@ EV_4_S10_meet_seram
 0x2415	0x06	Seram		ANI_DENY	
 0x243c	0x98	Seram		In that kind of situation,	
 				your gaze is captured by	
-				the <Master Gear>...	
+				the Master Gear...	
 0x24ab	0x98	Seram		But, is it alright to take your	
 				eyes off that which is important	
 				to you?	
@@ -139,12 +139,12 @@ EV_4_S15_temple4_front
 				as always, but...	
 0x336c	0x06	ALTO		ANI_GESTURE1	
 0x3396	0x98	ALTO	#6A	It looks like they haven't yet been	
-				able to stop the flow of the <Power of	
-				Stars>.	
+				able to stop the flow of the Power of	
+				Stars.	
 0x3441	0x06	NOI		ANI_GESTURE2	
 0x346a	0x98	NOI		Let's hurry and overtake Master Selam!	
 0x34af	0x06	NOI		ANI_GUTSPOSE	
 0x34d8	0x98	NOI		Let's go, Nayuta!	
-				To recover the final <Master Gear>!	
+				To recover the final Master Gear!	
 0x35ff	0x06	ALTO		ANI_NOD	
 EV_4_S17_stop_star_power

@@ -257,7 +257,7 @@ EV_4_S30_help_creha
 				My power is...being stolen!?	
 0x54e5	0x06	Lyra		ANI_COMPLAIN	
 0x5531	0x98	Lyra	#3W#16S	O-Orvus!	
-0x556e	0x98	Zext	#1W#6A	Hehe, the <Power of Stars>,	
+0x556e	0x98	Zext	#1W#6A	Hehe, the Power of Stars,	
 				the source of all life...	
 				If I manipulate that, then there will be no trouble.	
 0x560a	0x98	Zext	#2W#6A	Now, out of my way.	
@@ -282,9 +282,9 @@ EV_4_S30_help_creha
 				is it not?	
 0x65e9	0x98	Creha	#0W#6A#16S	If that's the case,	
 				#16Sthen I will be your opponent!	
-0x66c0	0x98	Zext	#2W	Hehe, the <Shining Wing of the Mythos>...	
+0x66c0	0x98	Zext	#2W	Hehe, the Shining Wing of the Mythos...	
 				So it has manifested this much.	
-0x6794	0x98	Zext	#1W	Influenced by the crisis in <Terra>,	
+0x6794	0x98	Zext	#1W	Influenced by the crisis in Terra,	
 				it seems our aim of quickening your	
 				awakening has gone well.	
 0x681e	0x06	Creha		ANI_WAIT	
@@ -331,18 +331,18 @@ EV_4_S30_help_creha
 				And you're even going to	
 				kidnap Kureha!	
 0x7daf	0x98	Zext	#6A	It's a very simple explanation.	
-0x7df1	0x98	Zext	#6A	The final <Key> to undo the	
+0x7df1	0x98	Zext	#6A	The final Key to undo the	
 				"Seal" of Terra...	
 0x7e41	0x98	Zext	#6A	I will leave when	
 				I have finished it.	
 0x7e90	0x6B	ALTO		Exclamation	
 0x7ec2	0x06	ALTO		ANI_TENSION_SURPRISE	
-0x7f12	0x98	ALTO		Then, the <Key> to release the seal is...	
+0x7f12	0x98	ALTO		Then, the Key to release the seal is...	
 				Are you talking about Kureha!?	
 0x7f81	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0x7fd1	0x98	ALTO		...If that's the case, it's all the more	
 				reason I can't get out the way!	
-0x8038	0x98	ALTO		To protect <Terra>...	
+0x8038	0x98	ALTO		To protect Terra...	
 				I will not hand Kureha over to you!	
 0x8098	0x98	Zext	#6A	...So you will stand in my	
 				way until the bitter end.	

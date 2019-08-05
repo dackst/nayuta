@@ -4,7 +4,7 @@ init
 0x444	0x06	st		ANI_PATA3	
 lp_portal
 0x682	0x98	NOI		Nayuta, if we go along that tree root,	
-				we should be able to go to <Heliograd>!	
+				we should be able to go to Heliograd!	
 0x6ee	0x98	ALTO		We've got to hurry...	
 				Anyway, let's try going!	
 0x7ad	0xC9	YesNoBox		Use the transfer device?	
@@ -45,7 +45,7 @@ SUB_meet_adventurer
 				Most importantly, you're safe.	
 0x1453	0x06	NOI		ANI_COMPLAIN	
 0x147c	0x98	NOI	#6A	Or should I say,	
-				you're in <Terra> again...	
+				you're in Terra again...	
 				I told you that you should leave!	
 0x14e9	0x06	Reticul		ANI_DIRECT	
 0x1514	0x98	Reticul		W-We planned to return	
@@ -59,7 +59,7 @@ SUB_meet_adventurer
 0x1661	0x06	Cetus		ANI_WAIT3	
 0x1693	0x06	NOI		ANI_COMPLAIN	
 0x16bc	0x98	NOI	#6A	Or should I say,	
-				you're in <Terra> again...	
+				you're in Terra again...	
 0x1708	0x98	NOI	#6A	Hurry and get out of here!	
 				This isn't any kind of situation	
 				you can handle!	
@@ -184,20 +184,20 @@ EV_5_S02_talk_noi
 				the condition of Terra changed.	
 0x37a5	0x06	NOI		ANI_GESTURE1	
 0x37ce	0x98	NOI		Because the temples have stopped,	
-				all of the <Power of Stars> of the four	
-				continents flow through the <Garden>.	
+				all of the Power of Stars of the four	
+				continents flow through the Garden.	
 0x3862	0x06	NOI		ANI_DENY	
 0x3887	0x98	NOI		No, more correctly...	
-				Through <Heliograd>.	
+				Through Heliograd.	
 0x38d7	0x6B	ALTO		Surprise	
 0x3909	0x06	ALTO		ANI_THINK2	
 0x3931	0x98	ALTO	#6A	T-That's what	
 				that Selam said...	
 0x39f3	0x3F	Name		Selam	
-0x3a00	0x40	ALTO		If this temple is stopped, the <Power of Stars> of the	
+0x3a00	0x40	ALTO		If this temple is stopped, the Power of Stars of the	
 				four continents will all flow through a single point...	
 0x3a8d	0x40	ALTO		Because of that, the most important preparation for	
-				releasing the seal of <Terra> will be in order.	
+				releasing the seal of Terra will be in order.	
 0x3b97	0x98	ALTO	#6A#0W	(..................)	
 0x3bd1	0x98	ALTO	#6A#0W	(...Selam, was it...)	
 0x3cb8	0x06	ALTO		ANI_GESTURE2	
@@ -205,17 +205,17 @@ EV_5_S02_talk_noi
 				is concealed there?	
 0x3d36	0x06	NOI		ANI_NOD	
 0x3d5a	0x98	NOI	#6A	...No doubt about it.	
-0x3d91	0x98	NOI	#6A	<Heliograd> is the central pillar	
+0x3d91	0x98	NOI	#6A	Heliograd is the central pillar	
 				that delivers this world's	
-				<Power of Stars>...	
+				Power of Stars...	
 0x3e09	0x06	NOI		ANI_GESTURE1	
 0x3e32	0x98	NOI	#6A	Probably Master Kureha,	
-				the <Final Key>, is there.	
+				the Final Key, is there.	
 0x3e85	0x98	NOI	#6A	With Zext and Master Selam,	
-				to fulfill the mission of the <Mythos>...	
+				to fulfill the mission of the Mythos...	
 0x3f8f	0x6B	ALTO		Ellipsis	
 0x3fc1	0x06	ALTO		ANI_GESTURE1	
-0x3feb	0x98	ALTO	#6A	...That Kureha is a <Key>,	
+0x3feb	0x98	ALTO	#6A	...That Kureha is a Key,	
 				and that the "Seal" is here...	
 				You knew that all along.	
 0x4066	0x06	ALTO		ANI_COMPLAIN	
@@ -226,18 +226,18 @@ EV_5_S02_talk_noi
 0x418a	0x06	ALTO		ANI_GESTURE2	
 0x41b4	0x98	ALTO	#6A	...?	
 				What do you mean by that?	
-0x4211	0x98	NOI		By nature, I am a <Warden>,	
+0x4211	0x98	NOI		By nature, I am a Warden,	
 				who follows the orders of	
 				Master Kureha and the others...	
 0x4283	0x06	NOI		ANI_GESTURE1	
 0x42ac	0x98	NOI		I was made such that I cannot speak	
 				about important things, such as	
-				the "Seal" of the <Mythos>.	
+				the "Seal" of the Mythos.	
 0x4330	0x06	ALTO		ANI_WAIT4	
 0x4357	0x98	ALTO	#6A	So you were made, you say...	
 0x4396	0x98	ALTO	#6A	That's right, speaking of that,	
 				I heard that Kureha and the others	
-				created the <Wardens>...	
+				created the Wardens...	
 0x441a	0x06	NOI		ANI_DENY	
 0x443f	0x98	NOI		...I don't know what we should do.	
 0x44ad	0x98	NOI	#0W	...I'm sorry, Nayuta.	
@@ -246,15 +246,15 @@ EV_5_S02_talk_noi
 				to the place where Kureha and the	
 				others are.	
 0x4582	0x06	ALTO		ANI_JOY	
-0x45a7	0x98	ALTO	#6A	A seal that threatens <Terra>...	
+0x45a7	0x98	ALTO	#6A	A seal that threatens Terra...	
 				Even Kureha should not desire that.	
 0x4632	0x06	NOI		ANI_NOD	
 0x4656	0x98	NOI		...Yeah, that's right.	
 0x479b	0x98	NOI	#500x#500y	It looks like from that	
 				tree root, we can go to the outer	
-				wall of <Heliograd>.	
+				wall of Heliograd.	
 0x4810	0x98	NOI	#500x#500y	Anyway, let's try going!	
 0x4859	0x98	ALTO	#0x#500y	Got it!	
 0x48c4	0x07	System	#3C	You have become able	
-				to go to <Heliograd>.	
+				to go to Heliograd.	
 0x49b7	0xCE	Objective		Gotta go to Heliograd! Let's go along the tree root!	
