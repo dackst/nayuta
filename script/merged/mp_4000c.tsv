@@ -14,16 +14,16 @@ QS_44_get_power
 0x1034	0x06	ALTO		ANI_HANDOVER2	
 0x1211	0x06	NOI		ANI_GUTSPOSE	
 0x123a	0x98	NOI		The colored jewel is shining brightly...	
-0x1281	0x98	NOI		With this, it seems we can	
+0x1281	0x98	NOI		Now we should be able to	
 				restore all of Algol's power!	
 0x12d7	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x1305	0x98	ALTO		Phew, that was more difficult	
-				than I expected.	
+0x1305	0x98	ALTO		Phew, that was more	
+				difficult than I expected.	
 0x1352	0x98	ALTO		Anyway, let's deliver	
 				it to Algol quickly.	
 0x1529	0x40	UNDEF		A mysterious sphere is floating here.	
-0x1591	0x98	ALTO		I wonder what this could be...	
-0x15cf	0x98	ALTO		It seems it has nothing to do	
+0x1591	0x98	ALTO		I wonder what it could be for...	
+0x15cf	0x98	ALTO		It diesn't seem to have anything to do	
 				with our forward progress.	
 SB_4_S04_appear_ALTO
 0x1706	0x6B	ALTO		Unknown	
@@ -64,12 +64,11 @@ EV_4_S05_look_lava
 				considerably...	
 0x2541	0x06	ALTO		ANI_GESTURE2	
 0x256b	0x98	ALTO		There's no footing,	
-				and it seems impossible	
+				so it seems impossible	
 				to proceed like this.	
 0x25ca	0x06	ALTO		ANI_THINK	
 0x25f1	0x98	ALTO		It would be good if there was	
-				some method by which we	
-				can cross...	
+				some way we could cross it...	
 0x2651	0x06	NOI		ANI_DENY	
 0x2676	0x98	NOI	#6A	...It's no good, I can't think of any.	
 0x26f6	0x98	NOI	#6A	As I thought, we should	
@@ -91,18 +90,18 @@ EV_4_S06_look_cage_4th
 0x2f60	0x98	ALTO		This voice, where is it coming from?	
 0x2fe0	0x98	NOI		Nayuta, over here!	
 0x312e	0x06	NOI		ANI_SURPRISE	
-0x3157	0x98	NOI	#6A	It's one of Zext's "Cages!"	
+0x3157	0x98	NOI	#6A	It's one of Zext's cages!	
 0x31b1	0x98	ALTO	#6A	Then, the one inside is...	
 0x3204	0x41	None	#0W#2E#710c	This presence...	
-				Then, you are Noi, correct?#0E	
+				You must be Noi, correct?#0E	
 0x32a7	0x41	None	#0W#2E#710c	And with you is...	
 				A "human?"#0E	
-0x3350	0x98	NOI	#6A	"Nemeas"...	
+0x3350	0x98	NOI	#6A	Nemeas...	
 				The warden of this continent!	
 0x33b9	0x06	NOI		ANI_GESTURE1	
 0x33e2	0x98	NOI	#6A	Were you captured	
 				by Zext, too!?	
-0x3423	0x41	None	#0W#2E#710c	Yes...I am terribly sorry.#0E	
+0x3423	0x41	None	#0W#2E#710c	Yes... I am terribly sorry.#0E	
 0x349d	0x41	None	#0W#2E#710c	It seems this is an urgent state of affairs...	
 				Please, will you tell me the situation?#0E	
 0x355a	0x06	ALTO		ANI_NOD	
@@ -111,10 +110,9 @@ EV_4_S06_look_cage_4th
 0x360f	0x41	None	#0W#2E#710c	...I see, so that has happened...#0E	
 0x3690	0x41	None	#0W#2E#710c	The lost head of the Mythos has revived...	
 				And Master Selam has become an enemy...#0E	
-0x3741	0x41	None	#0W#2E#710c	..................#0E	
+0x3741	0x41	None	#0W#2E#710c	.....#0E	
 0x37bb	0x06	NOI		ANI_GESTURE2	
-0x37e4	0x98	NOI	#6A	Nemeas...	
-				Do you have any idea about this?	
+0x37e4	0x98	NOI	#6A	Nemeas... Do you have any ideas about all this?	
 0x382f	0x41	None	#0W#2E#710c	...The reason they are shutting down the temples...#0E	
 0x38c2	0x41	None	#0W#2E#710c	That is all I feel I understand.#0E	
 0x394a	0x06	ALTO		ANI_COMPLAIN	
@@ -122,24 +120,24 @@ EV_4_S06_look_cage_4th
 0x39a1	0x41	None	#0W#2E#710c	I realized it even	
 				while I was managing	
 				this continent...#0E	
-0x3a38	0x41	None	#0W#2E#710c	As for this world,	
-				it seems there is some kind of important	
-				"Seal" that is applied to it.#0E	
+0x3a38	0x41	None	#0W#2E#710c	In this world, there is	
+				some kind of important seal	
+				to block something.#0E	
 0x3af7	0xBC	ALTO		Surprise	
 0x3b35	0xBC	NOI		Surprise	
-0x3b8f	0x98	NOI	#0W	...A "Seal"...	
+0x3b8f	0x98	NOI	#0W	...A "Seal"...?	
 0x3bbf	0x06	ALTO		ANI_GESTURE2	
 0x3be9	0x98	ALTO	#6A	Just what could it be?	
 0x3c22	0x41	None	#0W#2E#710c	As for what kind of thing it is,	
 				I myself do not know.#0E	
-0x3cb7	0x41	None	#0W#2E#710c	However, while the temples	
-				of the four continents remain operating	
-				normally, the seal is formed...#0E	
-0x3d77	0x41	None	#0W#2E#710c	That is the structure	
-				of the seal, if I'm not mistaken.#0E	
+0x3cb7	0x41	None	#0W#2E#710c	However, when the temples of the	
+				four continents are operating normally,	
+				the seal is kept intact...#0E	
+0x3d77	0x41	None	#0W#2E#710c	That is how the seal works, 	
+				if I'm not mistaken.#0E	
 0x3e15	0x06	ALTO		ANI_GESTURE1	
-0x3e3f	0x98	ALTO	#6A	Then, all of the temples	
-				Zext has shutdown up to now	
+0x3e3f	0x98	ALTO	#6A	Then all of the temples	
+				Zext has shutdown up until now	
 				were to undo the seal!?	
 0x3eb4	0x41	None	#0W#2E#710c	It is a tremendously	
 				large seal. It is easy to imagine that	
@@ -149,21 +147,20 @@ EV_4_S06_look_cage_4th
 0x4021	0x98	NOI	#0W	...If Zext gets his	
 				hands on it, then...	
 0x406a	0x98	NOI	#0W	.....................	mp_0003 0xc610
-0x40e1	0x98	ALTO		...Either way, what we must	
-				do should be the same.	
+0x40e1	0x98	ALTO		...Either way, what we have	
+				to do stays the same.	
 0x4147	0x06	ALTO		ANI_JOY	
-0x416c	0x98	ALTO		As soon as possible, we should	
-				take back the Master Gear from Zext!	
-0x41d8	0x41	None	#0W#2E#710c	To the human...	
-				Nayuta, I believe.#0E	
-0x42ae	0x41	None	#0W#2E#710c	I entrust the fate of this Terra	
-				to you and Noi.#0E	
-0x433f	0x41	None	#0W#2E#710c	To stop Zext...	
-				Please head for the temple	
-				as soon as you can.#0E	
-0x43db	0x41	None	#0W#2E#710c	Somehow, please	
-				take care everything──#0E	
+0x416c	0x98	ALTO		We should take back the Master Gear	
+				from Zext as soon as possible!	
+0x41d8	0x41	None	#0W#2E#710c	The human...	
+				Nayuta, is it?#0E	
+0x42ae	0x41	None	#0W#2E#710c	I entrust to the fate of 	
+				Terra to you and Noi.#0E	
+0x433f	0x41	None	#0W#2E#710c	Please, head for the temple as	
+				soon as you can to stop Zext.#0E	
+0x43db	0x41	None	#0W#2E#710c	 Please take care of	
+				everything, somehow─#0E	
 0x453a	0x06	ALTO		ANI_THANKS	
-0x4562	0x98	ALTO	#6A	Please leave it to me!	mp_2001b 0x3941
+0x4562	0x98	ALTO	#6A	Leave it to me!	mp_2001b 0x3941
 0x45d3	0x98	NOI	#6A	...Let's go, Nayuta!	
 0x4641	0x06	ALTO		ANI_NOD	

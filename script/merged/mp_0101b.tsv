@@ -157,10 +157,9 @@ EV_5_S02_talk_noi
 0x30d7	0x98	ALTO	#0x#500y#16S	Noi!	mp_0004 0x1a9c3
 0x310f	0x6B	NOI		Surprise	
 0x3282	0x06	NOI		ANI_GESTURE2	
-0x32ab	0x98	NOI		Nayuta...	
-				Thank goodness I found you!	
+0x32ab	0x98	NOI		Nayuta... Thank goodness I found you!	
 0x32f6	0x06	NOI		ANI_COMPLAIN	
-0x331f	0x98	NOI		...Master Kureha is...	
+0x331f	0x98	NOI		Master Kureha...	
 				Where is Master Kureha!?	
 0x336c	0x98	NOI		Is she with Cygna!?	
 0x33c4	0x98	ALTO	#6A#0W	...Noi, I'm sorry.	
@@ -184,34 +183,36 @@ EV_5_S02_talk_noi
 				the condition of Terra changed.	
 0x37a5	0x06	NOI		ANI_GESTURE1	
 0x37ce	0x98	NOI		Because the temples have stopped,	
-				all of the Power of Stars of the four	
-				continents flow through the Garden.	
+				all of the Power of Stars from the four	
+				continents flowed into the Garden.	
 0x3862	0x06	NOI		ANI_DENY	
-0x3887	0x98	NOI		No, more correctly...	
-				Through Heliograd.	
+0x3887	0x98	NOI		No, to be precise...	
+				into Heliograd.	
 0x38d7	0x6B	ALTO		Surprise	
 0x3909	0x06	ALTO		ANI_THINK2	
 0x3931	0x98	ALTO	#6A	T-That's what	
 				that Selam said...	
 0x39f3	0x3F	Name		Selam	
-0x3a00	0x40	ALTO		If this temple is stopped, the Power of Stars of the	
-				four continents will all flow through a single point...	
-0x3a8d	0x40	ALTO		Because of that, the most important preparation for	
-				releasing the seal of Terra will be in order.	
-0x3b97	0x98	ALTO	#6A#0W	(..................)	
-0x3bd1	0x98	ALTO	#6A#0W	(...Selam, was it...)	
+0x3a00	0x40	ALTO		If we shut down this temple, the	
+				Power of Stars from every continent	
+				will flow into a single point...	
+0x3a8d	0x40	ALTO		With that, the most important	
+				step for releasing the seal	
+				on Terra will be complete.	
+0x3b97	0x98	ALTO	#6A#0W	(.............)	
+0x3bd1	0x98	ALTO	#6A#0W	(...Selam...)	
 0x3cb8	0x06	ALTO		ANI_GESTURE2	
-0x3ce2	0x98	ALTO		Then, the "Seal" of Terra	
-				is concealed there?	
+0x3ce2	0x98	ALTO		Then the seal of Terra	
+				is hidden there?	
 0x3d36	0x06	NOI		ANI_NOD	
 0x3d5a	0x98	NOI	#6A	...No doubt about it.	
 0x3d91	0x98	NOI	#6A	Heliograd is the central pillar	
-				that delivers this world's	
-				Power of Stars...	
+				that delivers the Power of Stars	
+				to this world...	
 0x3e09	0x06	NOI		ANI_GESTURE1	
-0x3e32	0x98	NOI	#6A	Probably Master Kureha,	
-				the Final Key, is there.	
-0x3e85	0x98	NOI	#6A	With Zext and Master Selam,	
+0x3e32	0x98	NOI	#6A	Master Kureha, the Final Key,	
+				is probably there,	
+0x3e85	0x98	NOI	#6A	with Zext and Master Selam,	
 				to fulfill the mission of the Mythos...	
 0x3f8f	0x6B	ALTO		Ellipsis	
 0x3fc1	0x06	ALTO		ANI_GESTURE1	
@@ -224,30 +225,28 @@ EV_5_S02_talk_noi
 0x40ee	0x6B	NOI		Ellipsis	
 0x413c	0x98	NOI	#0W	...Even if I wanted to say, I can't.	
 0x418a	0x06	ALTO		ANI_GESTURE2	
-0x41b4	0x98	ALTO	#6A	...?	
-				What do you mean by that?	
-0x4211	0x98	NOI		By nature, I am a Warden,	
+0x41b4	0x98	ALTO	#6A	...? What do you mean by that?	
+0x4211	0x98	NOI		In essence, I am a Warden,	
 				who follows the orders of	
 				Master Kureha and the others...	
 0x4283	0x06	NOI		ANI_GESTURE1	
-0x42ac	0x98	NOI		I was made such that I cannot speak	
+0x42ac	0x98	NOI		I was made so that I can't speak	
 				about important things, such as	
-				the "Seal" of the Mythos.	
+				the seal and the Mythos.	
 0x4330	0x06	ALTO		ANI_WAIT4	
-0x4357	0x98	ALTO	#6A	So you were made, you say...	
-0x4396	0x98	ALTO	#6A	That's right, speaking of that,	
-				I heard that Kureha and the others	
+0x4357	0x98	ALTO	#6A	So you were made, you say...?	
+0x4396	0x98	ALTO	#6A	That's right, now that you mention it,	
+				I recall that Kureha and the others	
 				created the Wardens...	
 0x441a	0x06	NOI		ANI_DENY	
-0x443f	0x98	NOI		...I don't know what we should do.	
+0x443f	0x98	NOI		...I don't know what to do anymore.	
 0x44ad	0x98	NOI	#0W	...I'm sorry, Nayuta.	
 0x44ec	0x06	ALTO		ANI_GESTURE2	
-0x4516	0x98	ALTO	#6A	...Now, I'm thinking of going	
-				to the place where Kureha and the	
-				others are.	
+0x4516	0x98	ALTO	#6A	...For now, I'm thinking of getting	
+				to where Kureha and the	others are.	
 0x4582	0x06	ALTO		ANI_JOY	
 0x45a7	0x98	ALTO	#6A	A seal that threatens Terra...	
-				Even Kureha should not desire that.	
+				Even Kureha wouldn't want that.	
 0x4632	0x06	NOI		ANI_NOD	
 0x4656	0x98	NOI		...Yeah, that's right.	
 0x479b	0x98	NOI	#500x#500y	It looks like from that	

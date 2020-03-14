@@ -25,14 +25,14 @@ mp_0101b	0x55	area name	mp_0101 0x53
 mp_0101c	0x55	area name	mp_0101 0x53
 mp_0102	0x53	area name	 Terra, The Other World
 mp_0102a	0x55	area name	mp_0102 0x53
-mp_0103	0x53	area name	 Star Capital <Lexendria>
+mp_0103	0x53	area name	 Star Capital Lexendria
 mp_0104	0x53	area name	 Stellarium, Place of Stars
 mp_0105	0x4c	area name	
 mp_0106	0x4c	area name	mp_0105 0x4c
 mp_0110	0x53	area name	 Herschel House
 mp_0111	0x53	area name	 Meteor Workshop
-mp_0112	0x53	area name	 <Moon View Inn>
-mp_0113	0x53	area name	 General Store <Sunset>
+mp_0112	0x53	area name	 Moon View Pavillion Inn
+mp_0113	0x53	area name	 Sunset General Store
 mp_0114	0x53	area name	 Farm House
 mp_0115	0x53	area name	 Remnant Island Museum
 mp_0115a	0x55	area name	 Museum Exhibit
@@ -79,14 +79,14 @@ mp_3000a	0x55	area name	 Wind Cutting Valley/Spring
 mp_3000b	0x55	area name	 Wind Cutting Valley/Summer
 mp_3000c	0x55	area name	 Wind Cutting Valley/Fall
 mp_3000d	0x55	area name	 Wind Cutting Valley/Winter
-mp_3001a	0x55	area name	 Giant Dragon Graveyard/Spring
-mp_3001b	0x55	area name	 Giant Dragon Graveyard/Summer
-mp_3001c	0x55	area name	 Giant Dragon Graveyard/Fall
-mp_3001d	0x55	area name	 Giant Dragon Graveyard/Winter
-mp_3002a	0x55	area name	 Sacred Mountain/Spring
-mp_3002b	0x55	area name	 Sacred Mountain/Summer
-mp_3002c	0x55	area name	 Sacred Mountain/Fall
-mp_3002d	0x55	area name	 Sacred Mountain/Winter
+mp_3001a	0x55	area name	 Dragon Graveyard/Spring
+mp_3001b	0x55	area name	 Dragon Graveyard/Summer
+mp_3001c	0x55	area name	 Dragon Graveyard/Fall
+mp_3001d	0x55	area name	 Dragon Graveyard/Winter
+mp_3002a	0x55	area name	 Heavenly Mountain/Spring
+mp_3002b	0x55	area name	 Heavenly Mountain/Summer
+mp_3002c	0x55	area name	 Heavenly Mountain/Fall
+mp_3002d	0x55	area name	 Heavenly Mountain/Winter
 mp_3003c	0x55	area name	 Hidden Plateau/Fall
 mp_3003d	0x55	area name	 Hidden Plateau/Winter
 mp_3010	0x53	area name	 Heimmel Temple/First Half
@@ -121,9 +121,9 @@ mp_6000	0x53	area name	 Municipal District Ⅱ
 mp_6001	0x53	area name	 Municipal District Ⅲ
 mp_6002	0x53	area name	 Municipal District Ⅰ
 mp_6003	0x53	area name	 Municipal District Ⅳ
-mp_6100	0x53	area name	 Ruined Tower/Summit
+mp_6100	0x53	area name	 Tower Ruins/Summit
 mp_6100d	0x55	area name	mp_6100 0x53
-mp_6200	0x53	area name	 Ruined Tower
+mp_6200	0x53	area name	 Tower Ruins
 mp_6300	0x53	area name	 Riese Pillar
 mp_6301	0x53	area name	 Heim Pillar
 mp_6302	0x53	area name	 Wor Pillar

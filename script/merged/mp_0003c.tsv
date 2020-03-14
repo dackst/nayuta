@@ -34,7 +34,7 @@ talk_Puppis
 0x950	0x98	ALTO		Ahaha...	
 				D-Does it look that way?	
 0x990	0x98	NOI		C-Captain.	
-				It's been awhile.	
+				It's been a while.	
 0x9ca	0x98	Puppis		Oh, the fairy's with you.	
 				There's a strange toughness	
 				about you two...	
@@ -49,9 +49,9 @@ talk_Puppis
 				abnormal weather will	
 				magnify the chaos.	
 0xbc6	0x98	Puppis		The flight of the nobles at Saint	
-				Cerize is in chaos too...	
+				Cerise is in chaos, too...	
 				This island is more peaceful.	
-0xc3f	0x98	ALTO		I-Is that so...	
+0xc3f	0x98	ALTO		I-Is that so...?	
 				Something like a war	
 				at a time like this...	
 0xc98	0x98	NOI		As expected, humans are foolish.	
@@ -87,7 +87,7 @@ talk_Crux
 				won't panic...	
 0x1249	0x98	Crux		Ooh, I've got to follow	
 				their example a little more.	
-0x12d2	0x98	Crux		That reminds me, even on Saint Cerize,	
+0x12d2	0x98	Crux		That reminds me, even on Saint Cerise,	
 				a huge monster appeared and is	
 				causing a panic.	
 0x1346	0x98	Crux		It took the full power of the	
@@ -102,7 +102,7 @@ talk_Crux
 0x1512	0x98	Crux		Because of the abnormal weather,	
 				the coastal currents have become	
 				violent.	
-0x157a	0x98	Crux		Sailing too has become difficult,	
+0x157a	0x98	Crux		Sailing, too, has become difficult,	
 				and it'll take twice as much time	
 				as normal.	
 0x15e6	0x98	Crux		...Well even so, the Captain	
@@ -118,7 +118,7 @@ talk_Axe
 0x17e4	0x98	Axe		You guys washed up on shore	
 				a little while after the	
 				abnormalities started.	
-0x184c	0x98	ALTO		Is that so...	mp_0001 0xcecd
+0x184c	0x98	ALTO		I see...	mp_0001 0xcecd
 0x1879	0x98	Axe		Though the open sea has become	
 				stormy, I'm getting along.	
 0x18d0	0x98	Axe		I've got to thank the gods.	
@@ -149,7 +149,7 @@ talk_Carina
 0x1d33	0x98	Carina		I was really worried about you.	
 0x1d74	0x98	ALTO		Haha...I'm sorry.	
 0x1da5	0x98	baby		Abu, abu...	
-0x1dd0	0x98	NOI		Wawa...	
+0x1dd0	0x98	NOI		Wha...	
 				You're not allowed to grab my hair!	
 0x1e19	0x98	Carina		Huhu, it seems	
 				Collie likes you,	

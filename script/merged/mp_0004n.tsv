@@ -3,11 +3,11 @@ init
 gamestart_after
 EV_8_S00_1years_after
 0xa06	0x06	ALTO		ANI_USE_TELESCOPE	
-0xbce	0x41	None	#0W#2E	──One year later, Remnant Island.#0E	
+0xbce	0x41	None	#0W#2E	─One year later, Remnant Island.#0E	
 0xc4e	0x41	None	#0W#2E	Nayuta, having turned 16,	
 				visited for his second summer vacation...#0E	
 0xceb	0x41	None	#0W#2E	And when he came home	
-				from the port city of Saint Cerize──#0E	
+				from the port city of Saint Cerise──#0E	
 0xf2d	0x3F	Name		Eartha's Voice	mp_0000d 0x77eb
 0xf51	0x98	Asa	#1W	Nayuta...Where are you?	
 0xf9a	0x6B	ALTO		Surprise	

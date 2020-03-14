@@ -72,17 +72,16 @@ talk_Erislet
 0x26b0	0x98	Erislet		Now that you have come to my aid,	
 				please continue to do your best	
 				in the future too!	
-0x2749	0x98	Erislet		I only heard one thing	
-				regarding Zext.	
-0x2791	0x98	Erislet		It seems he is Master Kureha's father...	
-				I wonder why that is.	
+0x2749	0x98	Erislet		I don't know much about Zext.	
+0x2791	0x98	Erislet		I do know he is Master Kureha's father...	
+				I wonder why that is.	the fuck does this mean
 0x27f1	0x98	Erislet		...Either way,	
 				it's clear he bears a grudge	
 				against this world.	
 0x2851	0x98	Erislet		On top of that, he wounded my spirits...	
 				That can't be allowed to pass!	
-0x28e2	0x98	Erislet		It has become warm lately.	
-				For now, I must try to	
+0x28e2	0x98	Erislet		It has become warmer lately.	
+				From now on, I must try to	
 				restart the temple.	
 0x2948	0x98	Erislet		If you would proceed, be careful.	
 				The sacred mountain continent	
@@ -96,13 +95,13 @@ talk_SpiritB
 0x2b2b	0x6B	SpiritB		Unknown	
 0x2b60	0x40	UNDEF		It looks happy for some reason...	
 talk_SpiritC
-0x2bce	0x98	SpiritC		.........	mp_0101 0x2297d
+0x2bce	0x98	SpiritC		...	mp_0101 0x2297d
 0x2c04	0x98	SpiritC		♪...♪♪...	
 talk_SpiritD
-0x2c67	0x98	SpiritD		......♪	
+0x2c67	0x98	SpiritD		...♪	
 0x2c92	0x98	SpiritD		...～～...㈱	
 0x2d26	0x6B	SpiritD		Sweatdrop	
-0x2d5b	0x98	SpiritD		.......	mp_1099 0x2fd4
+0x2d5b	0x98	SpiritD		...	mp_1099 0x2fd4
 				...～～～...	
 0x2d9b	0x98	SpiritD		...?	mp_1099 0x3014
 quest_Erislet
@@ -132,10 +131,10 @@ quest_Erislet
 				save the Moon Bird somehow.	
 QS_33_quest_start
 0x35ab	0x06	Erislet		ANI_DENY	
-0x35d4	0x98	Erislet		A quite troubling thing	
-				has happened.	
-0x361b	0x98	Erislet		If it's alright with you, I would like	
-				to receive your help, but...	
+0x35d4	0x98	Erislet		I have a pretty troubling	
+				problem on my hands.	
+0x361b	0x98	Erislet		If it is alright with you, I would	
+				like to ask you for your help, but...	
 0x3680	0x06	Erislet		ANI_GESTURE2	
 0x36ad	0x98	Erislet		Is now a good time?	
 0x36ed	0x98	Erislet		Oh, it's Noi and Nayuta.	
@@ -207,7 +206,7 @@ QS_33_undertake
 0x4490	0x6B	ALTO		Exclamation	
 0x44c2	0x6B	NOI		Exclamation	
 0x44f3	0x98	ALTO	#6A	It disappeared...	
-				You mean, it went "extinct!?"	
+				You mean, it went extinct!?	
 0x4544	0x06	NOI		ANI_WORRIED	
 0x456c	0x98	NOI	#6A	T-T-This is a huge problem!!	
 0x45aa	0x98	NOI	#6A	I am sure this is due to Zext's	
@@ -257,7 +256,7 @@ QS_33_undertake
 0x4eaf	0x98	Erislet		In order to do that, I want to	
 				receive your support.	
 0x4f05	0x06	NOI		ANI_COMPLAIN	
-0x4f2e	0x98	NOI	#6A	W-What should we do!?	
+0x4f2e	0x98	NOI	#6A	W-What do we do!?	
 0x4f7d	0x06	Erislet		ANI_GESTURE2	
 0x4faa	0x98	Erislet		First, please search for a	
 				location where these eggs	
@@ -966,7 +965,7 @@ EV_2_S23_boss_battle
 0x143f4	0x98	ALTO		Tell me!	
 				Where is Cygna now!?	
 0x14474	0x98	Zext	#6A	..."Cygna?"	
-				I do not know one by that name.	
+				I know no one by that name.	
 0x144c1	0x98	Zext	#6A	Even if I did know, I would	
 				have no obligation to tell you.	
 0x14588	0x98	ALTO		...If that's the case...	mp_0110 0x23518
@@ -1059,7 +1058,7 @@ EV_2_S24_boss_end
 0x17d4f	0x6B	ALTO		Exclamation	
 0x17d81	0x6B	NOI		Exclamation	
 0x183ca	0x06	ALTO		ANI_TIRED_WALK	
-0x187b3	0x98	ALTO	#6A	(*pant, pant*)	
+0x187b3	0x98	ALTO	#6A	*huff*, *huff*	
 				Noi, are you alright!?	
 0x18832	0x98	NOI		Y-Yeah somehow...	
 0x18862	0x06	ALTO		ANI_STAGGER_STAND_UP	

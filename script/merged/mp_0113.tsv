@@ -1,12 +1,13 @@
 mp_0113
 init
 talk_Sasha
-0x90c	0x98	Sasha		Hmm, hmmhmm～...	
-0x93d	0x98	Sasha		Yeah, finished♪	
+0x90c	0x98	Sasha		Hmm...hmmhmm～...	
+				(*stich, stich*)
+0x93d	0x98	Sasha		Yeah, finished! ♪	
 				It's well made,	
-				even if I say so myself～.	
-0x997	0x98	ALTO		Oh, what's that.	
-				It looks like you made	
+				if I say so myself～.	
+0x997	0x98	ALTO		Oh, what's that?	
+				Looks like you made	
 				some kind of small clothes...	
 0x9fa	0x98	Sasha		These are clothes for	
 				dressing and displaying	
@@ -17,15 +18,14 @@ talk_Sasha
 0xace	0x98	Sasha		As you'd expect, there's no one on	
 				this island who shares my hobby.	
 				They don't sell at all～.	
-0xb4a	0x98	ALTO		(Hmmhmm...If I look closely,	
+0xb4a	0x98	ALTO		(Hmm...If I look closely,	
 				 the make is quite genuine.)	
-0xba2	0x98	ALTO		(Maybe I should buy them	
+0xba2	0x98	ALTO		(Maybe I could buy them	
 				 as equipment for Noi...)	
-0xbf3	0x98	Sasha		Oh, could it be that you are interested	
+0xbf3	0x98	Sasha		Oh, could you be interested	
 				in playing with dolls, Nayuta!?	
-0xc5a	0x98	ALTO		U-umm, no.	
-				I don't want them for me,	
-				aaah...	
+0xc5a	0x98	ALTO		N-No, no. I don't want
+				them for me, uhh...	
 0xca4	0x98	Sasha		Uhuhu, don't be shy.	
 				I'm happy there's someone	
 				like me here.	
@@ -35,82 +35,80 @@ talk_Sasha
 0xd7e	0x98	ALTO		(I hope groundless rumors	
 				 don't start because of this...)	
 0xe95	0x98	Sasha		Oh yeah...Nayuta, you	
-				don't have any "Cocoons,"	
+				don't have any cocoons,	
 				do you?	
-0xeeb	0x98	ALTO		"Cocoons?"	
+0xeeb	0x98	ALTO		Cocoons?	
 0xf15	0x98	Sasha		They're used for making	
 				antique doll clothes, you see...	
 0xf6d	0x98	Sasha		Lately, my supply of them	
 				has been decreasing.	
 0xfbb	0x98	Sasha		Well, if it's like this, I won't be	
 				able to make any new clothes...	
-0x101e	0x98	ALTO		("Cocoons" huh?...If I find some,	
-				 I should bring them to Sasha,	
-				 right?)	
+0x101e	0x98	ALTO		(Cocoons, huh?...If I find some,	
+				 should I bring them to Sasha?)	
 0x120b	0x36	Choice		Talk	mp_0002 0x42a1
 0x121d	0x36	Choice		Shopping	mp_0111 0x118c
 0x1233	0x36	Choice		Quit	mp_0002 0x433f
 0x130b	0x98	Sasha		My supply of cocoons has dwindled.	
-				If I had cocoons, I'd be able to make new	
-				antique doll clothes though...	
+				If I had cocoons, I'd be able to	
+				make new antique doll clothes...	
 talk_Sasha_add
-0x147d	0x98	Sasha		Oh...that thing that you have there,	
-				could it be a cocoon?	
+0x147d	0x98	Sasha		Oh...that thing that you have	
+				there, is that a cocoon?	
 0x14d7	0x98	ALTO		Yeah, it is, but...	
-0x150a	0x98	ALTO		If it's alright, shall I	
+0x150a	0x98	ALTO		If it's all right, shall I	
 				give it to you, Sasha?	
 0x1587	0x98	Sasha		Goodness, thank you!	
 				With this, I can make new	
-				doll clothes♪	
-0x15e3	0x98	Sasha		Uhuhu, could it be Nayuta,	
-				that you want to see the new doll	
-				clothes and take them with you?	
-0x165e	0x98	Sasha		I'm so happy～.	
-				I'll make super-cute clothes,	
-				so take a good look!	
+				doll clothes! ♪	
+0x15e3	0x98	Sasha		Uhuhu, Nayuta, maybe you brought	
+				me this because you want to see my	
+				the new doll clothes?	
+0x165e	0x98	Sasha		I'm so happy～.	I'm gonna make	
+				some super-cute clothes. Make	
+				sure to take a good look!	
 0x16bf	0x98	ALTO		Ahaha...Umm, Sasha,	
 				...Please don't spread	
-				rumors about this, OK?	
+				rumors about this, okay?	
 0x171e	0x98	Sasha		Yeah yeah, don't worry about that.	
 0x1761	0x6B	ALTO		Sweatdrop	
 0x1793	0x98	ALTO		(I wonder if she really will...)	
 0x1807	0x07	System	#3C	New items have been added	
 				to the general store lineup.	
-0x1853	0x07	System	#4C	By giving "Cocoons" to Sasha, you	
+0x1853	0x07	System	#4C	By giving cocoons to Sasha, you	
 				improve the lineup at the general store.	
-0x18ab	0x07	System	#4C	If you find a "Cocoon,"	
-				proactively bring it to her.	
-0x1947	0x98	Sasha		Oh, Nayuta, it seems you've	
+0x18ab	0x07	System	#4C	If you find a cocoon,	
+				bring it to her.	
+0x1947	0x98	Sasha		Oh, Nayuta, seems that you've	
 				brought me a cocoon again.	
-0x199d	0x98	Sasha		If it's alright with you, will you give it to me?	
-				If I have it, it seems I'll be able to create	
-				new doll clothes.	
-0x1a2d	0x98	ALTO		Yeah, alright.	
-				I can't do anything with it anyway.	
+0x199d	0x98	Sasha		If it's okay, will you give it to me?	
+				If I had it, I think I'll be able to	
+				create new doll clothes.	
+0x1a2d	0x98	ALTO		Yeah, all right. I can't do
+				anything with it anyway.	
 0x1aad	0x98	Sasha		Huhu, thank you.	
 				I'll make them right away.	
 0x1af8	0x98	Sasha		I'll line them up in the store,	
-				so please take a look, OK?♪	
+				so please take a look, okay?♪	
 0x1b88	0x07	System	#3C	New items have been added	mp_0113 0x1807
 				to the general store lineup.	
-0x1c0e	0x98	Sasha		Oh, Nayuta, it seems you've	mp_0113 0x1947
+0x1c0e	0x98	Sasha		Oh, Nayuta, seems that you've	mp_0113 0x1947
 				brought me a cocoon again.	
 0x1c64	0x98	Sasha		It looks like a pretty rare one too...	
 				You've done well getting one like that,	
 				Nayuta...	
-0x1cdb	0x98	ALTO		Haha, it was a coincidence that	
-				I found it though.	
-0x1d2c	0x98	ALTO		Anyway, I'm giving this	
-				to you, Sasha.	
+0x1cdb	0x98	ALTO		Haha, I just found it by chance.	
+0x1d2c	0x98	ALTO		Anyway, I'm giving	
+				this to you, Sasha.	
 0x1da0	0x98	Sasha		Thank you, you always help me out.	
-0x1de3	0x98	Sasha		With only this cocoon,	
-				I can weave dreams and create	
-				the ultimate doll clothes, maybe...	
+0x1de3	0x98	Sasha		With this cocoon, maybe I	
+				can create the ultimate doll	
+				clothes of my dreams...	
 0x1e5a	0x98	Sasha		Uhuhu, you're looking forward	
-				to it too, aren't you Nayuta.	
+				to it too, aren't you Nayuta?		
 0x1eb5	0x98	ALTO		Ahaha, yeah...	
-				(In the end, the misunderstanding	
-				 was never resolved, huh...)	
+				(In the end, I was never able to	
+				 resolve this misunderstanding, huh...?)	
 0x1f54	0x07	System	#3C	New items have been added	mp_0113 0x1807
 				to the general store lineup.	
 talk_Sasha_addmes
@@ -175,8 +173,7 @@ talk_Sasha_sub
 				make a lover for myself.	
 0x2df7	0x98	Sasha		Grandma and Norma	
 				visit once every three months.	
-0x2e47	0x98	Sasha		Huhu, then, I'll have to quietly	mp_0113 0x2d76
-				make a lover for myself.	
+0x2e47	0x98	Sasha		mp_0113 0x2d76	
 0x2eac	0x98	Sasha		It'll be the Star Festival season soon...	
 				Hmm, how nostalgic.	
 0x2f09	0x98	Sasha		The reason I came to	
@@ -184,7 +181,7 @@ talk_Sasha_sub
 				the Star Festival, you know～.	
 0x2f6e	0x98	Sasha		Though that moon has disappeared	
 				and meteor showers have decreased,	
-				...Huhu, a festival is a festival, right?♪	
+				...Huhu, a festival is a festival, right? ♪	
 0x304a	0x98	Sasha		Grandma and Norma are	
 				of course worried about	
 				my parents, but...	
@@ -194,12 +191,8 @@ talk_Sasha_sub
 0x312d	0x98	Sasha		Everyone will pool their strength,	
 				and we'll show that we can overcome	
 				these abnormalities!	
-0x31cf	0x98	Sasha		I am a citizen of Remnant Island.	mp_0113 0x30a9
-				No matter what happens, I have	
-				no intention of leaving this island.	
-0x3253	0x98	Sasha		Everyone will pool their strength,	mp_0113 0x312d
-				and we'll show that we can overcome	
-				these abnormalities!	
+0x31cf	0x98	Sasha		mp_0113 0x30a9	
+0x3253	0x98	Sasha		mp_0113 0x312d
 0x32f3	0x98	Sasha		Just now, Eartha brought	
 				me a warm jacket.	
 0x333d	0x98	Sasha		It seems there are those whose health	
@@ -209,14 +202,14 @@ talk_Sasha_sub
 				by Eartha from sheep's wool.	
 0x3423	0x98	Sasha		Hmm, that I had a sewing buddy	
 				this close to me...	
-				I was blindsided!♪	
-0x3488	0x98	ALTO		Ahahaha...	mp_0112 0x1d25a
+				I was blindsided! ♪	
+0x3488	0x98	ALTO		mp_0112 0x1d25a
 0x34da	0x98	Sasha		Now that snow is falling,	
 				I missed my chance to	
 				stock up on coats～.	
 0x353d	0x98	Sasha		Now that I know Eartha can sew too,	
 				I've got to go learn something from	
-				her this time♪	
+				her this time! ♪	
 0x3625	0x98	Sasha		Hmm, even so,	
 				Noi is cute.	
 0x365f	0x98	Sasha		Say, when these abnormalities	
@@ -227,7 +220,7 @@ talk_Sasha_sub
 				will suit you perfectly!	
 0x374c	0x98	Sasha		Every single day I'll change	
 				your clothes alternately,	
-				and I'm sure it'll be fun!♪	
+				and I'm sure it'll be fun! ♪	
 0x37be	0x6B	ALTO		Sweatdrop	
 0x37e8	0x6B	NOI		Sweatdrop	
 0x3819	0x98	ALTO		Ahaha, somehow, it seems	
@@ -245,9 +238,8 @@ talk_Sasha_sub
 0x3a9e	0x98	Sasha		And...as the head of the Camelope	
 				family, which I'd be given by grandma,	
 				has a different mission, I think.	
-0x3b4f	0x98	Sasha		Huhu, I must fulfill my mission as	mp_0113 0x3a37
-				Remnant Island general store keeper.	
-0x3bb6	0x98	Sasha		I'm making cute clothes for Noi♪	
+0x3b4f	0x98	Sasha		mp_0113 0x3a37	
+0x3bb6	0x98	Sasha		I'm making cute clothes for Noi! ♪	
 0x3bf8	0x6B	ALTO		Sweatdrop	
 0x3c22	0x6B	NOI		Sweatdrop	
 0x3c79	0x98	Sasha		Uhuhu, though the dress-up doll treatment	
@@ -261,8 +253,7 @@ talk_Sasha_sub
 0x3dfa	0x98	Sasha		When these abnormalities have	
 				calmed down, let's have relaxed	
 				tea with everyone.	
-0x3e69	0x98	Sasha		Before long, I'll make plenty	mp_0113 0x3d78
-				of clothes to suit you, Noi.	
+0x3e69	0x98	Sasha		mp_0113 0x3d78	
 0x3f13	0x98	Sasha		I'm told much rubble is falling	
 				on the continent where the	
 				estate is.	
@@ -290,58 +281,52 @@ talk_Sasha_sub
 				If there is something you want, tell me.	
 0x4425	0x98	Sasha		Phew...I said I was safe.	
 				Convincing my grandma is difficult.	
-0x4482	0x98	Sasha		I'm worried about Kureha	
-				right now...	
-0x44c7	0x98	Sasha		...According to the elder's story,	
-				Kureha was kidnapped by	
-				that man in black.	
-0x4533	0x98	Sasha		...Nayuta, please bring her	
-				back somehow.	
+0x4482	0x98	Sasha		I'm worried about	
+				Kureha right now...	
+0x44c7	0x98	Sasha		...According to the elder's	
+				story, Kureha was kidnapped	
+				by that man in black.	
+0x4533	0x98	Sasha		...Nayuta, please bring	
+				her back somehow.	
 0x457c	0x98	Sasha		If there is something you need,	
 				I'll prepare it for you right away.	
-0x45e9	0x98	Sasha		...According to the elder's story,	mp_0113 0x44c7
-				Kureha was kidnapped by	
-				that man in black.	
-0x4655	0x98	Sasha		Kureha...	
-				I thought you made a good	
+0x45e9	0x98	Sasha		mp_0113 0x44c7	
+0x4655	0x98	Sasha		Kureha... I thought	
+				you made a good	
 				tea-drinking buddy...	
-0x46ad	0x98	Sasha		...Nayuta, please bring her	mp_0113 0x4533
-				back somehow.	
-0x46f6	0x98	Sasha		If there is something you need,	mp_0113 0x457c
-				I'll prepare it for you right away.	
+0x46ad	0x98	Sasha		mp_0113 0x4533
+0x46f6	0x98	Sasha		mp_0113 0x457c
 0x4783	0x98	Sasha		...Nayuta, please bring Kureha	
 				back somehow.	
-0x47cf	0x98	Sasha		If there is something you need,	mp_0113 0x457c
-				I'll prepare it for you right away.	
+0x47cf	0x98	Sasha		mp_0113 0x457c
 0x4868	0x98	Sasha		Look, look～,	
 				a cat came into	
 				my shop!	
 0x48ad	0x98	Sasha		That's Ida from the elder's	
-				place, isn't it.	
+				place, isn't it?	
 				...So cute, so cute～♪	
 0x4910	0x98	Sasha		I've got to give her something	
-				good to eat, right～㈱	
+				good to eat, right～? ㈱	
 0x4965	0x98	ALTO		(Ahaha, Sasha really	
 				 likes cute things...)	
-0x49d7	0x98	Sasha		It seems Ida has a lot of pride and until	
-				now, hasn't become very attached.	
+0x49d7	0x98	Sasha		It seems like Ida has a lot of pride	
+				and hasn't become very attached to anyone.	
 0x4a42	0x98	Sasha		For her to come into my shop...	
-				I've got to give thanks for this	
-				cold～♪	
-0x4ae0	0x98	Sasha		Kureha, was it...	
+				It must be thanks to this cold～! ♪	
+0x4ae0	0x98	Sasha		Kureha, was it...?	
 				She's mysterious and	
-				awfully cute, isn't she.	
+				awfully cute, isn't she?	
 0x4b3e	0x98	Sasha		She's not the type you often see on	
-				the island, and it seems there's	
-				rumors about her here and there.	
-0x4bc2	0x98	Sasha		Ah, if she had any sisters, we'd	
+				this island. I've been hearing rumors	
+				about her everywhere lately.	
+0x4bc2	0x98	Sasha		Ooh, if she had any sisters, we'd	
 				enjoy dressing up dolls every day～.	
 0x4c27	0x6B	ALTO		Sweatdrop	
 0x4c59	0x98	ALTO		(I'll tell Kureha to be careful...)	
-0x4cc4	0x98	Sasha		Kureha, was it...	
+0x4cc4	0x98	Sasha		Kureha, was it...?	
 				Huhu, if it's that girl, any kind	
 				of clothes would suit her.	
-0x4d31	0x98	Sasha		Ah, I want to enjoy	
+0x4d31	0x98	Sasha		Ooh, I want to enjoy	
 				playing dress up～.	
 0x4dae	0x98	Sasha		Thank goodness	
 				Eartha has recovered.	
@@ -358,10 +343,8 @@ talk_Sasha_sub
 				this island has only good people.	
 0x4fe9	0x98	Sasha		As for Eartha's sick visit,	
 				I'll go when it's my turn.	
-0x505f	0x98	Sasha		Huhu, while I'm at it,	mp_0113 0x4ed5
-				I'll introduce grandma and	
-				Norma to her.	
-0x50c7	0x98	Sasha		I definitely go to see her	
+0x505f	0x98	Sasha		mp_0113 0x4ed5
+0x50c7	0x98	Sasha		I'll definitely go to see her	
 				later, Nayuta!	
 0x5152	0x98	Sasha		(...To think my grandma came to	
 				 visit at a time like this...)	
@@ -378,12 +361,12 @@ talk_Sasha_sub
 				medicine to Dr. Hydol.	
 0x5364	0x98	Sasha		I'll help you out as much as I can,	
 				so if there's something troubling	
-				you, tell me, OK?	
+				you, tell me, okay?	
 0x53da	0x98	ALTO		Yeah, sorry...	
 				Thank you very much.	
 0x5456	0x98	Sasha		I'm about to ask Dr. Hydol to	
 				use this shop's medicine.	
-0x54ad	0x98	Sasha		...But, if it is Dr. Hydol,	
+0x54ad	0x98	Sasha		...But, if it's Dr. Hydol,	
 				he will have cooling gel	
 				and painkillers, though...	
 0x551b	0x98	Sasha		...Eartha...	
@@ -396,17 +379,15 @@ talk_Sasha_sub
 0x5678	0x98	Sasha		Sorry for earlier～.	
 				Bootie asked me to help him	
 				with his game of hide-and-seek.	
-0x56e7	0x98	Sasha		Uhuhu, my personality is to go	
+0x56e7	0x98	Sasha		Uhuhu, I always try to go	
 				along with anything that seems	
 				fun, you see.	
-0x578d	0x98	Sasha		Huhu, now what can I get you	
-				today?	
+0x578d	0x98	Sasha		Huhu, now what can I get you today?	
 0x57d0	0x98	Sasha		Though it is fine to play in the ruins,	
 				take care not to get hurt.	
 0x584e	0x98	ALTO		Sasha, do you know something	
 				about Cygna?	
-0x5896	0x98	Sasha		(This letter,	
-				 it's from my parents...)	
+0x5896	0x98	Sasha		(This letter, it's from my parents...)	
 0x58dd	0x98	Sasha		(Ah, I wonder just how they	
 				 knew I was on this island...)	
 0x5937	0x6B	Sasha		Ellipsis	
@@ -430,9 +411,9 @@ talk_Sasha_sub
 				Canie will happily accept it.	
 				Don't you think so?	
 0x5cd4	0x98	Sasha		Huhu, you did well to find one, Nayuta.	
-				That's great, great!㈱	
+				That's great, great! ㈱	
 0x5d3c	0x98	Sasha		You said you found the	
-				"Eternal Rose"...	
+				Eternal Rose...	
 				Did you really?	
 0x5d93	0x98	Sasha		You should only be able to find them	
 				where there are falling cherry blossoms	
@@ -453,7 +434,7 @@ talk_Sasha_sub
 0x6107	0x98	Sasha		...Tee-hee, did I sound just	
 				like an old lady, maybe?	
 0x61ae	0x98	Sasha		Welcome, Nayuta.	
-				I haven't seen you in awhile,	
+				I haven't seen you in a while,	
 				and I'm happy to see you.	
 0x6215	0x98	Sasha		Did any errands come today?	
 				Or else, I wonder if you could	
@@ -471,16 +452,15 @@ talk_Sasha_sub
 0x647f	0x98	Sasha		That's right, look at this	
 				showcase! It's a big	
 				Star Shard isn't it?	
-0x64e4	0x98	Sasha		Awhile ago, the elder asked me to	
-				use it as "An advertisement for	
-				Remnant Island's famous product."	
+0x64e4	0x98	Sasha		A while ago, the elder asked me to	
+				use it as "an advertisement for	
+				Remnant Island's signature product."	
 0x6566	0x98	Sasha		Huhu, though I can't sell it	
 				because it's not for sale...	
 				I'm happy just looking at it♪	
 0x6605	0x98	Sasha		The other day, trader Antlia gave me	
 				some good black tea～.	
-0x6660	0x98	Sasha		I'll enjoy it again with	mp_0113 0x63b0
-				Eartha and everyone.	
+0x6660	0x98	Sasha		mp_0113 0x63b0
 talk_Camelope
 0x66ef	0x98	Camelope		Like before, I will not be so arrogant	
 				as to prepare a marriage partner	
@@ -608,13 +588,11 @@ talk_Norma
 0x7dc7	0x98	Norma		The lady of the house, too,	
 				should acknowledge her.	
 talk_Bootie
-0x7e32	0x98	Bootie		Got it.	
-				I should go later to the	
-				doctor for an exam.	
+0x7e32	0x98	Bootie		I got it. I should go to the	
+				doctor for an exam later.	
 0x7e86	0x98	Bootie		...More importantly,	
-				is it alright if I don't	
-				take that bitter medicine?	
-0x7eee	0x98	Bootie		If it's a lie, Nayuta,	
+				I wonder if I won't have to take bitter medicine?	
+0x7eee	0x98	Bootie		If you're lying, Nayuta,	
 				I'll make you eat a	
 				porcupinefish!	
 talk_Cat
@@ -658,22 +636,22 @@ quest_Sasha
 0x8747	0x98	ALTO		(...Huh?)	
 0x8770	0x98	ALTO		(According to Canie, there's a high	
 				 likelihood that he's here...)	
-0x8871	0x98	Sasha		Unfortunately, we're out of	
-				"Eternal Roses."	
-0x88bd	0x98	Sasha		Those flowers only grow in places	
+0x8871	0x98	Sasha		Unfortunately, we don't	
+				carry Eternal Roses.	
+0x88bd	0x98	Sasha		Those flowers only seem to grow in places	
 				where cherry tree flowers fall to begin	
-				with. It seems it's a pretty rare plant...	
-0x8950	0x98	Sasha		I'm terribly sorry!	
-				For my part, I'll see if we have any	
-				other good anniversary presents.	
+				with. It's a pretty rare plant...	
+0x8950	0x98	Sasha		I'm so sorry! I'll try looking	
+				if we have any other good	
+				anniversary presents.	
 quest_Bootie
-0x8a7a	0x98	Bootie		Got it.	mp_0113 0x7e32
+0x8a7a	0x98	Bootie		I got it.	mp_0113 0x7e32
 				I should go later to the	
 				doctor for an exam.	
 0x8ace	0x98	Bootie		...More importantly,	mp_0113 0x7e86
-				is it alright if I don't	
+				is it all right if I don't	
 				take that bitter medicine?	
-0x8b36	0x98	Bootie		If it's a lie, Nayuta,	mp_0113 0x7eee
+0x8b36	0x98	Bootie		If you're lying, Nayuta,	mp_0113 0x7eee
 				I'll make you eat a	
 				porcupinefish!	
 QS_12_consult_a_lawyer
@@ -686,19 +664,18 @@ QS_12_consult_a_lawyer
 0x8da3	0x40	UNDEF		Told Sasha about Sculp's request and	
 				the search for an anniversary present.	
 0x8e16	0x06	Sasha		ANI_SURPRISE	
-0x8e41	0x98	Sasha		My, an anniversary...	
-0x8e77	0x98	Sasha		...Nayuta, just when did you	
-				get married...!?	
+0x8e41	0x98	Sasha		Oh my, an anniversary...	
+0x8e77	0x98	Sasha		Nayuta, just when did	
+				you get married...!?	
 0x8ee3	0x06	Sasha		ANI_WAIT2	
-0x8f0b	0x98	Sasha		Ohoho...	
-				When there's someone like me available,	
-				you were tempted by a city woman!?	
+0x8f0b	0x98	Sasha		Ohoho... Even while someone like me	
+				is still available, you go and get	
+				seduced by some sweet city woman!?	
 0x8f7d	0x6B	ALTO		Sweatdrop	
 0x8faf	0x06	ALTO		ANI_COMPLAIN	
-0x8fd9	0x98	ALTO	#6A	No, no...	
-				I said, it's for Sculp.	
+0x8fd9	0x98	ALTO	#6A	No, no...I just told you, it's for Sculp.	
 0x9033	0x06	Sasha		ANI_LAUGH	
-0x905b	0x98	Sasha		Huhu, that was a joke☆	
+0x905b	0x98	Sasha		Huhu, that was a joke! ☆	
 0x9093	0x06	Sasha		ANI_WAIT3	
 0x90bb	0x98	Sasha		Let's see...	
 				If it's an anniversary present,	
@@ -711,73 +688,73 @@ QS_12_consult_a_lawyer
 				you don't have to be too original.	
 0x9227	0x06	Sasha		ANI_GESTURE2	
 0x9252	0x98	Sasha		Let's see, recently a popular one is...	
-				the "Eternal Rose," a rose of	
+				the Eternal Rose, a rose of	
 				eastern origin.	
 0x92c6	0x06	ALTO		ANI_WAIT	
 0x92ec	0x98	ALTO	#6A	"Eternal Rose"...	
 0x9320	0x06	Sasha		ANI_TALK	
-0x9347	0x98	Sasha		Like it's name says,	
-				it has plenty of lifespan, and	
-				hardly ever withers.	
-0x93ae	0x98	Sasha		In flower language, it means "Eternal Love"...	
-				Giving just a single one	
-				is romantic and popular.	
+0x9347	0x98	Sasha		Like its name suggests,	
+				it has a long lifespan,	
+				and hardly ever withers.	
+0x93ae	0x98	Sasha		In flower language, it means "eternal Love"...	
+				Giving even just one of them as a gift	
+				is a popular romantic trend.	
 0x942d	0x06	Sasha		ANI_WAIT0	
 0x9455	0x06	ALTO		ANI_NOD	
-0x947a	0x98	ALTO	#6A	Certainly, that'd be perfect	
+0x947a	0x98	ALTO	#6A	That'd certainly be perfect	
 				for an anniversary present.	
-0x94d4	0x98	ALTO	#6A	Then, can I have one of those roses?	
+0x94d4	0x98	ALTO	#6A	Can I have one of those roses, then?	
 0x951b	0x6B	Sasha		Ellipsis	
 0x956d	0x6B	ALTO		Question	
-0x95be	0x98	Sasha		...I'm sorry,	
-				my speciality is getting lost in conversation.	
-				Unfortunately, we're out of stock.	
-0x963c	0x98	Sasha		Those flowers only grow in places	mp_0113 0x88bd
-				where cherry tree flowers fall to begin	
-				with. It seems it's a pretty rare plant...	
+0x95be	0x98	Sasha		...I'm sorry, even though I talked
+				a lot about them, unfortunately,	
+				we don't carry them.	
+0x963c	0x98	Sasha		Those flowers only seem to grow in places	mp_0113 0x88bd
+				where cherry blossoms fall to begin	
+				with. It's a pretty rare plant...	
 0x96cf	0x06	ALTO		ANI_DEJECTED	
-0x96f9	0x98	ALTO	#6A	I-Is that so...	mp_0101 0x51b9
+0x96f9	0x98	ALTO	#6A	I-Is that so...?	mp_0101 0x51b9
 0x972b	0x6B	ALTO		Ellipsis	
 0x9755	0x06	ALTO		ANI_THINK	
 0x9784	0x6B	ALTO		Surprise	
 0x97b6	0x06	ALTO		ANI_GOODIDEA	
-0x97e0	0x98	ALTO	#6A	(Cherry trees... Could it be that	
-				 they exist on the "forest continent" possibly?)	
+0x97e0	0x98	ALTO	#6A	(Cherry blossoms... Maybe they could	
+				 be on the Forest Continent?)	
 0x9854	0x98	ALTO	#6A	(Though Noi said she's in a pinch right now	
 				 the cherry trees are in full bloom over there.	
-				 Possibly, the rose is somewhere...)	
+				 Maybe the rose is somewhere...)	
 0x98f5	0x6B	Sasha		Question	
 0x9928	0x06	Sasha		ANI_WAIT4	
 0x9950	0x98	Sasha		What's wrong, Nayuta?	
 				You're lost in thought all of a sudden...	
 				...that might be my fault.	
 0x99c9	0x06	Sasha		ANI_WAIT2	
-0x99f1	0x98	Sasha		I'm terribly sorry!	mp_0113 0x8950
-				For my part, I'll see if we have any	
-				other good anniversary presents.	
+0x99f1	0x98	Sasha		I'm so sorry! I'll try looking	mp_0113 0x8950
+				if we have any other good	
+				anniversary presents.		
 0x9a69	0x06	ALTO		ANI_THANKS	
-0x9a91	0x98	ALTO	#6A	Yeah, thanks Sasha.	
-0x9ac7	0x98	ALTO	#6A	(The "forest continent"...	
-				 Searching there might be warranted.)	
+0x9a91	0x98	ALTO	#6A	Okay, thanks, Sasha.	
+0x9ac7	0x98	ALTO	#6A	(The Forest Continent...	
+				 It might be worth searching there.)	
 QS_25_ask_Sasha
 0x9d29	0x98	ALTO	#6A	...Sasha.	
 0x9d55	0x06	Sasha		ANI_WAIT0	
-0x9d7d	0x98	Sasha		W-What is it? Nayuta.	
+0x9d7d	0x98	Sasha		W-What is it, Nayuta?	
 0x9db3	0x06	ALTO		ANI_COMPLAIN	
 0x9ddd	0x98	ALTO	#6A	I'm searching for Bootie	
 				for a request from Dr. Hydol.	
-0x9e35	0x98	ALTO	#6A	I've got to call Bootie	
+0x9e35	0x98	ALTO	#6A	I have to call Bootie in	
 				for a medical exam, but...	
 0x9e89	0x6B	Sasha		Exclamation	
 0x9ebc	0x06	Sasha		ANI_SURPRISE	
-0x9ee7	0x98	Sasha		...Huh, a medical exam!?	
-				Not hide-and-seek!?	
+0x9ee7	0x98	Sasha		...Huh? A medical exam?	
+				Not hide-and-seek?	
 0x9f54	0x06	Sasha		ANI_SIT6	
 0x9f83	0x98	Sasha	#6A	H-Hey, Bootie!	
-				You said it was...	
+				You told me...	
 0x9fc7	0x98	Bootie	#6A	W-Waugh!	
-				You can't say it!	
-0xa01c	0x98	Sasha	#6A	...Ah.	mp_0005c 0x3562
+				You can't say that!	
+0xa01c	0x98	Sasha	#6A	...O-Oh.	mp_0005c 0x3562
 0xa046	0x6B	Sasha		Sweatdrop	
 0xa079	0x6B	ALTO		Sweatdrop	
 0xa0ab	0x06	ALTO		ANI_CHAGRINED	
@@ -785,16 +762,16 @@ QS_25_ask_Sasha
 				 the counter...)	
 0xa1e1	0x06	Sasha		ANI_WAIT	
 0xa289	0x06	Bootie		ANI_DULL	
-0xa2b1	0x98	Bootie		Ah man, you found me...	
+0xa2b1	0x98	Bootie		Oh man, you found me...	
 0xa301	0x98	Sasha		I'm sorry, Nayuta.	
 				He asked me for help with	
 				his hide-and-seek game.	
 0xa3a4	0x06	Sasha		ANI_DIRECT	
 0xa3cd	0x98	Sasha		My goodness, Bootie.	
 				You shouldn't tell lies.	
-0xa41a	0x98	Sasha		Because it's Dr. Hydol's	
+0xa41a	0x98	Sasha		Since it's Dr. Hydol's	
 				exam, you've got to take	
-				it properly, OK?	
+				it properly, okay?	
 0xa4bb	0x06	Bootie		ANI_DEJECTED	
 0xa4e7	0x98	Bootie		I-I'm sorry...	
 0xa517	0x6B	ALTO		Sweatdrop	
@@ -809,34 +786,33 @@ QS_25_ask_Sasha
 				I wonder if I'll have to take	
 				that bitter medicine again...	
 0xa761	0x06	ALTO		ANI_DENY	
-0xa787	0x98	ALTO	#6A	No, it should be all right.	
+0xa787	0x98	ALTO	#6A	No, you should be okay.	
 0xa7c5	0x06	ALTO		ANI_GESTURE2	
-0xa7ef	0x98	ALTO	#6A	He said it was to check on	
-				your progress, so shouldn't	
-				that be fine?	
+0xa7ef	0x98	ALTO	#6A	He said it was a medical examination,	
+				so shouldn't that just be to check on	
+				your progress?	
 0xa854	0x6B	Bootie		Exclamation	
 0xa8a0	0x06	Bootie		ANI_JOY	
 0xa8c7	0x98	Bootie		R-Really!?	mp_0110 0x10ffa
 0xa8f3	0x06	Sasha		ANI_LAUGH	
-0xa91b	0x98	Sasha		Huhu, that's great Bootie.	
+0xa91b	0x98	Sasha		Huhu, that's great, Bootie.	
 0xa956	0x6B	Bootie		Unknown	
 0xa98a	0x06	Bootie		ANI_COMPLAIN	
-0xa9b6	0x98	Bootie		R-Really really?	
+0xa9b6	0x98	Bootie		R-Really, really?	
 0xa9e8	0x06	Bootie		ANI_DIRECT	
-0xaa12	0x98	Bootie		If it's a lie, Nayuta,	mp_0113 0x7eee
+0xaa12	0x98	Bootie		If you're lying, Nayuta,	mp_0113 0x7eee
 				I'll make you eat a	
 				porcupinefish!	
 0xaa6b	0x06	ALTO		ANI_NOD	
-0xaa90	0x98	ALTO	#6A	Yes, yes...that's enough.	
-0xaacc	0x98	ALTO	#6A	(For now, I've called	
-				 on everyone...	
+0xaa90	0x98	ALTO	#6A	Yes, yes, you do that.	
+0xaacc	0x98	ALTO	#6A	(I've called on everyone forz...	
 				 I should report to the doctor.)	
 QS_34_ask_Sasha
 0xad2a	0x06	Sasha		ANI_WAIT0	
 0xad52	0x98	Sasha		Oh, Nayuta, what's wrong?	
 0xad8c	0x06	ALTO		ANI_GESTURE1	
-0xadb6	0x98	ALTO	#6A	Sasha, I need to	
-				talk to you for a bit...	
+0xadb6	0x98	ALTO	#6A	Sasha, I need to talk	
+				to you for a bit...	
 0xae01	0x40	UNDEF		Nayuta explained Norma's request regarding	
 				the conflict between Sasha and Camelope.	
 0xae74	0x06	Sasha		ANI_DEJECTED	

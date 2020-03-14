@@ -112,14 +112,14 @@ lp_dragonfly
 lp_stagbeetle
 0x3bc6	0x36	Choice		Longhorn Beetle	
 0x3bed	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x3c29	0x36	Choice		Large Stag Beetle	
+0x3c29	0x36	Choice		Giant Stag Beetle	
 0x3c52	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x3c8e	0x36	Choice		Goliath Beetle	
 0x3cb4	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x3cf0	0x36	Choice		Sawtooth Stag Beetle	
 0x3d1c	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x3d38	0x36	Choice		Quit	mp_0002 0x433f
-0x3dbe	0x41	None		[Large Stag Beetle] Dorcus hopei binodulosus	
+0x3dbe	0x41	None		[Giant Stag Beetle] Dorcus hopei binodulosus	
 				Large rhinocerous beetle that prefers the sap of	
 				sawtooth oak. Males grow a horn that looks	
 				like a hoe, that changes the shape of its jaw.	
@@ -140,7 +140,7 @@ lp_beetle
 0x44d3	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x450f	0x36	Choice		Hercules Beetle	
 0x4536	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x4572	0x36	Choice		Megasoma	
+0x4572	0x36	Choice		Elephant Beetle	
 0x4592	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x45ae	0x36	Choice		Quit	mp_0002 0x433f
 0x4634	0x41	None		[Hercules Beetle] Dynastes hercules	
@@ -153,7 +153,7 @@ lp_beetle
 				mountain zone, it has a fierce belligerence and	
 				equals the hercules beetle as the strongest	
 				rhinoceros beetle.	
-0x496d	0x41	None		[Megasoma] Megasoma elephas	
+0x496d	0x41	None		[Elephant Beetle] Megasoma elephas	
 				Extra-large rhinoceros beetle with a heavy body weight.	
 				Though when it is an adult, it is too large to be placed	
 				on one hand, it lives by feeding on sap.	
@@ -222,7 +222,7 @@ lp_nothing
 subev_showroom_first
 0x61df	0x06	ALTO		ANI_SURPRISE	
 0x6209	0x06	NOI		ANI_SURPRISE	
-0x6232	0x98	ALTO		T-This is...!	
+0x6232	0x98	ALTO		T-This...!	
 0x6279	0x06	NOI		ANI_GESTURE1	
 0x62a2	0x98	NOI		We're in a forest...!?	
 0x62d9	0x06	ALTO		ANI_LOOK_AROUND	
@@ -242,8 +242,8 @@ talk_Coron
 0x66ac	0x98	Coron		Dr. Volans designed each	
 				exhibit room at the museum.	
 0x6700	0x98	Coron		Natural history is Dr. Volans'	
-				specialty, and he spent much	
-				Mira making them.	
+				specialty, and he spent a lot	
+				of mira making them.	
 0x676c	0x98	Coron		Ah, what a splendid research space...	
 0x67b2	0x98	Coron		A-Ahem.	
 				By the way, I am responsible for	
@@ -254,19 +254,19 @@ talk_Coron
 0x6942	0x3F	Name		Researcher Caelum	mp_0115 0xb4da
 0x6975	0x98	Coron		Uhuhu, you're managing the reception	
 				desk well, aren't you Coron.	
-0x69d6	0x98	Coron		Since she, like me, has had a nice	
-				body from the start, I didn't	
-				want to waste it.	
-0x6a47	0x98	Coron		Since she is always so uncool,	
-				I've got to dress her up every now and then㈱	
-0x6adb	0x98	Coron		Since she, like me, has had a nice	mp_0115a 0x69d6
-				body from the start, I didn't	
-				want to waste it.	
+0x69d6	0x98	Coron		Since she, like me, has always had	
+				a nice body, I didn't want it to
+				go to waste.	
+0x6a47	0x98	Coron		Since she is always so uncool, I have	
+				to dress her up every now and then! ㈱	
+0x6adb	0x98	Coron		Since she, like me, has always had	mp_0115a 0x69d6
+				a nice body, I didn't want it to
+				go to waste.		
 0x6b4c	0x98	Coron		But...I'm already at my limit.	
 				If I tease her too much,	
 				she'll cry.	
 0x6bda	0x3F	Name		Researcher Caelum	mp_0115 0xb4da
-0x6c0d	0x98	Coron		Huhu, I am Caelum.	
+0x6c0d	0x98	Coron		Hehe, I am Caelum.	
 				Today, I'm switching clothes with Coron	
 				and leaving the reception desk to her.	
 0x6c8d	0x98	Coron		Even though we have the same face,	
@@ -274,7 +274,7 @@ talk_Coron
 				I want to give her special training.	
 0x6d1f	0x98	Coron		And I'm wearing this researcher's rag.	
 				Ya gotta work behind the scenes	
-				sometimes, y'know?☆	
+				sometimes, y'know? ☆	
 0x6dc1	0x98	Coron		I've gotta work behind the	
 				scenes sometimes, so I switch	
 				with Coron from time to time.	

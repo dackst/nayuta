@@ -8,44 +8,41 @@ EV_3_S13_find_yupina
 0x60c	0x6B	NOI		Exclamation	
 0x635	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x664	0x06	NOI		ANI_SURPRISE	
-0x695	0x98	ALTO	#6A	Ah...!?	
+0x695	0x98	ALTO	#6A	Ahh...!?	
 0x6c7	0x98	NOI	#6A	C-Could this be...	
 0xa1c	0x06	ALTO		ANI_FIND	
-0xa68	0x98	ALTO		There's no mistake...	
+0xa68	0x98	ALTO		There's no mistaking it...	
 				It's Yupina Grass!	
-0xab9	0x98	ALTO		B-But, it seems that,	
+0xab9	0x98	ALTO		B-But, it seems like,	
 				compared to the picture in the book,	
-				it's color seems dull...	
+				its color is a bit dull...	
 0xb86	0x06	ALTO		ANI_SIT6	
-0xbda	0x98	ALTO	#0W#6A	...It has, withered...	
-0xc16	0x98	ALTO	#0W#6A	The living conditions should	
-				have been met...	
-0xc8d	0x98	NOI		...I'm sure.	
-				It's because of this cold...	
-0xd28	0x98	ALTO	#6A	...I've come this far...	
-				I can believe this...	
-0xd78	0x98	ALTO	#6A	...Sister...!	
+0xbda	0x98	ALTO	#0W#6A	...It's withered.	
+0xc16	0x98	ALTO	#0W#6A	The habitat should be the same...	
+0xc8d	0x98	NOI		...I'm sure it's because of this cold.	
+0xd28	0x98	ALTO	#6A	...I've come so far.	
+				I can't believe this...	
+0xd78	0x98	ALTO	#6A	...Eartha...!	
 0xdf2	0x6B	NOI		Ellipsis	
 0xe23	0x6B	NOI		Exclamation	
 0xe4c	0x06	NOI		ANI_GOODIDEA	
 0xeef	0x98	NOI		Nayuta, it's too early to give up!	
 0xf30	0x98	NOI		If we had the Master Gear of Wind	
 				that governs this continent...	
-				we could restore the climate!	
+				We could restore the climate!	
 0xfb5	0x6B	ALTO		Surprise	
 0x1040	0x98	ALTO	#6A	T-That's right!	
-0x1072	0x98	ALTO	#6A	Maybe the Astrolabe can make	
-				the Yupina Grass revive...!?	
+0x1072	0x98	ALTO	#6A	Maybe the Astrolabe can revive	
+				the Yupina Grass...!?	
 0x10d7	0x06	NOI		ANI_NOD	
 0x10fb	0x98	NOI		I'm sure it can!	
-0x112a	0x98	NOI		Next is to chase after Zext!	
-				I'm sure that he is at the temple	
-				around now!	
+0x112a	0x98	NOI		Next up is to chase after Zext!	
+				I'm sure he's at the temple by now!	
 0x11e7	0x06	ALTO		ANI_WAIT	
 0x1238	0x98	ALTO	#6A	...Understood.	
 				I can't give up until the very end.	
 0x1294	0x06	ALTO		ANI_JOY	
-0x12b9	0x98	ALTO	#6A	Let's go, Noi!	mp_1099 0x152c1
+0x12b9	0x98	ALTO	#6A	mp_1099 0x152c1
 0x12f2	0x06	NOI		ANI_GUTSPOSE	
-0x131b	0x98	NOI		Yeah!	mp_0001 0x1174e
+0x131b	0x98	NOI		mp_0001 0x1174e
 0x149b	0xCE	Objective		Let's hurry to the sanctum. We'll take back the Master Gear!	

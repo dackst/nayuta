@@ -74,7 +74,7 @@ training_Aulbath
 				a great destiny...	
 				You may be able to master it.	
 0x2f30	0x06	ALTO		ANI_OJIGI	
-0x2f57	0x98	ALTO	#6A	I'll use it thankfully!	mp_4099 0x728c
+0x2f57	0x98	ALTO	#6A	I'll use it wisely!	mp_4099 0x728c
 0x2f9b	0x06	Aulbath		ANI_WAIT0	
 0x2fc5	0x98	Aulbath		Hmm, with this, I think I will	
 				give you that equipment...	
@@ -128,21 +128,21 @@ training_Aulbath
 0x4b31	0xC1	System		#3C『Consecutive Evasion』 learned!	mp_0002 0xc9fb
 0x4c2a	0xC1	System		#3C『Mastery: Two-Handed Swords ③』 learned!	mp_0002 0xcaec
 0x4d2d	0xC1	System		#3CLearned secret technique 『Fallen Lotus』!	mp_0002 0xcbe7
-0x561a	0x98	ALTO		*pant, pant*...	mp_7098 0x6680
+0x561a	0x98	ALTO		*huff, huff*...	mp_7098 0x6680
 				I-I did it...	
 0x5656	0x98	Aulbath		Huhu, somehow, it seems	
 				you have made it your own.	
 0x56aa	0x98	Aulbath		By all means, please apply	
 				that skill effectively in your	
 				battles for me.	
-0x5736	0x98	ALTO		*pant, pant*...	
+0x5736	0x98	ALTO		*huff*, *huff*...	
 				...Master, I did it!!	
 0x577a	0x98	Aulbath		Huhu, somehow, it seems	system 0x5656
 				you have made it your own.	
 0x57ce	0x98	Aulbath		Later, you should polish	
 				up that secret technique	
 				with your own hands.	
-0x583f	0x98	ALTO		*pant, pant*...	mp_7099c 0x4f96
+0x583f	0x98	ALTO		*huff*, *huff*...	mp_7099c 0x4f96
 0x586e	0x98	Aulbath		Hmm, this is about it.	
 0x58a7	0x98	Aulbath		Accumulate training and open up	
 				a new state of mind. Hereafter, do	
@@ -223,7 +223,7 @@ collectget_dog
 0x6e4c	0xC1	System		given to Nora.	system 0x6d04
 0x6fb2	0xC1	System		given to Nora.	system 0x6d04
 0x70fa	0xC1	System		given to Nora.	system 0x6d04
-0x7186	0x98	Dog		Ruff, ruffruff♪	
+0x7186	0x98	Dog		Ruff, ruffruff! ♪	
 0x721a	0x98	ALTO		You're giving me these?	
 				Ahaha, thanks.	
 0x725f	0x98	ALTO		Thank goodness	

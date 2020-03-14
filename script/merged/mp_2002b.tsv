@@ -25,7 +25,7 @@ SUB_meet_adventurer
 0x170b	0x06	st		ANI_PATA2	
 0x17ed	0x6B	ALTO		Exclamation	
 0x181f	0x6B	NOI		Exclamation	
-0x1870	0x98	ALTO		Huh...	mp_0001 0x166ea
+0x1870	0x98	ALTO		Huh...?	mp_0001 0x166ea
 0x1896	0x06	NOI		ANI_SURPRISE	
 0x18bf	0x98	NOI		No way!?	
 0x19be	0x98	NOI	#16S	H-Humans!?	
@@ -198,15 +198,15 @@ QS_33_check_incubation
 				It looks like they hatched for us.	
 0x4243	0x98	NOI	#6A	You did it, Nayuta!	
 				With this, Elis' request is a success!	
-0x42b3	0x98	ALTO	#6A	Yeah, at this rate, they should	
-				be raised properly...	
+0x42b3	0x98	ALTO	#6A	Yeah, they should be able to grow up	
+				properly...	"now that the seasons are fixed" "climate is fixed"
 				There's no need to worry.	
 0x4341	0x98	ALTO	#6A	Ahaha, even so...	
 				With the exception of the hair color,	
-				they are indistinguishable from chicken chicks.	
-0x43e6	0x98	NOI	#6A	Hehe, that's the way everything	
-				is when it's juvenile.	
-0x4452	0x98	NOI	#6A	Now, let's not forget	
-				to go report this to Elis!	
+				they're indistinguishable from a chicken's chicks.	
+0x43e6	0x98	NOI	#6A	Hehe, that's just the way	
+				everything is when it's a baby.	
+0x4452	0x98	NOI	#6A	Now, don't forget	
+				to report this to Elis!	
 0x44b8	0x98	ALTO	#6A	Yeah!	mp_0001 0x1174e
 0x4570	0x06	ALTO		ANI_SWIM_WAIT	

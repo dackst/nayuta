@@ -134,7 +134,7 @@ EV_2_S21_look_cage_2nd
 0x3847	0x41	None	#0W#2E#029c	I entrust everything to you.	
 				Please, do this that I ask of you!#0E	
 0x3919	0x06	ALTO		ANI_THANKS	
-0x3941	0x98	ALTO	#6A	Please leave it to me!	
+0x3941	0x98	ALTO	#6A	Leave it to me!	
 0x3982	0x06	NOI		ANI_GUTSPOSE	
 0x39ab	0x98	NOI	#6A	Just wait, Elis!	
 				We'll recover the Master Gear and	

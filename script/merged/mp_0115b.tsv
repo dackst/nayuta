@@ -107,7 +107,7 @@ lp_dinosaur
 0x364e	0x41	None		Tyrannosaur Skeleton	
 				It seems to be the skeleton of a tyrant dragon.	
 				Because part of it is missing, the details are unknown.	
-0x385a	0x41	None		Pterodactyl [Pteranodon]	
+0x385a	0x41	None		Pteranodon	
 				Dinosaur species that lived in ancient times.	
 				It is thought to have hunted by swooping down	
 				from the high skies with its large wings.	
@@ -138,8 +138,8 @@ subev_showroom_first
 0x45d2	0x06	ALTO		ANI_SURPRISE	
 0x45fc	0x06	NOI		ANI_SURPRISE	
 0x4625	0x98	ALTO		T-This is...!	mp_0115a 0x6232
-0x466c	0x98	NOI		Somehow, it seems this is a	
-				different constructed room...	
+0x466c	0x98	NOI		Seems like this room is constructed	
+				differently somehow..	
 0x46c5	0x06	ALTO		ANI_LOOK_AROUND	
 0x46f2	0x98	ALTO		It looks like an exhibit room for	
 				fossils and taxidermies...	

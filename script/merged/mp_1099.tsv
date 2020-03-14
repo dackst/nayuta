@@ -12,14 +12,14 @@ init
 0xf37	0x06	b000Ex		ANI_HIDE	
 talk_Gio
 0x172e	0x98	Gio		So Nemeas has granted you power.	
-				That's great. With that, it seems you can proceed.	
-0x17a9	0x98	Gio		If you have Nemeas' power,	
-				it seems you can proceed.	
+				That's great. It looks as if you can proceed now.	
+0x17a9	0x98	Gio		Now that you have Nemeas' power,	
+				it looks as if you can proceed.	
 0x17fd	0x98	Gio		Leave this place to me. You should	
 				climb Heliograd!	
 0x1884	0x98	Gio		Because each continent's temple was	
 				stopped, it seems the Power of Stars	
-				is flowing through Heliograd.	
+				is flowing into Heliograd.	
 0x1909	0x98	Gio		It seems that's man's objective was this...	
 0x1953	0x98	Gio		Anyhow, I will try searching for a method	
 				to stop the flow of power.	
@@ -30,11 +30,11 @@ talk_Gio
 0x1a92	0x98	Gio		You should save Nemeas!	mp_1099 0x19b5
 0x1b18	0x98	Gio		Hmm, hmm, it seems you have	
 				safely rescued Algol.	
-0x1b71	0x98	Gio		It seems Algol too has been	
+0x1b71	0x98	Gio		It seems that Algol, too, has been	
 				safely released from his cage.	
-0x1bcb	0x98	Gio		With this, three wardens	
-				have been assembled.	
-0x1c16	0x98	Gio		Next is the warden who oversees the Origin Continent...	
+0x1bcb	0x98	Gio		Three wardens have	
+				now been assembled.	
+0x1c16	0x98	Gio		Remaining is the warden who oversees the Origin Continent...	
 				If we had her help, we would be able to restore	
 				order to the entire system...	
 0x1ce0	0x98	Gio		The remaining warden is, even among us,	
@@ -42,12 +42,12 @@ talk_Gio
 				and wisdom.	
 0x1d55	0x98	Gio		If you assemble them, our entire	
 				order will have been assembled...	
-0x1dd1	0x98	Gio		It seems Master Kureha's	
+0x1dd1	0x98	Gio		It seems like Master Kureha's	
 				memory has not yet returned.	
 0x1e24	0x98	Gio		It cannot be helped...	
 				In the end, she has been sleeping	
 				too long as a Mythos.	
-0x1e91	0x98	Gio		Hmm, changing the environment	
+0x1e91	0x98	Gio		Hmm...changing the environment	
 				and experiencing new things	
 				may have some meaning.	
 0x1f32	0x98	Gio		As expected, I'm surprised	
@@ -100,7 +100,7 @@ talk_Gio
 				Thank you in advance for your help.	
 0x2859	0x98	ALTO		Yes, same here.	
 0x2888	0x98	ALTO		...By the way, I've been interested in it	
-				for awhile but, what are those things	
+				for a while but, what are those things	
 				flying about?	
 0x2903	0x98	NOI		Those are Gio's "spirits."	
 0x293c	0x98	Gio		They are spiritual life forms brought	
@@ -173,9 +173,9 @@ quest_Gio
 				bring them here.	
 0x379e	0x98	Gio		Good luck then.	
 QS_24_quest_start
-0x39c7	0x98	Gio		Yes, then I'd like to	
-				get right to it, but...	
-0x3a12	0x98	Gio		Are there other circumstances?	
+0x39c7	0x98	Gio		Yes, then I'd like you	
+				to get right to it, but...	
+0x3a12	0x98	Gio		There are other circumstances?	
 				I won't ask you to do the impossible.	
 0x3a7e	0x98	Gio		Oh, I was waiting for you,	
 				Nayuta and Noi.	
@@ -185,19 +185,19 @@ QS_24_quest_start
 0x3b1e	0x06	ALTO		ANI_GESTURE1	
 0x3b48	0x98	ALTO	#6A	Umm, I got the general idea, but...	
 				I'm kind of surprised.	
-0x3ba4	0x98	ALTO	#6A	To find a letter from you in	
+0x3ba4	0x98	ALTO	#6A	To find a letter from YOU	
 				a mailbox in my world...	
 0x3bfb	0x06	NOI		ANI_SURPRISE	
-0x3c24	0x98	NOI	#6A	Huh, did you put a letter in	
-				Nayuta's mailbox!?	
+0x3c24	0x98	NOI	#6A	Huh? When did you put a
+				letter in Nayuta's mailbox!?	
 0x3c88	0x98	Gio		Hehe, a while back, I	
 				searched for a place	
 				thick with Nayuta's fate.	
 0x3ce9	0x98	Gio		Aiming for that place,	
 				I sent the letter with	
 				a teleportation technique.	
-0x3d63	0x98	Gio		If I startled you, I	
-				would like to apologize.	
+0x3d63	0x98	Gio		If it startled you, 
+				I apologize.	
 0x3dae	0x06	ALTO		ANI_DENY	
 0x3dd4	0x98	ALTO	#6A	N-No, don't worry about it.	
 0x3e12	0x06	ALTO		ANI_GESTURE2	
@@ -276,7 +276,7 @@ QS_24_undertake
 				It's only a matter of time before	
 				Zext captures this temple.	
 0x4bb9	0x98	Gio		As the warden of Oltapia,	
-				I must remain here for awhile.	
+				I must remain here for a while.	
 				I do not intend to leave.	
 0x4c28	0x06	Gio		ANI_GESTURE2	
 0x4c51	0x98	Gio		Nayuta, I want you to choose	
@@ -606,11 +606,11 @@ QS_54_talk_gio
 0x9254	0x98	ALTO	#6A	Yes, there is something	
 				I want to ask you...	
 0x92a2	0x40	UNDEF		Nayuta explained the situation to Gio,	
-				and tried asking if he has any idea	
-				about Nemeas' spirits location.	
+				and asked if he has any idea about	
+				the location of Nemeas' spirits.	
 0x932b	0x06	Gio		ANI_THINK	
 0x9351	0x98	Gio		Nemeas' spirits, eh?	
-				So that is the situation.	
+				So that is what happened.	
 0x939d	0x06	Gio		ANI_NOD	
 0x93c1	0x98	Gio		Yes, I understand.	
 				I will search for their presence.	
@@ -621,8 +621,8 @@ QS_54_talk_gio
 0x9589	0x6B	Gio		Exclamation	
 0x95f9	0x06	Gio		ANI_NOD	
 0x961d	0x98	Gio		...Hmm!	
-0x9669	0x98	Gio		Certainly, I did sense them.	
-				As I thought, they were	
+0x9669	0x98	Gio		I did, certainly, sense them.	
+				As you thought, they ARE	
 				on this continent!	
 0x96cd	0x06	ALTO		ANI_GESTURE1	
 0x96f7	0x98	ALTO	#6A	Thank goodness...You helped	
@@ -631,14 +631,14 @@ QS_54_talk_gio
 0x9774	0x98	Gio		However, I sensed only one presence....	
 0x97ba	0x06	Gio		ANI_NOD	
 0x97de	0x98	Gio		Anyhow, I will tell you the location.	
-0x982c	0x98	Gio		Certainly, I did sense them.	
-				It seems there is one on this continent.	
+0x982c	0x98	Gio		I did, certainly, sense them.		
+				Seems that one on this continent.	
 0x988f	0x06	ALTO		ANI_GESTURE1	
 0x98b9	0x98	ALTO	#6A	Thank goodness...Do you know the location?	
 0x9908	0x06	Gio		ANI_GESTURE1	
 0x9931	0x98	Gio		The presence is in the vicinity of the	
-				forest called "The Hermit's Path of Abundant	
-				Harvest," in the mid-west part of Oltapia.	
+				forest called "The Hermit's Path"
+				in the midwestern Oltapia.	
 0x99cc	0x98	Gio		The presence is considerably confused,	
 				so you should go in the normal season.	
 0x9a37	0x06	NOI		ANI_NOD	
@@ -831,9 +831,7 @@ quest_SpiritD_End
 0xc32c	0xC1	System		received.	mp_0000 0x12596
 0xc3a5	0x6B	SpiritD		Unknown	
 0xc3da	0x06	ALTO		ANI_JOY	
-0xc3ff	0x98	ALTO		Haha, thanks. I'll accept it.	
-				(In Japanese, 5963 - "go-ku-ro-san"	
-				 - "Thanks for your hard work!")	
+0xc3ff	0x98	ALTO		Haha, thanks. I'll accept it.		
 0xc481	0x06	NOI		ANI_THINK	
 0xc4bf	0x98	NOI	#6A	We have to go already...	
 				Please do your best	
@@ -916,12 +914,12 @@ QS_83_quest_end
 0xe7f5	0x06	NOI		ANI_SURPRISE	
 0xe826	0x06	ALTO		ANI_OJIGI	
 0xe85b	0x98	ALTO	#6A	Gio, Elislette, Algol and Nemeas, too.	
-				It's been awhile.	
+				It's been a while.	
 0xe8bd	0x06	Gio		ANI_GESTURE2	
 0xe8e6	0x98	Gio		Yes, it has.	
 				I am happy to meet you again.	
 0xe936	0x06	Erislet		ANI_GESTURE1	
-0xe963	0x98	Erislet		Huhu, it's been a year.	
+0xe963	0x98	Erislet		Hehe, it's been a year.	
 				How have you two been?	
 0xe9bb	0x06	NOI		ANI_COMPLAIN	
 0xe9e4	0x98	NOI	#6A	Y-You people are...	
@@ -1232,7 +1230,7 @@ EV_1_S11_boss_battle
 0x1674f	0x06	ALTO		ANI_TENSION_SURPRISE	
 0x167a3	0x98	ALTO	#2W#18S#6A	W-Whaaaa!?	
 0x167df	0x06	NOI		ANI_SURPRISE	
-0x1682a	0x98	NOI	#1W#18S#6A	A-An Idol!!??	
+0x1682a	0x98	NOI	#1W#18S#6A	A-An idol!!??	
 0x1686a	0x06	NOI		ANI_WORRIED	
 0x168a0	0x98	NOI	#1W#6A	W-Why...How!?	
 				It seems it's gone out of control!!	
@@ -1251,14 +1249,14 @@ EV_1_S12_battle_end
 0x16db4	0x06	ALTO		ANI_WAKE_UP_HALF	
 0x16e8f	0xBC	Seram		Unknown	
 0x16f0b	0x06	NOI		ANI_WAIT_TIRED	
-0x1706d	0x98	ALTO	#6A	(Pant, pant...)	
+0x1706d	0x98	ALTO	#6A	*huff*, *huff*...	
 0x170a7	0x98	ALTO	#6A	S-Somehow...	
 				We made it...	
-0x170eb	0x98	NOI		(Pant, pant...)	
-				W-Why did those Idols	
+0x170eb	0x98	NOI		*huff*, *huff*...	
+				W-Why did those idols	
 				attack us...	
 0x17184	0x98	ALTO	#6A	Y-You said that just now but...	
-				What in the world were those Idols...?	
+				What in the world were those idols...?	
 0x17213	0x06	NOI		ANI_WAIT	
 0x17268	0x98	NOI		...They are golems made by the	
 				"Mythos" to protect the temple.	
@@ -1268,7 +1266,7 @@ EV_1_S12_battle_end
 0x1735b	0x06	NOI		ANI_THINK	
 0x173cb	0x98	NOI		(...I didn't think we	
 				 could win against	
-				 those Idols either...)	
+				 those idols either...)	
 0x17432	0x98	NOI		(...Was it because Nayuta	
 				 was with me...?)	
 0x17483	0x98	NOI		(Humans are	
@@ -1347,13 +1345,13 @@ EV_1_S12_battle_end
 0x188de	0x98	ALTO	#6A	I...I can't just put everything on	
 				your lap and walk away, can I...?	
 0x18a1a	0x06	Signa		ANI_DENY	
-0x18aab	0x98	Signa	#0W	Look...Every once in awhile	
+0x18aab	0x98	Signa	#0W	Look...Every once in a while	
 				you should listen to what I say.	
 0x18b38	0x06	Signa		ANI_WAIT4	
 0x18bd3	0x98	Signa	#1W	...Stay well, partner.	mp_0101 0x14e31
 0x18c23	0x98	Signa	#0W	These five years since I came to Remnant Island...	mp_0101 0x14e80
 				They've been pretty fun.	
-0x18ced	0x98	Signa	#1W	I've got to give thanks to Master,	mp_0101 0x14f03
+0x18ced	0x98	Signa	#1W	I have to give thanks to Master,	mp_0101 0x14f03
 				who took me under his wing...	
 0x18e4b	0x98	ALTO	#2W#6A#16S	W-Wait...!	mp_0001d 0x1b79
 0x18ea4	0x06	ALTO		ANI_TIRED_WALK	
@@ -1363,7 +1361,7 @@ EV_1_S12_battle_end
 0x190a2	0xBC	NOI		Unknown	
 0x19181	0x06	ALTO		ANI_SIT6	
 0x191fb	0x98	ALTO	#0W	...Why are you doing this...	
-0x19332	0x98	ALTO	#2W#18S#15M	Why, Cygna────!	
+0x19332	0x98	ALTO	#2W#18S#15M	Why, Cygna...!	
 SB_1_S12_alto_move
 0x1996c	0x06	ALTO		ANI_STAGGER_STAND_UP	
 EV_1_S12_battle_end_cs
@@ -1403,12 +1401,12 @@ EV_5_S10_signa_vs_seram
 0x1ac32	0x40	Signa	#0W	"Cygna" and "Selam" each	
 				took a fatal wound, and used	
 				up all their strength there...	
-0x1adda	0x40	Signa	#0W	──It was then.	
+0x1adda	0x40	Signa	#0W	...It was then.	
 0x1b370	0x06	Signa_b		ANI_LOOK_HAND	
-0x1b569	0x40	Signa	#0W	──The two were finally able to	
+0x1b569	0x40	Signa	#0W	The two of us were finally able to	
 				return to how they originally were.	
 0x1b5d8	0x40	Signa	#0W	The lost memories and powers of	
-				the Mythos──returned to "Selam."	
+				the Mythos returned to "Selam."	
 Yure1
 Yure2
 Yure3

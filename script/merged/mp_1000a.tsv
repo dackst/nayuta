@@ -9,33 +9,31 @@ tbox
 crystal
 QS_21_plant_a_seedling
 0x106a	0x06	ALTO		ANI_THINK2	
-0x1092	0x98	ALTO		(It looks like there's high-quality	
-				 soil around here.)	
-0x10e8	0x98	ALTO		(It looks like I might be able to	
-				 raise the Hundred-Year Peach	
-				 here.)	
+0x1092	0x98	ALTO		(It looks like there's some	
+				 high-quality soil around here.)	
+0x10e8	0x98	ALTO		(I might be able to raise	
+				 the Hundred-Year Peach here.)	
 0x114d	0x6B	NOI		Question	
 0x11ae	0x98	NOI		Nayuta, what's wrong?	
-0x121a	0x98	ALTO	#6A	Noi, is it alright if I try planting	
-				a sapling here?	
+0x121a	0x98	ALTO	#6A	Noi, is it okay if I try planting	
+				this sapling here?	
 0x1270	0x06	NOI		ANI_NOD	
-0x1294	0x98	NOI		Hmm, if it's just that,	
-				I think it should be fine, but...	
+0x1294	0x98	NOI		Hmm, I think so,	
+				if it's only that, but...	
 0x12eb	0x06	NOI		ANI_GESTURE1	
 0x1314	0x98	NOI		Just what are you planning?	
 0x134e	0x06	ALTO		ANI_LAUGH	
 0x1375	0x98	ALTO	#6A	Hehe, look forward to that later.	
 0x1491	0x06	ALTO		ANI_SIT6	
-0x1532	0x40	UNDEF		Planted the 100-Year Peach sapling.	
+0x1532	0x40	UNDEF		Planted the 100-Year Peach Sapling.	
 0x15ab	0x06	ALTO		ANI_WAIT	
 0x1617	0x98	ALTO		(I'll try changing the continent's season	
-				 to "Summer" and returning here once	
-				 again.)	
+				 to Summer and returning here again.)	
 QS_21_LookPoint
-0x1815	0x40	UNDEF		The 100-Year Peach sapling is planted.	
+0x1815	0x40	UNDEF		The 100-Year Peach Sapling is planted.	
 0x185c	0x98	ALTO		(I'll change the season to "Summer"	
-				 and return here once more.	
-				 If I do that, then surely...)	
+				 and return here again.	
+				 If I do, then surely...)	
 SB_1_S01_appear_ALTO
 0x19b6	0x06	ALTO		ANI_TIRED_WALK	
 0x1a18	0x06	ALTO		ANI_TIRED_WAIT	
@@ -43,22 +41,22 @@ SB_1_S01_appear_NOI
 SB_1_S01_appear_Signa
 EV_1_S01_jungle1_start
 0x2118	0x06	st		ANI_PATA2	
-0x2324	0x98	ALTO		(pant, pant...)	
+0x2324	0x98	ALTO		*huff*, *huff*	
 				L-Looks like we made it...?	
 0x2376	0x06	Signa		ANI_WAIT4	
 0x239e	0x98	Signa		Hmmm...	
 				We sure got here in	
 				the blink of an eye.	
-0x2429	0x98	Signa		Hey, are you alright, Nayuta?	
+0x2429	0x98	Signa		Hey, are you all right, Nayuta?	
 0x24a3	0x06	ALTO		ANI_TIRED_WAIT	
 0x24cf	0x98	ALTO	#6A	Ah, no, I was just a little	
 				surprised by the transporter device...	
 0x2533	0x98	ALTO	#6A	I guess I'm not used to the	
 				sensation of my body being	
-				hurled at super speed by that thing.	
-0x25e7	0x98	NOI	#6A	Geez, humans are so careless...	
+				hurled at high speeds.	
+0x25e7	0x98	NOI	#6A	Geez, humans are so unkempt...	
 0x265d	0x98	NOI	#6A	...Hey, it looks like	
-				Cygna is relatively OK.	
+				Cygna is relatively fine.	
 0x26e5	0x98	Signa		Oh, yeah.	
 0x270f	0x06	Signa		ANI_WAIT3	
 0x2737	0x98	Signa		It might be because I train daily	

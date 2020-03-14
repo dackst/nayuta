@@ -60,7 +60,7 @@
 0xafe	line	its spinning tail.
 0xb5e	mon name	Pinnochion
 0xb7e	line	Humanoid weapon mimicking a
-0xb9e	line	tree. Fires a laser from it's
+0xb9e	line	tree. Fires a laser from its
 0xbbe	line	mouth, drilling into enemies.
 0xc1e	mon name	Armor Foot
 0xc3e	line	Monkey with high defense
@@ -180,7 +180,7 @@
 0x217e	line	chill and spits it as bubbles.
 0x21de	mon name	Pink Jelly
 0x21fe	line	Aquatic monster light as air.
-0x221e	line	It's elastic and launches att-
+0x221e	line	Its elastic body launches att-
 0x223e	line	acks quicker than you'd expect.
 0x229e	mon name	Squid Vice
 0x22be	line	Aquatic monster. Moves with
@@ -311,9 +311,9 @@
 0x3a1e	line	substance. A barrier guards it
 0x3a3e	line	and even arts are ineffective.
 0x3a9e	mon name	Bite Wolf
-0x3abe	line	Wolf forming groups. Though at
-0x3ade	line	first glance it's cute, it
-0x3afe	line	won't let it's prey escape.
+0x3abe	line	Group forming wolf. Though
+0x3ade	line	cute at first glance, it
+0x3afe	line	won't let its prey escape.
 0x3b5e	mon name	Flier
 0x3b7e	line	A troop of countless flies.
 0x3b9e	line	On top of spreading poison,
@@ -348,8 +348,8 @@
 0x40fe	line	The liquid is highly toxic.
 0x415e	mon name	Lavaganth
 0x417e	line	Fish living in extremely hot
-0x419e	line	that appears unexpectedly and
-0x41be	line	rams its enemies.
+0x419e	line	lava that appears unexpectedly
+0x41be	line	and rams its enemies.
 0x421e	mon name	Blast Turban
 0x423e	line	Shell monster living in rock
 0x425e	line	areas. If angered, detonates
@@ -521,7 +521,7 @@
 0x619e	mon name	Gradleon
 0x61be	line	Idol protecting the underground
 0x61de	line	central district. Tears apart
-0x61fe	line	the battlefield with its swords.
+0x61fe	line	the battlefield with swords.
 0x625e	mon name	Armadaries
 0x627e	line	Protects the underground
 0x629e	line	district. Carries weapons

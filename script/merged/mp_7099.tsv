@@ -16,23 +16,23 @@ boss_retry
 EV_7_S07_battle_seram
 0xa17	0x6B	ALTO		Exclamation	
 0xa81	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xabe	0x98	ALTO	#1W#6A	This is!?	
+0xabe	0x98	ALTO	#1W#6A	What is this...!?	
 0xaf5	0x06	Seram		ANI_GESTURE1	
-0xb2e	0x98	Seram	#1W	I formed a hyperspace in this place.	
+0xb2e	0x98	Seram	#1W	I created a subspace around us.	
 0xbc2	0x06	Seram		ANI_DENY	
-0xbf7	0x98	Seram	#1W	A separate space that Noi can't	
-				enter, not to mention Zext.	
+0xbf7	0x98	Seram	#1W	A separate space that Noi,	
+				and even Zext, can't enter.	
 0xccb	0x06	ALTO		ANI_GESTURE2	
-0xd03	0x98	ALTO	#0W#6A	...If that's the case, it seems we	
-				can fight without reservation.	
+0xd03	0x98	ALTO	#0W#6A	...Looks like we	
+				can fight freely then.	
 0xd87	0x06	ALTO		ANI_BATTOU2	
-0xe26	0x98	ALTO	#0W#6A	Right here, right now, I will show	
-				you I can defeat you!	
+0xe26	0x98	ALTO	#0W#6A	Right here, right now, I	
+				will definitely defeat you!	
 0xffa	0x06	Seram		ANI_GRIP_SWORD_HANDLE	
 0x1062	0x06	Seram		ANI_BATTOU	
 0x122b	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
 0x12e1	0x98	ALTO	#1W#18S	Here I come...Cygna!!	
 0x145a	0x06	Seram		ANI_KEN_WO_KAMAERU	
-0x1537	0x98	Seram	#1W#18S	──Come at me...Nayuta!!	
+0x1537	0x98	Seram	#1W#18S	Come on...Nayuta!!	
 EV_7_S08_defeat_seram
 0x17be	0x06	ALTO		ANI_TENSION_WAIT	

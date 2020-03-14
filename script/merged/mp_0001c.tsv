@@ -4,8 +4,8 @@ init
 stp_ruins
 0x9bf	0x98	Dorado		It's dangerous, so you	
 				shouldn't go past here.	
-0xa0e	0x98	Dorado		In addition, there are	
-				various unknown circumstances.	
+0xa0e	0x98	Dorado		It's just, we haven't determined	
+				the situation in there yet.
 				Don't think bad of me.	
 stp_stair
 0xb2e	0x98	ALTO		Lyra and Vel are in	
@@ -13,44 +13,44 @@ stp_stair
 0xba6	0x98	NOI		Let's hurry, Nayuta!	
 talk_Dorado
 0xce5	0x98	Dorado		Because that strong monster	
-				came out, I'll be worried	
+				appeared, I'll be worried	
 				from now on...	
-0xd49	0x98	Dorado		I'll consult with Orvus	
-				and protect the village	
-				somehow.	
-0xdab	0x98	Dorado		Truly, thanks for saving	
+0xd49	0x98	Dorado		I'll have to consult with	
+				Orvus about somehow	
+				protecting the village.	
+0xdab	0x98	Dorado		Really, thanks for saving	
 				Lyra and Vel for me.	
-0xdf9	0x98	Dorado		...But, I can't believe such	
-				a strong monster came out...	
-				...............	
-0xe62	0x98	Dorado		W-Well, even if I'm depressed,	
-				it can't be helped.	
-0xeb5	0x98	Dorado		I'll consult with Orvus now	
-				and protect the village	
-				somehow.	
-0xf3b	0x98	ALTO		Dorado,	
-				is it alright for you to	
-				be awake already?	
-0xf8b	0x98	Dorado		Yeah, my wound	
-				wasn't serious.	
-0xfca	0x98	Dorado		However, thanks to you	
-				and Orvus, I was saved.	
-0x1019	0x98	Dorado		Truly, thanks for saving	mp_0001c 0xdab
+0xdf9	0x98	Dorado		...But I can't believe such	
+				a strong monster appeared...	
+				......	
+0xe62	0x98	Dorado		W-Well, I guess even I	
+				can't help but feel	
+				depressed right now.	
+0xeb5	0x98	Dorado		I'll have to consult with	
+				Orvus about somehow	
+				protecting the village.		
+0xf3b	0x98	ALTO		Dorado, is it okay for	
+				you to be up already?	
+0xf8b	0x98	Dorado		Yeah, my injuries	
+				weren't a big deal.	
+0xfca	0x98	Dorado		But I was only saved	
+				thanks to you and Orvus.	
+0x1019	0x98	Dorado		Really, thanks for saving	mp_0001c 0xdab	
 				Lyra and Vel for me.	
 0x10a1	0x40	UNDEF		Dorado has lost consciousness.	mp_0000d 0xfab
 0x112a	0x98	Dorado		Nayuta, cheer up.	
 				That Cygna guy will	
 				return at any moment.	
 0x118f	0x98	Dorado		...It looks like that Cygna	
-				guy's went missing, but...	
-0x11e6	0x98	Dorado		If it's him,	
-				you don't need to worry,	
-				he'll return soon.	
+				guy's still missing, but...	
+0x11e6	0x98	Dorado		With him, you don't need to	
+				worry so much, he'll definitely	
+				return soon.	
 0x123e	0x98	Dorado		Even Kureha...	
 				..................	
-0x1280	0x98	Dorado		A-Anyway, cheer up, OK?	
+0x1280	0x98	Dorado		A-Anyway, cheer up, okay?	
 talk_Ursaminor
-0x133d	0x98	Ursaminor		I heard a monster came out,	
+0x133d	0x98	Ursaminor		I heard a monster appeared,	
 				and was worried and came, but...	
 0x139d	0x98	Ursaminor		...It is not the case that	
 				my sister is on this island.	
@@ -68,67 +68,65 @@ talk_Ursaminor
 				everything will be all right.	
 0x1676	0x98	Ursaminor		I too will come help father.	mp_0001c 0x15a6
 talk_Bootie
-0x16e9	0x98	Bootie		Though that split moon is amazing,	
-				I got tired of looking at it immediately.	
+0x16e9	0x98	Bootie		Even though that broken moon is amazing,	
+				I still get tired of just looking at it.	
 0x1756	0x98	Bootie		I want to explore another world.	
 				...If Dorado let me enter, that is.	
-0x17e3	0x98	Bootie		It seems there are many "Star Shards"	
-				in that super-huge gear ruin that just	
-				fell down from the other world.	
-0x186f	0x98	Bootie		Hehe, I think I'll sneak inside when	
-				brother Dorado isn't around.	
+0x17e3	0x98	Bootie		There's probably lots of	
+				Star Shards in that super-huge	
+				gear-like ruin that just fell.	
+0x186f	0x98	Bootie		Ehe, I think I'll sneak inside	
+				once Dorado isn't here.	
 talk_Bell
 0x18ff	0x98	Bell		All the adults are busy.	
 0x1937	0x98	Bell		...Vel is booored.	
 				I want to play somewhere!	
-0x19aa	0x98	Bell		Because it'll be the festival season	
-				very soon, everyone seems so	
-				busy.	
+0x19aa	0x98	Bell		Since it'll be festival season	
+				soon, everyone seems so	busy.	
 0x1a0f	0x98	Bell		I heard there might not be a festival	
-				this year.	
-				I'm dejected...	
+				this year. I'm disappointed...	
 talk_Lyra
-0x1a9b	0x98	Lyra		Another world on the moon, huh...	
-0x1adc	0x98	Lyra		Nayuta, until now, you've been fighting	
-				in that distant place, haven't you.	
-0x1b46	0x98	Lyra		And now, for Kureha and	
-				Cygna...	
-0x1b85	0x98	ALTO		Lyra, please don't worry and wait.	
-0x1bc7	0x98	ALTO		Both Noi and I,	
-				we will definitely return safely.	
-0x1c17	0x98	ALTO		I'm sure...	
-				I will definitely bring	
-				Kureha and Cygna with me.	
+0x1a9b	0x98	Lyra		Another world on the moon, huh...?	
+0x1adc	0x98	Lyra		Nayuta, you've been fighting	
+				in such a faraway place up	
+				until now, haven't you?	
+0x1b46	0x98	Lyra		And now, it for the sake	
+				of Kureha and Cygna...	
+0x1b85	0x98	ALTO		Lyra, don't worry, trust me.	
+0x1bc7	0x98	ALTO		Noi and I, both, will	
+				definitely be back safe.	
+0x1c17	0x98	ALTO		I'm sure...I'll bring	
+				Kureha and Cygna back	
+				home with me.	
 0x1c72	0x6B	Lyra		Ellipsis	
-0x1ca4	0x98	Lyra		(...As expected, Nayuta is Nayuta.)	
-0x1ce7	0x98	Lyra		(From when I first met him, he hasn't	
-				 changed. He's my special boy...)	
+0x1ca4	0x98	Lyra		(...Nayuta is still Nayuta after all.)	
+0x1ce7	0x98	Lyra		(It hasn't changed since we first met. 
+				 My dearest boy...)	
 0x1d4d	0x6B	ALTO		Question	
 0x1d77	0x6B	NOI		Question	
 0x1da8	0x98	NOI		What's wrong? You're staring	
-				at Nayuta so long and hard...	
-0x1e15	0x98	Lyra		Huhu, it's nothing.	
-0x1e5e	0x98	Lyra		...Well, as much as possible,	
-				try not to get hurt.	
-0x1eaf	0x98	Lyra		Once everything is over, we'll	
-				celebrate at my shop with	
-				enthusiasm.	
+				at Nayuta so intensely...	
+0x1e15	0x98	Lyra		Hehe, it's nothing.	
+0x1e5e	0x98	Lyra		...Well, try your best	
+				not to get hurt.	
+0x1eaf	0x98	Lyra		Once this is all over,
+				let's celebrate with a	
+				party at my place.	
 0x1f11	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x1f36	0x98	NOI		Absolutely!	
-0x1f9a	0x98	Lyra		Definitely bring back	
-				Cygna and Kureha,	
-				you two.	
-0x1fe8	0x98	Lyra		Once everything is over, we'll	mp_0001c 0x1eaf
-				celebrate at my shop with	
-				enthusiasm.	
+0x1f9a	0x98	Lyra		Make sure to bring back	
+				Cygna and Kureha, you two.	
+0x1fe8	0x98	Lyra		Once this is all over,	mp_0001c 0x1eaf
+				let's celebrate with a	
+				party at my place	
 0x204a	0x98	Lyra		I'll just say this:	
 				If you're not there,	
 				I won't forgive you, y'know?	
 0x20ad	0x98	ALTO		Yeah...got it.	
 0x20db	0x98	NOI		Leave it to us!	
-0x2131	0x98	Lyra		Once everything is over, we'll	mp_0001c 0x1eaf
-				celebrate at my shop with	
-				enthusiasm.	
+0x2131	0x98	Lyra		Once this is all over,	mp_0001c 0x1eaf
+				let's celebrate with a	
+				party at my place	
 0x2193	0x98	Lyra		I'll just say this:	mp_0001c 0x204a
 				If you're not there,	
 				I won't forgive you, y'know?	
@@ -237,72 +235,70 @@ talk_Reticul
 talk_Dog_before
 0x364e	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
 0x3678	0x6B	ALTO		Surprise	
-0x36aa	0x98	ALTO		Now that you mention it...	mp_0001 0x391b
-				I bought a "doghouse"	
+0x36aa	0x98	ALTO		Come to think of it...	mp_0001 0x391b
+				I bought a doghouse	
 				at the general store, didn't I?	
-0x3718	0x98	ALTO		If I have this, I can give	mp_0001 0x3989
-				this one a place protected	
-				from wind and rain, but...	
+0x3718	0x98	ALTO		I should be able to use it to	mp_0001 0x3989
+				give this little guy a place	
+				shielded from wind and rain...	
 0x3786	0x6B	ALTO		Ellipsis	
-0x37b8	0x98	ALTO		Hey you, want to come to my place?	mp_0001 0x3a29
+0x37b8	0x98	ALTO		Hey, you, want to come to my place?	mp_0001 0x3a29
 0x37fa	0x6B	Dog		Unknown	
-0x382b	0x98	Dog		Ruff, ruff♪	mp_0001 0x3a9c
-0x3856	0x98	ALTO		Ahaha, is that so.	mp_0001 0x3ac7
-0x3888	0x98	ALTO		Alright...I'll consult with Eartha	mp_0001 0x3af9
-				about it immediately.	
-0x3905	0x40	UNDEF		Nayuta returned home, and consulted	mp_0001 0x3b76
-				with Eartha about the stray dog.	
-0x3969	0x40	UNDEF		Though Eartha was surprised at first, she heard	mp_0001 0x3bda
-				the information and gladly OK'd the idea.	
+0x382b	0x98	Dog		Ruff, ruff! ♪	mp_0001 0x3a9c
+0x3856	0x98	ALTO		Ahaha, is that so?	mp_0001 0x3ac7
+0x3888	0x98	ALTO		All right...I'll discuss it	mp_0001 0x3af9
+				it with Eartha immediately.
+0x3905	0x40	UNDEF		Nayuta returned home, and discussed	mp_0001 0x3b76
+				the stray dog with Eartha.	
+0x3969	0x40	UNDEF		Though Eartha was surprised at first, she gladly	mp_0001 0x3bda
+				approved of the idea once informed of the situation.		
 0x3afc	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
 0x3b26	0x98	ALTO		Huh, I haven't seen you before.	mp_0001 0x3d94
 0x3b65	0x98	ALTO		I wonder if you wandered onto	mp_0001 0x3dd3
 				the ferry and came ashore	
 				onto this island.	
 0x3bcc	0x6B	Dog		Unknown	
-0x3bfd	0x98	Dog		Wafu, wafu...	mp_0001 0x3e6b
-0x3c29	0x98	ALTO		Ahaha, you're cute.	mp_0001 0x3e97
-0x3c5c	0x98	ALTO		(...That's right, I wonder	mp_0001 0x3f89
-				 if I can keep him at home?)	
-0x3cb2	0x98	ALTO		(If I had a proper doghouse	mp_0001 0x3fdf
-				 it would be fine... I wonder if	
-				 I could look for one at the general store.)	
+0x3bfd	0x98	Dog		Ruff, ruff...	mp_0001 0x3e6b
+0x3c29	0x98	ALTO		Ahaha, how cute.	mp_0001 0x3e97
+0x3c5c	0x98	ALTO		(...That's right, maybe	mp_0001 0x3f89
+				 I can keep it at home?)	
+0x3cb2	0x98	ALTO		(But I'd like to have a	decent	mp_0001 0x3fdf	
+				 doghouse... Maybe I should look	
+				 for one at the general store?)		
 0x3db3	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
-0x3ddd	0x98	ALTO		(If I had a doghouse,	
-				 I could keep him at home, but...)	
+0x3ddd	0x98	ALTO		(If I had a doghouse, I could
+				 keep him at home, but...)		
 LP_haka
 0x3e80	0x41	None		William Herschel	mp_0001 0x4982
-				  Mary Herschel	
+				Mary Herschel	
 					
-				Their souls are with god,	
-				in peace.	
-0x3f4d	0x98	ALTO		(Father, mother...	
-				 Please, watch over me from heaven.)	
+				May their souls rest in peace 
+				with the gods.	
+0x3f4d	0x98	ALTO		(Mom, Dad... Please watch	
+				 over me from heaven.)	
 0x3fa3	0x98	ALTO		(I can't be depressed any more.	
 				 I will achieve until the end!)	
 0x4001	0x98	NOI		Nayuta?	
 0x4027	0x98	ALTO		...Let's go, Noi.	
 				To Kureha and Cygna!	
 0x406c	0x98	NOI		...Yeah!	
-0x40e7	0x98	NOI		Nayuta, this place is...	
-0x411e	0x98	ALTO		Yeah...	
-				My parents are sleeping.	
-0x415d	0x98	ALTO		(...The true form of Lost Heaven that my father	
-				 was searching for was that kind of thing...)	
-0x41db	0x98	ALTO		(I wonder what in the world	
-				 I should do.	
-				 Father, mother...)	
+0x40e7	0x98	NOI		Nayuta, this place...	
+0x411e	0x98	ALTO		Yeah... My parents are sleeping.	
+0x415d	0x98	ALTO		(...The true nature of Lost Heaven they	
+				 searched for was something like that...)	
+0x41db	0x98	ALTO		(What should I do?	
+				 Mom, Dad...)	
 SB_6_S04_appear_ALTO
 0x428c	0x6B	ALTO		Surprise	
 SB_6_S04_appear_NOI
 EV_6_S04_look_new_ruin
 0x455c	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x458b	0x98	ALTO		...Ah!	
-0x46a5	0x98	ALTO	#N#500x#500y	...The two *moons* are one...	
-0x46f6	0x98	NOI	#N#0x#500y	That is Terra...	
-0x4731	0x98	NOI	#N#0x#500y	Because the "Seal" was released,	
-				its true form appeared...	
-				They are already starting to control its posture...	
+0x46a5	0x98	ALTO	#N#500x#500y	...One of the twin moons...	
+0x46f6	0x98	NOI	#N#0x#500y	That's Terra...	
+0x4731	0x98	NOI	#N#0x#500y	When the Seal was released,	
+				it showed its true form...	
+				It's already started to descend in altitude...	
 0x47c6	0x98	NOI	#N#0x#500y	...For the Remaking...	
 0x480f	0x98	ALTO	#N#500x#500y	It was there the whole time...	
 0x4859	0x98	ALTO	#N#500x#500y	To erase the surface...	
@@ -310,19 +306,18 @@ EV_6_S04_look_new_ruin
 0x4984	0x06	NOI		ANI_DULL	
 0x49a9	0x98	NOI	#6A	...Nayuta, you know...	
 0x49e9	0x06	ALTO		ANI_DENY	
-0x4a0f	0x98	ALTO		...Don't say anything, Noi.	
+0x4a0f	0x98	ALTO		...Say no more, Noi.	
 0x4a4a	0x98	ALTO		Not any more...No matter what we do,	
 				we can no longer go there.	
-0x4aa8	0x98	ALTO		As for what we can do,	
-				there is no longer anything...	
+0x4aa8	0x98	ALTO		There's nothing else we can do...	
 0x4b04	0x06	NOI		ANI_SURPRISE_WEAK	
 0x4b32	0x98	NOI	#6A	...Ooh...	
-0x4d22	0x98	ALTO	#N#500x#500y	...In the sea, it seems like	
-				pretty large ruins have fallen.	
-0x4d91	0x98	NOI	#N#0x#500y	Y-Yeah...	
-				They fell with the rubble...	
-0x4de7	0x98	ALTO	#N#500x#500y	(Dorado's standing there...	
-				 I'll try talking to him...)	
+0x4d22	0x98	ALTO	#N#500x#500y	...It seems like some pretty large	
+				ruins have fallen into the water.	
+0x4d91	0x98	NOI	#N#0x#500y	Y-Yeah... They fell along with	
+				the rest of the rubble...	
+0x4de7	0x98	ALTO	#N#500x#500y	(Dorado's standing over there...	
+				 Let's try talking with him...)	
 EV_6_S05_meet_dorado
 0x5086	0x06	Dorado		ANI_COMPLAIN	
 0x50b2	0x98	Dorado		Oh, Nayuta!	
@@ -335,48 +330,47 @@ EV_6_S05_meet_dorado
 				For worrying you.	
 0x51dd	0x06	Dorado		ANI_LAUGH	
 0x5206	0x98	Dorado		Oh, don't worry about it!	
-				With this, Eartha	
-				must be relieved!	
+				Eartha must be relieved!	
 0x5282	0x98	Dorado		Oh, Noi the fairy is with you!	
-				How are you doing?	
+				Are you feeling any better?	
 0x52d4	0x06	NOI		ANI_NOD	
 0x52f8	0x98	NOI	#6A	Y-Yeah, well for now,	
 				my body is fine.	
 0x533f	0x06	NOI		ANI_GESTURE1	
-0x5368	0x98	NOI	#6A	By the way, what are you	
-				doing in a place like this?	
-0x53e5	0x98	Dorado		Ah, I'm in the middle of standing guard	
-				over the new ruins that fell	
-				the other day.	
-0x5514	0x98	Dorado		Standing guard is fine,	
-				but it's a place with high danger.	
-0x556f	0x98	Dorado		I've got to warn careless travelers	
-				and children about it.	
-0x5660	0x98	Dorado		By the way, Orvus is	
-				patrolling the island.	
+0x5368	0x98	NOI	#6A	By the way, what are	
+				you doing out here?	
+0x53e5	0x98	Dorado		Oh, I'm in the middle of standing guard	
+				in front of the new ruins that fell	
+				over there the other day.	
+0x5514	0x98	Dorado		The view is nice, but it's	
+				a highly dangerous place.	
+0x556f	0x98	Dorado		I've got to be careul not to let	
+				careless travelers and children	
+				wander inside.	
+0x5660	0x98	Dorado		By the way, Orvus is patrolling	
+				the island right now.	
 0x56ac	0x06	Dorado		ANI_DEJECTED	
 0x56d8	0x98	Dorado		Man, I've got to do better	
 				as a guard.	
 0x5727	0x98	ALTO	#6A	Ahaha...	
 0x5752	0x98	ALTO	#0W#6A	...............	mp_0001 0xc917
-0x578f	0x98	Dorado		......	
-				As I thought, you guys	
+0x578f	0x98	Dorado		......You two still	
 				look pretty down.	
 0x5803	0x98	NOI	#6A	...............	mp_0001 0xc917
 0x583c	0x06	ALTO		ANI_GESTURE2	
 0x5866	0x98	ALTO	#6A	...Sorry, my bad.	
 0x58ba	0x06	Dorado		ANI_DENY	
-0x58e2	0x98	Dorado		Ah, don't worry about it.	
+0x58e2	0x98	Dorado		Oh, don't worry about it.	
 0x5934	0x06	Dorado		ANI_TALK	
-0x595c	0x98	Dorado		...Though it looks like that Cygna guy	
-				is whereabouts unknown...	
+0x595c	0x98	Dorado		...Although it looks like that	
+				Cygna guy's still missing...	
 0x59bd	0x06	Dorado		ANI_GESTURE1	
-0x59e9	0x98	Dorado		If it's him,	mp_0001c 0x11e6
-				you don't need to worry,	
-				he'll return soon.	
+0x59e9	0x98	Dorado		With him, you don't need to	mp_0001c 0x11e6
+				worry so much, he'll definitely	
+				return soon.	
 0x5a41	0x06	Dorado		ANI_JOY	
-0x5a68	0x98	Dorado		So, you've got	
-				to cheer up too, got it?	
+0x5a68	0x98	Dorado		So you've got to	
+				cheer up too, got it?	
 0x5ab8	0x06	ALTO		ANI_THANKS	
 0x5ae0	0x98	ALTO	#6A	Yeah...thanks.	
 SB_6_S09_appear_ALTO
@@ -389,19 +383,17 @@ EV_6_S09_help_dorado
 0x603e	0x06	NOI		ANI_COMPLAIN	
 0x6067	0x98	NOI		Are you all right!?	
 0x60c9	0x98	Dorado	#0W#6A#275x#230y	A-Aah, it's Nayuta...	
-0x6110	0x98	Dorado	#0W#6A#275x#230y	Damn, something like	
-				that kind of monster appearing...	
-0x6177	0x98	ALTO		That monster...	
+0x6110	0x98	Dorado	#0W#6A#275x#230y	Damn, that such a monster would appear...	
+0x6177	0x98	ALTO		The monster...	
 				Where did Vel go!?	
 0x61c0	0x98	Dorado	#0W#6A#275x#230y	I-Inside the ruins...	
-0x6207	0x98	Dorado	#0W#6A#275x#230y	She is together with	
-				Lyra who came running,	
-				and they are cornered...	
+0x6207	0x98	Dorado	#0W#6A#275x#230y	Lyra rushed over to her, and they
+				were both driven back...		
 0x6283	0x6B	ALTO		Exclamation	
 0x62ad	0x6B	NOI		Exclamation	
 0x62de	0x06	NOI		ANI_SURPRISE	
-0x6307	0x98	NOI		E-Even Lyra!?	
-0x633b	0x98	Dorado	#0W#6A#275x#230y	There, in the center of the sea.	
+0x6307	0x98	NOI		Lyra, too!?	
+0x633b	0x98	Dorado	#0W#6A#275x#230y	There, out in the ocean.	
 				If things are like that, then...!	
 0x63b6	0x98	Dorado	#0W#6A#275x#230y	...Ooh...	mp_0001c 0x4b32
 0x640f	0x40	UNDEF		Dorado lost consciousness.	mp_0000d 0x2c7e

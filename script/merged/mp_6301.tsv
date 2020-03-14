@@ -5,18 +5,16 @@ talk_Algorl
 				defeat me have appeared...	
 0x76c	0x98	Algorl		Hmph...A long time has passed	
 				since something like this happened.	
-0x7ce	0x98	Algorl		Now, already you no longer	
-				have need of this place...	
-				Hurry ahead.	
-0x830	0x98	Algorl		From now on, steel yourselves	
-				against the appearance of deceit...	
-				I will watch over you from here.	
-0x8da	0x98	Algorl		Now, already you no longer	mp_6301 0x7ce
-				have need of this place...	
-				Hurry ahead.	
-0x93c	0x98	Algorl		From now on, steel yourselves	mp_6301 0x830
-				against the appearance of deceit...	
-				I will watch over you from here.	
+0x7ce	0x98	Algorl		You already have no further need	
+				of this place... Hurry onward.	
+0x830	0x98	Algorl		Show me how you will prepare	
+				yourselves from now on...	
+				I will be watching from here.	
+0x8da	0x98	Algorl		You already have no further need	mp_6301 0x7ce	
+				of this place... Hurry onward.		
+0x93c	0x98	Algorl		Show me how you will prepare	mp_6301 0x830
+				yourselves from now on...	
+				I will be watching from here.	
 boss_demo1
 0xab9	0x06	PLAYER1		ANI_WAIT	
 0xb1e	0x06	PLAYER2		ANI_WAIT	
@@ -45,16 +43,16 @@ EV_6_S21_in_bossmap3
 0x1def	0x06	ALTO		ANI_LOOK_AROUND	
 0x1e1c	0x98	ALTO		This is the interior	mp_6300 0x18ae
 				of the "Pillar"...	
-0x1e9a	0x98	ALTO	#6A	It certainly is the	mp_6300 0x192c
-				place that supplies the	
-				continent with Power of Stars.	
-0x1f3f	0x98	NOI		Yeah, exactly right.	mp_6300 0x19d1
+0x1e9a	0x98	ALTO	#6A	So this is really the place	mp_6300 0x192c
+				that supplies the continent	
+				with Power of Stars?	
+0x1f3f	0x98	NOI		Yeah, that's right.	mp_6300 0x19d1
 0x1f72	0x06	NOI		ANI_GESTURE2	
 0x1f9b	0x98	NOI		The Stellagear should be	mp_6300 0x1a2d
-				installed in the center of	
-				this place.	
+				installed in the core of	
+				this room.	
 0x2001	0x06	ALTO		ANI_JOY	
-0x2026	0x98	ALTO	#6A	Anyway, let's try looking for it!	mp_6300 0x1ab8
+0x2026	0x98	ALTO	#6A	Anyway, let's look for it!	mp_6300 0x1ab8
 EV_6_S27_sisi_boss
 0x258e	0x41	None	#1W#2E#030c	──Stop.#0E	mp_5098 0x2155
 0x25ff	0x6B	ALTO		Exclamation	
@@ -62,8 +60,8 @@ EV_6_S27_sisi_boss
 0x2aa3	0x06	NOI		ANI_SURPRISE	
 0x2acc	0x98	NOI	#6A	Algol!?	
 0x2afd	0x06	Algorl		ANI_NOD	
-0x2b24	0x98	Algorl		Nayuta, and Noi too.	
-0x2b5a	0x98	Algorl		I cannot hand over the	
+0x2b24	0x98	Algorl		Nayuta, and Noi, too.	
+0x2b5a	0x98	Algorl		I cannot give the	
 				Stellagear to you.	
 0x2ba6	0x06	Algorl		ANI_GESTURE2	
 0x2bd2	0x98	Algorl		You should leave immediately.	
@@ -78,9 +76,9 @@ EV_6_S27_sisi_boss
 				And the true reason for the existence	
 				of Terra.	
 0x2e4e	0x06	Algorl		ANI_GESTURE1	
-0x2e7a	0x98	Algorl		As a Warden of the continents,	mp_6300 0x2c43
-				I cannot allow you to interfere in	
-				the Remaking of Master Kureha and the others.	
+0x2e7a	0x98	Algorl		As a Warden of the continents, I cannot	mp_6300 0x2c43
+				allow you to interfere with Master	
+				Kureha and the others' Remaking.	
 0x2f15	0x06	NOI		ANI_COMPLAIN	
 0x2f3e	0x98	NOI	#6A	...What do you mean, Algol!?	
 0x2f93	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f

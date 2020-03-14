@@ -17,9 +17,9 @@ SB_6_S16_move_ALTO
 SB_6_S16_move_NOI
 EV_6_S16_change_garden
 0xc3f	0x06	ALTO		ANI_LOOK_AROUND	
-0xc74	0x98	ALTO		T-This is!?	
-0x107a	0x98	ALTO		...The appearance has	
-				changed completely.	
+0xc74	0x98	ALTO		W-What is this!?	
+0x107a	0x98	ALTO		...The surroundings have	
+				completely changed.	
 0x114c	0x98	ALTO	#240x#500y	As for what I see over there...	
 				It's the surface of our world, right?	
 0x1244	0x98	ALTO	#0x#500y	...Somehow, even the	
@@ -31,7 +31,7 @@ EV_6_S16_change_garden
 0x1422	0x6B	ALTO		Exclamation	
 0x1474	0x06	ALTO		ANI_SURPRISE	
 0x149e	0x98	ALTO		Tch...!!	
-0x1512	0x98	ALTO		Outside the Garden is...!!	
+0x1512	0x98	ALTO		Outside the Garden...!!	
 EV_6_S18_search_key
 0x1a12	0x98	ALTO	#0W	W-Why is that thing that looks	
 				like a large city there...	
@@ -40,27 +40,24 @@ EV_6_S18_search_key
 0x1b03	0x06	NOI		ANI_GOODIDEA	
 0x1b2c	0x98	NOI		As I thought...	
 				It looks like the Garden has descended	
-				to the "underground" of Terra.	
+				to the underground layer of Terra.	
 0x1ba6	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1bd5	0x98	ALTO		Underground!?	
 0x1c9e	0x40	NOI		What we have been exploring up until	
 				now is Terra's upper stratum.	
-0x1d00	0x40	NOI		That is the "surface" of great antiquity, a place	
-				for protecting the plants and animals, but...	
-0x1eb1	0x40	NOI		This is the underground──	
+0x1d00	0x40	NOI		That is, the "surface" of ancient times,	
+				for preserving the plants and animals, but...	
+0x1eb1	0x40	NOI		This is the lower stratum─	
 				Star Capital Lexendria.	
 0x1f04	0x40	NOI		A residential area created for the humans.	
 0x1f55	0x40	ALTO		Star Capital...Lexendria...	
-0x1f98	0x40	NOI		It seems it was named after an ancient continent.	
-0x1fe8	0x40	NOI		And, there are four "Pillars" that supply each	
+0x1f98	0x40	NOI		It supposedly named after an ancient continent.	
+0x1fe8	0x40	NOI		There are four "Pillars" that supply each	
 				continent with the Power of Stars.	
 0x20dd	0x06	ALTO		ANI_NOD	
-0x2102	0x98	ALTO		I see...	
-				So it has that kind	
-				of structure.	
+0x2102	0x98	ALTO		I see, so that's how it is...	
 0x2152	0x06	ALTO		ANI_COMPLAIN	
-0x217c	0x98	ALTO		...Then,	
-				there are humans here!?	
+0x217c	0x98	ALTO		...Then, there must be humans here!?	
 0x21e0	0x06	NOI		ANI_DENY	
 0x220d	0x98	NOI	#0W#6A	...No.	
 				It seems not even a single	

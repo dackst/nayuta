@@ -7,30 +7,29 @@ EV_7_S10_starball_front
 EV_7_S11_look_starball
 0xe69	0x06	ALTO		ANI_WAIT	
 0x128e	0x06	ALTO		ANI_FIND	
-0x12b4	0x98	ALTO	#6A	...Looking at it up close, it's incredible.	
-0x1302	0x98	ALTO	#6A	Even I understand that it's	
+0x12b4	0x98	ALTO	#6A	...Seeing it from up close, it's incredible.	
+0x1302	0x98	ALTO	#6A	Even I can feel that it's	
 				overflowing with life force...	
-0x1366	0x98	NOI	#6A	Since long ago, Terra has waited	
-				for this day of Remaking...	
-0x13c5	0x98	NOI	#6A	To someday, send this	
+0x1366	0x98	NOI	#6A	Terra has waited a long time	
+				for the Remaking to start...	
+0x13c5	0x98	NOI	#6A	To one day send the	
 				Planetarium to the surface...	
-0x145f	0x98	ALTO	#6A	...And, Zext is	
-				in there?	
-0x14dd	0x98	NOI	#6A	Yeah...	
-				There should be a terminal	
-				with which to give the final order.	
+0x145f	0x98	ALTO	#6A	...And Zext is up ahead?	
+0x14dd	0x98	NOI	#6A	Yeah...there should be a	
+				terminal somewhere to	
+				give the final command.	
 0x1543	0x06	NOI		ANI_GUTSPOSE	
-0x156c	0x98	NOI	#6A	Now that Zext has gotten the	
+0x156c	0x98	NOI	#6A	Now that Zext has the	
 				Shining Wings of the Mythos,	
-				we've got to hurry!	
+				we have to hurry!	
 0x1601	0x98	ALTO	#6A	...Once we jump in,	
-				it seems there's no going back.	
+				there's no turning back.	
 0x165e	0x06	NOI		ANI_NOD	
-0x1682	0x98	NOI	#6A	The genuine final battle...	
-				Let's make sure our preparations	
-				are flawless!	
+0x1682	0x98	NOI	#6A	The true final battle...	
+				Let's make sure we're	
+				ready for anything!	
 0x1752	0x06	ALTO		ANI_WAIT	
-0x17ee	0xCE	Objective		Zext's in the Planetarium. ...This is the last battle!!	
+0x17ee	0xCE	Objective		Zext's in the Planetarium. ...It's the final battle!!	
 SB_7_S12_alto_move
 0x192b	0x06	ALTO		ANI_JUMP	
 0x1a83	0x06	ALTO		ANI_FALL_EV	

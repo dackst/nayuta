@@ -100,49 +100,48 @@ EV_6_S01_stop_warp
 				I've got to go to Terra!	
 0x309f	0x6B	ALTO_pj		Question	
 0x30d4	0x06	ALTO_pj		ANI_SURPRISE_WEAK	
-0x3106	0x98	ALTO_pj	#6A#0W	The transfer gate's not moving?	
+0x3106	0x98	ALTO_pj	#6A#0W	The transfer gate's not working?	
 0x3162	0x98	ALTO_pj	#16S#6A	Why!?	
 0x3199	0x06	ALTO_pj		ANI_COMPLAIN	
-0x31ce	0x98	ALTO_pj	#16S#6A	...Please move!	
+0x31ce	0x98	ALTO_pj	#16S#6A	...Please work!	
 				#16SPlease take me to Terra!	
 0x3225	0x98	ALTO_pj	#16S#6A	Cygna...and Kureha...	
 				#16SI need to talk to them!	
 0x32a8	0x06	ALTO		ANI_WAIT	
 0x3460	0x98	NOI	#6A	Nayuta...	mp_0000d 0x7671
 0x34a2	0x98	ALTO_pj	#0W	...Noi, please tell me.	
-0x34df	0x98	ALTO_pj	#0W	After that, what happened?	
+0x34df	0x98	ALTO_pj	#0W	Afterwards, what happened?	
 0x3527	0x06	NOI		ANI_GESTURE1	
 0x3550	0x98	NOI	#6A	...We were probably saved	
 				by Master Kureha.	
 0x35bc	0x98	ALTO_pj		Kureha...!?	
-0x3607	0x98	NOI	#6A	It seems she cast her	
+0x3607	0x98	NOI	#6A	It looks like she cast her	
 				magic on us just in time...	
 0x3679	0x06	NOI		ANI_GESTURE2	
-0x36a2	0x98	NOI	#6A	Because of that, we arrived	
+0x36a2	0x98	NOI	#6A	Thanks to her, we fell	
 				safely on this island.	
 0x36fd	0x06	NOI		ANI_DENY	
-0x3722	0x98	NOI	#6A	But...When I opened my eyes,	
-				various changes were happening	
-				even in this word...	
+0x3722	0x98	NOI	#6A	But...when I woke up, a number	
+				of unusual events were already	
+				happening in this world...	
 0x379a	0x6B	ALTO_pj		Ellipsis	
 0x37f0	0x06	NOI		ANI_GESTURE1	
-0x3819	0x98	NOI	#6A	...The transfer gate, too.	
-				Before I knew it, it	
-				disconnected.	
+0x3819	0x98	NOI	#6A	...At some point,	
+				the transfer gate	
+				was disconnected.	
 0x3876	0x06	NOI		ANI_COMPLAIN	
-0x389f	0x98	NOI	#6A	It was probably done so that	
-				we wouldn't interfere more than	
-				we already have, I think.	
-0x3915	0x98	NOI	#6A	By Master Kureha...	
+0x389f	0x98	NOI	#6A	They probably dud it to 	
+				prevent us from interfering	
+				more than we already have.	
+0x3915	0x98	NOI	#6A	Master Kureha...	
 				and Master Selam.	
-0x3963	0x98	ALTO_pj	#1W	..................	mp_0000d 0x70fd
+0x3963	0x98	ALTO_pj	#1W	.........	mp_0000d 0x70fd
 0x39b2	0x98	ALTO_pj		...There are still way too many	
 				things I don't understand.	
-0x3a0e	0x98	ALTO_pj		Like, what will happen to our	
-				world from now on...	
-0x3a62	0x98	ALTO_pj		Like, why Kureha	
-				saved us...	
-0x3aa8	0x98	ALTO_pj		...But...	
+0x3a0e	0x98	ALTO_pj		What will happen to our	
+				world from now on...?	
+0x3a62	0x98	ALTO_pj		Why did Kureha save us...?	
+0x3aa8	0x98	ALTO_pj		But...	
 0x3b05	0x06	ALTO_pj		ANI_DENY	
 0x3b2e	0x98	ALTO_pj		...I don't know what	
 				to do anymore...	
@@ -152,15 +151,13 @@ SB_6_S03_appear_ALTO
 SB_6_S03_appear_NOI
 EV_6_S03_go_for_walk
 0x4221	0x98	ALTO		...I forgot something.	
-0x428c	0x98	ALTO	#6A	Noi, is it alright	
-				for you to walk in the	
-				village?	
+0x428c	0x98	ALTO	#6A	Noi, is it all right	
+				for you to walk around	
+				in the village?	
 0x42e7	0x06	NOI		ANI_GESTURE1	
-0x4310	0x98	NOI		U-Umm...	
-				The truth is, when you awakened,	
+0x4310	0x98	NOI		U-Umm...actually, when I woke up,	
 				I had already introduced myself, generally.	
-0x439f	0x98	NOI		So as not to frighten folks,	
-				I made in homes wherever	
+0x439f	0x98	NOI		I tried to stay at home as much as	
 				possible, but...	
 0x440a	0x06	ALTO		ANI_GESTURE2	
 0x4434	0x98	ALTO	#6A	...I see.	

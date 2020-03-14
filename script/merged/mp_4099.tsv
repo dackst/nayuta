@@ -347,7 +347,7 @@ stp_qs54_last
 0x7204	0x06	ALTO		ANI_THANKS	
 0x722c	0x98	ALTO		Thank you very much, Nemeas.	mp_4099 0x6ef7
 0x7268	0x06	NOI		ANI_JOY	
-0x728c	0x98	NOI	#6A	I'll use it thankfully!	
+0x728c	0x98	NOI	#6A	I'll use it wisely!	
 0x72c5	0x06	NOI		ANI_WAIT	
 0x72ea	0x06	Nemeas		ANI_NOD	
 0x7313	0x98	Nemeas		Well then, I think I want to	
@@ -546,9 +546,7 @@ quest_SpiritD_End
 0x9c64	0xC1	System		received.	mp_0000 0x12596
 0x9cdd	0x6B	SpiritD		Unknown	
 0x9d12	0x06	ALTO		ANI_JOY	
-0x9d37	0x98	ALTO		Haha, thanks. I'll accept it.	mp_1099 0xc3ff
-				(In Japanese, 5963 - "go-ku-ro-san"	
-				 - "Thanks for your hard work!")	
+0x9d37	0x98	ALTO		Haha, thanks. I'll accept it.	mp_1099 0xc3ff	
 0x9db9	0x06	NOI		ANI_THINK	
 0x9df7	0x98	NOI	#6A	We have to go already...	mp_1099 0xc4bf
 				Please do your best	
@@ -809,7 +807,7 @@ EV_4_S19_boss_battle
 0xf72a	0x98	ALTO		So this is the deepest part...	
 0xf770	0x6B	NOI		Surprise	
 0xf7a1	0x06	NOI		ANI_GOODIDEA	
-0xf7ca	0x98	NOI	#6A	Nayuta, is that...!	
+0xf7ca	0x98	NOI	#6A	Nayuta, that's...!	
 0xf961	0x98	NOI	#200x#270y	The Master Gear of Fire!	
 0xf9ac	0x98	ALTO	#280x#270y	If we only had that, then...!	
 0xfba1	0x98	NOI	#2W#6A	Ah...!	mp_0101 0xf07d
@@ -822,17 +820,16 @@ EV_4_S19_boss_battle
 0xffde	0x06	b003		ANI_DEMO1	
 0x10102	0x98	NOI	#1W#16S#6A	The La Worg temple is...!!	
 0x10155	0x98	ALTO	#1W	Such extreme heat...	
-				Is that producing lava!?	
+				Is that producing the lava!?	
 0x101ac	0x06	ALTO		ANI_BATTOU2	
-0x1023d	0x98	ALTO	#2W	But...	
-				I can't back down!	
+0x1023d	0x98	ALTO	#2W	But... I can't back down!	
 0x10280	0x06	NOI		ANI_GUTSPOSE	
 0x102b7	0x98	NOI	#0W#6A	Let's combine our strength	
 				and finish it off!	
 EV_4_S20_get_gear_4th
 0x104dd	0x06	ALTO		ANI_TENSION_WAIT	
 0x10659	0x06	b003		ANI_DEMO5	
-0x1082c	0x98	ALTO	#0W	*pant, pant*...We did it!	
+0x1082c	0x98	ALTO	#0W	*huff*, *huff*...We did it!	
 0x10870	0x98	NOI	#0W#6A	Look at that!	
 0x10b8c	0x98	ALTO		This is the Master Gear of Fire!	
 				Noi, let's hurry and collect it!	
@@ -891,11 +888,11 @@ EV_4_S20_get_gear_4th
 0x1245d	0x98	NOI	#6A	Anyway...	
 				With this, we've found Cygna!	
 0x124a5	0x98	NOI	#6A	Next is to completely	
-				restore the Astrolabe──	
+				restore the Astrolabe─	
 0x12547	0xBC	ALTO		Surprise	
 0x1257d	0xBC	NOI		Surprise	
 0x125b2	0xBC	Signa		Surprise	
-0x126f9	0x98	ALTO	#0W#6A	This shaking is...!?	
+0x126f9	0x98	ALTO	#0W#6A	This shaking...!?	
 0x12761	0x98	NOI	#0W#6A	It can't be...	
 0x12806	0xBC	ALTO		Exclamation	
 0x1283c	0xBC	NOI		Exclamation	
@@ -913,40 +910,39 @@ EV_4_S24_go_astrolabe
 0x13143	0xBC	ALTO		Unknown	
 0x13179	0xBC	NOI		Unknown	
 0x13206	0x98	NOI	#0W#6A	The crest of Terra is rising...	
-				What in the world is this!	
-0x1326e	0x98	ALTO	#0W#6A	Can it be the "Seal"	
+				What in the world is this?	
+0x1326e	0x98	ALTO	#0W#6A	Is it that the Seal	
 				is being released!?	
-0x132bb	0x98	ALTO	#6A	Nemeas said that it is a thing	
+0x132bb	0x98	ALTO	#6A	Nemeas said that it's something	
 				that threatens the existence of	
 				this world, but...!	
 0x1337c	0x06	Signa		ANI_DENY	
-0x133a3	0x98	Signa		No...	
-				They are still preparing for that.	
+0x133a3	0x98	Signa		No...they're still preparing for that.	
 0x13431	0x06	Signa		ANI_WAIT3	
 0x13459	0x98	Signa		To completely release the seal,	
-				it seems they need the Key.	
+				it seems that they need the Key.	
 0x134c9	0xBC	ALTO		Exclamation	
 0x134ff	0xBC	NOI		Exclamation	
 0x13604	0x98	NOI	#6A	That's what Master Selam said...	
 0x13646	0x06	NOI		ANI_SURPRISE	
-0x1368c	0x98	NOI	#6A	...Hey,	
-				Why do you know something like that!?	
+0x1368c	0x98	NOI	#6A	...Hey,	why do you know	
+				something like that!?	
 0x136e2	0x06	Signa		ANI_WAIT2	
-0x13729	0x98	Signa		Well, it's not the case that	
-				I've randomly been going around	
+0x13729	0x98	Signa		Well, it's not like I've been	
+				randomly roaming around	
 				these continents.	
-0x13796	0x98	Signa		While chasing those guys,	
-				I've been able to gather	
-				various information.	
-0x13804	0x98	ALTO	#6A	I-Is that so...	mp_0101 0x51b9
+0x13796	0x98	Signa		While I was chasing those guys,	
+				I've been able to gather lots	
+				of useful information.	
+0x13804	0x98	ALTO	#6A	I-Is that so...?	mp_0101 0x51b9
 0x13870	0x98	NOI	#6A	Anyway...	
 				Let's hurry now to the Garden!	
-0x138bb	0x98	NOI	#6A	If it's the fully restored Astrolabe, we	
-				might be able to stop not only the abnormalities,	
-				but the release of the "Seal," too!	
+0x138bb	0x98	NOI	#6A	If we fully restore the Astrolabe,	
+				maybe we can stop both the abnormalities	
+				and the release of the Seal!	
 0x13978	0x98	ALTO	#6A	T-That's right!	
 				Let's hurry, you two!!	
 0x139d7	0x06	Signa		ANI_NOD	
-0x13a1c	0x98	Signa		Alright!	mp_0004 0x99aa
+0x13a1c	0x98	Signa		All right!	mp_0004 0x99aa
 SB_4_S24_alto_move
 SB_4_S24_noi_move

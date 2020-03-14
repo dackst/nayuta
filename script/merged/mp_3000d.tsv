@@ -21,12 +21,12 @@ EV_3_S09_mount1_start
 0x16a5	0x6B	ALTO		Exclamation	
 0x16d7	0x06	ALTO		ANI_SNEEZE	
 0x16ff	0x98	ALTO		Achoo!	
-0x172d	0x98	ALTO		I-It's cold!	mp_0001 0x17fd1
-0x1777	0x98	ALTO		And, this white	
-				fluffy powder is...!?	
+0x172d	0x98	ALTO		mp_0001 0x17fd1
+0x1777	0x98	ALTO		And what is this white	
+				fluffy powder...!?	
 0x17f3	0x98	NOI	#6A	Huh, could it be...	
 				You've never seen	
-				"snow" before?	
+				snow before?	
 0x1847	0x6B	ALTO		Surprise	
 0x18a0	0x98	ALTO		This is "snow!?"	
 0x18d0	0x06	ALTO		ANI_THINK2	
@@ -49,4 +49,4 @@ EV_3_S09_mount1_start
 0x1c28	0x98	NOI	#6A	Yeah...	
 				We can't lose!	
 0x1c5f	0x06	NOI		ANI_GESTURE2	
-0x1c88	0x98	NOI	#6A	Let's go, Nayuta!	mp_2099 0x1a2a0
+0x1c88	0x98	NOI	#6A	mp_2099 0x1a2a0

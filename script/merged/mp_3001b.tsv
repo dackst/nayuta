@@ -13,7 +13,7 @@ open_door1_2
 0xf33	0x07	System	#3C	Defeated high-rank monster [Malefiks]!	
 0xff1	0x06	NOI		ANI_TAMEATK1	
 0x1054	0x07	System	#1C	Noi recovered the summer magic #4C『#767IThorn Around』#1C!	
-0x10e2	0xC1	System		obtained.	mp_0000 0x7558
+0x10e2	0xC1	System		mp_0000 0x7558
 sw01
 0x1248	0x06	sw01		ANI_LEVER_ON_LOCK	
 sw01_timer

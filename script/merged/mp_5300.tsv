@@ -9,8 +9,8 @@ EV_5_S17_out_outer_wall
 0x682	0x6B	ALTO		Exclamation	
 0x712	0x6B	NOI		Exclamation	
 0x79d	0x06	ALTO		ANI_FIND	
-0x7d3	0x98	ALTO		This place is...	
-				It looks like an extremely high place.	
+0x7d3	0x98	ALTO		This place...	
+				It looks like we're extremely high up.	
 0x974	0x06	ALTO		ANI_LOOK_AROUND	
 0x9a9	0x06	NOI		ANI_LOOK_AROUND	
 0xa1d	0x98	ALTO		Um, what are those wing-like things?	
@@ -20,8 +20,8 @@ EV_5_S17_out_outer_wall
 0xc54	0x98	ALTO		I'm sure Zext and Kureha	
 				are are the top too...	
 0xcb7	0x06	ALTO		ANI_JOY	
-0xcdc	0x98	ALTO		...We can no longer go back.	
-				Let's go settle this, Noi!	
+0xcdc	0x98	ALTO		...There's no turning back.	
+				Let's settle this, Noi!	
 0xd3a	0x06	NOI		ANI_NOD	
 0xd5e	0x98	NOI	#6A	...Yeah!	mp_0001c 0x406c
 EV_5_S18_go_up_wall

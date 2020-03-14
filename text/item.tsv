@@ -5,18 +5,18 @@
 0x128	name	Legion Knife
 0x140	desc	Easy to handle single-edge sword preferred by soldiers.
 0x1b4	name	Crescent Sword
-0x1cc	desc	Typical Eastern scimitar with a sharp edge.
+0x1cc	desc	Typical eastern scimitar with a sharp edge.
 0x240	name	Crystal Edge
-0x258	desc	Of unknown material. Transparent and light as a feather.
+0x258	desc	Made from mysterious material, it is as light as a feather.
 0x2cc	name	Durandal
-0x2e4	desc	Of a refined special mineral and can never be broken.
+0x2e4	desc	Sword, refined from special ore, that can never be broken.
 0x358	name	Executor
-0x370	desc	Sword that judges all evil, as is written in legends.
+0x370	desc	Legendary sword of judgment that destroys all evil.
 0x3e4	name	Seventh Heaven
-0x3fc	desc	Created by the Mythos. A sword that can cut through space.
+0x3fc	desc	Sword created by the Mythos that can cut through space.
 0x470	name	Chrono Blade
 0x488	desc	Legendary blade of Terra, made of refined star power.
-0x4fc	name	Thousand World Sword
+0x4fc	name	Thousand Worlds Sword
 0x514	desc	Fine sword inherited from Master. Peerless sharpness.
 0x588	name	
 0x5a0	desc	
@@ -49,7 +49,7 @@
 0xd30	name	Sledgehammer
 0xd48	desc	Heavy hammer said to be wielded by the heaviest of warriors.
 0xdbc	name	Moon Rosso
-0xdd4	desc	 Halberd with a scarlet tip. Can easily cut metal.
+0xdd4	desc	Halberd with a scarlet tip. Can easily cut metal.
 0xe48	name	Crimson Sword
 0xe60	desc	Forged in secret in the East. Tremendously powerful.
 0xed4	name	Lost Dragon
@@ -323,21 +323,21 @@
 0x581c	name	Tight Suit
 0x5834	desc	Doll clothes. Importance is placed on mobility.
 0x58a8	name	Slit Mini
-0x58c0	desc	Doll Clothes. Has a hidden charm from the short gaps.
+0x58c0	desc	Doll clothes. Has a hidden charm from the short gaps.
 0x5934	name	Crimson Dress
-0x594c	desc	Red dress with black laces to show it's elegant style.
+0x594c	desc	Red dress with black laces to show off its elegant style.
 0x59c0	name	Dance Costume
 0x59d8	desc	Ethnic clothes said to be worn by ancient dancers.
 0x5a4c	name	Wizard Robe
 0x5a64	desc	Doll clothes made in the image of a wizard.
 0x5ad8	name	Gothic Dress
-0x5af0	desc	Doll clothes. The fine workmanship shines.
+0x5af0	desc	Doll clothes. Exhibits elaborate craftsmanship.
 0x5b64	name	Formal Sailor
-0x5b7c	desc	Doll uniform made trim, with cool colors.
+0x5b7c	desc	Doll uniform tailors with fresh and subdued colors.
 0x5bf0	name	Ether Cross
 0x5c08	desc	Doll clothes with magic power made of mystery material.
 0x5c7c	name	Maid Dress
-0x5c94	desc	Dress of refined design that calls the soul of the church.
+0x5c94	desc	Sophisticated dress that evokes a spirit of service.
 0x5d08	name	Angel Wings
 0x5d20	desc	[Fall Damage Down] Posable doll accessory modeled on angel wings.
 0x5d94	name	Anklet
@@ -459,7 +459,7 @@
 0x7d4c	name	
 0x7d64	desc	螻1遞ｮｼ晢ｽｲｾ晢ｾ奇ｾ滂ｽｸｾ 螻3遞ｮｼ晏ｭ｣遽 螻3蛟､ｼ昴ヮ繧､遘ｻ蜍穂ｸ榊庄
 0x7dd8	name	Plum Shot
-0x7df0	desc	[Spring] Fire rapid-fire light balls forward.
+0x7df0	desc	[Spring] Shoot rapid-fire light balls forward.
 0x7e64	name	Fleur Edge
 0x7e7c	desc	[Spring] Mow down enemies in front of you with spinning petal blade.
 0x7ef0	name	Frost Web
@@ -471,7 +471,7 @@
 0x8094	name	Icicle Spear
 0x80ac	desc	[Winter] Freeze water vapor to create icicles that track enemies.
 0x8120	name	Cyclone
-0x8138	desc	[Summer] Swallow many enemies with a localized typhoon.
+0x8138	desc	[Summer] Swallow enemies with a localized typhoon.
 0x81ac	name	Corona Laser
 0x81c4	desc	[Summer] Bundle up sunlight and release a pyro laser beam.
 0x8238	name	Luna Butterfly
@@ -483,7 +483,7 @@
 0x83dc	name	Bullet Bee
 0x83f4	desc	[Summer] Summon a high speed bee that paralyzes enemies with its stinger.
 0x8468	name	Flower Dance
-0x8480	desc	[Spring] Petals fly about for awhile, attacking enemies that touch them.
+0x8480	desc	[Spring] Petals fly about for a while, attacking enemies that touch them.
 0x84f4	name	Speed Fire
 0x850c	desc	[Autumn] Pull ground enemies to the center of an exploding inferno.
 0x8580	name	Blizzard
@@ -598,7 +598,7 @@
 0xa320	desc	
 0xa394	name	
 0xa3ac	desc	
-0xa420	name	Simple Chicken Tender
+0xa420	name	Chicken Tender
 0xa438	desc	[White Meat] Flesh without much fat. From connective tissue.
 0xa4ac	name	Mild Thin Meat
 0xa4c4	desc	[White Meat] Chewy meat that's not too sinewy.
@@ -736,13 +736,13 @@
 0xc8dc	desc	Jewel that stores Algol's power. A strong light is inside.
 0xc950	name	Colored Jewel
 0xc968	desc	Jewel that stores Algol's power. Gives off multicolored lights.
-0xc9dc	name	Ancient Memo 竭
+0xc9dc	name	Ancient Memo ①
 0xc9f4	desc	Copy of a lithograph in Lexendria. Written with strange letters.
-0xca68	name	Ancient Memo 竭｡
+0xca68	name	Ancient Memo ②
 0xca80	desc	Copy of a lithograph in Lexendria. Written with strange letters.
-0xcaf4	name	Ancient Memo 竭｢
+0xcaf4	name	Ancient Memo ③
 0xcb0c	desc	Copy of a lithograph in Lexendria. Written with strange letters.
-0xcb80	name	Ancient Memo 竭｣
+0xcb80	name	Ancient Memo ④
 0xcb98	desc	Copy of a lithograph in Lexendria. Written with strange letters.
 0xcc0c	name	Unopened Box
 0xcc24	desc	Box cared for by Master. Its surface is carved with Mythos language.
@@ -778,23 +778,23 @@
 0xd458	desc	
 0xd4cc	name	
 0xd4e4	desc	
-0xd558	name	Shard <Bouquet>
+0xd558	name	Bouquet Shard
 0xd570	desc	Round shard. Can view a scene from the other world in your room.
-0xd5e4	name	Star Shard <Dusk>
+0xd5e4	name	Dusk Shard
 0xd5fc	desc	Bluish shard. Can view a scene from the other world in your room.
-0xd670	name	Shard <Radiant Dazzle>
+0xd670	name	Radiant Dazzle Shard
 0xd688	desc	Pointed shard. Can view a scene from the other world in your room.
-0xd6fc	name	Star Shard <Great Echo>
+0xd6fc	name	Great Echo Shard
 0xd714	desc	Smooth shard. Can view a scene from the other world in your room.
-0xd788	name	Shard <Daybreak Cloud>
+0xd788	name	Daybreak Cloud Shard
 0xd7a0	desc	Faintly shining shard. View a scene from the other world in your room.
-0xd814	name	Shard <Light of Wisdom>
+0xd814	name	Light of Wisdom Shard
 0xd82c	desc	Gently shining shard. View a scene from the other world in your room.
-0xd8a0	name	Shard <Under the Sun>
+0xd8a0	name	Under the Sun Shard
 0xd8b8	desc	Softly shining shard. View a scene from the other world in your room.
-0xd92c	name	Shard <Shining Star>
+0xd92c	name	Shining Star Shard
 0xd944	desc	Shard shining with countless small light. View a scene from other world.
-0xd9b8	name	Star Shard <Dreams>
+0xd9b8	name	Dreams Shard
 0xd9d0	desc	Shard filled with pure light. View a scene from the other world.
 0xda44	name	
 0xda5c	desc	
@@ -1067,7 +1067,7 @@
 0x1238c	name	Fish Fry
 0x123a4	desc	Crispy fried fish with an out-of-this-world texture.
 0x12418	name	Seafood Spaghetti
-0x12430	desc	Spaghetti in which whitefish plays the leading role.
+0x12430	desc	Spaghetti where whitefish plays the leading role.
 0x124a4	name	Royal Paella
 0x124bc	desc	Lunch box with harmonious seafood flavors.
 0x12530	name	Grilled Fish
@@ -1110,7 +1110,7 @@
 0x12f20	desc	High nutritional value, but its appearance is hated.
 0x12f94	name	Dark Spaghetti
 0x12fac	desc	Tooth blackening is inevitable, but worth it.
-0x13020	name	Confection <Dream Ball>
+0x13020	name	Confection Dream Ball
 0x13038	desc	Can't imagine its taste based on ingredients.
 0x130ac	name	Live Seafood
 0x130c4	desc	Food made of live ingredients. Unexpectedly delicious.
@@ -1257,17 +1257,17 @@
 0x15780	name	Star Shard Observer
 0x15798	desc	Analyzed all Star Shards.
 0x1580c	name	Scholar's Egg
-0x15824	desc	Cleared the game on normal difficulty or higher.
+0x15824	desc	Cleared the game on Normal difficulty or higher.
 0x15898	name	Future Talent
-0x158b0	desc	Cleared the game on hard difficulty or higher.
+0x158b0	desc	Cleared the game on Hard difficulty or higher.
 0x15924	name	Knower of the Star Sea
-0x1593c	desc	Cleared the game on infinity difficulty.
+0x1593c	desc	Cleared the game on Infinity difficulty.
 0x159b0	name	Small Giant
 0x159c8	desc	Attained level 50.
 0x15a3c	name	Millionaire
 0x15a54	desc	Had more than one million mira.
-0x15ac8	name	Friend to Michey
-0x15ae0	desc	Found Michey with perfect timing.
+0x15ac8	name	Friend to Mishy
+0x15ae0	desc	Found Mishy with perfect timing.
 0x15b54	name	Nayuta Mastery
 0x15b6c	desc	Obtained all trophies.
 0x15be0	name	
@@ -1278,33 +1278,33 @@
 0x15d10	desc	
 0x15d84	name	
 0x15d9c	desc	
-0x15e10	name	<Twin Crags>
+0x15e10	name	Twin Crags
 0x15e28	desc	Defeated <Twin Crags> Duoqurois.
-0x15e9c	name	<Lightning Caller>
+0x15e9c	name	Lightning Caller
 0x15eb4	desc	Defeated <Lightning Caller> Palreschia.
-0x15f28	name	<Armor of Annihilation>
+0x15f28	name	Armor of Annihilation
 0x15f40	desc	Defeated <Armor of Annihilation> Cravaltarf.
-0x15fb4	name	<Scorching Beast>
+0x15fb4	name	Scorching Beast
 0x15fcc	desc	Defeated <Scorching Beast> Sagiscellan.
-0x16040	name	<Wheel of Judgment>
+0x16040	name	Wheel of Judgment
 0x16058	desc	Defeated <Wheel of Judgment> Livadrigger.
-0x160cc	name	<Amber Wing>
+0x160cc	name	Amber Wing
 0x160e4	desc	Defeated <Amber Wing> Raegivan.
-0x16158	name	<Azure Ogre>
+0x16158	name	Azure Ogre
 0x16170	desc	Defeated <Azure Ogre> Ishtaurus.
-0x161e4	name	<Jade Sword King>
+0x161e4	name	Jade Sword King
 0x161fc	desc	Defeated <Jade Sword King> Gradleon.
-0x16270	name	<Crimson Demon Emperor>
+0x16270	name	Crimson Demon Emperor
 0x16288	desc	Defeated <Crimson Demon Emperor> Armadaries.
-0x162fc	name	<Starfall Knight>
+0x162fc	name	Starfall Knight
 0x16314	desc	Defeated <Starfall Knight> Selam Il Ordene.
-0x16388	name	<Guide of Legends>
+0x16388	name	Guide of Legends
 0x163a0	desc	Defeated <Guide of Legends> Zext Ji Quarius.
-0x16414	name	<Star Core of Void>
+0x16414	name	Star Core of Void
 0x1642c	desc	Defeated <Star Core of Void> Stell Alaqran.
-0x164a0	name	<Divine Armor>
+0x164a0	name	Divine Armor
 0x164b8	desc	Defeated <Divine Armor of Purity> Labe Virgos.
-0x1652c	name	<Weaver of Paradise>
+0x1652c	name	Weaver of Paradise
 0x16544	desc	Defeated <Weaver of Paradise> Noi Stelladia.
 0x165b8	name	Start of a Handyman
 0x165d0	desc	Started work as a handyman.
@@ -1418,21 +1418,21 @@
 0x18358	desc	Unlock Sacred Mountain Continent 4th Season [Summer]. (Stage Level 65)
 0x183cc	name	Origin - 4th Season
 0x183e4	desc	Unlock Origin Continent 4th Season [Winter]. (Stage Level 70)
-0x18458	name	Max Level Unlock 竭
+0x18458	name	Max Level Unlock ①
 0x18470	desc	Can raise Nayuta's level to 70.
-0x184e4	name	Max Level Unlock 竭｡
+0x184e4	name	Max Level Unlock ②
 0x184fc	desc	Can raise Nayuta's level to 85.
-0x18570	name	Max Level Unlock 竭｢
+0x18570	name	Max Level Unlock ③
 0x18588	desc	Can raise Nayuta's level to 99.
 0x185fc	name	
 0x18614	desc	
 0x18688	name	
 0x186a0	desc	
-0x18714	name	Arts Max Lvl Unlock 竭
+0x18714	name	Arts Max Lvl Unlock ①
 0x1872c	desc	Can raise Arts' level to 10.
-0x187a0	name	Arts Max Lvl Unlock 竭｡
+0x187a0	name	Arts Max Lvl Unlock ②
 0x187b8	desc	Can raise Arts' level to 20.
-0x1882c	name	Arts Max Lvl Unlock 竭｢
+0x1882c	name	Arts Max Lvl Unlock ③
 0x18844	desc	Can raise Arts' level to 30.
 0x188b8	name	
 0x188d0	desc	
@@ -1448,21 +1448,21 @@
 0x18b8c	desc	Gear Drive doesn't consume Craft Gauge and can be used indefinitely.
 0x18c00	name	
 0x18c18	desc	
-0x18c8c	name	Move Speed Up 竭
+0x18c8c	name	Move Speed Up ①
 0x18ca4	desc	Movement speed is slightly increased.
-0x18d18	name	Move Speed Up 竭｡
-0x18d30	desc	Movement speed is increased substantially.
+0x18d18	name	Move Speed Up ②
+0x18d30	desc	Movement speed is greatly increased.
 0x18da4	name	
 0x18dbc	desc	
-0x18e30	name	Earned EXP 竭
-0x18e48	desc	Nayuta earns 1.5 times the experience points.
-0x18ebc	name	Earned EXP 竭｡
-0x18ed4	desc	Nayuta earns double the experience points.
+0x18e30	name	Earned EXP ①
+0x18e48	desc	Nayuta earns x1.5 as much experience.
+0x18ebc	name	Earned EXP ②
+0x18ed4	desc	Nayuta earns x2 as much experience.
 0x18f48	name	
 0x18f60	desc	
-0x18fd4	name	Drop Rate Up 竭
+0x18fd4	name	Drop Rate Up ①
 0x18fec	desc	Enemy item drop rate is doubled.
-0x19060	name	Drop Rate Up 竭｡
+0x19060	name	Drop Rate Up ②
 0x19078	desc	Enemy item drop rate is tripled.
 0x190ec	name	
 0x19104	desc	
@@ -1479,11 +1479,11 @@
 0x19434	name	
 0x1944c	desc	
 0x194c0	name	Infinity Limit Release
-0x194d8	desc	When difficulty is infinity, enemy level is unlimited (窶ｻcan set again).
+0x194d8	desc	When difficulty is Infinity, enemy level is unlimited (窶ｻcan set again).
 0x1954c	name	Infinity Limit Restore
-0x19564	desc	When difficulty is infinity, enemy level is fixed (窶ｻcan set again).
+0x19564	desc	When difficulty is Infinity, enemy level is fixed (窶ｻcan set again).
 0x195d8	name	Infinity Limit Release
-0x195f0	desc	When difficulty is infinity, enemy level is unlimited (窶ｻcan set again).
+0x195f0	desc	When difficulty is Infinity, enemy level is unlimited (窶ｻcan set again).
 0x19664	name	
 0x1967c	desc	
 0x196f0	name	
@@ -1598,71 +1598,71 @@
 0x1b490	desc	Durable, flexible and colorful bowl. Give to dogs as a present.
 0x1b504	name	Bagel Bed
 0x1b51c	desc	Soft, bagel-shaped bed. Give to dogs as a present.
-0x1b590	name	Tyrant Drgn Fossil:Foot
+0x1b590	name	Tyrannosaurus Foot
 0x1b5a8	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b61c	name	Tyrant Drgn Fossil:Body
+0x1b61c	name	Tyrannosaurus Body
 0x1b634	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b6a8	name	Tyrant Drgn Fossil:Arm
+0x1b6a8	name	Tyrannosaurus Arm
 0x1b6c0	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b734	name	Tyrant Drgn Fossil:Head
+0x1b734	name	Tyrannosaurus Head
 0x1b74c	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b7c0	name	Pterodactyl Fossil:Foot
+0x1b7c0	name	Pterodactyl Foot
 0x1b7d8	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b84c	name	Pterodactyl Fossil:Body
+0x1b84c	name	Pterodactyl Body
 0x1b864	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b8d8	name	Pterodactyl Fossil:Wing
+0x1b8d8	name	Pterodactyl Wing
 0x1b8f0	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b964	name	Pterodactyl Fossil:Head
+0x1b964	name	Pterodactyl Head
 0x1b97c	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b9f0	name	Triceratops Fossil:Foot
+0x1b9f0	name	Triceratops Foot
 0x1ba08	desc	Ancient fossil through which the time it was alive can be examined.
-0x1ba7c	name	Triceratops Fossil:Body
+0x1ba7c	name	Triceratops Body
 0x1ba94	desc	Ancient fossil through which the time it was alive can be examined.
-0x1bb08	name	Triceratops Fossil:Arm
+0x1bb08	name	Triceratops Arm
 0x1bb20	desc	Ancient fossil through which the time it was alive can be examined.
-0x1bb94	name	Triceratops Fossil:Head
+0x1bb94	name	Triceratops Head
 0x1bbac	desc	Ancient fossil through which the time it was alive can be examined.
-0x1bc20	name	Plesiosaur Fossil:Foot
+0x1bc20	name	Plesiosaur Foot
 0x1bc38	desc	Ancient fossil through which the time it was alive can be examined.
-0x1bcac	name	Plesiosaur Fossil:Body
+0x1bcac	name	Plesiosaur Body
 0x1bcc4	desc	Ancient fossil through which the time it was alive can be examined.
-0x1bd38	name	Plesiosaur Fossil:Arm
+0x1bd38	name	Plesiosaur Arm
 0x1bd50	desc	Ancient fossil through which the time it was alive can be examined.
-0x1bdc4	name	Plesiosaur Fossil:Head
+0x1bdc4	name	Plesiosaur Head
 0x1bddc	desc	Ancient fossil through which the time it was alive can be examined.
-0x1be50	name	Sabretooth Taxidermy
+0x1be50	name	Sabretooth
 0x1be68	desc	Stuffed animal through which the time it was alive can be examined.
 0x1bedc	name	Giant Deer Taxidermy
 0x1bef4	desc	Stuffed animal through which the time it was alive can be examined.
-0x1bf68	name	Ancient Wolf Taxidermy
+0x1bf68	name	Ancient Wolf
 0x1bf80	desc	Stuffed animal through which the time it was alive can be examined.
-0x1bff4	name	Ancient Bear Taxidermy
+0x1bff4	name	Ancient Bear
 0x1c00c	desc	Stuffed animal through which the time it was alive can be examined.
-0x1c080	name	Eagle Taxidermy
+0x1c080	name	Eagle
 0x1c098	desc	Stuffed animal through which the time it was alive can be examined.
-0x1c10c	name	Owl Taxidermy
+0x1c10c	name	Owl
 0x1c124	desc	Stuffed animal through which the time it was alive can be examined.
-0x1c198	name	Great Bird Taxidermy
+0x1c198	name	Great Bird
 0x1c1b0	desc	Stuffed animal through which the time it was alive can be examined.
-0x1c224	name	Penguin Taxidermy
+0x1c224	name	Penguin
 0x1c23c	desc	Stuffed animal through which the time it was alive can be examined.
-0x1c2b0	name	Serpent Taxidermy
+0x1c2b0	name	Serpent
 0x1c2c8	desc	Stuffed animal through which the time it was alive can be examined.
-0x1c33c	name	Sea Turtle Taxidermy
+0x1c33c	name	Sea Turtle
 0x1c354	desc	Stuffed animal through which the time it was alive can be examined.
 0x1c3c8	name	Frog Taxidermy
 0x1c3e0	desc	Stuffed animal through which the time it was alive can be examined.
-0x1c454	name	Frill Lizard Taxidermy
+0x1c454	name	Frilled Lizard
 0x1c46c	desc	Stuffed animal through which the time it was alive can be examined.
 0x1c4e0	name	Ammonite
 0x1c4f8	desc	Ancient fossil through which the time it was alive can be examined.
-0x1c56c	name	Archaeopteryx Fossil
+0x1c56c	name	Archaeopteryx
 0x1c584	desc	Ancient fossil through which the time it was alive can be examined.
-0x1c5f8	name	Dragon Egg Fossil
+0x1c5f8	name	Dragon Egg
 0x1c610	desc	Ancient fossil through which the time it was alive can be examined.
-0x1c684	name	Trilobite Fossil
+0x1c684	name	Trilobite
 0x1c69c	desc	Ancient fossil through which the time it was alive can be examined.
-0x1c710	name	Swallowtail Butterfly
+0x1c710	name	Swallowtail
 0x1c728	desc	Wild insect living in nature.
 0x1c79c	name	White Butterfly
 0x1c7b4	desc	Wild insect living in nature.
@@ -1708,7 +1708,7 @@
 0x1d2a4	desc	Wild insect living in nature.
 0x1d318	name	Megasoma
 0x1d330	desc	Wild insect living in nature.
-0x1d3a4	name	Jap. Rhinoceros Beetle
+0x1d3a4	name	Jap. Rhino Beetle
 0x1d3bc	desc	Wild insect living in nature.
 0x1d430	name	Japanese Silk Moth
 0x1d448	desc	Wild insect living in nature.
@@ -1780,7 +1780,7 @@
 0x1e654	desc	Marine animal trapped in a mysterious water crystal.
 0x1e6c8	name	Nomura's Jellyfish
 0x1e6e0	desc	Marine animal trapped in a mysterious water crystal.
-0x1e754	name	Portuguese Man o' War
+0x1e754	name	Man o' War
 0x1e76c	desc	Marine animal trapped in a mysterious water crystal.
 0x1e7e0	name	Octopus
 0x1e7f8	desc	Marine animal trapped in a mysterious water crystal.
@@ -1858,15 +1858,15 @@
 0x1fba8	desc	
 0x1fc1c	name	
 0x1fc34	desc	
-0x1fca8	name	High-Class Cooking 竭
+0x1fca8	name	High-Class Cooking ①
 0x1fcc0	desc	Elementary volume. High class recipes are written in it.
-0x1fd34	name	High-Class Cooking 竭｡
+0x1fd34	name	High-Class Cooking ②
 0x1fd4c	desc	Intermediate volume. High class recipes are written in it.
-0x1fdc0	name	High-Class Cooking 竭｢
+0x1fdc0	name	High-Class Cooking ③
 0x1fdd8	desc	Advanced volume. High class recipes are written in it.
-0x1fe4c	name	High-Class Cooking 竭｣
+0x1fe4c	name	High-Class Cooking ④
 0x1fe64	desc	First-class volume. High class recipes are written in it.
-0x1fed8	name	High-Class Cooking 竭､
+0x1fed8	name	High-Class Cooking ⑤
 0x1fef0	desc	Special volume. High class recipes are written in it.
 0x1ff64	name	
 0x1ff7c	desc	

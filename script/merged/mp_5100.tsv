@@ -4,13 +4,13 @@ SB_5_S03_appear_ALTO
 SB_5_S03_appear_NOI
 EV_5_S03_arrive_tower
 0x86f	0x06	ALTO		ANI_THINK2	
-0x897	0x98	ALTO	#0W	...Beneath the continents,	
-				something is appearing!?	
-0x8ec	0x98	ALTO	#0W	It looks like a huge gear.	
-				I wonder just what it is...	
+0x897	0x98	ALTO	#0W	...There are things emerging under	
+				under each of the continents!?	
+0x8ec	0x98	ALTO	#0W	They look like huge gears.	
+				I wonder just what they're for...	
 0x969	0x06	NOI		ANI_DENY	
 0x98e	0x98	NOI	#0W	This is the first time	
-				I've seen this situation, too...	
+				I've seen them, too...	
 0xa03	0x98	NOI	#0W	I'm sure the	
 				release of the Seal	
 				is a bad omen...	
@@ -18,33 +18,31 @@ EV_5_S03_arrive_tower
 0xabf	0x6B	ALTO		Ellipsis	
 0xae9	0x6B	NOI		Ellipsis	
 0xb38	0x06	ALTO		ANI_DENY	
-0xb5e	0x98	ALTO		...For now, let's think about	
-				this tower.	
+0xb5e	0x98	ALTO		...For now, let's think about this tower.	
 0xbcb	0x06	NOI		ANI_NOD	
 0xbef	0x98	NOI		Yeah...	mp_1100 0x68da
 0xf56	0x98	ALTO		Heliograd...	
 				As I thought, it's very impressive.	
 0xfc4	0x98	ALTO		It's so tall, I can't measure	
-				it with my sextant, but...	
-				just how tall is it?	
-0x106f	0x98	NOI	#6A	Probably... I think it's at least	
+				it with my sextant...	
+				Just how tall is it?	
+0x106f	0x98	NOI	#6A	I think...it's probably at least	
 				50,000 arge in total height.	
 0x10f1	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x1134	0x98	ALTO	#16S	F- 50,000 arge!?	
+0x1134	0x98	ALTO	#16S	50,000 arge!?	
 0x1170	0x06	NOI		ANI_GESTURE1	
 0x1199	0x98	NOI	#6A	It's because the tower is for sending the	
 				Astrolabe's power to all four continents...	
-0x1236	0x98	NOI	#6A	...Conversely, this	
+0x1236	0x98	NOI	#6A	...In other words, the	
 				tower can interfere	
 				with all of Terra...	
 0x129c	0x06	ALTO		ANI_WAIT4	
-0x12c3	0x98	ALTO		...There, the	
-				Mythos are assembled.	
-0x131c	0x98	ALTO		Furthermore, they're releasing	
-				some "Seal"...	
+0x12c3	0x98	ALTO		...So the Mythos	
+				are assembled there?	
+0x131c	0x98	ALTO		And they're trying to	
+				release some kind of seal...	
 0x1370	0x06	ALTO		ANI_GESTURE2	
-0x139a	0x98	ALTO		It would be good	
-				to hurry.	
+0x139a	0x98	ALTO		We should hurry.	
 SB_5_S04_look_ALTO
 0x1465	0x6B	ALTO		Surprise	
 0x14d9	0x06	ALTO		ANI_LOOK_AROUND	
@@ -59,42 +57,42 @@ EV_5_S04_hear_many_voice
 0x1717	0x98	NOI	#6A	Yeah...	
 				Even I can't fly	
 				to the summit...	
-0x1794	0x41	None	#0W#2E#310c	──Can you hear me?#0E	
+0x1794	0x41	None	#0W#2E#310c	─Can you hear me?#0E	
 0x1943	0x98	ALTO		This voice, it's Gio!	
-0x1980	0x41	None	#0W#2E#029c	I am here too.#0E	
+0x1980	0x41	None	#0W#2E#029c	I'm here, too!#0E	
 0x19f6	0x41	None	#0W#2E#030c	...As she said...#0E	
 0x1a6f	0x06	NOI		ANI_GESTURE1	
 0x1a98	0x98	NOI	#6A	Elis, Algol too...	
-				What in the world is wrong?	
-0x1aef	0x41	None	#0W#2E#310c	Hmm, because the situation is like this,	
-				we are worried about you.#0E	
-0x1b90	0x41	None	#0W#2E#310c	You are likely troubled	
+				What's wrong?	
+0x1aef	0x41	None	#0W#2E#310c	Hmm...because of this situation,	
+				we were worried about you.#0E	
+0x1b90	0x41	None	#0W#2E#310c	You are probably troubled	
 				because you cannot climb, are you not?#0E	
 0x1c3d	0x06	ALTO		ANI_NOD	
-0x1c62	0x98	ALTO		Yes...Do you know of any method	
-				by which we can do this?	
+0x1c62	0x98	ALTO		Yeah...Do you know	
+				a good way so we can?	
 0x1cc1	0x41	None	#0W#2E#029c	I'm sorry, we cannot	
 				help you directly.#0E	
-0x1d47	0x41	None	#0W#2E#029c	However, I have one suggestion.#0E	
+0x1d47	0x41	None	#0W#2E#029c	But we have a suggestion.#0E	
 0x1dce	0x41	None	#0W#2E#030c	...How about first going to	
 				La Worg and releasing Nemeas?#0E	
 0x1e70	0x6B	ALTO		Surprise	
 0x1ea2	0x6B	NOI		Surprise	
 0x1ed3	0x06	ALTO		ANI_GOODIDEA	
 0x1efd	0x98	ALTO		Now that you mention it...	
-				We haven't yet been able	
-				to free Nemeas.	
+				We haven't been able	
+				to free Nemeas yet.	
 0x1ffe	0x98	NOI	#6A	Even among the wardens,	
-				Nemeas is a called a Wise Man.	
+				Nemeas is a called a Sage.	
 0x2057	0x06	NOI		ANI_GUTSPOSE	
-0x2080	0x98	NOI	#6A	It's possible that he might now	
-				a good method...!	
+0x2080	0x98	NOI	#6A	It's possible that she might	
+				know of a way...!	
 0x20da	0x06	ALTO		ANI_GESTURE1	
 0x2104	0x98	ALTO		The climate of La Worg	
-				has been restored to normal.	
-				It seems we can save him now.	
+				was restored to normal.	
+				We should be able save her now.	
 0x2175	0x06	ALTO		ANI_JOY	
-0x219a	0x98	ALTO		Alright...Then first,	
+0x219a	0x98	ALTO		All right...then first,	
 				we'll go to Nemeas!	
 0x21ea	0x41	None	#0W#2E#030c	Hmm...	
 				Then it seems your	
@@ -123,25 +121,24 @@ EV_5_S05_hear_neme_voice
 0x2d8b	0x98	NOI	#6A	It's Nemeas!	
 0x2db9	0x06	NOI		ANI_GESTURE1	
 0x2de2	0x98	NOI	#6A	Could it be...	
-				You escaped the "Cage!?"	
+				You escaped the cage!?	
 0x2e32	0x41	None	#0W#2E#710c	Yes, thanks to you	
 				restoring the climate	
 				of La Worg.#0E	
-0x2ece	0x41	None	#0W#2E#310c	──Hmm, it seems	
-				Nemeas too was safely released.#0E	
+0x2ece	0x41	None	#0W#2E#310c	─Hmm, it seems	
+				Nemeas, too, was safely released.#0E	
 0x2f66	0x98	ALTO		Gio!	
-0x2f92	0x41	None	#0W#2E#029c	I am here too.#0E	mp_5100 0x1980
+0x2f92	0x41	None	#0W#2E#029c	I'm here, too!#0E	mp_5100 0x1980
 0x3008	0x41	None	#0W#2E#030c	...As she said...#0E	mp_5100 0x19f6
 0x3081	0x06	NOI		ANI_GESTURE1	
-0x30aa	0x98	NOI	#6A	Elis, Algol too!	
+0x30aa	0x98	NOI	#6A	Elis, Algol, too!	
 0x30e4	0x41	None	#0W#2E#710c	In the present situation,	
 				you will hear from everyone.#0E	
 0x3179	0x41	None	#0W#2E#710c	From here, you will	
 				climb Heliograd won't you?#0E	
 0x3210	0x06	ALTO		ANI_JOY	
-0x3235	0x98	ALTO		Yes...	
-				To confirm Kureha's	
-				true intentions!	
+0x3235	0x98	ALTO		Yes...to find out	
+				Kureha's true motives!	
 0x3286	0x41	None	#0W#2E#030c	Hmm...	
 				It seems you have	
 				resolved yourself.#0E	
@@ -163,4 +160,4 @@ EV_5_S05_hear_neme_voice
 				has been unlocked.	
 0x3890	0x07	System	#3C	"Winter" of Origin Continent La Worg	mp_5100 0x27a0
 				has been unlocked.	
-0x3ab2	0xCE	Objective		Let's meet Kureha in Heliograd and ask her true intentions!	
+0x3ab2	0xCE	Objective		Kureha is in Heliograd...I have to find out her true motives!	

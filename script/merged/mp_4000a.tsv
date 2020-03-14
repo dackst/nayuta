@@ -55,15 +55,15 @@ QS_81_hang_out_box
 SB_5_S06_escape_ALTO
 EV_5_S06_help_nemeas
 0x1e6e	0x06	ALTO		ANI_GUTSPOSE	
-0x1e98	0x98	ALTO	#6A	Alright, it looks like	
+0x1e98	0x98	ALTO	#6A	Okay, it looks like	
 				we reached the "Cage."	
 0x1eef	0x06	NOI		ANI_GESTURE1	
 0x1f18	0x98	NOI	#6A	Nemeas, are you all right!?	
-0x1f89	0x41	None	#0W#2E#710c	...This voice...Noi...	
-				In addition, you were that human child.#0E	
+0x1f89	0x41	None	#0W#2E#710c	...That voice...Noi...	
+				In addition, that human child from before.#0E	
 0x2026	0x41	None	#0W#2E#710c	Then as for the one who restored the	
 				climate to normal...	
-				As I expected, it was you...#0E	
+				As I thought, it was you...#0E	
 0x20ff	0x98	NOI		Thank goodness, she seems safe...	
 0x215e	0x06	ALTO		ANI_GESTURE2	
 0x2188	0x98	ALTO	#6A	Wait just a moment.	
@@ -77,39 +77,39 @@ EV_5_S06_help_nemeas
 				...This should be fine.#0E	
 0x2a69	0x41	None	#0W#2E#710c	...Then.#0E	
 0x2b75	0x06	Nemeas		ANI_USE_POWER	
-0x2cea	0x41	None	#0W#2E#710c	──Haa──!#0E	
+0x2cea	0x41	None	#0W#2E#710c	─Haa─!#0E	
 0x31fc	0x06	Nemeas		ANI_WAIT	
 0x332a	0x98	Nemeas	#1W	To the human, allow me to	
 				once again introduce myself.	
 0x338c	0x06	Nemeas		ANI_GESTURE1	
 0x345e	0x98	Nemeas	#2W	I am Nemeas...	
-				The warden of this La Worg.	
+				The warden of La Worg.	
 0x3834	0x06	Nemeas		ANI_GESTURE2	
 0x3880	0x98	Nemeas		Master Kureha 	
 				is by Zext's side...	
 0x38cc	0x06	Nemeas		ANI_WAIT	
 0x395c	0x98	Nemeas		...This is a grave situation.	
-				That this has happened means...	
+				That its happened means...	
 0x39c2	0x06	ALTO		ANI_COMPLAIN	
 0x39ec	0x98	ALTO	#6A	Do you have any idea about Kureha's...	
-				...about the Mythos' mission?	
-0x3ac9	0x98	ALTO	#6A	I want to know no matter what.	
+				About the Mythos' mission?	
+0x3ac9	0x98	ALTO	#6A	I want to know, no matter what.	
 				Kureha's true motives...	
-0x3b45	0x98	NOI		Nayuta...	mp_0000d 0x7671
+0x3b45	0x98	NOI		mp_0000d 0x7671
 0x3b75	0x06	Nemeas		ANI_DENY	
 0x3bbd	0x98	Nemeas		I am terribly sorry.	
-				I too wish to know these things.	
+				I, too, wish to know these things.	
 0x3c83	0x98	Nemeas		I think the possibility is high that	
-				Master Selam has the same reasons...	
+				Master Selam has the same motives...	
 0x3d55	0x98	Nemeas		As I thought, it seems there is	
-				no other method but to confirm	
-				them directly.	
+				no other method but to consult	
+				with them directly.	
 0x3de2	0x06	ALTO		ANI_DEJECTED	
-0x3e2a	0x98	ALTO	#6A	...Is that so...	mp_0001 0xcc63
+0x3e2a	0x98	ALTO	#6A	mp_0001 0xcc63
 0x3e82	0x98	NOI	#0W	..................	mp_0000d 0x70fd
-0x3f7e	0x98	Nemeas		Anyhow...You want to know a method	
-				for climbing the cliff at Heliograd,	
-				I am told.	
+0x3f7e	0x98	Nemeas		Anyway... I am told you wish	
+				to know a way for climbing	
+				the cliff at Heliograd,	
 0x407e	0x06	Nemeas		ANI_GESTURE1	
 0x40ca	0x98	Nemeas		By giving Noi my "Power,"	
 				that matter should be settled.	
@@ -132,16 +132,16 @@ EV_5_S06_help_nemeas
 0x497b	0x06	NOI		ANI_GUTSPOSE	
 0x49a4	0x98	NOI	#6A	We're saved!	
 0x49da	0x06	Nemeas		ANI_GESTURE2	
-0x4a26	0x98	Nemeas		I with Gio and the others	
-				will be in my temple,	
-				attempting to control the Power of Stars.	
-0x4b59	0x98	Nemeas		Please, may the guidance	
-				of the stars light your way forward...	
-0x4ec7	0x98	ALTO	#6A	With this, our preparations are in order.	
+0x4a26	0x98	Nemeas		I will be in my temple,	attempting	
+				to control the Power of Stars,	
+				like Gio and the others,	
+0x4b59	0x98	Nemeas		May the guidance of the stars please	
+				light your way forward...	
+0x4ec7	0x98	ALTO	#6A	With this, our preparations are complete.	
 0x4f13	0x06	ALTO		ANI_JOY	
 0x4f38	0x98	ALTO	#6A	Let's go, Noi.	
 				To Heliograd!	
 0x4f7e	0x06	NOI		ANI_GESTURE2	
 0x4fc4	0x98	NOI		...Understood!	mp_0001 0x122a0
 0x5332	0x07	System	#4C	Activate "Drive" by holding △ button.	
-0x55c5	0xCE	Objective		Kureha is in Heliograd...I've got to confirm her true motives!	
+0x55c5	0xCE	Objective		Kureha is in Heliograd...I have to find out her true motives!	

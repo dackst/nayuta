@@ -2,10 +2,10 @@ mp_1002b
 init
 0x74a	0xBC	QS54_SpiritA		Unknown	
 stp_return
-0x81d	0x98	NOI		If we had the "Buster," we could	
+0x81d	0x98	NOI		Since we can use Gear Buster, we can	
 				destroy this large tree blocking the	
 				path.	
-0x885	0x98	NOI		Since Gio lent us his power...	
+0x885	0x98	NOI		Gio lent us his power...	
 				let's give it a try, Nayuta!	
 ev_goal
 boss_battle
@@ -17,26 +17,26 @@ push_box
 0x1424	0x06	boxpoint		ANI_ON	
 QS54_talk_SpiritA
 0x170a	0x6B	QS54_SpiritA		Unknown	
-0x1810	0x98	NOI	#6A	Ah, I found you!	
+0x1810	0x98	NOI	#6A	Ah, found you!	
 0x1842	0x98	ALTO		You're one of the spirits	
-				of Nemeas' temple, aren't you?	
-0x18a3	0x98	ALTO		Yeah, but in a place like this...	
+				from Nemeas' temple, aren't you?	
+0x18a3	0x98	ALTO		Yeah, but in a place like this...?	
 0x18e4	0x98	ALTO		You're one of Nemeas' spirits all right.	
-				...Are you all right?	
+				...Are you okay?	
 0x1957	0x6B	QS54_SpiritA		Surprise	
 0x1991	0x6B	QS54_SpiritA		Unknown	
 0x1a07	0x98	QS54_SpiritA	#6A	...～～～～～～...	
 0x1a58	0x6B	QS54_SpiritA		Sweatdrop	
 0x1a92	0x06	ALTO		ANI_THINK2	
-0x1aba	0x98	ALTO		While it was uncertain of the road,	
-				maybe it sunk into the swamp.	
+0x1aba	0x98	ALTO		Maybe...while it was wandering around lost,	
+				it got stuck in the swamp...?	
 0x1b1a	0x06	ALTO		ANI_WAIT	
 0x1b40	0x06	NOI		ANI_THINK	
-0x1b66	0x98	NOI	#6A	For a spirit to get tripped up	
-				though, it's probably not a normal swamp.	
-				Maybe we should hurry.	
+0x1b66	0x98	NOI	#6A	It shouldn't be possible for a	
+				spirit to get stuck though...	
+				Maybe we should just hurry.	
 0x1be5	0x06	NOI		ANI_NOD	
-0x1c09	0x98	NOI	#6A	Anyway, just wait a bit.	
+0x1c09	0x98	NOI	#6A	Anyway, just wait a sec.	
 				We'll save you!	
 0x1d99	0x06	QS54_SpiritA		ANI_TALK	
 0x1dc7	0x98	QS54_SpiritA	#6A	...♪ .........!	
@@ -44,14 +44,14 @@ QS54_talk_SpiritA
 0x1e30	0x98	ALTO		Haha, it looks like it's thanking us.	
 0x1e75	0x06	NOI		ANI_GESTURE1	
 0x1e9e	0x98	NOI	#6A	We'll show you the way back.	
-				Don't get lost again, OK?	
+				Don't get lost again, okay?	
 0x1ef5	0x98	NOI	#6A	I'm worried about Nemeas too.	
 0x1f34	0x6B	QS54_SpiritA		Surprise	
 0x1f6e	0x40	UNDEF		Noi explained to the spirit the path back to	
 				the entrance of the continent.	
 0x1fd9	0x6B	QS54_SpiritA		Unknown	
 0x2013	0x06	QS54_SpiritA		ANI_NOD	
-0x221c	0x98	ALTO		It looks like we saved them safely.	
+0x221c	0x98	ALTO		It looks like we saved it safely.	
 0x229b	0x06	NOI		ANI_NOD	
 0x2303	0x98	NOI	#6A	Yeah, with this, we've saved all	
 				the lost spirits.	
@@ -163,16 +163,16 @@ EV_2_S20_help_gio
 0x4a8e	0x98	NOI	#6A	Gio, are you all right!?	
 				We came quickly to save you!!	
 0x4b11	0x41	None	#0W#2E#310c	Oh, Noi...And the human child!	
-				I waited for you!#0E	
+				I've been waiting for you!#0E	
 0x4ba0	0x41	None	#0W#2E#310c	Because you changed	
-				the season to how it originally was,	
+				the season to how its original state,	
 				the barrier is weakening considerably.#0E	
 0x4c5d	0x41	None	#0W#2E#310c	Now, for my final request...	
-				Can you break the "stones" around here?#0E	
+				Can you break the stones around here?#0E	
 0x4d08	0x06	ALTO		ANI_THINK	
 0x4d2f	0x98	ALTO		Stone...?	
 0x4e04	0x06	ALTO		ANI_WAIT	
-0x4efc	0x41	None	#0W#2E#310c	Somehow, those "stones"	
+0x4efc	0x41	None	#0W#2E#310c	Somehow, those stones	
 				facilitate the barrier.#0E	
 0x4f8a	0x41	None	#0W#2E#310c	I cannot do anything from inside,	
 				so I want you to destroy a few of them.#0E	
@@ -188,10 +188,9 @@ EV_2_S20_help_gio
 0x575e	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_2	
 0x582a	0x06	ALTO		ANI_2_ATK1	
 0x5a30	0x41	None	#0W#2E#310c	Hmm, that should be enough!#0E	
-0x5aeb	0x41	None	#0W#2E#310c	Now, step back a	
-				bit for me.#0E	
+0x5aeb	0x41	None	#0W#2E#310c	Now, step back a bit for me.#0E	
 0x5c83	0x06	Gio		ANI_USE_POWER	
-0x5d11	0x41	None	#2E#310c#5W	Oooooh......#1Wzaaa!#0E	
+0x5d11	0x41	None	#2E#310c#5W	Oooooh....#1Wzaaa!#0E	
 0x6336	0x06	Gio		ANI_WAIT	
 0x6440	0x06	Gio		ANI_DENY	
 0x64b5	0x98	Gio	#1W	Phew...	
@@ -199,10 +198,10 @@ EV_2_S20_help_gio
 0x655d	0x98	Gio	#1W	Good grief, the unthinkable	
 				has happened.	
 0x671a	0x06	NOI		ANI_JOY	
-0x674c	0x98	NOI	#0W#6A	Gio...Thank goodness!	
+0x674c	0x98	NOI	#0W#6A	Gio... Thank goodness!	
 0x678e	0x06	NOI		ANI_WAIT	
 0x67b3	0x06	ALTO		ANI_GESTURE2	
-0x67eb	0x98	ALTO	#1W#6A	You are...	
+0x67eb	0x98	ALTO	#1W#6A	You're...	
 				(Just a little more and I'll think	
 				 of him as an old man...)	
 0x68e6	0x98	Gio	#1W	Indeed, I am Lychnis Gio...	
@@ -211,7 +210,7 @@ EV_2_S20_help_gio
 0x69c6	0x98	Gio	#1W	You are a human child, are you not?	
 				Thank you for letting me out of there.	
 0x6a39	0x6B	Gio		Surprise	
-0x6ad7	0x98	Gio	#2W	Oh...I felt as if there were	
+0x6ad7	0x98	Gio	#2W	Oh... I felt as if there were	
 				two human children before...	
 0x6b6b	0x06	Gio		ANI_GESTURE2	
 0x6baa	0x98	Gio	#1W	Where did the other one	
@@ -271,7 +270,7 @@ EV_2_S20_help_gio
 				are the same race...	
 0x7b80	0x6B	NOI		Ellipsis	
 0x7bb1	0x06	ALTO		ANI_GESTURE1	
-0x7bdb	0x98	ALTO	#6A	...Is that so...	mp_0001 0xcc63
+0x7bdb	0x98	ALTO	#6A	...I see...	mp_0001 0xcc63
 0x7c16	0x06	Gio		ANI_GESTURE2	
 0x7c5c	0x98	Gio		There's nothing you can do	
 				except confirm his identity	

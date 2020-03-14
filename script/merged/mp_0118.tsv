@@ -1,14 +1,14 @@
 mp_0118
 init
 lp_tera
-0xb30	0x98	NOI		T-This gate is...?	
+0xb30	0x98	NOI		T-The gate's...?	
 0xb61	0x98	NOI		Though it's pretty old,	
 				it looks like an official gate...	
 0xbd3	0x98	ALTO		Yeah, though we used this	
-				for awhile, as I thought, it	
+				for a while, as I thought, it	
 				has once again stopped.	
 0xc3f	0x98	ALTO		I wonder if you can make	
-				it move with you power, Noi.	
+				it move with your power, Noi.	
 0xc93	0x98	NOI		No...I think it's impossible.	
 				This gate is already reaching	
 				its lifespan.	
@@ -24,15 +24,15 @@ lp_tera
 0xed6	0x40	UNDEF		A gate that's lost its power stands here.	mp_0118 0xe41
 LP_Bed
 0xf80	0x40	UNDEF		Cygna's luggage is scattered about.	
-0xfe6	0x98	ALTO		(Cygna, you put something	
-				 like your bag on your bed.)	
-0x103b	0x98	ALTO		(It seems like Master will be	
+0xfe6	0x98	ALTO		(Cygna, you just threw your bag	
+				 on your bed and left it there.)	
+0x103b	0x98	ALTO		(It looks like Master will be	
 				 mad again...)	
 subev_look_AulbathHouse
 0x12b0	0x98	ALTO		Yeah, Cygna and Master's house	
 				hasn't changed at all...	
 0x1306	0x06	ALTO		ANI_THINK2	
-0x132e	0x98	ALTO		Since I came to see Master	
+0x132e	0x98	ALTO		Not since I came to see Master	
 				before leaving the island.	
 0x1426	0x06	ALTO		ANI_WAIT	
 0x148c	0x98	ALTO		(...Cygna still hasn't unpacked	
@@ -49,12 +49,12 @@ EV_2_S03_visit_aulbath
 0x1926	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x1954	0x98	ALTO		(...Looks like he went out.)	
 0x1990	0x98	ALTO		(Sorry, but...	
-				 I'm going in.)	
+				 I'm coming in.)	
 0x1abb	0x06	ALTO		ANI_LOOK_AROUND	
-0x1ae8	0x98	ALTO		(Cygna isn't here either, huh...)	
+0x1ae8	0x98	ALTO		(Cygna isn't here either...?)	
 0x1b4f	0x6B	ALTO		Exclamation	
 0x1ba5	0x06	ALTO		ANI_SURPRISE	
-0x1bcf	0x98	ALTO		T-This is...!	mp_0115a 0x6232
+0x1bcf	0x98	ALTO		T-This...!	mp_0115a 0x6232
 0x1d3a	0x98	ALTO		Cygna's sword!!	
 0x1d90	0x06	sword		ANI_SAYA_ON	
 0x1e15	0x06	ALTO		ANI_KATANA_WO_NUKU	
@@ -62,53 +62,52 @@ EV_2_S03_visit_aulbath
 0x1f4f	0x6B	ALTO		Exclamation	
 0x1f95	0x98	ALTO	#6A#16S	It-It's split	
 				#16Sin two!!	
-0x1fdd	0x98	ALTO	#6A	What on earth happened!?	
+0x1fdd	0x98	ALTO	#6A	Just what happened!?	
 0x2046	0x06	ALTO		ANI_WAIT	
 0x2164	0x98	ALTO		And this letter he left...	
-				It's hardly a scribble...	
+				It's barely a scribble...	
 0x2276	0x06	ALTO		ANI_READ_MALE	
 0x22ab	0x98	ALTO		........................	
 0x2309	0x41	None	#0W#2E	You've helped me a lot.	
-				I thank you.	
+				Thank you for everything.	
 				Later.	
-				          ──Cygna#0E	
+				          ─Cygna#0E	
 0x23c6	0x6B	ALTO		Ellipsis	
 0x240e	0x06	ALTO		ANI_WAIT	
 0x243c	0x98	ALTO		Cygna...As I thought...	
 0x24dc	0x3F	Name		Solemn Voice	
-0x24f0	0x98	Aulbath		Goodness...	
-				To think that he ran away from home	
-				leaving only that scrap of paper.	
+0x24f0	0x98	Aulbath		Goodness...to think that he
+				ran away from home leaving	
+				only that scrap of paper.	
 0x2572	0x6B	ALTO		Surprise	
 0x2716	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x2745	0x98	ALTO		M-Master...	
 0x27a0	0x06	Aulbath		ANI_GESTURE2	
-0x27cd	0x98	Aulbath		I just returned from fighting monsters	
-				and found that farewell letter. I have 	
-				been searching for him until now though...	
+0x27cd	0x98	Aulbath		I just returned from exterminating 	
+				monsters and found that farewell letter.	
+				I have been searching for him since...	
 0x2867	0x06	Aulbath		ANI_WAIT2	
-0x2891	0x98	Aulbath		...Nayuta.	
-				You know something,	
-				don't you?	
+0x2891	0x98	Aulbath		...Nayuta. You know	
+				something, don't you?	
 0x2901	0x98	ALTO	#6A	W-Well, you see...	mp_0003 0xa418
 0x293e	0x6B	ALTO		Ellipsis	
 0x2970	0x06	Aulbath		ANI_GESTURE1	
 0x299d	0x98	Aulbath		...I do not mind if you can't say it.	
 				Those are the circumstances.	
 0x2a01	0x06	Aulbath		ANI_WAIT3	
-0x2a2b	0x98	Aulbath		There is also the possibly that	
-				he is just moody.	
-				You do not need to be so worried...	
+0x2a2b	0x98	Aulbath		There is also the possibility	
+				that he is just being sulky.	
+				You should not be so worried...	
 0x2aca	0x98	Aulbath	#0W	..................	mp_0000d 0x70fd
 0x2b23	0x06	ALTO		ANI_GESTURE2	
 0x2b4d	0x98	ALTO	#6A	Master...?	
 0x2b9b	0x98	Aulbath		...At any rate, this is not the	
-				first time he's run from home.	
+				first time he's run away from home.	
 0x2bfb	0x06	Aulbath		ANI_WAIT	
-0x2c24	0x98	Aulbath		He may suddenly return...	
-				I hope it's not very serious.	
+0x2c24	0x98	Aulbath		He may suddenly choose to return...	
+				I hope it's not too serious.	
 0x2c85	0x06	ALTO		ANI_NOD	
-0x2caa	0x98	ALTO	#6A	...Yeah, I hope so too...	
+0x2caa	0x98	ALTO	#6A	Yeah, I hope so, too...	
 SB_6_S13_move_Aulbath
 SB_6_S13_move_ALTO
 SB_6_S13_move_NOI
@@ -119,42 +118,41 @@ SB_6_S13_check_NOI
 SB_6_S13_check_ALTO
 EV_6_S13_talk_aulbath
 0x3901	0x06	Aulbath		ANI_WAIT3	
-0x3939	0x98	Aulbath	#2W	...I can feel a strong "Will"	
-				from your eyes.	
-0x3999	0x98	Aulbath	#1W	Perhaps, you are thinking of once	
+0x3939	0x98	Aulbath	#2W	...I can feel a strong	
+				determination from your eyes.	
+0x3999	0x98	Aulbath	#1W	Perhaps you are thinking of once	
 				again going to that other world.	
-0x3a16	0x98	Aulbath	#0W	Is there no mistake in that determination?	
+0x3a16	0x98	Aulbath	#0W	Is there no mistake in that conclusion?	
 0x3a6e	0x06	ALTO		ANI_THANKS	
-0x3aa4	0x98	ALTO	#1W#6A	...Yes.	
-				It might be impossible to do quickly,	
-				but...	
-0x3b0a	0x98	ALTO	#1W#6A	I will definitely find a way	
+0x3aa4	0x98	ALTO	#1W#6A	...Yes. It might not be	
+				possible to do right now, but...	
+0x3b0a	0x98	ALTO	#1W#6A	I will for sure find a way	
 				to go to Terra.	
 0x3b65	0x06	ALTO		ANI_JOY	
-0x3b98	0x98	ALTO	#1W#6A	Then, this time for sure,	
-				I'll defeat Zext. I'll show you I can	
+0x3b98	0x98	ALTO	#1W#6A	And this time, I'll defeat	
+				Zext. I'll show you I can	
 				stop Cygna and Kureha!	
 0x3c1a	0x06	NOI		ANI_GESTURE1	
 0x3c51	0x98	NOI	#1W	I feel the same!	
 0x3c8b	0x06	NOI		ANI_GUTSPOSE	
-0x3cc2	0x98	NOI	#1W	For Terra...	
-				And, for this surface world too!	
+0x3cc2	0x98	NOI	#1W	For Terra...and for the	
+				surface world, too!	
 0x3d1a	0x06	Aulbath		ANI_NOD	
-0x3d50	0x98	Aulbath	#2W	...Huhu, very well.	
+0x3d50	0x98	Aulbath	#2W	...Hehe, very well.	
 0x3d91	0x06	Aulbath		ANI_GESTURE2	
-0x3dcc	0x98	Aulbath	#1W	As expected, if it is you two,	
-				it seems I can entrust you	
-				with this.	
+0x3dcc	0x98	Aulbath	#1W	As I thought, it seems	
+				that I can entrust you	
+				two with this.	
 0x3e6d	0x06	Aulbath		ANI_HANDOVER	
 0x3eeb	0x6B	ALTO		Exclamation	
 0x3f1d	0x6B	NOI		Exclamation	
 0x3f4e	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x3f7d	0x98	ALTO	#6A	There's an exit in a place like this!?	
+0x3f7d	0x98	ALTO	#6A	There was an exit here!?	
 0x3fef	0x98	Aulbath		...Follow me.	
 0x405a	0x98	NOI		*gulp*...	
 0x408a	0x98	ALTO	#6A	...Let's go and see.	
 0x4776	0x06	ALTO		ANI_GESTURE2	
-0x47ae	0x98	ALTO	#2W#6A	T-This is...!	mp_0115a 0x6232
+0x47ae	0x98	ALTO	#2W#6A	T-This...!	mp_0115a 0x6232
 0x47e9	0x06	NOI		ANI_SURPRISE	
 0x4820	0x98	NOI	#1W#6A	A-A transfer gate!!	
 0x49d6	0x98	NOI		...This is just like the one	
@@ -168,91 +166,89 @@ EV_6_S13_talk_aulbath
 0x4d67	0x98	ALTO		Master, why do you have	
 				something like this!?	
 0x4ddc	0x06	Aulbath		ANI_GESTURE2	
-0x4e09	0x98	Aulbath	#6A	...This place is──	
-0x4e43	0x98	Aulbath	#6A	The place that I first	
-				met Cygna.	
+0x4e09	0x98	Aulbath	#6A	...This place─	
+0x4e43	0x98	Aulbath	#6A	It is where I	
+				first met Cygna.	
 0x4e91	0x6B	ALTO		Exclamation	
 0x4ec3	0x6B	NOI		Exclamation	
 0x4ef4	0x06	NOI		ANI_COMPLAIN	
-0x4f1d	0x98	NOI		Cygna...	
-				Master Selam was...	
+0x4f1d	0x98	NOI		Cygna...Master Selam...	
 0x4f5f	0x06	ALTO		ANI_GESTURE1	
-0x4f89	0x98	ALTO		May we hear the details?	
+0x4f89	0x98	ALTO		May we hear more?	
 0x4fc9	0x06	Aulbath		ANI_NOD	
 0x4ff1	0x98	Aulbath	#6A	Very well.	
 0x5038	0x06	Aulbath		ANI_WAIT3	
-0x5062	0x98	Aulbath	#0W#6A	──Some years ago,	
-				a short time after I had	
-				started to live on the island...	
+0x5062	0x98	Aulbath	#0W#6A	Years ago, shortly after I had	
+				started to live on this island...	
 0x50d6	0x98	Aulbath	#0W#6A	On one occasion when I was	
 				exterminating monsters, I found	
 				this place by chance.	
-0x51bf	0x40	Aulbath	#0W	There, I found a boy who looked as though	
-				he had jumped out of the "gate."	
-0x522e	0x40	Aulbath	#0W	Why in the world was he here... Thinking that,	
-				I decided to peer through the gate.	
-0x535d	0x40	Aulbath	#0W	...What was there,	
-				was an exceedingly beautiful world.	
+0x51bf	0x40	Aulbath	#0W	Here I found a boy who looked as if	
+				he had jumped out of the gate.	
+0x522e	0x40	Aulbath	#0W	Why was he here...? Curious, I	
+				decided to peer through the gate.	
+0x535d	0x40	Aulbath	#0W	...What I saw inside was an	
+				exceedingly beautiful world.	
 0x53b8	0x40	Aulbath	#0W	It was like the world of Lost Heaven	
 				that you can see through the Star Shards...	
 				I had a hunch that it was that very place.	
-0x5459	0x40	Aulbath	#0W	However, I...	
-				I sensed something terrifying and	
-				immediately retraced my steps.	
-0x54cb	0x40	Aulbath	#0W	Immediately after that, this gate	
-				lost its light. It did not connect again.	
+0x5459	0x40	Aulbath	#0W	However, I...I sensed something	
+				terrifying and turned back at once.	
+0x54cb	0x40	Aulbath	#0W	Soon afterward, this gate lost its	
+				light. It did not connect again.	
 0x55fb	0x40	Aulbath	#0W	As for the boy, the village looked after him,	
-				and he had lost all his memories.	
+				but he had lost all his memories.	
 0x566f	0x40	Aulbath	#0W	...I took the responsibility of watching	
 				over him until he became an adult, or	
 				until he regained his memories.	
-0x5701	0x40	Aulbath	#0W	Cygna Alhazen...	
-				Naming him so, I taught him how to live from zero.	
+0x5701	0x40	Aulbath	#0W	Naming him Cygna	
+				Alhazen, I taught him	
+				how to live from scratch.	
 0x5781	0x40	Aulbath	#0W	From there, Cygna met Nayuta...	
 0x57c6	0x40	Aulbath	#0W	...The rest is as you remember.	
 0x587d	0x06	ALTO		ANI_NOD	
 0x58a2	0x98	ALTO	#0W	So that's what happened...	mp_0101 0x8b6b
-0x5935	0x98	Aulbath	#6A	...Nayuta.	
-				Cygna was originally from Terra.	
-0x5987	0x98	Aulbath	#6A	Now that he has regained his	
-				memories, to him, that must	
-				seem correct.	
+0x5935	0x98	Aulbath	#6A	...Nayuta. Cygna was	
+				originally from Terra.	
+0x5987	0x98	Aulbath	#6A	Now that he has regained his memories,	
+				to him, all must seem rectified	
+				compared to how they once were.	
 0x59f9	0x06	Aulbath		ANI_GESTURE2	
-0x5a26	0x98	Aulbath	#6A	...Even so, will you	
-				not come to a halt?	
+0x5a26	0x98	Aulbath	#6A	...Even so, will	
+				you not falter?	
 0x5a7b	0x6B	ALTO		Ellipsis	
 0x5ac9	0x06	ALTO		ANI_NOD	
-0x5b04	0x98	ALTO	#1W	...Of course.	
+0x5b04	0x98	ALTO	#1W	...Of course not.	
 0x5b34	0x06	ALTO		ANI_GESTURE2	
-0x5b6c	0x98	ALTO	#0W	Something like destroying	
-				this world... I can't let Cygna and	
-				the others do something like that!	
+0x5b6c	0x98	ALTO	#0W	Destroying this world...	
+				I can't let Cygna do	
+				something like that!	
 0x5bed	0x06	ALTO		ANI_JOY	
-0x5c20	0x98	ALTO	#1W	Even if I get beat up,	
-				I will show you I can stop them!!	
+0x5c20	0x98	ALTO	#1W	Even if I get knocked down,	
+				I'll show you I can get back	
+				up and can stop them!!	
 0x5c7a	0x06	ALTO		ANI_THANKS	
-0x5cb0	0x98	ALTO	#1W	...As his best friend, I	
-				think I can do that.	
+0x5cb0	0x98	ALTO	#1W	...I think I can do that	
+				as his best friend.	
 0x5d4d	0x98	NOI	#1W	Nayuta...	mp_0000d 0x7671
 0x5d78	0x6B	Aulbath		Ellipsis	
-0x5e18	0x98	Aulbath	#2W#6A	Huhu...	
-				As my pupil, to my	
-				eyes you are not confused.	
+0x5e18	0x98	Aulbath	#2W#6A	Hehe...	I see I was not wrong	
+				to take you as my pupil.	
 0x5ea3	0x98	Aulbath	#1W#6A	If you are prepared now,	
-				I am certain you can return the	
-				blows of the man called Zext.	
+				I am certain you can exchange	
+				blows of that Zext man.	
 0x5f28	0x06	Aulbath		ANI_WAIT2	
-0x5f60	0x98	Aulbath	#1W#6A	And as for Cygna...	
-				As a substitute for me, please bring	
-				him an extra-large scolding.	
+0x5f60	0x98	Aulbath	#1W#6A	And for Cygna, please bring	
+				him an extra-large scolding	
+				in my stead.	
 0x5fe4	0x06	ALTO		ANI_GUTSPOSE	
 0x601c	0x98	ALTO	#2W	...Leave it to me, Master.	
-				I'll definitely do it!	
+				I'll do it for sure!	
 0x6077	0x06	NOI		ANI_GUTSPOSE	
 0x60ae	0x98	NOI	#2W	Me too...	
 				I'll do my best!	
 0x61d9	0x40	UNDEF		Nayuta and Noi decided to return	
-				to Herschel House for now.	
+				to the Herschel household for now.	
 0x6234	0x40	UNDEF		They explained the situation to Eartha, and told her	
 				they were once again heading for Terra.	
 SB_6_S15_warp_ALTO
@@ -261,10 +257,9 @@ EV_6_S15_repair_warp
 0x691b	0x06	NOI		ANI_USE_POWER	
 0x6b48	0x06	NOI		ANI_WAIT	
 0x6da5	0x06	Aulbath		ANI_WAIT3	
-0x6dcf	0x98	Aulbath	#6A	...Hmm, it seems it connected.	
+0x6dcf	0x98	Aulbath	#6A	...Hmm, it seems that it connected.	
 0x6e4b	0x06	NOI		ANI_JOY	
-0x6e6f	0x98	NOI		With this, we can again	
-				go to Terra!	
+0x6e6f	0x98	NOI		Now we can go to Terra again!	
 0x6eb3	0x06	NOI		ANI_WAIT	
 0x6f10	0x06	ALTO		ANI_GESTURE2	
 0x6f3a	0x98	ALTO	#6A	From here on, I don't	
@@ -280,6 +275,6 @@ EV_6_S15_repair_warp
 0x71c3	0x98	Aulbath	#6A	I will pray for you to safely	
 				reach Cygna and the others.	
 0x7231	0x06	ALTO		ANI_JOY	
-0x7256	0x98	ALTO		Yes...Leave it to us!	
+0x7256	0x98	ALTO		Yes... Leave it to us!	
 0x733b	0x06	ALTO		ANI_NOD	
 0x7360	0x06	NOI		ANI_NOD	

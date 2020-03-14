@@ -35,12 +35,12 @@ EV_4_S16_earthquake
 0x1e4b	0x6B	ALTO		Exclamation	
 0x1ea5	0x6B	NOI		Exclamation	
 0x1f05	0x06	ALTO		ANI_SURPRISE	
-0x1f2f	0x98	ALTO	#2W	U-Uwah!	
+0x1f2f	0x98	ALTO	#2W	W-wah!	
 0x1f69	0x06	NOI		ANI_SURPRISE	
 0x1f92	0x98	NOI	#0W	C-Can this be...!?	
 EV_4_S18_go_temple_top
 0x2163	0x06	stop		ANI_STOP	
-0x23da	0x98	ALTO	#6A	...Though it seems like the shaking stopped...	
+0x23da	0x98	ALTO	#6A	...It seems like the shaking stopped...	
 0x246b	0x98	NOI		It looks like the supply of	
 				Power of Stars stopped too...	
 0x24c4	0x06	NOI		ANI_COMPLAIN	
@@ -48,10 +48,10 @@ EV_4_S18_go_temple_top
 				It'll be like in Rieseweld!	
 0x253d	0x06	ALTO		ANI_THINK	
 0x2564	0x98	ALTO	#6A	Abnormalities that cover all of	
-				Terra might occur...	
+				Terra could occur...	
 0x25bc	0x06	ALTO		ANI_JOY	
 0x25e1	0x98	ALTO	#6A	...Let's hurry!	
 				Quickly, let's take back	
 				the Master Gear!	
 0x2645	0x06	NOI		ANI_NOD	
-0x2669	0x98	NOI		Y-Yeah!	mp_0004 0x64d8
+0x2669	0x98	NOI		mp_0004 0x64d8

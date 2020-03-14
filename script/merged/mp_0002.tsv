@@ -40,7 +40,7 @@ talk_Aulbath_sub
 0x1296	0x98	Aulbath		As the parent who raised him...	
 				I must scold him well for his	
 				dishonorable actions up until now.	
-0x1317	0x98	ALTO		Yes, leave it to me!	mp_0000 0xfbcf
+0x1317	0x98	ALTO		mp_0000 0xfbcf
 0x134b	0x98	NOI		We'll do our best.	
 0x13b6	0x98	Aulbath		The truth is, before long,	
 				I will begin fencing classes	
@@ -52,9 +52,7 @@ talk_Aulbath_sub
 				Please take care of him.	
 0x150c	0x98	Aulbath		Nayuta, Noi.	
 				Please take care of Cygna.	
-0x1555	0x98	Aulbath		As the parent who raised him...	mp_0002 0x1296
-				I must scold him well for his	
-				dishonorable actions up until now.	
+0x1555	0x98	Aulbath		mp_0002 0x1296	
 0x160e	0x98	Aulbath		It's been more than one year	
 				since Cygna left. It seems like	
 				only yesterday.	
@@ -113,53 +111,47 @@ talk_Aulbath_sub
 0x1fc5	0x6B	Aulbath		Ellipsis	
 0x1ffa	0x98	ALTO		U-Umm...	
 				(As you'd expect, I wonder	
-				 if I'm suspected...)	
-0x2051	0x98	Aulbath		Huhu, well fine.	
+				 if he suspects something...)	
+0x2051	0x98	Aulbath		Huhu, well, fine.	
 				For now, I will congratulate	
 				you on her recovery.	
-0x20b4	0x98	Aulbath		Well done, Nayuta.	
-				That is exactly why	
-				you are my son.	
+0x20b4	0x98	Aulbath		Well done, Nayuta, my pupil.
 0x210b	0x98	ALTO		Ahaha...Thank you very much.	
 0x2181	0x98	Aulbath		The rumor is, you supplied that	mp_0002 0x1f6c
 				phantom Yupina Grass...	
 0x21da	0x98	Aulbath		...Huhu, I will not inquire too deeply.	
 				At the very least, Eartha was saved.	
 0x2248	0x98	Aulbath		Well done, Nayuta.	
-				As you would expect,	
-				you are my son.	
-0x22c8	0x98	Aulbath		Well done, Nayuta.	mp_0002 0x2248
-				As you would expect,	
-				you are my son.	
+				As one should expect	
+				from one of my pupils. 	
+0x22c8	0x98	Aulbath		mp_0002 0x2248
 0x2320	0x98	Aulbath		Now, you should reflect	
 				on your sister's recovery.	
 0x23aa	0x98	Aulbath		It seems Eartha collapsed	
-				due to sudden illness.	
-0x23fc	0x98	Aulbath		Hmm, though I thought	
-				her complexion was good	
-				lately...	
-0x2454	0x98	Aulbath		That girl's heart is strong	
-				and mends your weaknesses.	
+				due to a sudden illness.	
+0x23fc	0x98	Aulbath		Hmm, even though I had thought	
+				her constition seemed rather	
+				frail lately...	
+0x2454	0x98	Aulbath		That girl is strong inside, so she	
+				can still make up for her weakness.	
 0x24ac	0x98	Aulbath		Nayuta, especially now,	
 				you should support her.	
-0x24fd	0x98	ALTO		Yes!	mp_0001 0xfd91
-0x2549	0x98	Aulbath		That girl's heart is strong	mp_0002 0x2454
-				and mends your weaknesses.	
-0x25a1	0x98	Aulbath		Nayuta, especially now,	mp_0002 0x24ac
-				you should support her.	
-0x2628	0x98	Aulbath		An uproar over Cygna leaving	
-				home has just started.	
-				I hope it is not serious.	
-0x2696	0x98	Aulbath		Rather, since he was a child,	
-				he has been doing this sort of thing,	
-				though it has been awhile since the last time.	
-0x2729	0x98	Aulbath		...However, it has been five years since then...	
+0x24fd	0x98	ALTO		mp_0001 0xfd91
+0x2549	0x98	Aulbath		mp_0002 0x2454
+0x25a1	0x98	Aulbath		mp_0002 0x24ac
+0x2628	0x98	Aulbath		News about Cygna running away got out.	
+				It's not be the first time he's done	
+				this, so hopefully it's not too serious.	
+0x2696	0x98	Aulbath		Since he was a child, he has always	
+				been doing things like this, though it	
+				has been a long time since it last happened.	
+0x2729	0x98	Aulbath		...But it's been five years, huh?	
 				Time passes quickly, it seems...	
-0x27c4	0x98	Aulbath		...It has been five years since then, huh...	
+0x27c4	0x98	Aulbath		...It has been five years, huh?	
 				Time passes quickly, it seems...	
-0x2883	0x98	Aulbath		Nayuta, though you returned from the	
-				ruins...	
-				I wonder if anything happened there.	
+0x2883	0x98	Aulbath		Nayuta, you seem to have returned	
+				safely from the ruins...	
+				I trust no one was seriously hurt.	
 0x28f6	0x98	ALTO		Y-Yes.	
 				Neither me nor Cygna	
 				got a single wound.	
@@ -167,18 +159,18 @@ talk_Aulbath_sub
 0x297e	0x98	ALTO		(..It seems I kept Noi a secret,	
 				 and there's no way I can talk about	
 				 the incident at the ruins or Terra.)	
-0x2a09	0x98	Aulbath		For a moment, I sensed an	
-				unusual presence in those ruins...	
-				Somehow, it must have been my imagination.	
-0x2a91	0x98	Aulbath		...I too have grown old.	
+0x2a09	0x98	Aulbath		For a moment, I sensed inside	
+				those ruins an unusual presence...	
+				It must have been my imagination.	
+0x2a91	0x98	Aulbath		...I, too, have grown old.	
 0x2acc	0x6B	ALTO		Sweatdrop	
 0x2afe	0x98	ALTO		(As expected from Master...	
-				 If I'm not real careful, everything	
+				 If I'm not careful, everything	
 				 will be exposed immediately.)	
-0x2bb5	0x98	Aulbath		For a moment, I sensed an	mp_0002 0x2a09
-				unusual presence in those ruins...	
-				Somehow, it must have been my imagination.	
-0x2c3d	0x98	Aulbath		...I too have grown old.	
+0x2bb5	0x98	Aulbath		For a moment, I sensed inside	mp_0002 0x2a09
+				those ruins an unusual presence...	
+				It must have been my imagination.	
+0x2c3d	0x98	Aulbath		...I, too, have grown old.	
 				I must train you more.	
 0x2cb6	0x98	Aulbath		Anyhow, if anything happens,	
 				please speak with me immediately.	
@@ -188,7 +180,7 @@ talk_Aulbath_sub
 0x2e25	0x98	Aulbath		Although he is in the town's vigilante	
 				corps, his spirit has not much experience.	
 0x2e98	0x98	Aulbath		Before long, I'll need	
-				to personally scold him.	
+				to scold him myself.	
 0x2f05	0x98	Aulbath		Life is discipline itself...	
 				Never neglect your training.	
 0x2f60	0x98	Aulbath		Though rest is necessary,	
@@ -200,7 +192,7 @@ talk_Aulbath_sub
 				Never neglect your training.	
 0x3097	0x98	Aulbath		...I'll need to teach Cygna	mp_0002 0x2fc6
 				that once again.	
-0x3109	0x98	Aulbath		Use that sword freely, and	
+0x3109	0x98	Aulbath		Use that sword and	
 				show me you can destroy	
 				those scarecrows.	
 0x316e	0x98	Aulbath		Nayuta, if it is you,	
@@ -208,12 +200,12 @@ talk_Aulbath_sub
 				intuition immediately.	
 0x322e	0x98	Aulbath		Hmm, it seems you	
 				have equipped a sword.	
-0x3278	0x98	Aulbath		Then, if your heart is ready,	
+0x3278	0x98	Aulbath		Then if your heart is ready,	
 				you should call on me again.	
 0x3300	0x07	System	#4C	Please talk to Orvus using □.	
 0x3335	0x98	Aulbath		Good grief. Though I asked	
-				Cygna to come, he skipped	
-				out on training all of a sudden.	
+				Cygna to come, he suddenly	
+				skipped out on training	
 0x33ab	0x98	Aulbath		Well, fine.	
 				This time, I will watch	
 				you closely, Nayuta.	
@@ -221,7 +213,7 @@ talk_Aulbath_sub
 				[Equip] from the camp menu.	
 0x348e	0x07	System	#4C	Equip Nayuta with a sword,	
 				and push □ button to talk.	
-0x34ee	0x98	Aulbath		That Cygna, I expected he'd run.	
+0x34ee	0x98	Aulbath		That Cygna, I thought he'd run.	
 0x3531	0x98	Aulbath		Hmm, though it's been four months,	
 				It seems you haven't grown...	
 0x3593	0x98	Aulbath		...Nayuta, once you are ready,	
@@ -232,25 +224,24 @@ talk_Pyxia
 0x36a0	0x98	Pyxia		Wawa...	
 				Horolo! It's snow!	
 0x36da	0x98	Pyxia		Falling snow on the island of	
-				everlasting summer! It seems an	
-				amazing inspiration has fallen!	
+				everlasting summer! It looks like	
+				amazing inspiration has struck!	
 0x3756	0x98	Pyxia		I've got to sketch this at once!	
 0x37bf	0x98	Pyxia		Falling snow on the island of	
 				everlasting summer! I've got to	
 				sketch this at once...	
 0x3832	0x98	Pyxia		...Eek, my drawing	
 				paper got wet!	
-0x38a9	0x98	Pyxia		Heading for the contest,	
-				I can't decide what to draw.	
+0x38a9	0x98	Pyxia		I can't decide what to	
+				draw for the contest.	
 0x38fe	0x98	Pyxia		...That old man over	
 				there has atmosphere.	
-0x3948	0x98	Pyxia		"Master Fencer-Waiting for His	
-				 Old Enemy."	
+0x3948	0x98	Pyxia		"Master Fencer awaits his nemesis."	
 0x3993	0x98	Pyxia		...If I were to put a title on it,	
-				it would be like this.	
+				it would be something like that.	
 0x39ec	0x6B	ALTO		Sweatdrop	
-0x3a46	0x98	Pyxia		Heading for the contest,	mp_0002 0x38a9
-				I can't decide what to draw.	
+0x3a46	0x98	Pyxia		I can't decide what to	mp_0002 0x38a9
+				draw for the contest.	
 0x3a9b	0x98	Pyxia		That old man over there...	
 				I'll sketch him secretly.	
 talk_Horolo
@@ -265,23 +256,23 @@ talk_Horolo
 				it has a strange feeling.	
 0x3cf3	0x98	Horolo		...If it accumulates, I'll make	
 				a snow sculpture.	
-0x3d7b	0x98	Horolo		I too think that man would	
-				make a good model for	
-				a statue, maybe.	
+0x3d7b	0x98	Horolo		I think that man would	
+				maybe make a good model for	
+				a statue, too	
 0x3ddc	0x98	Horolo		Huhu, the hair part would	
 				be pretty difficult though.	
-0x3e32	0x98	ALTO		(A statue of Master huh...	
-				 It seems just placing it would	
-				 be protection against monsters.)	
-0x3ed4	0x98	Horolo		I too think that man would	mp_0002 0x3d7b
-				make a good model for	
-				a statue, maybe.	
-0x3f35	0x98	Horolo		If I asked him, I wonder if I could	
-				make a full-body mould.	
+0x3e32	0x98	ALTO		(A statue of Master, huh?	
+				 Feels as if just putting it somewhere
+				 would grant protection from monsters.)	
+0x3ed4	0x98	Horolo		I think that man would	mp_0002 0x3d7b
+				maybe make a good model for	
+				a statue, too	
+0x3f35	0x98	Horolo		If I asked, I wonder if he'd	
+				let me make a full-body mold.	
 0x3f91	0x6B	ALTO		Sweatdrop	
 talk_Aulbath
-0x41e5	0x07	System	#4C	If you show Orvus the "Training Book"	
-				you can receive skills or items.	
+0x41e5	0x07	System	#4C	If you show Orvus the Training Book,	
+				you can receive new skills or items.	
 0x42a1	0x36	Choice		Talk	
 0x42cb	0x36	Choice		Show Training Book	
 0x4317	0x36	Choice		Hear Tactics Instruction	
@@ -290,42 +281,39 @@ check_growth
 0x44ae	0x98	Aulbath		Oh, it's Nayuta.	
 				That thing you have is...	
 				A training book, is it not?	
-0x4515	0x98	ALTO		Yes, I received it	
-				from Cygna.	
-0x4552	0x98	ALTO		I has been useful in my training.	
-0x4593	0x98	Aulbath		Hmm, is that so...	
-0x45fc	0x98	Aulbath		It seems you've collected the	
-				stamps little by little.	
+0x4515	0x98	ALTO		Yes, Cygna gave it to me.	
+0x4552	0x98	ALTO		It has been useful in my training.	
+0x4593	0x98	Aulbath		Hmm, is that so...?	
+0x45fc	0x98	Aulbath		It seems you've been gradually	
+				collecting all the stamps.	
 0x4654	0x98	Aulbath		...Yes, if you collect a few more	
 				stamps, you should be able to	
 				learn a new sword skill.	
 0x46cd	0x98	ALTO		Wha...a skill?	
 0x46fb	0x98	ALTO		Oh, Cygna used them often	
-				when extermination monsters...	
-0x4752	0x98	Aulbath		Mm, when facing formidable foes,	
+				when exterminating monsters...	
+0x4752	0x98	Aulbath		Hm...when facing formidable foes,	
 				they will be extremely useful.	
 0x47b3	0x98	Aulbath		In time, I plan to teach you the	
 				same skills as Cygna.	
-0x480b	0x98	Aulbath		Nayuta, you are very diligent.	
-				When the time comes, I will train you.	
+0x480b	0x98	Aulbath		Do your best, Nayuta.	
+				When the time comes,	
+				I will train you.	
 0x4872	0x98	ALTO		Ahaha...somehow, I'm happy.	
 0x48ad	0x98	ALTO		Master, please take care of me	
 				when that time comes!	
-0x492c	0x07	System	#4C	If you show Orvus the "Training Book"	mp_0002 0x41e5
-				you can receive skills or items.	
+0x492c	0x07	System	#4C	mp_0002 0x41e5	
 0x4980	0x07	System	#4C	Speak with Orvus once you've accumulated	
 				a fixed amount of stamps in the training book.	
 0x49f7	0x98	Aulbath		The number of stamps in the training	
 				book show the extent to which you have	
 				tested yourself.	
-0x4a74	0x98	Aulbath		...Let see, if it's this many, then	
+0x4a74	0x98	Aulbath		...Let see, if you this much, then	
 				you should be able to learn	
 				a new skill.	
-0x4ae1	0x98	ALTO		Wha...a skill?	mp_0002 0x46cd
-0x4b0f	0x98	ALTO		Oh, Cygna used them often	mp_0002 0x46fb
-				when extermination monsters...	
-0x4b66	0x98	Aulbath		Mm, when facing formidable foes,	mp_0002 0x4752
-				they will be extremely useful.	
+0x4ae1	0x98	ALTO		mp_0002 0x46cd
+0x4b0f	0x98	ALTO		mp_0002 0x46fb
+0x4b66	0x98	Aulbath		mp_0002 0x4752
 tuto_Aulbath
 0x4bf8	0x98	Aulbath		Hmm...You want to hear something?	
 0x4c9c	0x36	Choice		About CHAIN	
@@ -340,7 +328,7 @@ tuto_Aulbath
 0x4ef0	0x36	Choice		About Swallow Return	
 0x4f14	0x36	Choice		About One and Two-Handed Swords	
 0x4f41	0x36	Choice		About Status Abnormalities	
-0x4f69	0x36	Choice		Quit	mp_0002 0x433f
+0x4f69	0x36	Choice		mp_0002 0x433f
 0x4fcf	0x98	Aulbath		By continuously landing hits,	
 				you will gain various benefits	
 				by accumulating CHAIN.	
@@ -417,11 +405,11 @@ tuto_Aulbath
 				and can unleash quick, successive attacks.	
 				Generally, you can say they are easy to handle.	
 0x5f82	0x98	Aulbath		On the other hand, two-handed swords have high attack power,	
-				and easily bringing down enemies is their characteristic.	
-				However, they leave a large gap and are hard to handle.	
+				and easily bring down enemies. However, they leave a large	
+				gap between attacks and are hard to handle.	
 0x6051	0x98	Aulbath		Each has its advantages and disadvantages...	
-				I cannot say which is superior.	
-				You should choose a sword which is easy for you to use.	
+				I cannot say which is superior. You should	
+				choose a sword which is easy for you to use.	
 0x610c	0x98	Aulbath		Among monsters there are those	
 				which can cause various abnormal	
 				statuses.	
@@ -447,21 +435,16 @@ quest_Aulbath
 				 as the seasons change"...	
 0x6551	0x98	Aulbath		If it is you, Nayuta, you may have	
 				some idea where in Terra that is.	
-0x6676	0x98	Aulbath		Use that sword freely, and	mp_0002 0x3109
-				show me you can destroy	
-				those scarecrows.	
+0x6676	0x98	Aulbath		mp_0002 0x3109
 0x66db	0x98	Aulbath		If you think destroying	
 				the scarecrows with a wooden	
 				sword is difficult...	
-0x6746	0x98	Aulbath		Nayuta, if it is you,	mp_0002 0x316e
-				you will recover your	
-				intuition immediately.	
+0x6746	0x98	Aulbath		mp_0002 0x316e	
 0x6844	0x98	Aulbath		Hmm, it seems your equipment	
 				is still not prepared.	
 0x6899	0x98	Aulbath		Nayuta, equip yourself with a sword	
 				and call on me again.	
-0x6928	0x07	System	#4C	Equip weapons and armor by selecting	mp_0002 0x3440
-				[Equip] from the camp menu.	
+0x6928	0x07	System	#4C	mp_0002 0x3440
 0x6976	0x07	System	#4C	Please equip Nayuta with a sword.	
 QS_02_quest_start
 0x6ad9	0x06	Aulbath		ANI_WAIT4	
@@ -526,7 +509,7 @@ QS_02_normal_attack
 0x7ac9	0x98	Aulbath		But, before that...	
 				Take this.	
 0x7b3a	0x06	Aulbath		ANI_HANDOVER	
-0x7b6f	0xC1	System		obtained.	mp_0000 0x7558
+0x7b6f	0xC1	System		mp_0000 0x7558
 0x7c04	0x06	ALTO		ANI_HOLD	
 0x7c93	0x98	ALTO	#6A	I used this during my	
 				entire time on the island...	
@@ -572,7 +555,7 @@ QS_02_dead_countA
 QS_02_jump_avoid
 0x8a76	0x06	ALTO		ANI_PLEASE_WAIT_LOOP	
 0x8afd	0x06	Aulbath		ANI_WAIT2	
-0x8bd1	0x98	ALTO	#6A	(pant... pant...)	
+0x8bd1	0x98	ALTO	#6A	*fuff*...*huff*...	
 				S-somehow, I destroyed them.	
 0x8c21	0x98	Aulbath		...As expected, you have good muscles.	
 				Though you were away from the sword for	
@@ -660,12 +643,12 @@ QS_02_jump_avoid
 				the road to the village.	
 				...Want to give it a try?	
 0x9da2	0x06	ALTO		ANI_NOD	
-0x9dc7	0x98	ALTO	#6A	...U-understood!	
+0x9dc7	0x98	ALTO	#6A	...U-Understood!	
 				Somehow...I will do it!	
 0x9e11	0x98	Aulbath		Hmph...	
 				Well then, leave this to me!	
 0x9f02	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_1	
-0x9f62	0x98	ALTO		Alright...here I go!	
+0x9f62	0x98	ALTO		All right...here I go!	
 0x9fca	0x07	System	#4C	Jump with the × button.	
 				Please use it for enemies or	
 				climbing.	
@@ -676,8 +659,8 @@ QS_02_jump_avoid
 tuto_retry
 QS_02_dead_countB
 QS_02_quest_end
-0xa669	0x98	ALTO		(pant... pant...)	
-				Somehow I defeated them...	
+0xa669	0x98	ALTO		*huff*...*huff*...	
+				I defeated them somehow...	
 0xa6bc	0x3F	Name		Orvus' Voice	
 0xa6d0	0x98	Aulbath		Hm, good work.	
 0xa832	0x98	ALTO	#6A	Master, is the	
@@ -694,7 +677,7 @@ QS_02_quest_end
 				me, Master, I had a feeling	
 				of security.	
 0xaa26	0x06	Aulbath		ANI_WAIT2	
-0xaa50	0x98	Aulbath		Hm...well that's fine.	
+0xaa50	0x98	Aulbath		Hmm...well, that's fine.	
 0xaa89	0x98	Aulbath		There is no training better than	
 				real combat. This was better	
 				training than I expected.	
@@ -702,7 +685,7 @@ QS_02_quest_end
 				Once you two are together,	
 				we'll begin training once more.	
 0xab75	0x06	ALTO		ANI_LAUGH	
-0xab9c	0x98	ALTO	#A	haha, that's right.	
+0xab9c	0x98	ALTO	#A	Haha, that's right.	
 				When the time comes, I'll	
 				bring Cygna even if I have to drag him.	
 0xac11	0x06	Aulbath		ANI_WAIT0	
@@ -813,10 +796,10 @@ QS_11_get_treasure
 QS_24_get_salt
 0xe1a6	0x98	ALTO		Beautiful white crystals have	
 				formed in the shade of the ruins.	
-0xe204	0x98	ALTO		This looks the "Ruins Rock	
-				Salt" that the elder mentioned.	
+0xe204	0x98	ALTO		This looks the Ruins Rock	
+				Salt that the elder mentioned.	
 0xe293	0x06	ALTO		ANI_HANDOVER	
-0xe2c5	0xC1	System		obtained.	mp_0000 0x7558
+0xe2c5	0xC1	System		mp_0000 0x7558
 0xe39c	0x06	ALTO		ANI_WAIT4	
 0xe3f7	0x06	ALTO		ANI_GUTSPOSE	
 0xe421	0x98	ALTO		With this, I've collected three	
@@ -824,10 +807,10 @@ QS_24_get_salt
 				bring them to Gio.	
 0xe4d4	0x06	ALTO		ANI_THINK2	
 0xe4fc	0x98	ALTO		The last one is the "local cuisine"	
-				that the elder mentioned, huh...	
-0xe55f	0x98	ALTO		It's the specialty dish of someone	
-				you wouldn't think is a cook though...	
-				...Just who is it, I wonder?	
+				that the elder mentioned, huh?	
+0xe55f	0x98	ALTO		But it's the specialty dish of someone	
+				you wouldn't think of as a cook...	
+				...Just who could it be?	
 QS_81_quest_start
 0xe73e	0x06	ALTO		ANI_WAIT	
 0xe88c	0x98	Aulbath		There is something related to Terra	
@@ -849,8 +832,8 @@ QS_81_quest_start
 0xebc9	0x36	Choice		[Accept]	mp_0000 0xeaf5
 0xebdf	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0xec7e	0x06	ALTO		ANI_OJIGI	
-0xeca5	0x98	ALTO	#6A	I'm sorry, I have a	
-				little something to do now...	
+0xeca5	0x98	ALTO	#6A	I'm sorry, I kind of have	
+				something to do right now...	
 0xecf8	0x06	Aulbath		ANI_WAIT3	
 0xed22	0x98	Aulbath		Hmm, if that's the case	
 				then it can't be helped.	
@@ -1011,7 +994,7 @@ QS_81_quest_end
 0x10f72	0x06	Aulbath		ANI_HAVE_A_BOX	
 0x10ffb	0x98	Aulbath		Let's see...	
 0x1102a	0x40	UNDEF		Orvus slowly opened the lid of the box.	
-0x11072	0x40	UNDEF		There was a small "Star Shard" in the box.	
+0x11072	0x40	UNDEF		There was a small Star Shard in the box.	
 0x110c5	0x6B	ALTO		Ellipsis	
 0x110f7	0x6B	NOI		Ellipsis	
 0x11128	0x6B	Aulbath		Ellipsis	
@@ -1026,7 +1009,7 @@ QS_81_quest_end
 0x1131c	0x06	Aulbath		ANI_WAIT	
 0x11380	0x06	NOI		ANI_WAIT	
 0x113a5	0x98	Aulbath		Hmm...Please do.	
-0x1142a	0x40	UNDEF		Everyone decided to head to Herschel House,	
+0x1142a	0x40	UNDEF		Everyone decided to head to the Herschel household,	
 				explain the situation to Eartha, and have her	
 				perform Star Shard observation.	
 EV_2_S04_under_noi
@@ -1035,15 +1018,15 @@ EV_2_S04_under_noi
 0x117b0	0x06	ALTO		ANI_THINK2	
 0x117d8	0x98	ALTO		(It's hard to imagine that	
 				 we missed each other in	
-				 this small village.)	
+				 such a small village.)	
 0x1183f	0x98	ALTO		(Maybe he had already finished	
 				 what he needed to do when we	
 				 arrived in the garden....)	
 0x118b5	0x6B	ALTO		Ellipsis	
 0x118e7	0x06	ALTO		ANI_WAIT	
-0x1190d	0x98	ALTO		Speaking of that...	
+0x1190d	0x98	ALTO		Speaking of which...	
 				I made Noi wait for me, didn't I?	
-0x11979	0x98	ALTO		I said nothing and left...	
-				I should return to Terra quickly.	
+0x11979	0x98	ALTO		I left without saying anything...	
+				I should huury and return to Terra.	
 0x11ab9	0xCE	Objective		Looks like Cygna's not here. I should return to Terra for Noi.	
 atari

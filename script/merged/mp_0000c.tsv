@@ -5,9 +5,9 @@ LP_Shop1
 				  We have tasty food and warm rooms	
 				    ready for you.	
 LP_Shop2
-0xa4c	0x41	None		★Welcome to general store Sunset!★	mp_0000 0x262e
+0xa4c	0x41	None		★Welcome to Sunset General Store!★	mp_0000 0x262e
 				  From daily necessities to souvenirs,	
-				  leave it to Sunset!	
+				    Leave it to Sunset!	
 				  Would you like to try Star Shards,	
 				  Remnant Island's most popular product?	
 talk_Dorado
@@ -29,59 +29,59 @@ talk_Dorado
 				as town guard!	
 talk_Lupus
 0xe72	0x98	Lupus		That rubble won't move no matter what.	
-				I was thinking of asking my mom	
+				I thought of asking my mom	
 				for help.	
 0xee1	0x6B	Lupus		Sweatdrop	
-0xf14	0x98	Lupus		...My god, it seriously	
-				moved...	
+0xf14	0x98	Lupus		...My god, it	
+				actually moved...	
 0xf7c	0x98	Lupus		Even Columba and Sculp	
 				couldn't move that rubble...	
 0xfcf	0x98	Lupus		So the unthinkable	
 				hidden ball was this	
 				close...	
-0x1054	0x98	Lupus		You're just in time, doctor.	
-				My father just called for you.	
-0x10af	0x98	Lupus		As elder, he wants you to	
-				listen to his story.	
-0x10fd	0x98	Hydol		I see...	
-				I was just thinking I	
-				had something to ask him.	
-0x1154	0x98	Hydol		Lyra and Vel's medical	
-				exams are finished.	
-				Alright, I'll head there immediately.	
-0x1211	0x98	Lupus		Nayuta, leave the island to	
-				me for now.	
-0x1258	0x98	Lupus		Don't overdo it, OK?	
+0x1054	0x98	Lupus		Just in time, Doctor. The	
+				old man is calling for you.	
+0x10af	0x98	Lupus		As the village elder, he	
+				wants to hear more about	
+				your doctor's rounds.	
+0x10fd	0x98	Hydol		I see... I was thinking I	
+				had something to ask of
+				him as well.		
+0x1154	0x98	Hydol		Lyra and Vel's exams are done.	
+				All right, let's go there now..	
+0x1211	0x98	Lupus		Nayuta, leave the	
+				island to us for now.	
+0x1258	0x98	Lupus		Don't overdo it, okay?	
 talk_Canis
 0x12bd	0x98	Canis		*huff, huff, huff*	
-				I thought I'd remove	
-				this rubble, but...	
-0x1317	0x98	Canis		As I thought, it'll only move	
-				a little with these thin arms.	
+				I thought I'd try to get	
+				rid of this rubble, but...	
+0x1317	0x98	Canis		As I thought, these thin arms	
+				can only it a little at a time.	
 0x1373	0x6B	Lupus		Sweatdrop	
-0x13a6	0x98	Lupus		(I-I can't believe this...	
-				 She's really moving it herself...)	
+0x13a6	0x98	Lupus		(I-I can't believe it... She's	
+				 really moving it by herself...)	
 0x142c	0x98	Canis		Even if I'm not useful,	
 				I'm doing all I can to help.	
-0x1480	0x98	Canis		Because Nayuta is	
-				doing his best...	
+0x1480	0x98	Canis		Nayuta and everyone are	
+				doing their best too...	
 				I can't lose hope!	
 talk_Columha
-0x1503	0x98	Columha		Though people with physical	
-				strength decided to clean up	
-				the rubble...	
-0x156a	0x98	Columha		...As expected, it's difficult.	
-				It seems impossible	
+0x1503	0x98	Columha		I tried cleaning up this rubble	
+				with the help of some of the stronger	
+				people in the village...
+0x156a	0x98	Columha		...But as expected, it's difficult.	
+				They seem impossible to remove	
 				by human hands...	
-0x15d0	0x98	Columha		Though it'll take time,	
-				it seems all we can do	
-				is break it with a hammer.	
-0x1662	0x98	Columha		Though we're somehow doing our	
-				best with cleaning up rubble now...	
-				pushing seems difficult.	
-0x16de	0x98	Columha		Though it'll take time,	mp_0000c 0x15d0
-				it seems all we can do	
-				is break it with a hammer.	
+0x15d0	0x98	Columha		Though it'll take some time,	
+				it seems like all we can do	
+				is crush them with a hammer.	
+0x1662	0x98	Columha		We're doing our best trying to	
+				clean up this rubble somehow...	
+				But just pushing it seems difficult.	
+0x16de	0x98	Columha		Though it'll take some time,	mp_0000c 0x15d0
+				it seems like all we can do	
+				is crush them with a hammer.	
 talk_Ursaminor
 0x17b9	0x98	Ursaminor		Though the world has become	
 				like this, I'm glad I met my	
@@ -160,7 +160,7 @@ talk_Sculp
 				a dent in are coming out now.	
 0x26b4	0x98	Sculp		Though Orvus is making his rounds,	
 				the kids should stay inside.	
-0x2749	0x98	Sculp		Ah...What should I do.	
+0x2749	0x98	Sculp		Oh...What should I do?	
 				Of all things, this huge	
 				stone had to fall...	
 0x27ac	0x98	Sculp		Well at least Jessica's safe,	
@@ -266,47 +266,45 @@ talk_Bootie
 				this village to me!	
 talk_Aquela
 0x3db6	0x98	Aquela		My, you...	
-0x3de2	0x98	Aquela		Huhu, you have good eyes.	
-0x3e1d	0x98	Aquela		And in the turning of the stars,	
+0x3de2	0x98	Aquela		Hehe, you have good eyes, don't you?	
+0x3e1d	0x98	Aquela		And so, in my reading of the stars,	
 				I can see you are one burdened	
 				with a great destiny.	
 0x3e92	0x6B	Aquela		Ellipsis	
 0x3ec6	0x98	ALTO		Y-You are?	
-0x3ef0	0x98	Aquela		Huhuhu...As an astrologer,	
-				you are of interest.	
-0x3f40	0x98	Aquela		That's right,	
-				please take this, boy.	
+0x3ef0	0x98	Aquela		Hehehe... As an astrologer, I	
+				take great interest in you.	
+0x3f40	0x98	Aquela		That is how it seems to me, boy.	
+				I want you to keep this.	
 0x3f85	0xC1	System		obtained.	mp_0000 0x7558
-0x4004	0x98	Aquela		I got very interesting	
-				suggestion from you...	
+0x4004	0x98	Aquela		I get some very interesting	
+				premonitions from you...	
 				This is thanks for that.	
 0x40bc	0x6B	Aquela		Ellipsis	
 0x40f0	0x98	Aquela		...It is passed down that my	
-				clan made a great error in	
+				clan made a grave error in	
 				the distant past.	
-0x4159	0x98	Aquela		Because of that, disaster was	
-				invited, and the world was	
-				covered in oceans...	
-0x41c6	0x98	Aquela		Because of that my tribe has,	
-				for generations, secretly	
-				watching over this world.	
-0x4237	0x98	Aquela		Though a long time has passed and most of	
-				what was handed down has been lost,	
-				this is our duty as descendants of the criminals.	
+0x4159	0x98	Aquela		Because of that, disaster struck,	
+				and the world was enveloped in	
+				ocean...	
+0x41c6	0x98	Aquela		For generations, my tribe has since	
+				secretly watched over this world and	
+				passed down this tale through the ages.	
+0x4237	0x98	Aquela		Though much time has passed and most of	
+				the lore has been lost,	this is our	
+				duty as descendants of the criminals.	
 0x42d6	0x6B	ALTO		Surprise	
 0x4300	0x6B	NOI		Surprise	
-0x4331	0x98	ALTO		(T-Then...	
-				 Noi, could this person be...)	
-0x4379	0x98	NOI		(A descendant of the people	
+0x4331	0x98	ALTO		(T-Then...Noi, could this person...)	
+0x4379	0x98	NOI		(Be a descendant of the humans	
 				 who caused the great war	
 				 of the past...?)	
-0x43dd	0x98	NOI		(I-It's not an impossible story...	
-				 Probably.)	
-0x4429	0x98	Aquela		As for the mission you two	
-				must complete, I am sure the	
-				ancestors are watching over you...	
-0x44a3	0x98	Aquela		Though I will not enquire as to	
-				the details, please do your best.	
+0x43dd	0x98	NOI		(I-It's not impossible...Maybe.)	
+0x4429	0x98	Aquela		I am sure my ancestors will be 	
+				watching over you as you go about	
+				the mission you two must complete...	
+0x44a3	0x98	Aquela		I will not inquire into to the 	
+				details, but please do your best.	
 0x453f	0x98	Aquela		Huhu, this kind of story all of	
 				a sudden makes me surprised.	
 0x459c	0x98	Aquela		However, if I look at your face,	
@@ -322,71 +320,68 @@ talk_Aquela
 0x476b	0x98	Aquela		Our ancestors, who regret their	
 				past crimes, are surely watching	
 				over you.	
-0x480b	0x98	Aquela		I can see...	
-				Inside of your heart, an	
-				illuminating fiber of intent.	
-0x486e	0x98	Aquela		Though it is thin and unreliable,	
-				it is an indispensable light called	
-				"hope," necessary for proceeding.	
-0x48f5	0x98	Aquela		Huhu, I wonder what kind of	
-				future it will lead you to...	
-				Once again, resolve yourself.	
-0x4994	0x98	Aquela		I can see...	
-				Inside of your hearts,	
-				the light called "hope"...	
-0x49f2	0x98	Aquela		Huhu, I wonder what kind of	mp_0000c 0x48f5
-				future it will lead you to...	
-				Once again, resolve yourself.	
-0x4a9f	0x98	Aquela		Rocks falling from heaven,	
-				and the angry climate of	
+0x480b	0x98	Aquela		I can see...inside of your hearts,	
+				an illuminating fiber of intent.	
+0x486e	0x98	Aquela		Although it is thin and unreliable,	
+				it is an essential ray of hope	
+				necessary for moving forward.	
+0x48f5	0x98	Aquela		Hehe, I wonder towards what kind	
+				of future it will it lead you...?	
+				Once again, brace yourself.	
+0x4994	0x98	Aquela		I can see...inside of	
+				your hearts, a ray of hope...	
+0x49f2	0x98	Aquela		Hehe, I wonder towards what kind	mp_0000c 0x48f5	
+				of future it will it lead you...?	
+				Once again, brace yourself.	
+0x4a9f	0x98	Aquela		Stones pouring from heaven,	
+				and the raging climate of	
 				the Ciencia Sea...	
-0x4b05	0x98	Aquela		And, as for the mission	
-				for which I came to this	
+0x4b05	0x98	Aquela		And, the fate of the small	
+				person who visits this	
 				village...	
 0x4b60	0x6B	Aquela		Ellipsis	
 0x4b94	0x6B	NOI		Surprise	
 0x4bc5	0x98	Aquela		...It's no good.	
 				I still can't see anything...	
 0x4c14	0x6B	NOI		Ellipsis	
-0x4c45	0x98	NOI		(This person...Though it's small	
-				 I can feel magic power from her...)	
+0x4c45	0x98	NOI		(This person...Though it's slight,	
+				 I can feel magic power coming from her...)	
 0x4ca8	0x98	ALTO		(Huh...!?	
-				 Then her fortunes must be...)	
-0x4cef	0x98	NOI		(Though I can't say if it's certain...	
+				 Then her fortunes must...)	
+0x4cef	0x98	NOI		(Though I can't say for sure...	
 				 For now, I should be careful.)	
-0x4d8d	0x98	Aquela		Rocks falling from heaven,	mp_0000c 0x4a9f
-				and the angry climate of	
-				the Ciencia Sea...	
-0x4df3	0x98	Aquela		And, as for the mission	
-				for which I came to this village,	
+0x4d8d	0x98	Aquela		Stones pouring from heaven,	mp_0000c 0x4a9f
+				and the raging climate of	
+				the Ciencia Sea...
+0x4df3	0x98	Aquela		And the fate of the small	
+				person visiting this village...	
 				I still cannot see it...	
-0x4e8d	0x98	Aquela		...Huhu, I wonder if there	
-				is something on my face.	
+0x4e8d	0x98	Aquela		...Hehe, is there something on my face?	
 talk_Hydol
-0x4f43	0x98	Lupus		Good timing, doctor.	
-				My old man is calling you.	
-0x4f92	0x98	Lupus		From now on, as part of your	
-				doctor's rounds, he wants	
-				you to listen to something.	
-0x5003	0x98	Hydol		I see... I too was thinking I	
-				have something to ask him.	
-0x505b	0x98	Hydol		I've already completed Lyra	
-				and Vel's exams.	
-				Alright, I'll head there now.	
-0x5124	0x98	Hydol		Though I examined Lyra and	
-				Vel just to make sure, they	
-				are not particularly injured.	
-0x5197	0x98	Hydol		That they are safe after meeting	
+0x4f43	0x98	Lupus		Just in time, Doctor.	
+				The old man is calling for you.	
+0x4f92	0x98	Lupus		As the village elder, he	
+				wants to hear more about	
+				your doctor's rounds.
+0x5003	0x98	Hydol		I see... I was thinking I	
+				had something to ask of
+				him as well.	
+0x505b	0x98	Hydol		Lyra and Vel's exams are done.	
+				All right, let's go there now.	
+0x5124	0x98	Hydol		Though they were not particularly	
+				injured, I just examined Lyra and	
+				Vel to make sure,
+0x5197	0x98	Hydol		That they're safe after meeting	
 				a monster that strong is thanks	
 				to you, Nayuta.	
-0x5206	0x98	Hydol		Please protect everyone with	
-				your strength from now on,	
+0x5206	0x98	Hydol		Please continue to protect	
+				everyone with your strength,	
 				you two.	
-0x528d	0x98	Hydol		This week, there has been a rapid	
-				increase in people attacked by	
-				monsters...	
-0x52f8	0x98	Hydol		As a doctor, I too must	
-				carry out my duties.	
+0x528d	0x98	Hydol		Tthere has been a rapid	increase
+				in the number of people attacked	
+				by monsters this past week...	
+0x52f8	0x98	Hydol		I, too, must carry out my duties	
+				as a doctor.	
 talk_Cow
 talk_Reticul
 0x53dc	0x98	Reticul		Ah, you awakened.	
@@ -422,53 +417,51 @@ talk_Axe
 talk_Pyxia
 0x5986	0x98	Pyxia		The people of this island	
 				are good people, somehow.	
-0x59d9	0x98	Pyxia		Even in a time like this, they are positive,	
-				and stand and face difficulties...	
-0x5a48	0x98	Pyxia		Somehow, I've finally decided	
-				what I want to paint.	
-0x5ac3	0x98	Pyxia		Somehow, I've finally decided	mp_0000c 0x5a48
-				what I want to paint.	
-0x5b16	0x98	Pyxia		We too must do our best	
-				and get through this situation!	
-0x5ba3	0x98	Pyxia		So this kind of thing has happened	
-				to that blue sky and ocean.	
-0x5c01	0x98	Pyxia		It has an aspect of that famous	
-				painter's painting, "The End Day,"	
-				but...	
+0x59d9	0x98	Pyxia		Even in a time like this,	
+				they stay positive and	
+				stand up to hardship...	
+0x5a48	0x98	Pyxia		I've finally managed to	
+				decide what I want to paint.	
+0x5ac3	0x98	Pyxia		I've finally managed to	mp_0000c 0x5a48
+				decide what I want to paint.	
+0x5b16	0x98	Pyxia		We, too, must do our best	
+				to overcome this situation!	
+0x5ba3	0x98	Pyxia		So something like this would happen	
+				to that beautiful blue sky and ocean...	
+0x5c01	0x98	Pyxia		It reminds me of a painting done by that	
+				famous painter, "The End of Days," but...	
 0x5c69	0x98	Pyxia		...I-It can't be.	
-0x5cc3	0x98	Pyxia		So this kind of thing has happened	
+0x5cc3	0x98	Pyxia		So something like this would happen	
 				to that blue sky and ocean...	
-0x5d23	0x98	Pyxia		Somehow, it doesn't have	
-				the sense of reality...	
-				I feel like I can't believe it.	
+0x5d23	0x98	Pyxia		Somehow, it doesn't seem	
+				realistic... I don't feel	
+				like I can believe it.	
 talk_Horolo
-0x5dda	0x98	Horolo		Somehow, you have an	
-				amazingly good face.	
-0x5e24	0x98	Horolo		The shape is full of determination	
-				and will...	
+0x5dda	0x98	Horolo		You. You have an amazingly	
+				good face for some reason.	
+0x5e24	0x98	Horolo		It's full of determination and will...	
 				I think it's super cool～.	
-0x5e8d	0x98	Horolo		I don't understand the situation	
-				well, but...	
+0x5e8d	0x98	Horolo		I don't understand	
+				the situation well, but...	
 				I'm rooting for you.	
-0x5f17	0x98	Horolo		Somehow, you have an	mp_0000c 0x5dda
-				amazingly good face.	
-0x5f61	0x98	Horolo		I don't understand the situation	mp_0000c 0x5e8d
-				well, but...	
+0x5f17	0x98	Horolo		You. You have an amazingly	mp_0000c 0x5dda	
+				good face for some reason.	
+0x5f61	0x98	Horolo		I don't understand	mp_0000c 0x5e8d
+				the situation well, but...	
 				I'm rooting for you.	
-0x5ff9	0x98	Horolo		Somehow, it seems	
-				unthinkable things have	
-				happened to the world.	
+0x5ff9	0x98	Horolo		It seems like outrageous things	
+				have been happening to the world.	
 0x6059	0x98	Horolo		At this rate, I wonder	
 				if the art contest this	
 				year will be canceled.	
-0x60be	0x98	Horolo		Even though I came to Remnant	
-				Island and got a good inspiration.	
-				I'm dejected～...	
-0x6158	0x98	Horolo		If the world is like this, I wonder if the	
+0x60be	0x98	Horolo		I even came to Remnant Island and	
+				found some good inspiration for it.	
+				I'm disappointed～...	
+0x6158	0x98	Horolo		With the world like this, I wonder if the	
 				art contest this year will be canceled.	
-0x61cb	0x98	Horolo		Even though I came to Remnant Island	
-				and got a good inspiration.	
-				I'm dejected～...	
+0x61cb	0x98	Horolo		I even came to Remnant Island and	
+				found some good inspiration for it.	
+				I'm disappointed～...	
 SB_6_S08_appear_ALTO
 0x6275	0x6B	ALTO		Ellipsis	
 SB_6_S08_appear_NOI
@@ -484,17 +477,17 @@ EV_6_S08_call_help
 0x68db	0x98	ALTO		Everyone from the village...	
 				They were doing better	
 				than I expected.	
-0x695b	0x98	ALTO		Even though they are each	
-				worried about many things,	
-				they are positive and doing their best.	
+0x695b	0x98	ALTO		Even though they're all	
+				worried, they're staying	
+				positive and doing their best.	
 0x69dd	0x06	NOI		ANI_NOD	
-0x6a01	0x98	NOI	#6A	Yeah, even I feel at least	
-				a little better	
+0x6a01	0x98	NOI	#6A	Yeah, I'm even feeling	
+				just a little better	
 				after seeing everyone.	
 0x6a6a	0x06	ALTO		ANI_THINK	
-0x6a91	0x98	ALTO		So everyone is doing	
-				what they can...	
-0x6add	0x98	ALTO		(...But, now that the gate is broken,	
+0x6a91	0x98	ALTO		So everyone has to do	
+				what they can now...	
+0x6add	0x98	ALTO		(...But now that the gate is broken,	
 				 there's nothing we can do...)	
 0x6b50	0x3F	Name		Child's Voice	
 0x6b65	0x98	Bootie	#16S	...Hey, Nayuta～!	
@@ -502,9 +495,8 @@ EV_6_S08_call_help
 0x6bd2	0x6B	ALTO		Surprise	
 0x6c1c	0x6B	NOI		Surprise	
 0x6eaa	0x06	Bootie		ANI_GESTURE2	
-0x6ed6	0x98	Bootie	#6A	*huff, puff*...	
-				Perfect timing.	
-				Noi's here too, huh...	
+0x6ed6	0x98	Bootie	#6A	*huff, puff*... Perfect timing.	
+				Noi's here too, huh...?	
 0x6f2f	0x06	ALTO		ANI_WAIT4	
 0x6f56	0x98	ALTO		What's wrong, Bootie?	
 				You're in such a rush...	
@@ -520,11 +512,10 @@ EV_6_S08_call_help
 0x718d	0x98	Bootie	#6A	It's totally different from	
 				the weak monsters that have	
 				come out up until now!	
-0x7226	0x98	Bootie	#6A	Brother Dorado let me	
-				escape somehow, but...	
+0x7226	0x98	Bootie	#6A	Dorado somehow managed to	
+				let me escape, but...	
 0x7296	0x06	Bootie		ANI_COMPLAIN	
-0x72c2	0x98	Bootie	#6A	It's Vel...	
-				Vel failed to escape!	
+0x72c2	0x98	Bootie	#6A	It's Vel... Vel failed to escape!	
 0x734d	0x98	NOI		Nayuta!	
 0x73ab	0x06	ALTO		ANI_NOD	
 0x73d0	0x98	ALTO	#6A	Let's go...Vel's in trouble!	
