@@ -62,21 +62,21 @@ lp_treasure1
 0x2657	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2673	0x36	Choice		Quit	mp_0002 0x433f
 0x26f9	0x41	None		Angel Statue	
-				Statue with the image of a beautiful angel.	
-				The angels that appear as servants of god have been	
-				an object of worship for the faithful since ancient times.	
+				A statue with the image of a beautiful angel.	
+				Angels that appear as messengers of the gods have	
+				been the subject of worship since ancient times.	
 0x2859	0x41	None		Judgment Mirror	
-				Mirror used in ancient trials.	
+				A mirror used in ancient trials.	
 				With a special "magic power," it is said it can	
 				show the past deeds and crimes of any man.	
 0x299b	0x41	None		Crystal Ball	
-				Tool used by ancient prophets.	
+				A tool used by ancient prophets.	
 				Made of a crystalline material, it is said to	
 				show the future if the proper steps are followed.	
 0x2adf	0x41	None		Tome of Alchemy	
 				A book written by ancient alchemists.	
-				Making use of various secret arts, they pursued	
-				techniques to manipulate materials and living things.	
+				Using various esoteric techniques, they sought to	
+				manipulate the material world, as well as life itself.	
 lp_treasure2
 0x2e60	0x36	Choice		Festival Mural	
 0x2e86	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -159,7 +159,7 @@ subev_showroom_first
 0x4c31	0x98	NOI		W-What in the world is this!?	
 0x4c6f	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x4c9d	0x98	ALTO		An exhibition room for valuable relics.	
-				Now it truly feels like a museum...	
+				Now it really does feel like a museum...	
 0x4e0d	0x6B	ALTO		Unknown	
 0x4e41	0x06	ALTO		ANI_JOY	
 0x4e66	0x98	ALTO		This is the first time I've seen	mp_0115b 0x48c9
@@ -170,39 +170,37 @@ subev_showroom_first
 				interesting pass by.	
 				...Anyway, I'll go look at them!	
 talk_Coron
-0x5021	0x98	Coron		For you, Noi, to appear on	
-				the island again like this...	
-0x5079	0x98	Coron		It seems you've had various	
-				effects on the island.	
-0x50cb	0x98	Coron		Someday, I want to explain	
-				all of them together with	
-				Dr. Volans.	
+0x5021	0x98	Coron		To think Noi would appear on the	
+				island again like this...	
+0x5079	0x98	Coron		It seems there are still plenty of	
+				mysteries left regarding Remnant Island.	
+0x50cb	0x98	Coron		Someday, I hope to be able to explain	
+				all of them together with Dr. Volans.	
 0x5152	0x98	Coron		It seems you've had various	mp_0115d 0x5079
 				effects on the island.	
 0x51a4	0x98	Coron		Someday, I want to explain	mp_0115d 0x50cb
 				all of them together with	
 				Dr. Volans.	
-0x5239	0x98	Coron		That the moon had an appearance like that,	
-				nothing like that was recorded in any	
-				astronomer's thesis.	
-0x52bd	0x98	Coron		And according to you Noi, there	
-				is a whole other world up there...	
-0x531f	0x98	Coron		If I were to publish such an article,	
-				no one would believe it.	
+0x5239	0x98	Coron		The moon appearing the way it currently does...	
+				No previous astronomer has ever been recorded
+				seeing anything like it.	
+0x52bd	0x98	Coron		And according to you, Noi, there	
+				exists a whole other world up there...	
+0x531f	0x98	Coron		If I were to publish something like that	
+				in an article, no one would ever believe me.	
 0x53a5	0x98	Coron		The true form of the moon, and	
-				the other world that is up there...	
+				the other world that exists up there...	
 0x5407	0x98	Coron		If I were to publish such an article,	mp_0115d 0x531f
 				no one would believe it.	
-0x549b	0x98	Coron		When that large quantity of ruin	
-				fragments fell, I...I was so scared.	
+0x549b	0x98	Coron		When that torrent of ruin fragments	
+				fell, I...I was so scared.	
 0x5500	0x98	Coron		Buildings and roads were destroyed,	
-				and it's the end of the world...	
+				It was like the end of the world...	
 0x5564	0x98	Coron		But even so, the people of the village	
 				didn't give up and stood firm.	
 				...I've got to do my best too.	
-0x560f	0x98	Coron		When that large quantity of ruin	
-				fragments fell, I...I was	
-				very scared, but...	
-0x567c	0x98	Coron		Even so, the people of the village	
+0x560f	0x98	Coron		When that torrent of ruin fragments	
+				fell, I...I was so scared, but...	
+0x567c	0x98	Coron		The people of the village	
 				didn't give up and stood firm.	
 				...I've got to do my best too.	

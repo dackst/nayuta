@@ -14,16 +14,16 @@ lp_fossil3
 0x157c	0x41	None		[Ammonite] Ammonoidea	
 				Snail that lived in ancient times.	
 				A representative ancient organism whose fossils	
-				can be found throughout the world. Though even	
-				now, there are various opinions on its classification.	
+				can be found throughout the world. Even now,	
+				there are conflicting opinions on its classification.	
 lp_fossil4
-0x1779	0x41	None		Trilobite	
+0x1779	0x41	None		[Trilobite] Trilobita	
 				Representative ancient arthropod.	
 				It is thought to have crawled around ancient	
 				oceans, eating mud and such.	
 lp_stuffed1
-0x1920	0x41	None		[Serpent] Elapidae	
-				Large poisonous serpent known as the "Cobra."	
+0x1920	0x41	None		[Cobra] Elapidae	
+				Large poisonous snake.	
 				It threatens by standing up the front part of its body,	
 				using a pleated organ to fire warning sounds.	
 lp_stuffed2
@@ -80,9 +80,9 @@ lp_stuffed11
 				Plunging its naked tusks deeply, it is thought to	
 				have brought down its prey with a single blow.	
 lp_stuffed12
-0x2cfd	0x41	None		[Frill Lizard] Chlamydosaurus	
+0x2cfd	0x41	None		[Frilled Lizard] Chlamydosaurus	
 				Reptile with characteristic frills around its neck.	
-				Strongly aware of its territory, it expands the	
+				Strongly territorial, it expands the	
 				frills to threaten its opponents.	
 lp_dinosaur_cam
 lp_dinosaur
@@ -100,31 +100,31 @@ lp_dinosaur
 0x33a7	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x33c3	0x36	Choice		Quit	mp_0002 0x433f
 0x351f	0x41	None		Tyrannosaurus	
-				Dinosaur species that lived in ancient times.	
+				Reptile species that lived in ancient times.	
 				Appropriately nicknamed "tyrant dragon," it has a large body	
 				and fangs, and is thought to have attacked and eaten all other	
 				kinds of animals.	
 0x364e	0x41	None		Tyrannosaur Skeleton	
-				It seems to be the skeleton of a tyrant dragon.	
+				It seems to be the skeleton of a tyrannosauroid.	
 				Because part of it is missing, the details are unknown.	
 0x385a	0x41	None		Pteranodon	
-				Dinosaur species that lived in ancient times.	
+				Reptile species that lived in ancient times.	
 				It is thought to have hunted by swooping down	
 				from the high skies with its large wings.	
 0x395f	0x41	None		Pterosaur Skeleton	
 				It seems to be the skeleton of a pterosaur.	
 				Because part of it is missing, the details are unknown.	
 0x3b65	0x41	None		Triceratops	
-				Dinosaur species that lived in ancient times.	
+				Reptile species that lived in ancient times.	
 				Having three large horns and a collar, it seems	
-				it fought like the water buffalo, by charging.	
+				to have fought like the water buffalo, by charging.	
 0x3c64	0x41	None		Ceratops Skeleton	
 				It seems to be the skeleton of a ceratopsian.	
 				Because part of it is missing, the details are unknown.	
 0x3e6b	0x41	None		Plesiosaurus	
-				Dinosaur species that lived in ancient times.	
-				Calmly swimming in the sea, it seems it preyed	
-				on fish and squid, making use of its long neck.	
+				Reptile species that lived in ancient times.	
+				Calmly swimming in the sea, it is thought to have	
+				used its long neck to prey on fish and squid.	
 0x3f6b	0x41	None		Plesiosaur Skeleton	
 				It seems to be the skeleton of a plesiosaur.	
 				Because part of it is missing, the details are unknown.	
@@ -139,16 +139,16 @@ subev_showroom_first
 0x45fc	0x06	NOI		ANI_SURPRISE	
 0x4625	0x98	ALTO		T-This is...!	mp_0115a 0x6232
 0x466c	0x98	NOI		Seems like this room is constructed	
-				differently somehow..	
+				differently for some reason...	
 0x46c5	0x06	ALTO		ANI_LOOK_AROUND	
-0x46f2	0x98	ALTO		It looks like an exhibit room for	
-				fossils and taxidermies...	
+0x46f2	0x98	ALTO		It looks like an exhibition room	
+				for fossils and taxidermies...	
 				There's even real dioramas...	
 0x4870	0x6B	ALTO		Unknown	
 0x48a4	0x06	ALTO		ANI_JOY	
 0x48c9	0x98	ALTO		This is the first time I've seen	
 				such a magnificent exhibit.	
-				Yeah, very interesting!	
+				Hmm, how fascinating!	
 0x4945	0x06	ALTO		ANI_JOY	
 0x496a	0x98	ALTO		I can't let something this	mp_0115a 0x6566
 				interesting pass by.	

@@ -38,7 +38,7 @@ lp_smallfish2
 0x1ce3	0x36	Choice		Quit	mp_0002 0x433f
 0x1d69	0x41	None		[Angelfish] Pterophyllum	
 				Small tropical fish with an elegant body.	
-				Acting in groups, they have a behavior	
+				Acting in groups, they have a tendency	
 				of swimming in neat lines.	
 0x1ea6	0x41	None		[Guppy] Poecilia reticulata	
 				Small tropical fish.	
@@ -51,8 +51,8 @@ lp_smallfish2
 				it can be seen playing in sea anemones.	
 0x215e	0x41	None		[Altum Angelfish] Pterophyllum altum	
 				Beautiful fish called the phantom tropical fish.	
-				It can only live in the purest of pure waters.	
-				It dies when microorganisms proliferate.	
+				It can only live in the purest of pure waters,	
+				and dies when microorganisms proliferate.	
 lp_middlefish
 0x242b	0x36	Choice		Giant Isopod	
 0x244f	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -72,9 +72,9 @@ lp_middlefish
 0x26f5	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2731	0x36	Choice		Goosefish	
 0x2752	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x278e	0x36	Choice		Deepsea Hatchetfish	
+0x278e	0x36	Choice		Deep-sea Hatchetfish	
 0x27b9	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x27f5	0x36	Choice		Malacosteus	
+0x27f5	0x36	Choice		Stoplight Loosejaw	
 0x2818	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2854	0x36	Choice		Whiptail Gulper Eel	
 0x287f	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -95,7 +95,7 @@ lp_middlefish
 				Large sea arthropod.	
 				Living in the deep sea, it consumes the corpses of animals.	
 				It is the "Sea Cleaner" that returns the living to dust.	
-0x32ba	0x41	None		[Moon Jellyfish] Aurelia species	
+0x32ba	0x41	None		[Moon Jellyfish] Aurelia	
 				Sea animal floating on the waves.	
 				Nearly colorless and transparent, it uses the tentacles	
 				beneath its umbrella to eat plankton and the like.	
@@ -107,7 +107,7 @@ lp_middlefish
 0x3752	0x41	None		[Nomura's Jellyfish] Nemopilema	
 				A large jellyfish.	
 				For its thick, soft gelatin quality,	
-				the umbrella is used as food.	
+				the umbrella is eaten as food.	
 0x3956	0x41	None		[Portuguese Man o' War] Physalia physalis	
 				Jellyfish with various organs suspended below the umbrella.	
 				Because sharp pain runs through the body if stabbed,	
@@ -116,7 +116,7 @@ lp_middlefish
 				Deep-sea fish with a shining antenna on its head.	
 				Because in the deep sea there is not much bait,	
 				it lures its prey with light and eats it.	
-0x3ddc	0x41	None		[Malacosteus] Malacosteus niger	
+0x3ddc	0x41	None		[Stoplight Loosejaw] Malacosteus niger	
 				Deep-sea fish with a huge jaw at its end.	
 				When it sees luminescent prey below,	
 				it violently attacks.	
@@ -124,7 +124,7 @@ lp_middlefish
 				Deep-sea fish with a grotesque head.	
 				With a long, thin body and a strangely	
 				large jaw, it swallows its prey whole.	
-0x4217	0x41	None		[Deepsea Hatchetfish] Sternoptychidae	
+0x4217	0x41	None		[Deep-sea Hatchetfish] Sternoptychidae	
 				Deep-sea fish whose whole body is luminescent.	
 				Even when it is not luminescent, its body is silver like a mirror,	
 				reflecting the surroundings and confusing its enemies.	
@@ -147,7 +147,7 @@ lp_largefish
 0x4893	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x48cf	0x36	Choice		Whale Shark	
 0x48f2	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x492e	0x36	Choice		Mola Mola	
+0x492e	0x36	Choice		Ocean Sunfish	
 0x494f	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x498b	0x36	Choice		Ray	
 0x49a6	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -162,7 +162,7 @@ lp_largefish
 				Ancient fish living in the deep sea.	
 				Though it was thought to be extinct, living	
 				specimens have been found in recent years.	
-0x4d3c	0x41	None		[Catfish] Silurus asotus	
+0x4d3c	0x41	None		[Japanese Catfish] Silurus asotus	
 				Fish with a flat face and long whiskers.	
 				They habitually prefer river and sea bottoms.	
 				It is said they can sense earthquake portents.	
@@ -179,25 +179,25 @@ lp_largefish
 				When it meets an enemy, it squirts	
 				black ink and escapes.	
 0x527c	0x41	None		[Sea Anemone] Actiniaria	
-				Sea animal that lives, clinging to barren rock.	
+				Sea animal that lives clinging to barren rock.	
 				Opening its many tentacles, it lies in wait,	
 				preying on fish that get too close.	
 0x53ce	0x41	None		[Sea Cucumber] Holothuroidea	
-				Mollusk with a short, stout body that crawls about.	
+				Echinoderm with a short, stout body that crawls about.	
 				Though its appearance is strange, it is delicious. When	
 				dehydrated, it is a top-class cooking ingredient.	
-0x5541	0x41	None		[Mola Mola] Mola mola	
+0x5541	0x41	None		[Ocean Sunfish] Mola mola	
 				Tropical, vertically flat fish.	
 				It is known to produce a large	
 				number of eggs when spawning.	
 0x566c	0x41	None		[Whale Shark] Rhincodon typus	
 				Inhabiting warm seas, it is the world's largest fish.	
-				It has a calm personality unsuited to its large size,	
-				and lives by feeding on small fish and plankton.	
+				It has a calm nature uncharacteristic of its large size.	
+				It lives by feeding on small fish and plankton.	
 0x57df	0x41	None		[Ray] Myliobatiformes	
 				Horizontally flat large fish.	
-				Swims gracefully through the sea as though flying.	
-				Holds a paralyzing poison at the base of its tail.	
+				It swims gracefully through the sea as if though flying.	
+				It holds a paralyzing poison at the base of its tail.	
 0x5931	0x41	None		[Hammerhead Shark] Sphyrnidae	
 				Ferocious fish with a strangely shaped head.	
 				With eyes at the ends of its face that stretches	
@@ -216,12 +216,12 @@ subev_showroom_first
 0x5fba	0x98	NOI		I don't believe this...	
 				Something like this exists	
 				in this world!?	
-0x601b	0x98	ALTO		It looks like this is an aquarium, but...	
-				Y-You can observe what's	
-				happening behind the glass...!	
+0x601b	0x98	ALTO		It looks like an "aquarium"...	
+				Y-You can even watch what's	
+				happening behind glass...!?	
 0x609a	0x06	ALTO		ANI_COMPLAIN	
-0x60c4	0x98	ALTO		This might be the world's	
-				first exhibit like this!	
+0x60c4	0x98	ALTO		This exhibit might be the first	
+				of its kind in the world!	
 0x621b	0x6B	ALTO		Unknown	
 0x624f	0x06	ALTO		ANI_JOY	
 0x6274	0x98	ALTO		This is the first time I've seen	mp_0115b 0x48c9
@@ -232,70 +232,69 @@ subev_showroom_first
 				interesting pass by.	
 				...Anyway, I'll go look at them!	
 talk_Vavo
-0x6417	0x98	Vavo		Huhu, this is a grand	
+0x6417	0x98	Vavo		Hehe, this is a grand	
 				exhibit room, isn't it?	
 0x6462	0x98	Vavo		Due to Dr. Volans' suggestion,	
 				we are able to observe aquatic life	
-				just as they live in nature.	
+				exist just as it does in nature.	
 0x64e3	0x98	Vavo		These large, single-panel glass panes	
 				were found in a certain ruin. We can't	
 				manufacture them with today's techniques.	
-0x6577	0x98	Vavo		This is truly the world's only	
-				aquarium.	
-				...That's the long and the short of it.	
+0x6577	0x98	Vavo		This truly is the only	
+				aquarium in the world.	
+				...That's the gist of it.	
 0x6637	0x98	Vavo		It seems like Coron will earn her	
-				doctorate with his thesis this time.	
+				doctorate with her thesis soon.	
 0x669c	0x98	Vavo		Hmmmm...	
 				I can't lose here.	
-0x66d6	0x98	Vavo		To repay the favor I owe to Dr. Volans too,	
-				I must continue my research efforts.	
-0x676d	0x98	Vavo		I can't lose	
-				to Coron.	
+0x66d6	0x98	Vavo		To repay the favor I owe to Dr. Volans,	
+				I, too, must continue my research.	
+0x676d	0x98	Vavo		I can't lose to Coron.	
 0x67a2	0x98	Vavo		To repay the favor I owe to Dr. Volans too,	mp_0115c 0x66d6
 				I must continue my research efforts.	
-0x6847	0x98	Vavo		It seems that the moon that separated	
-				from the planet a year ago will again	
-				be near it.	
-0x68bc	0x98	Vavo		I wonder if the abnormalities that happened	
-				then will again occur...	
+0x6847	0x98	Vavo		It seems that the "moon" that drifted away
+				from the planet a year ago will be	
+				approaching us soon in its orbit.	
+0x68bc	0x98	Vavo		I wonder if the meteorological abnormalities	
+				that occurred before will return...	
 				We've got to be thoroughly prepared.	
-0x696b	0x98	Vavo		It seems the other "moon" has	
-				again become close.	
+0x696b	0x98	Vavo		The other "moon" has come	
+				closer to our planet again.	
 0x69bb	0x98	Vavo		I wonder if the abnormalities that happened	mp_0115c 0x68bc
 				then will again occur...	
 				We've got to be thoroughly prepared.	
-0x6a78	0x98	Vavo		Oh...Somehow, it seems	
-				noisy outside.	
+0x6a78	0x98	Vavo		Oh...it seems to be noisy	
+				outside for some reason.	
 0x6abc	0x98	Vavo		I wonder if some ruins fell	
 				again or something?	
-0x6b3e	0x98	Vavo		When I was in the Empire,	
-				I begged Dr. Volans to make	
-				me his research assistant.	
-0x6bac	0x98	Vavo		Normally, a kid like me becoming	
-				a researcher would be an	
-				unthinkable story, but...	
-0x6c1d	0x98	Vavo		To repay that favor,	
-				I want to someday show	
-				the results of my research.	
+0x6b3e	0x98	Vavo		Back in the Empire, I begged	
+				Dr. Volans to make me his	
+				research assistant.	
+0x6bac	0x98	Vavo		Normally, a kid like me	
+				becoming a researcher would	
+				be unthinkable, but...	
+0x6c1d	0x98	Vavo		To repay his favor to me,	
+				I want to show him the results	
+				of my research someday.	
 0x6caa	0x98	Vavo		When I was in the Empire,	mp_0115c 0x6b3e
 				I begged Dr. Volans to make	
 				me his research assistant.	
 0x6d18	0x98	Vavo		To repay that favor,	mp_0115c 0x6c1d
 				I want to someday show	
 				the results of my research.	
-0x6db3	0x98	Vavo		All the aquatic life in this room	
-				was found in ice crystals.	
-0x6e0e	0x98	Vavo		Using a fixed process, we	
-				safely returned them to	
-				the water.	
-0x6e68	0x98	Vavo		With your help, Nayuta,	
-				we were able to open	
-				this exhibition room...	
-0x6eca	0x98	Vavo		No, no, it seems many mysteries	
-				besides the Star Shards	
-				are sleeping in this world.	
-0x6f65	0x98	Vavo		It seems many mysteries	
-				besides the Star Shards	
-				are sleeping in this world.	
-0x6fd0	0x98	Vavo		Someday, I want to see all	
-				of them for myself.	
+0x6db3	0x98	Vavo		All the aquatic organisms in this room	
+				were found suspended inside ice crystals.	
+0x6e0e	0x98	Vavo		Using a special process, we are	
+				able to safely release them	
+				alive into the water.	
+0x6e68	0x98	Vavo		Without your help, Nayuta,	
+				we would never be able to	
+				open this exhibition room...	
+0x6eca	0x98	Vavo		No, no, it seems like many mysteries	
+				like in wait in this world	
+				outside of the star shards.	
+0x6f65	0x98	Vavo		It seems like many mysteries	
+				like in wait in this world	
+				outside of the star shards.	
+0x6fd0	0x98	Vavo		Someday, I want to see	
+				them all for myself.	
