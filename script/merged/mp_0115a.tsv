@@ -124,7 +124,7 @@ lp_stagbeetle
 				like a hoe changing the shape of its jaw.	
 0x3f2e	0x41	None		[Sawtooth Stag Beetle] Prosopocoilus inclinatus	
 				Stag beetle that grows a horn that looks like a saw.	
-				Though it has a belligerent nature. When it receives	
+				It has a belligerent nature. When it receives	
 				a shock, it pretends to be dead and falls.	
 0x40b2	0x41	None		[Longhorn Beetle] Cerambycidae	
 				Species of beetle with a long antenna.
@@ -273,8 +273,8 @@ talk_Coron
 0x6d1f	0x98	Coron		In the meantime, I'm stuck wearing this	
 				researcher getup. You can't always be up	
 				front and center for everything, y'know? ☆	
-0x6dc1	0x98	Coron		Sometimes I gotta Coron share some of the	
-				limelight, so I switch places with her	
+0x6dc1	0x98	Coron		Sometimes I gotta let Coron share some of	
+				the limelight, so I switch places with her	
 				from time to time.	
 0x6e36	0x98	Coron		But the strength of these	
 				glasses is pretty intense～...	
@@ -282,8 +282,8 @@ talk_Coron
 0x6ef1	0x98	Coron		The Great Encyclopedia of Natural History	
 				is the Empire's foremost reference for	
 				plant and animal information.	
-0x6f79	0x98	Coron		If it mentions an organism's extinction,	
-				then that's probably the case...	
+0x6f79	0x98	Coron		If it talks of an organism's extinction,	
+				then it's probably true...	
 0x6feb	0x98	Coron		...I'm sorry.	
 				I wanted to say something	
 				a little more encouraging, but...	
