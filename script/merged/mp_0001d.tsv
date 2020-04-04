@@ -9,25 +9,25 @@ quest_Pyxia
 0x594	0x98	Pyxia		At least, I don't think he's	
 				gone to the Tower Ruins.	
 talk_Pyxia
-0x616	0x98	Pyxia		Though I asked that pretty girl	
+0x616	0x98	Pyxia		I asked that pretty girl	
 				to model for my picture...	
-0x670	0x98	Pyxia		...She said she doesn't have	
+0x670	0x98	Pyxia		...But she said she doesn't have	
 				time for that sort of thing.	
-0x6c9	0x98	Pyxia		I'm going to sock that man in	
+0x6c9	0x98	Pyxia		I'm going to whack that man in	
 				black with a spatula the	
 				next time I see him!	
 0x75b	0x98	Pyxia		That man in black...	
 				I won't forgive him!	
 0x7a4	0x98	Pyxia		If I find him, I'll	
-				sock him with a spatula!	
+				whack him with a spatula!	
 talk_Horolo
-0x81e	0x98	Horolo		It looks like there are most	
-				of the buildings on the island	
-				that are unharmed.	
+0x81e	0x98	Horolo		Looks like most of the	
+				buildings on the island	
+				came out unscathed.	
 0x88c	0x98	Horolo		It also looks like only the people	
 				that resisted were injured...	
-0x8ef	0x98	Horolo		I really get the feeling that	
-				he came to the island just	
+0x8ef	0x98	Horolo		I'm really getting the feeling	
+				that he came to this island just	
 				to steal away that girl...	
 0x98a	0x98	Horolo		Why did that man in black	
 				come to the island to just	
@@ -36,10 +36,10 @@ talk_Horolo
 				reason or something...?	
 talk_Lyra
 0xa74	0x98	Lyra		Nayuta...	mp_0000d 0x7671
-0xa9d	0x98	ALTO		Lyra...if you hang around a place	
+0xa9d	0x98	ALTO		Lyra...if you hang around here	
 				like this, you'll catch a cold.	
 0xae8	0x98	Lyra		Yeah, I know that, but...	
-0xb21	0x98	Lyra		...Kureha... Why did she follow him...?	
+0xb21	0x98	Lyra		...Kureha...why did she follow him...?	
 0xb70	0x98	Lyra		If she hated us that	
 				much, then why...?	
 0xbb5	0x98	ALTO		I don't know, but...	
@@ -49,15 +49,15 @@ talk_Lyra
 0xc4a	0x98	ALTO		That's why I'm sure,	
 				Kureha wouldn't want
 				anything like this.	
-0xcb3	0x98	ALTO		...That's reason enough for me.	
+0xcb3	0x98	ALTO		...That's good enough for me.	
 0xcf2	0x98	Lyra		Nayuta...	mp_0000d 0x7671
 0xd1b	0x98	Lyra		...Yeah, got it.	
 				I believe in you, Nayuta.	
-0xd64	0x98	Lyra		If you say it like that, you leave	
-				me wondering what kind of unreasonable	
+0xd64	0x98	Lyra		But if you start talking like that, it	
+				leaves me wondering what unreasonable	
 				thing you're trying to do.	
-0xddf	0x98	ALTO		Ahaha...that might be true.	
-0xe1a	0x98	Lyra		Unfortunately, I was right, *sigh*...	
+0xddf	0x98	ALTO		Ahaha...you might be right.	
+0xe1a	0x98	Lyra		So I was right, *sigh*...	
 0xe62	0x98	Lyra		Well, fine. It seems like Cygna	
 				is missing in that world, too.	
 0xeb3	0x98	Lyra		Nayuta, please look after	
@@ -105,7 +105,7 @@ talk_Dog_before
 				 keep him at home, but...)	
 talk_Michy
 0x1994	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x19c3	0x98	ALTO		Ah, in this kind of place...!	
+0x19c3	0x98	ALTO		Ah, in here...!?	
 0x1a1d	0x6B	Michy		Exclamation	
 0x1a50	0x98	Michy		Mi, mii!	
 0x1ac3	0x6B	ALTO		Exclamation	
@@ -113,9 +113,9 @@ talk_Michy
 0x1b4f	0x06	ALTO		ANI_DEJECTED	
 0x1b79	0x98	ALTO		W-Wait...!	
 0x1ba3	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x1bd1	0x98	ALTO		Ooh, I wonder where he's	
+0x1bd1	0x98	ALTO		Oh, I wonder where he's	
 				gone this time.	
-				I've gotta search immediately!	
+				I gotta search immediately!	
 QS_58_RunAway_Michy
 LP_haka
 0x1fab	0x41	None		William Herschel	mp_0001 0x4982
