@@ -23,23 +23,23 @@ EV_0_S00_night_ship
 0x1b62	0x06	Signa		ANI_WAIT2	
 0x1be7	0x98	Signa	#1W	Don't "Ah, Cygna" me.	
 0x1c9b	0x98	Signa	#0W	You weren't in your room,	
-				so if you're even thinking of─	
-0x1d24	0x98	Signa	#0W	...I thought I told you	
+				so if you're even thinking of...	
+0x1d24	0x98	Signa	#0W	I thought I told you	
 				to get some rest tonight.	
 0x1d7d	0x06	ALTO		ANI_GESTURE1	
 0x1db5	0x98	ALTO	#0W#6A	No way, the skies are clear tonight, so I	
-				thought it would be perfect for stargazing.	
-0x1e40	0x98	ALTO	#0W#6A	Since now is the time of year the when	
-				you can see the Summer Triangle more clearly.	
+				thought it'd be perfect for some stargazing.	
+0x1e40	0x98	ALTO	#0W#6A	Now is the time of year the when you can	
+				see the Summer Triangle more clearly.	
 0x2112	0x06	ALTO		ANI_USE_SEXTANT	
 0x21c0	0x06	Signa		ANI_DENY	
 0x223b	0x98	Signa	#0W	Jeez...you're as zealous as ever...	
 0x2287	0x06	Signa		ANI_WAIT3	
 0x2303	0x98	Signa	#0W	The captain said that we should arrive	
 				at Remnant Island by morning.	
-0x2376	0x98	Signa	#0W	You better go to bed now,	
-				or else you'll wake up with	
-				bags under your eyes.	
+0x2376	0x98	Signa	#0W	You better get to bed now,	
+				otherwise you'll wake up tomorrow	
+				with bags under your eyes.	
 0x23e5	0x06	ALTO		ANI_USE_SEXTANT_END	
 0x250a	0x06	ALTO		ANI_THINK2	
 0x255e	0x98	ALTO	#0W#6A	Hmm... If this were the Academy's observatory,	
@@ -56,18 +56,18 @@ EV_0_S00_night_ship
 0x292a	0x98	ALTO	#1W	Ahaha, sorry, my bad.	
 0x298b	0x06	ALTO		ANI_THINK2	
 0x29df	0x98	ALTO	#0W	Still, it's been about four months since we	
-				last came home to Remnant Island, eh?	
-0x2a5f	0x98	ALTO	#0W	I hope my sister, Lyra and	
-				Master are all doing well.	
+				last came home to Remnant Island, huh?	
+0x2a5f	0x98	ALTO	#0W	I hope Lyra, Master and	my sister	
+				are all doing well.	
 0x2acb	0x06	Signa		ANI_GESTURE2	
 0x2b04	0x98	Signa	#0W#6A	It's only been four months.	
-				Not much will have changed.	
+				Nothing will have changed.	
 0x2b65	0x06	Signa		ANI_WAIT2	
-0x2b9b	0x98	Signa	#1W#6A	It's our long-awaited return home.	
-				I'm going to take it easy.	
+0x2b9b	0x98	Signa	#1W#6A	We're finally coming home.	
+				I'm planning to take it easy myself.	
 0x2c0c	0x98	Signa		And I caught a lucky break. With you at my side, I'll	
-				be able to take days off from the vigilante corps.	
-0x2cf2	0x98	ALTO	#0W	Yep, that's right.	
+				be able to take time off from the town guard.	
+0x2cf2	0x98	ALTO	#0W	Yep, whatever you say.	
 0x2f74	0x40	ALTO		(Mom and Dad in heaven...	
 				 Soon I'll return to the island.)	
 0x2fe0	0x40	ALTO		(My sister let me go to Saint Cerise Academy.
@@ -85,14 +85,14 @@ EV_0_S00_night_ship
 0x378b	0x06	ALTO		ANI_GUTSPOSE	
 0x37c3	0x98	ALTO	#0W#16S	...A meteor shower!	
 0x380e	0x98	ALTO	#1W	Wow, how beautiful...	
-				Hey, look! They're shooting in the	
-				direction of Remnant Island!	
-0x3892	0x98	ALTO	#1W	I wonder if there are Star Shards inside!	
+				Hey, look! They're shooting	
+				towards Remnant Island!	
+0x3892	0x98	ALTO	#1W	Maybe there are star shards inside!	
 0x38f5	0x98	Signa	#1W	I'm sure there are.	
-				...Even so, it's a beautiful view.	
+				...Even so, it is a nice view.	
 0x395f	0x98	Signa	#2W	Haha, perhaps the stars are greeting us.	
 0x3add	0x06	ALTO		ANI_JOY	
-0x3b2e	0x98	ALTO	#0W	All right, I've got to record	
+0x3b2e	0x98	ALTO	#0W	All right! I've got to record	
 				these observations right away!	
 0x3bd6	0x98	Signa	#0W	...No, Nayuta. I just told	
 				you, if you don't sleep,	
@@ -103,9 +103,7 @@ EV_0_S00_night_ship
 0x3ef8	0x41	None	#1W#2E	This world has an "End"...	
 				We have been taught this for as	
 				long as anyone can remember.#0E	
-0x3fbe	0x41	None	#1W#2E	Even the sea, which might appear to	mp_0101 0xd768
-				go on to infinity, has a distinct end...	
-				beyond which one cannot go.#0E	
+0x3fbe	0x41	None	#1W#2E	mp_0101 0xd768
 0x4087	0x41	None	#1W#2E	Because of this, many scholars will tell	
 				you, "This world is flat." It is a pretty	
 				widely-held view about the world. #0E	
