@@ -1,27 +1,25 @@
 mp_0002c
 init
 talk_Aulbath_sub
-0x34c	0x98	Aulbath		The situation is strong monsters	
-				appearing near the island	
-				many times.	
-0x3b3	0x98	Aulbath		Though we haven't been able to	
-				wound them, I should devote myself	
-				to protection of the village.	
-0x433	0x98	Aulbath		Please take care of the young lady	
-				called Kureha, and Cygna as well.	
+0x34c	0x98	Aulbath		Strong monsters have appeared	
+				near the island multiple times.	
+0x3b3	0x98	Aulbath		We haven't been able to eliminate them	
+				them entirely, but I will devote myself	
+				to the protection of the village.	
+0x433	0x98	Aulbath		Please take care of that young lady	
+				Kureha, and Cygna as well.	
 0x4c1	0x98	Aulbath		Please take care of the young lady	mp_0002c 0x433
 				called Kureha, and Cygna as well.	
-0x527	0x98	Aulbath		If it is you, I'm certain you'll be able	
-				to accomplish your task. I believe	
+0x527	0x98	Aulbath		I am certain that you will be able	
+				to complete your task. I believe	
 				in you, my pupil.	
 0x5db	0x98	Aulbath		If you are prepared, I am certain	
-				you'll be able to return the blows	
-				of Zext.	
-0x649	0x98	Aulbath		You should save the young lady called	
+				you will be able to stand up to Zext.	
+0x649	0x98	Aulbath		You should save the young lady	
 				Kureha, no matter what it takes.	
-0x6b1	0x98	Aulbath		And, as for that idiot...	
-				As a substitute for me, please bring	
-				him an extra-large scolding.	
+0x6b1	0x98	Aulbath		And that idiot...please serve	
+				him an extra-large scolding	
+				for me.	
 0x755	0x98	Aulbath		If you are prepared, I am certain	mp_0002c 0x5db
 				you'll be able to return the blows	
 				of Zext.	
@@ -29,25 +27,25 @@ talk_Aulbath_sub
 				As a substitute for me, please bring	
 				him an extra-large scolding.	
 talk_Pyxia
-0x867	0x98	Pyxia		I've started drawing pictures of	
+0x867	0x98	Pyxia		I've started painting pictures of	
 				the people of this island.	
-0x8c2	0x98	Pyxia		In this situation,	
-				the contest might	
-				be canceled though...	
-0x91c	0x98	Pyxia		In any kind of bad situation,	
-				the image of people standing up	
-				should encourage various people.	
+0x8c2	0x98	Pyxia		With the current situation	
+				being as it is, the contest
+				might be canceled though...	
+0x91c	0x98	Pyxia		In any kind of bad situation, the image of	
+				people standing up and working together	
+				should be encouraging to lots of people.	
 0x9c1	0x98	Pyxia		In any kind of bad situation,	mp_0002c 0x91c
 				the image of people standing up	
 				should encourage various people.	
-0xa3e	0x98	Pyxia		I've got to do my best and	
+0xa3e	0x98	Pyxia		I'll to do my best to	
 				finish this drawing!	
 talk_Horolo
-0xabb	0x98	Horolo		There are stones that are usable	
+0xabb	0x98	Horolo		There are stones that usable	
 				for statues all over the place...	
-0xb1c	0x98	Horolo		I wonder if I should make	
+0xb1c	0x98	Horolo		Maybe I should make	
 				a statue of you guys.	
-0xb6c	0x98	Horolo		You seem to be doing whatever	
+0xb6c	0x98	Horolo		You all seem to be doing whatever	
 				you can in this situation...	
 				I get that feeling, you know?	
 0xc11	0x98	Horolo		I wonder if I should make	mp_0002c 0xb1c
