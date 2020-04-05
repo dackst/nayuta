@@ -14,21 +14,21 @@ QS58_stpMichy
 0x81e	0x98	ALTO		Y-Yeah...	
 				Now that you mention it,	
 				Mishy is still with us.	
-0x877	0x98	ALTO		...I don't know what's	
-				ahead of us.	
-0x8b9	0x98	ALTO		Before we proceed, I wonder	
-				if I should take you to Mensa.	
+0x877	0x98	ALTO		...I don't know	
+				what's ahead.	
+0x8b9	0x98	ALTO		Before we proceed, maybe I	
+				should take Mishy to Mensa.	
 0x912	0x98	NOI		Yeah...I think that's a good idea.	
 0x97b	0x98	ALTO		...I don't know what's	mp_5098 0x877
 				ahead of us.	
-0x9bd	0x98	ALTO		Before we proceed, I'll take you	
-				to Mensa.	
+0x9bd	0x98	ALTO		Before we proceed, let's	
+				take Mishy to Mensa.	
 EV_5_S13_arrive_relay
 0xa30	0x06	b004		ANI_LOOP	
 0xdd3	0x6B	ALTO		Ellipsis	
 0xefd	0x98	ALTO		(Cygna...Wait for me.)	
 0xf33	0x06	ALTO		ANI_JOY	
-0xf58	0x98	ALTO		(I will definitely stop you!)	
+0xf58	0x98	ALTO		(I will surely stop you!)	
 0xfba	0x6B	NOI		Ellipsis	
 0xfeb	0x98	NOI	#6A#0W	(Master Kureha, Master Selam...)	
 0x1030	0x98	NOI	#6A#0W	(...I will...)	
@@ -52,7 +52,7 @@ EV_5_S09_meet_seram
 0x22b1	0x06	ALTO		ANI_WAIT2	
 0x22f6	0x98	ALTO	#1W	.........!	mp_1099 0xa0ad
 0x2605	0x06	NOI		ANI_GESTURE1	
-0x263c	0x98	NOI	#1W#6A	M-Master Selam...	
+0x263c	0x98	NOI	#1W#6A	Master S-Selam...	
 0x273b	0x98	Seram	#1W	Nayuta Herschel.	
 				I told you at the Tower Ruins.	
 0x27bb	0x98	Seram	#0W	For your own sake, learn to recognize	
@@ -96,17 +96,17 @@ EV_5_S09_meet_seram
 0x3791	0x06	Signa		ANI_TAKE_HELMET2-2	
 0x390d	0x98	NOI	#2W#16S#500x#500y	!!!!	mp_0101b 0x3636
 0x3949	0x98	ALTO	#0x#500y#0W	...I didn't want to believe it.	
-0x399b	0x98	NOI	#500x#500y#1W	Cygna is...Selam!?	
+0x399b	0x98	NOI	#500x#500y#1W	Selam is...Cygna!?	
 0x39f5	0x98	NOI	#500x#500y#2W	H-How...Why...!?	
 0x3a9d	0x98	Signa		It's understandable that	
 				Noi didn't notice.	
-0x3ae9	0x98	Signa		Since I came to Remnant	
+0x3ae9	0x98	Signa		Ever since I came to Remnant	
 				Island,	I've changed a lot...	
 				I even lost my memory.	
-0x3bd2	0x98	Signa		...Say, Nayuta.	
+0x3bd2	0x98	Signa		...Hey, Nayuta.	
 				When did you notice?	
 0x3d59	0x06	ALTO		ANI_GESTURE1	
-0x3d83	0x98	ALTO	#6A	When we parted at the ruined tower...	
+0x3d83	0x98	ALTO	#6A	When we parted at the Tower Ruins...	
 				I think it was when you said,	
 				"You couldn't protect anything."	
 0x3e05	0x06	ALTO		ANI_WAIT3	
@@ -117,21 +117,21 @@ EV_5_S09_meet_seram
 				to any length to protect	
 				what is important to you"	
 0x3f3c	0x06	Signa		ANI_LAUGH	
-0x3faa	0x98	Signa		Haha, so that was it.	
+0x3faa	0x98	Signa		Haha, and that's it?	
 0x402e	0x06	ALTO		ANI_DENY	
 0x4054	0x98	ALTO	#6A	...That was more than enough.	
 0x4094	0x06	ALTO		ANI_GESTURE2	
 0x40be	0x98	ALTO	#6A	Since you came to the island...	
-				There were hardly any days where	
-				we didn't see each other.	
+				There were hardly a day would go by	
+				where we didn't see each other.	
 0x4141	0x06	Signa		ANI_NOD	
 0x41fb	0x98	Signa		...I see.	mp_0004c 0x4434
 0x422d	0x06	ALTO		ANI_COMPLAIN	
 0x4257	0x98	ALTO	#6A	...Tell me. How	long	
-				have you Selam?	
+				have you been Selam?	
 0x429f	0x98	ALTO	#6A	When we explored the Tower Ruins for	
-				the first time... "Cygna" and "Selam"	
-				were certainly different people.	
+				the first time...Cygna and Selam	
+				were clearly two different people.	
 0x4328	0x06	Signa		ANI_DENY	
 0x4395	0x98	Signa		Your premise is wrong.	
 				I didn't become Selam.	
@@ -163,11 +163,11 @@ EV_5_S11_last_advise
 0x56da	0x98	ALTO		...To chase Cygna.	
 0x576a	0x98	NOI	#6A	Eh...!?	
 0x5798	0x06	ALTO		ANI_GESTURE2	
-0x57e0	0x98	ALTO		That Cygna was Selam doesn't matter.	
+0x57e0	0x98	ALTO		That Selam was Cygna doesn't matter.	
 0x583a	0x98	ALTO		──If Cygna and Kureha	
 				have become our enemies...	
 0x5893	0x06	ALTO		ANI_DENY	
-0x58d7	0x98	ALTO		No, because they have	
+0x58d7	0x98	ALTO		No, BECAUSE they have	
 				become our enemies, there's	
 				no way I can back down.	
 0x5951	0x06	ALTO		ANI_COMPLAIN	
@@ -176,8 +176,8 @@ EV_5_S11_last_advise
 0x5a33	0x6B	NOI		Exclamation	
 0x5aa8	0x98	NOI	#1W#6A	...Ah...	mp_0001 0xd6a4
 0x5add	0x06	ALTO		ANI_GESTURE1	
-0x5b97	0x98	ALTO		Noi, even though I	
-				asked you this before...	
+0x5b97	0x98	ALTO		Noi, though I've asked	
+				you this before...	
 				Will you come with me?	
 0x5bf8	0x06	ALTO		ANI_JOY	
 0x5c61	0x98	ALTO		I need your help for	
@@ -188,13 +188,13 @@ EV_5_S11_last_advise
 0x5efd	0x98	NOI		Honestly, I still don't know	
 				what I should do now, but...	
 0x5f5c	0x06	NOI		ANI_GUTSPOSE	
-0x5fc7	0x98	NOI		I...Until the end,	
+0x5fc7	0x98	NOI		I... To the end,	
 				I will do my best	
 				together with you.	
 0x6023	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x6051	0x98	ALTO	#6A	Haha, thanks.	mp_0004 0x9484
 0x6089	0x06	ALTO		ANI_GESTURE2	
-0x60b3	0x98	ALTO	#6A	If you've decided that...	
+0x60b3	0x98	ALTO	#6A	If you're decided...	
 				Let's ride the elevator	
 				right away.	
 0x6114	0x06	ALTO		ANI_WAIT4	
@@ -202,4 +202,4 @@ EV_5_S11_last_advise
 0x618b	0x06	NOI		ANI_NOD	
 0x623b	0x98	NOI		Yeah!	mp_0001 0x1174e
 0x63ab	0x06	ALTO		ANI_WAIT	
-0x64a7	0xCE	Objective		Everyone's waiting. Nayuta...we're together 'till the end!	
+0x64a7	0xCE	Objective		Everyone's waiting. Nayuta...we're together to the end!	
