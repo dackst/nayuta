@@ -1,10 +1,9 @@
 mp_5300
 init
 stp_exit
-0x2a1	0x98	ALTO		I can no longer run away.	
-				I'll ride my resolve.	
-0x2ef	0x98	NOI		Yeah!	
-				Let's settle things with Zext!	
+0x2a1	0x98	ALTO		I can't run away anymore.	
+				I'll show my resolve.	
+0x2ef	0x98	NOI		Yeah! Let's settle things with Zext!	
 EV_5_S17_out_outer_wall
 0x682	0x6B	ALTO		Exclamation	
 0x712	0x6B	NOI		Exclamation	
@@ -14,11 +13,11 @@ EV_5_S17_out_outer_wall
 0x974	0x06	ALTO		ANI_LOOK_AROUND	
 0x9a9	0x06	NOI		ANI_LOOK_AROUND	
 0xa1d	0x98	ALTO		Um, what are those wing-like things?	
-0xaa4	0x98	NOI	#6A	They are for scattering the Power of Stars	
+0xaa4	0x98	NOI	#6A	They're used for scattering the Power of Stars	
 				from the Astrolabe throughout the world.	
-0xb1a	0x98	NOI	#6A	...It looks like we're pretty close to the top.	
+0xb1a	0x98	NOI	#6A	...Looks like we're pretty close to the summit.	
 0xc54	0x98	ALTO		I'm sure Zext and Kureha	
-				are are the top too...	
+				are there too...	
 0xcb7	0x06	ALTO		ANI_JOY	
 0xcdc	0x98	ALTO		...There's no turning back.	
 				Let's settle this, Noi!	
