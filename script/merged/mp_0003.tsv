@@ -33,8 +33,9 @@ talk_Puppis
 0x310a	0x98	Crux		You, you p-promised	
 				not to say anything...	
 0x317e	0x98	Puppis		mp_0003 0x2fe7
-0x31df	0x98	Puppis		It feels like people will grow	
-				up before your very eyes without	
+0x31df	0x98	Puppis		Feels like, before you even	
+				realize it, people will grow	
+				up before your very eyes.	
 				you realizing it,	
 0x3291	0x98	Puppis		I'm flabbergasted...	
 0x32c7	0x98	Puppis		Though I knew Remnant Island	
@@ -564,15 +565,14 @@ talk_Antlia
 				I get the feeling that it is	
 				unnatural.	
 talk_Ursaminor
-0x9bcb	0x98	Ursaminor		I'm glad that my sister and	
-				brother Cetus seem fine.	
-0x9c23	0x98	Ursaminor		I wonder what kind of treasures	
-				they found on their adventure this time.	
-0x9c8f	0x98	Ursaminor		Hehe, I hope they treat me	
-				to some of it.	
-0x9d04	0x98	Ursaminor		I wonder what kind of treasures	
-				they found on their adventure	
-				this time.	
+0x9bcb	0x98	Ursaminor		I'm glad that my sister	
+				and Cetus are okay.	
+0x9c23	0x98	Ursaminor		Wonder what kind of treasures they	
+				found on their adventures this time?	
+0x9c8f	0x98	Ursaminor		Hehe, I hope they lots	
+				of stories to tell.	
+0x9d04	0x98	Ursaminor		Wonder what kind of treasures they	
+				found on their adventures this time?	
 0x9d6f	0x98	Ursaminor		Huhu, I hope they treat me	mp_0003 0x9c8f
 				to some of it.	
 0x9df4	0x98	Ursaminor		Though this is the place I'll return	
@@ -582,39 +582,39 @@ talk_Ursaminor
 0x9eff	0x98	Ursaminor		...I hope sister	
 				doesn't think ill of me...	
 talk_Ursaminor_Reticul
-0x9f5c	0x98	Ursaminor		S-S-S....Sister...!?	
-0x9f95	0x98	Ursaminor		You're my real sister...	
+0x9f5c	0x98	Ursaminor		S-S-Sis....Sister...!?	
+0x9f95	0x98	Ursaminor		It's really you...	
 				Why have you come to this island?	
 0x9ffb	0x3F	Name		Spirited Girl	
-0xa010	0x98	Reticul		I'm the one who's surprised.	
+0xa010	0x98	Reticul		I'm the one who's surprised here.	
 				Why are you here?	
-0xa060	0x98	Reticul		Hey, father has traded around here	
-				for a long time, hasn't he.	
+0xa060	0x98	Reticul		Oh, Father has traded here	
+				for a long time, hasn't he?	
 				...Sorry, I forgot.	
 0xa0db	0x3F	Name		Youth with Rucksack	
-0xa0f6	0x98	Cetus		Speaking of "Remnant Island,"	
-				rumors say it's at the center of	
-				recent incidents.	
-0xa165	0x98	Cetus		We heard the stories and came	
-				running, but...	
-				Ah, we got a late start.	
-0xa1da	0x98	Ursaminor		You two...*cry*...	
+0xa0f6	0x98	Cetus		Rumors say Remnant Island was	
+				at the center of the recent	
+				meteorological anomolies.	
+0xa165	0x98	Cetus		We heard the rumors and	
+				came running, but...uh,	
+				we're a little late.	
+0xa1da	0x98	Ursaminor		You two...*sob*...	
 				I'm glad you're safe...	
 0xa228	0x6B	Reticul		Unknown	
 0xa265	0x3F	Name		Spirited Girl	mp_0003 0x9ffb
 0xa27a	0x98	Reticul		S-Stupid Ursamina...	
-				Don't cry at a time like this!	
+				Don't start crying now!	
 talk_Ursaminor_Reticul2
-0xa2f7	0x98	Ursaminor		You two...*cry*...	
+0xa2f7	0x98	Ursaminor		You two...*sob*...	
 				Thank goodness you're all right...	
-0xa350	0x98	Ursaminor		Where were you and what were	
-				you doing up until now?	
-0xa3a8	0x98	Ursaminor		You weren't doing anything	
-				dangerous, were you?	
+0xa350	0x98	Ursaminor		Where were you? What have you	
+				been doing up until now?	
+0xa3a8	0x98	Ursaminor		It wasn't anything	
+				dangerous, was it?	
 0xa403	0x3F	Name		Spirited Girl	mp_0003 0x9ffb
-0xa418	0x98	Reticul		W-Well, you see...	
-0xa44d	0x98	Reticul		Anyhow, keep it a secret	
-				from father that we met here.	
+0xa418	0x98	Reticul		Um, ah, w-well...	
+0xa44d	0x98	Reticul		Anyway, keep it a secret	
+				from Father that we met here.	
 				Please!	
 talk_Vavo
 0xa4f0	0x98	Vavo		There is a theory that past the	
@@ -812,11 +812,12 @@ talk_Aquela
 				throughout the entirety of the world.	
 0xc9b3	0x98	Aquela		After many long months and years,	
 				this world has become distorted...	
+0xca14	0x98	Aquela		The rippling effects may soon become apparent.	
 0xca7d	0x98	Aquela		The strange weather along its frontier	
 				is a sign that the world is currently	
 				out of balance.	
 0xcaf1	0x98	Aquela		The built-up distortion of this world...	
-				Its rippling effects may soon appear.	
+				The rippling effects may soon become apparent.	
 0xcb8f	0x98	Aquela		...I am getting a premonition.	
 0xcbcc	0x98	Aquela		Soon, the Ciencia Sea will	
 				witness an even greater test...	
