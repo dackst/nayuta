@@ -26,19 +26,17 @@ talk_Dorado
 				are coming out. We've got to increase	
 				our patrols.	
 0xde1	0x98	Dorado		I've got to fulfill my duty	
-				as town guard!	
+				as the town guard!	
 talk_Lupus
 0xe72	0x98	Lupus		That rubble won't move no matter what.	
-				I thought of asking my mom	
-				for help.	
+				I thought of asking my mom for help.	
 0xee1	0x6B	Lupus		Sweatdrop	
 0xf14	0x98	Lupus		...My god, it	
 				actually moved...	
 0xf7c	0x98	Lupus		Even Columba and Sculp	
 				couldn't move that rubble...	
-0xfcf	0x98	Lupus		So the unthinkable	
-				hidden ball was this	
-				close...	
+0xfcf	0x98	Lupus		So the hidden solution	
+				was this close by...	
 0x1054	0x98	Lupus		Just in time, Doctor. The	
 				old man is calling for you.	
 0x10af	0x98	Lupus		As the village elder, he	
@@ -284,41 +282,41 @@ talk_Aquela
 0x40f0	0x98	Aquela		...It is passed down that my	
 				clan made a grave error in	
 				the distant past.	
-0x4159	0x98	Aquela		Because of that, disaster struck,	
+0x4159	0x98	Aquela		Because of that, calamity struck,	
 				and the world was enveloped in	
 				ocean...	
 0x41c6	0x98	Aquela		For generations, my tribe has since	
 				secretly watched over this world and	
 				passed down this tale through the ages.	
-0x4237	0x98	Aquela		Though much time has passed and most of	
-				the lore has been lost,	this is our	
-				duty as descendants of the criminals.	
+0x4237	0x98	Aquela		Though much time has passed and	
+				much lore has been lost, this is our	
+				duty as descendants of the guilty.	
 0x42d6	0x6B	ALTO		Surprise	
 0x4300	0x6B	NOI		Surprise	
 0x4331	0x98	ALTO		(T-Then...Noi, could this person...)	
 0x4379	0x98	NOI		(Be a descendant of the humans	
 				 who caused the great war	
-				 of the past...?)	
-0x43dd	0x98	NOI		(I-It's not impossible...Maybe.)	
+				 in the past...?)	
+0x43dd	0x98	NOI		(I-It's not impossible... Maybe.)	
 0x4429	0x98	Aquela		I am sure my ancestors will be 	
 				watching over you as you go about	
 				the mission you two must complete...	
 0x44a3	0x98	Aquela		I will not inquire into to the 	
-				details, but please do your best.	
-0x453f	0x98	Aquela		Huhu, this kind of story all of	
-				a sudden makes me surprised.	
-0x459c	0x98	Aquela		However, if I look at your face,	
-				I can see the story is truthful.	
+				details, but please, do your best.	
+0x453f	0x98	Aquela		Hehe, this kind of story	
+				suddenly makes me surprised.	
+0x459c	0x98	Aquela		However, when I look at your face,	
+				I can see that you are truthful.	
 0x45fe	0x98	Aquela		Though I do not know the details	
-				of your mission... I feel it is connected	
-				with our dearest wish.	
+				of your mission... I feel it is	
+				connected with our dearest wish.	
 0x467f	0x98	Aquela		...Our wish to someday, be forgiven	
-				for that eternal crime.	
+				for that ancient crime.	
 0x4703	0x98	Aquela		Though I do not know the details	
 				of your mission...	
 				Please do your best.	
 0x476b	0x98	Aquela		Our ancestors, who regret their	
-				past crimes, are surely watching	
+				past sins, are surely watching	
 				over you.	
 0x480b	0x98	Aquela		I can see...inside of your hearts,	
 				an illuminating fiber of intent.	
