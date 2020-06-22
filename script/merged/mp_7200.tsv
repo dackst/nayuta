@@ -7,22 +7,23 @@ EV_7_S10_starball_front
 EV_7_S11_look_starball
 0xe69	0x06	ALTO		ANI_WAIT	
 0x128e	0x06	ALTO		ANI_FIND	
-0x12b4	0x98	ALTO	#6A	...Seeing it from up close, it's incredible.	
+0x12b4	0x98	ALTO	#6A	...It's incredible seen from up close.	
 0x1302	0x98	ALTO	#6A	Even I can feel that it's	
-				overflowing with life force...	
-0x1366	0x98	NOI	#6A	Terra has waited a long time	
+				overflowing with power...	
+0x1366	0x98	NOI	#6A	Terra has been around since 
+				ancient times, all in wait 	
 				for the Remaking to start...	
-0x13c5	0x98	NOI	#6A	To one day send the	
+0x13c5	0x98	NOI	#6A	And some day send the	
 				Planetarium to the surface...	
-0x145f	0x98	ALTO	#6A	...And Zext is up ahead?	
-0x14dd	0x98	NOI	#6A	Yeah...there should be a	
+0x145f	0x98	ALTO	#6A	...So is Zext just up ahead?	
+0x14dd	0x98	NOI	#6A	Yeah... There should be a	
 				terminal somewhere to	
-				give the final command.	
+				enter the final commands.	
 0x1543	0x06	NOI		ANI_GUTSPOSE	
 0x156c	0x98	NOI	#6A	Now that Zext has the	
 				Shining Wings of the Mythos,	
 				we have to hurry!	
-0x1601	0x98	ALTO	#6A	...Once we jump in,	
+0x1601	0x98	ALTO	#6A	...Once we go in, looks like	
 				there's no turning back.	
 0x165e	0x06	NOI		ANI_NOD	
 0x1682	0x98	NOI	#6A	The true final battle...	
@@ -38,5 +39,5 @@ SB_7_S12_noi_move
 0x1d8f	0x06	NOI		ANI_WALK_DOWN	
 EV_7_S12_go_starball
 0x1e28	0x36	Choice		[Rush Into the Planetarium]	
-0x1e51	0x36	Choice		[Prepare a Bit More]	mp_0100 0x1640b
+0x1e51	0x36	Choice		[Prepare a Little More]	mp_0100 0x1640b
 0x1ffc	0x06	ALTO		ANI_WAIT	
