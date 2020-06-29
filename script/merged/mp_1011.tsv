@@ -40,10 +40,10 @@ EV_1_S09_vs_seram_after
 0x2019	0x98	NOI	#6A	Let's hurry and chase Cygna!	
 0x208f	0x06	ALTO		ANI_NOD	
 0x20b4	0x98	ALTO		Yeah!	mp_0001 0x1174e
-0x213b	0x07	System	#4C	※Oltapia Temple is a long stage divided into	
-				  first and second halves.	
-0x2191	0x07	System	#4C	※On long stages, you can withdraw in the	
-				  middle and resume from the second half.	
-				 (Though the halfway point must be reached first.)	
+0x213b	0x07	System	#4C	※Oltapia Temple is a long stage	
+				  divided into two halves.	
+0x2191	0x07	System	#4C	※You can exit in the middle of long stages 	
+				  and resume from the second half.	
+				 (The halfway point must be reached first.)	
 0x227b	0x06	ALTO		ANI_WAIT	
 0x2336	0x06	stop		ANI_WAIT	

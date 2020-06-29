@@ -239,43 +239,42 @@ EV_1_S07_temple_front
 0x3f7b	0x06	ALTO		ANI_USE_SEXTANT	
 0x4022	0x06	Signa		ANI_WAIT2	
 0x404a	0x98	Signa	#6A	So this is the Temple...	
-0x4090	0x98	ALTO		It looks like a building considerably taller	
-				than the ruin that fell earlier...	
-0x40fe	0x98	ALTO		Hmm...It's no good.	
-				It's so high that I can't get	
+0x4090	0x98	ALTO		Looks like it's much taller	
+				than the Tower Ruins...	
+0x40fe	0x98	ALTO		Hmm... It's no good.	
+				It's too high to get	
 				a good measurement.	
 0x4169	0x6B	ALTO		Surprise	
-0x419b	0x98	ALTO		Speaking of that, it looks like	
-				there are beautiful lights	
-				ascending around here...	
+0x419b	0x98	ALTO		Speaking of which, there are	
+				these beautiful light things	
+				rising into the sky everywhere...	
 0x4214	0x06	ALTO		ANI_USE_SEXTANT_END	
-0x4308	0x98	ALTO		Noi, what in the world are those?	
-0x43c3	0x98	NOI	#6A	That is...the Power of Stars.	
+0x4308	0x98	ALTO		Noi, what the heck are they?	
+0x43c3	0x98	NOI	#6A	That's...the Power of Stars.	
 0x440c	0x6B	ALTO		Question	
 0x443e	0x6B	Signa		Question	
 0x4471	0x06	ALTO		ANI_THINK2	
-0x4499	0x98	ALTO		The power...of stars?	
+0x4499	0x98	ALTO		The Power...of Stars?	
 0x44d6	0x06	Signa		ANI_GESTURE1	
-0x4501	0x98	Signa		Once again you're throwing	
-				words we've never heard	
-				out there...	
+0x4501	0x98	Signa		Again you're throwing	
+				around words we've	
+				never heard of...	
 0x4567	0x06	NOI		ANI_GESTURE1	
 0x4590	0x98	NOI	#6A	It is something very important	
 				to this world of Terra.	
 0x45e9	0x06	ALTO		ANI_WAIT	
-0x460f	0x98	NOI	#6A	Temples are places to control that	
-				Power of Stars...	
+0x460f	0x98	NOI	#6A	Temples are places used to harness	
+				the Power of Stars to control it...	
 0x4670	0x06	NOI		ANI_DENY	
-0x4695	0x98	NOI	#6A	Well...	
-				It's not very important right now,	
-				so I'll leave out the theoretical details.	
-0x470a	0x98	NOI	#6A	It's a pretty difficult story.	
-				Humans probably can't understand it.	
+0x4695	0x98	NOI	#6A	Well... It's not important	
+				right now, let's ignore some	
+				of the theoretical details.	
+0x470a	0x98	NOI	#6A	It's pretty complicated to explain.	
+				Humans probably wouldn't understand it.	
 0x4776	0x06	ALTO		ANI_THINK	
-0x479d	0x98	ALTO		(Ooh, I'm interested now...)	
-0x47d9	0x98	ALTO		(Well, I'll ask again	
-				 once she's calmed down,	
-				 I think...)	
+0x479d	0x98	ALTO		(Ooh, that interests me...)	
+0x47d9	0x98	ALTO		(Maybe I can ask again once	
+				 things have calmed down...)	
 0x4882	0x6B	ALTO		Exclamation	
 0x48c0	0x6B	Signa		Exclamation	
 0x4900	0x6B	NOI		Exclamation	
@@ -286,160 +285,146 @@ EV_1_S07_temple_front
 0x49fa	0x06	NOI		ANI_SURPRISE	
 0x4a23	0x98	NOI	#6A	C-Could this be...!?	
 0x4d82	0x06	Signa		ANI_WAIT4	
-0x4db2	0x98	Signa	#6A	...It stopped, huh...	
-0x4e75	0x98	ALTO		...You called that light of	
-				the temple, the Power of Stars	
-				didn't you.	
+0x4db2	0x98	Signa	#6A	...It stopped...?	
+0x4e75	0x98	ALTO		...You said that light	
+				around the Temple was	
+				the Power of Stars?	
 0x4edb	0x06	ALTO		ANI_GESTURE2	
-0x4f05	0x98	ALTO		It looks like it disappeared though...	
+0x4f05	0x98	ALTO		Looks like it disappeared...	
 0x4f53	0x6B	NOI		Unknown	
-0x4fa1	0x98	NOI	#6A	I'm sure it's because of Zext!	
-0x5015	0x98	NOI		Temples are furnished with an	
-				emergency shutdown feature for times	
-				when stuff happens.	
+0x4fa1	0x98	NOI	#6A	It's got to be Zext!	
+0x5015	0x98	NOI		Temples have an emergency shutdown	
+				function in case something goes wrong.	
 0x508a	0x06	NOI		ANI_COMPLAIN	
-0x50b3	0x98	NOI	#6A	With the Master Gear, Zext used that feature	
-				and cut off the supply of Power of Stars!	
+0x50b3	0x98	NOI	#6A	With the Master Gear, Zext used it	
+				to cut off the supply of Power of Stars!	
 0x5136	0x06	Signa		ANI_GESTURE2	
-0x5161	0x98	Signa		...If the Power of Stars is shut off...	
-				What in the world will happen?	
-0x51ef	0x98	NOI	#6A	Probably...	
-				From here on very unusual things	
-				will happen throughout the continent.	
-0x527e	0x98	NOI	#6A	More than the unusual climate,	
-				more ferocious monsters will be brought forth...	
-				and that's not all.	
-0x5301	0x98	NOI	#6A	Earthquake-like disasters will occur...	
-				Severe illnesses will spread...	
-0x5369	0x98	NOI	#6A	And in the end...	
-				All living things will not be able to live	
-				and it will become a world of death...	
+0x5161	0x98	Signa		...What happens if the	
+				Power of Stars stops?	
+0x51ef	0x98	NOI	#6A	I guess... Major abnormalities will
+				arise throughout the continent.	
+0x527e	0x98	NOI	#6A	More extreme weather than before,	
+				and even more ferocious monsters...	
+0x5301	0x98	NOI	#6A	That's not all. Earthquakes, natural	
+				disasters, outbreaks of severe disease...	
+0x5369	0x98	NOI	#6A	And in the end...all life	
+				will cease across the land...	
 0x53f4	0x06	ALTO		ANI_COMPLAIN	
-0x541e	0x98	ALTO		T-This beautiful world will...!?	
+0x541e	0x98	ALTO		T-This beautiful place...!?	
 0x5466	0x06	Signa		ANI_WAIT3	
-0x548e	0x98	Signa		It seems like this Power of Stars thing	
-				is a very important thing, indeed...	
+0x548e	0x98	Signa		Sounds like this Power of Stars	
+				stuff is pretty powerful...	
 0x5504	0x6B	Signa		Ellipsis	
 0x5574	0x06	Signa		ANI_WAIT	
-0x559b	0x98	Signa		Noi, what can be done to	
-				hold back the abnormalities?	
+0x559b	0x98	Signa		Noi, what can we do to	
+				stop the abnormalities?	
 0x562a	0x98	NOI	#6A	There's only one way...	
-				All we can do is take back	
-				the Master Gear from Zext!	
+				All we can do is take the	
+				Master Gear back from Zext!	
 0x5699	0x06	NOI		ANI_GESTURE1	
-0x56c2	0x98	NOI	#6A	If we take it to the Garden,	
+0x56c2	0x98	NOI	#6A	If we bring it to the Garden,	
 				we should at least be able to	
-				stop abnormalities in this place!	
+				stop the abnormalities here!	
 0x5748	0x06	Signa		ANI_NOD	
-0x576e	0x98	Signa		I see...	
-				That much I understand.	
-0x57f5	0x98	NOI	#6A	Zext is at the continent control	
-				device on the top floor...	
-				He probably used the Altar.	
+0x576e	0x98	Signa		I see... That's all I need to know.	
+0x57f5	0x98	NOI	#6A	Zext is probably at the Altar,	
+				the continental control	
+				unit on the summit...		
 0x5881	0x98	NOI	#6A	We've got to catch him	
-				before he goes somewhere else...!	
+				before he leaves...!	
 0x5916	0x98	ALTO		Let's go, Cygna!	
 0x5988	0x06	ALTO		ANI_JOY	
-0x59ad	0x98	ALTO		With me, Cygna, and	
-				Noi too, I'm sure we	
-				can do something──	
+0x59ad	0x98	ALTO		With me, Cygna, and Noi	
+				together, I'm sure we can─	
 0x5a4c	0x06	Signa		ANI_DENY	
-0x5a7b	0x98	Signa	#6A	──No.	
-				I alone will go.	
+0x5a7b	0x98	Signa	#6A	...No. I will go alone.	
 0x5abe	0x6B	ALTO		Ellipsis	
 0x5af0	0x6B	NOI		Ellipsis	
 0x5b21	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x5b50	0x98	ALTO	#0W	.........What.	
+0x5b50	0x98	ALTO	#0W	...Huh?	
 0x5b89	0x06	Signa		ANI_GESTURE2	
-0x5bb4	0x98	Signa	#6A	Didn't you hear me?	
-0x5beb	0x98	Signa	#6A	You guys remain here.	
-				I will go alone starting here.	
+0x5bb4	0x98	Signa	#6A	You didn't hear me?	
+0x5beb	0x98	Signa	#6A	You guys stay put.	
+				I'll take it from here.	
 0x5c4a	0x06	ALTO		ANI_COMPLAIN	
 0x5c74	0x98	ALTO		...W-What are you saying!?	
 0x5cb6	0x06	NOI		ANI_GESTURE1	
-0x5cdf	0x98	NOI	#6A	W-Why this all of a sudden...?	
-0x5d45	0x98	Signa	#6A	It's not all of a sudden.	
-				I've thought about this	
-				since the beginning.	
-0x5dd4	0x98	Signa	#6A	...The true power of that Zext	
-				and the masked guy is on a	
-				whole other level.	
-0x5e42	0x98	Signa	#6A	It's just this once but...	
-				I understand I need to	
-				clash swords with them.	
-0x5edb	0x98	Signa	#6A	You guys are no	
-				match for them. Or rather,	
-				you are a burden.	
+0x5cdf	0x98	NOI	#6A	W-What is this all of a sudden...?	
+0x5d45	0x98	Signa	#6A	It's not sudden. I've been mulling	
+				this over from the beginning.	
+0x5dd4	0x98	Signa	#6A	...Zext and that masked guy are	
+				a force to be reckoned with.	
+0x5e42	0x98	Signa	#6A	I've only fought them once, but...	
+				I could tell after just one	
+				stroke of our swords... 	
+0x5edb	0x98	Signa	#6A	You guys are no match for them.	
+				In fact, you'll slow us down.	
 0x5f41	0x6B	ALTO		Exclamation	
 0x5f73	0x6B	NOI		Exclamation	
 0x5fa4	0x06	ALTO		ANI_DENY	
-0x5fca	0x98	ALTO		T-This can't be...	
+0x5fca	0x98	ALTO		Y-You can't be...	
 0x6004	0x06	Signa		ANI_WAIT3	
-0x602c	0x98	Signa	#6A	Hey, don't worry. I'll	
-				definitely get the Master	
-				Gear back for you.	
+0x602c	0x98	Signa	#6A	Hey, don't worry about it.	
+				I'll definitely get the	
+				Master Gear back to you.	
 0x6093	0x06	Signa		ANI_WAIT0	
-0x60bb	0x98	Signa	#6A	So...listen up.	
-				Absolutely do not follow me.	
+0x60bb	0x98	Signa	#6A	So... Listen up.	
+				Do NOT follow me.	
 0x6318	0x06	NOI		ANI_ANGRYTALK	
-0x6342	0x98	NOI	#6A	...W-What's up with him?	
-				All of a sudden doing	
-				whatever he wants...	
+0x6342	0x98	NOI	#6A	...W-What...?	
+				What is he doing...?	
 0x63ad	0x6B	ALTO		Ellipsis	
 0x6411	0x98	ALTO		...Let's go, Noi.	
 0x647a	0x98	ALTO		We've got to chase after Cygna.	
 0x64c1	0x6B	NOI		Surprise	
 0x652a	0x06	NOI		ANI_GESTURE1	
-0x6553	0x98	NOI	#6A	Huh, b-but...	
+0x6553	0x98	NOI	#6A	Uh, b-but...	
 0x658a	0x06	ALTO		ANI_GESTURE2	
 0x65b4	0x98	ALTO		Sure Cygna's skill with the sword is	
-				first class... But to think he can clash	
-				with those unknown guys alone...	
+				first class... But I can't believe	
+				he thinks he can fight them alone...	
 0x6640	0x06	ALTO		ANI_THINK2	
-0x6668	0x98	ALTO		How should I put it...	
-				I feel like it's not like Cygna	
-				to do something like that.	
-0x66d7	0x98	ALTO		Maybe something	
-				happened to him in	
-				this unfamiliar place...	
+0x6668	0x98	ALTO		I don't know... It just doesn't	
+				feel like something Cygna would do.	
+0x66d7	0x98	ALTO		Maybe something happened to	
+				him we don't know about...	
 0x6738	0x06	NOI		ANI_GESTURE2	
-0x6761	0x98	NOI	#6A	Something...?	
+0x6761	0x98	NOI	#6A	Like what...?	
 0x6798	0x06	ALTO		ANI_DENY	
-0x67be	0x98	ALTO		...I don't exactly know but...	
-				But in any case, there's no way	
-				I can let things stand like this.	
+0x67be	0x98	ALTO		...I don't know exactly, but...	
+				But in any case, there's no	
+				way we can just let him go.	
 0x6844	0x06	ALTO		ANI_GESTURE2	
 0x686e	0x98	ALTO		Noi, will you come with me?	
 0x68b1	0x06	NOI		ANI_GESTURE1	
 0x68da	0x98	NOI	#6A	Yeah...	
-0x690b	0x98	ALTO		In reality, I may not be	
+0x690b	0x98	ALTO		It might be true that I'm not	
 				able to stand up to Zext.	
 0x695c	0x06	ALTO		ANI_GESTURE1	
-0x6986	0x98	ALTO		...But, if you are with me,	
-				it seems like I can do anything.	
+0x6986	0x98	ALTO		...But, iwith your help,	
+				I feel like I can do anything.	
 0x69e1	0x06	ALTO		ANI_JOY	
-0x6a06	0x98	ALTO		For proceeding ahead...	
-				I'll need your help, Noi.	
+0x6a06	0x98	ALTO		Going forward... I'll	
+				need your help, Noi.	
 0x6a5e	0x06	NOI		ANI_SURPRISE	
 0x6a87	0x98	NOI	#6A	...!	mp_1099 0xb874
 0x6ad2	0x6B	NOI		Ellipsis	
 0x6b03	0x06	NOI		ANI_NOD	
-0x6b27	0x98	NOI	#6A	...Understood.	
-				Let's chase after Cygna.	
+0x6b27	0x98	NOI	#6A	...Got it. We'll chase	
+				after Cygna together.	
 0x6b77	0x06	ALTO		ANI_THANKS	
 0x6b9f	0x98	ALTO		Thanks, Noi.	
 0x6be8	0x98	NOI	#6A	I-I'm not doing this	
 				for you or anything!	
 0x6c32	0x98	NOI	#6A	Recovering the Master	
-				Gear was my mission	
-				from the beginning you see...	
+				Gear was my goal	
+				from the start...	
 0x6c9b	0x06	NOI		ANI_GUTSPOSE	
-0x6cc4	0x98	NOI	#6A	I can't back down	
-				just because Cygna said to!	
+0x6cc4	0x98	NOI	#6A	I can't back down just	
+				because Cygna said so!	
 0x6d1a	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x6d48	0x98	ALTO		Ahaha, I understand.	
+0x6d48	0x98	ALTO		Ahaha, I know.	
 0x6d84	0x06	ALTO		ANI_GUTSPOSE	
-0x6dae	0x98	ALTO		...Well then,	
-				let's brace ourselves!	
+0x6dae	0x98	ALTO		...Well then, brace yourself!	
 0x6ef1	0x07	System	#3C	Cygna is no longer with you.	
 0x7001	0xCE	Objective		Zext should be somewhere in the temple. Let's look for him!	
