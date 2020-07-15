@@ -51,53 +51,53 @@ QS_81_hang_out_box
 0x1ab4	0x6B	NOI		Ellipsis	
 0x1b11	0x6B	ALTO		Exclamation	
 0x1b3b	0x6B	NOI		Exclamation	
-0x1b6c	0x98	ALTO		...Somehow, it looks like we were	
-				able to completely release the locks.	
+0x1b6c	0x98	ALTO		...Looks like we managed to	
+				to completely open the locks.	
 0x1c27	0x06	ALTO		ANI_WAIT	
-0x1c8f	0x98	ALTO		Though I feel like opening	
-				it as soon as possible...	
-0x1d1a	0x98	NOI	#6A	First, we should bring it	
-				to Master.	
+0x1c8f	0x98	ALTO		I'm tempted to open it up and 
+				look inside right away, but...	
+0x1d1a	0x98	NOI	#6A	First, we should bring	
+				it to your Master.	
 0x1d5f	0x06	ALTO		ANI_NOD	
-0x1d84	0x98	ALTO		Yeah, let's bring it there immediately.	
+0x1d84	0x98	ALTO		Yeah, let's bring it over right away.	
 QS54_talk_SpiritB
 0x204c	0x6B	QS54_SpiritB		Unknown	
-0x216b	0x98	NOI	#6A	Ah, there it is!	mp_0004 0xf756
-0x219d	0x98	ALTO	#6A	You're one of Nemeas'	
+0x216b	0x98	NOI	#6A	Ah, there it is!	mp_1002b 0x170a
+0x219d	0x98	ALTO	#6A	You're one of Nemeas'	mp_1002b 0x1842
 				spirits, aren't you?	
-0x21f3	0x98	ALTO	#6A	Ah, in a place like this...	
-0x2231	0x98	ALTO	#6A	It's one of Nemeas' spirits all right.	
+0x21f3	0x98	ALTO	#6A	Ah, in a place like this...	mp_1002b 0x18e3
+0x2231	0x98	ALTO	#6A	It's one of Nemeas' spirits all right.	mp_1002b 0x18e4
 				...Are you all right?	
 0x22a5	0x6B	QS54_SpiritB		Exclamation	
 0x22ff	0x06	QS54_SpiritB		ANI_TALK	
 0x232d	0x98	QS54_SpiritB		...～～～～～～...	mp_1002b 0x1a07
 0x2367	0x06	QS54_SpiritB		ANI_WAIT	
 0x2395	0x6B	QS54_SpiritB		Sweatdrop	
-0x23cf	0x98	ALTO	#6A	Hmm, somehow, I understand	
-				that it's in a hurry, but...	
+0x23cf	0x98	ALTO	#6A	Hmm, I'm getting the vibe that it's	
+				panicked about something, but...	
 0x2428	0x06	NOI		ANI_GESTURE2	
 0x2451	0x98	NOI	#6A	"The cave is too vast, and	
-				 I lost my way"...	
-				 It's saying something like that.	
+				 I can't find the way out..."	
+				 That's what it's saying.	
 0x24c0	0x06	NOI		ANI_DEJECTED	
-0x24e9	0x98	NOI	#6A	Spirits normally don't leave their own	
-				continent, so it seems this one got lost	
-				because of geological features it wasn't used to.	
+0x24e9	0x98	NOI	#6A	Spirits don't normally leave their own	
+				continent, so this one seems to have	
+				gotten lost in the unfamiliar terrain..	
 0x258a	0x06	ALTO		ANI_NOD	
 0x25af	0x98	ALTO	#6A	I see...	
-				(But, I wonder why it got lost	
-				 in a place like this?)	
+				(But why would it have wandered	
+				 here in the first place?)	
 0x260f	0x06	NOI		ANI_GESTURE1	
-0x2638	0x98	NOI	#6A	Anyway, I'll tell you the way back, so	
-				you should return home right away.	
-0x26a2	0x98	NOI	#6A	Nemeas is waiting for you	
-				at La Worg Temple.	
+0x2638	0x98	NOI	#6A	Anyway, let me show you the way back,	
+				so you can return home right away.	
+0x26a2	0x98	NOI	#6A	Nemeas is waiting for	
+				you at La Worg Temple.	
 0x26ef	0x6B	QS54_SpiritB		Surprise	
-0x2729	0x40	UNDEF		Noi explained to the spirit the path	
-				back to the continent of origins.	
+0x2729	0x40	UNDEF		Noi explained to the spirit how to	mp_1002b 0x1f6e
+				get back to the Origin Continent.	
 0x278f	0x6B	QS54_SpiritB		Unknown	
 0x27c9	0x06	QS54_SpiritB		ANI_NOD	
-0x29bb	0x98	ALTO		It looks like we helped that one safely.	
+0x29bb	0x98	ALTO		Looks like we rescued that one safely.	mp_1002b 0x221c
 0x2a3f	0x06	NOI		ANI_NOD	
 0x2aa7	0x98	NOI	#6A	Yeah, with this, we've saved all	mp_1002b 0x2303
 				the lost spirits.	
@@ -116,195 +116,193 @@ SB_3_S11_escape_ALTO
 SB_3_S11_move_ALTO
 SB_3_S11_move_NOI
 EV_3_S11_help_eris
-0x33ec	0x98	ALTO		This area has become a waterfall...	
-				It looks like we can pass.	
+0x33ec	0x98	ALTO		This area used to be a waterfall...	
+				But it looks like we can pass now.	
 0x376e	0x06	NOI		ANI_GESTURE1	
 0x3797	0x98	NOI	#6A	Elis, are you all right!?	
-0x37fe	0x41	None	#0W#2E#029c	That voice...is it Noi!?#0E	
-0x3876	0x41	None	#0W#2E#029c	It looks like the human child is there too...	
-				Thank goodness, I was worried!#0E	
-0x3921	0x41	None	#0W#2E#029c	As for the ones who restored the climate	
-				of this continent, it was you, was it not?	
+0x37fe	0x41	None	#0W#2E#029c	That voice... Noi, Noi!?#0E	
+0x3876	0x41	None	#0W#2E#029c	Feels like the human child is there too...	
+				Oh good, I was worried about you!#0E	
+0x3921	0x41	None	#0W#2E#029c	You're the ones who brought the	
+				climate back to normal on this	
+				continent, aren't you?	
 0x39d8	0x06	ALTO		ANI_GESTURE2	
-0x3a02	0x98	ALTO	#6A	Yes, but we were late...	
-				I'll destroy the barrier now!	
+0x3a02	0x98	ALTO	#6A	Yeah, sorry for the delay, but...	
+				We're breaking the barrier now!	
 0x3a92	0x06	NOI		ANI_GUTSPOSE	
-0x3ad8	0x98	NOI		Please, Nayuta!	
+0x3ad8	0x98	NOI		Please, do it, Nayuta!	
 0x3b5b	0x06	ALTO		ANI_NOD	
 0x3c46	0x06	ALTO		ANI_BATTOU	
 0x3dab	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_2	
 0x3e77	0x06	ALTO		ANI_2_ATK0	
 0x4092	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_2	
 0x415e	0x06	ALTO		ANI_2_ATK1	
-0x4364	0x41	None	#0W#2E#029c	Ah...the barrier is weakening!#0E	
-0x4448	0x41	None	#0W#2E#029c	Alright, if it only this much, then...	
-				Please step back a bit!#0E	
+0x4364	0x41	None	#0W#2E#029c	Ah...the barrier is getting weaker!#0E	
+0x4448	0x41	None	#0W#2E#029c	All right, that's good enough...	
+				Stand back a little!#0E	
 0x460a	0x06	Erislet		ANI_USE_POWER	
 0x469c	0x41	None	#2E#029c#7W	Koaaaaa..#1WHaa!!#0E	
 0x4c95	0x06	Erislet		ANI_WAIT	
-0x4e0f	0x98	Erislet	#1W	Huhuhu, I thought I could do it.	
+0x4e0f	0x98	Erislet	#1W	Hehe, I knew I could do it.	
 0x4fbc	0x06	NOI		ANI_GESTURE2	
-0x4ff3	0x98	NOI	#0W#6A	Elis...Thank goodness!	
-0x50c4	0x98	Erislet	#0W	Noi, it has truly been a long time.	
+0x4ff3	0x98	NOI	#0W#6A	Elis... Thank goodness!	
+0x50c4	0x98	Erislet	#0W	Noi, it's been a long time.	
 0x5176	0x06	Erislet		ANI_TALK	
-0x51ad	0x98	Erislet	#2W	And, you are a human...	
-				You were called Nayuta, right?	
-				You're pretty cute, aren't you♪	
+0x51ad	0x98	Erislet	#2W	And, you, human...	
+				You said your name is Nayuta?	
+				You're pretty cute! ♪	
 0x5228	0x06	Erislet		ANI_NOD	
-0x52b0	0x98	Erislet	#0W	Hmm, for Noi who hates humans	
-				to be together with one, there must be	
-				some reason...	
+0x52b0	0x98	Erislet	#0W	Hmm, why is Noi here together	
+				with you when she's always	
+				loathed humans...?	
 0x5371	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x53ad	0x98	ALTO	#1W#6A	W-Well...	
 0x53dc	0x6B	NOI		Unknown	
 0x540d	0x06	NOI		ANI_COMPLAIN	
-0x5444	0x98	NOI	#1W#6A	E-Elis...	
-				Please don't say	
-				such vague things!	
+0x5444	0x98	NOI	#1W#6A	E-Elis... Please don't	
+				make me out as some	
+				kind of jerk!	
 0x54b1	0x06	NOI		ANI_WAIT	
-0x54e4	0x98	NOI	#1W#6A	Humans are savage and scary...	
-0x55ba	0x98	Erislet	#1W	Huhu, you guys are pretty	
-				close from the look of it, though.	
+0x54e4	0x98	NOI	#1W#6A	Humans are just so	
+				savage and scary...	
+0x55ba	0x98	Erislet	#1W	Hehe, you seem to have grown	
+				pretty friendly towards someone	
+				like that, though, huh?	
 0x5686	0x06	Erislet		ANI_GESTURE2	
-0x56c1	0x98	Erislet	#0W	While you were together,	
-				it looks like those feelings	
-				of yours faded.	
+0x56c1	0x98	Erislet	#0W	The more time you spend together,	
+				the more those kinds of feelings	
+				start to fade, I guess.	
 0x5753	0x06	ALTO		ANI_LAUGH	
-0x5788	0x98	ALTO	#1W#6A	Haha, that's fine.	
-0x57eb	0x98	NOI	#1W#6A	(T-That might be the case...)	
-0x589d	0x98	Erislet	#1W	Now then, I want to celebrate our	
-				reunion by announcing a song──	
-				is what I want to say, but.	
+0x5788	0x98	ALTO	#1W#6A	Haha, I hope so.	
+0x57eb	0x98	NOI	#1W#6A	(M-Maybe...)	
+0x589d	0x98	Erislet	#1W	Now, let's celebrate our reunion	
+				by performing a song─That's	
+				what I'd like to say, but...	
 0x5948	0x06	Erislet		ANI_GESTURE1	
-0x5983	0x98	Erislet	#0W	Somehow, it seems we don't have much time.	
-				If it's alright with you, will you tell me the	
-				situation?	
+0x5983	0x98	Erislet	#0W	It appears that we don't have that	
+				kind of time. Would you mind	
+				telling me what's been going on?	
 0x5a0b	0x06	ALTO		ANI_NOD	
-0x5a3e	0x98	ALTO	#1W#6A	Yes, understood.	mp_0000 0x1b27a
+0x5a3e	0x98	ALTO	#1W#6A	Yes, got it.	mp_0000 0x1b27a
 0x5dfd	0x06	ALTO		ANI_GESTURE2	
 0x5e27	0x98	ALTO	#6A	And then, you were...	
-0x5f14	0x98	Erislet		Yes...and you haven't seen the	
-				child called Cygna at all since then.	
+0x5f14	0x98	Erislet		Uh-huh...so you haven't seen that	
+				boy, Cygna, at all since then.	
 0x5fed	0x06	Erislet		ANI_DENY	
-0x6016	0x98	Erislet		The matter of the Yupina Grass is	
-				difficult too. I have no idea.	
-0x6097	0x98	NOI	#6A	As I thought, all we can do is try	
-				searching Heimmel.	
+0x6016	0x98	Erislet		And I'm sorry, but I have no idea	
+				on the matter of the Yupina Grass.	
+0x6097	0x98	NOI	#6A	I guess we'll just have to	
+				try checking out Heimmel.	
 0x619c	0x98	ALTO		Right...	
 0x61cc	0x06	Erislet		ANI_GESTURE1	
-0x6264	0x98	Erislet		Even so...	
-				That information was	
-				shocking to me.	
+0x6264	0x98	Erislet		But still... I'm shocked to	
+				hear about all of this.
 0x630e	0x98	Erislet		For the head of the Mythos	
-				to attack my temple...	
+				to attack my Temple...	
 0x638c	0x06	NOI		ANI_DENY	
-0x63b1	0x98	NOI	#6A	Even now, I don't want to	
-				believe it...	
+0x63b1	0x98	NOI	#6A	Even now, I still don't	
+				want to	believe it, but...	
 0x63f9	0x06	NOI		ANI_GUTSPOSE	
-0x6422	0x98	NOI	#6A	...But, I've already decided.	
-				I will fight that man──Zext.	
-0x64c0	0x98	Erislet		A long time ago, I heard from	
-				Kureha that Zext was a person	
-				of character but...	
-0x6572	0x98	Erislet		Since she lost her memory,	
-				I suppose you can't confirm	
-				that for yourselves.	
+0x6422	0x98	NOI	#6A	...I've already decided.	
+				I'm going to fight that man─Zext.	
+0x64c0	0x98	Erislet		Master Kureha told me a long	
+				time ago that Zext was a man	
+				of great character, but...	
+0x6572	0x98	Erislet		Now that she's lost her memory,	
+				I suppose we can't be sure	
+				either way, huh?
 0x65de	0x6B	ALTO		Surprise	
 0x6610	0x06	ALTO		ANI_GESTURE1	
-0x663a	0x98	ALTO	#6A	Umm...I'm interested in it, but,	
-				what kind of connection do these	
-				two Mythos have?	
-0x66af	0x98	ALTO	#6A	It seems they have some	
-				kind of close relationship.	
-0x6765	0x98	Erislet		...If my memory is correct,	
-				Zext and Kureha are...	
+0x663a	0x98	ALTO	#6A	Umm... I was wondering, what kind of	
+				relationship did these two Mythos have?	
+0x66af	0x98	ALTO	#6A	From what I've been hearing, they seem to	
+				have been pretty well-acquainted, but...	
+0x6765	0x98	Erislet		...If memory serves, Master Zext	
+				and Master Kureha were...	
 0x67e2	0x06	Erislet		ANI_GESTURE2	
 0x680f	0x98	Erislet		Father and daughter.	
 0x686f	0x6B	ALTO		Exclamation	
 0x68a1	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x68d0	0x98	ALTO	#6A	I-Is that really true?	
-0x697d	0x98	ALTO		That man Zext was	
-				supposed to be	
-				from a long time ago!	
-0x6a27	0x98	NOI	#6A	Umm, for now,	
-				Master Kureha says it's true, too...	
-0x6a7a	0x98	NOI	#6A	The Mythos are long lived,	
-				several tens of times longer	
-				than humans.	
+0x68d0	0x98	ALTO	#6A	R-Really?	
+0x697d	0x98	ALTO		Zext is supposed to come	
+				from a long time ago...!	
+0x6a27	0x98	NOI	#6A	Well, I mean, so does Master Kureha, but...	
+0x6a7a	0x98	NOI	#6A	The Mythos are long lived. They live	
+				dozens of times longer than humans.	
 0x6ae0	0x6B	ALTO		Sweatdrop	
 0x6b12	0x06	ALTO		ANI_DEJECTED	
-0x6b80	0x98	ALTO		Though I heard, "fell asleep	
-				for a long time", you meant...	
+0x6b80	0x98	ALTO		I mean, I knew she was asleep for	
+				a long time, but not that long...	
 0x6bda	0x06	ALTO		ANI_WAIT	
-0x6cc2	0x98	ALTO	#6A	Are there any other	
-				Mythos?	
+0x6cc2	0x98	ALTO	#6A	Are there any more of the Mythos?	
 0x6d01	0x06	Erislet		ANI_GESTURE1	
-0x6dca	0x98	Erislet		In truth, there was just	
-				one other, but...	
+0x6dca	0x98	Erislet		Actually, there was	
+				just one more, but...	
 0x6e1e	0x06	NOI		ANI_GESTURE2	
 0x6ea5	0x98	NOI	#6A#16S	Elis...!	
 0x6f61	0x98	Erislet		...Sorry, that's right.	
 				Please don't worry about it.	
 0x6fbf	0x06	ALTO		ANI_WAIT4	
-0x6fe6	0x98	ALTO	#6A	(Hmm, I am worried, but...	
-				 It seems I can't ask about it.)	
-0x707b	0x98	NOI	#6A	...Sorry, Nayuta.	
-				For hiding various things from you...	
+0x6fe6	0x98	ALTO	#6A	(Hmm, now I'm curious, but...	
+				 It seems they don't want	
+				 to tell me about it.)	
+0x707b	0x98	NOI	#6A	...Sorry, Nayuta. I've been keeping	
+				so many secrets from you...	
 0x70f4	0x06	ALTO		ANI_WAIT	
-0x7170	0x98	ALTO		...No, you must	
+0x7170	0x98	ALTO		...No, Noi, I'm sure you	
 				have your reasons.	
 0x71b1	0x06	ALTO		ANI_WAIT3	
-0x7268	0x98	ALTO		It will be fine if you tell me when	
-				the time comes for you to tell me.	
+0x7268	0x98	ALTO		Just tell me what it is	
+				whenever you feel ready.	
 0x7319	0x98	NOI	#6A	...Thank you, Nayuta.	
 0x7358	0xBC	Erislet		Ellipsis	
 0x73e3	0x06	Erislet		ANI_NOD	
-0x7455	0x98	Erislet		...Alright, I've decided.	
-				I too will fight Zext.	
+0x7455	0x98	Erislet		...All right, I've made up my mind.	
+				I'm going to fight Zext too.	
 0x74a7	0x06	ALTO		ANI_WAIT	
 0x75b0	0x98	Erislet		Even if he is one of the Mythos...	
-				He is very different from Kureha.	
+				That man is completely different	
+				from Master Kureha.	
 0x7639	0x06	Erislet		ANI_GESTURE1	
-0x7666	0x98	Erislet		Even though I say that,	
-				all I can do now is give you	
-				my power though...	
+0x7666	0x98	Erislet		That said, the only thing I	
+				can do for you right now is	
+				grant you my power...	
 0x76d6	0x6B	NOI		Surprise	
 0x7707	0x6B	ALTO		Surprise	
 0x7739	0x06	NOI		ANI_GESTURE2	
-0x7762	0x98	NOI	#6A	Elis, do you mean...	
+0x7762	0x98	NOI	#6A	Elis, do you...	
 0x77a0	0x06	ALTO		ANI_GESTURE1	
-0x77ca	0x98	ALTO	#6A	Just like with Gio?	
+0x77ca	0x98	ALTO	#6A	Just like Gio?	
 0x7872	0x06	Erislet		ANI_GESTURE2	
-0x789f	0x98	Erislet		Now, Noi.	
-				Come here.	
+0x789f	0x98	Erislet		Okay, Noi.	
+				Come over here.	
 0x7a83	0x06	NOI		ANI_PRAY	
 0x7ac8	0x06	Erislet		ANI_USE_POWER	
 0x7d87	0xC1	System		#3CNoi learned 『Gear Hold』!	
 0x7e28	0x07	System	#4C	Noi learned "Gear Hold."	
-				It is an ability that can grab floating gears	
-				(hold markers), allowing free movement.	
+				This is the ability to hold onto	
+				floating gears (hold markers) and move freely.	
 0x7ecf	0x06	Erislet		ANI_WAIT	
-0x7f4a	0x98	Erislet		If you are proceeding to the sacred	
-				mountain continent, I'm sure you will need it.	
-				Please use it well.	
+0x7f4a	0x98	Erislet		If you're going to continue to the	
+				Sacred Mountain Continent, I'm sure	
+				you'll need it. Please, use it well.	
 0x7fd9	0x06	NOI		ANI_NOD	
 0x7ffd	0x98	NOI	#6A	Thank you, Elis!	
 0x8037	0x06	ALTO		ANI_JOY	
 0x805c	0x98	ALTO	#6A	We will do our best for you!	
 0x80a3	0x06	Erislet		ANI_GESTURE2	
-0x80f1	0x98	Erislet		Then, I will go to the	
+0x80f1	0x98	Erislet		Well, I'll be at the	
 				Temple of this continent.	
-0x8202	0x98	Erislet		Please find the Yupina Grass and	
-				the Cygna child quickly.	
+0x8202	0x98	Erislet		Good luck finding the Yupina	
+				Grass and the Cygna boy.	
 				...Farewell.	
 0x859e	0x06	ALTO		ANI_GESTURE1	
-0x85c8	0x98	ALTO	#6A	Then, we'll hurry to	
-				Heimmel.	
+0x85c8	0x98	ALTO	#6A	Then, we'll hurry up	
+				towards Heimmel.	
 0x8611	0x06	NOI		ANI_GUTSPOSE	
-0x86c6	0x98	NOI		Yeah...	
-				We've got various things to do this time.	
-				We've got to make steady progress!	
-0x8961	0x07	System	#4C	Activate "Gear Hold" by holding the X button.	
-0x8ae1	0x07	System	#4C	Furthermore, your item gathering range	
-				has been increased.	
-0x8c81	0xCE	Objective		Yupina grass is on the mountain continent. Let's go, Nayuta!	
+0x86c6	0x98	NOI		Yeah... We've got a lot of work to do	
+				this time. Gotta keep moving forward!	
+0x8961	0x07	System	#4C	To activate "Gear Hold," press and hold the X button.	
+0x8ae1	0x07	System	#4C	In addition, your item gathering	
+				range has been increased.	
+0x8c81	0xCE	Objective		Yupina Grass is on the Mountain Continent. Let's go, Nayuta!	

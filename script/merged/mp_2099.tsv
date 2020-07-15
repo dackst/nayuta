@@ -3,97 +3,102 @@ first_init
 init
 talk_Erislet
 0x1958	0x98	Erislet		The mission of the Mythos...	
-				Even Nemeas didn't know.	
-0x19b1	0x98	Erislet		It may be a matter concerning	
-				this world of Terra itself.	
-0x1a0e	0x98	Erislet		...If Zext's words are not a lie.	
-0x1a7a	0x98	Erislet		As for us wardens, we will	
-				attempt to control the Power	
-				of Stars from the temples.	
-0x1aef	0x98	Erislet		I will leave Master Kureha to	
-				you two!	
-0x1b6d	0x98	Erislet		Good grief, it's	
-				become like this...	
-0x1bb3	0x98	Erislet		...I wonder just what happened	
-				to Master Kureha.	
-				I have a bad feeling about this...	
+				Nemeas may have some idea.	
+0x19b1	0x98	Erislet		It could potentially be related	
+				the entire world of Terra itself.	
+0x1a0e	0x98	Erislet		...If Zext wasn't lying, that is.	
+0x1a7a	0x98	Erislet		We Wardens will attempt	
+				to control the Power of	
+				Stars from the Temples.	
+0x1aef	0x98	Erislet		I leave taking care of
+				Master Kureha to you two!	
+0x1b6d	0x98	Erislet		Man, I can't believe	
+				this has happened...	
+0x1bb3	0x98	Erislet		...I wonder what could have	
+				happened to Master Kureha.	
+				I've got a bad feeling about this...	
 0x1c4f	0x98	Erislet		As for us wardens, we will	mp_2099 0x1a7a
 				attempt to control the Power	
 				of Stars from the temples.	
 0x1cc4	0x98	Erislet		I will leave Master Kureha to	mp_2099 0x1aef
 				you two!	
-0x1d42	0x98	Erislet		If you retrieve the remaining	
-				Master Gear of the origin continent,	
-				you can completely repair the Astrolabe.	
-0x1dd0	0x98	Erislet		Speaking of that,	
-				all Master Gears up until now	
-				have been left in the altars.	
-0x1e40	0x98	Erislet		Zext...	
-				Just what could his true objective be	
-				such that he would do such a thing, I wonder...	
+0x1d42	0x98	Erislet		If you can recover the last remaining Master	
+				Gear from the Origin Continent, then the	
+				Astrolabe can completely restored.	
+0x1dd0	0x98	Erislet		Speaking of which, all the Master
+				Gears up until now have been just	
+				left at the altars.	
+0x1e40	0x98	Erislet		Zext... I don't know WHAT	
+				he is trying to do, but	
+				he's doing it for a reason...
 0x1ebe	0x98	NOI		...Yeah...	mp_0004 0x13008
-0x1f0f	0x98	Erislet		I've tried various things since then,	
-				but this temple is mostly shut down.	
-0x1f7b	0x98	Erislet		However, I can send a minimum amount of the	
-				Power of Stars to every place on this continent...	
-				You must quickly retrieve the final Master Gear.	
-0x2065	0x98	Erislet		It seems Master Kureha went to	
-				the human world.	
-0x20b6	0x98	Erislet		Certainly, for Master Kureha now,	
-				that might be a good thing...	
-0x2117	0x98	Erislet		Though I'm a little worried as to	
-				whether humans will attack her...	
+0x1f0f	0x98	Erislet		I've tried a number of things since then, but	
+				the Temple remains almost completely shut down.	
+0x1f7b	0x98	Erislet		I've at least been able to send the bare minimum
+				amount of Power of Stars throughout the continent...	
+				You must recover the last Master Gear soon.	
+0x2065	0x98	Erislet		I understand Master Kureha
+				has gone to the human world.	
+0x20b6	0x98	Erislet		That's probably a good thing
+				for Master Kureha's sake...		
+0x2117	0x98	Erislet		Though I'm a little worried about
+				the humans attacking her...	
 0x217c	0x6B	ALTO		Sweatdrop	
-0x21ae	0x98	ALTO		S-She'll be fine.	
-				I left the matter to my sister, after all.	
-0x2209	0x98	NOI		I-I think so too...If we're talking about	
-				that island, I think she'll be fine.	
-0x2275	0x98	NOI		I also don't think humans seem like they're	
-				that ferocious of a species...	
-0x22dd	0x98	Erislet		Oh, is that so...	
-0x2311	0x98	Erislet		Huhu, don't worry.	
-				If Noi says that, then it doesn't seem	
-				that there's a reason to be worried.	
-0x23ca	0x98	Erislet		But it's too bad. I was thinking I could	
-				greet Master Kureha and ask her things...	
-0x243e	0x98	Erislet		As you'd expect, it's not the case that	
-				I can go to Nayuta's world and greet her.	
-0x24b1	0x98	ALTO		T-That's right.	
-0x24e0	0x98	NOI		If you were found, it'd be	
-				a huge uproar!	
-0x254f	0x98	Erislet		As warden, I must visit	
-				Master Kureha once.	
-0x259c	0x98	Erislet		Her memory should return before	
-				I see her...	
-				At that time, I'll visit her.	
-0x263b	0x98	Erislet		I am saved thanks to you.	
-				I am sorry for requesting	
-				such a thing of you so suddenly.	
-0x26b0	0x98	Erislet		Now that you have come to my aid,	
-				please continue to do your best	
-				in the future too!	
-0x2749	0x98	Erislet		I don't know much about Zext.	
-0x2791	0x98	Erislet		I do know he is Master Kureha's father...	
-				I wonder why that is.	the fuck does this mean
-0x27f1	0x98	Erislet		...Either way,	
-				it's clear he bears a grudge	
-				against this world.	
-0x2851	0x98	Erislet		On top of that, he wounded my spirits...	
-				That can't be allowed to pass!	
-0x28e2	0x98	Erislet		It has become warmer lately.	
-				From now on, I must try to	
-				restart the temple.	
-0x2948	0x98	Erislet		If you would proceed, be careful.	
-				The sacred mountain continent	
-				has considerably difficult terrain.	
+0x21ae	0x98	ALTO		Uh, she'll be fine. I already	
+				spoke to my sister about her.	
+0x2209	0x98	NOI		I-I think so too...	
+				I don't think that particular	
+				island will be a problem.	
+0x2275	0x98	NOI		Not all humans seem	
+				to be that violent...	
+0x22dd	0x98	Erislet		Hmm, is that so...	
+0x2311	0x98	Erislet		Hehe, that's a relief.	
+				If Noi says so, then there's	
+				probably nothing to worry about.	
+0x23ca	0x98	Erislet		But, that's too bad. I was thinking	
+				that it was about time I stopped by	
+				to see Master Kureha and say hi...	
+0x243e	0x98	Erislet		As you can probably imagine,	
+				I can't just leave here and	
+				go to visit Nayuta's world.	
+0x24b1	0x98	ALTO		I-I guess so.	
+0x24e0	0x98	NOI		If they found you, then all	
+				hell would break loose!	
+0x254f	0x98	Erislet		As a Warden, I should visit	
+				Master Kureha at least once.	
+0x259c	0x98	Erislet		I'm sure her memory will return	
+				sooner or later... When that time	
+				comes, I'll have to come visit her.	
+0x263b	0x98	Erislet		I'm saved thanks to you.	
+				Sorry for asking you to do	
+				this on such short notice.	
+0x26b0	0x98	Erislet		I'll be here if you guys	
+				need me. Keep up the good	
+				work going forward!	
+0x2749	0x98	Erislet		I've only heard about Zext	
+				through others' stories.	
+0x2791	0x98	Erislet		Apparently, he's Master Kureha's father.	
+				But...what the hell happened to him?
+0x27f1	0x98	Erislet		...In any case, he's clearly wreaking	
+				havoc on this world, so we have no	
+				choice to turn against him.	
+0x2851	0x98	Erislet		And more importantly,	
+				he hurt my spirits...	
+				I can't allow that!	
+0x28e2	0x98	Erislet		It's been too hot lately.	
+				From now on, I must try	
+				to restart the temple.	
+0x2948	0x98	Erislet		You guys should be careful if you want to	
+				proceed. The Sacred Mountain Continent is
+				supposed to have pretty difficult terrain.	
 talk_SpiritA
 0x29fc	0x98	SpiritA		...............	mp_0001 0xc917
-0x2a2e	0x40	UNDEF		It's intently staring at the altar...	
+0x2a2e	0x40	UNDEF		It is staring intently at the altar...	
 0x2a7e	0x40	UNDEF		It's intently staring at the altar...	mp_2099 0x2a2e
 talk_SpiritB
 0x2af0	0x98	SpiritB		! ............	
 0x2b2b	0x6B	SpiritB		Unknown	
-0x2b60	0x40	UNDEF		It looks happy for some reason...	
+0x2b60	0x40	UNDEF		It seems happy for some reason...	
 talk_SpiritC
 0x2bce	0x98	SpiritC		...	mp_0101 0x2297d
 0x2c04	0x98	SpiritC		♪...♪♪...	
@@ -105,275 +110,272 @@ talk_SpiritD
 				...～～～...	
 0x2d9b	0x98	SpiritD		...?	mp_1099 0x3014
 quest_Erislet
-0x2e6c	0x98	Erislet		Huhu, it looks like you were	
-				able to find Nemeas' spirit.	
+0x2e6c	0x98	Erislet		Hehe, looks like you guys 	
+				were able to find Nemeas'	
+				spirit without any problems.	
 0x2ec7	0x98	Erislet		The caves around here are	
-				quite vast and it is easy to	
+				so vast that it's easy to	
 				get lost in them...	
-0x2f32	0x98	Erislet		Anyhow, it is good that you found it.	
-				Please tell Nemeas about this too.	
-0x2fa6	0x98	Erislet		If you're talking about the presence of Nemeas'	
-				spirits, it is in the vicinity of the "Scrying Pool	
-				Caves" in the mid-east part of Rieseweld.	
-0x3054	0x98	Erislet		It might be good if you make the	
-				season "winter" and then search.	
-0x30b7	0x98	Erislet		The presence seems quite confused,	
-				so please hurry and save them.	
-0x31dd	0x98	Erislet		Somewhere is winter of "Rieseweld," there	
-				should be a place that's perfect for incubating	
-				Moon Bird eggs.	
-0x3267	0x98	Erislet		Then, if you use the Astrolabe,	
-				you can also make the season warm.	
-0x32cb	0x98	Erislet		If you do that, you can also hatch	
-				the Moon Bird eggs in a short time.	
-0x3333	0x98	Erislet		I cannot leave this place...	
-				Please you two,	
-				save the Moon Bird somehow.	
+0x2f32	0x98	Erislet		Anyway, I'm glad you found it.	
+				Please give my regards to Nemeas.	
+0x2fa6	0x98	Erislet		On the presence of Nemeas' spirit,	
+				it was somewhere around "Scrying	
+				Pool Caves" in mid-eastern Rieseweld.	
+0x3054	0x98	Erislet		It might be a good idea to search	
+				for it with season set to Winter.	
+0x30b7	0x98	Erislet		It seemed quite disoriented, so	
+				please, hurry and help it out.	
+0x31dd	0x98	Erislet		Somewhere in Rieseweld's winter,	
+				there's	got to be a place suitable	
+				for laying Moon Bird eggs.	
+0x3267	0x98	Erislet		ANd then with the Astrolabe,	
+				you can make the season warmer.	
+0x32cb	0x98	Erislet		That way, we can also hatch	
+				the Moon Bird eggs right away.	
+0x3333	0x98	Erislet		I can't leave this place...	
+				I hope you guys manage	
+				to save the Moon Birds.	
 QS_33_quest_start
 0x35ab	0x06	Erislet		ANI_DENY	
-0x35d4	0x98	Erislet		I have a pretty troubling	
+0x35d4	0x98	Erislet		I have a bit of a	
 				problem on my hands.	
-0x361b	0x98	Erislet		If it is alright with you, I would	
-				like to ask you for your help, but...	
+0x361b	0x98	Erislet		I was hoping the two of you	
+				could help me out, but...	
 0x3680	0x06	Erislet		ANI_GESTURE2	
 0x36ad	0x98	Erislet		Is now a good time?	
-0x36ed	0x98	Erislet		Oh, it's Noi and Nayuta.	
+0x36ed	0x98	Erislet		Oh, Noi and Nayuta.	
 				You've come at a good time.	
 0x3743	0x06	NOI		ANI_GESTURE1	
 0x376c	0x98	NOI	#6A	Um, did something happen?	
 0x37a7	0x06	ALTO		ANI_GESTURE2	
-0x37d1	0x98	ALTO	#6A	It seems like we got a	
+0x37d1	0x98	ALTO	#6A	We seem to have got a	
 				request from you...	
 0x381d	0x06	Erislet		ANI_GESTURE2	
-0x384a	0x98	Erislet		Though this is about a matter related	
-				to management of this island, I want	
-				you to lend me a hand.	
-0x38cc	0x98	Erislet		It would be good if that's alright, but...	
-				I wonder if now is a good time?	
-0x3938	0x98	ALTO	#6A	If you're talking about me, then yes...	
+0x384a	0x98	Erislet		It's a matter related to the	
+				management of this continent.	
+				I could really use your help.		
+0x38cc	0x98	Erislet		I'm hoping that's okay, but...	
+				Is now a good time?	
+0x3938	0x98	ALTO	#6A	Yeah, I can do it...	
 0x39ba	0x06	NOI		ANI_GESTURE2	
 0x39e3	0x98	NOI	#6A	...Say, Nayuta, y'know...	
 0x3a56	0x98	ALTO		Huh? What is it?	
 0x3a86	0x06	NOI		ANI_GESTURE1	
-0x3aaf	0x98	NOI	#6A	Umm, you see, if I were	
-				to say we don't have to	
-				work too hard...	
-0x3b0f	0x98	NOI	#6A	If it's helping Elis,	
-				I will do it, so how about taking	
-				a little break, Nayuta?	
+0x3aaf	0x98	NOI	#6A	Umm, well, there's	
+				no need to push	
+				yourself. I mean...	
+0x3b0f	0x98	NOI	#6A	If Elis needs help, I can do it.	
+				Why don't you go take a break, Nayuta?	
 0x3b7e	0x06	NOI		ANI_DULL	
-0x3ba3	0x98	NOI	#6A	...All that stuff about your	
-				sister lately must be tiring.	
+0x3ba3	0x98	NOI	#6A	...You must be exhausted dealing	
+				with what's happened to your	
+				sister on top of all this. So...	
 0x3bfe	0x06	ALTO		ANI_GESTURE2	
-0x3c28	0x98	ALTO	#6A	Ahaha, thanks, Noi.	
+0x3c28	0x98	ALTO	#6A	Haha, thank you, Noi.	
 0x3c5e	0x06	ALTO		ANI_JOY	
 0x3c83	0x98	ALTO	#6A	But, I'm all right.	
 				I won't be discouraged	
-				over something like this.	
+				that easily.	
 0x3ce8	0x06	Erislet		ANI_DENY	
 0x3d11	0x98	Erislet		I'm sorry for asking this of	
 				you at a time like this.	
 0x3dd6	0x06	Erislet		ANI_GESTURE2	
-0x3e03	0x98	Erislet		I do not mind if you tell me that	
-				now is a bad time.	
-				...Nayuta, is now a good time?	
+0x3e03	0x98	Erislet		I do not mind if you tell me	
+				that now is not a good time.	
+				...Nayuta, is now okay?	
 0x3eb7	0x36	Choice		[Accept]	mp_0000 0xeaf5
 0x3ecd	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0x3f6c	0x06	ALTO		ANI_GESTURE2	
-0x3f96	0x98	ALTO	#6A	...I'm sorry.	
-				Now is a little...	
-0x3ff1	0x98	Erislet		No, please don't worry about it.	
-0x4034	0x98	Erislet		I would not mind if you call on	
-				me again when you finish	
-				your current work.	
+0x3f96	0x98	ALTO	#6A	...I'm sorry. It's just	
+				that right now, I...	
+0x3ff1	0x98	Erislet		No, it's fine. Please,	
+				don't worry about it.	
+0x4034	0x98	Erislet		Talk to me again	
+				when you are able.	
 QS_33_undertake
 0x4168	0x06	ALTO		ANI_THANKS	
 0x4190	0x98	ALTO	#6A	...Yeah, I'm all right.	
-				May we hear your story?	
-0x41fa	0x98	Erislet		Hoho, thank you.	
-				I am in your debt.	
-0x4260	0x98	Erislet		As for what I want your help with,	
-				it is related to the wildlife of this continent.	
+				Can we hear what happened?	
+0x41fa	0x98	Erislet		Hehe, thank you.	
+				I owe you one.	
+0x4260	0x98	Erislet		As for what I want help with,	
+				it's about the wildlife of	
+				this continent.	
 0x42d5	0x06	NOI		ANI_GESTURE2	
-0x42fe	0x98	NOI	#6A	It can't be...Has something	
-				happened to the Rieseweld continent?	
-0x4377	0x98	Erislet		Yes...I understood this when 	
-				I searched the place where a	
-				creature used to live in...	
-0x440f	0x98	Erislet		Somehow, it seems the Moon Bird	
-				that used to live on this Rieseweld	
-				continent has disappeared.	
+0x42fe	0x98	NOI	#6A	No way... Did something	
+				happen in Rieseweld?	
+0x4377	0x98	Erislet		Well...I was scanning the	
+				land for life signatures	
+				when I realized something...	
+0x440f	0x98	Erislet		Apparently, a species that used to	
+				live here on Rieseweld, the Moon	
+				Bird, seems to have disappeared.	
 0x4490	0x6B	ALTO		Exclamation	
 0x44c2	0x6B	NOI		Exclamation	
-0x44f3	0x98	ALTO	#6A	It disappeared...	
-				You mean, it went extinct!?	
+0x44f3	0x98	ALTO	#6A	Disappeared...?	
+				You mean, they've	
+				gone extinct!?	
 0x4544	0x06	NOI		ANI_WORRIED	
 0x456c	0x98	NOI	#6A	T-T-This is a huge problem!!	
-0x45aa	0x98	NOI	#6A	I am sure this is due to Zext's	
-				actions...!	
+0x45aa	0x98	NOI	#6A	I'm sure this is all	
+				because of Zext...!	
 0x45f6	0x06	NOI		ANI_WAIT	
 0x461b	0x06	Erislet		ANI_TALK	
-0x4644	0x98	Erislet		Although that is a strong possibility,	
-				another possibility is that it is due to	
-				the influence of the "Changes."	
-0x46d4	0x98	Erislet		Because the climate is in disarray,	
-				Moon Bird numbers have decreased	
-				considerably in a short time.	
-0x4757	0x98	Erislet		That might be because the Power	
-				of Stars, the source of all life in this	
-				world, has temporarily stopped.	
+0x4644	0x98	Erislet		Although it's certainly possible,	
+				another explanation is that this	
+				is the result of the abnormalities.
+0x46d4	0x98	Erislet		Because of the unstable climate,	
+				the Moon Bird population has decreased
+				significantly in a short time.	
+0x4757	0x98	Erislet		And then, even if only briefly, the	
+				Power of Stars, the source of all	
+				life in the world, was stopped...	
 0x47e2	0x06	Erislet		ANI_WAIT	
 0x480b	0x06	ALTO		ANI_THINK	
-0x4832	0x98	ALTO	#6A	And so they went extinct...	
-0x4870	0x98	ALTO	#6A	So this sort of thing happens	
-				even in the world of Terra...	
+0x4832	0x98	ALTO	#6A	So they're all extinct...	
+0x4870	0x98	ALTO	#6A	So even in the world of Terra, 
+				something like that is possible...	
 0x48cd	0x06	Erislet		ANI_WAIT	
 0x48f6	0x06	NOI		ANI_DEJECTED	
-0x491f	0x98	NOI	#6A	That was originally my responsibility.	
-				It's because I allowed the Master Gears	
-				to be stolen...	
-0x499f	0x98	NOI	#6A	Master Kureha,	
-				I'm sorry...	
+0x491f	0x98	NOI	#6A	But it was my fault to begin
+				with. It's all because I let	
+				the Master Gears be stolen...	
+0x499f	0x98	NOI	#6A	Oh, Master Kureha,	
+				I'm so sorry...	
 0x49fc	0x06	Erislet		ANI_DENY	
-0x4a25	0x98	Erislet		But, it's not the case that	
+0x4a25	0x98	Erislet		But that doesn't mean	
 				there is no hope.	
 0x4ab4	0x6B	ALTO		Surprise	
 0x4ae6	0x6B	NOI		Surprise	
-0x4b17	0x98	Erislet		...Nayuta, please accept this.	
-0x4b58	0x40	UNDEF		Elislette presented a nest	
+0x4b17	0x98	Erislet		...Nayuta, please take this.	
+0x4b58	0x40	UNDEF		Elislette presented a bird's nest	
 				with several eggs inside to Nayuta.	
 0x4be7	0x06	Erislet		ANI_HANDOVER	
 0x4c1c	0xC1	System		obtained.	mp_0000 0x7558
 0x4cee	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x4d1d	0x98	ALTO	#6A	Could these eggs really be...	
-				eggs of the Moon Bird!?	
+0x4d1d	0x98	ALTO	#6A	Could these eggs be...	
+				Moon Bird eggs!?	
 0x4d74	0x06	Erislet		ANI_NOD	
-0x4d9c	0x98	Erislet		Yes, I was able to protect	
-				just a few eggs.	
-0x4de9	0x98	Erislet		If these eggs are safely hatched,	
-				the Moon Bird will once again be	
-				seen in this world of "Terra."	
-0x4eaf	0x98	Erislet		In order to do that, I want to	
-				receive your support.	
+0x4d9c	0x98	Erislet		Yes, I managed to preserve	
+				only a handful of eggs.	
+0x4de9	0x98	Erislet		If those eggs were to safely hatch,	
+				Moon Birds could be able to be	
+				found on Terra once again.	
+0x4eaf	0x98	Erislet		To do that, I'm going	
+				to need your help.	
 0x4f05	0x06	NOI		ANI_COMPLAIN	
-0x4f2e	0x98	NOI	#6A	W-What do we do!?	
+0x4f2e	0x98	NOI	#6A	W-What can we do!?	
 0x4f7d	0x06	Erislet		ANI_GESTURE2	
-0x4faa	0x98	Erislet		First, please search for a	
-				location where these eggs	
+0x4faa	0x98	Erislet		First, please find a	
+				place where the eggs	
 				can be safely hatched.	
-0x502f	0x98	Erislet		The condition for hatching moon	
-				bird eggs is, "a location that is	
-				as cold as possible."	
-0x50a7	0x98	Erislet		The eggs that survive the harsh	
-				environment will hatch to greet	
-				the warm season...	
-0x511a	0x98	Erislet		It is said that this species has	
-				that special characteristic.	
+0x502f	0x98	Erislet		Moon Birds lay their	
+				eggs in places as cold	
+				as they can find.
+0x50a7	0x98	Erislet		The eggs that survive the	
+				extreme	conditions will finally
+				hatch once warm weather arrives...	
+0x511a	0x98	Erislet		This species is known for	
+				that unique characteristic.	
 0x5179	0x06	ALTO		ANI_THINK2	
-0x51a1	0x98	ALTO	#6A	I see...In my world, too,	
-				there are birds whose life cycle	
-				is like that, too.	
-0x520f	0x98	ALTO	#6A	If I remember correctly, they	
-				are called "Penguins"...	
+0x51a1	0x98	ALTO	#6A	I see...  There are birds	
+				from my world that also	
+				have a similar life cycle.	
+0x520f	0x98	ALTO	#6A	"Penguins," I think they're called..	
 0x5267	0x06	ALTO		ANI_WAIT	
 0x528d	0x06	NOI		ANI_THINK	
-0x52b3	0x98	NOI	#6A	Now that we've recovered the Master Gear,	
-				we can return the climate of Rieseweld to normal.	
+0x52b3	0x98	NOI	#6A	Now that we've have the Master Gear back,	
+				Rieseweld's climate can go back to normal.	
 0x5331	0x06	NOI		ANI_JOY	
-0x5355	0x98	NOI	#6A	If we are talking about now, there should	
-				be a place ideally suited for these eggs!	
+0x5355	0x98	NOI	#6A	We should be able to find a	
+				suitable place for those eggs now!	
 0x53c9	0x06	NOI		ANI_WAIT	
-0x540f	0x98	Erislet		And if you use the Astrolabe,	
-				you can also make the climate	
-				warm.	
-0x5471	0x98	Erislet		If you do that, it is possible to hatch	
-				the moon bird eggs in a short time.	
+0x540f	0x98	Erislet		And with the Astrolabe, you can	
+				also make the weather warmer.	
+0x5471	0x98	Erislet		That way, you can get the	
+				Moon Bird eggs to hatch	
+				in a short amount of time.	
 0x54de	0x06	ALTO		ANI_NOD	
-0x5503	0x98	ALTO	#6A	I see...	
-				So that is the request this time.	
-0x5568	0x98	Erislet		Yes, that's the idea.	
-0x55a0	0x98	Erislet		Normally, this would be my work, but	
-				I cannot take my eyes off the temple	
-				now, so...	
+0x5503	0x98	ALTO	#6A	I see... So that's	
+				what this is about.
+0x5568	0x98	Erislet		Yeah, that's what I wanted.	
+0x55a0	0x98	Erislet		Well, normally, this would be	
+				MY job, but I can't risk	
+				leaving the Temple right now...	
 0x5615	0x06	ALTO		ANI_JOY	
-0x563a	0x98	ALTO	#6A	Please leave it to me,	
-				Elislette.	
-				I will show you I can do this.	
+0x563a	0x98	ALTO	#6A	I'll take care of it, Elislette.	
+				Please leave it to me.
 0x569b	0x06	NOI		ANI_GUTSPOSE	
-0x56c4	0x98	NOI	#6A	Immediately, let's try searching	
-				for a place in "Winter" of Rieseweld	
-				that seems suitable for hatching the eggs!	
+0x56c4	0x98	NOI	#6A	Quick, let's try finding a place in the	
+				Winter of Rieseweld for hatching the eggs!	
 0x5775	0x06	Erislet		ANI_NOD	
-0x579d	0x98	Erislet		Hoho, you two.	
-				Good luck.	
-0x57d8	0x98	Erislet		If you are able to successfully	
-				hatch them, please come report	
-				to me.	
-0x5872	0x07	System	#3C	Quest [Revival of Extinct Animal] started!	
+0x579d	0x98	Erislet		Hehe, good luck, you guys.		
+0x57d8	0x98	Erislet		If you are able to hatch	
+				them successfully, please	
+				come back and let me know.
+0x5872	0x07	System	#3C	Quest [Extinct Bird] started!	
 QS_33_quest_end
-0x5bcb	0x98	Erislet		Ah, it is Nayuta and Noi.	
-				It seems you completed the	
-				task properly.	
-0x5c2f	0x98	Erislet		Just now, I sensed the sprouting	
-				of new Moon Bird lives.	
+0x5bcb	0x98	Erislet		Oh, Nayuta, Noi.	
+				It seems that you've	
+				done your job well.	
+0x5c2f	0x98	Erislet		I sensed the emergence of new	
+				Moon Bird lives not long ago.	
 0x5c89	0x06	ALTO		ANI_GESTURE1	
-0x5cb3	0x98	ALTO	#6A	Umm, you know about that already?	
-0x5d10	0x98	Erislet		Hmph, if it's regarding this island,	
-				then I generally know about it.	
-0x5d97	0x98	Erislet		Like this, the Moon Bird chicks should	
-				become adult birds with considerable	
-				speed.	
-0x5e0a	0x98	Erislet		I believe they are already able	
-				to search for their own food.	
-0x5e8a	0x98	Erislet		Furthermore, this species is not in	
-				the sky, but rather swims through	
-				cold waters.	
+0x5cb3	0x98	ALTO	#6A	Umm, how did you know that already?	
+0x5d10	0x98	Erislet		Hmph, I feel pretty much everything	
+				that happens on this continent.
+0x5d97	0x98	Erislet		The Moon Bird chicks should reach	
+				adulthood soon at this rate.	
+0x5e0a	0x98	Erislet		They're probably already able	
+				to hunt for food on their own.	
+0x5e8a	0x98	Erislet		Although, their species has no	
+				need to soar the skies. Instead,	
+				they swim through frigid waters.	
 0x5efd	0x6B	ALTO		Sweatdrop	
 0x5f2f	0x6B	NOI		Sweatdrop	
 0x5f60	0x06	NOI		ANI_DEJECTED	
-0x5f89	0x98	NOI	#6A	Certainly, even though we used the Astrolabe...	
-				Their growth was super fast all the same.	
-0x6018	0x98	ALTO	#6A	It was lucky of us just to be able to	
-				see the chicks.	
-0x606f	0x98	ALTO	#6A	(Though...birds that don't fly in the sky,	
-				 but rather swim through water, huh...	
-				 They're looking more and more like penguins.)	
-0x6110	0x98	Erislet		Hoho, anyway...	
-				I am saved thanks to you.	
-0x6174	0x98	Erislet		I am sorry for requesting	
-				such a thing of you so suddenly.	
+0x5f89	0x98	NOI	#6A	I know we used the Astrolabe...	
+				Their growth was way too fast.	
+0x6018	0x98	ALTO	#6A	We might have been lucky just to	
+				get a glimpse of them as chicks.	
+0x606f	0x98	ALTO	#6A	(But...birds that don't fly, and swim underwater...	
+				 They're sounding more and more like penguins.)	
+0x6110	0x98	Erislet		Hehe, anyway... Thanks	
+				for helping me out.	
+0x6174	0x98	Erislet		I'm sorry for requesting	
+				something like from you	
+				out of the blue.	
 0x61d0	0x06	NOI		ANI_DENY	
-0x61f5	0x98	NOI	#6A	No, when we are in trouble,	
-				we are all equal!	
-0x625b	0x98	Erislet		Hoho, thanks.	
-0x62ac	0x98	Erislet		Then,	
-				How to show my appreciation...	
-				I will give you this.	
+0x61f5	0x98	NOI	#6A	No, we're all in	
+				this together!	
+0x625b	0x98	Erislet		Hehe, thank you.	
+0x62ac	0x98	Erislet		Well, as a token of my appreciation...	
+				I will give you guys this.	
 0x631f	0xC1	System		obtained.	mp_0000 0x7558
-0x6398	0x98	Erislet		Though Terra has many problems...	
-				If we pool our strength,	
-				we will be able to overcome them.	
-0x6415	0x98	Erislet		I look forward to working with	
-				you two from here on.	
+0x6398	0x98	Erislet		Terra has a lot problems...	
+				But if we pool our strength,	
+				I'm sure we can to overcome them.	
+0x6415	0x98	Erislet		Keep up the good work, you two.	
 0x646b	0x06	ALTO		ANI_THANKS	
 0x6493	0x98	ALTO		Yes!	mp_0001 0xfd91
 0x64b7	0x06	NOI		ANI_SPEECH	
-0x64de	0x98	NOI		We will support you from here on,	
-				and protect this world of Terra!	
+0x64de	0x98	NOI		We'll continue to work together,	
+				and protect the world of Terra!	
 0x6639	0x07	System	#1C	Noi was given the winter magic, #4C『#785IWhite Nova』#1C.	
-0x66bc	0x98	Erislet		If you have this,	
-				battles should be considerably easier.	
+0x66bc	0x98	Erislet		This should make battles	
+				considerably easier.	
 				Please use it well.	
 0x6729	0x06	ALTO		ANI_THANKS	
 0x6751	0x98	ALTO	#6A	T-Thank you very much.	mp_0112 0x219c3
 0x678a	0x06	NOI		ANI_GUTSPOSE	
-0x67b3	0x98	NOI	#6A	I'll try using, anyhow!	
-0x6832	0x98	Erislet		Then, I will have you	
-				let me return to my work.	
+0x67b3	0x98	NOI	#6A	I'll try getting	
+				some use out of it!	
+0x6832	0x98	Erislet		Then, I have to be	
+				going back to my work.	
 0x6883	0x98	Erislet		Now that you have come to my aid,	mp_2099 0x26b0
 				please continue to do your best	
 				in the future too!	
-0x692c	0x07	System	#3C	Quest [Revival of Extinct Animal] completed!	
+0x692c	0x07	System	#3C	Quest [Extinct Bird] completed!	
 quest_SpiritD
 0x6b72	0x98	SpiritD		...～～～...!	
 				......	
@@ -388,23 +390,23 @@ quest_SpiritD
 0x6ef5	0x98	SpiritD		...～.........	
 				......～～～...!	
 0x6f8c	0x06	ALTO		ANI_GESTURE2	
-0x6fb6	0x98	ALTO		Hmm, it looks like it's	
+0x6fb6	0x98	ALTO		Hmm, it looks like it's	mp_1099 0xa22d
 				trying to frantically convey something...	
 0x7016	0x06	NOI		ANI_SURPRISE	
-0x7057	0x98	NOI	#6A	N-No way...Somehow,	
+0x7057	0x98	NOI	#6A	N-No way...Somehow,	mp_1099 0xa2c7
 				it seems that a ferocious monster	
 				has appeared on this continent!	
 0x70cc	0x06	NOI		ANI_COMPLAIN	
-0x70f5	0x98	NOI	#6A	Because of that, they are very troubled,	
+0x70f5	0x98	NOI	#6A	Because of that, they are very troubled,	mp_1099 0xa365
 				and want you to help them...is what it's saying!	
-0x7179	0x98	NOI	#6A	Hmm, hmm...It seem that	
+0x7179	0x98	NOI	#6A	Hmm, hmm...It seem that	mp_1099 0xa3d4
 				somehow, a ferocious monster has	
 				appeared on this continent!	
 0x71ed	0x06	NOI		ANI_COMPLAIN	
-0x7216	0x98	NOI	#6A	Because of that, they are very troubled,	mp_2099 0x70f5
+0x7216	0x98	NOI	#6A	Because of that, they are very troubled,	mp_1099 0xa365
 				and want you to help them...is what it's saying!	
 0x7292	0x06	ALTO		ANI_THINK2	
-0x72ba	0x98	ALTO		A ferocious monster...	
+0x72ba	0x98	ALTO		A ferocious monster...	mp_1099 0xa501
 				Could it be that...it's one of	
 				the monsters that stole your magic?	
 0x7331	0x06	ALTO		ANI_WAIT	
@@ -413,88 +415,88 @@ quest_SpiritD
 				............!	
 0x73ba	0x06	SpiritD		ANI_NOD	
 0x73e2	0x98	SpiritD		...～～～～...	mp_1099 0xa620
-0x742b	0x98	NOI	#6A	Though that's not the case,	
+0x742b	0x98	NOI	#6A	Though that's not the case,	mp_1099 0xa68e
 				it has the same high-rank power	
 				...is what it's saying.	
 0x749e	0x06	NOI		ANI_COMPLAIN	
-0x74c7	0x98	NOI	#6A	"Due to the influence of the changes,	
+0x74c7	0x98	NOI	#6A	"Due to the influence of the changes,	mp_1099 0xa71e
 				unthinkable life-forms are being born and	
 				havoc is being wrought here and there."	
-0x755e	0x98	NOI	#6A	"If things continue like this, many of the	
+0x755e	0x98	NOI	#6A	"If things continue like this, many of the	mp_1099 0xa7ae
 				animals of this continent will die!"	
 				...is what it's saying.	
 0x75e5	0x06	NOI		ANI_DEJECTED	
-0x760e	0x98	NOI	#6A	This one wants to see the continent	
+0x760e	0x98	NOI	#6A	This one wants to see the continent	mp_1099 0xa82e
 				back to normal, but we can't	
 				stop it anymore.	
-0x7689	0x98	NOI	#6A	Though that's not the case,	
+0x7689	0x98	NOI	#6A	Though that's not the case,	mp_1099 0xa8c5
 				it seems it holds the same high-	
 				rank power.	
 0x76f1	0x06	NOI		ANI_COMPLAIN	
-0x771a	0x98	NOI	#6A	"Due to the influence of the changes,	mp_2099 0x74c7
+0x771a	0x98	NOI	#6A	"Due to the influence of the changes,	mp_1099 0xa71e
 				unthinkable life-forms are being born and	
 				havoc is being wrought here and there."	
-0x77b1	0x98	NOI	#6A	"If things continue like this, many of the	mp_2099 0x755e
+0x77b1	0x98	NOI	#6A	"If things continue like this, many of the	mp_1099 0xa7ae
 				animals of this continent will die!"	
 				...is what it's saying.	
 0x7838	0x06	NOI		ANI_DEJECTED	
-0x7861	0x98	NOI	#6A	This one wants to see the continent	mp_2099 0x760e
+0x7861	0x98	NOI	#6A	This one wants to see the continent	mp_1099 0xa82e
 				back to normal, but we can't	
 				stop it anymore.	
 0x78d4	0x06	SpiritD		ANI_NOD	
 0x78fc	0x98	SpiritD		.......	mp_1099 0xaafd
 0x7926	0x06	ALTO		ANI_THINK	
-0x794d	0x98	ALTO		Because of the changes...	
+0x794d	0x98	ALTO		Because of the changes...	mp_1099 0xab4e
 				...that's what it's saying.	
 0x79a1	0x06	ALTO		ANI_NOD	
-0x79c6	0x98	ALTO		These ones are in trouble.	
+0x79c6	0x98	ALTO		These ones are in trouble.	mp_1099 0xabba
 0x7a00	0x06	NOI		ANI_NOD	
-0x7a3c	0x98	NOI	#6A	Yes...Though the idol has stopped,	
+0x7a3c	0x98	NOI	#6A	Yes...Though the idol has stopped,	mp_1099 0xac32
 				now the spirits are pooling their strength	
 				to support this continent.	
 0x7ac4	0x06	NOI		ANI_DEJECTED	
-0x7aed	0x98	NOI	#6A	But, as for the power of the spirits,	
+0x7aed	0x98	NOI	#6A	But, as for the power of the spirits,	mp_1099 0xace8
 				because it is slight thing,	
 				many of them seem troubled...	
 0x7b6c	0x06	NOI		ANI_GESTURE1	
-0x7b95	0x98	NOI	#6A	Hey, Nayuta.	
+0x7b95	0x98	NOI	#6A	Hey, Nayuta.	mp_1099 0xad79
 				I have a request.	
 				Can't you save this one for me?	
-0x7bfd	0x98	NOI	#6A	Yeah...though the idol has stopped,	
+0x7bfd	0x98	NOI	#6A	Yeah...though the idol has stopped,	mp_1099 0xadec
 				now the spirits are doing their	
 				best to support this continent.	
 0x7c80	0x06	NOI		ANI_DEJECTED	
-0x7ca9	0x98	NOI	#6A	But, because they don't have	
+0x7ca9	0x98	NOI	#6A	But, because they don't have	mp_1099 0xae97
 				great power, it seems many of them	
 				are troubled.	
 0x7d16	0x06	NOI		ANI_GESTURE1	
-0x7d3f	0x98	NOI	#6A	Hey, Nayuta, I have a request.	
+0x7d3f	0x98	NOI	#6A	Hey, Nayuta, I have a request.	mp_1099 0xaf22
 				Can you save this one?	
 0x7d97	0x06	ALTO		ANI_GUTSPOSE	
 0x7dc1	0x98	ALTO		Yeah, of course!	mp_1099 0xafb3
 0x7df1	0x06	ALTO		ANI_GESTURE2	
-0x7e1b	0x98	ALTO		Hey you, will you tell us	
+0x7e1b	0x98	ALTO		Hey you, will you tell us	mp_1099 0xb00d
 				the location that monster	
 				appears?	
 0x7e7f	0x06	ALTO		ANI_GESTURE2	
-0x7ea9	0x98	ALTO		It looks like it's frantically	
+0x7ea9	0x98	ALTO		It looks like it's frantically	mp_1099 0xb096
 				communicating something...	
 0x7f01	0x06	ALTO		ANI_THINK2	
-0x7f29	0x98	ALTO		Noi, could this be...?	
+0x7f29	0x98	ALTO		Noi, could this be...?	mp_1099 0xb1a0
 0x7f5f	0x06	ALTO		ANI_WAIT	
 0x7f85	0x06	NOI		ANI_NOD	
-0x7fc1	0x98	NOI	#6A	Yes, it's saying that a	
+0x7fc1	0x98	NOI	#6A	Yes, it's saying that a	mp_1099 0xb1a0
 				ferocious monster has appeared	
 				on this continent.	
 0x802a	0x06	NOI		ANI_GESTURE1	
-0x8053	0x98	NOI	#6A	Furthermore, I'm very troubled,	
+0x8053	0x98	NOI	#6A	Furthermore, I'm very troubled,	mp_1099 0xb237
 				and I want you to help me!	
 				...it's what it's saying!	
-0x80d1	0x98	NOI	#6A	Yeah, it seems that a ferocious	
+0x80d1	0x98	NOI	#6A	Yeah, it seems that a ferocious	mp_1099 0xb2a2
 				monster has appeared on this continent,	
 				too.	
 0x813d	0x06	NOI		ANI_GESTURE1	
-0x8166	0x98	NOI	#6A	Furthermore, I'm very troubled,	mp_2099 0x8053
+0x8166	0x98	NOI	#6A	Furthermore, I'm very troubled,	mp_2099 0xb237
 				and I want you to help me!	
 				...it's what it's saying!	
 0x81dc	0x06	ALTO		ANI_NOD	
@@ -502,42 +504,40 @@ quest_SpiritD
 				The Handyman Shop will accept	
 				this request.	
 0x825b	0x06	ALTO		ANI_GESTURE2	
-0x8285	0x98	ALTO		Will you tell us the location that	
+0x8285	0x98	ALTO		Will you tell us the location that	mp_1099 0xb444
 				this monster appeared?	
 0x82df	0x6B	SpiritD		Surprise	
 0x8314	0x06	SpiritD		ANI_NOD	
 0x8344	0x98	SpiritD		............!	mp_1099 0xb4fd
 0x8374	0x06	NOI		ANI_GESTURE2	
-0x83b5	0x98	NOI	#6A	It appeared in the "Scrying	
-				Pool Caves" in the center of Rieseweld,	
-				in the season of "Autumn"...is what it says!	
-0x8445	0x98	NOI	#6A	It also says we don't need to hurry,	
+0x83b5	0x98	NOI	#6A	It says it appeared during the	
+				Autumn of "Scrying Pool Caves"	
+				in central Rieseweld!	
+0x8445	0x98	NOI	#6A	It also says we don't need to hurry,	mp_1099 0xb5ed
 				because we have time and should be	
 				careful.	
-0x84bf	0x98	NOI	#6A	It looks like it appeared in "Autumn" season of	
-				the "Scrying Pool Caves" in the center of	
-				Rieseweld!	
-0x8543	0x98	NOI	#6A	It also says we don't need to hurry,	mp_2099 0x8445
+0x84bf	0x98	NOI	#6A	It seems to have appeared in the
+				Autumn of "Scrying Pool Caves"	
+				in central Rieseweld!	
+0x8543	0x98	NOI	#6A	It also says we don't need to hurry,	mp_1099 0xb5ed
 				because we have time and should be	
 				careful.	
 0x85b5	0x06	ALTO		ANI_NOD	
-0x85da	0x98	ALTO		Understood. If we find it,	
+0x85da	0x98	ALTO		Understood. If we find it,	mp_1099 0xb78a
 				we will exterminate it.	
 0x862b	0x06	ALTO		ANI_GESTURE2	
-0x8655	0x98	ALTO		After that, we should report to you, right?	
+0x8655	0x98	ALTO		After that, we should report to you, right?	mp_1099 0xb801
 0x86a0	0x06	SpiritD		ANI_NOD	
 0x86d0	0x98	SpiritD		...♪	
 0x86f8	0x06	ALTO		ANI_LAUGH	
-0x871f	0x98	ALTO		Ahaha, it looks like it relaxed	
-				a little for us.	
+0x871f	0x98	ALTO		Ahaha, looks like we	
+				comforted it a little.	
 0x876e	0x06	NOI		ANI_GUTSPOSE	
-0x87af	0x98	NOI	#6A	Nayuta, let's try going to the	
-				"Scrying Pool Caves" in "Autumn"	
-				immediately!	
-0x8825	0x98	NOI	#6A	Let's try going to the	
-				"Scrying Pool Caves" in "Autumn"	
-				immediately!	
-0x88bf	0x07	System	#3C	Quest [Request of Spirits of the Abyss] started!	
+0x87af	0x98	NOI	#6A	Nayuta, let's try heading to the	
+				Autumn of "Scrying Pool Caves" soon!	
+0x8825	0x98	NOI	#6A	Let's try heading to the Autumn	
+				of "Scrying Pool Caves" soon!
+0x88bf	0x07	System	#3C	Quest [Abyss Spirit's Request] started!	
 0x89d3	0x06	ALTO		ANI_WAIT	
 0x89f9	0x06	NOI		ANI_WAIT	
 quest_SpiritD_End
@@ -821,64 +821,66 @@ QS_83_quest_end
 0xe966	0x07	System	#3C	Quest [Crush the Four Idols] completed!	mp_1099 0x110be
 QS_54_talk_Erislet
 0xed8d	0x06	Erislet		ANI_GESTURE2	
-0xedba	0x98	Erislet		My, it's you two...	
-				It seems you have business with me?	
+0xedba	0x98	Erislet		Oh my, it's you two...	
+				I see you want to talk to me?	
 0xee13	0x06	ALTO		ANI_GESTURE2	
-0xee3d	0x98	ALTO	#6A	Yes, we have a request	
-				for you, Elislette.	
-0xee89	0x40	UNDEF		Explained the circumstances, and asked if Elislette	
-				had any idea about Nemeas' spirits.	
+0xee3d	0x98	ALTO	#6A	Yes, we wanted to ask for	
+				a favor from you, Elislette.	
+0xee89	0x40	UNDEF		Nayuta explained what happened to Elislette,	
+				and asked if she had any idea where to find	
+				Nemeas' missing spirits.	
 0xef00	0x06	Erislet		ANI_GESTURE1	
-0xef2d	0x98	Erislet		The spirits' whereabouts are unknown...	
-				If that's the case, then that's troubling.	
+0xef2d	0x98	Erislet		Her spirits have gone missing...	
+				If so, then that's pretty worrisome.	
 0xefa1	0x06	Erislet		ANI_NOD	
-0xefc9	0x98	Erislet		Of course, if there is something	
-				I can do, then allow me to help.	
+0xefc9	0x98	Erislet		Of course, if there is anything	
+				I can do, please allow me to help.	
 0xf02c	0x06	ALTO		ANI_JOY	
 0xf051	0x98	ALTO	#6A	Please do!	mp_1099 0x9437
 0xf07e	0x06	NOI		ANI_GESTURE1	
 0xf0a7	0x98	NOI	#6A	We want you to use your power to	
-				determine if the spirits are on this	
-				continent!	
+				determine if any spirits are on	
+				this continent!	
 0xf117	0x06	Erislet		ANI_TALK	
-0xf140	0x98	Erislet		Yes, because they should have a little	
-				different presence than my spirits...	
+0xf140	0x98	Erislet		Of course, they should feel a	
+				little different from my spirits...	
 0xf1ae	0x06	Erislet		ANI_USE_POWER	
 0xf2ae	0x98	Erislet	#1W	Fuwaaah......	
 0xf2e9	0x6B	Erislet		Exclamation	
 0xf361	0x06	Erislet		ANI_NOD	
 0xf389	0x98	Erislet		...Yes, found it!	
-0xf3e3	0x98	Erislet		It is certainly the presence of Nemeas' spirits.	
-				As expected, it was on this continent.	
+0xf3e3	0x98	Erislet		It is definitely the presence of Nemeas' spirits.	
+				There was one on this continent after all.	
 0xf45c	0x06	ALTO		ANI_GESTURE1	
-0xf486	0x98	ALTO	#6A	Thank goodness...You were able	
-				to help us faster than expected.	
+0xf486	0x98	ALTO	#6A	Thank goodness... We might be able	
+				to do this faster than I thought.	
 0xf4e7	0x06	Erislet		ANI_GESTURE2	
-0xf514	0x98	Erislet		But, there is only one presence	
-				that I sense...	
+0xf514	0x98	Erislet		But, I could only	
+				feel one of them...	
 0xf565	0x06	Erislet		ANI_NOD	
-0xf58d	0x98	Erislet		Well, anyway, I'll tell you the location.	
-0xf5e3	0x98	Erislet		It is certainly the presence of Nemeas' spirits.	
+0xf58d	0x98	Erislet		Well, nonetheless, I can tell where it is.	
+0xf5e3	0x98	Erislet		It is definitely the presence of Nemeas' spirits.	
 				It seems there is only one on this continent.	
 0xf663	0x06	ALTO		ANI_GESTURE1	
 0xf68d	0x98	ALTO	#6A	Thank goodness...Do you know the location?	mp_1099 0x98b9
 0xf6dc	0x06	Erislet		ANI_GESTURE1	
-0xf709	0x98	Erislet		It seems the presence is in the vicinity of	
-				the mid-east part of Rieseweld, in what we call	
+0xf709	0x98	Erislet		It seems to be in the the mid-eastern	
+				part of Rieseweld, in the area called	
 				the "Scrying Pool Caves."	
-0xf79f	0x98	Erislet		The presence is considerably confused, so	
-				try going when the season is normal.	
+0xf79f	0x98	Erislet		It seems pretty confused,	
+				so you should go during
+				the normal season.	
 0xf80f	0x06	NOI		ANI_NOD	
-0xf833	0x98	NOI	#6A	Understood.	
-				We'll try making the season "winter" and searching!	
+0xf833	0x98	NOI	#6A	Understood. We'll make	
+				the season Winter and	
+				start searching!	
 0xf893	0x06	ALTO		ANI_JOY	
-0xf8b8	0x98	ALTO	#6A	Elislette,	
-				thank you very much!	
-0xf8f9	0x06	Erislet		ANI_NOD	
-0xf921	0x98	Erislet		Thanks are unnecessary.	
+0xf8b8	0x98	ALTO	#6A	Elislette, thank	
+				you so much!	
+0xf8f9	0x06	Erislet		No need to thank me.	
 				Please do your best!	
 boss_retry
-0xfbf4	0xCE	Objective		Another idol appeared.Let's combine our strength and crush it!	
+0xfbf4	0xCE	Objective		Another idol has appeared. Let's work together and crush it!	
 0xfcae	0x06	b001		ANI_WAIT	
 BossNextEvent
 0xfde0	0x06	b001Ex		ANI_EV2	
@@ -907,84 +909,82 @@ SB_2_S23_exit_NOI
 SB_2_S23_se_ev_0064
 EV_2_S23_boss_battle
 0x124a4	0x06	ALTO		ANI_WAIT4	
-0x1255b	0x98	ALTO		It looks like...we arrived at the summit.	
+0x1255b	0x98	ALTO		Looks like...we're at the summit.	
 0x125ac	0x06	NOI		ANI_NOD	
-0x1265c	0x98	NOI		Yeah...but in the end, we didn't	
-				meet anyone up until now...	
+0x1265c	0x98	NOI		Yeah...but in the end, we 	
+				never ran into anybody...	
 0x12720	0x98	ALTO		(...Cygna...	
-				 Just where the hell are you?)	
+				 Where the hell	did you go?)	
 0x1277a	0x6B	NOI		Exclamation	
 0x127c8	0x06	NOI		ANI_LOOK_AROUND	
-0x1284d	0x98	NOI		T-This presence...!	
+0x1284d	0x98	NOI		T-This feeling...!	
 0x1296f	0x06	ALTO		ANI_WAIT	
 0x12a11	0x98	ALTO		Noi!?	
 0x12c7b	0x6B	SpiritA		Unknown	
 0x12d6a	0x6B	SpiritB		Unknown	
 0x12e59	0x6B	SpiritC		Unknown	
-0x132dc	0x98	Zext	#6A	The spirits of Rieseweld is it?	
+0x132dc	0x98	Zext	#6A	The spirits of Rieseweld...?	
 0x13320	0x98	Zext	#6A	...Step aside.	
-				There is something I need to do.	
+				There is a mission	
+				I must accomplish.	
 0x13379	0x98	SpiritA		...............!	
-0x1348f	0x98	Zext	#6A	So you will oppose me...	
-				Then, it cannot be helped.	
+0x1348f	0x98	Zext	#6A	So, you wish to resist...	
+				Then I suppose this is unavoidable.	
 0x13556	0x06	Zext		ANI_HIT_GROUND	
 0x13637	0x6B	SpiritA		Exclamation	
 0x1367b	0x6B	SpiritB		Exclamation	
 0x136bf	0x6B	SpiritC		Exclamation	
-0x13826	0x98	Zext	#6A	Hehe...How foolish.	
+0x13826	0x98	Zext	#6A	Heh... How pathetic.	
 0x13afc	0x06	Zext		ANI_TAKE_OUT	
 0x13bba	0x06	komono06		ANI_WAIT	
-0x13c5b	0x98	Zext		With this, I will put the second	
-				temple to sleep...	
-0x13cad	0x98	Zext		That annoying false history...	
-				I will close the books on it.	
+0x13c5b	0x98	Zext		At thus the second Temple	
+				is laid to rest...	
+0x13cad	0x98	Zext		That loathsome history of betrayal...	
+				I will put and end to it once and for all.	
 0x13d34	0x98	NOI	#6A#3W	Wait, Zext!	
 0x13e7b	0x06	komono06		ANI_YOKO	
 0x13ea5	0x06	Zext		ANI_WAIT	
-0x13f3e	0x98	Zext	#6A	Noi...so it's you.	
+0x13f3e	0x98	Zext	#6A	Noi...it's you.	
 0x13f7b	0x06	ALTO		ANI_GESTURE1	
-0x13fc3	0x98	ALTO		The thing he has is...!	
+0x13fc3	0x98	ALTO		That thing he's holding...!	
 0x14020	0x06	NOI		ANI_GESTURE2	
-0x14049	0x98	NOI		The Master Gear of Water that	
-				rules the Rieseweld continent!	
+0x14049	0x98	NOI		That's the Master Gear of Water that	
+				controls the Rieseweld continent!	
 0x140a5	0x06	NOI		ANI_COMPLAIN	
 0x140eb	0x98	NOI		Give it back, Zext!	
-0x14178	0x98	Zext	#6A	...So you have involved a	
-				human from the "other side".	
-0x141ed	0x98	Zext	#6A	He is good like that black-haired	
-				young man...	
-				Noi, that is not like you.	
-0x14257	0x98	Zext	#6A	No, because he was there, that 	
-				is the precise reason you were able	
-				to defeat the idols on Oltapia...	
+0x14178	0x98	Zext	#6A	...So, you have recruited	
+				humans from the other world.	
+0x141ed	0x98	Zext	#6A	Like that black-haired boy...	
+				Noi, how unlike you.	
+0x14257	0x98	Zext	#6A	Oh, that is how you were able	
+				to defeat the idols of Oltapia...	
 0x142e7	0xBC	ALTO		Surprise	
 0x14343	0x06	ALTO		ANI_GESTURE2	
-0x1436d	0x98	ALTO		...As I thought,	
-				you met Cygna!?	
+0x1436d	0x98	ALTO		...I knew it!	
+				You met Cygna!?	
 0x143ac	0x06	ALTO		ANI_COMPLAIN	
-0x143f4	0x98	ALTO		Tell me!	
-				Where is Cygna now!?	
-0x14474	0x98	Zext	#6A	..."Cygna?"	
-				I know no one by that name.	
-0x144c1	0x98	Zext	#6A	Even if I did know, I would	
-				have no obligation to tell you.	
-0x14588	0x98	ALTO		...If that's the case...	mp_0110 0x23518
+0x143f4	0x98	ALTO		Tell me! Where is he now!?	
+0x14474	0x98	Zext	#6A	..."Cygna?" I know no	
+				one with that name.	
+0x144c1	0x98	Zext	#6A	Even if I did, I would have	
+				no obligation to tell you.	
+0x14588	0x98	ALTO		In that case...	mp_0110 0x23518
 0x145de	0x06	ALTO		ANI_BATTOU2	
-0x1469d	0x98	ALTO		I'll show you I can	
-				defeat you and then	
-				beat it out of you!	
+0x1469d	0x98	ALTO		I'm gonna defeat you and make	
+				you tell me what happened!	
 0x14742	0x06	NOI		ANI_NOD	
 0x14766	0x98	NOI		...Yeah!	
-				That's all we can do...!	
+				It's the only way...!	
 0x147b9	0x98	Zext		Hmph...	mp_0002 0x8ec3
 0x14a21	0x06	Zext		ANI_PUT_UP_ROD	
 0x14c0b	0x6B	ALTO		Exclamation	
 0x14c3d	0x6B	NOI		Exclamation	
 0x14c6e	0x06	Zext		ANI_PUT_UP_ROD_END	
-0x14d08	0x98	Zext		I do not have time to	
-				be your opponent	
-				right now.	
-0x14d5f	0x98	Zext		Shut up there and watch.	
+0x14d08	0x98	Zext		I do not have the	
+				time to entertain	
+				you two right now.	
+0x14d5f	0x98	Zext		You can just stand
+				back and watch.	
 0x14e27	0x06	Zext		ANI_TAKE_OUT_LOOP	
 0x14e91	0x06	Knight_B		ANI_DEMO1_0	
 0x14f24	0x06	NOI		ANI_DENY	
@@ -993,52 +993,54 @@ EV_2_S23_boss_battle
 0x15441	0x06	ALTO		ANI_DAZZLING	
 0x15737	0x06	Zext		ANI_WAIT	
 0x15a77	0x06	ALTO		ANI_WAIT	
-0x15a9d	0x98	ALTO		...The sky is...!?	
-0x15b36	0x98	NOI		...Two temples have been stopped,	
-				and the balance of the Power of	
-				Stars in this world is crumbling...	
-0x15c34	0x98	NOI	#6A	At this rate...	
-				Terra itself could collapse!	
+0x15a9d	0x98	ALTO		...The sky...!?	
+0x15b36	0x98	NOI		...Now with two Temples shut down,	
+				the balance of the Power of Stars
+				in this world is crumbling...	
+0x15c34	0x98	NOI	#6A	At this rate...Terra
+				itself could collapse!	
 0x15cbe	0x98	ALTO		N-No way...	mp_0111 0x86c0
-0x15e18	0x98	NOI	#6A	To steal the name of Master Zext	
-				and do things like this...	
-				I will absolutely not forgive it!	
-0x15ea9	0x98	Zext		...An imposter, you say.	
-				It seems you misunderstand.	
+0x15e18	0x98	NOI	#6A	How dare you impersonate Master	
+				Zext and do such things...	
+				You'll never get away with this!	
+0x15ea9	0x98	Zext		...Impersonate, you say?	
+				It seems that there has been	
+				a terrible misunderstanding.	
 0x15f24	0x98	Zext		My name is Zext Ji Quarius Dominador...	
-0x15f6b	0x98	Zext		The genuine leader of the Mythos.	
-0x15fcb	0x98	Zext		I cannot believe you did not know this...	
-				──Noi Stelladia.	
+0x15f6b	0x98	Zext		The veritable leader of the Mythos.	
+0x15fcb	0x98	Zext		Did you not already know	
+				this...Noi Stelladia?	
 0x16030	0x06	NOI		ANI_SURPRISE	
 0x1606d	0x98	NOI	#6A#16S	!!!!	mp_0101b 0x3636
 0x160b4	0x98	ALTO	#6A	Stelladia...?	
-0x16109	0x98	NOI		M-My true name,	
-				I guess...	
-0x1615e	0x98	NOI	#6A	But why...	
-				Only the Mythos	
-				should know that name though...	
+0x16109	0x98	NOI		I-It's kind of like	
+				my true name, I guess...	
+0x1615e	0x98	NOI	#6A	But how did you... Only one	
+				of the Mythos should ever	
+				know that name...	
 0x161ba	0x06	NOI		ANI_GESTURE1	
-0x161e3	0x98	NOI	#6A	Then, is he really...!?	
-0x16258	0x98	Zext		Hehe...Anyway, with this,	
-				I have prepared the "Final Key."	
-0x162b1	0x98	Zext		Our "plan" has advanced	
-				to the next stage.	
+0x161e3	0x98	NOI	#6A	Then you're really...!?	
+0x16258	0x98	Zext		Hehe... Regardless, this is it.	
+				The Final Key is now in place.	
+0x162b1	0x98	Zext		Our plan is almost ready	
+				for the next phase.	
 0x16302	0x98	ALTO	#6A	"Plan"...!?	
 				And the Final Key...!?	
 0x1635a	0x06	Zext		ANI_PUT_UP_ROD	
 0x16508	0x6B	ALTO		Exclamation	
 0x1653a	0x6B	NOI		Exclamation	
-0x16597	0x98	Zext	#2W	Farewell, warden of the garden...	
+0x16597	0x98	Zext	#2W	Farewell, Warden of the Garden...	
 				And uninvited human guest.	
-0x1660b	0x98	Zext	#2W	You will make up for standing	
-				in my way with your deaths.	
-0x16994	0x98	ALTO		Tch...This way, Noi!	
+0x1660b	0x98	Zext	#2W	For standing against me,
+				pay for it with your lives. 	
+0x16994	0x98	ALTO		Tch... This way, Noi!	
 0x16e0a	0x06	b001		ANI_EV1	
 0x1708b	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0x171b1	0x06	NOI		ANI_SURPRISE	
 0x17205	0x98	NOI	#1W	The Rieseweld idol...!!	
-				Just like before, it's out of control...	
-0x1729b	0x98	ALTO	#0W	...It seems we have no choice but to fight.	
+				Just like before, it's
+				going out of control...	
+0x1729b	0x98	ALTO	#0W	...It looks like we have to fight.	
 0x17332	0x98	ALTO	#1W	Let's go, Noi!	mp_1099 0x152c1
 0x173de	0x06	NOI		ANI_NOD	
 SB_2_S24_escape_ALTO
@@ -1059,81 +1061,83 @@ EV_2_S24_boss_end
 0x17d81	0x6B	NOI		Exclamation	
 0x183ca	0x06	ALTO		ANI_TIRED_WALK	
 0x187b3	0x98	ALTO	#6A	*huff*, *huff*	
-				Noi, are you alright!?	
-0x18832	0x98	NOI		Y-Yeah somehow...	
+				Noi, are you all right!?	
+0x18832	0x98	NOI		Y-Yeah, barely...	
 0x18862	0x06	ALTO		ANI_STAGGER_STAND_UP	
 0x188c2	0x6B	ALTO		Exclamation	
 0x18918	0x06	ALTO		ANI_GESTURE2	
-0x18942	0x98	ALTO		Ah...look at that, Noi!	
+0x18942	0x98	ALTO		Oh... Look, Noi!	
 0x18b54	0x98	NOI	#N#500x#500y	The Master Gear of Water...!	
-0x18b9d	0x98	NOI	#N#500x#500y	That he left it behind again means...	
+0x18b9d	0x98	NOI	#N#500x#500y	He just left it behind again...	
 0x18c93	0x06	ALTO		ANI_GESTURE1	
-0x18cbd	0x98	ALTO	#6A	I don't understand the reason, but...	
-				Anyway, let's retrieve it quickly!	
+0x18cbd	0x98	ALTO	#6A	I don't know why he did that, but...	
+				Whatever, let's get it out of here!	
 0x18d27	0x06	ALTO		ANI_JOY	
 0x18d4c	0x98	ALTO	#6A	If we put it in the Astrolabe,	
-				then these abnormalities, too...!	
+				then these abnormalities can...!	
 0x18dd3	0x6B	NOI		Ellipsis	
 0x18e04	0x06	NOI		ANI_DENY	
-0x18e29	0x98	NOI		No...	
-				This time, the balance of the Power of Stars	
-				across all Terra has been upset!	
-0x18ed3	0x98	NOI		With only two Master Gears,	
-				I cannot restore this level of	
-				abnormalities...	
+0x18e29	0x98	NOI		No... This time, the Power	
+				of Stars across all of Terra	
+				has been knocked off balance!	
+0x18ed3	0x98	NOI		Just two Master Gears	
+				won't be enough to stop	
+				this much abnormalities...	
 0x18f45	0x06	ALTO		ANI_COMPLAIN	
 0x18f6f	0x98	ALTO	#6A	N-No way...	mp_0111 0x86c0
 0x18fe5	0x06	ALTO		ANI_SURPRISE	
-0x1900f	0x98	ALTO		Uwa..!?	
+0x1900f	0x98	ALTO		Wha..!?	
 0x1903e	0x06	NOI		ANI_GESTURE2	
-0x19067	0x98	NOI		I-It's dangerous here...	
-				Let's go somewhere a bit more open!	
+0x19067	0x98	NOI		I-It's not safe here...	
+				Let's go somewhere with	
+				more space!	
 0x19375	0x6B	NOI		Exclamation	
 0x193a6	0x6B	ALTO		Exclamation	
-0x1941d	0x98	NOI		The sky is steadily worsening...	
-				At this rate...	
-0x19490	0x98	NOI		No, it's no good...	
-				Terra will end!	
+0x1941d	0x98	NOI		The sky is getting worse and worse...	
+				It can't go on like this...	
+0x19490	0x98	NOI		No, at this rate...
+				It's the end of Terra!	
 0x194db	0x6B	ALTO		Ellipsis	
 0x19545	0x06	ALTO		ANI_GESTURE2	
 0x1956f	0x98	ALTO	#6A	...Anyway Noi, let's go to the garden!	
 0x195b8	0x06	ALTO		ANI_NOD	
-0x195dd	0x98	ALTO	#6A	Even if the Astrolabe's power	
-				is insufficient...	
+0x195dd	0x98	ALTO	#6A	Even if the Astrolabe	
+				is not powerful enough...	
 				We should do what we can!	
 0x19682	0x98	NOI		Yeah...	mp_1100 0x68da
-0x196ce	0x98	ALTO	#6A	If things are like this,	
-				no matter where Cygna went,	
-				he's in danger...	
+0x196ce	0x98	ALTO	#6A	If we don't do something,	
+				somewhere out there,	
+				Cygna'll be in danger...		
 0x19752	0x06	ALTO		ANI_COMPLAIN	
-0x1977c	0x98	ALTO	#6A	Something like waiting	
-				for Terra to collapse...	
-				There's no way I can give up!	
+0x1977c	0x98	ALTO	#6A		
+				There's no way I can give	
+				up and just wait for	
+				Terra to collapse...!	
 0x1983a	0x6B	ALTO		Exclamation	
 0x1987c	0x06	ALTO		ANI_LOOK_AROUND	
 0x198b4	0x6B	NOI		Exclamation	
 0x198f4	0x06	NOI		ANI_LOOK_AROUND	
-0x19979	0x98	NOI		──W-What was that just now?	
+0x19979	0x98	NOI		...W-What was that?	
 SB_2_S26_move_NOI
 EV_2_S26_get_gear_2nd
-0x1a0a8	0x98	NOI		...The abnormalities are lessening...?	
-0x1a0f5	0x98	ALTO		...Why in the world?	
-0x1a15d	0x98	ALTO		Some kind of light wave is	
-				spreading out from the	
-				horizon...	
+0x1a0a8	0x98	NOI		Something's different.	
+				Did we stop it?	
+0x1a0f5	0x98	ALTO		...What is THAT?	
+0x1a15d	0x98	ALTO		Some kind of wave of light is	
+				radiating over the horizon...	
 0x1a1e1	0x98	NOI		If I remember correctly,	
-				in that direction is...	
+				in that direction...	
 0x1a237	0x6B	NOI		Exclamation	
 0x1a2a0	0x98	NOI		Let's go, Nayuta!	
 0x1a308	0x06	NOI		ANI_COMPLAIN	
-0x1a331	0x98	NOI		Could it be...	
-				Maybe something happened	
+0x1a331	0x98	NOI		I think... I think	
+				something's happening	
 				in the Garden!!	
 0x1a38f	0x06	ALTO		ANI_NOD	
-0x1a3b4	0x98	ALTO	#6A	Y-Yeah...right!	
-0x1a430	0x98	ALTO	#6A	Then, let's collect the	
-				next Master Gear	
-0x1a4c4	0x98	NOI	#6A	Oh, that's right...	
-				A-Anyway, let's hurry!	
+0x1a3b4	0x98	ALTO	#6A	Oh, yeah...right!	
+0x1a430	0x98	ALTO	#6A	But first, we should	
+				go grab the Master Gear.	
+0x1a4c4	0x98	NOI	#6A	Oh, that's true...	
+				H-Hurry up then!	
 0x1a630	0xC1	System		obtained.	mp_0000 0x7558
 EV_4_S22_release_seal_c

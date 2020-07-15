@@ -193,20 +193,20 @@ SUB_alto_move
 SUB_noi_move
 QS_33_check_incubation
 0x3ee3	0x06	ALTO		ANI_SWIM_WAIT	
-0x40f1	0x98	obj_q33	#240x#100y#N#0W	Cheep cheep, cheep cheep...	
+0x40f1	0x98	obj_q33	#240x#100y#N#0W	Cheep-cheep, cheep-cheep...	
 0x41cc	0x98	ALTO	#6A	These are Moon Bird chicks...	
-				It looks like they hatched for us.	
-0x4243	0x98	NOI	#6A	You did it, Nayuta!	
-				With this, Elis' request is a success!	
+				Looks like they hatched.	
+0x4243	0x98	NOI	#6A	Way to go, Nayuta! Now,	
+				Elis' request is complete!	
 0x42b3	0x98	ALTO	#6A	Yeah, they should be able to grow up	
-				properly...	"now that the seasons are fixed" "climate is fixed"
+				just fine at this rate...
 				There's no need to worry.	
-0x4341	0x98	ALTO	#6A	Ahaha, even so...	
-				With the exception of the hair color,	
-				they're indistinguishable from a chicken's chicks.	
+0x4341	0x98	ALTO	#6A	Haha, and yet... Except for the color	
+				of their down, they look just like	
+				regular old chicks from a chicken.	
 0x43e6	0x98	NOI	#6A	Hehe, that's just the way	
-				everything is when it's a baby.	
-0x4452	0x98	NOI	#6A	Now, don't forget	
-				to report this to Elis!	
+				everything is as a baby.	
+0x4452	0x98	NOI	#6A	Now, don't forget to	
+				tell Elis about this!	
 0x44b8	0x98	ALTO	#6A	Yeah!	mp_0001 0x1174e
 0x4570	0x06	ALTO		ANI_SWIM_WAIT	
