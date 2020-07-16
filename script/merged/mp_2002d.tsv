@@ -12,7 +12,7 @@ boss_battle01
 dead_EV01
 0xc42	0x07	System	#3C	Defeated high-rank monster [Ice Worg]!	
 0xd00	0x06	NOI		ANI_TAMEATK1	
-0xd63	0x07	System	#1C	Noi recovered the winter Magic, #4C『#766IFrost Web』#1C!	
+0xd63	0x07	System	#1C	Noi recovered the winter magic, #4C『#766IFrost Web』#1C!	
 0xdef	0xC1	System		obtained.	mp_0000 0x7558
 ob_sw_cb
 0x1074	0x06	ob_cbsw_00		ANI_CHANGE_GREEN	

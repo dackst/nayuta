@@ -476,7 +476,7 @@ QS_24_quest_end
 				for the continued betterment of this world.	
 0x7642	0x98	Gio		I look forward to working with you.	
 0x768f	0x06	Gio		ANI_WAIT	
-0x77a7	0x07	System	#1C	Noi was granted the summer magic, "#784ISol Erase."	
+0x77a7	0x07	System	#1C	Noi learned the summer magic, #4C『#784ISol Erase』.	
 0x785f	0x06	NOI		ANI_SURPRISE	
 0x7888	0x98	NOI	#6A	Gio, this...!	
 0x78ba	0x06	Gio		ANI_TALK	

@@ -6,7 +6,7 @@ close_door1_2
 0x7a9	0x6B	ALTO		Exclamation	
 dead_EV01
 open_door1_2
-0xd52	0x07	System	#3C	Defeated high-rank monster, [Gear Cho]!	
+0xd52	0x07	System	#3C	Defeated high-rank monster [Gear Cho]!	
 0xe11	0x06	NOI		ANI_TAMEATK1	
 0xe74	0x07	System	#1C	Noi recovered the winter magic, #4C『#769IIcicle Spear』#1C!	
 0xf03	0xC1	System		obtained.	mp_0000 0x7558

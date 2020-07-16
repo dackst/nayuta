@@ -20,9 +20,9 @@ skill_monster
 0xb23	0x06	mahouzin		ANI_STOP2	
 0xb64	0x6B	ALTO		Exclamation	
 dead_sk_01
-0xefa	0x07	System	#3C	High-rank monster [Sukeisu Keeper] defeated!	
+0xefa	0x07	System	#3C	Defeated high-rank monster [Sukeisu Keeper]!	
 0xfbe	0x06	NOI		ANI_TAMEATK1	
-0x1021	0x07	System	#1C	Noi's Spring Magic 『#765IFleur Edge』#1C has been returned!	
+0x1021	0x07	System	#1C	Noi recovered the spring magic, #4C『#765IFleur Edge』#1C!	
 0x10b0	0xC1	System		obtained.	mp_0000 0x7558
 crystal
 tutorial_baster

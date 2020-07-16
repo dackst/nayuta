@@ -14,5 +14,5 @@ dead_skill
 open_door02_03
 0xe6d	0x07	System	#3C	Defeated high-rank monster [Serpentia]!	
 0xf2c	0x06	NOI		ANI_TAMEATK1	
-0xf8f	0x07	System	#1C	Noi recovered the winter magic #4C『#778IBlizzard』#1C!	
+0xf8f	0x07	System	#1C	Noi recovered the winter magic, #4C『#778IBlizzard』#1C!	
 0x1019	0xC1	System		obtained.	mp_0000 0x7558

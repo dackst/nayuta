@@ -8,7 +8,7 @@ close_door1
 0x5ef	0x6B	ALTO		Exclamation	
 dead_ev01
 open_door1_2
-0xc9c	0x07	System	#3C	Defeated high-rank monster, [Brigandine]!	
+0xc9c	0x07	System	#3C	Defeated high-rank monster [Brigandine]!	
 0xd5d	0x06	NOI		ANI_TAMEATK1	
-0xdc0	0x07	System	#1C	Noi recovered the fall magic, #4C『#779IMaple Wind』#1C!	
+0xdc0	0x07	System	#1C	Noi recovered the autumn magic, #4C『#779IMaple Wind』#1C!	
 0xe4b	0xC1	System		mp_0000 0x7558
