@@ -80,23 +80,26 @@ ice04_Cmd
 QS_38_get_colors1
 0x2c63	0x06	ALTO		ANI_WAIT	
 0x2d8b	0x06	NOI		ANI_SURPRISE	
-0x2db4	0x98	NOI	#6A	Nayuta, this layer is...	
+0x2db4	0x98	NOI	#6A	Nayuta, this sediment layer...	
 0x2dee	0x06	ALTO		ANI_GESTURE2	
-0x2e18	0x98	ALTO	#6A	It seems like it could be red pigment.	
-				...I'll collect it.	
+0x2e18	0x98	ALTO	#6A	That looks like it could
+				be used for red pigment.	
+				...I'll collect some.	
 0x2e74	0xC1	System		obtained.	mp_0000 0x7558
 0x2f35	0x06	ALTO		ANI_JOY	
-0x2f5a	0x98	ALTO	#6A	Red, blue and yellow colors...	
-				I've collected the three pigment colors.	
-0x2fc3	0x98	ALTO	#6A	Later, I'll bring them	
-				to Pyxia!	
+0x2f5a	0x98	ALTO	#6A	Red, blue, and yellow...	
+				I've gathered the three	
+				colors of pigment.	
+0x2fc3	0x98	ALTO	#6A	Let's bring them	
+				to Pyxia later!	
 QS_38_get_colors2
 0x3216	0x06	ALTO		ANI_WAIT	
 0x333e	0x06	ALTO		ANI_GESTURE2	
 0x3368	0x98	ALTO	#6A	Nayuta, this layer is...	mp_3002d 0x2db4
 0x33a3	0x06	NOI		ANI_JOY	
-0x33c7	0x98	NOI	#6A	It seems like it could be yellow pigment.	
-				...I'll collect it.	
+0x33c7	0x98	NOI	#6A	That looks like it could
+				be used for yellow pigment.	
+				...I'll collect some.
 0x3425	0x06	NOI		ANI_WAIT	
 0x344a	0xC1	System		obtained.	mp_0000 0x7558
 0x350b	0x06	ALTO		ANI_JOY	
@@ -109,8 +112,9 @@ QS_38_get_colors3
 0x394c	0x06	NOI		ANI_SURPRISE	
 0x3975	0x98	NOI	#6A	Nayuta, this layer is...	mp_3002d 0x2db4
 0x39af	0x06	ALTO		ANI_NOD	
-0x39d4	0x98	ALTO	#6A	It seems like it could be blue pigment.	
-				...I'll collect it.	
+0x39d4	0x98	ALTO	#6A	That looks like it could
+				be used for blue pigment.	
+				...I'll collect some.	
 0x3a31	0xC1	System		obtained.	mp_0000 0x7558
 0x3af2	0x06	ALTO		ANI_JOY	
 0x3b17	0x98	ALTO	#6A	Red, blue and yellow colors...	mp_3002d 0x2f5a
@@ -126,80 +130,79 @@ EV_3_S12_look_cage_3rd
 0x4375	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x43a4	0x98	ALTO		That is...	mp_0101 0x16bca
 0x479a	0x06	NOI		ANI_SURPRISE	
-0x47c3	0x98	NOI	#6A	A "Cage" made by Zext!	
-				...at least it looks like it...	
+0x47c3	0x98	NOI	#6A	One of Zext's prisons!	
+				...That means..	
 0x485a	0x6B	ALTO		Exclamation	
 0x488c	0x6B	NOI		Exclamation	
-0x48e9	0x41	None	#0W#2E#030c	...I will not forgive you...I cannot forgive you...#0E	
-0x49dc	0x41	None	#0W#2E#030c	The one misrepresenting himself as	
+0x48e9	0x41	None	#0W#2E#030c	...I cannot allow it...	
+				This is unforgivable...#0E	
+0x49dc	0x41	None	#0W#2E#030c	The one masquerading as	
 				the head of the Mythos...	
-				Just wait...#0E	
-0x4a85	0x41	None	#0W#2E#030c	With my hands, I, the Guardian King	
-				will pass my judgment!!#0E	
+				Next time I will...#0E	
+0x4a85	0x41	None	#0W#2E#030c	By my hand as the Guardian King,	
+				I shall pass judgment!!#0E	
 0x4b29	0x6B	ALTO		Unknown	
 0x4b53	0x6B	NOI		Unknown	
-0x4c70	0x98	ALTO		N-Noi, do you know this person...!?	
+0x4c70	0x98	ALTO		N-Noi, do you know this guy...!?	
 0x4cd0	0x98	NOI	#6A	Y-Yeah...	
-				It seems like he's pretty mad though...	
+				He seems pretty pissed, but...	
 0x4d76	0x06	NOI		ANI_COMPLAIN	
-0x4d9f	0x98	NOI	#6A	──"Algol",	
-				Is that you!?	
-0x4de2	0x41	None	#0W#2E#030c	...Is this voice, Noi...?#0E	
-0x4e5b	0x41	None	#0W#2E#030c	There is a strange presence near...	
-				Surely, this is a human...!?#0E	
+0x4d9f	0x98	NOI	#6A	─Algol, is that you!?	
+0x4de2	0x41	None	#0W#2E#030c	That voice...Noi...?#0E	
+0x4e5b	0x41	None	#0W#2E#030c	And a strange presence nearby...	
+				Is it not...a human!?#0E	
 0x4f8e	0x06	NOI		ANI_DEJECTED	
-0x4fb7	0x98	NOI	#6A	Phew...He calmed down...	
+0x4fb7	0x98	NOI	#6A	Phew... Well, he calmed down...	
 0x4ff9	0x06	ALTO		ANI_GESTURE2	
-0x5023	0x98	ALTO	#6A	U-Umm...	
-				If it's alright with you, will	
-				you tell us your story?	
-0x508b	0x40	UNDEF		Nayuta summarized the events up until now.	
+0x5023	0x98	ALTO	#6A	Um, well...would you
+				mind hearing us out?	
+0x508b	0x40	UNDEF		Nayuta briefly explained what had happened so far.	
 0x50de	0x41	None	#0W#2E#030c	...I see...	
-				So you come and go...#0E	
-0x515e	0x41	None	#0W#2E#030c	Suddenly,	
-				they appeared in the temple	
-				and were thinking of doing something...#0E	
+				So this is what was to happen...#0E	
+0x515e	0x41	None	#0W#2E#030c	They suddenly appeared in the Temple,	
+				and I had no idea what was going on...#0E	
 0x5211	0x06	NOI		ANI_GESTURE1	
-0x523a	0x98	NOI	#6A	Then, you were in	
-				the temple too, Algol...	
+0x523a	0x98	NOI	#6A	Then you were removed from	
+				your Temple too, Algol...	
 0x528d	0x06	ALTO		ANI_THINK	
-0x52b4	0x98	ALTO	#6A	They may plan to shut down the temple	
-				again...	
+0x52b4	0x98	ALTO	#6A	They're probably planning to	
+				shut down the Temple again...	
 0x530c	0x06	ALTO		ANI_WAIT	
-0x5332	0x41	None	#0W#2E#030c	If your story is true,	
-				that is a likely possibility.#0E	
-0x53c5	0x41	None	#0W#2E#030c	However, if we consider whether	
-				that man is truly the head of the Mythos...#0E	
-0x5471	0x41	None	#0W#2E#030c	Who in the world is the "masked man"...#0E	
+0x5332	0x41	None	#0W#2E#030c	If what you say is true,	
+				then that is a strong possibility.#0E	
+0x53c5	0x41	None	#0W#2E#030c	However, even if we consider that man	
+				to be truly the head of the Mythos...#0E	
+0x5471	0x41	None	#0W#2E#030c	Who exactly was the man in the mask...?#0E	
 0x5500	0x6B	ALTO		Exclamation	
 0x5532	0x6B	NOI		Exclamation	
 0x5563	0x06	ALTO		ANI_THINK2	
-0x558b	0x98	ALTO	#6A	The masked man...	
-				The one we met before at the ruins!?	
-0x5608	0x98	NOI	#6A	...That masked man has been Zext's	
-				right hand man ever since he appeared	
-				in Terra.	
-0x56b4	0x98	NOI	#6A	I don't know his true identity, but	
-				his skill with the sword is amazing...	
-0x571f	0x98	NOI	#6A	Almost all of the four	
-				Master Gears were stolen by him.	
-0x57b1	0x98	ALTO		I haven't seen his face ever since	
-				I came to Terra, though...	
+0x558b	0x98	ALTO	#6A	Man in a mask...	
+				The one we met before	
+				at Remnant Island!?	
+0x5608	0x98	NOI	#6A	...That masked man seems to have been	
+				acting as Zext's right hand man ever	
+				since he arrived on Terra.	
+0x56b4	0x98	NOI	#6A	We have no idea who he is, but	
+				he's an amazing swordsman...	
+0x571f	0x98	NOI	#6A	He stole all four	
+				of my Master Gears.	
+0x57b1	0x98	ALTO		I haven't seen him ever since	
+				I first came to Terra, though...	
 0x580f	0x06	ALTO		ANI_GESTURE1	
 0x5839	0x98	ALTO		If he captured Algol,	
-				it's likely that he is	
-				at the temple.	
+				it's more than likely	
+				that he's at the Temple.	
 0x5892	0x06	ALTO		ANI_WAIT4	
-0x58b9	0x98	ALTO		It seems like he was more than	
-				a match for Cygna, so it might	
-				be good to be careful.	
-0x5933	0x41	None	#0W#2E#030c	...For the present, all I can do	
-				is leave the temple matters to you two.#0E	
-0x59da	0x41	None	#0W#2E#030c	They captured I, strongest	
-				of the wardens...#0E	
-0x5a65	0x41	None	#0W#2E#030c	You should be on your guard as you go...#0E	
+0x58b9	0x98	ALTO		It seemed like he was at	
+				least on par with Cygna,	
+				so we better be careful.	
+0x5933	0x41	None	#0W#2E#030c	...At present, all I can do	
+				is entrust the Temple in your care.#0E	
+0x59da	0x41	None	#0W#2E#030c	They captured me, the most	
+				combat-oriented of the Wardens...#0E	
+0x5a65	0x41	None	#0W#2E#030c	Stay vigilant...#0E	
 0x5b5d	0x06	ALTO		ANI_WAIT	
 0x5bc1	0x06	NOI		ANI_NOD	
-0x5be5	0x98	NOI	#6A	Wait for us, Algol!	
+0x5be5	0x98	NOI	#6A	Hang on, Algol!	
 0x5c22	0x06	ALTO		ANI_JOY	
-0x5c47	0x98	ALTO	#6A	We will definitely take back the Temple!	
+0x5c47	0x98	ALTO	#6A	We'll take the Temple back, I promise!	

@@ -22,36 +22,35 @@ dead_boss
 CancerAtariOn
 CancerAtariOff
 talk_Algorl
-0x33ca	0x98	Algorl		If the four wardens pool their strength,	
-				then possibly...	
-0x3424	0x98	Algorl		However, the teachings of Kureha and	
-				the others are simply a treasure.	
-				...Entrusted to us.	
-0x34d2	0x98	Algorl		It seems the situation is in chaos...	
-0x3519	0x98	Algorl		However, that Kureha was kidnapped	
-				is reality. It's only natural that you	
-				would chase her.	
-0x3593	0x98	Algorl		We will support you as much as we can.	
-				...Now, you should hurry ahead.	
-0x3622	0x98	Algorl		At a time like this,	
-				there's no mistake that Zext plans	
+0x33ca	0x98	Algorl		If the four Wardens pool	
+				their strength, then perhaps...	
+0x3424	0x98	Algorl		However, you are the only ones	
+				who can save Master Kureha.	
+				...We are counting on you.	
+0x34d2	0x98	Algorl		There seems to be a chaotic situation unfolding...	
+0x3519	0x98	Algorl		However, if Kureha was indeed	
+				kidnapped, it's only natural	
+				that you should pursue them.	
+0x3593	0x98	Algorl		We will do all we are able to support you.	
+				...But now, you should hurry ahead.	
+0x3622	0x98	Algorl		Going through such lengths, there's no	
+				mistaking that Zext must be planning	
 				to use Kureha for something...	
-0x3698	0x98	Algorl		Hurry ahead, you two.	
-0x370b	0x98	Algorl		This magic is a fragment of	
-				my power that I have given to Noi.	
+0x3698	0x98	Algorl		Hurry onwards, you two.	
+0x370b	0x98	Algorl		This magic I have given to Noi	
+				is a fragment of my own power. 	
 				...Use it wisely.	
-0x377b	0x98	Algorl		Beyond this point,	
-				countless trials await...	
-				Never give up.	
+0x377b	0x98	Algorl		In the coming days, you will	
+				face countless trials, but...	
+				You must ever give up.	
 0x37e4	0x98	Algorl		For Terra and Master Kureha...	
-				Please take care of them.	
-0x3866	0x98	Algorl		Hmm...as I thought, you have come	
-				to this temple once again.	
-0x38c2	0x98	Algorl		While I was imprisoned,	
-				it seems like this place	
-				got worse by the second.	
-0x3925	0x98	Algorl		...That Zext.	
-				Just what is he planning?	
+				Please, take care of them.	
+0x3866	0x98	Algorl		Hmm...as I thought, I am currently	
+				in no condition to restart this Temple.	
+0x38c2	0x98	Algorl		It seems that while I was imprisoned,	
+				the situation grew worse by the second.	
+0x3925	0x98	Algorl		...Zext. Just what	
+				is he planning?	
 0x3997	0x98	Algorl		mp_3099 0x3925
 talk_SpiritA
 0x3a11	0x6B	SpiritA		Exclamation	
@@ -62,7 +61,7 @@ talk_SpiritB
 0x3b1d	0x98	SpiritB		.....	
 				.....	
 0x3b68	0x98	SpiritB		mp_3099 0x3b1d
-0x3ba9	0x40	UNDEF		It seems like it's staring at the mural...	
+0x3ba9	0x40	UNDEF		It seems to be staring at the mural...	
 talk_SpiritC
 0x3c20	0x98	SpiritC		mp_1099 0x3014
 0x3c51	0x98	SpiritC		...㈱	
@@ -76,260 +75,261 @@ talk_SpiritD
 quest_Algorl
 0x3e6e	0x98	Algorl		So you have safely found	
 				Nemeas' spirit...	
-0x3eb9	0x98	Algorl		Hmm, it seems that a now relaxed	
-				presence is heading for Nemeas' location.	
-0x3f24	0x98	Algorl		If the spirits return,	
-				Nemeas will be pleased.	
+0x3eb9	0x98	Algorl		Hmm, it seems to be heading back to	
+				Nemeas' now that it has calmed down.	
+0x3f24	0x98	Algorl		I am sure Nemeas will be pleased	
+				to have another spirit return.	
 				For that, I give my thanks.	
-0x3f98	0x98	Algorl		As for the presence of Nemeas' spirit,	
-				it is near the "Wind-Cutting Valley" in the	
-				southwest part of Heimmel.	
-0x4025	0x98	Algorl		It would be good to search in the	
-				"Autumn" season.	
-0x4078	0x98	Algorl		Because the presence is considerably	
-				panicked, you should go quickly.	
-0x41cb	0x98	Algorl		The fragments of my lost power	
-				should be in the shape of faint light	
-				orbs floating above the origin continent.	
-0x425a	0x98	Algorl		Furthermore, as you collect the power,	
-				light should steadily return to the jewel.	
-0x42cc	0x98	Algorl		Once the jewel reaches maximum brightness,	
-				I want you to bring it here once more.	
+0x3f98	0x98	Algorl		The life signature of Nemeas' spirit	
+				is in the southwest part of Heimmel,	
+				near "Wind-Cutting Valley."
+0x4025	0x98	Algorl		You might wish to search 	
+				with the season set to Autumn.	
+0x4078	0x98	Algorl		It seems the signature is considerably	
+				panicked, so you should go quickly.	
+0x41cb	0x98	Algorl		The fragments of my lost power should be	
+				in the form of floating pale orbs of light	
+				scattered across the Origin Continent.	
+0x425a	0x98	Algorl		And thus, as the power is collected,	
+				light will gradually return to the jewel.	
+0x42cc	0x98	Algorl		Bring the jewel back to me once	
+				it shines its brightest,	
+				
 QS_44_quest_start
-0x454a	0x98	Algorl		There is something that	
-				I must request for	
-				you to do.	
+0x454a	0x98	Algorl		I have an important favor	
+				to ask of you, my friend.	
 0x45a4	0x98	Algorl		How about it...?	
-				Will you help me?	
-0x45ee	0x98	Algorl		...Noi and...Nayuta, was it?	
-0x4629	0x98	Algorl		There is something that	
-				I request for you to do...	
+				Will you...help me?	
+0x45ee	0x98	Algorl		...Noi and...Nayuta?	
+0x4629	0x98	Algorl		I have an important	
+				favor to ask of you...	
 0x467c	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x46ab	0x98	ALTO	#6A	mp_0001 0x166ea
 0x46d4	0x06	NOI		ANI_GESTURE2	
 0x46fd	0x98	NOI	#6A	mp_0115 0x100aa
-0x4729	0x98	NOI	#6A	It's rare for you to request something, Algol.	
-				I wonder what happened.	
-0x47a7	0x98	Algorl		I will not press you.	
-0x4806	0x98	Algorl		How about it...?	
+0x4729	0x98	NOI	#6A	It's unusual of you	
+				to need a favor, Algol.	
+				What's the matter?	
+0x47a7	0x98	Algorl		It is a matter I cannot	
+				accomplish on my own.	
+0x4806	0x98	Algorl		What do you think...?	
 				Will you help me?	
 0x4888	0x36	Choice		mp_0000 0xeaf5
 0x489e	0x36	Choice		mp_0000 0xeb0b
 0x493d	0x06	ALTO		ANI_OJIGI	
-0x4964	0x98	ALTO	#6A	Um, sorry.	
-				Now is a bad time...	
+0x4964	0x98	ALTO	#6A	Um, sorry. Now's not a good time...	
 0x49a3	0x06	NOI		ANI_GESTURE1	
 0x49cc	0x98	NOI	#6A	I'm sorry, Algol...	
-0x4a01	0x98	Algorl		...It cannot be helped.	
-				I will not ask the impossible of you.	
+0x4a01	0x98	Algorl		...I suppose it cannot be helped.	
+				I will not ask you to do the impossible.	
 QS_44_undertake
 0x4b2e	0x06	ALTO		ANI_THANKS	
-0x4b56	0x98	ALTO	#6A	Yes, of course we'd	
-				like to help you.	
+0x4b56	0x98	ALTO	#6A	Yes, of course.	
+				We'd be happy to help.	
 0x4bbe	0x98	Algorl		...Is that so? I thank you.	
 0x4c1b	0x98	Algorl		As for the request I have for you...	
-				it is regarding my sealed power.	
+				It is regarding my sealed power.	
 0x4c81	0x06	NOI		ANI_GESTURE1	
 0x4caa	0x98	NOI	#6A	Sealed power...?	
-0x4cf3	0x98	Algorl		You should already know this, Noi...	
-				Us wardens are endowed great	
-				power to be used in times of crisis.	
-0x4d7b	0x98	Algorl		Of course, even when it is facing people	
-				like the Mythos, it is easy to fall	
-				behind in an emergency.	
+0x4cf3	0x98	Algorl		As you should already know, Noi...	
+				I am the most combat-oriented among us wardens.	
+0x4d7b	0x98	Algorl		I can easily match monsters	
+				or even one of the Mythos.
 0x4df5	0x06	ALTO		ANI_THINK2	
-0x4e1d	0x98	ALTO	#6A	Certainly, even when you were trapped,	
-				I could sense great power coming from you.	
-0x4e8b	0x98	NOI	#6A	Algol is normally calm, but	
-				when he get serious, he can	
+0x4e1d	0x98	ALTO	#6A	Certainly, even when you were sealed,	
+				I could feel tremendous powe from you.	
+0x4e8b	0x98	NOI	#6A	Algol is normally pretty tranquil,	
+				but if he gets serious, he can	
 				even blow up mountains.	
 0x4f1a	0x98	Algorl		Hmm, but...	
 				Since I was released from the seal,	
 				I've recovered only part of my power.	
-0x4f8f	0x98	Algorl		...Somehow, it seems Master Selam	
-				created a double seal.	
+0x4f8f	0x98	Algorl		...Tt seems that Master Selam	
+				placed a second seal on me.	
 0x4fe8	0x06	ALTO		ANI_SURPRISE	
-0x5012	0x98	ALTO	#6A	A double seal!?	
+0x5012	0x98	ALTO	#6A	A second seal!?	
 0x5044	0x06	NOI		ANI_COMPLAIN	
-0x506d	0x98	NOI	#6A	He did something to you	
+0x506d	0x98	NOI	#6A	You mean, he did something	
 				in addition to the cage!?	
-0x50c2	0x98	Algorl		Hmm...	
-				It seems my power was split into three,	
-				sealed, and scattered about.	
-0x512d	0x98	Algorl		And furthermore, they are not on this	
-				continent, but were transferred to another.	
-0x51a9	0x98	Algorl		This concerns me...	
-				My power now is half of	
-				what it originally was.	
-0x5215	0x98	Algorl		If I spend time on it, it seems like	
-				I could slowly recover my lost power...	
-				But it would take a long time indeed.	
+0x50c2	0x98	Algorl		Hmm... Apparently, my power was sealed	
+				and divided into three separate pieces.	
+0x512d	0x98	Algorl		And subsequently transferred	
+				to another continent.	
+0x51a9	0x98	Algorl		I may be being over cautious..	
+				But I cannot bring forth half	
+				of my true power at the moment.
+0x5215	0x98	Algorl		With time, I could gradually	
+				recover my power... But that	
+				would take a long time indeed.	
 0x529b	0x06	NOI		ANI_DEJECTED	
 0x52c4	0x98	NOI	#6A	mp_0100 0x1c977
-0x52ef	0x98	NOI	#6A	If a time came when we need your	
-				power and you couldn't use it,	
-				it'd be big trouble!	
-0x536f	0x98	Algorl		I, too, feel the current situation is truly regrettable.	
-0x53e7	0x98	Algorl		Now... I want to receive your help	
-				to quickly recover my lost power.	
+0x52ef	0x98	NOI	#6A	Now I'm worried that we won't	
+				be able to rely on your power	
+				to help out in times of need!
+0x536f	0x98	Algorl		I, too, delpore the current situation.	
+0x53e7	0x98	Algorl		Now... I want your help	
+				to recover my lost power	
+				as soon as possible.	
 0x544b	0x06	ALTO		ANI_GESTURE1	
-0x5475	0x98	ALTO	#6A	We would be glad to	
-				help to you, but...	
+0x5475	0x98	ALTO	#6A	We would be glad to help, but...	
 0x54c4	0x98	ALTO	#6A	What should we do, exactly?	
 0x551e	0x98	Algorl		First, I want you to take this.	
 0x5585	0x06	Algorl		ANI_HANDOVER	
 0x55b9	0xC1	System		mp_0000 0x7558
 0x568e	0x06	ALTO		ANI_GESTURE2	
-0x56b8	0x98	ALTO	#6A	This is...?	
-				It seems ashen	
-				and dull.	
-0x5703	0x98	Algorl		That is a special jewel that	
-				can contain my power as	
-				a warden.	
-0x5761	0x98	Algorl		Holding that, I want you to	
-				collect my scattered power.	
-0x57fb	0x98	Algorl		As to where my power is sealed, according	
-				to the spirits, it seems to be located 
-				in La Worg, the Origin Continent.	
+0x56b8	0x98	ALTO	#6A	What's this...?	
+				It's kind of	
+				dull and gray.	
+0x5703	0x98	Algorl		That is a special jewel capable	
+				of housing my power as a Warden.	
+0x5761	0x98	Algorl		With that, I want you to gather	
+				the scattered fragments of my power.	
+0x57fb	0x98	Algorl		As for where my power is sealed,	
+				according to the spirits, they seem	
+				to be in La Worg, the Origin Continent.	
 0x5890	0x06	NOI		ANI_GESTURE2	
 0x58b9	0x98	NOI	#6A	La Worg...	
-				So your power is there...	
+				So that's where	
+				Algol's power is...	
 0x5900	0x06	ALTO		ANI_NOD	
 0x5925	0x98	ALTO		Understood.	
-				By all means, allow us to do this for you.	
+				By all means, let	
+				us do this for you.	
 0x597a	0x06	ALTO		ANI_GESTURE2	
 0x59a4	0x98	ALTO	#6A	Speaking of your power, Algol,	
-				how should we search for it?	
-0x5a01	0x98	Algorl		My power will likely be in the shape	
-				of floating light orbs.	
-0x5a60	0x98	Algorl		If you find one and hold that jewel to it,	
+				what should we look for?	
+0x5a01	0x98	Algorl		My power will most likely	
+				appear in the form of	
+				floating pale orbs of light.	
+0x5a60	0x98	Algorl		If you find one and bring it close,	
 				the jewel will absorb it.	
 0x5ad7	0x98	Algorl		mp_3099 0x425a
 0x5b49	0x98	Algorl		mp_3099 0x42cc
 0x5bbb	0x06	ALTO		ANI_THANKS	
 0x5be3	0x98	ALTO	#6A	I see... I understand.	
-0x5c30	0x98	ALTO	#6A	Well then, Noi.	
-				Let's do our best	
-				to search for Algol's power.	
+0x5c30	0x98	ALTO	#6A	Well then, Noi, let's	
+				do our best to find	
+				all of Algol's power!	
 0x5ca4	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
-0x5d02	0x98	NOI	#6A	Just wait, Algol!	
-				We'll recover your original	
-				power for you!	
-0x5d5e	0x98	Algorl		I am in your care, you two.	
-0x5dcf	0x07	System	#3C	Quest [Recovering Lost Power] started!	
+0x5d02	0x98	NOI	#6A	Hang on, Algol!	
+				We'll get your	
+				power back!	
+0x5d5e	0x98	Algorl		I am in your debt, you two.	
+0x5dcf	0x07	System	#3C	Quest [Lost Power] started!	
 QS_44_quest_end
-0x61d8	0x98	Algorl		...Nayuta, Noi.	
-				This presence...	
+0x61d8	0x98	Algorl		...Nayuta, Noi.		
 				Could it be...?	
 0x6228	0x06	ALTO		ANI_NOD	
-0x624d	0x98	ALTO	#6A	Yes, we were somehow able	
-				to restore light to the jewel.	
+0x624d	0x98	ALTO	#6A	Yes, we managed to get	
+				the jewel to shine.	
 0x62cc	0x06	ALTO		ANI_HANDOVER	
-0x6322	0x40	UNDEF		Handed over the colored jewel.	
+0x6322	0x40	UNDEF		Handed over the Colored Jewel.	
 0x63e1	0x98	Algorl		Certainly...	
 				You have done well in gathering	
-				my scattered power for me.	
+				all of my scattered power.	
 0x6448	0x06	NOI		ANI_GESTURE2	
-0x6471	0x98	NOI	#6A	Now your power will	
-				be restored to normal, yes?	
+0x6471	0x98	NOI	#6A	Will this restore your power	
+				be back to normal nw?	
 0x64e7	0x98	Algorl		Hmm. Please wait a moment.	
-0x6545	0x40	UNDEF		Algol took the colored jewel	
+0x6545	0x40	UNDEF		Algol took the Colored Jewel	
 				into his body.	
 0x6598	0x06	Algorl		ANI_USE_POWER	
-0x660d	0x98	Algorl	#0W	..................	
-				...Koooooooo...	
+0x660d	0x98	Algorl	#0W	............	
+				...Kooooo...	
 0x66a6	0x6B	ALTO		Unknown	
 0x66d8	0x6B	NOI		Unknown	
 0x6711	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x6740	0x98	ALTO	#6A	mp_0115a 0x6232
 0x6770	0x06	NOI		ANI_GESTURE1	
-0x6799	0x98	NOI	#6A	Algol's colossal power is having	
-				an effect on the surroundings!	
+0x6799	0x98	NOI	#6A	Algol's colossal power is 	
+				affecting the environment!	
 0x6801	0x98	Algorl	#0W	mp_0002 0x1b64	
-0x684a	0x98	Algorl	#18S	.........Kaa!!	
+0x684a	0x98	Algorl	#18S	......Kaa!!	
 0x69b6	0x6B	ALTO		Exclamation	
 0x69e8	0x6B	NOI		Exclamation	
 0x6a19	0x06	ALTO		ANI_SURPRISE	
 0x6a43	0x98	ALTO	#6A	A-Amazing!	
-				Even I can tell that his	
-				tremendous power is overflowing!!	
+				Even I can tell he's full	
+				of tremendous power!!	
 0x6aab	0x06	NOI		ANI_JOY	
-0x6acf	0x98	NOI	#6A	It could blow me away!	
+0x6acf	0x98	NOI	#6A	I'm gonna get blown away!	
 0x6b07	0x06	NOI		ANI_WAIT	
 0x6ba7	0x06	Algorl		ANI_WAIT	
-0x6bcf	0x98	Algorl		...Hmm, that's about it.	
+0x6bcf	0x98	Algorl		...Hmm, that's the way to do it.	
 0x6c09	0x6B	NOI		Unknown	
 0x6c3a	0x06	NOI		ANI_GUTSPOSE	
 0x6c63	0x98	NOI	#6A	W-We did it!	
-				Algol's power is restored!	
+				Algol's power	
+				is restored!	
 0x6cab	0x98	NOI	#6A	Now that Algol has his true power,	
-				we don't have to be afraid of Zext anymore!	
+				we no linger have to be afraid of Zext!	
 0x6d39	0x98	Algorl		...No, it is not that simple.	
 0x6d78	0x98	Algorl		With my power, I can	
-				certainly keep him out	
-				for a short time, but..	
-0x6de5	0x98	Algorl		In the end, that is all I can do. Although the	
-				head of the Mythos may have gone bad, he is	
-				still the one that created this world of Terra.	
-0x6e8f	0x98	Algorl		As for myself...	
-				Before long, they will devise a plan able 
-				to counter the power of any single warden.	
+				certainly hold him back	
+				for a short while, but..	
+0x6de5	0x98	Algorl		In the end, that would all I could do. Although	
+				the head of the Mythos may have been corrupted,	
+				he is still the creator this world of Terra.	
+0x6e8f	0x98	Algorl		This particular matter...	
+				It's far beyond the power of	
+				any single Warden to solve it.	
 0x6f13	0x06	NOI		ANI_DEJECTED	
-0x6f3c	0x98	NOI	#6A	T-That's right...	
+0x6f3c	0x98	NOI	#6A	Y-You're right...	
 0x6f6f	0x06	ALTO		ANI_GESTURE1	
-0x6f99	0x98	ALTO	#6A	Certainly... We don't	
-				know their objective,	
+0x6f99	0x98	ALTO	#6A	Certainly... We don't even	
+				know what they want to do,	
 				so we can't rest easy.	
 0x701c	0x98	Algorl		...In any case, thanks to	
 				your efforts, my power has	
 				been completely recovered.	
-0x7086	0x98	Algorl		Allow me to thank you,	
+0x7086	0x98	Algorl		I must thank you,	
 				Nayuta and Noi.	
 0x70cd	0x06	ALTO		ANI_DENY	
-0x70f3	0x98	ALTO	#6A	No, it was the	
-				natural thing to do.	
+0x70f3	0x98	ALTO	#6A	No, we were only doing	
+				what we should have done.	
 0x7138	0x06	NOI		ANI_GESTURE1	
-0x7161	0x98	NOI	#6A	In our hour of need, I want	
-				you to use that power to save us!	
-0x71d6	0x98	Algorl		Hmm... You can depend on me.	
-0x7213	0x98	Algorl		And...please accept this.	
+0x7161	0x98	NOI	#6A	In our hour of need, we need	
+				you to use that power to help us!	
+0x71d6	0x98	Algorl		Hmm... You can count on me.	
+0x7213	0x98	Algorl		And...please, take this.	
 0x7266	0xC1	System		mp_0000 0x12596
 0x73b9	0x07	System	#1C	Noi learned the autumn magic, #4C『#786IGround Terra』.	
 0x7437	0x06	NOI		ANI_GESTURE2	
-0x7460	0x98	NOI	#6A	This art is...!	
-				It looks amazingly strong!	
-0x74ab	0x98	Algorl		I gave a portion of	
-				my recovered power	
-				to you, Noi.	
+0x7460	0x98	NOI	#6A	This art...!	
+				Seems super strong!	
+0x74ab	0x98	Algorl		I shared a portion of my	
+				recovered power with you, Noi.	
 				...Use it wisely.	
 0x7512	0x06	ALTO		ANI_THANKS	
 0x753a	0x98	ALTO	#6A	Haha, thank you very much.	
 0x75b9	0x98	Algorl		mp_3099 0x377b
 0x7622	0x98	Algorl		mp_3099 0x37e4
-0x76b4	0x07	System	#3C	Quest [Recovering Lost Power] completed!	
+0x76b4	0x07	System	#3C	Quest [Lost Power] completed!	
 QS_44_quake_start
 QS_44_quake_end
 QS_54_talk_Algorl
 0x7bb2	0x06	Algorl		ANI_GESTURE2	
-0x7bde	0x98	Algorl		So it is Noi and Nayuta...	
-				Somehow, it seems there is	
-				something you want to ask me.	
+0x7bde	0x98	Algorl		So, Noi and Nayuta...	
+				What is the matter? It seems there	
+				is something you want to say.	
 0x7c51	0x06	ALTO		ANI_GESTURE2	
-0x7c7b	0x98	ALTO	#6A	Yes, I brought a request	
-				for you, Algol.	
-0x7cc5	0x40	UNDEF		Nayuta explained about Nemeas' spirits, and tried	
-				asking if he has any idea where they are.	
-0x7d40	0x98	Algorl		Is that so...	
-				Then Nemeas must be suffering.	
+0x7c7b	0x98	ALTO	#6A	Yes, I have a favor	
+				to ask of you, Algol.	
+0x7cc5	0x40	UNDEF		Nayuta explained what happened to Algol,	
+				and asked if he had any idea where to	
+				find Nemeas' missing spirits.	
+0x7d40	0x98	Algorl		Is that so...?	
+				That must be very	
+				difficult for Nemeas.	
 0x7d8d	0x06	Algorl		ANI_NOD	
-0x7db4	0x98	Algorl		Very well. I shall lend you my	
-				power as warden.	
+0x7db4	0x98	Algorl		Very well. I shall lend	
+				you my power as Warden.	
 0x7e04	0x06	NOI		ANI_NOD	
 0x7e28	0x98	NOI	#6A	Thank you, Algol!	
 0x7e5b	0x06	NOI		ANI_THINK	
-0x7e81	0x98	NOI	#6A	If there is the presence of a spirit	
-				on this continent, please tell us where	
-				it is...	
+0x7e81	0x98	NOI	#6A	If the life signatures of any	
+				of her spirits are on this	
+				continent, please tell us...	
 0x7ef6	0x06	NOI		ANI_WAIT	
 0x7f1b	0x06	Algorl		ANI_NOD	
 0x7f42	0x98	Algorl		Acknowledged.	
@@ -338,40 +338,39 @@ QS_54_talk_Algorl
 0x8085	0x98	Algorl	#2W	Koooo...	
 0x80ba	0x6B	Algorl		Exclamation	
 0x8130	0x06	Algorl		ANI_NOD	
-0x8157	0x98	Algorl		This presence...	
-				Yes, there's no mistake.	
-0x81c7	0x98	Algorl		It is certainly the presence of	
-				Nemeas' spirit─	
+0x8157	0x98	Algorl		This signature...	
+				Yes, no doubt remains.	
+0x81c7	0x98	Algorl		It is most certainly that of Nemeas' spirit...	
 				As expected, it was on this continent.	
 0x8240	0x06	ALTO		ANI_GESTURE1	
-0x826a	0x98	ALTO	#6A	Thank goodness...You helped	
-				us faster than expected.	
+0x826a	0x98	ALTO	#6A	Thank goodness... We might be able	mp_1099 0x96f7
+				to do this faster than I thought.
 0x82c0	0x98	Algorl		But, I only sensed	
 				one presence...	
 0x8303	0x06	Algorl		ANI_GESTURE2	
 0x832f	0x98	Algorl		Anyway, I will tell you	
 				the location.	
 0x837f	0x98	Algorl		It is certainly the presence of	
-				Nemeas' spirit──	
-				It seems there is only one on this continent.	
+				Nemeas' spirit─But it seems only	
+				one exists on this continent.	
 0x83ff	0x06	ALTO		ANI_GESTURE1	
 0x8429	0x98	ALTO	#6A	Thank goodness...Do you know the location?	mp_1099 0x98b9
 0x8478	0x06	Algorl		ANI_GESTURE1	
-0x84a4	0x98	Algorl		The presence is near the "Wind-	
-				Cutting Valley" in the	
-				southwest part of Heimmel.	
-0x8515	0x98	Algorl		Because the presence is considerably	
-				panicked, you should set the season	
-				to normal and go.	
+0x84a4	0x98	Algorl		The presence is near	
+				"Wind Cutting Valley"	
+				in southwestern Heimmel.	
+0x8515	0x98	Algorl		The signature seemed considerably	
+				panicked, you should try and go	
+				during the normal season.	
 0x858f	0x06	NOI		ANI_NOD	
 0x85b3	0x98	NOI	#6A	Understood.	
-				We'll make the season "Autumn"	
-				and try searching!	
+				We'll make the season	
+				Autumn and take a look!	
 0x8610	0x06	ALTO		ANI_JOY	
-0x8635	0x98	ALTO	#6A	Algol, thank you very much!	
+0x8635	0x98	ALTO	#6A	Algol, thank you so much!	
 0x8673	0x06	Algorl		ANI_NOD	
-0x869a	0x98	Algorl		Yes, you should	
-				save it immediately.	
+0x869a	0x98	Algorl		Yes, you should help	
+				it as soon as you can.	
 quest_SpiritD
 0x8924	0x98	SpiritD		.......	
 				...～～～...!	
@@ -380,8 +379,8 @@ quest_SpiritD
 0x8bc2	0x6B	SpiritD		Exclamation	
 0x8bf7	0x98	SpiritD		.........!	mp_1099 0xa0ad
 0x8c24	0x06	SpiritD		ANI_NOD	
-0x8c4c	0x98	SpiritD		...! .........	
-				...............!	
+0x8c4c	0x98	SpiritD		...!....	
+				.......!	
 0x8c8d	0x6B	SpiritD		Coldsweat	
 0x8cc2	0x06	SpiritD		ANI_DENY	
 0x8ceb	0x98	SpiritD		...～.........	mp_2099 0x6ef5
@@ -426,7 +425,7 @@ quest_SpiritD
 0x93ad	0x98	NOI	#6A	Normally, this one is patrolling	mp_1099 0xaa58
 				the continent, but...	
 				it seems they can't stop themselves.	
-0x9432	0x98	NOI	#6A	That's not the case, but it	
+0x9432	0x98	NOI	#6A	That's not the case, but it	mp_1099 0xa8c5
 				it seems it has a similar power.	
 0x948f	0x06	NOI		ANI_COMPLAIN	
 0x94b8	0x98	NOI	#6A	"Because of the influence of the abnormalities,	mp_1099 0xa71e
@@ -500,15 +499,14 @@ quest_SpiritD
 0xa03d	0x06	SpiritD		ANI_NOD	
 0xa06d	0x98	SpiritD		...～～～...!	
 0xa09d	0x06	NOI		ANI_GESTURE2	
-0xa0de	0x98	NOI	#6A	It says it appeared in "Spring" of the	
-				"Sacred Mountain that Pierces Heaven,"	
-				in the midwest part of Heimmel!	
+0xa0de	0x98	NOI	#6A	It said it appeared during the Spring in	
+				"Heavenly Mountain," in midwestern Heimmel!	
 0xa16b	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb5ed
 				when we have time, we should proceed	
 				carefully, it says.	
-0xa1ed	0x98	NOI	#6A	It seems it appeared in "Spring" of the	
-				"Sacred Mountain that Pierces Heaven,"	
-				in the midwest part of Heimmel!	
+0xa1ed	0x98	NOI	#6A	It seems to have appeared during	
+				the Spring in "Heavenly Mountain,"	
+				in midwestern Heimmel!	
 0xa27b	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb6ef
 				when we have time, it wants us to proceed	
 				carefully.	
@@ -521,15 +519,14 @@ quest_SpiritD
 0xa400	0x98	SpiritD		...!	mp_1099 0xb874
 0xa490	0xC1	System		received.	mp_0000 0x12596
 0xa509	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xa538	0x98	ALTO		Ah...Maybe this is advance payment?	
-				(In Japanese, 39 - "san-kyuu"	
-				 - "Thanks!")	
+0xa538	0x98	ALTO		Ah... Is this...a	
+				thank you in advance?
 0xa5a7	0x06	ALTO		ANI_SCRATCH_HEAD	
-0xa5d5	0x98	ALTO		Ahaha, hang in there...	
+0xa5d5	0x98	ALTO		Ahaha, you're pretty organized...	
 0xa60c	0x06	NOI		ANI_GUTSPOSE	
-0xa64d	0x98	NOI	#6A	Nayuta, let's try going to	
-				"Spring" of the "Sacred Mountain that	
-				Pierces Heaven" immediately!	
+0xa64d	0x98	NOI	#6A	Nayuta, let's get going to	
+				the Spring of the "Heavenly	
+				Mountain" right away!	
 0xa6d4	0x98	NOI	#6A	Nayuta, let's try going to	mp_3099 0xa64d
 				"Spring" of the "Sacred Mountain that	
 				Pierces Heaven" immediately!	
@@ -546,8 +543,8 @@ quest_SpiritD_End
 				.........!!	
 0xad74	0x6B	SpiritD		Unknown	
 0xada9	0x06	ALTO		ANI_GESTURE2	
-0xadd3	0x98	ALTO		Ahaha, somehow,	
-				it seems it's deeply moved...	
+0xadd3	0x98	ALTO		Ahaha, somehow, it seems	
+				kind of impressed...	
 0xae1f	0x06	NOI		ANI_NOD	
 0xae5b	0x98	NOI	#6A	Yes, it says it senses the disappearance	mp_1099 0xc0cc
 				of the monster presence.	
@@ -818,14 +815,14 @@ QS_83_quest_end
 EV_3_S15_temple3_top
 0x10ac9	0x06	ALTO		ANI_LOOK_AROUND	
 0x10b15	0x06	NOI		ANI_LOOK_AROUND	
-0x10b41	0x98	ALTO		This is the top floor, huh...	
-0x10b7e	0x98	ALTO		But it's strangely silent.	
-0x10be8	0x98	NOI	#6A	It seems it's because Zext	
-				has already left...	
-0x10c37	0x98	NOI	#6A	Though the altar is above here,	
-				be on your guard.	
+0x10b41	0x98	ALTO		So this is the summit...?	
+0x10b7e	0x98	ALTO		It seems eerily quiet.	
+0x10be8	0x98	NOI	#6A	This time around Zext and	
+				everyone else are already gone...	
+0x10c37	0x98	NOI	#6A	The altar is just up ahead, but...	
+				Don't let your guard down.	
 0x10cb9	0x06	ALTO		ANI_NOD	
-0x10cde	0x98	ALTO		Yeah, let's brace ourselves.	
+0x10cde	0x98	ALTO		Yeah, let's stay focused.	
 SB_3_S16_noi_move
 0x10e2f	0x6B	NOI		Unknown	
 SB_3_S16_alto_move
@@ -839,42 +836,44 @@ EV_3_S16_boss_battle
 0x112b1	0x6B	NOI		Surprise	
 0x1139e	0x98	NOI		There it is...	
 				The Master Gear of Wind!	
-0x113ed	0x98	ALTO		Thank goodness...we found it!	
+0x113ed	0x98	ALTO		Thank goodness...We found it!	
 0x114ce	0x06	ALTO		ANI_WAIT4	
-0x114f5	0x98	ALTO	#6A	They really left it behind again...	
+0x114f5	0x98	ALTO	#6A	Can't believe they really did	
+				just leave it behind again...	
 0x1153b	0x98	ALTO	#6A	It's just as Selam said.	
 0x11597	0x6B	ALTO		Surprise	
 0x11685	0x06	ALTO		ANI_THINK2	
 0x116b5	0x98	ALTO	#6A	Oh, by the way...	
-				what is that on the wall?	
-0x11708	0x98	ALTO	#6A	It looks like some kind of mural...	
-0x11775	0x98	NOI	#6A	That was drawn	
-				by the Mythos.	
-0x117bd	0x98	NOI	#6A	The light in the center is	
-				the source of all life, the	
-				Power of the Stars...	
-0x11828	0x98	NOI	#6A	The people beside it	
-				are using its power for
-				guiding the world...	
+				What's that on the	
+				wall back there?	
+0x11708	0x98	ALTO	#6A	Looks like some kind of mural...	
+0x11775	0x98	NOI	#6A	That's a depiction of	
+				the people of Mythos.	
+0x117bd	0x98	NOI	#6A	The light in the middle	
+				is the source of all life,	
+				the Power of Stars...	
+0x11828	0x98	NOI	#6A	With its power, the two people on	
+				each side are guiding the world...	
 0x1188b	0x06	ALTO		ANI_SURPRISE	
 0x118b5	0x98	ALTO	#6A	Guiding the world, huh?	
-				You said that they created Terra, too...	
-0x11919	0x98	ALTO	#6A	They're like what we call	
-				"gods" back in my world.	
-0x1198e	0x98	NOI	#0W#6A#12S	...But they were...	
-0x11a26	0x98	ALTO	#6A	Huh, were you saying something?	
+				And you also said that	
+				they created Terra...	
+0x11919	0x98	ALTO	#6A	They're almost like what we would	
+				call "gods" back in my world.	
+0x1198e	0x98	NOI	#0W#6A#12S	...Because they ARE...	
+0x11a26	0x98	ALTO	#6A	Huh, what did you say?	
 0x11ab3	0x06	NOI		ANI_DENY	
-0x11ad8	0x98	NOI	#6A	...N-Nevermind.	
-0x11b09	0x98	NOI	#6A	Anyway...	
-				Shall we collect the Master Gear now?	
+0x11ad8	0x98	NOI	#6A	...It, it's n-nothing.	
+0x11b09	0x98	NOI	#6A	Anyway... let's go collect the	
+				Master Gear now, shall we?	
 0x11b63	0x06	ALTO		ANI_NOD	
-0x11b88	0x98	ALTO	#6A	...Yes, let's.	
-0x11bb9	0x98	ALTO	#6A	With it, we can revive the Yupina	
+0x11b88	0x98	ALTO	#6A	...Yes, let's go.	
+0x11bb9	0x98	ALTO	#6A	Now we can revive the Yupina	
 				Grass and save my sister-	
 0x11c52	0x6B	ALTO		Surprise	
 0x11c7c	0x6B	NOI		Surprise	
 0x11e4e	0x98	ALTO	#16S	What...!?	mp_1100 0x4966
-0x11e83	0x98	NOI	#16S	The altar is...!	
+0x11e83	0x98	NOI	#16S	The altar...!	
 0x11f7d	0x06	e150_0		ANI_FLY	
 0x12026	0x06	e150_0		ANI_TYAKUTI	
 0x120a4	0x6B	ALTO		Exclamation	
@@ -885,41 +884,41 @@ EV_3_S16_boss_battle
 0x1222b	0x06	e150_1		ANI_TYAKUTI	
 0x122ab	0x06	e150_2		ANI_FLY	
 0x12354	0x06	e150_2		ANI_TYAKUTI	
-0x12387	0x98	NOI		I-It's not...!	
-				This is...	
+0x12387	0x98	NOI		I-It can't be...! It's...	
 0x12429	0x06	b002		ANI_BEFORE	
 0x125f8	0x06	b002		ANI_APPEAR0	
 0x126b2	0x98	NOI	#1W#18S	The idol of Heimmel!	
 0x126fa	0xBC	ALTO		Exclamation	
 0x12746	0x98	ALTO	#1W#16S#8M	Watch out!	
 0x1278e	0x06	b002		ANI_APPEAR2	
-0x12a69	0x98	ALTO	#1W#6A	Guh...	
+0x12a69	0x98	ALTO	#1W#6A	Tch...	
 				Did Selam set this	
 				up as a trap!?	
-0x12ae2	0x98	NOI	#0W#6A	Let's defeat it, Nayuta!	
+0x12ae2	0x98	NOI	#0W#6A	Let's do this, Nayuta!	
 0x12b1f	0x06	NOI		ANI_GUTSPOSE	
-0x12b56	0x98	NOI	#0W#6A	To take back the Master Gear...	
+0x12b56	0x98	NOI	#0W#6A	To get the Master Gear back...	
 				And save your sister!	
 0x12bb9	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
-0x12bf9	0x98	ALTO	#1W#16S#6A	Got it!	
+0x12bf9	0x98	ALTO	#1W#16S#6A	All right!	
 0x12c60	0x06	b002		ANI_APPEAR4	
 0x12cc9	0x06	PLAYER1		ANI_WAIT	
 0x12cf2	0x06	PLAYER2		ANI_WAIT	
 EV_3_S17_get_gear_3rd
 0x1329e	0x06	NOI		ANI_GOODIDEA	
 0x132cf	0x98	NOI	#6A	We did it...	
-				It's the Master Gear of Wind!	
+				It's the Master	
+				Gear of Wind!	
 0x1343b	0x06	NOI		ANI_REMOVE	
 0x134bb	0x06	komono05		ANI_STOP	
 0x135ef	0xC1	System		obtained.	mp_0000 0x7558
 0x1379e	0x06	ALTO		ANI_JOY	
-0x137c3	0x40	ALTO	#6A	With this Master Gear, we might	
-				be able to revive the Yupina Grass!	
+0x137c3	0x40	ALTO	#6A	With this Master Gear, we should	
+				be able to restore the Yupina Grass!	
 0x13826	0x40	NOI		Yeah, I'm sure we can!	
 0x138cf	0x06	NOI		ANI_TAKE_OUT_END	
-0x139ea	0x98	NOI		Quick, let's restore the	
-				continent's climate to normal	
-				with the Astrolabe!	
+0x139ea	0x98	NOI		Quick, let's change the	
+				continent's climate back	
+				to normal with the Astrolabe!	
 0x13a5a	0x06	ALTO		ANI_NOD	
-0x13a7f	0x98	ALTO	#6A	Yeah... Let's go back to the garden!	
+0x13a7f	0x98	ALTO	#6A	Yeah... Let's go back to the Garden!	
 EV_4_S21_release_seal_m

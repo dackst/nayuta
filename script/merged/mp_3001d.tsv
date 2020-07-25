@@ -97,43 +97,44 @@ SB_3_S10_appear_NOI
 EV_3_S10_mount2_start
 0x34bf	0x06	st		ANI_PATA2	
 0x3683	0x06	ALTO		ANI_SIT6	
-0x36a9	0x98	ALTO	#290x#120y	It's a cliff!	
-0x36ec	0x98	ALTO	#290x#120y	As you might expect,	
-				it's too wide to jump across...	
+0x36a9	0x98	ALTO	#290x#120y	It's a chasm!	
+0x36ec	0x98	ALTO	#290x#120y	Obviously, it's too big to jump across...	
 0x3749	0x06	NOI		ANI_THINK	
-0x376f	0x98	NOI		Hmm, with my strength,	
-				carrying you would be	
-				pretty difficult...	
+0x376f	0x98	NOI		Hmm, with my size,	
+				carrying you over would	
+				be pretty difficult...	
 0x3811	0x06	NOI		ANI_SURPRISE	
-0x383a	0x98	NOI	#6A	...Hey, what is that!?	
+0x383a	0x98	NOI	#6A	...Hey, what's that?	
 0x3934	0x06	ALTO		ANI_WAIT	
-0x397a	0x98	ALTO		A floating gear?	
-0x39b5	0x98	NOI		The Mythos of ancient times	
-				created those as an alternate	
-				transportation device.	
-0x3a26	0x98	NOI		One hangs along the gears fixed	
-				in the air using magic, though...	
+0x397a	0x98	ALTO		A floating gear...?	
+0x39b5	0x98	NOI		The Mythos constructed them	
+				in ancient times to aid	
+				transportation.	
+0x3a26	0x98	NOI		One can use magic to hang	
+				onto the gears fixed	
+				in the air, but...	
 0x3b20	0x06	NOI		ANI_GESTURE2	
-0x3b49	0x98	NOI	#6A	...No, it's no good.	
-				As you are now, you can't use magic.	
+0x3b49	0x98	NOI	#6A	...No, they're no good.	
+				As it stands now, you	
+				can't use magic.	
 0x3c03	0x06	ALTO		ANI_DEJECTED	
 0x3c2d	0x98	ALTO		No way...	mp_0100 0x1c977
 0x3c56	0x6B	NOI		Unknown	
 0x3c87	0x06	NOI		ANI_COMPLAIN	
-0x3cb0	0x98	NOI	#6A	B-But, there has to	
-				be some way across!	
-0x3cf6	0x98	NOI	#6A	Want to try searching for it?	
-0x3d52	0x98	ALTO		Another way across...?	
-				It would be good if that's true.	
+0x3cb0	0x98	NOI	#6A	B-But, there has to be	
+				some way to get across!	
+0x3cf6	0x98	NOI	#6A	Let's see what we	
+				can find out, eh?	
+0x3d52	0x98	ALTO		Some...way across?	
+				I wish there was one.	
 0x3dac	0x06	NOI		ANI_GUTSPOSE	
-0x3dd5	0x98	NOI	#6A	It might be better to suspend our exploration	
-				for now and help Elislette next.	
+0x3dd5	0x98	NOI	#6A	It might be better to take a break from	
+				exploring for now and help Elislette next.	
 0x3e42	0x98	NOI	#6A	We should be able to release	
-				her from her cage now...	
+				her from her prison now...	
 0x3e9a	0x06	ALTO		ANI_THINK2	
-0x3ec2	0x98	ALTO		The Rieseweld continent...	
+0x3ec2	0x98	ALTO		The continent of Rieseweld...	
 				That might be a good idea.	
 0x3f11	0x06	ALTO		ANI_GESTURE2	
-0x3f3b	0x98	ALTO		Then, we'll retrace our	
-				steps for now.	
-0x4087	0xCE	Objective		There's a cliff - we can't proceed. Let's help Elislette next.	
+0x3f3b	0x98	ALTO		Then, let's turn back for now.	
+0x4087	0xCE	Objective		There's a chasm - we can't proceed. Let's help Elislette next.	

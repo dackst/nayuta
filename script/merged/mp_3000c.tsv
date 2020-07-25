@@ -23,10 +23,10 @@ obj_move
 QS54_talk_SpiritC
 0xcb8	0x6B	QS54_SpiritC		Unknown	
 0xdbe	0x98	NOI	#6A	Ah, found it!	
-0xded	0x98	ALTO		You're one of Nemeas'	mp_2001d 0x219d
+0xded	0x98	ALTO		You're one of Nemeas'	mp_1002b 0x1842
 				spirits, aren't you?	
-0xe40	0x98	ALTO		To be in a place like this...	
-0xe7d	0x98	ALTO		You're one of Nemeas'	
+0xe40	0x98	ALTO		To be in a place like this...	mp_1002b 0x18e3
+0xe7d	0x98	ALTO		You're one of Nemeas'	mp_1002b 0x18e4
 				spirits, aren't you?	
 				...Are you all right?	
 0xef1	0x6B	QS54_SpiritC		Exclamation	
@@ -37,44 +37,43 @@ QS54_talk_SpiritC
 0x1028	0x6B	QS54_SpiritC		Unknown	
 0x105a	0x06	QS54_SpiritC		ANI_DENY	
 0x1088	0x98	QS54_SpiritC		............	mp_0001 0x15fd5
-0x10bc	0x98	ALTO		Umm...What is it saying?	
+0x10bc	0x98	ALTO		Umm... What is it saying?	
 0x10f4	0x06	NOI		ANI_GESTURE2	
-0x111d	0x98	NOI	#6A	Hmm...It seems this one	
-				is afraid of heights.	
+0x111d	0x98	NOI	#6A	Hmm... This one seems	
+				be scared of heights.	
 0x116b	0x06	NOI		ANI_DEJECTED	
-0x1194	0x98	NOI	#6A	It wanted to go to a higher place than this,	
-				but it got scared and couldn't continue,	
-				is what it's saying.	
-0x121e	0x98	ALTO		I-Is that so.	
-				It seems each spirit is different, huh.	
-0x1272	0x98	ALTO		(But...for one who's afraid of heights	
-				 to go to a high place, it must have	
-				 some business there, no?)	
+0x1194	0x98	NOI	#6A	It says it was trying to go up	
+				higher, but got too scared and	
+				couldn't continue any further.	
+0x121e	0x98	ALTO		I-Is that so? There are	
+				all kinds of spirits, huh?	
+0x1272	0x98	ALTO		(But... What was it doing	
+				 going to high places when	
+				 it's scared of heights?)	
 0x12f6	0x06	NOI		ANI_GESTURE1	
-0x131f	0x98	NOI	#6A	I will tell you about a path that's	
-				not scary, so it would be good to	
-				return.	
-0x138c	0x98	NOI	#6A	If you guys aren't there,	
-				Nemeas will be in trouble.	
+0x131f	0x98	NOI	#6A	I'll show you a way that's	
+				not scary, so you can go home.	
+0x138c	0x98	NOI	#6A	You guys are all gone and	
+				Nemeas is in trouble.	
 0x13f5	0x6B	QS54_SpiritC		Question	
-0x142f	0x40	UNDEF		Noi explained to the spirit the path	mp_2001d 0x2729
-				back to the continent of origins.	
+0x142f	0x40	UNDEF		Noi explained to the spirit how to	mp_1002b 0x1f6e
+				get back to the Origin Continent.	
 0x1495	0x6B	QS54_SpiritC		Surprise	
 0x14cf	0x06	QS54_SpiritC		ANI_NOD	
 0x1504	0x6B	QS54_SpiritC		Unknown	
-0x16b0	0x98	ALTO		We were able to safely help this one.	
+0x16b0	0x98	ALTO		We were able to safely help this one.	mp_1002b 0x221c
 0x1713	0x06	NOI		ANI_NOD	
-0x177b	0x98	NOI	#6A	Yeah, with this, we've been	
+0x177b	0x98	NOI	#6A	Yeah, with this, we've been	mp_1002b 0x2303
 				able to find all of the lost spirits.	
-0x17dd	0x98	NOI	#6A	Nayuta, let's go report	
+0x17dd	0x98	NOI	#6A	Nayuta, let's go report	mp_1002b 0x2356
 				to Nemeas!	
 0x1820	0x06	ALTO		ANI_NOD	
 0x1845	0x98	ALTO		Yeah!	mp_0001 0x1174e
-0x18b0	0x98	NOI	#6A	Yeah...	
+0x18b0	0x98	NOI	#6A	Yeah...	mp_1002b 0x242e
 				But there should be	
 				three lost spirits.	
-0x18ff	0x98	NOI	#6A	Nayuta, let's search	
+0x18ff	0x98	NOI	#6A	Nayuta, let's search	mp_1002b 0x24a6
 				for the remaining spirits.	
 0x194f	0x06	ALTO		ANI_NOD	
-0x1974	0x98	ALTO		Right. Let's try going	
+0x1974	0x98	ALTO		Right. Let's try going	mp_1002b 0x2511
 				to another continent.	
