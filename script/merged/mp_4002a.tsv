@@ -17,13 +17,13 @@ talk_SpiritB
 QS_54_discovery_SpiritB
 0x11ff	0x6B	SpiritB		Exclamation	
 0x1234	0x06	NOI		ANI_GESTURE2	
-0x125d	0x98	NOI	#6A	There is is...It's Nemeas' messenger!	
+0x125d	0x98	NOI	#6A	There it is... Nemeas' messenger!	
 0x12a4	0x98	SpiritB		...!?	
 0x12cc	0x06	ALTO		ANI_GESTURE1	
-0x12f6	0x98	ALTO		Umm, don't be afraid, it's all right.	
+0x12f6	0x98	ALTO		Umm, don't be afraid, it's okay.	
 				The truth is...	
-0x134a	0x40	UNDEF		Nayuta explained that, to receive Nemeas' art,	
-				the "Sprout Magatama" is necessary.	
+0x134a	0x40	UNDEF		Nayuta explained that, to receive Nemeas' art,	mp_4001b 0x170b
+				the Sprout Magatama is necessary.	
 0x13bc	0x98	SpiritB		...(*gulp, gulp*)	mp_4001b 0x177c
 0x1405	0x98	NOI	#6A	It seems it understands.	mp_4001b 0x17c5
 				It will go to the temple later.	

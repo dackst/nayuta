@@ -7,18 +7,18 @@ ev_hint01
 ev_hint02
 0x7ba	0x07	System	#i#359c	Offer up four different colors, and inspect me.	
 0x14e5	0x07	System	#i#359c	Offer up four different colors, and inspect me.	mp_4002d 0x7ba
-0x1585	0x07	System	#i#359c	Offer the [Color of Flame] and [Color of Trees]	
-				[Color of Sea] and [Color of Darkness].	
-0x15f6	0x07	System	#i#359c	The darkness is close to the trees and	
-				ocean, The trees are above the fire, the sea is to	
-				the right of the flame. You must offer them up.	
+0x1585	0x07	System	#i#359c	Offer the [Color of Flame], [Color of Trees]	
+				[Color of Sea], and [Color of Darkness].	
+0x15f6	0x07	System	#i#359c	The darkness is close to the trees and ocean.	
+				The tree is above the fire, the sea is to the	
+				right of the flame. You must present all three.	
 0x169a	0x06	ob_400_01		ANI_WAIT	
 0x16c5	0x06	ob_400_02		ANI_WAIT	
 0x16f0	0x06	ob_400_03		ANI_WAIT	
 0x171b	0x06	ob_400_04		ANI_WAIT	
 0x195e	0x07	System	#i#359c	Offer the [Color of Flame] and [Color of Trees]	mp_4002d 0x1585
 				[Color of Sea] and [Color of Darkness].	
-0x19cf	0x07	System	#i#359c	The darkness is close to the trees and ocean,	
+0x19cf	0x07	System	#i#359c	The darkness is close to the trees and ocean,	mp_4002d 0x15f6
 				The trees are above the fire, the sea is to the right of the flame.	
 				You must offer them up.	
 ev_ob_400_00

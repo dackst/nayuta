@@ -5,7 +5,7 @@ init
 boss_start
 0xf90	0x06	PLAYER1		ANI_WAIT	
 0xfb9	0x06	PLAYER2		ANI_WAIT	
-0x1176	0xCE	Objective		I can't back down! I'll join forces with Noi and crush it!	
+0x1176	0xCE	Objective		We can't back down! I'll fight with Noi and destroy it!	
 boss_demo2
 0x1371	0x06	PLAYER1		ANI_WAIT	
 0x139a	0x06	b003Ex		ANI_DEMO2	
@@ -25,23 +25,24 @@ map_maguma_on
 map_maguma_off
 0x2e96	0x06	ob_498		ANI_OFF	
 talk_Nemeas
-0x2ef5	0x98	Nemeas		I truly thank both of you.	
-0x2f31	0x98	Nemeas		I think I want to begin to control the	
-				Power of Stars flowing into Heliograd.	
+0x2ef5	0x98	Nemeas		Thank you, truly, both of you.	
+0x2f31	0x98	Nemeas		I think I want to begin taking	
+				control of the Power of Stars	
+				flowing into Heliograd.	
 0x2fa1	0x98	Nemeas		Please hurry ahead, you two.	
-				...I leave Master Kureha	
-				in your care.	
-0x300e	0x98	Nemeas		We will attempt to control the power	
-				flowing from Heliograd.	
-0x306d	0x98	Nemeas		I do not know whether you can	
-				cross Zext and take back	
-				Master Kureha, but...	
-0x30d9	0x98	Nemeas		It seems all you can do is exhaust	
-				your strength. Please take care	
-				of Master Kureha.	
+				...I'm counting on you to	
+				look after Master Kureha.	
+0x300e	0x98	Nemeas		We will attempt to regain control	
+				of the Power flowing into Heliograd.	
+0x306d	0x98	Nemeas		I do not know if we can	
+				surpass Zext and win Master	
+				Kureha back, but we must try...	
+0x30d9	0x98	Nemeas		I guess we must do all we can to	
+				help one another. Please, take	
+				care of Master Kureha.	
 talk_SpiritA
 0x3161	0x98	SpiritA		...～～....	
-0x318f	0x40	UNDEF		It seems it's giving thanks.	
+0x318f	0x40	UNDEF		It seems to be expressing gratitude.	
 talk_SpiritB
 0x31de	0x98	SpiritB		.............	
 0x320e	0x40	UNDEF		It seems it's giving thanks.	mp_4099 0x318f
@@ -56,205 +57,209 @@ talk_SpiritD
 				.........	
 0x33e5	0x98	SpiritD		...?	mp_1099 0x3014
 quest_Nemeas
-0x34bd	0x98	Nemeas		As for the spirits who are not	
-				here, there are three in all...	
-0x351c	0x98	Nemeas		Though it pains me to think of it,	
-				they may have gone to other continents.	
-0x3587	0x98	Nemeas		If you visit the wardens of the various	
-				continents, you may come to understand	
-				something.	
-0x3600	0x98	Nemeas		...Regarding those spirits,	
-				somehow, please help me.	
+0x34bd	0x98	Nemeas		Three of my spirits in	
+				total are missing...	
+0x351c	0x98	Nemeas		Though it is hard to imagine,	
+				they may have somehow ended	
+				up on other continents.	
+0x3587	0x98	Nemeas		Maybe if you were to visit the Wardens	
+				of each of the continents, you could	
+				find out what happened to them.	
+0x3600	0x98	Nemeas		...Please, help those	
+				little ones out.	
 QS_54_quest_start
 0x383d	0x06	Nemeas		ANI_GESTURE2	
 0x3869	0x98	Nemeas		Nayuta, Noi...	
-				There is something I	
-				earnestly request of you.	
+				There is something that I	
+				must ask of you, in earnest.	
 0x38c6	0x06	ALTO		ANI_THINK2	
-0x38ee	0x98	ALTO	#6A	A request from Nemeas...	
-				If I remember correctly, it is	
-				concerning the spirits.	
+0x38ee	0x98	ALTO	#6A	The request from Nemeas...	
+				From what I understood, it was	
+				something about your spirits.	
 0x395e	0x06	ALTO		ANI_WAIT	
 0x3984	0x06	NOI		ANI_THINK	
-0x39aa	0x98	NOI	#6A	What is wrong with your spirits?	
+0x39aa	0x98	NOI	#6A	Is there something wrong	
+				with your spirits, exactly?	
 0x39f7	0x06	NOI		ANI_LOOK_AROUND	
-0x3a43	0x98	NOI	#6A	Speaking of that,	
-				I don't see them around here, but...	
-0x3aa4	0x98	NOI	#6A	Speaking of that,	
-				their number is pretty small, but...	
-0x3b14	0x98	Nemeas		Yes, I have become	
-				very troubled...	
+0x3a43	0x98	NOI	#6A	Speaking of which, I don't	
+				see any of them around...	
+0x3aa4	0x98	NOI	#6A	Well, there were never	
+				very many of them, but...	
+0x3b14	0x98	Nemeas		Indeed, it is very troubling...	
 0x3b58	0x06	Nemeas		ANI_GESTURE1	
-0x3b84	0x98	Nemeas		Though I am sorry to oblige you	
-				at a time like this, I will require	
-				a fair bit of your time.	
+0x3b84	0x98	Nemeas		I am sorry to do this given the	
+				overall situation, but I must ask	
+				for a few moments of your time.	
 0x3c28	0x06	Nemeas		ANI_GESTURE1	
-0x3c54	0x98	Nemeas		I have a request related	
-				to the spirits of this	
-				continent.	
+0x3c54	0x98	Nemeas		I have a request to make	
+				regarding the spirits of	
+				this continent.	
 0x3cae	0x98	Nemeas		Though I am sorry to oblige you	mp_4099 0x3b84
 				at a time like this, I will require	
 				a fair bit of your time.	
 0x3d4c	0x36	Choice		[Accept]	mp_0000 0xeaf5
 0x3d62	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0x3e02	0x06	ALTO		ANI_DEJECTED	
-0x3e2c	0x98	ALTO	#6A	I'm sorry, I have	
-				a little something to do right now...	
+0x3e2c	0x98	ALTO	#6A	I'm sorry, I have some things	
+				to take care of first...	
 0x3e85	0x06	Nemeas		ANI_NOD	
-0x3eac	0x98	Nemeas		Is that so...	
-				Though it is regrettable,	
-				it cannot be helped.	
+0x3eac	0x98	Nemeas		Is that so...?	
+				That is regrettable,	
+				but it cannot be helped.	
 0x3f08	0x06	Nemeas		ANI_GESTURE2	
-0x3f34	0x98	Nemeas		If it is again convenient for you,	
-				please call on me again.	
-				It is something very important for this continent.	
+0x3f34	0x98	Nemeas		If a more opportune time arises,	
+				please, speak to me again. It is	
+				vital for the sake of this continent.	
 QS_54_ask_reason
 0x4037	0x06	ALTO		ANI_NOD	
-0x405c	0x98	ALTO		Yes, it's fine.	
-				Please tell us your story.	
+0x405c	0x98	ALTO		Yeah, it's fine. Let's hear	
+				what you have to say.	
 0x40a5	0x06	Nemeas		ANI_TALK	
 0x40cd	0x98	Nemeas		Thank you, Nayuta.	
-				Well then, allow me to quickly	
-				explain the circumstances.	
-0x4139	0x98	Nemeas		The truth is...it seems the spirits	
-				that governed the temple from this	
-				room have disappeared.	
+				Well, let's get on with it.	
+				Allow me to explain.	
+0x4139	0x98	Nemeas		The truth is...the spirits in charge	
+				of Temple maintenance from this room	
+				seem to have disappeared.	
 0x41b6	0x06	Nemeas		ANI_WAIT	
 0x41de	0x6B	ALTO		Exclamation	
 0x4210	0x6B	NOI		Exclamation	
 0x4241	0x06	NOI		ANI_SURPRISE	
 0x426a	0x98	NOI	#6A	What!?	mp_0111 0x10f9c
 0x4292	0x06	ALTO		ANI_GESTURE1	
-0x42bc	0x98	ALTO	#6A	Why in the world would that be...?	
+0x42bc	0x98	ALTO	#6A	How the hell would that happen...?	
 0x4301	0x06	ALTO		ANI_THINK2	
-0x4329	0x98	ALTO	#6A	...Could it be...	
-				that they were killed by Zext...?	
+0x4329	0x98	ALTO	#6A	Could they... Could they	
+				have been killed by Zext...?	
 0x437e	0x06	ALTO		ANI_WAIT	
 0x43a4	0x06	Nemeas		ANI_DENY	
-0x43cc	0x98	Nemeas		No, that should not be possible.	
+0x43cc	0x98	Nemeas		No, that should not be a possiblity.	
 0x440e	0x06	Nemeas		ANI_GESTURE1	
-0x443a	0x98	Nemeas		Among my spirits, these	
-				excel at controlling the temple.	
-0x4493	0x98	Nemeas		Therefore, in that unlikely	
-				event, their life forces would	
-				scatter, giving detailed instructions for a long time.	
-0x4524	0x98	Nemeas		If this place was attacked,	
-				I gave them instructions	
-				to hide themselves, but...	
+0x443a	0x98	Nemeas		Of all my spirits, these little	
+				ones were the most skilled at	
+				managing the Temple.	
+0x4493	0x98	Nemeas		Therefore, I've always told them,	
+				if something goes wrong, to prioritize	
+				protecting their own lives.	
+0x4524	0x98	Nemeas		When this place was attacked,	
+				I instructed them to take	
+				cover and hide, but...	
 0x45bb	0x6B	Nemeas		Ellipsis	
-0x4615	0x98	Nemeas		...But, I truly cannot	
-				feel their presence.	
+0x4615	0x98	Nemeas		...But, I truly can no longer	
+				sense their presence.	
 0x4661	0x06	Nemeas		ANI_TALK	
-0x4689	0x98	Nemeas		Now, while my full power	
-				has not yet returned...	
+0x4689	0x98	Nemeas		Now that I have not yet	
+				regained my full power...	
 0x46da	0x06	Nemeas		ANI_DENY	
-0x4702	0x98	Nemeas		If those children are not saved,	
-				I cannot control the Power of	
-				Stars...	
+0x4702	0x98	Nemeas		Without those little ones,	
+				I will not be able to control	
+				the Power of Stars...	
 0x476b	0x06	NOI		ANI_DEJECTED	
 0x4794	0x98	NOI	#6A	I-Is that so...	mp_0101 0x51b9
 0x47c5	0x06	NOI		ANI_THINK	
-0x47eb	0x98	NOI	#6A	But, for even you, Nemeas,	
-				to not be able to sense them...	
-				I wonder just where they went.	
+0x47eb	0x98	NOI	#6A	But Nemeas, if not even you can sense them...	
+				Just how are we supposed to find them?	
 0x4864	0x06	NOI		ANI_WAIT	
-0x4889	0x98	Nemeas		Though it is regrettable...	
-				I have entirely no idea.	
+0x4889	0x98	Nemeas		I am sorry to say...	
+				I have no idea.	
 0x48de	0x98	Nemeas		If they were on this continent,	
-				I should definitely be able to	
-				sense them, though.	
+				I'm sure I would definitely be	
+				able to sense them, though.	
 0x4950	0x06	ALTO		ANI_THINK2	
-0x4978	0x98	ALTO	#6A	So you say even the warden	
-				of this continent does not know	
-				the location...	
+0x4978	0x98	ALTO	#6A	So if not even the Warden	
+				of the continent knows	
+				where they are...
 0x49e3	0x06	ALTO		ANI_GESTURE2	
-0x4a0d	0x98	ALTO	#6A	...Then, they are possibly	
-				on other continents.	
+0x4a0d	0x98	ALTO	#6A	...Then perhaps they're	
+				on the other continents.	
 0x4a8b	0x6B	Nemeas		Surprise	
 0x4ab7	0x6B	NOI		Surprise	
 0x4ae8	0x06	Nemeas		ANI_THINK	
-0x4b11	0x98	Nemeas		Other continents...Certainly	
-				it is appropriate to think that.	
+0x4b11	0x98	Nemeas		Other continents...	
+				Certainly, it might be	
+				reasonable to think so.	
 0x4b6f	0x06	NOI		ANI_THINK	
-0x4b95	0x98	NOI	#6A	Hmm, because spirits are things that	
-				put down roots, they don't normally go	
-				to other places...	
+0x4b95	0x98	NOI	#6A	Hmm, since spirits are part of	
+				the land, they normally wouldn't	
+				leave it to go somewhere else...	
 0x4c13	0x06	NOI		ANI_NOD	
-0x4c37	0x98	NOI	#6A	...Yeah, but anyhow,	
-				if it's just searching, we'll try searching!	
+0x4c37	0x98	NOI	#6A	...Well, whatever.	
+				We'll go looking!	
 0x4cae	0x06	ALTO		ANI_GUTSPOSE	
-0x4cd8	0x98	ALTO	#6A	Yeah, we'll try visiting	
-				the three other continents!	
+0x4cd8	0x98	ALTO	#6A	Yeah, let's try visiting	
+				the other three continents!	
 0x4d5d	0x06	Nemeas		GESTURE1	
-0x4d85	0x98	Nemeas		Then, it might be sound to ask	
-				the wardens of the other continents.	
-0x4de9	0x98	Nemeas		The same as I, they should be able	
-				to sense presences on the continent	
-				that they oversee.	
+0x4d85	0x98	Nemeas		Then, it might be appropriate to check	
+				in with the Wardens of each continent.	
+0x4de9	0x98	Nemeas		They should be able to detect any	
+				presence of my spirits on their	
+				respective continents like I can.	
 0x4e62	0x06	ALTO		ANI_NOD	
 0x4e87	0x98	ALTO	#6A	I see, that's a good idea.	
 0x4ec4	0x06	ALTO		ANI_GESTURE2	
-0x4eee	0x98	ALTO	#6A	Then, we'll try asking	
-				the other wardens.	
+0x4eee	0x98	ALTO	#6A	Then we'll go try asking	
+				the other Wardens.	
 0x4f39	0x06	NOI		ANI_NOD	
-0x4f5d	0x98	NOI	#6A	If we have their support,	
+0x4f5d	0x98	NOI	#6A	If we work together,	
 				I'm sure we'll find them!	
 0x4fb1	0x06	Nemeas		ANI_NOD	
-0x4fd8	0x98	Nemeas		Huhu, that may be true.	
-				Thank you, both of you.	
+0x4fd8	0x98	Nemeas		Hehe, of course.	
+				Thank you both.	
 0x5028	0x06	Nemeas		ANI_DENY	
-0x5050	0x98	Nemeas		...I am terribly sorry.	
-				It's not the case that I	
-				am able to leave this place.	
+0x5050	0x98	Nemeas		...I am terribly sorry,	
+				but I am not able to	
+				leave this place.	
 0x50bd	0x06	Nemeas		ANI_TALK	
-0x50e5	0x98	Nemeas		As for my spirits that disappeared,	
+0x50e5	0x98	Nemeas		As for my spirits that disappeared,	mp_4099 0x34bd
 				there were three of them in total...	
-0x514e	0x98	Nemeas		Please, help me	
-				help those children.	
+0x514e	0x98	Nemeas		Please, help me find	
+				my little ones.	
 0x5193	0x06	Nemeas		ANI_WAIT	
 0x51bb	0x06	ALTO		ANI_JOY	
-0x51e0	0x98	ALTO	#6A	Right, leave it to me!	
+0x51e0	0x98	ALTO	#6A	Right, leave it to us!	
 0x5219	0x06	NOI		ANI_GUTSPOSE	
-0x5242	0x98	NOI	#6A	We'll find them for you immediately!	
-0x52bc	0x07	System	#3C	Quest[Location of the Spirits] started!	
+0x5242	0x98	NOI	#6A	We'll find them soon!	
+0x52bc	0x07	System	#3C	Quest [Where Are the Spirits?] started!	
 stp_qs54_last
 0x55d7	0x6B	ALTO		Surprise	
 0x5609	0x6B	NOI		Surprise	
-0x563a	0x98	ALTO		That is...	mp_0101 0x16bca
+0x563a	0x98	ALTO		That's...	mp_0101 0x16bca
 0x5815	0x06	Nemeas		ANI_GESTURE2	
-0x5841	0x98	Nemeas		Everyone, you have done well in returning to me.	
+0x5841	0x98	Nemeas		Well done everyone, thank	
+				you for coming back to me.	
 0x5893	0x06	Nemeas		ANI_NOD	
-0x58ba	0x98	Nemeas		...It seems that you are not hurt.	
+0x58ba	0x98	Nemeas		It seems that no one is hurt.	
 				I am truly relieved...	
 0x5aec	0x06	ALTO		ANI_GESTURE2	
-0x5b16	0x98	ALTO		Ahaha, it looks like everyone	
-				has just returned.	
+0x5b16	0x98	ALTO		Ahaha, it looks like	
+				just about everyone	
+				has returned.	
 0x5b65	0x06	NOI		ANI_LAUGH	
-0x5b8b	0x98	NOI	#6A	Just by looking at everyone,	
-				they seem quite troublesome.	
+0x5b8b	0x98	NOI	#6A	It wasn't easy having	
+				to find them all.	
 0x5c29	0x06	Nemeas		ANI_GESTURE2	
 0x5c55	0x98	Nemeas		Nayuta and Noi...	
-				You have supported me this time as well.	
-0x5cb0	0x98	Nemeas		Truly, thank you very much.	
-				With this, it seems I can fulfill	
-				my mission as warden.	
-0x5d43	0x98	Nemeas		However...before this case is settled,	
-				there is one thing that I must make	
-				very clear.	
+				You have been of great	
+				help to me once again.	
+0x5cb0	0x98	Nemeas		Thank you so much. Now, I	
+				should be able to perform	
+				my duties as a Warden.	
+0x5d43	0x98	Nemeas		However...before we put this matter	
+				to rest, there is one more thing	
+				that we need to discuss.	
 0x5db9	0x06	ALTO		ANI_THINK	
-0x5de0	0x98	ALTO		L-Like...?	
+0x5de0	0x98	ALTO		A-As in...?	
 0x5e12	0x06	Nemeas		ANI_NOD	
-0x5e82	0x98	Nemeas		I am truly happy that you	
-				returned safely for me.	
+0x5e82	0x98	Nemeas		I am so glad that you guys	
+				all came back in one piece.	
 0x5ed4	0x06	Nemeas		ANI_GESTURE1	
-0x5f00	0x98	Nemeas		However, there is something	
-				that I must ask you.	
-0x5f51	0x98	Nemeas		Why have you abandoned your	
-				duty to oversee the temple and	
-				gone to the other continents?	
-0x5fc9	0x98	Nemeas		Don't you understand?	
-				More than worrying me, you have	
-				been an annoyance to these two!	
+0x5f00	0x98	Nemeas		And yet I must ask.	
+0x5f51	0x98	Nemeas		Why did you abandon your duties	
+				at the Temple and leave for the	
+				other continents?	
+0x5fc9	0x98	Nemeas		Do you understand? Not only did	
+				you worry me, but you created	
+				more work for these two to do!	
 0x606f	0x6B	SpiritA		Unknown	
 0x60a4	0x6B	SpiritB		Unknown	
 0x60d9	0x6B	SpiritC		Unknown	
@@ -262,12 +267,13 @@ stp_qs54_last
 0x613b	0x6B	SpiritB		Sweatdrop	
 0x6168	0x6B	SpiritC		Sweatdrop	
 0x619d	0x06	ALTO		ANI_LAUGH	
-0x61c4	0x98	ALTO		(Ahaha...She's like	
-				 a teacher at the Academy.)	
+0x61c4	0x98	ALTO		(Ahaha... She sounds	
+				 like a teacher addressing	
+				 students at the Academy.)	
 0x6212	0x06	ALTO		ANI_THINK2	
-0x623a	0x98	ALTO		(Huh, but at this stage...	
-				 I wonder if she's made her	
-				 point to those children.)	
+0x623a	0x98	ALTO		(Huh, at this point...	
+				 I wonder when she'll be done	
+				 scolding those little ones.)	
 0x62a9	0x06	ALTO		ANI_WAIT	
 0x62d7	0x6B	SpiritA		Ellipsis	
 0x630c	0x6B	SpiritB		Ellipsis	
@@ -279,70 +285,73 @@ stp_qs54_last
 0x642d	0x98	NOI	#6A	You guys...	
 				That's right...	
 0x6481	0x06	ALTO		ANI_GESTURE2	
-0x64ab	0x98	ALTO		Umm, what do you mean?	
+0x64ab	0x98	ALTO		Huh? What's this all about?	
 0x64f9	0x06	Nemeas		ANI_TALK	
-0x6521	0x98	Nemeas		...As for what these children are saying...	
-0x656e	0x98	Nemeas		Because I was trapped in the cage,	
-				it seems they went to the other	
-				continents to request assistance from the wardens.	
-0x6603	0x98	Nemeas		They were thinking the wardens could	
-				attempt to destroy the cage from the outside.	
+0x6521	0x98	Nemeas		...Well, these little ones are saying...	
+0x656e	0x98	Nemeas		When I was trapped in the prison,	
+				they seem to have left to request	
+				assistance from the other Wardens.	
+0x6603	0x98	Nemeas		They thought the Wardens could	
+				destroy the prisons if they tried	
+				to do it from the outside...	
 0x6676	0x06	Nemeas		ANI_WAIT	
-0x669e	0x98	Nemeas		...Phew, just when did you	
-				acquire such wisdom?	
+0x669e	0x98	Nemeas		...Hmm, just when did	
+				they get so smart?	
 0x66ee	0x06	NOI		ANI_NOD	
 0x6712	0x98	NOI	#6A	Ehehe, as expected	
 				from the spirits of	
 				Sage Nemeas.	
-0x6767	0x98	ALTO		Haha, it's possible that	
-				they are like their master.	
-0x67ba	0x98	ALTO		In addition, it seems they did their	
-				very best in searching.	
+0x6767	0x98	ALTO		Haha, maybe they've grown	
+				similar to their master.	
+0x67ba	0x98	ALTO		And it seemed like they did their	
+				best in searching for them, too.	
 				Everyone is such a hard worker.	
 0x683c	0x6B	Nemeas		Ellipsis	
 0x6870	0x06	Nemeas		ANI_DENY	
-0x6898	0x98	Nemeas		Somehow...it seems I misunderstood	
-				the matter this time.	
-0x68f1	0x98	Nemeas		Moreover, I have a responsibility	
-				to learn that which I have not yet	
-				learned.	
+0x6898	0x98	Nemeas		It seems that...I was	
+				mistaken on this matter.		
+0x68f1	0x98	Nemeas		Moreover, I am also responsible	
+				for learning new things.	
 0x6981	0x06	Nemeas		ANI_COMPLAIN	
 0x69ad	0x98	Nemeas		...Please, listen well.	
-0x69e6	0x98	Nemeas		Because you have acquired knowledge,	
+0x69e6	0x98	Nemeas		Just because you have acquired wisdom,	
 				you must not use it recklessly.	
 0x6a4b	0x06	Nemeas		ANI_NOD	
-0x6a72	0x98	Nemeas		As for the matter this time, now that 	
-				you have returned to the temple that I abandoned,	
-				we should be able to control its power soon.	
-0x6b17	0x98	Nemeas		It is also possible to drown in wisdom.	
-				Please remember that.	
+0x6a72	0x98	Nemeas		As for this time, if you have abandoned me and	
+				returned to the Temple, we would have been able	
+				to regain control of its power much sooner.	
+0x6b17	0x98	Nemeas		It is also possible for too much	
+				wisdom to result in your downfall.	
+				Please, remember that.	
 0x6b7d	0x06	Nemeas		ANI_LAUGH	
-0x6ba6	0x98	Nemeas		But...I think they are happy.	
-				Thank you, everyone.	
+0x6ba6	0x98	Nemeas		However...I appreciate what you	
+				thought to do. Thank you, everyone.	
 0x6bf9	0x6B	SpiritA		Unknown	
 0x6c2e	0x6B	SpiritB		Unknown	
 0x6c63	0x6B	SpiritC		Unknown	
 0x6c98	0x06	ALTO		ANI_LAUGH	
 0x6cbf	0x98	ALTO		Ahaha...	
-				With this, it seems the case is closed.	
+				Looks like this	
+				matter is settled.	
 0x6d0e	0x06	NOI		ANI_NOD	
-0x6d32	0x98	NOI	#6A	Yeah, thank goodness.	
-0x6d9f	0x98	Nemeas		Nayuta, Noi...	
-				Truly, thank you very much.	
-				Allow me to say my thanks again.	
+0x6d32	0x98	NOI	#6A	Yeah, that's good.	
+0x6d9f	0x98	Nemeas		Nayuta, Noi... Truly, thank you	
+				so much. Allow me to express my	
+				gratitude once again.	
 0x6e22	0x98	Nemeas		Please, take this.	mp_0112 0x209c9
 0x6e56	0xC1	System		obtained.	mp_0000 0x7558
 0x6ecf	0x06	ALTO		ANI_THANKS	
-0x6ef7	0x98	ALTO		Thank you very much, Nemeas.	
+0x6ef7	0x98	ALTO		Thank you, Nemeas.	
 0x6f33	0x06	Nemeas		ANI_DENY	
-0x6f5b	0x98	Nemeas		Huhu...No,	
-				it is I who should be thanking you.	
-0x6fb4	0x98	Nemeas		I do not know if it returns the favor, but...	
+0x6f5b	0x98	Nemeas		Hehe... No, I am the one	
+				who should be thanking you.	
+0x6fb4	0x98	Nemeas		I do not know if this fully	
+				returns the favor, but...	
 				Please, use this power.	
 0x70e4	0x07	System	#1C	Noi learned the spring magic, #4C『#787IGospel Flower』#1C.	
 0x716a	0x06	Nemeas		ANI_NOD	
 0x7191	0x98	Nemeas		It is a difficult art to master,	
-				but it may be useful in your	
+				but it may be useful for your	
 				battles in Heliograd.	
 0x7204	0x06	ALTO		ANI_THANKS	
 0x722c	0x98	ALTO		Thank you very much, Nemeas.	mp_4099 0x6ef7
@@ -350,16 +359,16 @@ stp_qs54_last
 0x728c	0x98	NOI	#6A	I'll use it wisely!	
 0x72c5	0x06	NOI		ANI_WAIT	
 0x72ea	0x06	Nemeas		ANI_NOD	
-0x7313	0x98	Nemeas		Well then, I think I want to	
-				begin to control the Power	
+0x7313	0x98	Nemeas		Well then, I would like to	
+				resume control of the Power	
 				of Stars in this land.	
 0x7383	0x06	Nemeas		ANI_GESTURE2	
-0x73af	0x98	Nemeas		You two should head to	
-				Heliograd.	
+0x73af	0x98	Nemeas		You two should	
+				head to Heliograd.	
 				...Please, be careful.	
 0x7407	0x06	ALTO		ANI_JOY	
 0x742c	0x98	ALTO		...Understood!	mp_0001 0x122a0
-0x748e	0x07	System	#3C	Quest [Location of Spirits] completed!	
+0x748e	0x07	System	#3C	Quest [Where Are the Spirits?] completed!	
 quest_SpiritD
 0x772b	0x98	SpiritD		..........	
 				...～～～...!	
@@ -413,10 +422,10 @@ quest_SpiritD
 0x8183	0x98	NOI	#6A	Normally, this one is patrolling	mp_1099 0xaa58
 				the continent, but...	
 				it seems they can't stop themselves.	
-0x8208	0x98	NOI	#6A	That's not the case, but it	mp_3099 0x9432
+0x8208	0x98	NOI	#6A	That's not the case, but it	mp_1099 0xa8c5
 				it seems it has a similar power.	
 0x8265	0x06	NOI		ANI_COMPLAIN	
-0x828e	0x98	NOI		 unthinkable life forms have been born and are	
+0x828e	0x98	NOI		 unthinkable life forms have been born and are	mp_1099 0xa71e
 				 wreaking havoc."	
 0x82ec	0x98	NOI	#6A	"Like this, many continent	mp_1099 0xa7ae
 				animals will die!" it says.	
@@ -486,15 +495,13 @@ quest_SpiritD
 0x8de1	0x06	SpiritD		ANI_NOD	
 0x8e11	0x98	SpiritD		............!	mp_1099 0xb4fd
 0x8e41	0x06	NOI		ANI_GESTURE2	
-0x8e82	0x98	NOI	#6A	It seems it appeared in "Summer" of	
-				"The Crater to the Underworld" in the center	
-				of La Worg.	
+0x8e82	0x98	NOI	#6A	It says it appeared during the Summer in	
+				"Underworld Crater" in central La Worg!	
 0x8f00	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb5ed
 				when we have time, we should proceed	
 				carefully, it says.	
-0x8f82	0x98	NOI	#6A	It seems it appeared in "Summer" of	
-				"The Crater to the Underworld" in the center	
-				of La Worg!	
+0x8f82	0x98	NOI	#6A	It says it appeared during the Summer in	
+				"Underworld Crater" in central La Worg!		
 0x9000	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb6ef
 				when we have time, it wants us to proceed	
 				carefully.	
@@ -508,16 +515,14 @@ quest_SpiritD
 0x91ac	0x98	SpiritD		..........	
 				.........!	
 0x91e3	0x06	NOI		ANI_COMPLAIN	
-0x9224	0x98	NOI	#6A	"As for getting close, it is a very	
-				 dangerous opponent, so be careful"...	
-				is what it says!	
+0x9224	0x98	NOI	#6A	It says, "It is very dangerous	
+				to approach, so be careful."	
 0x92a9	0x98	NOI	#6A	"As for getting close, it is a very	mp_4099 0x9224
 				 dangerous opponent, so be careful"...	
 				is what it says!	
 0x9326	0x06	ALTO		ANI_JOY	
-0x934b	0x98	ALTO		Yeah, thanks.	
-				Immediately, let's make the season	
-				"Summer" and go there!	
+0x934b	0x98	ALTO		Okay, thanks. Now let's go and	
+				make the season Summer!	
 0x93e4	0x07	System	#3C	Quest [Origin Spirit's Request] started!	
 0x94d0	0x06	ALTO		ANI_WAIT	
 0x94f6	0x06	NOI		ANI_WAIT	
@@ -531,7 +536,7 @@ quest_SpiritD_End
 				.........!	
 0x992b	0x6B	SpiritD		Unknown	
 0x9960	0x06	ALTO		ANI_GESTURE2	
-0x998a	0x98	ALTO		Ahaha, it seems quite pleased.	
+0x998a	0x98	ALTO		Ahaha, it looks pretty happy.	
 0x99c8	0x06	NOI		ANI_NOD	
 0x9a04	0x98	NOI	#6A	Yes, it says it senses the disappearance	mp_1099 0xc0cc
 				of the monster presence.	
@@ -811,88 +816,92 @@ EV_4_S19_boss_battle
 0xf961	0x98	NOI	#200x#270y	The Master Gear of Fire!	
 0xf9ac	0x98	ALTO	#280x#270y	If we only had that, then...!	
 0xfba1	0x98	NOI	#2W#6A	Ah...!	mp_0101 0xf07d
-0xfbe2	0x98	ALTO	#0W#6A	Is it the same as before!?	
+0xfbe2	0x98	ALTO	#0W#6A	It's the same as last time...!	
 0xfc5c	0xBC	ALTO		Exclamation	
 0xfc92	0x06	ALTO		ANI_TENSION_SURPRISE	
 0xfce2	0xBC	NOI		Exclamation	
 0xfd17	0x06	NOI		ANI_SURPRISE	
 0xff21	0x06	ALTO		ANI_TENSION_WAIT	
 0xffde	0x06	b003		ANI_DEMO1	
-0x10102	0x98	NOI	#1W#16S#6A	The La Worg temple is...!!	
+0x10102	0x98	NOI	#1W#16S#6A	The idol of La Worg...!!	
 0x10155	0x98	ALTO	#1W	Such extreme heat...	
-				Is that producing the lava!?	
+				Is it...made of lava!?	
 0x101ac	0x06	ALTO		ANI_BATTOU2	
-0x1023d	0x98	ALTO	#2W	But... I can't back down!	
+0x1023d	0x98	ALTO	#2W	But...we can't back down!	
 0x10280	0x06	NOI		ANI_GUTSPOSE	
-0x102b7	0x98	NOI	#0W#6A	Let's combine our strength	
-				and finish it off!	
+0x102b7	0x98	NOI	#0W#6A	Let's work together	
+				and defeat it!	
 EV_4_S20_get_gear_4th
 0x104dd	0x06	ALTO		ANI_TENSION_WAIT	
 0x10659	0x06	b003		ANI_DEMO5	
-0x1082c	0x98	ALTO	#0W	*huff*, *huff*...We did it!	
-0x10870	0x98	NOI	#0W#6A	Look at that!	
-0x10b8c	0x98	ALTO		This is the Master Gear of Fire!	
-				Noi, let's hurry and collect it!	
+0x1082c	0x98	ALTO	#0W	*huff*, *huff*	
+				We...did it...!	
+0x10870	0x98	NOI	#0W#6A	Look, that's...!	
+0x10b8c	0x98	ALTO		It's the Master Gear of Fire...!	
+				Noi, let's grab it and get outta here!	
 0x10bf6	0x06	NOI		ANI_NOD	
 0x10c1a	0x98	NOI	#6A	O-Okay!	mp_0002d 0x89f1
 0x10cc8	0x06	NOI		ANI_REMOVE	
 0x10d48	0x06	komono08		ANI_STOP	
 0x10e7c	0xC1	System		obtained.	mp_0000 0x7558
 0x11084	0x06	b003		ANI_DEMO4	
-0x110ab	0x98	ALTO	#0W#6A#10M	We just have to set this	
-				in the Astrolabe and...	
-0x1113e	0x98	NOI	#0W#10M#6A	Yeah! We can restrain	
-				the abnormalities!	
+0x110ab	0x98	ALTO	#0W#6A#10M	So we just have to set this	
+				in the Astrolabe, and then...	
+0x1113e	0x98	NOI	#0W#10M#6A	Yeah! We can stop all	
+				of the abnormalities!	
 0x112ae	0x3F	Name		Voice	mp_0000d 0x4c24
-0x112c9	0x98	Signa	#0W#240x#260y#18S#5M	──Wait, you two!!	
+0x112c9	0x98	Signa	#0W#240x#260y#18S#5M	Get down, both of you!!	
 0x1132f	0xBC	ALTO		Exclamation	
 0x11365	0xBC	NOI		Exclamation	
 0x116fa	0x06	Signa		ANI_KIME	
 0x11729	0x06	b003		ANI_TRUE_DEAD	
 0x11806	0x06	Signa		ANI_NOUTOU	
 0x11933	0x06	Signa		ANI_WAIT2	
-0x119b7	0x98	Signa	#1W	Phew...	
-				By a hair's breadth.	
-0x11a23	0x98	Signa	#1W	But...	
-				I'm glad I made it in time.	
-0x11a70	0x98	ALTO	#200x#270y#2W	...C...	
-0x11ab8	0x98	ALTO	#200x#270y#18S	──Cygna...!?	
+0x119b7	0x98	Signa	#1W	Phew... That was	
+				a close call.	
+0x11a23	0x98	Signa	#1W	But, yeah...	
+				Glad I could	
+				make it in time.	
+0x11a70	0x98	ALTO	#200x#270y#2W	...Cyg─	
+0x11ab8	0x98	ALTO	#200x#270y#18S	Cygna...!?	
 0x11cc6	0x06	NOI		ANI_WAIT	
 0x11eb4	0x06	ALTO		ANI_GUTSPOSE	
-0x11ede	0x98	ALTO	#0W#6A	It's Cygna...	
-				It's really, truly, Cygna!	
-0x11f2b	0x98	ALTO	#6A	Haha...so you were safe!!	
+0x11ede	0x98	ALTO	#0W#6A	Cygna...	
+				It's really
+				you, Cygna!	
+0x11f2b	0x98	ALTO	#6A	Haha, *sniff*... you're safe!!	
 0x11f6f	0x06	NOI		ANI_JOY	
-0x11fb0	0x98	NOI	#6A	Thank goodness!	
-0x11fe1	0x98	NOI	#6A	We heard you were defeated	
-				by Master Selam...	
-				We worried about you this whole time!	
+0x11fb0	0x98	NOI	#6A	What a relief!	
+0x11fe1	0x98	NOI	#6A	We heard you were done	
+				in by Master Selam...	
+				We were worried about you!	
 0x1205c	0x06	Signa		ANI_LAUGH	
-0x120a3	0x98	Signa		Haha, as if I'd kick the bucket	
-				that easily.	
+0x120a3	0x98	Signa		Haha, I won't kick the
+				bucket that easily.	
 0x1212d	0x06	Signa		ANI_WAIT4	
-0x12155	0x98	Signa		But...	
-				Nayuta, you really don't	
-				listen to what people tell you.	
-0x121d2	0x98	Signa		Even though I told you to return to Remnant Island,	
-				You've come all the way to a place like this.	
+0x12155	0x98	Signa		But... Nayuta, really, you still	
+				don't pay attention to what	
+				people have to tell you, huh?	
+0x121d2	0x98	Signa		I told you to return to	
+				Remnant Island, but instead	
+				you come all the way here.	
 0x1225d	0x06	ALTO		ANI_COMPLAIN	
-0x12287	0x98	ALTO	#6A	Do you think I could just leave you	
-				and return to the island!?	
-0x122e7	0x98	ALTO	#6A	Because we were together for five years,	
-				you should at least know that much!	
+0x12287	0x98	ALTO	#6A	Did you expect me to just leave	
+				you and go home by myself!?	
+0x122e7	0x98	ALTO	#6A	We've been together for five years.	
+				You're should know that by now!	
 0x1237c	0x06	Signa		ANI_SCRATCH_HEAD	
 0x123ab	0x98	Signa	#0W	...Haha, I guess you're right.	
-				That's the kind of person you are.	
+				You were always like that.	
 0x12417	0x06	NOI		ANI_GUTSPOSE	
-0x1245d	0x98	NOI	#6A	Anyway...	
-				With this, we've found Cygna!	
-0x124a5	0x98	NOI	#6A	Next is to completely	
-				restore the Astrolabe─	
+0x1245d	0x98	NOI	#6A	Anyway... So now, we've	
+				finally found Cygna!	
+0x124a5	0x98	NOI	#6A	Now all that's left is to	
+				completely restore the Astrolabe─	
 0x12547	0xBC	ALTO		Surprise	
 0x1257d	0xBC	NOI		Surprise	
 0x125b2	0xBC	Signa		Surprise	
-0x126f9	0x98	ALTO	#0W#6A	This shaking...!?	
+0x126f9	0x98	ALTO	#0W#6A	W-What is this tremor...!?	
 0x12761	0x98	NOI	#0W#6A	It can't be...	
 0x12806	0xBC	ALTO		Exclamation	
 0x1283c	0xBC	NOI		Exclamation	
@@ -909,39 +918,41 @@ EV_4_S24_go_astrolabe
 0x1303a	0x06	NOI		ANI_WORRIED	
 0x13143	0xBC	ALTO		Unknown	
 0x13179	0xBC	NOI		Unknown	
-0x13206	0x98	NOI	#0W#6A	The crest of Terra is rising...	
-				What in the world is this?	
-0x1326e	0x98	ALTO	#0W#6A	Is it that the Seal	
-				is being released!?	
-0x132bb	0x98	ALTO	#6A	Nemeas said that it's something	
-				that threatens the existence of	
-				this world, but...!	
+0x13206	0x98	NOI	#0W#6A	The crest of Terra is
+				visible in the sky...	
+				What hell is going on...?	
+0x1326e	0x98	ALTO	#0W#6A	Has the seal	
+				been broken!?	
+0x132bb	0x98	ALTO	#6A	Nemeas said that could threaten the	
+				very existence of this world...!	
 0x1337c	0x06	Signa		ANI_DENY	
-0x133a3	0x98	Signa		No...they're still preparing for that.	
+0x133a3	0x98	Signa		No...they're still in	
+				the preparatory stages.	
 0x13431	0x06	Signa		ANI_WAIT3	
-0x13459	0x98	Signa		To completely release the seal,	
-				it seems that they need the Key.	
+0x13459	0x98	Signa		It seems like in order to completely
+				undo the seal, they'll need a Key.	
 0x134c9	0xBC	ALTO		Exclamation	
 0x134ff	0xBC	NOI		Exclamation	
-0x13604	0x98	NOI	#6A	That's what Master Selam said...	
+0x13604	0x98	NOI	#6A	That's what Master Selam told us...	
 0x13646	0x06	NOI		ANI_SURPRISE	
-0x1368c	0x98	NOI	#6A	...Hey,	why do you know	
-				something like that!?	
+0x1368c	0x98	NOI	#6A	...Hey, how do you	
+				know about like that!?	
 0x136e2	0x06	Signa		ANI_WAIT2	
-0x13729	0x98	Signa		Well, it's not like I've been	
-				randomly roaming around	
-				these continents.	
-0x13796	0x98	Signa		While I was chasing those guys,	
-				I've been able to gather lots	
-				of useful information.	
+0x13729	0x98	Signa		Well, I haven't exactly been	
+				aimlessly roaming around these
+				continents this whole time.	
+0x13796	0x98	Signa		While chasing those guys,	
+				I've been able to gather
+				lots of useful information.	
 0x13804	0x98	ALTO	#6A	I-Is that so...?	mp_0101 0x51b9
-0x13870	0x98	NOI	#6A	Anyway...	
-				Let's hurry now to the Garden!	
-0x138bb	0x98	NOI	#6A	If we fully restore the Astrolabe,	
-				maybe we can stop both the abnormalities	
-				and the release of the Seal!	
+0x13870	0x98	NOI	#6A	But anyway... let's go	
+				to the Garden now as	
+				soon as possible!	
+0x138bb	0x98	NOI	#6A	With the Astrolabe completed,	
+				maybe we can also stop the seal from	
+				breaking along with the abnormalities!	
 0x13978	0x98	ALTO	#6A	T-That's right!	
-				Let's hurry, you two!!	
+				Come on, you two!!	
 0x139d7	0x06	Signa		ANI_NOD	
 0x13a1c	0x98	Signa		All right!	mp_0004 0x99aa
 SB_4_S24_alto_move

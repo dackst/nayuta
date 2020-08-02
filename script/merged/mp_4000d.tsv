@@ -11,16 +11,16 @@ QS_58_Find_Michy
 0xbc9	0x06	st		ANI_STOP1	
 0xd02	0x06	st		ANI_PATA2	
 0xe4c	0x06	ALTO		ANI_SURPRISE	
-0xe76	0x98	ALTO		Ah...Michey!?	
+0xe76	0x98	ALTO		Ah... Mishy!?	
 0xec3	0x06	NOI		ANI_SURPRISE	
-0xeec	0x98	NOI	#6A	That is...!!	
+0xeec	0x98	NOI	#6A	That's...!!	
 0xf37	0x6B	Michy		Exclamation	
 0xf6a	0x98	Michy		Mi-Mimishii!!	
 0xfca	0x06	ALTO		ANI_COMPLAIN	
 0xff4	0x98	ALTO		This is bad...!	
 				Did it go inside!?	
 0x1035	0x06	NOI		ANI_COMPLAIN	
-0x105e	0x98	NOI	#6A	Let's hurry and chase it!	
+0x105e	0x98	NOI	#6A	H-Hurry up and go after it!	
 QS_58_RunAway_Michy
 OS_58_TBOX
 0x1602	0x06	OS_58_TBOX		ANI_OPEN	
@@ -33,31 +33,29 @@ OS_58_TBOX
 0x1804	0x6B	ALTO		Sweatdrop	
 0x1836	0x6B	NOI		Sweatdrop	
 0x1867	0x06	NOI		ANI_DEJECTED	
-0x1890	0x98	NOI	#6A	H-Hiding in	
-				a place like this...	
+0x1890	0x98	NOI	#6A	I-I can't believe it would	
+				hide in a place like this...	
 0x1a5c	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x1a8a	0x98	ALTO	#6A	Haha, well...	
 				I'm glad you're safe.	
 0x1acf	0x98	Michy		...Mishishi...	mp_4000d 0x1667
 0x1afe	0x06	ALTO		ANI_THINK2	
-0x1b26	0x98	ALTO	#6A	...Umm, I don't know if I can	
-				communicate with words, but...	
+0x1b26	0x98	ALTO	#6A	...Umm, I don't know if	
+				you can understand, but...	
 0x1b84	0x06	ALTO		ANI_COMPLAIN	
-0x1bae	0x98	ALTO	#6A	I would never do anything	
-				to hurt you.	
-0x1bf6	0x98	ALTO	#6A	Mensa and Ophiuchus are waiting,	
-				so want to come back with us?	
+0x1bae	0x98	ALTO	#6A	We're not going to hurt you.	
+0x1bf6	0x98	ALTO	#6A	Mensa and Ophiuchus are waiting.	
+				Will you please come back with us?
 0x1c56	0x6B	Michy		Ellipsis	
 0x1ca2	0x98	Michy		...Mishishi.	
 0x1ccf	0x06	NOI		ANI_THINK	
-0x1cf5	0x98	NOI	#6A	Umm...If it's me,	
-				I think I can understand	
-				his words.	
+0x1cf5	0x98	NOI	#6A	Umm... I think I might	
+				be able what he's saying.	
 0x1d4a	0x06	NOI		ANI_WAIT	
 0x1d6f	0x98	Michy		...Mishi, mishii.	
 0x1da1	0x06	NOI		ANI_GESTURE2	
 0x1dca	0x98	NOI	#6A	"Earlier, I came with my master	
-				 to sightsee on Remnant Island."	
+				 to sightsee on the island."	
 0x1e2b	0x98	NOI	#6A	"My master liked the island too,	
 				 and I have good memories of him."	
 0x1e8f	0x06	NOI		ANI_GESTURE1	
