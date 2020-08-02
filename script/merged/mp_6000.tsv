@@ -43,17 +43,18 @@ open_door9_10
 0x217a	0x07	System	#1C	Noi recovered the spring magic, #4C『#780ITri-Blossom』#1C!	
 0x2208	0xC1	System		obtained.	mp_0000 0x7558
 QS_42_Lithograph
-0x240f	0x40	UNDEF		Something ancient looking letters are written here.	
+0x240f	0x40	UNDEF		An ancient-looking script is written here.	
 0x2482	0x98	ALTO		This tablet...	
-				Something is written on it.	
-0x24ce	0x98	NOI		Hmm, it does look like	
-				ancient writing, but...	
+				There's something	
+				written here.	
+0x24ce	0x98	NOI		Hmm, it does look like some	
+				kind of ancient text, but...	
 0x251a	0x98	NOI		We don't have time to	
 				read it right now.	
 				Let's come back later!	
-0x257c	0x98	ALTO		Okay...you're right.	
-0x25ae	0x98	ALTO		(For now, I should remember	
-				 this location.)	
+0x257c	0x98	ALTO		Okay... I guess you're right.	
+0x25ae	0x98	ALTO		(I might want to take a note	
+				 of this location, just in case.)	
 0x262f	0x40	UNDEF		Something is written in ancient letters.	mp_6000 0x240f
 QS_42_Lithograph_Ev
 0x27c0	0x06	ALTO		ANI_WAIT	
@@ -61,10 +62,11 @@ QS_42_Lithograph_Ev
 0x294b	0x98	ALTO	#6A	Looks like something	
 				is written on this tablet.	
 0x299f	0x06	ALTO		ANI_THINK2	
-0x29c7	0x98	ALTO	#6A	Is it something important?	
+0x29c7	0x98	ALTO	#6A	Do you think it might say	
+				anything interesting...?	
 0x2a13	0x06	NOI		ANI_GESTURE1	
-0x2a3c	0x98	NOI	#6A	They look like ancient	
-				letters. I'll read them.	
+0x2a3c	0x98	NOI	#6A	It looks like they're written	
+				in ancient script. I'll read it.	
 0x2a8c	0x98	NOI	#6A	Let's see...	mp_0002 0x10ffb
 0x2aba	0x6B	NOI		Question	
 0x2aeb	0x06	NOI		ANI_THINK	
@@ -83,26 +85,26 @@ QS_42_Lithograph_Ev
 				to Dr. Volans for inspection.	
 0x2d02	0x06	NOI		ANI_NOD	
 0x2d26	0x98	NOI	#6A	Yeah, got it!	mp_0101 0x956b
-0x2dbd	0x98	NOI	#6A	There it is, a tablet!	
+0x2dbd	0x98	NOI	#6A	Hey, another tablet!	
 0x2df5	0x06	ALTO		ANI_GESTURE2	
-0x2e1f	0x98	ALTO	#6A	All right, I'll record	
-				the written letters.	
+0x2e1f	0x98	ALTO	#6A	All right, I'll write down	
+				a copy of what it says.	
 0x2e6c	0x40	UNDEF		Nayuta wrote down the tablet's letters.	
 0x2ebc	0xC1	System		obtained.	mp_0000 0x7558
 0x2fbf	0x6B	NOI		Exclamation	
 0x2ff0	0x06	NOI		ANI_SURPRISE	
-0x3019	0x98	NOI	#6A	Ah... If we overlay what we've	
-				written so far,	it looks like they	
-				fit together make a single message!	
+0x3019	0x98	NOI	#6A	Ah... If we combine all of what we've	
+				found so far, it seems like they	
+				fit together into a single document!	
 0x309e	0x06	ALTO		ANI_GESTURE2	
-0x30c8	0x98	ALTO	#6A	Seems like we've got	
-				the information.	
-0x3117	0x98	ALTO	#6A	Let's take it to Dr. Volans	
-				immediately.	
+0x30c8	0x98	ALTO	#6A	Looks like we've got all	
+				the information we need.	
+0x3117	0x98	ALTO	#6A	Let's take it	
+				straight to	
+				Dr. Volans.	
 0x31af	0x06	NOI		ANI_THINK	
-0x31d5	0x98	NOI	#6A	Hmm...	
-				It still doesn't look like	
-				an actual message.	
+0x31d5	0x98	NOI	#6A	Hmm... It still doesn't	
+				look complete.	
 0x3235	0x06	ALTO		ANI_GESTURE2	
-0x325f	0x98	ALTO	#6A	Let's search for the	
-				other tablets then.	
+0x325f	0x98	ALTO	#6A	Well, let's continue searching	
+				for the other tablets, then.	
