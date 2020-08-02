@@ -27,25 +27,26 @@ EV_5_S07_tower1_start
 0x2e21	0x98	ALTO		This is the interior	
 				of Heliograd...	
 0x2f2a	0x06	ALTO		ANI_WAIT4	
-0x2f51	0x98	ALTO		As expected, it looks very tall...	
+0x2f51	0x98	ALTO		Of course, we're very high up...	
 				I'm a little nervous.	
 0x2fec	0x98	NOI		Nayuta, watch your step.	
-				If you fall, you're done.	
+				If you fall, you're done for.	
 0x30b1	0x06	ALTO		ANI_WAIT	
 0x310f	0x06	ALTO		ANI_GESTURE2	
 0x3139	0x98	ALTO	#6A	Noi, how do we	
 				climb this thing?	
 0x317b	0x06	NOI		ANI_GESTURE1	
-0x31a4	0x98	NOI		If you touch the cube-like devices,	
+0x31a4	0x98	NOI		If you touch that cube-shaped device,	
 				we should be able to ascend.	
 0x3201	0x06	NOI		ANI_THINK	
-0x3227	0x98	NOI		But, Zext should have already	
-				came through here...	
+0x3227	0x98	NOI		But I'm sure Zext	
+				has already gone	
+				through here...	
 0x3284	0x06	ALTO		ANI_THINK2	
-0x32ac	0x98	ALTO	#6A	...He probably prepared plenty	
-				of enemies and traps for us.	
+0x32ac	0x98	ALTO	#6A	...He probably has plenty of	
+				enemies and traps waiting for us.	
 0x3315	0x06	NOI		ANI_WAIT	
 0x333a	0x06	ALTO		ANI_GESTURE2	
-0x3364	0x98	ALTO	#6A	I can't be scared.	
+0x3364	0x98	ALTO	#6A	But I'm not scared.	
 0x339e	0x06	ALTO		ANI_JOY	
 0x33c3	0x98	ALTO	#6A	Let's go...to Kureha!	
