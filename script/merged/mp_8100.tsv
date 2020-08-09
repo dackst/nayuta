@@ -4,27 +4,29 @@ EV_8_S13_meet_noi
 0x4b4	0x06	Creha		ANI_FLY_SIT	
 0x5e1	0x06	Signa		ANI_FLY_SIT	
 0x658	0x06	ALTO		ANI_LOOK_AROUND	
-0x685	0x98	ALTO	#0W	...A world...with color...	
+0x685	0x98	ALTO	#0W	...A world...without color...	
 0x6c1	0x98	ALTO	#0W	What is this place...?	
 0x74b	0x06	ALTO		ANI_THINK2	
-0x773	0x98	ALTO		I remember fighting that idol, and...	
+0x773	0x98	ALTO		I remember fighting	
+				that idol, and then...	
 0x84f	0x6B	ALTO		Exclamation	
 0x879	0x06	ALTO		ANI_SURPRISE	
 0x983	0x98	ALTO	#18S	...Kureha, Cygna!!	
-0xc90	0x98	ALTO		You're trapping in something!?	
-0xce4	0x41	None	#3W#2E#6C#12S	...Nayu...ta...#0E	
+0xc90	0x98	ALTO		You're trapped in	
+				some sort of...!?	
+0xce4	0x41	None	#3W#2E#6C#12S	...Na...yu...ta...#0E	
 0xd7e	0x6B	ALTO		Surprise	
 0xdbc	0x98	ALTO	#0W	...That voice...	
 0x1024	0x98	ALTO	#16S#400x#300y	...Noi!?	
 0x10d0	0x06	ALTO		ANI_COMPLAIN	
 0x10fa	0x98	ALTO		You didn't come into the Inner World...	
-0x1148	0x98	ALTO		Or, am I on the outside...?	
+0x1148	0x98	ALTO		Or, am I outside...?	
 0x1190	0x06	Noi2		ANI_DENY	
 0x11b6	0x98	Noi2	#0W	...No, Nayuta. We're still	
 				inside the Inner World.	
 0x120d	0x98	Noi2	#0W	This place, it serves as a	
 				reflection of my inner self.	
-0x1264	0x98	Noi2	#0W	And a year ago...I was
+0x1264	0x98	Noi2	#0W	A year ago, I... I was
 				the Noi that adventured	
 				alongside you.	
 0x12e4	0x6B	ALTO		Exclamation	
@@ -47,25 +49,25 @@ EV_8_S13_meet_noi
 0x16ed	0x98	Noi2	#0W	...Back then, I was	
 				ready to disappear...	
 0x175c	0x98	Noi2	#0W	But...at the last moment,	
-				my memories of everyone all
-				came flowing back.	
+				my memories of everyone
+				all came pouring back.	
 0x180d	0x98	Noi2	#0W	Joking around with Cygna.	
 				Drinking tea with Master Kureha...	
 0x186e	0x98	Noi2	#0W	My adventures with you, Nayuta...
-				I made so much really gone
+				I've made some really good
 				memories, I've lost count...	
 0x194b	0x06	Noi2		ANI_DENY	
-0x1971	0x98	Noi2	#0W	...At that moment of weakness,
-				I thought my deepest desire,
+0x1971	0x98	Noi2	#0W	...In that final moment of weakness,
+				I thought in the back of my mind,
 				"I don't want to disappear."	
 0x19f0	0x98	ALTO	#1W#400x#300y	Noi...	mp_0005c 0x6fe1
 0x1a2b	0x06	Noi2		ANI_DEJECTED	
 0x1a55	0x98	Noi2	#0W	...I should've been prepared to
 				disappear. But then, I rejected it.	
 0x1adb	0x98	Noi2	#0W	The Astrolabe interpreted that as
-				an order, and forced my existence
-				inside of itself to "protect" me.	
-0x1b82	0x98	Noi2	#0W	That is the cause of the abnormalities	
+				a command, and forced my existence
+				inside it to "protect" me.	
+0x1b82	0x98	Noi2	#0W	Thus causing the current abnormalities	
 				in the Astrolabe's systems.	
 0x1c02	0x98	ALTO	#1W#400x#300y	...No way...	mp_0100b 0xe52
 0x1d23	0x98	Noi2	#0W	When Master Cygna and Master Kureha	
@@ -75,7 +77,7 @@ EV_8_S13_meet_noi
 				returned to the outside world,	
 				but in exchange, they were...	
 0x1e3c	0x98	Noi2	#0W	...Everything is the result	
-				of my lack of commitment.	
+				of my lack of confidence.	
 0x1e90	0x98	Noi2	#0W	I'm so sorry...	
 0x1f95	0x6B	ALTO		Ellipsis	
 0x1fc7	0x06	ALTO		ANI_DENY	
@@ -83,22 +85,22 @@ EV_8_S13_meet_noi
 0x206f	0x06	ALTO		ANI_COMPLAIN	
 0x2099	0x98	ALTO		You didn't want to disappear...	
 				You didn't want to leave everyone...	
-				Of course you thought those things!	
+				Of course you thought that!	
 0x2170	0x06	ALTO		ANI_GESTURE2	
-0x219a	0x98	ALTO		I too...Even Cygna and Kureha...	
-				We all didn't want you to disappear!	
+0x219a	0x98	ALTO		I too... Even Cygna and Kureha...	
+				No one wanted you to disappear!	
 0x2205	0x98	Noi2	#0W	Nayuta...	mp_0000d 0x7671
 0x2239	0x06	Noi2		ANI_NOD	
-0x225e	0x98	Noi2	#0W	...Thank you. That's enough for me.	
+0x225e	0x98	Noi2	#0W	...Thank you. That's	
+				good enough for me.	
 0x239e	0x6B	ALTO		Exclamation	
 0x23d0	0x98	ALTO		Noi...!?	
 0x24aa	0x98	Noi2	#0W	I don't have much time left...	
-				I too have started to become corrupted	
-				due to the abnormalities of the Astrolabe.	
-0x2587	0x98	Noi2	#0W	...Nayuta, that idol was my other self,	
-				created due to the abnormalities of	
-				the Astrolabe.	
-0x2603	0x98	Noi2	#0W	Now that my armor is destroyed,	
+				I have started to become corrupted	
+				by the Astrolobe abnormalities myself.	
+0x2587	0x98	Noi2	#0W	...Nayuta, that idol was my other	
+				self, created by the abnormalities.	
+0x2603	0x98	Noi2	#0W	Now that my armor is pierced,	
 				my true form should appear...	
 0x26b6	0x06	Noi2		ANI_GESTURE1	
 0x26e0	0x98	Noi2	#0W	If you just defeat it,	

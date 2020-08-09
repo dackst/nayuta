@@ -17,19 +17,19 @@ EV_8_S16_help_s_and_c
 0xe6f	0x06	Creha		ANI_FLY_SIT_END2	
 0xf1d	0x98	Creha	#0W	.....................	mp_0003 0xc610
 0x1026	0x98	ALTO		Kureha, Cygna!!	
-0x1107	0x41	None	#0W#2E#6C#12S#0W	──Do not worry, they are both safe.	
-				They are just sleeping now...#0E	
+0x1107	0x41	None	#0W#2E#6C#12S#0W	...Don't worry, they are both safe.	
+				They're just sleeping now...#0E	
 0x14c4	0x06	ALTO		ANI_GESTURE2	
 0x14ee	0x98	ALTO		Noi...! Thank goodness,	
 				you're okay too!	
 0x1540	0x06	Noi2		ANI_NOD	
 0x1565	0x98	Noi2	#0W	...Yeah. Because you	
 				defeated that idol for me.	
-0x15b6	0x98	Noi2	#0W	The abnormalities of the Astrolabe	
-				have been completely removed, and	
-				Masters Kureha and Cygna were set free.	
+0x15b6	0x98	Noi2	#0W	The abnormalities of the Astrolabe have	
+				been completely removed, and Master Kureha	
+				and Master Cygna have been set free.	
 0x1635	0x06	Noi2		ANI_THINK	
-0x16a0	0x98	Noi2	#0W	Thanks to that...We finally	
+0x16a0	0x98	Noi2	#0W	Thanks to that... We finally	
 				have a last chance to talk.	
 0x1703	0x6B	ALTO		Surprise	
 0x1741	0x06	ALTO		ANI_GESTURE1	
@@ -39,20 +39,20 @@ EV_8_S16_help_s_and_c
 0x182c	0x98	Noi2	#0W	I am a being that should have	
 				disappeared a year ago...	
 0x18a8	0x98	Noi2	#0W	Now that the abnormalities are gone,	
-				I, as the one who caused them,	
-				will disappear with them...	
+				as the one who caused them, I will	
+				disappear along with them...	
 0x192b	0x6B	ALTO		Exclamation	
 0x195d	0x06	ALTO		ANI_COMPLAIN	
 0x1987	0x98	ALTO		N-No way...	
 				Why didn't you tell me!?	
 0x19ca	0x98	ALTO		If I knew, I would have	
-				found for another way...	
+				found another way...	
 0x1a27	0x06	Noi2		ANI_DENY	
 0x1a6b	0x98	Noi2	#0W	...No. There is no other way.	
-0x1aaf	0x98	Noi2	#0W	For the sake of Masters Kureha and	
+0x1aaf	0x98	Noi2	#0W	For the sake of Master Kureha and Master	
 				Cygna, the only solution was defeating	
 				that idol as soon as possible.	
-0x1b57	0x98	Noi2	#0W	But if I told you earlier,	
+0x1b57	0x98	Noi2	#0W	If I had told you earlier,	
 				you wouldn't have been able	
 				to fight as hard as you did...	
 0x1c60	0x98	Noi2	#0W	Hehe, you're smart	
@@ -66,7 +66,7 @@ EV_8_S16_help_s_and_c
 				to the outside world!?	
 0x1ff1	0x98	Noi2	#1W	...I guess this is really goodbye.	
 0x2083	0x06	ALTO		ANI_COMPLAIN	
-0x20bb	0x98	ALTO	#2W	Wait...Wait, Noi!	
+0x20bb	0x98	ALTO	#2W	Wait... Wait, Noi!	
 0x211b	0x98	ALTO	#1W	I swore I would save you!	
 0x2157	0x06	ALTO		ANI_DENY	
 0x218b	0x98	ALTO	#1W	I can't leave you here!	
@@ -75,7 +75,7 @@ EV_8_S16_help_s_and_c
 				our adventures together...	
 0x227e	0x98	Noi2	#1W	Say hi to Master Kureha	
 				and Cygna for me...	
-				And to the new me too.	
+				And to the new me, too.	
 0x2349	0x98	Noi2	#3W	Goodbye...and thanks.	
 				Take care, Nayuta.	
 0x2457	0x98	ALTO	#40M#18S	Noi! Noi...!!	
