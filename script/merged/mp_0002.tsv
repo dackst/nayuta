@@ -75,8 +75,7 @@ talk_Aulbath_sub
 0x1af2	0x98	Aulbath		Kureha, was it...?	
 				There's something strange	
 				about that young lady...	
-0x1b64	0x98	Aulbath		......	
-				......	
+0x1b64	0x98	Aulbath		..................	
 0x1bab	0x6B	ALTO		Question	
 0x1bdd	0x98	Aulbath		Haha, don't worry about it.	
 				It's not a huge concern.	
@@ -84,7 +83,7 @@ talk_Aulbath_sub
 				Make sure she feels welcome.	
 0x1cc8	0x98	Aulbath		Hmm, but as for that	
 				damned son of mine...	
-0x1d19	0x98	Aulbath		,,,I just have no idea	
+0x1d19	0x98	Aulbath		...I just have no idea	
 				idea what to do...	
 0x1d69	0x98	ALTO		(Of course, Master would	
 				 be the one to realize	
@@ -132,10 +131,11 @@ talk_Aulbath_sub
 0x25a1	0x98	Aulbath		mp_0002 0x24ac
 0x2628	0x98	Aulbath		This is not the first	
 				time that Cygna has	
-				He used to always be doing things like	
+				run away from home.
+0x2696	0x98	Aulbath		He used to always be doing things like	
 				this as a child, though it has been a	
 				long time since it last happened.	
-0x2729	0x98	Aulbath		...But it's been five years, huh?	
+0x2729	0x98	Aulbath		...But, it's been five years, huh?	
 				Time flies, it seems...	
 0x27c4	0x98	Aulbath		...It's been five years, huh?	
 				Time flies, it seems...	
@@ -143,7 +143,7 @@ talk_Aulbath_sub
 				safely from the ruins...	
 				I trust no one was seriously hurt?	
 0x28f6	0x98	ALTO		Y-Yes. Neither of us	
-				have any injuries.	
+				were seriously injured.	
 0x2943	0x98	Aulbath		Hmm... That is good.	
 0x297e	0x98	ALTO		(..It seems that we kept Noi a secret.	
 				 There's no way we can tell him about	

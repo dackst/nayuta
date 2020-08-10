@@ -1,38 +1,40 @@
 mp_0002d
 init
 talk_Aulbath_sub
-0x64c	0x98	Aulbath		Though that Zext man is	
-				a mighty opponent...	
-0x6a6	0x98	Aulbath		Unbeknownst to us, Nayuta...	
+0x64c	0x98	Aulbath		That Zext man is a	
+				formidable opponent...	
+0x6a6	0x98	Aulbath		And without us knowing, Nayuta...	
 				You, too, have grown strong.	
-0x6ff	0x98	Aulbath		You probably have the power	
-				to stand up that man.	
-0x750	0x98	ALTO		Yes, I definitely	
-				will not lose!	
+0x6ff	0x98	Aulbath		Perhaps you have the power	
+				to overcome that man.	
+0x750	0x98	ALTO		Yeah, I won't lose!	
 0x78f	0x98	ALTO		I want to see	
-				Kureha again, too...	
+				Kureha again...	
 0x7d7	0x98	Aulbath		Is that so...	mp_0001 0xcecd
 0x807	0x98	Aulbath		..................	mp_0002 0x1b64
 				..................	
 0x84e	0x98	ALTO		...Master?	
-0x878	0x98	Aulbath		...No, don't worry about it.	
-0x8b7	0x98	Aulbath		I will entrust that girl to you.	
-0x8fa	0x98	Aulbath		I leave the rest to you, my pupil.	
+0x878	0x98	Aulbath		...It's nothing.	
+0x8b7	0x98	Aulbath		I entrust the care of	
+				that young lady to you.	
+0x8fa	0x98	Aulbath		Take care, my student.	
 0x93f	0x98	ALTO		...Yes!!	
-0x9a1	0x98	Aulbath		I cannot help fight with	
-				this injury...	
-0x9eb	0x98	Aulbath		You probably could even stand up that man.	
+0x9a1	0x98	Aulbath		I cannot be of	
+				much assistance	
+				with this injury...	
+0x9eb	0x98	Aulbath		You may have the power	
+				to overcome that man.	
 0xa3b	0x98	Aulbath		...............	
-				I leave it to you,	
-				my pupil.	
+				Take care, my student.	
 0xa8f	0x98	ALTO		(Master... Maybe he's	
 				 worried about Cygna.)	
 0xae9	0x98	ALTO		(...Cygna...)	
-0xb3e	0x98	Aulbath		If you do not give up,	
-				you will definitely find the	
-				power to stand up that man.
-0xbb1	0x98	Aulbath		My pupil...show me you can do whatever	
-				it takes to bring back that girl.	
+0xb3e	0x98	Aulbath		If you don't give up,	
+				I'm sure you will find the	
+				power to overcome that man.
+0xbb1	0x98	Aulbath		My student... Do whatever	
+				it takes to bring that	
+				young lady back.	
 talk_Aulbath
 0xd04	0x07	System	#4C	If you show Orvus the "Training Book"	mp_0002 0x41e5
 				you can receive skills or items.	
@@ -196,16 +198,16 @@ QS_58_find_Michy1
 0x3233	0x98	Michy		Mishishi.	
 0x325d	0x6B	ALTO		Surprise	
 0x3297	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x32e6	0x98	ALTO		Ah...There it is!!	
+0x32e6	0x98	ALTO		Ah... There it is!!	
 0x3322	0x98	ALTO		Could this be Mishy!?	
 0x3385	0x6B	Michy		Exclamation	
 0x33b8	0x98	Michy		Miー!	
 0x3428	0x6B	ALTO		Exclamation	
 0x348a	0x06	ALTO		ANI_DEJECTED	
-0x34b4	0x98	ALTO		Aah...It got away!	
+0x34b4	0x98	ALTO		Ooh... It got away!	
 0x34e6	0x06	ALTO		ANI_JOY	
-0x350b	0x98	ALTO		I've got to chase it right away!	
-				Wonder if anyone else saw it?	
+0x350b	0x98	ALTO		I've gotta chase it after it!	
+				Maybe someone else saw where it went?	
 QS_58_RunAway_Michy1
 SB_4_S30_dead_KnightA
 0x39ba	0x06	KnightA		ANI_DEAD	
@@ -231,14 +233,14 @@ EV_4_S30_help_creha
 0x4547	0x06	Aulbath		ANI_WAIT_ARMED	
 0x4643	0x98	Lyra	#6A#0W	H-He did it!?	
 0x467e	0x98	Creha	#0W	Amazing...	
-0x48aa	0x98	Zext		I see...even among humans there	
+0x48aa	0x98	Zext		I see... Even among humans there	
 				exist those with a little skill.	
 0x49d1	0x98	Zext		However...	
 0x4b79	0x06	Zext		ANI_HIT_GROUND	
 0x4e22	0x06	Aulbath		ANI_WAIT_ARMED	
 0x5008	0x98	Aulbath		One after the other...	
 0x5040	0x98	Aulbath		No matter how many you create,	
-				they are mere puppets before my sword.	
+				they are mere #4Rpuppets#R before my sword.	
 0x50af	0x98	Zext	#6A	Hmph, if that's how it is,	
 				then how about now?	
 0x5107	0x06	Zext		ANI_PUT_UP_ROD	
@@ -249,21 +251,21 @@ EV_4_S30_help_creha
 0x537c	0x06	Creha		ANI_SURPRISE_WEAK	
 0x542a	0x06	Aulbath		ANI_DRAIN	
 0x5454	0x6B	Lyra		Unknown	
-0x548c	0x98	Aulbath	#1W	Gwooh!?	My power...
-				...It's being stolen!?	
+0x548c	0x98	Aulbath	#1W	Gwooh!? My strength...
+				...It's being drained!?	
 0x54e5	0x06	Lyra		ANI_COMPLAIN	
 0x5531	0x98	Lyra	#3W#16S	O-Orvus!	
 0x556e	0x98	Zext	#1W#6A	Heheh, the Power of Stars, the source of all life...	
 				If I manipulate it, no obstacle can stand before me.	
-0x560a	0x98	Zext	#2W#6A	Now, out of my way. I have	
+0x560a	0x98	Zext	#2W#6A	Now, step aside. I have	
 				business with my daughter.	
 0x58b2	0x06	Zext		ANI_WAIT	
 0x58f3	0x06	KnightA		ANI_WAIT	
 0x5937	0x06	KnightB		ANI_WAIT	
 0x59be	0x6B	Creha		Ellipsis	
 0x5baf	0x06	Lyra		ANI_AFRAID2	
-0x5be6	0x98	Lyra	#1W	Wait...Kureha!?	
-0x5cb0	0x98	Creha	#0W#16S	─I will not let you hurt Lyra	
+0x5be6	0x98	Lyra	#1W	Wha... Kureha!?	
+0x5cb0	0x98	Creha	#0W#16S	...I will not let you hurt Lyra	
 				#16Sor anyone else any further!	
 0x5e12	0x06	Creha		ANI_PRAY	
 0x60ea	0x6B	Lyra		Exclamation	
@@ -278,19 +280,19 @@ EV_4_S30_help_creha
 0x65e9	0x98	Creha	#0W#6A#16S	In that case, then I	
 				#16Sshall be your opponent!	
 0x66c0	0x98	Zext	#2W	Heheh, the Shining Wing of the Mythos...	
-				It has manifested this much?	
+				It has already manifested this much?	
 0x6794	0x98	Zext	#1W	It seems that our aim of quickening	
 				your awakening with the crisis in	
 				Terra has gone well.	
 0x681e	0x06	Creha		ANI_WAIT	
-0x6853	0x98	Creha	#0W#6A	What are you saying?	
+0x6853	0x98	Creha	#0W#6A	What are you saying...?	
 0x6954	0x98	Zext	#2W	My daughter...	
 				Kureha Lem Ordene.	
 0x69a5	0x98	Zext	#2W	Heed the words of I, Zext,	
 				the head of the Mythos.	
-0x6a59	0x98	Zext	#1W	That power's purpose...	
-0x6b04	0x98	Zext	#1W	It is to erase those that	
-				you now protect.	
+0x6a59	0x98	Zext	#1W	That power you know wield...	
+0x6b04	0x98	Zext	#1W	It is meant to erase those	
+				that you now seek to protect.	
 0x6b5c	0x06	Creha		ANI_SURPRISE_WEAK	
 0x6b9a	0x98	Creha	#300x#300y#1W	Eh─	
 0x6d38	0x6B	Creha		Exclamation	
@@ -298,8 +300,8 @@ EV_4_S30_help_creha
 0x6e1d	0x06	Creha		ANI_HEADACHE2	
 0x6fef	0x98	Creha	#2W	...Ooo...!	
 0x7033	0x98	Lyra	#1W	K-Kureha!?	
-0x70ae	0x98	Creha	#2W	...Ze...xt...	
-				...You are a...Mythos...!?	
+0x70ae	0x98	Creha	#2W	...Ze...xt...you're..	
+				...a..Mythos...!?	
 0x713f	0x98	Creha	#3W	...I...I...!	
 0x71b9	0x3F	Name		Nayuta's Voice	mp_0001 0x1090f
 0x71dd	0x98	ALTO	#1W#16S#500x#100y	Kurehaaa!	
@@ -316,35 +318,36 @@ EV_4_S30_help_creha
 0x7b6f	0x98	Zext	#6A	...It has been quite some time	
 				since you have interrupted me	
 				like this, human child.	
-0x7bd4	0x98	Zext	#6A	However, this time, I do	
-				not have patience to spare.	
-				...Out of my way.	
+0x7bd4	0x98	Zext	#6A	However, this time, I have	
+				not the time to indulge you.	
+				...Stay out of my way.	
 0x7c38	0x06	ALTO		ANI_TENSION_STRONG_DENY	
-0x7cb1	0x98	ALTO		You... Why have you	
-				appeared here all of a sudden!?	
-0x7d02	0x98	ALTO		You attack the village...	
+0x7cb1	0x98	ALTO		You... Why are you	
+				here all of a sudden!?	
+0x7d02	0x98	ALTO		You raid the village...	
 				And now you're trying to	
 				kidnap Kureha!	
 0x7daf	0x98	Zext	#6A	It is quite simple.	
-0x7df1	0x98	Zext	#6A	The final Key to undo the	
-				Seal of Terra...	
-0x7e41	0x98	Zext	#6A	I came to retrieve it after	
-				I finished my preparations.	
+0x7df1	0x98	Zext	#6A	The final Key to unlock	
+				the Seal on Terra...	
+0x7e41	0x98	Zext	#6A	Now that it is ready,	
+				I came to pick it up.	
 0x7e90	0x6B	ALTO		Exclamation	
 0x7ec2	0x06	ALTO		ANI_TENSION_SURPRISE	
-0x7f12	0x98	ALTO		The Key to undo the seal...	
-				Are you talking about Kureha!?	
+0x7f12	0x98	ALTO		The key to unlock the seal...	
+				Are you referring to Kureha!?	
 0x7f81	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
-0x7fd1	0x98	ALTO		...If that's true, it's all the more	
-				reason I can't get out the way!	
+0x7fd1	0x98	ALTO		...In that case, it's all the	
+				more reason I can't back down!	
 0x8038	0x98	ALTO		To protect Terra... I will not hand	
 				Kureha over to the likes of you!	
-0x8098	0x98	Zext	#6A	...So, you wish to stand defiant	
+0x8098	0x98	Zext	#6A	...So, you wish to stay	defiant	
 				until the bitter end.	
-0x80ee	0x98	Zext	#6A	Although you aided Kureha's awakening,	
-				I cannot let you go free...	
-0x814e	0x98	Zext	#6A	Your efforts will soon prove futile.	
-				...Hurry up and disappear.	
+0x80ee	0x98	Zext	#6A	Although I was going to let you	
+				continue to aid Kureha's awakening...	
+					
+0x814e	0x98	Zext	#6A	I no longer have any use for you...	
+				...Get out of my sight.	
 0x81af	0x06	Zext		ANI_HIT_GROUND	
 0x82eb	0x06	ALTO		ANI_TENSION_WAIT	
 0x83f1	0x06	Aulbath		ANI_WAIT	
@@ -355,7 +358,7 @@ EV_4_S30_help_creha
 0x8678	0x06	Aulbath		ANI_WAIT_ARMED	
 0x86f3	0x98	Aulbath		...Nayuta, I'll take 
 				over from here.	
-0x8734	0x98	Aulbath		Take the lady and Lyra and run.	
+0x8734	0x98	Aulbath		Take the young lady and Lyra and run.	
 0x8776	0x6B	ALTO		Exclamation	
 0x87df	0x98	ALTO		Master...	mp_0002 0x16e8
 0x883a	0x98	ALTO		...Understood.	
@@ -366,12 +369,12 @@ EV_4_S30_help_creha
 0x8a28	0x06	Creha		ANI_STAND_UP	
 0x8a5b	0x06	Creha		ANI_HEADACHE	
 0x8a93	0x98	Creha	#1W	...Ooh...	mp_0001c 0x4b32
-0x8e3c	0x98	Zext		Heheh, impossible...	
-0x8e7c	0x98	Aulbath	#0W#6A	I do not know what	
-				is or is not possible.	
+0x8e3c	0x98	Zext		Heheh, don't waste your breath...	
+0x8e7c	0x98	Aulbath	#0W#6A	Whether or not it is a	
+				waste remains to be seen.	
 0x8ed6	0x06	Aulbath		ANI_KEN_WO_KAMAERU	
 0x8f3b	0x98	Aulbath	#0W#6A	Though this retired old man's	
-				body might not be enough, I'll	
+				body might not be enough, I will	
 				oppose you with all I have left.	
 0x8fbf	0x98	Zext	#0W	...Very well...	
 0x9095	0x06	Zext		ANI_PUT_UP_ROD	
