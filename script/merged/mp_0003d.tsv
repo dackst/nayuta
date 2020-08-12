@@ -5,80 +5,81 @@ lp_fisher
 lp_museum
 0x4ea	0x40	UNDEF		The door is locked.	mp_0003d 0x457
 talk_Puppis
-0x598	0x98	Puppis		This strange cooling somehow seems	
-				related to the entire Ciencia Sea.	
-0x5fe	0x98	Puppis		This situation will cause a panic	
-				no matter which island you go to.	
-0x662	0x98	Puppis		I'm supposed to be going to	
-				Saint Cerise around this time...	
-0x6bf	0x98	Puppis		...Sorry.	
-				I wasn't about to.	
-0x724	0x98	Puppis		I don't know the details, but...	
-				It doesn't seem like the strange	
-				weather is just around here.	
-0x7a2	0x98	Puppis		I don't know how far	
-				it extends out...	
+0x598	0x98	Puppis		This crazy cold spell apparently extends	
+				throughout the entire Ciencia Sea.	
+0x5fe	0x98	Puppis		From the way things look,	
+				every island must be in a	
+				state of panic right now.	
+0x662	0x98	Puppis		I'm sure Saint Cerise is going	
+				through the same thing....	
+0x6bf	0x98	Puppis		...Tch, not good. The world's	
+				not in a good place at the moment.	
+0x724	0x98	Puppis		I don't know the specifics,	
+				but...this crazy weather isn't	
+				only happening around here.	
+0x7a2	0x98	Puppis		We don't know how far it goes...	
 talk_Puppis_and_Axe
-0x8db	0x98	Puppis		...Hey, boy.	
-				Various troubling things happened.	
-0x92b	0x98	ALTO		Captain...You're safe.	
-0x961	0x98	Puppis		Those strange guys attacked	
-				while I was in the middle of landing,	
-				but I was able to take shelter.	
-0x9e2	0x98	Puppis		All of the sailors are fine too.	
-0xa24	0x98	Axe		I looked with him, and it seems	
-				the boat and the ship are undamaged.	
-				There won't be any trouble putting to sea.	
-0xab0	0x98	ALTO		Is that so...thank goodness.	
-				It looks like there are no	
-				serious injuries.	
-0xb17	0x98	Puppis		Yeah, those guys weren't	
-				after that sort of thing.	
-0xb6a	0x98	Puppis		...Well boy, I won't say that	
-				line again, but...	
+0x8db	0x98	Puppis		...Hey, boy. This whole situation	
+				is a mess right now, huh?	
+0x92b	0x98	ALTO		Captain... I'm glad you're okay.
+0x961	0x98	Puppis		Those lunatics attacked while I	
+				was in the middle of landing, but	
+				luckily, I was able to find shelter.	
+0x9e2	0x98	Puppis		All the sailors on board are fine, too.	
+0xa24	0x98	Axe		I just checked it out with him, and it looks	
+				like the boat and the ship are unharmed.	
+				They shouldn't have any problems sailing.	
+0xab0	0x98	ALTO		Is that so...? Phew.	
+				Seems like no one was	
+				seriously injured.	
+0xb17	0x98	Puppis		Yeah, I figure they were after	
+				something more specific.	
+0xb6a	0x98	Puppis		...Oops, well, I guess that wasn't	
+				the best thing to say to the boy...	
 0xbbb	0x98	ALTO		...............	mp_0001 0xc917
-0xbea	0x98	Puppis		I heard the story, but...	
-				it seems you don't have	
-				much fighting spirit.	
-0xc51	0x98	Puppis		You've got to take	
-				responsibility yourself.	
+0xbea	0x98	Puppis		I only heard what happened	
+				secondhand, but...don't get	
+				yourself too worked up about it.	
+0xc51	0x98	Puppis		You're not to blame	
+				for any of this, boy.	
 talk_Crux
-0xd76	0x98	Crux		Me and the Captain were	
-				just landing...	
-				We took refuge in the museum.	
+0xd76	0x98	Crux		Me and the captain were just	
+				landing before we had to run	
+				away into some museum...	
 0xdd9	0x98	Crux		Ooh, what is with	
 				those armored guys!?	
-0xe1e	0x98	Crux		We're resentful	
-				of you, damn!	
-0xe82	0x98	Crux		What's more, the weather in this area	
-				isn't clearing up at all.	
-0xee0	0x98	Crux		It continues forever offshore...	
-				Can the ship leave like this?	
+0xe1e	0x98	Crux		Dammit, you got a problem with us!?	
+0xe82	0x98	Crux		What's more, the terrible weather	
+				in this area isn't clearing up at all.	
+0xee0	0x98	Crux		It just goes on and on into the sea...	
+				Can the ship even sail like this?	
 talk_Axe
-0xfc1	0x98	Axe		...Say, how is the sea?	
-				If I think about the worst...	
-0x1014	0x98	Puppis		Yeah, somehow, it seems the entire	
-				Ciencia Sea is cooling down.	
-0x1074	0x98	Puppis		I don't know about other islands,	
-				but they should be panicking.	
-0x10d4	0x98	Puppis		...Good grief, it seems we can't	
-				leave with our usual carefree	
-				preparations.	
-0x1168	0x98	Axe		Anyhow, I'm glad the ship's safe.	
-0x11a8	0x98	Axe		But, we don't know a single thing	
-				about those weird guys...	
+0xfc1	0x98	Axe		...Say, how is the sea doing?	
+				I didn't think this was possible...	
+0x1014	0x98	Puppis		Yeah, apparently this crazy cold	
+				spell is happening throughout	
+				the entire Ciencia sea.	
+0x1074	0x98	Puppis		I haven't been to the other	
+				islands, but I'm sure everyone's	
+				in a state of panic right now.
+0x10d4	0x98	Puppis		...Oh man, we'll have to get the	
+				ship ready. Looks like it won't	
+				as smooth sailing as usual.	
+0x1168	0x98	Axe		Well, I'm just glad the ship's safe.	
+0x11a8	0x98	Axe		But we still don't know what	
+				happened with those freaks...	
 				You be careful too, Captain.	
 talk_Carina
-0x124b	0x98	Carina		I'm thankful that Kureha saved	
-				Collie, Vel and Axe.	
-0x129f	0x98	Carina		Nayuta...	
-				I'm sure you'll save her.	
-0x12ed	0x98	Carina		That these kind of scary things	
-				would occur on the island is	
-				unexpected...	
-0x1357	0x98	Carina		But, thank goodness Collie,	
-				Vel and Axe are safe.	
-0x13a9	0x98	Carina		...This is because Kureha	
-				protected all of us.	
+0x124b	0x98	Carina		I have to thank Kureha for	
+				saving Collie, Vel and Axe.	
+0x129f	0x98	Carina		Nayuta, you...
+				You have to rescue her.	
+0x12ed	0x98	Carina		No one would ever think that	
+				something so scary would	
+				happen on this island...	
+0x1357	0x98	Carina		But I'm so glad Collie,	
+				Vel and Axe are safe...	
+0x13a9	0x98	Carina		...This is all because
+				Kureha protected us.	
 0x13f8	0x98	Carina		Nayuta...	mp_0003d 0x129f
 				I'm sure you'll save her.	

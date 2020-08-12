@@ -22,8 +22,8 @@ SB_6_S10_appear_NOI
 SB_6_S10_exit_Lyra
 SB_6_S10_exit_Bell
 EV_6_S10_battle_mons
-0x184f	0x98	Bell	#2W#6A	Lyra...	Are we	
-				gonna be eaten?	
+0x184f	0x98	Bell	#2W#6A	Lyra... Are we	
+				gonna get eaten?	
 0x18de	0x98	Lyra	#1W	It's gonna be okay, Vel.	
 				I'll never let that happen!	
 0x193b	0x06	e137		ANI_DEMO1	
@@ -73,7 +73,7 @@ EV_6_S11_help_lyra
 0x3298	0x98	ALTO		All right, we managed to defeat it...	
 0x32e2	0x06	NOI		ANI_GUTSPOSE	
 0x339f	0x98	NOI		It was pretty strong, but...	
-				it was no match for us!	
+				It was no match for us!	
 0x34cb	0x98	ALTO		Yeah, if we work	
 				together...	
 0x3516	0x06	ALTO		ANI_SURPRISE_WEAK	
@@ -87,23 +87,23 @@ EV_6_S11_help_lyra
 0x3725	0x6B	ALTO		Surprise	
 0x378b	0x6B	NOI		Surprise	
 0x3a4f	0x06	Bell		ANI_GESTURE2	
-0x3abd	0x98	Bell		Nayuta,	you're super strong!	
+0x3abd	0x98	Bell		Nayuta, you're super strong!	
 0x3b38	0x06	Bell		ANI_JOY	
 0x3ba1	0x98	Bell		Miss Fairy was	
 				super cool, too!	
 0x3c2a	0x06	NOI		ANI_GROOMING	
-0x3c53	0x98	NOI	#6A	Ehehe...You think so?	
+0x3c53	0x98	NOI	#6A	Hehe... You think so?	
 0x3ccc	0x06	ALTO		ANI_GESTURE2	
-0x3d14	0x98	ALTO	#6A	Thank goodness,	looks	
-				like you're safe too.	
+0x3d14	0x98	ALTO	#6A	Great, looks like	
+				you're both safe.	
 0x3dce	0x98	Lyra	#1W	..................	mp_0000d 0x70fd
 0x405d	0x06	Lyra		ANI_HUG	
 0x4082	0x06	ALTO		ANI_HUGGED2	
 0x411f	0x6B	ALTO		Exclamation	
 0x4149	0x6B	NOI		Exclamation	
-0x42b0	0x98	ALTO	#1W	W-Wha...Lyra!?	
+0x42b0	0x98	ALTO	#1W	W-Wha... Lyra...!?	
 0x42f9	0x98	Lyra	#1W#6A	Nayuta, thank goodness	
-				you opened your eyes!	
+				you finally woke up...!	
 0x439c	0x98	Lyra	#1W#6A	Thank you for saving me!	
 0x4434	0x98	ALTO	#1W	Haha, you're welcome.	
 0x44ce	0x98	ALTO	#1W	...Sorry for always worrying you.	
@@ -111,7 +111,7 @@ EV_6_S11_help_lyra
 0x4574	0x98	Lyra	#2W#6A	*cry* Really...! You and	
 				Cygna always do this!	
 0x4678	0x98	Lyra	#16S#4W#6A	...Waaaaaah...	
-				#16SNayuta, you idiot!!	
+				#16SNayuta, you idiot...!!	
 0x46dd	0x6B	NOI		Sweatdrop	
 0x470e	0x06	NOI		ANI_LAUGH	
 0x4734	0x98	NOI	#6A	(She's mad, yet she's crying...	
@@ -120,14 +120,15 @@ EV_6_S11_help_lyra
 0x47c7	0x98	Bell	#6A	*cry*...	
 0x47f2	0x06	Bell		ANI_WAIT2	
 0x4819	0x98	Bell	#6A	Nayuta and Lyra,	
-				this is adult love, right?	
+				is this adult love?	
 0x48db	0x6B	ALTO		Surprise	
 0x4953	0x06	ALTO		ANI_WAIT	
 0x4985	0x06	Lyra		ANI_CHAGRINED	
 0x49ea	0x6B	Lyra		Unknown	
 0x4aec	0x06	Lyra		ANI_ANGRYTALK	
-0x4ba7	0x98	Lyra		Tch... Stupid Vel.	
-				Don't say such precocious things.	
+0x4ba7	0x98	Lyra		Jeez... Stupid Vel.	
+				Don't say such	
+				precocious things.	
 0x4c48	0x3F	Name		Dignified Voice	
 0x4c5f	0x98	Aulbath		Hehe, looks like this won't
 				be turning into a serious	
@@ -143,9 +144,9 @@ EV_6_S11_help_lyra
 0x5335	0x98	Aulbath		Yes, that is right, but...	
 				I came running when I heard a
 				monster appeared out here.
-0x539f	0x98	Aulbath		Hehe, it seems because	
-				Nayuta has awakened,	
-				catastrophe was averted.	
+0x539f	0x98	Aulbath		Heheh, it seems that a	
+				crisis was averted because	
+				Nayuta has awakened, 	
 0x541f	0x98	Aulbath		By the way, Dorado was carried into	
 				the village and is being treated.	
 0x5484	0x06	Aulbath		ANI_WAIT2	
@@ -155,99 +156,98 @@ EV_6_S11_help_lyra
 0x55ae	0x06	NOI		ANI_NOD	
 0x5614	0x98	NOI		Umm, if I remember correctly,	
 				you're Nayuta's master...	
-				H-Hello.	
+				H-Hello there.	
 0x569b	0x06	Aulbath		ANI_WAIT	
-0x56e4	0x98	Aulbath		And you are Noi?	
-				We meet once again.	
-0x574c	0x98	Aulbath		Nayuta...	
-				Above all, it is good	
-				that you are awake.	
+0x56e4	0x98	Aulbath		You said you were Noi?	
+				We meet again.	
+0x574c	0x98	Aulbath		Nayuta... Above all, it	
+				is good to see you awake.	
 0x57ae	0x06	ALTO		ANI_OJIGI	
 0x57d5	0x98	ALTO	#6A	Ahaha... It's been a while, Master.	
 0x5821	0x6B	Aulbath		Ellipsis	
 0x5856	0x06	Aulbath		ANI_GESTURE1	
 0x5883	0x98	Aulbath		...You two, come see me later.	
 0x58e6	0x06	Aulbath		ANI_WAIT3	
-0x5910	0x98	Aulbath		There is something I	
-				must show you.	
+0x5910	0x98	Aulbath		There is something	
+				I must show you.	
 0x595d	0x06	ALTO		ANI_GESTURE2	
 0x5987	0x98	ALTO		Huh...?	mp_0001 0x166ea
 0x59b5	0x06	NOI		ANI_THINK	
-0x5a1d	0x98	NOI		Something to show us?	
+0x5a1d	0x98	NOI		Something you must show us?	
 0x5a5a	0x06	NOI		ANI_WAIT	
 0x5ac1	0x06	Aulbath		ANI_NOD	
 0x5ae9	0x98	Aulbath		It is waiting at my house.	
-				Come once your	
-				heart is prepared.	
+				Come once you are ready.	
 0x5db1	0x06	Lyra		ANI_WAIT4	
 0x5e1c	0x98	Lyra		What did he mean just now?	
 0x5e5e	0x06	ALTO		ANI_DENY	
-0x5ec8	0x98	ALTO		...I don't know but...	
+0x5ec8	0x98	ALTO		...I don't know, but...	
 				I'll try going anyway.	
 0x60c2	0x06	ALTO		ANI_GESTURE2	
 0x60ec	0x98	ALTO	#6A	Lyra, will you escort	
-				Vel for me?	
+				Vel back for me?	
 0x613f	0x06	Lyra		ANI_NOD	
 0x61f4	0x98	Lyra		Yeah, got it.	
 				...Thanks, Nayuta.	
 0x6273	0x06	Bell		ANI_GESTURE2	
 0x62e1	0x98	Bell	#6A	Bye, Miss Fairy!	
 0x6390	0x06	NOI		ANI_ROTATE	
-0x63f9	0x98	NOI		Ehehe, be careful on your way home.	
+0x63f9	0x98	NOI		Heheh, be careful on your way home.	
 0x6744	0x6B	ALTO		Ellipsis	
 0x6776	0x6B	NOI		Ellipsis	
 0x683f	0x06	ALTO		ANI_GESTURE1	
 0x6869	0x06	NOI		ANI_GESTURE1	
 0x68e1	0x98	ALTO	#16S#1W	Umm...	mp_0000 0x1d5bb
-0x690c	0x98	NOI	#6A#16S#1W	Ahh...	
+0x690c	0x98	NOI	#6A#16S#1W	I...	
 0x6943	0x6B	ALTO		Sweatdrop	
 0x69b1	0x6B	NOI		Sweatdrop	
 0x69e2	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x6a36	0x98	ALTO		Umm... Why don't you start?	
+0x6a36	0x98	ALTO		Uh... Why don't you start?	
 0x6a96	0x06	NOI		ANI_NOD	
-0x6aba	0x98	NOI	#6A	Y-Yeah.	
+0x6aba	0x98	NOI	#6A	O-Okay.	
 0x6b08	0x98	NOI	#6A	...Nayuta,	
-				I want you to let me apologize.	
+				I want to apologize.	
 0x6b8e	0x98	NOI	#6A	I...I kept lots of important	
-				things secret from you...	
+				things secret from you, and...	
 				I'm really sorry.	
 0x6bed	0x06	NOI		ANI_DENY	
-0x6c12	0x98	NOI	#6A	But...it wasn't because I'm	
-				on the side of the Mythos.	
+0x6c12	0x98	NOI	#6A	But it's...it's not because
+				I'm on the Mythos' side.	
 0x6c7c	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x6d3b	0x98	ALTO		Huh?	mp_0004 0x392d
 0x6d85	0x06	NOI		ANI_GESTURE1	
-0x6dae	0x98	NOI	#6A	The Mythos...Zext and	
-				Master Kureha are	
-				really powerful...	
-0x6e2f	0x98	NOI	#6A	I thought we could never	
-				stop their mission...		
+0x6dae	0x98	NOI	#6A	The Mythos...	
+				Zext and Master Kureha...	
+				They're really powerful.	
+0x6e2f	0x98	NOI	#6A	I thought...maybe I could	
+				never stop their mission...		
 0x6e90	0x98	NOI	#6A	So...I didn't want to	
 				tell you about this	
 				world being erased.	
 0x6f20	0x06	NOI		ANI_COMPLAIN	
-0x6f49	0x98	NOI	#6A	...Nayuta, I didn't	
-				want you to despair.	
+0x6f49	0x98	NOI	#6A	...Nayuta, I didn't want	
+				you to fall into despair.	
 0x6f99	0x06	ALTO		ANI_GESTURE2	
 0x6fe1	0x98	ALTO		Noi...	
 0x702d	0x06	NOI		ANI_DENY	
-0x7052	0x98	NOI	#6A	But...I think that was	
-				a mistake, after all.	
+0x7052	0x98	NOI	#6A	But... That might have	
+				been a mistake, after all.	
 0x70a2	0x06	NOI		ANI_GESTURE2	
-0x70cb	0x98	NOI	#6A	I believe in you... If we	
-				work together, I'm sure we	
-				have nothing to be afraid of.	
+0x70cb	0x98	NOI	#6A	I believe in you... If we work	
+				together, I'm sure we there's	
+				nothing we can't accomplish.	
 0x7139	0x06	NOI		ANI_GUTSPOSE	
 0x7162	0x98	NOI	#6A	The two of us have overcome	
 				trials together again and again!	
 0x71bf	0x06	ALTO		ANI_NOD	
 0x7228	0x98	ALTO		Yeah, you're right!	
 0x7263	0x06	ALTO		ANI_OJIGI	
-0x72ce	0x98	ALTO		...Noi, I'm also sorry,	
+0x72ce	0x98	ALTO		...Noi, I'm the one	
+				who should be sorry	
 				for not trusting you.	
 0x7319	0x06	ALTO		ANI_GESTURE1	
-0x7361	0x98	ALTO		Though I'm not sure	
-				how right now...	
+0x7361	0x98	ALTO		Though I'm not	
+				sire how yet...	
 0x73a4	0x06	ALTO		ANI_WAIT4	
 0x73e9	0x98	ALTO		We will definitely stop	
 				Cygna and Kureha, together!	
