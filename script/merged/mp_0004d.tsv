@@ -3,12 +3,12 @@ init
 lp_post
 0x7a2	0x98	ALTO		Now's not the time	
 				to check the mail!	
-0x8a0	0x98	ALTO		Huh...	
+0x8a0	0x98	ALTO		Huh...	mp_0004 0x2113
 				It looks like there's	
 				a strange letter inside.	
-0x8f3	0x98	ALTO		It looks like it's from someone	
+0x8f3	0x98	ALTO		It looks like it's from someone	mp_0004 0x2165
 				connected to the "Wardens" though...	
-0x956	0x98	ALTO		I should go to the temple once	
+0x956	0x98	ALTO		I should go to the temple once	mp_0004 0x21c4
 				and ask about it.	
 lp_ladder_u
 lp_ladder_d
@@ -18,9 +18,9 @@ lp_telescope
 				With the L button, you can zoom in,	
 				and with the R button, you can zoom out.	
 stp_tera
-0x1118	0x98	ALTO		I can't go to Terra...	
-				It looks like the gate	
-				is in bad shape somehow...	
+0x1118	0x98	ALTO		We can't go to Terra...	
+				There seems to be something	
+				wrong with the gate...	
 talk_SheepA
 talk_SheepB
 talk_Nora
@@ -68,25 +68,26 @@ SB_4_S28_appear_ALTO
 EV_4_S28_return_island
 0x251a	0x06	ALTO		ANI_WAIT	
 0x25fa	0x06	ALTO		ANI_HANDOVER1	
-0x2625	0x98	ALTO		Tch... It already stopped!	
+0x2625	0x98	ALTO		Tch... It's not working!	
 0x2668	0x06	ALTO		ANI_HANDOVER2	
-0x26b9	0x98	ALTO	#1W#6A	...Cygna, why...	
+0x26b9	0x98	ALTO	#1W#6A	...Cygna, why...?	
 0x26f7	0x6B	ALTO		Exclamation	
 0x2835	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x2864	0x98	ALTO	#0W	W-What is this?	
-				The snow has piled up, and it's	
-				so dark even though it's noon...	
+0x2864	0x98	ALTO	#0W	W-What's going on? There's snow	
+				on the ground, and it's so dark	
+				in the middle of the day...	
 0x28d6	0x6B	ALTO		Ellipsis	
 0x2908	0x06	ALTO		ANI_TONTON_SHUE	
-0x2935	0x98	ALTO		I have a bad feeling about this!	
-0x2a25	0xCE	Objective		Something's up... I'll check my surroundings.	
+0x2935	0x98	ALTO		I have a bad feeling about this...!	
+0x2a25	0xCE	Objective		Something's wrong... Let's check out the surrounding area.	
 EV_5_S01_go_tera
 0x2e19	0x06	ALTO		ANI_WAIT4	
-0x2e40	0x98	ALTO	#6A	The transfer gate was restored	
-				before I knew it.	
+0x2e40	0x98	ALTO	#6A	Looks like the transfer gate	
+				went back up at some point.	
 0x2e92	0x06	ALTO		ANI_THINK2	
-0x2eba	0x98	ALTO	#6A	Speaking of which, wonder	
+0x2eba	0x98	ALTO	#6A	Speaking of which, I wonder	
 				what happened to Noi...	
 0x2f1c	0x06	ALTO		ANI_JOY	
-0x2f41	0x98	ALTO		I should get going as soon as possible.	
+0x2f41	0x98	ALTO		I should get ready to go	
+				as soon as possible.	
 0x3022	0xCE	Objective		I'll bring back Kureha. I'll go to Terra once I'm ready!	
