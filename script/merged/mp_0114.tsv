@@ -2,324 +2,308 @@ mp_0114
 init
 0x512	0x06	Sculp		ANI_SIT2	
 talk_Keny
-0x8bd	0x98	Keny		Though I'm glad I got to meet	
-				Noi again...	
-				I heard she lost her memory?	
-0x922	0x98	Keny		But, there are plenty of	
-				fun things in life.	
-0x96d	0x98	Keny		You've got to make many	
-				memories starting now.	
-0x9e2	0x98	Keny		There are plenty of fun	
-				things in life.	
+0x8bd	0x98	Keny		It's nice to be able to	
+				see Noi again, but...	
+				She lost her memory, right?	
+0x922	0x98	Keny		Though life is full of enjoyment.	
+0x96d	0x98	Keny		You can always make as much new	
+				memories as you want in the future.	
+0x9e2	0x98	Keny		Life is full of enjoyment.	
 0xa28	0x98	Keny		You've got to make many	mp_0114 0x96d
 				memories starting now.	
-0xaab	0x98	Keny		My, if it isn't Nayuta.	
-				You'll be dating Lyra	
-				from now on, right?	
+0xaab	0x98	Keny		My, if it isn't Nayuta!	
+				You've got a date with	
+				Lyra today, right?	
 0xb0a	0x6B	ALTO		Sweatdrop	
-0xb3c	0x98	ALTO		No, it was just a meeting...	
-				Why do you even know	
-				about that?	
-0xb97	0x98	Keny		Huhu, the wives in the	
-				community handle hardship	
-0xbe6	0x98	Keny		If it's the center of town,	
-				I put in a likely rumor!	
-0xc39	0x98	ALTO		A-As expected from the country...	
-0xca2	0x98	Keny		Ohoho, do your best	
-				on those dates.	
-0xce4	0x98	Keny		We'll be cheering for you from	
-				the shadow of the blades of grass.	
+0xb3c	0x98	ALTO		No, we just agreed to meet...	
+				How do you even know about that?	
+0xb97	0x98	Keny		Heheh, never underestimate	
+				the housewife community.
+0xbe6	0x98	Keny		If something happens in the village, you	
+				can bet your life that word gets around!	
+0xc39	0x98	ALTO		T-That's what I get	
+				from a country town...	
+0xca2	0x98	Keny		Ohoho, good luck on your date.	
+0xce4	0x98	Keny		We'll be rooting for you	
+				from behind the bushes.	
 0xd44	0x98	ALTO		(Good grief...)	
-0xda9	0x98	Keny		Though it's a rumor...They say that this	
-				strange weather will only get worse.	
-0xe15	0x98	Keny		On the continent, they say that many	
-				people have collapsed due to Hell	
-				Fever...	
-0xe82	0x98	Keny		It's a scary story...	
-				I wonder just what will happen.	
-0xefe	0x98	Keny		No, I can't get scared	
-				over a rumor!	
-0xf41	0x98	Keny		No matter what happens, we	
-				will never lose. We'd be in trouble if	
-				housewives couldn't handle hardship!	
-0xffb	0x98	Keny		Good grief.	
-				This time, I'm going to give him	
-				a scolding that's about this much.	
-0x1068	0x98	Keny		Even so, that this incident finished	
-				without Bootie getting hurt is thanks	
-				to Dorado, it seems.	
-0x10e5	0x98	Keny		I'll make cookies for him	
-				later as thanks.	
-0x1156	0x98	Keny		My...It's Nayuta and Noi.	
-				Can you put a little more	
-				energy in your faces?	
-0x11bd	0x98	Keny		Huhu, you must.	
-				Though there's various difficulties,	
-				we'll do our best together.	
-0x1261	0x98	Keny		Somehow it's gloomy outside.	
-				The strange weather is continuing.	
-0x12bf	0x98	Keny		Since the weather's become like this,	
-				the plants suddenly started to wither.	
-0x132a	0x98	Keny		Our produce is still fine but...	
-				Jessica's production has	
-				become bad...	
-0x138f	0x98	Keny		Ah, somehow, there's not even one	
-				good thing, but... Especially at a time	
-				like this, we've got to do our best.	
-0x1443	0x98	Keny		Especially at a time like this, we've got	
-				to do our best. Shall we prepare the	
-				emergency rice?	
-0x14bf	0x98	Keny		Because all the men are in a whirl	
-				of activity, Eartha and I have to	
-				treat everyone to something.	
-0x1574	0x98	Keny		Nayuta, don't get too fired up	
-				and do something dangerous.	
-0x15cd	0x98	Keny		If you got hurt,	
-				Eartha would be sad.	
-0x1611	0x98	ALTO		Yeah, I know...I'll 
-				definitely come back safe.	
-0x1661	0x98	ALTO		Of course, I'll bring Kureha with me.	
-0x16a6	0x98	Keny		Ahaha, that's our Nayuta.	
-0x1716	0x98	Keny		Anyway, be careful.	
+0xda9	0x98	Keny		Though it's just a rumor...	
+				They say that this crazy	
+				weather is only getting worse.	
+0xe15	0x98	Keny		For some reason, tons of	
+				people on the continent are	
+				getting sick with Hell Fever...	
+0xe82	0x98	Keny		Scary stuff, huh?	
+				Just what is happening	
+				to the world...?
+0xefe	0x98	Keny		No, this is no time to be	
+				afraid of mere rumors!
+0xf41	0x98	Keny		No matter what happens, I won't be defeated.
+				Never underestimate a housewive with kids!
+0xffb	0x98	Keny		Oh, man. He is in for it now!	
+0x1068	0x98	Keny		But still, the only thing that	
+				was keeping Bootie from getting	
+				hurt was Dorado, it seems.
+0x10e5	0x98	Keny		I'll have to make him cookies	
+				later to thank him.	
+0x1156	0x98	Keny		Oh my... You two seem like you're	
+				feeling back to your normal selves.
+0x11bd	0x98	Keny		Hehe, that's the way it should be.	
+				We all have a lot of difficulties to	
+				overcome, but we can do it together.
+0x1261	0x98	Keny		It's kinda dreary outside, isn't it?	
+				We;ve been having some crazy weather.	
+0x12bf	0x98	Keny		Since this weather's started, a lot of	
+				crops everywhere suddenly started dying.	
+0x132a	0x98	Keny		Our crops are still fine, but...	
+				Jessica hasn't been producing as	
+				much milk as before...	
+0x138f	0x98	Keny		Ah, there's nothing good to say about this	
+				situation... All we can do during a time	
+				like this is try to power through it.	
+0x1443	0x98	Keny		All we can do during a time like this	
+				is try to power through it. Time to	
+				take out the emergency food supplies.
+0x14bf	0x98	Keny		While the men are all working,	
+				Eartha and I have been making and	
+				distributing food for everyone.
+0x1574	0x98	Keny		Nayuta, don't overdo it and	
+				go do something dangerous.	
+0x15cd	0x98	Keny		If you got hurt or anything,	
+				Eartha would be sad, you know.	
+0x1611	0x98	ALTO		Yeah, I know... I promise	
+				I'll come back in one piece.	
+0x1661	0x98	ALTO		And of course, I'll have Kureha with me.	
+0x16a6	0x98	Keny		Ahaha, that's my boy, Nayuta!	
+0x1716	0x98	Keny		At any rate, be careful.	
 0x1754	0x98	Keny		mp_0114 0x15cd
-0x17ce	0x98	Keny		Ah, anyway,	
-				I'm worried...	
-0x1804	0x98	Keny		Ever since I came to Remnant	
-				Island to marry, the weather	
-				has never been like this before.	
-0x1883	0x98	Keny		Not in Eartha's lifetime either...	
-				I'll have to take care that it doesn't	
-				disturb Bootie's health.	
+0x17ce	0x98	Keny		Ah, this can't be good...	
+0x1804	0x98	Keny		The weather has never been like	
+				this ever since I came to Remnant	
+				Island after I got married.	
+0x1883	0x98	Keny		After what happened to Eartha...	
+				I'll have to be careful not to	
+				let Bootie get sick too.	
 0x1920	0x98	Keny		mp_0114 0x1804	
 0x199f	0x98	Keny		mp_0114 0x1883	
-0x1a30	0x98	Keny		That Kureha's girl's help	
-				is very popular all over	
-				the island.	
-0x1a8c	0x98	Keny		Somehow, she has a good way of speaking.	
+0x1a30	0x98	Keny		The whole island is going nuts over	
+				this Kureha girl helping everyone.	
+0x1a8c	0x98	Keny		The way she talks is a little odd.	
 				She seems unreliable at first, but	
-				picks up things unexpectedly fast.	
+				picks up things unexpecte dly fast.	
 0x1b26	0x98	Keny		I wonder if she will help with our field again.	
-				We're short of hands for harvest season.	
-0x1bb6	0x98	Keny		I'm told a beautiful girl is	
+				We're short of hands for the harvest season.	
+0x1bb6	0x98	Keny		I hear a beautiful young lady is	
 				staying at your place, Nayuta.	
-0x1c11	0x98	Keny		I saw her earlier, and she is	
-				quite a graceful girl.	
-0x1c64	0x98	Keny		For some reason, it feels like she has	
-				a noble air about her. As if she might	
-				be the daughter of nobility.	
-0x1d0c	0x98	Keny		Ah...I'm relieved.	
-				Thank goodness Eartha's	
-				illness was cured.	
-0x1d67	0x98	Keny		Nayuta, from now on when you're	
-				in trouble, tell me everything, okay?	
-0x1dc9	0x98	Keny		Because the people of the	
-				village are your foster parents.	
+0x1c11	0x98	Keny		I saw her earlier.	
+				She was very graceful.	
+0x1c64	0x98	Keny		She has a somewhat noble air about her.	
+				Maybe she's the daughter of a noble.	
+0x1d0c	0x98	Keny		Ah... I'm so relieved.	
+				Thank goodness Eartha	
+				recovered from her illness.	
+0x1d67	0x98	Keny		Nayuta, if you're ever in any	
+				trouble in the future, don't	
+				hesistate to tell me, okay?	
+0x1dc9	0x98	Keny		The adults of this village are	
+				your foster parents, after all.	
 0x1e4a	0x98	Keny		mp_0114 0x1d67	
 0x1eac	0x98	Keny		mp_0114 0x1dc9
 0x1f21	0x98	Keny		This isn't good...	
-				I've got to go visit her.	
-0x1f6c	0x98	Keny		Umm, tomatoes and carrots and...	
-				Maybe I don't need eggplant...	
-0x201a	0x98	Keny		It looks like Bootie lied	
-				to Sasha and hid.	
-0x2063	0x98	Keny		Good grief.	
-				With this, it's punishment time.	
-0x20ab	0x98	Keny		I need to get a prescription for an even more	
-				extraordinarily bitter medicine from Dr. Hydol	
-				than before.	
-0x2162	0x98	Keny		Speaking of that, it's almost time	
-				for Dr. Hydol to come to the island.	
-0x21c8	0x98	Keny		The doctor coming to the island	
-				really helps us a lot～.	
-0x221f	0x98	Keny		If any of us come down with a cold,	
-				we can't easily go to the Saint	
-				Cerise Medical Clinic.	
-0x22a1	0x98	Keny		It looks like Dr. Hydol has come.	
-0x22e2	0x98	Keny		Huhu, he always supports us,	
-				and I should share some of	
-				our vegetables with him.	
-0x23a6	0x98	Keny		I suddenly received a present	
-				and don't know what to think...	
-				With this, I'm genuinely happy.	
-0x2421	0x98	Keny		The one who picked out this flower for	
-				me was you, Nayuta, wasn't it?	
-				Huhu, I must thank you, too.	
-0x24ab	0x98	Keny		I suddenly received a present	
-				and don't know what to think...	
-0x2507	0x98	Keny		I still worried that the other day	
-				was our wedding anniversary.	
-0x2565	0x98	Keny		Huhu, that's very like	
-				my husband.	
-0x25e2	0x98	Keny		If it is our Bootie,	
-				he went to play in	
+				I've gotta go visit her.	
+0x1f6c	0x98	Keny		Hmm, I'll bring tomatoes, and carrots, and...	
+				Maybe I shouldn't bring eggplant...	
+0x201a	0x98	Keny		That Bootie, he even lied	
+				to Sasha to help him hide.	
+0x2063	0x98	Keny		Jeez, this definitely deserves	
+				some kind of punishment.	
+0x20ab	0x98	Keny		I need to get Dr. Hydol to	
+				prescribe him even more	
+				bitter medicine than before.
+0x2162	0x98	Keny		Speaking of which, Dr. Hydol should	
+				be coming to the island soon.	
+0x21c8	0x98	Keny		It's really helpful of the	
+				doctor to all the way here～.	
+0x221f	0x98	Keny		If any of us comes down with a cold,	
+				it's not exactly a short walk to get	
+				to Saint Cerise Medical Clinic.	
+0x22a1	0x98	Keny		Looks like Dr. Hydol is here.	
+0x22e2	0x98	Keny		Hehe, he's always such a big help.	
+				I should share some vegetables with him.	
+0x23a6	0x98	Keny		I was suddenly given a	
+				present out of nowhere...	
+				That was a nice surprise.	
+0x2421	0x98	Keny		You were the one who chose this	
+				flower for me, Nayuta, weren't you?	
+				Heheh, I must thank you, too.	
+0x24ab	0x98	Keny		I was suddenly given a	
+				present out of nowhere...	
+0x2507	0x98	Keny		I can't believe he's still worried about	
+				our wedding anniversary the other day.	
+0x2565	0x98	Keny		Hehe, that's just	
+				like my husband.	
+0x25e2	0x98	Keny		If you're looking for our	
+				Bootie, he went to play in	
 				the new ruins that fell.	
-0x2640	0x98	Keny		He said he was collecting "Star Shards."	
-				Huhu, he hasn't lost interest in that.	
-0x26ae	0x98	Keny		Well, if it is those pretty stones,	
-				wanting to collect them can't	
-				be helped.	
-0x2740	0x98	Keny		If I remember correctly, you collect	
-				"Star Shards" too, don't you.	
+0x2640	0x98	Keny		He's collecting star shards.	
+				Heh, he never gets tired of those things.	
+0x26ae	0x98	Keny		Well, they're such beautiful stones, it's	
+				understandable to want to collect them.	
+0x2740	0x98	Keny		I remember you collect star	
+				shards too, don't you?	
 0x27a1	0x98	Keny		Well, if it is those pretty stones,	mp_0114 0x26ae
 				wanting to collect them can't	
 				be helped.	
-0x2841	0x98	Keny		I was surprised...	
-				That was ruins falling	
-				just now, wasn't it?	
-0x289d	0x98	Keny		Though our Bootie left,	
-				you're going to look at	
-				it now too, right?	
-0x28fd	0x98	Keny		Huhu, though I can't stop you,	
-				be careful on your way.	
-0x297a	0x98	Keny		If it was small rubble that fell,	
-				I'm used to it, but...	
-0x29d1	0x98	Keny		Good grief.	
-				Cleaning them up is troublesome.	
-0x2a52	0x98	Keny		My, if it isn't Nayuta!	
-				It's been awhile!	
-0x2a9a	0x98	ALTO		Good day, Canie...	
-0x2acc	0x98	Keny		Shut up!!	
-0x2af5	0x98	Keny		It's M-r-s. C-a-n-i-e.	
+0x2841	0x98	Keny		Woah, that just scared the life out of me...	
+				That was more ruins falling, wasn't it?	
+0x289d	0x98	Keny		Our Bootie ran off to see it,	
+				and now you're going to look	
+				at it too, right?	
+0x28fd	0x98	Keny		Heheh, I won't stop you, but make	
+				sure to be careful on your way.	
+0x297a	0x98	Keny		I'm used to having small	
+				pieces of rubble fall, but...	
+0x29d1	0x98	Keny		Goodness, this is going to	
+				be a big mess to clean up.	
+0x2a52	0x98	Keny		My, is that Nayuta?	
+				Long time no see!	
+0x2a9a	0x98	ALTO		Hello, Mrs. Canie...	
+0x2acc	0x98	Keny		Shuddap!!	
+0x2af5	0x98	Keny		It's--just--Canie.	
 				...Got it?	
 0x2b35	0x6B	ALTO		Sweatdrop	
-0x2b67	0x98	ALTO		...Good day, Mrs. Canie.	
+0x2b67	0x98	ALTO		...Hello, Canie.	
 0x2b9f	0x98	Keny		Ahaha, very good!	
-0x2bd0	0x98	Keny		While you are here,	
-				will you still play with	
-				my Bootie?	
-0x2c25	0x98	Keny		He's been pretty sad during	
-				the time you were away.	
-0x2c77	0x98	ALTO		Ahaha, is that so.	
-				Got it, Can──	
-0x2cb8	0x98	Keny		Hmm? (smile)	
-0x2ce4	0x98	ALTO		...M-Mrs. Canie.	
-0x2d4e	0x98	Keny		Huhu, you're cute as	
-				ever, Nayuta.	
-0x2d8f	0x98	Keny		And...I heard you started	
-				the Handyman Shop	
-				with Cygna?	
-0x2de4	0x98	Keny		Ahaha, you're so full of energy!	
-				I think I'll ask you to help	
+0x2bd0	0x98	Keny		Can you play with	
+				my Bootie again	
+				while you are here?	
+0x2c25	0x98	Keny		He's been pretty sad while	
+				you and Cygna were away.	
+0x2c77	0x98	ALTO		Ahaha, is that so?	
+				Got it, Mrs. Can─	
+0x2cb8	0x98	Keny		Hmm? (*grin*)	
+0x2ce4	0x98	ALTO		...C-Canie.	
+0x2d4e	0x98	Keny		Hehe, you're as nice and	
+				adorable as ever, Nayuta.	
+0x2d8f	0x98	Keny		And...I heard you restarted	
+				the Handyman Shop with Cygna?	
+0x2de4	0x98	Keny		Ahaha, way to go!	
+				Maybe I'll ask you to help	
 				with the field work again～.	
-0x2e5c	0x98	ALTO		Hahaha, I look forward to it.	
-				Can...Mrs. Canie.	
-0x2ed2	0x98	Keny		Both you and Cygna,	
-				you're both energetic and	
-				straightforward. How nice.	
-0x2f38	0x98	Keny		I wonder if I'll discuss with	
-				Eartha and exchange my	
-				kid for you.	
+0x2e5c	0x98	ALTO		Hahaha, I'll be looking	
+				forward to it, Mi..uh, Canie.	
+0x2ed2	0x98	Keny		You and Cygna are both so	
+				energetic and vibrant!	
+				That's nice~.	
+0x2f38	0x98	Keny		Maybe I'll negotiate with	
+				Eartha and have her exchange	
+				you for my own son.	
 0x2f97	0x6B	ALTO		Sweatdrop	
 talk_Bootie
-0x3011	0x98	Bootie		Hey, Nayuta!	
-				Come look at this Star Shard!	
-0x305c	0x98	Bootie		The other day, I got a ton	
-				in the sea～.	
-0x30a5	0x98	ALTO		Oh? Well done.	
-0x30d3	0x98	ALTO		(The scene inside the Star Shard	
-				 is one I haven't yet seen.)	
-0x312f	0x98	ALTO		(Now that I'm separated from Terra,	
-				 I wonder if the day when I can	
-				 no longer see it will come...)	
+0x3011	0x98	Bootie		Hey, Nayuta! Look at this star shard!	
+0x305c	0x98	Bootie		I got a ton of them at the	
+				beach the other day～!	
+0x30a5	0x98	ALTO		Oh? Good job.	
+0x30d3	0x98	ALTO		(We can still view scenery	
+				 from inside star shards.)	
+0x312f	0x98	ALTO		(Now that we've separated from Terra,	
+				 I wonder if one day we won't be able	
+				 to see anything at all...)	
 0x31b2	0x98	Bootie		...Hey, you seem kinda down.	
-				Be more surprised!	
+				You should be more surprised!	
 0x3202	0x98	ALTO		A-Ahaha, sorry.	
-0x3259	0x98	Bootie		Tch, and I especially let you	
-				see the Star Shard, too...	
+0x3259	0x98	Bootie		Tch, and I finally got to show	
+				you my star shard, too...	
 0x32b2	0x98	Bootie		...Cheer up a little.	
 0x331f	0x98	Bootie		This time, my mom was	
 				super worried about me...	
-0x336f	0x98	Bootie		Like this, I'm not a man.	
-				I'll be careful from now on.	
-0x33ee	0x98	Bootie		Because I'm always worrying	
-				my mom, I'm not a man.	
-0x3441	0x98	Bootie		As expected, I'll sit still	
-				at home for awhile...	
-0x34c9	0x98	Bootie		Nayuta, you being so busy	
-				lately has something to	
-				do them? As I thought. 		
+0x336f	0x98	Bootie		This isn't how a man behaves, right?	
+				I've gotta be more careful from now on.	
+0x33ee	0x98	Bootie		You can't be a man if you keep	
+				worrying your mom all the time.	
+0x3441	0x98	Bootie		I think I'll sit still	
+				at home for a while...	
+0x34c9	0x98	Bootie		Nayuta, the fact you've been	
+				so busy lately has something	
+				to do with them, doesn't it? 		
 0x3544	0x98	Bootie		...Hmph, you sneaking around	
-				like this is a little irritating.	
-0x35a3	0x98	Bootie		...Well, do your best, Nayuta.	
-				For that Kureha girl.	
+				like this is a little annoying.	
+0x35a3	0x98	Bootie		...Well, good luck with that,	
+				Nayuta. For that Kureha girl.	
 0x3627	0x98	Bootie		mp_0114 0x35a3
-0x3683	0x98	Bootie		And if you come back safe,	
-				I'll ask you about various	
-				things.	
-0x3731	0x98	Bootie		Until just now I was collecting	
-				Star Shards on the cape...	
-0x378c	0x98	Bootie		A girl with white clothes and	
-				silver hair came...	
+0x3683	0x98	Bootie		And when you come back safe,	
+				you'll have plenty of stories	
+				to tell me.	
+0x3731	0x98	Bootie		I just was collecting star	
+				shards on the cape earlier...	
+0x378c	0x98	Bootie		A girl with white clothes	
+				and silver hair showed up...	
 				She picked up a shard for me.	
-0x37fd	0x98	Bootie		...Though I didn't say anything,	
-				she found this beautifully colored one...	
-0x3866	0x98	Bootie		...Well, nevermind.	
-				I have no reason to get excited	
-				over girls, you know!	
-0x38f5	0x98	Bootie		Damn, somwhow, this is humiliating.		
-0x3938	0x98	Bootie		I'll take a break from collecting	
-				Star Shards for a while.	
-0x39c8	0x98	Bootie		Hey Nayuta, lately you're...	
-0x3a06	0x98	Bootie		...Y-You're making	
-				a good face.	
-0x3a46	0x98	Bootie		Good work.	
-				I'm glad.	
+0x37fd	0x98	Bootie		...Though she didn't say a word,	
+				she had such beautiful eyes....	
+0x3866	0x98	Bootie		...You know, nevermind.	
+				I-I never get nervous	
+				around girls, got it!?	
+0x38f5	0x98	Bootie		Damn, this is some serious stuff.		
+0x3938	0x98	Bootie		I think I'll take a break from	
+				collecting star shards for a while.	
+0x39c8	0x98	Bootie		Hey Nayuta, what's up with you...?	
+0x3a06	0x98	Bootie		...Y-You...perked up	
+				for a minute there.	
+0x3a46	0x98	Bootie		Well, I'll give you credit	
+				where it's due. Rejoice.	
 0x3a7b	0x6B	ALTO		Sweatdrop	
-0x3aad	0x98	ALTO		Thanks Bootie.	
-				...But somehow, you're stiff?	
-0x3af8	0x98	Bootie		Y-You're annoying.	
-0x3b54	0x98	Bootie		The truth is, big brother Cygna	
-				would say stuff like that.	
-0x3baf	0x98	Bootie		...Speaking of that, I haven't seen	
-				big brother Cygna. I wonder what	
-				he's doing.	
-0x3c55	0x98	Bootie		I don't really get it but,	
-				Eartha suddenly	
-				collapsed...	
-0x3cac	0x98	Bootie		N-Nayuta...	
-				I'll share some of my	
-				"Star Shards" with you.	
-0x3d05	0x98	Bootie		Because, umm...	
+0x3aad	0x98	ALTO		Thanks, Bootie... You're kinda
+				stubborn, ya know that?	
+0x3af8	0x98	Bootie		Shut. it.	
+0x3b54	0x98	Bootie		That's the kind of thing	
+				Cygna would say.	
+0x3baf	0x98	Bootie		...Speaking of which, I haven't	
+				seen Cygna around recently.	
+				Just what is he even doing?	
+0x3c55	0x98	Bootie		I dunno...	
+				Eartha collapsed...	
+0x3cac	0x98	Bootie		N-Nayuta... Let me give you	
+				some of my star shards.	
+0x3d05	0x98	Bootie		So, umm...	
 				Cheer up...	
-0x3d41	0x98	ALTO		...Ahaha, thanks Bootie.	
-				I'll accept just your feelings.	
-0x3dc0	0x98	Bootie		Y-You're mistaken.	
-				It's because...my collection	
+0x3d41	0x98	ALTO		...Haha, thanks, Bootie.	
+				I'll just accept the gesture.	
+0x3dc0	0x98	Bootie		Don't be such a prick!	
+				It's just...my collection	
 				grew too big...	
-0x3e1f	0x98	Bootie		It's not to cheer you	
-				up or anything.	
-0x3eb5	0x98	Bootie		Oh...Nayuta!	
-				Have you returned?	
-0x3ef5	0x98	ALTO		Hey Bootie.	
+0x3e1f	0x98	Bootie		It's not like I want to	
+				cheer you up or anything.	
+0x3eb5	0x98	Bootie		Oh... Nayuta! I didn't	
+				know you were back!	
+0x3ef5	0x98	ALTO		Hey, Bootie.	
 				Have you been well?	
-0x3f33	0x98	Bootie		Huhu, I, Bootie,	
+0x3f33	0x98	Bootie		Heheh, I, Bootie,	
 				am ALWAYS well.	
-0x3f74	0x98	Bootie		...More importantly, look here.	
-				It's a present for you.	
+0x3f74	0x98	Bootie		...Don't worry about that.	
+				Bring out the gifts already.	
 0x3fcc	0x6B	ALTO		Sweatdrop	
-0x3ffe	0x98	ALTO		Ahaha, doing that all of a sudden...	
+0x3ffe	0x98	ALTO		Ahaha, just like that...?	
 				...Hey, that reminds me.	
-0x405a	0x98	ALTO		I hurried to board the ferry and	
-				didn't buy a souvenir...	
+0x405a	0x98	ALTO		I was in a rush to board the ferry,	
+				so I didn't buy any souvenirs...	
 0x40b2	0x98	Bootie		W-What!?	
 				I asked you to!	
-0x40eb	0x98	Bootie		It's Saint Cerise's famous product,	
-				Harbor Souffle! I was looking forward	
-				to it... Stupid Nayuta!	
+0x40eb	0x98	Bootie		I was so excited for Saint Cerise's	
+				specialty harbor souffle...!	
+				Stupid Nayuta!	
 0x416e	0x98	ALTO		S-Sorry, sorry.	
-				I'll definitely buy it for you next time.	
-0x41c6	0x98	ALTO		(Hmm, he's as gluttonous	
-				 as ever.)	
+				I'll get you one next time.	
+0x41c6	0x98	ALTO		(Hmm, he's still as	
+				 greedy as ever.)	
 0x4242	0x98	Bootie		Forgetting to buy souvenirs...	
 				You're really stupid, Nayuta.	
-0x429f	0x98	Bootie		Should I let you see my newly	
-				collected Star Shards?	
-0x42f6	0x98	ALTO		Plain Star Shards...	
-				It seems you've collected	
-				quite a few.	
-0x4351	0x98	ALTO		(It seems there are more here	
-				 than are in my room...	
-				 I've got to get him to show me. ♪)	
+0x429f	0x98	Bootie		Wanna see my new star shards?	
+0x42f6	0x98	ALTO		Broken star shards...	
+				Looks like you've	
+				collected a lot.	
+0x4351	0x98	ALTO		(That's a lot more than I have in my room...	
+				 I've gotta get him to show me next time. ♪)	
 0x43ef	0x98	Bootie		mp_0114 0x4242
 0x444c	0x98	Bootie		mp_0114 0x429f
 talk_Sculp
@@ -336,20 +320,20 @@ talk_Sculp
 0x48da	0x98	Sculp		mp_0000 0x7cd2	
 0x494c	0x98	Sculp		mp_0000 0x7d44	
 0x498e	0x98	ALTO		mp_0000 0x7d86	
-0x49bb	0x98	ALTO		mp_0000 0x7db3	
+0x49bb	0x98	ALTO		mp_0000 	
 0x4b12	0x98	Sculp		If they come again, I have	
 				to at least protect my family.	
-0x4b73	0x98	Sculp		You've got to save	
-				Kureha somehow, too.	
-0x4bba	0x98	Sculp		It's the responsibility of a man...	
-				It's your duty this time, too.	
-0x4c2f	0x98	Sculp		This wound I got from them hurts...	
+0x4b73	0x98	Sculp		And you've got to do whatever it	
+				takes to save Kureha from them, too.	
+0x4bba	0x98	Sculp		That's a man's responsibility...	
+				It's yours too this time.	
+0x4c2f	0x98	Sculp		This wound they gave me hurts...	
 				But I must protect my family without fail.	
 0x4c9d	0x98	Sculp		mp_0114 0x4b73
-0x4d00	0x98	Sculp		This rose that does not wither...	
-				It seems Canie loves it.	
-0x4d5a	0x98	Sculp		Thanks, Nayuta.	
-				I can't say thanks enough.	
+0x4d00	0x98	Sculp		This rose that never wilts...	
+				Canie seems to love it.	
+0x4d5a	0x98	Sculp		Gee, thanks, Nayuta.	
+				I can't thank you enough.	
 talk_Sculp_add
 0x4df0	0x98	Sculp		mp_0000 0x974f
 0x4e44	0x98	Sculp		mp_0000 0x97a3
@@ -422,57 +406,52 @@ talk_Sculp_addmes
 0x5df0	0xC1	System		handed over.	mp_0000 0xa553
 talk_Chicken
 quest_Keny
-0x5f16	0x98	Keny		Last year during the abnormalities,	
-				no matter what we did, our crops suffered.	
-				This year it was an abundant harvest.	
-0x5fa8	0x98	Keny		I wonder if god is giving this to us	
-				as a reward.	
-0x6103	0x98	Keny		Sasha is pretty easily influenced	
-				and evaded us.	
-0x6152	0x98	Keny		Maybe I should have a	
-				more patient conversation	
-				with her.	
-0x61b3	0x98	Keny		The general store's Sasha	
-				may know where Bootie	
-				is hiding.	
-0x620b	0x98	Keny		However, Sasha is pretty easily	
-				influenced, and evaded us.	
+0x5f16	0x98	Keny		With the incident last year, our crops	
+				did pretty poorly. But this year we've	
+				had an abundant harvest.	
+0x5fa8	0x98	Keny		I'm sure the gods are rewarding	
+				us with this great harvest.
+0x6103	0x98	Keny		Sasha is a pretty chatty one, and	
+				can easily deflect your questions.	
+0x6152	0x98	Keny		You should probably stay patient	
+				and keep on asking her.	
+0x61b3	0x98	Keny		I think Sasha from the general store	
+				might know where Bootie is hiding.	
+0x620b	0x98	Keny		However, Sasha is a pretty chatty one,	
+				and can easily deflect your questions.	
 0x6264	0x98	Keny		Maybe I should have a	mp_0114 0x6152
 				more patient conversation	
 				with her.	
 0x6356	0x98	Keny		Bootie just went out.	
-0x638b	0x98	Keny		If he returns I'll contact you,	
-				so how about going to where	
-				someone else is?	
-0x641b	0x98	Keny		Ah, what's wrong Nayuta?	
-0x6453	0x98	ALTO		Umm, didn't	
-				Bootie return?	
-0x648c	0x98	Keny		Yes, he just went out.	
-0x64c2	0x98	Keny		Though I think he'll return	
-				before long...	
-				What you need with him?	
+0x638b	0x98	Keny		If he returns, I'll contact you.	
+				How about going to someone else's	
+				place first?	
+0x641b	0x98	Keny		Ah, what's the matter, Nayuta?	
+0x6453	0x98	ALTO		Umm, is Bootie home?	
+0x648c	0x98	Keny		Eh, he just went out.	
+0x64c2	0x98	Keny		He should be back soon enough...	
+				You need him for something?	
 0x6522	0x98	ALTO		Umm, you see...	mp_0004 0x14b0f
 0x6551	0x40	UNDEF		Nayuta told Canie that Dr. Hydol	
 				has come to perform medical exams.	
-0x65b4	0x98	Keny		Ah, is that so.	
-0x65e3	0x98	Keny		Then, if he returns, I'll contact you.	
-				How about going ahead to where	
-				other people are?	
-0x6658	0x98	ALTO		Hmm, it can't be helped.	
-				I'll do that.	
+0x65b4	0x98	Keny		Oh, I see.	
+0x65e3	0x98	Keny		Well, if he returns, I'll contact you.	
+				How about going to someone else's	
+				place first?	
+0x6658	0x98	ALTO		Hmm, I guess I have to.	
+				I'll do just that.	
 QS_25_ask_destination
 0x67ad	0x06	Keny		ANI_WAIT1	
-0x6880	0x98	Keny		My, it's Nayuta.	
-				If it is Bootie, he still hasn't returned.	
+0x6880	0x98	Keny		My, it's Nayuta. Bootie	
+				still isn't home yet.	
 0x68da	0x06	ALTO		ANI_DEJECTED	
-0x6904	0x98	ALTO	#6A	I-Is that so...	
-				I'm defeated.	
+0x6904	0x98	ALTO	#6A	I-Is that so...?	
+				Darn.	
 0x6943	0x06	Keny		ANI_WAIT4	
-0x696a	0x98	Keny		Hmm...	
-				Speaking of that, he is	
-				certainly late coming home.	
-0x69c2	0x98	Keny		It's possible that he is...	
-				He might be hiding.	
+0x696a	0x98	Keny		Hmm... Come to think of it,	
+				he certainly is late coming home.	
+0x69c2	0x98	Keny		It's possible that he's...	
+				Maybe he's hiding.	
 0x6a1a	0x98	Keny		Ah, what's wrong Nayuta?	mp_0114 0x641b
 0x6a52	0x06	ALTO		ANI_GESTURE2	
 0x6a7c	0x98	ALTO	#6A	Umm, didn't	mp_0114 0x6453
@@ -488,50 +467,47 @@ QS_25_ask_destination
 				has come to perform medical exams.	
 0x6c2f	0x06	Keny		ANI_WAIT4	
 0x6c56	0x98	Keny		Ah, is that so.	mp_0114 0x65b4
-0x6c85	0x98	Keny		If that's the case, then that boy...	
-				He might be hiding.	
+0x6c85	0x98	Keny		In that case, then maybe...	
+				Maybe he's hiding.	
 0x6cde	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x6d0d	0x98	ALTO	#6A	H-Hiding?	
-				Why would he hide?	
+0x6d0d	0x98	ALTO	#6A	H-Hiding? Why would he be hiding?	
 0x6d4b	0x06	Keny		ANI_TALK	
-0x6d71	0x98	Keny		Last time when Dr. Hydol came,	
-				Bootie had a cold.	
-0x6dc1	0x98	Keny		When we took him to the doctor,	
-				he had him take some very	
-				bitter medicine.	
+0x6d71	0x98	Keny		Last time when Dr. Hydol	
+				was here, Bootie had a cold.	
+0x6dc1	0x98	Keny		So we got him an appointment,	
+				and the doctor prescribed him	
+				some very bitter medicine.	
 0x6e29	0x98	Keny		It's really his own fault though,	
 				since he tends to sleep with his 	
 				belly exposed...	
 0x6e9b	0x06	Keny		ANI_WAIT0	
-0x6ec2	0x98	Keny		When he thought of taking that	
-				medicine again, perhaps he	
-				ran.	
+0x6ec2	0x98	Keny		I think he's afraid of	
+				taking that medicine again,	
+				so he ran off somewhere.	
 0x6f1e	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x6f4c	0x98	ALTO	#6A	Ahaha...I see.	
-0x6f7d	0x98	ALTO	#6A	Then, do you have an	
-				idea where he's hiding?	
+0x6f4c	0x98	ALTO	#6A	Ahaha... I see.	
+0x6f7d	0x98	ALTO	#6A	Then, do you have any	
+				idea where he'd be hiding?	
 0x6fcb	0x06	Keny		ANI_THINK	
-0x6ff2	0x98	Keny		Hmm...It's possible that	
-				Sasha of the general store	
-				may know.	
+0x6ff2	0x98	Keny		Hmm... Sasha from the	
+				general store might know.	
 0x704d	0x06	Keny		ANI_WAIT2	
-0x7074	0x98	Keny		She moves the Star Shards that	
-				she decorates the shop with from	
-				place to place, it seems.	
-0x70ed	0x98	Keny		The possibility is high that Bootie	
-				asked her for help at a time like	
-				this.	
+0x7074	0x98	Keny		Bootie seems to frequent the	
+				general store to look at the	
+				star shards on display.
+0x70ed	0x98	Keny		There's a good change he would ask	
+				Sasha for help at a time like this.	
 0x7156	0x06	ALTO		ANI_GESTURE2	
-0x7180	0x98	ALTO	#6A	I see...	
-				Then, I'll try searching there.	
+0x7180	0x98	ALTO	#6A	Okay... Then, I'll	
+				try looking there.	
 0x71ca	0x06	ALTO		ANI_THANKS	
-0x71f2	0x98	ALTO	#6A	Thank you, Mrs. Canie.	
+0x71f2	0x98	ALTO	#6A	Thank you, Canie.	
 QS_82_get_crops
 0x74c6	0x98	Keny		Oh, Nayuta, do you need something?	
 0x7508	0x06	ALTO		ANI_GESTURE1	
-0x7532	0x98	ALTO	#6A	Mrs. Canie, the truth is...	
-0x7570	0x40	UNDEF		Nayuta explained that he came to get the offerings	
-				for the ancestors requested by the elder.	
+0x7532	0x98	ALTO	#6A	Actually, Canie...	
+0x7570	0x40	UNDEF		Nayuta explained that he came to get the	
+				ancestral offerings on request from the elder.	
 0x75ec	0x06	Keny		ANI_GOODIDEA	
 0x7616	0x98	Keny		Oh, yes yes, the offerings.	
 				I heard about those.	
@@ -540,22 +516,21 @@ QS_82_get_crops
 0x77cd	0x06	Keny		ANI_HANDOVER	
 0x77ff	0xC1	System		obtained.	mp_0000 0x7558
 0x78ac	0x06	NOI		ANI_SURPRISE	
-0x78d5	0x98	NOI	#6A	T-This many!?	
-0x7979	0x98	Keny		Uhuhu, amazing isn't it.	
+0x78d5	0x98	NOI	#6A	T-This much...!?	
+0x7979	0x98	Keny		Ehehe, isn't it amazing?	
 				This year was a real bumper crop.	
 0x79de	0x06	Keny		ANI_WAIT3	
 0x7a05	0x98	Keny		Last year during the abnormalities,	mp_0114 0x5f16
 				no matter what we did, our crops suffered.	
 				This year it was an abundant harvest.	
-0x7a97	0x98	Keny		I'm sure god is giving this to us	
-				as a reward.	
+0x7a97	0x98	Keny		I'm sure the gods are rewarding	mp_0114 0x5fa8
+				us with this great harvest.
 0x7ae4	0x06	ALTO		ANI_LAUGH	
-0x7b0b	0x98	ALTO	#6A	Ahaha, that might be true.	
+0x7b0b	0x98	ALTO	#6A	Haha, maybe so.	
 0x7b48	0x06	ALTO		ANI_THANKS	
-0x7b70	0x98	ALTO	#6A	Then, I'll hang on	
-				to these.	
+0x7b70	0x98	ALTO	#6A	Then, I can take this, right?	
 0x7bae	0x06	Keny		ANI_NOD	
-0x7bd3	0x98	Keny		Yes yes.	
+0x7bd3	0x98	Keny		Yeah, yeah~.	
 				Say hi to the elder for me.	
 0x7cee	0x98	NOI	#6A	With this, it looks like we	mp_0101 0xa690
 				have all the offerings requested	
