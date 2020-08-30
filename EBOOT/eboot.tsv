@@ -1,0 +1,342 @@
+0x21d948	BEGINNER	11	BEGINNER			
+0x21d954	HARD	7	HARD			
+0x21d95c	INFINITY	11	INFINITY			
+0x21d984	序章	7	Prologue	0x234688	1	
+0x21d98c	一章	7	Chapter 1	0x23468c	1	
+0x21d994	二章	7	Chapter 2	0x234690	1	
+0x21d99c	三章	7	Chapter 3	0x234694	1	
+0x21d9a4	四章	7	Chapter 4	0x234698	1	
+0x21d9ac	五章	7	Chapter 5	0x23469c	1	
+0x21d9b4	六章	7	Chapter 6	0x2346a0	1	
+0x21d9bc	終章	7	Epilogue	0x2346a4	1	
+0x21d9c4	後日譚	7	Sequel	0x2346a8	1	
+0x21d9cc	「クリアデータ」{ 0a }	19	「Clear Data」{ 0a }			14
+0x21d9e0	★～%s終了～{ 0a }	15	★~%sComplete~{ 0a }			
+0x21d9f0	～%s終了～{ 0a }	15	~%sComplete~{ 0a }			
+0x21da00	★%s 「%s」{ 0a }	15	★%s 「%s」{ 0a }			
+0x21da10	%s「%s」{ 0a }	11	%s「%s」{ 0a }			
+0x21da1c	Lv　　　　    %d{ 0a }	23	Level　　　%d{ 0a }			
+0x21da34	PlayTime　  %02d:%02d:%02d{ 0a }	31	PlayTime　%02d:%02d:%02d{ 0a }			
+0x21da54	実績　　        %02d/48{ 0a }	31	Trophies　 %02d/48{ 0a }			27
+0x21da74	難易度　        %s	23	Difficulty　%s			
+0x21db78	%s/%s	7	%s/%s			
+0x21ed98	#1C#0P：話す{ 0a }#2P：クエスト会話	31	#1C#0P：Talk{ 0a }#2P：Quest			
+0x21edd4	#1C奥義・散蓮華	15	#1CFallen Lotus			15
+0x21edf4	#1C奥義・神風	15	#1CWhirlwind			12
+0x21ee10	#1C奥義・裂空斬	15	#1CVacuum Blade			15
+0x21ee30	#1C奥義・流星撃	15	#1CMeteor Attack	0x883C04C	3	16
+0x21ee9c	#1C%s	7	#1C%s			5
+0x21eefc	#1C#%dI %s#3CＬＶＵＰ	23	#1C#%dI %s#3CＬＶＵＰ			
+0x21f12c	#4C#%dI%s#1Cを入手！	23	#%dI#1CGot #4C%s#1C!			21
+0x21f2dc	#1C四季魔法の装備スロットが一つ増えた！！	43	#1CFour Season Magic equip slot opened!			
+0x21f308	#4Cノイが複数のアーツを{ 0a }セットできるようになりました。	55	#4CNoi is now able to{ 0a }equip several arts.			46
+0x21f340	#4C複数のアーツをセットすると、{ 0a }戦闘中にＬボタンを押すことで{ 0a }使用するアーツを素早く切り替えることができます。	111	#4CEquip several arts,{ 0a }and push L in battle{ 0a }to quickly switch between them.			85
+0x21f3b0	#4C%dミラ#1Cを手に入れた。	27	#1CGot #4C%d Mira#1C.			21
+0x21f3cc	#4C『#%dI%s×%d』#1Cを手に入れた。	35	#1CGot #4C『#%dI%s×%d』#1C.			
+0x21f3f0	#4C『#%dI%s』#1Cを手に入れた。	35	#1CGot #4C『#%dI%s』#1C.			
+0x21f440	#2C「%s」#4Cを使った。	23	#4CUsed #2C「%s」#4C.			
+0x21f604	リトライ	11	Retry			
+0x21f610	難易度を下げてリトライ	23	Lower Difficulty and Retry	0x8856364	2	26
+0x21f628	ワールドマップへ戻る	23	Return to World Map			19
+0x21f640	ロード	7	Load			4
+0x21f648	タイトル画面に戻る	19	Return to Title			15
+0x21f65c	タイトル画面に戻りますか？	27	Return to Title?			
+0x21f678	難易度を下げてリトライしますか？{ 0a }※戦闘後は元の難易度に戻ります。	67	Lower difficulty and retry?{ 0a }※Difficulty setting will be restored after the battle.	0x88564b8	2	87
+0x21f924	ＰＡＵＳＥ	11	ＰＡＵＳＥ			
+0x21f9e0	STR-UP	7	STR-UP			
+0x21f9e8	INT-UP	7	INT-UP			
+0x21f9f0	CRITICAL-UP	11	CRITICAL-UP			
+0x21f9fc	EXP-UP	7	EXP-UP			
+0x21fa04	MIRA-UP	7	MIRA-UP			
+0x21fa0c	HP-HEAL	7	HP-HEAL			
+0x21fe04	#1C%s	7	#1C%s			
+0x21fe0c	はい	7	Yes			
+0x21fe14	いいえ	7	No			
+0x21fe90	キャンプメニューを終了しますか？	35	Close camp menu?			
+0x21fed0	#4C今はセーブする事ができません。	35	#4CYou can't save now.			
+0x21fef4	#4C※ステージ攻略中にセーブしたデータは、{ 0a }　ロードするとワールドマップからの再開となります。	95	#4C※Loading data saved during a stage{ 0a }restarts you from the world map.			75
+0x21ff64	タイトル画面に戻りますか？{ 0a }（ゲームの途中経過は失われます）	59	Return to title?{ 0a }(Game progress will be lost)			50
+0x22003c	現在は実行できません。	23	Can't practice now.			19
+0x220054	これ以上は作成できません。	27	Can't make any more.			20
+0x220070	ステージ攻略中は調理を行うことが出来ません。	47	Can't prepare food during a stage.			34
+0x2200a0	#4C%s#1Cを作りますか？	23	#1CMake #4C%s#1C?			
+0x2200b8	やめる	7	Stop			
+0x2200c0	お弁当箱へ	11	Take out			
+0x2200cc	この場で食べる	15	Eat in			
+0x2200dc	お弁当はこれ以上持てません。	31	Can't carry more food.			22
+0x2200fc	お弁当はこれ以上持てません。{ 0a }#4C%s#1Cをこの場で食べますか？	59	#1CCan't carry more food.{ 0a }Eat #4C%s#1C here?			49
+0x220138	レベルが%dになった！	23	Became level %d!			
+0x220150	食材が足りません。	19	Not enough ingredients.	0x8883F10	2	23
+0x220234	ＢＥＧＩＮＮＥＲ	19	ＢＥＧＩＮＮＥＲ	0x220284	1	
+0x220248	ＮＯＲＭＡＬ	15	ＮＯＲＭＡＬ	0x220288	1	
+0x220258	ＨＡＲＤ	11	ＨＡＲＤ	0x22028c	1	
+0x220264	ＩＮＦＩＮＩＴＹ	19	ＩＮＦＩＮＩＴＹ	0x220290	1	
+0x220278	キャンセル	11	Cancel	0x220294	1	
+0x220298	ステージ攻略中は難易度の変更を行うことが出来ません。	55	Can't change difficulty during a stage.			39
+0x2202d0	ゲームの難易度を変更した場合、{ 0a }難易度に関する実績が獲得できませんがよろしいですか？	83	When changing difficulty you can't{ 0a }earn difficulty-related trophies. OK?			77
+0x220324	#7C%s	7	#7C%s			
+0x22032c	#4C%s	7	#4C%s			
+0x220334	ゲームの難易度を#4C%s#1Cに変更しますか？	43	#1CChange difficulty to #4C%s#1C?			
+0x2203a0	武器を装備します。	19	Equip weapon.			
+0x2203b4	頭／腕防具を装備します。	27	Equip helm/gauntlet.			20
+0x2203d0	体防具を装備します。	23	Equip body armor.			17
+0x2203e8	足防具を装備します。	23	Equip shoes.			
+0x220400	四季魔法（アーツ）を装備します。	35	Equip arts.			
+0x220424	頭飾りを装備します。	23	Equip head accessory.			21
+0x22043c	衣服を装備します。	19	Equip clothes.			
+0x220450	装飾品を装備します。	23	Equip decoration.			
+0x220468	使用アイテムの確認と使用を行います。	39	Check or use usable items.			
+0x220490	食材アイテムを確認します。	27	Check food items.			
+0x2204ac	コレクトアイテムを確認します。	31	Check collectable items.			
+0x2204cc	イベントアイテムを確認します。	31	Check event items.			
+0x2204ec	弁当の作成を行います。	23	Prepare food.			
+0x220504	クエストの情報を確認します。	31	Check quest info.			
+0x220524	敵の情報を確認します。	23	Check enemy info.			
+0x22053c	獲得した実績を確認します。	27	Check earned trophies.			22
+0x220558	マニュアルを確認します。	27	Check the manual.			
+0x220574	現在の進行状況を保存します。	31	Save current progress.			
+0x220594	セーブデータを読み込みます。	31	Loading saved data.			
+0x2205b4	各種セーブデータを削除します。	31	Erase saved data.			
+0x2205d4	ゲームの設定を変更します。	27	Change game settings.			21
+0x2205f0	タイトル画面に戻ります。	27	Return to title screen.			23
+0x22060c	ＢＧＭの音量を変更します。	27	Change BGM volume.			
+0x220628	ＳＥの音量を変更します。（○ボタン：テストＳＥ再生）	55	Change sound effect volume. (○:Test playback)			45
+0x220660	ボイスの音量を変更します。（○ボタン：テストボイス再生）	59	Change voices volume. (○:Test playback)			39
+0x22069c	戦闘ボイスとシステムボイスのＯＮ／ＯＦＦを切り替えます。	59	Turn battle and system voices on and off.			
+0x2206d8	イベントボイスのＯＮ／ＯＦＦを切り替えます。	47	Turn event voices on and off.			
+0x220708	ゲームの難易度を変更します。	35	Change difficulty.			
+0x22072c	状態回復	11	St.Recovery			11
+0x220738	STR上昇	11	STR Up			
+0x220744	INT上昇	11	INT Up			
+0x220750	ｸﾘﾃｨｶﾙUP	3	Crit Up			
+0x22075c	経験値UP	11	EXP Up			
+0x220768	ミラUP	11	Mira Up			
+0x220774	【HEAL%4d  EXP%5d%s】 %s	27	[HEAL%4d EXP%5d%s] %s			
+0x220790	【%3dP】  %s	15	[%3dP]  %s			
+0x2207a0	【%3dP】  %s　[%.1f％]	23	[%3dP]  %s　[%.1f％]			
+0x2207b8	【%3dP】  %s　[%d/%d]	23	[%3dP]  %s　[%d/%d]			
+0x2207d0	【%3dP】  ？？？？？？	23	[%3dP]  ????????????			
+0x2207e8	【	3	[			
+0x2207ec	片手／	7	1H/			
+0x2207f4	両手／	7	2H/			
+0x2207fc	STR%3d	7	STR%3d			
+0x220804	INT%3d	11	INT%3d			
+0x220810	DEF%3d	11	DEF%3d			
+0x22081c	DEF%3d	7	DEF%3d			
+0x220824	STR%3d	11	STR%3d			
+0x220830	INT%3d	7	INT%3d			
+0x220838	】	7	]			
+0x220840	%s	3	%s			
+0x220844	PlayTime  %02d:%02d:%02d{ 0a }	27	PlayTime  %02d:%02d:%02d{ 0a }			
+0x2208c0	%sへ移動しますか？	20	Move to %s?			11
+0x220a64	ビューモード	19	View Mode			
+0x220b18	WEAPON	7	WEAPON			
+0x220b20	HEAD/ARM	11	HEAD/ARM			
+0x220b2c	BODY	7	BODY			
+0x220b34	FOOT	7	FOOT			
+0x220b3c	HEAD	7	HEAD			
+0x220b44	ACCESSORY	11	ACCESSORY			
+0x220b58	%2d/%d	7	%2d/%d			
+0x220b60	ARTS	7	ARTS			
+0x220b68	使用	7	Lunch Boxes	0x220b90	1	
+0x220b70	食材	7	Ingredients	0x220b94	1	
+0x220b78	コレクト	11	Collectible	0x220b98	1	11
+0x220b84	イベント	11	Event	0x220b9c	1	
+0x220ba0	使う	7	Usable			
+0x220bd0	進行中	7	Active	0x220be8	1	6
+0x220bd8	達成	7	Done	0x220bec	1	
+0x220be0	失敗	7	Fail	0x220bf0	1	
+0x220c04	開く	7	Open			
+0x220c0c	【%s】	7	[%s]			
+0x220c3c	？？？？？	11	??????????			
+0x220c48	%5d	3	%5d			
+0x220c4c	???	3	???			
+0x220c50	DROP	7	DROP			
+0x220c58	FOOD	7	FOOD			
+0x220c60	？？？？？？	15	????????????			
+0x220c70	%s	3	%s			
+0x220c74	？？？？	11	????????			
+0x220c80	%2d/%2d %4dP	15	%2d/%2d %4dP			
+0x220c90	？？？？	11	????????			
+0x220c9c	■ＢＧＭ	11	■ＢＧＭ	0x220cfc	1	
+0x220ca8	■ＳＥ	7	■ＳＥ	0x220d00	1	
+0x220cb0	■ＶＯＩＣＥ	15	■ＶＯＩＣＥ	0x220d04	1	
+0x220cc0	■戦闘／システムボイス	23	■Battle/System Voices	0x220d0c	1	
+0x220cd8	■イベントボイス	19	■Event Voices	0x220d10	1	
+0x220cec	■難易度変更	15	■Change Difficulty	0x220d14	1	18
+0x220d34	【　　　 ＯＮ 　　　】	23	【　　　 ＯＮ 　　　】	0x220d64	1	
+0x220d4c	【　　　ＯＦＦ　　　】	23	【　　　ＯＦＦ　　　】	0x220d68	1	
+0x220d6c	【   ＮＯＲＭＡＬ   】	23	【   ＮＯＲＭＡＬ   】	0x220dcc	1	
+0x220d84	【 ＢＥＧＩＮＮＥＲ 】	23	【 ＢＥＧＩＮＮＥＲ 】	0x220dd0	1	
+0x220d9c	【     ＨＡＲＤ     】	23	【     ＨＡＲＤ     】	0x220dd4	1	
+0x220db4	【 ＩＮＦＩＮＩＴＹ 】	23	【 ＩＮＦＩＮＩＴＹ 】	0x220dd8	1	
+0x220e18	#2C#1E#1i#21S%s	15	#2C#1E#1i#21S%s			
+0x220e28	#2C#1E#1i#14S%s	15	#2C#1E#1i#14S%s			
+0x220e38	%2d:%02d/%2d:%02d	19	%2d:%02d/%2d:%02d			
+0x220e4c	%2d/%2d	7	%2d/%2d			
+0x220e54	%7d	3	%7d			
+0x220e58	%02d/99	7	%02d/99			
+0x220e60	%4d/%4d	7	%4d/%4d			
+0x220e68	食材情報	11	Info.			5
+0x220e74	弁当作成	11	Make Food			9
+0x220e80	？？？	7	??????			
+0x220e88	COLLECT	7	COLLECT			
+0x220e94	%02d	7	%02d			
+0x220e9c	%9d	3	%9d			
+0x220ea0	Mira	7	Mira			
+0x220ea8	寄贈する	11	Donate			
+0x220eb4	昆虫館	7	Insectarium	0x220ed8	1	
+0x220ebc	水族館	7	Aquarium	0x220edc	1	8
+0x220ec4	生物資料館	11	Museum	0x220ee0	1	
+0x220ed0	宝物館	7	Treasury	0x220ee4	1	8
+0x220ee8	SELECT	7	SELECT			
+0x220ef0	%2d/32	7	%2d/32			
+0x220ef8	～　当館の展示品ご案内　～	27	～    About Exhibits    　～			25
+0x220f14	INSECT %2d/32	15	INSECT %2d/32			
+0x220f24	FISH %2d/32	11	FISH %2d/32			
+0x220f30	FOSSIL %2d/32	15	FOSSIL %2d/32			
+0x220f40	TREASURE %2d/32	15	TREASURE %2d/32			
+0x220f50	INFO	7	INFO			
+0x220f58	%d	3	%d			
+0x220f60	NEXT	7	NEXT			
+0x220f68	攻撃力	7	Attack Power	0x889C920	2	
+0x220f70	%3d	3	%3d			
+0x220f78	ストック	11	Stock			
+0x220f84	ＨＥＡＬ	15	ＨＥＡＬ			
+0x220f94	ＥＸＰ	15	ＥＸＰ			
+0x220fa4	特殊効果	15	Effect			6
+0x220fb4	作成回数	15	Qty Made			8
+0x220fc4	：	3	：			
+0x220fd8	状態異常回復	15	Recover Status			15
+0x220fe8	ＳＴＲ上昇	15	STR Up			12
+0x220ff8	ＩＮＴ上昇	15	INT Up			12
+0x221008	ｸﾘﾃｨｶﾙ率UP	15	Crit Rate Up			14
+0x221018	経験値入手UP	15	EXP Up			13
+0x221028	ミラ入手UP	15	Mira Up			12
+0x221054	POST	7	POST			
+0x22105c	【未開封】	11	[Unopened]			
+0x221068	【開封済】	11	[Opened]			
+0x221074	【実行中】	11	[Active]			
+0x221080	【 失敗 】	11	[Failed]			
+0x22108c	【 達成 】	11	[Success]			
+0x221098	LETTER	7	LETTER			
+0x2210a0	依頼者：	11	Client:			7
+0x2210c4	閉じる	7	Close			
+0x221178	LV	3	LV			
+0x2211cc	ＳＨＯＰ	11	ＳＨＯＰ			
+0x2211d8	ＣＯＯＫＩＮＧ	15	ＣＯＯＫＩＮＧ			
+0x2211fc	ＡＳＴＲＯＬＡＢＥ	19	ＡＳＴＲＯＬＡＢＥ			
+0x2212a4	ミラが足りません。	19	Not enough Mira.			
+0x2212c4	#4C%s#1Cを%dミラで購入しますか？	35	#1CBuy #4C%s#1C with %d Mira?			
+0x2212f4	#4C%s#1Cを装備しますか？	27	#1CEquip #4C%s#1C?			
+0x22131c	この項目は開放済みです。	27	Unlocked this item.			
+0x221338	実績ポイントが足りません。	27	Not enough achv. points.			24
+0x221354	#4C%s#1Cを%dPで開放しますか？	31	#1CUnlock #4C%s#1C with %dP?			
+0x221374	以上のアイテムを寄贈しますか？	31	Donate these items?			
+0x221394	現在は実行できません。	23	Can't practice now.			
+0x2213ac	これ以上は作成できません。	27	Can't make any more.			
+0x2213c8	#4C%s#1Cを作りますか？	23	#1CMake #4C%s#1C?			
+0x2213e0	はい	7	Yes			
+0x2213e8	いいえ	7	No			
+0x2213f0	やめる	7	Stop			
+0x2213f8	お弁当箱へ	11	Take out			
+0x221404	この場で食べる	15	Eat in			
+0x221414	お弁当はこれ以上持てません。	31	Can't carry more food.			
+0x221434	お弁当はこれ以上持てません。{ 0a }#4C%s#1Cをこの場で食べますか？	59	Can't carry more food.{ 0a }#1CEat #4C%s#1C here?			
+0x221470	レベルが%dになった！	23	Became level %d!			
+0x221488	食材が足りません。	19	Not enough ingredients.	0x88A6170	2	
+0x2214d4	鍛錬帳に十分な数の印が溜まりました。{ 0a }島の砂浜にいる師匠に会うと、{ 0a }剣技やアイテムを伝授してもらう事ができます。	111	Collected enough seals in training book.{ 0a }Meet Master on the beach and{ 0a }receive a sword tech or item.			109
+0x221544	クリアデータをセーブする	27	Save Clear Data			
+0x221560	セーブデータを削除する	23	Erase Save Data			
+0x221578	セーブする	11	Save			
+0x221584	タイトル画面に戻る	19	Return to Title			15
+0x221598	先に進む	11	Proceed			
+0x2215b8	状態回復	11	St.Recovery			
+0x2215c4	STR上昇	11	STR Up			
+0x2215d0	INT上昇	11	INT Up			
+0x2215dc	ｸﾘﾃｨｶﾙUP	3	Crit Up			
+0x2215e8	経験値UP	11	EXP Up			
+0x2215f4	ミラUP	11	Mira Up			
+0x221600	【HEAL%4d  EXP%5d%s】 %s	27	[HEAL%4d EXP%5d%s] %s			
+0x22161c	【	3	[			
+0x221620	片手／	7	1H/			
+0x221628	両手／	7	2H/			
+0x221630	STR%3d	7	STR%3d			
+0x221638	INT%3d	11	INT%3d			
+0x221644	DEF%3d	11	DEF%3d			
+0x221650	DEF%3d	7	DEF%3d			
+0x221658	STR%3d	11	STR%3d			
+0x221664	INT%3d	7	INT%3d			
+0x22166c	】	7	]			
+0x221674	%s	3	%s			
+0x221678	昆虫館の展示品一覧を見ることができます。	43	You can view the insect exhibit.			
+0x2216a4	水族館の展示品一覧を見ることができます。	43	You can view the fish exhibit.			
+0x2216d0	（※水族館は現在準備中です）	31	(※Aquarium getting ready)			25
+0x2216f0	生物資料館の展示品一覧を見ることができます。	47	You can view the animal exhibit.			
+0x221720	（※生物資料館は現在準備中です）	35	(※Museum getting ready)			
+0x221744	宝物館の展示品一覧を見ることができます。	43	You can view the treasury.			
+0x221770	（※宝物館は現在準備中です）	31	(※Treasury getting ready)			
+0x221790	展示されている生き物たち。実物は昆虫館でご覧ください。	55	Animals on display in the insectarium.			38
+0x2217c8	展示されている生き物たち。	27	Animals on display			19
+0x2217e4	実物は水族館でご覧ください。	31	in the aquarium.			16
+0x221804	実物は生物資料館でご覧ください。	35	at the natural history museum.			30
+0x221828	展示されている貴重な品々。	27	Valuables on display.			21
+0x221844	実物は宝物館でご覧ください。	31	Look at the treasury.			
+0x22196c	%sへ移動しますか？	19	Move to %s?			
+0x221980	#4C現在はここに行く事はできません。	35	#4CCan't move there now.			24
+0x2219a4	前半	7	First Half	0x088AD690	2	
+0x2219ac	後半	7	Second Half	0x088AD698	3	
+0x222448	#3Cクリアデータが選択されました。{ 0a }様々なデータを引き継いでプレイできます。{ 0a }最初からゲームを始めますか？	103	#3CClear data selected.{ 0a }You can carry over various data.{ 0a }Start from the beginning?			92
+0x2224b0	タイトル画面に戻りますか？	27	Return to title?			
+0x2224cc	#1Cステータス	15	#1CStatus	0x222580	1	
+0x2224dc	#1Cミラ	7	#1CMira	0x222584	1	
+0x2224e4	#1C装備品	11	#1CEquipment	0x222588	1	12
+0x2224f0	#1C四季魔法	11	#1CFour Season Magic	0x22258c	1	
+0x2224fc	#1Cギアクラフト	15	#1CGear Crafts	0x222590	1	14
+0x22250c	#1C鍛錬帳	11	#1CTraining Book Status	0x222594	1	23
+0x222518	#1Cお弁当と食材	15	#1CFood and Ingredients	0x222598	1	23
+0x222528	#1Cコレクト	11	#1CCollectibles	0x22259c	1	15
+0x222534	#1C敵情報	11	#1CEnemy Info	0x2225a0	1	13
+0x222540	#1Cショップ内容	15	#1CShop Content	0x2225a4	1	15
+0x222550	#1C星の欠片	11	#1CStar Shards	0x2225a8	1	14
+0x22255c	#4C 　　 決定	15	#4C 　Confirm	0x2225ac	1	
+0x22256c	#4C 　キャンセル	19	#4C 　Cancel	0x2225b0	1	
+0x222608	新しくゲームを始めます。	27	Begin a new game.			
+0x222624	セーブデータを読み込みます。	31	Load saved data.			
+0x222644	その後のお話。	15	After that...			13
+0x222654	ゲームの設定を変更します。	27	Change game settings.			21
+0x222670	さくさく進めるバランスです。	31	Balance for quick progress.			27
+0x222690	アクションゲームが苦手な方向け。	35	For those bad at action games.			30
+0x2226b4	比較的歯ごたえのある戦闘が楽しめます。	39	Can enjoy the flow of battle.			
+0x2226dc	アクションゲームに慣れている方に。	35	For those used to action games.			
+0x222700	かなり厳しいバランスです。	27	A pretty hard balance.	0x088DD418	3	22
+0x22271c	ノーマルでは物足りない上級者向け。	35	For those unsatisfied with normal.	0x088DD428	3	34
+0x222740	一度クリアした事がある方のみ楽しめます。	43	2nd playthrough only. Enemy strength is scaled	0x088DD458	3	46
+0x22276c	Ｌｖに応じて敵が強化される、超やりこみモード。	47	to level for a super-challenging game mode.	0x088DD468	3	43
+0x22279c	ＢＧＭの音量を変更します。	27	Change BGM volume.			
+0x2227b8	ＳＥの音量を変更します。（○ボタン：テストＳＥ再生）	55	Change sound effect volume. (○:Test playback)			45
+0x2227f0	ボイスの音量を変更します。（○ボタン：テストボイス再生）	59	Change voices volume. (○:Test playback)			39
+0x22282c	戦闘ボイスとシステムボイスのＯＮ／ＯＦＦを切り替えます。	59	Turn battle and system voices on and off.			
+0x222868	イベントボイスのＯＮ／ＯＦＦを切り替えます。	47	Turn event voices on and off.			
+0x222898	ゲームの難易度を変更します。	31	Change difficulty.			
+0x2228b8	ナユタのレベルを引き継ぎます。	31	Take Nayuta's level.			
+0x2228d8	所持金を引き継ぎます。	23	Take money.			
+0x2228f0	ナユタとノイの装備品を引き継ぎます。	39	Take Nayuta and Noi's equipment.			32
+0x222918	習得した四季魔法とレベル、魔法スロットの状態を引き継ぎます。	63	Take learned magic, magic levels, and slots.			44
+0x222958	習得したギアクラフトを引き継ぎます。	39	Take learned gear crafts.			25
+0x222980	各ステージのリザルト評価状態を引き継ぎます。	47	Take stage results.			19
+0x2229b0	所持しているお弁当と食材、料理ガイド、調理履歴、弁当箱の数を引き継ぎます。	75	Take ingredients and food, cooking guides, cooking history and lunch boxes.			75
+0x2229fc	所持しているコレクトアイテムと、博物館への寄贈状態を引き継ぎます。	67	Take collectibles and museum donation status.			
+0x222a40	敵情報の状態を引き継ぎます。	31	Take enemy info.			
+0x222a60	武器屋、雑貨屋の販売状態と、ノラのランクを引き継ぎます。	59	Take weapon and general store status and farm rank.			51
+0x222a9c	所持している星の欠片を引き継ぎます。	39	Take owned star fragments.			
+0x222ac4	以上の項目を引き継ぎ、ゲームを開始します。	43	Take the items above, and start the game.			41
+0x222af0	タイトル画面に戻ります。	27	Return to title screen.			
+0x226e74	イベントエフェクト読み込み数オーバー{ 0a }	39	Probably an error message.			26
+0x226e9c	を手に入れた。	15	got.			
+0x226eac	#4C『%d ミラ』#1C%s	19	#1CReceived #4C%d #1CMira.	0x08942840	2	26
+0x226ec0	#4C『#%dI%s×%d』#1C%s	23	#4C『#%dI%s×%d』 #1C%s	0x08942874	2	20
+0x226ed8	#4C『#%dI%s』#1C%s	19	#4C『#%dI%s』 #1C%s	0x089428AC	3	17
+0x226eec	#4C『#%dI %s』#1C%s	19	#4C『#%dI %s』 #1C%s	0x089428BC	2	18
+0x227490	セーブするには	15	To save, more			13
+0x2274a0	以上の空き容量が必要です。	27	free space is needed.			21
