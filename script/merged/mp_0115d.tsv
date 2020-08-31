@@ -67,8 +67,8 @@ lp_treasure1
 				been the subject of worship since ancient times.	
 0x2859	0x41	None		Judgment Mirror	
 				A mirror used in ancient trials.	
-				With a special "magic power," it is said it can	
-				show the past deeds and crimes of any man.	
+				It is though to have a special magic power	
+				to show the past deeds and crimes of any man.	
 0x299b	0x41	None		Crystal Ball	
 				A tool used by ancient prophets.	
 				Made of a crystalline material, it is said to	
@@ -95,12 +95,12 @@ lp_treasure2
 				A mysterious relic of ancient times made of bronze.	
 				Though it is still able to show the location of heavenly	
 				bodies with its complex gears, the details of its	
-				construction are unexplained.	
+				construction are not yet fully understood.	
 0x3324	0x41	None		Planetary Globe	
-				A mysterious relic of ancient times with a spherical	
-				map of the world drawn on it. Drawn long ago, when	
-				there was more land than there is now. It is thought	
-				of as an imaginary world, but the details are unknown.	
+				A mysterious relic of ancient times with a map of	
+				the world drawn on a sphere. It depicts far more land	
+				than there is today. It is thought to have been an	
+				imaginary world, but the details are unknown.	
 0x34bf	0x41	None		Model Flying Machine	
 				Mysterious relic of ancient times with two wings.	
 				It is thought that this was modeled after a bird,	

@@ -128,7 +128,7 @@ lp_stagbeetle
 				a shock, it pretends to be dead and falls.	
 0x40b2	0x41	None		[Longhorn Beetle] Cerambycidae	
 				Species of beetle with a long antenna.
-				Boring into wood with  powerful manibles,
+				Boring into wood with powerful manibles,
 				they occasionally collapse buildings.
 0x41be	0x41	None		[Goliath Beetle] Goliathus	
 				Giant beetle boasting a super-heavy weight.	
@@ -204,14 +204,14 @@ lp_sandbug
 				which can easily kill a human.	
 0x59cc	0x41	None		[Tarantula] Theraphosidae	
 				Large spider living in tropical regions.	
-				With a hairy body, it walks around on the surface,	
+				With a hairy body, it walks around on the ground,	
 				and holds poison in its strong fangs.	
 0x5b20	0x41	None		[Dung Beetle] Scarabaeus	
 				A species of scarab beetle (Scarabaeidae).	
-				Has the strange characteristic of rolling animal dung	
-				into balls for transport to its nest as food.	
-0x5c8b	0x41	None		[Ant Lion Larva] Myrmeleontidae	
-				The larva of the ant lion.	
+				Has the strange characteristic of rolling animal	
+				dung into balls for transport to its nest as food.	
+0x5c8b	0x41	None		[Antlion Larva] Myrmeleontidae	
+				The larva of the antlion.	
 				Makes a nest in dry sandy soil in the shape of a mortar,	
 				eating insects that fall into it.	
 lp_nodata
@@ -242,52 +242,51 @@ talk_Coron
 0x66ac	0x98	Coron		Dr. Volans designed every	
 				exhibition room in this museum.	
 0x6700	0x98	Coron		Natural history is Dr. Volans'	
-				specialty, and he's put a lot	
+				specialty. He's put a lot	
 				of mira into making them.	
 0x676c	0x98	Coron		Ah, what a splendid research space...	
-0x67b2	0x98	Coron		A-Ahem.	
-				By the way, I am responsible	
+0x67b2	0x98	Coron		A-Ahem. By the way, I am responsible	
 				for organizing the exhibits.	
 0x6887	0x98	Coron		Achoo...!	
 0x68b4	0x98	Coron		Huh, I felt a chill all of a sudden...	
-				As a matter of fact, I am sensitive to cold...	
+				I actually have a cold sensitivity...	
 0x6942	0x3F	Name		Researcher Caelum	mp_0115 0xb4da
-0x6975	0x98	Coron		Ehehe, are you doing a good job	
-				at the reception desk, Coron?	
-0x69d6	0x98	Coron		She has always has just as nice of a	
-				body as mine, so I didn't want it to
-				go to waste.	
-0x6a47	0x98	Coron		Since she's always looking so uncool,	
-				I have to take it upon myself to dress	
-				her up every now and then! ㈱	
+0x6975	0x98	Coron		Ehehe, is Coron doing a good	
+				job at the reception desk?	
+0x69d6	0x98	Coron		She's just as nice and beautiful as 	
+				me, after all, so I didn't want that	
+				to go to waste.	
+0x6a47	0x98	Coron		She doesn't have to look so uncool all	
+				the time. I have to take it upon myself	
+				to dress her up every now and then! ㈱	
 0x6adb	0x98	Coron		mp_0115a 0x69d6		
-0x6b4c	0x98	Coron		But...she's already at her limit.	
+0x6b4c	0x98	Coron		But... I'm afraid she's at her limit.	
 				If I tease her too much, she'll cry.	
 0x6bda	0x3F	Name		Researcher Caelum	mp_0115 0xb4da
-0x6c0d	0x98	Coron		Hehe, I'm Caelum!	
-				Today, I'm switching clothes with Coron	
-				and having her man the reception desk.	
+0x6c0d	0x98	Coron		Hehe, it's me, Caelum! Today I	
+				switched clothes with Coron and	
+				had her man the reception desk.	
 0x6c8d	0x98	Coron		Even though we both look the same, she	
 				doesn't have enough self-confidence.	
 				I'm gonna to give her some special training.	
 0x6d1f	0x98	Coron		In the meantime, I'm stuck wearing this	
 				researcher getup. You can't always be up	
 				front and center for everything, y'know? ☆	
-0x6dc1	0x98	Coron		Sometimes I gotta let Coron share some of	
-				the limelight, so I switch places with her	
-				from time to time.	
-0x6e36	0x98	Coron		But the strength of these	
-				glasses is pretty intense～...	
+0x6dc1	0x98	Coron		Sometimes I gotta let Coron share some	
+				of the limelight, so I switch places	
+				with her from time to time.	
+0x6e36	0x98	Coron		But these glasses are	
+				prettyyy strooong～...	
 				I'm getting a little dizzy.	
 0x6ef1	0x98	Coron		The Great Encyclopedia of Natural History	
 				is the Empire's foremost reference for	
 				plant and animal information.	
 0x6f79	0x98	Coron		If it talks of an organism's extinction,	
 				then it's probably true...	
-0x6feb	0x98	Coron		...I'm sorry.	
-				I wanted to say something	
-				a little more encouraging, but...	
-0x7076	0x98	Coron		Anyway, we'll try to look	
+0x6feb	0x98	Coron		...I'm sorry. I wanted to	
+				say something a little	
+				more encouraging, but...	
+0x7076	0x98	Coron		Anyway, we'll keep trying to look	
 				for some way to save Eartha.	
 0x70cc	0x98	Coron		Nayuta, please do not lose hope.	
 0x7128	0x98	Coron		...Nayuta, I hear your sister	
@@ -308,7 +307,7 @@ talk_Coron
 0x743b	0x98	Coron		But sometimes, I feel	
 				jealous of Caelum.	
 0x749a	0x98	Coron		Ehehehe, today I'm going to	
-				immerse myself in research of	
+				concentrate on research of	
 				insect life cycles...	
 0x7504	0x98	Coron		Coming along with Dr. Volans	
 				was the right decision after all...	

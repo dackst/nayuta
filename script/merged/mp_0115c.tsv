@@ -126,8 +126,8 @@ lp_middlefish
 				large jaw, it swallows its prey whole.	
 0x4217	0x41	None		[Deep-sea Hatchetfish] Sternoptychidae	
 				Deep-sea fish whose whole body is luminescent.	
-				Even when it is not luminescent, its body is silver like a mirror,	
-				reflecting the surroundings and confusing its enemies.	
+				Even when not luminescent, its body is silver like a mirror,	
+				reflecting its surroundings and confusing its enemies.	
 lp_largefish
 0x45e5	0x36	Choice		Catfish	
 0x4604	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -252,18 +252,18 @@ talk_Vavo
 0x676d	0x98	Vavo		I can't lose to Coron.	
 0x67a2	0x98	Vavo		To repay the favor I owe to Dr. Volans too,	mp_0115c 0x66d6
 				I must continue my research efforts.	
-0x6847	0x98	Vavo		It seems that the "moon" that drifted away
+0x6847	0x98	Vavo		It seems that the moon that drifted away
 				from the planet a year ago will be	
-				approaching us soon in its orbit.	
+				approaching us soon in orbit.	
 0x68bc	0x98	Vavo		I wonder if the meteorological abnormalities	
 				that occurred before will return...	
 				We've got to be thoroughly prepared.	
-0x696b	0x98	Vavo		The other "moon" has come	
+0x696b	0x98	Vavo		The other moon has come	
 				closer to our planet again.	
 0x69bb	0x98	Vavo		I wonder if the abnormalities that happened	mp_0115c 0x68bc
 				then will again occur...	
 				We've got to be thoroughly prepared.	
-0x6a78	0x98	Vavo		Oh...it seems to be noisy	
+0x6a78	0x98	Vavo		Oh... It seems to be noisy	
 				outside for some reason.	
 0x6abc	0x98	Vavo		I wonder if some ruins fell	
 				again or something?	
@@ -273,7 +273,7 @@ talk_Vavo
 0x6bac	0x98	Vavo		Normally, a kid like me	
 				becoming a researcher would	
 				be unthinkable, but...	
-0x6c1d	0x98	Vavo		To repay his favor to me,	
+0x6c1d	0x98	Vavo		To repay my debt to hum,	
 				I want to show him the results	
 				of my research someday.	
 0x6caa	0x98	Vavo		When I was in the Empire,	mp_0115c 0x6b3e

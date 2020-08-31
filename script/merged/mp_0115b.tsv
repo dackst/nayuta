@@ -13,12 +13,12 @@ lp_fossil2
 lp_fossil3
 0x157c	0x41	None		[Ammonite] Ammonoidea	
 				Snail that lived in ancient times.	
-				A representative ancient organism whose fossils	
+				A common ancient organism whose fossils	
 				can be found throughout the world. Even now,	
 				there are conflicting opinions on its classification.	
 lp_fossil4
 0x1779	0x41	None		[Trilobite] Trilobita	
-				Representative ancient arthropod.	
+				Common ancient arthropod.	
 				It is thought to have crawled around ancient	
 				oceans, eating mud and such.	
 lp_stuffed1
@@ -44,7 +44,7 @@ lp_stuffed4
 				have gotten the name, "human bird."	
 lp_stuffed5
 0x2058	0x41	None		[Frog] Anura	
-				Amphibian living near water.	
+				Amphibian that lives near water.	
 				Though when they are small, they have a fishlike appearance,	
 				when they are grown they climb to land, with a noisy	
 				"croak, croak" call.	
@@ -68,7 +68,7 @@ lp_stuffed9
 0x27a0	0x41	None		[Dodo] Raphidae	
 				Large bird called the Dodo.	
 				Because it can't fly, it was over-hunted by	
-				humans, and sadly, is considered extinct.	
+				humans, and sadly, is now considered extinct.	
 lp_stuffed10
 0x2955	0x41	None		[Giant Deer] Megaloceros giganteus	
 				Ancient large animal with a splendid pair of horns.	
