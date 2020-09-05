@@ -3,10 +3,10 @@ init
 0x220	0x06	gate_a		ANI_PATA2	
 0x259	0x06	st		ANI_PATA3	
 lp_portal
-0x2a6	0xC9	YesNoBox		Use the transfer gate?	
+0x2a6	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
 0x446	0x06	st		ANI_PATA1	
 LP_Monsyo
-0x591	0x40	UNDEF		A mysterious crest is carved into the monument.	
+0x591	0x40	UNDEF		A mysterious crest is carved into the monument.	mp_0101 0x328b
 SB_6_S16_appear_ALTO
 0x701	0x6B	ALTO		Exclamation	
 0x72b	0x06	ALTO		ANI_SURPRISE_WEAK	
@@ -17,106 +17,110 @@ SB_6_S16_move_ALTO
 SB_6_S16_move_NOI
 EV_6_S16_change_garden
 0xc3f	0x06	ALTO		ANI_LOOK_AROUND	
-0xc74	0x98	ALTO		W-What is this!?	
+0xc74	0x98	ALTO		W-What is this!?	mp_0101 0x21853
 0x107a	0x98	ALTO		...The surroundings have	
 				completely changed.	
-0x114c	0x98	ALTO	#240x#500y	As for what I see over there...	
-				It's the surface of our world, right?	
-0x1244	0x98	ALTO	#0x#500y	...Somehow, even the	
-				flowers are glowing softly.	
-0x12a3	0x98	NOI	#500x#500y	That white flower is a species	
-				whose petals are luminescent	
-				in dark places.	
-0x1315	0x98	NOI	#500x#500y	Could it be that this place is...	
+0x114c	0x98	ALTO	#240x#500y	And up above us, in the distance...	
+				That's our world, isn't it?	
+0x1244	0x98	ALTO	#0x#500y	...The flowers are glowing somehow.	
+0x12a3	0x98	NOI	#500x#500y	Those white flowers are a species	
+				with bioluminescent petals.	
+0x1315	0x98	NOI	#500x#500y	Could this place be...	
 0x1422	0x6B	ALTO		Exclamation	
 0x1474	0x06	ALTO		ANI_SURPRISE	
-0x149e	0x98	ALTO		Tch...!!	
+0x149e	0x98	ALTO		Wha...!!	
 0x1512	0x98	ALTO		Outside the Garden...!!	
 EV_6_S18_search_key
-0x1a12	0x98	ALTO	#0W	W-Why is that thing that looks	
-				like a large city there...	
-0x1aa5	0x98	ALTO		Where did that large ocean and	
+0x1a12	0x98	ALTO	#0W	W-Why is this here? It's like a	
+				giant city in the middle of...	
+0x1aa5	0x98	ALTO		Where did that huge ocean and	
 				the four continents go!?	
 0x1b03	0x06	NOI		ANI_GOODIDEA	
-0x1b2c	0x98	NOI		As I thought...	
-				It looks like the Garden has descended	
-				to the underground layer of Terra.	
+0x1b2c	0x98	NOI		As I thought... It looks like	
+				the Garden has descended into	
+				the underground layer of Terra.	
 0x1ba6	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x1bd5	0x98	ALTO		Underground!?	
+0x1bd5	0x98	ALTO		Underground...!?	
 0x1c9e	0x40	NOI		What we have been exploring up until	
 				now is Terra's upper stratum.	
-0x1d00	0x40	NOI		That is, the "surface" of ancient times,	
-				for preserving the plants and animals, but...	
+0x1d00	0x40	NOI		That is, where the plants and animals	
+				from the surface of ancient times	
+				were preserved, but...	
 0x1eb1	0x40	NOI		This is the lower stratum─	
-				Star Capital Lexendria.	
-0x1f04	0x40	NOI		A residential area created for the humans.	
-0x1f55	0x40	ALTO		Star Capital...Lexendria...	
-0x1f98	0x40	NOI		It supposedly named after an ancient continent.	
-0x1fe8	0x40	NOI		There are four "Pillars" that supply each	
-				continent with the Power of Stars.	
+				Star City Lexendria.	
+0x1f04	0x40	NOI		A residential district the	
+				Mythos created for the humans.	
+0x1f55	0x40	ALTO		Star City...Lexendria...	
+0x1f98	0x40	NOI		It's supposedly named after	
+				an ancient continent.	
+0x1fe8	0x40	NOI		There are four "Pillars" here	
+				that supply each continent	
+				with the Power of Stars.	
 0x20dd	0x06	ALTO		ANI_NOD	
 0x2102	0x98	ALTO		I see, so that's how it is...	
 0x2152	0x06	ALTO		ANI_COMPLAIN	
-0x217c	0x98	ALTO		...Then, there must be humans here!?	
+0x217c	0x98	ALTO		...Wait, there are humans here!?	
 0x21e0	0x06	NOI		ANI_DENY	
-0x220d	0x98	NOI	#0W#6A	...No.	
-				It seems not even a single	
-				human could be saved.	
+0x220d	0x98	NOI	#0W#6A	...No. Apparently they weren't	
+				able to save a single human.	
 0x226f	0x06	NOI		ANI_DEJECTED	
-0x2298	0x98	NOI	#6A#0W	The surface was destroyed	
-				faster than the Mythos predicted...	
-				That's what Master Kureha said.	
+0x2298	0x98	NOI	#6A#0W	The surface was destroyed faster	
+				than the Mythos predicted...	
+				That's what Master Kureha told me.	
 0x2322	0x06	ALTO		ANI_GESTURE2	
-0x234c	0x98	ALTO	#0W	...Is that so...	mp_0001 0xcc63
+0x234c	0x98	ALTO	#0W	...I see...	mp_0001 0xcc63
 0x23c7	0x6B	ALTO		Exclamation	
 0x2425	0x6B	NOI		Exclamation	
 0x24f0	0x98	ALTO		W-What was that rumble just now!?	
-0x2569	0x98	NOI	#6A	In this lower stratum also,	
-				are things stored which are	
-				most important to Terra.	
+0x2569	0x98	NOI	#6A	Some of the things most important	
+				to Terra are stored in the	
+				lower most stratum.	
 0x25d9	0x06	NOI		ANI_GESTURE2	
 0x2602	0x98	NOI	#6A	A great body of crystallized Power	
-				of Stars, to be used for the remaking...	
+				of Stars to be used for the remaking...	
 0x2676	0x06	NOI		ANI_COMPLAIN	
-0x269f	0x98	NOI	#6A	It seems Zext is setting it	
-				in motion!	
+0x269f	0x98	NOI	#6A	It seems like Zext is	
+				trying to start it!	
 0x26ee	0x06	ALTO		ANI_THINK2	
-0x2716	0x98	ALTO		Cygna and Kureha are probably there too.	
+0x2716	0x98	ALTO		Cygna and Kureha are	
+				probably there as well.	
 0x2766	0x06	ALTO		ANI_GESTURE2	
-0x2790	0x98	ALTO		...Noi, how can we	
-				go there?	
+0x2790	0x98	ALTO		...Noi, how do	
+				we get there?	
 0x27d3	0x06	NOI		ANI_GUTSPOSE	
 0x27fc	0x98	NOI	#6A	There's an elevator to the	
 				lower stratum in the Astrolabe!	
-0x2859	0x98	NOI	#6A	For those other than the Mythos	
-				to use it, four Stellagears are	
-				necessary, though...	
+0x2859	0x98	NOI	#6A	In order for anyone other than a	
+				Mythos to use it, we'd need four	
+				Stellagears, though...	
 0x28d7	0x06	ALTO		ANI_GESTURE1	
-0x2901	0x98	ALTO		Stellagears!?	
+0x2901	0x98	ALTO		Stellagears...!?	
 0x2938	0x06	NOI		ANI_GESTURE1	
-0x2961	0x98	NOI	#6A	They form a pair with the	
-				Master Gears of the upper	
-				stratum.	
+0x2961	0x98	NOI	#6A	They're the counterparts	
+				to the Master Gears in	
+				the upper stratum.	
 0x29bf	0x98	NOI	#6A	If we put them in the	
-				Astrolabe, the elevator	
-				will move!	
+				Astrolabe, we can	
+				operate the elevator!	
 0x2a21	0x06	NOI		ANI_GUTSPOSE	
-0x2a4a	0x98	NOI	#6A	They are probably hidden in the	
-				"Pillars" in each of the four districts!	
+0x2a4a	0x98	NOI	#6A	They should be hidden in	
+				the Pillars in each of	
+				the four districts!	
 0x2abb	0x06	ALTO		ANI_THANKS	
-0x2ae3	0x98	ALTO		...Then, let's strike while the iron is hot.	
+0x2ae3	0x98	ALTO		...Then, let's move while	
+				there's still time.	
 0x2b37	0x06	ALTO		ANI_JOY	
-0x2b5c	0x98	ALTO		Let's go get them...	
-				The Stellagears!	
+0x2b5c	0x98	ALTO		Let's go get the	
+				Stellagears!	
 0x2baa	0x06	NOI		ANI_ROTATE	
 0x2bd1	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
 0x2cf0	0x07	System	#3C	Star Capital Lexendria	
 				has been unlocked.	
-0x2ec8	0x40	UNDEF		You can go to a new world map from the front	
-				of the Garden.	
-0x308b	0xCE	Objective		Stellagears are in the pillars of Lexendria. Let's get them!	
-0x3117	0x07	System	#4C	The sub-menu command,	
-				"Star Capital Lexendria"	
+0x2ec8	0x40	UNDEF		A new world map can be accessed	
+				from the front of the Garden.	
+0x308b	0xCE	Objective		Stellagears are in the Pillars of Lexendria. Let's get them!	
+0x3117	0x07	System	#4C	The sub-menu movement command	
+				"Star City Lexendria"	
 				has been added.	
 SB_6_S32_appear_ALTO
 SB_6_S32_appear_NOI
@@ -126,11 +130,10 @@ EV_6_S32_notice_noi
 0x3621	0x06	ALTO		ANI_GESTURE2	
 0x364b	0x98	ALTO	#6A#220x#50y	...Noi?	
 0x3686	0x06	NOI		ANI_DENY	
-0x36ed	0x98	NOI	#1W	............No.	
+0x36ed	0x98	NOI	#1W	........It's nothing.	
 0x390e	0x06	NOI		ANI_GESTURE2	
-0x3937	0x98	NOI	#6A	Let's go, Nayuta.	
-				We'll put the Stellagears	
-				in the Astrolabe.	
+0x3937	0x98	NOI	#6A	Let's go, Nayuta. We'll put the	
+				Stellagears in the Astrolabe.	
 0x399e	0x06	ALTO		ANI_JOY	
 0x39c3	0x98	ALTO		Yeah, let's do that.	mp_0004 0x18592
-0x3b50	0xCE	Objective		Got the four Stellagears. Let's head for the Astrolabe!	
+0x3b50	0xCE	Objective		Gathered the four Stellagears. Let's head for the Astrolabe!	
