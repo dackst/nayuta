@@ -1,7 +1,7 @@
 mp_0001d
 init
 stp_tower
-0x484	0x98	ALTO		I don't have time for any detours...	
+0x484	0x98	ALTO		This is no time to get sidetracked...	
 				I've got to look for Kureha!	
 quest_Pyxia
 0x548	0x98	Pyxia		...Mishy? What's that?	
@@ -9,62 +9,62 @@ quest_Pyxia
 0x594	0x98	Pyxia		At least, I don't think he's	
 				gone to the Tower Ruins.	
 talk_Pyxia
-0x616	0x98	Pyxia		I asked that pretty girl	
-				to model for my picture...	
-0x670	0x98	Pyxia		...But she said she doesn't have	
-				time for that sort of thing.	
-0x6c9	0x98	Pyxia		I'm going to whack that man in	
-				black with a spatula the	
-				next time I see him!	
+0x616	0x98	Pyxia		I wanted to ask that beautiful girl	
+				to model for my painting...	
+0x670	0x98	Pyxia		...Now's not that time for mentioning	
+				about that sort of thing.	
+0x6c9	0x98	Pyxia		If I ever find that man in	
+				black again, I'm gonna whack	
+				him with a spatula!	
 0x75b	0x98	Pyxia		That man in black...	
-				I won't forgive him!	
-0x7a4	0x98	Pyxia		If I find him, I'll	
+				It's unforgivable!	
+0x7a4	0x98	Pyxia		If I ever find him again, I'll	
 				whack him with a spatula!	
 talk_Horolo
-0x81e	0x98	Horolo		Looks like most of the	
-				buildings on the island	
-				came out unscathed.	
-0x88c	0x98	Horolo		It also looks like only the people	
-				that resisted were injured...	
-0x8ef	0x98	Horolo		I'm really getting the feeling	
-				that he came to this island just	
-				to steal away that girl...	
-0x98a	0x98	Horolo		Why did that man in black	
-				come to the island to just	
-				steal a single girl?	
+0x81e	0x98	Horolo		Looks like most of the buildings	
+				on the island came out unscathed.	
+0x88c	0x98	Horolo		And only the people who	
+				resisted were injured...	
+0x8ef	0x98	Horolo		I'm really starting to get the	
+				feeling that they came here	
+				just to take away that girl...	
+0x98a	0x98	Horolo		Why would that man in black	
+				come all they way here to	
+				just steal a single girl?	
 0x9ef	0x98	Horolo		Was there some special	
 				reason or something...?	
 talk_Lyra
 0xa74	0x98	Lyra		Nayuta...	mp_0000d 0x7671
-0xa9d	0x98	ALTO		Lyra...if you hang around here	
+0xa9d	0x98	ALTO		Lyra... If you hang around here	
 				like this, you'll catch a cold.	
-0xae8	0x98	Lyra		Yeah, I know that, but...	
-0xb21	0x98	Lyra		...Kureha...why did she follow him...?	
-0xb70	0x98	Lyra		If she hated us that	
-				much, then why...?	
+0xae8	0x98	Lyra		Yeah, I know, but...	
+0xb21	0x98	Lyra		...Kureha... Why did	
+				she go with him...?	
+0xb70	0x98	Lyra		Did she hate us	
+				that much...?	
 0xbb5	0x98	ALTO		I don't know, but...	
 0xbe9	0x98	ALTO		Kureha was grateful to	
 				everyone on the island...	
 				She said she had fun here.	
-0xc4a	0x98	ALTO		That's why I'm sure,	
-				Kureha wouldn't want
-				anything like this.	
+0xc4a	0x98	ALTO		That's why I'm sure, this isn't	
+				what Kureha really wants.	
 0xcb3	0x98	ALTO		...That's good enough for me.	
 0xcf2	0x98	Lyra		Nayuta...	mp_0000d 0x7671
-0xd1b	0x98	Lyra		...Yeah, got it.	
-				I believe in you, Nayuta.	
+0xd1b	0x98	Lyra		...Yeah, I understand.	
+				I believe you, Nayuta.	
 0xd64	0x98	Lyra		But if you start talking like that, it	
-				leaves me wondering what unreasonable	
-				thing you're trying to do.	
-0xddf	0x98	ALTO		Ahaha...you might be right.	
-0xe1a	0x98	Lyra		So I was right, *sigh*...	
-0xe62	0x98	Lyra		Well, fine. It seems like Cygna	
-				is missing in that world, too.	
+				feels like you have something reckless	
+				on your mind you're about to do.
+0xddf	0x98	ALTO		Haha... You might be right.	
+0xe1a	0x98	Lyra		So I WAS right, *sigh*...	
+0xe62	0x98	Lyra		Well, whatever. From what you	
+				said, Cygna has gone missing	
+				in that world, too.	
 0xeb3	0x98	Lyra		Nayuta, please look after	
-				those two. I'm sure you	
-				can bring them back to us!	
-0xf46	0x98	Lyra		Nayuta... I'm sure you'll bring	
-				back Cygna and Kureha to us!	
+				them both. You can bring	
+				them back to us, right?	
+0xf46	0x98	Lyra		Nayuta... You have to bring
+				Cygna and Kureha back to us!	
 0xfa1	0x98	Lyra		I'll be waiting on this island.	
 				For all of you to return.	
 talk_Dog_before
@@ -97,7 +97,7 @@ talk_Dog_before
 0x166d	0x98	ALTO		Ahaha, how cute.	mp_0001 0x3e97
 0x16a0	0x98	ALTO		(...That's right, maybe	mp_0001 0x3f89
 				 I can keep it at home?)	
-0x16f6	0x98	ALTO		(But I'd like to have a	decent	mp_0001 0x3fdf	
+0x16f6	0x98	ALTO		(But I'd like to have a decent	mp_0001 0x3fdf	
 				 doghouse... Maybe I should look	
 				 for one at the general store?)	
 0x17f7	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf

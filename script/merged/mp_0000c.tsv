@@ -12,170 +12,167 @@ LP_Shop2
 				  Remnant Island's most popular product?	
 talk_Dorado
 0xb7b	0x98	Dorado		I was just about to leave	
-				on patrol with Axe and	
+				for patrol with Axe and	
 				the others, but...	
 0xbde	0x98	Bootie		...Hey, don't ignore me.	
 				Take me with you too!	
 0xc2d	0x6B	Dorado		Sweatdrop	
-0xc8f	0x98	Dorado		Ah, you're annoying!!	
+0xc8f	0x98	Dorado		Ah, you're so annoying!!	
 				This is a job for adults!	
-0xcdf	0x98	Dorado		Generally, in front of monsters,	
-				you run away and are scared	
-				of them.	
-0xd6c	0x98	Dorado		This time, only ferocious monsters	
-				are coming out. We've got to increase	
-				our patrols.	
+0xcdf	0x98	Dorado		Besides, didn't you just get scared	
+				when I was attacked by that monster	
+				the other day?	
+0xd6c	0x98	Dorado		Lately, a lot of ferocious monsters	
+				have been appearing. We've had to	
+				increase our patrols.	
 0xde1	0x98	Dorado		I've got to fulfill my duty	
 				as the town guard!	
 talk_Lupus
-0xe72	0x98	Lupus		That rubble won't move no matter what.	
-				I thought of asking my mom for help.	
+0xe72	0x98	Lupus		That rubble just wouldn't budge.	
+				I thought it'd be funny to ask	
+				my mom to help, but...	
 0xee1	0x6B	Lupus		Sweatdrop	
-0xf14	0x98	Lupus		...My god, it	
-				actually moved...	
-0xf7c	0x98	Lupus		Even Columba and Sculp	
-				couldn't move that rubble...	
-0xfcf	0x98	Lupus		So the hidden solution	
-				was this close by...	
-0x1054	0x98	Lupus		Just in time, Doctor. The	
-				old man is calling for you.	
+0xf14	0x98	Lupus		...I never thought should she	
+				could actually move it...	
+0xf7c	0x98	Lupus		Not even Columba and Sculp together	
+				could move that rubble...	
+0xfcf	0x98	Lupus		There's a freaking secret weapon	
+				hiding in town...	
+0x1054	0x98	Lupus		Just in time, Doctor. My	
+				grandpa wants to see you.	
 0x10af	0x98	Lupus		As the village elder, he	
 				wants to hear more about	
 				your doctor's rounds.	
-0x10fd	0x98	Hydol		I see... I was thinking I	
-				had something to ask of
-				him as well.		
+0x10fd	0x98	Hydol		I see... I wanted to ask	
+				him some questions as well.		
 0x1154	0x98	Hydol		Lyra and Vel's exams are done.	
-				All right, let's go there now..	
-0x1211	0x98	Lupus		Nayuta, leave the	
-				island to us for now.	
-0x1258	0x98	Lupus		Don't overdo it, okay?	
+				All right, let's be on our way.	
+0x1211	0x98	Lupus		Nayuta, we can handle	
+				the island for now.	
+0x1258	0x98	Lupus		Just don't push yourself too hard, okay?	
 talk_Canis
-0x12bd	0x98	Canis		*huff, huff, huff*	
-				I thought I'd try to get	
-				rid of this rubble, but...	
-0x1317	0x98	Canis		As I thought, these thin arms	
-				can only it a little at a time.	
+0x12bd	0x98	Canis		*huff*, *huff*, *huff*	
+				I thought I'd try to clear	
+				out this rubble, but...	
+0x1317	0x98	Canis		It looks like these slender womanly	
+				arms of mine can only do so much.	
 0x1373	0x6B	Lupus		Sweatdrop	
-0x13a6	0x98	Lupus		(I-I can't believe it... She's	
-				 really moving it by herself...)	
-0x142c	0x98	Canis		Even if I'm not useful,	
-				I'm doing all I can to help.	
-0x1480	0x98	Canis		Nayuta and everyone are	
-				doing their best too...	
-				I can't lose hope!	
+0x13a6	0x98	Lupus		(I-I can't believe it...	
+				 She's really moving it	
+				 all by herself...)	
+0x142c	0x98	Canis		I may not much use, but	
+				I'll do all I can to help.	
+0x1480	0x98	Canis		Nayuta and everyone else	
+				are working so hard...	
+				I can't get complacent!	
 talk_Columha
-0x1503	0x98	Columha		I tried cleaning up this rubble	
-				with the help of some of the stronger	
-				people in the village...
-0x156a	0x98	Columha		...But as expected, it's difficult.	
-				They seem impossible to remove	
-				by human hands...	
-0x15d0	0x98	Columha		Though it'll take some time,	
-				it seems like all we can do	
-				is crush them with a hammer.	
-0x1662	0x98	Columha		We're doing our best trying to	
-				clean up this rubble somehow...	
-				But just pushing it seems difficult.	
+0x1503	0x98	Columha		I've been cleaning up the wreckage	
+				with some of the stronger men in	
+				the village...
+0x156a	0x98	Columha		...But this one won't budge at all.	
+				It seems impossible to move with	
+				human hands...	
+0x15d0	0x98	Columha		Though it'll take some time, it seems	
+				the only thing we can do is crush it	
+				into smaller pieces with a hammer.	
+0x1662	0x98	Columha		We've been working the last few days trying	
+				to clean up the debris... But pushing this	
+				one away is proving to be too difficult.	
 0x16de	0x98	Columha		Though it'll take some time,	mp_0000c 0x15d0
 				it seems like all we can do	
 				is crush them with a hammer.	
 talk_Ursaminor
 0x17b9	0x98	Ursaminor		Though the world has become	
-				like this, I'm glad I met my	
+				like this, I'm glad to see my	
 				sister.	
-0x181c	0x98	Ursaminor		...If she can make amends with	
-				my father, I'll be even happier.	
+0x181c	0x98	Ursaminor		...If only she could make up with	
+				Father, I'll be even happier.	
 talk_Ursaminor_and_Reticul
 0x188b	0x98	Ursaminor		Reticul, I'm glad you're safe...	
 0x18d0	0x98	Ursaminor		I was really worried about you...	
 0x1916	0x98	Reticul		Ursamina...	
 				Yeah, I'm really sorry.	
-0x195b	0x98	Reticul		I'll help out with restoration	
-				of the village, so there's	
-				no need for you to worry.	
-0x19cf	0x98	Ursaminor		...Did you make up	
-				with father?	
-0x1a12	0x98	Reticul		N-No...	
-				As you might expect, it's a little	
-				difficult to look him in the eye you know...	
-0x1a8a	0x98	Reticul		W-Well, sooner or later I will, OK?	
+0x195b	0x98	Reticul		I'll be here for a while helping	
+				out with rebuilding the village,	
+				so there's no need to worry.	
+0x19cf	0x98	Ursaminor		...Will you make	
+				up with Father?	
+0x1a12	0x98	Reticul		Umm, well... You know, it'd be a little	
+				awkward for us to meet each other...	
+0x1a8a	0x98	Reticul		B-But maybe someday, okay?	
 talk_Sculp
-0x1c12	0x98	Sculp		Say Nayuta,	
+0x1c12	0x98	Sculp		Say Nayuta,	mp_0000 0x7935
 				There's something I want you to hear.	
-0x1c63	0x98	ALTO		Huh, me?	
+0x1c63	0x98	ALTO		Huh, me?	mp_0000 0x7988
 				What could it possibly be?	
-0x1ca5	0x98	Sculp		The truth is, recently I heard	
+0x1ca5	0x98	Sculp		The truth is, recently I heard	mp_0000 0x7988mp_0000 
 				a story from Antoria, but...	
-0x1d00	0x98	Sculp		If I used more fertile "soil,"	
+0x1d00	0x98	Sculp		If I used more fertile "soil,"	mp_0000 0x7a23
 				I'd definitely be able to	
 				raise vegetables better.	
-0x1d70	0x98	Sculp		Though using fertilizer is	
+0x1d70	0x98	Sculp		Though using fertilizer is	mp_0000 0x7a7d
 				fairly popular on the continent.	
-0x1dcb	0x98	Sculp		However, I can't find very good	
+0x1dcb	0x98	Sculp		However, I can't find very good	mp_0000 0x7adf
 				soil on Remnant Island...	
 				Nayuta, do you have any idea about this?	
-0x1e4c	0x98	ALTO		Hmm, fertile soil, huh...?	
+0x1e4c	0x98	ALTO		Hmm, fertile soil, huh...?	mp_0000 0x7b57
 				I'm afraid I don't have any idea.	
-0x1ea7	0x98	ALTO		Originally, the soil on Remnant Island	
+0x1ea7	0x98	ALTO		Originally, the soil on Remnant Island	mp_0000 0x7bb0
 				everywhere is full of salt and hard...	
-0x1f13	0x98	Sculp		As I thought...	
+0x1f13	0x98	Sculp		As I thought...	mp_0000 0x7c18
 				If you say it, then it must be true.	
-0x1f67	0x98	Sculp		Ah, it seems I've asked the	
+0x1f67	0x98	Sculp		Ah, it seems I've asked the	mp_0000 0x7c75
 				impossible of you.	
 				Sorry, forget it.	
-0x1fc6	0x98	Sculp		But if you get some good "soil"	
+0x1fc6	0x98	Sculp		But if you get some good "soil"	mp_0000 0x7cd2
 				somewhere, it'll be a help if	
 				you give a little to me.	
-0x203b	0x98	Sculp		Won't you keep that in mind	
+0x203b	0x98	Sculp		Won't you keep that in mind	mp_0000 0x7d44
 				for me?	
 0x207e	0x98	ALTO		Yeah, got it.	mp_0000 0x7d86
-0x20ab	0x98	ALTO		(Fertile "soil," was it...?	
+0x20ab	0x98	ALTO		(Fertile "soil," was it...?	mp_0000 0x7db3
 				 If I find some, shall I	
 				 bring it to Sculp?)	
-0x2253	0x98	Sculp		Hmm...It seems like I'll	
-				need to remove that stone.	
+0x2253	0x98	Sculp		Hmm... It seems that we just might	 
+				be able remove these stones now.	
 0x22a6	0x98	Sculp		I can't believe there exists a human	
 				who could move that by themselves.	
 0x230d	0x98	Axe		Next is the one that fell near	
-				your cow shed I guess...	
-0x2362	0x98	Axe		When I'm done with my rounds,	
-				I'll meet you there. We've got to	
-				do something soon.	
-0x240c	0x98	Sculp		Nayuta, I'm worried about the village.	
-				We will show you we can protect	
-				the place that you'll return to.	
-0x2492	0x98	Sculp		So be absolutely sure	
-				to return safely for us.	
-0x2516	0x98	Sculp		Monsters I haven't seen before	
-				are infesting this place.	
-				Though I told him to be careful...	
+				your cow shed, I guess...	
+0x2362	0x98	Axe		I'll meet you guys there as soon	
+				as I'm finished with my patrol,	
+0x240c	0x98	Sculp		Nayuta, don't worry about the	
+				village. We'll protect the	
+				place while you're gone.	
+0x2492	0x98	Sculp		So you guys better make sure to	
+				return safe and sound for us.	
+0x2516	0x98	Sculp		A bunch of monsters we've never seen	
+				before have been showing up lately.	
+				We're telling everyone to be careful...	
 0x2590	0x98	Sculp		Anyway, I'm glad Bootie's safe.	
-0x25d0	0x98	Sculp		However...It would be good if	
-				the kids didn't go outside for	
-				awhile.	
-0x265b	0x98	Sculp		Only monsters we can't make	
-				a dent in are coming out now.	
-0x26b4	0x98	Sculp		Though Orvus is making his rounds,	
-				the kids should stay inside.	
-0x2749	0x98	Sculp		Oh...What should I do?	
-				Of all things, this huge	
-				stone had to fall...	
-0x27ac	0x98	Sculp		Well at least Jessica's safe,	
-				and I can repair this shed	
-				anytime.	
-0x280c	0x98	Sculp		More importantly,	
-				I've got to think of the village.	
-0x28ab	0x98	Sculp		That's right, our vegetables haven't	
-				wilted due to this weather.	
-0x290b	0x98	Sculp		That might be because of the	
+0x25d0	0x98	Sculp		However... maybe the kids shouldn't	
+				be let outside for a while.	
+0x265b	0x98	Sculp		We can't take any chances with	
+				these monsters popping up.	
+0x26b4	0x98	Sculp		Though Orvus is out on patrol, the	
+				kids should stay inside regardless.	
+0x2749	0x98	Sculp		Oh... What to do? Of all places,	
+				this stupid rock had to fall	
+				from the sky and land here...	
+0x27ac	0x98	Sculp		Well at least Jessica's safe, and	
+				the barn can always be fixed.	
+0x280c	0x98	Sculp		More importantly, I've got	
+				to think about the village.	
+0x28ab	0x98	Sculp		That's right, all my crops have	
+				powered through this weather.	
+0x290b	0x98	Sculp		It might be because of the	
 				soil you brought me, Nayuta.	
-0x2964	0x98	Sculp		...Thank you, Nayuta!	
-0x29c2	0x98	Sculp		I'll repair the field and look after Jessica.	
-				...After that, I'll try to move the stone	
-				in the plaza with everyone.	
-0x2a54	0x98	Sculp		Man, I'll have to brace myself	
-				for being busy.	
+0x2964	0x98	Sculp		...Many thanks, Nayuta!	
+0x29c2	0x98	Sculp		Tending to the fields, taking care of	
+				Jessica, and now removing the boulder	
+				from the village square.	
+0x2a54	0x98	Sculp		Man, there's a lot to do, but we	
+				gotta keep it together here.	
 talk_Sculp_add
 0x2af2	0x98	Sculp		Hmm!? Hey, Nayuta...	mp_0000 0x974f
 				Isn't that pretty good "soil!?"	
@@ -251,215 +248,206 @@ talk_Sculp_addmes
 0x39f9	0xC1	System		handed over.	mp_0000 0xa553
 0x3af9	0xC1	System		handed over.	mp_0000 0xa553
 talk_Bootie
-0x3b83	0x98	Bootie		Hey Nayuta, what are you doing looking	
-				at me like that...	
-				There's no way I'll stay at home!	
-0x3bfe	0x98	Bootie		If I don't stand up at a time like this,	
-				I'm not a man.	
-0x3c56	0x98	Bootie		And so,	
-				Remnant Island patrol, start!	
-0x3c9c	0x98	Dorado		I said, stay at home!	
-0x3cfb	0x98	Bootie		...Even I have some strength.	
+0x3b83	0x98	Bootie		Hey Nayuta, what are you doing,	
+				looking at me like that...?	
+				No way I'm staying home!	
+0x3bfe	0x98	Bootie		It's times like this where a man has	
+				to stand up for himself, isn't it?
+0x3c56	0x98	Bootie		So, the Remnant Island patrol begins!	
+0x3c9c	0x98	Dorado		I said go home!	
+0x3cfb	0x98	Bootie		...I can do something too, you know.	
 0x3d3a	0x98	Bootie		Nayuta, leave everyone in	
 				this village to me!	
 talk_Aquela
-0x3db6	0x98	Aquela		My, you...	
-0x3de2	0x98	Aquela		Hehe, you have good eyes, don't you?	
-0x3e1d	0x98	Aquela		And so, in my reading of the stars,	
+0x3db6	0x98	Aquela		My, you...	mp_0000 0x7370
+0x3de2	0x98	Aquela		Hehe, you have good eyes, don't you?	mp_0000 0x73a0
+0x3e1d	0x98	Aquela		And so, in my reading of the stars,	mp_0000 0x73e6
 				I can see you are one burdened	
 				with a great destiny.	
 0x3e92	0x6B	Aquela		Ellipsis	
-0x3ec6	0x98	ALTO		Y-You are?	
-0x3ef0	0x98	Aquela		Hehehe... As an astrologer, I	
+0x3ec6	0x98	ALTO		Y-You are?	mp_0000 0x747f
+0x3ef0	0x98	Aquela		Hehehe... As an astrologer, I	mp_0000 0x74ae
 				take great interest in you.	
-0x3f40	0x98	Aquela		That is how it seems to me, boy.	
+0x3f40	0x98	Aquela		That is how it seems to me, boy.	mp_0000 0x7507
 				I want you to keep this.	
 0x3f85	0xC1	System		obtained.	mp_0000 0x7558
-0x4004	0x98	Aquela		I get some very interesting	
+0x4004	0x98	Aquela		I get some very interesting	mp_0000 0x75d7
 				premonitions from you...	
 				This is thanks for that.	
 0x40bc	0x6B	Aquela		Ellipsis	
-0x40f0	0x98	Aquela		...It is passed down that my	
-				clan made a grave error in	
-				the distant past.	
-0x4159	0x98	Aquela		Because of that, calamity struck,	
-				and the world was enveloped in	
-				ocean...	
-0x41c6	0x98	Aquela		For generations, my tribe has since	
-				secretly watched over this world and	
-				passed down this tale through the ages.	
-0x4237	0x98	Aquela		Though much time has passed and	
-				much lore has been lost, this is our	
-				duty as descendants of the guilty.	
+0x40f0	0x98	Aquela		...It is passed down that	
+				my clan made a grave error	
+				in the distant past.	
+0x4159	0x98	Aquela		It was said to have brought Calamity,	
+				and sank the world into the sea...	
+0x41c6	0x98	Aquela		So for generations, my clan has since watched	
+				over this world from the shadows, passing down	
+				this precautionary tale for future generations.	
+0x4237	0x98	Aquela		Much lore has been lost over the years,	
+				but I am here to do my duty to atone	
+				for the sins of my ancestors.	
 0x42d6	0x6B	ALTO		Surprise	
 0x4300	0x6B	NOI		Surprise	
-0x4331	0x98	ALTO		(T-Then...Noi, could this person...)	
-0x4379	0x98	NOI		(Be a descendant of the humans	
-				 who caused the great war	
-				 in the past...?)	
+0x4331	0x98	ALTO		(Th-Then... Noi, could this person...)	
+0x4379	0x98	NOI		(Be a descendant of the humans who	
+				 caused those wars in the past...?)	
 0x43dd	0x98	NOI		(I-It's not impossible... Maybe.)	
-0x4429	0x98	Aquela		I am sure my ancestors will be 	
-				watching over you as you go about	
-				the mission you two must complete...	
-0x44a3	0x98	Aquela		I will not inquire into to the 	
-				details, but please, do your best.	
-0x453f	0x98	Aquela		Hehe, this kind of story	
-				suddenly makes me surprised.	
-0x459c	0x98	Aquela		However, when I look at your face,	
-				I can see that you are truthful.	
-0x45fe	0x98	Aquela		Though I do not know the details	
+0x4429	0x98	Aquela		I am sure my ancestors will be watching	
+				over you as you two go about the mission	
+				you must complete...	
+0x44a3	0x98	Aquela		I will not pry into the details,	
+				but please, do your best.	
+0x453f	0x98	Aquela		Hehe, I hope I did not surprise you	
+				all of a sudden with this story.	
+0x459c	0x98	Aquela		But the looks on your faces tell	
+				me it was the right thing to do.	
+0x45fe	0x98	Aquela		Though I am not sure of the specifics	
 				of your mission... I feel it is	
 				connected with our dearest wish.	
-0x467f	0x98	Aquela		...Our wish to someday, be forgiven	
-				for that ancient crime.	
-0x4703	0x98	Aquela		Though I do not know the details	
-				of your mission...	
-				Please do your best.	
-0x476b	0x98	Aquela		Our ancestors, who regret their	
-				past sins, are surely watching	
-				over you.	
-0x480b	0x98	Aquela		I can see...inside of your hearts,	
-				an illuminating fiber of intent.	
-0x486e	0x98	Aquela		Although it is thin and unreliable,	
-				it is an essential ray of hope	
+0x467f	0x98	Aquela		...Our wish to someday be forgiven	
+				and redeemed of our mortal sin.	
+0x4703	0x98	Aquela		Though I am not sure of the specifics 	
+				of your mission... Please, do your best.	
+0x476b	0x98	Aquela		I am sure my ancestors are watching	
+				over you as they repent their sins.	
+0x480b	0x98	Aquela		I can see... inside of your hearts,	
+				lies a shining fiber of hope.	
+0x486e	0x98	Aquela		A flimsy thread of hope that	
+				is fragile and vulnerable, yet	
 				necessary for moving forward.	
-0x48f5	0x98	Aquela		Hehe, I wonder towards what kind	
-				of future it will it lead you...?	
+0x48f5	0x98	Aquela		Heh, what kind of future will it lead us to...?	
+				We will have to watch it unfold for ourselves.	
+0x4994	0x98	Aquela		I can see... inside of your hearts,	
+				lies a shining fiber of hope...	
+0x49f2	0x98	Aquela		Heh, I wonder what kind of	mp_0000c 0x48f5
+				future it will lead towards...?		
 				Once again, brace yourself.	
-0x4994	0x98	Aquela		I can see...inside of	
-				your hearts, a ray of hope...	
-0x49f2	0x98	Aquela		Hehe, I wonder towards what kind	mp_0000c 0x48f5	
-				of future it will it lead you...?	
-				Once again, brace yourself.	
-0x4a9f	0x98	Aquela		Stones pouring from heaven,	
-				and the raging climate of	
-				the Ciencia Sea...	
-0x4b05	0x98	Aquela		And, the fate of the small	
-				person who visits this	
-				village...	
+0x4a9f	0x98	Aquela		Stones pouring from the heavens,	
+				and the raging climate of the	
+				Ciencia Sea...	
+0x4b05	0x98	Aquela		And, the destiny beared by the young	
+				ones who enter this village...	
 0x4b60	0x6B	Aquela		Ellipsis	
 0x4b94	0x6B	NOI		Surprise	
-0x4bc5	0x98	Aquela		...It's no good.	
-				I still can't see anything...	
+0x4bc5	0x98	Aquela		...It's no good. I have	
+				yet to see any more...	
 0x4c14	0x6B	NOI		Ellipsis	
-0x4c45	0x98	NOI		(This person...Though it's slight,	
-				 I can feel magic power coming from her...)	
-0x4ca8	0x98	ALTO		(Huh...!?	
-				 Then her fortunes must...)	
-0x4cef	0x98	NOI		(Though I can't say for sure...	
-				 For now, I should be careful.)	
+0x4c45	0x98	NOI		(This person... Though it's slight,	
+				 I can feel magic coming from her...)	
+0x4ca8	0x98	ALTO		(Huh...!? Then her	
+				 fortunes must...)	
+0x4cef	0x98	NOI		(I can't say for sure... But you	
+				 should be careful, just in case.)	
 0x4d8d	0x98	Aquela		Stones pouring from heaven,	mp_0000c 0x4a9f
 				and the raging climate of	
 				the Ciencia Sea...
-0x4df3	0x98	Aquela		And the fate of the small	
-				person visiting this village...	
-				I still cannot see it...	
+0x4df3	0x98	Aquela		And the destiny beared by the young	
+				ones who enter this village...	
+				I have yet to see any more...
 0x4e8d	0x98	Aquela		...Hehe, is there something on my face?	
 talk_Hydol
-0x4f43	0x98	Lupus		Just in time, Doctor.	
+0x4f43	0x98	Lupus		Just in time, Doctor.	mp_0000 0x1054
 				The old man is calling for you.	
-0x4f92	0x98	Lupus		As the village elder, he	
+0x4f92	0x98	Lupus		As the village elder, he	mp_0000 0x10af
 				wants to hear more about	
 				your doctor's rounds.
-0x5003	0x98	Hydol		I see... I was thinking I	
+0x5003	0x98	Hydol		I see... I was thinking I	mp_0000 0x10fd
 				had something to ask of
 				him as well.	
-0x505b	0x98	Hydol		Lyra and Vel's exams are done.	
+0x505b	0x98	Hydol		Lyra and Vel's exams are done.	mp_0000 0x1154
 				All right, let's go there now.	
 0x5124	0x98	Hydol		Though they were not particularly	
-				injured, I just examined Lyra and	
-				Vel to make sure,
-0x5197	0x98	Hydol		That they're safe after meeting	
-				a monster that strong is thanks	
-				to you, Nayuta.	
-0x5206	0x98	Hydol		Please continue to protect	
-				everyone with your strength,	
-				you two.	
-0x528d	0x98	Hydol		Tthere has been a rapid	increase
+				injured, I examined Lyra and Vel	
+				just to make sure.
+0x5197	0x98	Hydol		The only reason they survived after	
+				encountering such a powerful monster	
+				is thanks to you, Nayuta.	
+0x5206	0x98	Hydol		Please continue use your strength	
+				to protect everyone, you two.	
+0x528d	0x98	Hydol		There has been a rapid increase
 				in the number of people attacked	
 				by monsters this past week...	
-0x52f8	0x98	Hydol		I, too, must carry out my duties	
-				as a doctor.	
+0x52f8	0x98	Hydol		I must also do my	
+				part as a doctor.	
 talk_Cow
 talk_Reticul
-0x53dc	0x98	Reticul		Ah, you awakened.	
-				You worried me.	
-0x541f	0x98	Reticul		In the end, we didn't have	
-				time to wait for you two...	
-0x5477	0x98	Reticul		I worried the whole time	
-				about you somehow coming back.	
-0x54d0	0x98	ALTO		I'm sorry...But,	
-				I'm glad you're safe too.	
-0x5519	0x98	Reticul		Hmm, as I thought,	
-				it looks like you're a little down.	
-0x5571	0x98	Reticul		Well, that happens sometimes.	
-				You should rest easy for awhile.	
-0x55f9	0x98	Reticul		I wonder if I can make up with father...	
-				Hmm, I've got to think about it, but...	
-0x566b	0x98	Reticul		For right now, I don't want	
-				to face him that much.	
-				He seems seriously mad.	
+0x53dc	0x98	Reticul		Ah, you're awake. We were	
+				worried about you guys.	
+0x541f	0x98	Reticul		We weren't about to wait	
+				you two after all...	
+0x5477	0x98	Reticul		We managed to get back, but	
+				we were concerned about what	
+				happened to you guys.
+0x54d0	0x98	ALTO		Sorry... But it's good to	
+				see you're safe as well.	
+0x5519	0x98	Reticul		Hmm, it seems like you're still	
+				feeling a little unwell.	
+0x5571	0x98	Reticul		Well, you'll survive. You just	
+				need to rest a while longer.
+0x55f9	0x98	Reticul		Making up with Papa... Hmm, I've	
+				been thinking about it, but...	
+0x566b	0x98	Reticul		For right now, I don't want to face	
+				him very much. I feel like he's	
+				going to be seriously mad at me.	
 talk_Axe
-0x5749	0x98	Axe		To move this stone	
-				I found on patrols...	
-0x578f	0x98	Axe		Though it's little by little,	
-				it should be a good method.	
-0x57e6	0x98	Axe		Heh, Remnant Island will be	
-				back to normal in no time.	
-0x5862	0x98	Axe		If we put our strength together,	
-				we should be able to overcome	
-				anything.	
-0x58c7	0x98	Axe		You've got to take back the missing	
-				Kureha and Cygna...	
-				And restore peace on Remnant Island.	
+0x5749	0x98	Axe		We gotta get this junk outta the way	
+				so we can beef up the patrols...	
+0x578f	0x98	Axe		Little by little, things are	
+				moving in the right direction.
+0x57e6	0x98	Axe		Heh, let's get Remnant Island	
+				back to normal, Nayuta.	
+0x5862	0x98	Axe		If we work together, we	
+				can overcome anything.	
+0x58c7	0x98	Axe		You've got to bring back the missing	
+				Cygna, and your little Kureha back too...	
+				and restore peace on Remnant Island.	
 talk_Pyxia
-0x5986	0x98	Pyxia		The people of this island	
-				are good people, somehow.	
-0x59d9	0x98	Pyxia		Even in a time like this,	
-				they stay positive and	
-				stand up to hardship...	
-0x5a48	0x98	Pyxia		I've finally managed to	
-				decide what I want to paint.	
+0x5986	0x98	Pyxia		There's just something about the people	
+				of this island that's admirable.	
+0x59d9	0x98	Pyxia		Even at a time like this, they	
+				stay positive and work together	
+				to overcome hardship...	
+0x5a48	0x98	Pyxia		I think I've finally managed	
+				to decide what to paint.	
 0x5ac3	0x98	Pyxia		I've finally managed to	mp_0000c 0x5a48
 				decide what I want to paint.	
-0x5b16	0x98	Pyxia		We, too, must do our best	
-				to overcome this situation!	
-0x5ba3	0x98	Pyxia		So something like this would happen	
-				to that beautiful blue sky and ocean...	
-0x5c01	0x98	Pyxia		It reminds me of a painting done by that	
-				famous painter, "The End of Days," but...	
-0x5c69	0x98	Pyxia		...I-It can't be.	
-0x5cc3	0x98	Pyxia		So something like this would happen	
-				to that blue sky and ocean...	
-0x5d23	0x98	Pyxia		Somehow, it doesn't seem	
-				realistic... I don't feel	
-				like I can believe it.	
+0x5b16	0x98	Pyxia		We, too, must work hard to	
+				overcome this situation!	
+0x5ba3	0x98	Pyxia		I can't believe that beautiful blue	
+				sky and ocean would turn into this...	
+0x5c01	0x98	Pyxia		It reminds me of that	
+				famous artist's work,	
+				"The End of Days"...	
+0x5c69	0x98	Pyxia		...N-No way.	
+0x5cc3	0x98	Pyxia		That beautiful blue sky and	
+				ocean would turn into this...
+0x5d23	0x98	Pyxia		Somehow, it doesn't feel real.
+				It's a crazy feeling.	
 talk_Horolo
-0x5dda	0x98	Horolo		You. You have an amazingly	
-				good face for some reason.	
-0x5e24	0x98	Horolo		It's full of determination and will...	
-				I think it's super cool～.	
-0x5e8d	0x98	Horolo		I don't understand	
-				the situation well, but...	
-				I'm rooting for you.	
+0x5dda	0x98	Horolo		You. You look so awesome～!
+0x5e24	0x98	Horolo		You look full of resolve	
+				and determination...	
+				I think it's super cool～!	
+0x5e8d	0x98	Horolo		I'm not sure exactly	
+				what's going on, but	
+				I'm rooting for you～!	
 0x5f17	0x98	Horolo		You. You have an amazingly	mp_0000c 0x5dda	
 				good face for some reason.	
 0x5f61	0x98	Horolo		I don't understand	mp_0000c 0x5e8d
 				the situation well, but...	
 				I'm rooting for you.	
-0x5ff9	0x98	Horolo		It seems like outrageous things	
-				have been happening to the world.	
-0x6059	0x98	Horolo		At this rate, I wonder	
-				if the art contest this	
-				year will be canceled.	
+0x5ff9	0x98	Horolo		It's like this whole world	
+				has gone up in smoke～!	
+0x6059	0x98	Horolo		At this rate, the art contest this	
+				year will probably be canceled.	
 0x60be	0x98	Horolo		I even came to Remnant Island and	
 				found some good inspiration for it.	
-				I'm disappointed～...	
-0x6158	0x98	Horolo		With the world like this, I wonder if the	
-				art contest this year will be canceled.	
-0x61cb	0x98	Horolo		I even came to Remnant Island and	
+				So disappointed～...	
+0x6158	0x98	Horolo		With the world like this, the art contest	
+				this year will probably be canceled.	
+0x61cb	0x98	Horolo		I even came to Remnant Island and	mp_0000c 0x60be
 				found some good inspiration for it.	
-				I'm disappointed～...	
+				So disappointing～...	
 SB_6_S08_appear_ALTO
 0x6275	0x6B	ALTO		Ellipsis	
 SB_6_S08_appear_NOI
@@ -472,48 +460,47 @@ SB_6_S08_turn_Bootie
 EV_6_S08_call_help
 0x65d5	0x06	ALTO		ANI_WAIT	
 0x68b1	0x06	ALTO		ANI_GESTURE2	
-0x68db	0x98	ALTO		Everyone from the village...	
-				They were doing better	
+0x68db	0x98	ALTO		Everyone in the village...	
+				They seemed to be doing better	
 				than I expected.	
-0x695b	0x98	ALTO		Even though they're all	
-				worried, they're staying	
-				positive and doing their best.	
+0x695b	0x98	ALTO		Even though there's a lot to worry	
+				about, they're staying positive	
+				and keep pushing onwards...	
 0x69dd	0x06	NOI		ANI_NOD	
-0x6a01	0x98	NOI	#6A	Yeah, I'm even feeling	
-				just a little better	
-				after seeing everyone.	
+0x6a01	0x98	NOI	#6A	Yeah, seeing everyone even made	
+				me feel a litter better.	
 0x6a6a	0x06	ALTO		ANI_THINK	
-0x6a91	0x98	ALTO		So everyone has to do	
-				what they can now...	
-0x6add	0x98	ALTO		(...But now that the gate is broken,	
-				 there's nothing we can do...)	
+0x6a91	0x98	ALTO		Everyone has to make do with	
+				what they can right now...	
+0x6add	0x98	ALTO		(...But with the gate broken,	
+				 there's nothing─I─can do...)	
 0x6b50	0x3F	Name		Child's Voice	
 0x6b65	0x98	Bootie	#16S	...Hey, Nayuta～!	
 0x6bac	0x06	ALTO		ANI_WAIT	
 0x6bd2	0x6B	ALTO		Surprise	
 0x6c1c	0x6B	NOI		Surprise	
 0x6eaa	0x06	Bootie		ANI_GESTURE2	
-0x6ed6	0x98	Bootie	#6A	*huff, puff*... Perfect timing.	
-				Noi's here too, huh...?	
+0x6ed6	0x98	Bootie	#6A	*huff*, *huff*...	
+				Perfect timing.	
+				Noi's here too...?	
 0x6f2f	0x06	ALTO		ANI_WAIT4	
 0x6f56	0x98	ALTO		What's wrong, Bootie?	
-				You're in such a rush...	
+				What's the big rush...?	
 0x6fe1	0x06	Bootie		ANI_GESTURE1	
-0x700d	0x98	Bootie	#6A	W-We've got a big problem...	
-				A monster appeared on the cape!	
+0x700d	0x98	Bootie	#6A	W-We've got a huge problem...	
+				There's a monster on the cape!	
 0x7089	0x06	ALTO		ANI_WAIT	
 0x70af	0x6B	ALTO		Exclamation	
 0x70e1	0x6B	NOI		Exclamation	
 0x7112	0x06	NOI		ANI_SURPRISE	
-0x713b	0x98	NOI		A monster!?	
+0x713b	0x98	NOI		A monster...!?	
 0x7165	0x06	Bootie		ANI_DENY	
-0x718d	0x98	Bootie	#6A	It's totally different from	
-				the weak monsters that have	
-				come out up until now!	
-0x7226	0x98	Bootie	#6A	Dorado somehow managed to	
-				let me escape, but...	
+0x718d	0x98	Bootie	#6A	It's totally different from the	
+				weak monsters from before	
+0x7226	0x98	Bootie	#6A	Dorado managed to let	
+				me escape, but...	
 0x7296	0x06	Bootie		ANI_COMPLAIN	
-0x72c2	0x98	Bootie	#6A	It's Vel... Vel failed to escape!	
-0x734d	0x98	NOI		Nayuta!	
+0x72c2	0x98	Bootie	#6A	It's Vel... Vel didn't get away...!	
+0x734d	0x98	NOI		Nayuta...!	
 0x73ab	0x06	ALTO		ANI_NOD	
-0x73d0	0x98	ALTO	#6A	Let's go...Vel's in trouble!	
+0x73d0	0x98	ALTO	#6A	Let's go... Vel's in trouble!	
