@@ -62,12 +62,12 @@ EV_8_S13_meet_noi
 				"I don't want to disappear."	
 0x19f0	0x98	ALTO	#1W#400x#300y	Noi...	mp_0005c 0x6fe1
 0x1a2b	0x06	Noi2		ANI_DEJECTED	
-0x1a55	0x98	Noi2	#0W	...I should've been prepared to
-				disappear. But then, I rejected it.	
+0x1a55	0x98	Noi2	#0W	...I should've been ready to disappear.	
+				But when it came to it, I rejected it.	
 0x1adb	0x98	Noi2	#0W	The Astrolabe interpreted that as
 				a command, and forced my existence
 				inside it to "protect" me.	
-0x1b82	0x98	Noi2	#0W	Thus causing the current abnormalities	
+0x1b82	0x98	Noi2	#0W	Thus causing the current malfunctions	
 				in the Astrolabe's systems.	
 0x1c02	0x98	ALTO	#1W#400x#300y	...No way...	mp_0100b 0xe52
 0x1d23	0x98	Noi2	#0W	When Master Cygna and Master Kureha	
@@ -87,7 +87,7 @@ EV_8_S13_meet_noi
 				You didn't want to leave everyone...	
 				Of course you thought that!	
 0x2170	0x06	ALTO		ANI_GESTURE2	
-0x219a	0x98	ALTO		I too... Even Cygna and Kureha...	
+0x219a	0x98	ALTO		Me too... Even Cygna and Kureha...	
 				No one wanted you to disappear!	
 0x2205	0x98	Noi2	#0W	Nayuta...	mp_0000d 0x7671
 0x2239	0x06	Noi2		ANI_NOD	
@@ -97,7 +97,7 @@ EV_8_S13_meet_noi
 0x23d0	0x98	ALTO		Noi...!?	
 0x24aa	0x98	Noi2	#0W	I don't have much time left...	
 				I have started to become corrupted	
-				by the Astrolobe abnormalities myself.	
+				by the Astrolabe abnormalities myself.	
 0x2587	0x98	Noi2	#0W	...Nayuta, that idol was my other	
 				self, created by the abnormalities.	
 0x2603	0x98	Noi2	#0W	Now that my armor is pierced,	

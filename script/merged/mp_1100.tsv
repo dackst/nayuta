@@ -2,222 +2,218 @@ mp_1100
 init
 0x3af	0x06	Reticul		ANI_WAKE_UP	
 talk_Cetus
-0x53b	0x98	Cetus		You really saved us.	
-				If we hadn't met you,	
-				I don't know what would have happened...	
-0x5ad	0x98	ALTO		Ahaha, I'm glad we could be of service.	
-0x5f4	0x98	NOI		Return and don't take any detours.	
-				Terra is a very, very dangerous place!	
+0x53b	0x98	Cetus		You really saved us. I don't	
+				know what would have happened	
+				if you guys didn't come...	
+0x5ad	0x98	ALTO		Haha, I'm glad we were able to help.	
+0x5f4	0x98	NOI		Return and don't take any sidetrips.	
+				Terra is a very dangerous place!	
 0x65b	0x98	Cetus		Thank you, Noi.	
-0x68b	0x98	Cetus		...At the beginning you told us to be vigilant,	
-				and you politely showed us the road.	
-				You're a good gal.	
+0x68b	0x98	Cetus		...At first, you thought you were paranoid, but you	
+				were very considerate about giving us directions.	
+				You're a good person, aren't you?	
 0x711	0x98	NOI		N-Not particularly...	
-				That wasn't my intention.	
-0x75e	0x98	NOI		If you humans return obediently,	
-				that'd be great!	
-0x7ad	0x98	ALTO		(Hahaha...If I think about it,	
-				 I wonder if even Noi is getting	
-				 used to humans.)	
-0x844	0x98	Cetus		We will rest our bodies awhile	
-				longer and then we intend to	
-				return.	
-0x8a6	0x98	Cetus		Nayuta and Noi, truly, thank you	
-				for supporting us in various ways.	
+				That's not what I intended.	
+0x75e	0x98	NOI		If you humans go home without a	
+				fight, all the better for me!
+0x7ad	0x98	ALTO		(Hahaha... Come to think of it,	
+				 Noi seems to have gotten used	
+				to being around humans.)	
+0x844	0x98	Cetus		We're going to rest a little	
+				more before we leave.	
+0x8a6	0x98	Cetus		Nayuta and Noi, truly,	
+				we are in your debt.	
 talk_Reticul
-0x937	0x98	Reticul		It's really too bad that we didn't	
-				obtain any treasure in Terra, but...	
-0x9a2	0x98	Reticul		For now, we'll return to the	
-				original world and feel relieved.	
-0xa02	0x98	NOI		(...Her shamelessness hasn't changed.)	
-0xa47	0x98	ALTO		(Well, it's her personality you know.)	
-0xa8d	0x98	Reticul		By the way, does this world really	
-				not have any treasure anywhere?	
-0xaf1	0x98	Reticul		Because, this place is	
-				Lost Heaven isn't it?	
-0xb41	0x98	ALTO		U-Umm...	
-				Reticul, you realized?	
-0xb7f	0x98	Reticul		Yeah, well.	
-0xbad	0x98	Reticul		If it is the scenes of the Star Shards,	
-				I secretly looked at father's goods	
-				and understood.	
-0xc29	0x98	Reticul		More than anything, my intuition told me.	
-				This place is a world we have to protect.	
-0xc9e	0x98	ALTO		(Reticul...It seems your intuition	
-				 is truly sharp.)	
-0xcf1	0x98	NOI		(Ooh, I hope she doesn't want	
-				 any more than that...)	
+0x937	0x98	Reticul		Though it's too bad we weren't	mp_0101 0x4c4c
+				able to get our hands on any	
+				treasure here in Terra...	
+0x9a2	0x98	Reticul		For now, it's a relief to	mp_0101 0x4cc3
+				finally be able to go back 	
+				to our original world.	
+0xa02	0x98	NOI		(...Her thickheadedness hasn't changed.)	
+0xa47	0x98	ALTO		(Well, I guess that's just her personality.)	
+0xa8d	0x98	Reticul		Are you really sure there aren't any	
+				treasures to be found anywhere?	
+0xaf1	0x98	Reticul		Because,this place is	
+				Lost Heaven, isn't it?	
+0xb41	0x98	ALTO		Well, um... Reticul,	
+				you noticed?	
+0xb7f	0x98	Reticul		Yeah, kinda.	
+0xbad	0x98	Reticul		I know what the insides of star shards look like.	
+				I've been sneaking glipses of Papa's merchandise.	
+0xc29	0x98	Reticul		More importantly, that's what my gut told me～.	
+				This is a world that protects something important.	
+0xc9e	0x98	ALTO		(Reticul... You seem to have	
+				 truly keen intuition.)	
+0xcf1	0x98	NOI		(Ooh, I hope she doesn't	
+				 pursue this any further...)	
 0xd6c	0x98	Reticul		Even so, it's really pretty...	
 0xdad	0x98	Reticul		Though we didn't obtain treasure,	
 				well, I'm glad we were able to see	
-				such beautiful scenery.	
-0xe2a	0x98	Reticul		Right now, I want to adventure with	
-				all my heart. ...This might be what	
-				they call a sense of achievement.	
+				such a beautiful sight.	
+0xe2a	0x98	Reticul		It just feels like we've had a great adventure...	
+				I guess this is the a sense of pride and	
+				accomplishment I've been looking for.	
 SUB_meet_adventurer
 0xfe0	0x06	ALTO		ANI_GESTURE2	
-0x100a	0x98	ALTO	#6A	It's Cetus...and Reticul!	
+0x100a	0x98	ALTO	#6A	It's Cetus... and Reticul!	
 0x1046	0x06	NOI		ANI_LOOK_AROUND	
 0x1072	0x98	NOI	#6A	So that's where those	
 				two adventurers were.	
-0x10f1	0x98	Cetus	#0W	H-Hey you guys.	
+0x10f1	0x98	Cetus	#0W	H-Hey, you guys.	
 0x1124	0x06	Cetus		ANI_GESTURE1	
 0x114f	0x98	Cetus	#0W	You guys seem well...	
-				Haha, most importantly, you're safe...	
+				Haha, good to see you're safe...	
 0x11ae	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x11dc	0x98	ALTO	#6A	U-Umm, Cetus.	
-				Somehow you look terribly fatigued, but...	
+0x11dc	0x98	ALTO	#6A	Um, sure, Cetus. You	
+				look awfully tired...	
 0x1236	0x98	ALTO	#6A	Aren't you worn out?	
-0x128c	0x98	Cetus		A lot of things happened	
-				since then...	
+0x128c	0x98	Cetus		A lot has happened since	
+				we last met...	
 0x12df	0x06	Cetus		ANI_DENY	
 0x1306	0x98	Cetus		No, it was no big deal.	mp_0115 0xb715
-0x133e	0x98	Cetus		A fiendish monster chased us again,	
-				we fell into a poison swamp, and	
-				before we knew it, we wound up here.	
+0x133e	0x98	Cetus		We were just chased by another vicious	
+				monster, we fell into a toxic swamp,	
+				and now we find ourselves here.	
 0x13c6	0x6B	ALTO		Sweatdrop	
 0x13f0	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1427	0x6B	NOI		Sweatdrop	
 0x1450	0x06	NOI		ANI_GUTSPOSE	
-0x1481	0x98	NOI	#6A	You're a mess.	
+0x1481	0x98	NOI	#6A	That's a mess.	
 0x14b1	0x06	ALTO		ANI_THINK2	
-0x14d9	0x98	ALTO	#6A	(But umm, these two,	
+0x14d9	0x98	ALTO	#6A	(Umm, but are these two,	
 				 by any chance...?)	
 0x1523	0x98	Reticul		Cetus...	
-				Look at that, it's amazingly beautiful.	
-0x1575	0x98	Reticul		Ahaha, with scenery like this waiting	
-				for me, there's no way I can return...	
-0x1602	0x98	ALTO	#6A	Y-You too Reticul.	
+				Look at that,	
+				it's so pretty.	
+0x1575	0x98	Reticul		Haha, I wish I could take this	
+				scenery back home with me...	
+0x1602	0x98	ALTO	#6A	H-Hello to you too, Reticul.	
 0x1643	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x1671	0x98	ALTO	#6A	Umm, could it be...	
-0x16be	0x98	ALTO	#6A	That you don't know the way	
-				back to the island, or something?	
+0x1671	0x98	ALTO	#6A	Umm, perhaps...	
+0x16be	0x98	ALTO	#6A	Do you not know how to get back	
+				to the island or something?		
 0x1765	0x98	Cetus		...(*gulp*)	
 0x178f	0x98	Reticul		...(*gulp*)	mp_1100 0x1765
 0x17c9	0x06	ALTO		ANI_DEJECTED	
 0x17f3	0x6B	ALTO		Sweatdrop	
 0x1825	0x6B	NOI		Sweatdrop	
 0x1856	0x06	NOI		ANI_DEJECTED	
-0x1887	0x98	ALTO	#6A	(I'm sure they have been walking	
-				 around Terra. No wonder they're	
-				 tired...)	
+0x1887	0x98	ALTO	#6A	(They must have been wandering all overs	
+				 Terra. No wonder they're so tired...)	
 0x1a1d	0x06	NOI		ANI_ANGRYTALK	
-0x1a47	0x98	NOI		E-Enough! It can't be helped!	
-				I'll tell you the way back!	
+0x1a47	0x98	NOI		JEEZ! I have no choice!	
+				I'll show you the way back!	
 0x1a9e	0x06	NOI		ANI_COMPLAIN	
-0x1ac7	0x98	NOI		In return, don't aimlessly wander	
-				around Terra anymore!	
-0x1b1c	0x98	NOI		Destroying Terra and bringing stuff	
-				back with you is prohibited!	
-				...Got it!?	
-0x1b95	0x40	UNDEF		Noi told the two how to use the transfer	
+0x1ac7	0x98	NOI		And in return, you can't just	
+				loiter around Terra anymore!	
+0x1b1c	0x98	NOI		No destroying Terra's facilities,	
+				and no taking stuff home with you!	
+				Got it!?	
+0x1b95	0x40	UNDEF		Noi explained how to use the teleporter	
 				devices and the way back to the island.	
-0x1c05	0x40	UNDEF		Though it seemed the two didn't	
-				understand how to use them very well,	
-				Nayuta and Noi patiently explained it.	
+0x1c05	0x40	UNDEF		The two didn't seem to understand the how to use the	
+				teleporter devices very well, but Nayuta and Noi were	
+				able to patiently explain it to them.	
 0x1dd3	0x06	Cetus		ANI_WAIT3	
 0x1e44	0x06	Reticul		ANI_WAIT	
 0x1e85	0x98	Cetus		I see... Those round devices	
 				are for moving around this world.	
-0x1ee3	0x98	Cetus		Because we step on them sometimes	
-				and go flying, we thought surely	
-				they were traps...	
+0x1ee3	0x98	Cetus		Sometimes we would step on them	
+				then go flying awaay, so we	
+				thought they were traps...	
 0x1f57	0x06	NOI		ANI_GESTURE1	
-0x1f80	0x98	NOI		Though I can't tell you how they work,	
-				they are respectable devices.	
+0x1f80	0x98	NOI		I can't tell you how they work, but	
+				they're perfectly safe devices.	
 0x1fe2	0x06	NOI		ANI_SPEECH	
-0x2009	0x98	NOI		Just like we just told you,	
-				return to Remnant Island	
-				already!	
+0x2009	0x98	NOI		So just go do we just taught you,	
+				and return to Remnant Island already!	
 0x2063	0x06	Reticul		ANI_WAIT4	
 0x208d	0x98	Reticul		Thank you, you've been a help.	
-0x20ce	0x98	Reticul		Though we haven't found treasure,	
-				well, it can't be helped this time.	
-				We'll return as promised.	
+0x20ce	0x98	Reticul		Though we didn't found any treasures,	
+				but I guess it can't be helped.	
+				We'll go home as promised.	
 0x214e	0x06	Reticul		ANI_WAIT3	
-0x2178	0x98	Reticul		This kind of thing is rare,	
-				so thank us!	
+0x2178	0x98	Reticul		This doesn't happen very often.	
+				You should be grateful!	
 0x21c2	0x06	ALTO		ANI_OJIGI	
 0x21e9	0x98	ALTO	#6A	T-Thank you very much...	mp_1099 0xf190
 0x2243	0x06	Cetus		ANI_WAIT0	
-0x226b	0x98	Cetus		Sorry, this one has	
-				that kind of personality	
-				to the end...	
+0x226b	0x98	Cetus		Sorry, this girl has to act like	
+				this until the very end...	
 0x22d9	0x06	Cetus		ANI_GESTURE2	
-0x2304	0x98	Cetus		But, you guys really helped	
-				us out a lot.	
-0x234d	0x98	Cetus		I don't know if I should thank you,	
-				but take this.	
+0x2304	0x98	Cetus		But, you guys have been nothing	
+				but good to us, haven't you?	
+0x234d	0x98	Cetus		I don't know if I can thank	
+				you enough, but take this.	
 0x239f	0x6B	Reticul		Exclamation	
 0x240e	0x06	Reticul		ANI_GESTURE1	
-0x243b	0x98	Reticul		Huh...Is that all right, Cetus?	
-0x2497	0x98	Cetus		Yeah, what?	
-				It's just a token of our feelings.	
+0x243b	0x98	Reticul		Huh... Is this all right, Cetus?	
+0x2497	0x98	Cetus		Haha, what? It's just a	
+				token of our appreciation.	
 0x2526	0x06	Cetus		ANI_HANDOVER	
 0x2559	0xC1	System		obtained.	mp_0000 0x7558
 0x25d0	0x6B	ALTO		Surprise	
 0x25fa	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x2631	0x6B	NOI		Surprise	
 0x265a	0x06	NOI		ANI_THINK	
-0x2688	0x98	NOI		...A planetary globe...?	
+0x2688	0x98	NOI		...A globe...?	
 0x26bf	0x06	ALTO		ANI_COMPLAIN	
-0x26e9	0x98	ALTO	#6A	This...W-What is this!?	
-0x2723	0x98	ALTO	#6A	It looks like a map of the	
-				world stuck onto a globe, but...!?	
+0x26e9	0x98	ALTO	#6A	Wha... Wh-What is this!?	
+0x2723	0x98	ALTO	#6A	It looks like a map of the world	
+				attached to a sphere...!?	
 0x2782	0x06	Cetus		ANI_STREATCH	
-0x27ad	0x98	Cetus		That is an ancient artifact that is	
-				our reason for being adventurers.	
-0x2812	0x98	Cetus		It was excavated from a deep stratum,	
-				and it seems it is from the world that	
-				existed before the "Great Flood."	
-0x289f	0x98	Cetus		These are the names of the two great	
-				continents. "Lexendria" and	
-				"Ciencia"...	
+0x27ad	0x98	Cetus		That's the ancient artifact that started	
+				me on my journey to become an adventurer.	
+0x2812	0x98	Cetus		It was excavated from a deep underground,	
+				and seems to predate the Great Flood.	
+0x289f	0x98	Cetus		These are the names of two great continents.	
+				The continent of "Lexendria" and the	
+				continent of "Ciencia"...	
 0x290b	0x6B	ALTO		Exclamation	
 0x2935	0x06	ALTO		ANI_SURPRISE	
-0x2967	0x98	ALTO	#6A	C-"Continent Ciencia"...!?	
+0x2967	0x98	ALTO	#6A	Th-The continent of Ciencia...!?	
 0x29a4	0x06	Cetus		ANI_WAIT2	
-0x29cc	0x98	Cetus		Curiously, elevated places on	
-				"Continent Ciencia" coincide with the	
-				distribution of islands today.	
-0x2a4d	0x98	Cetus		We want to unravel this mystery,	
-				but until today we were continuing	
-				our adventure...That's all I can say.	
+0x29cc	0x98	Cetus		Strangely enough, the places considered to be the mountains	
+				of this Ciencia continent match up with the current	
+				distribution of islands in the Ciencia Sea today.	
+0x2a4d	0x98	Cetus		I guess you could say I've been	
+				adventuring until now in order	
+				to try to solve this mystery.	
 0x2ad5	0x06	ALTO		ANI_THINK2	
 0x2afd	0x98	ALTO	#6A	I-I see...	
-0x2b2a	0x98	ALTO	#6A	Though our world is thought of as "flat,"	
-				the fact that something like this exists	
-				means...	
-0x2ba6	0x98	ALTO	#6A	And I've never before heard the name,	
-				"Continent Lexendria"...	
-				Somehow, this thing seems very mysterious.	
+0x2b2a	0x98	ALTO	#6A	Our world has always been thought	
+				to be flat, yet the fact that	
+				something like this exists...	
+0x2ba6	0x98	ALTO	#6A	Though I've never heard of this,	
+				continent of Lexendria... It's	
+				like something out of this world.	
 0x2c30	0x06	Reticul		ANI_DIRECT	
-0x2c5b	0x98	Reticul		That thing was very important to Cetus.	
-				Don't handle it roughly, OK?	
+0x2c5b	0x98	Reticul		That was very important to Cetus.	
+				Take care of it, okay?	
 0x2cc1	0x06	ALTO		ANI_THANKS	
 0x2ce9	0x98	ALTO	#6A	Y-Yes, understood.	mp_0116 0x5710
-0x2d1e	0x98	ALTO	#6A	(...Or rather, maybe it's too important	
-				 to keep as private property.	
-				 I think I'll donate this to the museum.)	
+0x2d1e	0x98	ALTO	#6A	(...Or rather, this might be to	
+				 important to keep to myself.	
+				 Maybe I'll donate it to the museum.)	
 0x2dae	0x6B	NOI		Ellipsis	
-0x2dfa	0x98	ALTO	#6A	...Noi? What's wrong?	
-				You've been silent until just now, but...	
+0x2dfa	0x98	ALTO	#6A	...Noi? What's wrong? You've	
+				been quiet for a while now...	
 0x2e81	0x06	NOI		ANI_DENY	
 0x2ea6	0x98	NOI		No, it's nothing.	mp_0110 0x19ff5
 0x2f48	0x06	NOI		ANI_GESTURE1	
-0x2f71	0x98	NOI		...You two, it's no good unless you	
-				return properly the way we showed	
-				you.	
-0x2fd8	0x98	NOI		We're busy. 	
-				If you get lost again, you might	
-				not realize it.	
+0x2f71	0x98	NOI		...You two, you need to go	
+				home like we taught you.
+0x2fd8	0x98	NOI		We're have a lot of things to do.	
+				Next time you get lost, we might	
+				not be here to notice.	
 0x3048	0x06	Cetus		ANI_WAIT0	
-0x3070	0x98	Cetus		Yeah, thanks for the warning.	
+0x3070	0x98	Cetus		Yeah, thanks for the tip.	
 0x30c6	0x06	Reticul		ANI_GESTURE1	
-0x30f3	0x98	Reticul		We've decided to rest a little	
-				and then return.	
+0x30f3	0x98	Reticul		We'll get some more rest	
+				and then go home.	
 0x315d	0x06	Reticul		ANI_DIRECT	
-0x3188	0x98	Reticul		You guys be careful too,	
+0x3188	0x98	Reticul		Watch you back too,	
 				Noi and Nayuta!	
 0x31d2	0x06	ALTO		ANI_NOD	
 0x31f7	0x98	ALTO	#6A	Yes!	mp_0001 0xfd91
@@ -250,7 +246,7 @@ EV_1_S07_temple_front
 				rising into the sky everywhere...	
 0x4214	0x06	ALTO		ANI_USE_SEXTANT_END	
 0x4308	0x98	ALTO		Noi, what the heck are they?	
-0x43c3	0x98	NOI	#6A	That's...the Power of Stars.	
+0x43c3	0x98	NOI	#6A	That's... the Power of Stars.	
 0x440c	0x6B	ALTO		Question	
 0x443e	0x6B	Signa		Question	
 0x4471	0x06	ALTO		ANI_THINK2	
@@ -310,7 +306,7 @@ EV_1_S07_temple_front
 0x5369	0x98	NOI	#6A	And in the end...all life	
 				will cease across the land...	
 0x53f4	0x06	ALTO		ANI_COMPLAIN	
-0x541e	0x98	ALTO		T-This beautiful place...!?	
+0x541e	0x98	ALTO		Th-This beautiful place...!?	
 0x5466	0x06	Signa		ANI_WAIT3	
 0x548e	0x98	Signa		Sounds like this Power of Stars	
 				stuff is pretty powerful...	
@@ -347,9 +343,9 @@ EV_1_S07_temple_front
 0x5beb	0x98	Signa	#6A	You guys stay put.	
 				I'll take it from here.	
 0x5c4a	0x06	ALTO		ANI_COMPLAIN	
-0x5c74	0x98	ALTO		...W-What are you saying!?	
+0x5c74	0x98	ALTO		...Wh-What are you saying!?	
 0x5cb6	0x06	NOI		ANI_GESTURE1	
-0x5cdf	0x98	NOI	#6A	W-What is this all of a sudden...?	
+0x5cdf	0x98	NOI	#6A	Wh-What is this all of a sudden...?	
 0x5d45	0x98	Signa	#6A	It's not sudden. I've been mulling	
 				this over from the beginning.	
 0x5dd4	0x98	Signa	#6A	...Zext and that masked guy are	
@@ -371,7 +367,7 @@ EV_1_S07_temple_front
 0x60bb	0x98	Signa	#6A	So... Listen up.	
 				Do NOT follow me.	
 0x6318	0x06	NOI		ANI_ANGRYTALK	
-0x6342	0x98	NOI	#6A	...W-What...?	
+0x6342	0x98	NOI	#6A	...Wh-What...?	
 				What is he doing...?	
 0x63ad	0x6B	ALTO		Ellipsis	
 0x6411	0x98	ALTO		...Let's go, Noi.	
@@ -401,7 +397,7 @@ EV_1_S07_temple_front
 0x690b	0x98	ALTO		It might be true that I'm not	
 				able to stand up to Zext.	
 0x695c	0x06	ALTO		ANI_GESTURE1	
-0x6986	0x98	ALTO		...But, iwith your help,	
+0x6986	0x98	ALTO		...But, with your help,	
 				I feel like I can do anything.	
 0x69e1	0x06	ALTO		ANI_JOY	
 0x6a06	0x98	ALTO		Going forward... I'll	
@@ -427,4 +423,4 @@ EV_1_S07_temple_front
 0x6d84	0x06	ALTO		ANI_GUTSPOSE	
 0x6dae	0x98	ALTO		...Well then, brace yourself!	
 0x6ef1	0x07	System	#3C	Cygna is no longer with you.	
-0x7001	0xCE	Objective		Zext should be somewhere in the temple. Let's look for him!	
+0x7001	0xCE	Objective		Zext should be somewhere in the Temple. Let's look for him!	

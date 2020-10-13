@@ -51,8 +51,8 @@ QS_81_hang_out_box
 0x1ab4	0x6B	NOI		Ellipsis	
 0x1b11	0x6B	ALTO		Exclamation	
 0x1b3b	0x6B	NOI		Exclamation	
-0x1b6c	0x98	ALTO		...Looks like we managed to	
-				to completely open the locks.	
+0x1b6c	0x98	ALTO		...Looks like we managed	
+				to open up all the locks.	
 0x1c27	0x06	ALTO		ANI_WAIT	
 0x1c8f	0x98	ALTO		I'm tempted to open it up and 
 				look inside right away, but...	
@@ -62,10 +62,10 @@ QS_81_hang_out_box
 0x1d84	0x98	ALTO		Yeah, let's bring it over right away.	
 QS54_talk_SpiritB
 0x204c	0x6B	QS54_SpiritB		Unknown	
-0x216b	0x98	NOI	#6A	Ah, there it is!	mp_1002b 0x170a
+0x216b	0x98	NOI	#6A	Ah, there it is!	mp_1002b 0x1810
 0x219d	0x98	ALTO	#6A	You're one of Nemeas'	mp_1002b 0x1842
 				spirits, aren't you?	
-0x21f3	0x98	ALTO	#6A	Ah, in a place like this...	mp_1002b 0x18e3
+0x21f3	0x98	ALTO	#6A	Ah, in a place like this...	mp_1002b 0x18a3
 0x2231	0x98	ALTO	#6A	It's one of Nemeas' spirits all right.	mp_1002b 0x18e4
 				...Are you all right?	
 0x22a5	0x6B	QS54_SpiritB		Exclamation	
@@ -201,7 +201,7 @@ EV_3_S11_help_eris
 				to attack my Temple...	
 0x638c	0x06	NOI		ANI_DENY	
 0x63b1	0x98	NOI	#6A	Even now, I still don't	
-				want to	believe it, but...	
+				want to believe it, but...	
 0x63f9	0x06	NOI		ANI_GUTSPOSE	
 0x6422	0x98	NOI	#6A	...I've already decided.	
 				I'm going to fight that man─Zext.	
@@ -280,8 +280,8 @@ EV_3_S11_help_eris
 0x7ac8	0x06	Erislet		ANI_USE_POWER	
 0x7d87	0xC1	System		#3CNoi learned 『Gear Hold』!	
 0x7e28	0x07	System	#4C	Noi learned "Gear Hold."	
-				This is the ability to hold onto	
-				floating gears (hold markers) and move freely.	
+				You can now hold onto floating gears	
+				(hold markers) and move about them freely.	
 0x7ecf	0x06	Erislet		ANI_WAIT	
 0x7f4a	0x98	Erislet		If you're going to continue to the	
 				Sacred Mountain Continent, I'm sure	

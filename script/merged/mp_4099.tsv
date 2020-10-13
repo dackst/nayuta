@@ -87,7 +87,7 @@ QS_54_quest_start
 				very many of them, but...	
 0x3b14	0x98	Nemeas		Indeed, it is very troubling...	
 0x3b58	0x06	Nemeas		ANI_GESTURE1	
-0x3b84	0x98	Nemeas		I am sorry to do this given the	
+0x3b84	0x98	Nemeas		I am sorry to do this, given the	
 				overall situation, but I must ask	
 				for a few moments of your time.	
 0x3c28	0x06	Nemeas		ANI_GESTURE1	
@@ -127,13 +127,13 @@ QS_54_ask_reason
 0x4241	0x06	NOI		ANI_SURPRISE	
 0x426a	0x98	NOI	#6A	What!?	mp_0111 0x10f9c
 0x4292	0x06	ALTO		ANI_GESTURE1	
-0x42bc	0x98	ALTO	#6A	How the hell would that happen...?	
+0x42bc	0x98	ALTO	#6A	How the hell could that happen...?	
 0x4301	0x06	ALTO		ANI_THINK2	
 0x4329	0x98	ALTO	#6A	Could they... Could they	
 				have been killed by Zext...?	
 0x437e	0x06	ALTO		ANI_WAIT	
 0x43a4	0x06	Nemeas		ANI_DENY	
-0x43cc	0x98	Nemeas		No, that should not be a possiblity.	
+0x43cc	0x98	Nemeas		No, that should not be a possibility.	
 0x440e	0x06	Nemeas		ANI_GESTURE1	
 0x443a	0x98	Nemeas		Of all my spirits, these little	
 				ones were the most skilled at	
@@ -495,13 +495,13 @@ quest_SpiritD
 0x8de1	0x06	SpiritD		ANI_NOD	
 0x8e11	0x98	SpiritD		............!	mp_1099 0xb4fd
 0x8e41	0x06	NOI		ANI_GESTURE2	
-0x8e82	0x98	NOI	#6A	It says it appeared during the Summer in	
-				"Underworld Crater" in central La Worg!	
+0x8e82	0x98	NOI	#6A	It says it appeared during the summer in	
+				"Infernal Crater" in central La Worg!	
 0x8f00	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb5ed
 				when we have time, we should proceed	
 				carefully, it says.	
-0x8f82	0x98	NOI	#6A	It says it appeared during the Summer in	
-				"Underworld Crater" in central La Worg!		
+0x8f82	0x98	NOI	#6A	It says it appeared during the summer in	
+				"Infernal Crater" in central La Worg!		
 0x9000	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb6ef
 				when we have time, it wants us to proceed	
 				carefully.	
@@ -522,7 +522,7 @@ quest_SpiritD
 				is what it says!	
 0x9326	0x06	ALTO		ANI_JOY	
 0x934b	0x98	ALTO		Okay, thanks. Now let's go and	
-				make the season Summer!	
+				change the season to summer!	
 0x93e4	0x07	System	#3C	Quest [Origin Spirit's Request] started!	
 0x94d0	0x06	ALTO		ANI_WAIT	
 0x94f6	0x06	NOI		ANI_WAIT	
@@ -869,7 +869,7 @@ EV_4_S20_get_gear_4th
 0x11ede	0x98	ALTO	#0W#6A	Cygna...	
 				It's really
 				you, Cygna!	
-0x11f2b	0x98	ALTO	#6A	Haha, *sniff*... you're safe!!	
+0x11f2b	0x98	ALTO	#6A	Haha, *sniff*... You're safe!!	
 0x11f6f	0x06	NOI		ANI_JOY	
 0x11fb0	0x98	NOI	#6A	What a relief!	
 0x11fe1	0x98	NOI	#6A	We heard you were done	
@@ -889,7 +889,7 @@ EV_4_S20_get_gear_4th
 0x12287	0x98	ALTO	#6A	Did you expect me to just leave	
 				you and go home by myself!?	
 0x122e7	0x98	ALTO	#6A	We've been together for five years.	
-				You're should know that by now!	
+				You should know that by now!	
 0x1237c	0x06	Signa		ANI_SCRATCH_HEAD	
 0x123ab	0x98	Signa	#0W	...Haha, I guess you're right.	
 				You were always like that.	
@@ -901,7 +901,7 @@ EV_4_S20_get_gear_4th
 0x12547	0xBC	ALTO		Surprise	
 0x1257d	0xBC	NOI		Surprise	
 0x125b2	0xBC	Signa		Surprise	
-0x126f9	0x98	ALTO	#0W#6A	W-What is this tremor...!?	
+0x126f9	0x98	ALTO	#0W#6A	Wh-What is this tremor...!?	
 0x12761	0x98	NOI	#0W#6A	It can't be...	
 0x12806	0xBC	ALTO		Exclamation	
 0x1283c	0xBC	NOI		Exclamation	
@@ -936,7 +936,7 @@ EV_4_S24_go_astrolabe
 0x13604	0x98	NOI	#6A	That's what Master Selam told us...	
 0x13646	0x06	NOI		ANI_SURPRISE	
 0x1368c	0x98	NOI	#6A	...Hey, how do you	
-				know about like that!?	
+				know about that!?	
 0x136e2	0x06	Signa		ANI_WAIT2	
 0x13729	0x98	Signa		Well, I haven't exactly been	
 				aimlessly roaming around these
@@ -951,7 +951,7 @@ EV_4_S24_go_astrolabe
 0x138bb	0x98	NOI	#6A	With the Astrolabe completed,	
 				maybe we can also stop the seal from	
 				breaking along with the abnormalities!	
-0x13978	0x98	ALTO	#6A	T-That's right!	
+0x13978	0x98	ALTO	#6A	Th-That's right!	
 				Come on, you two!!	
 0x139d7	0x06	Signa		ANI_NOD	
 0x13a1c	0x98	Signa		All right!	mp_0004 0x99aa

@@ -32,14 +32,14 @@ EV_8_S11_boss_battle
 				Cygna and Kureha...	
 0x2c77	0x6B	ALTO		Exclamation	
 0x2cbf	0x06	ALTO		ANI_TENSION_SURPRISE	
-0x2cf9	0x98	ALTO	#16S	W-What is that!?	mp_0002d 0x627c
+0x2cf9	0x98	ALTO	#16S	Wh-What is that!?	mp_0002d 0x627c
 0x2def	0x06	b005		ANI_DEMO0	
-0x3377	0x98	ALTO	#1W#6A	Is...is that...an idol!?	
+0x3377	0x98	ALTO	#1W#6A	Is... Is that...an idol!?	
 0x33d1	0x41	None	#3W#2E#6C	O ye who enter this sacred realm,	
 				leave this place at once...#0E	
 0x3472	0x41	None	#2W#2E#6C	Else be cast into an unyielding	
 				prison of eternal darkness...#0E	
-0x3528	0x98	ALTO	#1W#6A	Tch... This is the thing that	
+0x3528	0x98	ALTO	#1W#6A	Crap... This is the thing that	
 				defeated Cygna and Kureha!	
 0x35a5	0x06	ALTO		ANI_BATTOU2	
 0x35fa	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	

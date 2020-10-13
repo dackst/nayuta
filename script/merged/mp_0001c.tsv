@@ -264,8 +264,8 @@ LP_haka
 				with the gods.	
 0x3f4d	0x98	ALTO		(Mom, Dad... Please watch	
 				 over me from heaven.)	
-0x3fa3	0x98	ALTO		(I can't be depressed any more.	
-				 I will press on until the end!)	
+0x3fa3	0x98	ALTO		(I can't be depressed anymore.	
+				 I have to press on until the end!)	
 0x4001	0x98	NOI		Nayuta?	
 0x4027	0x98	ALTO		...Let's go, Noi.	
 				To Kureha and Cygna!	
@@ -332,7 +332,7 @@ EV_6_S05_meet_dorado
 				over there the other day.	
 0x5514	0x98	Dorado		It makes a good vantage point, but	
 				it's pretty high up and dangerous.	
-0x556f	0x98	Dorado		I have to be careul not to	
+0x556f	0x98	Dorado		I have to be careful not to	
 				let any careless tourists	
 				or children wander inside.	
 0x5660	0x98	Dorado		Oh, and Orvus is out patrolling	
@@ -376,7 +376,7 @@ EV_6_S09_help_dorado
 				Where's Vel!?	
 0x61c0	0x98	Dorado	#0W#6A#275x#230y	I-Inside the ruins...	
 0x6207	0x98	Dorado	#0W#6A#275x#230y	She and Lyra came running during the commotion,	
-				but the were both driven further in... 
+				but they were both driven further in... 
 0x6283	0x6B	ALTO		Exclamation	
 0x62ad	0x6B	NOI		Exclamation	
 0x62de	0x06	NOI		ANI_SURPRISE	

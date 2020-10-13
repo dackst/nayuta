@@ -34,25 +34,27 @@ SB_1_S03_appear_Signa
 EV_1_S03_jungle2_start
 0x19a1	0x06	st		ANI_PATA2	
 0x1b81	0x06	ALTO		ANI_WAIT4	
-0x1ba8	0x98	ALTO		Phew... I think I'm starting to	
-				get used to the transfer gates.	
+0x1ba8	0x98	ALTO		Phew... I think I'm starting to get	
+				used to the teleporter devices.	
 0x1c0a	0x06	ALTO		ANI_LOOK_AROUND	
 0x1c3f	0x98	ALTO		It's an amazing place this time too.	
 0x1c8b	0x98	Signa		...Looks like the tops of giant	
 				trees growing over a huge river.	
-0x1d39	0x98	Signa		This is considerably more difficult	
+0x1d39	0x98	Signa		This is a considerably more difficult	
 				location to traverse than the trail	
 				from before. Is there no proper road?	
 0x1dc7	0x06	ALTO		ANI_WAIT	
 0x1e69	0x98	NOI	#6A	There's no way there would be...	
 0x1eaf	0x06	NOI		ANI_COMPLAIN	
-0x1ed8	0x98	NOI	#6A	Humans aren't supposed to set foot	
-				in this place to begin with...	
+0x1ed8	0x98	NOI	#6A	Humans aren't even supposed	
+				to set foot in this place	
+				to begin with...	
 0x1f61	0x6B	NOI		Coldsweat	
 0x1f8a	0x06	NOI		ANI_DEJECTED	
 0x1fbb	0x98	NOI	#6A	...Whoops...	
 0x1ffc	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x202a	0x98	ALTO		Ahaha... Don't worry so much it.	
+0x202a	0x98	ALTO		Ahaha... Don't worry	
+				so much about it.	
 0x2084	0x06	ALTO		ANI_GESTURE1	
 0x20ae	0x98	ALTO		That way we can continue	
 				to help you like this.	
@@ -69,7 +71,7 @@ EV_1_S03_jungle2_start
 				you'll have to repeat the area	
 				from the beginning.	
 0x22ef	0x06	Signa		ANI_GESTURE1	
-0x231a	0x98	Signa		If thing get really bad,	
+0x231a	0x98	Signa		If things get really bad,	
 				you should eat one of those	
 				lunch boxes from Eartha.	
 0x238c	0x06	Signa		ANI_WAIT2	
@@ -89,22 +91,21 @@ EV_1_S03_jungle2_start
 0x25bf	0x98	Signa		...It's only natural to feel	
 				that way in a place like this.	
 0x2667	0x06	Signa		ANI_SCRATCH_HEAD	
-0x2696	0x98	Signa		I sense the a group of monsters	
-				up ahead. What the hell happened
-				to this world?	
+0x2696	0x98	Signa		I sense a group of monsters up ahead.	
+				What the hell is happening in this world?	
 0x2709	0x6B	NOI		Surprise	
-0x273a	0x98	NOI	#6A	Could it be that...in your world,	
+0x273a	0x98	NOI	#6A	Could it be...that in your world,	
 				there are no monsters...?	
-0x27c0	0x98	Signa		Well, no...they exist,
+0x27c0	0x98	Signa		Well, no... They exist,
 				but I've never seen so
-				much of them.	
+				much of them together.	
 0x281d	0x06	ALTO		ANI_THINK	
 0x2844	0x98	ALTO		There are some species here that	
 				I've never seen before. It's	
-				like a museum of monsters.	
+				almost like a museum of monsters.	
 0x28a4	0x06	ALTO		ANI_GOODIDEA	
 0x28ce	0x98	ALTO		...Oh, yeah! Since we're here,	
-				I'll make a record of them.	
+				I should make a record of them.	
 0x2922	0x6B	Signa		Question	
 0x294d	0x6B	NOI		Question	
 0x29aa	0x98	Signa		Record...?	
@@ -115,9 +116,8 @@ EV_1_S03_jungle2_start
 				study their biology later...	
 0x2ae3	0x6B	Signa		Sweatdrop	
 0x2b0e	0x6B	NOI		Sweatdrop	
-0x2b3f	0x98	Signa		I get it, I get it,	
-				I'll leave all that	
-				stuff to you.	
+0x2b3f	0x98	Signa		Yeah, yeah, I'll leave	
+				all that stuff to you.	
 0x2b9c	0x06	NOI		ANI_GESTURE1	
 0x2bc5	0x98	NOI	#6A	Jeez... Humans sure are weird.	
 0x2c32	0x06	NOI		ANI_COMPLAIN	
@@ -127,11 +127,10 @@ EV_1_S03_jungle2_start
 0x2ced	0x98	Signa		Yeah, got it!	mp_0101 0x956b
 0x2d23	0x06	ALTO		ANI_NOD	
 0x2d48	0x98	ALTO		Well then, let's
-				resume our chase	
-				the chase!	
+				resume our chase!	
 0x2de2	0x07	System	#4C	[Enemy Info] has been added to the camp menu.	
-0x2e1c	0x07	System	#4C	If you select [Enemy Info] under [System] in	
-				the camp menu, you can review information on
+0x2e1c	0x07	System	#4C	Select [Enemy Info] under [System] in	
+				the camp menu to review information on
 				the enemies you've encountered so far.	
 0x2ec5	0x06	Signa		ANI_JOY	
 0x2eeb	0x98	Signa		All right, let's get	
@@ -142,35 +141,34 @@ EV_1_S03_jungle2_start
 0x2fbb	0x98	NOI	#6A	Let's go!	
 before_Skillmon
 0x33b1	0x6B	NOI		Exclamation	
-0x33e2	0x98	NOI		T-This feeling...!	
+0x33e2	0x98	NOI		Th-This feeling...!	
 0x3475	0x98	ALTO	#6A	What's wrong?	
 0x34ad	0x06	NOI		ANI_NOD	
-0x34d1	0x98	NOI		Y-Yeah...I feel a strong	
+0x34d1	0x98	NOI		W-Well... I feel a strong	
 				power just ahead.	
 0x3519	0x06	NOI		ANI_THINK	
 0x353f	0x98	NOI		Besides, this feeling...	
-				If it's that then...	
+				If it's that, then...	
 0x3595	0x06	Signa		ANI_GESTURE1	
-0x35c0	0x98	Signa		I don't know what it is,	
-				but it seems like we	
-				should be careful.	
+0x35c0	0x98	Signa		I don't know what you're referring to,	
+				but it seems like we should be careful.	
 0x3639	0x06	Signa		ANI_JOY	
 0x365f	0x98	Signa		Nayuta, brace yourself!	
 0x36bd	0x06	ALTO		ANI_NOD	
 0x36e2	0x98	ALTO	#6A	Yeah!	mp_0001 0x1174e
 EV_1_S04_defeat_mons
 0x3c68	0x06	NOI		ANI_GUTSPOSE	
-0x3c91	0x98	NOI		Okay...I got my power back!	
+0x3c91	0x98	NOI		Okay... I got my power back!	
 0x3cda	0x06	ALTO		ANI_GESTURE2	
-0x3d04	0x98	ALTO	#6A	...Hey Noi, what was	
-				that monster just now?	
+0x3d04	0x98	ALTO	#6A	...Hey Noi, just what was	
+				that monster back there?	
 0x3d59	0x06	Signa		ANI_WAIT0	
-0x3d81	0x98	Signa		It threw some strange attacks at us...	
+0x3d81	0x98	Signa		It threw some weird attacks at us...	
 0x3ded	0x06	NOI		ANI_GESTURE1	
 0x3e16	0x98	NOI		Umm... Well, actually, when I	
 				was protecting the Master	
 				Gear and running from Zext...	
-0x3e90	0x98	NOI		The magic power of #4Rarts#R	
+0x3e90	0x98	NOI		The magic power of arts	
 				was stolen from me.	
 0x3eea	0x6B	ALTO		Exclamation	
 0x3f1c	0x6B	Signa		Exclamation	
@@ -181,7 +179,7 @@ EV_1_S04_defeat_mons
 0x3fdf	0x98	Signa		No, no, wait a sec.	
 				I get that part, but...	
 0x4037	0x06	ALTO		ANI_GESTURE2	
-0x4061	0x98	ALTO	#6A	...Did you just say "magic?"	
+0x4061	0x98	ALTO	#6A	...Did you say "magic"?	
 0x40a9	0x6B	NOI		Question	
 0x4112	0x98	NOI		Uh, y-yeah, I guess...	
 				What's wrong?	
@@ -191,39 +189,40 @@ EV_1_S04_defeat_mons
 0x41d9	0x6B	ALTO		Ellipsis	
 0x4203	0x6B	Signa		Ellipsis	
 0x4236	0x06	ALTO		ANI_GUTSPOSE	
-0x4274	0x98	ALTO	#6A#16S	A-Amazing... That's amazing, Noi!	
-0x42bb	0x98	ALTO	#6A	In our world, things like
-				magic are just fairy tales...	
+0x4274	0x98	ALTO	#6A#16S	I-Incredible...	
+				That's amazing, Noi!	
+0x42bb	0x98	ALTO	#6A	In our world, things like magic	
+				exist only in fairy tales...	
 0x433f	0x06	ALTO		ANI_JOY	
 0x4364	0x98	ALTO	#6A	Terra is a world where	
-				magic is commonplace...!!	
+				magic is real...!!	
 0x43e9	0x6B	ALTO		Unknown	
 0x4467	0x6B	Signa		Sweatdrop	
 0x4492	0x6B	NOI		Sweatdrop	
 0x44c3	0x06	Signa		ANI_GESTURE2	
 0x44ee	0x98	Signa		Hey, come back to us, Nayuta...	
 0x452e	0x06	NOI		ANI_GROOMING	
-0x4557	0x98	NOI		(If he's gets this delighted,	
+0x4557	0x98	NOI		(If he gets this delighted,	
 				 maybe they're not so bad...)	
 0x45dc	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x460a	0x98	ALTO	#6A	Oh, sorry, I got carried away.	
 0x4653	0x06	ALTO		ANI_NOD	
-0x4678	0x98	ALTO	#6A	Um, so... If we defeat	
+0x4678	0x98	ALTO	#6A	Umm, so... If we defeat	
 				monsters that use magic,	
 				we can restore Noi's powers.	
 0x4724	0x98	Signa		When it comes to fighting Zext	
 				and that masked guy, we're gonna	
 				need to build up our strength.	
 0x4796	0x06	Signa		ANI_JOY	
-0x47bc	0x98	Signa		It might be a tough fight, but...	
-				If we see any, let's try to	
-				take them down.	
+0x47bc	0x98	Signa		They might be tough, but...	
+				If we see any, let's be sure	
+				to take them down.	
 0x4848	0x06	NOI		ANI_NOD	
-0x486c	0x98	NOI		T-Thanks for the help.	
-0x4b94	0x07	System	#4C	Under [NOI] in the camp menu,	
-				you can select Arts to use.	
+0x486c	0x98	NOI		Th-Thanks for the help.	
+0x4b94	0x07	System	#4C	Select arts to use under	
+				[NOI] in the camp menu.
 0x4d74	0x07	System	#4C	Newly recovered magic has a full stock,	
 				and you can use it right away.	
 0x4dc7	0x07	System	#4C	But if you switch to a different	
 				magic in the middle of a stage,	
-				the stock will start from 0.	
+				the stock will restart from 0.	

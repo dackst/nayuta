@@ -10,7 +10,7 @@ open_door3
 QS_34_pick_up_tree
 0xcfc	0x06	NOI		ANI_GUTSPOSE	
 0xd25	0x98	NOI	#6A	Ah, this scent...	
-				This is a Byakuda Tree!	
+				It's a sandalwood tree!	
 0xd6f	0x06	NOI		ANI_JOY	
 0xd93	0x98	NOI	#6A	You can create incense out of this	
 				tree to produce a calming effect!

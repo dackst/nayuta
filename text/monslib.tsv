@@ -147,7 +147,7 @@
 0x1b5e	line	by Zext. Repels its enemies'
 0x1b7e	line	attack with strong barriers.
 0x1bde	mon name	Palreschia
-0x1bfe	line	Fish idol, guardian of temple.
+0x1bfe	line	Fish Idol, guardian of temple.
 0x1c1e	line	Freely manipulates lightning,
 0x1c3e	line	turning intruders to dust.
 0x1c9e	mon name	Mutant
@@ -259,7 +259,7 @@
 0x305e	line	Its black flame changes things
 0x307e	line	it touches to scorched earth.
 0x30de	mon name	Cravaltarf
-0x30fe	line	Giant crab idol of the temple.
+0x30fe	line	Giant crab Idol of the temple.
 0x311e	line	An assembly of small crabs, it
 0x313e	line	can change its shape.
 0x319e	mon name	Armor Doggy
@@ -311,9 +311,9 @@
 0x3a1e	line	substance. A barrier guards it
 0x3a3e	line	and even arts are ineffective.
 0x3a9e	mon name	Bite Wolf
-0x3abe	line	Group forming wolf. Though
+0x3abe	line	Group-forming wolf. Though
 0x3ade	line	cute at first glance, it
-0x3afe	line	won't let its prey escape.
+0x3afe	line	never lets its prey escape.
 0x3b5e	mon name	Flier
 0x3b7e	line	A troop of countless flies.
 0x3b9e	line	On top of spreading poison,
@@ -371,9 +371,9 @@
 0x455e	line	Destroys everything with
 0x457e	line	its flame breath.
 0x45de	mon name	Sagiscellan
-0x45fe	line	Abstract idol guarding temple.
-0x461e	line	Manipulates its body of lava,
-0x463e	line	taking various forms.
+0x45fe	line	Abstract Idol guarding temple.
+0x461e	line	Manipulates its body of lava
+0x463e	line	to take various forms.
 0x469e	mon name	Aqua Sprite
 0x46be	line	Formless mass of water.
 0x46de	line	Uses the water in the air
@@ -464,16 +464,16 @@
 0x56be	line	sword techniques and defense.
 0x571e	mon name	Sleipnir
 0x573e	line	Horse machine to repel
-0x575e	line	intruders. Its black metal body
-0x577e	line	holds tremendous power.
+0x575e	line	intruders. Its black metal
+0x577e	line	body holds tremendous power.
 0x57de	mon name	Garza
 0x57fe	line	Ancient that comprehends
 0x581e	line	speech. Compresses space,
 0x583e	line	crushing all living things.
 0x589e	mon name	Livadrigger
-0x58be	line	Wheel idol protecting tower.
-0x58de	line	Captures sacred area intru-
-0x58fe	line	ders, sending them to hell.
+0x58be	line	Wheel Idol protecting tower.
+0x58de	line	Captures intruders to sacred
+0x58fe	line	realm, sending them to hell.
 0x595e	mon name	地下都市
 0x597e	line	0
 0x599e	line	
@@ -559,16 +559,16 @@
 0x689e	line	scripture. In the end, it will
 0x68be	line	watch over humanity's fate.
 0x691e	mon name	Selam
-0x693e	line	Burdened with the <Remaking>
+0x693e	line	Burdened with the Remaking
 0x695e	line	mission, and gifted with the
 0x697e	line	Shining Wings of the Mythos.
 0x69de	mon name	Zext
-0x69fe	line	Head of the <Mythos>, a race
+0x69fe	line	Head of the Mythos, a race
 0x6a1e	line	of gods. No longer guiding
 0x6a3e	line	humans, he remakes the world.
 0x6a9e	mon name	Stell Alaqran
-0x6abe	line	The idol of <Planetarium>, and
-0x6ade	line	tied to its ancient mission.
+0x6abe	line	The Idol of Planetarium, and
+0x6ade	line	bound to its ancient mission.
 0x6afe	line	Will erase the surface world.
 0x6b5e	mon name	隠し
 0x6b7e	line	0
@@ -580,7 +580,7 @@
 0x6c7e	line	Repels intruders with force.
 0x6cde	mon name	Noi Stelladia
 0x6cfe	line	Idol that rules the Astrolabe.
-0x6d1e	line	The true form of Noi, warden
+0x6d1e	line	The true form of Noi, Warden
 0x6d3e	line	of the Star Garden.
 0x6d9e	mon name	手配魔獣
 0x6dbe	line	0
@@ -647,19 +647,19 @@
 0x791e	line	small sun with will. Burns the
 0x793e	line	surroundings with its heat ray.
 0x799e	mon name	New Duoqurois
-0x79be	line	Revived idol. With more power
+0x79be	line	Revived Idol. With more power
 0x79de	line	than before, they cooperate to
 0x79fe	line	butcher intruders.
 0x7a5e	mon name	New Palreschia
-0x7a7e	line	Revived fish idol. With its
+0x7a7e	line	Revived fish Idol. With its
 0x7a9e	line	diamond tusks and lightning,
 0x7abe	line	it eats anything, killing it.
 0x7b1e	mon name	New Cravaltarf
-0x7b3e	line	Revived crab idol. Guards the
+0x7b3e	line	Revived crab Idol. Guards the
 0x7b5e	line	temple with its countless wea-
 0x7b7e	line	pons and invincible scissors.
 0x7bde	mon name	New Sagiscellan
-0x7bfe	line	Revived lava idol.
+0x7bfe	line	Revived lava Idol.
 0x7c1e	line	Hiding great energy, it
 0x7c3e	line	manipulates lava freely.
 0x7c9e	mon name	Flower Batolei

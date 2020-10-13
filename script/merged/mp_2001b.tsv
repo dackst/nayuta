@@ -23,7 +23,7 @@ EV_2_S16_big_hindrance
 0x1aa8	0x6B	ALTO		Exclamation	
 0x1ad2	0x6B	NOI		Exclamation	
 0x1c08	0x06	ALTO		ANI_SURPRISE	
-0x1c32	0x98	ALTO		W-What is that...?	
+0x1c32	0x98	ALTO		Wh-What is that...?	
 				A giant gear!?	
 0x1c78	0x06	NOI		ANI_SURPRISE	
 0x1ca1	0x98	NOI	#6A	Maybe it used to be embedded in	
@@ -71,12 +71,12 @@ EV_2_S16_big_hindrance
 				something about this...	
 0x24ca	0x06	NOI		ANI_NOD	
 0x24ee	0x98	NOI	#6A	Let's try going to the	
-				"Summer" of Oltapia!	
-0x2540	0xCE	Objective		Next, let's help Gio in the the Summer of Oltapia.	
+				summer of Oltapia!	
+0x2540	0xCE	Objective		Next, let's help Gio in the summer of Oltapia.	
 SB_2_S21_turn_ALTO
 SB_2_S21_turn_NOI
 EV_2_S21_look_cage_2nd
-0x29e2	0x41	None	#0W#2E#029c	*sigh*...How did I get myself into this mess...?#0E	
+0x29e2	0x41	None	#0W#2E#029c	*sigh*... How did I get myself into this mess...?#0E	
 0x2a74	0x6B	ALTO		Exclamation	
 0x2aa6	0x6B	NOI		Exclamation	
 0x2af4	0x98	ALTO		What was that voice...!?	
@@ -90,15 +90,15 @@ EV_2_S21_look_cage_2nd
 				Are you close?#0E	
 0x2e33	0x41	None	#1W#2E#029c	Oh, good...	
 				you're safe!#0E	
-0x2ed0	0x98	ALTO		It sound like...a woman.	
+0x2ed0	0x98	ALTO		It sounds like...a woman.	
 0x2f13	0x06	NOI		ANI_NOD	
 0x2f37	0x98	NOI	#6A	Yeah, she is. It's	
 				Song Maiden Elislette...	
-				This continent's warden.	
-0x2f9f	0x41	None	#0W#2E#029c	Oh my...what do we have here?	
+				This continent's Warden.	
+0x2f9f	0x41	None	#0W#2E#029c	Oh my... What do we have here?	
 				I feel an unusual presence nearby...#0E	
 0x3064	0x41	None	#0W#2E#029c	...It can't be...	
-				Is this the presence of human!?#0E	
+				Is this the presence of a human!?#0E	
 0x30f3	0x41	None	#0W#2E#029c	For Noi to be working with a human...#0E	
 0x317f	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x31ad	0x98	ALTO	#6A	Umm, my name is Nayuta.	
@@ -117,18 +117,19 @@ EV_2_S21_look_cage_2nd
 0x351a	0x06	NOI		ANI_NOD	
 0x353e	0x98	NOI	#6A	Yeah... We can't just	
 				leave things as they are.	
-0x35a4	0x98	NOI	#6A	But...I suspect they plan to stop the Temple of this continent as well.	
+0x35a4	0x98	NOI	#6A	But... I suspect they plan to stop	
+				the Temple of this continent as well.	
 0x362c	0x98	ALTO	#6A	The circumstances are the same as before,	
-				so that's more than likely the case.	
+				so it's more than likely to be the case.	
 0x3698	0x41	None	#0W#2E#029c	...Noi, and Nayuta, was it?	
 				For now, hurry up and	
 				head for the Temple.#0E	
 0x3779	0x41	None	#0W#2E#029c	It hasn't been that long since I was caught...
 				If you hurry, you'll make it in time!#0E	
-0x3847	0x41	None	#0W#2E#029c	I entrust everything up to you guys.	
+0x3847	0x41	None	#0W#2E#029c	I'm entrusting everything with you guys.	
 				Please, take care of this for me!#0E	
 0x3919	0x06	ALTO		ANI_THANKS	
-0x3941	0x98	ALTO	#6A	Leave it to me!	
+0x3941	0x98	ALTO	#6A	Leave it to us!	
 0x3982	0x06	NOI		ANI_GUTSPOSE	
 0x39ab	0x98	NOI	#6A	Hold on, Elis! We'll take	
 				the Master Gear back and	

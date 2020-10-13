@@ -14,20 +14,18 @@ CaveCS
 MountainCS
 LavaCS
 tuto_season_change
-0x2abf	0x07	System	#3C	You can go to "Summer" of	
-				Forest Continent Oltapia.	
-0x2b44	0x07	System	#3C	You can go to "Winter" of	
-				Forest Continent Oltapia.	
-0x2c41	0x07	System	#3C	You can go to "Autumn" of	
-				Forest Continent Oltapia.	
-0x2d22	0x07	System	#4C	The Astrolabe has	
-				again begun to move.	
-0x2d56	0x07	System	#4C	By using the Master Gear, you	
-				can manipulate the "Season" of the	
-				continent.	
-0x2db2	0x07	System	#4C	When selecting continents,	
+0x2abf	0x07	System	#3C	The summer of Forest Continent	
+				Oltapia has been unlocked.	
+0x2b44	0x07	System	#3C	The winter of Forest Continent	
+				Oltapia has been unlocked.	
+0x2c41	0x07	System	#3C	The autumn of Forest Continent	
+				Oltapia has been unlocked.	
+0x2d22	0x07	System	#4C	The Astrolabe has started to work again.	
+0x2d56	0x07	System	#4C	By using the Master Gear, you can	
+				control the "seasons" of each continent.	
+0x2db2	0x07	System	#4C	After selecting a continent,	
 				push the △ button to display	
-				the operations menu.	
+				the control menu.	
 EV_2_S25_field_purity
 EV_4_S25_disaster_field
 EV_1_S14_first_field
@@ -42,8 +40,8 @@ EV_2_S12_change_seasons
 EV_3_S06_change_seasons
 EV_3_S19_change_seasons
 Appear_Stage02
-0x58fe	0x07	System	#4C	On stages where there are special	
-				events, an icon is displayed.	
+0x58fe	0x07	System	#4C	An icon is displayed on	
+				stages with special events,	
 Appear_Stage03
 Appear_StageToride
 Appear_StageBoss

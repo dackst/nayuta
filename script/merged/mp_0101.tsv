@@ -29,7 +29,7 @@ lp_portal
 				exploring without Noi, right?	
 0x2299	0x98	ALTO		I should return to the island	
 				for now and get ready.	
-0x237c	0x98	ALTO		It's not time go to exploring now.	
+0x237c	0x98	ALTO		It's not time to go exploring now.	
 0x23be	0x98	ALTO		I gotta search for	mp_0101 0x1d69
 				Kureha with Noi!	
 0x2485	0x98	ALTO		Now's not the time go to exploring.	
@@ -76,8 +76,8 @@ talk_Signa
 				your world aren't supposed to	
 				interact with each other.	
 0x36a9	0x98	NOI		My appearance in your	
-				world was probably	
-				wasn't a good thing...	
+				world probably wasn't	
+				a good thing...	
 0x3702	0x98	ALTO		I guess... I mean, if the stuff here	
 				were ever misused, it'd definitely	
 				be a bad situation.	
@@ -181,9 +181,9 @@ talk_Reticul
 0x4bde	0x98	Reticul		All that's left is for you	
 				to do what you need to do.	
 				Get over there and be strong!	
-0x4c4c	0x98	Reticul		Though it's too bad we haven't	
-				been able to get our hands on	
-				any treasure here in Terra...	
+0x4c4c	0x98	Reticul		Though it's too bad we weren't	
+				able to get our hands on any	
+				treasure here in Terra...	
 0x4cc3	0x98	Reticul		For now, it's a relief to	
 				finally be able to go back 	
 				to our original world.	
@@ -204,10 +204,10 @@ subev_look_creha
 0x518f	0x06	ALTO		ANI_DEJECTED	
 0x51b9	0x98	ALTO	#6A	I-Is that so...?	
 0x51f3	0x06	ALTO		ANI_THINK2	
-0x521b	0x98	ALTO	#6A	(Hmm... She responded to most of our	
-				other questions, but it seems like there's	
-				some things she's not willing to answer.)	
-0x528c	0x98	ALTO	#6A	(Seems like there's a story behind it.	
+0x521b	0x98	ALTO	#6A	(Hmm... She answered to most of our other	
+				 questions, but it seems like there's some	
+				 things she's not willing to tell us.)	
+0x528c	0x98	ALTO	#6A	(There must be a reason behind it.	
 				 Unless we get to know her better,	
 				 I probably shouldn't push it...)	
 0x532a	0x06	ALTO		ANI_WAIT2	
@@ -220,7 +220,7 @@ subev_look_creha
 0x548a	0x6B	NOI		Surprise	
 0x5812	0x06	Signa		ANI_GESTURE2	
 0x583d	0x98	Signa		So you ARE interested in girls.	
-0x5881	0x98	Signa		Hah, if Lyra found out about	
+0x5881	0x98	Signa		Ha, if Lyra found out about	
 				this, she'd throw a fit.	
 0x58e5	0x06	ALTO		ANI_COMPLAIN	
 0x590f	0x98	ALTO	#6A	Oh, come on... This isn't	
@@ -228,7 +228,7 @@ subev_look_creha
 0x595b	0x98	ALTO	#6A	Besides, what does Lyra have	
 				to do with this anyway?	
 0x59b8	0x6B	Signa		Sweatdrop	
-0x59eb	0x98	Signa		Man, you really are dense	
+0x59eb	0x98	Signa		Man, you are really dense	
 				sometimes, y'know that?	
 0x5a61	0x06	Signa		ANI_THINK	
 0x5a89	0x98	Signa		Although... I'm kinda curious	
@@ -282,14 +282,14 @@ subev_return_garden
 				What the hell were you guys doing?	
 0x6c86	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x6cb4	0x98	ALTO		Sorry, sorry, we said we would	
-				getting ready to explore, too.		
+				get ready to explore, too.		
 0x6d15	0x06	Signa		ANI_GESTURE2	
 0x6d40	0x98	Signa		Hey, what's up with you?	
 				Were you lonely without us?	
 0x6d99	0x06	NOI		ANI_SURPRISE	
 0x6dc2	0x6B	NOI		Exclamation	
 0x6df3	0x06	NOI		ANI_ANGRYTALK	
-0x6e1d	0x98	NOI	#6A	T-That's absurd!	
+0x6e1d	0x98	NOI	#6A	Th-That's absurd!	
 0x6e69	0x06	NOI		ANI_DULL	
 0x6e8e	0x98	NOI	#6A	Since way before you two	
 				showed up, I've been alone...	
@@ -317,11 +317,11 @@ QS_41_discovery_Equlea
 0x7a53	0x98	ALTO		(Of course, there's no way 	
 				 she'd have come here...)	
 0x7ab0	0x3F	Name		Voice	mp_0000d 0x4c24
-0x7abd	0x98	Equlea	#N#0x#0y#14S	W-What is that...?	
+0x7abd	0x98	Equlea	#N#0x#0y#14S	Wh-What is that...?	
 0x7b10	0x6B	ALTO		Exclamation	
 0x7b42	0x6B	NOI		Exclamation	
 0x7b73	0x06	NOI		ANI_SURPRISE	
-0x7b9c	0x98	NOI	#6A	T-That voice just now...	
+0x7b9c	0x98	NOI	#6A	Th-That voice just now...	
 0x7bda	0x06	ALTO		ANI_NOD	
 0x7bff	0x98	ALTO		Let's go!	
 0x7fd0	0x06	Equlea		ANI_DENY	
@@ -367,7 +367,7 @@ QS_41_discovery_Equlea
 				I am not returning to	
 				where those people are.	
 0x8907	0x06	NOI		ANI_COMPLAIN	
-0x8930	0x98	NOI	#6A	W-Why?	
+0x8930	0x98	NOI	#6A	Wh-Why?	
 0x8958	0x06	ALTO		ANI_GESTURE2	
 0x8982	0x98	ALTO		Umm, can you tell me why?	
 0x89de	0x06	Equlea		ANI_WAIT	
@@ -419,8 +419,8 @@ QS_41_discovery_Equlea
 				with Eris a long time ago...	
 0x925c	0x06	NOI		ANI_GUTSPOSE	
 0x9285	0x98	NOI	#6A	In those times, all we had to do was	
-				tell other what we were feeling and	
-				we were able to make up.	
+				tell each other what we were feeling	
+				and we were able to make up.	
 0x92fa	0x98	NOI	#6A	...Although sometimes it would	
 				escalate into an epic battle.		
 0x9355	0x6B	ALTO		Sweatdrop	
@@ -444,7 +444,7 @@ QS_41_discovery_Equlea
 0x96ec	0x98	Equlea		Can't you let me see	
 				more of this world?	
 0x9731	0x98	Equlea		After all, we've come all the way to	
-				this beautiful and wonderous place.	
+				this beautiful and wondrous place.	
 				You have to let me see more!	
 0x97a9	0x6B	ALTO		Sweatdrop	
 0x97db	0x6B	NOI		Sweatdrop	
@@ -471,8 +471,8 @@ QS_82_get_flower
 0xa099	0x98	NOI	#6A	...Yes, I think so.	
 0xa0eb	0x98	NOI	#6A	Beautiful, white flowers that	
 				adorn the Garden all year long...	
-0xa155	0x98	NOI	#6A	Theese are most likely	
-				to be Fiona Flowers.	
+0xa155	0x98	NOI	#6A	These are most likely	
+				Fiona Flowers.	
 0xa1bd	0x98	ALTO		They seem to be growing everywhere here...	
 				There should be more than enough.	
 0xa243	0x98	ALTO		Should we pick a few	
@@ -598,7 +598,7 @@ EV_0_S20_meet_creha
 0xd405	0x98	Signa	#6A	W-Whoa!	
 0xd60b	0x06	ALTO		ANI_WAIT	
 0xd681	0x06	Signa		ANI_WAIT	
-0xd6bb	0x41	None	#0W#2E	...This world has an "End."	
+0xd6bb	0x41	None	#0W#2E	...There is an "End" to this world.	
 				We have been taught this for as	
 				long as anyone can remember.#0E	
 0xd768	0x41	None	#0W#2E	Even the sea, which might seem to stretch	
@@ -631,7 +631,7 @@ EV_1_S00_go_jungle
 0xe568	0x98	ALTO	#0W#6A	(...W-Well, I guess she's	
 				 not dead, but...)	
 0xe5bb	0x06	ALTO		ANI_FIND	
-0xe6c9	0x98	ALTO	#0W#0x#400y#5A	(...She's feels...mysterious, somehow.)	
+0xe6c9	0x98	ALTO	#0W#0x#400y#5A	(...She feels...mysterious, somehow.)	
 0xe719	0x98	ALTO	#0W#0x#400y#5A	(Her hair and skin are so beautiful...	
 				I've never seen a girl like her.)	
 0xe7b6	0x98	Signa	#0W#0x#30y#12S	...y...ta...	
@@ -642,11 +642,11 @@ EV_1_S00_go_jungle
 0xe9ad	0x6B	ALTO		Exclamation	
 0xe9d7	0x06	ALTO		ANI_SURPRISE	
 0xea20	0x6B	ALTO		Unknown	
-0xea67	0x98	ALTO	#6A	C-Cygna...! W-What!?	
+0xea67	0x98	ALTO	#6A	C-Cygna...! Wh-What!?	
 0xeaab	0x06	Signa		ANI_WAIT3	
 0xead3	0x98	Signa		Don't "What!?" me!	
 				Snap out of it.	
-0xeb15	0x98	Signa		We were just dicussing who	
+0xeb15	0x98	Signa		We were just discussing who	
 				the hell this girl could be.	
 0xeb62	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xeb98	0x98	ALTO	#6A	Y-Yeah, uh, right.	
@@ -654,7 +654,7 @@ EV_1_S00_go_jungle
 0xec3a	0x6B	Signa		Surprise	
 0xec6d	0x98	Signa		(Ha...! This damn guy...)	
 0xed0f	0x3F	Name		Girl's Voice	mp_0004 0x13851
-0xed31	0x98	NOI	#6A#0W	...W-Who's there...!?	
+0xed31	0x98	NOI	#6A#0W	...Wh-Who's there...!?	
 0xed95	0x98	NOI	#6A#0W#16S	Stay away from Master Kureha!!	
 0xedf2	0x6B	ALTO		Exclamation	
 0xee1c	0x6B	Signa		Exclamation	
@@ -676,7 +676,7 @@ EV_1_S00_go_jungle
 0xf50f	0x98	Signa	#6A	We went chasing after you,	
 				and we got here just fine.	
 0xf55d	0x06	NOI		ANI_SURPRISE	
-0xf5f9	0x98	NOI		W-Whaaat...!?	
+0xf5f9	0x98	NOI		Wh-Whaaat...!?	
 0xf623	0x98	NOI		Now that you mention it...	
 				I forgot to disconnect	
 				the transfer gate!	
@@ -707,7 +707,7 @@ EV_1_S00_go_jungle
 0xfb90	0x98	ALTO	#6A	Ahaha, that's good to hear.	
 0xfbc6	0x98	ALTO	#6A	By the way... There's a bunch	
 				of things we wanted to ask you.	
-0xfc3e	0x98	NOI		T-Things?	
+0xfc3e	0x98	NOI		Th-Things?	
 0xfc6e	0x06	ALTO		ANI_GESTURE1	
 0xfc98	0x98	ALTO	#6A	This world...	
 				Lost Heaven.	
@@ -787,7 +787,7 @@ EV_1_S00_go_jungle
 0x10ff1	0x98	Signa	#6A	It looked like some kind of machine...	
 				Is it really that important?	
 0x1105f	0x06	NOI		ANI_COMPLAIN	
-0x110a5	0x98	NOI	#16S	It so is important!	
+0x110a5	0x98	NOI	#16S	It IS that important!	
 0x11138	0x98	NOI		Now that it's gone, all of Terra's	
 				climates are screwed up, and	
 				monsters have begun to appear...	
@@ -980,7 +980,7 @@ EV_2_S01_look_around
 0x14d6c	0x6B	ALTO		Ellipsis	
 0x14e16	0x3F	Name		Cygna	
 0x14e31	0x40	ALTO	#1W	...Take care, partner.	
-0x14e80	0x40	ALTO	#0W	It's a been pretty fun	
+0x14e80	0x40	ALTO	#0W	It's been a pretty fun	
 				five years since I came	
 				to Remnant Island...		
 0x14f03	0x40	ALTO	#1W	I'll have to thank Master for	
@@ -1196,7 +1196,7 @@ EV_3_S04_meet_creha
 0x1a23c	0x06	Creha		ANI_HUG	
 0x1a276	0x06	ALTO		ANI_HUGGED	
 0x1a2f6	0xBC	ALTO		Exclamation	
-0x1a4aa	0x98	ALTO	#1W	W-What are you...!?	
+0x1a4aa	0x98	ALTO	#1W	Wh-What are you...!?	
 0x1a4f9	0x98	Creha	#0W#6A#240x#270y	You seemed to be in a lot of pain.	
 0x1a591	0x98	Creha	#1W#6A#240x#270y	I felt like doing this for you now.	
 0x1a65e	0xBC	ALTO		Ellipsis	
@@ -1365,7 +1365,7 @@ EV_4_S02_hear_algo_voice
 0x1e129	0x41	None	#0W#2E#030c	Thanks to your help.	
 				...Allow me to express	
 				my gratitude once again.#0E	
-0x1e2a4	0x40	UNDEF		After that, Nayuta and Noi brielfy 	
+0x1e2a4	0x40	UNDEF		After that, Nayuta and Noi briefly 	
 				exchanged information with Algol.	
 0x1e307	0x40	UNDEF		According to Algol, it seems there's	
 				no doubt that the masked man is Selam.	
@@ -1416,7 +1416,7 @@ EV_4_S27_talk_signa
 0x1f6e7	0xBC	ALTO		Exclamation	
 0x1f71d	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1f754	0x06	ALTO		ANI_COMPLAIN	
-0x1f77e	0x98	ALTO	#6A#16S	W-What are you saying!?	
+0x1f77e	0x98	ALTO	#6A#16S	Wh-What are you saying!?	
 0x1f7bc	0x98	ALTO	#6A	No way, are you planning to	
 				chase after Zext alone again?	
 0x1f81e	0x98	Signa	#0W	...............	mp_0001 0xc917
@@ -1485,7 +1485,7 @@ EV_8_S07_check_sleeper
 0x21749	0x6B	NOI		Exclamation	
 0x21772	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x217a1	0x06	NOI		ANI_SURPRISE	
-0x21853	0x98	ALTO	#6A	W-What's this...!?	
+0x21853	0x98	ALTO	#6A	Wh-What's this...!?	
 0x2188c	0x98	NOI	#6A	It's the voice that sent me to	
 				the surface of the planet...	
 0x218e4	0x98	ALTO	#6A	This is the voice...!?	
@@ -1615,7 +1615,7 @@ EV_8_S09_go_astrolabe
 				climate control function.
 0x23669	0x98	NOI	#6A	...There are signs of strong monsters	
 				appearing all over the place, so now	
-				would a good time to train.	
+				would be a good time to train.	
 0x236f2	0x06	ALTO		ANI_NOD	
 0x23717	0x98	ALTO		Yeah, that's right. Let's	
 				get perfectly ready before	

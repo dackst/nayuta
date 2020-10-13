@@ -84,7 +84,7 @@ quest_Algorl
 				is in the southwest part of Heimmel,	
 				near "Wind-Cutting Valley."
 0x4025	0x98	Algorl		You might wish to search 	
-				with the season set to Autumn.	
+				with the season set to autumn.	
 0x4078	0x98	Algorl		It seems the signature is considerably	
 				panicked, so you should go quickly.	
 0x41cb	0x98	Algorl		The fragments of my lost power should be	
@@ -132,19 +132,19 @@ QS_44_undertake
 0x4c81	0x06	NOI		ANI_GESTURE1	
 0x4caa	0x98	NOI	#6A	Sealed power...?	
 0x4cf3	0x98	Algorl		As you should already know, Noi...	
-				I am the most combat-oriented among us wardens.	
+				I am the most combat-oriented among us Wardens.	
 0x4d7b	0x98	Algorl		I can easily match monsters	
 				or even one of the Mythos.
 0x4df5	0x06	ALTO		ANI_THINK2	
 0x4e1d	0x98	ALTO	#6A	Certainly, even when you were sealed,	
-				I could feel tremendous powe from you.	
+				I could feel tremendous power from you.	
 0x4e8b	0x98	NOI	#6A	Algol is normally pretty tranquil,	
 				but if he gets serious, he can	
 				even blow up mountains.	
 0x4f1a	0x98	Algorl		Hmm, but...	
 				Since I was released from the seal,	
 				I've recovered only part of my power.	
-0x4f8f	0x98	Algorl		...Tt seems that Master Selam	
+0x4f8f	0x98	Algorl		...It seems that Master Selam	
 				placed a second seal on me.	
 0x4fe8	0x06	ALTO		ANI_SURPRISE	
 0x5012	0x98	ALTO	#6A	A second seal!?	
@@ -166,7 +166,7 @@ QS_44_undertake
 0x52ef	0x98	NOI	#6A	Now I'm worried that we won't	
 				be able to rely on your power	
 				to help out in times of need!
-0x536f	0x98	Algorl		I, too, delpore the current situation.	
+0x536f	0x98	Algorl		I, too, deplore the current situation.	
 0x53e7	0x98	Algorl		Now... I want your help	
 				to recover my lost power	
 				as soon as possible.	
@@ -229,7 +229,7 @@ QS_44_quest_end
 				all of my scattered power.	
 0x6448	0x06	NOI		ANI_GESTURE2	
 0x6471	0x98	NOI	#6A	Will this restore your power	
-				be back to normal nw?	
+				back to normal now?	
 0x64e7	0x98	Algorl		Hmm. Please wait a moment.	
 0x6545	0x40	UNDEF		Algol took the Colored Jewel	
 				into his body.	
@@ -261,15 +261,15 @@ QS_44_quest_end
 0x6c63	0x98	NOI	#6A	W-We did it!	
 				Algol's power	
 				is restored!	
-0x6cab	0x98	NOI	#6A	Now that Algol has his true power,	
-				we no linger have to be afraid of Zext!	
+0x6cab	0x98	NOI	#6A	Now that Algol has his true power, we	
+				have nothing to be afraid of from Zext!	
 0x6d39	0x98	Algorl		...No, it is not that simple.	
 0x6d78	0x98	Algorl		With my power, I can	
 				certainly hold him back	
 				for a short while, but..	
-0x6de5	0x98	Algorl		In the end, that would all I could do. Although	
+0x6de5	0x98	Algorl		In the end, that would be all I could do. Although	
 				the head of the Mythos may have been corrupted,	
-				he is still the creator this world of Terra.	
+				he is still the creator of this world of Terra.	
 0x6e8f	0x98	Algorl		This particular matter...	
 				It's far beyond the power of	
 				any single Warden to solve it.	
@@ -365,7 +365,7 @@ QS_54_talk_Algorl
 0x858f	0x06	NOI		ANI_NOD	
 0x85b3	0x98	NOI	#6A	Understood.	
 				We'll make the season	
-				Autumn and take a look!	
+				autumn and take a look!	
 0x8610	0x06	ALTO		ANI_JOY	
 0x8635	0x98	ALTO	#6A	Algol, thank you so much!	
 0x8673	0x06	Algorl		ANI_NOD	
@@ -499,13 +499,13 @@ quest_SpiritD
 0xa03d	0x06	SpiritD		ANI_NOD	
 0xa06d	0x98	SpiritD		...～～～...!	
 0xa09d	0x06	NOI		ANI_GESTURE2	
-0xa0de	0x98	NOI	#6A	It said it appeared during the Spring in	
+0xa0de	0x98	NOI	#6A	It said it appeared during the spring in	
 				"Heavenly Mountain," in midwestern Heimmel!	
 0xa16b	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb5ed
 				when we have time, we should proceed	
 				carefully, it says.	
 0xa1ed	0x98	NOI	#6A	It seems to have appeared during	
-				the Spring in "Heavenly Mountain,"	
+				the spring in "Heavenly Mountain,"	
 				in midwestern Heimmel!	
 0xa27b	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb6ef
 				when we have time, it wants us to proceed	
@@ -519,17 +519,16 @@ quest_SpiritD
 0xa400	0x98	SpiritD		...!	mp_1099 0xb874
 0xa490	0xC1	System		received.	mp_0000 0x12596
 0xa509	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xa538	0x98	ALTO		Ah... Is this...a	
-				thank you in advance?
+0xa538	0x98	ALTO		Oh... Is this...an advance payment?
 0xa5a7	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xa5d5	0x98	ALTO		Ahaha, you're pretty organized...	
 0xa60c	0x06	NOI		ANI_GUTSPOSE	
 0xa64d	0x98	NOI	#6A	Nayuta, let's get going to	
-				the Spring of the "Heavenly	
+				the spring of "Heavenly	
 				Mountain" right away!	
-0xa6d4	0x98	NOI	#6A	Nayuta, let's try going to	mp_3099 0xa64d
-				"Spring" of the "Sacred Mountain that	
-				Pierces Heaven" immediately!	
+0xa6d4	0x98	NOI	#6A	Nayuta, let's get going to	mp_3099 0xa64d	
+				the spring of the "Heavenly	
+				Mountain" right away!		
 0xa787	0x07	System	#3C	Quest [Sacred Mountain Spirit's Request] started!	
 0xa88b	0x06	ALTO		ANI_WAIT	
 0xa8b1	0x06	NOI		ANI_WAIT	
@@ -891,9 +890,8 @@ EV_3_S16_boss_battle
 0x126fa	0xBC	ALTO		Exclamation	
 0x12746	0x98	ALTO	#1W#16S#8M	Watch out!	
 0x1278e	0x06	b002		ANI_APPEAR2	
-0x12a69	0x98	ALTO	#1W#6A	Tch...	
-				Did Selam set this	
-				up as a trap!?	
+0x12a69	0x98	ALTO	#1W#6A	Damn... Did Selam set	
+				this up as a trap!?	
 0x12ae2	0x98	NOI	#0W#6A	Let's do this, Nayuta!	
 0x12b1f	0x06	NOI		ANI_GUTSPOSE	
 0x12b56	0x98	NOI	#0W#6A	To get the Master Gear back...	

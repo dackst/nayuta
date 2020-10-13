@@ -14,8 +14,8 @@ lp_museum
 0x2cfc	0x6B	ALTO		Unknown	
 0x2d2e	0x98	ALTO		A m-museum!?	mp_0000 0x180b8
 0x2d5a	0x98	ALTO		I'm pretty sure this is	
-				an abandonded house that	
-				no one lives in...	
+				an abandoned building	
+				that no one lives in...	
 0x2dcf	0x98	ALTO		No, there would never be any sort	
 				of museum on Remnant Island...	
 0x2e44	0x6B	ALTO		Sweatdrop	
@@ -40,8 +40,8 @@ talk_Puppis
 				up before your very eyes.		
 0x3291	0x98	Puppis		Holy smokes...	
 0x32c7	0x98	Puppis		I knew Remnant Island	
-				was strange...	
-0x3320	0x98	Puppis		I never would have though all	
+				was mysterious...	
+0x3320	0x98	Puppis		I never would have thought all	
 				this other stuff besides the	
 				ruins would rain down...	
 0x33a3	0x98	Puppis		mp_0003 0x32c7
@@ -53,15 +53,15 @@ talk_Puppis
 0x34f2	0x98	Puppis		I'm always listening to	
 				some pretty troubling	
 				news in Saint Cerise.	
-0x3555	0x98	Puppis		They say a war is brewing soon	
-				on the North Continent...	
+0x3555	0x98	Puppis		They say a war is brewing in the	
+				northern parts of the continent...	
 0x35c0	0x98	Puppis		Gunfire has been a frequent	
 				occurrence in that area for years... 
 				What a sorry state of affairs. 	
 0x364c	0x98	Puppis		mp_0003 0x3555	
-0x36b7	0x98	Puppis		I kinda envy you islanders,	
-				living out here all on your own,	
-				peacefull, on this small island...	
+0x36b7	0x98	Puppis		I kinda envy you islanders, living	
+				a peaceful life out here all on	
+				your own on this small island...	
 0x375f	0x98	Puppis		...Don't worry about Crux.	
 				It was only a matter of time	
 				before this problem would arise.
@@ -71,9 +71,9 @@ talk_Puppis
 				sister's feeling better now.	
 0x38f6	0x98	Puppis		I was surprised to hear that	
 				her Hell Fever was cured.	
-0x3947	0x98	Puppis		Though I'm sure it was the meds,	
-				it just goes to show that your	
-				sister's a tough woman.	
+0x3947	0x98	Puppis		It just goes to show that your	
+				sister's a tough woman. Though	
+				I'm sure the meds helped too.	
 0x39f1	0x98	Puppis		There's an old sailor's	
 				tale about Hell Fever.	
 0x3a53	0x98	Puppis		If you keep sailing far out into	
@@ -90,13 +90,13 @@ talk_Puppis
 				end up at the End of the World.	
 0x3c31	0x98	Puppis		But because of that huge storm,	
 				nobody has ever seen the true End.	
-0x3ce8	0x98	Puppis		Just when I was about	
-				to set sail, a ruin falls?	
+0x3ce8	0x98	Puppis		Just when I was about to	
+				set sail, a ruin fell?	
 0x3d3b	0x98	Puppis		Maybe it's just because of	
 				how large it was, but it	
 				looked like it fell nearby.	
 0x3d94	0x98	Puppis		Even though it happens several	
-				times a year in the coast	
+				times every year in the waters	
 				around Remnant Island...	
 0x3e0c	0x98	Puppis		It was pretty scary this time around.	
 0x3e84	0x98	Puppis		That damn thing that fell... Even though	
@@ -156,8 +156,8 @@ talk_Crux
 				Or should I say,	
 				I'm cold...	
 0x49ae	0x98	Crux		There's no way this should	
-				be happening in middle of	
-				the Ciencia Sea...	
+				be happening in the middle	
+				of the Ciencia Sea...	
 				...Brr! Seriously, what's going on!?	
 0x4a4c	0x98	Crux		The ship is leaving soon, so we've	
 				got to load up the passengers.	
@@ -175,30 +175,30 @@ talk_Crux
 				waters and sun become pitch black. You	
 				can't even tell which way is up...	
 0x4d64	0x98	Puppis		Next time you fall overboard,	
-				looks like it'll be the end of	
-				the line for you, eh, Crux?	
+				it looks like it'll be the end	
+				of the line for you, eh, Crux?	
 0x4dc7	0x98	Crux		Huuuuuh!?	
 				Don't s-scare	
 				me like that!	
 0x4e44	0x6B	Crux		Sweatdrop	
-0x4e76	0x98	Crux		It might be a dangerous	
+0x4e76	0x98	Crux		It might be dangerous	
 				that I can't swim...	
 0x4ec4	0x98	Crux		...I at least need to	
 				practice floating...	
 0x4f0f	0x6B	ALTO		Sweatdrop	
-0x4f91	0x98	Crux		*cough, cough*...	
+0x4f91	0x98	Crux		*cough*, *cough*...	
 				I got scared earlier and	
-				and fell into the water.	
+				fell into the water.	
 0x4fed	0x98	Crux		If it weren't for the captain's help,	
 				I don't know what would've happened...	
-				Ooh, I'll follow you forever, Captian!	
+				Ooh, I'll follow you forever, Captain!	
 0x5086	0x98	Puppis		...Crux, quit being a fool	
 				and learn to swim already.	
 0x50e3	0x6B	ALTO		Sweatdrop	
-0x5157	0x98	Crux		*cough, cough*...	
+0x5157	0x98	Crux		*cough*, *cough*...	
 				If it weren't for the captain's help,	
 				I don't know what would've happened...	
-0x51cc	0x98	Crux		Maybe I should practicing	
+0x51cc	0x98	Crux		Maybe I should practice	
 				swimming more seriously.	
 0x5245	0x98	Puppis		...Crux, I won't be	
 				helping you out next	
@@ -207,14 +207,14 @@ talk_Crux
 0x52c6	0x98	Crux		Huuuh!? I knew it,	
 				I need to practice!!	
 0x5360	0x98	Crux		Tch, you're a lucky guy...	
-0x5399	0x98	ALTO		W-What's wrong, Crux?	
+0x5399	0x98	ALTO		Wh-What's wrong, Crux?	
 0x53de	0x98	Crux		I mean, you're on summer	
 				vacation now, right?	
-0x5438	0x98	Crux		Aren't you ready to fully enjoy your	
+0x5438	0x98	Crux		Don't you get to fully enjoy your	
 				youth with your beautiful sister	
 				and childhood friend?	
-0x54aa	0x98	Crux		Meanwhile, I get to look forward to a 	
-				voyage on a filthy ship with the captain.	
+0x54aa	0x98	Crux		Meanwhile, all I get to look forward to is 	
+				a voyage on a filthy ship with the captain.	
 				It's a little unfair, isn't it?	
 0x552b	0x6B	ALTO		Sweatdrop	
 0x55a3	0x98	Puppis		...Crux, if you want to leave this	
@@ -234,7 +234,7 @@ talk_Crux
 				the captain will yell at us.	
 talk_Camelope
 0x598f	0x98	Camelope		...This is the Remnant	
-				Island she's moved to?
+				Island where she lives?
 				Oh my, how pitiful...	
 0x59e0	0x98	Camelope		That one of the esteemed House	
 				of Camelope would run away and hide	
@@ -288,10 +288,10 @@ talk_Axe
 0x644e	0x98	Axe		As if a man of the sea would	
 				lose against some cold, dammit.	
 0x650a	0x98	Axe		Huh, Eartha...?	
-				I'm worried about here...	
-0x6553	0x98	Axe		So, you and Signa are out	
+				I'm worried about her...	
+0x6553	0x98	Axe		So, you and Cygna are out	
 				looking for herbs...?	
-0x65ad	0x98	Axe		W-What? Cygna doesn't go with you?	
+0x65ad	0x98	Axe		Wh-What? Cygna doesn't go with you?	
 0x65e9	0x98	Axe		I don't really understand,	
 				but good luck, anyway.	
 				I'll go and visit her later.	
@@ -345,20 +345,20 @@ talk_Carina
 0x6f34	0x98	Carina		Oh, Nayuta. Thanks for playing	
 				with Collie the other day.	
 0x6f90	0x98	Carina		You're a lifesaver.	
-0x6fcc	0x98	ALTO		Haha, no problem.	
+0x6fcc	0x98	ALTO		Ha, no problem.	
 0x700d	0x98	ALTO		It's been a while since you could	
 				go on a date with Axe on his boat.	
 				Did you have a good time?	
-0x7081	0x98	Carina		Hehe, it kind of reminded me	
+0x7081	0x98	Carina		Hehe, it kinda reminded me	
 				of when we were newlyweds.	
-0x70d3	0x98	Carina		Now then, starting today I've	
-				got to start having fun with	
-				these troublesome children again.	
-0x717a	0x98	Carina		Nayuta, thanks for playing with	
-				with Collie the other day.	
-0x71de	0x98	Carina		Starting today I've got to	
-				start having fun with these	
+0x70d3	0x98	Carina		Now then, I've got to start	
+				having fun with these	
 				troublesome children again.	
+0x717a	0x98	Carina		Nayuta, thanks for playing	
+				with Collie the other day.	
+0x71de	0x98	Carina		Now I've got to start having	
+				fun with these troublesome	
+				children again.	
 0x7289	0x98	Carina		Axe WAS out catching fish...	
 				The weather became strange, so	
 				he returned earlier than usual.	
@@ -368,7 +368,7 @@ talk_Carina
 0x73a4	0x98	Carina		I've got to go check on Vel	
 				and Collie with this weather.	
 0x73fa	0x98	Carina		Hopefully they don't get	
-				sick from to this cold...	
+				sick from this cold...	
 0x7490	0x98	Carina		We've been talking about holding	
 				a feast tonight to celebrate	
 				Eartha's complete recovery.	
@@ -395,12 +395,12 @@ talk_Carina
 0x7974	0x98	Carina		Nayuta, if you have time,	
 				please play with Vel.	
 0x79f1	0x98	Carina		Vel must feel lonely since	
-				we are busy looking after	
+				we're busy looking after	
 				Collie all the time.	
 0x7a59	0x98	Carina		mp_0003 0x7974
 0x7ae6	0x98	Carina		When Axe was out fishing,	
 				that HUGE ruin fell down...	
-				It gave me a chill.	
+				It gave me a fright.	
 0x7b54	0x98	Carina		Hehe, but I'm glad he came	
 				home in one piece.! ㈱	
 				Family safety is first.	
@@ -411,22 +411,22 @@ talk_Carina
 				greeting Axe?	
 0x7d0a	0x98	ALTO		Yeah, just now.	
 0x7d39	0x98	ALTO		Speaking of that, that baby...	
-				She was born while we	
-				were gone, wasn't she?	
+				He was born while we	
+				were gone, wasn't he?	
 0x7d9f	0x98	Carina		Hehe, that's right.	
-				Her name is Collie.	
+				His name is Collie.	
 0x7e09	0x98	Carina		Now, Collie.	
-				Say hi to your big	
-				brother Nayuta?	
+				Say hi to Nayuta	
+				for me, okay?	
 0x7e5e	0x98	baby		Abubu.	
-0x7e84	0x98	ALTO		Ahaha, she's so cute. ♪	
+0x7e84	0x98	ALTO		Ahaha, he's so cute. ♪	
 0x7eba	0x98	ALTO		I'm sure it was difficult when you	
-				were pregnant, but she must be even	
-				more work now that she's born, huh?	
+				were pregnant, but he must be even	
+				more work now that he's born, huh?	
 0x7f72	0x98	ALTO		Don't hesitate to call the Handyman Shop	
 				if you need help with anything.	
-0x7fe7	0x98	Carina		Heheh, then when that time comes,	
-				I'll be sure ask for your help, then.	
+0x7fe7	0x98	Carina		Heheh, then when that time comes, I'll	
+				be sure to ask for your help, then.	
 0x807a	0x98	Carina		My husband Axe left on	
 				a fishing trip just now.	
 0x80c6	0x98	Carina		I'm sure he'll be back soon.	
@@ -463,26 +463,25 @@ talk_Bell
 0x8754	0x98	Bell		...At times like this, big brother	
 				Cygna would always play with me...	
 0x87e7	0x98	Bell		...Vel won't cry.	
-0x8818	0x98	Bell		Right, big sister Lyra is	
-				looking after Collie for me.	
-				I gotta to see her later!	
+0x8818	0x98	Bell		Right, Lyra is looking	
+				after Collie for me.	
+				I gotta see her later!	
 0x88be	0x98	Bell		Ehehe. Today, Vel will	
 				be taking care of Collie.	
 0x890b	0x98	ALTO		Oh, is that so...?	
 				Heh, that doesn't
 				sound good.	
 0x894b	0x98	Bell		Hmph, I don't care what you
-				say! I'm Collie's big sis!	
+				think! I'm Collie's big sis!	
 0x89be	0x98	Bell		Hey, Collie, something's floating	
-				from under the sea~. And I just	
-				wonder what it could be~?	
-				the sea?	
+				up from under the sea~. And I just	
+				wonder what it could be~?		
 0x8a1f	0x98	baby		Bubbu.	
 0x8a46	0x6B	Bell		Unknown	
 0x8a78	0x98	Bell		Yes, correct!!	
 				That's absolutely correct!!	
 0x8ad1	0x98	ALTO		(Hmm, a long time ago, I remember	
-				 Cygna used to take care of Vel...)	
+				 Cygna used to do this for Vel...)	
 0x8b7e	0x98	Bell		Hey, Collie, what's that stuff	
 				drying out in front of our house?	
 0x8bd7	0x98	Bell		Too bad, time's up!	
@@ -502,14 +501,14 @@ talk_Collie
 0x8e9e	0x98	ALTO		W-Well, I can't	
 				just give you Noi.	
 talk_Hydol
-0x8f4e	0x98	Hydol		W-What in the world is this...?	
-				What is happening?	
+0x8f4e	0x98	Hydol		Wh-What is this...?	
+				What's happening?	
 0x8f9f	0x98	Hydol		It seems that "snow" is falling.	
 				I've never seen it before....
 0x902e	0x98	Hydol		Hmm... Furthermore, it feels	
 				as if it's getting colder.	
 0x907e	0x98	Hydol		Will the ship leave in these conditions?	
-				I'm getting worried...	
+				I'm getting concerned...	
 0x9120	0x98	Hydol		Hey, Nayuta.	
 0x914d	0x98	Hydol		Now that I've confirmed Eartha's	
 				complete recovery, it's about time	
@@ -520,17 +519,18 @@ talk_Hydol
 0x9282	0x98	Hydol		Though there's still some time until we	
 				set sail, I've got to sort out my medical	
 				charts, so I'll be boarding ahead of time.	
-0x9311	0x98	Hydol		Though I'd like to live at a leisurely pace	
-				here awhile longer, work won't wait.	
+0x9311	0x98	Hydol		Though I'd like to live life at	
+				a leisurely pace here awhile	
+				longer, work won't wait.	
 talk_Mensa
-0x93f2	0x98	Mensa		...Are you sure that	
-				"he" is here?	
+0x93f2	0x98	Mensa		...Are you sure	
+				that he's here?	
 0x9440	0x98	Ophiuchus		The information was from a reliable source...	
-				There's no reason to suggest that is was wrong.	
-0x94ba	0x98	Mensa		...Phew, we're	
-				finally on his tail.	
+				There's no reason to suggest it was wrong.	
+0x94ba	0x98	Mensa		...Phew, we're finally	
+				on his tail.	
 0x9507	0x98	Mensa		...Let's go find him.	
-0x9585	0x98	Mensa		We've search the entire	
+0x9585	0x98	Mensa		We've scoured the entire	
 				Ciencia Sea for him...	
 0x95d4	0x98	Mensa		...Phew, we can finally	mp_0003 0x94ba
 				grab him by the tail.	
@@ -549,7 +549,7 @@ talk_Ophiuchus
 talk_Antlia
 0x989c	0x98	Antlia		I've heard about "snow" many times	
 				from my trader associates.	
-0x98fa	0x98	Antlia		In the North sea, the snow blocks	
+0x98fa	0x98	Antlia		In the northern sea, the snow blocks	
 				visibility and makes it impossible	
 				to navigate the sea properly....	
 0x9977	0x98	Antlia		Never had I thought that I would	
@@ -589,16 +589,17 @@ talk_Ursaminor_Reticul
 0xa0db	0x3F	Name		Youth with Rucksack	
 0xa0f6	0x98	Cetus		Rumors say Remnant Island was	
 				at the center of the recent	
-				meteorological anomolies.	
+				meteorological anomalies.	
 0xa165	0x98	Cetus		We heard the rumors and	
 				came running, but...uh,	
 				we're a little late.	
-0xa1da	0x98	Ursaminor		You two...*sob*...	
-				I'm glad you're safe...	
+0xa1da	0x98	Ursaminor		You two... *sniff*...	
+				I'm so glad you're safe...	
 0xa228	0x6B	Reticul		Unknown	
 0xa265	0x3F	Name		Spirited Girl	mp_0003 0x9ffb
 0xa27a	0x98	Reticul		S-Stupid Ursamina...	
-				Don't start crying now!	
+				Don't start crying in	
+				the middle of the street!	
 talk_Ursaminor_Reticul2
 0xa2f7	0x98	Ursaminor		You two...*sob*...	mp_0003 0xa1da
 				Thank goodness you're all right...	
@@ -614,9 +615,9 @@ talk_Ursaminor_Reticul2
 talk_Vavo
 0xa4f0	0x98	Vavo		There is a legend that across	
 				from the End of the World is	
-				a neverending "Hell."	
-0xa55f	0x98	Vavo		Since it mainly only affects the North	
-				Continent, which is close to the End, the	
+				a never ending "Hell."	
+0xa55f	0x98	Vavo		Since it mainly only affects the northern reaches	
+				of the continent, which is close to the End, the	
 				disease was named "Hell Fever," but...	
 0xa5f0	0x98	Vavo		...As a matter of fact, there have been	
 				recent reports that the "End" has been	
@@ -654,9 +655,9 @@ talk_Creha
 				you're trying to help babysit?	
 0xabc3	0x98	Creha		Yes... I am taking	
 				care of the baby.	
-0xac05	0x98	Creha		...She's so warm...	
-0xac3a	0x98	Creha		Just holding her like this,	
-				it feels like I'm holdingq
+0xac05	0x98	Creha		...He's so warm...	
+0xac3a	0x98	Creha		Just holding him like this,	
+				it feels like I'm holding
 				something very precious...	
 0xac97	0x6B	ALTO		Ellipsis	
 0xacc9	0x98	Lyra		A-Ahem...	
@@ -673,7 +674,7 @@ talk_Creha
 0xae9b	0x98	Creha		Babies are strange...	
 0xaed1	0x98	Creha		Just by being like this,	
 				I get a strange feeling...	
-0xaf1b	0x98	ALTO		(Kureha seems to looking more	
+0xaf1b	0x98	ALTO		(Kureha seems to be looking more	
 				 beautiful than usual somehow...)	
 0xaf6f	0x98	ALTO		(I-It must be my imagination.)	
 talk_Gull
@@ -719,12 +720,12 @@ talk_Cetus
 0xb757	0x98	ALTO		Cetus...! It's been a while.	
 0xb78e	0x98	ALTO		I heard that you've been traveling	
 				the world with Reticul since then.	
-0xb801	0x98	Cetus		Yeah, we've traveled throughout the
-				Ciencia Sea, the North Continent,	
-				and the Eastern Isles.	
-0xb869	0x98	Cetus		Reticul's become an bona fide adventurer.	
-				Though she still acts the same as	
-				ever, she's gained some skill.	
+0xb801	0x98	Cetus		Yeah, we've traveled all throughout	
+				the Ciencia Sea, the northern continent,	
+				and the eastern islands.	
+0xb869	0x98	Cetus		Reticul's become a bona fide adventurer.	
+				Though she still acts the same as ever,	
+				she's gained some skills.	
 0xb8f6	0x98	NOI		An adventurer, huh...?	
 				I would love that.	
 0xb936	0x98	Cetus		Haha, if you'd like, you	
@@ -733,14 +734,14 @@ talk_Cetus
 0xb996	0x98	Cetus		I'm sure you two would	
 				make great adventurers.	
 0xba46	0x98	Cetus		After enjoying this break on	
-				Remnant Island,	I'm thinking of	
+				Remnant Island, I'm thinking of	
 				heading beyond the End of the World...	
-0xbac0	0x98	Cetus		What appeared beyond the the End of	
-				the World... Nothing else could tickle	
-				an adventurer's fancy more than that.	
+0xbac0	0x98	Cetus		What appeared beyond the End of	
+				the World...? Nothing could tickle	
+				an adventurer's fancy more.	
 0xbb42	0x98	Cetus		Why don't you try becoming	
-				an adventurer one day, Nayuta?
-				I think it might suit you.	
+				an adventurer too one day,	
+				Nayuta? It might suit you.	
 0xbbd7	0x98	Cetus		The thing that appeared "after"	mp_0003 0xbac0
 				"The End of the World"...Nothing tickles	
 				my adventurer spirit more.	
@@ -753,9 +754,9 @@ talk_Reticul
 0xbe1e	0x98	Reticul		Heheh, but I'm just getting started.	
 				The more adventures we have, the more	
 				questions I get, you know?	
-0xbea4	0x98	Reticul		Jeez, such a huge the world we live in.	
+0xbea4	0x98	Reticul		Jeez, it's a huge world out there.	
 				My adventurer's blood is tingling!	
-0xbf39	0x98	Reticul		Lately, Cetus and I have become a	
+0xbf39	0x98	Reticul		Lately, Cetus and I have become	
 				quite the famous adventurer duo.	
 0xbfa1	0x98	Reticul		Hehe, I brought a lot of treasures too.	
 				I think I'll brag about it to Father.	
@@ -775,9 +776,9 @@ talk_Aquela
 				quite interesting...	
 				This is my thanks to you.	
 0xc36a	0x07	System	#4C	If you use the star shard observation	
-				machine	in your room, you can see the	
+				machine in your room, you can see the	
 				image inside your new star shard.	
-0xc458	0x98	Aquela		Heheh...I see you found the girl.	
+0xc458	0x98	Aquela		Heheh... I see you found the girl.	
 0xc48e	0x98	Aquela		It seems that there was	
 				value in my fortune-telling.	
 0xc4de	0x98	ALTO		(Well, now that I think about it,	
@@ -800,10 +801,10 @@ talk_Aquela
 0xc854	0x98	Aquela		I can only hope that it will	
 				not bring forth disaster.		
 0xc8d3	0x98	Aquela		For the past few years, climate	
-				anomolies have been observed in	
+				anomalies have been observed in	
 				the remote boundaries of the world.
-0xc93f	0x98	Aquela		In divinations suggest that	
-				these anomolies will soon spread	
+0xc93f	0x98	Aquela		My divinations suggest that	
+				these anomalies will soon spread	
 				all throughout the world.	
 0xc9b3	0x98	Aquela		Distortions have accumulated	
 				in this world over the years...	
@@ -817,7 +818,7 @@ talk_Aquela
 0xcbcc	0x98	Aquela		Soon, the Ciencia Sea will	
 				witness an even greater test...	
 0xcc2e	0x98	Aquela		The reality everyone has pretended not	
-				notice will fall unto all those who	
+				to notice will fall unto all those who	
 				live in these waters...	
 0xcca6	0x98	Aquela		Your sister's illness may have	
 				been an omen... Brace yourself.	
@@ -898,7 +899,7 @@ QS_41_ask_Aquela
 0xe1ea	0x98	Aquela		2000 mira.	
 0xe21b	0x6B	ALTO		Sweatdrop	
 0xe24d	0x06	ALTO		ANI_THINK	
-0xe274	0x98	ALTO	#6A	(T-That's quite a bit...)	
+0xe274	0x98	ALTO	#6A	(Th-That's quite a bit...)	
 0xe2b0	0x06	Aquela		ANI_WAIT2	
 0xe2d9	0x98	Aquela		Heheh, what to choose?	
 				I do not mind either way.	
@@ -948,8 +949,8 @@ QS_41_fortunetelling
 0xeecc	0x06	ALTO		ANI_COMPLAIN	
 0xeef6	0x98	ALTO	#6A	C-Could she have been kidnapped	
 				and taken off the island?	
-0xef7d	0x98	Aquela		No, I do not getting those	
-				kinds of dark predictions.	
+0xef7d	0x98	Aquela		No, I am not getting those	
+				kinds of dark premonitions.	
 0xefd0	0x98	Aquela		She seems more...confused,	
 				and unsure of where she is.		
 0xf037	0x98	Aquela		mp_0003 0xdabb
@@ -998,16 +999,16 @@ QS_34_quest_start
 0xfad9	0x06	Norma		ANI_WAIT2	
 0xfb01	0x98	Norma	#6A	Oh, thank you so much!	
 0xfb3b	0x06	Norma		ANI_COMPLAIN	
-0xfb66	0x98	Norma	#6A	I can't believe you would deem it fit	
-				to respond the request of a lowly outsider	
-				such as myself... I'm so honored!	
+0xfb66	0x98	Norma	#6A	I can't believe you would deem it fit to	
+				respond to the request of a lowly outsider	
+				such as myself... I am quite honored!	
 0xfbd6	0x06	ALTO		ANI_LAUGH	
 0xfbfd	0x98	ALTO		Ahaha, you don't have	
 				to be so stiff.	
 0xfc41	0x06	Norma		ANI_WAIT0	
 0xfc69	0x98	Norma	#6A	S-Sorry...	
-				This is how I am	
-				if I can't calm down.	
+				This is how I am if	
+				I can't calm down.	
 0xfcbd	0x06	Norma		ANI_GESTURE1	
 0xfce8	0x98	Norma	#6A	Umm, may I speak to you about	
 				the request right away?	
@@ -1019,22 +1020,22 @@ QS_34_quest_start
 0xfe76	0x36	Choice		[Listen to the Request]	
 0xfe98	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0xff37	0x06	ALTO		ANI_GESTURE2	
-0xff61	0x98	ALTO		Sorry, now is not a good time...	
+0xff61	0x98	ALTO		Sorry, now's not a good time...	
 				I have something else to do.	
 0xffba	0x06	Norma		ANI_DEJECTED	
 0xffe5	0x98	Norma	#6A	I-Is that so...?	
 				I'm sorry to hear that...	
-0x10027	0x98	Norma	#6A	If the next time your handsare free,	
-				please contact on me again.	
+0x10027	0x98	Norma	#6A	The next time your hands are	
+				free, please contact me again.	
 QS_34_undertake
 0x1010c	0x06	ALTO		ANI_NOD	
-0x10131	0x98	ALTO		Yes, I look forward to working with you.	
+0x10131	0x98	ALTO		Yes, let's hear it.	
 0x10179	0x06	Norma		ANI_WAIT2	
 0x101a1	0x98	Norma	#6A	Thank you very much.	
 				Ahem, then...	
 0x101e6	0x06	Norma		ANI_TALK3	
 0x1020e	0x98	Norma	#6A	The task I require is regarding a	
-				complex family fued within the House	
+				complex family feud within the House	
 				of Camelope, of which I am of service.		
 0x10286	0x98	Norma	#6A	...It concerns the head of the	
 				House, Mistress Camelope, and	
@@ -1043,36 +1044,36 @@ QS_34_undertake
 0x1034b	0x06	ALTO		ANI_THINK	
 0x10372	0x98	ALTO		L-Lady Sasha...?	
 0x103a2	0x06	ALTO		ANI_GESTURE1	
-0x103cc	0x98	ALTO		Are you be talking about the	
-				Sasha from the general store?	
+0x103cc	0x98	ALTO		Are you talking about the Sasha	
+				from the general store?	
 0x1042f	0x06	Norma		ANI_NOD	
 0x10455	0x98	Norma	#6A	Yes, that is correct.	
 0x1048c	0x06	Norma		ANI_GESTURE2	
-0x104b7	0x98	Norma	#6A	Lady Sasha is the rightful daughter of	
-				the House of Camelope, one of the most	
-				prominent noble families on the continent.	
+0x104b7	0x98	Norma	#6A	Lady Sasha is the rightful daughter of the	
+				House of Camelope, one of the most prominent	
+				noble families on the continent.	
 0x1053d	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x1056c	0x98	ALTO		Oh, wow. I knew she was	
-				from the continent, but...	
+0x1056c	0x98	ALTO		Oh, wow. I knew she was from	
+				the continent, but...	
 0x105c3	0x06	ALTO		ANI_THINK2	
-0x105eb	0x98	ALTO		...Now that you mention	
-				it, Sasha never talked
+0x105eb	0x98	ALTO		...Now that you mention it,	
+				Sasha never really talks
 				much about her past.	
 0x1064e	0x06	ALTO		ANI_WAIT	
 0x10674	0x98	ALTO		Why did she even end up coming	
 				to this remote island?	
 0x106cc	0x06	Norma		ANI_TALK	
-0x106f3	0x98	Norma	#6A	...The main reason for this was the	
-				fued with Mistress I mentioned earlier.	
+0x106f3	0x98	Norma	#6A	...The main reason was the feud	
+				with Mistress I mentioned earlier.	
 0x10765	0x98	Norma	#6A	As the only child, Milady was trained	
-				since she was young to assume the role	
+				since her birth to assume the role	
 				of the next head of the family.  	
 0x1080f	0x98	Norma	#6A	The Mistress would have loved	
 				nothing more than for her to grow	
 				into a proper noblewoman, but...	
 0x10893	0x06	Norma		ANI_WAIT0	
-0x108bb	0x98	Norma	#6A	She was very demanding, so I felt	
-				as though Milady was always unhappy.	
+0x108bb	0x98	Norma	#6A	She was very strict, so I felt as	
+				though Milady was always unhappy.	
 0x1092a	0x6B	ALTO		Sweatdrop	
 0x1095c	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x1098a	0x98	ALTO		I-I feel like this is all	
@@ -1084,7 +1085,7 @@ QS_34_undertake
 0x10a89	0x98	Norma	#6A	Anyway, after being raised in such conditions,	
 				Milady seemed to have developed a desire to
 				live a more free-spirited and carefree life.	
-0x10b12	0x98	Norma	#6A	And, so on the day she turned 18...	
+0x10b12	0x98	Norma	#6A	And so, on the day she turned 18...	
 				Milady finally escaped from the mansion.	
 0x10b7d	0x06	ALTO		ANI_GESTURE1	
 0x10ba7	0x98	ALTO		I see...	mp_0001 0xcecd
@@ -1098,11 +1099,11 @@ QS_34_undertake
 0x10d15	0x98	Norma	#6A	And she's finally managed to track	
 				down Milady running the general	
 				store on Remnant Island...	
-0x10d95	0x98	Norma	#6A	Despite their long time apart,	
-				the two of them ended up quarreling	
-				and could not reconcile.	
-0x10e25	0x98	Norma	#6A	And thus, I decided to submit a request to	
-				the popular Handyman Shop on this island.	
+0x10d95	0x98	Norma	#6A	Despite their long time apart, the two	
+				of them still ended up quarreling and	
+				could not reconcile.	
+0x10e25	0x98	Norma	#6A	And thus, I decided to submit a request	
+				to this island's popular Handyman Shop.	
 0x10ea5	0x06	Norma		ANI_WAIT0	
 0x10ecd	0x06	ALTO		ANI_NOD	
 0x10ef2	0x98	ALTO		I see what happened.	
@@ -1113,29 +1114,28 @@ QS_34_undertake
 0x10fe7	0x06	Norma		ANI_WAIT2	
 0x1100f	0x98	Norma	#6A	...Can you grant my request?	
 0x1104f	0x06	ALTO		ANI_GESTURE2	
-0x11079	0x98	ALTO		It might be difficult, but...	
+0x11079	0x98	ALTO		It won't be easy, but...	
 				I'll try to do as much as I can.	
-0x110da	0x98	ALTO		(I mean, it's like to future of a great noble	
+0x110da	0x98	ALTO		(I mean, it's like the future of a great noble	
 				 family is at stake. This might be the biggest	
 				 job we've had since starting the Handyman Shop...)	
 0x11186	0x06	ALTO		ANI_THINK2	
-0x111ae	0x98	ALTO		Umm, then, it might be a good idea to try	
+0x111ae	0x98	ALTO		Umm, well, it might be a good idea to try	
 				talking to them individually first before	
 				trying to figure out a resolution.	
 0x11232	0x06	ALTO		ANI_WAIT	
 0x11258	0x06	Norma		ANI_WAIT4	
-0x11280	0x98	Norma	#6A	You're right...	
-				Rather than someone involved like me,	
-				they might be more willing to open up	
-				to you as a third party.	
+0x11280	0x98	Norma	#6A	You're right... Rather than someone like me	
+				who's already involved, they might be more	
+				willing to open up to you as a third party.	
 0x11308	0x98	Norma	#6A	mp_0003 0xd510
 0x1139e	0x06	Norma		ANI_WAIT0	
 0x113c6	0x98	Norma	#6A	mp_0003 0xd5f8
 0x1142e	0x06	ALTO		ANI_THANKS	
-0x11456	0x98	ALTO		Yes, leave it to me.	
+0x11456	0x98	ALTO		Yeah, leave it to me.	
 0x1148a	0x98	ALTO		(The general store and a room at the inn...	
-				 Anyway, I'll try asking.)	
-0x1152b	0x07	System	#3C	Quest [Employer Arbitrage] started!	
+				 Anyway, let's try asking them.)	
+0x1152b	0x07	System	#3C	Quest [Employer Arbitration] started!	
 QS_34_report_back
 0x117ba	0x98	Norma	#6A	Ah, Master Nayuta.	
 0x11806	0x98	Norma	#6A	How did it go with	
@@ -1150,8 +1150,8 @@ QS_34_report_back
 0x11985	0x40	UNDEF		Nayuta explained that Sasha and Ms. Camelope	
 				each had a desire to reconcile, but neither	
 				could manage to be honest with one another.
-0x11a1e	0x40	UNDEF		Nayuta then explained that the Byakuda Tree	
-				he obtained could help them relax.	
+0x11a1e	0x40	UNDEF		Nayuta then explained that the fragrance from the	
+				sandalwood tree he obtained could help them relax.	
 0x11a81	0x06	Norma		ANI_SURPRISE	
 0x11aac	0x98	Norma	#6A	Oh, so that means...	
 0x11ae4	0x06	ALTO		ANI_NOD	
@@ -1159,7 +1159,7 @@ QS_34_report_back
 				should be able to sit down and	
 				have a long conversation.	
 0x11b80	0x06	ALTO		ANI_GESTURE2	
-0x11baa	0x98	ALTO		I'll shave this tree now	
+0x11baa	0x98	ALTO		I'll shave this branch now	
 				and make some incense.	
 0x11bf3	0x98	ALTO		In the meantime, Norma,	
 				could you set up a meeting	
@@ -1178,11 +1178,11 @@ QS_41_ask_captain
 0x11fe1	0x40	UNDEF		Nayuta told Captain Puppis about the missing Equlea.	
 0x12036	0x06	Puppis		ANI_NOD	
 0x1205d	0x98	Puppis		Oh, the daughter of those Imperial nobles, was it?	
-				She did came by here a little while ago.	
+				She did come by here a little while ago.	
 0x120da	0x06	Puppis		ANI_WAIT0	
 0x12103	0x98	Puppis		I don't know why, but she was shouting,	
 				"Hurry up and launch the ship!" and	
-				generally making a lot of noise.	
+				generally making a bunch of noise.	
 0x1216d	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1219c	0x98	ALTO	#6A	L-Launch the ship?	
 0x121d2	0x06	Puppis		ANI_GESTURE2	
@@ -1190,8 +1190,8 @@ QS_41_ask_captain
 				I understand that she was actually	
 				trying to run away from home.	
 0x12291	0x06	Puppis		ANI_WAIT3	
-0x122ba	0x98	Puppis		Well, of course, I wasn't going to listen	
-				to her, and tried to shove her off...	
+0x122ba	0x98	Puppis		Well, of course I wasn't going to listen	
+				to her, so I tried to shove her off...	
 0x1235a	0x98	Puppis		But she ran away, and Crux was	
 				pushed into the sea instead.	
 0x123e5	0x98	Crux	#6A	*huff*, *huff*...	mp_0003 0x4b42
@@ -1207,7 +1207,7 @@ QS_41_ask_captain
 0x125a5	0x98	ALTO	#6A	(Seems like Equlea	
 				 is a bit of a tomboy.)	
 0x125f8	0x98	ALTO	#6A	(I was told she was quiet and	
-				 well-mannered though...)	
+				 mild-mannered though...)	
 0x126a2	0x06	Puppis		ANI_GESTURE1	
 0x126ce	0x98	Puppis		Leaving that matter aside...	
 				That Equlea girl walked	
@@ -1262,10 +1262,10 @@ tuto_museum
 0x137f4	0x98	ALTO		(Sure enough, "Museum"	
 				 is written out there...)	
 0x1383f	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x1386d	0x98	ALTO		Haha, there's no way...right?	
+0x1386d	0x98	ALTO		Haha, there's no way... Right?	
 0x138ae	0x06	ALTO		ANI_THINK	
 0x138d5	0x98	ALTO		(I'm pretty sure no one lives	
-				 in that abandonded house...)	
+				 in that abandoned building...)	
 0x1392e	0x98	ALTO		(Who were those people? I haven't seen	
 				 people dressed like that around before...)	
 tuto_museum_force2
@@ -1309,16 +1309,16 @@ SB_4_S09_appear_Lyra
 SB_4_S09_move_Lyra
 EV_4_S09_creha_scene_3rd
 0x1576e	0x06	Sculp		ANI_GESTURE2	
-0x15799	0x98	Sculp	#6A	Woow～, thanks for	
+0x15799	0x98	Sculp	#6A	Wow～, thanks for	
 				the help, miss.	
 0x157e2	0x06	Sculp		ANI_NOD	
 0x15808	0x98	Sculp	#6A	See, girls are so much more polite.	
-				...But wasn't it difficult for you?	
+				...But wasn't that difficult for you?	
 0x1587d	0x06	Creha		ANI_DENY	
 0x15940	0x98	Creha		No... It was fun, really.	
 0x15989	0x06	Sculp		ANI_LAUGH	
 0x159b1	0x98	Sculp	#6A	Haha, you've got quite a	
-				lot of spirit, don't you?	
+				lot of spirit, haven't ya?	
 0x15a06	0x06	Sculp		ANI_GESTURE1	
 0x15a31	0x98	Sculp	#6A	If you'd like, do you want to	
 				come to my house for dinner?	
@@ -1352,9 +1352,9 @@ EV_4_S09_creha_scene_3rd
 				helping out around the village...	
 0x16962	0x06	Lyra		ANI_SURPRISE	
 0x1699a	0x98	Lyra	#0W#6A	...Don't tell me you're	
-				planning a wedding together!?	
+				planning to get married!?	
 0x169ff	0x06	Creha		ANI_THINK	
-0x16a7b	0x98	Creha	#0W	...A..."wedding"...?	
+0x16a7b	0x98	Creha	#0W	..."Mare...reed"...?	
 0x16abb	0x06	Lyra		ANI_DENY	
 0x16aef	0x98	Lyra	#0W#6A	W-Well, glad that's	
 				not the case.	
@@ -1388,8 +1388,8 @@ EV_4_S09_creha_scene_3rd
 0x173a6	0x98	Creha	#0W	......(*stare*)	
 0x173e1	0x6B	Lyra		Surprise	
 0x17438	0x98	Lyra	#1W#6A	...Umm, Carina asked me to take
-				care of her while she's gone.	
-0x174a2	0x98	Lyra	#0W#6A	...Uh, do you want to try?	
+				care of him while she's gone.	
+0x174a2	0x98	Lyra	#0W#6A	...Uh, do you wanna try?	
 0x1752c	0x06	Creha		ANI_NOD	
 0x175f4	0x98	Creha	#1W	...Yes.	mp_0002 0x90fc
 0x1764a	0x06	Lyra		ANI_HANDOVERHEAVY	
@@ -1397,5 +1397,5 @@ EV_4_S09_creha_scene_3rd
 0x177a0	0x06	Lyra		ANI_WAIT2	
 0x17843	0x98	Lyra	#1W#6A	Gently, gently.	
 0x178ad	0x98	Creha	#1W	(This...is a human...)	
-0x1794b	0x98	Creha	#1W	(She's heavy, and...	
+0x1794b	0x98	Creha	#1W	(He's heavy, and...	
 				 Feels so warm.)	

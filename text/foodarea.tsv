@@ -8,51 +8,51 @@
 0xe2	Heliograd Center
 0x102	Heliograd Top
 0x122	Oltapia
-0x142	Animal Trail
-0x162	Tree Path
+0x142	Shaded Animal Trail
+0x162	Lakeside Tree Path
 0x182	Hermit's Path
-0x1a2	Animal Trail
-0x1c2	Tree Path
+0x1a2	Shaded Animal Trail
+0x1c2	Lakeside Tree Path
 0x1e2	Hermit's Path
-0x202	Animal Trail
-0x222	Tree Path Autumn
+0x202	Shaded Animal Trail
+0x222	Lakeside Tree Path
 0x242	Hermit's Path
-0x262	Animal Trail
-0x282	Tree Path
+0x262	Shaded Animal Trail
+0x282	Lakeside Tree Path
 0x2a2	Hermit's Path
 0x2c2	Oltapia Temple
 0x2e2	Oltapia Sanctum
 0x302	Oltapia Sanctum
 0x322	Rieseweld
-0x342	Echoing Caves
-0x362	Scrying Pool
-0x382	Dragon River
-0x3a2	Echoing Caves
-0x3c2	Scrying Pool
-0x3e2	Dragon River
-0x402	Echoing Caves
-0x422	Scrying Pool
-0x442	Dragon River
-0x462	Echoing Caves
-0x482	Scrying Pool
-0x4a2	Dragon River
+0x342	Great Echoing Caves
+0x362	Scrying Pool Caves
+0x382	Dragon River Cavern
+0x3a2	Great Echoing Caves
+0x3c2	Scrying Pool Caves
+0x3e2	Dragon River Cavern
+0x402	Great Echoing Caves
+0x422	Scrying Pool Caves
+0x442	Dragon River Cavern
+0x462	Great Echoing Caves
+0x482	Scrying Pool Caves
+0x4a2	Dragon River Cavern
 0x4c2	Rieseweld Temple
 0x4e2	Rieseweld Sanctum
 0x502	Rieseweld Sanctum
 0x522	Heimmel
-0x542	Wind Valley
-0x562	Dragon Grave
-0x582	Holy Mountain
-0x5a2	Wind Valley
-0x5c2	Dragon Grave
-0x5e2	Holy Mountain
-0x602	Wind Valley
-0x622	Dragon Grave
-0x642	Holy Mountain
+0x542	Wind Cutting Valley
+0x562	Dragon Graveyard
+0x582	Heavenly Mountain
+0x5a2	Wind Cutting Valley
+0x5c2	Dragon Graveyard
+0x5e2	Heavenly Mountain
+0x602	Wind Cutting Valley
+0x622	Dragon Graveyard
+0x642	Heavenly Mountain
 0x662	Hidden Grove
-0x682	Wind Valley
-0x6a2	Dragon Grave
-0x6c2	Holy Mountain
+0x682	Wind Cutting Valley
+0x6a2	Dragon Graveyard
+0x6c2	Heavenly Mountain
 0x6e2	Hidden Grove
 0x702	Heimmel Temple
 0x722	Heimmel Sanctum
@@ -62,36 +62,36 @@
 0x7a2	Pulsing Fault
 0x7c2	Crater
 0x7e2	Ancient Reef
-0x802	Pulsing Fault
-0x822	Crater
+0x802	Pulsating Fault
+0x822	Infernal Crater
 0x842	Ancient Reef
-0x862	Pulsing Fault
-0x882	Crater
+0x862	Pulsating Fault
+0x882	Infernal Crater
 0x8a2	Ancient Reef
-0x8c2	Pulsing Fault
-0x8e2	Crater
+0x8c2	Pulsating Fault
+0x8e2	Infernal Crater
 0x902	La Worg Temple
 0x922	La Worg Sanctum
 0x942	La Worg Sanctum
 0x962	Star Garden
-0x982	Heliograd Lower
-0x9a2	Heliograd Center
+0x982	Lower Stratum
+0x9a2	Center Stratum
 0x9c2	Under Olt Pillar
-0x9e2	Metropolitan District Ⅰ
+0x9e2	Urban District Ⅰ
 0xa02	Olt Pillar
 0xa22	Under Riese
-0xa42	Metropolitan District Ⅱ
+0xa42	Urban District Ⅱ
 0xa62	Riese Pillar
 0xa82	Under Heim
-0xaa2	Metropolitan District Ⅲ
+0xaa2	Urban District Ⅲ
 0xac2	Heim Pillar
 0xae2	Under Wor
-0xb02	Metropolitan District Ⅳ
+0xb02	Urban District Ⅳ
 0xb22	Wor Pillar
 0xb42	Stellarium
 0xb62	Astrolabe
 0xb82	Astrolabe
 0xba2	Birthing Chamber
 0xbc2	Planetary Core Temple
-0xbe2	Glowing Dust Chamber
+0xbe2	Shining Dust Area
 0xc02	Planetarium Core

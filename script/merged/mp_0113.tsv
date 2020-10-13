@@ -2,7 +2,7 @@ mp_0113
 init
 talk_Sasha
 0x90c	0x98	Sasha		Hmm...hmmhmm～...	
-				(*stich*, *stich*)
+				(*stitch*, *stitch*)
 0x93d	0x98	Sasha		Yay, finished! ♪	
 				It's well done,	
 				if I say so myself～.	
@@ -79,7 +79,7 @@ talk_Sasha_add
 				expand the general store's lineup.	
 0x18ab	0x07	System	#4C	Be sure to pick up	
 				any cocoons you find!	
-0x1947	0x98	Sasha		Oh, Nayuta, seems that you've	
+0x1947	0x98	Sasha		Oh Nayuta, it seems that you've	
 				brought me a cocoon again.	
 0x199d	0x98	Sasha		Will you be willing to give it to me?	
 				With that, I think I could make a new	
@@ -154,7 +154,7 @@ talk_Sasha_sub
 0x2a5b	0x98	Sasha		Hmm, maybe it won't be so bad for	
 				the three of us to enjoy the Star	
 				Festival together this year.	
-0x2ad4	0x98	Sasha		Noi, if want, can you	
+0x2ad4	0x98	Sasha		Noi, if you want, can you	
 				try these on for me?	
 0x2b32	0x98	Sasha		These are some of my best clothes that	
 				I've been working on for the past year. ㈱	
@@ -174,10 +174,10 @@ talk_Sasha_sub
 0x2eac	0x98	Sasha		It's almost time for the Star Festival...	
 				Hmm, how I've missed it.	
 0x2f09	0x98	Sasha		The reason I came to Remnant	
-				Island was because of the the	
+				Island was because of the	
 				Star Festival, you know～.	
 0x2f6e	0x98	Sasha		Though ever since that moon has disappeared,	
-				there haven't be as much shooting stars.	
+				there haven't been as many shooting stars.	
 				...Hehe, but it's still a festival, right? ♪	
 0x304a	0x98	Sasha		Of course I'm worried about	
 				Grandmother and Norma, but...	
@@ -284,7 +284,7 @@ talk_Sasha_sub
 				man in black.	
 0x4533	0x98	Sasha		...Nayuta, please bring	
 				her back somehow.	
-0x457c	0x98	Sasha		If you need sanything, I'll	
+0x457c	0x98	Sasha		If you need anything, I'll	
 				prepare it for you right away.	
 0x45e9	0x98	Sasha		mp_0113 0x44c7	
 0x4655	0x98	Sasha		Kureha... We could have been	
@@ -423,7 +423,7 @@ talk_Sasha_sub
 0x5f76	0x98	Sasha		The islanders are friendly, we're	
 				surrounded by beautiful nature, it's warm	
 				all year, and the night sky is beautiful...	
-0x6012	0x98	Sasha		Ah, this is the kind of live I want to live!	
+0x6012	0x98	Sasha		Ah, this is the kind of life I want to live!	
 				That's what I realized lately.	
 0x60a5	0x98	Sasha		Though Remnant Island is remote,	
 				it's a comfortable place to live～.	
@@ -443,7 +443,7 @@ talk_Sasha_sub
 				tea come in the other day.	
 0x63b0	0x98	Sasha		Let's drink it together	
 				with Eartha again.	
-0x63fd	0x98	ALTO		Sure, I'll looking forward to it.	
+0x63fd	0x98	ALTO		Sure, I'll look forward to it.	
 0x647f	0x98	Sasha		Oh yeah, look at this display!	
 				That's a big star shard, isn't it?	
 0x64e4	0x98	Sasha		The other day, the elder asked me to 
@@ -461,7 +461,7 @@ talk_Camelope
 0x6763	0x98	Camelope		Because Sasha is an adult, she will	
 				find her own partner by herself.	
 0x67c0	0x98	Camelope		...However, as the daughter of a good family,	
-				there hold a prerequisite that she choose a	
+				there is a prerequisite that she chooses a	
 				suitor that will not embarrass us.	
 0x6844	0x98	ALTO		(Wow, Sasha has it rough...)	
 0x68a8	0x98	Camelope		Because Sasha is an adult,	mp_0113 0x6763
@@ -504,7 +504,7 @@ talk_Camelope
 				Sasha to the family mansion to	
 				relieve her parents...	
 0x6fce	0x98	Camelope		...It can't be helped.	
-				This is a decision that girl made	
+				This is a decision that that girl made	
 				for herself, and not for anyone else.	
 0x7073	0x98	Camelope		Norma and I will be	
 				returning to the mansion.	
@@ -543,7 +543,7 @@ talk_Norma
 				with Milady, even if just for one day.	
 0x770b	0x98	Norma		Hehe, it's just like the	
 				Mistress not to say so.	
-0x7774	0x98	Norma		The Mistresss was very regretful of her decision	
+0x7774	0x98	Norma		The Mistress was very regretful of her decision	
 				to return to the Empire and leave Sasha here	
 				during the abnormalities a year ago.	
 0x780d	0x98	Norma		So now she wants to spend as	
@@ -623,7 +623,7 @@ quest_Sasha
 0x8747	0x98	ALTO		(...Huh?)	
 0x8770	0x98	ALTO		(According to Canie, there's a	
 				 good chance that he's here...)	
-0x8871	0x98	Sasha		I afraid I don't	
+0x8871	0x98	Sasha		I'm afraid I don't	
 				stock Eternal Roses.	
 0x88bd	0x98	Sasha		To begin with, they're a rare and precious	
 				flower that only seems to grow in places	
@@ -652,7 +652,7 @@ QS_12_consult_a_lawyer
 0x8e16	0x06	Sasha		ANI_SURPRISE	
 0x8e41	0x98	Sasha		Oh my, an anniversary...	
 0x8e77	0x98	Sasha		Nayuta, when did you	
-				got married...!?	
+				get married...!?	
 0x8ee3	0x06	Sasha		ANI_WAIT2	
 0x8f0b	0x98	Sasha		Ay, ay, ay... Even though I'm	
 				still available, you go and get	
@@ -683,9 +683,9 @@ QS_12_consult_a_lawyer
 0x9347	0x98	Sasha		As the name implies,	
 				it lives a long time and	
 				almost never withers.	
-0x93ae	0x98	Sasha		In the language of flowers, it stands	
-				for "eternal love"... It's a popular	
-				romantic trend to gift them to someone.	
+0x93ae	0x98	Sasha		In the language of flowers, it stands for	
+				"eternal love"... It's a popular romantic	
+				trend to give them to someone as a gift.	
 0x942d	0x06	Sasha		ANI_WAIT0	
 0x9455	0x06	ALTO		ANI_NOD	
 0x947a	0x98	ALTO	#6A	That certainly sounds like the	
@@ -707,7 +707,7 @@ QS_12_consult_a_lawyer
 0x97b6	0x06	ALTO		ANI_GOODIDEA	
 0x97e0	0x98	ALTO	#6A	(Cherry blossoms... Maybe they could	
 				 be on the Forest Continent?)	
-0x9854	0x98	ALTO	#6A	(Though Noi said it's unusual, but that place is	
+0x9854	0x98	ALTO	#6A	(Though Noi said it's unusual, that place is	
 				 in full bloom with cherry blossoms right now.	
 				 Maybe a rose in there is somewhere...)	
 0x98f5	0x6B	Sasha		Question	
@@ -726,12 +726,12 @@ QS_12_consult_a_lawyer
 QS_25_ask_Sasha
 0x9d29	0x98	ALTO	#6A	...Sasha.	
 0x9d55	0x06	Sasha		ANI_WAIT0	
-0x9d7d	0x98	Sasha		W-What is it, Nayuta?	
+0x9d7d	0x98	Sasha		Wh-What is it, Nayuta?	
 0x9db3	0x06	ALTO		ANI_COMPLAIN	
 0x9ddd	0x98	ALTO	#6A	I'm searching for Bootie for	
 				a request from Dr. Hydol.	
-0x9e35	0x98	ALTO	#6A	I have to call Bootie in	
-				for a medical exam, but...	
+0x9e35	0x98	ALTO	#6A	I have to tell Bootie about	
+				his medical exam, but...	
 0x9e89	0x6B	Sasha		Exclamation	
 0x9ebc	0x06	Sasha		ANI_SURPRISE	
 0x9ee7	0x98	Sasha		...Huh? A medical exam?	
@@ -774,9 +774,9 @@ QS_25_ask_Sasha
 0xa761	0x06	ALTO		ANI_DENY	
 0xa787	0x98	ALTO	#6A	No, you should be fine.	
 0xa7c5	0x06	ALTO		ANI_GESTURE2	
-0xa7ef	0x98	ALTO	#6A	I think he said it was a just	
-				a checkup, so he probably just	
-				wants to see how you're doing?	
+0xa7ef	0x98	ALTO	#6A	I think he just said it was a	
+				checkup, so he probably only	
+				wants to see how you're doing.	
 0xa854	0x6B	Bootie		Exclamation	
 0xa8a0	0x06	Bootie		ANI_JOY	
 0xa8c7	0x98	Bootie		R-Really!?	mp_0110 0x10ffa
@@ -790,12 +790,12 @@ QS_25_ask_Sasha
 				I'll make you eat a	
 				porcupinefish!	
 0xaa6b	0x06	ALTO		ANI_NOD	
-0xaa90	0x98	ALTO	#6A	Yeah, yeah, you do that.	
+0xaa90	0x98	ALTO	#6A	Yeah, yeah, sure.	
 0xaacc	0x98	ALTO	#6A	(I've called on everyone now...	
 				 I should report to the doctor.)	
 QS_34_ask_Sasha
 0xad2a	0x06	Sasha		ANI_WAIT0	
-0xad52	0x98	Sasha		Oh, Nayuta, what's up?	
+0xad52	0x98	Sasha		Oh Nayuta, what's up?	
 0xad8c	0x06	ALTO		ANI_GESTURE1	
 0xadb6	0x98	ALTO	#6A	Sasha, I need to talk to	
 				you about something...	
@@ -820,9 +820,9 @@ QS_34_ask_Sasha
 0xb155	0x98	Sasha		...It's not that	
 				I hate Grandmother.	
 0xb1b5	0x06	Sasha		ANI_WAIT3	
-0xb1dd	0x98	Sasha		Though she pissed me off when she	
-				tried to set up on an arranged	
-				marriage without my consent, but...	
+0xb1dd	0x98	Sasha		Though she pissed me off when she tried	
+				to set up an arranged marriage without	
+				my consent, but...	
 0xb24a	0x98	Sasha		I know that she thinks about	
 				me and has done a lot for me.	
 0xb2ae	0x06	ALTO		ANI_NOD	
@@ -1003,31 +1003,32 @@ QS_34_quest_end
 				House, and ignored them...	
 0xe22c	0x98	ALTO	#6A	Is that so...	mp_0001 0xcecd
 0xe25c	0x06	Sasha		ANI_LAUGH	
-0xe284	0x98	Sasha		Hehe, it wasn't a big deal	
+0xe284	0x98	Sasha		Heh, it wasn't such a big deal	
 				once we discussed it properly.	
 0xe2f9	0x06	Sasha		ANI_WAIT0	
 0xe321	0x98	Sasha		I should have faced her properly before	
 				running away from the mansion...	
-				I guess I was still a just a kid.	
+				I guess I was still just a kid.	
 0xe3a9	0x06	Sasha		ANI_GESTURE2	
 0xe3d4	0x98	Sasha		Well, thanks to that, I was able	
 				to meet Nayuta and everyone else	
 				on Remnant Island. I have no regrets.	
 0xe469	0x06	Norma		ANI_GESTURE2	
-0xe494	0x98	Norma		I am glad that Milady and the Mistress have	
-				come to an understanding with each other.	
+0xe494	0x98	Norma		I am glad to see that Milady and	
+				the Mistress have finally come to	
+				an understanding with each other.	
 0xe52a	0x98	Norma		Master Nayuta, truly, I thank you dearly.	
 				If you do not mind, please accept this...	
 0xe60e	0x06	Norma		ANI_HANDOVER	
 0xe641	0xC1	System		obtained.	mp_0000 0x7558
 0xe713	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xe742	0x98	ALTO	#6A	Woah...! Is this really okay?	
+0xe742	0x98	ALTO	#6A	Whoa...! Is this really okay?	
 0xe783	0x06	Norma		ANI_NOD	
 0xe7a9	0x98	Norma		Yes, it is a small token	
 				of my appreciation.	
 0xe7f1	0x06	Sasha		ANI_GESTURE2	
-0xe81c	0x98	Sasha		I want to thank you for what	
-				you did, so please, accept it.	
+0xe81c	0x98	Sasha		You deserve something for what	
+				you did, so please, take it.	
 0xe885	0x98	ALTO	#6A	Then, I'll accept it	
 				without reservation.	
 0xe8d0	0x06	Norma		ANI_WAIT2	
@@ -1040,7 +1041,7 @@ QS_34_quest_end
 0xea78	0x06	ALTO		ANI_THANKS	
 0xeaa0	0x98	ALTO	#6A	If you need something again,	
 				please contact me anytime.	
-0xeb35	0x98	Norma		Yes, I willgit com.	
+0xeb35	0x98	Norma		Yes, I will.	
 				Then...	
 0xeb7e	0x06	Norma		ANI_NOD	
 0xecc8	0x07	System	#3C	Quest [Employer Arbitration] completed!	

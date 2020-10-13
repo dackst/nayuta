@@ -34,7 +34,7 @@ EV_7_S02_enter_cradle
 0xf54	0x06	ALTO		ANI_WAIT	
 EV_7_S03_look_up_statue
 0x1208	0x06	ALTO		ANI_SURPRISE	
-0x1232	0x98	ALTO	#6A	W-What is that sinister-looking statue...!?	
+0x1232	0x98	ALTO	#6A	Wh-What is that sinister-looking statue...!?	
 0x127a	0x06	NOI		ANI_THINK	
 0x12a0	0x98	NOI	#6A	It SHOULD be a statue	
 				of a goddess of life...	

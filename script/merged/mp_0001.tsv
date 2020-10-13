@@ -21,8 +21,8 @@ talk_Ursaminor
 0x1984	0x98	ALTO		...You have a sister too?	
 				Haha, you're like me then.	
 0x19d9	0x6B	Ursaminor		Surprise	
-0x1a54	0x98	Ursaminor		...My sister left a long time ago	
-				after she a fight with Father.
+0x1a54	0x98	Ursaminor		...My sister left a long time	
+				ago after a fight with Father.
 0x1ab9	0x98	Ursaminor		She said she wanted to search for	
 				treasure, and was joining our cousin.	
 0x1b1a	0x98	Ursaminor		It seems she wanted to travel independently	
@@ -94,7 +94,7 @@ talk_Bootie
 				I can't find any shards...	
 0x27c4	0x98	Bootie		Hey Nayuta, how is it over there?	
 				Let me know if you find any.	
-0x287e	0x07	System	#4C	Finish and devilver the shards	
+0x287e	0x07	System	#4C	Finish and deliver the shards	
 				to Bootie using the □ button.	
 0x2909	0x98	Bootie		...Oh, this is absolutely impossible.	
 0x2950	0x98	Bootie		But I can't go home like this...	
@@ -210,7 +210,7 @@ subev_get_dog_return
 subev_look_moon
 0x4510	0x98	ALTO		The cape behind the island...	
 				There's usually not many people here.	
-0x4572	0x98	ALTO		The view is nice, and only sound	
+0x4572	0x98	ALTO		The view is nice, and the only sound	
 				is the echo of the waves...	
 0x45d4	0x6B	ALTO		Surprise	
 0x46ac	0x98	ALTO		Ha, the moons are beautiful too.	
@@ -623,7 +623,7 @@ QS_35_quest_start
 0xb684	0x98	ALTO	#6A	Now that you mention it, the	
 				letter said something like,	
 				"A clue about my sister."	
-0xb6f1	0x98	ALTO	#6A	Is this about your sister?	
+0xb6f1	0x98	ALTO	#6A	What's this about your sister?	
 0xb73a	0x6B	Ursaminor		Ellipsis	
 0xb7bd	0x98	Ursaminor		...Look at this.	
 0xb7f2	0x40	UNDEF		Ursamina held out a beautiful hair ornament.	
@@ -633,11 +633,11 @@ QS_35_quest_start
 				 before somewhere...)	
 0xb96a	0x98	Ursaminor		...I found it in front of the inn.	
 0xb9d4	0x06	Ursaminor		ANI_WAIT2	
-0xba00	0x98	Ursaminor		I think... it belonged to	
-				my sister who left home.	
+0xba00	0x98	Ursaminor		I think... It belonged to my	
+				sister who ran away home.	
 0xba44	0x6B	ALTO		Exclamation	
 0xba76	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xbaa5	0x98	ALTO	#6A	Y-Your sister who left home!?	
+0xbaa5	0x98	ALTO	#6A	Y-Your sister ran away from home!?	
 0xbaf0	0x06	ALTO		ANI_COMPLAIN	
 0xbb1a	0x98	ALTO	#6A	That means... your sister	
 				could be on Remnant Island!?	
@@ -808,10 +808,10 @@ QS_35_quest_end
 0xde10	0x06	ALTO		ANI_GESTURE2	
 0xde3a	0x98	ALTO	#6A	Umm,  what's this?	
 0xde8d	0x06	Ursaminor		ANI_WAIT3	
-0xdeb9	0x98	Ursaminor		...Just a your payment.	
+0xdeb9	0x98	Ursaminor		...Just your payment.	
 0xdef6	0x98	Ursaminor		Father always says that any debt	
 				should be paid off immediately.	
-0xdf65	0x98	Ursaminor		...So, I'll giving you this, too. I	
+0xdf65	0x98	Ursaminor		...So, I'll be giving you this, too. I	
 				collected them because my sister loves	
 				treasure, but I collected too much.	
 0xdff8	0x98	Ursaminor		Hold on.	
@@ -845,7 +845,7 @@ QS_82_quest_end
 0xec78	0x06	ALTO		ANI_WAIT	
 0xecfc	0x98	ALTO		...All right.	
 				Is here okay?	
-0xed32	0x98	Serpent	#6A	Yes, that's perfect.	
+0xed32	0x98	Serpent	#6A	Yes, perfect.	
 0xee1b	0x98	Serpent	#6A	Our ancestors at Remnant Island	
 				would be pleased with the abundant	
 				harvest this year.	
@@ -939,7 +939,7 @@ EV_0_S10_meet_okita
 				see if there's anything	
 				we can do to help!	
 0x11095	0x06	Signa		ANI_WAIT3	
-0x110c5	0x98	Signa	#6A	Hmph... Looks ike the ruin fell closer	
+0x110c5	0x98	Signa	#6A	Hmph... Looks like the ruin fell closer	
 				to the island than I thought.	
 0x11121	0x98	Signa	#6A	It looks like some kind of tower...	
 				Let's call it the "Tower Ruins."	

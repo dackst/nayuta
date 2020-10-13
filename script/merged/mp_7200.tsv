@@ -7,13 +7,14 @@ EV_7_S10_starball_front
 EV_7_S11_look_starball
 0xe69	0x06	ALTO		ANI_WAIT	
 0x128e	0x06	ALTO		ANI_FIND	
-0x12b4	0x98	ALTO	#6A	...It's amazing seen from up close.	
+0x12b4	0x98	ALTO	#6A	...It's even more amazing	
+				to see it from up close.	
 0x1302	0x98	ALTO	#6A	Even I can feel that it's	
 				overflowing with power...	
 0x1366	0x98	NOI	#6A	Terra has been around since 
 				ancient times, all in wait 	
 				for the Remaking to start...	
-0x13c5	0x98	NOI	#6A	And some day send the	
+0x13c5	0x98	NOI	#6A	And someday send the	
 				Planetarium to the surface...	
 0x145f	0x98	ALTO	#6A	...So Zext is just up ahead?	
 0x14dd	0x98	NOI	#6A	Yeah... There should be a	
@@ -24,7 +25,7 @@ EV_7_S11_look_starball
 				Shining Wings of the Mythos,	
 				we have to hurry...!	
 0x1601	0x98	ALTO	#6A	...Once we enter, there seems	
-				to be there no turning back.	
+				to be no turning back.	
 0x165e	0x06	NOI		ANI_NOD	
 0x1682	0x98	NOI	#6A	The true final battle...	
 				Let's make sure we're	

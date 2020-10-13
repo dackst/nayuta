@@ -30,7 +30,7 @@ talk_Noi
 0x495	0x98	NOI		Jeez, it sure is inconvenient not	
 				to be able to walk in the village.	
 0x513	0x98	NOI		Looks like Master Kureha	
-				is in the the village...	
+				is in the village...	
 0x564	0x98	NOI		I-I wonder if she's okay...	
 				But there's no way I can risk	
 				being seen by humans...	
@@ -55,10 +55,10 @@ talk_Noi
 0x8cd	0x98	NOI		I hope she'll regain	
 				some of her memories	
 				by staying here...	
-0x944	0x98	NOI		Sorry Nayuta, but...	
+0x944	0x98	NOI		Sorry Nayuta, but...	mp_0101 0x18efe
 				I want to wait a little longer	
 				before the next exploration.	
-0x9ad	0x98	NOI		I'm worried about Cygna too, but	
+0x9ad	0x98	NOI		I'm worried about Cygna too, but	mp_0101 0x18f95
 				right now, I'm more worried about	
 				Master Kureha...	
 0xa1c	0x98	NOI		Please take care of Master Kureha	
@@ -84,7 +84,7 @@ talk_Noi
 0xea1	0x98	NOI		A-aaaaah...	
 0xecb	0x98	NOI		Gulp...!	
 0xef2	0x98	NOI		(*munch*, *munch*, *munch*...)	
-0xf29	0x98	NOI		T-This is delicious!	
+0xf29	0x98	NOI		Th-This is delicious!	
 0xf5c	0x98	NOI		What is this...?	
 				It's like a sweet	
 				nectar in my mouth!	
@@ -93,12 +93,12 @@ talk_Noi
 0xff6	0x98	Asa		We have plenty more,	
 				so eat it and don't	
 				hold back.	
-0x1046	0x98	NOI		(*munch, munch*...)	
+0x1046	0x98	NOI		(*munch*, *munch*...)	
 0x1078	0x6B	ALTO		Sweatdrop	
 0x10a2	0x6B	Lyra		Sweatdrop	
 0x10d4	0x98	Lyra		Eartha is really adaptable, you know...	
 0x111a	0x98	ALTO		(That's Eartha for you...	
-				 I guess we don't anything	
+				 I guess we don't have anything	
 				 to worry about here.)	
 0x11b6	0x98	NOI		Nayuta's sister has	
 				excellent skill.	
@@ -120,8 +120,8 @@ quest_Noi
 				animal, let's hurry, Nayuta!	
 0x162e	0x98	NOI		Hey, Nayuta! Let's get your	
 				sister the Elumi Resin!	
-0x168e	0x98	NOI		(Elumi Resin... We should be able	
-				 get it in autumn of Oltapia.)	
+0x168e	0x98	NOI		(Elumi Resin... We should be able to	
+				 get it in the autumn of Oltapia.)	
 0x16ed	0x98	NOI		(Let's go search for a tree	
 				 growing in the dark, Nayuta!)	
 0x17c0	0x06	NOI		ANI_WAIT	

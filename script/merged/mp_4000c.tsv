@@ -13,7 +13,7 @@ QS_44_get_power
 0xfe5	0x40	UNDEF		Recovered a fragment of Algol's power!	
 0x1034	0x06	ALTO		ANI_HANDOVER2	
 0x1211	0x06	NOI		ANI_GUTSPOSE	
-0x123a	0x98	NOI		The Colored Kewel is shining brightly...	
+0x123a	0x98	NOI		The Colored Jewel is shining brightly...	
 0x1281	0x98	NOI		Looks like we've got all	
 				of Algol's power back now!	
 0x12d7	0x06	ALTO		ANI_SCRATCH_HEAD	
@@ -43,15 +43,15 @@ EV_4_S04_lava1_start
 0x1ec4	0x98	NOI		I've never seen them so	
 				active before either.	
 0x1f17	0x06	ALTO		ANI_THINK2	
-0x1f3f	0x98	ALTO		So maybe, like before, this	
-				abnormal activity an effect of	
-				the Master Gear being stolen...?	 
+0x1f3f	0x98	ALTO		So maybe, like before, this abnormal	
+				volcanic activity is an effect of	
+				the Master Gear being stolen...?	
 0x1ff1	0x98	ALTO		But still, it's so HOT.	
 				...Noi, are you okay?	
 0x2087	0x98	NOI	#6A	Y-Yeah, I can handle it.	
 0x20b9	0x06	NOI		ANI_GESTURE1	
 0x20e2	0x98	NOI	#6A	But, because of this lava,	
-				it looks likes there's hardly
+				it looks like there's hardly
 				any safe places to walk on.	
 0x2154	0x06	NOI		ANI_GUTSPOSE	
 0x217d	0x98	NOI	#6A	Nayuta, proceed	
@@ -119,7 +119,7 @@ EV_4_S06_look_cage_4th
 0x394a	0x06	ALTO		ANI_COMPLAIN	
 0x3974	0x98	ALTO	#6A	R-Really!?	mp_0110 0x10ffa
 0x39a1	0x41	None	#0W#2E#710c	I noticed it while	
-					administering this continent...#0E	
+				administering this continent...#0E	
 0x3a38	0x41	None	#0W#2E#710c	There appears to exist some sort of	
 				important seal applied on this world.#0E	
 0x3af7	0xBC	ALTO		Surprise	
@@ -152,7 +152,7 @@ EV_4_S06_look_cage_4th
 				from Zext as soon as possible!	
 0x41d8	0x41	None	#0W#2E#710c	The human...	
 				Nayuta, was it?#0E	
-0x42ae	0x41	None	#0W#2E#710c	I leave to the fate of Terra	
+0x42ae	0x41	None	#0W#2E#710c	The fate of Terra rests	
 				in the hands of you and Noi.#0E	
 0x433f	0x41	None	#0W#2E#710c	Head for the Temple as soon	
 				as you can and stop Zext.#0E	

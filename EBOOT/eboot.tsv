@@ -87,7 +87,7 @@
 0x220450	装飾品を装備します。	23	Equip decoration.			
 0x220468	使用アイテムの確認と使用を行います。	39	Check or use usable items.			
 0x220490	食材アイテムを確認します。	27	Check food items.			
-0x2204ac	コレクトアイテムを確認します。	31	Check collectable items.			
+0x2204ac	コレクトアイテムを確認します。	31	Check collectible items.			
 0x2204cc	イベントアイテムを確認します。	31	Check event items.			
 0x2204ec	弁当の作成を行います。	23	Prepare food.			
 0x220504	クエストの情報を確認します。	31	Check quest info.			
@@ -187,11 +187,11 @@
 0x220ea8	寄贈する	11	Donate			
 0x220eb4	昆虫館	7	Insectarium	0x220ed8	1	
 0x220ebc	水族館	7	Aquarium	0x220edc	1	8
-0x220ec4	生物資料館	11	Museum	0x220ee0	1	
+0x220ec4	生物資料館	11	Nat. History	0x220ee0	1	
 0x220ed0	宝物館	7	Treasury	0x220ee4	1	8
 0x220ee8	SELECT	7	SELECT			
 0x220ef0	%2d/32	7	%2d/32			
-0x220ef8	～　当館の展示品ご案内　～	27	～    About Exhibits    　～			25
+0x220ef8	～　当館の展示品ご案内　～	27	～   About Exhibits   ～			25
 0x220f14	INSECT %2d/32	15	INSECT %2d/32			
 0x220f24	FISH %2d/32	11	FISH %2d/32			
 0x220f30	FOSSIL %2d/32	15	FOSSIL %2d/32			
@@ -245,7 +245,7 @@
 0x221434	お弁当はこれ以上持てません。{ 0a }#4C%s#1Cをこの場で食べますか？	59	Can't carry more food.{ 0a }#1CEat #4C%s#1C here?			
 0x221470	レベルが%dになった！	23	Became level %d!			
 0x221488	食材が足りません。	19	Not enough ingredients.	0x88A6170	2	
-0x2214d4	鍛錬帳に十分な数の印が溜まりました。{ 0a }島の砂浜にいる師匠に会うと、{ 0a }剣技やアイテムを伝授してもらう事ができます。	111	Collected enough seals in training book.{ 0a }Meet Master on the beach and{ 0a }receive a sword tech or item.			109
+0x2214d4	鍛錬帳に十分な数の印が溜まりました。{ 0a }島の砂浜にいる師匠に会うと、{ 0a }剣技やアイテムを伝授してもらう事ができます。	111	Collected enough seals in Training Book.{ 0a }Meet Master on the beach to{ 0a }receive a sword tech or item.			109
 0x221544	クリアデータをセーブする	27	Save Clear Data			
 0x221560	セーブデータを削除する	23	Erase Save Data			
 0x221578	セーブする	11	Save			
@@ -269,19 +269,19 @@
 0x221664	INT%3d	7	INT%3d			
 0x22166c	】	7	]			
 0x221674	%s	3	%s			
-0x221678	昆虫館の展示品一覧を見ることができます。	43	You can view the insect exhibit.			
-0x2216a4	水族館の展示品一覧を見ることができます。	43	You can view the fish exhibit.			
+0x221678	昆虫館の展示品一覧を見ることができます。	43	View the insect exhibit.			
+0x2216a4	水族館の展示品一覧を見ることができます。	43	View the fish exhibit.			
 0x2216d0	（※水族館は現在準備中です）	31	(※Aquarium getting ready)			25
-0x2216f0	生物資料館の展示品一覧を見ることができます。	47	You can view the animal exhibit.			
+0x2216f0	生物資料館の展示品一覧を見ることができます。	47	View the natural history exhibit.			
 0x221720	（※生物資料館は現在準備中です）	35	(※Museum getting ready)			
-0x221744	宝物館の展示品一覧を見ることができます。	43	You can view the treasury.			
+0x221744	宝物館の展示品一覧を見ることができます。	43	View the treasury.			
 0x221770	（※宝物館は現在準備中です）	31	(※Treasury getting ready)			
 0x221790	展示されている生き物たち。実物は昆虫館でご覧ください。	55	Animals on display in the insectarium.			38
-0x2217c8	展示されている生き物たち。	27	Animals on display			19
+0x2217c8	展示されている生き物たち。	27	Animals on display 			19
 0x2217e4	実物は水族館でご覧ください。	31	in the aquarium.			16
-0x221804	実物は生物資料館でご覧ください。	35	at the natural history museum.			30
-0x221828	展示されている貴重な品々。	27	Valuables on display.			21
-0x221844	実物は宝物館でご覧ください。	31	Look at the treasury.			
+0x221804	実物は生物資料館でご覧ください。	35	in the natural history museum.			30
+0x221828	展示されている貴重な品々。	27	Valuables on display			21
+0x221844	実物は宝物館でご覧ください。	31	 in the treasury.			
 0x22196c	%sへ移動しますか？	19	Move to %s?			
 0x221980	#4C現在はここに行く事はできません。	35	#4CCan't move there now.			24
 0x2219a4	前半	7	First Half	0x088AD690	2	
@@ -303,34 +303,34 @@
 0x22256c	#4C 　キャンセル	19	#4C 　Cancel	0x2225b0	1	
 0x222608	新しくゲームを始めます。	27	Begin a new game.			
 0x222624	セーブデータを読み込みます。	31	Load saved data.			
-0x222644	その後のお話。	15	After that...			13
+0x222644	その後のお話。	15	Afterwards...			13
 0x222654	ゲームの設定を変更します。	27	Change game settings.			21
-0x222670	さくさく進めるバランスです。	31	Balance for quick progress.			27
+0x222670	さくさく進めるバランスです。	31	Balanced for quick progress.			27
 0x222690	アクションゲームが苦手な方向け。	35	For those bad at action games.			30
 0x2226b4	比較的歯ごたえのある戦闘が楽しめます。	39	Can enjoy the flow of battle.			
 0x2226dc	アクションゲームに慣れている方に。	35	For those used to action games.			
 0x222700	かなり厳しいバランスです。	27	A pretty hard balance.	0x088DD418	3	22
 0x22271c	ノーマルでは物足りない上級者向け。	35	For those unsatisfied with normal.	0x088DD428	3	34
-0x222740	一度クリアした事がある方のみ楽しめます。	43	2nd playthrough only. Enemy strength is scaled	0x088DD458	3	46
-0x22276c	Ｌｖに応じて敵が強化される、超やりこみモード。	47	to level for a super-challenging game mode.	0x088DD468	3	43
+0x222740	一度クリアした事がある方のみ楽しめます。	43	2nd playthrough only. Enemies are scaled to	0x088DD458	3	46
+0x22276c	Ｌｖに応じて敵が強化される、超やりこみモード。	47	your level for a super-challenging game mode.	0x088DD468	3	43
 0x22279c	ＢＧＭの音量を変更します。	27	Change BGM volume.			
 0x2227b8	ＳＥの音量を変更します。（○ボタン：テストＳＥ再生）	55	Change sound effect volume. (○:Test playback)			45
 0x2227f0	ボイスの音量を変更します。（○ボタン：テストボイス再生）	59	Change voices volume. (○:Test playback)			39
 0x22282c	戦闘ボイスとシステムボイスのＯＮ／ＯＦＦを切り替えます。	59	Turn battle and system voices on and off.			
 0x222868	イベントボイスのＯＮ／ＯＦＦを切り替えます。	47	Turn event voices on and off.			
 0x222898	ゲームの難易度を変更します。	31	Change difficulty.			
-0x2228b8	ナユタのレベルを引き継ぎます。	31	Take Nayuta's level.			
-0x2228d8	所持金を引き継ぎます。	23	Take money.			
-0x2228f0	ナユタとノイの装備品を引き継ぎます。	39	Take Nayuta and Noi's equipment.			32
-0x222918	習得した四季魔法とレベル、魔法スロットの状態を引き継ぎます。	63	Take learned magic, magic levels, and slots.			44
-0x222958	習得したギアクラフトを引き継ぎます。	39	Take learned gear crafts.			25
-0x222980	各ステージのリザルト評価状態を引き継ぎます。	47	Take stage results.			19
-0x2229b0	所持しているお弁当と食材、料理ガイド、調理履歴、弁当箱の数を引き継ぎます。	75	Take ingredients and food, cooking guides, cooking history and lunch boxes.			75
-0x2229fc	所持しているコレクトアイテムと、博物館への寄贈状態を引き継ぎます。	67	Take collectibles and museum donation status.			
-0x222a40	敵情報の状態を引き継ぎます。	31	Take enemy info.			
-0x222a60	武器屋、雑貨屋の販売状態と、ノラのランクを引き継ぎます。	59	Take weapon and general store status and farm rank.			51
-0x222a9c	所持している星の欠片を引き継ぎます。	39	Take owned star fragments.			
-0x222ac4	以上の項目を引き継ぎ、ゲームを開始します。	43	Take the items above, and start the game.			41
+0x2228b8	ナユタのレベルを引き継ぎます。	31	Keep Nayuta's level.			
+0x2228d8	所持金を引き継ぎます。	23	Keep money.			
+0x2228f0	ナユタとノイの装備品を引き継ぎます。	39	Keep Nayuta and Noi's equipment.			32
+0x222918	習得した四季魔法とレベル、魔法スロットの状態を引き継ぎます。	63	Keep learned magic, magic levels, and slots.			44
+0x222958	習得したギアクラフトを引き継ぎます。	39	Keep learned gear crafts.			25
+0x222980	各ステージのリザルト評価状態を引き継ぎます。	47	Keep stage results.			19
+0x2229b0	所持しているお弁当と食材、料理ガイド、調理履歴、弁当箱の数を引き継ぎます。	75	Keep ingredients and food, cooking guides, cooking history and lunch boxes.			75
+0x2229fc	所持しているコレクトアイテムと、博物館への寄贈状態を引き継ぎます。	67	Keep collectibles and museum donation status.			
+0x222a40	敵情報の状態を引き継ぎます。	31	Keep enemy info.			
+0x222a60	武器屋、雑貨屋の販売状態と、ノラのランクを引き継ぎます。	59	Keep weapon and general store status and farm rank.			51
+0x222a9c	所持している星の欠片を引き継ぎます。	39	Keep owned star shards.			
+0x222ac4	以上の項目を引き継ぎ、ゲームを開始します。	43	Keep selected items and start game.			41
 0x222af0	タイトル画面に戻ります。	27	Return to title screen.			
 0x226e74	イベントエフェクト読み込み数オーバー{ 0a }	39	Probably an error message.			26
 0x226e9c	を手に入れた。	15	got.			

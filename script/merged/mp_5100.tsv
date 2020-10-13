@@ -5,13 +5,13 @@ SB_5_S03_appear_NOI
 EV_5_S03_arrive_tower
 0x86f	0x06	ALTO		ANI_THINK2	
 0x897	0x98	ALTO	#0W	...Something is emerging under	
-				under each of the continents!?	
+				each of the continents!?	
 0x8ec	0x98	ALTO	#0W	They're like giant gears.	
 				What are they even for...?	
 0x969	0x06	NOI		ANI_DENY	
 0x98e	0x98	NOI	#0W	I've never seen them	
 				before either, but...	
-0xa03	0x98	NOI	#0W	I'm sure it's a not a good sign. 	
+0xa03	0x98	NOI	#0W	I'm sure it's not a good sign. 	
 0xa5e	0x06	ALTO		ANI_WAIT	
 0xabf	0x6B	ALTO		Ellipsis	
 0xae9	0x6B	NOI		Ellipsis	
@@ -30,7 +30,7 @@ EV_5_S03_arrive_tower
 0x10f1	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1134	0x98	ALTO	#16S	Fifty THOUSAND arge!?	
 0x1170	0x06	NOI		ANI_GESTURE1	
-0x1199	0x98	NOI	#6A	The tower needs to be able send the	
+0x1199	0x98	NOI	#6A	The tower needs to be able to send the	
 				Astrolabe's power to all four continents...	
 0x1236	0x98	NOI	#6A	In other words, the tower is	
 				capable of corrupting all of Terra...	
@@ -65,8 +65,7 @@ EV_5_S04_hear_many_voice
 0x1b90	0x41	None	#0W#2E#310c	Perhaps you are having some	
 				difficulty ascending Heliograd?#0E	
 0x1c3d	0x06	ALTO		ANI_NOD	
-0x1c62	0x98	ALTO		Yeah... Do you know	
-				of any way how?	
+0x1c62	0x98	ALTO		Yeah... Do you know how?	
 0x1cc1	0x41	None	#0W#2E#029c	I'm sorry, we cannot	
 				aid you ourselves.#0E	
 0x1d47	0x41	None	#0W#2E#029c	But we do have one suggestion.#0E	
@@ -101,12 +100,12 @@ EV_5_S04_hear_many_voice
 0x24dc	0x98	ALTO		Yeah...!	
 				We'll take	
 				care of this!	
-0x260a	0x07	System	#3C	"Spring" of Origin Continent La Worg	
-				has been unlocked.	
-0x2695	0x07	System	#3C	"Summer" of Origin Continent La Worg	
-				has been unlocked.	
-0x27a0	0x07	System	#3C	"Winter" of Origin Continent La Worg	
-				has been unlocked.	
+0x260a	0x07	System	#3C	The spring of Origin Continent	
+				La Worg has been unlocked.
+0x2695	0x07	System	#3C	The summer of Origin Continent	
+				La Worg has been unlocked.	
+0x27a0	0x07	System	#3C	The winter of Origin Continent	
+				La Worg has been unlocked..	
 0x29ca	0xCE	Objective		Let's help Nemeas during the spring of the Origin Continent!	
 EV_5_S05_hear_neme_voice
 0x2a9b	0x06	ALTO		ANI_WAIT	
@@ -129,11 +128,11 @@ EV_5_S05_hear_neme_voice
 0x3081	0x06	NOI		ANI_GESTURE1	
 0x30aa	0x98	NOI	#6A	Elis, Algol, too!	
 0x30e4	0x41	None	#0W#2E#710c	I've been informed of our current	
-				situation from everyone else.#0E	
+				situation by everyone else.#0E	
 0x3179	0x41	None	#0W#2E#710c	You are planning on	
 				ascending Heliograd, aren't you?#0E	
 0x3210	0x06	ALTO		ANI_JOY	
-0x3235	0x98	ALTO		Yes...to find out	
+0x3235	0x98	ALTO		Yes... To find out	
 				Kureha's true motives!	
 0x3286	0x41	None	#0W#2E#030c	Hmm...	
 				You certainly	
@@ -156,4 +155,4 @@ EV_5_S05_hear_neme_voice
 				has been unlocked.	
 0x3890	0x07	System	#3C	"Winter" of Origin Continent La Worg	mp_5100 0x27a0
 				has been unlocked.	
-0x3ab2	0xCE	Objective		Kureha is in Heliograd...I have to find out her true motives!	
+0x3ab2	0xCE	Objective		Kureha's in Heliograd... I have to find out her true motives!	

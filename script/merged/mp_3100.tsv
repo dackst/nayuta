@@ -7,7 +7,7 @@ EV_3_S14_temple3_front
 				hasn't been shut down yet...	
 0x80c	0x98	NOI	#6A	Zext might not have reached the altar yet.	
 				...If we hurry, we should be able to catch up!	
-0x8d4	0x41	None	#0W#1E#889c	─Hmph, you two seem pretty carefree.#0E	
+0x8d4	0x41	None	#0W#1E#889c	...Hmph, you two seem pretty carefree.#0E	
 0x966	0x6B	ALTO		Exclamation	
 0x990	0x6B	NOI		Exclamation	
 0x9b9	0x06	ALTO		ANI_SURPRISE	
@@ -16,9 +16,9 @@ EV_3_S14_temple3_front
 0xc0c	0x98	ALTO	#300x#270y	The masked man!?	
 0xdf7	0x06	ALTO		ANI_BATTOU2	
 0xe5c	0x98	Seram		It's been a while, Noi.	
-0xece	0x98	Seram		As for you over there...	
-				You're a human	
-				from that world, correct?	
+0xece	0x98	Seram		As for you there...	
+				You're a human from	
+				that world, correct?	
 0xf31	0x98	ALTO	#6A	...I am Nayuta Herschel.	
 0xf6c	0x98	ALTO	#6A	You're Zext's...	
 				You're his right-hand man.	
@@ -104,17 +104,17 @@ EV_3_S14_temple3_front
 0x30a4	0x98	Seram		...I'm starting to lose interest.	
 				I will step aside for now.	
 0x30f9	0x98	Seram		If you want the Master Gear, it should	
-				still be in the altar at the summit...	
-				Take it, if you wish.	
+				still be on the altar at the summit...	
+				You can try to take it, if you wish.	
 0x3185	0x6B	ALTO		Exclamation	
 0x31af	0x6B	NOI		Exclamation	
 0x31e0	0x6B	NOI		Unknown	
 0x3209	0x06	NOI		ANI_COMPLAIN	
-0x323a	0x98	NOI		W-What are you doing...!?	
-0x32c3	0x98	Seram		It doesn't affect our "plan" in any way	
+0x323a	0x98	NOI		Wh-What are you doing...!?	
+0x32c3	0x98	Seram		It doesn't affect the plan in any way	
 				if the Master Gear is taken or not.	
-0x331a	0x98	Seram		Either way, I don't think it's	
-				possible for you take it...	
+0x331a	0x98	Seram		Either way, I don't think it would	
+				be possible for you to take it...	
 0x3388	0x98	Seram		...Heh, well, at best you	
 				could get in a good workout.	
 0x3411	0x06	ALTO		ANI_WAIT	
@@ -138,7 +138,7 @@ EV_3_S14_temple3_front
 0x3b53	0x98	ALTO	#6A	This world's...true form...?	
 0x3baf	0x98	ALTO	#6A	Noi, do you know what this─	
 0x3c02	0x98	NOI	#0W	It can't be...	
-				He's Master Selam...!?	
+				Master Selam...!?	
 0x3c4b	0x06	NOI		ANI_WORRIED	
 0x3c73	0x98	NOI	#0W	It's not true, it's not...!	
 0x3ceb	0x06	ALTO		ANI_GESTURE2	
@@ -155,8 +155,8 @@ EV_3_S14_temple3_front
 0x4014	0x98	NOI		...Master Selam	
 				slept in the garden	
 				with Master Kureha.	
-0x406e	0x98	NOI		But a few years ago,	
-				he suddenly disappeared...	
+0x406e	0x98	NOI		But a few years ago, he	
+				suddenly disappeared...	
 0x40c5	0x06	ALTO		ANI_THINK2	
 0x40ed	0x98	ALTO	#6A	Is that so...	mp_0001 0xcecd
 0x4125	0x06	NOI		ANI_DEJECTED	

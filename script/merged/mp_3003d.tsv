@@ -13,7 +13,7 @@ EV_3_S13_find_yupina
 0xa1c	0x06	ALTO		ANI_FIND	
 0xa68	0x98	ALTO		There's no doubt about it...	
 				That's Yupina Grass!	
-0xab9	0x98	ALTO		B-But it seems a little	
+0xab9	0x98	ALTO		B-But it looks a little	
 				dull compared to the picture	
 				in the encyclopedia...	
 0xb86	0x06	ALTO		ANI_SIT6	
@@ -21,7 +21,7 @@ EV_3_S13_find_yupina
 0xc16	0x98	ALTO	#0W#6A	The habitat should match...	
 0xc8d	0x98	NOI		...I'm sure it's because	
 				of this cold weather.	
-0xd28	0x98	ALTO	#6A	...I've came so far, but...	
+0xd28	0x98	ALTO	#6A	...I've come so far, but...	
 				There never was anything	
 				left to begin with...	
 0xd78	0x98	ALTO	#6A	...Eartha...!	
@@ -33,7 +33,7 @@ EV_3_S13_find_yupina
 				controls this continent... We could	
 				restore the climate to normal!	
 0xfb5	0x6B	ALTO		Surprise	
-0x1040	0x98	ALTO	#6A	T-That's it!	
+0x1040	0x98	ALTO	#6A	Th-That's it!	
 0x1072	0x98	ALTO	#6A	Maybe the Astrolabe can bring	
 				back the Yupina Grass...!	
 0x10d7	0x06	NOI		ANI_NOD	

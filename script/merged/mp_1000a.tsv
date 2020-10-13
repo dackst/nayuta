@@ -9,8 +9,8 @@ tbox
 crystal
 QS_21_plant_a_seedling
 0x106a	0x06	ALTO		ANI_THINK2	
-0x1092	0x98	ALTO		(It looks like there's some	
-				 high-quality soil around here.)	
+0x1092	0x98	ALTO		(Looks like there's some high	
+				 quality soil around here.)	
 0x10e8	0x98	ALTO		(I might be able to raise	
 				 the Hundred-Year Peach here.)	
 0x114d	0x6B	NOI		Question	
@@ -28,11 +28,11 @@ QS_21_plant_a_seedling
 0x1532	0x40	UNDEF		Planted the 100-Year Peach Sapling.	
 0x15ab	0x06	ALTO		ANI_WAIT	
 0x1617	0x98	ALTO		(Let's try changing the season to	
-				 Summer and coming back here.)	
+				 summer and coming back here.)	
 QS_21_LookPoint
 0x1815	0x40	UNDEF		The 100-Year Peach Sapling is planted.	
 0x185c	0x98	ALTO		(Let's try changing the season to	
-				 Summer and coming back here.	
+				 summer and coming back here.	
 				 Then, I'm sure...)	
 SB_1_S01_appear_ALTO
 0x19b6	0x06	ALTO		ANI_TIRED_WALK	
@@ -47,20 +47,20 @@ EV_1_S01_jungle1_start
 				in the blink of an eye.	
 0x2429	0x98	Signa		Hey, are you all right, Nayuta?	
 0x24a3	0x06	ALTO		ANI_TIRED_WAIT	
-0x24cf	0x98	ALTO	#6A	Ah, I'm okay, just a little	
-				winded by the transfer gate...	
+0x24cf	0x98	ALTO	#6A	Ah, I'm okay, just a little winded	
+				by the teleporter device...	
 0x2533	0x98	ALTO	#6A	I guess I'm just not used to the	
 				sensation of my body being	
 				hurled around at high speeds.	
-0x25e7	0x98	NOI	#6A	Geez, humans are so feeble...	
+0x25e7	0x98	NOI	#6A	Jeez, humans are so feeble...	
 0x265d	0x98	NOI	#6A	...Hey, but Cygna seems	
 				to be doing fine.	
 0x26e5	0x98	Signa		Oh, yeah.	
 0x270f	0x06	Signa		ANI_WAIT3	
 0x2737	0x98	Signa		It might be because I train	
-				daily for the vigilante corps.	
+				daily for the city guard.	
 0x2798	0x98	ALTO	#6A	Ahaha, Cygna...	
-				I gotta to get used	
+				I gotta get used	
 				to this soon, too.	
 0x280f	0x06	ALTO		ANI_WAIT4	
 0x2840	0x98	ALTO	#6A	...Anyway, so this is the	
@@ -107,7 +107,7 @@ EV_1_S01_jungle1_start
 0x2f9b	0x07	System	#4C	Noi has been added to your companions,	
 				and you can now control her.	
 0x2fec	0x07	System	#4C	Noi is a partner who can fight	
-				using magic called "Arts."	
+				using magic called "arts."	
 				Use her well with Nayuta to continue.	
 0x3315	0x07	System	#4C	Stage Clear status is now	
 				displayed on the sub-menu.	
@@ -117,12 +117,12 @@ EV_1_S02_jungle1_end
 0x3c73	0x06	ALTO		ANI_GESTURE1	
 0x3c9d	0x98	ALTO		Right over there...	
 				Looks like another	
-				transfer gate!	
+				teleporter device!	
 0x3d03	0x06	NOI		ANI_GESTURE2	
 0x3d2c	0x98	NOI	#6A	We can use that to	
 				proceed further inland.	
 0x3df6	0x06	NOI		ANI_THINK	
-0x3e1c	0x98	NOI	#6A	Zext...	Wonder where he's	
+0x3e1c	0x98	NOI	#6A	Zext... Wonder where he's	
 				planning on taking the	
 				Master Gear...?	
 0x3f22	0x06	Signa		ANI_WAIT4	
@@ -137,8 +137,9 @@ EV_1_S02_jungle1_end
 0x4172	0x06	Signa		ANI_HANDOVER	
 0x419d	0x06	ALTO		ANI_RECEIVE	
 0x41ce	0xC1	System		obtained.	mp_0000 0x7558
-0x4368	0x40	ALTO		Oh, that's...? Isn't this that swordsmanship	
-				training book you use all the time?	
+0x4368	0x40	ALTO		Oh, that's...? Isn't this	
+				that swordsmanship training	
+				book you use all the time?	
 0x43cf	0x40	ALTO		It's for recording significant	
 				events in your training	
 				with stamps...	
@@ -151,18 +152,18 @@ EV_1_S02_jungle1_end
 				Giving this to me...	
 0x45e6	0x06	Signa		ANI_WAIT3	
 0x460e	0x98	Signa		Oh, come on, why are you so surprised?	
-				You're Master's pupil too, so you already	
-				have a pretty good feel for swords.	
-0x468b	0x98	Signa		I've pretty much finished	
-				the training. You should use
+				You are Master's student too, and you	
+				already have a pretty good feel for swords.	
+0x468b	0x98	Signa		I've pretty much finished the	
+				training in it. You should use
 				it so it won't go to waste.	
 0x46fe	0x98	Signa		...Nayuta, when you've collected enough	
 				training stamps, you should show Master.	
 				He'll probably give you some advice.	
 0x47a7	0x06	ALTO		ANI_NOD	
-0x47cc	0x98	ALTO		Ha, okay then, thank you	
-				for letting me have this.	
-0x482e	0x98	Signa		Yeah, good luck with it.	
+0x47cc	0x98	ALTO		Ha, okay then, thanks for	
+				letting me have this.	
+0x482e	0x98	Signa		Yeah, good luck.	
 0x487f	0x98	Signa		Sorry, Noi, I got distracted.	
 				Let's get going!	
 0x48e4	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e

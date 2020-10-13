@@ -51,9 +51,9 @@ lp_stuffed5
 lp_stuffed6
 0x2239	0x41	None		[Eagle] Haliaeetus leucocephalus	
 				Large bird known for its courage.	
-				Its great wings are spread out when it flies,	
-				and sometimes it carries off even small calves.	
-				It is known as "king of the skies."	
+				It spreads its great wings out when it flies, and	
+				is sometimes known to carry off even small calves.	
+				It is considered the "king of the skies."	
 lp_stuffed7
 0x242e	0x41	None		[Ancient Wolf] Canis	
 				A carnivorous species that acts in groups.	
@@ -106,28 +106,28 @@ lp_dinosaur
 				kinds of animals.	
 0x364e	0x41	None		Tyrannosaur Skeleton	
 				It seems to be the skeleton of a tyrannosauroid.	
-				Because part of it is missing, the details are unknown.	
+				Because part of it is missing, further details are unknown.	
 0x385a	0x41	None		Pteranodon	
 				Reptile species that lived in ancient times.	
 				It is thought to have hunted by swooping down	
 				from the high skies with its large wings.	
 0x395f	0x41	None		Pterosaur Skeleton	
 				It seems to be the skeleton of a pterosaur.	
-				Because part of it is missing, the details are unknown.	
+				Because part of it is missing, further details are unknown.	
 0x3b65	0x41	None		Triceratops	
 				Reptile species that lived in ancient times.	
 				Having three large horns and a collar, it seems	
 				to have fought like the water buffalo, by charging.	
 0x3c64	0x41	None		Ceratops Skeleton	
 				It seems to be the skeleton of a ceratopsian.	
-				Because part of it is missing, the details are unknown.	
+				Because part of it is missing, further details are unknown.	
 0x3e6b	0x41	None		Plesiosaurus	
 				Reptile species that lived in ancient times.	
 				Calmly swimming in the sea, it is thought to have	
 				used its long neck to prey on fish and squid.	
 0x3f6b	0x41	None		Plesiosaur Skeleton	
 				It seems to be the skeleton of a plesiosaur.	
-				Because part of it is missing, the details are unknown.	
+				Because part of it is missing, further details are unknown.	
 lp_nodata
 0x40d9	0x41	None		【？？？？？？】	mp_0115a 0x5de8
 					

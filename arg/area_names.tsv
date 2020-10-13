@@ -7,7 +7,7 @@ mp_0001d	0x55	area name	mp_0001 0x53
 mp_0002	0x53	area name	 Remnant Island/Beach
 mp_0002c	0x55	area name	mp_0002 0x53
 mp_0002d	0x55	area name	mp_0002 0x53
-mp_0003	0x53	area name	 Remant Island/Harbor
+mp_0003	0x53	area name	 Remnant Island/Harbor
 mp_0003c	0x55	area name	mp_0003 0x53
 mp_0003d	0x55	area name	mp_0003 0x53
 mp_0004	0x53	area name	 Remnant Island/Outskirts
@@ -25,15 +25,15 @@ mp_0101b	0x55	area name	mp_0101 0x53
 mp_0101c	0x55	area name	mp_0101 0x53
 mp_0102	0x53	area name	 Terra, The Other World
 mp_0102a	0x55	area name	mp_0102 0x53
-mp_0103	0x53	area name	 Star Capital Lexendria
+mp_0103	0x53	area name	 Star City Lexendria
 mp_0104	0x53	area name	 Stellarium, Place of Stars
 mp_0105	0x4c	area name	
 mp_0106	0x4c	area name	mp_0105 0x4c
-mp_0110	0x53	area name	 Herschel House
+mp_0110	0x53	area name	 Herschels' House
 mp_0111	0x53	area name	 Meteor Workshop
-mp_0112	0x53	area name	 Moon View Pavillion Inn
+mp_0112	0x53	area name	 Moonlight Pavilion Inn
 mp_0113	0x53	area name	 Sunset General Store
-mp_0114	0x53	area name	 Farm House
+mp_0114	0x53	area name	 Farmer's House
 mp_0115	0x53	area name	 Remnant Island Museum
 mp_0115a	0x55	area name	 Museum Exhibit
 mp_0115b	0x55	area name	mp_0115a 0x55
@@ -101,10 +101,10 @@ mp_4001a	0x4e	area name	 Pulsating Fault/Spring
 mp_4001b	0x4e	area name	 Pulsating Fault/Summer
 mp_4001c	0x4e	area name	 Pulsating Fault/Fall
 mp_4001d	0x4e	area name	 Pulsating Fault/Winter
-mp_4002a	0x4e	area name	 Underworld Crater/Spring
-mp_4002b	0x4e	area name	 Underworld Crater/Summer
-mp_4002c	0x4e	area name	 Underworld Crater/Fall
-mp_4002d	0x4e	area name	 Underworld Crater/Winter
+mp_4002a	0x4e	area name	 Infernal Crater/Spring
+mp_4002b	0x4e	area name	 Infernal Crater/Summer
+mp_4002c	0x4e	area name	 Infernal Crater/Fall
+mp_4002d	0x4e	area name	 Infernal Crater/Winter
 mp_4010	0x4c	area name	 La Worg Temple/First Half
 mp_4011	0x4c	area name	 La Worg Temple/Second Half
 mp_4099	0x53	area name	 La Worg Temple/Sanctum
@@ -117,10 +117,10 @@ mp_5100	0x53	area name	 Heliograd/Outer Wall
 mp_5101	0x53	area name	mp_5098 0x53
 mp_5200	0x53	area name	 Heliograd/Summit
 mp_5300	0x53	area name	 Heliograd/Near the Summit
-mp_6000	0x53	area name	 Municipal District Ⅱ
-mp_6001	0x53	area name	 Municipal District Ⅲ
-mp_6002	0x53	area name	 Municipal District Ⅰ
-mp_6003	0x53	area name	 Municipal District Ⅳ
+mp_6000	0x53	area name	 Urban District Ⅱ
+mp_6001	0x53	area name	 Urban District Ⅲ
+mp_6002	0x53	area name	 Urban District Ⅰ
+mp_6003	0x53	area name	 Urban District Ⅳ
 mp_6100	0x53	area name	 Tower Ruins/Summit
 mp_6100d	0x55	area name	mp_6100 0x53
 mp_6200	0x53	area name	 Tower Ruins
@@ -128,17 +128,17 @@ mp_6300	0x53	area name	 Riese Pillar
 mp_6301	0x53	area name	 Heim Pillar
 mp_6302	0x53	area name	 Wor Pillar
 mp_6303	0x53	area name	 Olt Pillar
-mp_7010	0x53	area name	 Cradle Area/First Half
-mp_7011	0x53	area name	 Cradle Area/Second Half
-mp_7020	0x53	area name	 Glowing Dust Area/First Half
-mp_7021	0x53	area name	 Glowing Dust Area/Second Half
-mp_7098	0x53	area name	 Stellar Core Temple
-mp_7099	0x53	area name	 Stellar Core Temple/Space
+mp_7010	0x53	area name	 Birthing Chamber/First Half
+mp_7011	0x53	area name	 Birthing Chamber/Second Half
+mp_7020	0x53	area name	 Shining Dust Area/First Half
+mp_7021	0x53	area name	 Shining Dust Area/Second Half
+mp_7098	0x53	area name	 Planetary Core Temple
+mp_7099	0x53	area name	 Planetary Core Temple/Space
 mp_7099a	0x55	area name	 Planetarium/Interior
 mp_7099b	0x55	area name	mp_7099a 0x55
 mp_7099c	0x55	area name	mp_7099a 0x55
-mp_7100	0x53	area name	 Cradle Area
-mp_7200	0x53	area name	 Center <Planetarium>
+mp_7100	0x53	area name	 Birthing Chamber
+mp_7200	0x53	area name	 Planetarium Core
 mp_8098	0x53	area name	 Observatory/Interior
 mp_8099	0x53	area name	mp_8098 0x53
 mp_8100	0x53	area name	 Noi's Spirit World

@@ -37,7 +37,7 @@ arg_pos_ptr = {
 
 INPUT_FOLDER = 'merged'
 OUTPUT_FOLDER = 'output'
-INSERT_COL = 5
+INSERT_COL = 4
 
 #Holds: addr, opcode/microcode number
 class Op(object):

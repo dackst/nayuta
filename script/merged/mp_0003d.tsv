@@ -12,8 +12,9 @@ talk_Puppis
 				state of panic right now.	
 0x662	0x98	Puppis		I'm sure Saint Cerise is going	
 				through the same thing....	
-0x6bf	0x98	Puppis		...Tch, not good. The world's	
-				not in a good place at the moment.	
+0x6bf	0x98	Puppis		...Damn it, this is not good.`
+				The world's not in a good	
+				place at the moment.	
 0x724	0x98	Puppis		I don't know the specifics,	
 				but...this crazy weather isn't	
 				only happening around here.	
@@ -64,21 +65,21 @@ talk_Axe
 				in a state of panic right now.
 0x10d4	0x98	Puppis		...Oh man, we'll have to get the	
 				ship ready. Looks like it won't	
-				as smooth sailing as usual.	
+				be smooth sailing as usual.	
 0x1168	0x98	Axe		Well, I'm just glad the ship's safe.	
-0x11a8	0x98	Axe		But we still don't know what	
-				happened with those freaks...	
+0x11a8	0x98	Axe		But still, we don't know what	
+				was up with those freaks...	
 				You be careful too, Captain.	
 talk_Carina
 0x124b	0x98	Carina		I have to thank Kureha for	
-				saving Collie, Vel and Axe.	
+				saving Collie, Vel, and Axe.	
 0x129f	0x98	Carina		Nayuta, you...
 				You have to rescue her.	
-0x12ed	0x98	Carina		No one would ever think that	
-				something so scary would	
-				happen on this island...	
+0x12ed	0x98	Carina		I can't believe something	
+				so horrible could happen	
+				on this island...	
 0x1357	0x98	Carina		But I'm so glad Collie,	
-				Vel and Axe are safe...	
+				Vel, and Axe are safe...	
 0x13a9	0x98	Carina		...This is all because
 				Kureha protected us.	
 0x13f8	0x98	Carina		Nayuta...	mp_0003d 0x129f

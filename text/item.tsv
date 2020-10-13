@@ -1,11 +1,11 @@
 0x10	name	Wooden Sword
-0x28	desc	For training. The blade is thick, good for swinging around.
+0x28	desc	For training. The blade is thick and good for swinging around.
 0x9c	name	Short Sword
 0xb4	desc	Copper sword. Though small, it has some weight to it.
 0x128	name	Legion Knife
 0x140	desc	Easy to handle single-edge sword preferred by soldiers.
 0x1b4	name	Crescent Sword
-0x1cc	desc	Typical eastern scimitar with a sharp edge.
+0x1cc	desc	Typical Eastern scimitar with a sharp edge.
 0x240	name	Crystal Edge
 0x258	desc	Made from mysterious material, it is as light as a feather.
 0x2cc	name	Durandal
@@ -15,9 +15,9 @@
 0x3e4	name	Seventh Heaven
 0x3fc	desc	Sword created by the Mythos that can cut through space.
 0x470	name	Chrono Blade
-0x488	desc	Legendary blade of Terra, made of refined star power.
+0x488	desc	Legendary blade of Terra, made from refined Power of the Stars.
 0x4fc	name	Thousand Worlds Sword
-0x514	desc	Fine sword inherited from Master. Peerless sharpness.
+0x514	desc	Fine sword inherited from Master. Unrivaled sharpness.
 0x588	name	
 0x5a0	desc	
 0x614	name	
@@ -301,23 +301,23 @@
 0x5218	name	Hairclip
 0x5230	desc	[Collectible Drop Rate Up] Cute hair ornament for dolls.
 0x52a4	name	Casual Glasses
-0x52bc	desc	[Pinch INT Up] Small red glasses.
+0x52bc	desc	[INT Up In a Pinch] Small red glasses.
 0x5330	name	Dango Chigon
 0x5348	desc	[Recovery Item Drop Rate Up] Doll ornament to collect all hair.
 0x53bc	name	Ribbon
 0x53d4	desc	[Mira Up] Red ribbon said to bring good luck.
 0x5448	name	Flower Crown
-0x5460	desc	[Full HP STR Up] Hair ornament of artificial flowers. Has a nice smell.
-0x54d4	name	Wizard Hat
-0x54ec	desc	[Ingredient Drop Rate Up] Modeled on fairy-tale witches.
+0x5460	desc	[Full HP STR Up] Hair ornament of artificial flowers. Smells nice.
+0x54d4	name	Witch's Hat
+0x54ec	desc	[Ingredient Drop Rate Up] Accessory shaped like a witch's hat.
 0x5560	name	Whisper Band
-0x5578	desc	[EXP Up] Cynical doll accessory modeled on a bat wing.
+0x5578	desc	[EXP Up] Sinister doll accessory in the shape of a bat wing.
 0x55ec	name	Star Bands
 0x5604	desc	[Fast Craft Gauge Recovery] Large brass star hairclip.
 0x5678	name	Cat Ears
-0x5690	desc	[Mira/Ingr./Coll. Drop Up] Mysterious. Legacy of an old civilization.
+0x5690	desc	[Mira/Ingr./Coll. Drop Up] Mysterious legacy of an ancient civilization.
 0x5704	name	Headdress
-0x571c	desc	[Hidden from Enemies] Ornament worn on the head with church symbol.
+0x571c	desc	[Hide from Enemies] Ornament worn on the head with church symbol.
 0x5790	name	Fairy Cross
 0x57a8	desc	Pure clothing worn by the wind spirit.
 0x581c	name	Tight Suit
@@ -328,18 +328,18 @@
 0x594c	desc	Red dress with black laces to show off its elegant style.
 0x59c0	name	Dance Costume
 0x59d8	desc	Ethnic clothes said to be worn by ancient dancers.
-0x5a4c	name	Wizard Robe
-0x5a64	desc	Doll clothes made in the image of a wizard.
+0x5a4c	name	Witch's Robe
+0x5a64	desc	Doll clothes made in the image of a witch.
 0x5ad8	name	Gothic Dress
 0x5af0	desc	Doll clothes. Exhibits elaborate craftsmanship.
 0x5b64	name	Formal Sailor
-0x5b7c	desc	Doll uniform tailors with fresh and subdued colors.
+0x5b7c	desc	Doll uniform tailored with fresh and subdued colors.
 0x5bf0	name	Ether Cross
-0x5c08	desc	Doll clothes with magic power made of mystery material.
+0x5c08	desc	Doll clothes with magic power made from unknown material.
 0x5c7c	name	Maid Dress
-0x5c94	desc	Sophisticated dress that evokes a spirit of service.
+0x5c94	desc	Sophisticated dress that evokes the spirit of service.
 0x5d08	name	Angel Wings
-0x5d20	desc	[Fall Damage Down] Posable doll accessory modeled on angel wings.
+0x5d20	desc	[Fall Damage Down] Posable doll accessory shaped like angel wings.
 0x5d94	name	Anklet
 0x5dac	desc	[Plyze Resist/Plyze Add] Small gold anklet.
 0x5e20	name	Pom Pouch
@@ -347,15 +347,15 @@
 0x5eac	name	Silver Bracelet
 0x5ec4	desc	[Confuse Resist/Confuse Add] Beautiful bracelet of shining silver.
 0x5f38	name	Butterfly Wings
-0x5f50	desc	[No Fall Damage] Posable doll accessory modeled on butterfly wings.
+0x5f50	desc	[No Fall Damage] Posable doll accessory shaped like butterfly wings.
 0x5fc4	name	Periwinkle Anklet
 0x5fdc	desc	[Poison Resist/Poison Add] Heavy and carved with complex patterns.
 0x6050	name	Demon Tail
-0x6068	desc	[Trap Damage Halved] Slippery ornament made for mischief in mind.
+0x6068	desc	[Trap Damage Halved] Slippery ornament made with mischief in mind.
 0x60dc	name	Halo Ring
 0x60f4	desc	[Freeze Resist/Freeze Add] Metal halo ornament that absorbs heat.
 0x6168	name	Cat Tail
-0x6180	desc	[No Fall Damage/Trap Damage Down] Mysteriously moving cat tail accessory.
+0x6180	desc	[No Fall Damage/Trap Damage Down] Cat tail accessory that somehow moves.
 0x61f4	name	Belt Choker
 0x620c	desc	[Resist All/Add All] Holy choker that repels all evil.
 0x6280	name	
@@ -563,7 +563,7 @@
 0x99bc	name	Mandragora
 0x99d4	desc	[Natural Food] Person-shaped tree root used by wizards for medicine.
 0x9a48	name	Swallow Base
-0x9a60	desc	[Natural Food] Bird nest considered a delicacy. Beauty and texture.
+0x9a60	desc	[Natural Food] Bird nest. An Eastern delicacy. Unique texture.
 0x9ad4	name	Dragon Fruit
 0x9aec	desc	[Natural Food] Said to put dragons to sleep. Unexpectedly juicy.
 0x9b60	name	Olm Shell
@@ -575,7 +575,7 @@
 0x9d04	name	Gar Egg
 0x9d1c	desc	[Natural Food] Egg of primitive bird. Superb volume and nutrition.
 0x9d90	name	Huge Potato
-0x9da8	desc	[Natural Food] Large potato. The fruit is solid and hard to crumble.
+0x9da8	desc	[Natural Food] Large potato. Solid and hard to crumble.
 0x9e1c	name	Trident Carrot
 0x9e34	desc	[Natural Food] Healthful orange carrot whose end is split into three.
 0x9ea8	name	Hundred-Leaf Cabbage
@@ -585,7 +585,7 @@
 0x9fc0	name	Tear Onion
 0x9fd8	desc	[Natural Food] Fresh onion that makes you cry just by being near it.
 0xa04c	name	Elegant Eggplant
-0xa064	desc	[Natural Food] Beautifully black and glossy. The fruit is juicy.
+0xa064	desc	[Natural Food] Beautifully black and glossy. Juicy.
 0xa0d8	name	1000-Year Unripe Plum
 0xa0f0	desc	[Natural Food] Common. Accents dishes with a strong acidity.
 0xa164	name	Gem Tomato
@@ -606,26 +606,26 @@
 0xa550	desc	[White Meat] Thick, juicy flesh that seems filling.
 0xa5c4	name	Choice White Meat
 0xa5dc	desc	[White Meat] Rare meat taken from backwoods creatures.
-0xa650	name	God Meat <White Snow>
-0xa668	desc	[White Meat] Supreme meat with miraculous fat balance.
-0xa6dc	name	Firm, Sinewy Meat
+0xa650	name	White Snow God Meat
+0xa668	desc	[White Meat] Supreme meat with miraculous balance of fat.
+0xa6dc	name	Firm Meat
 0xa6f4	desc	[Red Meat] Chewy meat. Its transformation depends on cooking.
-0xa768	name	Thin Sliced Red Meat
+0xa768	name	Thin-Sliced Red Meat
 0xa780	desc	[Red Meat] Bright red and dripping with blood. Pretty soft.
-0xa7f4	name	Meat from the Bone
+0xa7f4	name	Meat From The Bone
 0xa80c	desc	[Red Meat] Still stuck to the bone, it overflows with wild flavor.
 0xa880	name	Marbled Soft Meat
 0xa898	desc	[Red Meat] Marbled meat rarely eaten by common folk.
-0xa90c	name	Devil King Mt.<Crimson>
-0xa924	desc	[Red Meat] Top class meat. No matter the dish, it's delicious.
+0xa90c	name	Crimson Demon Meat
+0xa924	desc	[Red Meat] Top-class meat. Always delicious, no matter the dish.
 0xa998	name	Easy-Cut Meat
 0xa9b0	desc	[Fish Meat] Soft fish meat with few blemishes. Can eat raw.
 0xaa24	name	Tender White Meat
 0xaa3c	desc	[Fish Meat] White fish meat. The body is tender.
 0xaab0	name	Fresh Red Meat
-0xaac8	desc	[Fish Meat] Red fish meat. Doesn't smell if it's fresh.
+0xaac8	desc	[Fish Meat] Red fish meat. Doesn't smell as long as it's fresh.
 0xab3c	name	Full Tail
-0xab54	desc	[Fish Meat] Meat of the tail of a large beast. Has plenty of fat.
+0xab54	desc	[Fish Meat] Meat of the tail of a large beast. Is full of fat.
 0xabc8	name	Sea King Tuna
 0xabe0	desc	[Fish Meat] Exquisite fish meat that melts in your mouth.
 0xac54	name	Inner Liver
@@ -699,37 +699,37 @@
 0xbeec	name	
 0xbf04	desc	
 0xbf78	name	Eartha's Lunch Box
-0xbf90	desc	Lunch box Eartha made. Has a nice smell even though covered.
+0xbf90	desc	Lunch box that Eartha made. Smells nice even though covered.
 0xc004	name	Eternal Rose
-0xc01c	desc	Found on forest continent. If given water, it will never wither.
+0xc01c	desc	Found on the Forest Continent. If given water, it will never wither.
 0xc090	name	Small Shard
-0xc0a8	desc	Small smashed Star Shard. Can't see the other world. Shines prettily.
+0xc0a8	desc	Cracked star shard. Can't be used to see another world. Shines prettily.
 0xc11c	name	100-Year Peach Sapling
-0xc134	desc	Strange tree sapling. If planted in spring, it will bear fruit in summer.
+0xc134	desc	Strange tree sapling. If planted in spring, it bears fruit in summer.
 0xc1a8	name	100-Year Peach
-0xc1c0	desc	Strange peach with deep sweetness. Rumor is that it gives eternal youth.
+0xc1c0	desc	Strange peach with a deep sweet flavor. Said to give eternal youth.
 0xc234	name	Elumi Resin
-0xc24c	desc	Colorless and transparent resin. Can repair the broken lens.
+0xc24c	desc	Colorless and transparent resin. Used to repair broken lens.
 0xc2c0	name	Pacific Flying Squid
-0xc2d8	desc	One of Remnant Island's famous products. Sun-dried flavor.
+0xc2d8	desc	Remnant Island specialty. Sun-dried.
 0xc34c	name	Ruins Rock Salt
-0xc364	desc	Remnant Island's specialty. Salt crystals created by nature.
+0xc364	desc	Remnant Island specialty. Salt crystals created by nature.
 0xc3d8	name	Island Loco Moco
-0xc3f0	desc	Remnant Island's specialty. A dish full of local ingredients.
+0xc3f0	desc	Remnant Island specialty. A dish full of local ingredients.
 0xc464	name	Moon Bird Egg
-0xc47c	desc	Egg of destruction beast cared for by Eliselette. Carries a slight heat.
-0xc4f0	name	Byakuda Wood
+0xc47c	desc	Egg of extinct animal cared for by Eliselette. Slightly warm.
+0xc4f0	name	Sandalwood Tree Branch
 0xc508	desc	Wooden branch found on Mountain Continent. Has a pure fragrance.
 0xc57c	name	Ursamina's Letter
-0xc594	desc	The addressee's name, Reticul, is written.
+0xc594	desc	Addressed to "Reticul."
 0xc608	name	Red Pigment
-0xc620	desc	Pigment collected on Mountain Continent. It's a vivid red.
+0xc620	desc	Pigment collected on Mountain Continent. A vivid red color.
 0xc694	name	Yellow Pigment
-0xc6ac	desc	Pigment collected on Mountain Continent. It's a bright yellow.
+0xc6ac	desc	Pigment collected on Mountain Continent. A bright yellow color.
 0xc720	name	Blue Pigment
-0xc738	desc	Pigment collected on Mountain Continent. It's a deep blue.
+0xc738	desc	Pigment collected on Mountain Continent. A deep blue color.
 0xc7ac	name	Colored Jewel
-0xc7c4	desc	Jewel that stores Algol's power. It's dark gray.
+0xc7c4	desc	Jewel that stores Algol's power. A dark gray color.
 0xc838	name	Colored Jewel
 0xc850	desc	Jewel that stores Algol's power. A faint light is inside.
 0xc8c4	name	Colored Jewel
@@ -737,25 +737,25 @@
 0xc950	name	Colored Jewel
 0xc968	desc	Jewel that stores Algol's power. Gives off multicolored lights.
 0xc9dc	name	Ancient Memo ①
-0xc9f4	desc	Copy of a lithograph in Lexendria. Written with strange letters.
+0xc9f4	desc	Copy of a lithograph in Lexendria. Written in strange characters.
 0xca68	name	Ancient Memo ②
-0xca80	desc	Copy of a lithograph in Lexendria. Written with strange letters.
+0xca80	desc	Copy of a lithograph in Lexendria. Written in strange characters.
 0xcaf4	name	Ancient Memo ③
-0xcb0c	desc	Copy of a lithograph in Lexendria. Written with strange letters.
+0xcb0c	desc	Copy of a lithograph in Lexendria. Written in strange characters.
 0xcb80	name	Ancient Memo ④
-0xcb98	desc	Copy of a lithograph in Lexendria. Written with strange letters.
-0xcc0c	name	Unopened Box
+0xcb98	desc	Copy of a lithograph in Lexendria. Written in strange characters.
+0xcc0c	name	Locked Box
 0xcc24	desc	Box cared for by Master. Its surface is carved with Mythos language.
 0xcc98	name	Produce Offering
-0xccb0	desc	Offering for the dead before Star Festival. Full of island produce.
+0xccb0	desc	Ancestral offering for the Star Festival. Full of island produce.
 0xcd24	name	Seafood Offering
-0xcd3c	desc	Offering for the dead before Star Festival. Full of dried island fish.
+0xcd3c	desc	Ancestral offering for the Star Festival. Full of dried island fish.
 0xcdb0	name	Fiona Flower
-0xcdc8	desc	Pure white flower. It is widely used as an offering.
-0xce3c	name	Ingredient Bundle
-0xce54	desc	From Dorado. Has vegetables and bacon inside.
-0xcec8	name	Michey
-0xcee0	desc	Strange animal that cries, "Misshi." Understands human speech.
+0xcdc8	desc	Pure white flower. It is popular as an offering.
+0xce3c	name	Ingredients Bundle
+0xce54	desc	From Dorado. Contains vegetables and bacon.
+0xcec8	name	Mishy
+0xcee0	desc	Mysterious animal that cries, "Misshi." Understands human speech.
 0xcf54	name	
 0xcf6c	desc	
 0xcfe0	name	
@@ -779,23 +779,23 @@
 0xd4cc	name	
 0xd4e4	desc	
 0xd558	name	Bouquet Shard
-0xd570	desc	Round shard. Can view a scene from the other world in your room.
+0xd570	desc	Round star shard. Use from your room to view another world.
 0xd5e4	name	Dusk Shard
-0xd5fc	desc	Bluish shard. Can view a scene from the other world in your room.
+0xd5fc	desc	Bluish star shard. Use from your room to view another world.
 0xd670	name	Radiant Dazzle Shard
-0xd688	desc	Pointed shard. Can view a scene from the other world in your room.
+0xd688	desc	Pointed star shard. Use from your room to view another world.
 0xd6fc	name	Great Echo Shard
-0xd714	desc	Smooth shard. Can view a scene from the other world in your room.
+0xd714	desc	Smooth star shard. Use from your room to view another world.
 0xd788	name	Daybreak Cloud Shard
-0xd7a0	desc	Faintly shining shard. View a scene from the other world in your room.
+0xd7a0	desc	Faintly shining star shard. Use from your room to view another world.
 0xd814	name	Light of Wisdom Shard
-0xd82c	desc	Gently shining shard. View a scene from the other world in your room.
+0xd82c	desc	Gently shining star shard. Use from your room to view another world.
 0xd8a0	name	Under the Sun Shard
-0xd8b8	desc	Softly shining shard. View a scene from the other world in your room.
-0xd92c	name	Shining Star Shard
-0xd944	desc	Shard shining with countless small light. View a scene from other world.
+0xd8b8	desc	Softly shining star shard. Use from your room to view another world.
+0xd92c	name	Glittering Star Shard
+0xd944	desc	Filled with countless lights. Use from your room to view another world.
 0xd9b8	name	Dreams Shard
-0xd9d0	desc	Shard filled with pure light. View a scene from the other world.
+0xd9d0	desc	Filled with a pure light. Use from your room to view another world.
 0xda44	name	
 0xda5c	desc	
 0xdad0	name	
@@ -806,8 +806,8 @@
 0xdc00	desc	Book from Cygna for recording training results.
 0xdc74	name	
 0xdc8c	desc	
-0xdd00	name	Zemuria Stone
-0xdd18	desc	Mineral that sparkles like a countless number of stars.
+0xdd00	name	Zemurian Ore
+0xdd18	desc	Ore that glistens like the stars. So hard that it cannot be processed.
 0xdd8c	name	
 0xdda4	desc	
 0xde18	name	
@@ -951,21 +951,21 @@
 0x103d4	name	
 0x103ec	desc	
 0x10460	name	Master Gear of Earth
-0x10478	desc	Mysterious part with machines inside. Can put it in the Astrolabe.
+0x10478	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
 0x104ec	name	Master Gear of Water
-0x10504	desc	Mysterious part with machines inside. Can put it in the Astrolabe.
+0x10504	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
 0x10578	name	Master Gear of Wind
-0x10590	desc	Mysterious part with machines inside. Can put it in the Astrolabe.
+0x10590	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
 0x10604	name	Master Gear of Fire
-0x1061c	desc	Mysterious part with machines inside. Can put it in the Astrolabe.
+0x1061c	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
 0x10690	name	Amber Stellagear
-0x106a8	desc	Mysterious part with machines inside. Can put it in the Astrolabe.
+0x106a8	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
 0x1071c	name	Azure Stellagear
-0x10734	desc	Mysterious part with machines inside. Can put it in the Astrolabe.
+0x10734	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
 0x107a8	name	Jade Stellagear
-0x107c0	desc	Mysterious part with machines inside. Can put it in the Astrolabe.
+0x107c0	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
 0x10834	name	Crimson Stellagear
-0x1084c	desc	Mysterious part with machines inside. Can put it in the Astrolabe.
+0x1084c	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
 0x108c0	name	
 0x108d8	desc	
 0x1094c	name	
@@ -1045,19 +1045,19 @@
 0x11d88	name	Half-Cooked Burger
 0x11da0	desc	Half-cooked sunny side up eggs with a round burger.
 0x11e14	name	Noble Rib Lunch Box
-0x11e2c	desc	Fine lunch rumored to be eaten by Empire nobles.
+0x11e2c	desc	Fine lunch said to be eaten by Imperial nobility.
 0x11ea0	name	Hamburger
 0x11eb8	desc	Special burger made sparing no expense.
 0x11f2c	name	Meat Roll Nigiri
 0x11f44	desc	Masterpiece onigiri wrapped with juicy meat strips.
-0x11fb8	name	Salt&Pepper Steak Curry
-0x11fd0	desc	Dreamlike curry with top-class meat.
+0x11fb8	name	Pepper Steak Curry
+0x11fd0	desc	Dreamlike curry made with top-class meat.
 0x12044	name	Steak
-0x1205c	desc	Well done steak cooked on an iron plate.
+0x1205c	desc	Well-done steak cooked on an iron plate.
 0x120d0	name	Steak Bun
-0x120e8	desc	Filled steamed bun with steak inside.
+0x120e8	desc	Steamed bun filled with steak.
 0x1215c	name	Devil King Sukiyaki
-0x12174	desc	Fine ingredients cooked with salty-sweet seasoning.
+0x12174	desc	Fine ingredients cooked with a sweet and salty seasoning.
 0x121e8	name	Mayo Tuna
 0x12200	desc	Simple bowl of canned tuna dressed with mayo.
 0x12274	name	Seafood Pizza
@@ -1091,7 +1091,7 @@
 0x12a1c	name	Liver Sashimi
 0x12a34	desc	Sashimi of iron-filled liver. With ginger.
 0x12aa8	name	Plum Rice Ball
-0x12ac0	desc	Coated with miso. It's filling.
+0x12ac0	desc	Coated with miso. Expecially filling.
 0x12b34	name	Solid Liver Lunch Box
 0x12b4c	desc	Lunch of liver that gives energy.
 0x12bc0	name	Jellied Broth
@@ -1101,7 +1101,7 @@
 0x12cd8	name	Fermented Pickles Lunch
 0x12cf0	desc	Lunch box of guts pickled for a long time.
 0x12d64	name	Darkness Stew
-0x12d7c	desc	Mysterious soup. The appearance and flavor are amazing.
+0x12d7c	desc	Mysterious soup. Its appearance and flavor are incredible.
 0x12df0	name	Getty Dog
 0x12e08	desc	Made of mystery meat. Herbs help the flavor.
 0x12e7c	name	Dynasty Tripe
@@ -1263,7 +1263,7 @@
 0x15924	name	Knower of the Star Sea
 0x1593c	desc	Cleared the game on Infinity difficulty.
 0x159b0	name	Small Giant
-0x159c8	desc	Attained level 50.
+0x159c8	desc	Reached level 50.
 0x15a3c	name	Millionaire
 0x15a54	desc	Had more than one million mira.
 0x15ac8	name	Friend to Mishy
@@ -1406,8 +1406,8 @@
 0x18010	desc	Move to the center of Remnant Island.
 0x18084	name	World Map of Terra
 0x1809c	desc	Move to the world map of Terra.
-0x18110	name	Stellar City Lexendria
-0x18128	desc	Move to Stellar City Lexendria.
+0x18110	name	Star City Lexendria
+0x18128	desc	Move to Star City Lexendria.
 0x1819c	name	Depths of Stellarium
 0x181b4	desc	Move to the depths of the Stellarium.
 0x18228	name	Forest - 4th Season
@@ -1478,12 +1478,12 @@
 0x193c0	desc	
 0x19434	name	
 0x1944c	desc	
-0x194c0	name	Infinity Limit Release
-0x194d8	desc	When difficulty is Infinity, enemy level is unlimited (窶ｻcan set again).
-0x1954c	name	Infinity Limit Restore
-0x19564	desc	When difficulty is Infinity, enemy level is fixed (窶ｻcan set again).
-0x195d8	name	Infinity Limit Release
-0x195f0	desc	When difficulty is Infinity, enemy level is unlimited (窶ｻcan set again).
+0x194c0	name	Infinity Enemy Scaling
+0x194d8	desc	On Infinity difficulty, set enemy levels to scale (窶ｻcan set again).
+0x1954c	name	Infinity Enemy Restore
+0x19564	desc	On Infinity difficulty, restore fixed enemy levels (窶ｻcan set again).
+0x195d8	name	Infinity Enemy Scaling
+0x195f0	desc	On Infinity difficulty, set enemy levels to scale (窶ｻcan set again).
 0x19664	name	
 0x1967c	desc	
 0x196f0	name	
@@ -1559,21 +1559,21 @@
 0x1aa14	name	
 0x1aa2c	desc	
 0x1aaa0	name	Doghouse
-0x1aab8	desc	Of beautifully cut lumber. It will be be a doghouse when you set it up.
+0x1aab8	desc	Made from beautifully cut lumber. Will be be a doghouse once set up.
 0x1ab2c	name	
 0x1ab44	desc	
 0x1abb8	name	
 0x1abd0	desc	
 0x1ac44	name	
 0x1ac5c	desc	
-0x1acd0	name	White Crystal
-0x1ace8	desc	Angular white crystal. Bring to weapon shop for new goods.
-0x1ad5c	name	Crimson Crystal
-0x1ad74	desc	Red hard crystal. Bring to weapon shop for new goods.
-0x1ade8	name	Deep Crystal
-0x1ae00	desc	Heavy ultramarine crystal. Bring to weapon shop for new goods.
+0x1acd0	name	White Ore
+0x1ace8	desc	Angular white ore. Bring to weapon shop for new goods.
+0x1ad5c	name	Crimson Ore
+0x1ad74	desc	Hard red ore. Bring to weapon shop for new goods.
+0x1ade8	name	Deep Ore
+0x1ae00	desc	Heavy ultramarine ore. Bring to weapon shop for new goods.
 0x1ae74	name	Stellatite
-0x1ae8c	desc	Crystal full of star power. Bring to weapon shop for new goods.
+0x1ae8c	desc	Ore infused with Power of the Stars. Bring to weapon shop.
 0x1af00	name	Crimson Cocoon
 0x1af18	desc	Brightly colored silk. Bring to general store for new goods.
 0x1af8c	name	Silver Cocoon
@@ -1581,13 +1581,13 @@
 0x1b018	name	Bright Green Cocoon
 0x1b030	desc	Beautifully brilliant silk. Bring to general store for new goods.
 0x1b0a4	name	Stella Cocoon
-0x1b0bc	desc	Silk full of star power. Bring to general store for new goods.
+0x1b0bc	desc	Silk infused with Power of the Stars. Bring to general store.
 0x1b130	name	Ripening Soil
-0x1b148	desc	Soft soil. Bring to farm for new general store goods.
+0x1b148	desc	Soft soil. Bring to farm for new goods.
 0x1b1bc	name	Good Harvest Soil
-0x1b1d4	desc	Rich, dark soil. Bring to farm for new general store goods.
+0x1b1d4	desc	Rich, dark soil. Bring to farm for new goods.
 0x1b248	name	Stella Soil
-0x1b260	desc	Soil full of star power. Bring to farm for new general store goods.
+0x1b260	desc	Soil infused with Power of the Stars. Bring to farm.
 0x1b2d4	name	
 0x1b2ec	desc	
 0x1b360	name	Delicious Bone
@@ -1598,29 +1598,29 @@
 0x1b490	desc	Durable, flexible and colorful bowl. Give to dogs as a present.
 0x1b504	name	Bagel Bed
 0x1b51c	desc	Soft, bagel-shaped bed. Give to dogs as a present.
-0x1b590	name	Tyrannosaurus Foot
+0x1b590	name	Tyrannosaur Foot
 0x1b5a8	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b61c	name	Tyrannosaurus Body
+0x1b61c	name	Tyrannosaur Body
 0x1b634	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b6a8	name	Tyrannosaurus Arm
+0x1b6a8	name	Tyrannosaur Arm
 0x1b6c0	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b734	name	Tyrannosaurus Head
+0x1b734	name	Tyrannosaur Head
 0x1b74c	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b7c0	name	Pterodactyl Foot
+0x1b7c0	name	Pterosaur Foot
 0x1b7d8	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b84c	name	Pterodactyl Body
+0x1b84c	name	Pterosaur Body
 0x1b864	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b8d8	name	Pterodactyl Wing
+0x1b8d8	name	Pterosaur Wing
 0x1b8f0	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b964	name	Pterodactyl Head
+0x1b964	name	Pterosaur Head
 0x1b97c	desc	Ancient fossil through which the time it was alive can be examined.
-0x1b9f0	name	Triceratops Foot
+0x1b9f0	name	Ceratops Foot
 0x1ba08	desc	Ancient fossil through which the time it was alive can be examined.
-0x1ba7c	name	Triceratops Body
+0x1ba7c	name	Ceratops Body
 0x1ba94	desc	Ancient fossil through which the time it was alive can be examined.
-0x1bb08	name	Triceratops Arm
+0x1bb08	name	Ceratops Arm
 0x1bb20	desc	Ancient fossil through which the time it was alive can be examined.
-0x1bb94	name	Triceratops Head
+0x1bb94	name	Ceratops Head
 0x1bbac	desc	Ancient fossil through which the time it was alive can be examined.
 0x1bc20	name	Plesiosaur Foot
 0x1bc38	desc	Ancient fossil through which the time it was alive can be examined.
@@ -1632,7 +1632,7 @@
 0x1bddc	desc	Ancient fossil through which the time it was alive can be examined.
 0x1be50	name	Sabretooth
 0x1be68	desc	Stuffed animal through which the time it was alive can be examined.
-0x1bedc	name	Giant Deer Taxidermy
+0x1bedc	name	Giant Deer
 0x1bef4	desc	Stuffed animal through which the time it was alive can be examined.
 0x1bf68	name	Ancient Wolf
 0x1bf80	desc	Stuffed animal through which the time it was alive can be examined.
@@ -1646,11 +1646,11 @@
 0x1c1b0	desc	Stuffed animal through which the time it was alive can be examined.
 0x1c224	name	Penguin
 0x1c23c	desc	Stuffed animal through which the time it was alive can be examined.
-0x1c2b0	name	Serpent
+0x1c2b0	name	Cobra
 0x1c2c8	desc	Stuffed animal through which the time it was alive can be examined.
 0x1c33c	name	Sea Turtle
 0x1c354	desc	Stuffed animal through which the time it was alive can be examined.
-0x1c3c8	name	Frog Taxidermy
+0x1c3c8	name	Frog
 0x1c3e0	desc	Stuffed animal through which the time it was alive can be examined.
 0x1c454	name	Frilled Lizard
 0x1c46c	desc	Stuffed animal through which the time it was alive can be examined.
@@ -1663,69 +1663,69 @@
 0x1c684	name	Trilobite
 0x1c69c	desc	Ancient fossil through which the time it was alive can be examined.
 0x1c710	name	Swallowtail
-0x1c728	desc	Wild insect living in nature.
-0x1c79c	name	White Butterfly
-0x1c7b4	desc	Wild insect living in nature.
+0x1c728	desc	Wild arthropod living in nature.
+0x1c79c	name	Cabbage White
+0x1c7b4	desc	Wild arthropod living in nature.
 0x1c828	name	Marbled Fritillary
-0x1c840	desc	Wild insect living in nature.
+0x1c840	desc	Wild arthropod living in nature.
 0x1c8b4	name	Morpho Butterfly
-0x1c8cc	desc	Wild insect living in nature.
-0x1c940	name	Grasshopper
-0x1c958	desc	Wild insect living in nature.
+0x1c8cc	desc	Wild arthropod living in nature.
+0x1c940	name	Chinese Grasshopper
+0x1c958	desc	Wild arthropod living in nature.
 0x1c9cc	name	Locust
-0x1c9e4	desc	Wild insect living in nature.
-0x1ca58	name	Giant Preying Mantis
-0x1ca70	desc	Wild insect living in nature.
+0x1c9e4	desc	Wild arthropod living in nature.
+0x1ca58	name	Giant Praying Mantis
+0x1ca70	desc	Wild arthropod living in nature.
 0x1cae4	name	Bell Cricket
-0x1cafc	desc	Wild insect living in nature.
+0x1cafc	desc	Wild arthropod living in nature.
 0x1cb70	name	Singing Cicada
-0x1cb88	desc	Wild insect living in nature.
+0x1cb88	desc	Wild arthropod living in nature.
 0x1cbfc	name	Yezo Cicada
-0x1cc14	desc	Wild insect living in nature.
-0x1cc88	name	Cicada
-0x1cca0	desc	Wild insect living in nature.
+0x1cc14	desc	Wild arthropod living in nature.
+0x1cc88	name	Walker's Cicada
+0x1cca0	desc	Wild arthropod living in nature.
 0x1cd14	name	Evening Cicada
-0x1cd2c	desc	Wild insect living in nature.
-0x1cda0	name	Oniyanma
-0x1cdb8	desc	Wild insect living in nature.
+0x1cd2c	desc	Wild arthropod living in nature.
+0x1cda0	name	Jumbo Dragonfly
+0x1cdb8	desc	Wild arthropod living in nature.
 0x1ce2c	name	Damselfly
-0x1ce44	desc	Wild insect living in nature.
+0x1ce44	desc	Wild arthropod living in nature.
 0x1ceb8	name	Banded Darter
-0x1ced0	desc	Wild insect living in nature.
+0x1ced0	desc	Wild arthropod living in nature.
 0x1cf44	name	Butterfly Dragonfly
-0x1cf5c	desc	Wild insect living in nature.
+0x1cf5c	desc	Wild arthropod living in nature.
 0x1cfd0	name	Large Stag Beetle
-0x1cfe8	desc	Wild insect living in nature.
+0x1cfe8	desc	Wild arthropod living in nature.
 0x1d05c	name	Sawtooth Stag Beetle
-0x1d074	desc	Wild insect living in nature.
+0x1d074	desc	Wild arthropod living in nature.
 0x1d0e8	name	Longhorn Beetle
-0x1d100	desc	Wild insect living in nature.
+0x1d100	desc	Wild arthropod living in nature.
 0x1d174	name	Goliath Beetle
-0x1d18c	desc	Wild insect living in nature.
+0x1d18c	desc	Wild arthropod living in nature.
 0x1d200	name	Hercules Beetle
-0x1d218	desc	Wild insect living in nature.
+0x1d218	desc	Wild arthropod living in nature.
 0x1d28c	name	Caucasus Beetle
-0x1d2a4	desc	Wild insect living in nature.
-0x1d318	name	Megasoma
-0x1d330	desc	Wild insect living in nature.
+0x1d2a4	desc	Wild arthropod living in nature.
+0x1d318	name	Elephant Beetle
+0x1d330	desc	Wild arthropod living in nature.
 0x1d3a4	name	Jap. Rhino Beetle
-0x1d3bc	desc	Wild insect living in nature.
-0x1d430	name	Japanese Silk Moth
-0x1d448	desc	Wild insect living in nature.
+0x1d3bc	desc	Wild arthropod living in nature.
+0x1d430	name	Silk Moth
+0x1d448	desc	Wild arthropod living in nature.
 0x1d4bc	name	Honey Bee
-0x1d4d4	desc	Wild insect living in nature. Productive little guy.
+0x1d4d4	desc	Wild arthropod living in nature.
 0x1d548	name	Fly
-0x1d560	desc	Wild insect living in nature. Always a bother.
+0x1d560	desc	Wild arthropod living in nature.
 0x1d5d4	name	Mosquito
-0x1d5ec	desc	Wild insect living in nature. Everyone hates these things.
+0x1d5ec	desc	Wild arthropod living in nature.
 0x1d660	name	Scorpion
 0x1d678	desc	Wild arthropod living in nature.
 0x1d6ec	name	Tarantula
 0x1d704	desc	Wild arthropod living in nature.
 0x1d778	name	Dung Beetle
-0x1d790	desc	Wild insect living in nature.
+0x1d790	desc	Wild arthropod living in nature.
 0x1d804	name	Ant Lion Larva
-0x1d81c	desc	Wild insect living in nature.
+0x1d81c	desc	Wild arthropod living in nature.
 0x1d890	name	Seahorse
 0x1d8a8	desc	Marine animal trapped in a mysterious water crystal.
 0x1d91c	name	Blowfish
@@ -1742,7 +1742,7 @@
 0x1dbf0	desc	Marine animal trapped in a mysterious water crystal.
 0x1dc64	name	Alligator Gar
 0x1dc7c	desc	Marine animal trapped in a mysterious water crystal.
-0x1dcf0	name	Mola Mola
+0x1dcf0	name	Ocean Sunfish
 0x1dd08	desc	Marine animal trapped in a mysterious water crystal.
 0x1dd7c	name	Whale Shark
 0x1dd94	desc	Marine animal trapped in a mysterious water crystal.
@@ -1760,11 +1760,11 @@
 0x1e0dc	desc	Marine animal trapped in a mysterious water crystal.
 0x1e150	name	Goosefish
 0x1e168	desc	Marine animal trapped in a mysterious water crystal.
-0x1e1dc	name	Malacosteus
+0x1e1dc	name	Stoplight Loosejaw
 0x1e1f4	desc	Marine animal trapped in a mysterious water crystal.
 0x1e268	name	Whiptail Gulper Eel
 0x1e280	desc	Marine animal trapped in a mysterious water crystal.
-0x1e2f4	name	Deepsea Hatchetfish
+0x1e2f4	name	Deep-sea Hatchetfish
 0x1e30c	desc	Marine animal trapped in a mysterious water crystal.
 0x1e380	name	Shrimp
 0x1e398	desc	Marine animal trapped in a mysterious water crystal.
@@ -1858,15 +1858,15 @@
 0x1fba8	desc	
 0x1fc1c	name	
 0x1fc34	desc	
-0x1fca8	name	High-Class Cooking ①
+0x1fca8	name	High-Class Cooking①
 0x1fcc0	desc	Elementary volume. High class recipes are written in it.
-0x1fd34	name	High-Class Cooking ②
+0x1fd34	name	High-Class Cooking②
 0x1fd4c	desc	Intermediate volume. High class recipes are written in it.
-0x1fdc0	name	High-Class Cooking ③
+0x1fdc0	name	High-Class Cooking③
 0x1fdd8	desc	Advanced volume. High class recipes are written in it.
-0x1fe4c	name	High-Class Cooking ④
+0x1fe4c	name	High-Class Cooking④
 0x1fe64	desc	First-class volume. High class recipes are written in it.
-0x1fed8	name	High-Class Cooking ⑤
+0x1fed8	name	High-Class Cooking⑤
 0x1fef0	desc	Special volume. High class recipes are written in it.
 0x1ff64	name	
 0x1ff7c	desc	

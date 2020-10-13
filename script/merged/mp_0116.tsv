@@ -6,23 +6,23 @@ talk_Serpent
 0xba0	0x98	Serpent		With this, the preparations for the Star Festival	
 				are almost done. Our ancestors of Remnant Island	
 				will be pleased with this year's abundant harvest.	
-0xc47	0x98	Serpent		Good job, Nayuta and Ms. Fairy.	
+0xc47	0x98	Serpent		Good job, Nayuta and Great Fairy.	
 				Allow me to thank you again.	
-0xce1	0x98	Serpent		Oh, Ms. Fairy...!	
+0xce1	0x98	Serpent		O Great Fairy...!	
 0xd0e	0x98	Serpent		I thought I saw a blinding flash of light from	
 				the cape heralding your return. I never thought	
 				you would again grace us with your presence!	
-0xd8d	0x98	NOI		W-What the...?	
-0xdbe	0x98	ALTO		The Elder seems to think	
-				Noi is sacred, you see...	
-0xe0a	0x98	Serpent		I hear Ms. Fairy is different	
-				than the one from before... 
+0xd8d	0x98	NOI		Wh-What the...?	
+0xdbe	0x98	ALTO		The Elder seems to think Noi	
+				is some sacred being, you see...	
+0xe0a	0x98	Serpent		I hear Great Fairy is different	
+				from the one from before... 
 				Please, make yourself at home.	
 0xe71	0x98	Serpent		All of us here at the island	
 				are delighted to have you.	
-0xec4	0x98	NOI		T-Thank you...	
+0xec4	0x98	NOI		Th-Thank you...	
 0xf2b	0x98	Serpent		As the Star Festival approaches,	
-				it seems Ms. Fairy has graced us	
+				it seems Great Fairy has graced us	
 				with her presence once again!...	
 0xfa6	0x98	Serpent		Last year's was cancelled due to the	
 				abnormalities, so we must make this	
@@ -41,12 +41,12 @@ talk_Serpent
 0x1268	0x98	Serpent		Mmhmm, yes, that's a good idea.	
 0x12a8	0x98	Serpent		This year's Star Festival is coming up...	
 				I hope we can rely on you for your help.	
-0x133c	0x98	Serpent		Nayuta, you've been very helpful to	
+0x133c	0x98	Serpent		Nayuta, you've been very helpful	
 				to all of us here in the village.	
 0x13ab	0x98	Serpent		mp_0116 0x12a8
 0x144d	0x98	Serpent		The look of that moon...	
 				No matter how much I look at it, I always get	
-				the feeling that the end of the world is near.	
+				the feeling that the end times are near.	
 0x14c3	0x98	Serpent		But as elder of Remnant Island, I have	
 				a responsibility to ensure our future.	
 0x1515	0x98	Serpent		Given my age, I don't have time	
@@ -59,7 +59,7 @@ talk_Serpent
 0x169b	0x98	Serpent		Before Master Orvus came to Remnant Island,	
 				he had doubts on the meaning of "strength."	
 0x1707	0x98	Serpent		Nowadays, we no longer live in a world where	
-				you can by distinguished by brute power alone.	
+				you can be distinguished by brute power alone.	
 				Is there any meaning left in his strength?	
 0x17a1	0x98	Serpent		But, thanks to taking in Cygna,	
 				it seems he has found the answer:	
@@ -70,7 +70,7 @@ talk_Serpent
 				seems to have found the answer to his	
 				doubts: his strength is to protect.	
 0x1922	0x98	Serpent		mp_0116 0x181f	
-0x19af	0x98	Serpent		Nayuta, Ms. Fairy.	
+0x19af	0x98	Serpent		Nayuta, Great Fairy.	
 				Please do not lose hope.	
 0x19f8	0x98	Serpent		I'm sure that young lady Kureha	
 				is still safe somewhere...	
@@ -91,11 +91,11 @@ talk_Serpent
 				Though known by many names, it was	
 				always thought to be fiction.	
 0x1deb	0x98	Serpent		I can't believe you reached that place...	
-				Can my heart can take this stress?	
+				Can my heart take this stress?	
 0x1e75	0x98	Serpent		I will leave the young	
 				lady and Cygna to you.	
-0x1ec7	0x98	Serpent		However... I am worried about you, too.	
-				Definitely make sure return safely, okay?	
+0x1ec7	0x98	Serpent		However... I am corcerned about you, too.	
+				Definitely make sure to return safely, okay?	
 0x1f7d	0x98	Serpent		Just now, a young lady named	
 				Kureha came by to greet me.	
 0x1fd6	0x98	Serpent		Goodness gracious,	
@@ -113,14 +113,14 @@ talk_Serpent
 				There is no better news than this.	
 0x2235	0x98	Serpent		I will have to crawl my way over	
 				to visit her soon, so please give	
-				her my regards until them.	
+				her my regards until then.	
 0x229f	0x98	ALTO		Um, please, take it easy...	
 0x2308	0x98	Serpent		All it takes is one act of saying	
 				"hooray" and now it's like this...	
 				My back doesn't make it easy...	
 0x2389	0x98	Serpent		Well most importantly, it's good to hear that	
-				Eartha is cured. I will have go visit her soon,	
-				so please give her my regards until then.	
+				Eartha is cured. I will go visit her soon, so	
+				please give her my regards until then.	
 0x2446	0x98	Serpent		...I'm very sorry, Nayuta.	
 				I know of nothing else that can be	
 				done regarding Eartha's illness.	
@@ -159,12 +159,12 @@ talk_Serpent
 0x2b03	0x98	Serpent		Well, whether the Great Flood actually	
 				occurred, no one knows for sure.	
 0x2ba1	0x98	Serpent		The falling ruins... Though I've experienced	
-				this phenomenon many times since I was young,	
-				it is remains profoundly mysterious.	
-0x2c37	0x98	Serpent		It that occurs two or three times	
-				a year across all of the Ciencia Sea.	
-0x2ca6	0x98	Serpent		Even the most renowned researchers	
-				have never been able to explain it...	
+				this phenomenon numerous times since my youth,	
+				it remains profoundly mysterious as ever.	
+0x2c37	0x98	Serpent		It occurs two or three times a year	
+				across all of the Ciencia Sea.	
+0x2ca6	0x98	Serpent		Even the most renowned scientists have	
+				never been able to fully explain it...	
 0x2d14	0x98	ALTO		Oh yeah, I asked my professor	
 				at Saint Cerise academy about	
 				it, but...	
@@ -180,7 +180,7 @@ talk_Serpent
 				 figure it out myself...)	
 0x2f61	0x6B	Serpent		Surprise	
 0x2f96	0x98	Serpent		Oh, right, I digress...	
-				There are plans to start an unsual	
+				There are plans to start an unusual	
 				establishment on this island soon.	
 0x3020	0x6B	ALTO		Question	
 0x3052	0x98	ALTO		An unusual establishment...?	
@@ -189,11 +189,11 @@ talk_Serpent
 0x30e0	0x98	Serpent		It's located down near the harbor.	
 				Nayuta, you should check it out	
 				when you have time.	
-0x318a	0x98	Serpent		There are plans to start an unsual	
+0x318a	0x98	Serpent		There are plans to start an unusual	
 				establishment on this island soon.	
 0x31ec	0x98	Serpent		Though I'm told it will be a little	
 				longer before it officially opens...	
-				Hoho, I look forward to it.	
+				Hoho, I look forward to seeing it.	
 0x3277	0x98	Serpent		Even my back is feeling	
 				better than ever.	
 0x32fb	0x98	Serpent		It seems it will be a little while	
@@ -201,7 +201,7 @@ talk_Serpent
 0x3368	0x98	Serpent		Even my back is feeling	
 				better than ever.
 				Hohoho...	
-0x3404	0x98	Serpent		T-That shaking just now...	
+0x3404	0x98	Serpent		Th-That shaking just now...	
 				My... my back... Gah...	
 0x3453	0x98	Serpent		...N-Nayuta... I'm sorry, but...	
 				Now's not a good time...	
@@ -214,8 +214,8 @@ talk_Serpent
 0x35ea	0x98	ALTO		Yes, Elder, we're home.	
 0x3629	0x98	Serpent		Hmm, yes, you are such a	
 				polite young man, Nayuta.	
-0x367b	0x98	Serpent		This must by all thanks to Eartha, who	
-				practially raised you like a mother.	
+0x367b	0x98	Serpent		This must be all thanks to Eartha, who	
+				practically raised you like a mother.	
 				You have a lot to thank her for.	
 0x36fc	0x98	Serpent		Hmm, you're 15 years old already...	
 				Now that you've entered Saint Cerise Academy,	
@@ -243,14 +243,14 @@ talk_Canis
 0x3be0	0x98	Canis		Last year's was cancelled, but...	
 				The fields and fish this year	
 				were better than usual.	
-0x3c56	0x98	Canis		This must be a gift from the heavens	
-				for us for overcaming the abnormalities.	
+0x3c56	0x98	Canis		This must be a gift from the heavens for	
+				us for overcoming the abnormalities.	
 				Hohoho, we'd better celebrate!	
 0x3d0a	0x98	Canis		In fact, your Auntie Janis plans	
 				to sponsor the eating contest for	
 				the Star Festival this year.	
 0x3d7c	0x98	Canis		We should eat and drink plenty	
-				to show out appreciation to this	
+				to show our appreciation to this	
 				island and the sea.	
 0x3e1c	0x98	Canis		I'm so happy we're going to be able	
 				to hold the festival this year!	
@@ -269,7 +269,7 @@ talk_Canis
 				sudden fluctuations in temperature.	
 0x414d	0x6B	ALTO		Sweatdrop	
 0x4177	0x6B	NOI		Sweatdrop	
-0x41a8	0x98	ALTO		(Aunt Janis... Frail...?	
+0x41a8	0x98	ALTO		(Mrs. Janis... Frail...?	
 				 Hmm, that's new to me...)	
 0x4234	0x98	Canis		The weather's been changing so much lately.	
 				It tends to make me sick for some reason.	
@@ -287,7 +287,7 @@ talk_Canis
 0x4543	0x98	Canis		I couldn't protect Kureha...	
 0x4580	0x98	Canis		Waaaaaah... I'm a failure	
 				as the Elder's daughter.	
-0x45d6	0x98	ALTO		...It'll be all right, Aunt Janis.	
+0x45d6	0x98	ALTO		...It'll be all right, Mrs. Janis.	
 0x461a	0x98	ALTO		I will get Kureha back...	
 				So cheer up.	
 0x466f	0x98	Canis		Nayuta... Thank you	
@@ -327,15 +327,15 @@ talk_Canis
 0x4c7f	0x98	Canis		Let's leave Father alone for now,	
 				and celebrate with a party!	
 0x4cec	0x6B	Serpent		Sweatdrop	
-0x4d3b	0x98	Serpent		J-Janis... My back is killing me,	
-				so please don't yell so loudly.	
+0x4d3b	0x98	Serpent		J-Janis... My back is killing me.	
+				Please don't yell so loudly.	
 0x4ddd	0x98	Canis		My, I'm sorry.	
 				Ohohohoho...	
-0x4e60	0x98	Canis		Ohoho, even though he said to	
-				not to yell, I can't help but	
-				feel happy about it.	
-0x4ecb	0x98	Canis		Heh, I'll have a party ready for you soon,	
-				so look forward to it, Nayuta! ♪	
+0x4e60	0x98	Canis		Ohoho, even though he said not	
+				to yell, I can't help but feel	
+				giddy about it.	
+0x4ecb	0x98	Canis		Heh, I'll have a party ready	
+				soon, so be ready, Nayuta! ♪	
 0x4f69	0x98	Canis		Even Dr. Hydol can't cure	
 				Eartha's illness...	
 0x4fb7	0x98	Canis		Oh, why does Eartha have to...	
@@ -347,7 +347,7 @@ talk_Canis
 0x50bf	0x98	Canis		A miracle is bound to happen.	
 				Lighten up, Nayuta.	
 0x5145	0x98	Canis		You say Eartha collapsed!?	
-				W-What? Oh my...!?	
+				Wh-What? Oh my...!?	
 0x5193	0x98	Canis		...But if Dr. Hydol is here, I'm sure	
 				there's nothing to worry about...	
 0x51ec	0x98	Canis		The doctor will be	
@@ -360,11 +360,11 @@ talk_Canis
 				in front of our house just now.	
 0x53a7	0x98	Canis		Father thought he was playing	
 				around, and paid him no mind.	
-				But, it's been bothering me...	
-0x542a	0x98	Canis		I've never seen Cygna with such	
-				a tormented look on his face before.	
-0x54b5	0x98	Canis		I've never seen Cygna with such	
-				a tormented look on his face before.	
+				But it's been bothering me...	
+0x542a	0x98	Canis		I've never seen Cygna with such a	
+				tormented look on his face before.	
+0x54b5	0x98	Canis		I've never seen Cygna with such a	
+				tormented look on his face before.	
 0x550f	0x98	Canis		I wonder what was wrong with him...	
 0x5591	0x98	Canis		Oh my, what's up, Nayuta?	
 0x55ce	0x98	Canis		You look super	
@@ -377,7 +377,7 @@ talk_Canis
 				having fun, but take care	
 				not to get hurt, okay?	
 0x5710	0x98	ALTO		Y-Yes, understood.	
-0x5742	0x98	ALTO		(Though Aunt Janis is always so cheery,	
+0x5742	0x98	ALTO		(Though Mrs. Janis is always so cheery,	
 				 sometimes she can be sharp...)	
 0x57d5	0x98	Canis		Of course, exploring ruins is dangerous,	
 				and we shouldn't be entering them, but...	
@@ -394,7 +394,7 @@ talk_Canis
 0x5ac3	0x98	Canis		Oh my, it's Nayuta!!	
 				Heh, looks like you're doing well～!	
 0x5b15	0x98	ALTO		Haha, you look well	
-				too, Aunt Janis.	
+				too, Mrs. Janis.	
 0x5b58	0x98	Canis		Ohohoho, that is	
 				what I'm good at～! ♪	
 0x5b9c	0x98	Canis		Ah, now that Nayuta and Cygna	
@@ -476,8 +476,8 @@ QS_24_ask_Serpent
 0x6e26	0x98	ALTO	#6A	(I can't exactly say it's a request	
 				 from someone in another world...)	
 0x6e9d	0x06	Serpent		ANI_NOD	
-0x6ec5	0x98	Serpent		Hoho, is that so? It's a good that 	
-				you're so dedicated to your studies.	
+0x6ec5	0x98	Serpent		Hoho, is that so? It's good that you	
+				are so dedicated to your studies.	
 0x6f20	0x98	Serpent		For Remnant Island's specialties,	
 				the first thing that comes to mind...	
 				It has to be dried seafood.	
@@ -513,8 +513,8 @@ QS_24_ask_Serpent
 0x7524	0x06	Serpent		ANI_NOD	
 0x754c	0x98	Serpent		Mhm, of course.	
 0x7588	0x98	Serpent		One is Ruins Rock Salt. Their	
-				crystals that can be found on	
-				the Remnant Island beach.	
+				crystals can be found on the	
+				Remnant Island beach.	
 0x7605	0x98	Serpent		They are a natural product of	
 				the evaporation of seawater over	
 				the ruins near the island.	
@@ -536,9 +536,9 @@ QS_24_ask_Serpent
 0x7936	0x98	Serpent		I think it's someone you wouldn't	
 				ordinarily think of as a cook.	
 0x7998	0x06	ALTO		ANI_WAIT4	
-0x79bf	0x98	ALTO	#6A	Hmm...	
-				It seems like I have no choice	
-				but ask around more for that one.	
+0x79bf	0x98	ALTO	#6A	Hmm... It seems like I have	
+				no choice but to ask around	
+				more for that one.	
 0x7a1e	0x06	Serpent		ANI_WAIT	
 0x7a47	0x98	Serpent		Hmm, that's about all	
 				I can do to help you.	
@@ -553,16 +553,17 @@ QS_25_speak_to_Canis
 0x7e13	0x98	Canis		Oh, Nayuta. What	
 				can I do for you～?	
 0x7e68	0x06	ALTO		ANI_GESTURE1	
-0x7e92	0x40	UNDEF		Nayuta told Canie that Dr. Hydol had	
-				called her in perform a medical exam.		
+0x7e92	0x40	UNDEF		Nayuta told Janis that Dr. Hydol wanted	
+				her to come in for a medical exam.		
 0x7eed	0x06	Canis		ANI_GESTURE2	
-0x7f18	0x98	Canis		Oh, Dr. Hydol.	
+0x7f18	0x98	Canis		Oh, so it's Dr. Hydol.	
 				Thank you for telling me.	
 0x7f68	0x06	ALTO		ANI_WAIT3	
 0x7f8f	0x98	ALTO	#6A	Are you sick somehow,	
-				Aunt Janis?	
+				Mrs. Janis?	
 0x7fda	0x06	Canis		ANI_DENY	
-0x8001	0x98	Canis		No, I'm the picture of health...	
+0x8001	0x98	Canis		No, I'm the picture	
+				of good health...	
 0x8047	0x06	Canis		ANI_WAIT2	
 0x806f	0x98	Canis		(....Just between you and me, I've	
 				been standing in for my father～.)	
@@ -570,7 +571,7 @@ QS_25_speak_to_Canis
 0x8103	0x98	ALTO	#6A	(Standing in for the elder...?)	
 0x8146	0x06	Canis		ANI_TALK	
 0x816d	0x98	Canis		(Because of his chronic back pain,	
-				 he needs medicine at regularly, but...)	
+				 he needs medicine regularly, but...)	
 0x81e4	0x98	Canis		(He thinks it would be uncool	
 				 if everyone saw him taking	
 				 them or something～.)	
@@ -581,7 +582,7 @@ QS_25_speak_to_Canis
 0x82f2	0x6B	ALTO		Sweatdrop	
 0x8324	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x8352	0x98	ALTO	#6A	(I-Is that so...?	
-				 That must be tough for her, too.)	
+				 That must be tough for you, too.)	
 0x83a9	0x06	Canis		ANI_LAUGH	
 0x83d1	0x98	Canis		(Hehe, well, I'm used to it.)	
 0x8411	0x06	Canis		ANI_NOD	
@@ -597,7 +598,7 @@ QS_25_speak_to_Canis
 				...Come to think of it, I haven't	
 				seen him around like usual.	
 0x8722	0x06	ALTO		ANI_TONTON_SHUE	
-0x874f	0x98	ALTO		Maybe he's in his house?	
+0x874f	0x98	ALTO		Maybe he's at home?	
 				Let's go check.		
 QS_82_quest_start
 0x8a20	0x98	Serpent		I have something I want you	
@@ -620,7 +621,7 @@ QS_82_quest_start
 0x8dc5	0x98	ALTO		Sorry, Elder. My hands	
 				are full right now...	
 0x8e0e	0x06	Serpent		ANI_NOD	
-0x8e36	0x98	Serpent		Oh, it that so?	
+0x8e36	0x98	Serpent		Oh, is that so?	
 				I would have liked for	
 				you to do it, but...	
 0x8e8c	0x98	Serpent		Well, it is no rush.	
@@ -634,11 +635,11 @@ QS_82_undertake
 				whatever we can.	
 0x9085	0x98	NOI	#6A	Umm, so... What is	
 				the "Star Festival?"	
-0x90ea	0x98	ALTO		It is an festival held on	
+0x90ea	0x98	ALTO		It is a festival held on	
 				Remnant Island every year.	
-0x9152	0x98	ALTO		It's named beecause of the clear	
+0x9152	0x98	ALTO		It's named because of the clear	
 				starry sky and beautiful shooting	
-				stars visible from on this island.	
+				stars visible from this island.	
 0x91d4	0x98	ALTO		Everyone takes a day off from	
 				work and celebrates together.	
 0x922a	0x98	NOI	#6A	Eheh, it sounds like fun!	
@@ -650,21 +651,21 @@ QS_82_undertake
 				for giving thanks for peace on the	
 				island and nature.	
 0x93e7	0x98	Serpent		I'm determined to make sure that	
-				this year's event happens.	
-0x9438	0x98	ALTO		That's right. I'm looking	
+				this year's event goes smoothly.	
+0x9438	0x98	ALTO		That's great. I'm looking	
 				forward to it, but...	
 0x949f	0x06	ALTO		ANI_THINK2	
-0x94c7	0x98	ALTO		The adults have already started	
-				decorating and making food, right?	
+0x94c7	0x98	ALTO		The adults have already started making	
+				the decorations and food, right?	
 0x952d	0x98	ALTO		What do you need	
-				us to do to help?	
+				us to do?	
 0x9577	0x06	ALTO		ANI_WAIT	
 0x959d	0x98	Serpent		Hmm, it is a minor task.	
-0x95e1	0x98	Serpent		As you know, it is customary on the	
-				island to hold a memorial service for	
-				our ancestors before starting a festival.
-0x9672	0x98	Serpent		For that, I want you	
-				to bring me the offerings	
+0x95e1	0x98	Serpent		As you know, it is customary for the island	
+				to hold a memorial service for our ancestors	
+				before starting the festival.
+0x9672	0x98	Serpent		For that, I want you to	
+				bring me the offerings	
 				for the graves.	
 0x96eb	0x06	NOI		ANI_GESTURE1	
 0x9714	0x98	NOI	#6A	Offerings...?	
@@ -677,15 +678,15 @@ QS_82_undertake
 0x9849	0x98	ALTO		Then, we can visit Sculp's	
 				and Axe's houses, and they can	
 				give them to us right away.	
-0x98da	0x98	Serpent		And, I've requested flowers for the	
-				ceremony from the trader Antlia.	
+0x98da	0x98	Serpent		I've also requested flowers for the	
+				ceremony from the trader, Antlia.	
 0x9954	0x98	Serpent		Do not forget to pick	
 				those up as well.		
 0x999a	0x06	ALTO		ANI_JOY	
 0x99bf	0x98	ALTO		Yes, understood.	mp_0000 0x1b27a
 0x99ef	0x06	NOI		ANI_GUTSPOSE	
 0x9a18	0x98	NOI	#6A	Now let's get to work.	
-0x9a85	0x98	Serpent		Mmhmm, please go do that.	
+0x9a85	0x98	Serpent		Mmhmm, please do.	
 0x9ac1	0x98	Serpent		The success of the Star Festival	mp_0116 0x63d5
 				is on your shoulders!	
 				Thank you for your help.	
@@ -724,15 +725,15 @@ QS_82_quest_end
 0xa5d3	0x98	NOI	#6A	Then let's go	
 				to the cemetery.	
 0xa65f	0x40	UNDEF		Nayuta and Noi headed for the cape with the elder,	
-				and brought the offerings to the cemetary.	
+				and brought the offerings to the cemetery.	
 EV_6_S06_meet_chief
 0xa966	0x06	Lupus		ANI_COMPLAIN	
 0xa991	0x98	Lupus		Hey, Nayuta!	
 				You're awake!!	
-0xaa15	0x98	Serpent		Oh, and Ms. Fairy	
+0xaa15	0x98	Serpent		Oh, and Great Fairy	
 				is with you, too...!	
 0xaa5d	0x06	Serpent		ANI_NOD	
-0xaa85	0x98	Serpent		Surely this must be because of	
+0xaa85	0x98	Serpent		Surely this is all because of	
 				the gods' divine protection, no?
 				I thank you, I thank you...	
 0xaaf9	0x6B	NOI		Sweatdrop	
@@ -784,7 +785,7 @@ EV_6_S06_meet_chief
 0xb4da	0x98	Lupus		Are you ready for this, handyman?	
 0xb522	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xb550	0x98	ALTO	#6A	...Yeah, got it.	
-0xb5c1	0x98	Serpent		Ms. Fairy, for a while longer...	
+0xb5c1	0x98	Serpent		Great Fairy, for a while longer...	
 				Please look after Nayuta.	
 0xb65c	0x06	NOI		ANI_NOD	
 0xb680	0x98	NOI	#6A	U-Understood...	

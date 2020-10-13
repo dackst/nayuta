@@ -18,25 +18,26 @@ push_box
 QS54_talk_SpiritA
 0x170a	0x6B	QS54_SpiritA		Unknown	
 0x1810	0x98	NOI	#6A	Ah, found you!	
-0x1842	0x98	ALTO		You're one of the spirits	
-				from Nemeas' temple, aren't you?	
-0x18a3	0x98	ALTO		Yeah, but here...?	
-0x18e4	0x98	ALTO		You're one of Nemeas' spirits all right.	
-				...Are you okay?	
+0x1842	0x98	ALTO		Doesn't this look like	
+				one of the spirits	
+				from Nemeas' Temple?	
+0x18a3	0x98	ALTO		Ah, but what could you be doing here...?	
+0x18e4	0x98	ALTO		...Aren't you one of Nemeas'	
+				spirits? Are you okay?	
 0x1957	0x6B	QS54_SpiritA		Surprise	
 0x1991	0x6B	QS54_SpiritA		Unknown	
 0x1a07	0x98	QS54_SpiritA	#6A	...～～～～～～...	
 0x1a58	0x6B	QS54_SpiritA		Sweatdrop	
 0x1a92	0x06	ALTO		ANI_THINK2	
-0x1aba	0x98	ALTO		...Maybe it got stuck in the swamp	
-				while it was wandering around lost...?	
+0x1aba	0x98	ALTO		...Maybe it was wandering around lost	
+				in the swamp before it got stuck...?	
 0x1b1a	0x06	ALTO		ANI_WAIT	
 0x1b40	0x06	NOI		ANI_THINK	
-0x1b66	0x98	NOI	#6A	A spirit shouldn't normally
-				get stuck like this though...	
-				Maybe it was in a big hurry.	
+0x1b66	0x98	NOI	#6A	A spirit shouldn't normally get stuck	
+				like this though... It's probably	
+				in a bit of a tight spot.	
 0x1be5	0x06	NOI		ANI_NOD	
-0x1c09	0x98	NOI	#6A	Anyway, just wait a sec.	
+0x1c09	0x98	NOI	#6A	Anyway, wait just a minute.	
 				We'll get you out of there!	
 0x1d99	0x06	QS54_SpiritA		ANI_TALK	
 0x1dc7	0x98	QS54_SpiritA	#6A	...♪ .........!	
@@ -51,7 +52,7 @@ QS54_talk_SpiritA
 				get back to the Origin Continent.	
 0x1fd9	0x6B	QS54_SpiritA		Unknown	
 0x2013	0x06	QS54_SpiritA		ANI_NOD	
-0x221c	0x98	ALTO		Looks like we saved it.	
+0x221c	0x98	ALTO		Looks like we rescued that one safely.
 0x229b	0x06	NOI		ANI_NOD	
 0x2303	0x98	NOI	#6A	Yeah, now that's all	
 				of the missing spirits.	
@@ -65,10 +66,10 @@ QS54_talk_SpiritA
 0x24a6	0x98	NOI	#6A	Nayuta, let's try	
 				looking for them.	
 0x24ec	0x06	ALTO		ANI_NOD	
-0x2511	0x98	ALTO		Right, let's try going to the	
-				other continents, too.	
+0x2511	0x98	ALTO		Right, let's try going to	
+				the other continents, too.	
 QS_81_check_altar
-0x26b7	0x40	UNDEF		The Locked Box is placed here.	
+0x26b7	0x40	UNDEF		Nayuta placed the Locked Box.	
 0x26f8	0x40	UNDEF		...There's no response.	
 0x274a	0x98	ALTO		H-Huh...?	
 				I thought this was	
@@ -76,7 +77,7 @@ QS_81_check_altar
 0x27a4	0x98	NOI		I see... Looks like the lock	
 				was made using areas filled	
 				with the Power of Stars.	
-0x2817	0x98	NOI		But maybe we're not	
+0x2817	0x98	NOI		But I think we're not	
 				doing something right.	
 0x2863	0x98	ALTO		If I remember correctly, didn't it say,	
 				"offer up this box in order of the seasons,	
@@ -93,7 +94,7 @@ QS_81_hang_out_box
 				to put the Locked Box?
 0x2d01	0x98	NOI	#6A	Let's try it!	
 0x2d58	0x06	ALTO		ANI_HANDOVER1	
-0x2e09	0x40	UNDEF		Nayuta tried placing the Locked Box.	
+0x2e09	0x40	UNDEF		Nayuta placed the Locked Box.	
 0x2e55	0x6B	ALTO		Ellipsis	
 0x2e87	0x6B	NOI		Ellipsis	
 0x2ee4	0x6B	ALTO		Exclamation	
@@ -109,8 +110,8 @@ QS_81_hang_out_box
 0x31be	0x06	NOI		ANI_GESTURE1	
 0x31e7	0x98	NOI	#6A	Devices that sense the Power of Stars...	
 				Seems like you can find them all over	
-				over the places in Terra.	
-0x3279	0x98	NOI	#6A	The Mythos may have used them	
+				the place in Terra.	
+0x3279	0x98	NOI	#6A	The Mythos might have used them	
 				on a daily basis in the past.	
 0x32e0	0x06	ALTO		ANI_NOD	
 0x3305	0x98	ALTO		I-I see, they were truly amazing...	
@@ -148,18 +149,19 @@ EV_2_S20_help_gio
 0x3ff5	0x06	NOI		ANI_WAIT	
 0x42cc	0x06	ALTO		ANI_NOUTOU	
 0x45f8	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x4627	0x98	ALTO		Ah!	
+0x4627	0x98	ALTO		Ah...!	
 0x464a	0x06	NOI		ANI_GESTURE2	
 0x4673	0x98	NOI		This is the way to where Gio is trapped...	
-				We have to go there!	
+				We have to get over there!	
 0x499c	0x06	ALTO		ANI_WAIT4	
 0x49c3	0x98	ALTO		This prison that Zext built...	
 				It's pretty big.	
-0x4a11	0x98	ALTO	#6A	To be able to just make something like this...	
+0x4a11	0x98	ALTO	#6A	To be able to just conjure	
+				something up like this...	
 0x4a65	0x06	NOI		ANI_GESTURE1	
 0x4a8e	0x98	NOI	#6A	Gio, are you all right!?	
-				We came quickly to save you!!	
-0x4b11	0x41	None	#0W#2E#310c	Oh, Noi...and the human child!	
+				We came to save you!!	
+0x4b11	0x41	None	#0W#2E#310c	Oh, Noi... and the human child!	
 				I've been waiting for you!#0E	
 0x4ba0	0x41	None	#0W#2E#310c	Thanks to your help in getting the	
 				climate back to normal,the barrier has	
@@ -173,10 +175,10 @@ EV_2_S20_help_gio
 				produce the barrier.#0E	
 0x4f8a	0x41	None	#0W#2E#310c	I cannot do anything from inside,	
 				so I want you to destroy a few of them.#0E	
-0x50a0	0x98	NOI	#6A	It looks like those stones are made of	
-				arts-absorbing materials...	
+0x50a0	0x98	NOI	#6A	Looks like those stones are made	
+				of arts-absorbing materials...	
 0x519c	0x06	NOI		ANI_GUTSPOSE	
-0x51c5	0x98	NOI	#6A	I'll leave this up to you, Nayuta!	
+0x51c5	0x98	NOI	#6A	I'll leave this one to you, Nayuta!	
 0x5216	0x06	ALTO		ANI_NOD	
 0x527f	0x98	ALTO		Yeah, leave it to me!	mp_0110 0x11e55
 0x5330	0x06	ALTO		ANI_BATTOU	
@@ -185,7 +187,7 @@ EV_2_S20_help_gio
 0x575e	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_2	
 0x582a	0x06	ALTO		ANI_2_ATK1	
 0x5a30	0x41	None	#0W#2E#310c	Hmm, that should be enough!#0E	
-0x5aeb	0x41	None	#0W#2E#310c	Now, step back a bit for me.#0E	
+0x5aeb	0x41	None	#0W#2E#310c	Now, please step back a bit.#0E	
 0x5c83	0x06	Gio		ANI_USE_POWER	
 0x5d11	0x41	None	#2E#310c#5W	Oooooh....#1Wzaaa!#0E	
 0x6336	0x06	Gio		ANI_WAIT	
@@ -202,7 +204,7 @@ EV_2_S20_help_gio
 				(I thought he would look	
 				 a little older than that...)	
 0x68e6	0x98	Gio	#1W	Indeed, I am Lychnis Gio...	
-				I am the warden of Oltapia.	
+				I am the Warden of Oltapia.	
 0x698f	0x06	Gio		ANI_GESTURE1	
 0x69c6	0x98	Gio	#1W	You are a human child, are you not?	
 				Thank you for letting me out of there.	
@@ -216,8 +218,8 @@ EV_2_S20_help_gio
 0x6ca1	0x6B	NOI		Ellipsis	
 0x6d47	0x06	Gio		ANI_GESTURE1	
 0x6d7e	0x98	Gio	#1W	...It seems that the situation	
-				has changed. If it's all right,
-				can you tell me what happened?	
+				has changed. Do you mind telling	
+				me what happened?	
 0x6f3b	0x06	Gio		ANI_THINK	
 0x7045	0x98	Gio		...Hmm, just where did that	
 				one go all by themselves...	
@@ -227,37 +229,36 @@ EV_2_S20_help_gio
 0x7118	0x06	Gio		ANI_WAIT	
 0x719c	0x06	Gio		ANI_DENY	
 0x71c1	0x98	Gio		No... I have not seen him.	
-0x724e	0x98	Gio		If you searched with the Astrolabe,	
-				it seems possibile that you might	
+0x724e	0x98	Gio		If you search with the Astrolabe,	
+				it seems likely that you might	
 				find him on Rieseweld...	
 0x72da	0xBC	Gio		Ellipsis	
 0x7375	0x98	Gio		By the way, Noi.	
 				The Zext man that	
 				sealed me away...	
 0x73db	0x06	Gio		ANI_GESTURE2	
-0x7421	0x98	Gio		He was surely not the	
-				same Master Zext, was he?	
+0x7421	0x98	Gio		He was surely not the same	
+				Master Zext, was he?	
 0x747e	0x6B	ALTO		Exclamation	
 0x74b0	0x6B	NOI		Exclamation	
 0x74e1	0x06	NOI		ANI_GESTURE1	
 0x750a	0x98	NOI	#6A	Y-You see...	mp_0101 0x610e
 0x7540	0x06	ALTO		ANI_COMPLAIN	
-0x756a	0x98	ALTO	#6A	W-What do you mean	
+0x756a	0x98	ALTO	#6A	Wh-What do you mean	
 				"Master" Zext...!?	
-0x75ee	0x98	Gio		The race of Mythos that	
+0x75ee	0x98	Gio		The Mythos race that	
 				created Terra...	
 0x7650	0x98	Gio		"Zext" is the name	
 				of their leader.	
 0x76e4	0x98	Gio		I heard he died	
 				long ago, but...	
 0x772a	0x06	ALTO		ANI_GESTURE2	
-0x7754	0x98	ALTO	#6A	The Mythos...	
-				That's Kureha's	
-				race, right!?	
+0x7754	0x98	ALTO	#6A	Mythos... That's what	
+				Kureha is, right!?	
 0x77fc	0x98	ALTO	#6A	Noi, why didn't you tell	
 				me about this until now!?	
-0x78ca	0x98	NOI		T-That's because it's...	
-				I-It's...impossible!	
+0x78ca	0x98	NOI		Th-That's because it's...	
+				...I-It's impossible!	
 0x79ab	0x98	NOI		A long time ago, I heard about	
 				Zext from Master Kureha...	
 0x7a49	0x98	NOI		But there's no way the real	
@@ -288,11 +289,11 @@ EV_2_S20_help_gio
 0x815c	0x06	Gio		ANI_USE_POWER	
 0x8406	0xC1	System		#3CNoi learned 『Gear Buster』!	
 0x84a9	0x07	System	#4C	Noi learned Gear Buster.	
-				You can now uncleash powerful	
+				You can now unleash powerful	
 				attacks and break hard objects.	
 0x8534	0x06	Gio		ANI_WAIT	
 0x859b	0x06	NOI		ANI_GUTSPOSE	
-0x85c4	0x98	NOI	#6A	T-This...overwhelming power!?	
+0x85c4	0x98	NOI	#6A	Th-This...overwhelming power!?	
 0x860d	0x06	Gio		ANI_GESTURE1	
 0x8653	0x98	Gio		We Wardens were once	
 				created by Master	

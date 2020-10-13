@@ -44,8 +44,8 @@ lp_jewel
 				in wedding rings/bands to show the bond between	
 				husband and wife.	
 0x2050	0x41	None		[Aquamarine]	
-				Highly transparent sea-colored gemstone.	
-				They have been used for a long time by seagoers	
+				Highly transparent ocean-colored gemstone.	
+				They have been used for a long time by sea goers	
 				who use them as charms with the power of the sea.	
 0x21a0	0x41	None		[Pink Diamond]	
 				Diamond tinged with a faint red color.	
@@ -67,7 +67,7 @@ lp_treasure1
 				been the subject of worship since ancient times.	
 0x2859	0x41	None		Judgment Mirror	
 				A mirror used in ancient trials.	
-				It is though to have a special magic power	
+				It is thought to have a special magic power	
 				to show the past deeds and crimes of any man.	
 0x299b	0x41	None		Crystal Ball	
 				A tool used by ancient prophets.	
@@ -82,7 +82,7 @@ lp_treasure2
 0x2e86	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2ec2	0x36	Choice		Bronze Sextant	
 0x2ee8	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x2f24	0x36	Choice		Planetary Globe	
+0x2f24	0x36	Choice		Globe	
 0x2f4b	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2f87	0x36	Choice		Model Flying Machine	
 0x2fb3	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -96,11 +96,11 @@ lp_treasure2
 				Though it is still able to show the location of heavenly	
 				bodies with its complex gears, the details of its	
 				construction are not yet fully understood.	
-0x3324	0x41	None		Planetary Globe	
+0x3324	0x41	None		Globe	
 				A mysterious relic of ancient times with a map of	
 				the world drawn on a sphere. It depicts far more land	
 				than there is today. It is thought to have been an	
-				imaginary world, but the details are unknown.	
+				imaginary world, but further details are unknown.	
 0x34bf	0x41	None		Model Flying Machine	
 				Mysterious relic of ancient times with two wings.	
 				It is thought that this was modeled after a bird,	
@@ -156,7 +156,7 @@ subev_showroom_first
 0x4b97	0x06	ALTO		ANI_SURPRISE	
 0x4bc1	0x06	NOI		ANI_SURPRISE	
 0x4bea	0x98	ALTO		T-This is...!	mp_0115a 0x6232
-0x4c31	0x98	NOI		W-What in the world is this!?	
+0x4c31	0x98	NOI		Wh-What in the world is this!?	
 0x4c6f	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x4c9d	0x98	ALTO		An exhibition room for valuable relics.	
 				Now it really does feel like a museum...	
@@ -181,9 +181,9 @@ talk_Coron
 0x51a4	0x98	Coron		Someday, I want to explain	mp_0115d 0x50cb
 				all of them together with	
 				Dr. Volans.	
-0x5239	0x98	Coron		The moon appearing the way it currently does...	
-				No previous astronomer has ever been recorded
-				seeing anything like it.	
+0x5239	0x98	Coron		The current state of the moon...	
+				No previous astronomer has ever	
+				recorded observing anything like it.	
 0x52bd	0x98	Coron		And according to you, Noi, there	
 				exists a whole other world up there...	
 0x531f	0x98	Coron		If I were to publish something like that	

@@ -1,4 +1,4 @@
-	mp_3002c
+mp_3002c
 init
 0x5c6	0x06	hana00		ANI_STOP2	
 0x5ef	0x06	hana01		ANI_STOP2	
@@ -120,7 +120,7 @@ EV_4_S03_help_algorl
 0x4456	0x98	Algorl	#2W	No... The first thing to	
 				do is to leave this place.	
 0x45f3	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x462f	0x98	ALTO	#1W#6A	But I only broke one	...	
+0x462f	0x98	ALTO	#1W#6A	But I only broke one of them...	
 0x4677	0x06	NOI		ANI_JOY	
 0x46a9	0x98	NOI	#1W#6A	That's Algol for you!	
 0x46eb	0x06	NOI		ANI_WAIT	
@@ -151,11 +151,11 @@ EV_4_S03_help_algorl
 0x4fef	0x98	Algorl		...The old Selam was	
 				no enemy of Terra.	
 0x504e	0x06	ALTO		ANI_WAIT	
-0x5074	0x98	Algorl		He hated dishonorable behavior,	
-				and fought on behalf of the weak...	
+0x5074	0x98	Algorl		He had a strong sense of justice, and	
+				always fought to defend the weak...	
 				He was just that kind of a person.	
 0x5109	0x06	Algorl		ANI_DENY	
-0x5131	0x98	Algorl		Even if he is the head of their race,	
+0x5131	0x98	Algorl		Even if he was the head of their race,	
 				I doubt Selam would follow Zext...	
 0x519a	0x06	ALTO		ANI_THINK	
 0x51c1	0x98	ALTO	#6A	If Selam isn't an imposter, then...	
@@ -196,7 +196,7 @@ EV_4_S03_help_algorl
 0x5ef1	0x06	Algorl		ANI_WAIT	
 0x5f48	0x06	NOI		ANI_GESTURE2	
 0x5f79	0x98	NOI	#6A	So this is your power, Algol...	
-0x5fc4	0x98	Algorl		My power will protect you	
+0x5fc4	0x98	Algorl		This power will protect you	
 				from all manner of things.	
 0x600f	0x98	Algorl		As I am now with my powers stolen,	
 				I cannot fight against them...	
@@ -206,7 +206,7 @@ EV_4_S03_help_algorl
 0x6100	0x06	ALTO		ANI_THANKS	
 0x6128	0x98	ALTO	#6A	Thank you so much!	
 0x6167	0x06	NOI		ANI_GUTSPOSE	
-0x6190	0x98	NOI	#6A	Let us take care it!	
+0x6190	0x98	NOI	#6A	Let us take care of it!	
 0x6520	0x06	NOI		ANI_NOD	
 0x6561	0x98	NOI		And now Algol will be fine.	
 0x65a6	0x06	NOI		ANI_GESTURE2	
@@ -215,4 +215,4 @@ EV_4_S03_help_algorl
 0x665e	0x06	ALTO		ANI_JOY	
 0x6683	0x98	ALTO		mp_0001 0x1174e
 0x6994	0x07	System	#4C	Activate Gear Shield by holding the R button.	
-0x6c53	0xCE	Objective		Cygna and Zext are at the Origin Continent. Let's go after them!	
+0x6c53	0xCE	Objective		Cygna and Zext are in the Origin Continent. After them!	

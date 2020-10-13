@@ -16,11 +16,11 @@ ev_hint02
 0x16c5	0x06	ob_400_02		ANI_WAIT	
 0x16f0	0x06	ob_400_03		ANI_WAIT	
 0x171b	0x06	ob_400_04		ANI_WAIT	
-0x195e	0x07	System	#i#359c	Offer the [Color of Flame] and [Color of Trees]	mp_4002d 0x1585
-				[Color of Sea] and [Color of Darkness].	
-0x19cf	0x07	System	#i#359c	The darkness is close to the trees and ocean,	mp_4002d 0x15f6
-				The trees are above the fire, the sea is to the right of the flame.	
-				You must offer them up.	
+0x195e	0x07	System	#i#359c	Offer the [Color of Flame], [Color of Trees]	mp_4002d 0x1585
+				[Color of Sea], and [Color of Darkness].
+0x19cf	0x07	System	#i#359c	The darkness is close to the trees and ocean.	mp_4002d 0x15f6
+				The tree is above the fire, the sea is to the	
+				right of the flame. You must present all three.		
 ev_ob_400_00
 0x1aeb	0x06	ob_400_00		ANI_CHANGE_RED	
 0x1b5c	0x06	ob_400_00		ANI_CHANGE_GREEN	

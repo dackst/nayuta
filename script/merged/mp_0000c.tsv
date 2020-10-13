@@ -32,7 +32,7 @@ talk_Lupus
 				I thought it'd be funny to ask	
 				my mom to help, but...	
 0xee1	0x6B	Lupus		Sweatdrop	
-0xf14	0x98	Lupus		...I never thought should she	
+0xf14	0x98	Lupus		...I never thought she	
 				could actually move it...	
 0xf7c	0x98	Lupus		Not even Columba and Sculp together	
 				could move that rubble...	
@@ -60,8 +60,8 @@ talk_Canis
 0x13a6	0x98	Lupus		(I-I can't believe it...	
 				 She's really moving it	
 				 all by herself...)	
-0x142c	0x98	Canis		I may not much use, but	
-				I'll do all I can to help.	
+0x142c	0x98	Canis		I may not be of much use, but	
+				I'll do everythig I can to help.	
 0x1480	0x98	Canis		Nayuta and everyone else	
 				are working so hard...	
 				I can't get complacent!	
@@ -133,8 +133,8 @@ talk_Sculp
 0x20ab	0x98	ALTO		(Fertile "soil," was it...?	mp_0000 0x7db3
 				 If I find some, shall I	
 				 bring it to Sculp?)	
-0x2253	0x98	Sculp		Hmm... It seems that we just might	 
-				be able remove these stones now.	
+0x2253	0x98	Sculp		Hmm... It seems that we just might	
+				be able to remove these stones now.	
 0x22a6	0x98	Sculp		I can't believe there exists a human	
 				who could move that by themselves.	
 0x230d	0x98	Axe		Next is the one that fell near	
@@ -362,7 +362,7 @@ talk_Hydol
 0x5197	0x98	Hydol		The only reason they survived after	
 				encountering such a powerful monster	
 				is thanks to you, Nayuta.	
-0x5206	0x98	Hydol		Please continue use your strength	
+0x5206	0x98	Hydol		Please continue to use your strength	
 				to protect everyone, you two.	
 0x528d	0x98	Hydol		There has been a rapid increase
 				in the number of people attacked	
@@ -373,10 +373,10 @@ talk_Cow
 talk_Reticul
 0x53dc	0x98	Reticul		Ah, you're awake. We were	
 				worried about you guys.	
-0x541f	0x98	Reticul		We weren't about to wait	
-				you two after all...	
+0x541f	0x98	Reticul		We weren't about to wait for	
+				the both of you after all...	
 0x5477	0x98	Reticul		We managed to get back, but	
-				we were concerned about what	
+				we were left wondering what	
 				happened to you guys.
 0x54d0	0x98	ALTO		Sorry... But it's good to	
 				see you're safe as well.	
@@ -413,13 +413,13 @@ talk_Pyxia
 				decide what I want to paint.	
 0x5b16	0x98	Pyxia		We, too, must work hard to	
 				overcome this situation!	
-0x5ba3	0x98	Pyxia		I can't believe that beautiful blue	
+0x5ba3	0x98	Pyxia		I can't believe that the beautiful blue	
 				sky and ocean would turn into this...	
 0x5c01	0x98	Pyxia		It reminds me of that	
 				famous artist's work,	
 				"The End of Days"...	
 0x5c69	0x98	Pyxia		...N-No way.	
-0x5cc3	0x98	Pyxia		That beautiful blue sky and	
+0x5cc3	0x98	Pyxia		That the beautiful blue sky and	
 				ocean would turn into this...
 0x5d23	0x98	Pyxia		Somehow, it doesn't feel real.
 				It's a crazy feeling.	

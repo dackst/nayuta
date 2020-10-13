@@ -2,18 +2,18 @@ mp_0005c
 init
 talk_Michy
 talk_Ophiuchus
-0x7dd	0x98	Ophiuchus		Hmm...From here, I can understand	
-				the condition of the sea well.	
-0x841	0x98	Ophiuchus		I feel like Master Mishy is worried	
-				about various things.	
-0x89f	0x98	Ophiuchus		He wishes for these abnormalities	
-				to be settled.	
-0x91b	0x98	Ophiuchus		Master Mishy also wants to	
-				put away his inheritance...	
+0x7dd	0x98	Ophiuchus		Hmm... You can see the	
+				whole ocean from here.	
+0x841	0x98	Ophiuchus		I feel like Master Mishy has	
+				a lot stuck on his mind.	
+0x89f	0x98	Ophiuchus		I hope that these anomalies will	
+				be brought to an end soon.	
+0x91b	0x98	Ophiuchus		That way we can settle the matter	
+				of Master Mishy's inheritance...	
 0x976	0x98	Ophiuchus		He wishes for these abnormalities	mp_0005c 0x89f
 				to be settled.	
 boss_retry
-0xa0e	0xCE	Objective		We can't lose...To protect Lyra and Vel!	
+0xa0e	0xCE	Objective		We can't lose... We have to protect Lyra and Vel!	
 SB_6_S10_appear_Lyra
 SB_6_S10_appear_Bell
 SB_6_S10_appear_Mons
@@ -101,7 +101,7 @@ EV_6_S11_help_lyra
 0x4082	0x06	ALTO		ANI_HUGGED2	
 0x411f	0x6B	ALTO		Exclamation	
 0x4149	0x6B	NOI		Exclamation	
-0x42b0	0x98	ALTO	#1W	W-Wha... Lyra...!?	
+0x42b0	0x98	ALTO	#1W	Wh-Wha... Lyra...!?	
 0x42f9	0x98	Lyra	#1W#6A	Nayuta, thank goodness	
 				you finally woke up...!	
 0x439c	0x98	Lyra	#1W#6A	Thank you for saving me!	
@@ -230,11 +230,11 @@ EV_6_S11_help_lyra
 0x6f99	0x06	ALTO		ANI_GESTURE2	
 0x6fe1	0x98	ALTO		Noi...	
 0x702d	0x06	NOI		ANI_DENY	
-0x7052	0x98	NOI	#6A	But... That might have	
-				been a mistake, after all.	
+0x7052	0x98	NOI	#6A	But... That might have been	
+				a mistake, after all.	
 0x70a2	0x06	NOI		ANI_GESTURE2	
 0x70cb	0x98	NOI	#6A	I believe in you... If we work	
-				together, I'm sure we there's	
+				together, I'm sure there's	
 				nothing we can't accomplish.	
 0x7139	0x06	NOI		ANI_GUTSPOSE	
 0x7162	0x98	NOI	#6A	The two of us have overcome	
@@ -247,7 +247,7 @@ EV_6_S11_help_lyra
 				for not trusting you.	
 0x7319	0x06	ALTO		ANI_GESTURE1	
 0x7361	0x98	ALTO		Though I'm not	
-				sire how yet...	
+				sure how yet...	
 0x73a4	0x06	ALTO		ANI_WAIT4	
 0x73e9	0x98	ALTO		We will definitely stop	
 				Cygna and Kureha, together!	

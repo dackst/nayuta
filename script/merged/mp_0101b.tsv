@@ -23,7 +23,7 @@ talk_Cetus
 0xeea	0x98	Cetus		Don't worry about us. Just	
 				this will be good enough.	
 0xf6a	0x98	Cetus		We'll return together on the way back to	
-				the island. Make sure come back safely.	
+				the island. Make sure to come back safely.	
 talk_Reticul
 0x1043	0x98	Reticul		I know you guys got a lot going on....	
 				But we'll be waiting here for you.	
@@ -83,7 +83,7 @@ SUB_meet_adventurer
 				in this world...	
 0x1aa9	0x06	Cetus		ANI_GESTURE2	
 0x1ad4	0x98	Cetus		Hey, are you guys all right?	
-				You both seem to have desparate	
+				You both seem to have desperate	
 				looks on your faces...	
 0x1b38	0x98	Cetus		Did you find your missing	
 				friend you mentioned before?	
@@ -105,16 +105,16 @@ SUB_meet_adventurer
 0x1e41	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1e70	0x98	ALTO		Huh?	mp_0004 0x392d
 0x1e94	0x06	NOI		ANI_THINK	
-0x1eba	0x98	NOI	#6A	W-Why?	mp_0101 0x8930
+0x1eba	0x98	NOI	#6A	Wh-Why?	mp_0101 0x8930
 0x1ee2	0x06	NOI		ANI_WAIT	
 0x1f07	0x06	Reticul		ANI_DIRECT	
-0x1f32	0x98	Reticul		Well, I mean... What, we	
-				should just leave you two	
-				and run away from of here?
+0x1f32	0x98	Reticul		Well, I mean... What, you think	
+				we should just leave you two	
+				and run away from here?
 0x1f8c	0x06	Reticul		ANI_WAIT3	
 0x1fb6	0x98	Reticul		If we did that, it would	
-				disgrace our good name	
-				as adventurers!	
+				be a disgrace to our good	
+				names as adventurers!	
 0x203d	0x98	Cetus		...You're still an	
 				amateur, though.	
 0x208f	0x06	Cetus		ANI_JOY	
@@ -147,7 +147,7 @@ SUB_noi_move
 SB_5_S02_appear_ALTO
 0x2891	0x6B	ALTO		Exclamation	
 EV_5_S02_talk_noi
-0x2d5f	0x98	ALTO	#0W#480x#270y	W-What the heck!?	
+0x2d5f	0x98	ALTO	#0W#480x#270y	Wh-What the heck!?	
 				The sky and the Garden...	
 0x2e60	0x98	ALTO		...I have to find Noi!	
 0x3057	0x06	NOI		ANI_DENY	
@@ -189,7 +189,7 @@ EV_5_S02_talk_noi
 				Into Heliograd.	
 0x38d7	0x6B	ALTO		Surprise	
 0x3909	0x06	ALTO		ANI_THINK2	
-0x3931	0x98	ALTO	#6A	T-That's what	
+0x3931	0x98	ALTO	#6A	Th-That's what	
 				that Selam said...	
 0x39f3	0x3F	Name		Selam	
 0x3a00	0x40	ALTO		Once we shut down this Temple, the	mp_4100 0x18b4

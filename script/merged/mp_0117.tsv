@@ -48,12 +48,12 @@ talk_Carina
 				This can't be how it ends.	
 0x164c	0x98	Carina		Cygna came by earlier to ask	
 				us for some dried fish.	
-0x169e	0x98	Carina		Since we had leftovers, I wenr to get him some,	
+0x169e	0x98	Carina		Since we had leftovers, I went to get him some,	
 				but then I saw him patting Collie's head saying,
 				"It's the only way to save them..."		
 0x1713	0x98	Carina		Nayuta, are you playing a	
 				survival game with Cygna?	
-0x1762	0x98	ALTO		N-No, I don't think so, but...	
+0x1762	0x98	ALTO		Uh, no, I don't think so...	
 0x17d4	0x98	Carina		Cygna looked so worried about
 				something. I wonder what's	
 				the matter with him...	
@@ -83,7 +83,7 @@ talk_Bell
 				you've got guts.	
 0x1c47	0x98	Bell		You say I'm small, but you're	
 				downright tiny, you know～?	
-0x1c9c	0x98	NOI		T-That's none of your business!	
+0x1c9c	0x98	NOI		Th-That's none of your business!	
 0x1d14	0x98	Bell		That reminds me, Nayuta.	
 				You never kissed Lyra～!	
 0x1d71	0x98	Bell		It was the perfect situation.	
@@ -111,7 +111,7 @@ talk_Bell
 				care of Collie now!	
 0x2262	0x98	Bell		Vel's a big girl now!	
 0x22d3	0x98	Bell		Lyra is gonna	
-				came by today.	
+				come by today.	
 0x232e	0x98	Bell		Collie, let's play	
 				with her a lot!	
 0x2369	0x98	baby		Abubu...Babbu.	
@@ -140,14 +140,14 @@ talk_Bell
 				too next time!	
 0x287e	0x98	Bell		This is where Vel hides	
 				her treasures.	
-0x28c6	0x98	Bell		Sometimes, Dad takes the nets	
+0x28c6	0x98	Bell		Sometimes, Dad sets the	
 				nets out to trap fish～.	
 0x2913	0x98	Bell		Ehehe, jealous? ☆	
 0x296f	0x98	Bell		Sometimes, daddy	mp_0117 0x28c6
 				goes to trap fish	
 				with nets～.	
 0x29bc	0x98	Bell		Ehehe, I'm jealous☆	mp_0117 0x2913
-0x2a28	0x98	Bell		I was so scaared.	
+0x2a28	0x98	Bell		I was so scaaared～.	
 				Vel fell on her bottom.	
 0x2a74	0x98	Bell		And I was trying to clean, too.	
 				...What a shame.	
@@ -184,7 +184,7 @@ talk_Bell_and_Collie
 				your sister today!	
 0x3059	0x98	Collie		No.	
 0x307e	0x98	Bell		Oh, you cheeky little one!	
-0x30c5	0x98	Bell		For kids like deserve this!	
+0x30c5	0x98	Bell		Kids like you deserve this!	
 				Coochie coochie coo...	
 0x3119	0x6B	Collie		Unknown	
 0x314d	0x98	Collie		Kyahahaha...	
@@ -228,11 +228,11 @@ quest_Carina
 0x39ea	0x98	Carina		When the time comes, please	
 				enjoy the delicious dried	
 				seafood that we made.	
-0x3b10	0x98	Carina		Dr. Hydol has been giving me	
-				regular checkups since I	
+0x3b10	0x98	Carina		Dr. Hydol has been giving	
+				me regular exams since I	
 				gave birth.	
 0x3b76	0x98	Carina		Hehe, he's always so helpful.	
-				He is truly a great doctor.	
+				He truly is a great doctor.	
 QS_11_quest_start
 0x3daa	0x06	Bell		ANI_TALK	
 0x3dd0	0x98	Bell		You see, Vel has hidden secret	
@@ -260,7 +260,7 @@ QS_11_quest_start
 0x4151	0x98	ALTO		Ahaha, well anyway, it's fine.	
 				What game do you want to play?	
 0x41ad	0x06	Bell		ANI_TALK	
-0x41d3	0x98	Bell	#6A	Well. you see, Vel has	
+0x41d3	0x98	Bell	#6A	Well, you see, Vel has	
 				hidden secret treasure	
 				somewhere on the island.	
 0x423b	0x98	Bell	#6A	Big brother Nayuta will	mp_0117 0x3e35
@@ -287,7 +287,7 @@ QS_11_quest_start
 QS_11_first_hint
 0x46d8	0x06	ALTO		ANI_THANKS	
 0x4700	0x98	ALTO		Yeah, okay.	
-				I guess I'll play with	
+				I guess I'll play	
 				with you for a bit.	
 0x4757	0x06	Bell		ANI_JOY	
 0x477c	0x98	Bell	#6A	Awesome!	
@@ -311,7 +311,7 @@ QS_11_first_hint
 0x4aa7	0x98	Bell	#6A	Yup! ☆	
 0x4ad0	0x6B	ALTO		Sweatdrop	
 0x4b02	0x06	ALTO		ANI_DEJECTED	
-0x4b2c	0x98	ALTO		(T-This might be harder	
+0x4b2c	0x98	ALTO		(Th-This might be harder	
 				 than I expected...)	
 0x4b71	0x06	ALTO		ANI_THINK	
 0x4b98	0x98	ALTO		(Where you can go up stairs..	
@@ -336,7 +336,7 @@ QS_11_quest_end
 0x5121	0x06	Bell		ANI_WAIT3	
 0x5148	0x98	Bell	#6A	Hehee, the notes were	
 				all Vel's idea.	
-0x5195	0x98	Bell	#6A	I based them off a adventure	
+0x5195	0x98	Bell	#6A	I based them off an adventure	
 				book Puppis gave me.	
 0x5201	0x06	Bell		ANI_GESTURE1	
 0x522b	0x98	Bell	#6A	It was hard, but it	
@@ -349,8 +349,8 @@ QS_11_quest_end
 0x5342	0x98	Bell	#6A	No, that's okay!	
 				That treasure belongs	
 				to you now, Nayuta!	
-0x53af	0x98	Bell	#6A	Vel has more that are	
-				a lot better that.	
+0x53af	0x98	Bell	#6A	Vel has more like that	
+				that are a lot better.	
 0x53fd	0x06	ALTO		ANI_THANKS	
 0x5425	0x98	ALTO		I-Is that so...?	
 				Then, thanks, I'll keep it.
@@ -370,21 +370,21 @@ QS_25_speak_to_Carina
 0x59fe	0x98	Carina		My, it's Nayuta.	
 				Is something wrong?	
 0x5a46	0x06	ALTO		ANI_GESTURE1	
-0x5a70	0x40	UNDEF		Nayuta told Carina that Dr. Hydol had	
-				called her in perform a medical exam.		
+0x5a70	0x40	UNDEF		Nayuta told Carina that Dr. Hydol wanted	
+				her to come in for a medical exam.		
 0x5adb	0x06	Carina		ANI_GOODIDEA	
 0x5b07	0x98	Carina		Oh, the doctor is here, isn't he?	
 				Thank you for telling me.	
 0x5b67	0x06	Carina		ANI_WAIT4	
 0x5b90	0x98	Carina		That's right, he said he wanted	
-				to check up on my progess after	
+				to check up on my progress after	
 				I gave birth to Collie.	
 0x5c07	0x06	ALTO		ANI_GESTURE2	
-0x5c31	0x98	ALTO	#6A	"Progess"...? Did the	
-				doctor also care for you	
-				while you gave birth?	
+0x5c31	0x98	ALTO	#6A	"Progress"...? Did the	
+				doctor also care for	
+				you during the birth?	
 0x5ca1	0x06	Carina		ANI_NOD	
-0x5cc8	0x98	Carina		Yeah, that's right. Even while	
+0x5cc8	0x98	Carina		Yep, that's right. Even while	
 				I was pregnant, he was giving	
 				me all sorts of advice.	
 0x5d44	0x06	Carina		ANI_TALK	
@@ -395,19 +395,20 @@ QS_25_speak_to_Carina
 				Medical Center beforehand to	
 				make sure we were prepared.
 0x5e2e	0x06	Carina		ANI_WAIT2	
-0x5e57	0x98	Carina		Thanks to him, the birth went much	
-				easier than it would have been.	
+0x5e57	0x98	Carina		Thanks to him, the birth went	
+				much smoother than it would	
+				have otherwise.	
 0x5ea8	0x06	ALTO		ANI_WAIT4	
-0x5ecf	0x98	ALTO	#6A	Wow, I never knew that...	
+0x5ecf	0x98	ALTO	#6A	Wow, I didn't know that...	
 0x5f04	0x06	Carina		ANI_LAUGH	
 0x5f2d	0x98	Carina		Hehe, Janis was planning to	
 				be the midwife, so she was a	
 				little disappointed, though.	
 0x5f9d	0x06	Carina		ANI_GESTURE2	
 0x5fc9	0x98	Carina		After the birth, he has been	
-				doing regular examininations.	
+				performing regular examinations.	
 0x6028	0x06	ALTO		ANI_THANKS	
-0x6050	0x98	ALTO	#6A	I see... Looks like the doctor	
+0x6050	0x98	ALTO	#6A	I see... Sounds like the doctor	
 				did a pretty good job.	
 0x6097	0x06	Carina		ANI_WAIT0	
 0x60c0	0x98	Carina		Hehe, well, can you tell him	

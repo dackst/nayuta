@@ -4,12 +4,13 @@ talk_Eida
 0xb5f	0x98	ALTO		(Now that you mention it...	
 				 I did find a strange
 				 stone earlier...)	
-0xbcc	0x98	ALTO		Wasn't Ada knowledgable	
-				about minerals and such?	
-0xc18	0x98	ALTO		You know, I found a strange rock, like an ore...	
+0xbcc	0x98	ALTO		Ada, don't you know a lot	
+				about minerals and stuff?	
+0xc18	0x98	ALTO		You know, I found this strange	
+				rock earlier, like an ore...	
 0xc68	0x98	Eida		Huh? A strange rock...?	
-0xc9c	0x98	Eida		Then, I'd better show to the old man.	
-				He knows more about this than I do.	
+0xc9c	0x98	Eida		Then I'd better show it to the old man.	
+				He'd know more about this than I do.	
 0xde6	0x98	Eida		Oh yeah, Nayuta, you've been	
 				collecting all kinds of stuff	
 				while exploring the ruins, right?	
@@ -41,7 +42,7 @@ talk_Eida_add
 				We've been considering expanding our	
 				product lineup, too～.	
 0x1629	0x98	Eida		With this ore, I can ask the old	
-				manto make me some better weapons.	
+				man to make me some better weapons.	
 				Don't hold back, Nayuta. Buy them!☆	
 0x16b4	0x98	ALTO		Haha... Always have	
 				to make a sale.	
@@ -51,8 +52,8 @@ talk_Eida_add
 				the armory's lineup.	
 0x17ec	0x07	System	#4C	If you give ore to Ada, you can	
 				expand the armory's lineup.	
-0x1842	0x07	System	#4C	Be sure to pick up	
-				ore if you find some!	
+0x1842	0x07	System	#4C	Be sure to pick up ore	
+				if you find any!	
 0x18d4	0x98	Eida		Oh, Nayuta... Looks like you've	
 				brought me some ore again.	
 0x192c	0x98	Eida		If you don't mind, let me have it.	
@@ -119,7 +120,7 @@ talk_Eida_sub
 				customer Cygna...	
 0x296f	0x98	Eida		I heard from Orvus.	
 				You guys...fought on	
-				that broken moon.	
+				that shattered moon.	
 0x29c6	0x98	Eida		...No matter what, we islanders	
 				are all in this together.	
 0x2a22	0x98	Eida		You can't forget:	
@@ -135,7 +136,7 @@ talk_Eida_sub
 				a look at what we have?	
 				We've got some nice weapons.	
 0x2cae	0x98	Eida		Buying our weapons will	
-				being you happiness!	
+				bring you happiness!	
 0x2cfd	0x98	Eida		mp_0111 0x2c17		
 0x2da2	0x98	Eida		I can't believe something like	
 				that would pop out of a moon...	
@@ -158,9 +159,9 @@ talk_Eida_sub
 0x3086	0x98	Eida		My old man has taken charge of assisting everyone...	
 				But I can't help but feel that something else is	
 				still going to happen...
-0x3152	0x98	Eida		Kureha... She's a little	
-				strange, but she's good kid.	
-0x31c2	0x98	Eida		All we're good for is making	
+0x3152	0x98	Eida		Kureha... She's a little strange,	
+				but she's a good kid.	
+0x31c2	0x98	Eida		All I'm good for is making	
 				and selling weapons...	
 0x320a	0x98	Eida		...Nayuta, look after	
 				that girl for me, okay?	
@@ -199,7 +200,7 @@ talk_Eida_sub
 				wouldn't let such a scrawny girl	
 				do anything too dangerous.	
 0x396a	0x98	Eida		Although at first, she said she	
-				wanted try hammering the swords.	
+				wanted to try hammering the swords.	
 0x39bd	0x6B	ALTO		Sweatdrop	
 0x39ef	0x98	ALTO		Sorry, Ada. Kureha is	
 				a little...unworldly.	
@@ -344,7 +345,7 @@ talk_Columha
 0x5716	0x98	Columha		Nayuta, if you happen to come	
 				across any, bring them here.	
 				I'll make you the perfect weapon.	
-0x57cf	0x98	Columha		Hmm, the two you look pretty	
+0x57cf	0x98	Columha		Hmm, the two of you look pretty	
 				comfortable together...	
 0x5825	0x98	Columha		I don't know the exact circumstances, but	
 				I have to get fired up and ready this	
@@ -404,7 +405,7 @@ talk_Columha
 0x633a	0x98	Columha		It sure is noisy outside...	
 				Did something happen?	
 0x638d	0x98	Columha		There have been a lot of incidents lately...	
-				...Or is it just be my imagination...?	
+				...Or is it just my imagination...?	
 0x642d	0x98	Columha		There's not much that could pass	
 				for entertainment on this island.	
 0x6492	0x98	Columha		Like when a stranger comes along, that's	
@@ -488,7 +489,7 @@ talk_Columha
 0x7615	0x98	Columha		...Guh...Ooh...oh...	
 0x764c	0x98	ALTO		What's wrong, Mr. Columba?	
 0x76d8	0x98	Eida		Oh, he's fine, he's fine.	
-0x7717	0x98	Eida		He just hit missed and hit his thumb	
+0x7717	0x98	Eida		He just missed and hit his thumb	
 				because of the shaking earlier.
 0x777e	0x6B	ALTO		Sweatdrop	
 0x77b0	0x98	ALTO		G-Get well soon...	
@@ -517,7 +518,7 @@ talk_Columha_add
 0x7eaf	0x98	Columha		Hmm... Nayuta, what you	
 				have there, is that...?	
 0x7f06	0x06	Columha		ANI_SURPRISE	
-0x7f33	0x98	Columha	#16S	T-T-That's...	
+0x7f33	0x98	Columha	#16S	Th-Th-That's...	
 				#18SZemurian Ore, isn't it!?	
 0x7fa1	0x06	ALTO		ANI_THINK2	
 0x7fc9	0x98	ALTO		Umm, is this piece of	
@@ -596,12 +597,12 @@ subev_zemuria
 				Then please, go on ahead.	
 0x8df2	0x06	ALTO		ANI_JOY	
 0x8e17	0x98	ALTO		I'm interested in making a weapon	
-				from a the legendary ore.	
+				from the legendary ore.	
 0x8e71	0x06	Columha		ANI_JOY	
 0x8e99	0x98	Columha		Okay... Then I'll take	
 				the Zemurian Ore.	
 0x8ef0	0x98	Columha		...Just give me a moment.	
-				But it's not safe, so stand back.	
+				It's not safe, so stand back.	
 0x8f71	0x06	NOI		ANI_GESTURE1	
 0x8f9a	0x98	NOI	#6A	I never thought a human would	
 				be capable of manipulating 	
@@ -619,7 +620,7 @@ subev_zemuria
 0x92e5	0x98	NOI	#6A	It's really a weapon...	
 0x9324	0x06	NOI		ANI_DULL	
 0x9349	0x98	NOI	#6A	That was no big deal. It's	
-				just smeltering ore. Hmm... 	
+				just smelting ore. Hmph... 	
 0x93c0	0x06	NOI		ANI_DEJECTED	
 0x93e9	0x98	NOI	#6A	Will it really be a weapon...	mp_0111 0x92e5
 0x9428	0x06	NOI		ANI_THINK	
@@ -628,11 +629,11 @@ subev_zemuria
 0x94d2	0x98	ALTO		Ahaha, looks like it was	
 				too complicated for Noi.	
 0x9522	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x9550	0x98	ALTO		Certainly, the wrong use of this	
-				knowledge could be dangerous..	
+0x9550	0x98	ALTO		Certainly, leaving this knowledge	
+				in the wrong hands could be dangerous.	
 				It should be used only with caution.	
 0x95f8	0x06	NOI		ANI_NOD	
-0x961c	0x98	NOI	#6A	Yeah... It should	
+0x961c	0x98	NOI	#6A	Yeah... That should	
 				be fine then.	
 0x966d	0x06	NOI		ANI_SPEECH	
 0x9694	0x98	NOI	#6A	This will provide a great	
@@ -716,7 +717,7 @@ talk_Eida_Creha
 0xa588	0x98	ALTO	#6A	If she's forcing you to do something,	
 				it's okay to say no, all right?	
 0xa5ee	0x06	Eida		ANI_SURPRISE	
-0xa618	0x98	Eida		W-What!?	
+0xa618	0x98	Eida		Wh-What!?	
 				What'd you say, I...!	
 0xa659	0x06	Creha		ANI_DENY	
 0xa680	0x98	Creha		No, I'm okay.	
@@ -729,7 +730,7 @@ talk_Eida_Creha
 0xa807	0x06	Eida		ANI_WAIT3	
 0xa82e	0x98	Eida		Okay then, next up is	
 				to arrange the ledger!	
-0xa877	0x98	Eida		Man, it's been an honor to able to	
+0xa877	0x98	Eida		Man, it's been an honor to be able to	
 				teach you the joys of menial labor～!	
 0xa8d6	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xa904	0x98	ALTO	#6A	(H-Hmm, I wonder if she really	
@@ -738,10 +739,10 @@ talk_Eida_Creha
 				 I guess I shouldn't worry so much.)	
 0xaa2f	0x06	Eida		ANI_WAIT0	
 quest_Eida
-0xaada	0x98	Eida		You should have seen the look on	
-				my old man's face. It was hilarious～!	
+0xaada	0x98	Eida		You should have seen the look on my	
+				old man's face. It was hilarious～!	
 				That girl and I were laughing so hard!	
-0xab55	0x98	Eida		If you find her, you have to	
+0xab55	0x98	Eida		If you find her, you HAVE to	
 				tell her to come back here.	
 0xad12	0x98	Eida		I want you to search for a rare fruit	
 				I haven't tried macerating before.	
@@ -759,10 +760,11 @@ quest_Columha
 0xb06d	0x98	Columha		Island Loco Moco is a dish of white	
 				rice topped with steak, fried eggs,	
 				and local island vegetables.	
-0xb0f8	0x98	Columha		It's not very well known nowadays, but	
-				it used to quite popular on this island.	
+0xb0f8	0x98	Columha		It's not very well known nowadays,	
+				but it used to be quite popular	
+				on this island.	
 0xb156	0x98	Columha		Get it to your friend	
-				while it's still warm.	
+				before it gets cold.	
 QS_21_quest_start
 0xb34a	0x06	Eida		ANI_WAIT0	
 0xb371	0x98	Eida		Every year I make some fruit liqueur.	
@@ -795,8 +797,8 @@ QS_21_quest_start
 				I can't get out of right now...	
 0xb835	0x06	Eida		ANI_GESTURE1	
 0xb85f	0x98	Eida		I see. Don't have a choice, I guess.	
-0xb8a3	0x98	Eida		Next time you're feel to	
-				take it on, call on me again.	
+0xb8a3	0x98	Eida		Next time you feel ready to	
+				take it on, talk to me again.	
 QS_21_ask_work
 0xb967	0x06	ALTO		ANI_NOD	
 0xb98c	0x98	ALTO	#6A	Yeah, I'm good.	
@@ -835,14 +837,14 @@ QS_21_ask_work
 0xbf16	0x06	Eida		ANI_WAIT0	
 0xbf3d	0x98	Eida		Well, this is just something I do for	
 				fun, so I wanted to try doing something	
-				different from time to time. 	
+				different once in a while. 	
 0xbfc7	0x98	Eida		You know a lot about plants and stuff,	
 				and you've been to a lot of places, so	
-				I thought you'd might have some idea.	
+				I thought you'd might have some ideas.	
 0xc063	0x06	Eida		ANI_WAIT2	
 0xc08a	0x98	Eida		...Well, are you up for it?	
 0xc0c2	0x06	ALTO		ANI_THANKS	
-0xc0ea	0x98	ALTO		Yeah, I guess. I don't know	
+0xc0ea	0x98	ALTO		Sure, I guess. I don't know	
 				much about alcohol, but	
 				I'll try to do what I can.	
 0xc159	0x06	ALTO		ANI_THINK2	
@@ -917,7 +919,7 @@ QS_24_get_local_cuisine
 				 but Columba doesn't exactly seem	
 				 to be the cooking type...)	
 0xd1d6	0x98	ALTO	#6A	(Maybe the expert on the local	
-				 cuisine the elder mentioned is...)	
+				 dish the elder mentioned is...)	
 0xd277	0x98	Columha		...What's wrong, Nayuta?	
 				You need something from me?	
 0xd2d0	0x06	ALTO		ANI_WAIT	
@@ -925,9 +927,9 @@ QS_24_get_local_cuisine
 				I want to ask you...	
 0xd348	0x06	ALTO		ANI_GESTURE1	
 0xd372	0x98	ALTO	#6A	Mr. Columba, do you know anything	
-				about this island's local cuisine?	
+				about this island's local dish?	
 0xd3d5	0x06	Columha		ANI_THINK	
-0xd3ff	0x98	Columha		Local cuisine, eh?	
+0xd3ff	0x98	Columha		Local dish, eh?	
 0xd434	0x98	Columha		...You mean the Island Loco Moco?	
 0xd482	0x06	Columha		ANI_WAIT	
 0xd4ab	0x6B	ALTO		Sweatdrop	
@@ -944,7 +946,7 @@ QS_24_get_local_cuisine
 0xd670	0x98	Columha		It's white rice topped with steak,	
 				fried eggs, and local island vegetables.	
 0xd6f6	0x98	Columha		It's not very well known nowadays, but	mp_0111 0xb0f8
-				it used to quite popular on this island.		
+				it used to be quite popular on this island.		
 0xd767	0x98	Columha		It's quite filling. Young men on the	
 				island would often eat it for lunch.	
 0xd7cb	0x06	Columha		ANI_WAIT2	
@@ -964,12 +966,12 @@ QS_24_get_local_cuisine
 0xdb8a	0xC1	System		received.	mp_0000 0x12596
 0xdc6a	0x06	ALTO		ANI_GUTSPOSE	
 0xdc94	0x98	ALTO	#6A	Hmm, smells delicious...	
-				(I think I'm going to have to take a	
+				(I think I'm going to have to try a	
 				 bite of it before I give it to Gio.)	
 0xdd1e	0x06	Columha		ANI_LAUGH	
 0xdd48	0x98	Columha		...Heheh, frankly, I'm glad to hear that.	
 0xdd99	0x06	Columha		ANI_WAIT3	
-0xddc3	0x98	Columha		Sometimes I serve it Ada,	
+0xddc3	0x98	Columha		Sometimes I make it for Ada,	
 				but every time, she always	
 				asks for special changes...	
 0xde33	0x98	Columha		Thanks to that, this version has been	
@@ -984,14 +986,14 @@ QS_24_get_local_cuisine
 0xe056	0x06	ALTO		ANI_THINK2	
 0xe07e	0x98	ALTO	#6A	(There's still the Ruins Rock Salt	
 				 the elder talked about...)
-0xe0e7	0x98	ALTO	#6A	(He said I'd find it in near the	
+0xe0e7	0x98	ALTO	#6A	(He said I'd find it near the	
 				 ruins on the beach, so I should	
 				 try looking around there.)	
 QS_41_getting_information
 0xe3a7	0x98	Eida		Hey Nayuta, what's the matter?	
 0xe3e0	0x06	ALTO		ANI_GESTURE1	
 0xe40a	0x98	ALTO	#6A	Ada, I need to ask you something...
-0xe450	0x40	UNDEF		Told Ada about the missing Equlea.	
+0xe450	0x40	UNDEF		Nayuta told Ada about the missing Equlea.	
 0xe493	0x06	Eida		ANI_GOODIDEA	
 0xe4bd	0x98	Eida		Ah, ah, that little noble girl?	
 0xe4f7	0x06	Eida		ANI_WAIT0	
@@ -1148,8 +1150,8 @@ EV_4_S08_creha_scene_2nd
 0x10ba8	0x98	Eida	#6A	My old man is a skilled	
 				blacksmithing master.	
 0x10bf7	0x06	Eida		ANI_GESTURE2	
-0x10c21	0x98	Eida	#6A	Well, on Remant Island, the only	
-				customers interested in them	
+0x10c21	0x98	Eida	#6A	Well, here on Remnant Island, the	
+				only customers interested in them	
 				are Nayuta and Cygna, though.	
 0x10c8f	0x06	Creha		ANI_NOD	
 0x10d49	0x98	Creha		...Amazing.	
@@ -1162,8 +1164,8 @@ EV_4_S08_creha_scene_2nd
 0x10f72	0x06	Eida		ANI_SURPRISE	
 0x10f9c	0x98	Eida	#6A	What!?	
 0x10fcd	0x06	Creha		ANI_WAIT2	
-0x11043	0x98	Creha	#0W	I...I just wanted to check	
-				out you guys on the island.	
+0x11043	0x98	Creha	#0W	I...I just wanted to learn	
+				about you guys on the island.	
 0x110be	0x98	Creha	#0W	So, um, I'm trying to	
 				be helpful to people...	
 0x1112a	0x06	Eida		ANI_WAIT4	

@@ -21,7 +21,7 @@ QS_81_hang_out_box
 				might react to this place.	
 0xf76	0x06	ALTO		ANI_NOD	
 0xf9b	0x98	ALTO		It seems worth a try.	
-0xfee	0x98	ALTO		Then...here we go.	
+0xfee	0x98	ALTO		Well... Here I go.	
 0x1033	0x06	ALTO		ANI_HANDOVER1	
 0x10d9	0x40	UNDEF		Nayuta tried raising	mp_1002b 0x2e09
 				the unopened box.	
@@ -50,7 +50,7 @@ QS_81_hang_out_box
 				continents in order.	
 0x15f7	0x06	ALTO		ANI_THINK2	
 0x161f	0x98	ALTO		If the first one was on this	
-				continent in Spring, then...	
+				continent in spring, then...	
 				Where should I go next?	
 SB_5_S06_escape_ALTO
 EV_5_S06_help_nemeas
@@ -59,7 +59,7 @@ EV_5_S06_help_nemeas
 				reached the prison.	
 0x1eef	0x06	NOI		ANI_GESTURE1	
 0x1f18	0x98	NOI	#6A	Nemeas, are you okay!?	
-0x1f89	0x41	None	#0W#2E#710c	...That voice...Noi...	
+0x1f89	0x41	None	#0W#2E#710c	...That voice... Noi...	
 				In addition, the human child from before.#0E	
 0x2026	0x41	None	#0W#2E#710c	Then the ones who restored the	
 				climate to normal...	
@@ -90,9 +90,9 @@ EV_5_S06_help_nemeas
 				have joined Zext...	
 0x38cc	0x06	Nemeas		ANI_WAIT	
 0x395c	0x98	Nemeas		...This is quite an alarming situation.	
-				I did not foresee that this happenning...	
+				I did not foresee that this would happen...	
 0x39c2	0x06	ALTO		ANI_COMPLAIN	
-0x39ec	0x98	ALTO	#6A	Kureha's...the Mythos' mission...
+0x39ec	0x98	ALTO	#6A	Kureha's...the Mythos' plan...
 				Do you know anything about it?
 0x3ac9	0x98	ALTO	#6A	I just have to know. I have to	
 				know what Kureha really wants...	

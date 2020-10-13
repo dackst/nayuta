@@ -11,7 +11,7 @@ quest_Pyxia
 talk_Pyxia
 0x616	0x98	Pyxia		I wanted to ask that beautiful girl	
 				to model for my painting...	
-0x670	0x98	Pyxia		...Now's not that time for mentioning	
+0x670	0x98	Pyxia		...Now's not that time for talking	
 				about that sort of thing.	
 0x6c9	0x98	Pyxia		If I ever find that man in	
 				black again, I'm gonna whack	
@@ -29,7 +29,7 @@ talk_Horolo
 				feeling that they came here	
 				just to take away that girl...	
 0x98a	0x98	Horolo		Why would that man in black	
-				come all they way here to	
+				come all the way here to	
 				just steal a single girl?	
 0x9ef	0x98	Horolo		Was there some special	
 				reason or something...?	

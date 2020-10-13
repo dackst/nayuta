@@ -56,8 +56,8 @@ EV_4_S10_meet_seram
 0x1bc7	0x06	NOI		ANI_COMPLAIN	
 0x1bf0	0x98	NOI		Are you guys really
 				going to use it!?	
-0x1c79	0x98	Seram	#6A	Yes, we're going to do it.	
-				Without the slightest hesitation.	
+0x1c79	0x98	Seram	#6A	Yes, we will do it. Without	
+				the slightest hesitation.	
 0x1cd2	0x06	Seram		ANI_GESTURE1	
 0x1cfd	0x98	Seram	#6A	It's what we...the Mythos─	
 				it's what we MUST do.	
@@ -76,17 +76,16 @@ EV_4_S10_meet_seram
 0x213e	0x06	ALTO		ANI_GESTURE2	
 0x2168	0x98	ALTO	#6A	...Warning?	
 0x21b7	0x98	Seram		Our plan, it's currently	
-				preceeding rather smoothly.	
+				proceeding rather smoothly.	
 0x2212	0x98	Seram		Zext is undergoing preparations	
-				in order to obtain the Key	
+				in order to obtain the key	
 				necessary to open the seal.	
 0x228e	0x06	Seram		ANI_GESTURE1	
-0x22b9	0x98	Seram		From here on out, our	
-				actions won't be so	
-				repetitive and predictable.	
+0x22b9	0x98	Seram		From here on out, our actions won't	
+				be so repetitive and predictable.	
 0x231b	0x98	ALTO	#6A	The...k-key?	
 0x234e	0x06	NOI		ANI_GESTURE2	
-0x2377	0x98	NOI	#6A	W-What are you saying!?	mp_0101 0x1f77e
+0x2377	0x98	NOI	#6A	Wh-What are you saying!?	mp_0101 0x1f77e
 0x23b8	0x06	Seram		ANI_WAIT	
 0x23df	0x98	Seram		Heheh, don't you understand?	
 0x2415	0x06	Seram		ANI_DENY	
@@ -105,7 +104,7 @@ EV_4_S10_meet_seram
 0x262e	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x265d	0x98	ALTO	#6A	...!?	mp_4002a 0x12a4
 0x268d	0x06	NOI		ANI_SURPRISE	
-0x26b6	0x98	NOI	#0W#6A	W-What do you mean!?	
+0x26b6	0x98	NOI	#0W#6A	Wh-What do you mean!?	
 0x271d	0x98	Seram		Heheh, With those words, I shall	
 				continue on into the Temple.	
 0x2799	0x98	Seram		What should you do...?	
@@ -131,8 +130,8 @@ EV_4_S10_meet_seram
 0x2d23	0x98	NOI	#6A	I'm worried about	
 				Master Kureha myself...	
 0x2d73	0x06	ALTO		ANI_NOD	
-0x2d98	0x98	ALTO		...There's no other choice. Let's	
-				return to the other world for now.	
+0x2d98	0x98	ALTO		...There's no choice. Let's return	
+				to the other world for now.	
 0x2df1	0x06	ALTO		ANI_GESTURE1	
 0x2e1b	0x98	ALTO		We've got to check up on	
 				Kureha and Remnant Island...	

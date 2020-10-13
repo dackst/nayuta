@@ -14,7 +14,7 @@ EV_3_S28_at_tower_top
 				I shall leave the remaining	
 				tasks there in your hands.	
 0x8a0	0x98	Zext	#1W	As for myself, I must concentrate	
-				on completing the Final Key.	
+				on completing the final key.	
 0x919	0x98	Seram	#0W#6A	By your command.	
 0xbb5	0x98	Zext	#0W	Heheheh...	
 				All is going	
@@ -49,8 +49,8 @@ EV_5_S19_meet_zext
 0x297a	0x98	Zext		The preparations are finally over.	
 0x29c7	0x98	Zext		All there is left to do is charge	
 				Heliograd with the Power of Stars...	
-0x2a2c	0x98	Zext		And the forgotten destiny of	
-				us Mythos will be complete.	
+0x2a2c	0x98	Zext		And the lost thread of us	
+				Mythos will be resolved.	
 0x2af3	0xBC	ALTO		Ellipsis	
 0x2b31	0x98	ALTO	#6A	...Please, tell me.	
 0x2b66	0x98	ALTO	#6A	What is it that you...	
@@ -72,9 +72,9 @@ EV_5_S19_meet_zext
 0x3052	0x98	Zext		We shared the vast knowledge	
 				and technology we possessed	
 				at the time.	
-0x30c2	0x98	Zext		Furthermore, by controlling	
-				the Power of Stars, we steered	
-				the world down a righteous path.	
+0x30c2	0x98	Zext		Furthermore, by weaving the	
+				Power of Stars, we spun the	
+				world down a righteous path.	
 0x313c	0x98	Zext	#0W	Those humans worshipped	
 				us...as a race of "gods."	
 0x319c	0x98	ALTO	#0W#240x#270y	A race...of gods...	
@@ -90,7 +90,7 @@ EV_5_S19_meet_zext
 				suffered a huge disaster.	
 0x357d	0x98	Creha		The beautiful nature and great	
 				civilizations that we had built	
-				were destroyed in a blink of an eye...	
+				were instantly cut short...	
 0x35e4	0x98	ALTO	#6A	Could this be the legendary Calamity...!?	
 0x3631	0x98	ALTO	#6A	Are you saying it was caused	
 				by the hands of humans...!?	
@@ -98,34 +98,34 @@ EV_5_S19_meet_zext
 				it did actually happen.	
 0x37c8	0x98	Zext		...However, we had anticipated	
 				this to some extent...	
-0x3811	0x98	Zext		So we created a plan to protect	
-				the world from the coming destruction.	
-0x3882	0x98	NOI	#1W#20x#270y	...plan...	
-0x38be	0x98	Zext		We created a beautiful new world to preserve	
-				every plant and animal that existed at the time, 
+0x3811	0x98	Zext		We had a plan ready to protect the	
+				world in case of imminent destruction.	
+0x3882	0x98	NOI	#1W#20x#270y	...Plan...?	
+0x38be	0x98	Zext		We created a beautiful new world tailored for the 
+				preservation of every plant and animal that existed, 
 				so that we could one day reconstruct the old one.	
-0x393e	0x98	Zext		And thus, we laid the foundation	
-				for one day remaking the destroyed	
-				world back to its former glory.	
-0x3a07	0x98	Zext	#1W	That is the #0WTerra plan.	
+0x393e	0x98	Zext		And thus, we laid the framework for	
+				one day remaking a destroyed world,	
+				returning it to its former glory.	
+0x3a07	0x98	Zext	#1W	That is the #0WTerra Plan.	
 0x3a65	0x98	ALTO	#1W#40x#270y#16S	...!!	mp_0110 0x23435
 0x3c6b	0x06	NOI		ANI_SURPRISE	
 0x3c9c	0x98	NOI	#230x#160y#16S#6A	Ahh!?	
 0x3cd8	0x06	ALTO		ANI_LOOK_AROUND	
-0x3d05	0x98	ALTO	#250x#160y#6A	W-Wha...!?	
+0x3d05	0x98	ALTO	#250x#160y#6A	Wh-Wha...!?	
 0x3d47	0x06	ALTO		ANI_TENSION_WAIT	
 0x3e95	0x98	Zext		This tower is for more than just facilitating	
 				the Astrolabe's ability to preserve life.	
-0x3f05	0x98	Zext		That is, it is also for accumulating	
-				the vast amount of the Power of Stars	
-				necessary to execute the plan.	
+0x3f05	0x98	Zext		That is, it is also for gathering	
+				the vast measure of the Power of	
+				Stars necessary to execute the plan.	
 0x3f7b	0x98	Zext		Heheh, and now, that task is	
 				being completed as we speak...	
 0x3fdc	0xBC	ALTO		Exclamation	
 0x401a	0xBC	NOI		Ellipsis	
 0x4057	0x98	ALTO	#6A	Then you've been stopping the	
 				Temples around the world to...!	
-0x40aa	0x98	Zext		Heheh, it was all for the plan.	
+0x40aa	0x98	Zext		Heheh, it was all for the sake of the plan.	
 0x40ec	0x98	Zext		To this end, the abnormalities	
 				in Terra are no more than a	
 				trivial sacrifice.	
@@ -144,7 +144,7 @@ EV_5_S19_meet_zext
 0x4a6c	0x98	ALTO	#6A	If the mission of the Mythos	
 				is to remake the world...	
 0x4ac8	0x98	ALTO	#6A	What will happen to the	
-				world the we live in now!?	
+				world we live in now!?	
 0x4b24	0x98	Zext		It will disappear, of course,	
 				and cease to exist.	
 0x4b92	0x06	ALTO		ANI_TENSION_SURPRISE	
@@ -159,7 +159,7 @@ EV_5_S19_meet_zext
 0x4d32	0x98	ALTO	#6A	N-No way!!	
 0x4d67	0x06	ALTO		ANI_TENSION_STRONG_DENY	
 0x4d9c	0x98	ALTO	#6A	Kureha, Cygna!	
-				Is that all right with you!?	
+				Is is all this okay with you!?	
 0x4ded	0x98	ALTO	#6A	Everyone on Remnant Island...	
 				They're in that world, too!	
 0x4f5a	0x98	Creha		...We must do whatever it takes	
@@ -190,7 +190,7 @@ EV_5_S19_meet_zext
 0x5b13	0x98	Seram	#16S	With such flimsy determination...	
 				#16SDo you really think you can stop us!?	
 0x5bcf	0x98	ALTO	#200x#280y	...Cygna...	
-0x5cb0	0x98	ALTO	#6A	Even so...Noi is with me!	
+0x5cb0	0x98	ALTO	#6A	Even so... Noi is with me!	
 0x5cec	0x98	ALTO	#6A	And until now... no matter how	
 				high the barrier, we've always
 				gotten over it together!	
@@ -203,26 +203,26 @@ EV_5_S19_meet_zext
 0x5fe9	0x98	Zext	#400x#270y	Everything we've discussed so far...	
 				Noi, you should already have known the truth.
 				Yet until now, you had not told him...		
-0x605b	0x98	Zext	#400x#270y	Why did you not reveal	
-				the plan to this son of man?	
+0x605b	0x98	Zext	#400x#270y	Why have you not revealed any	
+				of this to this son of man?	
 0x60ba	0x98	Zext	#400x#270y	If he understood sooner, he might	
-				have stopped a long ago.	
+				have stopped a long time ago.	
 0x6123	0x06	NOI		ANI_DULL	
 0x61b7	0x98	NOI		...Well, that's...	mp_4100 0x1eb6
-0x621c	0x98	ALTO	#6A	...W-What do you mean...!?	
+0x621c	0x98	ALTO	#6A	...Wh-What do you mean...!?	
 0x6256	0x98	ALTO	#6A	Noi said she was designed unable
 				to speak about the Mythos...	
 0x63cd	0x98	Creha		Stop... This is irrelevant to the plan.	
 0x6466	0x98	Zext	#6A	Heheh, what's wrong...?	
 				It's just a diversion	
-				before our task is complete.	
+				before our task completes.	
 0x64e0	0x98	Zext	#6A	Selam, answer me.	
 0x6514	0x98	Zext	#6A	Did you create Noi that way?	
 0x655a	0x06	Seram		ANI_DENY	
 0x6581	0x98	Seram	#6A	...No.	
 0x65bf	0x98	ALTO	#16S	!?	mp_5200 0x2fd4
 0x6629	0x98	Zext	#6A	Heheh... The answer is quite simple.	
-0x666e	0x98	Zext	#6A	Noi is a being originally	
+0x666e	0x98	Zext	#6A	Noi is an entity originally	
 				created by Kureha and Cygna...	
 0x66ce	0x98	Zext	#6A	In order to achieve the	
 				Mythos' mission, she cannot	
@@ -230,9 +230,9 @@ EV_5_S19_meet_zext
 0x6739	0x98	Zext	#6A	That is why she chose		
 				not to communicate all	
 				she knew to you.	
-0x67b8	0x98	Zext	#6A	In other words, Noi used you	
-				to create this situation in
-				which currently find ourselves.	
+0x67b8	0x98	Zext	#6A	In other words, Noi used you to	
+				create the situation in which we	
+				currently find ourselves.	
 0x6983	0x98	ALTO	#1W#6A	...No way...	mp_0100b 0xe52
 0x69b5	0x06	NOI		ANI_DENY	
 0x6a1c	0x98	NOI		N-No! It's not like that!	
@@ -246,7 +246,7 @@ EV_5_S19_meet_zext
 0x6ba6	0x98	ALTO	#2W#6A	...Ah...	mp_0001 0xd6a4
 0x6c78	0x98	Zext	#6A	Your will to face us is feeble.	
 				Your faith in your companion	
-				is based on a lie...	
+				is founded on lies...	
 0x6ce8	0x98	Zext	#6A	Heheh, such fitting	
 				circumstances for a human.	
 0x6d65	0x06	ALTO		ANI_STAGGER_SIT	
@@ -265,28 +265,28 @@ EV_5_S19_meet_zext
 0x7a2e	0x06	Seram		ANI_WAIT	
 0x7aac	0x06	Creha		ANI_WAIT	
 0x7b27	0x06	Zext		ANI_WAIT	
-0x7d46	0x98	Zext	#3W#16S	Kuuuuuuu...Haaaaaaaaaaa!!	
+0x7d46	0x98	Zext	#3W#16S	Kuuu...Haaaaaa!!	
 0x7d94	0x98	Zext	#N#1W	After so many years...	
-				The time has come to	
-				complete our forgotten mission!	
-0x7e16	0x98	Zext	#2W	The false surface is over.	
+				The time has come to fulfill	
+				our forgotten duties!	
+0x7e16	0x98	Zext	#2W	The false surface is at an end.	
 				And now, the Remaking begins!!	
 0x7e8e	0x98	ALTO	#1W#6A	...Sur...face...?	
-0x7ed3	0x98	ALTO	#1W#6A	...It can't be...	
+0x7ed3	0x98	ALTO	#1W#6A	...You can't mean...	
 				...Terra is...!	
 0x7f6a	0x98	Zext	#1W	Hehe... For a human,	
 				you're quite perceptive.	
 0x7fca	0x98	Zext	#N#3W	Yes, Terra...lies far away into	
-				the skies above of your world.	
+				the skies above your world.	
 0x803e	0x98	Zext	#2W	It has lain dormant since long	
 				ago for the sole purpose of	
 				Remaking the world.	
 0x80a4	0x98	ALTO	#3W#16S#6A	...!!	mp_0110 0x23435
-0x812d	0x98	Zext	#1W	Now then...this talk is over.	
-0x817f	0x98	Zext	#1W	We no longer have need of that	
+0x812d	0x98	Zext	#1W	Now then... This talk is over.	
+0x817f	0x98	Zext	#1W	We have no further need of that	
 				useless Warden, either...	
-0x822a	0x98	Zext	#3W	I will personally	
-				put an end you both.	
+0x822a	0x98	Zext	#3W	I will personally put	
+				an end to you both.	
 0x8356	0x06	ALTO		ANI_TENSION_WAIT	
 0x83ce	0x06	Zext		ANI_THUNDER	
 0x84ab	0x98	NOI	#3W#0x#280y	A-Aaah...!	

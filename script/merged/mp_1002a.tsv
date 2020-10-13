@@ -21,37 +21,38 @@ QS_12_discovery_rose
 0x162e	0x98	ALTO		Oh, this is probably	
 				an Eternal Rose!	
 0x16b3	0x98	NOI	#6A	It's certainly a pretty flower, but...	
-				are you planning on taking it with you?	
+				Are you planning on taking it with you?	
 0x1755	0x06	ALTO		ANI_NOD	
 0x177a	0x98	ALTO		Yeah, an acquaintance of	
 				mine is looking for one─	
 0x17ce	0x06	ALTO		ANI_GESTURE1	
-0x17f8	0x98	ALTO		Hey, since it's growing here,	
-				am I not allowed to take it?	
+0x17f8	0x98	ALTO		Hey, since it's growing	
+				here, am I not allowed	
+				to take it or something?	
 0x185d	0x06	NOI		ANI_THINK	
-0x1883	0x98	NOI	#6A	No, I think there's a lot more	
+0x1883	0x98	NOI	#6A	No, there should be lots more	
 				growing further inside...	
 0x18e4	0x06	NOI		ANI_NOD	
-0x1908	0x98	NOI	#6A	...Yeah, if it's just one,	
-				then it should be fine, I guess.	
+0x1908	0x98	NOI	#6A	...Yeah, if it's just one, then	
+				it should be fine, I guess.	
 0x1964	0x06	ALTO		ANI_THANKS	
 0x198c	0x98	ALTO		All right, thanks, Noi!	
 0x1aa0	0x06	ALTO		ANI_SIT6	
 0x1b1d	0xC1	System		obtained.	mp_0000 0x7558
 0x1bb7	0x06	ALTO		ANI_WAIT	
 0x1c41	0x06	NOI		ANI_THINK	
-0x1c67	0x98	NOI	#6A	But...what will you use it for?	
+0x1c67	0x98	NOI	#6A	But...what are you 	
+				gonna use it for?	
 0x1ca8	0x06	NOI		ANI_WAIT	
 0x1ccd	0x06	ALTO		ANI_GESTURE2	
-0x1cf7	0x98	ALTO		Yeah, it's a present for someone.	
+0x1cf7	0x98	ALTO		Uh, it's a present for someone.	
 0x1d38	0x6B	NOI		Question	
-0x1d69	0x98	ALTO		(I can't forget to	
-				 give this to Sculp	
-				 later.)	
+0x1d69	0x98	ALTO		(Don't forget to give	
+				 this to Sculp later.)	
 0x1f63	0x40	UNDEF		A beautiful rose is blooming.	
-0x1fbb	0x98	ALTO		I wonder what is this...?	
-0x1ff4	0x98	ALTO		Well, it doesn't seem	
-				related to our progress.	
+0x1fbb	0x98	ALTO		What is this thing...?	
+0x1ff4	0x98	ALTO		Well, it doesn't seem to have	
+				any bearing on our progress.	
 SB_1_S05_appear_ALTO
 SB_1_S05_appear_NOI
 SB_1_S05_appear_Signa
@@ -68,7 +69,7 @@ EV_1_S05_jungle3_start
 				center of the continent...	
 0x294e	0x06	Signa		ANI_WAIT3	
 0x2976	0x98	Signa		Hmm... But I still don't see Zext	
-				or that masked guy anywhere.	
+				or that guy in the mask anywhere.	
 0x29d7	0x06	Signa		ANI_GESTURE2	
 0x2a02	0x98	Signa		Does that mean we have to go further in?	
 0x2a53	0x6B	NOI		Ellipsis	
@@ -125,7 +126,7 @@ EV_1_S06_look_cage_1st
 0x38d6	0x6B	Signa		Exclamation	
 0x3909	0x6B	ALTO		Exclamation	
 0x393b	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x396a	0x98	ALTO	#6A	W-What was that just now!?	
+0x396a	0x98	ALTO	#6A	Wh-What was that just now!?	
 0x39af	0x06	Signa		ANI_WAIT3	
 0x39d7	0x98	Signa		Someone's...voice?	
 0x3a0a	0x98	Signa		It's not one of Zext's	
@@ -161,16 +162,16 @@ EV_1_S06_look_cage_1st
 				said, he's the Warden	
 				of this continent.	
 0x4539	0x41	None	#0W#2E#310c	...Hmm...? There are two strange	
-				foreign presences besides you, Noi...#0E	
-0x45d9	0x41	None	#0W#2E#310c	Could they be...humans!?#0E	
+				foreign presences beside you, Noi...#0E	
+0x45d9	0x41	None	#0W#2E#310c	Could it be...humans!?#0E	
 0x46d8	0x06	NOI		ANI_GESTURE2	
 0x4701	0x98	NOI	#6A	Gio, Nayuta and Cygna	
 				came out here with me	
 				for some reason...	
-0x4767	0x40	UNDEF		Noi summarized the situation up to now.	
+0x4767	0x40	UNDEF		Noi summarized what happened up until now.	
 0x47b7	0x41	None	#0W#2E#310c	Hmm...Is that so?#0E	
-0x4828	0x41	None	#0W#2E#310c	To think humans would ever	
-				set foot on Terra...#0E	
+0x4828	0x41	None	#0W#2E#310c	To think that humans would	
+				ever set foot on Terra...#0E	
 0x48b0	0x41	None	#0W#2E#310c	And what's more, that 	
 				they would be acting together with	
 				you, Noi, who hates humans...#0E	
@@ -183,9 +184,9 @@ EV_1_S06_look_cage_1st
 0x4a87	0x41	None	#0W#2E#310c	...Well, not really.	
 				I have heard about humans	
 				in stories, you see...#0E	
-0x4b2d	0x41	None	#0W#2E#310c	For you who have been	
-				acting with Noi from the beginning,	
-				vigilance is not necessary.#0E	
+0x4b2d	0x41	None	#0W#2E#310c	For those who have acted	
+				along with Noi from the beginning,	
+				such wariness is not necessary.#0E	
 0x4be0	0x41	None	#0W#2E#310c	Nayuta and Cygna, was it?	
 				I must ask you for a favor.#0E	
 0x4c77	0x06	NOI		ANI_COMPLAIN	
@@ -197,8 +198,8 @@ EV_1_S06_look_cage_1st
 				should be in the Temple...	
 0x4d9c	0x41	None	#0W#2E#310c	Yes... About that...#0E	
 0x4e0f	0x41	None	#0W#2E#310c	In truth, a man calling	
-				himself "Zext" showed up in the	
-				temple just now.#0E	
+				himself "Zext" showed up at the	
+				Temple just now.#0E	
 0x4ebe	0xBC	ALTO		Exclamation	
 0x4efc	0xBC	NOI		Exclamation	
 0x4f39	0xBC	Signa		Exclamation	
@@ -211,58 +212,59 @@ EV_1_S06_look_cage_1st
 				made a prison and	
 				sealed me inside.#0E	
 0x5113	0x06	Signa		ANI_WAIT3	
-0x513b	0x98	Signa	#6A	He made a "prison"...?	
+0x513b	0x98	Signa	#6A	He MADE a prison...?	
 				This stupidly large thing!?	
 0x519b	0x06	ALTO		ANI_THINK	
-0x51c2	0x98	ALTO	#6A	We knew he has tremendous power...	
+0x51c2	0x98	ALTO	#6A	We did know he has tremendous power...	
 0x5220	0x98	ALTO	#6A	How can we help	
 				get you out, Gio?	
 0x5274	0x06	ALTO		ANI_WAIT	
-0x529a	0x41	None	#0W#2E#310c	Somehow, it seems that the barrier	
-				attached to this prison uses the	
-				seasons of its surroundings.#0E	
+0x529a	0x41	None	#0W#2E#310c	It seems that the barrier around	
+				this prison somehow uses the weather	
+				of its surrounding environment.#0E	
 0x5353	0x41	None	#0W#2E#310c	If you take back the Master Gear and	
 				restore this continent's climate to normal, it's	
 				possible that the barrier will be dispelled.#0E	
 0x543d	0x06	Signa		ANI_GESTURE1	
-0x5468	0x98	Signa	#6A	If nothing else, seems like	
-				we still need to take back	
-				the Master Gear.	
+0x5468	0x98	Signa	#6A	If nothing else, it seems	
+				like we still need to take	
+				back the Master Gear.	
 0x54d0	0xBC	NOI		Ellipsis	
-0x5562	0x98	ALTO		Hey, is something wrong, Noi?	
-				Looks like you're thinking	
-				about something...	
+0x5562	0x98	ALTO		Hey, something wrong, Noi?	
+				It looks like something's	
+				troubling you...	
 0x5605	0x98	NOI	#6A	N-No, it's nothing...	
-0x5661	0x98	NOI	#6A	(...Z-Zext headed for the	
+0x5661	0x98	NOI	#6A	(Z-Zext went to the	
 				 Temple. That means...)	
-0x56b3	0x98	NOI	#6A	(Then, it's as I thought...)	
-0x56f9	0x41	None	#0W#2E#310c	...Be that as it may, if you do not	
-				recover the Master Gear quickly,	
-				something bad may happen.#0E	
+0x56b3	0x98	NOI	#6A	(Then, it's just as I thought...)	
+0x56f9	0x41	None	#0W#2E#310c	...Be that as it may, if the	
+				Master Gear is not recovered soon,	
+				terrible consequences could occur.#0E	
 0x57b7	0x41	None	#0W#2E#310c	Noi, and...	
-				Nayuta and Cygna too.#0E	
-0x5837	0x41	None	#0W#2E#310c	As soon as possible, please	
-				proceed to the Temple just past here.#0E	
+				Nayuta and Cygna, too.#0E	
+0x5837	0x41	None	#0W#2E#310c	Please, proceed on to the Temple	
+				as soon as possible.#0E	
 0x595f	0x06	ALTO		ANI_THANKS	
 0x5987	0x98	ALTO	#6A	Understood...	
-				For now, please	
-				leave this to us.	
+				We'll take care	
+				of this for now.	
 0x59e5	0x06	Signa		ANI_JOY	
-0x5a0b	0x98	Signa	#6A	Rest easy. We'll beat up Zext for you!	
+0x5a0b	0x98	Signa	#6A	Don't worry. We'll take	
+				care of this Zext guy!	
 0x5a81	0x98	NOI	#6A	...Y-Yeah, that's right.	
 0x5ad7	0x06	NOI		ANI_GUTSPOSE	
-0x5b00	0x98	NOI	#6A	Gio... We'll definitely come	
-				back to save you later!	
-0x5b54	0x41	None	#0W#2E#310c	Mmm...please do your best!#0E	
+0x5b00	0x98	NOI	#6A	Gio... We'll come back	
+				for you, I promise!	
+0x5b54	0x41	None	#0W#2E#310c	Mmm... Well, I'm counting on you!#0E	
 0x5e5f	0x06	ALTO		ANI_JOY	
-0x5e84	0x98	ALTO		Now then...	
-				Let's head to the Temple
+0x5e84	0x98	ALTO		Well then...	
+				Let's get to the Temple
 				as soon as possible!	
 0x5ed2	0x06	ALTO		ANI_GESTURE1	
-0x5efc	0x98	ALTO		Noi, please guide us.	
+0x5efc	0x98	ALTO		Noi, please, show us the way.	
 0x5f39	0x06	NOI		ANI_NOD	
-0x5f5d	0x98	NOI	#6A	Yeah...you don't have to	
-				tell me twice, y'know!	
+0x5f5d	0x98	NOI	#6A	Yeah... I know, I know, you
+				don't have to order me around!	
 0x5fbc	0x06	Signa		ANI_WAIT0	
 0x5fe4	0x98	Signa		(......)	
 0x6189	0xCE	Objective		It seems that Zext is at the Temple. Let's face him!	

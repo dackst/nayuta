@@ -3,11 +3,11 @@ init
 mp6200_retrySet
 mp6200_monsterSet
 tutorial_crystal
-0xf5f	0x07	System	#4C	The Shining Crystals found in	
+0xf5f	0x07	System	#4C	The shining crystals found in	
 				each stage can be used as money.	
 tutorial_find_monster
 0x1107	0x6B	ALTO		Exclamation	
-0x11dd	0x98	ALTO		As we thought, looks like	
+0x11dd	0x98	ALTO		As we thought, it looks like	
 				there ARE monsters here!	
 0x122f	0x06	Signa		ANI_WAIT3	
 0x1257	0x98	Signa		We have to defeat them	
@@ -42,7 +42,7 @@ tutorial_collect
 0x1cac	0x98	ALTO		Ahaha... Well, let's	
 				give it a try then.	
 tutorial_jump
-0x208d	0x98	Signa		Oh, man... The whole place	
+0x208d	0x98	Signa		Oh man... The whole place	
 				is totally falling apart.	
 0x20dc	0x98	ALTO		Aw, what a waste. If it was better	
 				preserved, we might have been able 	
@@ -78,7 +78,7 @@ tutorial_switch
 				deactivate the barrier	
 				back there?	
 0x2bb0	0x98	Signa		Haha, this is more	
-				fun that I thought! ♪	
+				fun than I thought! ♪	
 0x2bfe	0x06	ALTO		ANI_NOD	
 0x2c23	0x98	ALTO		Yeah, it's not often we get to	
 				do something this exciting...!	
@@ -108,7 +108,7 @@ SB_0_S12_signa_move
 0x3686	0x06	Signa		ANI_WAIT2	
 EV_0_S12_in_remain
 0x3a5d	0x98	Signa		Oh, it's pretty roomy inside..	
-				This might more difficult than I thought.	
+				This might be more difficult than expected.	
 0x3ac6	0x06	ALTO		ANI_GUTSPOSE	
 0x3af0	0x98	ALTO		Wow... Amazing, Cygna!	
 0x3b28	0x98	ALTO		To think a day would come when	
@@ -169,10 +169,10 @@ EV_0_S13_break_floor
 0x4e0d	0x06	Signa		ANI_WAIT2	
 0x4e35	0x98	Signa		Phew, you seem to 	
 				still be in one piece.	
-0x4e7d	0x98	Signa		Sheesh... Did you had even LOOK where	
-				you were walking before stepping on	
-				that ledge? It was obviously unstable.	
-0x4f18	0x98	ALTO	#6A	Ahaha, sorry. That was pretty close.	
+0x4e7d	0x98	Signa		Sheesh... Did you even LOOK where you	
+				were walking before stepping on that	
+				ledge? It was obviously unstable.	
+0x4f18	0x98	ALTO	#6A	Ahaha, sorry. That was a close one.	
 				I guess I got a little careless.	
 0x4f82	0x06	ALTO		ANI_STAGGER_STAND_UP	
 0x4fbc	0x98	ALTO	#6A	Even so, you seem to have good	
@@ -230,7 +230,7 @@ EV_4_S34_see_flashback
 0x6763	0x06	Creha		ANI_HEADACHE_SIT_HOLD_HAND	
 0x6885	0x3F	Name		???	mp_0101 0xda14
 0x6890	0x40	ALTO	#0W	This way, Kureha!	mp_0101c 0x941
-0x68c8	0x40	ALTO	#0W	Hurry... We have get out of here!!	
+0x68c8	0x40	ALTO	#0W	Hurry... We have to get out of here!!	
 0x69c7	0x98	ALTO	#0W#200x#70y	...Kureha?	
 0x6a39	0x98	Creha	#2W#6A#300x#220y	...No, it's nothing.	mp_0001 0x165cc
 0x6a8e	0x06	ALTO		ANI_WAIT	
@@ -241,5 +241,4 @@ EV_4_S34_see_flashback
 0x6c1d	0x06	Creha		ANI_NOD	
 0x6c43	0x98	Creha	#1W#6A	...Okay.	mp_0004c 0x10d2
 0x6ca1	0x98	Creha	#0W#6A	(That just now...	
-				 Has this...	
-				 happened before...?)	
+				 Has this...happened before...?)	

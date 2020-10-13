@@ -7,7 +7,7 @@ talk_Algorl
 				since something like this happened.	
 0x7ce	0x98	Algorl		You have no further	
 				need of this place...	
-				Hurry, onward.	
+				Hurry, onwards.	
 0x830	0x98	Algorl		Show me how you will demonstrate	
 				your courage from now on...	
 				I will be watching.	
@@ -118,8 +118,8 @@ EV_6_S27_sisi_boss
 0x35fc	0x98	Algorl		...Then, I will show no mercy.	
 0x368d	0x06	Algorl		ANI_WAIT	
 0x37c3	0x06	Algorl		ANI_USE_POWER	
-0x3914	0x98	Algorl	#1W#240x#0y	Guardian King Algol...	
-				Now I will show you the	
+0x3914	0x98	Algorl	#1W#240x#0y	As the Guardian King Algol...	
+				Allow me to show you the	
 				true extent of my power.	
 0x3996	0x98	Algorl	#6W#240x#0y	Come at me with all your might!	
 0x4155	0x06	b009		ANI_DEMO1	

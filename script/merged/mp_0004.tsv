@@ -5,7 +5,7 @@ lp_post
 0x1a37	0x98	ALTO		Looks like there haven't been	
 				any new requests coming in.
 0x1a7f	0x98	ALTO		Maybe I should be paying attention
-				what Lyra has to say right now.	
+				to what Lyra has to say right now.	
 0x1aff	0x40	UNDEF		It looks like there are no new requests.	mp_0004 0x19a6
 0x1d52	0x07	System	#4C	[Quest] has been added to the camp menu.	
 0x1d87	0x07	System	#4C	In the camp menu, open [System] and	
@@ -42,7 +42,7 @@ lp_tera
 0x2d30	0x6B	ALTO		Ellipsis	
 0x2d62	0x98	ALTO		Now's not the time for this.	
 				I've got to go meet Lyra.	
-0x2ddf	0x40	UNDEF		The gate, devoid of power, stands silenquietlytly.	
+0x2ddf	0x40	UNDEF		The gate stands quietly, devoid of power.	
 stp_village
 0x2f0b	0x98	ALTO		(I can see them both again!)	
 0x2f48	0x98	ALTO		...Let's hurry up and go to Terra.	
@@ -92,8 +92,8 @@ subev_get_dog2
 0x3ed5	0x98	Asa		But now, she needs a name.	
 0x3f16	0x98	Asa		I wonder what we should call you.	
 0x3f6a	0x06	ALTO		ANI_THINK	
-0x3f91	0x98	ALTO		Hmm, how about...Nora?	
-				Let's name you Nora.	
+0x3f91	0x98	ALTO		Hmm, how about... Nora?	
+				Let's go with Nora.	
 0x4007	0x06	ALTO		ANI_WAIT	
 0x4042	0x06	Asa		ANI_NOD	
 0x4066	0x98	Asa		Yeah, that's not too bad.	
@@ -102,9 +102,9 @@ subev_get_dog2
 0x4112	0x98	Dog		Ruff, ruff! *whine*	
 subev_return_island1
 0x47de	0x06	ALTO		ANI_LOOK_AROUND	
-0x480b	0x98	ALTO		Looks like...we're back safe?	
+0x480b	0x98	ALTO		Looks like... we're back safe?	
 0x484c	0x06	Signa		ANI_SCRATCH_HEAD	
-0x487b	0x98	Signa		Yeah,  that's a relief, huh?	
+0x487b	0x98	Signa		Yeah, that's a relief, huh?	
 0x48af	0x98	Signa		Noi said she "forgot to sever the connection" or	
 				something, so I guess we can continue to go back	
 				and forth as long as it's still connected.	
@@ -133,8 +133,8 @@ subev_return_island1
 0x4cd3	0x06	Signa		ANI_WAIT2	
 0x4cfb	0x98	Signa		No one would believe us if we	
 				told them in the first place.	
-0x4d51	0x98	Signa		We've got to keep our	
-				promise to Noi and keep	
+0x4d51	0x98	Signa		We've still should to keep	
+				our promise to Noi and keep	
 				the place a secret. 	
 0x4da9	0x06	ALTO		ANI_NOD	
 0x4dce	0x98	ALTO		Yeah, you're right.	
@@ -150,18 +150,18 @@ subev_return_island1
 0x4fa3	0x98	Signa		...Oh, man. This is no time to	
 				be having this conversation.	
 0x5014	0x98	Signa		Eartha should be already	
-				back by now. We've gotta	
-				think of what to tell her.	
-0x506e	0x98	ALTO		Oh, right. Seems like we're	
+				back by now. We gotta come	
+				up something to tell her.	
+0x506e	0x98	ALTO		Oh right. Seems like we're	
 				going to be away from home	
 				pretty often from now on.	
 0x50ca	0x98	ALTO		Hmm, what to say...	
 0x5114	0x06	Signa		ANI_SCRATCH_HEAD	
-0x5143	0x98	Signa		For now, we should just	
-				keep it casual so she	
-				won't get suspicious...	
-0x51ad	0x98	Signa		Oh yeah, Nayuta.	
-				What about our work for	
+0x5143	0x98	Signa		For now, we should just keep	
+				it casual so she doesn't get	
+				suspicious...	
+0x51ad	0x98	Signa		Oh yeah, Nayuta. What	
+				about our work for	
 				the Handyman Shop?	
 0x5205	0x06	Signa		ANI_WAIT2	
 0x522d	0x98	Signa		If you want to explore Terra, just	
@@ -170,10 +170,10 @@ subev_return_island1
 0x529d	0x06	ALTO		ANI_THINK	
 0x52c4	0x98	ALTO		Taking a break, huh...?	
 				We just reopened it.	
-				It seems like of a waste.	
+				It kinda seems like a waste.	
 0x532d	0x06	ALTO		ANI_WAIT0	
 0x5354	0x98	ALTO		Can we still continue the Handyman	
-				Shop work...and continue to explore	
+				Shop work... and continue exploring	
 				the world of Terra on the side?	
 0x53da	0x06	Signa		ANI_LAUGH	
 0x5402	0x98	Signa		Haha, that's a bit greedy, but	
@@ -200,7 +200,7 @@ subev_return_island2
 				your sister, so...	
 0x5d2f	0x06	NOI		ANI_GESTURE1	
 0x5d58	0x98	NOI	#6A	I thought it'd be a good idea	
-				to visit to your house...	
+				to visit your house...	
 0x5dab	0x06	ALTO		ANI_JOY	
 0x5dd0	0x98	ALTO		Haha, is that so?	
 0x5dff	0x06	ALTO		ANI_GESTURE1	
@@ -241,13 +241,13 @@ subev_return_island3
 0x6b29	0x98	NOI	#6A	Oh, umm... I can sense a human	
 				presence in your house.	
 0x6b7f	0x06	NOI		ANI_COMPLAIN	
-0x6ba8	0x98	NOI	#6A	And it they don't seem to	
-				be Lyra or Eartha. It's full	
+0x6ba8	0x98	NOI	#6A	And it doesn't seem to be	
+				Lyra or Eartha. It's full	
 				of a bunch of strangers!	
 0x6c19	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x6c47	0x98	ALTO		Oh, we have some people coming	
 				to visit my sick sister.	
-0x6cc3	0x98	ALTO		This...it's not	
+0x6cc3	0x98	ALTO		It's... It's not	
 				that unusual...	
 0x6d1a	0x98	NOI	#6A	...............	mp_0001 0xc917
 0x6d75	0x06	NOI		ANI_DULL	
@@ -258,7 +258,8 @@ subev_return_island3
 0x6e82	0x06	NOI		ANI_DENY	
 0x6ea7	0x98	NOI	#6A	N-No, it's nothing.	
 0x6edc	0x06	NOI		ANI_GESTURE1	
-0x6f05	0x98	NOI	#6A	Anyway, it seems I'd better stay stay away from your house.	
+0x6f05	0x98	NOI	#6A	Anyway, it seems I'd better	
+				stay away from your house.	
 0x6f73	0x98	NOI	#6A	I'll wait for you in the	
 				Garden until you get back.	
 0x6fbd	0x06	ALTO		ANI_NOD	
@@ -277,10 +278,10 @@ talk_Asa
 0x732b	0x6B	Asa		Ellipsis	
 0x735c	0x98	Asa		...Cygna was acting a	
 				little strange earlier.	
-0x739b	0x98	Asa		He just came home the	
-				other day, and now he's...	
-0x741c	0x98	Asa		...Cygna was acting a	
-				little strange, wasn't he?	
+0x739b	0x98	Asa		He just came home the other	
+				day, and now he's...	
+0x741c	0x98	Asa		...Cygna was acting	
+				strange, wasn't he?	
 0x745b	0x98	Asa		I shouldn't have	
 				let him leave..	
 talk_Signa
@@ -300,12 +301,12 @@ talk_Nora
 				something there in your mouth...	
 0x79b5	0x98	ALTO		Oh, is this for me?	
 0x79ff	0x98	Dog		Ruff! ♪	
-0x7a24	0x98	ALTO		Hmm, then since you went through	
-				all that trouble, I'll take it.	
+0x7a24	0x98	ALTO		Hmm, I'll take it, since you	
+				went through the trouble.	
 0x7ab4	0x98	ALTO		Oh, you got something in your mouth again.	
 				...Are you giving those to me?	
 0x7b15	0x98	Dog		Ruff! ♪	mp_0004 0x79ff
-0x7b3a	0x98	ALTO		Haha, I'll take it gratefully then.	
+0x7b3a	0x98	ALTO		Haha, thanks.	
 sub_Nora
 0x7c4d	0x98	Dog		Ruff, ruff!	mp_0004 0x7911
 0x7cb5	0x98	Dog		Ruff, ruff!	
@@ -330,11 +331,11 @@ QS_11_third_hint
 0x81e6	0x40	UNDEF		Nayuta looked into the astronomical telescope.	
 0x824d	0x06	ALTO		ANI_HOLD	
 0x8273	0x40	ALTO		Huh? It's pitch black...	
-0x82ab	0x40	ALTO		...Maybe, the other end of the telescope?	
+0x82ab	0x40	ALTO		...Maybe, the other end?	
 0x830c	0x40	UNDEF		A note is attached to the other end of the	
 				telescope.	
 0x836b	0x6B	ALTO		Sweatdrop	
-0x839d	0x98	ALTO		W-When did that happen...?	
+0x839d	0x98	ALTO		Wh-When did that happen...?	
 0x83d6	0x98	ALTO		Ahem, anyway, let's read it.	
 0x8419	0x41	None		I won't give you the	mp_0004 0x7ec1
 				treasure just yet.	
@@ -344,9 +345,9 @@ QS_11_third_hint
 				knight's backside.	
 0x84de	0x06	ALTO		ANI_THINK	
 0x8505	0x98	ALTO		The knight's backside?	
-0x853c	0x98	ALTO		If you mention to a knight in	
-				this town, HE'S the only one	
-				you could be referring to...	
+0x853c	0x98	ALTO		If you mention a knight in this	
+				village, HE'S the only one you	
+				could be referring to...	
 0x85c3	0x06	ALTO		ANI_WAIT	
 SB_0_S03_move_ALTO
 EV_0_S03_alto_home
@@ -370,19 +371,19 @@ EV_0_S05_meet_asa
 				You must be tired from the long journey.	
 0x9484	0x98	ALTO	#6A	Haha, yeah.	
 0x94bc	0x06	ALTO		ANI_YAWN	
-0x94ff	0x98	ALTO	#6A	...(*Yaaaawn*)...	
+0x94ff	0x98	ALTO	#6A	...(*yaaaawn*)...	
 0x95c5	0x98	Asa		My goodness, what's wrong?	
 				You seem so sleepy.	
 0x961c	0x06	Asa		ANI_ANGRYTALK	
-0x9663	0x98	Asa		In that case...you've	
+0x9663	0x98	Asa		In that case... You've	
 				been staying up late	
 				again, haven't you?	
 0x96cd	0x98	ALTO	#6A	Ahaha... I knew you'd	
 				be able to tell.
 0x9716	0x06	ALTO		ANI_GESTURE2	
 0x9740	0x06	Asa		ANI_WAIT	
-0x97cc	0x98	ALTO	#6A	Eartha, you have any leftover breakfast?	
-				I'm super hungry...	
+0x97cc	0x98	ALTO	#6A	Eartha, do you have any leftover	
+				breakfast? I'm super hungry...	
 0x9832	0x06	Asa		ANI_WAIT3	
 0x989a	0x98	Asa		Heheh, I thought we could eat	
 				together today, so I waited.	
@@ -398,9 +399,11 @@ EV_0_S05_meet_asa
 0x9adc	0x98	Asa		Heheh, it'll be ready soon, so	
 				put your things away before then.	
 0x9b39	0x06	Asa		ANI_GESTURE2	
-0x9ba4	0x98	Asa		Oh, and wash your hands, okay?	
+0x9ba4	0x98	Asa		Oh, and wash your	
+				hands too, okay?	
 0x9c51	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x9c7f	0x98	ALTO	#6A	Ahaha...I know...	
+0x9c7f	0x98	ALTO	#6A	Ahaha...	
+				I know...	
 SB_0_S07_exit_Signa
 SB_0_S07_turn_ALTO
 EV_0_S07_check_post
@@ -409,20 +412,20 @@ EV_0_S07_check_post
 				that many requests	
 				in there, are there?	
 0xa0ce	0x06	Signa		ANI_GESTURE2	
-0xa0f9	0x98	Signa		Yeah, I just took all the dangerous	
-				sounding requests, like monster	
-				slaying or whatever. 	
+0xa0f9	0x98	Signa		Yeah, I just took out all the	
+				dangerous sounding requests,	
+				like monster slaying or whatever. 	
 0xa17b	0x06	ALTO		ANI_WAIT	
 0xa1d6	0x98	Signa		I left the remaining more	
 				detail-oriented work to you.
 0xa222	0x06	Signa		ANI_WAIT2	
-0xa24a	0x98	Signa		Call it division of labor, yeah?	
+0xa24a	0x98	Signa		Call it, splitting up the work, yeah?	
 0xa28a	0x06	ALTO		ANI_NOD	
 0xa2af	0x98	ALTO	#6A	Okay, I get it.	
 0xa2df	0x06	ALTO		ANI_THINK2	
-0xa307	0x98	ALTO	#6A	Hey, but... Looks like this	
-				request from from Master says	
-				to "please meet me together."	
+0xa307	0x98	ALTO	#6A	Hey, but... This request	
+				from Master seems to say,
+				"please meet me together."	
 0xa37b	0x06	Signa		ANI_SURPRISE	
 0xa3a6	0x98	Signa		Yeah, well, you're in	
 				charge of that one!	
@@ -432,9 +435,9 @@ EV_0_S07_check_post
 0xa548	0x98	ALTO		Ah, wait, Cygna!	
 0xa616	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xa644	0x98	ALTO		Haha, Master is like a father to him...	
-				Maybe he's just be a little embarrassed.	
+				Maybe he's just a little embarrassed.	
 0xa6c0	0x06	ALTO		ANI_TONTON_SHUE	
-0xa6ed	0x98	ALTO		Anyway, the requests are	
+0xa6ed	0x98	ALTO		Anyway, my requests are	
 				from Master and Dorado.	
 0xa73c	0x06	ALTO		ANI_GUTSPOSE	
 0xa766	0x98	ALTO		Since I've been entrusted	
@@ -475,7 +478,7 @@ EV_0_S08_fall_remain
 				four-month reunion. It's	
 				no time to be nervous...!	
 0xb76d	0x06	Lyra		ANI_WORRIED	
-0xb84e	0x98	ALTO	#1W#6A	Huh...is that Lyra?	
+0xb84e	0x98	ALTO	#1W#6A	Huh...? Is that Lyra?	
 0xb889	0x6B	Lyra		Exclamation	
 0xb8b3	0x06	Lyra		ANI_CHAGRINED	
 0xba0a	0x06	Lyra		ANI_SURPRISE	
@@ -486,19 +489,19 @@ EV_0_S08_fall_remain
 0xbb80	0x98	ALTO	#0W	What are you doing here?	
 0xbbca	0xBC	Lyra		Unknown	
 0xbc1e	0x06	Lyra		ANI_COMPLAIN	
-0xbc5e	0x98	Lyra	#1W#6A	Well, y'know...I heard	
+0xbc5e	0x98	Lyra	#1W#6A	Well, y'know... I heard	
 				you returned, and...	
 0xbd15	0x06	Lyra		ANI_WAIT4	
 0xbd4a	0x98	Lyra	#1W#6A	(Oh no, this is bad...!	
 				 It's been too long and	
 				 I haven't said anything!)	
 0xbdbb	0x06	Lyra		ANI_WORRIED	
-0xbe36	0x98	Lyra	#1W#6A	(O-Okay, calm down!	
-				 For now, I should just use	
-				 a line I rehearsed earlier...)	
+0xbe36	0x98	Lyra	#1W#6A	(O-Okay, calm down! For now,	
+				 I should just use one of the	
+				 lines I rehearsed earlier...)	
 0xc034	0x06	Lyra		ANI_JOY	
-0xc0c7	0x98	Lyra	#2W#6A#18S	H-Hello Nayu-tan!	
-				It's been a while!!	
+0xc0c7	0x98	Lyra	#2W#6A#18S	H-Hallo Nayu-tan!	
+				It's been a looong tiiime!!	
 0xc11c	0xBC	ALTO		Ellipsis	
 0xc15a	0x06	ALTO		ANI_NOD	
 0xc18d	0x98	ALTO	#3W	Y-Yeah, it has.	
@@ -507,45 +510,45 @@ EV_0_S08_fall_remain
 0xc214	0x06	Lyra		ANI_DEJECTED	
 0xc264	0x98	Lyra	#6A	(Oh, I'm such an idiot...	
 				 Why am I talking like that!?)	
-0xc2d2	0x98	ALTO		Umm, Lyra... Are you feeling okay?	
+0xc2d2	0x98	ALTO		Uh, Lyra... Are you feeling okay?	
 0xc36d	0x06	ALTO		ANI_GESTURE1	
 0xc397	0x98	ALTO		...Oh yeah, I've been collecting	
-				some interesting stones from a	
+				some interesting rocks from a	
 				cave near the Academy. 	
 0xc40e	0x98	ALTO		Since you're already here, how about	
 				taking a look at them? That'll make	
 				you feel better for sure!	
 0xc47e	0xBC	Lyra		Sweatdrop	
 0xc4bc	0x06	Lyra		ANI_DENY	
-0xc4e2	0x98	Lyra	#6A	N-No thanks, I'm good. Thank	
-				you for the kind offer though.	
+0xc4e2	0x98	Lyra	#6A	N-No thanks, I'm good. Thanks	
+				for the kind offer, though.	
 0xc53b	0x06	Lyra		ANI_DULL	
 0xc5a5	0x98	Lyra	#6A	(*sigh*, he hasn't changed	
-				 at all since when it comes	
-				 to things like this...)	
+				 at all when it comes to	
+				 things like this...)	
 0xc643	0x3F	Name		Cygna's Voice	
 0xc658	0x98	Signa	#6A#12S	Oh, Nayuta,	
 				#12SLooks like you're back.	
 0xc794	0x06	Lyra		ANI_WAIT	
-0xcab4	0x98	ALTO	#6A	Oh, and so are you.	
+0xcab4	0x98	ALTO	#6A	Ah, and so are you.	
 0xcaf0	0x06	Signa		ANI_WAIT2	
 0xcb18	0x98	Signa		Yeah, I returned a while ago.	
 0xcb57	0x06	Lyra		ANI_SURPRISE	
-0xcb9f	0x98	Lyra	#6A	A-A while ago...!?	
+0xcb9f	0x98	Lyra	#6A	A wh-while ago...!?	
 0xcbf1	0x98	Lyra	#6A	Cygna, don't tell me you saw	
 				any of that earlier...!
 0xcc67	0x06	Signa		ANI_GESTURE2	
 0xcc92	0x98	Signa		No, no, no, I didn't see anything...	
-0xcd18	0x98	Signa		Did I see you pacing about in front of	
-				the house in attempt to serendipitously	
-				run into your childhood friend?
-0xcd99	0x98	Signa		Or did I see as you wracked your brain	
-				to come  up with the first line you	
-				would say to him, or something?	
+0xcd18	0x98	Signa		Did I see you pacing about in front of the	
+				house in an attempt to serendipitously run	
+				into your childhood friend?
+0xcd99	0x98	Signa		Or did I see you wracking your	
+				brain to rehearse the first line	
+				you would say to him, or something?	
 0xce1c	0x98	Signa		No, I didn't see that at all.		
 0xce94	0xBC	Lyra		Unknown	
 0xceca	0x06	Lyra		ANI_ANGRYTALK	
-0xcf27	0x98	Lyra	#6A#16S	I-I knew it, you were watching me!	
+0xcf27	0x98	Lyra	#6A#16S	I-I knew it, you WERE watching me!	
 0xcf79	0x06	ALTO		ANI_THINK2	
 0xcfa1	0x98	ALTO	#6A	(...What are they talking about?)	
 0xd041	0x06	Signa		ANI_WAIT3	
@@ -557,8 +560,8 @@ EV_0_S08_fall_remain
 0xd11e	0x98	ALTO	#6A	Master was upset you didn't show up.	
 0xd16e	0x06	Signa		ANI_SCRATCH_HEAD	
 0xd1e3	0x98	Signa		I-Is that right?	
-				Well...that's okay.	
-0xd272	0x98	Signa		We've received somenew requests.	
+				Well... That's okay.	
+0xd272	0x98	Signa		We've received some new requests.	
 				Let's move on to the next ones.	
 0xd2f0	0x06	Signa		ANI_WAIT4	
 0xd337	0x98	Signa		If you want, you can take	
@@ -566,10 +569,10 @@ EV_0_S08_fall_remain
 				about her love life.	
 0xd3b3	0x06	Lyra		ANI_DIRECT	
 0xd3f9	0x98	Lyra	#6A	H-H-Hey! Don't go around	
-				making thing up!!	
+				making stuff up!!	
 0xd4bc	0x06	Lyra		ANI_ANGRYTALK	
 0xd4ef	0x06	ALTO		ANI_LAUGH	
-0xd516	0x98	ALTO	#6A	(Ahaha, it only shows that we're	
+0xd516	0x98	ALTO	#6A	(Haha, it only shows that we're	
 				 all close friends if they can	
 				 bicker like this, right?)	
 0xd66f	0x06	Signa		ANI_WAIT3	
@@ -612,7 +615,7 @@ EV_0_S08_fall_remain
 0xeb96	0x06	ALTO		ANI_THINK2	
 0xebbe	0x98	ALTO		Yeah, I haven't seen ruins this	
 				big fall before either.	
-0xec17	0x98	ALTO		There was a quite a big impact.	
+0xec17	0x98	ALTO		There was a pretty big impact.	
 				I'm worried about the people	
 				in the village...	
 0xecb1	0x98	Signa	#6A	...It fell down near the cape.	
@@ -653,7 +656,7 @@ EV_0_S17_noi_warp
 0x102c5	0x98	ALTO	#0W	...Did you see that, Cygna...?		
 0x1030c	0x98	Signa	#6A	...Yeah, she disappeared.	
 0x10349	0x06	Signa		ANI_WAIT3	
-0x10371	0x98	Signa	#6A	Did she say...it connects to	
+0x10371	0x98	Signa	#6A	Did she just say... it connects to	
 				the world where she's from...?	
 0x103d6	0x98	Signa	#6A	I don't know, there's just too	
 				much going on one after another.	
@@ -663,11 +666,11 @@ EV_0_S17_noi_warp
 				go chase after Noi?	
 0x104f1	0x6B	Signa		Exclamation	
 0x10558	0x06	Signa		ANI_SURPRISE_WEAK	
-0x10588	0x98	Signa	#6A	Are...are you serious!?	
+0x10588	0x98	Signa	#6A	Are... Are you serious!?	
 0x105d5	0x06	Signa		ANI_COMPLAIN	
 0x10600	0x98	Signa	#6A	...We have no idea how	
 				dangerous it could be.	
-0x1065b	0x98	Signa	#6A	What if connects to some
+0x1065b	0x98	Signa	#6A	What if it connects to some
 				kind of hellish landscape?	
 0x106e9	0x98	ALTO		Of course, I know that.	
 0x10732	0x98	ALTO		That girl said she is from	
@@ -698,14 +701,13 @@ EV_0_S17_noi_warp
 0x10bb7	0x98	ALTO		That's right. It won't	
 				stay connected forever.	
 0x10c1b	0x06	ALTO		ANI_GUTSPOSE	
-0x10c45	0x98	ALTO		Then, I'll go and	
-				and get ready to go.	
+0x10c45	0x98	ALTO		Well, I'll go get ready.	
 0x10c98	0x98	ALTO		Once you've prepared, let's	
 				meet in front of the gate!	
 0x10d87	0x06	ALTO		ANI_WAIT	
 0x10f37	0x06	Signa		ANI_WAIT4	
-0x10f5f	0x98	Signa		...Haha, being the big	
-				brother isn't easy.	
+0x10f5f	0x98	Signa		...Haha, it's tough	
+				being the big brother.	
 0x10fef	0x98	Signa		(...Although...)	
 0x1120c	0x06	Signa		ANI_WAIT4	
 0x11253	0x40	Signa		..........!?	
@@ -748,7 +750,7 @@ EV_0_S18_check_gate
 0x120f1	0x06	ALTO		ANI_TENSION_WAIT	
 0x12127	0x98	ALTO	#6A	(*gulp*...)	mp_0000 0x5477
 0x1215b	0x98	Signa		Jump on the count of three.	
-0x121a8	0x98	ALTO	#6A	U-Understood.	
+0x121a8	0x98	ALTO	#6A	G-Got it.	
 				I'm ready.	
 0x121f2	0x98	Signa		Okay...	
 0x12222	0x98	Signa	#10M	...1...	
@@ -763,7 +765,7 @@ EV_2_S02_ask_asa
 0x12b0b	0x06	ALTO		ANI_COMPLAIN	
 0x12b35	0x98	ALTO		Eartha, have you seen Cygna!?	
 0x12b78	0x06	Asa		ANI_WAIT4	
-0x12b9e	0x98	Asa	#6A	What happened here? Why are	
+0x12b9e	0x98	Asa	#6A	What happened here? Why	
 				are you in such a panic?	
 0x12beb	0x98	Asa	#6A	He just dropped by	
 				the house earlier...	
@@ -782,8 +784,8 @@ EV_2_S02_ask_asa
 0x12e69	0x06	Asa		ANI_WAIT4	
 0x12e8f	0x98	Asa	#6A	"I'll be taking a break from the Handyman Shop	
 				for a while. I'm leaving Nayuta in charge..."	
-				That's what he said to tell you.	
-0x12f2e	0x98	Asa	#6A	He had a different vibe than.	
+				That's what he told me to tell you.	
+0x12f2e	0x98	Asa	#6A	He had a different vibe than	
 				usual. He looked pretty serious.	
 0x12fa0	0x98	Asa	#6A	Isn't that pretty strange?	
 				You guys just reopened...	
@@ -798,7 +800,7 @@ EV_2_S02_ask_asa
 				 house on the beach. There	
 				 might be more leads there!)	
 0x131fe	0x06	ALTO		ANI_WAIT	
-0x132ec	0xCE	Objective		Let's go to Master's house. There might be a more leads there...	
+0x132ec	0xCE	Objective		Let's go to Master's house. There might be more leads there...	
 SB_2_S06_move_ALTO
 SB_2_S06_move_NOI
 0x133b8	0x6B	NOI		Unknown	
@@ -819,13 +821,13 @@ EV_2_S06_help_noi
 				Why are you here!?	
 0x13e59	0x98	NOI	#1W	N-Nayuta, thank goodness!!	
 0x13ea0	0x06	Lyra		ANI_CAPTURE_END	
-0x13fb1	0x98	NOI	#1W#6A	H-Help me! I've been	
-				captured by humans!	
+0x13fb1	0x98	NOI	#1W#6A	H-Help! I've been	
+				captured by the humans!	
 0x13ffe	0x06	NOI		ANI_GESTURE2	
-0x14035	0x98	NOI	#1W#6A	I'm gonna be eaten by	
-				that ogre girl...!	
+0x14035	0x98	NOI	#1W#6A	I'm gonna get eaten	
+				by that ogre girl...!	
 0x14087	0x06	Lyra		ANI_ANGRYTALK	
-0x140d4	0x98	Lyra	#0W#16S	Like I'd wanna eat you!	
+0x140d4	0x98	Lyra	#0W#16S	Like I'd ever wanna eat you!	
 0x14119	0x06	Lyra		ANI_GESTURE2	
 0x14151	0x98	Lyra	#1W	...Hey, could this...	
 0x1418c	0x06	Asa		ANI_WAIT4	
@@ -865,9 +867,9 @@ EV_2_S08_go_tera
 0x14d21	0x6B	NOI		Ellipsis	
 0x14d6f	0x06	NOI		ANI_DENY	
 0x14d94	0x98	NOI		...It's okay.	
-0x14dc4	0x98	NOI		Your sister and tha Lyra	
-				girl both seem to be	
-				willing our secret...	
+0x14dc4	0x98	NOI		Your sister and that Lyra	
+				girl both seem to be willing	
+				to keep our secret...	
 0x14e4a	0x98	NOI	#12S	...Maybe humans aren't that	
 				#12Sscary after all...	
 0x14ea6	0x06	ALTO		ANI_GESTURE2	
@@ -904,7 +906,7 @@ EV_3_S01_go_museum
 0x15b21	0x98	ALTO		(The first person that comes	
 				 to mind is Dr. Volans.)	
 0x15b74	0x98	ALTO		(He might have	
-				 a specimen...)	
+				 a sample...)	
 0x15bc2	0x06	ALTO		ANI_TONTON_SHUE	
 0x15bef	0x98	ALTO		(...Anyway, let's go to the museum!)	
 0x15ccd	0xCE	Objective		Gotta get Yupina Grass. Let's visit Volans at the museum!	
@@ -913,7 +915,7 @@ SB_3_S26_noi_move
 SB_3_S26_creha_move
 SB_3_S26_lyra_move
 EV_3_S26_meet_lyra
-0x165fb	0x98	Creha		This is the world Nayuta where lives...	
+0x165fb	0x98	Creha		This is the world where Nayuta lives...	
 0x16640	0x98	Creha		The atmosphere is different from the Garden.	
 0x16697	0x06	ALTO		ANI_GESTURE2	
 0x166c1	0x98	ALTO	#6A	Ahaha... This is only one of the	
@@ -923,7 +925,7 @@ EV_3_S26_meet_lyra
 0x16784	0x98	NOI	#6A	Master Kureha,	
 				watch your step!	
 0x16c61	0x3F	Name		Lyra's Voice	mp_0003 0x16357
-0x16c83	0x98	Lyra	#0W	Ah, if isn't Nayuta and Noi.	
+0x16c83	0x98	Lyra	#0W	Ah, it's Nayuta and Noi.	
 0x16cf2	0x6B	ALTO		Surprise	
 0x16d1c	0x6B	NOI		Surprise	
 0x16d45	0x6B	Creha		Surprise	
@@ -931,18 +933,18 @@ EV_3_S26_meet_lyra
 0x16e87	0x98	ALTO	#1W	Hi, Lyra. Did you	
 				drop something?	
 0x16ee3	0x98	Lyra	#1W#6A	I brought a get-well present	
-				for you guys from my father.	
+				for you guys from my dad.	
 0x16f41	0x98	Lyra	#0W#6A	It's more of those delicious cookies.	
 				If it's all right with you, then	
-				maybe together we could─	
+				maybe we could get together and─	
 0x16fe0	0x6B	Lyra		Ellipsis	
 0x17012	0x06	Lyra		ANI_SURPRISE	
 0x17074	0x98	Lyra	#18S#6A	！！！？	
 0x170a3	0x6B	ALTO		Question	
 0x170cd	0x6B	NOI		Question	
 0x170fe	0x06	Lyra		ANI_WAIT4	
-0x17133	0x98	Lyra	#0W#6A	...W-Who...who is this girl?	
-0x1717d	0x98	Lyra	#0W#6A	She's not from the island, right...?	
+0x17133	0x98	Lyra	#0W#6A	...Wh-Who...who's this girl?	
+0x1717d	0x98	Lyra	#0W#6A	She's not from around here, right...?	
 0x171f1	0x98	ALTO	#1W	Ah, now that you mention it...	
 				I didn't introduce you.	
 0x1725f	0x06	ALTO		ANI_GESTURE2	
@@ -959,14 +961,14 @@ EV_3_S26_meet_lyra
 0x17550	0x06	Lyra		ANI_WORRIED	
 0x17587	0x98	Lyra	#1W#6A	...Socializing with family...	
 0x175d8	0x98	Lyra	#1W#6A	...Heheheh, so that's how it is～.	
-0x1764a	0x98	NOI	#1W#6A	...Nayuta. There's something wrong with Lyra.	
+0x1764a	0x98	NOI	#1W#6A	...Nayuta. Something's off with Lyra.	
 0x17694	0x06	ALTO		ANI_GESTURE1	
 0x176cc	0x98	ALTO	#1W	Uh, what's the matter...?	
 0x1770c	0x06	Lyra		ANI_DEJECTED	
-0x17759	0x98	Lyra	#1W#6A	I-It's nothing...	
+0x17759	0x98	Lyra	#1W#6A	N-Nothing...	
 0x177a6	0x98	Lyra	#16S#1W#6A	...See you later!	
 0x17863	0x06	Lyra		ANI_RUN2	
-0x178df	0x98	NOI	#6A	...And she's gone.	
+0x178df	0x98	NOI	#6A	...Aaand she's gone.	
 0x1791b	0x06	Creha		ANI_THINK	
 0x17943	0x98	Creha		Did I do something wrong...?	
 0x179c3	0x98	ALTO		No, I don't think so, but...	
@@ -981,7 +983,7 @@ EV_4_S00_to_see_off
 				involved with some evil humans,	
 				please run away immediately!	
 0x17fe4	0x06	NOI		ANI_GUTSPOSE	
-0x1800d	0x98	NOI	#6A	I'll be back later get	
+0x1800d	0x98	NOI	#6A	I'll be back later to get	
 				revenge for you, I promise!	
 0x18074	0x06	Creha		ANI_NOD	
 0x1809a	0x98	Creha		Okay, understood.	
@@ -1002,11 +1004,11 @@ EV_4_S00_to_see_off
 0x18489	0x98	ALTO		We need to chase after	
 				Zext and find Cygna...	
 0x184d5	0x06	NOI		ANI_GESTURE1	
-0x184fe	0x98	NOI	#6A	First up's as always,	
-				using the Astrolabe to search	
+0x184fe	0x98	NOI	#6A	First up is as always, let's	
+				use the Astrolabe to search	
 				for new reactions!	
 0x1856d	0x06	ALTO		ANI_NOD	
-0x18592	0x98	ALTO		Yeah, let's do that.	
+0x18592	0x98	ALTO		Yeah, let's go.	
 SB_4_S11_appear_ALTO
 0x18947	0x06	ALTO		ANI_LOOK_AROUND	
 SB_4_S11_appear_NOI
@@ -1028,7 +1030,7 @@ EV_8_S18_alto_home
 EV_8_S05_remove_warp
 0x197cf	0x06	ALTO		ANI_GESTURE2	
 0x197f9	0x98	ALTO		Here's the transfer gate	
-				we used to use.	
+				that we used to use.	
 0x19840	0x98	ALTO		I tried fixing it, but I just	
 				couldn't get it to work...
 0x198a8	0x98	NOI		No, this is...	
@@ -1037,8 +1039,8 @@ EV_8_S05_remove_warp
 0x199ba	0x06	NOI		ANI_NOD	
 0x199de	0x98	NOI		...Yeah, there's no problem.	
 				It should work just fine.	
-0x19a3b	0x98	NOI		I'll start a connection	
-				to Terra right away.	
+0x19a3b	0x98	NOI		I'll open a connection	
+				with Terra right away.	
 0x19aad	0x06	NOI		ANI_USE_POWER	
 0x19b2c	0x98	NOI	#0W	──By my authority as a warden,	mp_0004 0xfb68
 				I command you to connect to the "Garden!"	
@@ -1048,12 +1050,12 @@ EV_8_S05_remove_warp
 0x19e69	0x98	ALTO	#6A	It's working!	
 0x19ed8	0x06	NOI		ANI_GESTURE1	
 0x19f01	0x98	NOI		It's more proof of how close	
-				Terra is close to the planet.	
-0x19f4f	0x98	NOI		I was just doing what the Voice	
+				Terra has come to the planet.	
+0x19f4f	0x98	NOI		I was just doing what the voice	
 				told me to do, but... I am glad	
-				see it all worked out well.
+				to see it all worked out well.
 0x19fcf	0x06	ALTO		ANI_THINK2	
-0x19ff7	0x98	ALTO	#6A	(The owner of this "Voice"...	
+0x19ff7	0x98	ALTO	#6A	(The owner of this "voice"...	
 				 They seem to be very familiar	
 				 with the inner workings of Terra.)	
 0x1a074	0x98	ALTO	#6A	(I wonder who it really is...)	
@@ -1091,28 +1093,28 @@ EV_4_S14_go_temple4
 0x1abb3	0x98	ALTO		Yeah, she's fine...	
 				Looks like nothing happened.	
 0x1ac06	0x06	ALTO		ANI_THINK2	
-0x1ac2e	0x98	ALTO		More importantly, this snow...	
+0x1ac2e	0x98	ALTO		What's more concerning is this snow...	
 				Could it be caused by the	
 				abnormalities in Terra?	
 0x1acac	0x06	NOI		ANI_DENY	
 0x1acd1	0x98	NOI	#6A	No... Terra and this	
 				world are completely	
 				isolated from each other.	
-0x1ad27	0x98	NOI	#6A	As much as they might want to,	
-				Zext can't do anything to manipulate	
-				the natural environment of this world.	
+0x1ad27	0x98	NOI	#6A	As much as he might want to, Zext	
+				can't do anything to manipulate the	
+				natural environment of this world.	
 0x1adc8	0x06	Asa		ANI_THINK	
-0x1adee	0x98	Asa		Maybe's it's part of the the	
-				unusual weather that's been	
-				happening in many places lately.
+0x1adee	0x98	Asa		Maybe it's a part of the unusual	
+				weather that's been happening	
+				everywhere lately.
 0x1ae5d	0x98	Asa		Especially in places near the End of the World,	
-				the weather can suddenly go crazy like this.	
+				the weather suddenly goes crazy like this.	
 0x1aeea	0x06	ALTO		ANI_THINK	
 0x1af11	0x98	ALTO		B-But, Remnant Island is quite far	
 				away from the End of the World...	
 0x1af86	0x06	Asa		ANI_GESTURE2	
-0x1afaf	0x98	Asa		There rumors that the End is getting	
-				closer and closer, though...	
+0x1afaf	0x98	Asa		There are rumors that the End is	
+				getting closer and closer, though...	
 0x1b03f	0x6B	NOI		Ellipsis	
 0x1b08d	0x06	NOI		ANI_NOD	
 0x1b0b1	0x98	NOI	#6A	Anyway, we've made sure	
@@ -1121,9 +1123,9 @@ EV_4_S14_go_temple4
 0x1b132	0x98	NOI	#6A	Nayuta, let's hurry	
 				back to La Worg Temple!	
 0x1b18e	0x06	ALTO		ANI_NOD	
-0x1b1b3	0x98	ALTO		Yeah... Let's.	
-				We've got to catch that Selam	
-				guy as soon as possible, too.	
+0x1b1b3	0x98	ALTO		Yeah... Let's go. We've got	
+				to catch that Selam guy as	
+				soon as possible, too.	
 0x1b218	0x06	ALTO		ANI_GUTSPOSE	
 0x1b242	0x98	ALTO		Once we're ready,	
 				let's get going.	

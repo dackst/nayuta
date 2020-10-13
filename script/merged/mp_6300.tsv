@@ -57,13 +57,13 @@ EV_6_S25_usi_boss
 0x231b	0x6B	NOI		Exclamation	
 0x276d	0x06	NOI		ANI_SURPRISE	
 0x2796	0x98	NOI	#6A	E-Elis!?	
-0x2812	0x98	Erislet		I'm sorry but, I have	
+0x2812	0x98	Erislet		I'm sorry, but I have	
 				hidden the Stellagear.	
 0x28aa	0x98	Erislet		Please, leave at once.	
 0x2908	0x6B	ALTO		Exclamation	
 0x293a	0x6B	NOI		Exclamation	
 0x296b	0x06	ALTO		ANI_COMPLAIN	
-0x2995	0x98	ALTO	#6A	W-Why!?	
+0x2995	0x98	ALTO	#6A	Wh-Why!?	
 0x2a11	0x06	NOI		ANI_GESTURE1	
 0x2a3a	0x98	NOI	#6A	Oh, no...	
 				Elis!!	
@@ -103,7 +103,7 @@ EV_6_S25_usi_boss
 0x332b	0x98	Erislet		...Noi, you're my	
 				dear friend, but...	
 0x33be	0x98	Erislet		For the sake of Master Kureha	
-				and the others, I would glady	
+				and the others, I would gladly	
 				become a heartless demon.	
 0x348f	0x98	Erislet		Even if you guys are	
 				to be my opponent!	
@@ -114,7 +114,7 @@ EV_6_S25_usi_boss
 0x38a6	0x98	Erislet	#0W#240x#0y	Let me be very clear...	
 				Don't expect me to show	
 				you any mercy, all right?	
-0x3922	0x98	Erislet	#1W#240x#0y	Song Maiden Elislette...	
+0x3922	0x98	Erislet	#1W#240x#0y	As Song Maiden Elislette...	
 				Listen to my melody of frost!	
 0x4022	0x06	b010		ANI_DEMO1	
 0x41ee	0x06	NOI		ANI_GESTURE1	
@@ -150,7 +150,7 @@ EV_6_S26_bye_erislet
 0x529e	0x06	NOI		ANI_GUTSPOSE	
 0x52c7	0x98	NOI	#6A	Letting Master Kureha destroy the	
 				surface where everyone lives...	
-				We can never let do that happen!	
+				We can never let that happen!	
 0x5390	0x06	Erislet		ANI_LAUGH	
 0x5404	0x98	Erislet		...Hehe, you've grown strong.	
 0x5bfd	0x06	NOI		ANI_TAKE_OUT	

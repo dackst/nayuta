@@ -37,7 +37,7 @@ talk_Nora
 0x14bc	0x98	Dog		Ruff♪	mp_0004 0x79ff
 0x14e1	0x98	ALTO		Haha, then I'll accept them thankfully.	mp_0004 0x7b3a
 sub_Nora
-0x15f5	0x98	Dog		Bowwow! Bowwow!	
+0x15f5	0x98	Dog		Bow wow! Bow wow!	
 subev_get_dog2
 0x183e	0x06	ALTO		ANI_GESTURE2	
 0x1868	0x98	ALTO		Yeah, it looks like setting	mp_0004 0x3ccc
@@ -73,7 +73,7 @@ EV_4_S28_return_island
 0x26b9	0x98	ALTO	#1W#6A	...Cygna, why...?	
 0x26f7	0x6B	ALTO		Exclamation	
 0x2835	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x2864	0x98	ALTO	#0W	W-What's going on? There's snow	
+0x2864	0x98	ALTO	#0W	Wh-What's going on? There's snow	
 				on the ground, and it's so dark	
 				in the middle of the day...	
 0x28d6	0x6B	ALTO		Ellipsis	

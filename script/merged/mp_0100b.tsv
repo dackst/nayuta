@@ -4,15 +4,15 @@ EV_6_S35_bombard_earth
 0x766	0x06	Creha2		ANI_GRASP_CLOTH	
 0xcee	0x06	ALTO		ANI_FIND	
 0xd14	0x98	ALTO	#1W#6A	..................	mp_0000d 0x70fd
-0xd54	0x98	ALTO	#1W#6A	...That's...our	world...	
-0xda8	0x98	ALTO	#0W#6A	That's....what's....beyond
+0xd54	0x98	ALTO	#1W#6A	...That's...our world...	
+0xda8	0x98	ALTO	#0W#6A	That's...what's...beyond
 				the End of the World...?		
 0xe25	0x06	NOI		ANI_DENY	
 0xe52	0x98	NOI	#1W#6A	...No way...	
-0xe8b	0x98	Creha	#0W	...At the time, the Core of the	
+0xe8b	0x98	Creha	#0W	...At the time, the core of the	
 				planet suffered terrible damage.	
-0xef0	0x98	Creha	#0W	Even now, the planet's	
-				destruction is still advancing.	
+0xef0	0x98	Creha	#0W	Even today, the planet's complete	
+				destruction continues to advance.	
 0xf44	0x98	Creha	#0W	The surface established by the humans
 				up until now is only temporary...	
 0xfb6	0x98	Creha	#0W	At this rate, before long...
@@ -47,14 +47,14 @@ EV_6_S35_bombard_earth
 0x1c7e	0x98	ALTO	#6A	When viewed from the god-like perspective
 				of the Mythos, it's true the world is tiny	
 				and inconsequential...	
-0x1cfe	0x98	ALTO	#6A	Maybe it's only natural you	
+0x1cfe	0x98	ALTO	#6A	Perhaps it's only natural you	
 				would think of it as temporary.
 0x1db0	0x98	ALTO	#1W#6A	But...	
 0x1f61	0x98	ALTO	#0W#100x#270y	Even though it wasn't for very long,	
 				you spent some time at my house, Kureha.	
 0x1ff6	0x98	ALTO	#0W#100x#270y	The past five years, Cygna has	
-				worked the Handyman Shop with	
-				me on Remnant Island.	
+				worked at the Handyman Shop	
+				with me on Remnant Island.	
 0x208d	0x98	ALTO	#1W#100x#270y	You two should understand	
 				already, shouldn't you?	
 0x210f	0x98	ALTO	#3W#100x#270y	That the world is	
@@ -88,12 +88,12 @@ EV_7_S20_byebye_tera
 0x3add	0x98	ALTO	#0W#6A	Haha, well...	
 				It worked...	
 0x3b2d	0x06	Creha3		ANI_NOD	
-0x3b74	0x98	Creha3	#0W	Yeah...Looks like the planet's	
-				core has completely repaired .	
+0x3b74	0x98	Creha3	#0W	Yeah... Looks like the planet's	
+				core has been completely repaired.	
 0x3bd8	0x98	Creha3	#0W	Your world should	
-				be all right now.	
+				be okay now.	
 0x3c27	0x06	Signa		ANI_WAIT6	
-0x3c95	0x98	Signa	#0W	Well, guess that takes care that.	
+0x3c95	0x98	Signa	#0W	Well, I guess that takes care of that.	
 0x3d3f	0x98	Signa	#0W	Because of all this, Terra has	
 				completely exhausted its power.	
 0x3d9d	0x98	ALTO	#0W#6A	Huh...	mp_0001 0x166ea
@@ -102,17 +102,17 @@ EV_7_S20_byebye_tera
 0x3ff8	0x98	Creha3	#0W	The recoil earlier	
 				knocked it out of orbit.	
 0x4050	0x98	Creha3	#0W	Terra's systems were used	
-				to control that too...	
+				for controlling that too...	
 0x40b4	0x06	Signa		ANI_WAIT5	
 0x40f3	0x98	Signa	#0W	It'll be some time before it	
 				approaches the surface again.	
-0x4148	0x98	Signa	#0W	...Until then...I guess	
+0x4148	0x98	Signa	#0W	...Until then... I guess	
 				it's goodbye for now.	
 0x41ba	0x98	ALTO	#0W#6A	Goodbye...	
 0x41f3	0xBC	ALTO		Exclamation	
 0x426a	0x98	ALTO	#0W#6A#16S	Wait, what!?	
 0x43c3	0x06	Creha3		ANI_THINK	
-0x4402	0x98	Creha3	#0W	...After much thought, we...	
+0x4402	0x98	Creha3	#0W	...After some thinking, we...	
 0x4445	0x06	Creha3		ANI_DENY	
 0x447b	0x98	Creha3	#2W	We can't leave Noi behind.	
 0x44f5	0x98	ALTO	#2W#6A	...Ah...	mp_0001 0xd6a4
@@ -123,10 +123,10 @@ EV_7_S20_byebye_tera
 				it's gonna take, but...	
 				Sit tight until then.	
 0x4634	0x06	Creha3		ANI_WAIT2	
-0x46b3	0x98	Creha3	#1W	This time...we'll come back to	
+0x46b3	0x98	Creha3	#1W	This time... We'll come back to	
 				Remnant Island together with Noi.	
-0x472a	0x98	Creha3	#1W	...We will be back	
-				to see you again!	
+0x472a	0x98	Creha3	#1W	...We'll be back to	
+				see you all again!	
 0x4793	0x98	ALTO	#3W#6A	...Kureha...	
 0x48e1	0x6B	ALTO		Ellipsis	
 0x4979	0x98	ALTO	#0W	...Though I'll miss you, it's a promise!	
@@ -134,19 +134,21 @@ EV_7_S20_byebye_tera
 				On that beautiful planet...	
 0x4aa9	0x98	ALTO	#1W#16S	I'll be waiting at Remnant Island!	
 0x4bc6	0x06	Signa		ANI_NOD	
-0x4c19	0x98	Signa	#1W#16S	Yeah...A promise!	
-0x4c60	0x98	Signa	#1W	Send my regards to	
-				Master, Lyra, and Eartha!	
+0x4c19	0x98	Signa	#1W#16S	Yeah... A promise!	
+0x4c60	0x98	Signa	#1W	Send my regards to Master	
+				Lyra, and Eartha!	
 0x4da0	0x06	Creha3		ANI_PRAY	
 0x4dd6	0x98	Creha3	#2W	...Thank you so much!	
 0x4e17	0x06	Creha3		ANI_WAIT2	
 0x4e76	0x98	Creha3	#1W	See you later, Nayuta!	
 0x5304	0x06	ALTO		ANI_WAKE_IN_SPACE_END	
-0x5696	0x41	None	#2W#2E	This world has an "End"...	
-				We were taught that since long ago.#0E	
-0x5744	0x41	None	#1W#2E	However...the truth is much different.#0E	
-0x57d7	0x41	None	#2W#2E	The world is endless in size and scope...	
-				In it are people important to me.#0E	
+0x5696	0x41	None	#2W#2E	There is an "End" to this world...	
+				We have been taught this for as	
+				long as anyone can remember.#0E	
+0x5744	0x41	None	#1W#2E	However...	
+				The truth is much different.#0E	
+0x57d7	0x41	None	#2W#2E	The world is boundless in size and scope...	
+				And in it are people important to me.#0E	
 0x588f	0x41	None	#1W#2E	I will continue to wait.	
 				Until the day we meet again...#0E	
 EV_7_S20_fallto_cape_cs

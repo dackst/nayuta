@@ -58,12 +58,12 @@ EV_3_S21_get_yupina
 0x2027	0xBC	NOI		Exclamation	
 0x205c	0x06	ALTO		ANI_SURPRISE	
 0x2086	0x06	NOI		ANI_SURPRISE	
-0x20f2	0x98	ALTO	#0W	T-That wing-looking thing...!	
+0x20f2	0x98	ALTO	#0W	Th-That wing-looking thing...!	
 0x2139	0x98	NOI	#0W	...The Shining Wing of the Mythos!	
 0x2282	0x06	Creha		ANI_PRAY	
 0x233a	0x98	Creha	#1W#20M	Please...	
 0x237f	0x98	Creha	#1W#20M	Bloom one more time!	
-0x2615	0xBC	ALTO		Exclamation	
+0x2615	0xBC	ALTO	noi	Exclamation	
 0x264b	0xBC	NOI		Exclamation	
 0x2693	0x06	NOI		ANI_LOOK_AROUND	
 0x26cb	0x06	ALTO		ANI_LOOK_AROUND	
@@ -108,9 +108,8 @@ EV_3_S21_get_yupina
 0x33e1	0x98	Creha		But more importantly,	
 				the Yupina Grass...	
 0x3447	0x06	ALTO		ANI_GUTSPOSE	
-0x3471	0x98	ALTO	#6A	Oh, yeah...	
-				We better to take as	
-				much as we can carry!	
+0x3471	0x98	ALTO	#6A	Oh, yeah... We better take	
+				as much as we can carry!	
 0x3552	0x40	UNDEF		Afterwards, Nayuta gathered the Yupina	
 				Grass with the help of Noi and Kureha...	
 0x35b7	0x40	UNDEF		Parting ways with them both	

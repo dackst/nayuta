@@ -22,11 +22,11 @@ talk_Dorado
 0xe1f	0x98	Dorado		...Ooh... I'm sorry I	
 				couldn't protect you!	
 0xe72	0x98	ALTO		(...Dorado...)	
-0xec8	0x98	Dorado		The village attacked, 	
-				and Kureha kidnapped...	
+0xec8	0x98	Dorado		The village was attacked, 	
+				and Kureha was kidnapped...	
 0xf1f	0x98	Dorado		I... Ooh, I'm so pathetic...	
 				I wonder if I can still be	
-				village guard after this...	
+				a village guard after this...	
 0xfab	0x40	UNDEF		Dorado seems to have lost consciousness.	
 talk_Lupus
 0x106a	0x98	Lupus		A mysterious assailant, summoning	
@@ -73,7 +73,7 @@ talk_Hydol
 0x188f	0x98	ALTO		No, not particularly...	
 0x18c7	0x98	ALTO		...In the end, it wasn't much of a fight.	
 0x1906	0x98	Hydol		Well, try not to be too discouraged.	
-0x194d	0x98	Hydol		I've just finishing examining	
+0x194d	0x98	Hydol		I've just finish examining	
 				and tending to the others.	
 0x19b4	0x98	Hydol		Dorado was the one with the most serious injuries,	
 				and he only suffered some cuts and bruises. As	
@@ -244,7 +244,7 @@ EV_4_S31_escape_village
 				and Lyra from danger.
 0x5eb8	0x06	Creha		ANI_DENY	
 0x5edf	0x98	Creha	#0W#6A	P-Please, wait...	
-0x5f94	0x98	Creha	#0W	I can't leaving everyone	
+0x5f94	0x98	Creha	#0W	I can't leave everyone	
 				behind and run away...!	
 0x605f	0x98	Lyra		...Jeez, now's not the	
 				time for your moaning!	

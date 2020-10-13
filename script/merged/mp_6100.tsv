@@ -9,12 +9,12 @@ talk_Michy
 0x802	0xC1	System		obtained.	mp_0000 0x7558
 0x883	0xC1	System		obtained.	mp_0000 0x7558
 0x916	0x6B	ALTO		Sweatdrop	
-0x968	0x98	ALTO		T-Thanks...	
+0x968	0x98	ALTO		Th-Thanks...	
 0x993	0x98	ALTO		(It's the same mysterious creature from before...	
 				 Looks like it's doing okay.)	
-0xa27	0x98	ALTO		W-What is this thing...?	
+0xa27	0x98	ALTO		Wh-What is this thing...?	
 0xa6c	0x98	ALTO		(I've never seen this kind of animal before.	
-				 I wonder where it comes from.)	
+				 I wonder where it comes from...)	
 0xb41	0x98	ALTO		(I found it again, but...)	
 0xb7b	0x98	ALTO		(...Hmm... In the end, I still don't	
 				 know what kind of animal this is.)	
@@ -22,12 +22,12 @@ talk_Michy
 				 sure what just happened...)	
 SB_0_S14_signa_move
 EV_0_S14_out_remain
-0x1123	0x98	Signa		Oh, seems that we're outside now.	
+0x1123	0x98	Signa		Oh, it seems that we're outside now.	
 0x1183	0x06	ALTO		ANI_SURPRISE	
 0x11ad	0x6B	ALTO		Exclamation	
 0x11df	0x98	ALTO		Oh... Look at that, Cygna!	
 0x13cf	0x06	ALTO		ANI_LOOK_AROUND	
-0x1404	0x98	ALTO		Ha...Amazing! You can	
+0x1404	0x98	ALTO		Ha... Amazing! You can	
 				get a panorama of the	
 				entire skyline!	
 0x146c	0x06	Signa		ANI_WAIT2	
@@ -37,8 +37,8 @@ EV_0_S14_out_remain
 0x15dd	0x06	Signa		ANI_WAIT4	
 0x1624	0x98	Signa		There's no sign of any more monsters around...	
 				I'd say we can end our investigation for now.	
-0x16a3	0x98	Signa		How about it, Nayuta? Everyone in	
-				the village seems to be safe.	
+0x16a3	0x98	Signa		How about it, Nayuta? Everyone	
+				in the village should be safe.	
 0x1738	0x98	ALTO		Looks like there's still some more	
 				space up there. Since we're already	
 				here, let's go up as far as we can!	
@@ -60,7 +60,7 @@ EV_0_S15_find_noi
 0x1f2a	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1f59	0x06	Signa		ANI_SURPRISE	
 0x1fd3	0x98	ALTO	#1W#6A	Cygna, what's that?	
-0x2023	0x98	Signa	#2W#6A	W-What IS that...?	
+0x2023	0x98	Signa	#2W#6A	Wh-What IS that...?	
 0x227c	0x06	ALTO		ANI_SIT6	
 0x22d0	0x98	Signa	#2W#N	A little...girl?	
 0x2319	0x98	Signa	#1W#N	No, she's small, but she	
@@ -84,7 +84,7 @@ EV_0_S15_find_noi
 0x27bf	0x98	Signa		...Did she just say something?	
 0x27fd	0x98	ALTO	#6A	...I didn't quite catch what	
 				she said, but it sounds like	
-				she's having a a nightmare...	
+				she's having a nightmare...	
 0x2868	0x98	ALTO	#6A	And I've been wondering	
 				about that shining thing	
 				she's holding...	
@@ -181,7 +181,7 @@ EV_0_S15_find_noi
 0x6223	0x98	Zext		...What is the matter? This is	
 				not like you to have so much	
 				trouble with a single opponent.	
-0x6298	0x98	Seram	#0W	...It's...it's nothing...	
+0x6298	0x98	Seram	#0W	...It's... It's nothing...	
 0x62ef	0xBC	Zext		Surprise	
 0x634b	0x98	Zext		...Oh... Is this so?	
 0x63bd	0x98	Zext		...It seems that our coming to
@@ -190,8 +190,8 @@ EV_0_S15_find_noi
 				by the stars...	
 0x6477	0x98	Signa	#6A	Now what are you	
 				babbling about!?	
-0x6505	0x98	Zext		Heh, it is no matter. It seems that	
-				our time has already come to an end.	
+0x6505	0x98	Zext		Heh, no matter. It seems that our	
+				time has already come to an end.	
 0x6560	0x98	Zext		There is business we must	
 				attend to on that world.	
 				...Let us go.	
@@ -203,27 +203,28 @@ EV_0_S15_find_noi
 0x6d74	0x98	Signa		I don't understand...	
 0x6f31	0xBC	ALTO		Ellipsis	
 0x6f67	0xBC	Signa		Ellipsis	
-0x6fe3	0x98	ALTO		Hey, Cygna, who the heck were those people?	
+0x6fe3	0x98	ALTO		Hey, Cygna, who the heck	
+				were those people?	
 0x7030	0x98	ALTO		They seemed to have mysterious powers,	
 				but ultimately all they did was just	
 				talk a bunch before they left...	
 0x70d2	0x06	Signa		ANI_WAIT3	
 0x70fa	0x98	Signa	#6A	...I don't know.	
 0x7136	0x98	Signa	#6A	"This world," "that world," some 	
-				kind of "Gear"... There's too	
+				kind of "gear"... There's too	
 				many things I don't understand.	
 0x71ce	0x98	ALTO		That's true. Some of what they	
 				said still bothers me...	
 0x7242	0x98	ALTO		In any case, we still have	
 				to take care of this girl.	
-0x7290	0x98	ALTO		...Was it "Noi" that	
+0x7290	0x98	ALTO		...Was it "Noi"	
 				they called her?	
 0x72db	0x06	Signa		ANI_WAIT2	
 0x7303	0x98	Signa	#6A	Right. How about we go to	
 				your house for now?	
-0x73c9	0x40	UNDEF		Afterwards, Nayuta and Cygna	
-				gently wrapped Noi in a soft cloth...	
-0x7423	0x40	UNDEF		Careful not to show her to the islanders,	
+0x73c9	0x40	UNDEF		Afterwards, Nayuta and Cygna gently wrapped	
+				Noi in a soft cloth...	
+0x7423	0x40	UNDEF		Careful not to reveal her to the islanders,	
 				they carried her to Nayuta's house.	
 SB_0_S15_seram_move
 SB_0_S15_nayuta_move

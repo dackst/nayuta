@@ -6,7 +6,7 @@ talk_Keny
 				see Noi again, but...	
 				She lost her memory, right?	
 0x922	0x98	Keny		Though life is full of enjoyment.	
-0x96d	0x98	Keny		You can always make as much new	
+0x96d	0x98	Keny		You can always make as many new	
 				memories as you want in the future.	
 0x9e2	0x98	Keny		Life is full of enjoyment.	
 0xa28	0x98	Keny		You've got to make many	mp_0114 0x96d
@@ -21,7 +21,7 @@ talk_Keny
 				the housewife community.
 0xbe6	0x98	Keny		If something happens in the village, you	
 				can bet your life that word gets around!	
-0xc39	0x98	ALTO		T-That's what I get	
+0xc39	0x98	ALTO		Th-That's what I get	
 				from a country town...	
 0xca2	0x98	Keny		Ohoho, good luck on your date.	
 0xce4	0x98	Keny		We'll be rooting for you	
@@ -39,7 +39,7 @@ talk_Keny
 0xefe	0x98	Keny		No, this is no time to be	
 				afraid of mere rumors!
 0xf41	0x98	Keny		No matter what happens, I won't be defeated.
-				Never underestimate a housewive with kids!
+				Never underestimate a housewife with kids!
 0xffb	0x98	Keny		Oh, man. He is in for it now!	
 0x1068	0x98	Keny		But still, the only thing that	
 				was keeping Bootie from getting	
@@ -52,8 +52,8 @@ talk_Keny
 				We all have a lot of difficulties to	
 				overcome, but we can do it together.
 0x1261	0x98	Keny		It's kinda dreary outside, isn't it?	
-				We;ve been having some crazy weather.	
-0x12bf	0x98	Keny		Since this weather's started, a lot of	
+				We've been having some crazy weather.	
+0x12bf	0x98	Keny		Since this weather started, a lot of	
 				crops everywhere suddenly started dying.	
 0x132a	0x98	Keny		Our crops are still fine, but...	
 				Jessica hasn't been producing as	
@@ -90,7 +90,7 @@ talk_Keny
 				this Kureha girl helping everyone.	
 0x1a8c	0x98	Keny		The way she talks is a little odd.	
 				She seems unreliable at first, but	
-				picks up things unexpecte dly fast.	
+				picks up things unexpectedly fast.	
 0x1b26	0x98	Keny		I wonder if she will help with our field again.	
 				We're short of hands for the harvest season.	
 0x1bb6	0x98	Keny		I hear a beautiful young lady is	
@@ -104,7 +104,7 @@ talk_Keny
 				recovered from her illness.	
 0x1d67	0x98	Keny		Nayuta, if you're ever in any	
 				trouble in the future, don't	
-				hesistate to tell me, okay?	
+				hesitate to tell me, okay?	
 0x1dc9	0x98	Keny		The adults of this village are	
 				your foster parents, after all.	
 0x1e4a	0x98	Keny		mp_0114 0x1d67	
@@ -122,8 +122,8 @@ talk_Keny
 				bitter medicine than before.
 0x2162	0x98	Keny		Speaking of which, Dr. Hydol should	
 				be coming to the island soon.	
-0x21c8	0x98	Keny		It's really helpful of the	
-				doctor to all the way here～.	
+0x21c8	0x98	Keny		It's really helpful of the doctor	
+				to come all the way here～.	
 0x221f	0x98	Keny		If any of us comes down with a cold,	
 				it's not exactly a short walk to get	
 				to Saint Cerise Medical Clinic.	
@@ -154,7 +154,7 @@ talk_Keny
 0x27a1	0x98	Keny		Well, if it is those pretty stones,	mp_0114 0x26ae
 				wanting to collect them can't	
 				be helped.	
-0x2841	0x98	Keny		Woah, that just scared the life out of me...	
+0x2841	0x98	Keny		Whoa, that just scared the life out of me...	
 				That was more ruins falling, wasn't it?	
 0x289d	0x98	Keny		Our Bootie ran off to see it,	
 				and now you're going to look	
@@ -169,7 +169,7 @@ talk_Keny
 				Long time no see!	
 0x2a9a	0x98	ALTO		Hello, Mrs. Canie...	
 0x2acc	0x98	Keny		Shuddap!!	
-0x2af5	0x98	Keny		It's--just--Canie.	
+0x2af5	0x98	Keny		It's─just─Canie.	
 				...Got it?	
 0x2b35	0x6B	ALTO		Sweatdrop	
 0x2b67	0x98	ALTO		...Hello, Canie.	
@@ -287,7 +287,7 @@ talk_Bootie
 				...Hey, that reminds me.	
 0x405a	0x98	ALTO		I was in a rush to board the ferry,	
 				so I didn't buy any souvenirs...	
-0x40b2	0x98	Bootie		W-What!?	
+0x40b2	0x98	Bootie		Wh-What!?	
 				I asked you to!	
 0x40eb	0x98	Bootie		I was so excited for Saint Cerise's	
 				specialty harbor souffle...!	
@@ -320,7 +320,7 @@ talk_Sculp
 0x48da	0x98	Sculp		mp_0000 0x7cd2	
 0x494c	0x98	Sculp		mp_0000 0x7d44	
 0x498e	0x98	ALTO		mp_0000 0x7d86	
-0x49bb	0x98	ALTO		mp_0000 	
+0x49bb	0x98	ALTO		mp_0000 0x7db3	
 0x4b12	0x98	Sculp		If they come again, I have	
 				to at least protect my family.	
 0x4b73	0x98	Sculp		And you've got to do whatever it	
@@ -432,8 +432,8 @@ quest_Keny
 0x64c2	0x98	Keny		He should be back soon enough...	
 				You need him for something?	
 0x6522	0x98	ALTO		Umm, you see...	mp_0004 0x14b0f
-0x6551	0x40	UNDEF		Nayuta told Canie that Dr. Hydol	
-				has come to perform medical exams.	
+0x6551	0x40	UNDEF		Nayuta told Canie that Dr. Hydol wanted	
+				him to come in for a medical exam.	
 0x65b4	0x98	Keny		Oh, I see.	
 0x65e3	0x98	Keny		Well, if he returns, I'll contact you.	
 				How about going to someone else's	
@@ -505,18 +505,18 @@ QS_25_ask_destination
 QS_82_get_crops
 0x74c6	0x98	Keny		Oh, Nayuta, do you need something?	
 0x7508	0x06	ALTO		ANI_GESTURE1	
-0x7532	0x98	ALTO	#6A	Actually, Canie...	
-0x7570	0x40	UNDEF		Nayuta explained that he came to get the	
+0x7532	0x98	ALTO	#6A	Um, actually...	
+0x7570	0x40	UNDEF		Nayuta explained that he was here to pick up the	
 				ancestral offerings on request from the elder.	
 0x75ec	0x06	Keny		ANI_GOODIDEA	
-0x7616	0x98	Keny		Oh, yes yes, the offerings.	
+0x7616	0x98	Keny		Oh, yes, yes, the offerings.	
 				I heard about those.	
 0x7665	0x98	Keny		Please wait a moment,	
 				I'll bring them here.	
 0x77cd	0x06	Keny		ANI_HANDOVER	
 0x77ff	0xC1	System		obtained.	mp_0000 0x7558
 0x78ac	0x06	NOI		ANI_SURPRISE	
-0x78d5	0x98	NOI	#6A	T-This much...!?	
+0x78d5	0x98	NOI	#6A	Th-This much...!?	
 0x7979	0x98	Keny		Ehehe, isn't it amazing?	
 				This year was a real bumper crop.	
 0x79de	0x06	Keny		ANI_WAIT3	

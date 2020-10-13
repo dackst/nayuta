@@ -19,7 +19,7 @@ lp_butterfly
 				It flies elegantly with its long tail and wings,	
 				and lives by feeding on nectar.	
 0x1a96	0x41	None		[Cabbage White] Pieris rapae	
-				Medium-size butterfly with white wings. As its caterpillar	
+				Medium-size butterfly with white wings. As its caterpillar,	
 				the cabbageworm, they eat rapeseed blossoms and other leaves.	
 				They emerge from their chrysalis in spring.	
 0x1c0e	0x41	None		[Marbled Fritillary] Argynnini	
@@ -43,7 +43,7 @@ lp_grasshopper
 0x2247	0x41	None		[Chinese Grasshopper] Acrida cinerea	
 				Grasshopper known as the "inviting grasshopper."	
 				With a triangular head, males make a	
-				"kachikachikachi" sound when they fly.	
+				"kachi-kachi-kachi" sound when they fly.	
 0x2395	0x41	None		[Locust] Locusta migratoria	
 				Large grasshopper living mainly in grassy plains.	
 				When there is not much food, they swarm and	
@@ -73,7 +73,7 @@ lp_cicada
 0x2c98	0x41	None		[Yezo Cicada] Lyristes japonicus	
 				Large cicada that lives in northern regions and	
 				dense mountains. Perching upside down on tree bark,	
-				"gii, gii" is their monotone call.	
+				They cry their "gii, gii" monotone call.	
 0x2e18	0x41	None		[Walker's Cicada] Meimuna opalifera	
 				Cicada active from summer to fall. Because you	
 				can hear their "tsuku-tsuku-boushi" cry,	
@@ -82,7 +82,7 @@ lp_cicada
 0x2fe2	0x41	None		[Evening Cicada] Tanna japonensis	
 				Cicada living in forests of Japanese	
 				cypress and cedar. From summer to fall,	
-				their sad "kanakanakana" cry resounds.	
+				their sad "kana-kana-kana" cry resounds.	
 lp_dragonfly
 0x32cf	0x36	Choice		Jumbo Dragonfly	
 0x32ef	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -102,7 +102,7 @@ lp_dragonfly
 				wings, appearing like a single thread.	
 0x3753	0x41	None		[Banded Darter] Sympetrum pedemontanum elatum	
 				Dragonfly with crimson body and wings.	
-				When mating, the male and female couple and	
+				When mating, the male and female pair up and	
 				take flight. Popularly called the red dragonfly.	
 0x38bd	0x41	None		[Butterfly Dragonfly] Rhyothemis fuliginosa	
 				Small dragonfly with shining black and blue wings.	
@@ -128,14 +128,14 @@ lp_stagbeetle
 				a shock, it pretends to be dead and falls.	
 0x40b2	0x41	None		[Longhorn Beetle] Cerambycidae	
 				Species of beetle with a long antenna.
-				Boring into wood with powerful manibles,
+				Boring into wood with powerful mandibles,
 				they occasionally collapse buildings.
 0x41be	0x41	None		[Goliath Beetle] Goliathus	
 				Giant beetle boasting a super-heavy weight.	
 				Though it feeds on nectar and pollen, it is the	
 				heaviest of all known insects.	
 lp_beetle
-0x4447	0x36	Choice		Japanese Rhinoceros Beetle	
+0x4447	0x36	Choice		Jap. Rhino Beetle	
 0x4470	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x44ac	0x36	Choice		Caucasus Beetle	
 0x44d3	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -152,7 +152,7 @@ lp_beetle
 				Large rhinoceros beetle with a characteristic	
 				three-pronged horn. Though it lives in the high	
 				mountain zone, it has a fierce belligerence, and	
-				equals the hercules beetle as the strongest	
+				rivals the hercules beetle as the strongest	
 				of the rhinoceros beetle species.	
 0x496d	0x41	None		[Elephant Beetle] Megasoma elephas	
 				Extra-large rhinoceros beetle with a heavy body weight.	
@@ -161,9 +161,9 @@ lp_beetle
 0x4adb	0x41	None		[Japanese Rhinoceros Beetle] Trypoxylus dichotomus	
 				With a large body and strong legs, it is an exemplar	
 				rhinoceros beetle. The horn that males have is split	
-				in two, and is likened to a decorative helmet.	
+				in two, and is likened to a decorative kabuto helmet.	
 lp_fly
-0x4d81	0x36	Choice		Japanese Silk Moth	
+0x4d81	0x36	Choice		Silk Moth	
 0x4dab	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x4de7	0x36	Choice		Mosquito	
 0x4e07	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -172,7 +172,7 @@ lp_fly
 0x4ea0	0x36	Choice		Fly	
 0x4ebb	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x4ed7	0x36	Choice		Quit	mp_0002 0x433f
-0x4f81	0x41	None		[Japanese Silk Moth] Saturniidae	
+0x4f81	0x41	None		[Silk Moth] Saturniidae	
 				Large nocturnal insect.	
 				Because their caterpillars make beautiful, green-tinged	
 				cocoons, humans keep them as pets.	

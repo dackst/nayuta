@@ -10,13 +10,12 @@ QS58_stpMichy
 0x742	0x98	ALTO	#4C	...Mishishi.	mp_4000d 0x1ca2
 0x781	0x6B	ALTO		Surprise	
 0x7b3	0x6B	NOI		Surprise	
-0x7e4	0x98	NOI		Nayuta...that cry just now.	
-0x81e	0x98	ALTO		Y-Yeah...	
-				Now that you mention it,	
-				Mishy is still with us.	
-0x877	0x98	ALTO		...I don't know	
-				what's ahead.	
-0x8b9	0x98	ALTO		Before we proceed, maybe I	
+0x7e4	0x98	NOI		Nayuta... That cry just now.	
+0x81e	0x98	ALTO		Oh yeah... I forgot Mishy	
+				is still with us.	
+0x877	0x98	ALTO		...We don't know	
+				what's up ahead.	
+0x8b9	0x98	ALTO		Before we proceed, maybe we	
 				should take Mishy to Mensa.	
 0x912	0x98	NOI		Yeah... I think that's a good idea.	
 0x97b	0x98	ALTO		...I don't know what's	mp_5098 0x877
@@ -26,7 +25,7 @@ QS58_stpMichy
 EV_5_S13_arrive_relay
 0xa30	0x06	b004		ANI_LOOP	
 0xdd3	0x6B	ALTO		Ellipsis	
-0xefd	0x98	ALTO		(Cygna...Wait for me.)	
+0xefd	0x98	ALTO		(Cygna... Wait for me.)	
 0xf33	0x06	ALTO		ANI_JOY	
 0xf58	0x98	ALTO		(I WILL stop you...!)	
 0xfba	0x6B	NOI		Ellipsis	
@@ -37,8 +36,8 @@ SB_5_S08_appear_NOI
 EV_5_S08_elevator_front
 0x1713	0x06	st		ANI_PATA2	
 0x18c9	0x98	ALTO		Looks like we've ascended quite a bit...	
-0x194d	0x98	NOI	#6A	This area is the start	
-				of the upper stratum.	
+0x194d	0x98	NOI	#6A	This area is the start of the	
+				upper stratum of the tower.	
 0x19d7	0x06	NOI		ANI_GESTURE1	
 0x1a00	0x98	NOI	#6A	If we use the elevator in	
 				the back, we should be able	
@@ -59,16 +58,16 @@ EV_5_S09_meet_seram
 0x27bb	0x98	Seram	#0W	For your own sake, learn to recognize	
 				the difference in our strength.	
 0x2830	0x98	ALTO	#2W#6A	..................	mp_0000d 0x70fd
-0x28b3	0x98	Seram	#1W	Noi, what do you	
+0x28b3	0x98	Seram	#1W	And Noi, what do you	
 				think you're doing?	
-0x291f	0x98	Seram	#1W	Even as a Warden, do you
-				really intend to oppose	
-				the mission of the Mythos?	
+0x291f	0x98	Seram	#1W	As a Warden, do you really
+				intend to oppose the duties	
+				of the Mythos?	
 0x29cb	0x98	NOI	#2W#6A	W-Well...	mp_0101 0x610e
 0x2b10	0x98	Seram	#1W	I applaud you for	
 				coming this far.	
 0x2b61	0x06	Seram		ANI_WAIT2	
-0x2c29	0x98	Seram	#0W#16S	But...no more.	
+0x2c29	0x98	Seram	#0W#16S	But... No more.	
 0x2c74	0x06	Seram		ANI_GRIP_SWORD_HANDLE	
 0x2d30	0x98	Seram	#0W	If you value your life,	
 				turning around immediately	
@@ -101,7 +100,7 @@ EV_5_S09_meet_seram
 0x399b	0x98	NOI	#500x#500y#1W	Selam is...Cygna!?	
 0x39f5	0x98	NOI	#500x#500y#2W	H-How...? Why...!?	
 0x3a9d	0x98	Signa		It's easy to understand	
-				that Noi didn't notice.	
+				why Noi didn't notice.	
 0x3ae9	0x98	Signa		I've changed a lot since	
 				I came to Remnant Island...	
 				I even lost my memory.	
@@ -129,7 +128,7 @@ EV_5_S09_meet_seram
 0x4141	0x06	Signa		ANI_NOD	
 0x41fb	0x98	Signa		...I see.	mp_0004c 0x4434
 0x422d	0x06	ALTO		ANI_COMPLAIN	
-0x4257	0x98	ALTO	#6A	...Tell me. How	long	
+0x4257	0x98	ALTO	#6A	...Tell me. How long	
 				have you been Selam?	
 0x429f	0x98	ALTO	#6A	When we explored the Tower Ruins for	
 				the first time...Cygna and Selam	
@@ -142,12 +141,12 @@ EV_5_S09_meet_seram
 EV_5_S11_last_advise
 0x4a1f	0x06	Signa		ANI_GESTURE2	
 0x4aec	0x98	Signa	#1W	...My final warning:	
-0x4b51	0x98	Signa	#1W	Our mission is moving
-				into its final stages.	
-0x4bed	0x98	Signa	#1W	If you plan to go any further...	
-				Prepare yourselves.	
+0x4b51	0x98	Signa	#1W	The plan is moving into
+				its final stage.	
+0x4bed	0x98	Signa	#1W	If you wish to go any further...	
+				Brace yourselves.	
 0x4c57	0x06	Signa		ANI_WAIT2	
-0x4ce7	0x98	Signa	#2W#16S	Prepare yourselves to put your lives	
+0x4ce7	0x98	Signa	#2W#16S	Brace yourselves to put your lives	
 				on the line #16Sto fight Kureha and me.	
 0x4d58	0x06	ALTO		ANI_WAIT2	
 0x4d7f	0x6B	ALTO		Exclamation	
@@ -158,7 +157,7 @@ EV_5_S11_last_advise
 0x508d	0x06	Seram		ANI_TAKE_HELMET2	
 0x51dc	0x98	Seram	#1W	See ya.	
 0x5241	0x98	Seram	#1W	I pray that you guys	
-				won't use that elevator.	
+				don't use that elevator.	
 0x556e	0x6B	ALTO		Ellipsis	
 0x55a0	0x6B	NOI		Ellipsis	
 0x56a1	0x98	ALTO		...Let's go, Noi.	mp_1100 0x6411
@@ -192,7 +191,7 @@ EV_5_S11_last_advise
 0x5efd	0x98	NOI		Honestly, I still don't know	
 				what I should do now, but...	
 0x5f5c	0x06	NOI		ANI_GUTSPOSE	
-0x5fc7	0x98	NOI		I...I want do my	
+0x5fc7	0x98	NOI		I...I want to do my	
 				best together with	
 				you until the end.	
 0x6023	0x06	ALTO		ANI_SCRATCH_HEAD	

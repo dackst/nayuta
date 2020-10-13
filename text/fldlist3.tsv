@@ -6,13 +6,13 @@
 0x408	mission	ミッション説明
 0x43a	name	Astrolabe
 0x570	mission	ミッション説明
-0x5a2	name	Cradle Area
+0x5a2	name	Birthing Chamber
 0x5f6	desc	mp_7011
 0x6d8	mission	Get at least 300 \nshining stones
-0x70a	name	Stellar Core Temple
+0x70a	name	Planetary Core Temple
 0x840	mission	ミッション説明
-0x872	name	Glowing Dust Area
+0x872	name	Shining Dust Area
 0x8c6	desc	mp_7021
 0x9a8	mission	Defeat at least \n40 monsters
-0x9da	name	Center Planetarium
+0x9da	name	Planetarium Core
 0xb10	mission	ミッション説明

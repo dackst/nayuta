@@ -48,8 +48,8 @@ EV_7_S05_check_starball
 0x2953	0x06	ALTO		ANI_COMPLAIN	
 0x2991	0x98	ALTO	#16S	...Cygna!!	
 0x29c8	0x41	None	#0W#1E#889c	The Planetarium will eventually drop to	
-					the surface and assume the role of the	
-					partially destroyed planet's new core.#0E	
+				the surface and assume the role of the	
+				partially destroyed planet's new core.#0E	
 0x2a99	0x41	None	#0W#1E#889c	What that, the world can	
 				regain its original form,	
 				and a new era will begin.#0E	
@@ -101,20 +101,20 @@ EV_7_S06_meet_seram
 0x3ada	0x06	NOI		ANI_SURPRISE	
 0x3b17	0x98	NOI	#6A#16S	!!!?	
 0x3bb7	0x06	Seram		ANI_DENY	
-0x3bde	0x98	Seram	#6A 	Kureha has been attempting to	
-				resist so far... But, it's only	
-				a matter of time she succumbs.	
-0x3cb4	0x98	ALTO		W-What the...	
+0x3bde	0x98	Seram	#6A 	Kureha has been attempting to resist	
+				so far... But, it's only a matter of	
+				time until she succumbs.	
+0x3cb4	0x98	ALTO		Wh-What the...	
 0x3d4d	0x06	ALTO		ANI_GESTURE1	
 0x3d77	0x98	ALTO		Isn't Kureha your sister!?	
 				How can you let that happen!?	
-0x3e07	0x98	Seram	#6A	How many times does	
+0x3e07	0x98	Seram	#6A	How many more times does	
 				this have to be said?	
 0x3e47	0x98	Seram	#6A	Compared to the mission	
 				of the Mythos, this is	
 				but a small sacrifice.	
 0x3eae	0x06	Seram		ANI_GESTURE2	
-0x3ed9	0x98	Seram	#6A#0W	If it prevents with the Remaking of the world...	
+0x3ed9	0x98	Seram	#6A#0W	If it prevents the Remaking of the world...	
 				The mind is nothing more than a hindrance.	
 0x3f5a	0x06	NOI		ANI_COMPLAIN	
 0x3fa0	0x98	NOI		Master Selam,	
@@ -122,9 +122,9 @@ EV_7_S06_meet_seram
 0x3fd2	0x98	NOI		You and Kureha chose to	
 				abandon this mission once!	
 0x404a	0x98	Seram	#6A	Yeah... I really regret that.	
-0x409f	0x98	Seram	#6A	Though humans have certainly	
-				rebuilt their civilization, the	
-				planet itself continues to erode.	
+0x409f	0x98	Seram	#6A	Though humans have certainly rebuilt	
+				their civilization, the planet itself	
+				continues to erode.	
 0x411e	0x06	Seram		ANI_WAIT2	
 0x4146	0x98	Seram	#6A	Besides, the wars and the environmental	
 				degradation that originally caused the
@@ -133,7 +133,7 @@ EV_7_S06_meet_seram
 0x4202	0x98	Seram	#6A	...We should have performed	
 				the Remaking after all.	
 0x4270	0x06	ALTO		ANI_DENY	
-0x42b4	0x98	ALTO		So...you think the right	
+0x42b4	0x98	ALTO		So... You think the right	
 				thing to do now is erasing	
 				the current surface!?	
 0x4311	0x98	ALTO		That's...that's just not right!	
@@ -160,8 +160,8 @@ EV_7_S06_meet_seram
 				to fight without Noi?	
 0x4968	0x98	ALTO	#3#6A	You impose your will on	
 				others through brute force.	
-0x49d2	0x98	ALTO	#1W#6A	Then the only way I can	
-				stop you must be to	
+0x49d2	0x98	ALTO	#1W#6A	In that case, the only way	
+				I can stop you must be to	
 				overpower you myself.	
 0x4a52	0x98	ALTO	#1W#6A	...Isn't that right, Cygna?	
 0x4ad0	0x98	Seram	#1W	...You make a bold assumption.	
@@ -180,12 +180,12 @@ EV_7_S06_meet_seram
 0x4ed4	0x98	ALTO	#2W	And then...I'll get	
 				Kureha back, too!	
 0x4f1c	0x6B	NOI		Ellipsis	
-0x4f95	0x98	NOI	#1W#6A	Got it...I'll let you
+0x4f95	0x98	NOI	#1W#6A	Got it... I'll let you
 				handle this one, Nayuta.	
 0x5015	0x06	NOI		ANI_GUTSPOSE	
-0x5054	0x98	NOI	#0W#6A	I'm sure...this must be something	
-				that can only his best friend	
-				could accomplish. 	
+0x5054	0x98	NOI	#0W#6A	I'm sure...this must be	
+				something that only best	
+				friend can accomplish. 	
 0x52ce	0x98	Seram	#2W	Hehe...	mp_0110 0x20945
 0x5301	0x06	Seram		ANI_LAUGH	
 0x5389	0x98	Seram	#3W#16S	Hahahahahahaha!!	
@@ -221,7 +221,7 @@ EV_7_S09_seram_stone
 0x6776	0x06	ALTO		ANI_NOUTOU	
 0x67f8	0x98	ALTO	#0W#6A	Haha... That's the first time	
 				I've ever beaten you in a fight.	
-0x6860	0x98	Seram	#0W#380x#120y	...A fight, huh?	
+0x6860	0x98	Seram	#0W#380x#120y	...A fight, eh?	
 				Hahaha... I guess you	
 				could call it that.	
 0x68c3	0x98	Seram	#0W#380x#120y	Maybe that's all	
@@ -235,21 +235,21 @@ EV_7_S09_seram_stone
 				Saint Cerise, I've seen some of	
 				the nastiest parts of the human world.	
 0x6ba9	0x98	Seram	#6A	It wasn't all just because I	
-				recovered my memories of "Selam."	
+				recovered my memories as "Selam."	
 0x6c0d	0x06	NOI		ANI_GESTURE1	
 0x6c36	0x98	NOI		Master Selam...	
 0x6c6c	0x98	Seram	#6A	I had prepared myself to wipe out	
 				Remnant Island in the Remaking...		
-0x6cfa	0x98	Seram	#6A	By carrying the guilt of that sin	
-				sin into eternity, I would atone...	
+0x6cfa	0x98	Seram	#6A	By carrying the guilt and suffering of	
+				that sin into eternity, I would atone...	
 0x6d75	0x06	ALTO		ANI_DENY	
-0x6d9b	0x98	ALTO		Thats so...sad.	
+0x6d9b	0x98	ALTO		That's so...sad.	
 0x6dec	0x98	Seram	#6A	...I know.	
 0x6e1f	0x98	Seram	#6A	But some things	
 				can't be gained	
 				without sacrifice...	
 0x6e93	0x06	ALTO		ANI_COMPLAIN	
-0x6ebd	0x98	ALTO	#15S	That's...just escapism!	
+0x6ebd	0x98	ALTO	#15S	That's... That's just escapism!	
 0x6f24	0x98	ALTO		Now that we've seen the Ancient Memory	
 				and know what happened in the past... 
 				We won't make the same mistakes!	
@@ -272,7 +272,7 @@ EV_7_S09_seram_stone
 				the power to challenge	
 				that will appeared.	
 0x7426	0x98	Seram		My little bro Nayuta...	
-				You've grown so much.	
+				You've grown up so much.	
 0x7487	0x06	NOI		ANI_GESTURE2	
 0x74b0	0x98	NOI	#6A	...Ah...	mp_0001 0xd6a4
 0x74e2	0x98	Seram		If you hadn't succeeded...	
@@ -285,14 +285,14 @@ EV_7_S09_seram_stone
 				of strength and will.	
 0x7662	0x98	Seram		Because of that, I, too...	
 				I, too, can admit that the	
-				Remaking would a mistake.	
+				Remaking would be a mistake.	
 0x76d5	0x98	Seram		I thank you, Nayuta.	
 0x7712	0x06	ALTO		ANI_WAIT4	
 0x7739	0x98	ALTO	#6A	...Jeez. You're	
 				beyond stubborn.	
 0x7789	0x98	ALTO	#6A	Your willingness to go straight ahead	
-				on the path you believe in is	
-				USUALLY one of your good traits.	
+				on the path you believe in is USUALLY	
+				one of your good traits.	
 0x7827	0x06	ALTO		ANI_GESTURE1	
 0x7851	0x98	ALTO	#6A	But...don't let it	
 				worry you too much.	
@@ -355,11 +355,11 @@ EV_7_S09_seram_stone
 0x8a6b	0xBC	NOI		Exclamation	
 0x8f93	0x98	NOI	#0x#500y	──Zext!!	mp_5200 0x1c08
 0x8fcc	0x98	Signa	#500x#500y	Tch... So you're here.	
-0x92d6	0x98	Zext		...I asked, what you are doing?	
+0x92d6	0x98	Zext		...I asked, what are you doing?	
 0x931b	0x98	Zext		Selam, do you intend to betray me?	
 0x9365	0x06	Signa		ANI_GESTURE2	
-0x9390	0x98	Signa	#6A	Haha... Well, they usually call	
-				it a teenage rebellious phase.	
+0x9390	0x98	Signa	#6A	Haha... Well, they usually say	
+				teenage rebellious is just a phase.	
 0x93ea	0x06	ALTO		ANI_BATTOU2	
 0x945d	0x98	ALTO	#6A	W-Wait... Where is Kureha now!?	
 0x949e	0x98	ALTO	#6A	There's no way her mind	
@@ -410,7 +410,7 @@ EV_7_S09_seram_stone
 0xac5f	0x06	Signa		ANI_PIERCED2	
 0xad3c	0x98	ALTO	#N#16S	Cygna!!	mp_7098 0x2991
 0xad75	0x98	Zext	#6A#0x#50y	It is unlike you lose your composure	
-					over something as simple as this...
+				over something as simple as this...
 0xade8	0x98	Zext	#6A#0x#50y	You, too, have become impure after	
 				mixing with humans, it seems.	
 0xafcb	0x06	Zext		ANI_THUNDER	
@@ -427,7 +427,7 @@ EV_7_S09_seram_stone
 0xc305	0x98	NOI	#0W#0x#500y	The Planetarium...	
 				It's starting to move!!	
 0xc361	0x98	Zext_b	#0W#500x#500y	Heheh, beautiful...	
-0xc4d6	0x98	Zext_b		...Then, farewell, son of man.	
+0xc4d6	0x98	Zext_b		...Farewell, son of man.	
 0xc51f	0x98	Zext_b		Soon you will witness the end	
 				of your temporary world.	
 0xc5df	0x98	ALTO	#6A#16S	W-Wait!!	mp_5200 0x4a36
@@ -448,14 +448,14 @@ EV_7_S09_seram_stone
 				for you now...	
 0xcebc	0x06	Signa		ANI_RISE_HAND	
 0xcf2a	0x06	gl		ANI_STOP1	
-0xd131	0x98	NOI		Is that...a transfer gate!?	
+0xd131	0x98	NOI		Is that...a teleporter device!?	
 0xd17d	0x06	Signa		ANI_SLEEP2	
 0xd223	0x98	Signa	#0W#6A#180x#220y	The Planetarium... It's just	
 				past the next area...	
 0xd2ac	0x98	Signa	#2W#6A#180x#220y	Hurry, go...!	
 0xd337	0x98	ALTO		Cygna!!	mp_6100 0x605e
 0xd3ac	0x98	Signa	#1W#6A#180x#220y	You're the...only one	
-						who can stop him now...	
+				who can stop him now...	
 0xd457	0x98	Signa	#0W#6A#180x#220y	...You can handle the rest, partner...	
 0xd525	0x6B	ALTO		Exclamation	
 0xd557	0x6B	NOI		Exclamation	
@@ -464,15 +464,15 @@ EV_7_S09_seram_stone
 0xd619	0x98	ALTO	#16S	Open your eyes, Cygna!!	
 0xd660	0x06	NOI		ANI_GESTURE1	
 0xd689	0x98	NOI		...W-Wait! Maybe...	
-0xda52	0x98	ALTO		I-Is Cygna...turning into stone!?	
-0xdae6	0x98	NOI		It's the Mythos' suspended
+0xda52	0x98	ALTO		D-Did he just...turn into stone!?	
+0xdae6	0x98	NOI		It's the Mythos suspended
 				near-death state.	
 0xdb30	0x06	NOI		ANI_GESTURE1	
 0xdb59	0x98	NOI		A large amount of Power of Stars	
 				was probably stolen from him 
 				along with the Shining Wing...
 0xdbd5	0x98	ALTO	#6A	A near-death state...?	
-				We can still save him, then!?	
+				So we can still save him, then!?	
 0xdc39	0x06	NOI		ANI_GESTURE2	
 0xdc62	0x98	NOI		If we're too slow, he could
 				fade away and dissolve into

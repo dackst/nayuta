@@ -58,7 +58,7 @@ EV_6_S23_yagi_boss
 0x254b	0x6B	ALTO		Exclamation	
 0x257d	0x6B	NOI		Exclamation	
 0x25ae	0x06	ALTO		ANI_COMPLAIN	
-0x25d8	0x98	ALTO	#6A	W-Why!?	mp_6300 0x2995
+0x25d8	0x98	ALTO	#6A	Wh-Why!?	mp_6300 0x2995
 0x264c	0x06	NOI		ANI_SURPRISE	
 0x2675	0x98	NOI	#6A	No way, Gio!!	
 0x2707	0x98	Gio		We finally	
@@ -109,7 +109,7 @@ EV_6_S23_yagi_boss
 0x3268	0x06	Gio		ANI_USE_POWER	
 0x343f	0x98	Gio	#1W#240x#0y	If you say you will face me...	
 				Then I will not relent.	
-0x34ff	0x98	Gio	#1W#240x#0y	I, Lychnis, will do everything	
+0x34ff	0x98	Gio	#1W#240x#0y	For I, Lychnis, will do everything	
 				in my power to stop you!	
 0x3c09	0x06	b011		ANI_DEMO1	
 0x3e32	0x06	NOI		ANI_GESTURE1	
@@ -139,8 +139,7 @@ EV_6_S24_bye_gio
 0x4c9e	0x98	NOI	#6A	...The duty of the Wardens...	
 0x4cfe	0x06	NOI		ANI_GESTURE1	
 0x4d27	0x98	NOI	#6A	Gio, I...!	
-0x4dfb	0x98	Gio		Stop what you're	
-				saying, Noi.	
+0x4dfb	0x98	Gio		Stop talking, Noi.	
 0x4e36	0x98	Gio		Your care for Master Kureha	
 				and the Mythos is on itself	
 				a form of righteousness. 	
@@ -151,15 +150,15 @@ EV_6_S24_bye_gio
 0x4fec	0x06	Gio		ANI_NOD	
 0x509c	0x98	Gio		Gwahaha... Well, then.	
 0x50c9	0x06	Gio		ANI_GESTURE2	
-0x50f2	0x98	Gio		I will cast my lot	
+0x50f2	0x98	Gio		I shall cast my lot	
 				in with you, too.	
 0x58dc	0x06	NOI		ANI_TAKE_OUT	
 0x59ba	0x40	Gio		You should take this...	
-				The pillar's Stellagear.	
+				This Pillar's Stellagear.	
 0x5a13	0x40	ALTO		Gio... Thank you so much!	
 0x5ab1	0xC1	System		obtained.	mp_0000 0x7558
 0x5c54	0x06	NOI		ANI_WAIT	
-0x5d54	0x98	Gio		Gwaha, there is no need to	
+0x5d54	0x98	Gio		Gwahaha, there is no need to	
 				thank me. You have defeated me.	
 0x5e12	0x98	Gio		Though I cannot help you directly...	
 				I leave everything in your care.	

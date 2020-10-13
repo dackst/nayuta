@@ -34,7 +34,7 @@ move_marker03
 QS_33_LookPoint
 0x1a94	0x40	UNDEF		The Moon Bird eggs have been placed.	
 0x1ad9	0x98	NOI		Let's try changing the season to	
-				Summer and coming back here again.	
+				summer and coming back here again.	
 0x1b3b	0x98	NOI		Hopefully there'll be some	
 				adorable chicks waiting for us...	
 QS_33_set_nest_and_egg
@@ -42,7 +42,7 @@ QS_33_set_nest_and_egg
 0x1f81	0x98	ALTO	#6A	This place... It's almost like	
 				a little cave has formed.	
 0x1fee	0x98	ALTO	#6A	It should be safe for a bird's nest,	
-				as long as as it's high enough to be	
+				as long as it's high enough to be	
 				out of the reach of monsters.	
 0x207b	0x98	NOI	#6A	It seems to fit being	
 				in a cold area too...	
@@ -54,9 +54,9 @@ QS_33_set_nest_and_egg
 0x21e8	0x98	ALTO	#6A	All right, let's try	
 				placing the nest!	
 0x23b3	0x06	ALTO		ANI_NOD	
-0x23d8	0x98	ALTO	#6A	All right, I think we're good to go.	
+0x23d8	0x98	ALTO	#6A	Okay, I think we're good to go.	
 0x242d	0x98	NOI	#6A	When we leave, let's change	
-				the season to Summer and	
+				the season to summer and	
 				come back here again.	
 0x24b9	0x98	NOI		Hopefully there'll be some	mp_2002d 0x1b3b	
 				adorable chicks waiting for us...	

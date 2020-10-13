@@ -194,7 +194,7 @@ tuto_Aulbath
 				preparations in order.	
 talk_Michy
 QS_58_find_Michy1
-0x321a	0x3F	Name		Mysterious Creature	
+0x321a	0x3F	Name		Mysterious Life Form	
 0x3233	0x98	Michy		Mishishi.	
 0x325d	0x6B	ALTO		Surprise	
 0x3297	0x06	ALTO		ANI_SURPRISE_WEAK	
@@ -240,7 +240,7 @@ EV_4_S30_help_creha
 0x4e22	0x06	Aulbath		ANI_WAIT_ARMED	
 0x5008	0x98	Aulbath		One after the other...	
 0x5040	0x98	Aulbath		No matter how many you create,	
-				they are mere #4Rpuppets#R before my sword.	
+				they are mere puppets before my sword.	
 0x50af	0x98	Zext	#6A	Hmph, if that's how it is,	
 				then how about now?	
 0x5107	0x06	Zext		ANI_PUT_UP_ROD	
@@ -256,7 +256,7 @@ EV_4_S30_help_creha
 0x54e5	0x06	Lyra		ANI_COMPLAIN	
 0x5531	0x98	Lyra	#3W#16S	O-Orvus!	
 0x556e	0x98	Zext	#1W#6A	Heheh, the Power of Stars, the source of all life...	
-				If I manipulate it, no obstacle can stand before me.	
+				If I twist it, no obstacle can stand before me.	
 0x560a	0x98	Zext	#2W#6A	Now, step aside. I have	
 				business with my daughter.	
 0x58b2	0x06	Zext		ANI_WAIT	
@@ -272,7 +272,7 @@ EV_4_S30_help_creha
 0x611c	0x6B	Aulbath		Exclamation	
 0x61f8	0x98	Aulbath	#2W#6A	Hmm!?	
 0x6226	0x06	Lyra		ANI_SURPRISE	
-0x627c	0x98	Lyra	#1W	W-What is that!?	
+0x627c	0x98	Lyra	#1W	Wh-What is that!?	
 0x62b7	0x06	Creha		ANI_WAIT	
 0x654b	0x06	Creha		ANI_GESTURE1	
 0x6584	0x98	Creha	#1W#6A	I am the one that	
@@ -310,7 +310,7 @@ EV_4_S30_help_creha
 0x786e	0x06	Lyra		ANI_JOY	
 0x7893	0x98	Lyra		Nayuta!	mp_0000c 0x734d
 0x78c2	0x98	Aulbath		...So you've come.	
-0x7948	0x98	ALTO		I'm late!	
+0x7948	0x98	ALTO		Sorry I'm late!	
 0x7971	0x98	ALTO		Kureha, Lyra...	
 				Are you all right!?	
 0x79ff	0x98	Creha	#1W	...Nayu...ta....	
@@ -328,8 +328,8 @@ EV_4_S30_help_creha
 				And now you're trying to	
 				kidnap Kureha!	
 0x7daf	0x98	Zext	#6A	It is quite simple.	
-0x7df1	0x98	Zext	#6A	The final Key to unlock	
-				the Seal on Terra...	
+0x7df1	0x98	Zext	#6A	The final key to unlock	
+				the seal on Terra...	
 0x7e41	0x98	Zext	#6A	Now that it is ready,	
 				I came to pick it up.	
 0x7e90	0x6B	ALTO		Exclamation	
@@ -337,16 +337,15 @@ EV_4_S30_help_creha
 0x7f12	0x98	ALTO		The key to unlock the seal...	
 				Are you referring to Kureha!?	
 0x7f81	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
-0x7fd1	0x98	ALTO		...In that case, it's all the	
+0x7fd1	0x98	ALTO		...In that case, that's all the	
 				more reason I can't back down!	
 0x8038	0x98	ALTO		To protect Terra... I will not hand	
 				Kureha over to the likes of you!	
-0x8098	0x98	Zext	#6A	...So, you wish to stay	defiant	
+0x8098	0x98	Zext	#6A	...So, you wish to stay defiant	
 				until the bitter end.	
-0x80ee	0x98	Zext	#6A	Although I was going to let you	
-				continue to aid Kureha's awakening...	
-					
-0x814e	0x98	Zext	#6A	I no longer have any use for you...	
+0x80ee	0x98	Zext	#6A	Although I was going to let you continue	
+				to aid in Kureha's awakening...		
+0x814e	0x98	Zext	#6A	I have no further use for you.	
 				...Get out of my sight.	
 0x81af	0x06	Zext		ANI_HIT_GROUND	
 0x82eb	0x06	ALTO		ANI_TENSION_WAIT	
@@ -362,7 +361,7 @@ EV_4_S30_help_creha
 0x8776	0x6B	ALTO		Exclamation	
 0x87df	0x98	ALTO		Master...	mp_0002 0x16e8
 0x883a	0x98	ALTO		...Understood.	
-				I'll leave him to you!	
+				I'll let you take care of him!	
 0x88b9	0x98	ALTO		This way, you two!	
 0x893c	0x06	Lyra		ANI_NOD	
 0x89f1	0x98	Lyra		O-Okay!	

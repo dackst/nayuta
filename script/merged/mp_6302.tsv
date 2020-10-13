@@ -120,7 +120,7 @@ EV_6_S30_bye_nemeas
 0x4a95	0x98	Nemeas	#1W	My strength was not	
 				sufficient after all...	
 0x4b55	0x06	Nemeas		ANI_GESTURE1	
-0x4b8f	0x98	Nemeas	#1W	...Indeed, that is be expected.	
+0x4b8f	0x98	Nemeas	#1W	...Indeed, it is to be expected.	
 0x4bd3	0x06	ALTO		ANI_GESTURE2	
 0x4bfd	0x98	ALTO	#6A	Nemeas...	
 0x4c51	0x6B	Nemeas		Ellipsis	
@@ -137,7 +137,7 @@ EV_6_S30_bye_nemeas
 0x4f5e	0x98	Nemeas		It holds the basis 	mp_6302 0x77f
 				for their entire mission...	
 0x5023	0x98	Nemeas		I don't think you would be able	
-				able to so stronly stick to your	
+				to so strongly stick to your	
 				current beliefs if you realized...	
 0x5077	0x06	NOI		ANI_THINK	
 0x509d	0x98	NOI	#6A	An Ancient Memory...	
@@ -147,10 +147,10 @@ EV_6_S30_bye_nemeas
 0x5197	0x06	NOI		ANI_WAIT	
 0x51bc	0x06	ALTO		ANI_GESTURE2	
 0x51e6	0x98	ALTO	#6A	No matter what I find out...	
-				My desire to stopp Kureha and	
+				My desire to stop Kureha and	
 				the others will not change.	
 0x526c	0x06	Nemeas		ANI_NOD	
-0x52db	0x98	Nemeas		Huhu...I suppose that was	
+0x52db	0x98	Nemeas		Hehe... I suppose that was	
 				a foolish thing to think.	
 0x5b00	0x06	NOI		ANI_TAKE_OUT	
 0x5bde	0x40	NOI		The Crimson Stellagear!	
@@ -182,7 +182,7 @@ SB_6_S31_exit_Algorl
 SB_6_S31_exit_Nemeas
 EV_6_S31_4gear_get
 0x6fbe	0x40	UNDEF		Having gathered the four Stellagears,	
-			 	Nayuta and Noi hurried to the Garden.	
+				Nayuta and Noi hurried to the Garden.	
 0x711e	0x98	Nemeas	#1W	...............	mp_0001 0xc917
 0x71a2	0x41	None	#1W#2E#310c	...I think they are gone.#0E	
 0x734e	0x06	Gio		ANI_WAIT	
@@ -193,11 +193,11 @@ EV_6_S31_4gear_get
 				those two can proceed	
 				to the lowest stratum.	
 0x76df	0x06	Nemeas		ANI_GESTURE2	
-0x7741	0x98	Nemeas	#1W	I am not quite sure that	
-				we made the right choice...	
+0x7741	0x98	Nemeas	#1W	I am not quite sure we	
+				made the right choice...	
 0x7850	0x98	Gio	#1W#6A	...Is that so.	mp_0001 0xa6e5
-0x78e6	0x98	Gio	#1W#6A	However, I do not think it	
-				preferable destroying the	
+0x78e6	0x98	Gio	#1W#6A	However, I do not think it is	
+				less preferable to destroy the	
 				surface like this.	
 0x7971	0x06	Erislet		ANI_NOD	
 0x79a7	0x98	Erislet	#0W#6A	Maybe...	
@@ -212,7 +212,7 @@ EV_6_S31_4gear_get
 0x7e19	0x98	Gio	#1W#6A	Since our true idols were	
 				lost, it is unavoidable...	
 0x7e7c	0x06	Erislet		ANI_GESTURE1	
-0x7ed8	0x98	Erislet	#2W	Ahh, this is starting to get sad.	
+0x7ed8	0x98	Erislet	#2W	Aah, this is starting to get sad.	
 0x7f9c	0x98	Erislet	#0W	...Perhaps we should have	
 				at least said goodbye.	
 0x8180	0x06	Nemeas		ANI_NOD	
@@ -227,8 +227,8 @@ EV_6_S31_4gear_get
 0x8435	0x06	Algorl		ANI_WAIT	
 0x8504	0x06	Gio		ANI_LAUGH	
 0x857a	0x98	Gio	#2W	Gwahaha, I think so too.	
-				So I go, with a laugh.	
+				And so, out I go, with a smile.	
 0x86bb	0x06	Erislet		ANI_LAUGH	
-0x873d	0x98	Erislet	#3W	Hehe, see you...next time.	
+0x873d	0x98	Erislet	#3W	Hehe...see you later.	
 EV_6_S40_check_bossmap4
 0x8e6a	0x40	UNDEF		There is no trace of Nemeas.	

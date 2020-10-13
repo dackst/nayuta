@@ -13,19 +13,19 @@ lp_smallfish1
 0x1500	0x41	None		[Seahorse] Hippocampus	
 				Strange fish that swims standing up.	
 				Because the male rears its children in its stomach,	
-				it is known as a symbol for easy childbirth.	
+				it is considered as a symbol for easy childbirth.	
 0x1655	0x41	None		[Blowfish] Tetraodontidae	
 				Small, round fish.	
 				Though it is known to be extremely delicious,	
-				some of its internal organs hold deadly poison.	
+				some of its internal organs hold lethal poison.	
 0x1798	0x41	None		[Koi Carp] Cyprinus carpio	
 				Medium size fish that prefers gentle waters.	
-				Because is has 36 rows of scales, it is known as the 66 fish,	
-				and in some regions, it is a symbol of success in life.	
+				Because it has 36 rows of scales, it is known as the 6-6 fish,	
+				In some regions, it is considered a symbol of success in life.	
 0x190e	0x41	None		[Goldfish] Carassius auratus	
 				Small fish with a mixed red-and-white body.	
-				Special features appear on the body of each one, and	
-				they have been admired since ancient times.	
+				Different features appear on the body of each individual.	
+				They have been raised as ornamental fish since ancient times.	
 lp_smallfish2
 0x1b8d	0x36	Choice		Angelfish	
 0x1bae	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -51,8 +51,8 @@ lp_smallfish2
 				it can be seen playing in sea anemones.	
 0x215e	0x41	None		[Altum Angelfish] Pterophyllum altum	
 				Beautiful fish called the phantom tropical fish.	
-				It can only live in the purest of pure waters,	
-				and dies when microorganisms proliferate.	
+				It can only live in the purest of waters,	
+				and dies if microorganisms proliferate.	
 lp_middlefish
 0x242b	0x36	Choice		Giant Isopod	
 0x244f	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -102,7 +102,7 @@ lp_middlefish
 0x34f6	0x41	None		[Northern Sea Nettle] Chrysaora melanaster	
 				Jellyfish with 16 red stripes on its umbrella.	
 				When it is washed ashore and dries, the	
-				poison in its tenttacles becomes a fine	
+				poison in its tentacles becomes a fine	
 				powder that causes violent sneezing.	
 0x3752	0x41	None		[Nomura's Jellyfish] Nemopilema	
 				A large jellyfish.	
@@ -169,7 +169,7 @@ lp_largefish
 0x4e93	0x41	None		[Alligator Gar] Atractosteus spatula	
 				Large fish with a mouth that sticks out.	
 				Because of its hard scales and large body, it has hardly any	
-				natural enemies. If feeds leisurely on fish and crustaceans.	
+				natural enemies. It feeds leisurely on fish and crustaceans.	
 0x5013	0x41	None		[Octopus] Octopoda	
 				Soft-bodied organism with 8 arms.	
 				Each arm is outfitted with large suckers.	
@@ -196,7 +196,7 @@ lp_largefish
 				It lives by feeding on small fish and plankton.	
 0x57df	0x41	None		[Ray] Myliobatiformes	
 				Horizontally flat large fish.	
-				It swims gracefully through the sea as if though flying.	
+				It swims gracefully through the sea as though flying.	
 				It holds a paralyzing poison at the base of its tail.	
 0x5931	0x41	None		[Hammerhead Shark] Sphyrnidae	
 				Ferocious fish with a strangely shaped head.	

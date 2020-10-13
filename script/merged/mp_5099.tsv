@@ -4,7 +4,7 @@ EV_5_S15_boss_battle
 0x239	0x06	PLAYER1		ANI_WHEEL	
 0x263	0x06	PLAYER2		ANI_ATK4	
 0x42e	0xBC	PLAYER1		Exclamation	
-0x483	0x98	ALTO	#16S	W-Wha...?	
+0x483	0x98	ALTO	#16S	Wh-Wha...?	
 0x4be	0x98	NOI	#16S#6A	Nayuta, below us!!	
 0x5e9	0x06	b004		ANI_DEMO	
 BossJump

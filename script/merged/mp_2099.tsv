@@ -4,7 +4,7 @@ init
 talk_Erislet
 0x1958	0x98	Erislet		The mission of the Mythos...	
 				Nemeas may have some idea.	
-0x19b1	0x98	Erislet		It could potentially be related	
+0x19b1	0x98	Erislet		It could potentially be related to	
 				the entire world of Terra itself.	
 0x1a0e	0x98	Erislet		...If Zext wasn't lying, that is.	
 0x1a7a	0x98	Erislet		We Wardens will attempt	
@@ -24,7 +24,7 @@ talk_Erislet
 				you two!	
 0x1d42	0x98	Erislet		If you can recover the last remaining Master	
 				Gear from the Origin Continent, then the	
-				Astrolabe can completely restored.	
+				Astrolabe can be completely restored.	
 0x1dd0	0x98	Erislet		Speaking of which, all the Master
 				Gears up until now have been just	
 				left at the altars.	
@@ -86,8 +86,8 @@ talk_Erislet
 				he hurt my spirits...	
 				I can't allow that!	
 0x28e2	0x98	Erislet		It's been too hot lately.	
-				From now on, I must try	
-				to restart the temple.	
+				From now on, I must work to	
+				try to restart the Temple.	
 0x2948	0x98	Erislet		You guys should be careful if you want to	
 				proceed. The Sacred Mountain Continent is
 				supposed to have pretty difficult terrain.	
@@ -121,12 +121,12 @@ quest_Erislet
 0x2fa6	0x98	Erislet		On the presence of Nemeas' spirit,	
 				it was somewhere around "Scrying	
 				Pool Caves" in mid-eastern Rieseweld.	
-0x3054	0x98	Erislet		It might be a good idea to search	
-				for it with season set to Winter.	
+0x3054	0x98	Erislet		You should search for it with	
+				the season set to winter.	
 0x30b7	0x98	Erislet		It seemed quite disoriented, so	
 				please, hurry and help it out.	
 0x31dd	0x98	Erislet		Somewhere in Rieseweld's winter,	
-				there's	got to be a place suitable	
+				there's got to be a place suitable	
 				for laying Moon Bird eggs.	
 0x3267	0x98	Erislet		ANd then with the Astrolabe,	
 				you can make the season warmer.	
@@ -216,7 +216,7 @@ QS_33_undertake
 				You mean, they've	
 				gone extinct!?	
 0x4544	0x06	NOI		ANI_WORRIED	
-0x456c	0x98	NOI	#6A	T-T-This is a huge problem!!	
+0x456c	0x98	NOI	#6A	Th-Th-This is a huge problem!!	
 0x45aa	0x98	NOI	#6A	I'm sure this is all	
 				because of Zext...!	
 0x45f6	0x06	NOI		ANI_WAIT	
@@ -224,8 +224,8 @@ QS_33_undertake
 0x4644	0x98	Erislet		Although it's certainly possible,	
 				another explanation is that this	
 				is the result of the abnormalities.
-0x46d4	0x98	Erislet		Because of the unstable climate,	
-				the Moon Bird population has decreased
+0x46d4	0x98	Erislet		Due to the unstable climate, the	
+				Moon Bird population has decreased
 				significantly in a short time.	
 0x4757	0x98	Erislet		And then, even if only briefly, the	
 				Power of Stars, the source of all	
@@ -258,13 +258,13 @@ QS_33_undertake
 0x4d74	0x06	Erislet		ANI_NOD	
 0x4d9c	0x98	Erislet		Yes, I managed to preserve	
 				only a handful of eggs.	
-0x4de9	0x98	Erislet		If those eggs were to safely hatch,	
-				Moon Birds could be able to be	
-				found on Terra once again.	
-0x4eaf	0x98	Erislet		To do that, I'm going	
+0x4de9	0x98	Erislet		If those eggs were to safely	
+				hatch, Moon Birds could be	
+				found on Terra once more.	
+0x4eaf	0x98	Erislet		For that, I'm going	
 				to need your help.	
 0x4f05	0x06	NOI		ANI_COMPLAIN	
-0x4f2e	0x98	NOI	#6A	W-What can we do!?	
+0x4f2e	0x98	NOI	#6A	Wh-What can we do!?	
 0x4f7d	0x06	Erislet		ANI_GESTURE2	
 0x4faa	0x98	Erislet		First, please find a	
 				place where the eggs	
@@ -273,18 +273,18 @@ QS_33_undertake
 				eggs in places as cold	
 				as they can find.
 0x50a7	0x98	Erislet		The eggs that survive the	
-				extreme	conditions will finally
+				extreme conditions will finally
 				hatch once warm weather arrives...	
 0x511a	0x98	Erislet		This species is known for	
 				that unique characteristic.	
 0x5179	0x06	ALTO		ANI_THINK2	
-0x51a1	0x98	ALTO	#6A	I see...  There are birds	
+0x51a1	0x98	ALTO	#6A	I see... There are birds	
 				from my world that also	
 				have a similar life cycle.	
 0x520f	0x98	ALTO	#6A	"Penguins," I think they're called..	
 0x5267	0x06	ALTO		ANI_WAIT	
 0x528d	0x06	NOI		ANI_THINK	
-0x52b3	0x98	NOI	#6A	Now that we've have the Master Gear back,	
+0x52b3	0x98	NOI	#6A	Now that we've got the Master Gear back,	
 				Rieseweld's climate can go back to normal.	
 0x5331	0x06	NOI		ANI_JOY	
 0x5355	0x98	NOI	#6A	We should be able to find a	
@@ -307,7 +307,7 @@ QS_33_undertake
 				Please leave it to me.
 0x569b	0x06	NOI		ANI_GUTSPOSE	
 0x56c4	0x98	NOI	#6A	Quick, let's try finding a place in the	
-				Winter of Rieseweld for hatching the eggs!	
+				winter of Rieseweld for hatching the eggs!	
 0x5775	0x06	Erislet		ANI_NOD	
 0x579d	0x98	Erislet		Hehe, good luck, you guys.		
 0x57d8	0x98	Erislet		If you are able to hatch	
@@ -352,9 +352,9 @@ QS_33_quest_end
 0x62ac	0x98	Erislet		Well, as a token of my appreciation...	
 				I will give you guys this.	
 0x631f	0xC1	System		obtained.	mp_0000 0x7558
-0x6398	0x98	Erislet		Terra has a lot problems...	
-				But if we pool our strength,	
-				I'm sure we can to overcome them.	
+0x6398	0x98	Erislet		Terra has a lot of problems...	
+				But if we work together, I'm	
+				sure we can overcome them.	
 0x6415	0x98	Erislet		Keep up the good work, you two.	
 0x646b	0x06	ALTO		ANI_THANKS	
 0x6493	0x98	ALTO		Yes!	mp_0001 0xfd91
@@ -496,7 +496,7 @@ quest_SpiritD
 				monster has appeared on this continent,	
 				too.	
 0x813d	0x06	NOI		ANI_GESTURE1	
-0x8166	0x98	NOI	#6A	Furthermore, I'm very troubled,	mp_2099 0xb237
+0x8166	0x98	NOI	#6A	Furthermore, I'm very troubled,	mp_1099 0xb237
 				and I want you to help me!	
 				...it's what it's saying!	
 0x81dc	0x06	ALTO		ANI_NOD	
@@ -511,13 +511,13 @@ quest_SpiritD
 0x8344	0x98	SpiritD		............!	mp_1099 0xb4fd
 0x8374	0x06	NOI		ANI_GESTURE2	
 0x83b5	0x98	NOI	#6A	It says it appeared during the	
-				Autumn of "Scrying Pool Caves"	
+				autumn of "Scrying Pool Caves"	
 				in central Rieseweld!	
 0x8445	0x98	NOI	#6A	It also says we don't need to hurry,	mp_1099 0xb5ed
 				because we have time and should be	
 				careful.	
 0x84bf	0x98	NOI	#6A	It seems to have appeared in the
-				Autumn of "Scrying Pool Caves"	
+				autumn of "Scrying Pool Caves"	
 				in central Rieseweld!	
 0x8543	0x98	NOI	#6A	It also says we don't need to hurry,	mp_1099 0xb5ed
 				because we have time and should be	
@@ -534,8 +534,8 @@ quest_SpiritD
 				comforted it a little.	
 0x876e	0x06	NOI		ANI_GUTSPOSE	
 0x87af	0x98	NOI	#6A	Nayuta, let's try heading to the	
-				Autumn of "Scrying Pool Caves" soon!	
-0x8825	0x98	NOI	#6A	Let's try heading to the Autumn	
+				autumn of "Scrying Pool Caves" soon!	
+0x8825	0x98	NOI	#6A	Let's try heading to the autumn	
 				of "Scrying Pool Caves" soon!
 0x88bf	0x07	System	#3C	Quest [Abyss Spirit's Request] started!	
 0x89d3	0x06	ALTO		ANI_WAIT	
@@ -848,36 +848,39 @@ QS_54_talk_Erislet
 0xf2ae	0x98	Erislet	#1W	Fuwaaah......	
 0xf2e9	0x6B	Erislet		Exclamation	
 0xf361	0x06	Erislet		ANI_NOD	
-0xf389	0x98	Erislet		...Yes, found it!	
-0xf3e3	0x98	Erislet		It is definitely the presence of Nemeas' spirits.	
-				There was one on this continent after all.	
+0xf389	0x98	Erislet		...Yes, found one!	
+0xf3e3	0x98	Erislet		It definitely matches the signature	
+				of one of Nemeas' spirits. So there	
+				was one on this continent after all.	
 0xf45c	0x06	ALTO		ANI_GESTURE1	
-0xf486	0x98	ALTO	#6A	Thank goodness... We might be able	
+0xf486	0x98	ALTO	#6A	Thank goodness... We might be able	mp_1099 0x96f7
 				to do this faster than I thought.	
 0xf4e7	0x06	Erislet		ANI_GESTURE2	
 0xf514	0x98	Erislet		But, I could only	
 				feel one of them...	
 0xf565	0x06	Erislet		ANI_NOD	
 0xf58d	0x98	Erislet		Well, nonetheless, I can tell where it is.	
-0xf5e3	0x98	Erislet		It is definitely the presence of Nemeas' spirits.	
-				It seems there is only one on this continent.	
+0xf5e3	0x98	Erislet		It definitely matches the signature	
+				of one of Nemeas' spirits. It seems	
+				there is only one on this continent.	
 0xf663	0x06	ALTO		ANI_GESTURE1	
 0xf68d	0x98	ALTO	#6A	Thank goodness...Do you know the location?	mp_1099 0x98b9
 0xf6dc	0x06	Erislet		ANI_GESTURE1	
-0xf709	0x98	Erislet		It seems to be in the the mid-eastern	
-				part of Rieseweld, in the area called	
-				the "Scrying Pool Caves."	
+0xf709	0x98	Erislet		It seems to be in the mid-eastern part	
+				of Rieseweld, in the area called the	
+				"Scrying Pool Caves."	
 0xf79f	0x98	Erislet		It seems pretty confused,	
 				so you should go during
 				the normal season.	
 0xf80f	0x06	NOI		ANI_NOD	
 0xf833	0x98	NOI	#6A	Understood. We'll make	
-				the season Winter and	
-				start searching!	
+				the season winter and	
+				take a look!	
 0xf893	0x06	ALTO		ANI_JOY	
 0xf8b8	0x98	ALTO	#6A	Elislette, thank	
 				you so much!	
-0xf8f9	0x06	Erislet		No need to thank me.	
+0xf8f9	0x06	Erislet		ANI_NOD	
+0xf921	0x98	Erislet		No need to thank me.	
 				Please do your best!	
 boss_retry
 0xfbf4	0xCE	Objective		Another idol has appeared. Let's work together and crush it!	
@@ -914,10 +917,10 @@ EV_2_S23_boss_battle
 0x1265c	0x98	NOI		Yeah...but in the end, we 	
 				never ran into anybody...	
 0x12720	0x98	ALTO		(...Cygna...	
-				 Where the hell	did you go?)	
+				 Where the hell did you go?)	
 0x1277a	0x6B	NOI		Exclamation	
 0x127c8	0x06	NOI		ANI_LOOK_AROUND	
-0x1284d	0x98	NOI		T-This feeling...!	
+0x1284d	0x98	NOI		Th-This feeling...!	
 0x1296f	0x06	ALTO		ANI_WAIT	
 0x12a11	0x98	ALTO		Noi!?	
 0x12c7b	0x6B	SpiritA		Unknown	
@@ -937,14 +940,14 @@ EV_2_S23_boss_battle
 0x13826	0x98	Zext	#6A	Heh... How pathetic.	
 0x13afc	0x06	Zext		ANI_TAKE_OUT	
 0x13bba	0x06	komono06		ANI_WAIT	
-0x13c5b	0x98	Zext		At thus the second Temple	
+0x13c5b	0x98	Zext		And thus the second Temple	
 				is laid to rest...	
-0x13cad	0x98	Zext		That loathsome history of betrayal...	
-				I will put and end to it once and for all.	
+0x13cad	0x98	Zext		This loathsome story of betrayal...	
+				I will put an end to it once and for all.	
 0x13d34	0x98	NOI	#6A#3W	Wait, Zext!	
 0x13e7b	0x06	komono06		ANI_YOKO	
 0x13ea5	0x06	Zext		ANI_WAIT	
-0x13f3e	0x98	Zext	#6A	Noi...it's you.	
+0x13f3e	0x98	Zext	#6A	Noi... It's you.	
 0x13f7b	0x06	ALTO		ANI_GESTURE1	
 0x13fc3	0x98	ALTO		That thing he's holding...!	
 0x14020	0x06	NOI		ANI_GESTURE2	
@@ -964,8 +967,8 @@ EV_2_S23_boss_battle
 				You met Cygna!?	
 0x143ac	0x06	ALTO		ANI_COMPLAIN	
 0x143f4	0x98	ALTO		Tell me! Where is he now!?	
-0x14474	0x98	Zext	#6A	..."Cygna?" I know no	
-				one with that name.	
+0x14474	0x98	Zext	#6A	..."Cygna?" I know no such	
+				person with that name.	
 0x144c1	0x98	Zext	#6A	Even if I did, I would have	
 				no obligation to tell you.	
 0x14588	0x98	ALTO		In that case...	mp_0110 0x23518
@@ -1019,20 +1022,20 @@ EV_2_S23_boss_battle
 				of the Mythos should ever	
 				know that name...	
 0x161ba	0x06	NOI		ANI_GESTURE1	
-0x161e3	0x98	NOI	#6A	Then you're really...!?	
-0x16258	0x98	Zext		Hehe... Regardless, this is it.	
-				The Final Key is now in place.	
-0x162b1	0x98	Zext		Our plan is almost ready	
+0x161e3	0x98	NOI	#6A	Then, you're really...!?	
+0x16258	0x98	Zext		Heheh... Regardless, this is it.	
+				The final key is now in place.	
+0x162b1	0x98	Zext		The Plan is almost ready	
 				for the next phase.	
 0x16302	0x98	ALTO	#6A	"Plan"...!?	
-				And the Final Key...!?	
+				"Final key"...!?	
 0x1635a	0x06	Zext		ANI_PUT_UP_ROD	
 0x16508	0x6B	ALTO		Exclamation	
 0x1653a	0x6B	NOI		Exclamation	
 0x16597	0x98	Zext	#2W	Farewell, Warden of the Garden...	
 				And uninvited human guest.	
 0x1660b	0x98	Zext	#2W	For standing against me,
-				pay for it with your lives. 	
+				pay with your lives. 	
 0x16994	0x98	ALTO		Tch... This way, Noi!	
 0x16e0a	0x06	b001		ANI_EV1	
 0x1708b	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
@@ -1082,7 +1085,7 @@ EV_2_S24_boss_end
 				has been knocked off balance!	
 0x18ed3	0x98	NOI		Just two Master Gears	
 				won't be enough to stop	
-				this much abnormalities...	
+				this many abnormalities...	
 0x18f45	0x06	ALTO		ANI_COMPLAIN	
 0x18f6f	0x98	ALTO	#6A	N-No way...	mp_0111 0x86c0
 0x18fe5	0x06	ALTO		ANI_SURPRISE	
@@ -1109,15 +1112,14 @@ EV_2_S24_boss_end
 				somewhere out there,	
 				Cygna'll be in danger...		
 0x19752	0x06	ALTO		ANI_COMPLAIN	
-0x1977c	0x98	ALTO	#6A		
-				There's no way I can give	
+0x1977c	0x98	ALTO	#6A	There's no way I can give	
 				up and just wait for	
 				Terra to collapse...!	
 0x1983a	0x6B	ALTO		Exclamation	
 0x1987c	0x06	ALTO		ANI_LOOK_AROUND	
 0x198b4	0x6B	NOI		Exclamation	
 0x198f4	0x06	NOI		ANI_LOOK_AROUND	
-0x19979	0x98	NOI		...W-What was that?	
+0x19979	0x98	NOI		...Wh-What was that?	
 SB_2_S26_move_NOI
 EV_2_S26_get_gear_2nd
 0x1a0a8	0x98	NOI		Something's different.	
@@ -1138,6 +1140,6 @@ EV_2_S26_get_gear_2nd
 0x1a430	0x98	ALTO	#6A	But first, we should	
 				go grab the Master Gear.	
 0x1a4c4	0x98	NOI	#6A	Oh, that's true...	
-				H-Hurry up then!	
+				H-Hurry up, then!	
 0x1a630	0xC1	System		obtained.	mp_0000 0x7558
 EV_4_S22_release_seal_c

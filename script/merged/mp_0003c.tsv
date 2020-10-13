@@ -6,7 +6,7 @@ talk_Puppis
 0x525	0x98	Puppis		...It's almost like the legendary	
 				Great Flood is happening again.	
 0x594	0x98	Puppis		With no wings or gills,	
-				we're to stuck to living	
+				we're stuck to living	
 				on our feet on land.
 0x620	0x98	Puppis		According to legend, the	
 				world was once destroyed	
@@ -18,8 +18,8 @@ talk_Puppis
 				moon, but you were fine.
 				How did you even survive?	
 0x777	0x98	Puppis		Just how high is that thing?	
-				I don't any mortal being	
-				could surive such a fall..	
+				No mortal being could have	
+				survived such a fall..	
 0x7e7	0x98	Puppis		Maybe you guys are being	
 				protected by some kind of god.
 0x858	0x98	Puppis		Maybe some kind	mp_0003c 0x7e7
@@ -41,8 +41,8 @@ talk_Puppis
 0xa7f	0x6B	ALTO		Surprise	
 0xab1	0x98	ALTO		"Too...?" What do	
 				you mean by that?	
-0xb03	0x98	Puppis		Well, rumor has it...war	
-				has finally broke out on	
+0xb03	0x98	Puppis		Well, rumor has it... war	
+				has finally broken out on	
 				the North Continent.	
 0xb65	0x98	Puppis		The conflict was magnified	
 				by civil unrest due to these	
@@ -73,7 +73,7 @@ talk_Crux
 				it looks like a rough storm is brewing	
 				offshore, so we can't leave.	
 0x1055	0x6B	Crux		Ellipsis	
-0x1087	0x98	Crux		...T-This is a bad idea, isn't it?	
+0x1087	0x98	Crux		...Th-This is a bad idea, isn't it?	
 0x10cd	0x98	Crux		What if the storm continues to get	
 				worse and starts coming this way...!	
 0x1142	0x6B	Crux		Sweatdrop	
@@ -169,15 +169,15 @@ talk_Bell
 0x21c2	0x98	Bell		Vel will help Dad someday.	
 0x21ff	0x98	Bell		mp_0003c 0x213b	
 talk_Vavo
-0x22a4	0x98	Vavo		The phenomenon of large amounts of rubble	
-				falling from sky seems to have ended, but...	
+0x22a4	0x98	Vavo		The phenomenon where large quantities of debris	
+				fell from the sky seems to have ended, but...	
 				I do not think it's over with just this.	
 0x2334	0x98	Vavo		As for what will come next...	
 				Examining the rubble may prove	
 				effective in predicting that.	
-0x23cc	0x98	Vavo		It's times like these that are an	
-				academics's time to shine. I have	
-				do my part well.	
+0x23cc	0x98	Vavo		It's times like these are an	
+				academic's time to shine. I	
+				must do my part well.	
 0x246b	0x98	Vavo		It's precisely because of this baffling situation	
 				that we find ourselves in that academics should	
 				be able to relieve some of the insecurities.	
@@ -195,10 +195,10 @@ talk_Vavo
 				but all throughout the world.	
 0x2758	0x98	Vavo		There's heavy damage everywhere...	
 				It was inappropriate to be pleased	
-				in their fallling.	
+				in their falling.	
 talk_Camelope
-0x280c	0x98	Camelope		I've been talking to Sasha, and	
-				she decided to return and visit	
+0x280c	0x98	Camelope		I had a long discussion with Sasha,	
+				and she decided to return and visit	
 				the family home.	
 0x287f	0x98	Camelope		The House of Camelope is a prominent trading	
 				family in charge of a vast trade network...	

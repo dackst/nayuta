@@ -25,8 +25,8 @@ QS_54_discovery_SpiritC
 0x1635	0x98	ALTO		You're Nemeas' messenger...right?	
 0x1676	0x98	SpiritC		...～?	
 0x169f	0x06	NOI		ANI_COMPLAIN	
-0x16c8	0x98	NOI	#6A	Nayuta has an	
-				urgent wish for you!	
+0x16c8	0x98	NOI	#6A	We have an urgent matter	
+				to ask of you!	
 0x170b	0x40	UNDEF		Nayuta explained that, to receive	
 				Nemeas' art, the "Sprout Magatama"	
 				is necessary.	

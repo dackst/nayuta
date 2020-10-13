@@ -350,7 +350,7 @@ talk_Lupus
 0x6acf	0x98	Lupus		My grandpa's stories, and	
 				freaking out my brother Dorado...	
 				Those are entertaining enough. 	
-0x6b27	0x98	Lupus		But this stuff happening only the
+0x6b27	0x98	Lupus		But all this stuff happening only the
 				morning after you guys come back...	
 0x6b85	0x98	Lupus		Hehe, you've certainly lived up to	
 				your reputations as troublemakers.	
@@ -384,7 +384,7 @@ talk_Lupus
 				that nature as well, don't you think?	
 0x7097	0x98	Lupus		Hehe, that's why I'm excited for	
 				this summer vacation, anyway.	
-0x712d	0x98	Lupus		It's way too peaceful in village,	
+0x712d	0x98	Lupus		It's way too peaceful in this village,	
 				and more than a little boring.	
 0x717f	0x98	Lupus		But now the two troublemakers,	
 				Nayuta and Cygna, are back...	
@@ -510,8 +510,8 @@ talk_Sculp
 0x889f	0x98	Sculp		Man, I was surprised when she	
 				approached  me out of the blue	
 				saying she wants to help, but...	
-0x8907	0x98	Sculp		Thanks to her, I was able do	
-				my work much faster today.	
+0x8907	0x98	Sculp		Thanks to her, I was able to	
+				do my work much faster today.	
 				Haha, she was a big help.	
 0x899a	0x98	Sculp		Kureha... Was it?	
 0x89d9	0x98	Sculp		She's beautiful, graceful,	
@@ -705,7 +705,7 @@ talk_Bootie
 				I'm gonna see it too, you hear!?	
 talk_Pyxia
 0xb25a	0x98	Pyxia		Hehe, I'm here again in search	
-				of subject for my painting.	
+				of a subject for my painting.	
 0xb2ad	0x98	Pyxia		In the art contest this year, I'm sure	
 				to be the one to take first place.	
 0xb30a	0x98	Pyxia		There's no way I won't win, now	
@@ -1076,7 +1076,7 @@ QS_38_quest_end
 				The day I can use colors like	
 				these has finally arrived!!	
 0x103eb	0x06	Pyxia		ANI_GUTSPOSE	
-0x10416	0x98	Pyxia		Horolo, I... I'm goona do it!	
+0x10416	0x98	Pyxia		Horolo, I... I'm gonna do it!	
 0x10490	0x98	Pyxia	#18S	Here on Remnant Island,	
 				#18SI'll make you a painting a	
 				#18Sthat will go down in history!!	
@@ -1481,7 +1481,7 @@ QS_12_quest_end
 0x165a2	0x98	Sculp		Then I'll see you later!!	
 0x16869	0x98	ALTO	#6A	...I guess that settles that.	
 0x168ad	0x06	ALTO		ANI_THINK2	
-0x168d5	0x98	ALTO	#6A	Thanks to Terra, I was able obtain	
+0x168d5	0x98	ALTO	#6A	Thanks to Terra, I was able to obtain	
 				that flower, but... I wonder if it	
 				was really a good idea.	
 0x16942	0x98	ALTO	#6A	It feels like, with Terra,	
@@ -1499,8 +1499,8 @@ QS_34_think_and_flash
 0x16ed1	0x98	ALTO		(It seems that they both want to	
 				 reconcile, but they just can't	
 				 be honest with each other.)	
-0x16f52	0x98	ALTO		(...I don't know what do	
-				 in cases in like these.)	
+0x16f52	0x98	ALTO		(...I just don't know what	
+				 to do in cases like these.)	
 0x16fa6	0x98	ALTO		(If only they could both just	
 				 calm down and talk it over...)	
 0x17020	0x6B	ALTO		Ellipsis	
@@ -1720,7 +1720,7 @@ EV_0_S09_see_riot
 				can do to help out as handymen.	
 0x1b003	0x06	Dorado		ANI_NOD	
 0x1b02a	0x98	Dorado		Y-Yeah, sure.	
-				Nayuta and Signa	
+				Nayuta and Cygna	
 				can go through.	
 0x1b076	0x98	Dorado		But be careful.	
 				Understand?	
@@ -1828,7 +1828,7 @@ EV_4_S07_creha_scene_1st
 0x1d705	0x98	Eida		Could you be...?	
 				Are you his girlfriend?	
 0x1d756	0x06	Creha		ANI_WAIT4	
-0x1d77e	0x98	Creha	#6A	(What is a girlfriend?)	
+0x1d77e	0x98	Creha	#6A	(What is a "girlfriend"?)	
 0x1d887	0x06	Eida		ANI_LAUGH	
 0x1d8ae	0x98	Eida	#6A	Hmm... Something interesting	
 				came to me today! ☆	

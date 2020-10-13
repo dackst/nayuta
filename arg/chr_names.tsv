@@ -1,19 +1,19 @@
 mp_0000	0x385	chr name	Dorado
 mp_0000	0x439	chr name	Lupus
 mp_0000	0x4ea	chr name	Sculp
-mp_0000	0x59c	chr name	Bootie
+mp_0000	0x59c	chr name	Bouties
 mp_0000	0x644	chr name	Pyxia
 mp_0000	0x6f6	chr name	Horolo
 mp_0000	0x7ab	chr name	Dr. Volans
 mp_0000	0x84e	chr name	Elder Serpent
 mp_0000	0x8fd	chr name	Researcher Pavo
 mp_0000	0x9b0	chr name	Ursamina
-mp_0000	0xa5e	chr name	Aquela
-mp_0000	0xb12	chr name	Mrs. Mensa
+mp_0000	0xa5e	chr name	Aquila
+mp_0000	0xb12	chr name	Mensa
 mp_0000	0xbc1	chr name	Ophiuchus
 mp_0000	0xc6d	chr name	Jessica
 mp_0000	0xd15	chr name	Ida
-mp_0000	0xdbb	chr name	Michey
+mp_0000	0xdbb	chr name	Mishy
 mp_0000	0xe67	chr name	鶏
 mp_0000	0x121b	chr name	ベルの挑戦状
 mp_0000	0x12c5	chr name	mp_0000 0x121b
@@ -21,25 +21,25 @@ mp_0000	0x137c	chr name	宿酒場看板
 mp_0000	0x1428	chr name	雑貨屋看板
 mp_0000	0x14d5	chr name	LP_Shop1
 mp_0000	0x150d	chr name	Cow
-mp_0000	0x1542	chr name	Michy
+mp_0000	0x1542	chr name	Mishy
 mp_0000	0x1661	chr name	Orvus
 mp_0000	0x1708	chr name	Cygna
 mp_0000	0x17a3	chr name	Lyra
 mp_0000	0x1846	chr name	Ada
 mp_0000	0x18e0	chr name	Sasha
 mp_0000	0x1986	chr name	Dr. Hydol
-mp_0000	0x1a26	chr name	Kureha
+mp_0000	0x1a26	chr name	Creha
 mp_0000c	0x26e	chr name	mp_0000 0x439
 mp_0000c	0x315	chr name	mp_0000 0x4ea
 mp_0000c	0x3bd	chr name	mp_0000 0xa5e
 mp_0000c	0x467	chr name	mp_0000 0x385
-mp_0000c	0x510	chr name	Mrs. Janis
+mp_0000c	0x510	chr name	Janis
 mp_0000c	0x5be	chr name	Columba
 mp_0000c	0x66d	chr name	mp_0000 0x9b0
 mp_0000c	0x71c	chr name	mp_0000 0x59c
 mp_0000c	0x7c5	chr name	mp_0000 0x1986
 mp_0000c	0x872	chr name	Reticul
-mp_0000c	0x91b	chr name	Axe
+mp_0000c	0x91b	chr name	Ax
 mp_0000c	0x9be	chr name	mp_0000 0x644
 mp_0000c	0xa66	chr name	mp_0000 0x6f6
 mp_0000c	0xb0d	chr name	mp_0000 0xc6d
@@ -154,7 +154,7 @@ mp_0003	0x463	chr name	Captain Puppis
 mp_0003	0x51e	chr name	Crux
 mp_0003	0x5ca	chr name	mp_0000c 0x91b
 mp_0003	0x676	chr name	Carina
-mp_0003	0x721	chr name	Mrs. Camelope
+mp_0003	0x721	chr name	Camelope
 mp_0003	0x7d2	chr name	Norma
 mp_0003	0x882	chr name	mp_0001c 0x426
 mp_0003	0x925	chr name	mp_0000 0xb12
@@ -308,8 +308,8 @@ mp_0101	0x211	chr name	mp_0000 0x1a26
 mp_0101	0x2c0	chr name	mp_0000 0x1a26
 mp_0101	0x369	chr name	mp_0000 0x1708
 mp_0101	0x411	chr name	mp_0000 0x1708
-mp_0101	0x4bd	chr name	Lychnis Gio
-mp_0101	0x571	chr name	Equlea
+mp_0101	0x4bd	chr name	Lychnis Geo
+mp_0101	0x571	chr name	Equulea
 mp_0101	0x60e	chr name	mp_0001c 0x56e
 mp_0101	0x6b6	chr name	mp_0000c 0x872
 mp_0101	0x761	chr name	mp_0004 0xa0d
@@ -386,7 +386,7 @@ mp_0112	0x4c4	chr name	Gruz
 mp_0112	0x573	chr name	mp_0003 0x1127
 mp_0112	0x632	chr name	mp_0000 0x9b0
 mp_0112	0x6e0	chr name	Baron Victor
-mp_0112	0x79b	chr name	Mrs. Pencula
+mp_0112	0x79b	chr name	Pecula
 mp_0112	0x856	chr name	mp_0101 0x571
 mp_0112	0x901	chr name	mp_0003 0x721
 mp_0112	0x9c0	chr name	mp_0003 0x7d2
@@ -1392,7 +1392,7 @@ mp_1011	0x2917	chr name	mp_1010 0x1e7a
 mp_1011	0x29bb	chr name	ストッパー
 mp_1099	0x372	chr name	Giant
 mp_1099	0x411	chr name	mp_1099 0x372
-mp_1099	0x4b9	chr name	Song Maiden Elislette
+mp_1099	0x4b9	chr name	Song Maiden Erisette
 mp_1099	0x564	chr name	mp_0101 0x4bd
 mp_1099	0x619	chr name	Guardian King Algol
 mp_1099	0x6c5	chr name	Sage Nemeas

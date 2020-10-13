@@ -82,22 +82,22 @@ EV_6_S33_set_all_key
 0x37de	0x06	ALTO		ANI_GESTURE2	
 0x3808	0x98	ALTO		The Astrolabe looks	
 				pretty different.	
-0x3872	0x98	NOI	#6A	The Remaking functionality	
-				that has lain dormant up until	
-				now has been activated...	
+0x3872	0x98	NOI	#6A	The Remaking functionality that	
+				has lain dormant up until now	
+				has activated...	
 0x38e6	0x06	NOI		ANI_DENY	
-0x390b	0x98	NOI	#6A	Because it's synchronized	
-				to the release of the Seal,	
-				even I can't stop it.	
-0x3970	0x98	NOI	#6A	As long as we can't	
+0x390b	0x98	NOI	#6A	Since it's synchronized to	
+				the breaking of the Seal,	
+				not even I can stop it.	
+0x3970	0x98	NOI	#6A	So as long as we don't	
 				stop Zext from executing	
 				the Remaking...	
 0x39d2	0x06	ALTO		ANI_THINK2	
 0x39fa	0x98	ALTO		Really...? Guess we'll	
 				have to hurry up then.	
 0x3a5f	0x06	NOI		ANI_GESTURE1	
-0x3a88	0x98	NOI	#6A	Yeah...let's use the Stellagears!	
-0x3ac9	0x98	NOI	#6A	If we put these in the same spots	
+0x3a88	0x98	NOI	#6A	Yeah... Let's use the Stellagears!	
+0x3ac9	0x98	NOI	#6A	If I put these in the same slots	
 				as the Master Gears...	
 0x3b32	0x06	ALTO		ANI_WAIT	
 0x3d12	0x06	NOI		ANI_TAKE_OUT	
@@ -122,7 +122,7 @@ EV_6_S33_set_all_key
 0x4e6b	0x06	NOI		ANI_ATTACH	
 0x50ee	0x98	NOI		All right, now...!	
 0x5549	0x98	ALTO	#0W#6A	Is that it!?	
-0x5585	0x98	NOI	#0W#6A	Yeah...It's the elevator to	
+0x5585	0x98	NOI	#0W#6A	Yeah... It's the elevator to	
 				the lower stratum of Terra,	
 				the Stellarium!	
 0x56d6	0x98	NOI	#6A	Let's go, Nayuta!	
@@ -134,26 +134,27 @@ EV_6_S33_set_all_key
 0x59e5	0x06	NOI		ANI_SURPRISE	
 0x5c15	0x98	ALTO	#1W#16S#280x#270y	...!!	
 0x5c66	0x98	NOI	#1W#16S#200x#270y	M-Master Kureha!?	
-0x5f66	0x98	Creha	#0W	...You, of course.	
+0x5f66	0x98	Creha	#0W	...You guys, of course.	
 0x5fa5	0x98	Creha	#0W	You were able to come all	
 				the way back here after all.	
 0x603a	0x06	Creha		ANI_DENY	
 0x6069	0x98	Creha		...Turn back immediately.	
-0x60a6	0x98	Creha		We have entered the final	
-				stage of our Remaking plan...	
+0x60a6	0x98	Creha		The plan to Remake the world	
+				has reached its final stage...	
 0x6157	0x98	Creha	#0W	...It can no longer be stopped.	
 0x61a2	0x98	ALTO	#6A	Kureha...	
 0x61d6	0x98	Creha		You should spend your final moments	
 				together with your loved ones...	
-0x6290	0x98	Creha		...Or Selam and I can finish you off	
-				painlessly without any suffering.	
+0x6290	0x98	Creha		...Or, if you choose, Selam and	
+				I can finish you off painlessly	
+				without any suffering.	
 0x62fe	0x98	Creha	#1W	So...	
 0x6334	0x98	NOI	#6A	"Finish you off"...?	
 				Please don't say that!	
 0x6395	0x98	ALTO	#6A	...Yeah, she's right.	
 0x63cd	0x06	ALTO		ANI_JOY	
-0x63fa	0x98	ALTO	#6A	We can't let you	
-				do something like that!	
+0x63fa	0x98	ALTO	#6A	We can't let you do	
+				something like that!	
 0x6492	0x98	Creha		...Selam said as much.	
 0x64c9	0x98	Creha		You can't stop us	
 				with your will alone.	
@@ -171,59 +172,59 @@ EV_6_S33_set_all_key
 0x6775	0xBC	ALTO		Ellipsis	
 0x67b3	0x06	ALTO		ANI_GESTURE1	
 0x67dd	0x98	ALTO	#6A	...Why do you guys have to be	
-				so fixated on this mission?	
-0x683e	0x98	ALTO	#6A	Our world, hasn't been destroyed
-				again until now, even without the	
-				Remaking or anything like that.	
-0x68b4	0x98	ALTO	#6A	Is there still any reason to
-				erase the surface at this point?	
+				so obsessed with this mission?	
+0x683e	0x98	ALTO	#6A	Life has continued to exist on our	
+				world until now, even without a	
+				Remaking or anything happening.	
+0x68b4	0x98	ALTO	#6A	Is there any point in wiping
+				out the surface now?	
 0x6932	0x98	Creha	#1W	..................	mp_0002 0x1b64
 				..................	
 0x697a	0x98	Creha	#0W	...Rather than explain...	
-				I think it would be	
-				better to show you...		
+				I think it would be best for	
+				you to see for yourself...	
 0x69e8	0xBC	ALTO		Question	
 0x6a1e	0xBC	NOI		Question	
 0x6b0a	0x06	Creha		ANI_PUT_HAND_CONSOLE	
 0x6d63	0x98	NOI	#6A	Master Kureha, what are you...?	
-0x6dce	0x98	Creha	#0W	The Astrolabe stores some	
-				"Ancient Memories," records	
-				of memories from the past.
-0x6e39	0x98	Creha	#0W	Even dreadfully painful memories from	
-				when the surface was destroyed long ago...	
-0x6eae	0x98	ALTO	#6A#0W	Memories...	
+0x6dce	0x98	Creha	#0W	Stored inside the Astrolabe	
+				is an "Ancient Memory"	
+				preserved from the past.
+0x6e39	0x98	Creha	#0W	A dreadful, heartbreaking memory from long	
+				ago, when the world was destroyed...	
+0x6eae	0x98	ALTO	#6A#0W	A memory...	
 EV_6_S36_break_up_creha
 0x7990	0x98	Creha	#0W	...Afterwards, Selam	
 				and I waited for the	
 				calamity to end.	
-0x79f5	0x98	Creha	#0W	We waited for the day when the	
-				surface, where all was lost,	
-				could finally be Remade...	
-0x7a6c	0x98	Creha		But we ultimately	
-				decided to cancel it.	
+0x79f5	0x98	Creha	#0W	We waited for the day when we	
+				could finally Remake the	
+				surface, where all was lost...		
+0x7a6c	0x98	Creha		But, ultimately, we	
+				decided against it.	
 0x7abe	0x06	NOI		ANI_GESTURE1	
-0x7ae7	0x98	NOI	#6A	Because you noticed humans were	
-				still living on the surface, right?	
+0x7ae7	0x98	NOI	#6A	Because you noticed humans were still	
+				living on the surface, right?	
 0x7bb4	0x98	Creha		...It was nothing short of a miracle.	
-0x7c04	0x98	Creha		They recovered from the disaster, and	
+0x7c04	0x98	Creha		They had recovered from the disaster, and	
 				started building a new chapter in history.	
 0x7cbf	0x06	Creha		ANI_DENY	
 0x7cee	0x98	Creha		Destroying humanity in		
-				in order to Remake them...
+				order to Remake it...
 				We couldn't do it.		
-0x7da4	0x98	Creha		And so, we both	
-				slept in the Garden.	
-0x7df4	0x98	Creha		We left all life on Terra to the	
-				hands of Noi and the other wardens...	
+0x7da4	0x98	Creha		And so, we both went to	
+				sleep in the Garden instead.	
+0x7df4	0x98	Creha		We left all life on Terra in the hands	
+				of Noi and the other Wardens...	
 0x7e9c	0xBC	Creha		Ellipsis	
-0x7f19	0x98	Creha		But...when I regained the memories	
+0x7f19	0x98	Creha		But... When I regained the memories	
 				I lost during my long slumber...	
 0x7f7a	0x98	Creha		My father told me about	
 				the accelerating pace of	
 				the planet's destruction.	
 0x8035	0x98	Creha		...We have a mission to accomplish. 
-				It is absolutely necessary we do this...	
-0x80ac	0x98	Creha	#0W	Selam... My brother...	
+				It is our duty to carry this through...	
+0x80ac	0x98	Creha	#0W	I'm sure Selam... My brother...	
 				#0WI'm sure he thinks the same.	
 0x8111	0x98	Creha		However...	mp_0002d 0x49d1
 0x81a1	0x98	Creha	#0W	You... You said you would stop us.	
@@ -232,15 +233,16 @@ EV_6_S36_break_up_creha
 0x8369	0x98	Creha	#0W	You have seen the "Ancient	
 				Memories" and know the 	
 				truth about this planet.	
-0x8419	0x98	Creha	#0W	If you can still show me the	
-				strength of your determination...	
+0x8419	0x98	Creha	#0W	If you could look at me in the	
+				eyes and say you are still	
+				determined to fight us...	
 0x84c6	0x98	Creha	#0W	I have come to think that,	
 				maybe, we could abandon	
 				the mission again.		
 0x8671	0x98	ALTO	#1W#6A	Kureha...	mp_0100a 0x61a2
 0x86f6	0x06	Creha		ANI_DENY	
-0x8725	0x98	Creha		...For putting you through	
-				all this, I am truly sorry.	
+0x8725	0x98	Creha		...I am truly sorry for putting	
+				on this pretense to test you.	
 0x8777	0x98	Creha		I betrayed you guys...	
 				I know it is unforgivable.	
 0x87f8	0x98	Creha	#0W	If...you would still	
@@ -250,7 +252,7 @@ EV_6_S36_break_up_creha
 0x88b8	0x98	ALTO	#6A	As long as you come back to us...	
 				There's not much else that matters.	
 0x8915	0x06	ALTO		ANI_GESTURE2	
-0x893f	0x98	ALTO	#6A	Above all....I'm glad to	
+0x893f	0x98	ALTO	#6A	Above all.... I'm glad to	
 				know you felt that way.	
 0x89b1	0x06	ALTO		ANI_THANKS	
 0x89e1	0x98	ALTO	#0W#6A	...Welcome back, Kureha.	
@@ -268,7 +270,7 @@ EV_6_S36_break_up_creha
 0x8d30	0x06	Creha		ANI_NOD	
 0x8d56	0x98	Creha		Yes, together with you, Nayuta,	
 				I feel like we can do it.	
-0x8e00	0x98	Creha		...I'll going to try to convince	
+0x8e00	0x98	Creha		...I'm going to try to convince	
 				my father and brother now.	
 0x8e63	0x06	NOI		ANI_GUTSPOSE	
 0x8e8c	0x98	NOI	#6A	Oh, that's a good idea!	
@@ -289,7 +291,7 @@ EV_6_S36_break_up_creha
 0x9230	0x06	NOI		ANI_SURPRISE	
 0x9259	0x06	Creha		ANI_SURPRISE	
 0x93f3	0x06	ALTO		ANI_TENSION_WAIT	
-0x9522	0x98	NOI	#10M#1W	Z-Zex──	
+0x9522	0x98	NOI	#10M#1W	Z-Zex─	
 0x9593	0x06	Zext		ANI_HIT_GROUND	
 0x97db	0x06	NOI		ANI_KNOCKDOWN	
 0x9855	0x06	ALTO		ANI_DOWN_ONLY	
@@ -298,12 +300,12 @@ EV_6_S36_break_up_creha
 0x9ccf	0x98	Creha	#1W#16S#6A	Nayuta, Noi!!	
 0x9d5d	0x06	Creha		ANI_PRAY	
 0x9d92	0x98	Zext	#1W	...I must ask you to stop indoctrinating	
-				my daugher with such worthless thoughts.	
+				my daughter with such worthless thoughts.	
 0x9ea9	0x06	Zext		ANI_CAPTURE_CREHA	
 0x9ee8	0x06	Creha		ANI_CAPTURED	
 0x9f8c	0x98	Zext	#1W	Come, Kureha! The Planetarium	
 				will be ready soon.	
-0xa01d	0x98	Zext	#2W	We need you to care care of	
+0xa01d	0x98	Zext	#2W	We need you to take care of	
 				some finishing touches...	
 0xa0a1	0x98	Creha	#3W#6A	...No, I can't!	
 0xa0ef	0x98	Creha	#4W#6A	Nayuta believed in me!	
@@ -317,7 +319,7 @@ EV_6_S36_break_up_creha
 				Your will matters not.	
 0xa4fa	0x06	ALTO		ANI_WAKE_UP_HALF	
 0xa53e	0x98	ALTO	#4W#6A#16S	L-Let go of Kureha!!	
-0xa5a8	0x98	Zext	#1W#6A	Hehe... From here onwards, we 	
+0xa5a8	0x98	Zext	#1W#6A	Heheh... From here onwards, we 	
 				will be in the realm of the gods.	
 0xa60a	0x98	Zext	#1W#6A	Set foot on it, and there will	
 				be no mercy for you next time.	
@@ -354,13 +356,13 @@ EV_7_S19_use_astrolabe
 0xc415	0x98	Creha		Now, if we use the power	
 				of the Shining Wings...	
 0xc470	0x06	Signa		ANI_WAIT4	
-0xc498	0x98	Signa	#6A	This could to be a little tough...	
+0xc498	0x98	Signa	#6A	This could be a little tough...	
 				I could die trying this in my state.	
 0xc4ed	0x98	Signa	#6A	I'm going to need help from Noi...	
 0xc53f	0x06	ALTO		ANI_THINK2	
 0xc567	0x98	ALTO	#6A	Noi... She hasn't returned yet.	
 0xc5a8	0x98	ALTO	#6A	Could something have happened?	
-0xc623	0x41	None	#0W#2E#6C	...Everyone...sorry I kept you waiting!#0E	
+0xc623	0x41	None	#0W#2E#6C	...Everyone... Sorry I kept you waiting!#0E	
 0xc6ab	0xBC	ALTO		Exclamation	
 0xc6e1	0xBC	Creha		Exclamation	
 0xc718	0xBC	Signa		Exclamation	
@@ -385,9 +387,9 @@ EV_7_S19_use_astrolabe
 0xceb3	0x98	Signa	#6A	Oh yeah, Nayuta, I never got	
 				the chance to tell you...	
 0xcf27	0x98	ALTO	#6A	Noi is that amazing...!?	
-0xcf8a	0x98	Noi	#0W	...The plan I told you about	
-				earlier requires to concentrate	
-				all of the power of the Astrolabe.	
+0xcf8a	0x98	Noi	#0W	...The plan I told you about earlier	
+				requires concentrating all the power	
+				of the Astrolabe.	
 0xd00b	0x98	Noi	#0W	To do that, I needed to	
 				change into spirit form.	
 0xd08a	0x06	Noi		ANI_ROTATE	
@@ -408,7 +410,7 @@ EV_7_S19_use_astrolabe
 0xd4bb	0x06	Signa		ANI_WAIT5	
 0xd531	0x98	Signa	#1W	...I see...	
 0xd591	0x06	ALTO		ANI_COMPLAIN	
-0xd5d9	0x98	ALTO	#6A	W-What do you guys mean? Explain	
+0xd5d9	0x98	ALTO	#6A	Wh-What do you guys mean? Explain	
 				it so I can understand too!	
 0xd651	0x98	Signa	#2W	...............	mp_0001 0xc917
 0xd6ca	0x98	Signa		...The destruction of the surface...	
@@ -429,8 +431,8 @@ EV_7_S19_use_astrolabe
 0xda96	0x98	ALTO	#16S#6A	...Then we can't!	
 				#16SWe can't sacrifice Noi!	
 0xdb07	0x06	Signa		ANI_NOD	
-0xdb2d	0x98	Signa		Yeah...	
-				There's no way we can do that!	
+0xdb2d	0x98	Signa		Yeah... There's no way	
+				we can do that!	
 0xdbf3	0x98	Creha		Noi, surely there's some other way!	
 0xdc3f	0x06	Noi		ANI_DENY	
 0xdcbc	0x98	Noi	#0W	...I'm sorry. This is	
@@ -438,10 +440,11 @@ EV_7_S19_use_astrolabe
 0xdd09	0x98	Noi	#0W	The Planetarium managed to	
 				hold back the collapse.	
 				We can use that power now.	
-0xddc2	0x98	Noi	#0W	If we don't hurry...	
-				The surface will be completely destroyed.	
+0xddc2	0x98	Noi	#0W	If we don't act now...	
+				The surface will be	
+				completely destroyed.	
 0xde59	0x06	ALTO		ANI_COMPLAIN	
-0xdea7	0x98	ALTO	#1W#16S#6A	But...But...!!	
+0xdea7	0x98	ALTO	#1W#16S#6A	But... But...!!	
 0xe04a	0x98	Noi	#2W	..................	mp_0000d 0x70fd
 0xe094	0x98	Noi	#2W	...Hey, Nayuta...	
 				Do you remember	
@@ -456,8 +459,8 @@ EV_7_S19_use_astrolabe
 0xe498	0x98	ALTO	#1W#400x#270y	Huh...	mp_0001 0x166ea
 0xe4d3	0x06	Noi		ANI_PRAY	
 0xe550	0x98	Noi	#2W	Honestly, I was really worried	
-				about facing Zext alone,.	
-0xe5cb	0x98	Noi	#2W	...But, you all suddenly	
+				about facing Zext alone.	
+0xe5cb	0x98	Noi	#2W	...But, you guys suddenly	
 				came to help, and...	
 0xe62b	0x98	Noi	#1W	Somewhere, deep inside,	
 				I was extremely relieved.	
@@ -490,15 +493,18 @@ EV_7_S19_use_astrolabe
 				Power of Stars, and will	
 				always be with you...	
 0xef48	0x98	ALTO	#2W#6A	..................	mp_0000d 0x70fd
-0xef8e	0x98	ALTO	#1W#6A	...So...you've already made up your mind, huh?	
+0xef8e	0x98	ALTO	#1W#6A	So... You've already	
+				made up your mind, huh?	
 0xeffd	0xBC	ALTO		Ellipsis	
-0xf066	0x98	ALTO	#1W#6A	Will...we ever see you again?	
+0xf066	0x98	ALTO	#1W#6A	Will... Will we ever	
+				see you again?	
 0xf0ba	0x06	Noi		ANI_DENY	
 0xf12f	0x98	Noi	#2W	I'm sure you will...	
 				Yeah, absolutely!	
 0xf179	0x98	Noi	#1W	So don't lose your way, Nayuta!	
 0xf204	0x06	Noi		ANI_GUTSPOSE	
-0xf24f	0x98	Noi	#1W#16S	Everyone...I'm gonna save the surface world!!	
+0xf24f	0x98	Noi	#1W#16S	Everyone... I'm gonna	
+				save the surface world!!	
 0xf2d5	0x98	ALTO	#1W#6A	......Got it.	
 0xf33a	0x98	ALTO	#2W#6A	I...I'll never forget you.	
 0xf382	0x06	ALTO		ANI_JOY	

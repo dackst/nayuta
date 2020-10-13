@@ -3,7 +3,7 @@ init
 lp_tera
 0xb30	0x98	NOI		Is this a gate...?	
 0xb61	0x98	NOI		Though it looks pretty old,	
-				it's a geniune gate all right...	
+				it's a genuine gate all right...	
 0xbd3	0x98	ALTO		Yeah, though we used this for a	
 				while, but it stopped working.	
 0xc3f	0x98	ALTO		I was wondering if you could make	
@@ -12,7 +12,7 @@ lp_tera
 				This gate has already reached its limit.	
 0xcf9	0x98	NOI		It probably used up all its	
 				remaining power a year ago.	
-0xd54	0x98	ALTO		It that so...?	
+0xd54	0x98	ALTO		Is that so...?	
 				That's too bad, but	
 				it can't be helped.	
 0xda8	0x98	ALTO		(This gate was the only reason	
@@ -21,7 +21,7 @@ lp_tera
 0xe41	0x40	UNDEF		The gate stands quietly, devoid of power.	mp_0004 0x2ddf
 0xed6	0x40	UNDEF		The gate stands quietly, devoid of power.	mp_0004 0x2ddf
 LP_Bed
-0xf80	0x40	UNDEF		Cygna's luggage is scattered about in mess.	
+0xf80	0x40	UNDEF		Cygna's luggage is scattered about in a mess.	
 0xfe6	0x98	ALTO		(Cygna, you just threw your bag	
 				 on your bed and left it there.)	
 0x103b	0x98	ALTO		(Looks like Master will be	

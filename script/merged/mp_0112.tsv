@@ -45,13 +45,13 @@ talk_Lyra
 0x2dfc	0x98	Lyra		Why don't you just leave me	
 				alone for the time being?	
 0x2e4f	0x98	Lyra		mp_0112 0x2c47	
-0x2ebb	0x98	Lyra		Once you're done with what you	
-				need to do, make sure to come	
-				back safely, all right!?	
+0x2ebb	0x98	Lyra		Once you've done what you need	
+				to do, be sure to come back	
+				safely, all right!?	
 0x2f3f	0x98	Lyra		mp_0112 0x2c47
 0x2fab	0x98	Lyra		mp_0112 0x2ebb	
 0x303d	0x98	Lyra		Nayuta, thank you for earlier.	
-				...I'm happy that you came for me.	
+				...I'm glad that you came for me.	
 0x309d	0x98	ALTO		No, it was my fault, too...	
 				Sorry for always worrying you.	
 0x30f9	0x98	ALTO		...From now on, we will	
@@ -65,10 +65,10 @@ talk_Lyra
 				Nayuta for me.	
 0x323d	0x98	NOI		Leave it all to me!	
 0x329b	0x98	Lyra		Be careful out there, you two.	
-				I'm worried you, but I'll be	
-				waiting for you here.	
+				I'm worried about you, but I'll	
+				wait here for you guys.	
 0x3306	0x98	Lyra		Kureha and Cygna...	
-				Please, take care of them.	
+				Please take care of them.	
 0x33ce	0x98	Lyra		Hey, what is this snow stuff?	
 				If you touch it, it turns to water.	
 0x342d	0x98	Lyra		Is it like cold rain or something...?	
@@ -147,14 +147,14 @@ talk_Lyra
 				and be honest to each other about it.	
 0x430c	0x6B	ALTO		Ellipsis	
 0x433e	0x6B	Lyra		Question	
-0x4370	0x98	Lyra		W-What? You got quiet	
+0x4370	0x98	Lyra		Wh-What? You got quiet	
 				all of a sudden...	
 0x43b7	0x98	ALTO		...Ahaha, it's nothing.	
 				I was thinking that it's	
 				just like you to say that.
 0x441f	0x98	ALTO		Thank you. You've made me	
 				feel a little better.	
-0x4477	0x98	Lyra		W-What are you saying?	
+0x4477	0x98	Lyra		Wh-What are you saying?	
 				...Weirdo Nayuta.	
 0x44fe	0x98	Lyra		I don't know what's up between you, but...	
 				It's good that you're close with Cygna.	
@@ -223,8 +223,7 @@ talk_Barton
 				missed the timing after all...	
 0x50ba	0x98	Barton		Hehe, my daughter's bad timing	
 				is a hard thing to break.	
-0x5155	0x98	Lyra		Oh jeez,	
-				shut up, Dad!	
+0x5155	0x98	Lyra		Oh jeez, shut up, Dad!	
 0x51e0	0x98	Barton		mp_0112 0x50ba
 0x523d	0x98	Barton		Well, I hope you'll continue	
 				to be good friends with her.	
@@ -283,7 +282,7 @@ talk_Barton
 0x5b33	0x98	NOI		Nayuta...	mp_0000d 0x7671
 0x5b5b	0x98	Barton		Is that so...?	
 				I'm glad to hear	
-				to say that.	
+				you say that.	
 0x5ba4	0x98	Barton		Hehe, please take care	
 				of her from now on.	
 0x5c29	0x98	Barton		I told Lyra to take the day off, but...	
@@ -297,7 +296,7 @@ talk_Barton
 0x5da3	0x98	Barton		Please, return safely.	
 0x5e1a	0x98	Barton		Nayuta... You're finally awake.	
 				Oh, thank goodness...	
-0x5e75	0x98	Barton		Lyra was really worried about you, too.	
+0x5e75	0x98	Barton		Lyra was really concerned about you, too.	
 				She will be delighted to see you're up.	
 0x5ec2	0x98	ALTO		Thanks... Where is Lyra now?	
 0x5f0b	0x98	Barton		She just left.	
@@ -313,11 +312,11 @@ talk_Barton
 0x614b	0x98	Barton		Nayuta, take it easy, all right?	
 				You're bound to be feeling tired.
 0x61ce	0x98	Barton		Apparently Lyra left	
-				for to the cape.	
+				for the cape.	
 0x620e	0x98	Barton		She seems to be getting along	
 				quite well with that Kureha girl.	
 0x625b	0x98	Barton		...Nayuta, if you don't mind,	
-				please take look after her.	
+				please look after her.	
 0x62e3	0x98	Barton		Come to think of it, I saw you
 				two talking about something with	
 				the elder in the plaza earlier.	
@@ -343,7 +342,7 @@ talk_Barton
 0x6682	0x98	Barton		If you want to know more about	
 				this young lady Kureha, you	
 				should try asking Lyra.	
-0x66c9	0x98	Barton		She seems to be gotting along	
+0x66c9	0x98	Barton		She seems to be getting along	
 				quite well with her. Kureha
 				asked to do some work for her.	
 0x6742	0x98	Barton		Lyra should be out.	
@@ -361,8 +360,8 @@ talk_Barton
 0x6966	0x98	ALTO		(Sometimes I just don't	
 				 get old man Barton...)	
 0x69dc	0x98	Barton		mp_0112 0x683c	
-0x6a47	0x98	Barton		(Hehe, I'll offer my support	
-				 from the shadows.)	
+0x6a47	0x98	Barton		(Hehe, I'll offer you my	
+				 support from the shadows.)	
 0x6ac3	0x98	Barton		Everyone is delighted that	
 				Eartha was saved, as if	
 				she were their own.	
@@ -380,7 +379,7 @@ talk_Barton
 0x6d18	0x98	Barton		It's as though the island	
 				has its own heart. I'm	
 				proud to be a part of it.	
-0x6d98	0x98	Barton		I hear that Ursa has fallen ill....
+0x6d98	0x98	Barton		I hear that Eartha has fallen ill....
 				Hmm, I'm worried about her...	
 0x6df3	0x98	Barton		Lyra couldn't sit still anymore and	
 				went to help. I feel the same way.	
@@ -389,8 +388,9 @@ talk_Barton
 				please ask Lyra for help.	
 0x6f0d	0x98	Barton		Lyra went over there to	
 				help for a while, too.	
-0x6f5a	0x98	Barton		I can handle the business affairs on my own.	
-				I hope Lyra will be able provide some help.	
+0x6f5a	0x98	Barton		I can handle the business here	
+				on my own. I hope Lyra will be	
+				able to provide some assistance.	
 0x7006	0x98	Barton		Axe and Sculp often	
 				come here for drinks.	
 0x704f	0x98	Barton		Heh, I heard they're childhood friends.
@@ -403,7 +403,7 @@ talk_Barton
 0x7170	0x6B	ALTO		Question	
 0x71a2	0x98	ALTO		Umm, what does that mean...?	
 0x71e3	0x98	Barton		...Hehe, nevermind.	
-				Please, don't mine me.	
+				Please, don't mind me.	
 0x7263	0x98	Barton		Nayuta, maybe you will come here	mp_0112 0x70af
 				for a drink with Cygna someday.		
 0x72bc	0x98	Barton		Perhaps Lyra would rather	
@@ -496,14 +496,14 @@ talk_Barton
 talk_Gruz
 0x8224	0x98	Gruz		Gwahaha, Noi, my girl,	
 				good to see you back!
-0x8276	0x98	Gruz		We ought to celebrate a big	
-				welcome party during upcoming	
-				Star Festival as well.	
+0x8276	0x98	Gruz		We ought to celebrate a big welcome	
+				party during the upcoming Star	
+				Festival as well.	
 0x82d5	0x98	Gruz		I'll cook a huge feast for	
 				you, you can count on it!	
 0x835e	0x98	Gruz		Noi, my girl, good	
 				to see you back!	
-0x83a8	0x98	Gruz		We should have a big welcome	
+0x83a8	0x98	Gruz		We should throw a big welcome	
 				party at the next Star Festival.	
 				You can count on it!		
 0x844f	0x98	Gruz		Since yesterday, Lyra has	
@@ -513,7 +513,7 @@ talk_Gruz
 				at her thoughts...	
 0x8531	0x98	Gruz		...Well, she is a girl of a certain	
 				age, you know. Something might be	
-				be troubling her.	
+				troubling her.	
 0x85a0	0x98	Gruz		If you call yourself a man, you'd	
 				better make sure to listen to her	
 				carefully, Nayu, my boy.	
@@ -553,7 +553,7 @@ talk_Gruz
 				right ingredients...	
 0x8dfb	0x98	Gruz		Fairy... No, Noi, my girl.	
 0x8e46	0x98	Gruz		You don't seem to be a bad person at all.	
-				You've got be relaxed and come in here more.	
+				You've gotta relax and come in more often.	
 0x8eac	0x98	Gruz		Please feel free to come back	
 				here whenever you feel like it.	
 				I'll have a nice treat for you.	
@@ -658,8 +658,8 @@ talk_Gruz
 0xa137	0x98	Gruz		Therefore, the pursuit of	
 				new dishes is my mission!	
 0xa1cd	0x98	Gruz		Hmm... Because of that crash the	
-				all of the salt and the pepper	
-				in the bottles got mixed in it...	
+				all the salt and the pepper in	
+				the bottles got mixed in it...	
 0xa238	0x98	Gruz		...I'll just finish for now.	
 				It might open a new door to	
 				unexpected flavors.	
@@ -668,7 +668,7 @@ talk_Gruz
 				A new door of flavor might	
 				unexpectedly open.	
 0xa39c	0x6B	Gruz		Surprise	
-0xa3ce	0x98	Gruz		Oh, Nayu, by boy!!	
+0xa3ce	0x98	Gruz		Oh, Nayu, my boy!!	
 0xa43c	0x06	Gruz		ANI_WAIT	
 0xa482	0x06	frypan		ANI_WAIT2	
 0xa4fd	0x98	Gruz		Good to see you again!	
@@ -710,13 +710,13 @@ talk_Gruz
 				I have to take advantage of this opportunity.
 0xab08	0x98	Gruz		Soon, I may have to ask you two for	
 				your help sampling my new dish.	
-				Look forward it!	
+				Look forward to it!	
 0xabdd	0x98	Gruz		Lyra and Mr. Barton never have	
 				any time to help with my new	
 				dishes.	
 0xac56	0x98	Gruz		Soon, I may have to ask you two for	mp_0112 0xab08
 				your help sampling my new dish.	
-				Look forward it!	
+				Look forward to it!	
 talk_Gruz_LookNoi
 0xacf3	0x98	Gruz		Hmm..!?	
 0xad1a	0x98	Gruz		Oh, you're that fairy	
@@ -727,15 +727,14 @@ talk_Gruz_LookNoi
 0xae00	0x98	Gruz		No, I have to apologize for	
 				not being quite used to you	
 				after this time.	
-0xae5a	0x98	Gruz		You don't seem to be a bad person at all.	mp_0112 0x8e46
-				You've got be relaxed and come in here more.	
+0xae5a	0x98	Gruz		mp_0112 0x8e46	
 0xaebc	0x98	Gruz		...That's right, as a token of our	
 				friendship, how about I let you	
 				get a taste of my new dish?	
 0xaf35	0x98	NOI		Huh, can I!?	
 0xaf60	0x6B	ALTO		Sweatdrop	
-0xaf92	0x98	ALTO		W-We have something to we	
-				have to do right now, so...	
+0xaf92	0x98	ALTO		W-We have something we	
+				gotta do right now, so...	
 				Come on, let's go, Noi.	
 0xafef	0x98	NOI		Eh, no way～...	
 talk_Antlia
@@ -796,7 +795,7 @@ talk_Antlia
 				contain the chaos. Heh, it's going to be busy.	
 0xbacc	0x98	Antlia		This is the time for us merchants to show	
 				our skills, now that every region is	
-				suffering from a shortages of supplies.	
+				suffering from shortages of supplies.	
 0xbb46	0x98	Antlia		Heh, it's going to be very busy soon.	
 0xbbdf	0x98	Antlia		These anomalies are occurring	
 				throughout the Ciencia Sea...	
@@ -875,7 +874,7 @@ talk_Antlia
 				things to do, so I'll be staying on	
 				this island for two or three more days.	
 0xcb9f	0x98	Antlia		Well, now that I've stocked up on a new	
-				star shard, I should to be going soon.	
+				star shard, I should be going soon.	
 0xcc00	0x98	Antlia		The ferry's departure time is...	
 				Hmm, looks like there's still time.	
 0xcc8a	0x98	Antlia		Once my work is finished,	
@@ -888,9 +887,9 @@ talk_Antlia
 				I've experienced a shock like that one.	
 0xce33	0x98	Antlia		I'm sure there have been very few cases where	
 				things have fallen directly on the island...	
-				But I was indeed worried.	
+				But I was worried for a minute there.	
 0xcee5	0x98	Antlia		mp_0112 0xcda0	
-0xcf78	0x98	Antlia		I was indeed worried.	
+0xcf78	0x98	Antlia		I was worried for a minute there.	
 0xcfe9	0x98	Antlia		Oh, it's you...	
 				Nayuta! It's been a long time.	
 0xd035	0x98	ALTO		Ah, Antlia, the trader.	
@@ -940,9 +939,9 @@ talk_Antlia_and_Cetus
 				she left home, and now there's	
 				this current strangeness...	
 				I was truly worried.	
-0xd8c1	0x98	Cetus		I'm sorry, Mr. Antlia. I've took	
-				Reticul around with me much longer	
-				than I thought I would.	
+0xd8c1	0x98	Cetus		I'm sorry, Uncle Antlia. I took	
+				Reticul around with me much	
+				longer than I thought I would.	
 0xd91f	0x98	Cetus		I'm always telling her to go home,	
 				but she's much too stubborn...
 0xd994	0x98	Antlia		No, no, you took rather	
@@ -971,9 +970,9 @@ talk_Ursaminor
 				makes me feel braver.	
 0xde8b	0x98	Ursaminor		Heh, we should both keep	
 				working hard today, too.	
-0xdf01	0x98	Ursaminor		When I think about my sister, somewhere	
-				out there in the Ciencia Sea, somehow,	
-				it makes me feel braver.	
+0xdf01	0x98	Ursaminor		When I think about my sister, adventuring	
+				somewhere out there in the Ciencia Sea,	
+				it makes me feel braver myself.	
 0xdf7e	0x98	Ursaminor		mp_0112 0xde8b
 0xe01e	0x98	Ursaminor		My father and I are preparing	
 				an order for an upcoming	
@@ -1045,7 +1044,7 @@ talk_Ursaminor
 0xef81	0x98	Ursaminor		mp_0004n 0x1b99
 talk_Camelope
 0xeff6	0x98	Camelope		Now then... Now that I've had some rest,	
-				Let's go see how that girl's lives her life.	
+				Let's go see how that girl lives her life.	
 0xf064	0x98	Camelope		That one of the esteemed House	mp_0003 0x59e0
 				of Camelope would run away and hide	
 				on this hick island! Preposterous!
@@ -1058,7 +1057,7 @@ talk_Camelope
 0xf2af	0x98	Camelope		It's good to know how Sasha feels.	
 				It feels like I got a load off my chest.	
 0xf31e	0x98	Camelope		We just needed to calm down and talk things through...	
-				It was that simple, and we've wasted so much time time.
+				It was that simple, and we've wasted so much time.
 0xf399	0x98	Camelope		I guess I need to cool my head	
 				a bit more from now on, too.	
 0xf427	0x98	Camelope		Two years have passed since	
@@ -1135,19 +1134,19 @@ talk_Sculp
 				...Oh, thank goodness!	
 				Congratulations, Nayuta!	
 0x1068e	0x98	Sculp		When I heard Eartha had collapsed,	
-				I...I...Ooh, *hic*...	
+				I...I... Ooh, *hic*...	
 0x106e6	0x6B	ALTO		Sweatdrop	
 0x10710	0x6B	Axe		Sweatdrop	
 0x10757	0x98	Axe		Oh man, a typical drunk.	
 				I don't even know what	
-				you're saying.	
+				you're saying anymore.	
 0x107b7	0x98	ALTO		mp_0111 0xea06
 0x10814	0x98	Sculp		Ooh, sorry Nayuta...	
 				I'm really glad Eartha	
 				is alive....	
-0x1086c	0x98	Sculp		*belch*...Thank goodness...	
+0x1086c	0x98	Sculp		*belch*... Thank goodness...	
 				Truly, thank goodness...	
-0x10928	0x98	Sculp		*hic*...I'm drunk after all.	
+0x10928	0x98	Sculp		*hic*... I'm drunk after all.	
 				Can't speak very clearly.	
 0x10985	0x98	Sculp		This damn Axe...	
 				You can never let your guard down.	
@@ -1248,7 +1247,7 @@ talk_Axe
 0x12082	0x98	Axe		Carina said something about having a party...	
 				I should probably get ready to go.	
 0x12141	0x98	Axe		You know, it looks like	
-				they set up a museum by	
+				they set up a museum	
 				near the port.	
 0x12197	0x98	Axe		Seems to be run by some guys	
 				from the Empire. It sounds	
@@ -1347,7 +1346,7 @@ talk_Hydol
 				while longer. I will check	
 				back in as soon as I can.	
 0x13351	0x98	Hydol		I've got some medical records to sort through.
-				I doubt I'll ready to start seeing patients soon.	
+				I doubt I'll be ready to start seeing patients soon.	
 0x133c0	0x98	Hydol		But I don't want to keep my	
 				patients waiting too long...	
 0x13413	0x98	Hydol		Anyhow, once my paperwork is complete,	
@@ -1401,7 +1400,7 @@ talk_Mensa
 				a walk earlier, but...	
 0x13d5f	0x98	Mensa		...They've been gone for a while.	
 				I wonder where they went.	
-0x13de4	0x98	Mensa		Michey and Ophiuchus have been	
+0x13de4	0x98	Mensa		Mishy and Ophiuchus have been	
 				gone for a while now...	
 0x13e35	0x98	Mensa		...Heh, how funny would it	
 				be if he ran away again?		
@@ -1426,8 +1425,8 @@ talk_Mensa
 				in this situation too.		
 0x14287	0x98	Mensa		mp_0112 0x141a8
 0x14322	0x98	Mensa		Because of everything happening,	
-				the ferry doesn't seem be running	
-				very often.	
+				the ferry doesn't seem to be	
+				running as often.	
 0x14381	0x98	Mensa		Now that there are also signs of war...	
 				It might be safer for us to just stay	
 				on this island for now.
@@ -1505,7 +1504,7 @@ talk_Ophiuchus
 0x15232	0x98	Ophiuchus		Given the circumstances, we	
 				can't take him back to the	
 				mansion right away...	
-0x152a2	0x98	Ophiuchus		We will take Master Michey into	
+0x152a2	0x98	Ophiuchus		We will take Master Mishy into	
 				our custody with utmost care.	
 0x152fa	0x98	Ophiuchus		In a situation like this,	mp_0112 0x15232
 				I cannot take him back	
@@ -1555,8 +1554,8 @@ talk_Victor
 0x15dac	0x98	Victor		mp_0112 0x15d11
 0x15e1f	0x98	Victor		As expected, I'll need to	
 				return to the Empire alone...	
-0x15eeb	0x98	Victor		I'm certain that Dr. Volans will find	
-				a way prevent disaster for the Empire.	
+0x15eeb	0x98	Victor		I'm certain Dr. Volans will find a way	
+				to prevent disaster for the Empire.	
 0x15f71	0x98	Victor		Perhaps I can be of some	
 				use to him as well.
 0x15fe0	0x98	Victor		The state of affairs in the Empire	
@@ -1566,7 +1565,7 @@ talk_Victor
 				the war starting...	
 0x160e6	0x98	Victor		For now, I'm going to stay on this	
 				island. There may be something	
-				that I can only be do here.	
+				that only I can do here.	
 0x16186	0x98	Victor		I think I will remain on this island.	mp_0112 0x160e6
 				There may be something that	
 				can only be done here.	
@@ -1589,8 +1588,8 @@ talk_Victor
 talk_Victor_and_Pecula
 0x1658e	0x98	Victor		Now, I shall be going to discuss the	
 				upcoming situation with Dr. Volans.
-0x165e2	0x98	Victor		Surely he should be able to find a	
-				way prevent disaster for the Empire.		
+0x165e2	0x98	Victor		Surely he should be able to find a way	
+				to prevent disaster for the Empire.		
 0x1665f	0x98	Victor		You should try to	
 				cheer up Equlea.	
 0x166a2	0x98	Pecula		Understood...	
@@ -1605,15 +1604,15 @@ talk_Victor_and_Pecula
 				assigning us the work of a common	
 				messenger in the boonies is...	
 0x168f5	0x98	Pecula		Hmph, your rank is worthless.	
-0x16936	0x98	Victor		W-What...!?	
+0x16936	0x98	Victor		Wh-What...!?	
 				Say that again!!	
 0x169c7	0x98	Victor		Hey! If that's where you wanna go,	
 				then I'll tell you that you were only	
-				good beautiful when you were younger!
+				beautiful when you were younger!
 0x16a5b	0x98	Victor		Now that it's been over a decade,	
-				I can't even stand to look at your	
+				I can't stand to even look at your	
 				wrinkled mess of a face!	
-0x16abf	0x98	Pecula		W-What did you say!?	
+0x16abf	0x98	Pecula		Wh-What did you say!?	
 				How impudent!!	
 0x16b07	0x98	Pecula		That's enough! I...I 	
 				want to go home!	
@@ -1776,7 +1775,7 @@ quest_Gruz
 0x18c28	0x98	Gruz		The three ingredients I want	
 				you to procure are...	
 0x18c7e	0x98	Gruz		Three Fresh Red Meat,	
-				five Meat from the Bone,	
+				five Meat From The Bone,	
 				and two Olm Shells.	
 0x18cdf	0x98	Gruz		Thanks and good luck to you,	
 				Nayu and Noi, my children!	
@@ -1821,7 +1820,7 @@ quest_Mensa
 				make it happen.	
 quest_Ophiuchus
 0x196ca	0x98	Ophiuchus		Though we have been searching for	
-				Master Michey, no matter what we do,	
+				Master Mishy, no matter what we do,	
 				we can't seem to find him.	
 0x19745	0x98	Ophiuchus		He might be running away from us...	
 0x1978d	0x98	Ophiuchus		There should be no doubt that	
@@ -2023,11 +2022,8 @@ QS_58_quest_end
 0x1c1fe	0x06	ALTO		ANI_THANKS	
 0x1c226	0x98	ALTO	#6A	mp_0110 0x360c5
 0x1c25d	0x06	Ophiuchus		ANI_GESTURE1	
-0x1c28c	0x98	Ophiuchus		In a situation like this,	mp_0112 0x15232
-				we can't immediately	
-				return to the mansion...	
-0x1c2f6	0x98	Ophiuchus		Allow us to look after	mp_0112 0x152a2
-				Master Michey.	
+0x1c28c	0x98	Ophiuchus		mp_0112 0x15232	
+0x1c2f6	0x98	Ophiuchus		mp_0112 0x152a2	
 0x1c33f	0x06	Mensa		ANI_SIT1_GESTURE2	
 0x1c36f	0x98	Mensa		And you should do what	
 				you have to do.	
@@ -2077,7 +2073,7 @@ QS_13_quest_start
 				You should be a little more bold.	
 0x1d0db	0x06	NOI		ANI_NOD	
 0x1d0ff	0x98	NOI	#6A	Yeah...thanks.	mp_0001c 0x5ae0
-0x1d12f	0x98	NOI	#6A	I don't how I'll be of much help,	
+0x1d12f	0x98	NOI	#6A	I dunno if I'll be much help,	
 				but I'm going to assist Nayuta	
 				with his work.
 0x1d1a6	0x06	Gruz		ANI_NOD	
@@ -2163,7 +2159,7 @@ QS_13_ask_request
 0x1e110	0x98	NOI	#6A	Well... That seems like	
 				something we can handle.
 0x1e15c	0x06	ALTO		ANI_NOD	
-0x1e181	0x98	ALTO	#6A	Yeah, we could gather them	
+0x1e181	0x98	ALTO	#6A	Yeah, we can gather them	
 				as we go around Terra.	
 0x1e1cf	0x98	ALTO	#6A	Gruz, can you tell us what	
 				ingredients you need?	
@@ -2222,7 +2218,7 @@ QS_13_quest_end
 0x1edbe	0x98	Gruz		With my new menu, I can revitalize	
 				all of those hard-working people.	
 0x1ee28	0x06	Gruz		ANI_WAIT2	
-0x1ee4f	0x98	Gruz		Come, Nayu and Noi, my chilren.	
+0x1ee4f	0x98	Gruz		Come, Nayu and Noi, my children.	
 				Take your seat at a table.	
 0x1eeae	0x98	Gruz		I'll cook it up immediately,	
 				and serve you to the first	
@@ -2329,14 +2325,14 @@ QS_13_quest_end
 0x20759	0x06	Gruz		ANI_WAIT2	
 0x20780	0x98	Gruz		Of course, of course.	
 0x207ad	0x98	Gruz		...But this time, I didn't add a single secret	
-				ingedient to it, so there not much of a twist...	
+				ingredient to it, so there wasn't much of a twist...	
 				It should be sufficient for energy-boosting food.
 0x20836	0x98	Gruz		Let's serve them everyone,	
 				and together we'll ride out	
 				this catastrophe. Wahaha!	
 0x20897	0x6B	ALTO		Sweatdrop	
 0x208c9	0x98	ALTO	#6A	(I-I see, so he usually adds	
-				 these secret ingredient...)	
+				 these secret ingredients...)	
 0x20920	0x98	ALTO	#6A	(Anyway, I'm glad it	
 				 worked out this time.)	
 0x20971	0x98	Gruz		Oh, yes, I must thank my boy	
@@ -2399,7 +2395,7 @@ QS_21_get_seedling
 0x21884	0x98	Antlia		It's not exactly within a trader's	
 				job to raise them, so...	
 0x218d5	0x98	Antlia		If you'd be so inclined, I can	
-				share of these with you, Nayuta.	
+				share one with you, Nayuta.	
 0x21924	0xC1	System		mp_0000 0x7558
 0x2199b	0x06	ALTO		ANI_THANKS	
 0x219c3	0x98	ALTO	#6A	Th-Thank you.	
@@ -2411,8 +2407,8 @@ QS_21_get_seedling
 				try raising it yourself?	
 0x21af6	0x06	ALTO		ANI_THINK	
 0x21b1d	0x98	ALTO	#6A	(Hmmm, Ada probably doesn't want	
-				 want to wait long enough for me	
-				 to raise a tree...)	
+				 to wait long enough for me to	
+				 raise a tree...)	
 0x21b91	0x6B	ALTO		Surprise	
 0x21bbb	0x06	ALTO		ANI_GOODIDEA	
 0x21bed	0x98	ALTO	#6A	(Wait a sec... In the world of Terra,	
@@ -2469,8 +2465,8 @@ QS_25_quest_start
 0x22727	0x06	ALTO		ANI_THINK2	
 0x2274f	0x98	ALTO	#6A	(Hmm, looks like today 	
 				 he's especially busy.)	
-0x22795	0x98	ALTO	#6A	(Better him him out here	
-				 as a handyman...)	
+0x22795	0x98	ALTO	#6A	(Better help him out	
+				 here as a handyman...)	
 0x2284d	0x36	Choice		[Offer to Help]	
 0x22867	0x36	Choice		mp_0000 0xeb0b
 0x22906	0x06	ALTO		ANI_DENY	
@@ -2488,7 +2484,7 @@ QS_25_undertake
 0x22b95	0x06	Hydol		ANI_GESTURE2	
 0x22bc0	0x98	Hydol		Really? That'd be great!	
 0x22c00	0x98	Hydol		Hahaha, your Handyman Shop has been	
-				good to me on numerous occaisions,	
+				good to me on numerous occasions,	
 				and has been as reliable as ever.	
 0x22c73	0x98	Hydol		Anyway, that's wonderful news.	
 				...First things first, can I	
@@ -2698,7 +2694,7 @@ QS_41_undertake
 0x25cee	0x98	Pecula		Yes... Our daughter	
 				Equlea disappeared.	
 0x25d34	0x98	Pecula		We hadn't seen her since this morning,	
-				and we were was beginning to wonder...	
+				and we were beginning to wonder...	
 0x25dbe	0x98	Victor		When we found a	
 				note by the bed.	
 0x25e23	0x06	Victor		ANI_GESTURE1	
@@ -2744,7 +2740,7 @@ QS_41_undertake
 0x265ec	0x06	Pecula		ANI_WAIT3	
 0x26615	0x6B	Victor		Unknown	
 0x26649	0x06	Victor		ANI_ANGRYTALK	
-0x26676	0x98	Victor		W-What!?	
+0x26676	0x98	Victor		Wh-What!?	
 0x266a0	0x6B	ALTO		Unknown	
 0x266d2	0x06	ALTO		ANI_COMPLAIN	
 0x266fc	0x98	ALTO	#6A	Now, now...	

@@ -13,11 +13,11 @@
 0x5f6	desc	Go to the island where the Star Garden is.
 0x6d8	mission	ミッション説明
 0x70a	name	Lower Stratum
-0x840	mission	Clear it \nwithin 4:00
+0x840	mission	Clear \nwithin 4:00
 0x872	name	Lower Stratum
-0x9a8	mission	Clear it \nwithin 4:00
+0x9a8	mission	Clear \nwithin 4:00
 0x9da	name	Center Stratum
-0xb10	mission	Clear it w/o using \nGear Shield
+0xb10	mission	Clear w/o using \nGear Shield
 0xb42	name	Upper Stratum
 0xc78	mission	ミッション説明
 0xcaa	name	Oltapia
@@ -32,19 +32,19 @@
 0x124a	name	Shaded Animal Trail
 0x1380	mission	Achieve at least \nCHAIN 30
 0x13b2	name	Lakeside Tree Path
-0x14e8	mission	Take damage \n10 times or less
-0x151a	name	Hermit's Path/Summer
-0x1650	mission	Clear it \nwithin 3:00
+0x14e8	mission	Take damage \nat most 10 times
+0x151a	name	Hermit's Path
+0x1650	mission	Clear \nwithin 3:00
 0x1682	name	Shaded Animal Trail
 0x17b8	mission	Defeat at least \n38 monsters
 0x17ea	name	Lakeside Tree Path
-0x1920	mission	Clear it \nwithin 1:30
+0x1920	mission	Clear \nwithin 1:30
 0x1952	name	Hermit's Path
 0x1a88	mission	Don't even take \ndamage once
 0x1aba	name	Shaded Animal Trail
 0x1bf0	mission	Defeat 25 foes \nwith magic
 0x1c22	name	Lakeside Tree Path
-0x1d58	mission	Clear, jumping \n10 times or less
+0x1d58	mission	Jump \nat most 10 times
 0x1d8a	name	Hermit's Path
 0x1ec0	mission	Get at least 30 \nshining stones
 0x1ef2	name	Oltapia Temple
@@ -60,7 +60,7 @@
 0x2492	name	Great Echoing Caves
 0x25c8	mission	Get at least 40 \nshining stones
 0x25fa	name	Scrying Pool Caves
-0x2730	mission	Clear it without \nusing a lunchbox
+0x2730	mission	Clear without \nusing a lunchbox
 0x2762	name	Dragon River Cavern
 0x2898	mission	Defeat 15 foes \nwith your sword
 0x28ca	name	Great Echoing Caves
@@ -70,15 +70,15 @@
 0x2b9a	name	Dragon River Cavern
 0x2cd0	mission	Get at least 30 \nshining stones
 0x2d02	name	Great Echoing Caves
-0x2e38	mission	Eat five or more \nlunch boxes
+0x2e38	mission	Eat 5 or more \nlunch boxes
 0x2e6a	name	Scrying Pool Caves
-0x2fa0	mission	Clear it falling \n5 times or less
+0x2fa0	mission	Fall at most \n5 times
 0x2fd2	name	Dragon River Cavern
-0x3108	mission	Clear it defeating \n3 foes or less
+0x3108	mission	Defeat at most \n3 monsters
 0x313a	name	Great Echoing Caves
-0x3270	mission	Clear taking dmg \n10 times or less
+0x3270	mission	Take damage \nat most 10 times
 0x32a2	name	Scrying Pool Caves
-0x33d8	mission	Clear it falling \n3 times or less
+0x33d8	mission	Fall at most \n3 times
 0x340a	name	Dragon River Cavern
 0x3540	mission	Destroy at least \n40 objects
 0x3572	name	Rieseweld Temple
@@ -96,15 +96,15 @@
 0x3c7a	name	Dragon Graveyard
 0x3db0	mission	Get at least 40 \nshining stones
 0x3de2	name	Heavenly Mountain
-0x3f18	mission	Clear it falling \n5 times or less
+0x3f18	mission	Fall at most \n5 times
 0x3f4a	name	Wind Cutting Valley
-0x4080	mission	Clear it w/o using \nlunch boxes
+0x4080	mission	Clear w/o using \nlunch boxes
 0x40b2	name	Dragon Graveyard
-0x41e8	mission	Clear it falling \n3 times or less
+0x41e8	mission	Fall at most \n3 times
 0x421a	name	Heavenly Mountain
-0x4350	mission	Clear it \nwithin 2:30
+0x4350	mission	Clear \nwithin 2:30
 0x4382	name	Wind Cutting Valley
-0x44b8	mission	Clear it falling \n3 times or less
+0x44b8	mission	Fall at most\n3 times
 0x44ea	name	Dragon Graveyard
 0x4620	mission	Destroy at least \n45 objects
 0x4652	name	Heavenly Mountain
@@ -112,7 +112,7 @@
 0x47ba	name	Hidden Plateau
 0x48f0	mission	ミッション説明
 0x4922	name	Wind Cutting Valley
-0x4a58	mission	Clear it \nwithin 1:30
+0x4a58	mission	Clear \nwithin 1:30
 0x4a8a	name	Dragon Graveyard
 0x4bc0	mission	Defeat 50 foes \nwith your sword
 0x4bf2	name	Heavenly Mountain
@@ -133,25 +133,25 @@
 0x5598	mission	Defeat at least \n35 monsters
 0x55ca	name	Pulsating Fault
 0x5700	mission	Destroy at least \n35 objects
-0x5732	name	Underworld Crater
+0x5732	name	Infernal Crater
 0x5868	mission	Use lunch boxes \n1 time or less
 0x589a	name	Ancient Reef
-0x59d0	mission	Clear taking dmg \n10 times or less
+0x59d0	mission	Take damage \nat most 10 times
 0x5a02	name	Pulsating Fault
 0x5b38	mission	Defeat 15 foes \nwith magic
-0x5b6a	name	Underworld Crater
+0x5b6a	name	Infernal Crater
 0x5ca0	mission	Get at least 65 \nshining stones
 0x5cd2	name	Ancient Reef
 0x5e08	mission	Don't let craft \ngauge expire
-0x5e3a	name	Pulsating Fault/Fall
-0x5f70	mission	Clear it \nwithin 1:30
-0x5fa2	name	Underworld Crater
-0x60d8	mission	Clear it w/o using \nGear Shield
-0x610a	name	Ancient Reef/Winter
+0x5e3a	name	Pulsating Fault
+0x5f70	mission	Clear \nwithin 1:30
+0x5fa2	name	Infernal Crater
+0x60d8	mission	Clear w/o using \nGear Shield
+0x610a	name	Ancient Reef
 0x6240	mission	Destroy at least \n77 objects
 0x6272	name	Pulsating Fault
 0x63a8	mission	Defeat 15 foes \nwith your sword
-0x63da	name	Underworld Crater
+0x63da	name	Infernal Crater
 0x6510	mission	Uncover secret of \nall gimmicks!
 0x6542	name	La Worg Temple
 0x6596	desc	mp_4011

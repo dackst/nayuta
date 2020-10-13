@@ -16,7 +16,7 @@ EV_8_S00_1years_after
 0x1080	0x98	ALTO	#1W	I'm here, Eartha.	
 0x127c	0x06	ALTO		ANI_SIT6	
 0x12c2	0x06	Asa		ANI_GESTURE2	
-0x12eb	0x98	Asa	#6A	Oh my, you're star gazing.	
+0x12eb	0x98	Asa	#6A	Oh my, you're stargazing.	
 0x132c	0x98	Asa	#6A	Even if it is summer vacation,	
 				it's not good for you to stay	
 				up too late, okay?	
@@ -44,8 +44,8 @@ EV_8_S00_1years_after
 0x1785	0x06	Asa		ANI_GESTURE2	
 0x17ae	0x98	Asa	#6A	Hehe, don't get yourself	
 				too worked up about it.	
-0x17f4	0x98	Asa	#6A	You don't want it to get the way	
-				of your work tomorrow, do you?	
+0x17f4	0x98	Asa	#6A	You don't want it to get in the	
+				way of work tomorrow, do you?	
 0x1879	0x98	ALTO		...Yeah, I know.	
 				I'll go to bed soon.	
 0x191d	0x06	ALTO		ANI_WAIT	
@@ -54,7 +54,7 @@ EV_8_S00_1years_after
 				 to do by observing Terra.)		
 0x1a6e	0x98	ALTO		(The transfer gate doesn't work anymore...	
 				 There's no way I could see them.)	
-0x1acd	0x98	ALTO		(But I'm obviously feeling	
+0x1acd	0x98	ALTO		(But obviously, I'm feeling	
 				 kind of empty inside...)	
 0x1b22	0x6B	ALTO		Ellipsis	
 0x1b72	0x06	ALTO		ANI_WAIT3	

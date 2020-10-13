@@ -34,161 +34,158 @@ SUB_meet_adventurer
 0x1b04	0x3F	Name		Youth with Rucksack	mp_0003 0xa0db
 0x1b1f	0x06	Cetus		ANI_GESTURE2	
 0x1b4a	0x98	Cetus		Oh, I didn't think we'd run into	
-				anyone in a place like this.	
+				anyone all the way out here.	
 0x1baf	0x3F	Name		Spirited Girl	mp_0003 0x9ffb
 0x1bc4	0x06	Reticul		ANI_DIRECT	
-0x1bef	0x98	Reticul		Hey, brother Cetus.	
+0x1bef	0x98	Reticul		Hey, Cetus.	
 				Isn't this kid...	
 0x1e86	0x06	ALTO		ANI_GESTURE2	
-0x1eb0	0x98	ALTO		You guys are...!?	
+0x1eb0	0x98	ALTO		You guys...!?	
 0x1ee1	0x06	NOI		ANI_COMPLAIN	
-0x1f0a	0x98	NOI		H-How did you get to Terra!?	
+0x1f0a	0x98	NOI		H-How did you get on Terra!?	
 0x1f75	0x06	Cetus		ANI_SURPRISE	
 0x1fa0	0x06	Reticul		ANI_SURPRISE	
 0x1fcd	0x6B	Cetus		Exclamation	
 0x1ff8	0x6B	Reticul		Exclamation	
 0x202d	0x3F	Name		Spirited Girl	mp_0003 0x9ffb
-0x2042	0x98	Reticul		I-It talked!?	
-				Somehow, I'm excited...	
+0x2042	0x98	Reticul		I-It talked!? There's	
+				something funny going	
+				on here.
 0x2091	0x3F	Name		Youth with Rucksack	mp_0003 0xa0db
 0x20ac	0x06	Cetus		ANI_WAIT2	
-0x20d4	0x98	Cetus		Hmm, so this is called Terra...	
-				If people like this are here,	
-				it is certainly a strange world.	
+0x20d4	0x98	Cetus		Hmm, so this is "Terra"...	
+				It's certainly a strange world	
+				to have folks like this.	
 0x2183	0x06	Cetus		ANI_WAIT3	
 0x21ab	0x98	Cetus		My name is Cetus.	
-				I'm an "adventurer" from	
+				I'm an adventurer from	
 				the Ciencia Sea.	
 0x222f	0x98	Cetus		And this is...	
 0x2266	0x3F	Name		Spirited Girl	mp_0003 0x9ffb
 0x227b	0x06	Reticul		ANI_WAIT4	
-0x22a5	0x98	Reticul		I am Reticul.	
-				My older brother Cetus let	
-				me accompany him on this trip.	
+0x22a5	0x98	Reticul		I'm Reticul. I'm traveling	
+				with my counsin Cetus on	
+				his adventures.	
 0x231d	0x98	Reticul		Well, it's nice to meet you.	
 0x237b	0x98	ALTO		Umm, I'm Nayuta...	
-				She is called Noi.	
+				She's called Noi.	
 0x23bd	0x06	ALTO		ANI_GESTURE1	
-0x23fe	0x98	NOI		N-Nayuta, what is an	
-				"adventurer?"	
-0x245b	0x98	ALTO		One who travels	
-				to various places,	
-				chasing dreams.	
-0x24ab	0x98	ALTO		This is practically my first time	
-				meeting one, though...	
+0x23fe	0x98	NOI		N-Nayuta, what is	
+				an "adventurer?"	
+0x245b	0x98	ALTO		Someone who travels to all	
+				sorts of places, pursing	
+				dreams and romance.	
+0x24ab	0x98	ALTO		I've never met one in	
+				person either, though...	
 0x2521	0x06	Cetus		ANI_WAIT0	
-0x2549	0x98	Cetus		I continue to journey in order	
-				to solve the riddles and mysteries	
-				throughout the world.	
-0x25bf	0x98	Cetus		So, I decided to come to "Remnant Island,"	
-				known for its mysteries...	
+0x2549	0x98	Cetus		I'm on a quest to solve	
+				the mysteries and wonders	
+				of the world.	
+0x25bf	0x98	Cetus		So, I decided to come to Remnant Island,	
+				famous for being a mysterious island...	
 0x2624	0x06	Cetus		ANI_GESTURE1	
-0x264f	0x98	Cetus		By chance, I happened to witness	
-				you coming and going from the	
-				gate beneath the tree, see.	
-0x26c8	0x98	Reticul		When I tried entering it, I could not	
-				believe that it connected to this	
-				other world.	
+0x264f	0x98	Cetus		We happened to witness you	
+				going in and out of that	
+				gate beneath a tree, see.	
+0x26c8	0x98	Reticul		When we went inside, we	
+				ended up discovering it was	
+				connected to another world.
 0x273d	0x06	Reticul		ANI_THINK	
-0x2767	0x98	Reticul		I do not know how far this world	
-				extends, but it's full of ruins the	
-				likes of which I've never seen before.	
+0x2767	0x98	Reticul		I mean, there seems to be an endless	
+				expanse of unexplored territory, and	
+				ruins that we've never seen before.	
 0x27f3	0x06	Reticul		ANI_LAUGH	
-0x281d	0x98	Reticul		I'm sure of it. There's no mistake that	
-				this world has amazing treasures	
-				just waiting to be discovered!	
-0x28bf	0x98	Reticul		Brother Cetus, we're getting	
-				a little carried away!	
-0x292e	0x98	Cetus		Oh, our bad!	
-0x295b	0x98	Cetus		...And so, our objective isn't	
-				more treasures...	
+0x281d	0x98	Reticul		Surely this world has some	
+				valuable treasures waiting	
+				for us to discover!
+0x28bf	0x98	Reticul		Cetus, it's our lucky day!	
+0x292e	0x98	Cetus		Oh, you betcha!	
+0x295b	0x98	Cetus		...Although, we're not	
+				here for treasure...	
 0x29ab	0x06	Cetus		ANI_JOY	
-0x29d1	0x98	Cetus		Anyway, there's no mistake that this	
-				is a great discovery. The mysteries of this world...	
-				By our hands, they will be revealed!	
+0x29d1	0x98	Cetus		At any rate, it is certainly a great discovery.	
+				The mysteries of this world...	
+				We will be reveal them with our own hands!	
 0x2a6e	0x6B	Cetus		Unknown	
 0x2a99	0x6B	Reticul		Unknown	
 0x2ace	0x06	ALTO		ANI_DEJECTED	
 0x2af8	0x6B	ALTO		Sweatdrop	
 0x2b2a	0x6B	NOI		Sweatdrop	
 0x2b5b	0x06	NOI		ANI_DEJECTED	
-0x2b8c	0x98	ALTO		(It seems they saw us...)	
-0x2bc5	0x98	NOI		(It's really our mistake, isn't it...)	
+0x2b8c	0x98	ALTO		(They saw us...)	
+0x2bc5	0x98	NOI		(That's pretty unfortunate...)	
 0x2c34	0x06	NOI		ANI_GESTURE1	
-0x2c5d	0x98	NOI		(Hey Nayuta...	
-				 Can you persuade those two?	
-				 They said they're returning home soon!)	
+0x2c5d	0x98	NOI		(Hey Nayuta... Can you convince	
+				 these two to go home already?)	
 0x2cce	0x06	ALTO		ANI_NOD	
-0x2cf3	0x98	ALTO		(R-Right.	
-				 If all I can do is talk, then I'll try talking...)	
-0x2dab	0x98	Cetus		...Oh, that's right.	
-				There's something I want	
-				to ask you two...	
+0x2cf3	0x98	ALTO		(A-Agreed. I can try	
+				 talking to them...)	
+0x2dab	0x98	Cetus		...Oh, right. There was this one	
+				thing I wanted to ask you...	
 0x2e09	0x6B	Cetus		Question	
 0x2e53	0x06	Cetus		ANI_WAIT3	
-0x2e7b	0x98	Cetus		Hm? That reminds me,	
-				what did you two come	
-				here to do?	
-0x2ed0	0x98	Cetus		Are you adventuring, young as you are,	
-				alone with that fairy-like companion?	
+0x2e7b	0x98	Cetus		Hm? What are you guys doing here?	
+0x2ed0	0x98	Cetus		Are you adventuring alone at your age	
+				with that fairy-looking companion?	
 0x2f3c	0x06	ALTO		ANI_THINK2	
-0x2f64	0x98	ALTO		Well, you see...	
-				(I wonder if it's okay to ask him now?)	
+0x2f64	0x98	ALTO		Well, umm...	
+				(Should I ask them,	
+				 just in case?)	
 0x2fbb	0x06	ALTO		ANI_GESTURE2	
-0x2fe5	0x98	ALTO		The truth is, I am searching for	
-				my lost friend.	
-0x3034	0x98	ALTO		He is three years older than I,	
-				is called Cygna and is a tan-skinned youth...	
-				Do you remember anyone like that?	
+0x2fe5	0x98	ALTO		Actually, I'm looking for my	
+				friend who's gone missing.	
+0x3034	0x98	ALTO		He's three years older than me, and he's	
+				a tan-skinned young man named Cygna...	
+				Have you seen anyone like that?	
 0x30c1	0x06	Reticul		ANI_WAIT3	
-0x30eb	0x98	Reticul		Hmm, sorry but,	
+0x30eb	0x98	Reticul		Hmm, sorry, but	
 				I have no idea.	
-0x312c	0x98	Reticul		Or rather I should say, you are the	
-				first human we've met in this world.	
+0x312c	0x98	Reticul		I mean, you're the first people	
+				we've run into in this world.	
 0x3196	0x06	Cetus		ANI_WAIT3	
-0x31be	0x98	Cetus		Hmmhmm, it seems there are various problems...	
+0x31be	0x98	Cetus		Hmm, it seems like you've got	
+				your work cut out for you...	
 0x320d	0x06	Cetus		ANI_GESTURE1	
-0x3238	0x98	Cetus		From here on, we intend to	
-				explore various places.	
-0x328a	0x98	Cetus		If we see a person matching that	
-				description, we'll tell them that you're	
-				looking for them.	
+0x3238	0x98	Cetus		We're going to be out exploring	
+				more places from now on. 
+0x328a	0x98	Cetus		If we see someone matching that description,	
+				we'll tell him that you've been looking for him.	
 0x3304	0x06	ALTO		ANI_THANKS	
 0x332c	0x98	ALTO		O-Okay.	
-				Thank you very much...	
+				Thanks...	
 0x3369	0x06	Cetus		ANI_WAIT0	
-0x3391	0x98	Cetus		Well, when in trouble, everyone is the same.	
-				See you, Nayuta and Noi.	
+0x3391	0x98	Cetus		Nah, we gotta look out for each	
+				other when we're in trouble.	
+				So long, Nayuta and Noi.	
 0x33f6	0x06	Reticul		ANI_GESTURE2	
-0x3423	0x98	Reticul		If we have a connection,	
-				we will meet again.	
+0x3423	0x98	Reticul		Let's hope our paths cross again.	
 0x3471	0x06	Reticul		ANI_ANGRYTALK	
-0x349f	0x98	Reticul		Ah, but as for treasure, we're	
-				keeping it all for ourselves.	
-				Remember that!	
+0x349f	0x98	Reticul		Ah, but as for the treasure, we'll	
+				be keeping that all for ourselves.	
+				Don't forget!	
 0x36d7	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x3705	0x98	ALTO		O-Okay.	
-				I missed my chance to speak...	
-0x374a	0x98	NOI		Somehow, they seemed like	
-				an overbearing two-person group.	
+0x3705	0x98	ALTO		W-Well... I didn't get	
+				a chance to speak...	
+0x374a	0x98	NOI		They were kind of a	
+				pushy pair of people.	
 0x37a2	0x06	NOI		ANI_WORRIED	
-0x37ca	0x98	NOI		...Jeez, for something like	
-				humans coming here to happen again...	
+0x37ca	0x98	NOI		...Jeez, I can't believe more humans	
+				have snuck in here again...	
 0x3829	0x06	NOI		ANI_DEJECTED	
-0x3852	0x98	NOI		I wonder whether they will lay waste to	
-				Terra or tell other humans about it...	
-				Ooh, I'm worried about these things...	
+0x3852	0x98	NOI		I hope they don't end up laying waste to	
+				Terra or telling other humans about it...	
+				Ooh, this is so unsettling...	
 0x3944	0x06	ALTO		ANI_GESTURE2	
-0x396e	0x98	ALTO		Because they don't seem like bad people,	
-				I don't think they will lay waste to anything.	
+0x396e	0x98	ALTO		They don't seem like bad people. I don't think	
+				they're going to lay waste to anything.	
 0x39e4	0x06	ALTO		ANI_THINK2	
-0x3a0c	0x98	ALTO		Because we don't know where we will	
-				run into them again, we should be careful...	
+0x3a0c	0x98	ALTO		We should be on the lookout for next	
+				time we run into each other, though.	
 0x3a7b	0x06	ALTO		ANI_GOODIDEA	
-0x3aa5	0x98	ALTO		Anyway, let's continue.	
-				We've got to search for Cygna and Zext.	
+0x3aa5	0x98	ALTO		Anyway, let's keep going.	
+				We gotta find Cygna and Zext.	
 0x3b03	0x06	NOI		ANI_NOD	
-0x3b27	0x98	NOI		Yeah, let's hurry ahead!	
+0x3b27	0x98	NOI		Yeah, let's move onwards!	
 SUB_alto_move
 SUB_noi_move
 QS_33_check_incubation

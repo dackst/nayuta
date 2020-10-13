@@ -25,7 +25,7 @@ QS54_talk_SpiritC
 0xdbe	0x98	NOI	#6A	Ah, found it!	
 0xded	0x98	ALTO		You're one of Nemeas'	mp_1002b 0x1842
 				spirits, aren't you?	
-0xe40	0x98	ALTO		To be in a place like this...	mp_1002b 0x18e3
+0xe40	0x98	ALTO		To be in a place like this...	mp_1002b 0x18a3
 0xe7d	0x98	ALTO		You're one of Nemeas'	mp_1002b 0x18e4
 				spirits, aren't you?	
 				...Are you all right?	
@@ -37,9 +37,9 @@ QS54_talk_SpiritC
 0x1028	0x6B	QS54_SpiritC		Unknown	
 0x105a	0x06	QS54_SpiritC		ANI_DENY	
 0x1088	0x98	QS54_SpiritC		............	mp_0001 0x15fd5
-0x10bc	0x98	ALTO		Umm... What is it saying?	
+0x10bc	0x98	ALTO		Umm... What's it saying?	
 0x10f4	0x06	NOI		ANI_GESTURE2	
-0x111d	0x98	NOI	#6A	Hmm... This one seems	
+0x111d	0x98	NOI	#6A	Hmm... This one seems to	
 				be scared of heights.	
 0x116b	0x06	NOI		ANI_DEJECTED	
 0x1194	0x98	NOI	#6A	It says it was trying to go up	

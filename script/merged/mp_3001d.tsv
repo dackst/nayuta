@@ -108,13 +108,13 @@ EV_3_S10_mount2_start
 0x3934	0x06	ALTO		ANI_WAIT	
 0x397a	0x98	ALTO		A floating gear...?	
 0x39b5	0x98	NOI		The Mythos constructed them	
-				in ancient times to aid	
+				in ancient times to aid in	
 				transportation.	
 0x3a26	0x98	NOI		One can use magic to hang	
 				onto the gears fixed	
 				in the air, but...	
 0x3b20	0x06	NOI		ANI_GESTURE2	
-0x3b49	0x98	NOI	#6A	...No, they're no good.	
+0x3b49	0x98	NOI	#6A	...No, it's no use.	
 				As it stands now, you	
 				can't use magic.	
 0x3c03	0x06	ALTO		ANI_DEJECTED	
@@ -126,15 +126,15 @@ EV_3_S10_mount2_start
 0x3cf6	0x98	NOI	#6A	Let's see what we	
 				can find out, eh?	
 0x3d52	0x98	ALTO		Some...way across?	
-				I wish there was one.	
+				I hope there was one.	
 0x3dac	0x06	NOI		ANI_GUTSPOSE	
 0x3dd5	0x98	NOI	#6A	It might be better to take a break from	
 				exploring for now and help Elislette next.	
 0x3e42	0x98	NOI	#6A	We should be able to release	
-				her from her prison now...	
+				her from her prison...	
 0x3e9a	0x06	ALTO		ANI_THINK2	
-0x3ec2	0x98	ALTO		The continent of Rieseweld...	
-				That might be a good idea.	
+0x3ec2	0x98	ALTO		Rieseweld... That	
+				might be a good idea.	
 0x3f11	0x06	ALTO		ANI_GESTURE2	
 0x3f3b	0x98	ALTO		Then, let's turn back for now.	
 0x4087	0xCE	Objective		There's a chasm - we can't proceed. Let's help Elislette next.	
