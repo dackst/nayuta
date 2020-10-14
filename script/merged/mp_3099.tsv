@@ -134,7 +134,7 @@ QS_44_undertake
 0x4cf3	0x98	Algorl		As you should already know, Noi...	
 				I am the most combat-oriented among us Wardens.	
 0x4d7b	0x98	Algorl		I can easily match monsters	
-				or even one of the Mythos.
+				or even one of the Mitos.
 0x4df5	0x06	ALTO		ANI_THINK2	
 0x4e1d	0x98	ALTO	#6A	Certainly, even when you were sealed,	
 				I could feel tremendous power from you.	
@@ -268,7 +268,7 @@ QS_44_quest_end
 				certainly hold him back	
 				for a short while, but..	
 0x6de5	0x98	Algorl		In the end, that would be all I could do. Although	
-				the head of the Mythos may have been corrupted,	
+				the head of the Mitos may have been corrupted,	
 				he is still the creator of this world of Terra.	
 0x6e8f	0x98	Algorl		This particular matter...	
 				It's far beyond the power of	
@@ -689,7 +689,7 @@ QS_83_quest_end
 0xe5d3	0x06	Algorl		ANI_NOD	
 0xe5fa	0x98	Algorl		Yes...We understand everything that has	mp_1099 0xf082
 				happened to Terra from start to end.	
-0xe669	0x98	Algorl		In order to save the two Mythos,	mp_1099 0xf0f1
+0xe669	0x98	Algorl		In order to save the two Mitos,	mp_1099 0xf0f1
 				I think we should offer our final	
 				assistance.	
 0xe6df	0x06	NOI		ANI_GESTURE1	
@@ -847,7 +847,7 @@ EV_3_S16_boss_battle
 				wall back there?	
 0x11708	0x98	ALTO	#6A	Looks like some kind of mural...	
 0x11775	0x98	NOI	#6A	That's a depiction of	
-				the people of Mythos.	
+				the people of Mitos.	
 0x117bd	0x98	NOI	#6A	The light in the middle	
 				is the source of all life,	
 				the Power of Stars...	

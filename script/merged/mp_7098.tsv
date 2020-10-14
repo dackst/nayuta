@@ -111,7 +111,7 @@ EV_7_S06_meet_seram
 0x3e07	0x98	Seram	#6A	How many more times does	
 				this have to be said?	
 0x3e47	0x98	Seram	#6A	Compared to the mission	
-				of the Mythos, this is	
+				of the Mitos, this is	
 				but a small sacrifice.	
 0x3eae	0x06	Seram		ANI_GESTURE2	
 0x3ed9	0x98	Seram	#6A#0W	If it prevents the Remaking of the world...	
@@ -307,7 +307,7 @@ EV_7_S09_seram_stone
 				Planetarium with you guys.	
 0x7dfe	0x06	Signa		ANI_DENY	
 0x7e33	0x98	Signa	#1W	Not as Selam Il Ordene	
-				of the Mythos...	
+				of the Mitos...	
 0x7eb4	0x98	Signa	#2W	But as Cygna Alhazen,	
 				a human from the surface.	
 0x80f5	0x98	ALTO	#1W	Cygna...!	mp_0100 0x1d946
@@ -331,7 +331,7 @@ EV_7_S09_seram_stone
 				on our side...	
 0x84a3	0x06	NOI		ANI_GUTSPOSE	
 0x84e9	0x98	NOI		We have two of the Shining	
-				Wings of the Mythos. We can	
+				Wings of the Mitos. We can	
 				stop the Remaking!	
 0x8578	0x06	Signa		ANI_GESTURE1	
 0x85a3	0x98	Signa	#6A	Yeah... Then let's all	
@@ -373,7 +373,7 @@ EV_7_S09_seram_stone
 0x9614	0x98	Signa	#6A	Hey, wait...this feeling...	
 0x965d	0x06	Signa		ANI_COMPLAIN	
 0x9688	0x98	Signa	#6A	It's...the Shining
-				Wing of the Mythos...!	
+				Wing of the Mitos...!	
 0x96e1	0x6B	NOI		Exclamation	
 0x9712	0x06	ALTO		ANI_TENSION_SURPRISE	
 0x9744	0x98	ALTO	#0W#6A	Huh...?	mp_0001 0x166ea
@@ -465,7 +465,7 @@ EV_7_S09_seram_stone
 0xd660	0x06	NOI		ANI_GESTURE1	
 0xd689	0x98	NOI		...W-Wait! Maybe...	
 0xda52	0x98	ALTO		D-Did he just...turn into stone!?	
-0xdae6	0x98	NOI		It's the Mythos suspended
+0xdae6	0x98	NOI		It's the Mitos suspended
 				near-death state.	
 0xdb30	0x06	NOI		ANI_GESTURE1	
 0xdb59	0x98	NOI		A large amount of Power of Stars	

@@ -680,7 +680,7 @@ QS_83_quest_end
 0xcad8	0x06	Algorl		ANI_NOD	
 0xcaff	0x98	Algorl		Yes...We understand everything that has	mp_1099 0xf082
 				happened to Terra from start to end.	
-0xcb6e	0x98	Algorl		In order to save the two Mythos,	mp_1099 0xf0f1
+0xcb6e	0x98	Algorl		In order to save the two Mitos,	mp_1099 0xf0f1
 				I think we should offer our final	
 				assistance.	
 0xcbe4	0x06	NOI		ANI_GESTURE1	

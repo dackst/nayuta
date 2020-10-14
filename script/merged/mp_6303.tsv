@@ -4,7 +4,7 @@ talk_Gio
 0x61b	0x98	Gio		Gwahaha... It seems that I, too,	
 				am tempted to make a gamble...	
 0x66b	0x98	Gio		Master Kureha and the other	
-				Mythos were the ones that	
+				Mitos were the ones that	
 				gave me the role of Warden...	
 0x6ba	0x98	Gio		You must be strong-willed	
 				enough to be able to overcome	
@@ -64,7 +64,7 @@ EV_6_S23_yagi_boss
 0x2707	0x98	Gio		We finally	
 				understand	
 				the truth.	
-0x2779	0x98	Gio		The mission of the Mythos...	mp_6300 0x2b5b
+0x2779	0x98	Gio		The mission of the Mitos...	mp_6300 0x2b5b
 				And the true reason for the	
 				existence of Terra.	
 0x280b	0x06	Gio		ANI_GESTURE1	
@@ -133,15 +133,15 @@ EV_6_S24_bye_gio
 				Wardens, protecting life	
 				on the continents...	
 0x4be6	0x06	Gio		ANI_NOD	
-0x4c27	0x98	Gio		That was given to me	
-				by Master Kureha and	
-				the Mythos.	
+0x4c27	0x98	Gio		That was given to	
+				me by Master Kureha	
+				and the Mitos.	
 0x4c9e	0x98	NOI	#6A	...The duty of the Wardens...	
 0x4cfe	0x06	NOI		ANI_GESTURE1	
 0x4d27	0x98	NOI	#6A	Geo, I...!	
 0x4dfb	0x98	Gio		Stop talking, Noi.	
 0x4e36	0x98	Gio		Your care for Master Kureha	
-				and the Mythos is on itself	
+				and the Mitos is on itself	
 				a form of righteousness. 	
 0x4ece	0x98	Gio		And, your will has defeated mine.	
 				You should be proud of yourself.	

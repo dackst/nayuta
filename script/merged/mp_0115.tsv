@@ -1177,7 +1177,7 @@ QS_42_quest_end
 0x12557	0x06	ALTO		ANI_NOD	
 0x1257c	0x98	ALTO	#6A	Yes... I think it's talking	
 				about the star shards.	
-0x125d1	0x98	ALTO	#6A	The reason why Mythos	
+0x125d1	0x98	ALTO	#6A	The reason why Mitos	
 				kept them in Terra...	
 0x12627	0x98	ALTO	#6A	They're just a reminder, if nothing	
 				else, so that humans don't make the	
@@ -1239,7 +1239,7 @@ QS_42_quest_end
 LithographMes
 0x13242	0x41	None	#2E#0W	...It has been many months	
 				since Terra left the planet...	
-				The two Mythos children abandoned	
+				The two Mitos children abandoned	
 				their mission and went off to sleep.	
 					
 				Before long, I, too, will	
@@ -1256,7 +1256,7 @@ LithographMes
 				against making the same mistakes.#0E	
 0x13473	0x41	None	#2E#0W	There once was a large continent	
 				called Lexendria on the planet.	
-				There, Mythos and Man shared their	
+				There, Mitos and Man shared their	
 				vast knowledge and technology, and	
 				walked together on the path of prosperity.	
 					
@@ -1281,7 +1281,7 @@ LithographMes
 				The resulting flood caused nearly	
 				all the land at the time to sink	
 				into the sea.#0E	
-0x138a3	0x41	None	#2E#0W	The Mythos, anticipating this outcome,
+0x138a3	0x41	None	#2E#0W	The Mitos, anticipating this outcome,
 				created Terra in hopes of one day	
 				recreating the planet.	
 				There, they built a great city,	
@@ -1289,7 +1289,7 @@ LithographMes
 				to shelter the humans... 	
 					
 				However, the end came sooner than expected,	
-				and many Mythos and humans met the same fate	
+				and many Mitos and humans met the same fate	
 				as the planet.#0E	
 0x13a26	0x41	None	#2E#0W	To the few sons of man who survived:	
 				I want you to know the sight of the Star City,	
@@ -1297,7 +1297,7 @@ LithographMes
 				know this exceedingly empty and sad conclusion.	
 					
 				I want you to know the nature and the life	
-				the Mythos have preserved in the stones.	
+				the Mitos have preserved in the stones.	
 				I want you to know how we should have	
 				cherished what was lost.#0E	
 0x13bd5	0x41	None	#2E#0W	And I strongly hope that the same	
@@ -1445,7 +1445,7 @@ EV_6_S07_meet_volans
 0x1645f	0x06	NOI		ANI_GESTURE2	
 0x16488	0x98	NOI	#6A	And the same thing happens	
 				for the star shards, too.	
-0x164db	0x98	NOI	#6A	They were created by the Mythos,	
+0x164db	0x98	NOI	#6A	They were created by the Mitos,	
 				who stored them in Terra...	
 0x16536	0x06	ALTO		ANI_THINK	
 0x1655d	0x98	ALTO	#6A	...The star shards fall	

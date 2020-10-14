@@ -557,11 +557,11 @@ talk_Columha_add
 0x863c	0x06	NOI		ANI_TMP	
 0x8697	0x06	NOI		ANI_COMPLAIN	
 0x86c0	0x98	NOI	#6A	N-No way...	
-0x86ed	0x98	NOI	#6A	Some of the Mythos technology must have	
+0x86ed	0x98	NOI	#6A	Some of the Mitos technology must have	
 				been passed down to the humans...!	
 0x8757	0x06	NOI		ANI_COMPLAIN	
 0x8780	0x98	NOI	#6A	N-No way, you can't mean...
-0x87c1	0x98	NOI	#6A	Surey, some of the Mythos'	mp_0111 0x86ed
+0x87c1	0x98	NOI	#6A	Surey, some of the Mitos'	mp_0111 0x86ed
 				technology was passed down	
 				to humans!	
 0x882f	0x98	ALTO		So in other words...	

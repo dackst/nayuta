@@ -73,7 +73,7 @@ EV_6_S27_sisi_boss
 0x2cd6	0x06	NOI		ANI_GESTURE2	
 0x2cff	0x98	NOI	#6A	Oh, no...!!	
 0x2d4f	0x98	Algorl		...We have finally learned the truth.	
-0x2db0	0x98	Algorl		The duty of the Mythos...	
+0x2db0	0x98	Algorl		The duty of the Mitos...	
 				And the true reason for	
 				the creation of Terra.	
 0x2e4e	0x06	Algorl		ANI_GESTURE1	
@@ -92,7 +92,7 @@ EV_6_S27_sisi_boss
 				no matter what!	
 0x3105	0x06	Algorl		ANI_DENY	
 0x312d	0x98	Algorl		...So you wish to challenge
-				the Mythos with that kind	
+				the Mitos with that kind	
 				of confidence...	
 0x31e7	0x98	Algorl	#16S	...Ridiculous!!	
 0x3233	0x06	Algorl		ANI_DENY	
@@ -106,7 +106,7 @@ EV_6_S27_sisi_boss
 0x33a4	0x98	Algorl		...The die has	
 				been cast.	
 0x3402	0x98	Algorl		All is in the name of	
-				my loyalty to the Mythos...	
+				my loyalty to the Mitos...	
 0x3481	0x98	Algorl		At the very least,	
 				I will make you stand down.	
 0x34df	0x06	ALTO		ANI_DENY	
@@ -140,7 +140,7 @@ EV_6_S28_bye_algorl
 0x5145	0x98	Algorl		You two have truly become a	
 				force to be reckoned with...	
 				There are no words for losers.	
-0x51c4	0x98	Algorl		...Kureha and the other Mythos	
+0x51c4	0x98	Algorl		...Kureha and the other Mitos	
 				have yet more power and	
 				determination than I do now.	
 0x5249	0x06	Algorl		ANI_GESTURE1	
@@ -151,7 +151,7 @@ EV_6_S28_bye_algorl
 0x5317	0x98	NOI	#6A	...I understand.	mp_5098 0x5e64
 0x5351	0x06	ALTO		ANI_GESTURE1	
 0x537b	0x98	ALTO	#6A	To be honest, the power of	
-				the Mythos is immeasurable.	
+				the Mitos is immeasurable.	
 0x53ee	0x06	ALTO		ANI_DENY	
 0x5414	0x98	ALTO	#6A	But we can't	
 				afford to lose.	

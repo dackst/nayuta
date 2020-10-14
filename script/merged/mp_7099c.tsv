@@ -17,7 +17,7 @@ EV_7_S14_battle_zext
 0x111d	0x98	Zext		Kureha, Selam...	
 				My foolish children.	
 0x1161	0x98	Zext		Again and again, they forget
-				the mission of the Mythos.	
+				the mission of the Mitos.	
 0x120d	0x98	Zext		...Now, they must simply	
 				watch as I take over from here.	
 0x1257	0x98	Zext		The end of all things...	
@@ -31,7 +31,7 @@ EV_7_S14_battle_zext
 				call yourself a father!?	
 0x1744	0x98	Zext		...What a foolish	
 				question, son of man.	
-0x178e	0x98	Zext		We Mythos are a race of gods...	
+0x178e	0x98	Zext		We Mitos are a race of gods...	
 				The fathers of all life, if you will.	
 0x17fd	0x98	Zext		It is only natural for me to	
 				discipline my unruly children.
@@ -47,7 +47,7 @@ EV_7_S14_battle_zext
 0x1a57	0x98	ALTO	#16S#6A	How could you once be so kind,
 				and then come back like this!?	
 0x1c46	0x98	Zext	#1W	...............	mp_0001 0xc917
-0x1c78	0x98	Zext		...When we Mythos lose our lives,	
+0x1c78	0x98	Zext		...When we Mitos lose our lives,	
 				we dissolve into the Power of Stars.	
 0x1ced	0x98	Zext		That is... We assimilate	
 				into the universe itself.	
@@ -158,7 +158,7 @@ EV_7_S14_battle_zext
 				I shall erase all of you sinful humans.	
 0x40d6	0x98	Zext	#1W	Same goes to you, foolish Warden	
 				who sides with the humans...
-0x41a7	0x98	Zext	#2W	I, Zext Ji Quarius Dominador of the Mythos...	
+0x41a7	0x98	Zext	#2W	I, Zext Ji Quarius Dominador of the Mitos...	
 0x4245	0x06	Zext		ANI_ATK8	
 0x42e7	0x98	Zext	#2W#16S	With my own flesh and blood,	
 				#16SI shall pass judgment on you all!!	
@@ -204,7 +204,7 @@ EV_7_S15_last_battle
 				forward outside of Remaking.	
 0x6196	0x98	Zext	#18S	...Quiet!!	
 0x61cd	0x98	Zext	#1W	I must...I must fulfill	
-				the duty of the Mythos!	
+				the duty of the Mitos!	
 0x6223	0x98	Zext	#0W	And save our dying planet!!	
 0x63d5	0x06	NOI		ANI_SURPRISE	
 0x6412	0x98	NOI	#18S	...!?	
@@ -238,7 +238,7 @@ EV_7_S15_last_battle
 0x71d1	0x98	ZextRobo	#0x#250y#16S#6A	！！！！	mp_0100a 0xda21
 0x721c	0x98	ALTO		An idol...!?	
 0x724d	0x98	ZextRobo	#0W#0x#250y#6A	...What absurdities are you spouting...?	
-				#0WI am indeed the veritable leader of the Mythos!!	
+				#0WI am indeed the veritable leader of the Mitos!!	
 0x72cd	0x98	ZextRobo	#0x#250y#6A	My daughter, you should be able	
 				to see this better than anyone!	
 0x738c	0x98	Creha	#6A	...After our father died...	
@@ -250,7 +250,7 @@ EV_7_S15_last_battle
 				brother and I as a substitute father.	
 0x74ac	0x98	ZextRobo	#3W#0x#250y#6A	......!!	mp_5098 0x4e28
 0x7534	0x98	Creha	#6A	You forgave us for abandoning the	
-				mission of the Mythos back then...	
+				mission of the Mitos back then...	
 0x75a0	0x98	Creha	#6A	When we decided to go to sleep,	
 				you chose to continue watching	
 				over Terra and the surface...	
@@ -297,7 +297,7 @@ EV_7_S15_last_battle
 0x7f3e	0x98	ZextRobo	#3W	I am...I am...#6WI AM...	
 0x8093	0x06	ZextRobo		ANI_WALK_BACK	
 0x8218	0x06	komono17		ANI_FALL	
-0x826e	0x98	ZextRobo	#0W#45M	I am not the leader of the Mythos...	
+0x826e	0x98	ZextRobo	#0W#45M	I am not the leader of the Mitos...	
 0x82c4	0x98	ZextRobo	#2W#45M	I am...wrong?	
 0x8303	0x98	ZextRobo	#0W#45M	Why was I...created...?	
 0x84d3	0x06	ALTO		ANI_SUPPORT_CREHA3_MIRROR	

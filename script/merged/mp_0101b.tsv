@@ -212,7 +212,7 @@ EV_5_S02_talk_noi
 				is probably there, along with	
 				Zext and Master Selam.	
 0x3e85	0x98	NOI	#6A	All to fulfill the	
-				Mythos' mission...	
+				Mitos' mission...	
 0x3f8f	0x6B	ALTO		Ellipsis	
 0x3fc1	0x06	ALTO		ANI_GESTURE1	
 0x3feb	0x98	ALTO	#6A	You knew all along...	
@@ -232,7 +232,7 @@ EV_5_S02_talk_noi
 0x4283	0x06	NOI		ANI_GESTURE1	
 0x42ac	0x98	NOI		We were designed so that we're unable	
 				to discuss certain critical things,	
-				like the seal and the Mythos.	
+				like the seal and the Mitos.	
 0x4330	0x06	ALTO		ANI_WAIT4	
 0x4357	0x98	ALTO	#6A	You were designed...?	
 0x4396	0x98	ALTO	#6A	Oh, right, now that you mention it,	

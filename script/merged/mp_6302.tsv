@@ -56,7 +56,7 @@ EV_6_S29_hituzi_boss
 0x2672	0x06	NOI		ANI_GESTURE1	
 0x269b	0x98	NOI	#6A	I-It can't be!!	mp_6301 0x2cff
 0x273b	0x98	Nemeas		...I have learned the truth.	
-0x27b4	0x98	Nemeas		The mission of the Mythos...	mp_6300 0x2b5b
+0x27b4	0x98	Nemeas		The mission of the Mitos...	mp_6300 0x2b5b
 				And the true reason for the	
 				existence of Terra.	
 0x284c	0x06	Nemeas		ANI_GESTURE1	
@@ -75,7 +75,7 @@ EV_6_S29_hituzi_boss
 				no matter what!	
 0x2ba4	0x06	Nemeas		ANI_DENY	
 0x2bcc	0x98	Nemeas		...That's quite naive, is it not?	
-0x2c09	0x98	Nemeas		Challenging the Mythos with	
+0x2c09	0x98	Nemeas		Challenging the Mitos with	
 				wishy-washy crap like that...		
 0x2cb7	0x98	Nemeas		How shameful...!	
 0x2d08	0x06	Nemeas		ANI_DENY	
@@ -106,7 +106,7 @@ EV_6_S29_hituzi_boss
 0x3447	0x06	Nemeas		ANI_USE_POWER	
 0x3630	0x98	Nemeas	#2W#240x#0y	I, Sage Nemeas,	
 				though I am not fond of strife...	
-0x36aa	0x98	Nemeas	#1W#240x#0y	For sake of the Mythos' mission,	
+0x36aa	0x98	Nemeas	#1W#240x#0y	For sake of the Mitos' mission,	
 				I will challenge you with my full power!	
 0x3acd	0x06	b008		ANI_DEMO1	
 0x3f95	0x06	NOI		ANI_GESTURE1	
@@ -127,7 +127,7 @@ EV_6_S30_bye_nemeas
 0x4c85	0x98	Nemeas		You two...	
 0x4cc0	0x06	Nemeas		ANI_GESTURE2	
 0x4d0c	0x98	Nemeas		Have you ever considered why	
-				the Mythos are so concerned	
+				the Mitos are so concerned	
 				about their duty?	
 0x4da4	0x6B	ALTO		Question	
 0x4dd6	0x6B	NOI		Question	

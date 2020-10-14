@@ -17,7 +17,7 @@ EV_2_S00_planning
 0x8bf	0x6B	ALTO		Surprise	
 0x906	0x98	ALTO		Sorry...Cygna has never said	
 				anything like that until before.	
-0x964	0x98	NOI	#6A	You...you've known	
+0x964	0x98	NOI	#6A	You... You've known	
 				Cygna for a long time,	
 				haven't you?	
 0x9c2	0x98	NOI	#6A	Have you known him	
@@ -123,7 +123,7 @@ QS_83_quest_start
 				opponents, right?	
 0x278c	0x98	NOI		Nayuta... You're right.	
 0x27c1	0x98	NOI		I'm not only doing this	
-				for the Mythos...	
+				for the Mitos...	
 0x28ae	0x98	NOI		I'm ready. As your partner,	
 				I will follow you anywhere.	
 0x2915	0x98	ALTO	#6A	Yeah, thanks.	

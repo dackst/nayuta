@@ -2,7 +2,7 @@ mp_2099
 first_init
 init
 talk_Erislet
-0x1958	0x98	Erislet		The mission of the Mythos...	
+0x1958	0x98	Erislet		The mission of the Mitos...	
 				Nemeas may have some idea.	
 0x19b1	0x98	Erislet		It could potentially be related to	
 				the entire world of Terra itself.	
@@ -697,7 +697,7 @@ QS_83_quest_end
 0xc903	0x06	Algorl		ANI_NOD	
 0xc92a	0x98	Algorl		Yes...We understand everything that has	mp_1099 0xf082
 				happened to Terra from start to end.	
-0xc999	0x98	Algorl		In order to save the two Mythos,	mp_1099 0xf0f1
+0xc999	0x98	Algorl		In order to save the two Mitos,	mp_1099 0xf0f1
 				I think we should offer our final	
 				assistance.	
 0xca0f	0x06	NOI		ANI_GESTURE1	
@@ -1010,17 +1010,17 @@ EV_2_S23_boss_battle
 				It seems that there has been	
 				a terrible misunderstanding.	
 0x15f24	0x98	Zext		My name is Zext Ji Quarius Dominador...	
-0x15f6b	0x98	Zext		The veritable leader of the Mythos.	
-0x15fcb	0x98	Zext		Did you not already know	
-				this...Noi Stelladia?	
+0x15f6b	0x98	Zext		The veritable leader of the Mitos.	
+0x15fcb	0x98	Zext		Did you not know this already...	
+				Noi Stelladia?	
 0x16030	0x06	NOI		ANI_SURPRISE	
 0x1606d	0x98	NOI	#6A#16S	!!!!	mp_0101b 0x3636
 0x160b4	0x98	ALTO	#6A	Stelladia...?	
-0x16109	0x98	NOI		I-It's kind of like	
-				my true name, I guess...	
-0x1615e	0x98	NOI	#6A	But how did you... Only one	
-				of the Mythos should ever	
-				know that name...	
+0x16109	0x98	NOI		Th-That's kind of like my	
+				true name, I guess...	
+0x1615e	0x98	NOI	#6A	But how did you... Only	
+				a Mitos should have ever	
+				known that name...	
 0x161ba	0x06	NOI		ANI_GESTURE1	
 0x161e3	0x98	NOI	#6A	Then, you're really...!?	
 0x16258	0x98	Zext		Heheh... Regardless, this is it.	

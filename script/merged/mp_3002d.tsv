@@ -137,7 +137,7 @@ EV_3_S12_look_cage_3rd
 0x48e9	0x41	None	#0W#2E#030c	...I cannot allow it...	
 				This is unforgivable...#0E	
 0x49dc	0x41	None	#0W#2E#030c	The one masquerading as	
-				the head of the Mythos...	
+				the head of the Mitos...	
 				Next time I will...#0E	
 0x4a85	0x41	None	#0W#2E#030c	By my hand as the Guardian King,	
 				I shall pass judgment!!#0E	
@@ -171,33 +171,33 @@ EV_3_S12_look_cage_3rd
 0x5332	0x41	None	#0W#2E#030c	If what you say is true,	
 				then that is a strong possibility.#0E	
 0x53c5	0x41	None	#0W#2E#030c	However, even if we consider that man	
-				to be truly the head of the Mythos...#0E	
+				to be truly the head of the Mitos...#0E	
 0x5471	0x41	None	#0W#2E#030c	Who exactly was the man in the mask...?#0E	
 0x5500	0x6B	ALTO		Exclamation	
 0x5532	0x6B	NOI		Exclamation	
 0x5563	0x06	ALTO		ANI_THINK2	
-0x558b	0x98	ALTO	#6A	Man in a mask...	
+0x558b	0x98	ALTO	#6A	The man in a mask...	
 				The one we met before	
 				at Remnant Island!?	
 0x5608	0x98	NOI	#6A	...That masked man seems to have been	
-				acting as Zext's right hand man ever	
-				since he arrived on Terra.	
+				acting as Zext's sidekick ever since	
+				he arrived on Terra.	
 0x56b4	0x98	NOI	#6A	We have no idea who he is, but	
 				he's an amazing swordsman...	
 0x571f	0x98	NOI	#6A	He stole all four	
 				of my Master Gears.	
-0x57b1	0x98	ALTO		I haven't seen him ever since	
-				I first came to Terra, though...	
+0x57b1	0x98	ALTO		I haven't seen him since I	
+				first came to Terra, though...	
 0x580f	0x06	ALTO		ANI_GESTURE1	
-0x5839	0x98	ALTO		If he captured Algol,	
-				it's more than likely	
-				that he's at the Temple.	
+0x5839	0x98	ALTO		If he captured Algol, then	
+				it's more than likely that	
+				he's at the Temple.	
 0x5892	0x06	ALTO		ANI_WAIT4	
 0x58b9	0x98	ALTO		It seemed like he was at	
-				least on par with Cygna,	
-				so we better be careful.	
-0x5933	0x41	None	#0W#2E#030c	...At present, all I can do	
-				is entrust the Temple in your care.#0E	
+				least on par with Cygna.	
+				We better be careful.	
+0x5933	0x41	None	#0W#2E#030c	...At present, I have no choice but	
+				to entrust the Temple in your care.#0E	
 0x59da	0x41	None	#0W#2E#030c	They captured me, the most	
 				combat-oriented of the Wardens...#0E	
 0x5a65	0x41	None	#0W#2E#030c	Stay vigilant...#0E	

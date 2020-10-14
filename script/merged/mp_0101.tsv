@@ -745,12 +745,12 @@ EV_1_S00_go_jungle
 0x1045e	0x98	NOI	#6A	D-Don't start lumping her	
 				together with yourselves!	
 0x104a7	0x98	NOI	#6A	Master Kureha is a descendant	
-				of the Mythos, the race that	
+				of the Mitos, the race that	
 				created this world.	
 0x1051e	0x98	NOI	#6A	A long time ago, a lot of	
 				things happened and she	
 				fell asleep, though...	
-0x10585	0x98	ALTO	#6A	The Mythos...created this world!?	
+0x10585	0x98	ALTO	#6A	The Mitos...created this world!?	
 0x105d0	0x98	ALTO	#6A	And...she fell asleep...	
 				Do you mean she's been	
 				sleeping here ever since?	
@@ -1052,7 +1052,7 @@ EV_2_S14_hear_gio_voice
 0x16e8c	0x40	UNDEF		It seemed that Geo hadn't seen Cygna either...	
 0x16ed6	0x40	UNDEF		Furthermore, it was revealed that the man	
 				calling himself "Zext" might be the leader 	
-				of the Mythos people.	
+				of the Mitos people.	
 0x170a6	0x41	None	#0W#2E#310c	It seems all you can do is confirm	
 				the true identity of "Zext" with him.#0E	
 0x1714d	0x41	None	#0W#2E#310c	Anyway, my proper place	
@@ -1112,7 +1112,7 @@ EV_2_S30_talk_creha
 				This can't be...	
 0x188fb	0x06	NOI		ANI_COMPLAIN	
 0x1892c	0x98	NOI	#6A	Then what about me...	
-				And the Mythos...!?	
+				And the Mitos...!?	
 0x18992	0x6B	Creha		Ellipsis	
 0x18a0b	0x06	Creha		ANI_SIT1_DENY	
 0x18a3f	0x98	Creha	#0W	...I'm sorry.	
@@ -1131,7 +1131,7 @@ EV_2_S30_talk_creha
 				and awakened...	
 0x18d26	0x98	NOI	#6A	And she must have used her power	
 				while still barely conscious.	
-0x18d81	0x98	NOI	#6A	Since the Mythos are a race that	
+0x18d81	0x98	NOI	#6A	Since the Mitos are a race that	
 				can control the Power of Stars...	
 0x18df5	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x18e24	0x98	ALTO	#6A	Control the Power of Stars!?	
@@ -1507,7 +1507,7 @@ EV_8_S07_check_sleeper
 0x21c31	0x41	None	#0W#995c#1E	...My true identity is	
 				of no significance.#0E	
 0x21cbe	0x41	None	#0W#995c#1E	If you wish to wake the	
-				Mythos from their slumber...	
+				Mitos from their slumber...	
 				Be quiet now and listen.#0E	
 0x21d6f	0x6B	NOI		Ellipsis	
 0x21dd8	0x98	NOI	#6A	Nayuta... Let's	
@@ -1533,7 +1533,7 @@ EV_8_S09_go_astrolabe
 0x22456	0x98	ALTO	#6A	So that's what happened...	
 0x2249d	0x41	None	#0W#995c#1E	And here is the heart of the matter.	
 				...Nayuta Herschel.#0E	
-0x2252d	0x41	None	#0W#995c#1E	If you want to save the Mythos...	
+0x2252d	0x41	None	#0W#995c#1E	If you want to save the Mitos...	
 				You must head for the Inner	
 				World of the Astrolabe.#0E	
 0x225ea	0x6B	ALTO		Exclamation	
@@ -1554,7 +1554,7 @@ EV_8_S09_go_astrolabe
 0x2292a	0x98	NOI	#6A	Th-Then... Nayuta	
 				has to go alone?	
 0x2297d	0x98	ALTO	#0W#6A	.........	
-0x229b4	0x41	None	#0W#995c#1E	If you wish to save the Mythos,	
+0x229b4	0x41	None	#0W#995c#1E	If you wish to save the Mitos,	
 				this is the only way to do it.#0E	
 0x22a48	0x41	None	#0W#995c#1E	However, I do not	
 				know what sort of dangers	

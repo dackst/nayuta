@@ -167,7 +167,7 @@ EV_6_S33_set_all_key
 				the back of your mind, you're	
 				hesitant about all this!	
 0x66b7	0x98	Creha	#0W	...I will not waver.	
-0x66f0	0x98	Creha		The mission of the Mythos	
+0x66f0	0x98	Creha		The mission of the Mitos	
 				is a total necessity...	
 0x6775	0xBC	ALTO		Ellipsis	
 0x67b3	0x06	ALTO		ANI_GESTURE1	
@@ -275,7 +275,7 @@ EV_6_S36_break_up_creha
 0x8e63	0x06	NOI		ANI_GUTSPOSE	
 0x8e8c	0x98	NOI	#6A	Oh, that's a good idea!	
 0x8ec7	0x98	NOI	#6A	Only Masters Kureha and Selam, with	
-				with the Shining Wings of the Mythos,	
+				with the Shining Wings of the Mitos,	
 				can execute the Remaking,	
 0x8f5f	0x98	NOI	#6A	All we have to do to stop the	
 				Remaking is convince Master Selam!	
@@ -518,7 +518,7 @@ EV_7_S19_use_astrolabe
 0xf684	0x98	Creha	#1W#6A	Thank you...	
 0xf703	0x06	Signa		ANI_WAIT4	
 0xf739	0x98	Signa	#1W#6A	As Cygna of Remnant Island,	
-				and as Selam of the Mythos...	
+				and as Selam of the Mitos...	
 0xf7ad	0x98	Signa	#3W#6A	...I'm proud of you.	
 0xf81b	0x98	Noi	#4W	Heheh!	
 0xf84b	0x06	Noi		ANI_OJIGI	

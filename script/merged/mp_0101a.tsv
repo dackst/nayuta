@@ -49,7 +49,7 @@ EV_6_S18_search_key
 0x1eb1	0x40	NOI		This is the lower stratum─	
 				Star City Lexendria.	
 0x1f04	0x40	NOI		A residential district the	
-				Mythos created for the humans.	
+				Mitos created for the humans.	
 0x1f55	0x40	ALTO		Star City...Lexendria...	
 0x1f98	0x40	NOI		It's supposedly named after	
 				an ancient continent.	
@@ -65,7 +65,7 @@ EV_6_S18_search_key
 				able to save a single human.	
 0x226f	0x06	NOI		ANI_DEJECTED	
 0x2298	0x98	NOI	#6A#0W	The surface was destroyed faster	
-				than the Mythos predicted...	
+				than the Mitos predicted...	
 				That's what Master Kureha told me.	
 0x2322	0x06	ALTO		ANI_GESTURE2	
 0x234c	0x98	ALTO	#0W	...I see...	mp_0001 0xcc63
@@ -91,7 +91,7 @@ EV_6_S18_search_key
 0x27fc	0x98	NOI	#6A	There's an elevator to the	
 				lower stratum in the Astrolabe!	
 0x2859	0x98	NOI	#6A	In order for anyone other than a	
-				Mythos to use it, we'd need four	
+				Mitos to use it, we'd need four	
 				Stellagears, though...	
 0x28d7	0x06	ALTO		ANI_GESTURE1	
 0x2901	0x98	ALTO		Stellagears...!?	

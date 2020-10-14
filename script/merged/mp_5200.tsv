@@ -21,7 +21,7 @@ EV_3_S28_at_tower_top
 				according to plan.	
 0xc26	0x98	Zext	#1W	This false world will	
 				soon come to an end...	
-0xcf3	0x98	Zext	#1W	The greatest desire of the Mythos...	
+0xcf3	0x98	Zext	#1W	The greatest desire of the Mitos...	
 				I will definitely fulfill it.	
 EV_3_S28_at_tower_top_cs
 EV_5_S19_meet_zext
@@ -50,11 +50,11 @@ EV_5_S19_meet_zext
 0x29c7	0x98	Zext		All there is left to do is charge	
 				Heliograd with the Power of Stars...	
 0x2a2c	0x98	Zext		And the lost thread of us	
-				Mythos will be resolved.	
+				Mitos will be resolved.	
 0x2af3	0xBC	ALTO		Ellipsis	
 0x2b31	0x98	ALTO	#6A	...Please, tell me.	
 0x2b66	0x98	ALTO	#6A	What is it that you...	
-				What is it that the Mythos want?	
+				What is it that the Mitos want?	
 0x2bb2	0x98	ALTO	#6A	Plunging Terra into crisis...	
 				Invading Remnant Island...	
 				Just what are you guys trying to do?	
@@ -65,10 +65,10 @@ EV_5_S19_meet_zext
 0x2ce0	0x98	Zext		There is nothing you could do now to stop it.	
 0x2f12	0x98	Zext		Son of man, you know not the	
 				true history of your world.	
-0x2f6f	0x98	Zext		Long ago, we Mythos...also	
+0x2f6f	0x98	Zext		Long ago, we Mitos...also	
 				lived amongst your world.	
 0x2fd4	0x98	ALTO	#16S#240x#270y	...!?	
-0x300c	0x98	Zext		Mythos once lived in harmony with humans.	
+0x300c	0x98	Zext		Mitos once lived in harmony with humans.	
 0x3052	0x98	Zext		We shared the vast knowledge	
 				and technology we possessed	
 				at the time.	
@@ -81,7 +81,7 @@ EV_5_S19_meet_zext
 0x3240	0x40	ALTO		Then... The mural
 				in Heimmel...	
 0x33e3	0x98	Seram		Heh, an image of the	
-				Mythos leading your world.	
+				Mitos leading your world.	
 0x3440	0x98	Seram		Well, the relationship between	
 				gods and man was going pretty well.	
 0x3498	0x98	Seram		...Until one day.	
@@ -135,13 +135,13 @@ EV_5_S19_meet_zext
 0x42a0	0x98	Zext		Selam, Kureha.	
 				Release it.	
 0x42db	0x98	Zext		The symbol of your dedication to the plan...	
-				The power of the Shining Wings of the Mythos!	
+				The power of the Shining Wings of the Mitos!	
 0x435a	0x98	Seram	#6A	By your command.	mp_5200 0x919
 0x43e0	0x06	Creha		ANI_NOD	
 0x440e	0x98	Creha	#0W#6A	......(*nod*)	
 0x49bd	0x06	Seram		ANI_WAIT	
 0x4a36	0x98	ALTO	#1W#6A	W-Wait...!!	
-0x4a6c	0x98	ALTO	#6A	If the mission of the Mythos	
+0x4a6c	0x98	ALTO	#6A	If the mission of the Mitos	
 				is to remake the world...	
 0x4ac8	0x98	ALTO	#6A	What will happen to the	
 				world we live in now!?	
@@ -211,7 +211,7 @@ EV_5_S19_meet_zext
 0x61b7	0x98	NOI		...Well, that's...	mp_4100 0x1eb6
 0x621c	0x98	ALTO	#6A	...Wh-What do you mean...!?	
 0x6256	0x98	ALTO	#6A	Noi said she was designed unable
-				to speak about the Mythos...	
+				to speak about the Mitos...	
 0x63cd	0x98	Creha		Stop... This is irrelevant to the plan.	
 0x6466	0x98	Zext	#6A	Heheh, what's wrong...?	
 				It's just a diversion	
@@ -225,7 +225,7 @@ EV_5_S19_meet_zext
 0x666e	0x98	Zext	#6A	Noi is an entity originally	
 				created by Kureha and Cygna...	
 0x66ce	0x98	Zext	#6A	In order to achieve the	
-				Mythos' mission, she cannot	
+				Mitos' mission, she cannot	
 				disobey their orders.	
 0x6739	0x98	Zext	#6A	That is why she chose		
 				not to communicate all	
