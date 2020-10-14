@@ -238,14 +238,14 @@ EV_2_S20_help_gio
 				sealed me away...	
 0x73db	0x06	Gio		ANI_GESTURE2	
 0x7421	0x98	Gio		He was surely not the same	
-				Master Zext, was he?	
+				Lord Zext, was he?	
 0x747e	0x6B	ALTO		Exclamation	
 0x74b0	0x6B	NOI		Exclamation	
 0x74e1	0x06	NOI		ANI_GESTURE1	
 0x750a	0x98	NOI	#6A	Y-You see...	mp_0101 0x610e
 0x7540	0x06	ALTO		ANI_COMPLAIN	
 0x756a	0x98	ALTO	#6A	Wh-What do you mean	
-				"Master" Zext...!?	
+				"Lord" Zext...!?	
 0x75ee	0x98	Gio		The Mitos race that	
 				created Terra...	
 0x7650	0x98	Gio		"Zext" is the name	
@@ -260,12 +260,12 @@ EV_2_S20_help_gio
 0x78ca	0x98	NOI		Th-That's because it's...	
 				...I-It's impossible!	
 0x79ab	0x98	NOI		A long time ago, I heard about	
-				Zext from Master Creha...	
+				Zext from Lady Creha...	
 0x7a49	0x98	NOI		But there's no way the real	
 				Zext would be the one who	
 				plunges Terra into chaos!	
 0x7b11	0x98	NOI		I didn't want to think that	
-				Master Creha and that man	
+				Lady Creha and that man	
 				are from the same race...	
 0x7b80	0x6B	NOI		Ellipsis	
 0x7bb1	0x06	ALTO		ANI_GESTURE1	
@@ -295,9 +295,8 @@ EV_2_S20_help_gio
 0x859b	0x06	NOI		ANI_GUTSPOSE	
 0x85c4	0x98	NOI	#6A	Th-This...overwhelming power!?	
 0x860d	0x06	Gio		ANI_GESTURE1	
-0x8653	0x98	Gio		We Wardens were once	
-				created by Master	
-				Creha's race...	
+0x8653	0x98	Gio		We Wardens were once created	
+				by Lady Creha's race...	
 0x86be	0x98	Gio		At the time, we were bestowed	
 				various powers so we would be	
 				prepared for any time to come.	

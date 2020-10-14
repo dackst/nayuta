@@ -649,7 +649,7 @@ EV_0_S17_noi_warp
 0xfeaa	0x98	NOI	#0W#6A	Oh good, it's alive!	
 0xfeec	0x06	NOI		ANI_GUTSPOSE	
 0xff23	0x98	NOI	#0W#6A	I have to hurry...	
-				For Master Creha's sake!!	
+				For Lady Creha's sake!!	
 0xff7b	0x6B	NOI		Unknown	
 0x101e3	0x6B	ALTO		Ellipsis	
 0x1020d	0x6B	Signa		Ellipsis	
@@ -797,10 +797,10 @@ EV_2_S02_ask_asa
 0x130e6	0x98	ALTO		(At any rate, it seems that	
 				 he's back in the village...)	
 0x13153	0x98	ALTO		(Let's try visiting Master's	
-				 house on the beach. There	
+				 place on the beach. There	
 				 might be more leads there!)	
 0x131fe	0x06	ALTO		ANI_WAIT	
-0x132ec	0xCE	Objective		Let's go to Master's house. There might be more leads there...	
+0x132ec	0xCE	Objective		Let's go to Master's place. There might be more leads there...	
 SB_2_S06_move_ALTO
 SB_2_S06_move_NOI
 0x133b8	0x6B	NOI		Unknown	
@@ -922,7 +922,7 @@ EV_3_S26_meet_lyra
 				more remote areas of this world.	
 0x16713	0x98	ALTO	#6A	My house is right over there.	
 0x1675b	0x06	NOI		ANI_GESTURE1	
-0x16784	0x98	NOI	#6A	Master Creha,	
+0x16784	0x98	NOI	#6A	Lady Creha,	
 				watch your step!	
 0x16c61	0x3F	Name		Lyra's Voice	mp_0003 0x16357
 0x16c83	0x98	Lyra	#0W	Ah, it's Nayuta and Noi.	
@@ -979,7 +979,7 @@ SB_4_S00_noi_move
 EV_4_S00_to_see_off
 0x17eff	0x06	ALTO		ANI_TONTON_SHUE	
 0x17f2c	0x98	ALTO	#6A	Well, we're off.	
-0x17f6c	0x98	NOI	#6A	Master Creha... If you get	
+0x17f6c	0x98	NOI	#6A	Lady Creha... If you get	
 				involved with some evil humans,	
 				please run away immediately!	
 0x17fe4	0x06	NOI		ANI_GUTSPOSE	
@@ -1021,7 +1021,7 @@ EV_4_S11_go_home
 				is happening, but...	
 0x18f5e	0x98	NOI	#6A	I want to go check on your sister.	
 0x18fa7	0x06	NOI		ANI_GESTURE2	
-0x18fd0	0x98	NOI	#6A	I'd like to see how Master	
+0x18fd0	0x98	NOI	#6A	I'd like to see how Lady	
 				Creha is doing, too...	
 0x19021	0x06	ALTO		ANI_NOD
 0x19046	0x98	ALTO		mp_0004 0x18592
@@ -1084,11 +1084,11 @@ EV_4_S14_go_temple4
 0x1a75e	0x06	Asa		ANI_WAIT0	
 0x1a8ed	0x98	Asa		Can't believe it's snowing...	
 				I've seen this happen before.	
-0x1a95f	0x98	NOI	#0W#6A	(I-Is this what Master Selam	
+0x1a95f	0x98	NOI	#0W#6A	(I-Is this what Lord Selam	
 				 was talking about!?)	
 0x1a9c3	0x98	ALTO	#16S#400x#300y	Noi!	
 0x1ab17	0x06	NOI		ANI_COMPLAIN	
-0x1ab40	0x98	NOI	#6A	Nayuta... How is Master Creha!?	
+0x1ab40	0x98	NOI	#6A	Nayuta... How is Lady Creha!?	
 0x1ab89	0x06	ALTO		ANI_GESTURE1	
 0x1abb3	0x98	ALTO		Yeah, she's fine...	
 				Looks like nothing happened.	
@@ -1118,7 +1118,7 @@ EV_4_S14_go_temple4
 0x1b03f	0x6B	NOI		Ellipsis	
 0x1b08d	0x06	NOI		ANI_NOD	
 0x1b0b1	0x98	NOI	#6A	Anyway, we've made sure	
-				that Master Creha is safe.	
+				that Lady Creha is safe.	
 0x1b109	0x06	NOI		ANI_GESTURE1	
 0x1b132	0x98	NOI	#6A	Nayuta, let's hurry	
 				back to La Worg Temple!	

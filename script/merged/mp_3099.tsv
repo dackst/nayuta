@@ -25,7 +25,7 @@ talk_Algorl
 0x33ca	0x98	Algorl		If the four Wardens pool	
 				their strength, then perhaps...	
 0x3424	0x98	Algorl		However, you are the only ones	
-				who can save Master Creha.	
+				who can save Lady Creha.	
 				...We are counting on you.	
 0x34d2	0x98	Algorl		There seems to be a chaotic situation unfolding...	
 0x3519	0x98	Algorl		However, if Creha was indeed	
@@ -43,7 +43,7 @@ talk_Algorl
 0x377b	0x98	Algorl		In the coming days, you will	
 				face countless trials, but...	
 				You must ever give up.	
-0x37e4	0x98	Algorl		For Terra and Master Creha...	
+0x37e4	0x98	Algorl		For Terra and Lady Creha...	
 				Please, take care of them.	
 0x3866	0x98	Algorl		Hmm...as I thought, I am currently	
 				in no condition to restart this Temple.	
@@ -144,7 +144,7 @@ QS_44_undertake
 0x4f1a	0x98	Algorl		Hmm, but...	
 				Since I was released from the seal,	
 				I've recovered only part of my power.	
-0x4f8f	0x98	Algorl		...It seems that Master Selam	
+0x4f8f	0x98	Algorl		...It seems that Lord Selam	
 				placed a second seal on me.	
 0x4fe8	0x06	ALTO		ANI_SURPRISE	
 0x5012	0x98	ALTO	#6A	A second seal!?	

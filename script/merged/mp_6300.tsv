@@ -8,7 +8,7 @@ talk_Erislet
 				passion and bonds	
 				are all about, huh?	
 0x816	0x98	Erislet		Perhaps you guys could actually...	
-0x856	0x98	Erislet		Master Creha and the others...	
+0x856	0x98	Erislet		Lady Creha and the others...	
 				Please, take care of them.	
 0x8d9	0x98	Erislet		I'm sure that with how	
 				strong you've grown,	
@@ -76,14 +76,14 @@ EV_6_S25_usi_boss
 0x2bf5	0x06	Erislet		ANI_GESTURE1	
 0x2c43	0x98	Erislet		As Warden of the continent,	
 				I cannot allow you to interfere	
-				in the Remaking planned by Master	
+				in the Remaking planned by Lady	
 				Creha and the others.	
 0x2d00	0x06	NOI		ANI_COMPLAIN	
 0x2d29	0x98	NOI	#6A	...Stop it, Eris!	
 0x2d9f	0x98	NOI	#6A	Erasing the surface where Nayuta	
 				and all those people live...	
 0x2df5	0x06	NOI		ANI_DENY	
-0x2e1a	0x98	NOI	#6A	We can't let Master	
+0x2e1a	0x98	NOI	#6A	We can't let Lady	
 				Creha do that!	
 0x2e6e	0x06	ALTO		ANI_JOY	
 0x2e93	0x98	ALTO	#6A	Yeah, we've got to stop	
@@ -102,7 +102,7 @@ EV_6_S25_usi_boss
 0x32b8	0x98	NOI	#6A	Eris... You, too!?	
 0x332b	0x98	Erislet		...Noi, you're my	
 				dear friend, but...	
-0x33be	0x98	Erislet		For the sake of Master Creha	
+0x33be	0x98	Erislet		For the sake of Lady Creha	
 				and the others, I would gladly	
 				become a heartless demon.	
 0x348f	0x98	Erislet		Even if you guys are	
@@ -134,7 +134,7 @@ EV_6_S26_bye_erislet
 0x4e9a	0x98	NOI	#6A	Eris...	
 0x4f2d	0x98	Erislet		I'm sorry, Noi.	
 0x4fa9	0x98	Erislet		What's most important to	
-				me is Master Creha...	
+				me is Lady Creha...	
 0x501d	0x98	Erislet		If she wills it, then	
 				that is what I desire.	
 0x50ae	0x06	Erislet		ANI_GESTURE1	
@@ -148,7 +148,7 @@ EV_6_S26_bye_erislet
 0x525d	0x98	NOI	#6A	But still, I've	
 				decided to fight!	
 0x529e	0x06	NOI		ANI_GUTSPOSE	
-0x52c7	0x98	NOI	#6A	Letting Master Creha destroy the	
+0x52c7	0x98	NOI	#6A	Letting Lady Creha destroy the	
 				surface where everyone lives...	
 				We can never let that happen!	
 0x5390	0x06	Erislet		ANI_LAUGH	
@@ -166,7 +166,7 @@ EV_6_S26_bye_erislet
 				I leave everything else	
 				up to you two.	
 0x6138	0x06	Erislet		ANI_NOD	
-0x61fc	0x98	Erislet		Master Creha...	
+0x61fc	0x98	Erislet		Lady Creha...	
 				Please, look after her.	
 0x624f	0x06	NOI		ANI_GUTSPOSE	
 0x6278	0x98	NOI	#6A	Yeah, leave it to us!	mp_0112 0x1e6fb

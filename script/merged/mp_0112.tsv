@@ -1837,7 +1837,7 @@ QS_58_quest_start
 				have time to play with	
 				you right now.	
 0x19b30	0x06	Ophiuchus		ANI_GESTURE2	
-0x19b5f	0x98	Ophiuchus		Please wait, Master Mensa.	
+0x19b5f	0x98	Ophiuchus		Please wait, Ms. Mensa.	
 0x19b9e	0x98	Ophiuchus		I believe you are the	
 				Handyman, correct?	
 0x19bf0	0x06	ALTO		ANI_SCRATCH_HEAD	
@@ -1933,7 +1933,7 @@ QS_58_ask_reason
 				He's even become an established	
 				mascot of a theme park.	
 0x1ad39	0x98	Ophiuchus		That's who the heir to the vast	
-				fortune is...Master Mishy.	
+				fortune is... Master Mishy.	
 0x1ad9f	0x06	Ophiuchus		ANI_WAIT	
 0x1adca	0x6B	ALTO		Sweatdrop	
 0x1ae1c	0x06	ALTO		ANI_THINK	

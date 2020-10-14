@@ -5,7 +5,7 @@ EV_7_S00_in_elevator
 0x50f	0x98	ALTO	#0W	Creha... Hope she's all right.	
 0x55f	0x98	NOI	#6A	...All we can do is believe in her for now.	
 0x5ad	0x98	NOI	#6A	Zext is supposed to be	
-				Master Creha's father...	
+				Lady Creha's father...	
 				I don't think he'd hurt her.	
 0x647	0x06	ALTO		ANI_THINK2	
 0x66f	0x98	ALTO	#1W	...............	mp_0001 0xc917
@@ -23,9 +23,9 @@ EV_7_S00_in_elevator
 0x941	0x40	NOI		T-True...	
 0x96e	0x40	NOI		And...I feel that Zext's current	
 				personality is too cruel.	
-0x9cf	0x40	NOI		I heard from Master Creha that	
+0x9cf	0x40	NOI		I heard from Lady Creha that	
 				he was a very kind person...	
-0xaa9	0x98	NOI	#6A	But Master Creha has been	
+0xaa9	0x98	NOI	#6A	But Lady Creha has been	
 				following Zext for the	
 				mission of the Mitos...	
 0xb17	0x98	NOI	#6A	He's definitely Zext,	

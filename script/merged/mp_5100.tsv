@@ -25,7 +25,7 @@ EV_5_S03_arrive_tower
 0xfc4	0x98	ALTO		It's even too tall to	
 				measure with my sextant...	
 				Just how tall is it, really?	
-0x106f	0x98	NOI	#6A	I think it's...probably at least	
+0x106f	0x98	NOI	#6A	I think it's... probably at least	
 				fifty thousand arge in total height.	
 0x10f1	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1134	0x98	ALTO	#16S	Fifty THOUSAND arge!?	
@@ -142,8 +142,8 @@ EV_5_S05_hear_neme_voice
 0x339e	0x41	None	#0W#2E#310c	From our temples, we will	mp_5100 0x2334
 				search for a method to stop the Power of	
 				Stars flowing from the tower.#0E	
-0x3466	0x41	None	#0W#2E#029c	Please look after	
-				Master Creha for us, you two!#0E	
+0x3466	0x41	None	#0W#2E#029c	Please look after Lady Creha	
+				for us, you two!#0E	
 0x34ff	0x06	NOI		ANI_NOD	
 0x3523	0x98	NOI		Yeah...	
 				Leave it to us!	

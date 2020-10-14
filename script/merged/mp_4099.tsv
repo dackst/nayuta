@@ -31,15 +31,15 @@ talk_Nemeas
 				flowing into Heliograd.	
 0x2fa1	0x98	Nemeas		Please hurry ahead, you two.	
 				...I'm counting on you to	
-				look after Master Creha.	
+				look after Lady Creha.	
 0x300e	0x98	Nemeas		We will attempt to regain control	
 				of the Power flowing into Heliograd.	
 0x306d	0x98	Nemeas		I do not know if we can	
-				surpass Zext and win Master	
+				surpass Zext and win Lady	
 				Creha back, but we must try...	
 0x30d9	0x98	Nemeas		I guess we must do all we can to	
 				help one another. Please, take	
-				care of Master Creha.	
+				care of Lady Creha.	
 talk_SpiritA
 0x3161	0x98	SpiritA		...～～....	
 0x318f	0x40	UNDEF		It seems to be expressing gratitude.	
@@ -873,7 +873,7 @@ EV_4_S20_get_gear_4th
 0x11f6f	0x06	NOI		ANI_JOY	
 0x11fb0	0x98	NOI	#6A	What a relief!	
 0x11fe1	0x98	NOI	#6A	We heard you were done	
-				in by Master Selam...	
+				in by Lord Selam...	
 				We were worried about you!	
 0x1205c	0x06	Signa		ANI_LAUGH	
 0x120a3	0x98	Signa		Haha, I won't kick the
@@ -933,7 +933,7 @@ EV_4_S24_go_astrolabe
 				undo the seal, they'll need a Key.	
 0x134c9	0xBC	ALTO		Exclamation	
 0x134ff	0xBC	NOI		Exclamation	
-0x13604	0x98	NOI	#6A	That's what Master Selam told us...	
+0x13604	0x98	NOI	#6A	That's what Lord Selam told us...	
 0x13646	0x06	NOI		ANI_SURPRISE	
 0x1368c	0x98	NOI	#6A	...Hey, how do you	
 				know about that!?	

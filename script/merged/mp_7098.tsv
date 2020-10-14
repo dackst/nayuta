@@ -72,8 +72,8 @@ EV_7_S06_meet_seram
 				waiting...Nayuta Herschel.	
 0x35fb	0x98	ALTO	#6A	Cygna!	mp_0100 0x1d946
 0x362c	0x06	NOI		ANI_GESTURE1	
-0x3655	0x98	NOI	#6A	Master Selam... Where are	
-				Zext and Master Creha!?	
+0x3655	0x98	NOI	#6A	Lord Selam... Where are	
+				Zext and Lady Creha!?	
 0x36bf	0x98	Seram		They are continuing their	
 				preparations elsewhere.	
 0x371f	0x98	Seram		This is only a remote interface	
@@ -117,7 +117,7 @@ EV_7_S06_meet_seram
 0x3ed9	0x98	Seram	#6A#0W	If it prevents the Remaking of the world...	
 				The mind is nothing more than a hindrance.	
 0x3f5a	0x06	NOI		ANI_COMPLAIN	
-0x3fa0	0x98	NOI		Master Selam,	
+0x3fa0	0x98	NOI		Lord Selam,	
 				how could you!?	
 0x3fd2	0x98	NOI		You and Creha chose to	
 				abandon this mission once!	
@@ -237,7 +237,7 @@ EV_7_S09_seram_stone
 0x6ba9	0x98	Seram	#6A	It wasn't all just because I	
 				recovered my memories as "Selam."	
 0x6c0d	0x06	NOI		ANI_GESTURE1	
-0x6c36	0x98	NOI		Master Selam...	
+0x6c36	0x98	NOI		Lord Selam...	
 0x6c6c	0x98	Seram	#6A	I had prepared myself to wipe out	
 				Remnant Island in the Remaking...		
 0x6cfa	0x98	Seram	#6A	By carrying the guilt and suffering of	
@@ -381,7 +381,7 @@ EV_7_S09_seram_stone
 0x97a1	0x98	NOI	#0W#6A	...N-No way...	
 0x97dc	0x06	NOI		ANI_COMPLAIN	
 0x9805	0x98	NOI	#16S#6A	What have you done	
-				to Master Creha!?	
+				to Lady Creha!?	
 0x9861	0x98	Zext	#1W	..................	mp_0000d 0x70fd
 0x9896	0x98	Zext	#0W	She is dead.	
 0x98ec	0x3F	Name		Everyone	mp_0100 0x1b196
@@ -481,7 +481,7 @@ EV_7_S09_seram_stone
 0xdcf3	0x98	NOI		If we defeat Zext and	
 				return his power first...!	
 0xdd4a	0x06	NOI		ANI_NOD	
-0xdd6e	0x98	NOI		Master Creha, too...	
+0xdd6e	0x98	NOI		Lady Creha, too...	
 				I'm sure it's not too late!	
 0xddcf	0x6B	ALTO		Ellipsis	
 0xdf41	0x06	ALTO		ANI_GESTURE1	

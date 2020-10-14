@@ -1,7 +1,7 @@
 noi
 talk_Noi
 0x70	0x06	NOI		ANI_WAIT	
-0xad	0x98	NOI		Master Creha should	
+0xad	0x98	NOI		Lady Creha should	
 				be in Heliograd.	
 0xf0	0x98	NOI		It's the place at the	
 				center of Terra...	
@@ -19,25 +19,25 @@ talk_Noi
 				to La Worg Temple as	
 				soon as possible!	
 0x2f8	0x98	NOI		Nayuta, you should go	
-				check on Master Creha.	
+				check on Lady Creha.	
 0x346	0x98	NOI		It looks like she's in	
 				the village right now...	
 0x38d	0x98	ALTO		I'm concerned about what	
 				that Selam guy said, too.	
 0x3db	0x98	ALTO		Hold on. I'll find her soon.	
 0x441	0x98	NOI		I wish I could go look for	
-				Master Creha myself, but...	
+				Lady Creha myself, but...	
 0x495	0x98	NOI		Jeez, it sure is inconvenient not	
 				to be able to walk in the village.	
-0x513	0x98	NOI		Looks like Master Creha	
+0x513	0x98	NOI		Looks like Lady Creha	
 				is in the village...	
 0x564	0x98	NOI		I-I wonder if she's okay...	
 				But there's no way I can risk	
 				being seen by humans...	
 0x5d9	0x98	NOI		...Please, Nayuta.	
-				If you find Master Creha,	
+				If you find Lady Creha,	
 				you have to help her.	
-0x668	0x98	NOI		Master Creha, it seems...	
+0x668	0x98	NOI		Lady Creha, it seems...	
 				I sense she's alive.	
 0x6b3	0x98	NOI		I hope she'll regain some	
 				of her memories by staying	
@@ -60,15 +60,15 @@ talk_Noi
 				before the next exploration.	
 0x9ad	0x98	NOI		I'm worried about Cygna too, but	mp_0101 0x18f95
 				right now, I'm more worried about	
-				Master Creha...	
-0xa1c	0x98	NOI		Please take care of Master Creha	
+				Lady Creha...	
+0xa1c	0x98	NOI		Please take care of Lady Creha	
 				until she gets better!	
-0xaac	0x98	NOI		Master Creha! Master Creha!	
+0xaac	0x98	NOI		Lady Creha! Lady Creha!	
 0xb18	0x6B	NOI		Unknown	
 0xb49	0x98	NOI		I-It doesn't look like	
 				she's over here.	
 0xb8e	0x98	NOI		...Please, Nayuta!	
-				Search for Master Creha!!	
+				Search for Lady Creha!!	
 0xc2d	0x98	NOI		Ehehe, it's good that	
 				we found that resin.	
 0xc74	0x98	NOI		This will help both you	

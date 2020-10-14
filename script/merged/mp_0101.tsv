@@ -21,7 +21,7 @@ lp_portal
 				be over there...	
 				Anyway, let's go and see!	
 0x213c	0x98	NOI		Nayuta, weren't you going	
-				to see Master Creha...?	
+				to see Lady Creha...?	
 0x217f	0x98	ALTO		Oh, that's right.	
 				I have to pass on the	
 				message from my sister.	
@@ -44,7 +44,7 @@ lp_portal2
 				teleporter device...?	
 0x2d30	0x98	NOI		I know you're interested...	
 				But right now, we should	
-				check on Master Creha.	
+				check on Lady Creha.	
 0x2e2b	0x07	System	#4C	By using this teleporter device,	
 				you can go to Star City Lexendria.	
 0x2ec5	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
@@ -119,8 +119,8 @@ talk_Signa
 talk_Creha
 0x3e15	0x40	UNDEF		Creha is sleeping, wrapped in flowers.	
 0x3e7f	0x98	ALTO		Just like the first I saw her...	
-0x3ec2	0x98	NOI		...Master Creha......	
-0x3f4d	0x98	NOI		Master Creha...are you okay?	
+0x3ec2	0x98	NOI		...Lady Creha......	
+0x3f4d	0x98	NOI		Lady Creha... Are you okay?	
 0x3f8e	0x98	Creha		Yes, I'm fine... I don't	
 				feel dizzy anymore.	
 0x4010	0x98	Creha		...This place feels	
@@ -140,7 +140,7 @@ talk_Creha
 				 Let's leave quietly.)	
 0x429e	0x98	Creha		..................	
 0x42d1	0x40	UNDEF		Creha is staring blankly at the bed.	
-0x433a	0x98	NOI		(I hope Master Creha can	
+0x433a	0x98	NOI		(I hope Lady Creha can	
 				 remember something...)	
 0x43f1	0x98	Creha		I slept here...?	
 				Why was I...	
@@ -655,7 +655,7 @@ EV_1_S00_go_jungle
 0xec6d	0x98	Signa		(Ha...! This damn guy...)	
 0xed0f	0x3F	Name		Girl's Voice	mp_0004 0x13851
 0xed31	0x98	NOI	#6A#0W	...Wh-Who's there...!?	
-0xed95	0x98	NOI	#6A#0W#16S	Stay away from Master Creha!!	
+0xed95	0x98	NOI	#6A#0W#16S	Stay away from Lady Creha!!	
 0xedf2	0x6B	ALTO		Exclamation	
 0xee1c	0x6B	Signa		Exclamation	
 0xefa8	0x6B	NOI		Surprise	
@@ -690,7 +690,7 @@ EV_1_S00_go_jungle
 				sacred Garden...	
 0xf818	0x06	NOI		ANI_GUTSPOSE	
 0xf883	0x98	NOI		I-If it's come to this, I	
-				must protect Master Creha!	
+				must protect Lady Creha!	
 0xf8fa	0x98	ALTO	#6A	Umm, so this "Creha"...	
 				You mean this sleeping girl?	
 0xf96d	0x06	ALTO		ANI_THANKS	
@@ -744,7 +744,7 @@ EV_1_S00_go_jungle
 				purposes, a human?	
 0x1045e	0x98	NOI	#6A	D-Don't start lumping her	
 				together with yourselves!	
-0x104a7	0x98	NOI	#6A	Master Creha is a descendant	
+0x104a7	0x98	NOI	#6A	Lady Creha is a descendant	
 				of the Mitos, the race that	
 				created this world.	
 0x1051e	0x98	NOI	#6A	A long time ago, a lot of	
@@ -760,8 +760,8 @@ EV_1_S00_go_jungle
 0x1077c	0x98	Signa	#6A	And you... Noi, are you supposed
 				to be her caretaker or something?	
 0x1088e	0x98	NOI		Y-Yeah, something like that...	
-0x10909	0x98	NOI		While Master Creha sleeps, my	
-				job is to watch over the Garden...
+0x10909	0x98	NOI		While Lady Creha sleeps, my job	
+				is to watch over this Garden...
 				It's my duty as a Warden.	
 0x1098d	0x06	ALTO		ANI_COMPLAIN	
 0x109b7	0x98	ALTO	#6A	You supervise a huge place	
@@ -794,7 +794,7 @@ EV_1_S00_go_jungle
 0x111f3	0x98	NOI		If I don't get it back from Zext,	
 				this world is gonna be destroyed!	
 0x1143a	0x06	NOI		ANI_GUTSPOSE	
-0x11463	0x98	NOI		Master Creha...	
+0x11463	0x98	NOI		Lady Creha...	
 				I'll be back!	
 0x114ec	0x98	NOI		As the Warden of the Garden...	
 				I'll stop Zext for sure!	
@@ -840,7 +840,7 @@ EV_1_S00_go_jungle
 0x11f65	0x06	NOI		ANI_WAIT	
 0x11f8a	0x98	NOI	#6A	...But, remember this!	
 				If you try to hurt me	
-				or Master Creha...	
+				or Lady Creha...	
 0x11feb	0x06	NOI		ANI_ANGRYTALK	
 0x12029	0x98	NOI	#6A#16S	I will personally beat	
 				#16Syou until you're black and blue!	
@@ -870,7 +870,7 @@ EV_1_S00_go_jungle
 				Gear or whatever!	
 0x124a3	0x06	NOI		ANI_NOD	
 0x124c7	0x98	NOI	#6A	...Understood.	mp_0000 0x1c46f
-0x124f7	0x98	NOI	#6A	For Terra and Master Creha!!	
+0x124f7	0x98	NOI	#6A	For Terra and Lady Creha!!	
 0x127b9	0x06	Signa		ANI_WAIT3	
 0x127ee	0x06	st		ANI_STOP2	
 0x1286b	0x06	NOI		ANI_USE_POWER	
@@ -1076,16 +1076,16 @@ EV_2_S28_check_coffin
 0x17ad5	0x6B	NOI		Exclamation	
 0x17c95	0x98	NOI	#0W#6A	...Sh-She's not here....	
 0x17cd6	0x06	NOI		ANI_SURPRISE	
-0x17d13	0x98	NOI	#16S#6A	...Master Creha's gone!?	
+0x17d13	0x98	NOI	#16S#6A	...Lady Creha's gone!?	
 0x17d5f	0x06	ALTO		ANI_DENY	
 0x17d85	0x98	ALTO		No way... She should be	
 				sleeping right here!	
 0x17de4	0x06	NOI		ANI_WORRIED	
 0x17e0c	0x6B	NOI		Unknown	
 0x17e35	0x98	NOI	#6A	Is it possible that Zext─	
-				Master Zext took her away!?	
+				Lord Zext took her away!?	
 0x17e8e	0x98	NOI	#6A	Oh, what should I do...?	
-				Master Creha... Master Creha!!	
+				Lady Creha... Lady Creha!!	
 0x17ef4	0x06	ALTO		ANI_WAIT	
 0x17f4a	0x98	ALTO		Calm down, Noi.	
 				We don't know that yet.	
@@ -1120,7 +1120,7 @@ EV_2_S30_talk_creha
 0x18aac	0x06	NOI		ANI_DULL	
 0x18ad1	0x98	NOI	#1W#6A	...N-No, it's fine.	
 0x18b09	0x98	NOI	#0W#6A	It's good just being able to talk	
-				to Master Creha again, I...	
+				to Lady Creha again, I...	
 0x18bc4	0x06	ALTO		ANI_GESTURE2	
 0x18bee	0x98	ALTO	#6A	...Noi, was she the one who	
 				stopped the abnormalities	
@@ -1143,9 +1143,9 @@ EV_2_S30_talk_creha
 0x18f6c	0x06	NOI		ANI_DEJECTED	
 0x18f95	0x98	NOI	#6A	I'm worried about Cygna too, but	
 				right now, I'm more worried about	
-				Master Creha...		
+				Lady Creha...		
 0x19005	0x98	NOI	#6A	I also want to think a little	
-				more about Master Zext...	
+				more about Lord Zext...	
 0x1907f	0x06	ALTO		ANI_NOD	
 0x190a4	0x98	ALTO	#6A	...Yeah, I understand.	
 				Let's take a break then.	
@@ -1242,7 +1242,7 @@ EV_3_S04_meet_creha
 0x1b2f0	0x98	Creha		Umm... Can I come too?	
 0x1b326	0x98	Creha		If I go there, maybe I'll	
 				remember something...	
-0x1b3f7	0x98	NOI	#6A	Master Creha... Of course!	
+0x1b3f7	0x98	NOI	#6A	Lady Creha... Of course!	
 0x1b43b	0x98	ALTO		Then let's all three of	
 				us go to the Astrolabe!	
 0x1b649	0x06	ALTO		ANI_WAIT	
@@ -1297,7 +1297,7 @@ EV_3_S24_meet_gio
 0x1ccc2	0x98	NOI	#6A	I only asked him to come	
 				when I go to Nayuta's world.	
 0x1cd83	0x98	NOI	#6A	I'm still worried about leaving	
-				Master Creha here all alone...	
+				Lady Creha here all alone...	
 0x1cde5	0x06	ALTO		ANI_NOD	
 0x1ce0a	0x98	ALTO	#6A	You're probably right...	
 0x1ce76	0x98	ALTO	#6A	It's been a few days. What's	
@@ -1513,8 +1513,8 @@ EV_8_S07_check_sleeper
 0x21dd8	0x98	NOI	#6A	Nayuta... Let's	
 				listen to its story.	
 0x21e23	0x98	NOI	#6A	I may have just been born, but I	
-				know how important Master Creha	
-				and Master Cygna were to you.	
+				know how important Lady Creha	
+				and Lord Cygna were to you.	
 0x21e98	0x98	NOI	#6A	I'm willing to do whatever	
 				it takes to protect them...
 0x21f01	0x98	NOI	#6A	You are too, right?		

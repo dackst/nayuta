@@ -85,12 +85,12 @@ EV_5_S06_help_nemeas
 0x345e	0x98	Nemeas	#2W	My name is Nemeas...	
 				I am the Warden of La Worg.	
 0x3834	0x06	Nemeas		ANI_GESTURE2	
-0x3880	0x98	Nemeas		So Master Creha	
-				and Master Selam	
-				have joined Zext...	
+0x3880	0x98	Nemeas		So Lady Creha and	
+				Lord Selam have	
+				joined Zext...	
 0x38cc	0x06	Nemeas		ANI_WAIT	
 0x395c	0x98	Nemeas		...This is quite an alarming situation.	
-				I did not foresee that this would happen...	
+				I did not expect this would happen...	
 0x39c2	0x06	ALTO		ANI_COMPLAIN	
 0x39ec	0x98	ALTO	#6A	Creha's... The Mitos' plan...
 				Do you know anything about it?
@@ -100,9 +100,9 @@ EV_5_S06_help_nemeas
 0x3b75	0x06	Nemeas		ANI_DENY	
 0x3bbd	0x98	Nemeas		I am terribly sorry.	
 				I, too, know nothing.	
-0x3c83	0x98	Nemeas		I think there's a high possibility	
+0x3c83	0x98	Nemeas		I think there's a high probability	
 				that she shares the same motives	
-				as Master Selam...	
+				as Lord Selam...	
 0x3d55	0x98	Nemeas		It looks as if there is	
 				no other way but to find	
 				out directly from them.	

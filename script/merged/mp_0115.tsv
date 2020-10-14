@@ -865,9 +865,9 @@ tuto_museum_common
 0xe4cf	0x98	Caelum		Oh dear, you two are	
 				getting carried away...	
 0xe534	0x98	Caelum		From the looks of it, maybe you	
-				could understand Master Volans'	
-				research on Remnant Island.	
-0xe67e	0x98	ALTO	#6A	Research on Remnant Island...?	
+				would understand Dr. Volans'	
+				research of Remnant Island.	
+0xe67e	0x98	ALTO	#6A	Research of Remnant Island...?	
 0xe761	0x06	Volans		ANI_WAIT0	
 0xe78a	0x98	Volans		Heh, my main research interests are	
 				in the history of the Ciencia Sea and	
@@ -1016,7 +1016,7 @@ QS_42_quest_start
 QS_42_undertake
 0x1059b	0x06	ALTO		ANI_THANKS	
 0x105c3	0x98	ALTO		Yes, understood.	mp_0000 0x1b27a
-0x105f3	0x98	NOI	#6A	I'm worried about Master Creha, but...	
+0x105f3	0x98	NOI	#6A	I'm worried about Lady Creha, but...	
 				We can't leave the surface alone either.	
 0x10663	0x06	Volans		ANI_NOD	
 0x1068a	0x98	Volans		Mm, I am in your debt.	
@@ -1155,7 +1155,7 @@ QS_42_quest_end
 0x12177	0x06	ALTO		ANI_WAIT	
 0x121ab	0x06	NOI		ANI_DENY	
 0x121d0	0x98	NOI	#6A	...I don't know. But it doesn't sound	
-				like Master Creha or Master Selam...	
+				like Lady Creha or Lord Selam...	
 0x1223d	0x98	NOI	#6A	If that's the case,	
 				it can only be Zext...	
 0x12290	0x06	NOI		ANI_GESTURE1	
@@ -1208,7 +1208,7 @@ QS_42_quest_end
 0x12aa5	0x06	NOI		ANI_NOD	
 0x12ac9	0x98	NOI	#6A	...That's right.	mp_0100 0x17f91
 0x12b03	0x98	NOI	#6A	There's the same determination	
-				you showed the Master Creha!	
+				you showed the Lady Creha!	
 0x12b52	0x06	Volans		ANI_NOD	
 0x12b79	0x98	Volans		Heh, it seems you already	
 				found your answer.	

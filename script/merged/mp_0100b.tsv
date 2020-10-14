@@ -25,7 +25,7 @@ EV_6_S35_bombard_earth
 0x13b4	0x98	Creha	#1W	Still can you say what we're	
 				trying to do is wrong!?	
 0x1437	0x98	Creha	#1W#16S	Answer me, Nayuta!	
-0x1479	0x98	NOI	#1W#6A	...Master Creha...	
+0x1479	0x98	NOI	#1W#6A	...Lady Creha...	
 0x166d	0x98	ALTO	#2W#6A	.....................	
 				.....................	
 0x16d3	0x98	ALTO	#3W#6A	...Still...	mp_0100b 0x12d1
@@ -135,7 +135,7 @@ EV_7_S20_byebye_tera
 0x4aa9	0x98	ALTO	#1W#16S	I'll be waiting at Remnant Island!	
 0x4bc6	0x06	Signa		ANI_NOD	
 0x4c19	0x98	Signa	#1W#16S	Yeah... A promise!	
-0x4c60	0x98	Signa	#1W	Send my regards to Master	
+0x4c60	0x98	Signa	#1W	Send my regards to Master,	
 				Lyra, and Eartha!	
 0x4da0	0x06	Creha3		ANI_PRAY	
 0x4dd6	0x98	Creha3	#2W	...Thank you so much!	

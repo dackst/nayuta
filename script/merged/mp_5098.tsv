@@ -29,7 +29,7 @@ EV_5_S13_arrive_relay
 0xf33	0x06	ALTO		ANI_JOY	
 0xf58	0x98	ALTO		(I WILL stop you...!)	
 0xfba	0x6B	NOI		Ellipsis	
-0xfeb	0x98	NOI	#6A#0W	(Master Creha, Master Selam...)	
+0xfeb	0x98	NOI	#6A#0W	(Lady Creha, Lord Selam...)	
 0x1030	0x98	NOI	#6A#0W	(...I...)	
 SB_5_S08_appear_ALTO
 SB_5_S08_appear_NOI
@@ -51,7 +51,7 @@ EV_5_S09_meet_seram
 0x22b1	0x06	ALTO		ANI_WAIT2	
 0x22f6	0x98	ALTO	#1W	.........!	mp_1099 0xa0ad
 0x2605	0x06	NOI		ANI_GESTURE1	
-0x263c	0x98	NOI	#1W#6A	Master S-Selam...	
+0x263c	0x98	NOI	#1W#6A	Lord S-Selam...	
 0x273b	0x98	Seram	#1W	Nayuta Herschel.	
 				I believe I already told	
 				you at the Tower Ruins.	

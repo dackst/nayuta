@@ -5,7 +5,7 @@ stp_shrine
 0x472	0x98	ALTO		Though I'm worried about this place...	
 				Now, I'm more worried about the village.	
 0x4e0	0x98	NOI		Yeah, I imagine it's not a coincidence	
-				that Master Creha is there too...	
+				that Lady Creha is there too...	
 0x53d	0x98	NOI		Let's return to the village for	
 				now and see how things are!	
 SB_4_S10_appear_ALTO
@@ -30,7 +30,7 @@ EV_4_S10_meet_seram
 0x134a	0x6B	ALTO		Exclamation	
 0x1374	0x6B	NOI		Exclamation	
 0x1515	0x98	ALTO	#0W#500x#500y	Y-You...!	
-0x1557	0x98	NOI	#0W#300x#500y	...Master Selam.	
+0x1557	0x98	NOI	#0W#300x#500y	...Lord Selam.	
 0x15a3	0x98	Seram		Heheh, we meet again.	
 0x15e0	0x06	Seram		ANI_GESTURE2	
 0x160b	0x98	Seram		It's a shame you still haven't	
@@ -128,7 +128,7 @@ EV_4_S10_meet_seram
 				on Remnant Island...	
 0x2cfa	0x06	NOI		ANI_GESTURE1	
 0x2d23	0x98	NOI	#6A	I'm worried about	
-				Master Creha myself...	
+				Lady Creha myself...	
 0x2d73	0x06	ALTO		ANI_NOD	
 0x2d98	0x98	ALTO		...There's no choice. Let's return	
 				to the other world for now.	
@@ -146,7 +146,7 @@ EV_4_S15_temple4_front
 				hasn't stopped yet.	
 0x3441	0x06	NOI		ANI_GESTURE2	
 0x346a	0x98	NOI		Now let's hurry and	
-				go after Master Selam!	
+				go after Lord Selam!	
 0x34af	0x06	NOI		ANI_GUTSPOSE	
 0x34d8	0x98	NOI		Let's go, Nayuta!	
 				To recover the final Master Gear!	

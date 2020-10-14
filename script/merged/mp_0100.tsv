@@ -379,14 +379,14 @@ EV_2_S29_find_creha
 0xc147	0xBC	ALTO		Exclamation	
 0xc17d	0x06	ALTO		ANI_SURPRISE	
 0xc1cd	0x98	ALTO	#6A	(N-No way...!?)	
-0xc2b1	0x98	NOI	#1W#16S	Master Creha!!	
+0xc2b1	0x98	NOI	#1W#16S	Lady Creha!!	
 0xc2e6	0xBC	ALTO		Surprise	
 0xc49b	0x06	NOI		ANI_GOODIDEA	
 0xc4d2	0x98	NOI	#2W#6A	What a relief, you're still here!	
 0xc52f	0x98	NOI	#1W#6A	Thanks for finding her for me, Nayuta!		
 0xc5ae	0x98	ALTO	#1W	Uh, yeah, that's great, but...	
 0xc615	0x06	NOI		ANI_OJIGI	
-0xc649	0x98	NOI	#0W#6A	Hey, Master Creha!	
+0xc649	0x98	NOI	#0W#6A	Hey, Lady Creha!	
 				It's been so long!	
 0xc6b3	0x98	NOI	#1W#6A	I'm very happy to be able	
 				to speak with you again!!	
@@ -436,10 +436,10 @@ EV_3_S07_use_astrolabe
 				If he is the real...	
 0xe654	0x98	NOI	#6A	...I've thought about	
 				it for a while now.	
-0xe699	0x98	NOI	#6A	Even if Master Zext─	
+0xe699	0x98	NOI	#6A	Even if Lord Zext─	
 				no, Zext─is real...	
 0xe6f0	0x98	NOI	#6A	If he would dare threaten	
-				the world of Master Creha,	
+				the world of Lady Creha,	
 				then I must fight him!	
 0xe762	0x06	ALTO		ANI_WAIT	
 0xe7a3	0x98	ALTO		Noi...	
@@ -519,7 +519,7 @@ EV_3_S07_use_astrolabe
 0xf8cc	0x06	NOI		ANI_ANGRYTALK	
 0xf8f6	0x98	NOI	#6A	O-Of course not.	
 				If something happened	
-				to Master Creha...!	
+				to Lady Creha...!	
 0xf966	0x06	Creha		ANI_WAIT2	
 0xf98e	0x98	Creha		...It's all right.	
 				I will wait here.	
@@ -532,7 +532,7 @@ EV_3_S07_use_astrolabe
 0xfb37	0x98	ALTO	#6A	...Noi, let's go!	
 0xfb88	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
 0xfbe3	0x06	NOI		ANI_SPEECH	
-0xfc0a	0x98	NOI	#6A	We'll be back, Master Creha!	
+0xfc0a	0x98	NOI	#6A	We'll be back, Lady Creha!	
 0xfd6c	0x98	Creha	#0W	...............	mp_0001 0xc917
 0xfe17	0x07	System	#3C	The Sacred Mountain Continent	
 				Heimmel has been unlocked.	
@@ -546,7 +546,7 @@ EV_3_S07_use_astrolabe
 SB_3_S25_alto_move
 SB_3_S25_noi_move
 EV_3_S25_invite_creha
-0x10774	0x98	NOI		Master Creha～!	
+0x10774	0x98	NOI		Lady Creha～!	
 0x107ab	0x6B	Creha		Surprise	
 0x10895	0x06	Creha		ANI_WAIT2	
 0x108cd	0x98	Creha		Nayuta, Noi.	
@@ -602,7 +602,7 @@ EV_3_S20_go_mountain
 				also been restored?	
 0x12644	0x98	ALTO		...I have to make sure...!	
 0x127c9	0x98	NOI	#6A	Hey... Wait, Nayuta!	
-0x12a92	0x98	NOI	#6A	Master Creha, please stay	
+0x12a92	0x98	NOI	#6A	Lady Creha, please stay	
 				here a little longer!	
 0x12b0b	0x98	Creha		...O-Okay.	
 0x12b36	0xBC	NOI		Unknown	
@@ -767,7 +767,7 @@ EV_8_S10_in_astrolabe
 0x17fdd	0x98	NOI		I have no idea who	
 				I was before, but...	
 0x18053	0x98	NOI		I wish Nayuta the best of luck.	
-				For Master Creha and Master Cygna...	
+				For Lady Creha and Lord Cygna...	
 SB_8_S10_alert
 EV_8_S17_happy_end
 0x18282	0x06	ALTO		ANI_SLEEP2	
@@ -1038,7 +1038,7 @@ EV_8_S17_happy_end
 0x1d5f4	0x06	NOI		ANI_NOD	
 0x1d660	0x98	NOI	#1W#6A	I want... I want to live	
 				together with Nayuta,	
-				Master Creha, and everyone!	
+				Lady Creha, and everyone!	
 0x1d6e3	0x98	ALTO	#1W	Creha, Noi...	
 0x1d7e0	0x06	Signa2		ANI_GESTURE2	
 0x1d81a	0x98	Signa2	#1W#6A	Haha, in that case...	
@@ -1128,7 +1128,7 @@ EV_4_S26_set_gear_4th
 0x20d9d	0x98	ALTO	#6A	We've got to call her back immediately!	
 0x20def	0x98	NOI		Cygna, Nayuta, go get her!	
 0x20e32	0x98	NOI		I'll try some things myself	
-				until Master Creha returns.	
+				until Lady Creha returns.	
 0x20ea7	0x06	Signa		ANI_JOY	
 0x20ecd	0x98	Signa	#6A	Got it. Leave it to me.	
 0x20f4b	0x06	ALTO		ANI_TONTON_SHUE	

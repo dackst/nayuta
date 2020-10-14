@@ -1061,9 +1061,9 @@ EV_0_S11_go_remain_late
 0x13706	0x98	ALTO	#6A	Yeah, all right.	
 				I can go anytime.	
 0x1374e	0x06	ALTO		ANI_JOY	
-0x13773	0x98	ALTO	#6A	You heard Master. This is an	
-				important investigation for the sake	
-				of the village. Stay focused!	
+0x13773	0x98	ALTO	#6A	You heard Master. This is an important	
+				investigation for the sake of the	
+				village. Stay focused!	
 0x13805	0x06	Signa		ANI_JOY	
 0x1382b	0x98	Signa		Okay!	
 EV_8_S02_meet_lyra

@@ -25,7 +25,7 @@ EV_7_S14_battle_zext
 0x12c4	0x98	ALTO	#16S#0x#200y	Zext!!	mp_5200 0x1c08
 0x1547	0x06	ALTO		ANI_BATTOU2	
 0x15c2	0x06	NOI		ANI_SURPRISE	
-0x1607	0x98	NOI	#16S	M-Master Creha!!	
+0x1607	0x98	NOI	#16S	L-Lady Creha!!	
 0x1643	0x98	ALTO	#6A	Even Creha...	
 0x1674	0x98	ALTO	#6A	You... How can you still	
 				call yourself a father!?	
@@ -128,7 +128,7 @@ EV_7_S14_battle_zext
 0x3426	0x98	NOI	#6A	There has to be something else that	
 				could be done besides Remaking!	
 0x348b	0x98	NOI	#6A	If you are the same person who cared	
-				for Master Creha and Master Selam...	
+				for Lady Creha and Lord Selam...	
 				You should already understand!	
 0x352d	0x98	Zext	#140x#120y	Something besides Remaking?	
 0x35ba	0x06	Zext		ANI_DENY	
@@ -147,8 +147,8 @@ EV_7_S14_battle_zext
 				#16Sdear is there!!	
 0x3c22	0x06	NOI		ANI_GUTSPOSE	
 0x3c8a	0x98	NOI	#1W#16S	We'll stop you!	
-0x3d07	0x98	NOI	#1W#16S	And restore Masters Creha	
-				#16Sand Selam to normal!!	
+0x3d07	0x98	NOI	#1W#16S	And restore Lady Creha and	
+				#16S Lord Selam to normal!!	
 0x3d88	0x98	Zext	#1W#480x#250y	...So, you will thwart my	
 				efforts to the bitter end.	
 0x3e05	0x98	Zext	#2W#480x#250y	Very well.	
@@ -178,7 +178,7 @@ EV_7_S15_last_battle
 0x4fd0	0x98	NOI	#1W#6A	All right...we won!!	
 0x5115	0x98	Zext	#2W	...Guh....	
 0x5902	0x98	ALTO		Ah...!!	mp_7098 0xca10
-0x5931	0x98	NOI	#16S	Master Creha!!	mp_0100 0xc2b1
+0x5931	0x98	NOI	#16S	Lady Creha!!	mp_0100 0xc2b1
 0x596b	0x06	Creha		ANI_WAKE_UP_FROM_STONE	
 0x5a9b	0x06	ALTO		ANI_SIT6	
 0x5b86	0x98	Creha	#0W	...Nayu...ta...?	
@@ -230,7 +230,7 @@ EV_7_S15_last_battle
 0x6e8e	0xBC	NOI		Exclamation	
 0x6f33	0x3F	Name		Zext	mp_7099c 0x69d5
 0x6f3f	0x98	ZextRobo	#1W#0x#250y#6A	What...what do you mean...!?	
-0x6fd6	0x98	NOI	#6A	...!! Master Creha, is he...?	
+0x6fd6	0x98	NOI	#6A	...!! Lady Creha, is he...?	
 0x703e	0xBC	Creha		Ellipsis	
 0x707d	0x98	Creha	#0W#6A	His true identity is...	
 0x7125	0x98	Creha	#0W#6A	...He's the idol of the Planetarium.	
@@ -368,10 +368,10 @@ EV_7_S15_last_battle
 				That's all we can do for you now.	
 0xb1a9	0x98	Signa		...The rest is up to you, Nayuta!	
 0xb252	0x98	ALTO		Yeah... We can do this!!	
-0xb2a7	0x98	NOI	#6A	Cygna, take care of	
-				Master Creha!	
+0xb2a7	0x98	NOI	#6A	Cygna, take care	
+				of Lady Creha!	
 0xb2f2	0x98	Signa		Yeah, leave it to me.	
-0xb347	0x98	Creha		Do your best...both of you!	
+0xb347	0x98	Creha		Do your best... Both of you!	
 0xb37f	0x98	Creha		You can win...	
 				I believe in you!	
 0xb3de	0x98	ALTO		Yeah... We got this!!	
@@ -437,7 +437,7 @@ EV_7_S16_defeat_zext
 0xcf40	0xBC	ALTO		Surprise	
 0xcfb3	0xBC	NOI		Surprise	
 0xd00d	0xBC	Signa		Surprise	
-0xd0b4	0x98	NOI	#6A	Master Creha...?	
+0xd0b4	0x98	NOI	#6A	Lady Creha...?	
 0xd0ef	0x06	Signa		ANI_GESTURE2	
 0xd11a	0x98	Signa		What's going on all of a sudden?	
 0xd17e	0x06	Creha		ANI_THINK	
@@ -569,8 +569,8 @@ EV_7_S18_go_astrolabe
 0xfa89	0x98	Creha		The Planetarium's	
 				idol HAS fallen...	
 0xfafe	0x98	NOI	#6A#1W	.....................	mp_0003 0xc610
-0xfb8d	0x98	NOI	#6A	...Nayuta, Master Creha,	
-				everyone, get to the Astrolabe!	
+0xfb8d	0x98	NOI	#6A	...Nayuta, Lady Creha, everyone	
+				get to the Astrolabe!	
 0xfce7	0x98	ALTO		Huh...? What about you, Noi!?	
 0xfd2c	0x06	NOI		ANI_GUTSPOSE	
 0xfd55	0x98	NOI	#6A	I'm going to try to stop the	
@@ -600,7 +600,7 @@ EV_7_S18_go_astrolabe
 				finishing touches!	
 0x10769	0xBC	NOI		Ellipsis	
 0x107ae	0x98	NOI	#1W	..................	mp_0000d 0x70fd
-0x107f0	0x98	NOI	#2W	...Nayuta, Master Creha, Cygna...	
+0x107f0	0x98	NOI	#2W	...Nayuta, Lady Creha, Cygna...	
 0x10867	0x98	NOI	#1W	...I'm sorry.	
 0x108ef	0x98	NOI	#1W	The Planetarium...	
 				Sorry for not recognizing	

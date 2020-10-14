@@ -133,7 +133,7 @@ EV_6_S33_set_all_key
 0x59bb	0x06	ALTO		ANI_SURPRISE	
 0x59e5	0x06	NOI		ANI_SURPRISE	
 0x5c15	0x98	ALTO	#1W#16S#280x#270y	...!!	
-0x5c66	0x98	NOI	#1W#16S#200x#270y	M-Master Creha!?	
+0x5c66	0x98	NOI	#1W#16S#200x#270y	L-Lady Creha!?	
 0x5f66	0x98	Creha	#0W	...You guys, of course.	
 0x5fa5	0x98	Creha	#0W	You were able to come all	
 				the way back here after all.	
@@ -186,7 +186,7 @@ EV_6_S33_set_all_key
 0x69e8	0xBC	ALTO		Question	
 0x6a1e	0xBC	NOI		Question	
 0x6b0a	0x06	Creha		ANI_PUT_HAND_CONSOLE	
-0x6d63	0x98	NOI	#6A	Master Creha, what are you...?	
+0x6d63	0x98	NOI	#6A	Lady Creha, what are you...?	
 0x6dce	0x98	Creha	#0W	Stored inside the Astrolabe	
 				is an "Ancient Memory"	
 				preserved from the past.
@@ -259,7 +259,7 @@ EV_6_S36_break_up_creha
 0x8a4e	0x98	Creha	#1W	...Thank you.	
 0x8acd	0x98	Creha	#0W	...It's good to be back!	
 0x8b11	0x06	NOI		ANI_JOY	
-0x8b35	0x98	NOI	#6A	Master Creha, what a relief!!	
+0x8b35	0x98	NOI	#6A	Lady Creha, what a relief!!	
 0x8bbb	0x6B	ALTO		Ellipsis	
 0x8bed	0x06	ALTO		ANI_GUTSPOSE	
 0x8c1f	0x98	ALTO	#6A	There must be a way to save the	
@@ -274,11 +274,11 @@ EV_6_S36_break_up_creha
 				my father and brother now.	
 0x8e63	0x06	NOI		ANI_GUTSPOSE	
 0x8e8c	0x98	NOI	#6A	Oh, that's a good idea!	
-0x8ec7	0x98	NOI	#6A	Only Masters Creha and Selam, with	
-				with the Shining Wings of the Mitos,	
-				can execute the Remaking,	
-0x8f5f	0x98	NOI	#6A	All we have to do to stop the	
-				Remaking is convince Master Selam!	
+0x8ec7	0x98	NOI	#6A	Only Lady Creha and Lord Selam using	
+				the Shining Wings of the Mitos, can	
+				execute the Remaking.	
+0x8f5f	0x98	NOI	#6A	All we have to do is convince	
+				Lord Selam to stop the Remaking!	
 0x8fc5	0x06	ALTO		ANI_GESTURE2	
 0x8fef	0x98	ALTO	#6A	Let's go, Creha!	
 0x902c	0x98	ALTO	#6A	To Cygna and Zext, at	
@@ -334,7 +334,7 @@ EV_6_S36_break_up_creha
 0xb145	0x98	NOI	#0x#250y#1W	...Nayuta!!	
 0xb1eb	0x06	NOI		ANI_WAIT	
 0xb2b1	0x06	NOI		ANI_GESTURE1	
-0xb2e8	0x98	NOI	#0W#6A	Master Creha should be	
+0xb2e8	0x98	NOI	#0W#6A	Lady Creha should be	
 				in the lower stratum...	
 				In the Stellarium!	
 0xb360	0x98	NOI	#0W#6A	Hurry up and chase after them!!	
@@ -452,7 +452,7 @@ EV_7_S19_use_astrolabe
 0xe263	0x98	Noi	#3W	At first, I really hated humans.	
 0xe2b8	0x98	Noi	#0W	A savage and vicious species that	
 				triggered the world's destruction.	
-0xe38c	0x98	Noi	#1W	Master Creha told me that	
+0xe38c	0x98	Noi	#1W	Lady Creha told me that	
 				they aren't all like that,	
 				I couldn't believe it.	
 0xe43a	0x98	Noi	#0W	...Until I met Nayuta and the others.	

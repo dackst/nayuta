@@ -2235,7 +2235,7 @@ EV_3_S23_confide_asa
 				about what we've been up to.	
 0x2a4e2	0x98	NOI	#6A	We can't keep this a secret	
 				from her any longer.	
-0x2a540	0x98	NOI	#6A	If Master Creha were to	
+0x2a540	0x98	NOI	#6A	If Lady Creha were to	
 				suddenly disappear, I'd	
 				be very scared myself...	
 0x2a63e	0x98	ALTO	#6A	...All right. If you say so, Noi...	
@@ -2292,7 +2292,7 @@ EV_3_S23_confide_asa
 0x2b2e4	0x06	ALTO		ANI_SIT1_SURPRISE	
 0x2b313	0x06	NOI		ANI_SURPRISE	
 0x2b358	0x98	ALTO	#16S#6A	Huh!?	
-0x2b38c	0x98	NOI	#16S#6A	You want Master Creha!?	
+0x2b38c	0x98	NOI	#16S#6A	You want Lady Creha!?	
 0x2b3fa	0x98	Asa_b		From what you said, she's the	
 				reason you were able to get	
 				the Yupina Grass, right?	
@@ -2302,7 +2302,7 @@ EV_3_S23_confide_asa
 0x2b533	0x98	ALTO	#6A	I-I see... What do you think, Noi?	
 0x2b57f	0x06	NOI		ANI_WORRIED	
 0x2b5e9	0x98	NOI	#6A	Hmm, well, I'll have	
-				to ask Master Creha...	
+				to ask Lady Creha...	
 0x2b658	0x98	Asa_b		Hehe, then I'll look forward to it.	
 0x2b6a5	0x98	Asa_b		I'll prepare tea and sweets, so	
 				please try to convince her.	
@@ -2346,7 +2346,7 @@ EV_3_S27_bring_creha
 0x2c758	0x98	Creha	#1W#6A	No...the ones who found	
 				it were Nayuta and Noi.	
 0x2c7c4	0x98	Creha	#0W#6A	I didn't do much...	
-0x2c812	0x98	NOI	#6A	(Master Creha...)	
+0x2c812	0x98	NOI	#6A	(Lady Creha...)	
 0x2c84e	0x98	ALTO		(As I thought, she's	
 				 a little shy.)	
 0x2c8a1	0x06	Asa		ANI_WAIT4	
@@ -2373,7 +2373,7 @@ EV_3_S27_bring_creha
 				enjoy it properly.	
 0x2cfae	0x98	Creha		And you even went out of your	
 				way to invite me here...	
-0x2d04d	0x98	NOI		Master Creha...	
+0x2d04d	0x98	NOI		Lady Creha...	
 0x2d084	0x98	ALTO	#6A	You don't have to...
 0x2d0bc	0x98	Asa	#6A	...Creha, I heard you've had some	
 				trouble and lost your memory.	
@@ -2465,7 +2465,7 @@ EV_4_S12_ask_asa
 0x2e5df	0x06	NOI		ANI_GESTURE1	
 0x2e608	0x98	NOI	#6A	mp_0001 0x13e24
 0x2e633	0x06	NOI		ANI_LOOK_AROUND	
-0x2e667	0x98	NOI	#6A	...Umm, how is Master Creha!?	
+0x2e667	0x98	NOI	#6A	...Umm, how is Lady Creha!?	
 0x2e6c3	0x06	Asa		ANI_WAIT	
 0x2e6e8	0x98	Asa		If you're looking for Creha,	
 				she should be out in the village.	
@@ -2489,7 +2489,7 @@ EV_4_S12_ask_asa
 0x2ea88	0x98	NOI	#6A	Nayuta, just to make sure, you should	
 				take a look around the village.	
 0x2eadb	0x06	NOI		ANI_GESTURE1	
-0x2eb04	0x98	NOI	#6A	And check on Master Creha, too!	
+0x2eb04	0x98	NOI	#6A	And check on Lady Creha, too!	
 0x2eb86	0x98	ALTO		mp_0004 0x4dce
 0x2ebd5	0x98	Asa		I'm not sure what's going on, but...	
 				Creha should still be somewhere	
@@ -2601,7 +2601,7 @@ EV_6_S02_state_order
 				have never happened...	
 0x3260c	0x98	NOI	#0W	Nayuta and Cygna would still be	
 				living peacefully on this island...	
-0x32670	0x98	NOI	#0W	Even Master Creha...	
+0x32670	0x98	NOI	#0W	Even Lady Creha...	
 0x326cb	0x98	Asa	#6A	Don't say that, Noi.	
 0x3273e	0x98	Asa	#6A	If you had not come,	
 				I would have lost my	
@@ -2815,8 +2815,8 @@ EV_8_S04_talk_noi
 0x35ca9	0x98	NOI	#6A	All I know for sure is	
 				that the voice guided me
 				to go to the surface...	
-0x35d30	0x98	NOI	#6A	"Bring Mr. Nayuta here, and 	
-				Master Creha and Master	
+0x35d30	0x98	NOI	#6A	"Bring Mr. Nayuta here, 	
+				and Lady Creha and Lord	
 				Cygna can be saved..."	
 0x35da5	0x06	Lyra		ANI_THINK	
 0x35dcc	0x98	Lyra		Hmm... I dunno, I'm not really	

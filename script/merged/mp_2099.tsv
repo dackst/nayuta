@@ -11,16 +11,16 @@ talk_Erislet
 				to control the Power of	
 				Stars from the Temples.	
 0x1aef	0x98	Erislet		I leave taking care of
-				Master Creha to you two!	
+				Lady Creha to you two!	
 0x1b6d	0x98	Erislet		Man, I can't believe	
 				this has happened...	
 0x1bb3	0x98	Erislet		...I wonder what could have	
-				happened to Master Creha.	
+				happened to Lady Creha.	
 				I've got a bad feeling about this...	
 0x1c4f	0x98	Erislet		As for us wardens, we will	mp_2099 0x1a7a
 				attempt to control the Power	
 				of Stars from the temples.	
-0x1cc4	0x98	Erislet		I will leave Master Creha to	mp_2099 0x1aef
+0x1cc4	0x98	Erislet		I will leave Lady Creha to	mp_2099 0x1aef
 				you two!	
 0x1d42	0x98	Erislet		If you can recover the last remaining Master	
 				Gear from the Origin Continent, then the	
@@ -37,10 +37,10 @@ talk_Erislet
 0x1f7b	0x98	Erislet		I've at least been able to send the bare minimum
 				amount of Power of Stars throughout the continent...	
 				You must recover the last Master Gear soon.	
-0x2065	0x98	Erislet		I understand Master Creha
+0x2065	0x98	Erislet		I understand Lady Creha
 				has gone to the human world.	
 0x20b6	0x98	Erislet		That's probably a good thing
-				for Master Creha's sake...		
+				for Lady Creha's sake...		
 0x2117	0x98	Erislet		Though I'm a little worried about
 				the humans attacking her...	
 0x217c	0x6B	ALTO		Sweatdrop	
@@ -57,7 +57,7 @@ talk_Erislet
 				probably nothing to worry about.	
 0x23ca	0x98	Erislet		But, that's too bad. I was thinking	
 				that it was about time I stopped by	
-				to see Master Creha and say hi...	
+				to see Lady Creha and say hi...	
 0x243e	0x98	Erislet		As you can probably imagine,	
 				I can't just leave here and	
 				go to visit Nayuta's world.	
@@ -65,7 +65,7 @@ talk_Erislet
 0x24e0	0x98	NOI		If they found you, then all	
 				hell would break loose!	
 0x254f	0x98	Erislet		As a Warden, I should visit	
-				Master Creha at least once.	
+				Lady Creha at least once.	
 0x259c	0x98	Erislet		I'm sure her memory will return	
 				sooner or later... When that time	
 				comes, I'll have to come visit her.	
@@ -77,7 +77,7 @@ talk_Erislet
 				work going forward!	
 0x2749	0x98	Erislet		I've only heard about Zext	
 				through others' stories.	
-0x2791	0x98	Erislet		Apparently, he's Master Creha's father.	
+0x2791	0x98	Erislet		Apparently, he's Lady Creha's father.	
 				But...what the hell happened to him?
 0x27f1	0x98	Erislet		...In any case, he's clearly wreaking	
 				havoc on this world, so we have no	
@@ -240,7 +240,7 @@ QS_33_undertake
 0x491f	0x98	NOI	#6A	But it was my fault to begin
 				with. It's all because I let	
 				the Master Gears be stolen...	
-0x499f	0x98	NOI	#6A	Oh, Master Creha,	
+0x499f	0x98	NOI	#6A	Oh, Lady Creha,	
 				I'm so sorry...	
 0x49fc	0x06	Erislet		ANI_DENY	
 0x4a25	0x98	Erislet		But that doesn't mean	
@@ -1003,7 +1003,7 @@ EV_2_S23_boss_battle
 0x15c34	0x98	NOI	#6A	At this rate...Terra
 				itself could collapse!	
 0x15cbe	0x98	ALTO		N-No way...	mp_0111 0x86c0
-0x15e18	0x98	NOI	#6A	How dare you impersonate Master	
+0x15e18	0x98	NOI	#6A	How dare you impersonate Lord	
 				Zext and do such things...	
 				You'll never get away with this!	
 0x15ea9	0x98	Zext		...Impersonate, you say?	

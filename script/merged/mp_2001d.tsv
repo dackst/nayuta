@@ -205,7 +205,7 @@ EV_3_S11_help_eris
 0x63f9	0x06	NOI		ANI_GUTSPOSE	
 0x6422	0x98	NOI	#6A	...I've already decided.	
 				I'm going to fight that man─Zext.	
-0x64c0	0x98	Erislet		Master Creha told me a long	
+0x64c0	0x98	Erislet		Lady Creha told me a long	
 				time ago that Zext was a man	
 				of great character, but...	
 0x6572	0x98	Erislet		Now that she's lost her memory,	
@@ -217,8 +217,8 @@ EV_3_S11_help_eris
 				relationship did these two Mitos have?	
 0x66af	0x98	ALTO	#6A	From what I've been hearing, they seem to	
 				have been pretty well-acquainted, but...	
-0x6765	0x98	Erislet		...If memory serves, Master Zext	
-				and Master Creha were...	
+0x6765	0x98	Erislet		...If memory serves, Lord Zext	
+				and Lady Creha were...	
 0x67e2	0x06	Erislet		ANI_GESTURE2	
 0x680f	0x98	Erislet		Father and daughter.	
 0x686f	0x6B	ALTO		Exclamation	
@@ -226,7 +226,7 @@ EV_3_S11_help_eris
 0x68d0	0x98	ALTO	#6A	R-Really?	
 0x697d	0x98	ALTO		Zext is supposed to come	
 				from a long time ago...!	
-0x6a27	0x98	NOI	#6A	Well, I mean, so does Master Creha, but...	
+0x6a27	0x98	NOI	#6A	Well, I mean, so does Lady Creha, but...	
 0x6a7a	0x98	NOI	#6A	The Mitos are long lived. They live	
 				dozens of times longer than humans.	
 0x6ae0	0x6B	ALTO		Sweatdrop	
@@ -262,7 +262,7 @@ EV_3_S11_help_eris
 0x74a7	0x06	ALTO		ANI_WAIT	
 0x75b0	0x98	Erislet		Even if he is one of the Mitos...	
 				That man is completely different	
-				from Master Creha.	
+				from Lady Creha.	
 0x7639	0x06	Erislet		ANI_GESTURE1	
 0x7666	0x98	Erislet		That said, the only thing I	
 				can do for you right now is	

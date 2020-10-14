@@ -26,8 +26,8 @@ EV_8_S16_help_s_and_c
 0x1565	0x98	Noi2	#0W	...Yeah. Because you	
 				defeated that idol for me.	
 0x15b6	0x98	Noi2	#0W	The abnormalities of the Astrolabe have	
-				been completely removed, and Master Creha	
-				and Master Cygna have been set free.	
+				been completely removed, and Lady Creha	
+				and Lord Cygna have been set free.	
 0x1635	0x06	Noi2		ANI_THINK	
 0x16a0	0x98	Noi2	#0W	Thanks to that... We finally	
 				have a last chance to talk.	
@@ -49,9 +49,9 @@ EV_8_S16_help_s_and_c
 				found another way...	
 0x1a27	0x06	Noi2		ANI_DENY	
 0x1a6b	0x98	Noi2	#0W	...No. There is no other way.	
-0x1aaf	0x98	Noi2	#0W	For the sake of Master Creha and Master	
-				Cygna, the only solution was defeating	
-				that idol as soon as possible.	
+0x1aaf	0x98	Noi2	#0W	For the sakes of Lady Creha and Lord Cygna,	
+				the only solution was defeating that idol	
+				as quickly as possible.	
 0x1b57	0x98	Noi2	#0W	If I had told you earlier,	
 				you wouldn't have been able	
 				to fight as hard as you did...	
@@ -73,7 +73,7 @@ EV_8_S16_help_s_and_c
 0x21dd	0x06	Noi2		ANI_GESTURE1	
 0x2215	0x98	Noi2	#1W	I will never forget	
 				our adventures together...	
-0x227e	0x98	Noi2	#1W	Say hi to Master Creha	
+0x227e	0x98	Noi2	#1W	Say hi to Lady Creha	
 				and Cygna for me...	
 				And to the new me, too.	
 0x2349	0x98	Noi2	#3W	Goodbye...and thanks.	

@@ -292,8 +292,8 @@ EV_1_S07_temple_front
 0x5015	0x98	NOI		Temples have an emergency shutdown	
 				function in case something goes wrong.	
 0x508a	0x06	NOI		ANI_COMPLAIN	
-0x50b3	0x98	NOI	#6A	With the Master Gear, Zext used it	
-				to cut off the supply of Power of Stars!	
+0x50b3	0x98	NOI	#6A	Using the Master Gear, Zext cut	
+				off the supply of Power of Stars!	
 0x5136	0x06	Signa		ANI_GESTURE2	
 0x5161	0x98	Signa		...What happens if the	
 				Power of Stars stops?	

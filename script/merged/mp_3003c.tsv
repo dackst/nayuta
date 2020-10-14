@@ -38,7 +38,7 @@ EV_3_S21_get_yupina
 0x10c6	0xBC	NOI		Surprise	
 0x11ce	0x06	st		ANI_PATA2	
 0x139b	0x98	Creha	#1W	Nayuta, Noi...	
-0x13ff	0x98	NOI	#1W#16S#400x#250y	M-Master Creha!?	mp_0100a 0x5c66
+0x13ff	0x98	NOI	#1W#16S#400x#250y	L-Lady Creha!?	mp_0100a 0x5c66
 0x152b	0x06	ALTO		ANI_WAIT	
 0x169d	0x98	Creha	#6A	Is it no good...?	
 0x1716	0x06	ALTO		ANI_NOD	
@@ -52,7 +52,7 @@ EV_3_S21_get_yupina
 0x19b9	0xBC	NOI		Surprise	
 0x1aa7	0x98	ALTO	#1W#6A	...Huh?	mp_0100 0x19b81
 0x1ade	0x06	NOI		ANI_GESTURE1	
-0x1b07	0x98	NOI	#6A	Master Creha?	
+0x1b07	0x98	NOI	#6A	Lady Creha?	
 0x1bb3	0x98	Creha	#1W	..................	mp_0000d 0x70fd
 0x1ff1	0xBC	ALTO		Exclamation	
 0x2027	0xBC	NOI		Exclamation	
@@ -77,8 +77,8 @@ EV_3_S21_get_yupina
 0x2bac	0x98	Creha	#0W	...I don't know.	mp_3002c 0x5634
 0x2be1	0x98	Creha	#0W	My body just...acted on its own...	
 0x2c61	0x98	NOI	#6A	The Shining Wing of the Mitos appears 
-				when Master Creha uses her powers.	
-0x2d06	0x98	NOI	#6A	Master Creha must have resurrected	
+				when Lady Creha uses her powers.	
+0x2d06	0x98	NOI	#6A	Lady Creha must have resurrected	
 				the Yupina Grass by manipulating	
 				the Power of Stars!	
 0x2da4	0x98	Creha		I can...do that...?	
@@ -99,7 +99,7 @@ EV_3_S21_get_yupina
 				ever thank you and Noi...	
 0x31b6	0x06	NOI		ANI_DENY	
 0x31f8	0x98	NOI	#6A	No, I didn't... This is all	
-				thanks to Master Creha!	
+				thanks to Lady Creha!	
 0x3297	0xBC	Creha		Unknown	
 0x3314	0x98	Creha		Umm...er, that's not true.	
 0x338c	0x98	Creha		...I'm sure it's all thanks	

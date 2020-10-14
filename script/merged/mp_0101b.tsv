@@ -158,13 +158,13 @@ EV_5_S02_talk_noi
 0x3282	0x06	NOI		ANI_GESTURE2	
 0x32ab	0x98	NOI		Nayuta... Thank goodness I found you!	
 0x32f6	0x06	NOI		ANI_COMPLAIN	
-0x331f	0x98	NOI		Master Creha...	
-				Where is Master Creha!?	
+0x331f	0x98	NOI		Lady Creha...	
+				Where is Lady Creha!?	
 0x336c	0x98	NOI		Is Cygna with you!?	
 0x33c4	0x98	ALTO	#6A#0W	...Noi, I'm sorry.	
 				Creha is...	
-0x3410	0x40	UNDEF		Nayuta explained that Cygna left again, and that Creha	
-				joined Selam.	
+0x3410	0x40	UNDEF		Nayuta explained that Cygna left again, and that	
+				Creha joined Selam.	
 0x3483	0x06	NOI		ANI_GESTURE1	
 0x34ac	0x98	NOI	#0W	N-No way...	
 				Why...!?	
@@ -208,9 +208,9 @@ EV_5_S02_talk_noi
 				that delivers the Power of Stars	
 				to all of this world...	
 0x3e09	0x06	NOI		ANI_GESTURE1	
-0x3e32	0x98	NOI	#6A	Master Creha, the final key,	
-				is probably there, along with	
-				Zext and Master Selam.	
+0x3e32	0x98	NOI	#6A	Lady Creha, the final key,	
+				is probably there, along	
+				with Zext and Lord Selam.	
 0x3e85	0x98	NOI	#6A	All to fulfill the	
 				Mitos' mission...	
 0x3f8f	0x6B	ALTO		Ellipsis	
@@ -228,7 +228,7 @@ EV_5_S02_talk_noi
 0x41b4	0x98	ALTO	#6A	...? What do you mean?	
 0x4211	0x98	NOI		I am, originally, a Warden,	
 				who follows the orders of	
-				Master Creha and the others...	
+				Lady Creha and the others...	
 0x4283	0x06	NOI		ANI_GESTURE1	
 0x42ac	0x98	NOI		We were designed so that we're unable	
 				to discuss certain critical things,	

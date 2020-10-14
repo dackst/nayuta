@@ -109,7 +109,7 @@ EV_6_S01_stop_warp
 0x34df	0x98	ALTO_pj	#0W	What happened back there?	
 0x3527	0x06	NOI		ANI_GESTURE1	
 0x3550	0x98	NOI	#6A	...We were... We were probably	
-				saved by Master Creha.	
+				saved by Lady Creha.	
 0x35bc	0x98	ALTO_pj		Creha...!?	
 0x3607	0x98	NOI	#6A	Seems like she cast her	
 				magic on us just in time...	
@@ -129,7 +129,7 @@ EV_6_S01_stop_warp
 0x389f	0x98	NOI	#6A	They probably did it to 	
 				prevent us from interfering	
 				more than we already have.	
-0x3915	0x98	NOI	#6A	Master Creha...and Master Selam.	
+0x3915	0x98	NOI	#6A	Lady Creha...and Lord Selam.	
 0x3963	0x98	ALTO_pj	#1W	.........	mp_0000d 0x70fd
 0x39b2	0x98	ALTO_pj		...I'm still not sure	
 				what's happening.	
