@@ -865,7 +865,7 @@ talk_Lyra
 				lesson in the academic world and	
 				become a little more mature by now.
 0xd453	0x98	ALTO		Haha, well I only started	
-				at Saint Cerise Academy	
+				at San Ceriz Academy	
 				four months ago.	
 0xd4b8	0x98	Lyra		Hmph... Oh, whatever.	
 				Just don't get hurt.	
@@ -1507,7 +1507,7 @@ QS_34_think_and_flash
 0x17052	0x6B	ALTO		Surprise	
 0x1709a	0x06	ALTO		ANI_GOODIDEA	
 0x170ea	0x98	ALTO		(Oh yeah, I think there was a	
-				 herb shop in Saint Cerise that	
+				 herb shop in San Ceriz that	
 				 specialized in incense.)	
 0x17150	0x98	ALTO		(There are herbs that, if you smell them,	
 				 they calm the heart, and they're pretty	
@@ -1619,7 +1619,7 @@ EV_0_S02_morn_town
 0x1935f	0x98	Signa	#6A	Ahhh, that was quite a long trip.	
 0x193b1	0x06	ALTO		ANI_GESTURE2	
 0x193db	0x98	ALTO		There's 1760 selge between	
-				Remnant Isle and Saint Cerise.	
+				Remnant Isle and San Ceriz.	
 0x19444	0x06	ALTO		ANI_THINK	
 0x1946b	0x98	ALTO		Even though Captain Puppis' ferry	
 				is so fast, it still took us half	
@@ -1761,15 +1761,15 @@ EV_2_S05_meet_hydol
 0x1bf4b	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x1bf79	0x98	ALTO	#6A	Ahaha... You must be exhausted.	
 0x1bfba	0x06	ALTO		ANI_THANKS	
-0x1bfe2	0x98	ALTO	#6A	You came all the way from the Saint	
-				Cerise Medical Clinic just for us...	
+0x1bfe2	0x98	ALTO	#6A	You came all the way from the San	
+				Ceriz Medical Clinic just for us...	
 				You always help everyone a lot.	
 0x1c073	0x06	Hydol		ANI_DENY	
 0x1c09a	0x98	Hydol		No, this is normal	
 				for us doctors to do.	
 0x1c0f4	0x06	Hydol		ANI_GESTURE2	
 0x1c11f	0x98	Hydol		Speaking of which, I heard	
-				you enrolled at Saint Cerise	
+				you enrolled at San Ceriz	
 				Academy...	
 0x1c17f	0x06	Hydol		ANI_WAIT2	
 0x1c1a7	0x98	Hydol		Oh, right, it's summer vacation now.	
@@ -1823,7 +1823,7 @@ EV_4_S07_creha_scene_1st
 0x1d65b	0x06	Eida		ANI_NOD	
 0x1d680	0x98	Eida		Wow! Then you must	
 				be a friend of his	
-				from Saint Cerise.	
+				from San Ceriz.	
 0x1d6de	0x06	Eida		ANI_WAIT3	
 0x1d705	0x98	Eida		Could you be...?	
 				Are you his girlfriend?	

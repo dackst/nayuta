@@ -7,7 +7,7 @@ EV_0_S00_night_ship
 0xbb7	0x41	None	#0W#2E	Summer, 1579#0E	
 0xc25	0x41	None	#0W#2E	On the Ciencia Sea, approximately	
 				980 selge southwest of the	
-				port city of Saint Cerise... #0E	
+				port city of San Ceriz... #0E	
 0x113c	0x98	ALTO	#0W	The wind sure is picking up...	
 0x131e	0x06	ALTO		ANI_USE_SEXTANT	
 0x13cd	0x98	ALTO	#1W	Is it...87.61 degrees?	
@@ -74,7 +74,7 @@ EV_0_S00_night_ship
 0x2cf2	0x98	ALTO	#0W	Yeah, I guess so.	
 0x2f74	0x40	ALTO		(Mom and Dad in heaven...	
 				 Soon, I'll be returning to the island.)	
-0x2fe0	0x40	ALTO		(My sister let me go to Saint Cerise Academy,
+0x2fe0	0x40	ALTO		(My sister let me go to San Ceriz Academy,
 				 where I've really been learning something	
 				 new every day.)	
 0x305d	0x40	ALTO		(It's been so busy, I've barely been able	

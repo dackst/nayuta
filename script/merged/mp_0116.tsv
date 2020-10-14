@@ -166,7 +166,7 @@ talk_Serpent
 0x2ca6	0x98	Serpent		Even the most renowned scientists have	
 				never been able to fully explain it...	
 0x2d14	0x98	ALTO		Oh yeah, I asked my professor	
-				at Saint Cerise academy about	
+				at San Ceriz academy about	
 				it, but...	
 0x2d7e	0x98	ALTO		Right now, we have no	
 				idea what causes it.	
@@ -218,9 +218,9 @@ talk_Serpent
 				practically raised you like a mother.	
 				You have a lot to thank her for.	
 0x36fc	0x98	Serpent		Hmm, you're 15 years old already...	
-				Now that you've entered Saint Cerise Academy,	
+				Now that you've entered San Ceriz Academy,	
 				you can't keep playing as much as before.	
-0x3787	0x98	Serpent		Study hard like I did when I was a child,	
+0x3787	0x98	Serpent		Study hard like I did when I was younger,	
 				and I'm sure your future will be─	
 0x3815	0x6B	Serpent		Exclamation	
 0x384a	0x98	Serpent		Guh!?	
@@ -232,7 +232,7 @@ talk_Serpent
 				village, you should relax, yes?	
 0x39a2	0x6B	ALTO		Sweatdrop	
 0x39fc	0x98	Serpent		Oh, ow-ow-ow...	
-				You can't win against
+				There's no winning against
 				time after all.	
 0x3a62	0x98	Serpent		mp_0116 0x3942
 talk_Canis
