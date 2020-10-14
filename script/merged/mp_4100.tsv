@@ -5,7 +5,7 @@ stp_shrine
 0x472	0x98	ALTO		Though I'm worried about this place...	
 				Now, I'm more worried about the village.	
 0x4e0	0x98	NOI		Yeah, I imagine it's not a coincidence	
-				that Master Kureha is there too...	
+				that Master Creha is there too...	
 0x53d	0x98	NOI		Let's return to the village for	
 				now and see how things are!	
 SB_4_S10_appear_ALTO
@@ -128,14 +128,14 @@ EV_4_S10_meet_seram
 				on Remnant Island...	
 0x2cfa	0x06	NOI		ANI_GESTURE1	
 0x2d23	0x98	NOI	#6A	I'm worried about	
-				Master Kureha myself...	
+				Master Creha myself...	
 0x2d73	0x06	ALTO		ANI_NOD	
 0x2d98	0x98	ALTO		...There's no choice. Let's return	
 				to the other world for now.	
 0x2df1	0x06	ALTO		ANI_GESTURE1	
 0x2e1b	0x98	ALTO		We've got to check up on	
-				Kureha and Remnant Island...	
-0x2f47	0xCE	Objective		I'm worried about the island and Kureha. Let's return to check.	
+				Creha and Remnant Island...	
+0x2f47	0xCE	Objective		I'm worried about the island and Creha. Let's return to check.	
 EV_4_S15_temple4_front
 0x32d7	0x06	ALTO		ANI_WAIT4	
 0x32fe	0x98	ALTO	#6A	It's super hot here,	

@@ -18,12 +18,12 @@ stp_cape
 0xcbf	0x98	ALTO		I don't have time for any detours...	mp_0000d 0xbc5
 				I've got to get to the beach!	
 talk_Dorado
-0xdeb	0x98	Dorado		Kureha... I... I...!	
+0xdeb	0x98	Dorado		Creha... I... I...!	
 0xe1f	0x98	Dorado		...Ooh... I'm sorry I	
 				couldn't protect you!	
 0xe72	0x98	ALTO		(...Dorado...)	
 0xec8	0x98	Dorado		The village was attacked, 	
-				and Kureha was kidnapped...	
+				and Creha was kidnapped...	
 0xf1f	0x98	Dorado		I... Ooh, I'm so pathetic...	
 				I wonder if I can still be	
 				a village guard after this...	
@@ -132,24 +132,24 @@ EV_4_S29_find_dorado
 0x29c1	0x98	Dorado	#1W#6A#300x#200y	A strange man in a black robe...	
 				He attacked us...!	
 0x2a26	0x98	Dorado	#1W#6A#300x#200y	...He seems to be trying	
-				to kidnap Kureha!	
+				to kidnap Creha!	
 0x2a7c	0x6B	ALTO		Exclamation	
 0x2aae	0x98	ALTO		(Could he be talking about Zext...!?)	
-0x2b04	0x98	ALTO		Where is Kureha...?	
+0x2b04	0x98	ALTO		Where is Creha...?	
 				And Eartha and Lyra!?	
 0x2b4e	0x98	Dorado	#1W#6A#300x#200y	Eartha and the others	
 				evacuated to the museum	
 				with the injured...	
-0x2bb8	0x98	Dorado	#0W#6A#300x#200y	But Lyra and Kureha are...	
+0x2bb8	0x98	Dorado	#0W#6A#300x#200y	But Lyra and Creha are...	
 				...out by the beach...	
 0x2c16	0x98	Dorado	#1W#6A#300x#200y	Ooh...	
 0x2c7e	0x40	UNDEF		Dorado has lost consciousness.	
 0x2cc1	0x98	ALTO		Dorado...	
 0x2cea	0x98	ALTO		...I'm going now.	
-				For Lyra and Kureha, I...	
+				For Lyra and Creha, I...	
 0x2dfa	0x06	ALTO		ANI_WAIT	
 0x2e60	0x98	ALTO		...I gotta hurry!	
-0x2f2f	0xCE	Objective		Kureha and Lyra are on the beach, and I've got to hurry!	
+0x2f2f	0xCE	Objective		Creha and Lyra are on the beach, and I've got to hurry!	
 SB_4_S31_appear_ALTO
 SB_4_S31_appear_Lyra
 0x2fab	0x06	Lyra		ANI_RUN2	
@@ -183,11 +183,11 @@ EV_4_S31_escape_village
 				You're all okay!	
 0x3f4c	0x06	ALTO		ANI_GESTURE2	
 0x3f76	0x98	ALTO		You too...!	
-0x4082	0x98	ALTO		Eartha, Kureha is in trouble...!
+0x4082	0x98	ALTO		Eartha, Creha is in trouble...!
 				Her head suddenly started hurting...	
 0x40cf	0x98	Creha	#1W#6A	...Eartha...	
 0x410a	0x06	Asa		ANI_GESTURE2	
-0x41bf	0x98	Asa		Kureha... Anyway, let's	
+0x41bf	0x98	Asa		Creha... Anyway, let's	
 				go to the museum.	
 0x42c1	0x98	Asa		We just brought Dorado	
 				there as well─	
@@ -225,12 +225,12 @@ EV_4_S31_escape_village
 0x5910	0x6B	Barton		Surprise	
 0x5988	0x6B	Lyra		Surprise	
 0x5a18	0x6B	Creha		Surprise	
-0x5b70	0x98	Asa		Nayuta, take Kureha and	
+0x5b70	0x98	Asa		Nayuta, take Creha and	
 				run to the Tower Ruins.	
 0x5bc2	0x06	Asa		ANI_GESTURE2	
 0x5c08	0x98	Asa		We'll draw their attention.	
 				In the meantime, you help	
-				Kureha hide in a safe place.
+				Creha hide in a safe place.
 0x5ca5	0x06	ALTO		ANI_COMPLAIN	
 0x5ccf	0x98	ALTO	#6A	N-No way... Are you saying	
 				to use you guys as bait!?	
@@ -258,14 +258,14 @@ EV_4_S31_escape_village
 0x62d5	0x06	Creha		ANI_COMPLAIN	
 0x6300	0x98	Creha	#1W#6A	B-But...!	
 0x636a	0x06	Asa		ANI_WAIT2	
-0x63d2	0x98	Asa		Hehe, thanks for the concern, Kureha.	
+0x63d2	0x98	Asa		Hehe, thanks for the concern, Creha.	
 				But right now, just focus on escaping.	
 0x64ac	0x98	Asa		...Nayuta, stay strong	
-				and protect Kureha.	
+				and protect Creha.	
 0x6528	0x06	ALTO		ANI_NOD	
 0x654d	0x98	ALTO	#6A	...Got it!	
 0x657a	0x98	ALTO	#6A	Be careful, everyone!	
-0x65f6	0x98	ALTO	#6A	Let's go, Kureha!	
+0x65f6	0x98	ALTO	#6A	Let's go, Creha!	
 0x6666	0x06	Creha		ANI_NOD	
 0x668c	0x98	Creha	#0W	.........*gulp*	
 SB_5_S00_appear_Asa
@@ -280,7 +280,7 @@ EV_5_S00_talk_islander
 				suspicious about the attack that had	
 				happened for seemingly no reason...#0E	
 0x6eb1	0x41	None	#2E	Nayuta, asked to explain by the elder, revealed	
-				the entire situation, including Kureha's departure.#0E	
+				the entire situation, including Creha's departure.#0E	
 0x7057	0x98	Lyra	#0W	Nayuta, you... you went to Lost Heaven...	
 0x70a4	0x98	Lyra	#0W	And what's more, Cygna's gone missing in it...	
 0x70fd	0x98	ALTO	#1W	.....	
@@ -298,7 +298,7 @@ EV_5_S00_talk_islander
 0x7566	0x98	ALTO		...I'm going to go to	
 				that other world again.	
 0x75b5	0x06	ALTO		ANI_DENY	
-0x75db	0x98	ALTO		Kureha leaving of her own will...	
+0x75db	0x98	ALTO		Creha leaving of her own will...	
 				I'm still not convinced.	
 0x764a	0x06	Lyra		ANI_WAIT2	
 0x7671	0x98	Lyra		Nayuta...	
@@ -324,7 +324,7 @@ EV_5_S00_talk_islander
 				Nayuta go for me.	
 0x7df1	0x98	Serpent	#6A	Hmm...?	
 0x7e2e	0x06	Asa		ANI_COMPLAIN	
-0x7e57	0x98	Asa		Kureha is already a member of the village.	
+0x7e57	0x98	Asa		Creha is already a member of the village.	
 0x7ea0	0x98	Asa		I even like to think of	
 				her as my own sister.	
 0x7eee	0x06	Asa		ANI_NOD	
@@ -347,7 +347,7 @@ EV_5_S00_talk_islander
 				Orvus and Eartha both	
 				vouch that much for you.	
 0x8263	0x98	Serpent	#6A	I am certainly worried	
-				about Kureha and Cygna.	
+				about Creha and Cygna.	
 0x84d3	0x06	Serpent		ANI_NOD	
 0x84fb	0x98	Serpent	#6A	If it's come to this,	
 				show them what you're	
@@ -359,7 +359,7 @@ EV_5_S00_talk_islander
 				return to us safe and sound.	
 0x8647	0x06	Lyra		ANI_WAIT2	
 0x868c	0x98	Lyra		Because I'll be waiting for you.	
-				Come home Kureha and Cygna...	
+				Come home Creha and Cygna...	
 0x870b	0x06	ALTO		ANI_NOD	
 0x8730	0x98	ALTO	#6A	I understand, Lyra.	
 0x8766	0x06	ALTO		ANI_JOY	

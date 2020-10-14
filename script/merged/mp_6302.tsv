@@ -62,14 +62,14 @@ EV_6_S29_hituzi_boss
 0x284c	0x06	Nemeas		ANI_GESTURE1	
 0x2898	0x98	Nemeas		As a Warden of the continents,	mp_6300 0x2c43
 				I cannot allow you to interfere in	
-				the Remaking of Master Kureha and the others.	
+				the Remaking of Master Creha and the others.	
 0x2953	0x06	NOI		ANI_COMPLAIN	
 0x297c	0x98	NOI	#6A	...Stop it, Nemeas!	
 0x29f2	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f
 				surface where Nayuta is...	
 0x2a48	0x06	NOI		ANI_DENY	
 0x2a6d	0x98	NOI	#6A	We don't want to let Master	mp_6300 0x2e1a
-				Kureha do that!	
+				Creha do that!	
 0x2ac1	0x06	ALTO		ANI_JOY	
 0x2ae6	0x98	ALTO	#6A	Yeah, we've got to stop her,	mp_6300 0x2e93
 				no matter what!	
@@ -99,7 +99,7 @@ EV_6_S29_hituzi_boss
 				keep going.	
 0x3148	0x06	ALTO		ANI_JOY	
 0x316d	0x98	ALTO	#6A	To see Cygna and	
-				Kureha again!	
+				Creha again!	
 0x3222	0x98	Nemeas		...I am sorry to hear that.	
 0x3297	0x98	Nemeas		Then──!	
 0x3311	0x06	Nemeas		ANI_WAIT	
@@ -147,7 +147,7 @@ EV_6_S30_bye_nemeas
 0x5197	0x06	NOI		ANI_WAIT	
 0x51bc	0x06	ALTO		ANI_GESTURE2	
 0x51e6	0x98	ALTO	#6A	No matter what I find out...	
-				My desire to stop Kureha and	
+				My desire to stop Creha and	
 				the others will not change.	
 0x526c	0x06	Nemeas		ANI_NOD	
 0x52db	0x98	Nemeas		Hehe... I suppose that was	
@@ -164,14 +164,14 @@ EV_6_S30_bye_nemeas
 0x5fb2	0x06	Nemeas		ANI_NOD	
 0x6071	0x98	Nemeas		May the stars guide your path.	mp_6302 0x889
 0x60b1	0x98	Nemeas		Please, take care of	
-				Master Kureha and the others.	
+				Master Creha and the others.	
 0x610b	0x06	ALTO		ANI_THANKS	
 0x6133	0x98	ALTO	#6A	Yes!	mp_0001 0xfd91
 0x6226	0x06	NOI		ANI_GESTURE2	
 0x624f	0x98	NOI	#6A	Anyway with this, we've	mp_6300 0x63a4
 				gathered all of the Stellagears!	
 0x62b2	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
-				and chase after Kureha and the others!	
+				and chase after Creha and the others!	
 SB_6_S31_turn_Gio
 SB_6_S31_turn_Erislet
 SB_6_S31_turn_Algorl

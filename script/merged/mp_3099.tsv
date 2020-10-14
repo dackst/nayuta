@@ -25,17 +25,17 @@ talk_Algorl
 0x33ca	0x98	Algorl		If the four Wardens pool	
 				their strength, then perhaps...	
 0x3424	0x98	Algorl		However, you are the only ones	
-				who can save Master Kureha.	
+				who can save Master Creha.	
 				...We are counting on you.	
 0x34d2	0x98	Algorl		There seems to be a chaotic situation unfolding...	
-0x3519	0x98	Algorl		However, if Kureha was indeed	
+0x3519	0x98	Algorl		However, if Creha was indeed	
 				kidnapped, it's only natural	
 				that you should pursue them.	
 0x3593	0x98	Algorl		We will do all we are able to support you.	
 				...But now, you should hurry ahead.	
 0x3622	0x98	Algorl		Going through such lengths, there's no	
 				mistaking that Zext must be planning	
-				to use Kureha for something...	
+				to use Creha for something...	
 0x3698	0x98	Algorl		Hurry onwards, you two.	
 0x370b	0x98	Algorl		This magic I have given to Noi	
 				is a fragment of my own power. 	
@@ -43,7 +43,7 @@ talk_Algorl
 0x377b	0x98	Algorl		In the coming days, you will	
 				face countless trials, but...	
 				You must ever give up.	
-0x37e4	0x98	Algorl		For Terra and Master Kureha...	
+0x37e4	0x98	Algorl		For Terra and Master Creha...	
 				Please, take care of them.	
 0x3866	0x98	Algorl		Hmm...as I thought, I am currently	
 				in no condition to restart this Temple.	
@@ -615,7 +615,7 @@ QS_83_quest_end
 0xd520	0x06	NOI		ANI_GUTSPOSE	
 0xd549	0x98	NOI	#6A	As expected, you're amazing Nayuta!	mp_1099 0xdfd1
 0xd58e	0x98	NOI	#6A	If we keep going like this,	mp_1099 0xe016
-				both Master Cygna and Master Kureha will...	
+				both Master Cygna and Master Creha will...	
 0xd5fe	0x06	ALTO		ANI_JOY	
 0xd623	0x98	ALTO		Yeah, I'm sure we'll be able to save them.	mp_1099 0xe0ab
 0xd66d	0x98	ALTO		While we were fighting the idols,	mp_1099 0xe0f5
@@ -702,7 +702,7 @@ QS_83_quest_end
 				Even so, Noi is Noi.	
 0xe840	0x06	Nemeas		ANI_NOD	
 0xe867	0x98	Nemeas		With Nayuta, I am certain you can save	mp_1099 0xf2ef
-				Masters Kureha and Cygna.	
+				Masters Creha and Cygna.	
 0xe90c	0x98	NOI	#6A	Y-Yeah!	mp_0004 0x64d8
 0xe93d	0x06	Gio		ANI_THINK	
 0xe963	0x98	Gio		Hmm, even so...	mp_1099 0xf3eb
@@ -767,7 +767,7 @@ QS_83_quest_end
 0xf637	0x98	Gio	#6A	We will be watching over you always.	mp_1099 0x100bf
 				Carry out your mission properly.	
 0xf6a5	0x06	Erislet		ANI_NOD	
-0xf6db	0x98	Erislet	#1W	Masters Kureha and Selam	mp_1099 0x10163
+0xf6db	0x98	Erislet	#1W	Masters Creha and Selam	mp_1099 0x10163
 				are waiting for you.	
 0xf743	0x98	Erislet	#1W	As for our part,	mp_1099 0x101cb
 				we intend to do our very best!	
@@ -807,7 +807,7 @@ QS_83_quest_end
 0x10496	0x98	NOI	#6A	...Let's get our preparations in order,	mp_1099 0x10f1e
 				heading for the final battle.	
 0x10504	0x06	NOI		ANI_GUTSPOSE	
-0x1052d	0x98	NOI	#6A	To save Masters Kureha and Cygna!	mp_1099 0x10fb5
+0x1052d	0x98	NOI	#6A	To save Masters Creha and Cygna!	mp_1099 0x10fb5
 0x105b0	0x06	ALTO		ANI_NOD	
 0x105d5	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x10636	0x07	System	#3C	Quest [Crush the Four Idols] completed!	mp_1099 0x110be

@@ -2,7 +2,7 @@ mp_0001d
 init
 stp_tower
 0x484	0x98	ALTO		This is no time to get sidetracked...	
-				I've got to look for Kureha!	
+				I've got to look for Creha!	
 quest_Pyxia
 0x548	0x98	Pyxia		...Mishy? What's that?	
 				I haven't seen him.	
@@ -38,16 +38,16 @@ talk_Lyra
 0xa9d	0x98	ALTO		Lyra... If you hang around here	
 				like this, you'll catch a cold.	
 0xae8	0x98	Lyra		Yeah, I know, but...	
-0xb21	0x98	Lyra		...Kureha... Why did	
+0xb21	0x98	Lyra		...Creha... Why did	
 				she go with him...?	
 0xb70	0x98	Lyra		Did she hate us	
 				that much...?	
 0xbb5	0x98	ALTO		I don't know, but...	
-0xbe9	0x98	ALTO		Kureha was grateful to	
+0xbe9	0x98	ALTO		Creha was grateful to	
 				everyone on the island...	
 				She said she had fun here.	
 0xc4a	0x98	ALTO		That's why I'm sure, this isn't	
-				what Kureha really wants.	
+				what Creha really wants.	
 0xcb3	0x98	ALTO		...That's good enough for me.	
 0xcf2	0x98	Lyra		Nayuta...	mp_0000d 0x7671
 0xd1b	0x98	Lyra		...Yeah, I understand.	
@@ -64,7 +64,7 @@ talk_Lyra
 				them both. You can bring	
 				them back to us, right?	
 0xf46	0x98	Lyra		Nayuta... You have to bring
-				Cygna and Kureha back to us!	
+				Cygna and Creha back to us!	
 0xfa1	0x98	Lyra		I'll be waiting on this island.	
 				For all of you to return.	
 talk_Dog_before

@@ -3,7 +3,7 @@ init
 talk_Gio
 0x61b	0x98	Gio		Gwahaha... It seems that I, too,	
 				am tempted to make a gamble...	
-0x66b	0x98	Gio		Master Kureha and the other	
+0x66b	0x98	Gio		Master Creha and the other	
 				Mitos were the ones that	
 				gave me the role of Warden...	
 0x6ba	0x98	Gio		You must be strong-willed	
@@ -70,14 +70,14 @@ EV_6_S23_yagi_boss
 0x280b	0x06	Gio		ANI_GESTURE1	
 0x2851	0x98	Gio		As a Warden of the continents,	mp_6300 0x2c43
 				I cannot allow you to interfere in	
-				the Remaking of Master Kureha and the others.	
+				the Remaking of Master Creha and the others.	
 0x2906	0x06	NOI		ANI_COMPLAIN	
 0x292f	0x98	NOI	#6A	...What do you mean, Geo!?	
 0x299c	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f
 				surface where Nayuta is...	
 0x29f2	0x06	NOI		ANI_DENY	
 0x2a17	0x98	NOI	#6A	We don't want to let Master	mp_6300 0x2e1a
-				Kureha do that!	
+				Creha do that!	
 0x2a6b	0x06	ALTO		ANI_JOY	
 0x2a90	0x98	ALTO	#6A	Yeah, we've got to stop her,	mp_6300 0x2e93
 				no matter what!	
@@ -134,13 +134,13 @@ EV_6_S24_bye_gio
 				on the continents...	
 0x4be6	0x06	Gio		ANI_NOD	
 0x4c27	0x98	Gio		That was given to	
-				me by Master Kureha	
+				me by Master Creha	
 				and the Mitos.	
 0x4c9e	0x98	NOI	#6A	...The duty of the Wardens...	
 0x4cfe	0x06	NOI		ANI_GESTURE1	
 0x4d27	0x98	NOI	#6A	Geo, I...!	
 0x4dfb	0x98	Gio		Stop talking, Noi.	
-0x4e36	0x98	Gio		Your care for Master Kureha	
+0x4e36	0x98	Gio		Your care for Master Creha	
 				and the Mitos is on itself	
 				a form of righteousness. 	
 0x4ece	0x98	Gio		And, your will has defeated mine.	
@@ -163,7 +163,7 @@ EV_6_S24_bye_gio
 0x5e12	0x98	Gio		Though I cannot help you directly...	
 				I leave everything in your care.	
 0x5e96	0x06	Gio		ANI_NOD	
-0x5f46	0x98	Gio		Master Kureha and Master Selam...	
+0x5f46	0x98	Gio		Master Creha and Master Selam...	
 				Please take care of them.	
 0x5fa1	0x06	NOI		ANI_GUTSPOSE	
 0x5fca	0x98	NOI	#6A	Got it...	
@@ -173,6 +173,6 @@ EV_6_S24_bye_gio
 				gathered all of the Stellagears!	
 0x616a	0x06	ALTO		ANI_JOY	
 0x618f	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
-				and chase after Kureha and the others!	
+				and chase after Creha and the others!	
 EV_6_S37_check_bossmap1
 0x666d	0x40	UNDEF		There is no trace of Geo.	

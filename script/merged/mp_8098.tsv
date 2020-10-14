@@ -29,7 +29,7 @@ EV_8_S11_boss_battle
 				can move around like normal.	
 0x2b9c	0x06	ALTO		ANI_WAIT4	
 0x2be1	0x98	ALTO		Now, on to finding	
-				Cygna and Kureha...	
+				Cygna and Creha...	
 0x2c77	0x6B	ALTO		Exclamation	
 0x2cbf	0x06	ALTO		ANI_TENSION_SURPRISE	
 0x2cf9	0x98	ALTO	#16S	Wh-What is that!?	mp_0002d 0x627c
@@ -40,7 +40,7 @@ EV_8_S11_boss_battle
 0x3472	0x41	None	#2W#2E#6C	Else be cast into an unyielding	
 				prison of eternal darkness...#0E	
 0x3528	0x98	ALTO	#1W#6A	Crap... This is the thing that	
-				defeated Cygna and Kureha!	
+				defeated Cygna and Creha!	
 0x35a5	0x06	ALTO		ANI_BATTOU2	
 0x35fa	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
 0x366e	0x41	None	#1W#2E#6C	...It seems that you do not intend to leave...	

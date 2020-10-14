@@ -217,7 +217,7 @@ EV_6_S11_help_lyra
 0x6d3b	0x98	ALTO		Huh?	mp_0004 0x392d
 0x6d85	0x06	NOI		ANI_GESTURE1	
 0x6dae	0x98	NOI	#6A	The Mitos...	
-				Zext and Master Kureha...	
+				Zext and Master Creha...	
 				They're really powerful.	
 0x6e2f	0x98	NOI	#6A	I thought...maybe I could	
 				never stop their mission...		
@@ -250,6 +250,6 @@ EV_6_S11_help_lyra
 				sure how yet...	
 0x73a4	0x06	ALTO		ANI_WAIT4	
 0x73e9	0x98	ALTO		We will definitely stop	
-				Cygna and Kureha, together!	
+				Cygna and Creha, together!	
 0x7443	0x06	NOI		ANI_NOD	
 0x7467	0x98	NOI	#6A	...Yeah!	mp_0001c 0x406c

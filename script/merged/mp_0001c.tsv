@@ -45,7 +45,7 @@ talk_Dorado
 0x11e6	0x98	Dorado		With him, there's not that much	
 				to worry about. He'll definitely	
 				come back sooner or later.	
-0x123e	0x98	Dorado		Maybe even Kureha will...	
+0x123e	0x98	Dorado		Maybe even Creha will...	
 				.........................	
 0x1280	0x98	Dorado		A-Anyway, cheer up, okay?	
 talk_Ursaminor
@@ -88,11 +88,11 @@ talk_Lyra
 				in such a faraway place up	
 				for so long.	
 0x1b46	0x98	Lyra		And now, it's for the sake	
-				of Kureha and Cygna...	
+				of Creha and Cygna...	
 0x1b85	0x98	ALTO		Lyra, don't worry, trust me.	
 0x1bc7	0x98	ALTO		Noi and I will definitely	
 				be coming back safe.	
-0x1c17	0x98	ALTO		...We'll bring Kureha	
+0x1c17	0x98	ALTO		...We'll bring Creha	
 				and Cygna home with us.	
 				I'm sure of it.	
 0x1c72	0x6B	Lyra		Ellipsis	
@@ -112,7 +112,7 @@ talk_Lyra
 0x1f11	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x1f36	0x98	NOI		Absolutely!	
 0x1f9a	0x98	Lyra		Make sure to bring back	
-				Cygna and Kureha, you two.	
+				Cygna and Creha, you two.	
 0x1fe8	0x98	Lyra		mp_0001c 0x1eaf	
 0x204a	0x98	Lyra		I'll just tell you this:	
 				If you miss it, I'll never	
@@ -268,7 +268,7 @@ LP_haka
 				 I have to press on until the end!)	
 0x4001	0x98	NOI		Nayuta?	
 0x4027	0x98	ALTO		...Let's go, Noi.	
-				To Kureha and Cygna!	
+				To Creha and Cygna!	
 0x406c	0x98	NOI		...Yeah!	
 0x40e7	0x98	NOI		Nayuta, this place...	
 0x411e	0x98	ALTO		Yeah... My parents are sleeping.	

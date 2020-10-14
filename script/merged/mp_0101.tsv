@@ -8,7 +8,7 @@ init
 0x14af	0x06	Creha		ANI_SIT1	
 stp_home
 0x1d69	0x98	ALTO		I gotta split up with Noi	
-				and search for Kureha...!	
+				and search for Creha...!	
 0x1db9	0x98	ALTO		We just arrived in this strange world.	
 				Let's look around a bit more.	
 stp_al
@@ -17,11 +17,11 @@ stp_al
 0x1f03	0x98	ALTO		Let's put that off for now	
 				and check out the Garden.	
 lp_portal
-0x2058	0x98	ALTO		Cygna and Kureha should	
+0x2058	0x98	ALTO		Cygna and Creha should	
 				be over there...	
 				Anyway, let's go and see!	
 0x213c	0x98	NOI		Nayuta, weren't you going	
-				to see Master Kureha...?	
+				to see Master Creha...?	
 0x217f	0x98	ALTO		Oh, that's right.	
 				I have to pass on the	
 				message from my sister.	
@@ -31,7 +31,7 @@ lp_portal
 				for now and get ready.	
 0x237c	0x98	ALTO		It's not time to go exploring now.	
 0x23be	0x98	ALTO		I gotta search for	mp_0101 0x1d69
-				Kureha with Noi!	
+				Creha with Noi!	
 0x2485	0x98	ALTO		Now's not the time go to exploring.	
 				I gotta hurry up and find Cygna...!	
 0x2567	0x98	ALTO		Looks like some kind of artifact...	
@@ -44,7 +44,7 @@ lp_portal2
 				teleporter device...?	
 0x2d30	0x98	NOI		I know you're interested...	
 				But right now, we should	
-				check on Master Kureha.	
+				check on Master Creha.	
 0x2e2b	0x07	System	#4C	By using this teleporter device,	
 				you can go to Star City Lexendria.	
 0x2ec5	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
@@ -117,10 +117,10 @@ talk_Signa
 				that which I don't understand. Let's	
 				look around.	
 talk_Creha
-0x3e15	0x40	UNDEF		Kureha is sleeping, wrapped in flowers.	
+0x3e15	0x40	UNDEF		Creha is sleeping, wrapped in flowers.	
 0x3e7f	0x98	ALTO		Just like the first I saw her...	
-0x3ec2	0x98	NOI		...Master Kureha......	
-0x3f4d	0x98	NOI		Master Kureha...are you okay?	
+0x3ec2	0x98	NOI		...Master Creha......	
+0x3f4d	0x98	NOI		Master Creha...are you okay?	
 0x3f8e	0x98	Creha		Yes, I'm fine... I don't	
 				feel dizzy anymore.	
 0x4010	0x98	Creha		...This place feels	
@@ -139,8 +139,8 @@ talk_Creha
 0x4218	0x98	ALTO		(You're right...	
 				 Let's leave quietly.)	
 0x429e	0x98	Creha		..................	
-0x42d1	0x40	UNDEF		Kureha is staring blankly at the bed.	
-0x433a	0x98	NOI		(I hope Master Kureha can	
+0x42d1	0x40	UNDEF		Creha is staring blankly at the bed.	
+0x433a	0x98	NOI		(I hope Master Creha can	
 				 remember something...)	
 0x43f1	0x98	Creha		I slept here...?	
 				Why was I...	
@@ -164,7 +164,7 @@ talk_Creha
 0x4855	0x40	UNDEF		A girl is sleeping, wrapped in flowers.	mp_0101 0x463f
 0x489d	0x40	UNDEF		If you listen closely, you can	mp_0101 0x4687	
 				hear her softly breathing...	
-0x491a	0x98	ALTO		This is Kureha...? I have a lot	
+0x491a	0x98	ALTO		This is Creha...? I have a lot	
 				of questions on my mind, but...	
 0x4966	0x98	ALTO		Our first priority is to proceed	
 				to the Forest Continent.	
@@ -194,7 +194,7 @@ subev_look_creha
 0x4f70	0x40	UNDEF		A girl is sleeping, wrapped in flowers.	mp_0101 0x463f
 0x4fb8	0x40	UNDEF		If you listen closely, you can	mp_0101 0x4687
 				hear her softly breathing...	
-0x501b	0x98	ALTO	#6A	...Kureha, huh?	
+0x501b	0x98	ALTO	#6A	...Creha, huh?	
 0x5050	0x06	ALTO		ANI_GESTURE2	
 0x5097	0x98	ALTO	#6A	Noi, why is this girl	
 				sleeping out here?	
@@ -250,7 +250,7 @@ subev_look_creha
 				another one of those coffin things	
 				over there too...	
 0x6029	0x06	Signa		ANI_GESTURE2	
-0x6054	0x98	Signa	#6A	If this Kureha girl	
+0x6054	0x98	Signa	#6A	If this Creha girl	
 				is sleeping here...	
 0x60a9	0x98	Signa	#6A	It seems like someone else	
 				should be sleeping there.	
@@ -465,7 +465,7 @@ QS_41_sub_move_ALTO
 QS_41_sub_move_NOI
 QS_82_get_flower
 0x9fb7	0x98	ALTO		Flowers are blooming around	
-				Cygna and Kureha...	
+				Cygna and Creha...	
 0xa01a	0x98	ALTO		Could these be	
 				Fiona Flowers?	
 0xa099	0x98	NOI	#6A	...Yes, I think so.	
@@ -655,7 +655,7 @@ EV_1_S00_go_jungle
 0xec6d	0x98	Signa		(Ha...! This damn guy...)	
 0xed0f	0x3F	Name		Girl's Voice	mp_0004 0x13851
 0xed31	0x98	NOI	#6A#0W	...Wh-Who's there...!?	
-0xed95	0x98	NOI	#6A#0W#16S	Stay away from Master Kureha!!	
+0xed95	0x98	NOI	#6A#0W#16S	Stay away from Master Creha!!	
 0xedf2	0x6B	ALTO		Exclamation	
 0xee1c	0x6B	Signa		Exclamation	
 0xefa8	0x6B	NOI		Surprise	
@@ -690,8 +690,8 @@ EV_1_S00_go_jungle
 				sacred Garden...	
 0xf818	0x06	NOI		ANI_GUTSPOSE	
 0xf883	0x98	NOI		I-If it's come to this, I	
-				must protect Master Kureha!	
-0xf8fa	0x98	ALTO	#6A	Umm, so this "Kureha"...	
+				must protect Master Creha!	
+0xf8fa	0x98	ALTO	#6A	Umm, so this "Creha"...	
 				You mean this sleeping girl?	
 0xf96d	0x06	ALTO		ANI_THANKS	
 0xf99d	0x98	ALTO	#6A	We don't intend to put you or	
@@ -739,12 +739,12 @@ EV_1_S00_go_jungle
 0x1020d	0x06	Signa		ANI_WAIT2	
 0x10235	0x98	Signa	#6A	Hey, wait a minute! Isn't that	
 				a human right over there?
-0x1040b	0x98	Signa	#6A	You called her Kureha earlier?	
+0x1040b	0x98	Signa	#6A	You called her Creha earlier?	
 				Isn't she, for all intents and	
 				purposes, a human?	
 0x1045e	0x98	NOI	#6A	D-Don't start lumping her	
 				together with yourselves!	
-0x104a7	0x98	NOI	#6A	Master Kureha is a descendant	
+0x104a7	0x98	NOI	#6A	Master Creha is a descendant	
 				of the Mitos, the race that	
 				created this world.	
 0x1051e	0x98	NOI	#6A	A long time ago, a lot of	
@@ -760,7 +760,7 @@ EV_1_S00_go_jungle
 0x1077c	0x98	Signa	#6A	And you... Noi, are you supposed
 				to be her caretaker or something?	
 0x1088e	0x98	NOI		Y-Yeah, something like that...	
-0x10909	0x98	NOI		While Master Kureha sleeps, my	
+0x10909	0x98	NOI		While Master Creha sleeps, my	
 				job is to watch over the Garden...
 				It's my duty as a Warden.	
 0x1098d	0x06	ALTO		ANI_COMPLAIN	
@@ -794,7 +794,7 @@ EV_1_S00_go_jungle
 0x111f3	0x98	NOI		If I don't get it back from Zext,	
 				this world is gonna be destroyed!	
 0x1143a	0x06	NOI		ANI_GUTSPOSE	
-0x11463	0x98	NOI		Master Kureha...	
+0x11463	0x98	NOI		Master Creha...	
 				I'll be back!	
 0x114ec	0x98	NOI		As the Warden of the Garden...	
 				I'll stop Zext for sure!	
@@ -840,7 +840,7 @@ EV_1_S00_go_jungle
 0x11f65	0x06	NOI		ANI_WAIT	
 0x11f8a	0x98	NOI	#6A	...But, remember this!	
 				If you try to hurt me	
-				or Master Kureha...	
+				or Master Creha...	
 0x11feb	0x06	NOI		ANI_ANGRYTALK	
 0x12029	0x98	NOI	#6A#16S	I will personally beat	
 				#16Syou until you're black and blue!	
@@ -870,7 +870,7 @@ EV_1_S00_go_jungle
 				Gear or whatever!	
 0x124a3	0x06	NOI		ANI_NOD	
 0x124c7	0x98	NOI	#6A	...Understood.	mp_0000 0x1c46f
-0x124f7	0x98	NOI	#6A	For Terra and Master Kureha!!	
+0x124f7	0x98	NOI	#6A	For Terra and Master Creha!!	
 0x127b9	0x06	Signa		ANI_WAIT3	
 0x127ee	0x06	st		ANI_STOP2	
 0x1286b	0x06	NOI		ANI_USE_POWER	
@@ -1076,7 +1076,7 @@ EV_2_S28_check_coffin
 0x17ad5	0x6B	NOI		Exclamation	
 0x17c95	0x98	NOI	#0W#6A	...Sh-She's not here....	
 0x17cd6	0x06	NOI		ANI_SURPRISE	
-0x17d13	0x98	NOI	#16S#6A	...Master Kureha's gone!?	
+0x17d13	0x98	NOI	#16S#6A	...Master Creha's gone!?	
 0x17d5f	0x06	ALTO		ANI_DENY	
 0x17d85	0x98	ALTO		No way... She should be	
 				sleeping right here!	
@@ -1085,7 +1085,7 @@ EV_2_S28_check_coffin
 0x17e35	0x98	NOI	#6A	Is it possible that Zext─	
 				Master Zext took her away!?	
 0x17e8e	0x98	NOI	#6A	Oh, what should I do...?	
-				Master Kureha... Master Kureha!!	
+				Master Creha... Master Creha!!	
 0x17ef4	0x06	ALTO		ANI_WAIT	
 0x17f4a	0x98	ALTO		Calm down, Noi.	
 				We don't know that yet.	
@@ -1097,7 +1097,7 @@ EV_2_S28_check_coffin
 0x1809d	0x98	NOI	#6A	...I'll search over there...	
 				Nayuta, I'll leave this place	
 				to you!	
-0x18305	0xCE	Objective		Kureha's gone. Anyway, let's split up and search for her.	
+0x18305	0xCE	Objective		Creha's gone. Anyway, let's split up and search for her.	
 EV_2_S30_talk_creha
 0x18567	0x06	Creha		ANI_SIT1	
 0x1873a	0x06	NOI		ANI_SURPRISE	
@@ -1120,7 +1120,7 @@ EV_2_S30_talk_creha
 0x18aac	0x06	NOI		ANI_DULL	
 0x18ad1	0x98	NOI	#1W#6A	...N-No, it's fine.	
 0x18b09	0x98	NOI	#0W#6A	It's good just being able to talk	
-				to Master Kureha again, I...	
+				to Master Creha again, I...	
 0x18bc4	0x06	ALTO		ANI_GESTURE2	
 0x18bee	0x98	ALTO	#6A	...Noi, was she the one who	
 				stopped the abnormalities	
@@ -1143,7 +1143,7 @@ EV_2_S30_talk_creha
 0x18f6c	0x06	NOI		ANI_DEJECTED	
 0x18f95	0x98	NOI	#6A	I'm worried about Cygna too, but	
 				right now, I'm more worried about	
-				Master Kureha...		
+				Master Creha...		
 0x19005	0x98	NOI	#6A	I also want to think a little	
 				more about Master Zext...	
 0x1907f	0x06	ALTO		ANI_NOD	
@@ -1242,7 +1242,7 @@ EV_3_S04_meet_creha
 0x1b2f0	0x98	Creha		Umm... Can I come too?	
 0x1b326	0x98	Creha		If I go there, maybe I'll	
 				remember something...	
-0x1b3f7	0x98	NOI	#6A	Master Kureha... Of course!	
+0x1b3f7	0x98	NOI	#6A	Master Creha... Of course!	
 0x1b43b	0x98	ALTO		Then let's all three of	
 				us go to the Astrolabe!	
 0x1b649	0x06	ALTO		ANI_WAIT	
@@ -1268,7 +1268,7 @@ EV_3_S08_hear_eris_voice
 				since then, and...	
 0x1bef9	0x40	UNDEF		The three exchanged information once again.	
 0x1bf45	0x40	UNDEF		During the conversation, the relationship	
-				between Kureha and Zext was revealed	
+				between Creha and Zext was revealed	
 				to be that of father and daughter.	
 0x1bfd2	0x40	UNDEF		Out of concern for she who had lost her memories, they	
 				decided to keep her in the dark about it for now.	
@@ -1297,7 +1297,7 @@ EV_3_S24_meet_gio
 0x1ccc2	0x98	NOI	#6A	I only asked him to come	
 				when I go to Nayuta's world.	
 0x1cd83	0x98	NOI	#6A	I'm still worried about leaving	
-				Master Kureha here all alone...	
+				Master Creha here all alone...	
 0x1cde5	0x06	ALTO		ANI_NOD	
 0x1ce0a	0x98	ALTO	#6A	You're probably right...	
 0x1ce76	0x98	ALTO	#6A	It's been a few days. What's	
@@ -1323,7 +1323,7 @@ EV_3_S24_meet_gio
 				they reinforced it as a precaution.
 0x1d216	0x06	ALTO		ANI_WAIT	
 0x1d2d2	0x06	ALTO		ANI_GESTURE1	
-0x1d2fc	0x98	ALTO	#6A	Hmm, by the way, what about Kureha?	
+0x1d2fc	0x98	ALTO	#6A	Hmm, by the way, what about Creha?	
 0x1d35f	0x98	Gio		She is at the Astrolabe now...	
 				But she's not looking so well.	
 0x1d3c1	0x98	Gio		Everything we've tried
@@ -1345,12 +1345,12 @@ EV_3_S24_meet_gio
 				offered to invite her.	
 0x1d918	0x06	ALTO		ANI_WAIT4	
 0x1d93f	0x98	ALTO		Hopefully it will
-				cheer Kureha up.	
+				cheer Creha up.	
 0x1d98e	0x06	NOI		ANI_NOD	
 0x1d9b2	0x98	NOI	#6A	Yeah... Let's get	
 				to the Astrolabe!	
 0x1da64	0x06	ALTO		ANI_WAIT	
-0x1daf7	0xCE	Objective		Kureha's by the Astrolabe. Let's go there soon.	
+0x1daf7	0xCE	Objective		Creha's by the Astrolabe. Let's go there soon.	
 EV_4_S02_hear_algo_voice
 0x1de1a	0x41	None	#0W#2E#030c	You... Can you hear me?#0E	
 0x1de98	0x6B	ALTO		Surprise	
@@ -1464,7 +1464,7 @@ EV_8_S06_arrive_garden
 				this place, you see.	
 0x20dc6	0x06	ALTO		ANI_GESTURE2	
 0x20df0	0x98	ALTO		Noi, where are Cygna	
-				and Kureha sleeping?	
+				and Creha sleeping?	
 0x20e70	0x06	NOI		ANI_GESTURE1	
 0x20e99	0x98	NOI	#6A	Umm... I moved them to the beds	
 				in the center of the Garden.	
@@ -1473,7 +1473,7 @@ EV_8_S06_arrive_garden
 0x20f57	0x98	ALTO		...Yeah.	
 				Let's go.	
 EV_8_S07_check_sleeper
-0x214b8	0x98	ALTO	#6A#0W	Kureha, Cygna...	
+0x214b8	0x98	ALTO	#6A#0W	Creha, Cygna...	
 0x214ee	0x98	ALTO	#6A	...We meet again, only for	
 				you two to be like this...	
 0x21589	0x98	NOI	#6A	Nayuta...	mp_0000d 0x7671
@@ -1513,7 +1513,7 @@ EV_8_S07_check_sleeper
 0x21dd8	0x98	NOI	#6A	Nayuta... Let's	
 				listen to its story.	
 0x21e23	0x98	NOI	#6A	I may have just been born, but I	
-				know how important Master Kureha	
+				know how important Master Creha	
 				and Master Cygna were to you.	
 0x21e98	0x98	NOI	#6A	I'm willing to do whatever	
 				it takes to protect them...
@@ -1568,7 +1568,7 @@ EV_8_S09_go_astrolabe
 0x22c46	0x98	ALTO	#6A	...If you won't even show your face,	
 				I can't completely trust you...	
 0x22caf	0x98	ALTO	#6A	But if I'm the only one who can	
-				save Cygna and Kureha, then...	
+				save Cygna and Creha, then...	
 0x22d38	0x06	ALTO		ANI_JOY	
 0x22d5d	0x98	ALTO	#6A	I can only trust in	
 				myself and keep going.	
@@ -1595,7 +1595,7 @@ EV_8_S09_go_astrolabe
 0x23334	0x98	ALTO		If so, then I have to do	
 				it even more than before.	
 0x2338d	0x06	ALTO		ANI_GUTSPOSE	
-0x233b7	0x98	ALTO		To save Cygna and Kureha...	
+0x233b7	0x98	ALTO		To save Cygna and Creha...	
 				And the Astrolabe...	
 				And Noi too!	
 0x2341a	0x6B	NOI		Ellipsis	

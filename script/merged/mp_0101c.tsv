@@ -8,7 +8,7 @@ SB_6_S34_creha_move2
 0x56f	0x06	Creha		ANI_SIT7	
 EV_6_S34_bygone_garden
 0x886	0x06	Zext		ANI_SIT_PAIN	
-0x941	0x98	Seram	#0W#N#240x#140y#16S	This way, Kureha!	
+0x941	0x98	Seram	#0W#N#240x#140y#16S	This way, Creha!	
 0x992	0x98	Seram	#0W#N#240x#140y#16S	Hurry... #0WWe have to get out of here!!	
 0xc7a	0x06	Seram		ANI_WAIT2	
 0xcaa	0x98	Seram	#0W	*huff, huff*...Are you all right?	
@@ -19,7 +19,7 @@ EV_6_S34_bygone_garden
 0xe6d	0x98	Creha	#0W#6A	Why... Everyone...	
 				Why did everyone have	
 				to die like that...?	
-0xef3	0x98	Seram	#0W	...Kureha...	mp_0100b 0x4793
+0xef3	0x98	Seram	#0W	...Creha...	mp_0100b 0x4793
 0xfd7	0x06	Seram		ANI_WAIT4	
 0x1007	0x98	Seram	#0W	The humans, they...	
 				They started a new war.	

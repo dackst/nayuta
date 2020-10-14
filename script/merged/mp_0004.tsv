@@ -49,7 +49,7 @@ stp_village
 				I have to make sure they're okay!	
 0x2fa2	0x98	NOI		O-Okay!	
 0x3064	0x98	ALTO		First, let's go to	
-				Terra and see Kureha.	
+				Terra and see Creha.	
 0x30ac	0x98	NOI		Yeah, we have to	
 				thank her properly!	
 0x3127	0x98	ALTO		Cygna is waiting for me in	
@@ -649,7 +649,7 @@ EV_0_S17_noi_warp
 0xfeaa	0x98	NOI	#0W#6A	Oh good, it's alive!	
 0xfeec	0x06	NOI		ANI_GUTSPOSE	
 0xff23	0x98	NOI	#0W#6A	I have to hurry...	
-				For Master Kureha's sake!!	
+				For Master Creha's sake!!	
 0xff7b	0x6B	NOI		Unknown	
 0x101e3	0x6B	ALTO		Ellipsis	
 0x1020d	0x6B	Signa		Ellipsis	
@@ -890,7 +890,7 @@ EV_2_S31_return_island
 0x1565a	0x6B	ALTO		Ellipsis	
 0x1568c	0x98	ALTO		(Noi must be...devastated.	
 				 She seems to admire that	
-				 Kureha girl a lot...)	
+				 Creha girl a lot...)	
 0x156fe	0x98	ALTO		(But, what can we do about	
 				 a girl with amnesia?")	
 0x15762	0x6B	ALTO		Surprise	
@@ -922,7 +922,7 @@ EV_3_S26_meet_lyra
 				more remote areas of this world.	
 0x16713	0x98	ALTO	#6A	My house is right over there.	
 0x1675b	0x06	NOI		ANI_GESTURE1	
-0x16784	0x98	NOI	#6A	Master Kureha,	
+0x16784	0x98	NOI	#6A	Master Creha,	
 				watch your step!	
 0x16c61	0x3F	Name		Lyra's Voice	mp_0003 0x16357
 0x16c83	0x98	Lyra	#0W	Ah, it's Nayuta and Noi.	
@@ -950,7 +950,7 @@ EV_3_S26_meet_lyra
 0x1725f	0x06	ALTO		ANI_GESTURE2	
 0x17297	0x98	ALTO	#1W	She's, umm, an acquaintance of mine...	
 0x172e4	0x06	Creha		ANI_OJIGI	
-0x1731a	0x98	Creha	#1W	...I am Kureha.	
+0x1731a	0x98	Creha	#1W	...I am Creha.	
 0x1735b	0x98	Creha	#0W	Today, I was invited to his home...	
 0x173ba	0x6B	Lyra		Unknown	
 0x173ec	0x06	Lyra		ANI_COMPLAIN	
@@ -979,7 +979,7 @@ SB_4_S00_noi_move
 EV_4_S00_to_see_off
 0x17eff	0x06	ALTO		ANI_TONTON_SHUE	
 0x17f2c	0x98	ALTO	#6A	Well, we're off.	
-0x17f6c	0x98	NOI	#6A	Master Kureha... If you get	
+0x17f6c	0x98	NOI	#6A	Master Creha... If you get	
 				involved with some evil humans,	
 				please run away immediately!	
 0x17fe4	0x06	NOI		ANI_GUTSPOSE	
@@ -1022,7 +1022,7 @@ EV_4_S11_go_home
 0x18f5e	0x98	NOI	#6A	I want to go check on your sister.	
 0x18fa7	0x06	NOI		ANI_GESTURE2	
 0x18fd0	0x98	NOI	#6A	I'd like to see how Master	
-				Kureha is doing, too...	
+				Creha is doing, too...	
 0x19021	0x06	ALTO		ANI_NOD
 0x19046	0x98	ALTO		mp_0004 0x18592
 EV_8_S18_alto_home
@@ -1078,8 +1078,8 @@ EV_8_S05_remove_warp
 0x1a398	0x98	ALTO	#6A	Yeah, me too!	
 0x1a3d0	0x06	ALTO		ANI_JOY	
 0x1a3f5	0x98	ALTO	#6A	Anyway, let's hurry to Terra. I want	
-				to make sure Cygna and Kureha are okay.	
-0x1a529	0xCE	Objective		Let's go to Terra and make sure Cygna and Kureha are safe!	
+				to make sure Cygna and Creha are okay.	
+0x1a529	0xCE	Objective		Let's go to Terra and make sure Cygna and Creha are safe!	
 EV_4_S14_go_temple4
 0x1a75e	0x06	Asa		ANI_WAIT0	
 0x1a8ed	0x98	Asa		Can't believe it's snowing...	
@@ -1088,7 +1088,7 @@ EV_4_S14_go_temple4
 				 was talking about!?)	
 0x1a9c3	0x98	ALTO	#16S#400x#300y	Noi!	
 0x1ab17	0x06	NOI		ANI_COMPLAIN	
-0x1ab40	0x98	NOI	#6A	Nayuta... How is Master Kureha!?	
+0x1ab40	0x98	NOI	#6A	Nayuta... How is Master Creha!?	
 0x1ab89	0x06	ALTO		ANI_GESTURE1	
 0x1abb3	0x98	ALTO		Yeah, she's fine...	
 				Looks like nothing happened.	
@@ -1118,7 +1118,7 @@ EV_4_S14_go_temple4
 0x1b03f	0x6B	NOI		Ellipsis	
 0x1b08d	0x06	NOI		ANI_NOD	
 0x1b0b1	0x98	NOI	#6A	Anyway, we've made sure	
-				that Master Kureha is safe.	
+				that Master Creha is safe.	
 0x1b109	0x06	NOI		ANI_GESTURE1	
 0x1b132	0x98	NOI	#6A	Nayuta, let's hurry	
 				back to La Worg Temple!	

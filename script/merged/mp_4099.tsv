@@ -31,15 +31,15 @@ talk_Nemeas
 				flowing into Heliograd.	
 0x2fa1	0x98	Nemeas		Please hurry ahead, you two.	
 				...I'm counting on you to	
-				look after Master Kureha.	
+				look after Master Creha.	
 0x300e	0x98	Nemeas		We will attempt to regain control	
 				of the Power flowing into Heliograd.	
 0x306d	0x98	Nemeas		I do not know if we can	
 				surpass Zext and win Master	
-				Kureha back, but we must try...	
+				Creha back, but we must try...	
 0x30d9	0x98	Nemeas		I guess we must do all we can to	
 				help one another. Please, take	
-				care of Master Kureha.	
+				care of Master Creha.	
 talk_SpiritA
 0x3161	0x98	SpiritA		...～～....	
 0x318f	0x40	UNDEF		It seems to be expressing gratitude.	
@@ -606,7 +606,7 @@ QS_83_quest_end
 0xba25	0x06	NOI		ANI_GUTSPOSE	
 0xba4e	0x98	NOI	#6A	As expected, you're amazing Nayuta!	mp_1099 0xdfd1
 0xba93	0x98	NOI	#6A	If we keep going like this,	mp_1099 0xe016
-				both Master Cygna and Master Kureha will...	
+				both Master Cygna and Master Creha will...	
 0xbb03	0x06	ALTO		ANI_JOY	
 0xbb28	0x98	ALTO		Yeah, I'm sure we'll be able to save them.	mp_1099 0xe0ab
 0xbb72	0x98	ALTO		While we were fighting the idols,	mp_1099 0xe0f5
@@ -693,7 +693,7 @@ QS_83_quest_end
 				Even so, Noi is Noi.	
 0xcd45	0x06	Nemeas		ANI_NOD	
 0xcd6c	0x98	Nemeas		With Nayuta, I am certain you can save	mp_1099 0xf2ef
-				Masters Kureha and Cygna.	
+				Masters Creha and Cygna.	
 0xce11	0x98	NOI	#6A	Y-Yeah!	mp_0004 0x64d8
 0xce42	0x06	Gio		ANI_THINK	
 0xce68	0x98	Gio		Hmm, even so...	mp_1099 0xf3eb
@@ -758,7 +758,7 @@ QS_83_quest_end
 0xdb3c	0x98	Gio	#6A	We will be watching over you always.	mp_1099 0x100bf
 				Carry out your mission properly.	
 0xdbaa	0x06	Erislet		ANI_NOD	
-0xdbe0	0x98	Erislet	#1W	Masters Kureha and Selam	mp_1099 0x10163
+0xdbe0	0x98	Erislet	#1W	Masters Creha and Selam	mp_1099 0x10163
 				are waiting for you.	
 0xdc48	0x98	Erislet	#1W	As for our part,	mp_1099 0x101cb
 				we intend to do our very best!	
@@ -798,7 +798,7 @@ QS_83_quest_end
 0xe99b	0x98	NOI	#6A	...Let's get our preparations in order,	mp_1099 0x10f1e
 				heading for the final battle.	
 0xea09	0x06	NOI		ANI_GUTSPOSE	
-0xea32	0x98	NOI	#6A	To save Masters Kureha and Cygna!	mp_1099 0x10fb5
+0xea32	0x98	NOI	#6A	To save Masters Creha and Cygna!	mp_1099 0x10fb5
 0xeab5	0x06	ALTO		ANI_NOD	
 0xeada	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0xeb3b	0x07	System	#3C	Quest [Crush the Four Idols] completed!	mp_1099 0x110be

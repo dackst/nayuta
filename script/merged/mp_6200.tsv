@@ -198,13 +198,13 @@ EV_4_S33_in_remain
 0x57d3	0x98	ALTO		It's a ruin that fell a while ago.	
 0x581a	0x98	ALTO		This is where Cygna and I met Noi.	
 0x5854	0x06	ALTO		ANI_WAIT	
-0x591a	0x98	ALTO	#6A	Let's go up to the summit, Kureha.	
+0x591a	0x98	ALTO	#6A	Let's go up to the summit, Creha.	
 0x595f	0x06	ALTO		ANI_GESTURE2	
 0x5989	0x98	ALTO	#6A	I want to be able to check	
 				the state of the village...	
 0x59e5	0x06	Creha		ANI_NOD	
 0x5a0b	0x98	Creha		...Okay, understood.	
-0x5b38	0x07	System	#3C	Kureha is accompanying you.	
+0x5b38	0x07	System	#3C	Creha is accompanying you.	
 0x5c27	0xCE	Objective		I'll go to the summit and check the state of the village.	
 mp6200_retry
 SB_4_S34_appear_ALTO
@@ -229,9 +229,9 @@ EV_4_S34_see_flashback
 0x671e	0x98	Creha	#1W#6A#300x#220y	Thank you...	mp_0100a 0xf684
 0x6763	0x06	Creha		ANI_HEADACHE_SIT_HOLD_HAND	
 0x6885	0x3F	Name		???	mp_0101 0xda14
-0x6890	0x40	ALTO	#0W	This way, Kureha!	mp_0101c 0x941
+0x6890	0x40	ALTO	#0W	This way, Creha!	mp_0101c 0x941
 0x68c8	0x40	ALTO	#0W	Hurry... We have to get out of here!!	
-0x69c7	0x98	ALTO	#0W#200x#70y	...Kureha?	
+0x69c7	0x98	ALTO	#0W#200x#70y	...Creha?	
 0x6a39	0x98	Creha	#2W#6A#300x#220y	...No, it's nothing.	mp_0001 0x165cc
 0x6a8e	0x06	ALTO		ANI_WAIT	
 0x6ab4	0x06	Creha		ANI_WAIT	

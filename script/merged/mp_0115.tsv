@@ -449,10 +449,10 @@ talk_Caelum_sub
 0x7e9f	0x98	Caelum		I can't believe some monstrous old dude	
 				could attack the village like that...	
 0x7ef6	0x98	Caelum		And what's more, he even	
-				kidnapped that Kureha girl.	
+				kidnapped that Creha girl.	
 0x7f5a	0x98	Caelum		...Don't lose heart, Nayuta.	
 				I'm sure we'll do something.	
-0x7fdc	0x98	Caelum		He even kidnapped that Kureha girl...	
+0x7fdc	0x98	Caelum		He even kidnapped that Creha girl...	
 0x8021	0x98	Caelum		...Don't lose heart, Nayuta.	mp_0115 0x7f5a
 				I'm sure we'll do something.		
 0x80b1	0x98	Caelum		Hmm... It's kind of chilly in here...	
@@ -581,14 +581,14 @@ talk_Coron
 0x989c	0x98	Coron		If all goes well, we could find safe	
 				places to escape to in case of disaster.	
 				I've got to do my best...	
-0x995b	0x98	Coron		With Kureha being kidnapped,	
+0x995b	0x98	Coron		With Creha being kidnapped,	
 				the attack seems to be over...	
 0x99b9	0x98	Coron		But is it really okay	
 				to continue researching	
 				on this island like this?	
 0x9a24	0x98	Coron		It makes me want to go back	
 				home to the Empire...	
-0x9aa9	0x98	Coron		Kureha was kidnapped, and we don't	
+0x9aa9	0x98	Coron		Creha was kidnapped, and we don't	
 				know anything about who did it...	
 0x9aff	0x98	Coron		Is it really okay to	
 				continue researching on	
@@ -610,10 +610,10 @@ talk_Vavo
 0x9e5d	0x98	Vavo		The doctor and I guided the islanders to safety,
 				and most of them managed to escape, but...	
 0x9ecd	0x98	Vavo		In the end, that Zext man was	
-				only after Kureha, wasn't he...?	
+				only after Creha, wasn't he...?	
 0x9f54	0x98	Vavo		In the end, that Zext guy	mp_0115 0x9ecd
 				was interested only in	
-				Kureha, wasn't he...?	
+				Creha, wasn't he...?	
 0x9fb3	0x98	Vavo		I'm a failure for not being	
 				able to protect her...	
 talk_Victor
@@ -1016,7 +1016,7 @@ QS_42_quest_start
 QS_42_undertake
 0x1059b	0x06	ALTO		ANI_THANKS	
 0x105c3	0x98	ALTO		Yes, understood.	mp_0000 0x1b27a
-0x105f3	0x98	NOI	#6A	I'm worried about Master Kureha, but...	
+0x105f3	0x98	NOI	#6A	I'm worried about Master Creha, but...	
 				We can't leave the surface alone either.	
 0x10663	0x06	Volans		ANI_NOD	
 0x1068a	0x98	Volans		Mm, I am in your debt.	
@@ -1155,7 +1155,7 @@ QS_42_quest_end
 0x12177	0x06	ALTO		ANI_WAIT	
 0x121ab	0x06	NOI		ANI_DENY	
 0x121d0	0x98	NOI	#6A	...I don't know. But it doesn't sound	
-				like Master Kureha or Master Selam...	
+				like Master Creha or Master Selam...	
 0x1223d	0x98	NOI	#6A	If that's the case,	
 				it can only be Zext...	
 0x12290	0x06	NOI		ANI_GESTURE1	
@@ -1208,7 +1208,7 @@ QS_42_quest_end
 0x12aa5	0x06	NOI		ANI_NOD	
 0x12ac9	0x98	NOI	#6A	...That's right.	mp_0100 0x17f91
 0x12b03	0x98	NOI	#6A	There's the same determination	
-				you showed the Master Kureha!	
+				you showed the Master Creha!	
 0x12b52	0x06	Volans		ANI_NOD	
 0x12b79	0x98	Volans		Heh, it seems you already	
 				found your answer.	

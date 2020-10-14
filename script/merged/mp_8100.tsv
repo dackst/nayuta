@@ -11,7 +11,7 @@ EV_8_S13_meet_noi
 				that idol, and then...	
 0x84f	0x6B	ALTO		Exclamation	
 0x879	0x06	ALTO		ANI_SURPRISE	
-0x983	0x98	ALTO	#18S	...Kureha, Cygna!!	
+0x983	0x98	ALTO	#18S	...Creha, Cygna!!	
 0xc90	0x98	ALTO		You're trapped in	
 				some sort of...!?	
 0xce4	0x41	None	#3W#2E#6C#12S	...Na...yu...ta...#0E	
@@ -52,7 +52,7 @@ EV_8_S13_meet_noi
 				my memories of everyone
 				all came pouring back.	
 0x180d	0x98	Noi2	#0W	Joking around with Cygna.	
-				Drinking tea with Master Kureha...	
+				Drinking tea with Master Creha...	
 0x186e	0x98	Noi2	#0W	My adventures with you, Nayuta...
 				I've made some really good
 				memories, I've lost count...	
@@ -70,7 +70,7 @@ EV_8_S13_meet_noi
 0x1b82	0x98	Noi2	#0W	Thus causing the current malfunctions	
 				in the Astrolabe's systems.	
 0x1c02	0x98	ALTO	#1W#400x#300y	...No way...	mp_0100b 0xe52
-0x1d23	0x98	Noi2	#0W	When Master Cygna and Master Kureha	
+0x1d23	0x98	Noi2	#0W	When Master Cygna and Master Creha	
 				became aware of my presence in the
 				Inner World, they tried to free me.	
 0x1db3	0x98	Noi2	#0W	Due to their efforts, my body was	
@@ -87,7 +87,7 @@ EV_8_S13_meet_noi
 				You didn't want to leave everyone...	
 				Of course you thought that!	
 0x2170	0x06	ALTO		ANI_GESTURE2	
-0x219a	0x98	ALTO		Me too... Even Cygna and Kureha...	
+0x219a	0x98	ALTO		Me too... Even Cygna and Creha...	
 				No one wanted you to disappear!	
 0x2205	0x98	Noi2	#0W	Nayuta...	mp_0000d 0x7671
 0x2239	0x06	Noi2		ANI_NOD	
@@ -104,7 +104,7 @@ EV_8_S13_meet_noi
 				my true form should appear...	
 0x26b6	0x06	Noi2		ANI_GESTURE1	
 0x26e0	0x98	Noi2	#0W	If you just defeat it,	
-				Masters Kureha and Cygna	
+				Masters Creha and Cygna	
 				can be released!	
 0x278d	0x98	Noi2	#0W	Nayuta, I'm sure you can do it...	
 				I believe in you!	

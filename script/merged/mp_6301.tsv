@@ -79,14 +79,14 @@ EV_6_S27_sisi_boss
 0x2e4e	0x06	Algorl		ANI_GESTURE1	
 0x2e7a	0x98	Algorl		As a Warden of the continents, I cannot	mp_6300 0x2c43
 				allow you to interfere with Master	
-				Kureha and the others' Remaking.	
+				Creha and the others' Remaking.	
 0x2f15	0x06	NOI		ANI_COMPLAIN	
 0x2f3e	0x98	NOI	#6A	...Stop it, Algol!	
 0x2f93	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f
 				surface where Nayuta is...	
 0x2fe9	0x06	NOI		ANI_DENY	
 0x300e	0x98	NOI	#6A	We don't want to let Master	mp_6300 0x2e1a
-				Kureha do that!	
+				Creha do that!	
 0x3062	0x06	ALTO		ANI_JOY	
 0x3087	0x98	ALTO	#6A	Yeah, we've got to stop her,	mp_6300 0x2e93
 				no matter what!	
@@ -140,7 +140,7 @@ EV_6_S28_bye_algorl
 0x5145	0x98	Algorl		You two have truly become a	
 				force to be reckoned with...	
 				There are no words for losers.	
-0x51c4	0x98	Algorl		...Kureha and the other Mitos	
+0x51c4	0x98	Algorl		...Creha and the other Mitos	
 				have yet more power and	
 				determination than I do now.	
 0x5249	0x06	Algorl		ANI_GESTURE1	
@@ -157,7 +157,7 @@ EV_6_S28_bye_algorl
 				afford to lose.	
 0x5459	0x06	ALTO		ANI_JOY	
 0x547e	0x98	ALTO	#6A	We'll stop Cygna and	
-				Kureha for sure!	
+				Creha for sure!	
 0x54cf	0x06	Algorl		ANI_GESTURE2	
 0x54fb	0x98	Algorl		...I have heard your words.	
 0x5d10	0x06	NOI		ANI_TAKE_OUT	
@@ -183,6 +183,6 @@ EV_6_S28_bye_algorl
 				gathered all of the Stellagears!	
 0x64a2	0x06	ALTO		ANI_JOY	
 0x64c7	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
-				and chase after Kureha and the others!	
+				and chase after Creha and the others!	
 EV_6_S39_check_bossmap3
 0x69a7	0x40	UNDEF		There is no trace of Algol.	

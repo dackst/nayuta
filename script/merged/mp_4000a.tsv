@@ -85,17 +85,17 @@ EV_5_S06_help_nemeas
 0x345e	0x98	Nemeas	#2W	My name is Nemeas...	
 				I am the Warden of La Worg.	
 0x3834	0x06	Nemeas		ANI_GESTURE2	
-0x3880	0x98	Nemeas		So Master Kureha	
+0x3880	0x98	Nemeas		So Master Creha	
 				and Master Selam	
 				have joined Zext...	
 0x38cc	0x06	Nemeas		ANI_WAIT	
 0x395c	0x98	Nemeas		...This is quite an alarming situation.	
 				I did not foresee that this would happen...	
 0x39c2	0x06	ALTO		ANI_COMPLAIN	
-0x39ec	0x98	ALTO	#6A	Kureha's... The Mitos' plan...
+0x39ec	0x98	ALTO	#6A	Creha's... The Mitos' plan...
 				Do you know anything about it?
 0x3ac9	0x98	ALTO	#6A	I just have to know. I have to	
-				know what Kureha really wants...	
+				know what Creha really wants...	
 0x3b45	0x98	NOI		mp_0000d 0x7671
 0x3b75	0x06	Nemeas		ANI_DENY	
 0x3bbd	0x98	Nemeas		I am terribly sorry.	
@@ -147,4 +147,4 @@ EV_5_S06_help_nemeas
 0x4f7e	0x06	NOI		ANI_GESTURE2	
 0x4fc4	0x98	NOI		...Understood!	mp_0001 0x122a0
 0x5332	0x07	System	#4C	Activate "Drive" by holding the △ button.	
-0x55c5	0xCE	Objective		Kureha's in Heliograd...I gotta find out what she really wants!	
+0x55c5	0xCE	Objective		Creha's in Heliograd...I gotta find out what she really wants!	

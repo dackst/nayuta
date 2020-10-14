@@ -35,7 +35,7 @@ talk_Lyra
 				Just get out of here.	
 0x2c47	0x98	Lyra		The most important thing for you	
 				guys to worry about now is saving	
-				Cygna and Kureha, right?	
+				Cygna and Creha, right?	
 0x2cb3	0x98	ALTO		...Well, all right, I'll	
 				leave you alone for now.	
 0x2d06	0x98	ALTO		When this is all over, we can sit	
@@ -56,7 +56,7 @@ talk_Lyra
 				Sorry for always worrying you.	
 0x30f9	0x98	ALTO		...From now on, we will	
 				be heading off to where	
-				Kureha the others are.	
+				Creha the others are.	
 0x314d	0x98	ALTO		I don't want to make you worry again, but...	
 				Please, just bear with me a little more.	
 0x31ab	0x98	Lyra		...I understand. If you say	
@@ -67,14 +67,14 @@ talk_Lyra
 0x329b	0x98	Lyra		Be careful out there, you two.	
 				I'm worried about you, but I'll	
 				wait here for you guys.	
-0x3306	0x98	Lyra		Kureha and Cygna...	
+0x3306	0x98	Lyra		Creha and Cygna...	
 				Please take care of them.	
 0x33ce	0x98	Lyra		Hey, what is this snow stuff?	
 				If you touch it, it turns to water.	
 0x342d	0x98	Lyra		Is it like cold rain or something...?	
 				Hmm... I dunno, I'm not sure...	
-0x34cd	0x98	Lyra		Huh, Kureha...?	
-0x34f9	0x98	Lyra		Kureha begged me to give her an errand earlier.	
+0x34cd	0x98	Lyra		Huh, Creha...?	
+0x34f9	0x98	Lyra		Creha begged me to give her an errand earlier.	
 				She wouldn't listen to me, and insisted on	
 				wanting to help, no matter what.
 0x359b	0x98	ALTO		I see... Sorry about that.	
@@ -314,7 +314,7 @@ talk_Barton
 0x61ce	0x98	Barton		Apparently Lyra left	
 				for the cape.	
 0x620e	0x98	Barton		She seems to be getting along	
-				quite well with that Kureha girl.	
+				quite well with that Creha girl.	
 0x625b	0x98	Barton		...Nayuta, if you don't mind,	
 				please look after her.	
 0x62e3	0x98	Barton		Come to think of it, I saw you
@@ -332,7 +332,7 @@ talk_Barton
 0x64a9	0x98	Barton		Supposedly it's a seasonal phenomenon	
 				often found in the northern parts of	
 				the sea and the continent...	
-0x654d	0x98	Barton		A young lady by the name of Kureha	
+0x654d	0x98	Barton		A young lady by the name of Creha	
 				came to introduce herself just now.	
 0x6599	0x98	Barton		She was a charming girl, very	
 				out of place in a backwoods	
@@ -340,10 +340,10 @@ talk_Barton
 0x65fc	0x98	Barton		Heh, I finally understand why	
 				Lyra has been so depressed.	
 0x6682	0x98	Barton		If you want to know more about	
-				this young lady Kureha, you	
+				this young lady Creha, you	
 				should try asking Lyra.	
 0x66c9	0x98	Barton		She seems to be getting along	
-				quite well with her. Kureha
+				quite well with her. Creha
 				asked to do some work for her.	
 0x6742	0x98	Barton		Lyra should be out.	
 				She was asked to look	
@@ -587,7 +587,7 @@ talk_Gruz
 0x93de	0x6B	ALTO		Sweatdrop	
 0x9410	0x98	ALTO		(It's amazing that you could	
 				 enjoy eating Gruz's new	
-				 dishes, Kureha...)	
+				 dishes, Creha...)	
 0x949c	0x98	Gruz		Hmm, thanks to that young lady, this	
 				new dish is approaching perfection!	
 0x94ea	0x98	Gruz		Gwahaha, I guess I'll need to	

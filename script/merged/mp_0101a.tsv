@@ -66,7 +66,7 @@ EV_6_S18_search_key
 0x226f	0x06	NOI		ANI_DEJECTED	
 0x2298	0x98	NOI	#6A#0W	The surface was destroyed faster	
 				than the Mitos predicted...	
-				That's what Master Kureha told me.	
+				That's what Master Creha told me.	
 0x2322	0x06	ALTO		ANI_GESTURE2	
 0x234c	0x98	ALTO	#0W	...I see...	mp_0001 0xcc63
 0x23c7	0x6B	ALTO		Exclamation	
@@ -82,7 +82,7 @@ EV_6_S18_search_key
 0x269f	0x98	NOI	#6A	It seems like Zext is	
 				trying to start it!	
 0x26ee	0x06	ALTO		ANI_THINK2	
-0x2716	0x98	ALTO		Cygna and Kureha are	
+0x2716	0x98	ALTO		Cygna and Creha are	
 				probably there as well.	
 0x2766	0x06	ALTO		ANI_GESTURE2	
 0x2790	0x98	ALTO		...Noi, how do	

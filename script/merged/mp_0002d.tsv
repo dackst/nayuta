@@ -9,7 +9,7 @@ talk_Aulbath_sub
 				to overcome that man.	
 0x750	0x98	ALTO		Yeah, I won't lose!	
 0x78f	0x98	ALTO		I want to see	
-				Kureha again...	
+				Creha again...	
 0x7d7	0x98	Aulbath		Is that so...	mp_0001 0xcecd
 0x807	0x98	Aulbath		..................	mp_0002 0x1b64
 				..................	
@@ -264,7 +264,7 @@ EV_4_S30_help_creha
 0x5937	0x06	KnightB		ANI_WAIT	
 0x59be	0x6B	Creha		Ellipsis	
 0x5baf	0x06	Lyra		ANI_AFRAID2	
-0x5be6	0x98	Lyra	#1W	Wha... Kureha!?	
+0x5be6	0x98	Lyra	#1W	Wha... Creha!?	
 0x5cb0	0x98	Creha	#0W#16S	...I will not let you hurt Lyra	
 				#16Sor anyone else any further!	
 0x5e12	0x06	Creha		ANI_PRAY	
@@ -287,7 +287,7 @@ EV_4_S30_help_creha
 0x681e	0x06	Creha		ANI_WAIT	
 0x6853	0x98	Creha	#0W#6A	What are you saying...?	
 0x6954	0x98	Zext	#2W	My daughter...	
-				Kureha Lem Ordene.	
+				Creha Lem Ordene.	
 0x69a5	0x98	Zext	#2W	Heed the words of I, Zext,	
 				the head of the Mitos.	
 0x6a59	0x98	Zext	#1W	That power you know wield...	
@@ -299,19 +299,19 @@ EV_4_S30_help_creha
 0x6d63	0x06	Creha		ANI_HEADACHE	
 0x6e1d	0x06	Creha		ANI_HEADACHE2	
 0x6fef	0x98	Creha	#2W	...Ooo...!	
-0x7033	0x98	Lyra	#1W	K-Kureha!?	
+0x7033	0x98	Lyra	#1W	C-Creha!?	
 0x70ae	0x98	Creha	#2W	...Ze...xt...you're..	
 				...a..Mitos...!?	
 0x713f	0x98	Creha	#3W	...I...I...!	
 0x71b9	0x3F	Name		Nayuta's Voice	mp_0001 0x1090f
-0x71dd	0x98	ALTO	#1W#16S#500x#100y	Kurehaaa!	
+0x71dd	0x98	ALTO	#1W#16S#500x#100y	Crehaaa!	
 0x7500	0x06	Creha		ANI_HEADACHE2	
 0x75bc	0x06	Aulbath		ANI_DRAIN_LOOP	
 0x786e	0x06	Lyra		ANI_JOY	
 0x7893	0x98	Lyra		Nayuta!	mp_0000c 0x734d
 0x78c2	0x98	Aulbath		...So you've come.	
 0x7948	0x98	ALTO		Sorry I'm late!	
-0x7971	0x98	ALTO		Kureha, Lyra...	
+0x7971	0x98	ALTO		Creha, Lyra...	
 				Are you all right!?	
 0x79ff	0x98	Creha	#1W	...Nayu...ta....	
 0x7b21	0x06	Creha		ANI_SIT7	
@@ -326,7 +326,7 @@ EV_4_S30_help_creha
 				here all of a sudden!?	
 0x7d02	0x98	ALTO		You raid the village...	
 				And now you're trying to	
-				kidnap Kureha!	
+				kidnap Creha!	
 0x7daf	0x98	Zext	#6A	It is quite simple.	
 0x7df1	0x98	Zext	#6A	The final key to unlock	
 				the seal on Terra...	
@@ -335,16 +335,16 @@ EV_4_S30_help_creha
 0x7e90	0x6B	ALTO		Exclamation	
 0x7ec2	0x06	ALTO		ANI_TENSION_SURPRISE	
 0x7f12	0x98	ALTO		The key to unlock the seal...	
-				Are you referring to Kureha!?	
+				Are you referring to Creha!?	
 0x7f81	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0x7fd1	0x98	ALTO		...In that case, that's all the	
 				more reason I can't back down!	
 0x8038	0x98	ALTO		To protect Terra... I will not hand	
-				Kureha over to the likes of you!	
+				Creha over to the likes of you!	
 0x8098	0x98	Zext	#6A	...So, you wish to stay defiant	
 				until the bitter end.	
 0x80ee	0x98	Zext	#6A	Although I was going to let you continue	
-				to aid in Kureha's awakening...		
+				to aid in Creha's awakening...		
 0x814e	0x98	Zext	#6A	I have no further use for you.	
 				...Get out of my sight.	
 0x81af	0x06	Zext		ANI_HIT_GROUND	

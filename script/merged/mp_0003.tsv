@@ -674,7 +674,7 @@ talk_Creha
 0xae9b	0x98	Creha		Babies are strange...	
 0xaed1	0x98	Creha		Just by being like this,	
 				I get a strange feeling...	
-0xaf1b	0x98	ALTO		(Kureha seems to be looking more	
+0xaf1b	0x98	ALTO		(Creha seems to be looking more	
 				 beautiful than usual somehow...)	
 0xaf6f	0x98	ALTO		(I-It must be my imagination.)	
 talk_Gull
@@ -685,7 +685,7 @@ talk_Lyra
 				 She looks to be about
 				 my age, too...)	
 0xb0cd	0x98	ALTO		Uh, Lyra, were you just	
-				spending time with Kureha?	
+				spending time with Creha?	
 0xb128	0x98	Lyra		Yeah, I guess...	
 0xb158	0x6B	Lyra		Ellipsis	
 0xb18a	0x98	Lyra		Nayuta's a cheater.	
@@ -1343,7 +1343,7 @@ EV_4_S09_creha_scene_3rd
 0x16595	0x06	Lyra		ANI_GESTURE2	
 0x165cd	0x98	Lyra	#1W	I'm his childhood friend,	
 				Lyra. Lyra Barton.	
-0x16779	0x98	Lyra	#2W	Umm... Kureha, was it?	
+0x16779	0x98	Lyra	#2W	Umm... Creha, was it?	
 				Just what are you planning?	
 0x167d4	0x6B	Creha		Question	
 0x1687e	0x06	Lyra		ANI_TALK	

@@ -90,7 +90,7 @@ SUB_meet_adventurer
 0x1b9b	0x06	ALTO		ANI_DENY	
 0x1bc1	0x98	ALTO		No, not yet... But it's okay.	
 				We'll definitely settle things	
-				with Cygna and Kureha.	
+				with Cygna and Creha.	
 0x1c38	0x06	ALTO		ANI_GESTURE1	
 0x1c62	0x98	ALTO		You can return to Remnant Island if	
 				you go through the gate over there.	
@@ -158,19 +158,19 @@ EV_5_S02_talk_noi
 0x3282	0x06	NOI		ANI_GESTURE2	
 0x32ab	0x98	NOI		Nayuta... Thank goodness I found you!	
 0x32f6	0x06	NOI		ANI_COMPLAIN	
-0x331f	0x98	NOI		Master Kureha...	
-				Where is Master Kureha!?	
+0x331f	0x98	NOI		Master Creha...	
+				Where is Master Creha!?	
 0x336c	0x98	NOI		Is Cygna with you!?	
 0x33c4	0x98	ALTO	#6A#0W	...Noi, I'm sorry.	
-				Kureha is...	
-0x3410	0x40	UNDEF		Nayuta explained that Cygna left again, and that Kureha	
+				Creha is...	
+0x3410	0x40	UNDEF		Nayuta explained that Cygna left again, and that Creha	
 				joined Selam.	
 0x3483	0x06	NOI		ANI_GESTURE1	
 0x34ac	0x98	NOI	#0W	N-No way...	
 				Why...!?	
 0x34f6	0x06	ALTO		ANI_DENY	
 0x351c	0x98	ALTO	#6A	...I don't know about Cygna.	
-0x357f	0x98	ALTO	#6A	But as for Kureha...	
+0x357f	0x98	ALTO	#6A	But as for Creha...	
 				She said she remembered her	
 				"mission" or something.	
 0x35f9	0x06	NOI		ANI_SURPRISE	
@@ -208,7 +208,7 @@ EV_5_S02_talk_noi
 				that delivers the Power of Stars	
 				to all of this world...	
 0x3e09	0x06	NOI		ANI_GESTURE1	
-0x3e32	0x98	NOI	#6A	Master Kureha, the final key,	
+0x3e32	0x98	NOI	#6A	Master Creha, the final key,	
 				is probably there, along with	
 				Zext and Master Selam.	
 0x3e85	0x98	NOI	#6A	All to fulfill the	
@@ -216,7 +216,7 @@ EV_5_S02_talk_noi
 0x3f8f	0x6B	ALTO		Ellipsis	
 0x3fc1	0x06	ALTO		ANI_GESTURE1	
 0x3feb	0x98	ALTO	#6A	You knew all along...	
-				That Kureha was the key, and	
+				That Creha was the key, and	
 				where the seal is located...	
 0x4066	0x06	ALTO		ANI_COMPLAIN	
 0x4090	0x98	ALTO	#6A	...I want you to tell me.	
@@ -228,7 +228,7 @@ EV_5_S02_talk_noi
 0x41b4	0x98	ALTO	#6A	...? What do you mean?	
 0x4211	0x98	NOI		I am, originally, a Warden,	
 				who follows the orders of	
-				Master Kureha and the others...	
+				Master Creha and the others...	
 0x4283	0x06	NOI		ANI_GESTURE1	
 0x42ac	0x98	NOI		We were designed so that we're unable	
 				to discuss certain critical things,	
@@ -236,7 +236,7 @@ EV_5_S02_talk_noi
 0x4330	0x06	ALTO		ANI_WAIT4	
 0x4357	0x98	ALTO	#6A	You were designed...?	
 0x4396	0x98	ALTO	#6A	Oh, right, now that you mention it,	
-				you said that Kureha and the others	
+				you said that Creha and the others	
 				created the Wardens...	
 0x441a	0x06	NOI		ANI_DENY	
 0x443f	0x98	NOI		...I just don't know	
@@ -244,10 +244,10 @@ EV_5_S02_talk_noi
 0x44ad	0x98	NOI	#0W	...I'm sorry, Nayuta.	
 0x44ec	0x06	ALTO		ANI_GESTURE2	
 0x4516	0x98	ALTO	#6A	...For now, let's think about getting	
-				to where Kureha and everyone else is.	
+				to where Creha and everyone else is.	
 0x4582	0x06	ALTO		ANI_JOY	
 0x45a7	0x98	ALTO	#6A	A seal that threatens Terra...	
-				Not even Kureha would want that.	
+				Not even Creha would want that.	
 0x4632	0x06	NOI		ANI_NOD	
 0x4656	0x98	NOI		...Yeah, you're right.	
 0x479b	0x98	NOI	#500x#500y	We should be able to get to	

@@ -101,7 +101,7 @@ EV_6_S01_stop_warp
 0x3199	0x06	ALTO_pj		ANI_COMPLAIN	
 0x31ce	0x98	ALTO_pj	#16S#6A	...Work!	
 				#16SPlease, take me to Terra!	
-0x3225	0x98	ALTO_pj	#16S#6A	Cygna...and Kureha...	
+0x3225	0x98	ALTO_pj	#16S#6A	Cygna...and Creha...	
 				#16SI need to talk to them!	
 0x32a8	0x06	ALTO		ANI_WAIT	
 0x3460	0x98	NOI	#6A	Nayuta...	mp_0000d 0x7671
@@ -109,8 +109,8 @@ EV_6_S01_stop_warp
 0x34df	0x98	ALTO_pj	#0W	What happened back there?	
 0x3527	0x06	NOI		ANI_GESTURE1	
 0x3550	0x98	NOI	#6A	...We were... We were probably	
-				saved by Master Kureha.	
-0x35bc	0x98	ALTO_pj		Kureha...!?	
+				saved by Master Creha.	
+0x35bc	0x98	ALTO_pj		Creha...!?	
 0x3607	0x98	NOI	#6A	Seems like she cast her	
 				magic on us just in time...	
 0x3679	0x06	NOI		ANI_GESTURE2	
@@ -129,13 +129,13 @@ EV_6_S01_stop_warp
 0x389f	0x98	NOI	#6A	They probably did it to 	
 				prevent us from interfering	
 				more than we already have.	
-0x3915	0x98	NOI	#6A	Master Kureha...and Master Selam.	
+0x3915	0x98	NOI	#6A	Master Creha...and Master Selam.	
 0x3963	0x98	ALTO_pj	#1W	.........	mp_0000d 0x70fd
 0x39b2	0x98	ALTO_pj		...I'm still not sure	
 				what's happening.	
 0x3a0e	0x98	ALTO_pj		What's going to happen to our	
 				world from here on out...?	
-0x3a62	0x98	ALTO_pj		Why did Kureha save us...?	
+0x3a62	0x98	ALTO_pj		Why did Creha save us...?	
 0x3aa8	0x98	ALTO_pj		And yet...	
 0x3b05	0x06	ALTO_pj		ANI_DENY	
 0x3b2e	0x98	ALTO_pj		...I just don't know	

@@ -12,9 +12,9 @@ EV_7_S13_enter_starball
 0x801	0x06	NOI		ANI_WALK_DOWN	
 0xa35	0x06	ALTO		ANI_WAIT	
 0xa92	0x06	NOI		ANI_WAIT	
-0xbfc	0xCE	Objective		Kureha and Zext should be here. Let's proceed with caution!	
+0xbfc	0xCE	Objective		Creha and Zext should be here. Let's proceed with caution!	
 EV_7_S14_battle_zext
-0x111d	0x98	Zext		Kureha, Selam...	
+0x111d	0x98	Zext		Creha, Selam...	
 				My foolish children.	
 0x1161	0x98	Zext		Again and again, they forget
 				the mission of the Mitos.	
@@ -25,8 +25,8 @@ EV_7_S14_battle_zext
 0x12c4	0x98	ALTO	#16S#0x#200y	Zext!!	mp_5200 0x1c08
 0x1547	0x06	ALTO		ANI_BATTOU2	
 0x15c2	0x06	NOI		ANI_SURPRISE	
-0x1607	0x98	NOI	#16S	M-Master Kureha!!	
-0x1643	0x98	ALTO	#6A	Even Kureha...	
+0x1607	0x98	NOI	#16S	M-Master Creha!!	
+0x1643	0x98	ALTO	#6A	Even Creha...	
 0x1674	0x98	ALTO	#6A	You... How can you still	
 				call yourself a father!?	
 0x1744	0x98	Zext		...What a foolish	
@@ -38,7 +38,7 @@ EV_7_S14_battle_zext
 0x1870	0x98	Zext		Now, the Remaking will─	
 0x18c6	0x06	NOI		ANI_ANGRYTALK	
 0x1904	0x98	NOI	#16S	...D-Don't mess with us!	
-0x1946	0x98	ALTO	#6A	...Kureha showed us	
+0x1946	0x98	ALTO	#6A	...Creha showed us	
 				the Ancient Memory.	
 0x1993	0x98	ALTO	#6A	You were definitely dying in it...
 				How are you still here?	
@@ -55,7 +55,7 @@ EV_7_S14_battle_zext
 				to watch over both Terra and	
 				the surface world.	
 0x1dac	0x98	NOI	#200x#270y	Watch...over the world...!?	
-0x1e11	0x98	Zext		While Kureha and Selam relinquished	
+0x1e11	0x98	Zext		While Creha and Selam relinquished	
 				their mission and slept...	
 0x1e6b	0x98	Zext		The humans of the surface shared	
 				the meager earth, lived humbly,	
@@ -128,7 +128,7 @@ EV_7_S14_battle_zext
 0x3426	0x98	NOI	#6A	There has to be something else that	
 				could be done besides Remaking!	
 0x348b	0x98	NOI	#6A	If you are the same person who cared	
-				for Master Kureha and Master Selam...	
+				for Master Creha and Master Selam...	
 				You should already understand!	
 0x352d	0x98	Zext	#140x#120y	Something besides Remaking?	
 0x35ba	0x06	Zext		ANI_DENY	
@@ -147,7 +147,7 @@ EV_7_S14_battle_zext
 				#16Sdear is there!!	
 0x3c22	0x06	NOI		ANI_GUTSPOSE	
 0x3c8a	0x98	NOI	#1W#16S	We'll stop you!	
-0x3d07	0x98	NOI	#1W#16S	And restore Masters Kureha	
+0x3d07	0x98	NOI	#1W#16S	And restore Masters Creha	
 				#16Sand Selam to normal!!	
 0x3d88	0x98	Zext	#1W#480x#250y	...So, you will thwart my	
 				efforts to the bitter end.	
@@ -178,7 +178,7 @@ EV_7_S15_last_battle
 0x4fd0	0x98	NOI	#1W#6A	All right...we won!!	
 0x5115	0x98	Zext	#2W	...Guh....	
 0x5902	0x98	ALTO		Ah...!!	mp_7098 0xca10
-0x5931	0x98	NOI	#16S	Master Kureha!!	mp_0100 0xc2b1
+0x5931	0x98	NOI	#16S	Master Creha!!	mp_0100 0xc2b1
 0x596b	0x06	Creha		ANI_WAKE_UP_FROM_STONE	
 0x5a9b	0x06	ALTO		ANI_SIT6	
 0x5b86	0x98	Creha	#0W	...Nayu...ta...?	
@@ -190,7 +190,7 @@ EV_7_S15_last_battle
 				two would save me...	
 0x5ce4	0x98	Creha	#0W	...Thank you...	
 				I believed in you...	
-0x5d33	0x98	ALTO	#0W#6A	Thank goodness, Kureha...	
+0x5d33	0x98	ALTO	#0W#6A	Thank goodness, Creha...	
 				That's such a relief!!	
 0x5d88	0x98	Zext	#6A#5W	You...	
 0x5eb6	0x06	ALTO		ANI_SUPPORT_CREHA3_MIRROR	
@@ -230,7 +230,7 @@ EV_7_S15_last_battle
 0x6e8e	0xBC	NOI		Exclamation	
 0x6f33	0x3F	Name		Zext	mp_7099c 0x69d5
 0x6f3f	0x98	ZextRobo	#1W#0x#250y#6A	What...what do you mean...!?	
-0x6fd6	0x98	NOI	#6A	...!! Master Kureha, is he...?	
+0x6fd6	0x98	NOI	#6A	...!! Master Creha, is he...?	
 0x703e	0xBC	Creha		Ellipsis	
 0x707d	0x98	Creha	#0W#6A	His true identity is...	
 0x7125	0x98	Creha	#0W#6A	...He's the idol of the Planetarium.	
@@ -314,7 +314,7 @@ EV_7_S15_last_battle
 0x8ab9	0x98	Creha	#0W#6A	He was kind, most of all...	
 				He always cared for us.	
 0x8b1a	0x98	Creha	#0W#6A	...Goodbye, Father...	
-0x8b7d	0x98	ALTO	#6A	Kureha...	mp_0100a 0x61a2
+0x8b7d	0x98	ALTO	#6A	Creha...	mp_0100a 0x61a2
 0x8be9	0x6B	ALTO		Exclamation	
 0x8c1f	0x6B	NOI		Exclamation	
 0x8c48	0x6B	Creha		Exclamation	
@@ -351,7 +351,7 @@ EV_7_S15_last_battle
 0xa729	0x98	Signa		Yeah, thanks to you.	
 0xa77d	0x98	Signa		Now, let's save the touching	
 				reunion for later.	
-0xa833	0x98	Signa		Kureha...	
+0xa833	0x98	Signa		Creha...	
 				Let's entrust our	
 				power to Nayuta.	
 0xa887	0x98	Creha	#1W#6A	Selam!	
@@ -369,7 +369,7 @@ EV_7_S15_last_battle
 0xb1a9	0x98	Signa		...The rest is up to you, Nayuta!	
 0xb252	0x98	ALTO		Yeah... We can do this!!	
 0xb2a7	0x98	NOI	#6A	Cygna, take care of	
-				Master Kureha!	
+				Master Creha!	
 0xb2f2	0x98	Signa		Yeah, leave it to me.	
 0xb347	0x98	Creha		Do your best...both of you!	
 0xb37f	0x98	Creha		You can win...	
@@ -431,13 +431,13 @@ EV_7_S16_defeat_zext
 0xcd75	0x98	Creha		After all, there are people	
 				like you, Nayuta...	
 0xcdcc	0x06	ALTO		ANI_THANKS	
-0xcdfc	0x98	ALTO	#6A	Kureha... Thanks.	
+0xcdfc	0x98	ALTO	#6A	Creha... Thanks.	
 0xce56	0xBC	Creha		Surprise	
 0xcef9	0x98	Creha	#0W	..................!	mp_0100b 0x2218
 0xcf40	0xBC	ALTO		Surprise	
 0xcfb3	0xBC	NOI		Surprise	
 0xd00d	0xBC	Signa		Surprise	
-0xd0b4	0x98	NOI	#6A	Master Kureha...?	
+0xd0b4	0x98	NOI	#6A	Master Creha...?	
 0xd0ef	0x06	Signa		ANI_GESTURE2	
 0xd11a	0x98	Signa		What's going on all of a sudden?	
 0xd17e	0x06	Creha		ANI_THINK	
@@ -569,7 +569,7 @@ EV_7_S18_go_astrolabe
 0xfa89	0x98	Creha		The Planetarium's	
 				idol HAS fallen...	
 0xfafe	0x98	NOI	#6A#1W	.....................	mp_0003 0xc610
-0xfb8d	0x98	NOI	#6A	...Nayuta, Master Kureha,	
+0xfb8d	0x98	NOI	#6A	...Nayuta, Master Creha,	
 				everyone, get to the Astrolabe!	
 0xfce7	0x98	ALTO		Huh...? What about you, Noi!?	
 0xfd2c	0x06	NOI		ANI_GUTSPOSE	
@@ -600,7 +600,7 @@ EV_7_S18_go_astrolabe
 				finishing touches!	
 0x10769	0xBC	NOI		Ellipsis	
 0x107ae	0x98	NOI	#1W	..................	mp_0000d 0x70fd
-0x107f0	0x98	NOI	#2W	...Nayuta, Master Kureha, Cygna...	
+0x107f0	0x98	NOI	#2W	...Nayuta, Master Creha, Cygna...	
 0x10867	0x98	NOI	#1W	...I'm sorry.	
 0x108ef	0x98	NOI	#1W	The Planetarium...	
 				Sorry for not recognizing	

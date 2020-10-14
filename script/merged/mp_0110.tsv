@@ -70,17 +70,17 @@ talk_Asa_sub
 0x37ff	0x98	Asa		It's been a while since I examined	mp_0110 0x36d6
 				a Star Shard as good as the one today.	
 0x3865	0x98	Asa		Nayuta, please get to the bottom	
-				of this and save Cygna and Kureha.	
+				of this and save Cygna and Creha.	
 				Do it for Orvus, too.	
 0x38dc	0x98	Asa		To be able to meet Noi	
 				again like this...	
 				I'm overjoyed.	
 0x3933	0x98	Asa		And maybe we can save	
-				Kureha and Cygna too...	
+				Creha and Cygna too...	
 0x399b	0x98	Asa		It's going to be difficult this	
 				time as well. Good luck, you two!	
 0x3a1c	0x98	Asa		Maybe we can save	
-				Kureha and Cygna too...	
+				Creha and Cygna too...	
 0x3a74	0x98	Asa		It's going to be difficult,	
 				but good luck, you two!	
 0x3afb	0x98	Asa		Isn't Lyra waiting	
@@ -92,7 +92,7 @@ talk_Asa_sub
 				to keep a girl waiting..	
 0x3c64	0x98	Asa		Why the long faces?	
 				Did something happen?	
-0x3cab	0x98	Asa		Were you able to find Kureha?	
+0x3cab	0x98	Asa		Were you able to find Creha?	
 0x3cfa	0x98	ALTO		Yeah, we WERE able to meet her	
 				and confirm her intentions, but...	
 0x3d58	0x98	ALTO		(In the end, we got so far, but we
@@ -105,7 +105,7 @@ talk_Asa_sub
 0x3e73	0x98	Asa		...Well, it seems like	
 				something devastating happened.	
 0x3ec8	0x98	Asa		But if you were able to	
-				meet Kureha, that's a step	
+				meet Creha, that's a step	
 				in the right direction.	
 0x3f20	0x98	Asa		If it's Nayuta and Noi on the job,	
 				I'm sure you'll be able to bring	
@@ -125,7 +125,7 @@ talk_Asa_sub
 0x41fa	0x98	Asa		...Mom and Dad in heaven,	
 				please keep Nayuta safe.	
 0x4284	0x98	Asa		Hey, come on, don't just sit around.	
-				You are going to be bringing Kureha	
+				You are going to be bringing Creha	
 				and Cygna back to me, right?	
 0x42f2	0x98	Asa		If it's you two, I'm sure you'll	
 				do fine. I believe in you.	
@@ -148,13 +148,13 @@ talk_Asa_sub
 				you two should walk	
 				through the village together.	
 0x4667	0x98	Asa		mp_0110 0x4578		
-0x4700	0x98	Asa		There's no way Kureha would	
+0x4700	0x98	Asa		There's no way Creha would	
 				want to say goodbye this way.	
 0x4753	0x98	Asa		Even though we only spent a short amount	
 				of time together, I feel like we really	
 				connected and came to understand each other.	
 0x47bd	0x98	Asa		Nayuta, make sure to	
-				bring Kureha back to us.	
+				bring Creha back to us.	
 0x4831	0x98	Asa		mp_0110 0x4700	
 0x4884	0x98	Asa		mp_0110 0x47bd
 0x48ec	0x98	Asa		Snow... Dad used to	
@@ -162,7 +162,7 @@ talk_Asa_sub
 0x494e	0x98	Asa		Maybe this is part of the abnormal	
 				weather that's said to have been	
 				happening lately...	
-0x49de	0x98	Asa		Seems like Kureha is exploring lots	
+0x49de	0x98	Asa		Seems like Creha is exploring lots	
 				of different things in the village.	
 0x4a37	0x98	Asa		She says that it's interesting	
 				seeing so many new things not	
@@ -175,13 +175,13 @@ talk_Asa_sub
 				to help me with my work.	
 				Hehe, she's such a sweet girl.	
 0x4c16	0x98	Asa		Oh, Nayuta...	
-				If it's Kureha you're	
+				If it's Creha you're	
 				looking for, she went out.	
 0x4c67	0x98	Asa		I think she wanted to take	
 				a walk around the village.	
 0x4cba	0x98	Asa		Hehe, if you run, you should
 				be able to catch up with her.	
-0x4d41	0x98	Asa		Kureha said she wanted to	
+0x4d41	0x98	Asa		Creha said she wanted to	
 				try cooking, so I started	
 				teaching her a few things.	
 0x4da9	0x98	Asa		Hehe, seems like she	
@@ -190,19 +190,19 @@ talk_Asa_sub
 				She'll make a great wife someday! ㈱	
 0x4e6d	0x6B	ALTO		Sweatdrop	
 0x4e9f	0x98	ALTO		E-Eartha...!	
-0x4ecb	0x98	Asa		Heheh, let me take care of Kureha.	
+0x4ecb	0x98	Asa		Heheh, let me take care of Creha.	
 0x4f09	0x98	Asa		You should go do what	
 				you need to do, Nayuta.	
 0x4f79	0x98	Asa		Heheh, anyway, let me	
-				take care of Kureha.	
+				take care of Creha.	
 0x4fbe	0x98	Asa		mp_0110 0x4f09	
-0x503c	0x98	Asa_b		Could you bring Kureha here?	
+0x503c	0x98	Asa_b		Could you bring Creha here?	
 0x507c	0x98	Asa_b		After everything she's done for me,	
 				I want to thank her in person.	
 0x50d2	0x98	Asa_b		Most of all, I want to meet the	
 				person who helped me recover.	
 0x5155	0x98	Asa_b		Well, please send	
-				word to Kureha.	
+				word to Creha.	
 0x51af	0x98	Asa_b		Hehe, I'm looking forward to this.	
 0x520e	0x98	Asa_b	#1W	mp_0001 0xc917
 0x5249	0x40	UNDEF		Eartha is sleeping with an expression of anguish	
@@ -1190,7 +1190,7 @@ QS_81_quest_end
 0x13b26	0x98	NOI		Just what could even	
 				be in there...?	
 0x13b73	0x6B	Asa		Ellipsis	
-0x13ba4	0x98	Asa		This is...Cygna and Kureha,	
+0x13ba4	0x98	Asa		This is...Cygna and Creha,	
 				when they were little...?	
 0x13bf6	0x6B	ALTO		Surprise	
 0x13c28	0x6B	NOI		Surprise	
@@ -1203,7 +1203,7 @@ QS_81_quest_end
 0x13dd7	0x06	Asa		ANI_WAIT	
 0x13e68	0x06	ALTO		ANI_SIT1	
 0x13fc2	0x40	ALTO		It's true...	
-				It's Cygna and Kureha	
+				It's Cygna and Creha	
 				when they were little.	
 0x14019	0x40	ALTO		And the one in the middle is	
 				probably...Zext at the time.	
@@ -1253,7 +1253,7 @@ QS_81_quest_end
 				I'll be sure to	
 				give this to Cygna.	
 0x14969	0x98	ALTO	#6A	I'll need to wake up Cygna	
-				and Kureha first, though...	
+				and Creha first, though...	
 0x149c3	0x06	Aulbath		ANI_WAIT4	
 0x149ed	0x98	Aulbath		Heheh, that's right.	
 0x14a29	0x98	Aulbath		I look forward to when that	
@@ -2235,7 +2235,7 @@ EV_3_S23_confide_asa
 				about what we've been up to.	
 0x2a4e2	0x98	NOI	#6A	We can't keep this a secret	
 				from her any longer.	
-0x2a540	0x98	NOI	#6A	If Master Kureha were to	
+0x2a540	0x98	NOI	#6A	If Master Creha were to	
 				suddenly disappear, I'd	
 				be very scared myself...	
 0x2a63e	0x98	ALTO	#6A	...All right. If you say so, Noi...	
@@ -2248,7 +2248,7 @@ EV_3_S23_confide_asa
 0x2a80f	0x40	UNDEF		He explained as carefully as he	
 				could about his battles with Noi,	
 				and about Cygna disappearing...	
-0x2a873	0x40	UNDEF		And about Kureha.	
+0x2a873	0x40	UNDEF		And about Creha.	
 0x2a8fd	0x98	Asa_b		...I see.	mp_0100a 0xd531
 0x2a931	0x6B	Asa_b		Ellipsis	
 0x2a9b2	0x98	Asa_b		...Nayuta, you've always been obsessed	
@@ -2276,7 +2276,7 @@ EV_3_S23_confide_asa
 				it was more about wanting to see	
 				that world over anything else.	
 0x2aec4	0x98	ALTO	#6A	But now, it's not just about my curiosity.	
-0x2af14	0x98	ALTO	#6A	There's Cygna, of course, and Noi and Kureha...	
+0x2af14	0x98	ALTO	#6A	There's Cygna, of course, and Noi and Creha...	
 0x2af5e	0x98	ALTO	#6A	To protect those important to me...	
 				That is why I want to go to Terra.	
 0x2afe6	0x98	NOI	#6A	Nayuta...	mp_0000d 0x7671
@@ -2286,13 +2286,13 @@ EV_3_S23_confide_asa
 0x2b15f	0x98	ALTO	#6A	Then...!	
 0x2b1b1	0x98	Asa_b		However, I still have one condition	
 				before I allow you to go adventuring.	
-0x2b23a	0x98	Asa_b		Please bring that Kureha girl here.	
+0x2b23a	0x98	Asa_b		Please bring that Creha girl here.	
 0x2b291	0x6B	ALTO		Exclamation	
 0x2b2bb	0x6B	NOI		Exclamation	
 0x2b2e4	0x06	ALTO		ANI_SIT1_SURPRISE	
 0x2b313	0x06	NOI		ANI_SURPRISE	
 0x2b358	0x98	ALTO	#16S#6A	Huh!?	
-0x2b38c	0x98	NOI	#16S#6A	You want Master Kureha!?	
+0x2b38c	0x98	NOI	#16S#6A	You want Master Creha!?	
 0x2b3fa	0x98	Asa_b		From what you said, she's the	
 				reason you were able to get	
 				the Yupina Grass, right?	
@@ -2302,7 +2302,7 @@ EV_3_S23_confide_asa
 0x2b533	0x98	ALTO	#6A	I-I see... What do you think, Noi?	
 0x2b57f	0x06	NOI		ANI_WORRIED	
 0x2b5e9	0x98	NOI	#6A	Hmm, well, I'll have	
-				to ask Master Kureha...	
+				to ask Master Creha...	
 0x2b658	0x98	Asa_b		Hehe, then I'll look forward to it.	
 0x2b6a5	0x98	Asa_b		I'll prepare tea and sweets, so	
 				please try to convince her.	
@@ -2313,12 +2313,12 @@ EV_3_S23_confide_asa
 				Let's go, Noi.	
 0x2b89c	0x98	NOI	#6A	Yeah, got it.	mp_0000 0x7d86
 0x2b950	0x06	ALTO		ANI_WAIT	
-0x2ba19	0xCE	Objective		Seems like Eartha wants to say thanks. Let's go tell Kureha.	
+0x2ba19	0xCE	Objective		Seems like Eartha wants to say thanks. Let's go tell Creha.	
 SB_3_S27_asa_move
 0x2baf9	0x06	Asa		ANI_WAIT2	
 EV_3_S27_bring_creha
 0x2bf07	0x98	ALTO	#1W	I'm back, Eartha.	
-				I brought Kureha.	
+				I brought Creha.	
 0x2c010	0x6B	Asa		Surprise	
 0x2c05c	0x06	Asa		ANI_GOODIDEA	
 0x2c093	0x98	Asa	#1W	Hehe, good timing. ♪	
@@ -2335,7 +2335,7 @@ EV_3_S27_bring_creha
 				Oh my, aren't you quite the pretty one?	
 0x2c528	0x06	Creha		ANI_OJIGI	
 0x2c566	0x06	ALTO		ANI_WAIT3	
-0x2c5b2	0x98	Creha	#2W#6A	I am Kureha.	
+0x2c5b2	0x98	Creha	#2W#6A	I am Creha.	
 0x2c5f3	0x98	Creha	#1W#6A	...N-Nice to meet you.	
 0x2c638	0x06	Asa		ANI_OJIGI	
 0x2c66c	0x98	Asa	#1W	Hehe, likewise.	
@@ -2346,7 +2346,7 @@ EV_3_S27_bring_creha
 0x2c758	0x98	Creha	#1W#6A	No...the ones who found	
 				it were Nayuta and Noi.	
 0x2c7c4	0x98	Creha	#0W#6A	I didn't do much...	
-0x2c812	0x98	NOI	#6A	(Master Kureha...)	
+0x2c812	0x98	NOI	#6A	(Master Creha...)	
 0x2c84e	0x98	ALTO		(As I thought, she's	
 				 a little shy.)	
 0x2c8a1	0x06	Asa		ANI_WAIT4	
@@ -2356,7 +2356,7 @@ EV_3_S27_bring_creha
 				Let's have tea.	
 0x2c9b6	0x40	UNDEF		The four of them relaxed for the first time in a	
 				while drinking tea.	
-0x2ca11	0x40	UNDEF		However, a gloomy expression remained on Kureha's face,	
+0x2ca11	0x40	UNDEF		However, a gloomy expression remained on Creha's face,	
 				and never quite cleared up...	
 0x2cba0	0x06	Creha		ANI_SIT1	
 0x2cc0f	0x06	ALTO		ANI_SIT2	
@@ -2373,9 +2373,9 @@ EV_3_S27_bring_creha
 				enjoy it properly.	
 0x2cfae	0x98	Creha		And you even went out of your	
 				way to invite me here...	
-0x2d04d	0x98	NOI		Master Kureha...	
+0x2d04d	0x98	NOI		Master Creha...	
 0x2d084	0x98	ALTO	#6A	You don't have to...
-0x2d0bc	0x98	Asa	#6A	...Kureha, I heard you've had some	
+0x2d0bc	0x98	Asa	#6A	...Creha, I heard you've had some	
 				trouble and lost your memory.	
 0x2d10a	0x98	Asa	#6A	However, you probably don't need	
 				to be so worried about that.	
@@ -2392,7 +2392,7 @@ EV_3_S27_bring_creha
 				with the people around you.	
 0x2d32a	0x98	Creha	#0W	It's always changing...	
 0x2d36f	0x06	Asa		ANI_SIT1_NOD	
-0x2d3a0	0x98	Asa	#6A	So, Kureha. I'd like	
+0x2d3a0	0x98	Asa	#6A	So, Creha. I'd like	
 				to make a proposal...	
 0x2d3f5	0x98	Asa	#6A	How about you come	
 				stay at our home?	
@@ -2410,7 +2410,7 @@ EV_3_S27_bring_creha
 0x2d69b	0x06	ALTO		ANI_SIT1_SURPRISE	
 0x2d6d2	0x98	ALTO	#6A	Hey, Eartha! Just what	
 				are you suggesting?	
-0x2d729	0x98	ALTO	#6A	Kureha is a girl, so I don't	
+0x2d729	0x98	ALTO	#6A	Creha is a girl, so I don't	
 				think it's very appropriate to...	
 0x2d799	0x98	Asa	#6A	Well, I think it'd better	
 				than leaving her to live	
@@ -2436,7 +2436,7 @@ EV_3_S27_bring_creha
 0x2dba4	0x98	Asa	#6A	Hehe, it's like I made a new little	
 				sister. This is going to be fun!	
 0x2dc18	0x98	Asa	#6A	Then welcome, at least for 
-				a little while, Kureha! ♪ 	
+				a little while, Creha! ♪ 	
 0x2dc74	0x06	Creha		ANI_SIT1_NOD	
 0x2dc9f	0x98	Creha		...*gulp*	
 0x2dcd3	0x98	ALTO	#6A	(A-Ahaha...	
@@ -2449,7 +2449,7 @@ EV_4_S12_ask_asa
 0x2e130	0x98	Asa		Hmm hmm hmm～.... ♪	
 				I wonder what would be	
 				good for dinner tonight.	
-0x2e18c	0x98	Asa		I'll have to ask Kureha	
+0x2e18c	0x98	Asa		I'll have to ask Creha	
 				what she likes later...	
 0x2e20c	0x98	ALTO		I'm home, Eartha.	
 0x2e23d	0x06	Asa		ANI_WAIT	
@@ -2465,9 +2465,9 @@ EV_4_S12_ask_asa
 0x2e5df	0x06	NOI		ANI_GESTURE1	
 0x2e608	0x98	NOI	#6A	mp_0001 0x13e24
 0x2e633	0x06	NOI		ANI_LOOK_AROUND	
-0x2e667	0x98	NOI	#6A	...Umm, how is Master Kureha!?	
+0x2e667	0x98	NOI	#6A	...Umm, how is Master Creha!?	
 0x2e6c3	0x06	Asa		ANI_WAIT	
-0x2e6e8	0x98	Asa		If you're looking for Kureha,	
+0x2e6e8	0x98	Asa		If you're looking for Creha,	
 				she should be out in the village.	
 0x2e750	0x06	Asa		ANI_LAUGH	
 0x2e776	0x98	Asa		Hehe, it seems like she's getting	
@@ -2489,10 +2489,10 @@ EV_4_S12_ask_asa
 0x2ea88	0x98	NOI	#6A	Nayuta, just to make sure, you should	
 				take a look around the village.	
 0x2eadb	0x06	NOI		ANI_GESTURE1	
-0x2eb04	0x98	NOI	#6A	And check on Master Kureha, too!	
+0x2eb04	0x98	NOI	#6A	And check on Master Creha, too!	
 0x2eb86	0x98	ALTO		mp_0004 0x4dce
 0x2ebd5	0x98	Asa		I'm not sure what's going on, but...	
-				Kureha should still be somewhere	
+				Creha should still be somewhere	
 				in the village.	
 0x2ecee	0x06	Asa		ANI_GOODIDEA	
 0x2ed17	0x98	Asa		Oh, right. If you find her,	
@@ -2510,7 +2510,7 @@ EV_6_S00_wakeup_nayuta
 0xFFFFF	0x3F	Name		 	
 0x2f887	0x40	ALTO_pj	#2W#12S	......Oo...Ooh......	
 0x2f8c5	0x40	ALTO_pj	#2W#12S	...Ngh...No...don't...	
-				...Kureha...	
+				...Creha...	
 0x2f910	0x40	ALTO_pj	#2W#12S	......why...	
 				....Cygna...	
 0x2f95a	0x40	ALTO_pj	#2W#16S	......#0WCygna!!	
@@ -2549,7 +2549,7 @@ EV_6_S00_wakeup_nayuta
 				You've been out for several days...	
 0x30fec	0x98	ALTO_pj	#6A#0W	That doesn't matter...!	
 0x31074	0x98	ALTO_pj	#0W#6A	We have to go back to Terra	
-				and stop Kureha and Cygna!	
+				and stop Creha and Cygna!	
 0x310e7	0x06	NOI		ANI_DENY	
 0x3114e	0x98	NOI		B-But...now it's...	
 0x311c6	0x98	ALTO_pj	#6A#16S	Shut up, Noi!	
@@ -2601,7 +2601,7 @@ EV_6_S02_state_order
 				have never happened...	
 0x3260c	0x98	NOI	#0W	Nayuta and Cygna would still be	
 				living peacefully on this island...	
-0x32670	0x98	NOI	#0W	Even Master Kureha...	
+0x32670	0x98	NOI	#0W	Even Master Creha...	
 0x326cb	0x98	Asa	#6A	Don't say that, Noi.	
 0x3273e	0x98	Asa	#6A	If you had not come,	
 				I would have lost my	
@@ -2667,7 +2667,7 @@ EV_6_S14_talk_asa
 0x3352a	0x98	Asa		You two have found your own	
 				way in the world, that's all.	
 0x33589	0x06	Asa		ANI_WAIT2	
-0x335af	0x98	Asa		Take care of Kureha	
+0x335af	0x98	Asa		Take care of Creha	
 				and Cygna for me.	
 0x33606	0x06	ALTO		ANI_JOY	
 0x3362b	0x98	ALTO		Yeah... We got this!	
@@ -2795,7 +2795,7 @@ EV_8_S04_talk_noi
 				Astrolabe seems to have experienced	
 				an unforeseen malfunction...	
 0x358c5	0x98	ALTO		Something's wrong with the Astrolabe...!?	
-0x3590b	0x98	ALTO		Are Cygna and Kureha all right!?	
+0x3590b	0x98	ALTO		Are Cygna and Creha all right!?	
 0x35953	0x6B	NOI		Ellipsis	
 0x35984	0x98	NOI	#6A	When I woke up...	
 0x359c7	0x98	NOI	#6A	...The two of them were in a	
@@ -2816,7 +2816,7 @@ EV_8_S04_talk_noi
 				that the voice guided me
 				to go to the surface...	
 0x35d30	0x98	NOI	#6A	"Bring Mr. Nayuta here, and 	
-				Master Kureha and Master	
+				Master Creha and Master	
 				Cygna can be saved..."	
 0x35da5	0x06	Lyra		ANI_THINK	
 0x35dcc	0x98	Lyra		Hmm... I dunno, I'm not really	
@@ -2826,7 +2826,7 @@ EV_8_S04_talk_noi
 0x35ee1	0x98	Asa		...Nayuta, what will you do?	
 0x35f39	0x98	ALTO	#6A	...I'll do it.	
 0x35f6c	0x98	ALTO	#6A	Over on Terra...something's	
-				happened to Cygna and Kureha.	
+				happened to Cygna and Creha.	
 0x35fc6	0x98	ALTO	#6A	There's no way we can	
 				just ignore this!	
 0x3601f	0x06	Asa		ANI_NOD	
@@ -2854,7 +2854,7 @@ EV_8_S04_talk_noi
 0x36668	0x98	Asa		Yeah, go.	
 0x366ac	0x06	Asa		ANI_GESTURE2	
 0x366d5	0x98	Asa		For the sake of Cygna	
-				and Kureha...and Noi,	
+				and Creha...and Noi,	
 				too, do your best.	
 0x36738	0x06	ALTO		ANI_WAIT0	
 0x3675f	0x98	Lyra	#6A	Take care, Nayuta!	

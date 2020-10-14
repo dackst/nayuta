@@ -29,7 +29,7 @@ EV_5_S13_arrive_relay
 0xf33	0x06	ALTO		ANI_JOY	
 0xf58	0x98	ALTO		(I WILL stop you...!)	
 0xfba	0x6B	NOI		Ellipsis	
-0xfeb	0x98	NOI	#6A#0W	(Master Kureha, Master Selam...)	
+0xfeb	0x98	NOI	#6A#0W	(Master Creha, Master Selam...)	
 0x1030	0x98	NOI	#6A#0W	(...I...)	
 SB_5_S08_appear_ALTO
 SB_5_S08_appear_NOI
@@ -147,7 +147,7 @@ EV_5_S11_last_advise
 				Brace yourselves.	
 0x4c57	0x06	Signa		ANI_WAIT2	
 0x4ce7	0x98	Signa	#2W#16S	Brace yourselves to put your lives	
-				on the line #16Sto fight Kureha and me.	
+				on the line #16Sto fight Creha and me.	
 0x4d58	0x06	ALTO		ANI_WAIT2	
 0x4d7f	0x6B	ALTO		Exclamation	
 0x4db1	0x6B	NOI		Exclamation	
@@ -166,7 +166,7 @@ EV_5_S11_last_advise
 0x5798	0x06	ALTO		ANI_GESTURE2	
 0x57e0	0x98	ALTO		It doesn't matter	
 				that Selam was Cygna.	
-0x583a	0x98	ALTO		...If Cygna and Kureha	
+0x583a	0x98	ALTO		...If Cygna and Creha	
 				have become our enemies─	
 0x5893	0x06	ALTO		ANI_DENY	
 0x58d7	0x98	ALTO		No, BECAUSE they have	

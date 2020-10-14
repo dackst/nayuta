@@ -133,7 +133,7 @@ EV_6_S33_set_all_key
 0x59bb	0x06	ALTO		ANI_SURPRISE	
 0x59e5	0x06	NOI		ANI_SURPRISE	
 0x5c15	0x98	ALTO	#1W#16S#280x#270y	...!!	
-0x5c66	0x98	NOI	#1W#16S#200x#270y	M-Master Kureha!?	
+0x5c66	0x98	NOI	#1W#16S#200x#270y	M-Master Creha!?	
 0x5f66	0x98	Creha	#0W	...You guys, of course.	
 0x5fa5	0x98	Creha	#0W	You were able to come all	
 				the way back here after all.	
@@ -142,7 +142,7 @@ EV_6_S33_set_all_key
 0x60a6	0x98	Creha		The plan to Remake the world	
 				has reached its final stage...	
 0x6157	0x98	Creha	#0W	...It can no longer be stopped.	
-0x61a2	0x98	ALTO	#6A	Kureha...	
+0x61a2	0x98	ALTO	#6A	Creha...	
 0x61d6	0x98	Creha		You should spend your final moments	
 				together with your loved ones...	
 0x6290	0x98	Creha		...Or, if you choose, Selam and	
@@ -186,7 +186,7 @@ EV_6_S33_set_all_key
 0x69e8	0xBC	ALTO		Question	
 0x6a1e	0xBC	NOI		Question	
 0x6b0a	0x06	Creha		ANI_PUT_HAND_CONSOLE	
-0x6d63	0x98	NOI	#6A	Master Kureha, what are you...?	
+0x6d63	0x98	NOI	#6A	Master Creha, what are you...?	
 0x6dce	0x98	Creha	#0W	Stored inside the Astrolabe	
 				is an "Ancient Memory"	
 				preserved from the past.
@@ -239,7 +239,7 @@ EV_6_S36_break_up_creha
 0x84c6	0x98	Creha	#0W	I have come to think that,	
 				maybe, we could abandon	
 				the mission again.		
-0x8671	0x98	ALTO	#1W#6A	Kureha...	mp_0100a 0x61a2
+0x8671	0x98	ALTO	#1W#6A	Creha...	mp_0100a 0x61a2
 0x86f6	0x06	Creha		ANI_DENY	
 0x8725	0x98	Creha		...I am truly sorry for putting	
 				on this pretense to test you.	
@@ -255,11 +255,11 @@ EV_6_S36_break_up_creha
 0x893f	0x98	ALTO	#6A	Above all.... I'm glad to	
 				know you felt that way.	
 0x89b1	0x06	ALTO		ANI_THANKS	
-0x89e1	0x98	ALTO	#0W#6A	...Welcome back, Kureha.	
+0x89e1	0x98	ALTO	#0W#6A	...Welcome back, Creha.	
 0x8a4e	0x98	Creha	#1W	...Thank you.	
 0x8acd	0x98	Creha	#0W	...It's good to be back!	
 0x8b11	0x06	NOI		ANI_JOY	
-0x8b35	0x98	NOI	#6A	Master Kureha, what a relief!!	
+0x8b35	0x98	NOI	#6A	Master Creha, what a relief!!	
 0x8bbb	0x6B	ALTO		Ellipsis	
 0x8bed	0x06	ALTO		ANI_GUTSPOSE	
 0x8c1f	0x98	ALTO	#6A	There must be a way to save the	
@@ -274,13 +274,13 @@ EV_6_S36_break_up_creha
 				my father and brother now.	
 0x8e63	0x06	NOI		ANI_GUTSPOSE	
 0x8e8c	0x98	NOI	#6A	Oh, that's a good idea!	
-0x8ec7	0x98	NOI	#6A	Only Masters Kureha and Selam, with	
+0x8ec7	0x98	NOI	#6A	Only Masters Creha and Selam, with	
 				with the Shining Wings of the Mitos,	
 				can execute the Remaking,	
 0x8f5f	0x98	NOI	#6A	All we have to do to stop the	
 				Remaking is convince Master Selam!	
 0x8fc5	0x06	ALTO		ANI_GESTURE2	
-0x8fef	0x98	ALTO	#6A	Let's go, Kureha!	
+0x8fef	0x98	ALTO	#6A	Let's go, Creha!	
 0x902c	0x98	ALTO	#6A	To Cygna and Zext, at	
 				Terra's lower stratum─	
 0x90d0	0x41	None	#1W#2E#833c	That will not be necessary.#0E	
@@ -303,7 +303,7 @@ EV_6_S36_break_up_creha
 				my daughter with such worthless thoughts.	
 0x9ea9	0x06	Zext		ANI_CAPTURE_CREHA	
 0x9ee8	0x06	Creha		ANI_CAPTURED	
-0x9f8c	0x98	Zext	#1W	Come, Kureha! The Planetarium	
+0x9f8c	0x98	Zext	#1W	Come, Creha! The Planetarium	
 				will be ready soon.	
 0xa01d	0x98	Zext	#2W	We need you to take care of	
 				some finishing touches...	
@@ -318,7 +318,7 @@ EV_6_S36_break_up_creha
 				is the Shining Wings... 	
 				Your will matters not.	
 0xa4fa	0x06	ALTO		ANI_WAKE_UP_HALF	
-0xa53e	0x98	ALTO	#4W#6A#16S	L-Let go of Kureha!!	
+0xa53e	0x98	ALTO	#4W#6A#16S	L-Let go of Creha!!	
 0xa5a8	0x98	Zext	#1W#6A	Heheh... From here onwards, we 	
 				will be in the realm of the gods.	
 0xa60a	0x98	Zext	#1W#6A	Set foot on it, and there will	
@@ -326,7 +326,7 @@ EV_6_S36_break_up_creha
 0xa689	0x98	Zext	#2W#6A	Farewell.	
 0xa8ab	0x06	ALTO		ANI_SIT6	
 0xa9b7	0x06	ALTO		ANI_HAND_EXTENDED_RUN	
-0xaa98	0x98	ALTO	#18S#10M#6A	Kureha!	mp_0001 0x1600d
+0xaa98	0x98	ALTO	#18S#10M#6A	Creha!	mp_0001 0x1600d
 0xac0d	0x06	Zext		ANI_CAPTURE_CREHA_LOOP2	
 0xac42	0x06	Creha		ANI_CAPTURED_ENPAND_HAND	
 0xacff	0x98	Creha	#1W#18S#10M	...Nayuta!	
@@ -334,14 +334,14 @@ EV_6_S36_break_up_creha
 0xb145	0x98	NOI	#0x#250y#1W	...Nayuta!!	
 0xb1eb	0x06	NOI		ANI_WAIT	
 0xb2b1	0x06	NOI		ANI_GESTURE1	
-0xb2e8	0x98	NOI	#0W#6A	Master Kureha should be	
+0xb2e8	0x98	NOI	#0W#6A	Master Creha should be	
 				in the lower stratum...	
 				In the Stellarium!	
 0xb360	0x98	NOI	#0W#6A	Hurry up and chase after them!!	
 0xb3af	0x06	ALTO		ANI_NOD	
 0xb3e2	0x98	ALTO	#2W	Yeah!	mp_0001 0x1174e
 0xb412	0x06	ALTO		ANI_JOY	
-0xb445	0x98	ALTO	#1W	(Wait for us, Kureha.	
+0xb445	0x98	ALTO	#1W	(Wait for us, Creha.	
 				 We must..!!)	
 SB_6_S36_zext_move
 SB_6_S36_nayuta_move
@@ -452,7 +452,7 @@ EV_7_S19_use_astrolabe
 0xe263	0x98	Noi	#3W	At first, I really hated humans.	
 0xe2b8	0x98	Noi	#0W	A savage and vicious species that	
 				triggered the world's destruction.	
-0xe38c	0x98	Noi	#1W	Master Kureha told me that	
+0xe38c	0x98	Noi	#1W	Master Creha told me that	
 				they aren't all like that,	
 				I couldn't believe it.	
 0xe43a	0x98	Noi	#0W	...Until I met Nayuta and the others.	
@@ -479,7 +479,7 @@ EV_7_S19_use_astrolabe
 0xea92	0x98	Noi	#4W	Before I knew it...	
 				I loved humans.	
 0xeb09	0x98	Noi	#1W	Now that I was able to save
-				Lady Kureha and Lord Selam─	
+				Lady Creha and Lord Selam─	
 				no, Cygna, I have no regrets.	
 0xeb91	0x98	Creha	#2W	Noi...	mp_0005c 0x6fe1
 0xebd1	0x98	Signa	#1W	...You idiot...	

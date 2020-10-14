@@ -133,7 +133,7 @@ EV_5_S05_hear_neme_voice
 				ascending Heliograd, aren't you?#0E	
 0x3210	0x06	ALTO		ANI_JOY	
 0x3235	0x98	ALTO		Yes... To find out	
-				Kureha's true motives!	
+				Creha's true motives!	
 0x3286	0x41	None	#0W#2E#030c	Hmm...	
 				You certainly	
 				seem determined.#0E	
@@ -143,7 +143,7 @@ EV_5_S05_hear_neme_voice
 				search for a method to stop the Power of	
 				Stars flowing from the tower.#0E	
 0x3466	0x41	None	#0W#2E#029c	Please look after	
-				Master Kureha for us, you two!#0E	
+				Master Creha for us, you two!#0E	
 0x34ff	0x06	NOI		ANI_NOD	
 0x3523	0x98	NOI		Yeah...	
 				Leave it to us!	
@@ -155,4 +155,4 @@ EV_5_S05_hear_neme_voice
 				has been unlocked.	
 0x3890	0x07	System	#3C	"Winter" of Origin Continent La Worg	mp_5100 0x27a0
 				has been unlocked.	
-0x3ab2	0xCE	Objective		Kureha's in Heliograd... I have to find out her true motives!	
+0x3ab2	0xCE	Objective		Creha's in Heliograd... I have to find out her true motives!	

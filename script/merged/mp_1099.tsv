@@ -40,7 +40,7 @@ talk_Gio
 				and wisdom than any of us.	
 0x1d55	0x98	Gio		Once she is free, we will	
 				be ready for anything...	
-0x1dd1	0x98	Gio		It seems like Master Kureha's	
+0x1dd1	0x98	Gio		It seems like Master Creha's	
 				memory has not yet returned.	
 0x1e24	0x98	Gio		It was out of our control	
 				that the last of the Mitos	
@@ -49,7 +49,7 @@ talk_Gio
 				and new abnormalities may have	
 				some meaning.	
 0x1f32	0x98	Gio		It's good to hear	
-				that Master Kureha	
+				that Master Creha	
 				has awakened.	
 0x1f8a	0x98	Gio		When I get the chance, I should	
 				stop by for a visit and say hello.	
@@ -62,7 +62,7 @@ talk_Gio
 				so many things have happened.	
 0x2107	0x98	Gio		All because of Zext
 				and his evil work...		
-0x215d	0x98	Gio		Even awakening Master Kureha...	
+0x215d	0x98	Gio		Even awakening Master Creha...	
 				Perhaps it was part of his plan.	
 0x21b4	0x98	ALTO		No way...	mp_0100 0x1c977
 0x21dd	0x98	Gio		It is only a guess, but...	
@@ -544,7 +544,7 @@ QS_34_consultation
 0x88f3	0x98	NOI	#6A	Ah... I think I	
 				remember that!	
 0x8960	0x98	NOI	#6A	A long time ago, I searched	
-				for it for Master Kureha.	
+				for it for Master Creha.	
 0x89b6	0x98	NOI	#6A	If I remember correctly, it's the	
 				sandalwood tree that has that	
 				good fragrance!	
@@ -856,7 +856,7 @@ QS_83_quest_end
 0xdfa8	0x06	NOI		ANI_GUTSPOSE	
 0xdfd1	0x98	NOI	#6A	You're so amazing, Nayuta!	
 0xe016	0x98	NOI	#6A	At this rate, Master Cygna	
-				and Master Kureha can...	
+				and Master Creha can...	
 0xe086	0x06	ALTO		ANI_JOY	
 0xe0ab	0x98	ALTO		Yeah, I'm sure we can save them.	
 0xe0f5	0x98	ALTO		I feel like we grew a lot stronger	
@@ -943,7 +943,7 @@ QS_83_quest_end
 0xf2c8	0x06	Nemeas		ANI_NOD	
 0xf2ef	0x98	Nemeas		Together with Nayuta, I am certain	
 				you are capable of saving	
-				Masters Kureha and Cygna.	
+				Masters Creha and Cygna.	
 0xf394	0x98	NOI	#6A	Y-Yeah!	mp_0004 0x64d8
 0xf3c5	0x06	Gio		ANI_THINK	
 0xf3eb	0x98	Gio		Hmm, and yet... Noi's polite	
@@ -1004,7 +1004,7 @@ QS_83_quest_end
 0x100bf	0x98	Gio	#6A	We will always be watching over you.	
 				Be sure to do your part well.	
 0x1012d	0x06	Erislet		ANI_NOD	
-0x10163	0x98	Erislet	#1W	Masters Kureha and Selam	
+0x10163	0x98	Erislet	#1W	Masters Creha and Selam	
 				are waiting for you.	
 0x101cb	0x98	Erislet	#1W	And for our duties,	
 				wish us luck!	
@@ -1042,7 +1042,7 @@ QS_83_quest_end
 0x10f1e	0x98	NOI	#6A	Let's get ready for the	
 				final battle, Nayuta...	
 0x10f8c	0x06	NOI		ANI_GUTSPOSE	
-0x10fb5	0x98	NOI	#6A	And save Masters Kureha and Cygna!	
+0x10fb5	0x98	NOI	#6A	And save Masters Creha and Cygna!	
 0x11038	0x06	ALTO		ANI_NOD	
 0x1105d	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x110be	0x07	System	#3C	Quest [Crush the Four Idols] completed!	
@@ -1332,14 +1332,14 @@ EV_5_S10_signa_vs_seram
 0x1a32e	0x06	Seram		ANI_WAIT_DAMAGED	
 0x1a3fc	0x40	Signa	#0W	Until a few years back,	
 				I was actually asleep for a long	
-				time in the Garden with Kureha.	
+				time in the Garden with Creha.	
 0x1a46e	0x40	Signa	#0W	Why was I asleep...?	
 				Well, let's put that	
 				matter aside for now.	
 0x1a4d8	0x40	Signa	#0W	One day...	
 				An "accident" occurred.	
 0x1a527	0x40	Signa	#0W	In an event that neither I nor	
-				Kureha could have predicted...	
+				Creha could have predicted...	
 0x1a590	0x40	Signa	#0W	...My existence was	
 				divided in two.	
 0x1a64c	0x40	Signa	#0W	Yeah, I know it's hard to believe.	

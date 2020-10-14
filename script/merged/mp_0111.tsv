@@ -159,7 +159,7 @@ talk_Eida_sub
 0x3086	0x98	Eida		My old man has taken charge of assisting everyone...	
 				But I can't help but feel that something else is	
 				still going to happen...
-0x3152	0x98	Eida		Kureha... She's a little strange,	
+0x3152	0x98	Eida		Creha... She's a little strange,	
 				but she's a good kid.	
 0x31c2	0x98	Eida		All I'm good for is making	
 				and selling weapons...	
@@ -171,7 +171,7 @@ talk_Eida_sub
 				I wonder if a storm is coming.	
 0x3394	0x98	Eida		Maybe I'll go hang around the fire.	
 				I'm getting cold in this outfit.	
-0x342e	0x98	Eida		That Kureha girl seems to be	
+0x342e	0x98	Eida		That Creha girl seems to be	
 				getting adjusted to the island.	
 0x3495	0x98	Eida		She was just happily walking by earlier.	
 				...Ah, I think she went towards the cape.	
@@ -179,15 +179,15 @@ talk_Eida_sub
 				Thanks, Ada.	
 0x3545	0x98	Eida		Hmm, by the way...	
 				Who do you prefer	
-				more, Kureha or Lyra?	
+				more, Creha or Lyra?	
 0x35a2	0x98	Eida		You can trust me with	
 				your secret, hmm?	
 0x35d8	0x6B	ALTO		Sweatdrop	
-0x3632	0x98	Eida		You know, Kureha is different from those	
+0x3632	0x98	Eida		You know, Creha is different from those	
 				of us who grew up on the island somehow.	
 0x368c	0x98	Eida		I guess she's a city girl, but	
 				she's a good kid all the same.	
-0x3717	0x98	Eida		If you're looking for Kureha,	
+0x3717	0x98	Eida		If you're looking for Creha,	
 				she went out a little while ago.	
 0x3776	0x98	Eida		She works fast. She finished sorting	
 				the ledger faster than I could.	
@@ -202,7 +202,7 @@ talk_Eida_sub
 0x396a	0x98	Eida		Although at first, she said she	
 				wanted to try hammering the swords.	
 0x39bd	0x6B	ALTO		Sweatdrop	
-0x39ef	0x98	ALTO		Sorry, Ada. Kureha is	
+0x39ef	0x98	ALTO		Sorry, Ada. Creha is	
 				a little...unworldly.	
 0x3a38	0x98	ALTO		It'd be great if you'd	
 				watch over her for me.	
@@ -419,7 +419,7 @@ talk_Columha
 0x65f7	0x98	Columha		...I want that girl to come	
 				to love this island, but...	
 0x6688	0x98	Columha		That silver-haired girl...	
-				Kureha, was it?	
+				Creha, was it?	
 0x66e5	0x98	Columha		Mmm... If only Ada had	
 				that kind of grace...	
 0x6775	0x98	Eida		Something you want to	
@@ -694,11 +694,11 @@ talk_Creha
 				What do they use it for...?
 0xa122	0x98	ALTO		Ahahaha...	
 				(Looks like she's really dedicated to this.	
-				 Kureha's working very hard...)	
+				 Creha's working very hard...)	
 talk_Eida_Creha
 0xa23c	0x06	Eida		ANI_WAIT0	
 0xa2e3	0x06	ALTO		ANI_SURPRISE	
-0xa30d	0x98	ALTO	#6A	Huh, Kureha!?	
+0xa30d	0x98	ALTO	#6A	Huh, Creha!?	
 				Why are you here...?	
 0xa354	0x06	Eida		ANI_GESTURE1	
 0xa37e	0x98	Eida		No～, Nayuta's doing it too!	
@@ -711,7 +711,7 @@ talk_Eida_Creha
 0xa4a8	0x98	ALTO	#6A	(S-Somehow, I think she's	
 				 got the wrong idea...)	
 0xa4fc	0x06	ALTO		ANI_GESTURE1	
-0xa526	0x98	ALTO	#6A	Ah, umm, Kureha...	
+0xa526	0x98	ALTO	#6A	Ah, umm, Creha...	
 				If you'd like, how about I	
 				show you around the island?	
 0xa588	0x98	ALTO	#6A	If she's forcing you to do something,	
@@ -725,7 +725,7 @@ talk_Eida_Creha
 0xa704	0x98	Creha		Umm, if it's not a bother,	
 				please let me help you more.	
 0xa799	0x06	Eida		ANI_JOY	
-0xa7be	0x98	Eida		Yay, yay, Kureha is so cute,	
+0xa7be	0x98	Eida		Yay, yay, Creha is so cute,	
 				unlike Nayuta here～! ☆	
 0xa807	0x06	Eida		ANI_WAIT3	
 0xa82e	0x98	Eida		Okay then, next up is	
@@ -1029,7 +1029,7 @@ QS_41_getting_information
 0xeb68	0x06	ALTO		ANI_NOD	
 0xeb8d	0x98	ALTO	#6A	Huh...?	
 0xebd2	0x06	ALTO		ANI_GESTURE2	
-0xebfc	0x98	ALTO	#6A	...I mean, isn't this just like with Kureha?	
+0xebfc	0x98	ALTO	#6A	...I mean, isn't this just like with Creha?	
 				You'll enjoy yourself at anyone's expense, Ada.	
 0xec78	0x06	Eida		ANI_LAUGH	
 0xec9f	0x98	Eida		Ahaha, it's fine, it's fine.	
@@ -1106,7 +1106,7 @@ QS_41_getting_information2
 0xfce4	0x06	ALTO		ANI_NOD	
 0xfd1f	0x98	ALTO	#6A	Really...?	mp_0111 0xeb8d
 0xfd64	0x06	ALTO		ANI_GESTURE2	
-0xfd8e	0x98	ALTO	#6A	...Wait, isn't that just like with Kureha?	mp_0111 0xebfc
+0xfd8e	0x98	ALTO	#6A	...Wait, isn't that just like with Creha?	mp_0111 0xebfc
 				You'll enjoy yourself at anyone's expense, Ada.	
 0xfe0a	0x06	Eida		ANI_LAUGH	
 0xfe31	0x98	Eida		Ahaha, it's fine, it's fine.	mp_0111 0xec9f

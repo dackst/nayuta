@@ -72,7 +72,7 @@ talk_Serpent
 0x1922	0x98	Serpent		mp_0116 0x181f	
 0x19af	0x98	Serpent		Nayuta, Great Fairy.	
 				Please do not lose hope.	
-0x19f8	0x98	Serpent		I'm sure that young lady Kureha	
+0x19f8	0x98	Serpent		I'm sure that young lady Creha	
 				is still safe somewhere...	
 				The villagers all believe this too.	
 0x1a79	0x98	Serpent		Anyway, for now, we must prepare	
@@ -97,12 +97,12 @@ talk_Serpent
 0x1ec7	0x98	Serpent		However... I am corcerned about you, too.	
 				Definitely make sure to return safely, okay?	
 0x1f7d	0x98	Serpent		Just now, a young lady named	
-				Kureha came by to greet me.	
+				Creha came by to greet me.	
 0x1fd6	0x98	Serpent		Goodness gracious,	
 				such a lovely girl.	
 0x201d	0x98	Serpent		Hohoho, even the pain in	
 				my back somehow disappeared.	
-0x209b	0x98	Serpent		That young lady Kureha	
+0x209b	0x98	Serpent		That young lady Creha	
 				is such a lovely girl.	
 0x20d9	0x98	Serpent		Hohoho, it seems the pain	mp_0116 0x201d	
 				in my back suddenly went away.	
@@ -255,7 +255,7 @@ talk_Canis
 0x3e1c	0x98	Canis		I'm so happy we're going to be able	
 				to hold the festival this year!	
 0x3e8d	0x98	Canis		...It would have been nice if Cygna	
-				and Kureha could be here too...	
+				and Creha could be here too...	
 0x3ee6	0x98	ALTO		...That's right...	
 0x3f40	0x98	Canis		...I'm sorry, it's not like your Auntie	
 				to put a damper on the mood like that.	
@@ -284,11 +284,11 @@ talk_Canis
 				a festival right now, can we?	
 0x44b1	0x98	Canis		Aah, what a pity. This year's	
 				Star Festival is canceled.	
-0x4543	0x98	Canis		I couldn't protect Kureha...	
+0x4543	0x98	Canis		I couldn't protect Creha...	
 0x4580	0x98	Canis		Waaaaaah... I'm a failure	
 				as the Elder's daughter.	
 0x45d6	0x98	ALTO		...It'll be all right, Mrs. Janis.	
-0x461a	0x98	ALTO		I will get Kureha back...	
+0x461a	0x98	ALTO		I will get Creha back...	
 				So cheer up.	
 0x466f	0x98	Canis		Nayuta... Thank you	
 				for encouraging me.	
@@ -306,14 +306,14 @@ talk_Canis
 				being so careless...	
 0x48d3	0x98	Canis		Father has a weak back, you know.	
 				We have to be careful around him.	
-0x495f	0x98	Canis		Kureha seems to be	
+0x495f	0x98	Canis		Creha seems to be	
 				a very sweet girl.	
 0x49a3	0x98	Canis		She's good-natured	
 				and very polite.	
 0x49f6	0x98	Canis		She is truly the spitting image	
 				of me when I was young～.	
 0x4a4f	0x6B	ALTO		Sweatdrop	
-0x4aa9	0x98	Canis		Kureha is truly the spitting	
+0x4aa9	0x98	Canis		Creha is truly the spitting	
 				image of me when I was young～.	
 0x4b05	0x98	Canis		I'm sure that she'll become even	
 				more beautiful in the future.	
@@ -768,7 +768,7 @@ EV_6_S06_meet_chief
 0xb1ba	0x06	ALTO		ANI_CHAGRINED	
 0xb1e5	0x98	ALTO	#0W#6A	In the end...	
 				I couldn't bring	
-				Kureha back.	
+				Creha back.	
 0xb23d	0x06	Serpent		ANI_GESTURE2	
 0xb26a	0x98	Serpent		...Nayuta, you're only 15 years old.	
 				Do not place the entire world's	

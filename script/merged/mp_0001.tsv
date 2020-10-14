@@ -231,7 +231,7 @@ LP_haka
 0x4a81	0x98	NOI		...Nayuta?	
 0x4aaa	0x98	ALTO		Oh, I was just talking	
 				to my parents.	
-0x4af0	0x98	ALTO		(Kureha and Cygna,	
+0x4af0	0x98	ALTO		(Creha and Cygna,	
 				 I will definitely save you...)	
 0x4b41	0x98	ALTO		(Please, support me!)	
 0x4b7e	0x98	NOI		(...I've got to work hard too.	
@@ -1123,7 +1123,7 @@ EV_8_S02_meet_lyra
 0x148e3	0x6B	Lyra		Ellipsis	
 0x14915	0x06	Lyra		ANI_GESTURE1	
 0x1495d	0x98	Lyra		I suppose I was also sad	
-				that Cygna, Noi, and Kureha	
+				that Cygna, Noi, and Creha	
 				were gone.
 0x149bf	0x98	Lyra		They were precious companions to me	
 				and the rest of the islanders.	
@@ -1190,7 +1190,7 @@ EV_8_S02_meet_lyra
 0x15d51	0x6B	Lyra		Unknown	
 EV_4_S13_meet_creha
 0x15fd5	0x98	Creha	#1W	............	
-0x1600d	0x98	ALTO	#18S#10x#400y	Kureha!	
+0x1600d	0x98	ALTO	#18S#10x#400y	Creha!	
 0x16049	0x6B	Creha		Surprise	
 0x16211	0x06	ALTO		ANI_JOY	
 0x16236	0x98	ALTO	#6A	Phew, thank goodness...	
@@ -1211,7 +1211,7 @@ EV_4_S13_meet_creha
 0x1656d	0x98	Creha		...What's wrong?	
 0x165a6	0x06	ALTO		ANI_DENY	
 0x165cc	0x98	ALTO	#6A	...No, it's nothing.	
-0x16603	0x98	ALTO	#6A	Kureha, in the beginning,	
+0x16603	0x98	ALTO	#6A	Creha, in the beginning,	
 				I thought you kind of had	
 				an aloof air about you, but...	
 0x16678	0x98	ALTO	#6A	Really, I guess you're not	
@@ -1273,7 +1273,7 @@ EV_4_S13_meet_creha
 0x17493	0x98	Creha	#1W	Thank you, Nayuta.	
 0x174e3	0x98	ALTO	#2W	...Sure...	
 0x175bc	0x6B	ALTO		Ellipsis	
-0x175ee	0x98	ALTO	#6A#0W	(...Kureha's natural smile...	
+0x175ee	0x98	ALTO	#6A#0W	(...Creha's natural smile...	
 				 This might be the first time I've seen it.)	
 0x17684	0x6B	Creha		Question	
 0x176b7	0x06	Creha		ANI_GESTURE2	
@@ -1310,7 +1310,7 @@ EV_4_S13_meet_creha
 				this weather!?	
 0x180a8	0x98	ALTO		Sounds like the village is	
 				in an uproar, too...	
-0x18171	0x98	ALTO	#6A	Kureha, for now, I'll return	
+0x18171	0x98	ALTO	#6A	Creha, for now, I'll return	
 				to where Noi is.	
 0x181fc	0x06	Creha		ANI_NOD	
 0x1822a	0x98	Creha		...Understood.	

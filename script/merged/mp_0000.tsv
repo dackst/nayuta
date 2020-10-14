@@ -41,7 +41,7 @@ talk_Dorado
 				to stay over...	
 0x2d97	0x98	Dorado		And she's a friend of yours, Nayuta?	
 				Why the hell didn't you tell me?	
-0x2e20	0x98	ALTO		Are you talking about Kureha?	
+0x2e20	0x98	ALTO		Are you talking about Creha?	
 				Umm, I wasn't really keeping	
 				her a secret or anything...	
 0x2e8e	0x98	Dorado		Tch, even so...	
@@ -60,7 +60,7 @@ talk_Dorado
 				later... Later...	
 0x30fd	0x98	ALTO		(Is he serious...?)	
 0x3158	0x98	Dorado		For now, I just have to make	
-				a good impression on Kureha.	
+				a good impression on Creha.	
 0x31af	0x98	Dorado		Then, a year or two later, I strike...	
 				Ah, I see a bright future ahead, man.	
 0x3234	0x6B	ALTO		Sweatdrop	
@@ -86,7 +86,7 @@ talk_Dorado
 0x360f	0x6B	ALTO		Sweatdrop	
 0x3641	0x98	ALTO		Um, well...	
 				(I knew it, it's	
-				 about Kureha...)	
+				 about Creha...)	
 0x36b6	0x98	Dorado		Like a pure angel...	
 				No, a goddess...!	
 				And that peerless beauty...	
@@ -223,7 +223,7 @@ talk_Lupus
 0x517f	0x98	ALTO		(Um, well... That's a little vague.)	
 0x51e8	0x98	Lupus		Nothing interesting has	
 				happened lately.	
-0x5230	0x98	Lupus		...Now that Cygna, Kureha and	
+0x5230	0x98	Lupus		...Now that Cygna, Creha and	
 				Noi are gone, it feels like	
 				something's missing...	
 0x52af	0x98	Lupus		So this is snow...	
@@ -231,7 +231,7 @@ talk_Lupus
 0x5302	0x98	Lupus		It's like this freaky phenomenon	
 				where cold white powder falls	
 				from the sky...	
-0x53ae	0x98	Lupus		Oh, I was wondering about Kureha...	
+0x53ae	0x98	Lupus		Oh, I was wondering about Creha...	
 				I watch all the people coming to and	
 				from the island every day, you see...	
 0x542b	0x98	Lupus		When exactly did she come	
@@ -488,7 +488,7 @@ talk_Sculp
 0x84c0	0x98	Sculp		I can't let my babies raised with	
 				my own blood, sweat and tears die!	
 0x854f	0x98	Sculp		Oh, Nayuta. If you're looking	
-				for Kureha, she just passed by	
+				for Creha, she just passed by	
 				here a minute ago.	
 0x85c3	0x98	Sculp		She said she was going	
 				on an errand somewhere.	
@@ -513,7 +513,7 @@ talk_Sculp
 0x8907	0x98	Sculp		Thanks to her, I was able to	
 				do my work much faster today.	
 				Haha, she was a big help.	
-0x899a	0x98	Sculp		Kureha... Was it?	
+0x899a	0x98	Sculp		Creha... Was it?	
 0x89d9	0x98	Sculp		She's beautiful, graceful,	
 				and above all, considerate.	
 				Yup, she's a good kid.	

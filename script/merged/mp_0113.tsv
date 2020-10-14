@@ -278,8 +278,8 @@ talk_Sasha_sub
 				But it's difficult convincing	
 				my grandmother of that. 	
 0x4482	0x98	Sasha		I'm worried about	
-				Kureha right now...	
-0x44c7	0x98	Sasha		...The elder says Kureha	
+				Creha right now...	
+0x44c7	0x98	Sasha		...The elder says Creha	
 				was kidnapped by that	
 				man in black.	
 0x4533	0x98	Sasha		...Nayuta, please bring	
@@ -287,12 +287,12 @@ talk_Sasha_sub
 0x457c	0x98	Sasha		If you need anything, I'll	
 				prepare it for you right away.	
 0x45e9	0x98	Sasha		mp_0113 0x44c7	
-0x4655	0x98	Sasha		Kureha... We could have been	
+0x4655	0x98	Sasha		Creha... We could have been	
 				good tea-drinking buddies...	
 0x46ad	0x98	Sasha		mp_0113 0x4533
 0x46f6	0x98	Sasha		mp_0113 0x457c
 0x4783	0x98	Sasha		...Nayuta, please bring	
-				Kureha back somehow.	
+				Creha back somehow.	
 0x47cf	0x98	Sasha		mp_0113 0x457c
 0x4868	0x98	Sasha		Look, look～!	
 				A cat wandered	
@@ -308,7 +308,7 @@ talk_Sasha_sub
 				and not very friendly.	
 0x4a42	0x98	Sasha		For her to come into my store...	
 				I must thank the cold for that～! ♪	
-0x4ae0	0x98	Sasha		Kureha, was it...?	
+0x4ae0	0x98	Sasha		Creha, was it...?	
 				She's mysterious and	
 				awfully cute, isn't she?	
 0x4b3e	0x98	Sasha		She's not the type you often see	
@@ -317,8 +317,8 @@ talk_Sasha_sub
 0x4bc2	0x98	Sasha		Ooh, if only that girl was my sister,	
 				I'd dress her up like a doll every day～!	
 0x4c27	0x6B	ALTO		Sweatdrop	
-0x4c59	0x98	ALTO		(Better tell Kureha watch out...)	
-0x4cc4	0x98	Sasha		Kureha, was it..?	
+0x4c59	0x98	ALTO		(Better tell Creha watch out...)	
+0x4cc4	0x98	Sasha		Creha, was it..?	
 				Hehe, that girl would	
 				look good in any outfit.	
 0x4d31	0x98	Sasha		Ooh, I want to dress	

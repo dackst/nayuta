@@ -73,7 +73,7 @@ talk_Keny
 				Eartha would be sad, you know.	
 0x1611	0x98	ALTO		Yeah, I know... I promise	
 				I'll come back in one piece.	
-0x1661	0x98	ALTO		And of course, I'll have Kureha with me.	
+0x1661	0x98	ALTO		And of course, I'll have Creha with me.	
 0x16a6	0x98	Keny		Ahaha, that's my boy, Nayuta!	
 0x1716	0x98	Keny		At any rate, be careful.	
 0x1754	0x98	Keny		mp_0114 0x15cd
@@ -87,7 +87,7 @@ talk_Keny
 0x1920	0x98	Keny		mp_0114 0x1804	
 0x199f	0x98	Keny		mp_0114 0x1883	
 0x1a30	0x98	Keny		The whole island is going nuts over	
-				this Kureha girl helping everyone.	
+				this Creha girl helping everyone.	
 0x1a8c	0x98	Keny		The way she talks is a little odd.	
 				She seems unreliable at first, but	
 				picks up things unexpectedly fast.	
@@ -229,7 +229,7 @@ talk_Bootie
 0x3544	0x98	Bootie		...Hmph, you sneaking around	
 				like this is a little annoying.	
 0x35a3	0x98	Bootie		...Well, good luck with that,	
-				Nayuta. For that Kureha girl.	
+				Nayuta. For that Creha girl.	
 0x3627	0x98	Bootie		mp_0114 0x35a3
 0x3683	0x98	Bootie		And when you come back safe,	
 				you'll have plenty of stories	
@@ -324,7 +324,7 @@ talk_Sculp
 0x4b12	0x98	Sculp		If they come again, I have	
 				to at least protect my family.	
 0x4b73	0x98	Sculp		And you've got to do whatever it	
-				takes to save Kureha from them, too.	
+				takes to save Creha from them, too.	
 0x4bba	0x98	Sculp		That's a man's responsibility...	
 				It's yours too this time.	
 0x4c2f	0x98	Sculp		This wound they gave me hurts...	
