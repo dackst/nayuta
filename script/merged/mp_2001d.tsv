@@ -119,7 +119,7 @@ EV_3_S11_help_eris
 0x33ec	0x98	ALTO		This area used to be a waterfall...	
 				But it looks like we can pass now.	
 0x376e	0x06	NOI		ANI_GESTURE1	
-0x3797	0x98	NOI	#6A	Elis, are you all right!?	
+0x3797	0x98	NOI	#6A	Eris, are you all right!?	
 0x37fe	0x41	None	#0W#2E#029c	That voice... Noi, Noi!?#0E	
 0x3876	0x41	None	#0W#2E#029c	Feels like the human child is there too...	
 				Oh good, I was worried about you!#0E	
@@ -145,7 +145,7 @@ EV_3_S11_help_eris
 0x4c95	0x06	Erislet		ANI_WAIT	
 0x4e0f	0x98	Erislet	#1W	Hehe, I knew I could do it.	
 0x4fbc	0x06	NOI		ANI_GESTURE2	
-0x4ff3	0x98	NOI	#0W#6A	Elis... Thank goodness!	
+0x4ff3	0x98	NOI	#0W#6A	Eris... Thank goodness!	
 0x50c4	0x98	Erislet	#0W	Noi, it's been a long time.	
 0x5176	0x06	Erislet		ANI_TALK	
 0x51ad	0x98	Erislet	#2W	And, you, human...	
@@ -159,7 +159,7 @@ EV_3_S11_help_eris
 0x53ad	0x98	ALTO	#1W#6A	W-Well...	
 0x53dc	0x6B	NOI		Unknown	
 0x540d	0x06	NOI		ANI_COMPLAIN	
-0x5444	0x98	NOI	#1W#6A	E-Elis... Please don't	
+0x5444	0x98	NOI	#1W#6A	E-Eris... Please don't	
 				make me out as some	
 				kind of jerk!	
 0x54b1	0x06	NOI		ANI_WAIT	
@@ -239,7 +239,7 @@ EV_3_S11_help_eris
 0x6dca	0x98	Erislet		Actually, there was	
 				just one more, but...	
 0x6e1e	0x06	NOI		ANI_GESTURE2	
-0x6ea5	0x98	NOI	#6A#16S	Elis...!	
+0x6ea5	0x98	NOI	#6A#16S	Eris...!	
 0x6f61	0x98	Erislet		...Sorry, that's right.	
 				Please don't worry about it.	
 0x6fbf	0x06	ALTO		ANI_WAIT4	
@@ -270,9 +270,9 @@ EV_3_S11_help_eris
 0x76d6	0x6B	NOI		Surprise	
 0x7707	0x6B	ALTO		Surprise	
 0x7739	0x06	NOI		ANI_GESTURE2	
-0x7762	0x98	NOI	#6A	Elis, do you...	
+0x7762	0x98	NOI	#6A	Eris, do you...	
 0x77a0	0x06	ALTO		ANI_GESTURE1	
-0x77ca	0x98	ALTO	#6A	Just like Gio?	
+0x77ca	0x98	ALTO	#6A	Just like Geo?	
 0x7872	0x06	Erislet		ANI_GESTURE2	
 0x789f	0x98	Erislet		Okay, Noi.	
 				Come over here.	
@@ -287,7 +287,7 @@ EV_3_S11_help_eris
 				Sacred Mountain Continent, I'm sure	
 				you'll need it. Please, use it well.	
 0x7fd9	0x06	NOI		ANI_NOD	
-0x7ffd	0x98	NOI	#6A	Thank you, Elis!	
+0x7ffd	0x98	NOI	#6A	Thank you, Eris!	
 0x8037	0x06	ALTO		ANI_JOY	
 0x805c	0x98	ALTO	#6A	We will do our best for you!	
 0x80a3	0x06	Erislet		ANI_GESTURE2	

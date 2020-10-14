@@ -96,8 +96,8 @@ talk_Dorado
 0x37ae	0x98	Dorado		Wah, Eartha collapsed!?	
 0x37e9	0x98	Dorado		This is big trouble...	
 				I-I'll be there for her soon!!	
-0x383b	0x98	Lupus		It's a good thing that Doctor	
-				Hydol is here at the island.	
+0x383b	0x98	Lupus		It's a good thing that Dr. Hydrol	
+				is here on the island.	
 0x3892	0x98	Lupus		Well, anyone would think that right now,	
 				especially if you're my brother Dorado.
 0x3919	0x98	Dorado		W-Wah... The beautiful Eartha...	
@@ -283,7 +283,7 @@ talk_Lupus
 0x5e2e	0x98	Dorado		Wha, Eartha collapsed～!?	mp_0000 0x37ae
 0x5e69	0x98	Dorado		This is big trouble...	mp_0000 0x37e9
 				I-I'll go visit her soon!!	
-0x5ebb	0x98	Lupus		It's good that Doctor Hydol	mp_0000 0x383b
+0x5ebb	0x98	Lupus		It's good that Doctor Hydrol	mp_0000 0x383b
 				just arrived at the island.	
 0x5f12	0x98	Lupus		Well, if it's Dorado's older brother,	mp_0000 0x3892
 				you'd have to think that.	
@@ -452,7 +452,7 @@ talk_Sculp
 0x7db3	0x98	ALTO		(Fertile soil, huh?	
 				 If I find any, Maybe I should	
 				 try bringing it to Sculp?)	
-0x7f0a	0x98	Sculp		You know, Bootie has gotten all	
+0x7f0a	0x98	Sculp		You know, Boote has gotten all	
 				fired up about helping with the	
 				house for some reason.	
 0x7f6a	0x98	Sculp		Maybe that kid who has been nothing	
@@ -461,7 +461,7 @@ talk_Sculp
 0x7fcf	0x98	Sculp		Haha, since it's a rare chance,	
 				I've got to teach him a lesson	
 				while we're at it.	
-0x8051	0x98	Sculp		Somehow, Bootie has gotten	mp_0000 0x7f0a	
+0x8051	0x98	Sculp		Somehow, Boote has gotten	mp_0000 0x7f0a	
 				fired up about helping with	
 				the house.	
 0x80b1	0x98	Sculp		Haha, since it's a rare	mp_0000 0x7fcf
@@ -470,14 +470,14 @@ talk_Sculp
 0x8141	0x98	Sculp		Oh, it's Nayuta. Thanks for	
 				helping me with milking	
 				Jessica the other day.	
-0x81b1	0x98	Sculp		If only I could get Bootie to	
+0x81b1	0x98	Sculp		If only I could get Boote to	
 				help me with this work...	
-0x8209	0x98	ALTO		Ahaha, he can't help it. Bootie's only	
+0x8209	0x98	ALTO		Ahaha, he can't help it. Boote's only	
 				old enough to be interested in playing.	
 0x827e	0x98	ALTO		I'm always here if you need any	
 				help, so feel free to ask.	
 0x82e3	0x98	Sculp		Haha, I think I'll do that.	
-0x8347	0x98	Sculp		I've been trying to teach Bootie too,	
+0x8347	0x98	Sculp		I've been trying to teach Boote too,	
 				but he's not the least bit interested.	
 0x83a9	0x98	Sculp		Good grief, I guess I'll just	
 				have to rely on you for the	
@@ -656,7 +656,7 @@ talk_Bootie
 				around the house.	
 0xa899	0x98	Bootie		...Sometimes, anyway.	
 0xa8dc	0x98	ALTO		Haha, is that right?	
-				You HAVE grown, Bootie.	
+				You HAVE grown, Boote.	
 0xa927	0x98	Bootie		...I knew it, you really	
 				piss me off, you know?	
 0xa994	0x98	Bootie		I'm already 11. I can	
@@ -694,7 +694,7 @@ talk_Bootie
 0xafd6	0x98	Bootie		D-Dammit... I wanna go, too...	
 0xb014	0x98	Bootie		Nayuta, no fair!	
 				Take me with you!	
-0xb057	0x98	ALTO		S-Sorry, Bootie.	
+0xb057	0x98	ALTO		S-Sorry, Boote.	
 				It's still dangerous.	
 0xb0a6	0x98	Bootie		Damn it... So arrogant just because	
 				you're working for the Handyman Shop!		
@@ -1459,7 +1459,7 @@ QS_12_quest_end
 0x15f48	0x06	Sculp		ANI_NOD	
 0x15f6e	0x98	Sculp		Oh, that's right!!	
 0x15fa1	0x06	Sculp		ANI_JOY	
-0x15fc7	0x98	Sculp		Bootie is out playing right now...	
+0x15fc7	0x98	Sculp		Boote is out playing right now...	
 				I'll give it to her right away!	
 0x161a4	0x6B	Sculp		Surprise	
 0x16282	0x06	Sculp		ANI_TALK	
@@ -1519,7 +1519,7 @@ QS_34_think_and_flash
 0x17217	0x98	ALTO		(...Ugh, I don't even remember	
 				 what it's called...)	
 0x17270	0x98	ALTO		(It's no use. I should try	
-				 asking Gio in Oltapia. He	
+				 asking Geo in Oltapia. He	
 				 knows a lot about plants.)	
 0x172f3	0x06	ALTO		ANI_WAIT	
 tuto_quest_talk
@@ -1746,13 +1746,13 @@ EV_2_S05_meet_hydol
 0x1bab9	0x06	ALTO		ANI_WAIT	
 0x1badf	0x6B	ALTO		Surprise	
 0x1bd13	0x06	ALTO		ANI_OJIGI	
-0x1bd3a	0x98	ALTO	#6A	Ah... Dr. Hydol!	
+0x1bd3a	0x98	ALTO	#6A	Ah... Dr. Hydrol!	
 				It's been a while.	
 0x1bd7d	0x06	ALTO		ANI_GOODIDEA	
 0x1bda7	0x98	ALTO	#6A	That's right, you're returning	
 				to the island for us this month.	
 0x1be10	0x06	Hydol		ANI_NOD	
-0x1be36	0x98	Hydol		Yes, the ferryboat just arrived.	
+0x1be36	0x98	Hydol		Yes, the ferry just arrived.	
 0x1be76	0x06	Hydol		ANI_WAIT4	
 0x1be9e	0x98	Hydol		Wow, even though I make the trip every	
 				month, this half-day boat trip still	

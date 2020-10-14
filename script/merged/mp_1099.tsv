@@ -102,7 +102,7 @@ talk_Gio
 0x2888	0x98	ALTO		...By the way, I've been wondering	
 				for a while now, but what are those
 				things flying around?	
-0x2903	0x98	NOI		Those are Gio's spirits.	
+0x2903	0x98	NOI		Those are Geo's spirits.	
 0x293c	0x98	Gio		They are spiritual life forms 	
 				brought forth by the great Power	
 				of Stars from within the continent.	
@@ -160,7 +160,7 @@ quest_Gio
 				You should go to them as soon as possible.	
 0x34c7	0x98	Gio		The sandalwood tree grows	
 				in the summer of Heimmel.	
-0x3513	0x98	Gio		If you search "Wind Cutting Valley,"	
+0x3513	0x98	Gio		If you search Wind Cutting Valley,	
 				you should find a pretty big one.	
 0x357a	0x98	Gio		If you use it as incense, the two	
 				humans will feel more relaxed and	
@@ -298,7 +298,7 @@ QS_24_undertake
 0x5028	0x6B	ALTO		Sweatdrop	
 0x505a	0x06	ALTO		ANI_THINK	
 0x5081	0x98	ALTO	#6A	(Uh, that's a little vague, but...)	
-0x50de	0x98	NOI	#6A	(Gio's knowledge IS pretty	
+0x50de	0x98	NOI	#6A	(Geo's knowledge IS pretty	
 				 rough in this area.)	
 0x5140	0x98	Gio		What's wrong? Is there something	
 				else you need to know?	
@@ -477,7 +477,7 @@ QS_24_quest_end
 0x768f	0x06	Gio		ANI_WAIT	
 0x77a7	0x07	System	#1C	Noi learned the summer magic, #4C『#784ISol Erase』.	
 0x785f	0x06	NOI		ANI_SURPRISE	
-0x7888	0x98	NOI	#6A	Gio, this...!	
+0x7888	0x98	NOI	#6A	Geo, this...!	
 0x78ba	0x06	Gio		ANI_TALK	
 0x78df	0x98	Gio		Hehe, you seem to already know what	
 				this is. It is one of the arts	
@@ -510,9 +510,9 @@ QS_34_consultation
 0x8247	0x98	ALTO	#6A	Haha, so you can tell.	
 0x82c3	0x06	ALTO		ANI_GESTURE1	
 0x82ed	0x98	ALTO	#6A	We have something we want
-				to ask you, Gio...	
+				to ask you, Geo...	
 0x8349	0x40	UNDEF		Nayuta explained Norma's request,	
-				and asked Gio about a good herb to use.	
+				and asked Geo about a good herb to use.	
 0x83b8	0x06	Gio		ANI_THINK	
 0x83de	0x98	Gio		Oh, arbitration, is it?	
 				It seems there are all	
@@ -525,7 +525,7 @@ QS_34_consultation
 0x8520	0x98	NOI	#6A	A calming herb...	
 				Hmm, I have no idea.	
 0x85ba	0x06	NOI		ANI_GESTURE1	
-0x85e3	0x98	NOI	#6A	Gio would know, right?	
+0x85e3	0x98	NOI	#6A	Geo would know, right?	
 0x8628	0x06	Gio		ANI_WAIT	
 0x8669	0x98	Gio		Hoho, of course. Several kinds	
 				of plants come to mind.	
@@ -576,7 +576,7 @@ QS_54_talk_gio
 0x922a	0x06	ALTO		ANI_GESTURE2	
 0x9254	0x98	ALTO	#6A	Yes, there's something	
 				I want to ask you...	
-0x92a2	0x40	UNDEF		Nayuta explained what happened to Gio,	
+0x92a2	0x40	UNDEF		Nayuta explained what happened to Geo,	
 				and asked if he had any idea where to	
 				find Nemeas' missing spirits.	
 0x932b	0x06	Gio		ANI_THINK	
@@ -883,7 +883,7 @@ QS_83_quest_end
 0xe7cc	0x6B	NOI		Exclamation	
 0xe7f5	0x06	NOI		ANI_SURPRISE	
 0xe826	0x06	ALTO		ANI_OJIGI	
-0xe85b	0x98	ALTO	#6A	Gio, Elislette,	
+0xe85b	0x98	ALTO	#6A	Geo, Erisette,	
 				Algol and Nemeas...	
 				It's been a while.	
 0xe8bd	0x06	Gio		ANI_GESTURE2	
@@ -1008,9 +1008,9 @@ QS_83_quest_end
 				are waiting for you.	
 0x101cb	0x98	Erislet	#1W	And for our duties,	
 				wish us luck!	
-0x10235	0x98	NOI	#1W#6A	Miss Elislette...	
+0x10235	0x98	NOI	#1W#6A	Miss Erisette...	
 0x10273	0x06	NOI		ANI_DENY	
-0x102a6	0x98	NOI	#2W#6A	...No, Elis...	
+0x102a6	0x98	NOI	#2W#6A	...No, Eris...	
 				Thank you.	
 0x102f9	0x06	Nemeas		ANI_GESTURE1	
 0x10325	0x98	Nemeas	#1W	Finally overcoming these abnormalities	

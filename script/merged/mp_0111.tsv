@@ -751,7 +751,7 @@ quest_Eida
 0xadda	0x98	Eida		Heheh, I have high hopes of seeing	
 				you'll bring to the table.	
 quest_Columha
-0xaee0	0x98	Columha		...That Equlea girl said something like,	
+0xaee0	0x98	Columha		...She told us something like,	
 				"I'm going to go watch the fish."	
 0xaf5a	0x98	Columha		She didn't say where	
 				exactly, though.	
@@ -967,7 +967,7 @@ QS_24_get_local_cuisine
 0xdc6a	0x06	ALTO		ANI_GUTSPOSE	
 0xdc94	0x98	ALTO	#6A	Hmm, smells delicious...	
 				(I think I'm going to have to try a	
-				 bite of it before I give it to Gio.)	
+				 bite of it before I give it to Geo.)	
 0xdd1e	0x06	Columha		ANI_LAUGH	
 0xdd48	0x98	Columha		...Heheh, frankly, I'm glad to hear that.	
 0xdd99	0x06	Columha		ANI_WAIT3	
@@ -982,7 +982,7 @@ QS_24_get_local_cuisine
 				Thank you very much.	
 0xdf6e	0x06	ALTO		ANI_JOY	
 0xdf93	0x98	ALTO	#6A	(Now I have island specialties.	
-				 Let's bring them to Gio.)	
+				 Let's bring them to Geo.)	
 0xe056	0x06	ALTO		ANI_THINK2	
 0xe07e	0x98	ALTO	#6A	(There's still the Ruins Rock Salt	
 				 the elder talked about...)
@@ -993,7 +993,7 @@ QS_41_getting_information
 0xe3a7	0x98	Eida		Hey Nayuta, what's the matter?	
 0xe3e0	0x06	ALTO		ANI_GESTURE1	
 0xe40a	0x98	ALTO	#6A	Ada, I need to ask you something...
-0xe450	0x40	UNDEF		Nayuta told Ada about the missing Equlea.	
+0xe450	0x40	UNDEF		Nayuta told Ada about the missing Equulea.	
 0xe493	0x06	Eida		ANI_GOODIDEA	
 0xe4bd	0x98	Eida		Ah, ah, that little noble girl?	
 0xe4f7	0x06	Eida		ANI_WAIT0	
@@ -1039,7 +1039,7 @@ QS_41_getting_information
 0xed4c	0x98	ALTO	#6A	Well, okay, but...	
 0xed89	0x06	ALTO		ANI_GESTURE1	
 0xedb3	0x98	ALTO	#6A	By the way, do you know where	
-				Equlea went after that?	
+				Equulea went after that?	
 0xee15	0x06	Eida		ANI_THINK	
 0xee3c	0x98	Eida		Hmm, now that you mention it,	
 				she did say something...	

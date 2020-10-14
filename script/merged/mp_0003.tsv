@@ -315,7 +315,7 @@ talk_Axe
 				I have no idea what for.	
 0x6a38	0x98	Axe		...Oh, Nayuta!	
 				Ha, it's been a while.	
-0x6a7c	0x98	ALTO		Axe...! You just got back	
+0x6a7c	0x98	ALTO		Ax...! You just got back	
 				from fishing just now, huh?	
 0x6ace	0x98	ALTO		A huge ruin fell at the cape on the	
 				other side of the island earlier...	
@@ -343,11 +343,11 @@ talk_Axe
 				unload today's catch.	
 talk_Carina
 0x6f34	0x98	Carina		Oh, Nayuta. Thanks for playing	
-				with Collie the other day.	
+				with Cory the other day.	
 0x6f90	0x98	Carina		You're a lifesaver.	
 0x6fcc	0x98	ALTO		Ha, no problem.	
 0x700d	0x98	ALTO		It's been a while since you could	
-				go on a date with Axe on his boat.	
+				go on a date with Ax on his boat.	
 				Did you have a good time?	
 0x7081	0x98	Carina		Hehe, it kinda reminded me	
 				of when we were newlyweds.	
@@ -355,18 +355,18 @@ talk_Carina
 				having fun with these	
 				troublesome children again.	
 0x717a	0x98	Carina		Nayuta, thanks for playing	
-				with Collie the other day.	
+				with Cory the other day.	
 0x71de	0x98	Carina		Now I've got to start having	
 				fun with these troublesome	
 				children again.	
-0x7289	0x98	Carina		Axe WAS out catching fish...	
+0x7289	0x98	Carina		Ax WAS out catching fish...	
 				The weather became strange, so	
 				he returned earlier than usual.	
 0x730a	0x98	Carina		I wonder what's happening...	
 				I've never seen weather	
 				like this before...	
 0x73a4	0x98	Carina		I've got to go check on Vel	
-				and Collie with this weather.	
+				and Cory with this weather.	
 0x73fa	0x98	Carina		Hopefully they don't get	
 				sick from this cold...	
 0x7490	0x98	Carina		We've been talking about holding	
@@ -375,9 +375,9 @@ talk_Carina
 0x7506	0x98	Carina		I'll gather up some fish to bring.	
 				Be sure to enjoy it too, Nayuta.	
 0x756a	0x98	ALTO		Haha, okay!	
-0x75bd	0x98	Carina		Now then, I gotta call Axe.	
+0x75bd	0x98	Carina		Now then, I gotta call Ax.	
 0x75fe	0x98	Carina		I'll need to ask Lyra to	
-				babysit Collie soon.	
+				babysit Cory soon.	
 0x7657	0x98	Carina		Hehe, she's taken over for you guys	
 				many times since you and Cygna left.	
 0x7719	0x98	Carina		Nayuta, thanks for	
@@ -385,37 +385,37 @@ talk_Carina
 0x7761	0x98	Carina		I'll have to make time to	
 				play with her very soon, too.	
 0x77d4	0x98	baby		Babu...	
-0x781b	0x98	Carina		Heheh, looks like Collie	
+0x781b	0x98	Carina		Heheh, looks like Cory	
 				wants to play too!	
 0x789c	0x98	Carina		From time to time, Vel seems to	
-				look at me and Collie with envy.	
-0x7902	0x98	Carina		She must be lonely since Axe	
+				look at me and Cory with envy.	
+0x7902	0x98	Carina		She must be lonely since Ax	
 				and I need to look after	
-				Collie all the time.	
+				Cory all the time.	
 0x7974	0x98	Carina		Nayuta, if you have time,	
 				please play with Vel.	
 0x79f1	0x98	Carina		Vel must feel lonely since	
 				we're busy looking after	
-				Collie all the time.	
+				Cory all the time.	
 0x7a59	0x98	Carina		mp_0003 0x7974
-0x7ae6	0x98	Carina		When Axe was out fishing,	
+0x7ae6	0x98	Carina		When Ax was out fishing,	
 				that HUGE ruin fell down...	
 				It gave me a fright.	
 0x7b54	0x98	Carina		Hehe, but I'm glad he came	
-				home in one piece.! ㈱	
+				home in one piece! ㈱	
 				Family safety is first.	
-0x7c13	0x98	Carina		Look Collie, your father's home!	
+0x7c13	0x98	Carina		Look Cory, your father's home!	
 0x7c54	0x98	baby		Gaga.	
 0x7cbd	0x98	Carina		Heh, Nayuta.	
 				Have you finished	
-				greeting Axe?	
+				greeting Ax?	
 0x7d0a	0x98	ALTO		Yeah, just now.	
 0x7d39	0x98	ALTO		Speaking of that, that baby...	
 				He was born while we	
 				were gone, wasn't he?	
 0x7d9f	0x98	Carina		Hehe, that's right.	
-				His name is Collie.	
-0x7e09	0x98	Carina		Now, Collie.	
+				His name is Cory.	
+0x7e09	0x98	Carina		Now, Cory.	
 				Say hi to Nayuta	
 				for me, okay?	
 0x7e5e	0x98	baby		Abubu.	
@@ -427,7 +427,7 @@ talk_Carina
 				if you need help with anything.	
 0x7fe7	0x98	Carina		Heheh, then when that time comes, I'll	
 				be sure to ask for your help, then.	
-0x807a	0x98	Carina		My husband Axe left on	
+0x807a	0x98	Carina		My husband Ax left on	
 				a fishing trip just now.	
 0x80c6	0x98	Carina		I'm sure he'll be back soon.	
 				Make sure to say hi when he's here.	
@@ -449,10 +449,10 @@ talk_Bell
 				Noi is Noi.	
 				That is all.	
 0x84d4	0x98	Bell		Noi, let's play together	
-				with Collie again next time!	
+				with Cory again next time!	
 0x851d	0x98	NOI		O-Okay.	
 0x856a	0x98	Bell		Noi, let's play	mp_0003 0x84d4
-				with Collie	
+				with Cory	
 				together again!	
 0x85cf	0x98	Bell		Mom and Dad are back!	
 0x8638	0x98	Bell		Mom, Dad!	
@@ -464,16 +464,16 @@ talk_Bell
 				Cygna would always play with me...	
 0x87e7	0x98	Bell		...Vel won't cry.	
 0x8818	0x98	Bell		Right, Lyra is looking	
-				after Collie for me.	
+				after Cory for me.	
 				I gotta see her later!	
 0x88be	0x98	Bell		Ehehe. Today, Vel will	
-				be taking care of Collie.	
+				be taking care of Cory.	
 0x890b	0x98	ALTO		Oh, is that so...?	
 				Heh, that doesn't
 				sound good.	
 0x894b	0x98	Bell		Hmph, I don't care what you
-				think! I'm Collie's big sis!	
-0x89be	0x98	Bell		Hey, Collie, something's floating	
+				think! I'm Cory's big sis!	
+0x89be	0x98	Bell		Hey, Cory, something's floating	
 				up from under the sea~. And I just	
 				wonder what it could be~?		
 0x8a1f	0x98	baby		Bubbu.	
@@ -482,7 +482,7 @@ talk_Bell
 				That's absolutely correct!!	
 0x8ad1	0x98	ALTO		(Hmm, a long time ago, I remember	
 				 Cygna used to do this for Vel...)	
-0x8b7e	0x98	Bell		Hey, Collie, what's that stuff	
+0x8b7e	0x98	Bell		Hey, Cory, what's that stuff	
 				drying out in front of our house?	
 0x8bd7	0x98	Bell		Too bad, time's up!	
 				The answer was "fish!!"	
@@ -847,7 +847,7 @@ quest_Norma
 				kind of private matter, but...
 				Thank you very much for your support.	
 quest_Puppis
-0xd70e	0x98	Puppis		That Equlea girl walked	
+0xd70e	0x98	Puppis		That Equulea girl walked	
 				off towards the village.	
 0xd765	0x98	Puppis		Maybe someone there	
 				knows here she went?	
@@ -877,7 +877,7 @@ QS_41_ask_Aquela
 0xde0d	0x06	ALTO		ANI_GESTURE1	
 0xde37	0x98	ALTO	#6A	Excuse me, did a little	
 				girl pass by here?	
-0xde82	0x98	ALTO	#6A	Her name is Equlea,	
+0xde82	0x98	ALTO	#6A	Her name is Equulea,	
 				the nobles' daughter...	
 0xded6	0x06	Aquela		ANI_DENY	
 0xdefe	0x98	Aquela		No... I do not know.	
@@ -1175,7 +1175,7 @@ QS_41_ask_captain
 0x11f60	0x06	ALTO		ANI_GESTURE1	
 0x11f8a	0x98	ALTO	#6A	Captain Puppis, there's	
 				something I want to ask you.	
-0x11fe1	0x40	UNDEF		Nayuta told Captain Puppis about the missing Equlea.	
+0x11fe1	0x40	UNDEF		Nayuta told Captain Puppis about the missing Equulea.	
 0x12036	0x06	Puppis		ANI_NOD	
 0x1205d	0x98	Puppis		Oh, the daughter of those Imperial nobles, was it?	
 				She did come by here a little while ago.	
@@ -1204,13 +1204,13 @@ QS_41_ask_captain
 0x1252f	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x1255d	0x98	ALTO	#6A	Uh, I see...	
 				He seems a little traumatized.	
-0x125a5	0x98	ALTO	#6A	(Seems like Equlea	
+0x125a5	0x98	ALTO	#6A	(Seems like Equulea	
 				 is a bit of a tomboy.)	
 0x125f8	0x98	ALTO	#6A	(I was told she was quiet and	
 				 mild-mannered though...)	
 0x126a2	0x06	Puppis		ANI_GESTURE1	
 0x126ce	0x98	Puppis		Leaving that matter aside...	
-				That Equlea girl walked	
+				That Equulea girl walked	
 				off towards the village.	
 0x12740	0x06	ALTO		ANI_THINK2	
 0x12768	0x98	ALTO	#6A	I see... Maybe someone else	
@@ -1225,9 +1225,9 @@ QS_41_ask_captain
 0x12971	0x06	Puppis		ANI_WAIT0	
 QS_11_look_boat
 0x12b0c	0x98	ALTO		"A vehicle for setting out on a journey"...	
-				Axe's boat seems suspicious...	
-0x12c35	0x98	ALTO		Hey Axe, got a minute?	
-0x12ca3	0x98	Axe	#6A	W-What is it?	
+				Ax's boat seems suspicious...	
+0x12c35	0x98	ALTO		Hey Ax, got a minute?	
+0x12ca3	0x98	Axe	#6A	Wh-What is it?	
 0x12cda	0x06	ALTO		ANI_GESTURE2	
 0x12d04	0x40	UNDEF		Nayuta explained the situation and	
 				asked if he had seen Vel today.	
@@ -1266,8 +1266,8 @@ tuto_museum
 0x138ae	0x06	ALTO		ANI_THINK	
 0x138d5	0x98	ALTO		(I'm pretty sure no one lives	
 				 in that abandoned building...)	
-0x1392e	0x98	ALTO		(Who were those people? I haven't seen	
-				 people dressed like that around before...)	
+0x1392e	0x98	ALTO		(Who were those people? I haven't seen anyone	
+				 dressed like that around here before...)	
 tuto_museum_force2
 SB_0_S01_p_and_c
 0x13da6	0x06	Crux		ANI_WAIT	
@@ -1383,7 +1383,7 @@ EV_4_S09_creha_scene_3rd
 0x1713b	0x6B	Creha		Surprise	
 0x1719b	0x98	Lyra	#1W	Shh, don't be upset...	
 0x17223	0x06	Lyra		ANI_HOLD	
-0x17343	0x98	Lyra	#2W	There, there. Sorry, Collie.	
+0x17343	0x98	Lyra	#2W	There, there. Sorry, Cory.	
 				I didn't mean to yell at you...	
 0x173a6	0x98	Creha	#0W	......(*stare*)	
 0x173e1	0x6B	Lyra		Surprise	

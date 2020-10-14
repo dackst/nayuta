@@ -194,7 +194,7 @@ QS_33_check_incubation
 0x41cc	0x98	ALTO	#6A	These are Moon Bird chicks...	
 				Looks like they hatched.	
 0x4243	0x98	NOI	#6A	Way to go, Nayuta! Now,	
-				Elis' request is complete!	
+				Eris' request is complete!	
 0x42b3	0x98	ALTO	#6A	Yeah, they should be able to grow up	
 				just fine at this rate...
 				There's no need to worry.	
@@ -204,6 +204,6 @@ QS_33_check_incubation
 0x43e6	0x98	NOI	#6A	Hehe, that's just the way	
 				everything is as a baby.	
 0x4452	0x98	NOI	#6A	Now, don't forget to	
-				tell Elis about this!	
+				tell Eris about this!	
 0x44b8	0x98	ALTO	#6A	Yeah!	mp_0001 0x1174e
 0x4570	0x06	ALTO		ANI_SWIM_WAIT	

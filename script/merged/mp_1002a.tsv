@@ -137,9 +137,9 @@ EV_1_S06_look_cage_1st
 0x3ac8	0x41	None	#0W#2E#310c	...Hm, you there...	
 				...Is that you, Noi!?#0E	
 0x3b58	0x06	NOI		ANI_GOODIDEA	
-0x3b81	0x98	NOI		A-As I thought...it's Gio!	
+0x3b81	0x98	NOI		A-As I thought...it's Geo!	
 0x3bc4	0x06	NOI		ANI_LOOK_AROUND	
-0x3bf0	0x98	NOI		Where are you, Gio!?	
+0x3bf0	0x98	NOI		Where are you, Geo!?	
 0x3c2b	0x41	None	#0W#2E#310c	Oh...this must be the guidance of the stars.	
 				What a godsend!#0E	
 0x3ccb	0x41	None	#0W#2E#310c	This way, this way!#0E	
@@ -150,7 +150,7 @@ EV_1_S06_look_cage_1st
 0x3ffa	0x98	NOI	#0x#500y	I-I don't know!	
 				That something like that	
 				is here is totally strange...!	
-0x4064	0x98	NOI	#100x#500y	...Gio, are you there!?	
+0x4064	0x98	NOI	#100x#500y	...Geo, are you there!?	
 0x40c8	0x41	None	#0W#2E#310c	...That is correct, I am here!#0E	
 0x4144	0x41	None	#0W#2E#310c	Yes, it has been many years indeed...	
 				I am glad to see you, Noi!#0E	
@@ -158,14 +158,14 @@ EV_1_S06_look_cage_1st
 0x4458	0x06	NOI		ANI_NOD	
 0x447c	0x98	NOI	#6A	Y-Yeah.	mp_0005c 0x6aba
 0x44a5	0x06	NOI		ANI_GESTURE1	
-0x44ce	0x98	NOI	#N#6A	Lychnis Gio... As I	
+0x44ce	0x98	NOI	#N#6A	Lychnis Geo... As I	
 				said, he's the Warden	
 				of this continent.	
 0x4539	0x41	None	#0W#2E#310c	...Hmm...? There are two strange	
 				foreign presences beside you, Noi...#0E	
 0x45d9	0x41	None	#0W#2E#310c	Could it be...humans!?#0E	
 0x46d8	0x06	NOI		ANI_GESTURE2	
-0x4701	0x98	NOI	#6A	Gio, Nayuta and Cygna	
+0x4701	0x98	NOI	#6A	Geo, Nayuta and Cygna	
 				came out here with me	
 				for some reason...	
 0x4767	0x40	UNDEF		Noi summarized what happened up until now.	
@@ -191,7 +191,7 @@ EV_1_S06_look_cage_1st
 				I must ask you for a favor.#0E	
 0x4c77	0x06	NOI		ANI_COMPLAIN	
 0x4ca0	0x98	NOI	#6A	Wait a minute...	
-				Why are you here, Gio!?	
+				Why are you here, Geo!?	
 0x4d03	0x06	ALTO		ANI_NOD	
 0x4d28	0x98	ALTO	#6A	Oh, yeah, that's right. You	
 				told us earlier that the Warden	
@@ -217,7 +217,7 @@ EV_1_S06_look_cage_1st
 0x519b	0x06	ALTO		ANI_THINK	
 0x51c2	0x98	ALTO	#6A	We did know he has tremendous power...	
 0x5220	0x98	ALTO	#6A	How can we help	
-				get you out, Gio?	
+				get you out, Geo?	
 0x5274	0x06	ALTO		ANI_WAIT	
 0x529a	0x41	None	#0W#2E#310c	It seems that the barrier around	
 				this prison somehow uses the weather	
@@ -253,7 +253,7 @@ EV_1_S06_look_cage_1st
 				care of this Zext guy!	
 0x5a81	0x98	NOI	#6A	...Y-Yeah, that's right.	
 0x5ad7	0x06	NOI		ANI_GUTSPOSE	
-0x5b00	0x98	NOI	#6A	Gio... We'll come back	
+0x5b00	0x98	NOI	#6A	Geo... We'll come back	
 				for you, I promise!	
 0x5b54	0x41	None	#0W#2E#310c	Mmm... Well, I'm counting on you!#0E	
 0x5e5f	0x06	ALTO		ANI_JOY	

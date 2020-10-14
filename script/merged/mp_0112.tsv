@@ -110,7 +110,7 @@ talk_Lyra
 				This must be a hallucination.	
 0x3c34	0x98	Lyra		Oh yeah... I think I was asked	
 				to go to Carina's place and	
-				look after Collie today.	
+				look after Cory today.	
 0x3cbe	0x98	Lyra		I should get going. It'll	
 				be a nice change of pace.	
 0x3d47	0x98	Lyra		*sigh*...	
@@ -391,7 +391,7 @@ talk_Barton
 0x6f5a	0x98	Barton		I can handle the business here	
 				on my own. I hope Lyra will be	
 				able to provide some assistance.	
-0x7006	0x98	Barton		Axe and Sculp often	
+0x7006	0x98	Barton		Ax and Sculp often	
 				come here for drinks.	
 0x704f	0x98	Barton		Heh, I heard they're childhood friends.
 				They have a lot of stories to tell.
@@ -1146,10 +1146,10 @@ talk_Sculp
 				is alive....	
 0x1086c	0x98	Sculp		*belch*... Thank goodness...	
 				Truly, thank goodness...	
-0x10928	0x98	Sculp		*hic*... I'm drunk after all.	
+0x10928	0x98	Sculp		*hic*... I really am drunk.	
 				Can't speak very clearly.	
-0x10985	0x98	Sculp		This damn Axe...	
-				You can never let your guard down.	
+0x10985	0x98	Sculp		This damn Ax... You can never let	
+				your guard down around him.	
 talk_Sculp_add
 0x10a58	0x98	Sculp		mp_0000 0x974f
 0x10aac	0x98	Sculp		It is dark, has a soft feel and has a fragrant	mp_0000 0x97a3
@@ -1279,7 +1279,7 @@ talk_Hydol
 0x12689	0x98	Hydol		Nayuta, you... It looks	
 				like you're finally awake.	
 				That's wonderful news.	
-0x126ea	0x98	ALTO		Dr. Hydol... You're	
+0x126ea	0x98	ALTO		Dr. Hydrol... You're	
 				back on the island?	
 0x12734	0x98	Hydol		Yes, I returned to Saint Cerise for a while,	
 				but a few days ago, I got the news that you	
@@ -1317,7 +1317,7 @@ talk_Hydol
 				be sure, there should be no need to fear	
 				the symptoms of Hell Fever anymore.		
 0x12d86	0x98	ALTO		Is that so...? Thank goodness.	mp_0005c 0x5567
-0x12dc2	0x98	ALTO		Dr. Hydol, you've been	
+0x12dc2	0x98	ALTO		Dr. Hydrol, you've been	
 				a big help this time.	
 0x12e0f	0x98	Hydol		Haha, I didn't do much.	
 0x12e51	0x98	Hydol		It's all thanks to you bringing	
@@ -1363,7 +1363,7 @@ talk_Hydol
 				about it today...	
 0x13697	0x6B	ALTO		Question	
 0x136c9	0x98	ALTO		(I wonder if something's	
-				 up with Dr. Hydol.)	
+				 up with Dr. Hydrol.)	
 0x13717	0x98	ALTO		(...Maybe I should come back	
 				 and check on him later?)	
 talk_Dorado
@@ -1591,7 +1591,7 @@ talk_Victor_and_Pecula
 0x165e2	0x98	Victor		Surely he should be able to find a way	
 				to prevent disaster for the Empire.		
 0x1665f	0x98	Victor		You should try to	
-				cheer up Equlea.	
+				cheer up Equulea.	
 0x166a2	0x98	Pecula		Understood...	
 				Please be careful.	
 0x16767	0x98	Victor		Hey! Whenever you open your mouth,	
@@ -1630,12 +1630,12 @@ talk_Pecula
 				my duties as a parent.	
 0x16d5e	0x98	Pecula		No matter what happens,	mp_0112 0x16c78
 				I will protect this child.	
-0x16e25	0x98	Pecula		Let me take care of Equlea.	
+0x16e25	0x98	Pecula		Let me take care of Equulea.	
 0x16e61	0x98	Pecula		You will do your part admirably.	
 0x16ee0	0x98	Pecula		My husband has put our family	
 				first in this time of crisis.	
 0x16f39	0x98	Pecula		I must also do what I can	
-				for him and Equlea...	
+				for him and Equulea...	
 0x16fb8	0x98	Pecula		mp_0112 0x16f39
 0x17045	0x98	Pecula		When those horrible suits of armor	
 				appeared, my husband volunteered	
@@ -1647,7 +1647,7 @@ talk_Pecula
 0x17182	0x98	Pecula		When those scary armor guys	mp_0112 0x17045
 				appeared, my husband volunteered	
 				and let us escape.	
-0x171f1	0x98	Pecula		Equlea is safe too...	
+0x171f1	0x98	Pecula		Equulea is safe too...	
 				I must truly thank my husband.	
 0x17282	0x98	Pecula		We must be careful not to	
 				engage in such disgraceful	
@@ -1804,7 +1804,7 @@ quest_Antlia
 quest_Hydol
 0x19300	0x98	Hydol		Janis from the elder's house,	
 				Carina from the fisherman's house,	
-				and the farmer's son, Bootie.	
+				and the farmer's son, Boote.	
 0x19367	0x98	Hydol		Please report back to me once	
 				you've spoken to those three.	
 0x193c8	0x98	Hydol		Well, thanks for all your help.	
@@ -2042,7 +2042,7 @@ quest_Victor
 0x1c8fe	0x98	Victor		The armory...?	
 				It does not seem like much of a place	
 				that would be connected to our daughter.	
-0x1c968	0x98	Victor		Anyway, please, please find Equlea.
+0x1c968	0x98	Victor		Anyway, please, please find Equulea.
 0x1ca4c	0x98	Pecula		For such a nice and quiet child	
 				to run away from home...	
 				This must be some kind of mistake.	
@@ -2432,7 +2432,7 @@ QS_25_quest_start
 				a schedule for today.	
 0x220fb	0x98	Hydol		Hmm, but this is problematic.	
 				I can't just keep everyone waiting...	
-0x2216a	0x98	ALTO	#6A	Dr. Hydol, is something wrong?	
+0x2216a	0x98	ALTO	#6A	Dr. Hydrol, is something wrong?	
 0x221a5	0x6B	Hydol		Surprise	
 0x22214	0x06	Hydol		ANI_GESTURE1	
 0x2223f	0x98	Hydol		mp_0112 0xcab2
@@ -2477,7 +2477,7 @@ QS_25_quest_start
 0x22a44	0x06	Hydol		ANI_WAIT	
 QS_25_undertake
 0x22a99	0x06	ALTO		ANI_GESTURE2	
-0x22ac3	0x98	ALTO	#6A	Uh, Dr. Hydol. I can help	
+0x22ac3	0x98	ALTO	#6A	Uh, Dr. Hydrol. I can help	
 				you, if you'd like.
 0x22b11	0x98	ALTO	#6A	Well if it's something	
 				I can do, that is.	
@@ -2692,7 +2692,7 @@ QS_41_undertake
 				about a lost child...?	
 0x25cc5	0x06	Pecula		ANI_WAIT2	
 0x25cee	0x98	Pecula		Yes... Our daughter	
-				Equlea disappeared.	
+				Equulea disappeared.	
 0x25d34	0x98	Pecula		We hadn't seen her since this morning,	
 				and we were beginning to wonder...	
 0x25dbe	0x98	Victor		When we found a	
@@ -2712,7 +2712,7 @@ QS_41_undertake
 				her to have run away...?	
 0x26057	0x06	Pecula		ANI_DENY	
 0x2607f	0x98	Pecula		I cannot think of any...	
-0x260cc	0x98	Pecula		For starters, Equlea has	
+0x260cc	0x98	Pecula		For starters, Equulea has	
 				always been a quiet and	
 				mild-mannered child.	
 0x26142	0x06	Pecula		ANI_WAIT0	
@@ -2730,13 +2730,13 @@ QS_41_undertake
 0x263e0	0x06	Victor		ANI_DIRECT	
 0x2640a	0x98	Victor		...This all happened	
 				because you didn't look	
-				after Equlea properly!	
+				after Equulea properly!	
 0x2646e	0x98	Victor		Even so, you still call	
 				yourself her mother, huh!?	
 0x264bc	0x6B	Pecula		Unknown	
 0x26532	0x98	Pecula		Oh my, you think it's MY fault!?	
 0x26575	0x98	Pecula		You're the one who's always	
-				neglecting my and Equlea!	
+				neglecting my and Equulea!	
 0x265ec	0x06	Pecula		ANI_WAIT3	
 0x26615	0x6B	Victor		Unknown	
 0x26649	0x06	Victor		ANI_ANGRYTALK	
@@ -2746,7 +2746,7 @@ QS_41_undertake
 0x266fc	0x98	ALTO	#6A	Now, now...	
 				Please calm down.	
 0x2673b	0x98	ALTO	#6A	Remnant Island is pretty small,	
-				so Equlea can't have gone far.	
+				so Equulea can't have gone far.	
 0x2679d	0x06	ALTO		ANI_GESTURE2	
 0x267c7	0x98	ALTO	#6A	Do either of you have any idea	
 				where she might have gone?	
@@ -2765,7 +2765,7 @@ QS_41_undertake
 				I'll check that place out first.	
 0x26aa7	0x06	ALTO		ANI_WAIT4	
 0x26ace	0x98	ALTO	#6A	Both of you, please wait here.	
-				It's possible that Equlea may	
+				It's possible that Equulea may	
 				unexpectedly return to the inn.	
 0x26b4b	0x06	Pecula		ANI_WAIT	
 0x26b93	0x06	Victor		ANI_NOD	
@@ -2779,7 +2779,7 @@ QS_41_quest_end
 0x271ce	0x06	Victor		ANI_NOD	
 0x271f5	0x98	Victor		I see... I understand the situation.	
 0x2723f	0x06	Pecula		ANI_GESTURE1	
-0x2726b	0x98	Pecula		I'm sorry, Equlea.	
+0x2726b	0x98	Pecula		I'm sorry, Equulea.	
 0x2729f	0x98	Pecula		Your father and I have not given	
 				thought to your feelings at all...	
 0x27306	0x06	Equlea		ANI_DENY	

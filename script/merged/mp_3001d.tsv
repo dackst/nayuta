@@ -129,7 +129,7 @@ EV_3_S10_mount2_start
 				I hope there was one.	
 0x3dac	0x06	NOI		ANI_GUTSPOSE	
 0x3dd5	0x98	NOI	#6A	It might be better to take a break from	
-				exploring for now and help Elislette next.	
+				exploring for now and help Erisette next.	
 0x3e42	0x98	NOI	#6A	We should be able to release	
 				her from her prison...	
 0x3e9a	0x06	ALTO		ANI_THINK2	
@@ -137,4 +137,4 @@ EV_3_S10_mount2_start
 				might be a good idea.	
 0x3f11	0x06	ALTO		ANI_GESTURE2	
 0x3f3b	0x98	ALTO		Then, let's turn back for now.	
-0x4087	0xCE	Objective		There's a chasm - we can't proceed. Let's help Elislette next.	
+0x4087	0xCE	Objective		There's a chasm - we can't proceed. Let's help Erisette next.	

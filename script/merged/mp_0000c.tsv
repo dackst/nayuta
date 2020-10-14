@@ -12,7 +12,7 @@ LP_Shop2
 				  Remnant Island's most popular product?	
 talk_Dorado
 0xb7b	0x98	Dorado		I was just about to leave	
-				for patrol with Axe and	
+				for patrol with Ax and	
 				the others, but...	
 0xbde	0x98	Bootie		...Hey, don't ignore me.	
 				Take me with you too!	
@@ -149,7 +149,7 @@ talk_Sculp
 0x2516	0x98	Sculp		A bunch of monsters we've never seen	
 				before have been showing up lately.	
 				We're telling everyone to be careful...	
-0x2590	0x98	Sculp		Anyway, I'm glad Bootie's safe.	
+0x2590	0x98	Sculp		Anyway, I'm glad Boote's safe.	
 0x25d0	0x98	Sculp		However... maybe the kids shouldn't	
 				be let outside for a while.	
 0x265b	0x98	Sculp		We can't take any chances with	
@@ -484,7 +484,7 @@ EV_6_S08_call_help
 				Perfect timing.	
 				Noi's here too...?	
 0x6f2f	0x06	ALTO		ANI_WAIT4	
-0x6f56	0x98	ALTO		What's wrong, Bootie?	
+0x6f56	0x98	ALTO		What's wrong, Boote?	
 				What's the big rush...?	
 0x6fe1	0x06	Bootie		ANI_GESTURE1	
 0x700d	0x98	Bootie	#6A	W-We've got a huge problem...	

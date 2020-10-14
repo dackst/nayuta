@@ -1,7 +1,7 @@
 mp_0000	0x385	chr name	Dorado
 mp_0000	0x439	chr name	Lupus
 mp_0000	0x4ea	chr name	Sculp
-mp_0000	0x59c	chr name	Bouties
+mp_0000	0x59c	chr name	Boote
 mp_0000	0x644	chr name	Pyxia
 mp_0000	0x6f6	chr name	Horolo
 mp_0000	0x7ab	chr name	Dr. Volans
@@ -27,7 +27,7 @@ mp_0000	0x1708	chr name	Cygna
 mp_0000	0x17a3	chr name	Lyra
 mp_0000	0x1846	chr name	Ada
 mp_0000	0x18e0	chr name	Sasha
-mp_0000	0x1986	chr name	Dr. Hydol
+mp_0000	0x1986	chr name	Dr. Hydrol
 mp_0000	0x1a26	chr name	Creha
 mp_0000c	0x26e	chr name	mp_0000 0x439
 mp_0000c	0x315	chr name	mp_0000 0x4ea
@@ -165,7 +165,7 @@ mp_0003	0xbd7	chr name	mp_0001c 0x56e
 mp_0003	0xc7f	chr name	mp_0000c 0x872
 mp_0003	0xd2a	chr name	mp_0000 0xa5e
 mp_0003	0xde0	chr name	水晶
-mp_0003	0xe84	chr name	Collie
+mp_0003	0xe84	chr name	Cory
 mp_0003	0xf32	chr name	mp_0000 0x7ab
 mp_0003	0xfd4	chr name	Researcher Caelum
 mp_0003	0x107c	chr name	mp_0000 0x1986

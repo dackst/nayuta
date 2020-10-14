@@ -303,13 +303,13 @@ EV_2_S13_use_astrolabe
 0xa339	0xBC	ALTO		Surprise	
 0xa377	0x06	ALTO		ANI_GESTURE2	
 0xa3a1	0x98	ALTO		On that subject...	
-				Wasn't Gio trapped	
+				Wasn't Geo trapped	
 				on Oltapia?	
 0xa408	0x98	NOI	#6A	Yeah... Now that we can return	
 				the climate back to normal, maybe	
 				we can save him!	
 0xa485	0x06	NOI		ANI_GUTSPOSE	
-0xa4ae	0x98	NOI	#6A	I'm sure Gio would help us!	
+0xa4ae	0x98	NOI	#6A	I'm sure Geo would help us!	
 0xa4fe	0x06	ALTO		ANI_NOD	
 0xa523	0x98	ALTO		Well, let's head to the	
 				transfer gate for now.	
@@ -506,7 +506,7 @@ EV_3_S07_use_astrolabe
 				climate of Rieseweld	
 				is returned to normal...	
 0xf678	0x98	ALTO	#6A	We should also be able	
-				to save Elislette .	
+				to save Erisette .	
 0xf6c7	0x98	ALTO	#6A	I don't want to waste time	
 				on side trips, but...	
 				I can't just leave her either.	

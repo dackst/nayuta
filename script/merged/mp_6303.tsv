@@ -47,7 +47,7 @@ EV_6_S23_yagi_boss
 0x1f10	0x6B	ALTO		Exclamation	
 0x1f60	0x6B	NOI		Exclamation	
 0x2377	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x23a6	0x98	ALTO	#6A	G-Gio!?	
+0x23a6	0x98	ALTO	#6A	G-Geo!?	
 0x23d8	0x06	Gio		ANI_NOD	
 0x23fc	0x98	Gio		Nayuta, and Noi too.	mp_6301 0x2b24
 0x244c	0x98	Gio		I am sorry but, I cannot	
@@ -60,7 +60,7 @@ EV_6_S23_yagi_boss
 0x25ae	0x06	ALTO		ANI_COMPLAIN	
 0x25d8	0x98	ALTO	#6A	Wh-Why!?	mp_6300 0x2995
 0x264c	0x06	NOI		ANI_SURPRISE	
-0x2675	0x98	NOI	#6A	No way, Gio!!	
+0x2675	0x98	NOI	#6A	No way, Geo!!	
 0x2707	0x98	Gio		We finally	
 				understand	
 				the truth.	
@@ -72,7 +72,7 @@ EV_6_S23_yagi_boss
 				I cannot allow you to interfere in	
 				the Remaking of Master Kureha and the others.	
 0x2906	0x06	NOI		ANI_COMPLAIN	
-0x292f	0x98	NOI	#6A	...What do you mean, Gio!?	
+0x292f	0x98	NOI	#6A	...What do you mean, Geo!?	
 0x299c	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f
 				surface where Nayuta is...	
 0x29f2	0x06	NOI		ANI_DENY	
@@ -113,7 +113,7 @@ EV_6_S23_yagi_boss
 				in my power to stop you!	
 0x3c09	0x06	b011		ANI_DEMO1	
 0x3e32	0x06	NOI		ANI_GESTURE1	
-0x3e86	0x98	NOI	#1W	It's Gio's true form!	
+0x3e86	0x98	NOI	#1W	It's Geo's true form!	
 0x3ee2	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_1	
 0x3fe3	0x98	ALTO	#1W	We can't afford to lose!	
 SB_6_S23_equip_se
@@ -122,7 +122,7 @@ EV_6_S24_bye_gio
 0x4877	0x06	Gio		ANI_LAUGH	
 0x48ed	0x98	Gio	#5A	...Gwahaha, well done, you two.	
 0x498c	0x06	ALTO		ANI_GESTURE2	
-0x49b6	0x98	ALTO	#6A	Gio...	
+0x49b6	0x98	ALTO	#6A	Geo...	
 0x4a3e	0x98	Gio		...I am sorry.	
 				I did not want to turn my	
 				blade against you, but...	
@@ -138,7 +138,7 @@ EV_6_S24_bye_gio
 				the Mythos.	
 0x4c9e	0x98	NOI	#6A	...The duty of the Wardens...	
 0x4cfe	0x06	NOI		ANI_GESTURE1	
-0x4d27	0x98	NOI	#6A	Gio, I...!	
+0x4d27	0x98	NOI	#6A	Geo, I...!	
 0x4dfb	0x98	Gio		Stop talking, Noi.	
 0x4e36	0x98	Gio		Your care for Master Kureha	
 				and the Mythos is on itself	
@@ -155,7 +155,7 @@ EV_6_S24_bye_gio
 0x58dc	0x06	NOI		ANI_TAKE_OUT	
 0x59ba	0x40	Gio		You should take this...	
 				This Pillar's Stellagear.	
-0x5a13	0x40	ALTO		Gio... Thank you so much!	
+0x5a13	0x40	ALTO		Geo... Thank you so much!	
 0x5ab1	0xC1	System		obtained.	mp_0000 0x7558
 0x5c54	0x06	NOI		ANI_WAIT	
 0x5d54	0x98	Gio		Gwahaha, there is no need to	
@@ -175,4 +175,4 @@ EV_6_S24_bye_gio
 0x618f	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
 				and chase after Kureha and the others!	
 EV_6_S37_check_bossmap1
-0x666d	0x40	UNDEF		There is no trace of Gio.	
+0x666d	0x40	UNDEF		There is no trace of Geo.	

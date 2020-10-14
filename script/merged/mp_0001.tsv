@@ -39,7 +39,7 @@ talk_Ursaminor
 talk_Bootie
 0x1db2	0x98	Bootie		Nayuta～. Check this out!	
 0x1dea	0x40	UNDEF		Thin, broken star shard fragments	
-				spread out in Bootie's hand.	
+				spread out in Boote's hand.	
 0x1e4a	0x6B	ALTO		Exclamation	
 0x1e7c	0x98	ALTO		Oh, that's a lot of star shards!	
 				Could you have picked them up	
@@ -95,13 +95,13 @@ talk_Bootie
 0x27c4	0x98	Bootie		Hey Nayuta, how is it over there?	
 				Let me know if you find any.	
 0x287e	0x07	System	#4C	Finish and deliver the shards	
-				to Bootie using the □ button.	
+				to Boote using the □ button.	
 0x2909	0x98	Bootie		...Oh, this is absolutely impossible.	
 0x2950	0x98	Bootie		But I can't go home like this...	
 talk_Cancer
 0x29c0	0x98	Cancer		(*snip*, *snip*)	
 0x29ef	0x98	ALTO		It looks kind of sad...	
-				Sorry, but this belongs to Bootie.	
+				Sorry, but this belongs to Boote.	
 0x2a5d	0x98	Cancer		(*snip*, *snip*, *snip*)	
 0x2a91	0x98	ALTO		Hey, this crab... There's something	
 				in its claws. Is this...?	
@@ -304,7 +304,7 @@ quest_Bootie
 0x6123	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0x61b6	0x98	ALTO		(It seems like I've gathered enough	
 				 star shards. Shall I give them to	
-				 Bootie?)	
+				 Boote?)	
 0x6244	0x36	Choice		[Give Them Immediately]	
 0x6269	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0x6314	0x98	ALTO		(I haven't found nine	
@@ -335,7 +335,7 @@ QS_15_quest_start
 0x69fb	0x98	Bootie		Damn, I can't believe I	
 				screwed up this bad...	
 0x6a3c	0x06	ALTO		ANI_WAIT2	
-0x6a63	0x98	ALTO	#6A	There you are, Bootie.	
+0x6a63	0x98	ALTO	#6A	There you are, Boote.	
 0x6a9f	0x98	ALTO	#6A	Uh, I read your letter, and...	
 0x6ae0	0x6B	Bootie		Surprise	
 0x6b4a	0x98	Bootie		Nayuta...	
@@ -368,7 +368,7 @@ QS_15_quest_start
 0x6fe8	0x06	ALTO		ANI_GESTURE2	
 0x7012	0x98	ALTO	#6A	Oh, and speaking of which...	
 				This is the first request I've	
-				ever gotten from you, Bootie.	
+				ever gotten from you, Boote.	
 0x7082	0x98	ALTO	#6A	Haha, I'm a little flattered.	
 0x70bf	0x06	Bootie		ANI_ANGRYTALK	
 0x70ec	0x98	Bootie		Y-Yeah, yeah, whatever.	
@@ -457,7 +457,7 @@ QS_15_get_piece_10
 				ride when they were scattered?	
 				What are the odds of that...?	
 0x84f3	0x98	ALTO		W-Well, this is the tenth shard.	
-				I should take them to Bootie.	
+				I should take them to Boote.	
 QS_15_piece_01
 0x85e9	0x06	ALTO		ANI_HANDOVER	
 QS_15_piece_02
@@ -484,7 +484,7 @@ QS_15_common_message
 				Quite a comeback.	
 0x8e46	0x98	ALTO		This is getting difficult,	
 				but let's look for more.	
-0x8eb7	0x98	ALTO		Bootie said there were nine shards.	
+0x8eb7	0x98	ALTO		Boote said there were nine shards.	
 				With this one, I should finally	
 				have gathered them all, but...	
 0x8f28	0x98	ALTO		...Am I really not missing any?	
@@ -518,7 +518,7 @@ QS_15_quest_end
 0x972e	0x6B	ALTO		Surprise	
 0x9760	0x06	ALTO		ANI_LAUGH	
 0x9787	0x98	ALTO		Haha, it's rare for you to say	
-				thanks to someone, Bootie.
+				thanks to someone, Boote.
 0x97d4	0x6B	Bootie		Unknown	
 0x9820	0x06	Bootie		ANI_DIRECT	
 0x984a	0x98	Bootie	#6A	Sh-Shut up! What the hell is wrong	
@@ -563,7 +563,7 @@ QS_15_quest_end
 QS_15_quest_false
 0xa5e9	0x40	UNDEF		Handed over all of the small shards.	mp_0001 0x91d3
 0xa62e	0x06	ALTO		ANI_THANKS	
-0xa656	0x98	ALTO		...Sorry, Bootie.	
+0xa656	0x98	ALTO		...Sorry, Boote.	
 				In the end, I couldn't	
 				find all of the star shards.	
 0xa6b9	0x06	Bootie		ANI_DEJECTED	
@@ -585,13 +585,13 @@ QS_15_quest_false
 				else, contact me anytime.	
 0xa9e0	0x07	System	#3C	Quest [Collecting Star Shards] completed!	mp_0001 0xa086
 QS_15_stopperA
-0xadeb	0x98	ALTO		Bootie's in a bind.	
+0xadeb	0x98	ALTO		Boote's in a bind.	
 				I can't just abandon him	
 				in the middle of it.	
 QS_15_stopperB
 0xaeab	0x98	ALTO		This way leads to the ruins...	
 				I don't need to go there now.	
-0xaf00	0x98	ALTO		Bootie's in a bind.	
+0xaf00	0x98	ALTO		Boote's in a bind.	
 				I should go back.	
 QS_35_quest_start
 0xb032	0x06	Ursaminor		ANI_WAIT2	

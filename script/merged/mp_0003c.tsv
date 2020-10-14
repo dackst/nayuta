@@ -111,11 +111,11 @@ talk_Crux
 0x16e0	0x98	Crux		Well, that's what	
 				the captain says.	
 talk_Axe
-0x17aa	0x98	Axe		Nayuta...Looks like	
+0x17aa	0x98	Axe		Nayuta... Looks like	
 				you're awake.	
 0x17e4	0x98	Axe		You guys washed up on the cape	
-				a little while after the	
-				incident started.	
+				a little while after these	
+				incidents started.	
 0x184c	0x98	ALTO		I see...	mp_0001 0xcecd
 0x1879	0x98	Axe		It's been pretty rough out at sea,	
 				but you got here in one piece.	
@@ -146,12 +146,12 @@ talk_Carina
 0x1da5	0x98	baby		Abu, abu...	
 0x1dd0	0x98	NOI		Wha... You can't grab my hair!	
 0x1e19	0x98	Carina		Heheh, it looks like	
-				Collie likes you, Noi.	
+				Cory likes you, Noi.	
 0x1e5e	0x98	Carina		...Anyway, both of you should	
 				get yourselves plenty of rest.	
 0x1eb2	0x98	ALTO		...Yes.	mp_0002 0x90fc
 0x1f01	0x98	baby		Abu, abu...	mp_0003c 0x1da5
-0x1f2c	0x98	Carina		Heheh, Collie likes you, Noi, huh?	
+0x1f2c	0x98	Carina		Heheh, looks like Cory likes you, Noi, huh?	
 0x1f73	0x98	Carina		...Anyway, you two.	mp_0003c 0x1e5e
 				Get your bodies plenty of rest.	
 talk_Bell

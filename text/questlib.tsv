@@ -75,7 +75,7 @@
 0x148c	line	
 0x14c0	line	
 0x1510	quest name	Collecting Star Shards
-0x1540	client	Bootie
+0x1540	client	Boote
 0x1560	line	I dropped all the star shards
 0x1594	line	I just collected...
 0x15c8	line	If you have time,
@@ -107,7 +107,7 @@
 0x1d30	line	away.
 0x1d64	line	
 0x1db4	quest name	Medical Exam Aide
-0x1de4	client	Dr. Hydol
+0x1de4	client	Dr. Hydrol
 0x1e04	line	I want you to remind people
 0x1e38	line	about their checkups.
 0x1e6c	line	If you are available,
@@ -120,16 +120,16 @@
 0x20b0	line	fisherman's house
 0x20e4	line	about her exam. 
 0x2118	line	
-0x21b8	line	Tell Bootie from the
+0x21b8	line	Tell Boote from the
 0x21ec	line	farmer's house
 0x2220	line	about his exam.
 0x2254	line	
-0x22f4	line	Where could Bootie have gone?
+0x22f4	line	Where could Boote have gone?
 0x2328	line	Sasha at the general store
 0x235c	line	might know something.
 0x2390	line	 
 0x23e0	quest name	Island Specialties
-0x2410	client	Lychnis Gio
+0x2410	client	Lychnis Geo
 0x2430	line	Nayuta, will you listen to
 0x2464	line	my request? I'll be waiting
 0x2498	line	in the sanctum of Oltapia
@@ -147,7 +147,7 @@
 0x284c	line	you wouldn't think of as a
 0x2880	line	chef... Who could it be?
 0x2920	line	Collected the specialties.
-0x2954	line	Let's take them to Gio.
+0x2954	line	Let's take them to Geo.
 0x2988	line	 
 0x29bc	line	
 0x2a0c	quest name	Work Repair
@@ -193,7 +193,7 @@
 0x34a4	line	to Pyxia.
 0x34d8	line	
 0x3528	quest name	Extinct Bird
-0x3558	client	Elislette
+0x3558	client	Erisette
 0x3578	line	I need your help with
 0x35ac	line	some important work.
 0x35e0	line	I'll be waiting at the
@@ -208,7 +208,7 @@
 0x388c	line	so they can hatch.
 0x392c	line	Safely hatched the Moon
 0x3960	line	Bird eggs. Let's go     
-0x3994	line	report to Elislette.
+0x3994	line	report to Erisette.
 0x39c8	line	
 0x3a18	quest name	A Clue About My Sister
 0x3a48	client	Ursamina
@@ -248,26 +248,26 @@
 0x43a8	line	
 0x43f8	quest name	Missing Daughter
 0x4428	client	Baron Victor
-0x4448	line	My only daughter Equlea
+0x4448	line	My only daughter Equulea
 0x447c	line	has disappeared! 
 0x44b0	line	I am in a room at the inn,
 0x44e4	line	so please come quickly!
-0x4584	line	It seems Equlea was
+0x4584	line	It seems Equulea was
 0x45b8	line	interested in the weapon
 0x45ec	line	shop. I'll ask the people
 0x4620	line	there about it.
-0x46c0	line	It seems Equlea left the
+0x46c0	line	It seems Equulea left the
 0x46f4	line	shop to "watch the fish."
 0x4728	line	Maybe someone else saw
 0x475c	line	her.
 0x47fc	line	Seems like we just missed
 0x4830	line	each other. Let's try
 0x4864	line	asking around more
-0x4898	line	about it.
+0x4898	line	about her.
 0x4938	line	The result of the fortune-
 0x496c	line	telling was that she's no
 0x49a0	line	longer on the island.
-0x49d4	line	Does this mean...?
+0x49d4	line	What does this mean...?
 0x4a24	quest name	Lost Power
 0x4a54	client	Guardian Algol
 0x4a74	line	I want you to lend me your
@@ -297,7 +297,7 @@
 0x5108	line	her disagreement with
 0x513c	line	Mrs. Camelope.
 0x51dc	line	An herb that calms the
-0x5210	line	heart... Gio in Oltapia
+0x5210	line	heart... Geo in Oltapia
 0x5244	line	Temple may know
 0x5278	line	something.
 0x5318	line	If we had a sandalwood tree,
@@ -449,7 +449,7 @@
 0x7b00	line	offering.
 0x7b34	line	
 0x7bd4	line	Ask at the fisherman
-0x7c08	line	Axe's house regarding
+0x7c08	line	Ax's house regarding
 0x7c3c	line	the offering.
 0x7c70	line	
 0x7d10	line	Ask the trader Antlia about

@@ -7,21 +7,21 @@ talk_Carina
 0xde2	0x98	Carina		Now that there aren't any more	
 				abnormalities to deal with...	
 0xe40	0x98	Carina		You can play with Vel and	
-				Collie as much as you want.	
+				Cory as much as you want.	
 0xec4	0x98	Carina		I'm happy Noi has	mp_0117 0xd97
 				returned to the village.	
 0xf0f	0x98	Carina		I wish Cygna and Kureha	
 				would come back too...	
 0xfa5	0x98	Carina		The waters offshore seem	
 				to be getting rougher.	
-0xff9	0x98	Carina		Axe says he's going out	
+0xff9	0x98	Carina		Ax says he's going out	
 				fishing tonight, but...	
 				...I'm worried...	
 0x1059	0x98	Carina		...Please gods, please	
 				protect my husband...	
 0x109e	0x98	baby		Babu...	mp_0003 0x77d4
 0x10ed	0x98	Carina		We have two beautiful children.	
-				You have to make sure Axe comes	
+				You have to make sure Ax comes	
 				home safe and sound...
 0x1152	0x98	Carina		...God, please protect	mp_0117 0x1059
 				my husband...	
@@ -42,14 +42,14 @@ talk_Carina
 0x145f	0x98	Carina		Though we were able	
 				to escape and hide...	
 0x14a6	0x98	Carina		...I hope Kureha is okay.	
-0x150e	0x98	Carina		I'm so glad Collie, Vel,	
-				and Axe are safe...
+0x150e	0x98	Carina		I'm so glad Cory, Vel,	
+				and Ax are safe...
 0x155d	0x98	Carina		But I'm not happy about this at all.	
 				This can't be how it ends.	
 0x164c	0x98	Carina		Cygna came by earlier to ask	
 				us for some dried fish.	
 0x169e	0x98	Carina		Since we had leftovers, I went to get him some,	
-				but then I saw him patting Collie's head saying,
+				but then I saw him patting Cory's head saying,
 				"It's the only way to save them..."		
 0x1713	0x98	Carina		Nayuta, are you playing a	
 				survival game with Cygna?	
@@ -64,13 +64,13 @@ talk_Carina_and_Bell
 				is going to Nayuta's	
 				house for a while.	
 0x1951	0x98	Carina		Please look after	
-				Collie for me, okay?	
+				Cory for me, okay?	
 0x199e	0x98	Bell		Okay.	
 talk_Bell
 0x1a3b	0x98	Bell		Ah, it's Nayuta.	
 				...Sorry, but I can't	
 				play right now～!	
-0x1a90	0x98	Bell		I'm teaching Collie	
+0x1a90	0x98	Bell		I'm teaching Cory	
 				how to play house!	
 0x1b24	0x98	Bell		Nayuta, Miss Fairy...	
 				No, Noi, wasn't it?	
@@ -95,7 +95,7 @@ talk_Bell
 				If I'm free.	
 0x1eea	0x98	Bell		Kureha... When those scary men came,	
 				she encouraged Vel and everyone.	
-0x1f59	0x98	Bell		And even though Collie was crying	
+0x1f59	0x98	Bell		And even though Cory was crying	
 				the whole time, he calmed down as	
 				soon as she touched her...	
 0x1fd0	0x98	Bell		...Nayuta...	
@@ -105,14 +105,14 @@ talk_Bell
 0x2093	0x98	Bell		Vel is cheering for you.	
 0x2123	0x98	Bell		La la la... ♪	
 0x2150	0x98	Bell		It's Vel's turn to take	
-				care of Collie now!	
+				care of Cory now!	
 0x21a4	0x98	Bell		Soon, our parents will return!	
 0x221c	0x98	Bell		It's Vel's turn to take	mp_0117 0x2150
-				care of Collie now!	
+				care of Cory now!	
 0x2262	0x98	Bell		Vel's a big girl now!	
 0x22d3	0x98	Bell		Lyra is gonna	
 				come by today.	
-0x232e	0x98	Bell		Collie, let's play	
+0x232e	0x98	Bell		Cory, let's play	
 				with her a lot!	
 0x2369	0x98	baby		Abubu...Babbu.	
 0x23bf	0x98	Bell		It's lonely for Vel	
@@ -180,7 +180,7 @@ talk_Bell
 				No matter what you say, Vel's	
 				already a big sister!	
 talk_Bell_and_Collie
-0x3012	0x98	Bell		Collie, play with	
+0x3012	0x98	Bell		Cory, play with	
 				your sister today!	
 0x3059	0x98	Collie		No.	
 0x307e	0x98	Bell		Oh, you cheeky little one!	
@@ -196,7 +196,7 @@ talk_Axe
 				the abnormalities from a year ago are over.	
 0x32d1	0x98	Axe		Every once in a while, you have to	
 				make time for our family, you know?	
-0x334f	0x98	Axe		Our Collie has gotten	
+0x334f	0x98	Axe		Our Cory has gotten	
 				pretty big though.	
 0x3393	0x98	Axe		Maybe it's because I spend	
 				so much time at sea, but...	
@@ -228,7 +228,7 @@ quest_Carina
 0x39ea	0x98	Carina		When the time comes, please	
 				enjoy the delicious dried	
 				seafood that we made.	
-0x3b10	0x98	Carina		Dr. Hydol has been giving	
+0x3b10	0x98	Carina		Dr. Hydrol has been giving	
 				me regular exams since I	
 				gave birth.	
 0x3b76	0x98	Carina		Hehe, he's always so helpful.	
@@ -370,7 +370,7 @@ QS_25_speak_to_Carina
 0x59fe	0x98	Carina		My, it's Nayuta.	
 				Is something wrong?	
 0x5a46	0x06	ALTO		ANI_GESTURE1	
-0x5a70	0x40	UNDEF		Nayuta told Carina that Dr. Hydol wanted	
+0x5a70	0x40	UNDEF		Nayuta told Carina that Dr. Hydrol wanted	
 				her to come in for a medical exam.		
 0x5adb	0x06	Carina		ANI_GOODIDEA	
 0x5b07	0x98	Carina		Oh, the doctor is here, isn't he?	
@@ -378,7 +378,7 @@ QS_25_speak_to_Carina
 0x5b67	0x06	Carina		ANI_WAIT4	
 0x5b90	0x98	Carina		That's right, he said he wanted	
 				to check up on my progress after	
-				I gave birth to Collie.	
+				I gave birth to Cory.	
 0x5c07	0x06	ALTO		ANI_GESTURE2	
 0x5c31	0x98	ALTO	#6A	"Progress"...? Did the	
 				doctor also care for	

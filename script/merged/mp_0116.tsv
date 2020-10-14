@@ -115,8 +115,8 @@ talk_Serpent
 				to visit her soon, so please give	
 				her my regards until then.	
 0x229f	0x98	ALTO		Um, please, take it easy...	
-0x2308	0x98	Serpent		All it takes is one act of saying	
-				"hooray" and now it's like this...	
+0x2308	0x98	Serpent		All it takes is one act of celebration	
+				and now it's acting up like this...	
 				My back doesn't make it easy...	
 0x2389	0x98	Serpent		Well most importantly, it's good to hear that	
 				Eartha is cured. I will go visit her soon, so	
@@ -135,7 +135,7 @@ talk_Serpent
 0x2633	0x98	Serpent		Even though the knowledge I've accumulated	mp_0116 0x251d
 				over the years is one of my redeeming	
 				features, this feeling is miserable...	
-0x2701	0x98	Serpent		I saw Dr. Hydol	
+0x2701	0x98	Serpent		I saw Dr. Hydrol	
 				running over...	
 0x2742	0x98	Serpent		Nayuta, is it true that	
 				Eartha collapsed?	
@@ -336,7 +336,7 @@ talk_Canis
 				giddy about it.	
 0x4ecb	0x98	Canis		Heh, I'll have a party ready	
 				soon, so be ready, Nayuta! ♪	
-0x4f69	0x98	Canis		Even Dr. Hydol can't cure	
+0x4f69	0x98	Canis		Even Dr. Hydrol can't cure	
 				Eartha's illness...	
 0x4fb7	0x98	Canis		Oh, why does Eartha have to...	
 				It's just too much.	
@@ -348,11 +348,11 @@ talk_Canis
 				Lighten up, Nayuta.	
 0x5145	0x98	Canis		You say Eartha collapsed!?	
 				Wh-What? Oh my...!?	
-0x5193	0x98	Canis		...But if Dr. Hydol is here, I'm sure	
+0x5193	0x98	Canis		...But if Dr. Hydrol is here, I'm sure	
 				there's nothing to worry about...	
 0x51ec	0x98	Canis		The doctor will be	
 				able to help Eartha!	
-0x526e	0x98	Canis		If Dr. Hydol is here, then	
+0x526e	0x98	Canis		If Dr. Hydrol is here, then	
 				everything will be all right.	
 0x52c6	0x98	Canis		Nayuta, there's no need for	
 				you to look so gloomy.	
@@ -553,10 +553,10 @@ QS_25_speak_to_Canis
 0x7e13	0x98	Canis		Oh, Nayuta. What	
 				can I do for you～?	
 0x7e68	0x06	ALTO		ANI_GESTURE1	
-0x7e92	0x40	UNDEF		Nayuta told Janis that Dr. Hydol wanted	
+0x7e92	0x40	UNDEF		Nayuta told Janis that Dr. Hydrol wanted	
 				her to come in for a medical exam.		
 0x7eed	0x06	Canis		ANI_GESTURE2	
-0x7f18	0x98	Canis		Oh, so it's Dr. Hydol.	
+0x7f18	0x98	Canis		Oh, so it's Dr. Hydrol.	
 				Thank you for telling me.	
 0x7f68	0x06	ALTO		ANI_WAIT3	
 0x7f8f	0x98	ALTO	#6A	Are you sick somehow,	
@@ -590,11 +590,11 @@ QS_25_speak_to_Canis
 				thank you for telling me.	
 				I'll make sure he does in the future.	
 0x8507	0x06	ALTO		ANI_THINK2	
-0x85cb	0x98	ALTO		Now then, all that's left is Bootie.	
+0x85cb	0x98	ALTO		Now then, all that's left is Boote.	
 0x860f	0x06	ALTO		ANI_TONTON_SHUE	
 0x863c	0x98	ALTO		Has he come home yet...?	
 				Let's go check.	
-0x86a9	0x98	ALTO		Now then, all that's left is Bootie...	
+0x86a9	0x98	ALTO		Now then, all that's left is Boote...	
 				...Come to think of it, I haven't	
 				seen him around like usual.	
 0x8722	0x06	ALTO		ANI_TONTON_SHUE	
@@ -676,7 +676,7 @@ QS_82_undertake
 				That sort of thing.	
 0x981f	0x06	ALTO		ANI_GOODIDEA	
 0x9849	0x98	ALTO		Then, we can visit Sculp's	
-				and Axe's houses, and they can	
+				and Ax's houses, and they can	
 				give them to us right away.	
 0x98da	0x98	Serpent		I've also requested flowers for the	
 				ceremony from the trader, Antlia.	

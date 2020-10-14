@@ -633,7 +633,7 @@ QS_83_quest_end
 0xc249	0x6B	NOI		Exclamation	
 0xc272	0x06	NOI		ANI_SURPRISE	
 0xc2a3	0x06	ALTO		ANI_OJIGI	
-0xc2d8	0x98	ALTO	#6A	Gio, Elislette, Algol and Nemeas, too.	mp_1099 0xe85b
+0xc2d8	0x98	ALTO	#6A	Geo, Erisette, Algol and Nemeas, too.	mp_1099 0xe85b
 				It's been awhile.	
 0xc33a	0x06	Gio		ANI_GESTURE2	
 0xc363	0x98	Gio		Yes, it has.	mp_1099 0xe8e6
@@ -762,9 +762,9 @@ QS_83_quest_end
 				are waiting for you.	
 0xdc48	0x98	Erislet	#1W	As for our part,	mp_1099 0x101cb
 				we intend to do our very best!	
-0xdcb2	0x98	NOI	#1W#6A	Miss Elislette...	mp_1099 0x10235
+0xdcb2	0x98	NOI	#1W#6A	Miss Erisette...	mp_1099 0x10235
 0xdcf0	0x06	NOI		ANI_DENY	
-0xdd23	0x98	NOI	#2W#6A	...No, Elis...	mp_1099 0x102a6
+0xdd23	0x98	NOI	#2W#6A	...No, Eris...	mp_1099 0x102a6
 				Thank you.	
 0xdd76	0x06	Nemeas		ANI_GESTURE1	
 0xdda2	0x98	Nemeas	#1W	When this time of change is over,	mp_1099 0x10325

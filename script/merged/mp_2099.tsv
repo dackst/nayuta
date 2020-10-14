@@ -164,7 +164,7 @@ QS_33_quest_start
 0x3aaf	0x98	NOI	#6A	Umm, well, there's	
 				no need to push	
 				yourself. I mean...	
-0x3b0f	0x98	NOI	#6A	If Elis needs help, I can do it.	
+0x3b0f	0x98	NOI	#6A	If Eris needs help, I can do it.	
 				Why don't you go take a break, Nayuta?	
 0x3b7e	0x06	NOI		ANI_DULL	
 0x3ba3	0x98	NOI	#6A	...You must be exhausted dealing	
@@ -248,7 +248,7 @@ QS_33_undertake
 0x4ab4	0x6B	ALTO		Surprise	
 0x4ae6	0x6B	NOI		Surprise	
 0x4b17	0x98	Erislet		...Nayuta, please take this.	
-0x4b58	0x40	UNDEF		Elislette presented a bird's nest	
+0x4b58	0x40	UNDEF		Erisette presented a bird's nest	
 				with several eggs inside to Nayuta.	
 0x4be7	0x06	Erislet		ANI_HANDOVER	
 0x4c1c	0xC1	System		obtained.	mp_0000 0x7558
@@ -303,7 +303,7 @@ QS_33_undertake
 				MY job, but I can't risk	
 				leaving the Temple right now...	
 0x5615	0x06	ALTO		ANI_JOY	
-0x563a	0x98	ALTO	#6A	I'll take care of it, Elislette.	
+0x563a	0x98	ALTO	#6A	I'll take care of it, Erisette.	
 				Please leave it to me.
 0x569b	0x06	NOI		ANI_GUTSPOSE	
 0x56c4	0x98	NOI	#6A	Quick, let's try finding a place in the	
@@ -650,7 +650,7 @@ QS_83_quest_end
 0xc074	0x6B	NOI		Exclamation	
 0xc09d	0x06	NOI		ANI_SURPRISE	
 0xc0ce	0x06	ALTO		ANI_OJIGI	
-0xc103	0x98	ALTO	#6A	Gio, Elislette, Algol and Nemeas, too.	mp_1099 0xe85b
+0xc103	0x98	ALTO	#6A	Geo, Erisette, Algol and Nemeas, too.	mp_1099 0xe85b
 				It's been awhile.	
 0xc165	0x06	Gio		ANI_GESTURE2	
 0xc18e	0x98	Gio		Yes, it has.	mp_1099 0xe8e6
@@ -779,9 +779,9 @@ QS_83_quest_end
 				are waiting for you.	
 0xda73	0x98	Erislet	#1W	As for our part,	mp_1099 0x101cb
 				we intend to do our very best!	
-0xdadd	0x98	NOI	#1W#6A	Miss Elislette...	mp_1099 0x10235
+0xdadd	0x98	NOI	#1W#6A	Miss Erisette...	mp_1099 0x10235
 0xdb1b	0x06	NOI		ANI_DENY	
-0xdb4e	0x98	NOI	#2W#6A	...No, Elis...	mp_1099 0x102a6
+0xdb4e	0x98	NOI	#2W#6A	...No, Eris...	mp_1099 0x102a6
 				Thank you.	
 0xdba1	0x06	Nemeas		ANI_GESTURE1	
 0xdbcd	0x98	Nemeas	#1W	When this time of change is over,	mp_1099 0x10325
@@ -825,8 +825,8 @@ QS_54_talk_Erislet
 				I see you want to talk to me?	
 0xee13	0x06	ALTO		ANI_GESTURE2	
 0xee3d	0x98	ALTO	#6A	Yes, we wanted to ask for	
-				a favor from you, Elislette.	
-0xee89	0x40	UNDEF		Nayuta explained what happened to Elislette,	
+				a favor from you, Erisette.	
+0xee89	0x40	UNDEF		Nayuta explained what happened to Erisette,	
 				and asked if she had any idea where to find	
 				Nemeas' missing spirits.	
 0xef00	0x06	Erislet		ANI_GESTURE1	
@@ -877,7 +877,7 @@ QS_54_talk_Erislet
 				the season winter and	
 				take a look!	
 0xf893	0x06	ALTO		ANI_JOY	
-0xf8b8	0x98	ALTO	#6A	Elislette, thank	
+0xf8b8	0x98	ALTO	#6A	Erisette, thank	
 				you so much!	
 0xf8f9	0x06	Erislet		ANI_NOD	
 0xf921	0x98	Erislet		No need to thank me.	

@@ -336,7 +336,7 @@ QS_41_discovery_Equlea
 				Another snuck in!?	
 0x817f	0x6B	Equlea		Surprise	
 0x8377	0x06	ALTO		ANI_COMPLAIN	
-0x83a1	0x98	ALTO		Uh, you're Equlea, right?	
+0x83a1	0x98	ALTO		Uh, you're Equulea, right?	
 0x83db	0x06	Equlea		ANI_GESTURE2	
 0x8407	0x98	Equlea		Who are you guys...?	
 0x8451	0x98	Equlea		And you're so small...	
@@ -458,8 +458,8 @@ QS_41_discovery_Equlea
 0x99ac	0x06	NOI		ANI_DEJECTED	
 0x9a27	0x40	UNDEF		For a little bit, together the three toured the	
 				rest of the Garden, where it was less dangerous.
-0x9aab	0x40	UNDEF		Afterwards, they delivered Equlea to her parents,	
-				who were waiting in their room at the inn.	
+0x9aab	0x40	UNDEF		Afterwards, they delivered Equulea to her parents,	
+				who were still waiting at their room at the inn.	
 QS_41_sub_move_ALTO
 0x9cb5	0x06	ALTO		ANI_LOOK_AROUND	
 QS_41_sub_move_NOI
@@ -1024,7 +1024,7 @@ EV_2_S14_hear_gio_voice
 				have done well.#0E	
 0x166a6	0x6B	ALTO		Exclamation	
 0x166e4	0x6B	NOI		Exclamation	
-0x167ba	0x98	NOI		This voice... Gio!?	
+0x167ba	0x98	NOI		This voice... Geo!?	
 0x167ee	0x98	ALTO		Where the heck is it coming from?	
 0x16833	0x41	None	#0W#2E#310c	I am communicating with you	
 				telepathically from Oltapia Temple.#0E	
@@ -1048,8 +1048,8 @@ EV_2_S14_hear_gio_voice
 				has changed. If it's all right,
 				can you tell me what happened?#0E	
 0x16e32	0x40	UNDEF		Noi and Nayuta exchanged	
-				information with Gio.	
-0x16e8c	0x40	UNDEF		It seemed that Gio hadn't seen Cygna either...	
+				information with Geo.	
+0x16e8c	0x40	UNDEF		It seemed that Geo hadn't seen Cygna either...	
 0x16ed6	0x40	UNDEF		Furthermore, it was revealed that the man	
 				calling himself "Zext" might be the leader 	
 				of the Mythos people.	
@@ -1063,7 +1063,7 @@ EV_2_S14_hear_gio_voice
 0x1738d	0x98	NOI	#6A	...Seems like we can't hear	
 				him anymore.	
 0x1740e	0x98	ALTO		Well... Looks like	
-				Gio is all right now.	
+				Geo is all right now.	
 0x17459	0x06	ALTO		ANI_GESTURE1	
 0x17483	0x98	ALTO		Let's head to Rieseweld next.	
 0x174cf	0x06	NOI		ANI_NOD	
@@ -1254,7 +1254,7 @@ EV_3_S08_hear_eris_voice
 0x1ba8c	0x6B	NOI		Surprise	
 0x1bb6a	0x98	ALTO		This voice...	
 0x1bb9a	0x06	NOI		ANI_GESTURE1	
-0x1bbc3	0x98	NOI		Could it be... Elis!?	
+0x1bbc3	0x98	NOI		Could it be... Eris!?	
 0x1bbf6	0x41	None	#0W#2E#029c	Yes, I am now speaking with	
 				you from the Temple.#0E	
 0x1bc85	0x41	None	#0W#2E#029c	Thanks to you, I was	
@@ -1263,15 +1263,15 @@ EV_3_S08_hear_eris_voice
 0x1bd32	0x06	ALTO		ANI_THANKS	
 0x1bd5a	0x98	ALTO		No, you're very welcome.	
 0x1bd92	0x06	NOI		ANI_GESTURE2	
-0x1bdbb	0x98	NOI		Right, listen Elis!	
+0x1bdbb	0x98	NOI		Right, listen, Eris!	
 				Lots of things happened	
 				since then, and...	
 0x1bef9	0x40	UNDEF		The three exchanged information once again.	
 0x1bf45	0x40	UNDEF		During the conversation, the relationship	
 				between Kureha and Zext was revealed	
 				to be that of father and daughter.	
-0x1bfd2	0x40	UNDEF		Concerned for the girl who had lost her memories,	
-				they decided to remain silent about it for now.	
+0x1bfd2	0x40	UNDEF		Out of concern for she who had lost her memories, they	
+				decided to keep her in the dark about it for now.	
 0x1c191	0x41	None	#0W#2E#029c	Yupina Grass and	
 				that Cygna child...	
 				I hope you find them soon.#0E	
@@ -1293,7 +1293,7 @@ EV_3_S24_meet_gio
 0x1cbbb	0x06	Gio		ANI_GESTURE1	
 0x1cbe4	0x98	Gio		mp_0000 0x1a8e1
 0x1cc1d	0x06	ALTO		ANI_GESTURE2	
-0x1cc47	0x98	ALTO	#6A	Gio, you're here at the Garden?
+0x1cc47	0x98	ALTO	#6A	Geo, you're here at the Garden?
 0x1ccc2	0x98	NOI	#6A	I only asked him to come	
 				when I go to Nayuta's world.	
 0x1cd83	0x98	NOI	#6A	I'm still worried about leaving	

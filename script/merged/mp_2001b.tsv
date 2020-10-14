@@ -53,7 +53,7 @@ EV_2_S16_big_hindrance
 0x21ac	0x98	NOI	#6A	...In that case, then we're good.	
 				We have "Gear Buster" now!	
 0x2213	0x98	NOI	#6A	The power I received from	
-				Gio should be able to	
+				Geo should be able to	
 				destroy this gear!	
 0x227e	0x06	ALTO		ANI_JOY	
 0x22a3	0x98	ALTO		Oh, that's right.	
@@ -66,13 +66,13 @@ EV_2_S16_big_hindrance
 				for the time being.	
 0x23d2	0x06	ALTO		ANI_GESTURE2	
 0x23fc	0x98	ALTO		Should we try	
-				saving Gio first?	
-0x247b	0x98	NOI	#6A	Yeah, Gio might know	
+				saving Geo first?	
+0x247b	0x98	NOI	#6A	Yeah, Geo might know	
 				something about this...	
 0x24ca	0x06	NOI		ANI_NOD	
 0x24ee	0x98	NOI	#6A	Let's try going to the	
 				summer of Oltapia!	
-0x2540	0xCE	Objective		Next, let's help Gio in the summer of Oltapia.	
+0x2540	0xCE	Objective		Next, let's help Geo in the summer of Oltapia.	
 SB_2_S21_turn_ALTO
 SB_2_S21_turn_NOI
 EV_2_S21_look_cage_2nd
@@ -83,9 +83,9 @@ EV_2_S21_look_cage_2nd
 0x2b50	0x98	NOI	#6A	...No way!	
 0x2cae	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x2cdd	0x98	ALTO	#6A	It's just like...the thing	
-				Gio was trapped in!?	
+				Geo was trapped in!?	
 0x2d34	0x06	NOI		ANI_GESTURE1	
-0x2d5d	0x98	NOI	#6A	...Elis...Elis, no way!?	
+0x2d5d	0x98	NOI	#6A	Eris... Eris, no way!?	
 0x2db1	0x41	None	#0W#2E#029c	...Is that you, Noi?	
 				Are you close?#0E	
 0x2e33	0x41	None	#1W#2E#029c	Oh, good...	
@@ -93,7 +93,7 @@ EV_2_S21_look_cage_2nd
 0x2ed0	0x98	ALTO		It sounds like...a woman.	
 0x2f13	0x06	NOI		ANI_NOD	
 0x2f37	0x98	NOI	#6A	Yeah, she is. It's	
-				Song Maiden Elislette...	
+				Song Maiden Erisette...	
 				This continent's Warden.	
 0x2f9f	0x41	None	#0W#2E#029c	Oh my... What do we have here?	
 				I feel an unusual presence nearby...#0E	
@@ -131,7 +131,7 @@ EV_2_S21_look_cage_2nd
 0x3919	0x06	ALTO		ANI_THANKS	
 0x3941	0x98	ALTO	#6A	Leave it to us!	
 0x3982	0x06	NOI		ANI_GUTSPOSE	
-0x39ab	0x98	NOI	#6A	Hold on, Elis! We'll take	
+0x39ab	0x98	NOI	#6A	Hold on, Eris! We'll take	
 				the Master Gear back and	
 				get you out of there soon!	
 0x3c56	0xCE	Objective		Zext went to the Temple again. We gotta hurry there!	

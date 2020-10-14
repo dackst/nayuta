@@ -56,7 +56,7 @@ EV_6_S25_usi_boss
 0x228a	0x6B	ALTO		Exclamation	
 0x231b	0x6B	NOI		Exclamation	
 0x276d	0x06	NOI		ANI_SURPRISE	
-0x2796	0x98	NOI	#6A	E-Elis!?	
+0x2796	0x98	NOI	#6A	E-Eris!?	
 0x2812	0x98	Erislet		I'm sorry, but I have	
 				hidden the Stellagear.	
 0x28aa	0x98	Erislet		Please, leave at once.	
@@ -66,7 +66,7 @@ EV_6_S25_usi_boss
 0x2995	0x98	ALTO	#6A	Wh-Why!?	
 0x2a11	0x06	NOI		ANI_GESTURE1	
 0x2a3a	0x98	NOI	#6A	Oh, no...	
-				Elis!!	
+				Eris!!	
 0x2ada	0x98	Erislet		...We finally	
 				understand	
 				the truth.	
@@ -79,7 +79,7 @@ EV_6_S25_usi_boss
 				in the Remaking planned by Master	
 				Kureha and the others.	
 0x2d00	0x06	NOI		ANI_COMPLAIN	
-0x2d29	0x98	NOI	#6A	...Stop it, Elis!	
+0x2d29	0x98	NOI	#6A	...Stop it, Eris!	
 0x2d9f	0x98	NOI	#6A	Erasing the surface where Nayuta	
 				and all those people live...	
 0x2df5	0x06	NOI		ANI_DENY	
@@ -99,7 +99,7 @@ EV_6_S25_usi_boss
 0x3227	0x98	Erislet		I had to hide	
 				the Stellagear.	
 0x328f	0x06	NOI		ANI_COMPLAIN	
-0x32b8	0x98	NOI	#6A	Elis... You, too!?	
+0x32b8	0x98	NOI	#6A	Eris... You, too!?	
 0x332b	0x98	Erislet		...Noi, you're my	
 				dear friend, but...	
 0x33be	0x98	Erislet		For the sake of Master Kureha	
@@ -114,11 +114,11 @@ EV_6_S25_usi_boss
 0x38a6	0x98	Erislet	#0W#240x#0y	Let me be very clear...	
 				Don't expect me to show	
 				you any mercy, all right?	
-0x3922	0x98	Erislet	#1W#240x#0y	As Song Maiden Elislette...	
+0x3922	0x98	Erislet	#1W#240x#0y	As Song Maiden Erisette...	
 				Listen to my melody of frost!	
 0x4022	0x06	b010		ANI_DEMO1	
 0x41ee	0x06	NOI		ANI_GESTURE1	
-0x4242	0x98	NOI	#1W	I-It's Elis' true form!!	
+0x4242	0x98	NOI	#1W	I-It's Eris' true form!!	
 0x42a1	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
 0x43a0	0x98	ALTO	#0W	...We have no choice but to fight!	
 SB_6_S25_equip_se
@@ -131,7 +131,7 @@ EV_6_S26_bye_erislet
 0x4df9	0x98	Erislet	#0W	I should have known, you two...	
 				You make quite a good team.	
 0x4e69	0x06	NOI		ANI_GESTURE1	
-0x4e9a	0x98	NOI	#6A	Elis...	
+0x4e9a	0x98	NOI	#6A	Eris...	
 0x4f2d	0x98	Erislet		I'm sorry, Noi.	
 0x4fa9	0x98	Erislet		What's most important to	
 				me is Master Kureha...	
@@ -141,7 +141,7 @@ EV_6_S26_bye_erislet
 0x50db	0x98	Erislet		In the end, her	
 				desires become mine.	
 0x512d	0x06	ALTO		ANI_GESTURE2	
-0x5157	0x98	ALTO	#6A	Elislette...	
+0x5157	0x98	ALTO	#6A	Erisette...	
 0x51ab	0x98	NOI	#6A	...I know very	
 				well how you feel.	
 0x5234	0x06	NOI		ANI_COMPLAIN	
@@ -160,7 +160,7 @@ EV_6_S26_bye_erislet
 0x5f7c	0x06	NOI		ANI_WAIT	
 0x601d	0x06	ALTO		ANI_THANKS	
 0x604d	0x98	ALTO	#6A	Thank you for this,	
-				Elislette.	
+				Erisette.	
 0x6096	0x06	Erislet		ANI_GESTURE1	
 0x60e4	0x98	Erislet		This is the end for me...	
 				I leave everything else	
@@ -177,4 +177,4 @@ EV_6_S26_bye_erislet
 0x6434	0x98	ALTO		Let's go to the Astrolabe...	
 				We have to get to Kureha and the others!	
 EV_6_S38_check_bossmap2
-0x690c	0x40	UNDEF		There is no trace of Elislette.	
+0x690c	0x40	UNDEF		There is no trace of Erisette.	

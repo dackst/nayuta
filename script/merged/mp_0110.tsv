@@ -1851,7 +1851,7 @@ EV_2_S32_fall_down_asa
 0x2173e	0x98	ALTO	#1W#6A#16S	Please wake up, Eartha!!	
 0x217c6	0x98	ALTO	#1W#6A#18S#20M	...Earthaaaaaa!	
 EV_3_S00_detect_disease
-0x21a98	0x40	UNDEF		Afterwards, Dr. Hydol, who was currently visiting
+0x21a98	0x40	UNDEF		Afterwards, Dr. Hydrol, who was currently visiting
 				the island, was rushed to the Herschel household.	
 0x21b06	0x40	UNDEF		He gave Eartha the proper treatment, but...	
 0x21b4b	0x40	UNDEF		She remained in an unconscious state,	

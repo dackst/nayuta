@@ -352,7 +352,7 @@ talk_Sasha_sub
 				Looks like I spaced out a little.	
 0x52e8	0x98	Sasha		I heard Eartha's come down with a sudden	
 				illness. I'm just about to take some of	
-				the store's medicine out to Dr. Hydol.	
+				the store's medicine out to Dr. Hydrol.	
 0x5364	0x98	Sasha		I'll help out as much as I can,	
 				so let me know if you need	
 				anything, okay?	
@@ -360,8 +360,8 @@ talk_Sasha_sub
 				Thank you.	
 0x5456	0x98	Sasha		I'm just about to take out	
 				some of the store's medicine	
-				that Dr. Hydol asked for.	
-0x54ad	0x98	Sasha		...But I'm sure Dr. Hydol,	
+				that Dr. Hydrol asked for.	
+0x54ad	0x98	Sasha		...But I'm sure Dr. Hydrol,	
 				should have fever reducers	
 				and pain relievers, though...	
 0x551b	0x98	Sasha		...Eartha...	
@@ -373,7 +373,7 @@ talk_Sasha_sub
 				I wonder if this could	
 				be a serious illness...	
 0x5678	0x98	Sasha		Sorry about earlier～!	
-				Bootie asked me to help him	
+				Boote asked me to help him	
 				play hide-and-seek with you.	
 0x56e7	0x98	Sasha		Hehe, I always try to go	
 				along with anything that	
@@ -598,7 +598,7 @@ quest_Sasha
 				and I'd like to make up	
 				for her if I could...	
 0x82da	0x98	ALTO		Sasha... Do you really, really	
-				not know where Bootie is?	
+				not know where Boote is?	
 0x832f	0x6B	Sasha		Sweatdrop	
 0x8362	0x98	Sasha		J-Jeez, paranoid much?	
 				It's no good when boys	
@@ -610,7 +610,7 @@ quest_Sasha
 0x84da	0x98	Sasha		Oh my, is there something	
 				else you want to ask me?	
 0x8529	0x98	ALTO		Well... Sasha, do you really
-				not know where Bootie is?	
+				not know where Boote is?	
 0x857f	0x98	Sasha		Hehe, I just told you, didn't I?	
 				I'm sorry, but I don't know～.	
 0x85de	0x98	ALTO		(...Hmm?	
@@ -618,7 +618,7 @@ quest_Sasha
 0x864a	0x98	Sasha		My, what's wrong, Nayuta?	
 0x8683	0x98	ALTO		Sasha, there's something	
 				I want to ask you.	
-0x86ce	0x98	ALTO		Do you know where Bootie is?	
+0x86ce	0x98	ALTO		Do you know where Boote is?	
 0x8712	0x98	Sasha		Uh, I don't know?	
 0x8747	0x98	ALTO		(...Huh?)	
 0x8770	0x98	ALTO		(According to Canie, there's a	
@@ -728,16 +728,16 @@ QS_25_ask_Sasha
 0x9d55	0x06	Sasha		ANI_WAIT0	
 0x9d7d	0x98	Sasha		Wh-What is it, Nayuta?	
 0x9db3	0x06	ALTO		ANI_COMPLAIN	
-0x9ddd	0x98	ALTO	#6A	I'm searching for Bootie for	
-				a request from Dr. Hydol.	
-0x9e35	0x98	ALTO	#6A	I have to tell Bootie about	
+0x9ddd	0x98	ALTO	#6A	I'm searching for Boote for	
+				a request from Dr. Hydrol.	
+0x9e35	0x98	ALTO	#6A	I have to tell Boote about	
 				his medical exam, but...	
 0x9e89	0x6B	Sasha		Exclamation	
 0x9ebc	0x06	Sasha		ANI_SURPRISE	
 0x9ee7	0x98	Sasha		...Huh? A medical exam?	
 				Not for hide-and-seek?	
 0x9f54	0x06	Sasha		ANI_SIT6	
-0x9f83	0x98	Sasha	#6A	H-Hey, Bootie!	
+0x9f83	0x98	Sasha	#6A	H-Hey, Boote!	
 				You told me...	
 0x9fc7	0x98	Bootie	#6A	N-Ngooh!	
 				Don't say that!	
@@ -754,9 +754,9 @@ QS_25_ask_Sasha
 				he was playing hide-and-seek	
 				and asked me for help.	
 0xa3a4	0x06	Sasha		ANI_DIRECT	
-0xa3cd	0x98	Sasha		My goodness, Bootie.	
+0xa3cd	0x98	Sasha		My goodness, Boote.	
 				You shouldn't lie to me.	
-0xa41a	0x98	Sasha		Since it's Dr. Hydol's	
+0xa41a	0x98	Sasha		Since it's Dr. Hydrol's	
 				exam, you've got to go	
 				through with it, okay?	
 0xa4bb	0x06	Bootie		ANI_DEJECTED	
@@ -781,7 +781,7 @@ QS_25_ask_Sasha
 0xa8a0	0x06	Bootie		ANI_JOY	
 0xa8c7	0x98	Bootie		R-Really!?	mp_0110 0x10ffa
 0xa8f3	0x06	Sasha		ANI_LAUGH	
-0xa91b	0x98	Sasha		Hehe, good for you, Bootie.	
+0xa91b	0x98	Sasha		Hehe, good for you, Boote.	
 0xa956	0x6B	Bootie		Unknown	
 0xa98a	0x06	Bootie		ANI_COMPLAIN	
 0xa9b6	0x98	Bootie		R-Really, really?	
