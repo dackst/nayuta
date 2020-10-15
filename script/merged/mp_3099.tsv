@@ -74,13 +74,13 @@ talk_SpiritD
 0x3d9e	0x98	SpiritD		mp_1099 0x3014
 quest_Algorl
 0x3e6e	0x98	Algorl		So you have safely found	
-				Nemeas' spirit...	
+				Nemeas' nymph...	
 0x3eb9	0x98	Algorl		Hmm, it seems to be heading back to	
 				Nemeas' now that it has calmed down.	
 0x3f24	0x98	Algorl		I am sure Nemeas will be pleased	
-				to have another spirit return.	
+				to have another nymph return.	
 				For that, I give my thanks.	
-0x3f98	0x98	Algorl		The life signature of Nemeas' spirit	
+0x3f98	0x98	Algorl		The life signature of Nemeas' nymph	
 				is in the southwest part of Heimmel,	
 				near "Wind-Cutting Valley."
 0x4025	0x98	Algorl		You might wish to search 	
@@ -185,7 +185,7 @@ QS_44_undertake
 0x5761	0x98	Algorl		With that, I want you to gather	
 				the scattered fragments of my power.	
 0x57fb	0x98	Algorl		As for where my power is sealed,	
-				according to the spirits, they seem	
+				according to the nymphs, they seem	
 				to be in La Worg, the Origin Continent.	
 0x5890	0x06	NOI		ANI_GESTURE2	
 0x58b9	0x98	NOI	#6A	La Worg...	
@@ -317,7 +317,7 @@ QS_54_talk_Algorl
 				to ask of you, Algol.	
 0x7cc5	0x40	UNDEF		Nayuta explained what happened to Algol,	
 				and asked if he had any idea where to	
-				find Nemeas' missing spirits.	
+				find Nemeas' missing nymphs.	
 0x7d40	0x98	Algorl		Is that so...?	
 				That must be very	
 				difficult for Nemeas.	
@@ -328,7 +328,7 @@ QS_54_talk_Algorl
 0x7e28	0x98	NOI	#6A	Thank you, Algol!	
 0x7e5b	0x06	NOI		ANI_THINK	
 0x7e81	0x98	NOI	#6A	If the life signatures of any	
-				of her spirits are on this	
+				of her nymphs are on this	
 				continent, please tell us...	
 0x7ef6	0x06	NOI		ANI_WAIT	
 0x7f1b	0x06	Algorl		ANI_NOD	
@@ -340,7 +340,7 @@ QS_54_talk_Algorl
 0x8130	0x06	Algorl		ANI_NOD	
 0x8157	0x98	Algorl		This signature...	
 				Yes, no doubt remains.	
-0x81c7	0x98	Algorl		It is most certainly that of Nemeas' spirit...	
+0x81c7	0x98	Algorl		It is most certainly that of Nemeas' nymph...	
 				As expected, it was on this continent.	
 0x8240	0x06	ALTO		ANI_GESTURE1	
 0x826a	0x98	ALTO	#6A	Thank goodness... We might be able	mp_1099 0x96f7
@@ -351,7 +351,7 @@ QS_54_talk_Algorl
 0x832f	0x98	Algorl		Anyway, I will tell you	
 				the location.	
 0x837f	0x98	Algorl		It is certainly the presence of	
-				Nemeas' spirit─But it seems only	
+				Nemeas' nymph─But it seems only	
 				one exists on this continent.	
 0x83ff	0x06	ALTO		ANI_GESTURE1	
 0x8429	0x98	ALTO	#6A	Thank goodness...Do you know the location?	mp_1099 0x98b9
@@ -446,10 +446,10 @@ quest_SpiritD
 0x972a	0x98	ALTO		These children are troubled.	mp_1099 0xabba
 0x9766	0x06	NOI		ANI_NOD	
 0x97a2	0x98	NOI	#6A	Yes...Because the temple remains	mp_1099 0xac32
-				stopped, the spirits are combining	
+				stopped, the nymphs are combining	
 				their strength to support this continent.	
 0x982f	0x06	NOI		ANI_DEJECTED	
-0x9858	0x98	NOI	#6A	However, because the spirits'	mp_1099 0xace8
+0x9858	0x98	NOI	#6A	However, because the nymphs'	mp_1099 0xace8
 				power is small, they have many	
 				troubles...	
 0x98c0	0x06	NOI		ANI_GESTURE1	
@@ -457,7 +457,7 @@ quest_SpiritD
 				Here's a request from me too.	
 				Will you help this little one?	
 0x995c	0x98	NOI	#6A	Yeah...the temple has stopped,	mp_1099 0xadec
-				and now the spirits are doing their	
+				and now the nymphs are doing their	
 				best to support this continent.	
 0x99de	0x06	NOI		ANI_DEJECTED	
 0x9a07	0x98	NOI	#6A	But, because they don't have	mp_1099 0xae97
@@ -529,7 +529,7 @@ quest_SpiritD
 0xa6d4	0x98	NOI	#6A	Nayuta, let's get going to	mp_3099 0xa64d	
 				the spring of the "Heavenly	
 				Mountain" right away!		
-0xa787	0x07	System	#3C	Quest [Sacred Mountain Spirit's Request] started!	
+0xa787	0x07	System	#3C	Quest [A Nymph's Request] started!	
 0xa88b	0x06	ALTO		ANI_WAIT	
 0xa8b1	0x06	NOI		ANI_WAIT	
 quest_SpiritD_End
@@ -576,7 +576,7 @@ quest_SpiritD_End
 				consult us, OK?	
 0xb45c	0x06	SpiritD		ANI_NOD	
 0xb48c	0x98	SpiritD		...!	mp_1099 0xb874
-0xb4e7	0x07	System	#3C	Quest [Sacred Mountain Spirit's Request] completed!	
+0xb4e7	0x07	System	#3C	Quest [A Nymph's Request] completed!	
 0xb5d5	0x06	ALTO		ANI_WAIT	
 0xb5fb	0x06	NOI		ANI_WAIT	
 QS_83_boss_start

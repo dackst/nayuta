@@ -102,10 +102,10 @@ talk_Gio
 0x2888	0x98	ALTO		...By the way, I've been wondering	
 				for a while now, but what are those
 				things flying around?	
-0x2903	0x98	NOI		Those are Geo's spirits.	
-0x293c	0x98	Gio		They are spiritual life forms 	
-				brought forth by the great Power	
-				of Stars from within the continent.	
+0x2903	0x98	NOI		Those are Geo's nymphs.	
+0x293c	0x98	Gio		They are spiritual beings brought	
+				forth by the great Power of Stars	
+				from within the continent.	
 0x29c0	0x98	Gio		They cannot speak, but they are	
 				very hard workers. They've always	
 				helped me with various things.	
@@ -140,14 +140,14 @@ talk_SpiritD
 0x3014	0x98	SpiritD		...?	
 quest_Gio
 0x30c9	0x98	Gio		Oh, it looks like you found	
-				Nemeas' spirit without incident.	
+				Nemeas' nymph without incident.	
 0x311a	0x98	Gio		Hmm, so it was caught in the swamp...	
-				That's quite unusual for a spirit,	
+				That's quite unusual for a nymph,	
 				who should be in tune with nature.	
 0x31b3	0x98	Gio		I do not know why, but maybe	
 				it was in a terrible hurry.	
 0x3216	0x98	Gio		I feel the presence of Nemeas'	
-				spirit in midwestern Oltapia, in	
+				nymph in midwestern Oltapia, in	
 				the forest known as "Hermit's Path".	
 0x32af	0x98	Gio		You might want to set the season	
 				to summer and look for it there.	
@@ -578,9 +578,9 @@ QS_54_talk_gio
 				I want to ask you...	
 0x92a2	0x40	UNDEF		Nayuta explained what happened to Geo,	
 				and asked if he had any idea where to	
-				find Nemeas' missing spirits.	
+				find Nemeas' missing nymphs.	
 0x932b	0x06	Gio		ANI_THINK	
-0x9351	0x98	Gio		Nemeas' spirits, eh?	
+0x9351	0x98	Gio		Nemeas' nymphs, eh?	
 				I did not know of this.	
 0x939d	0x06	Gio		ANI_NOD	
 0x93c1	0x98	Gio		All right, all right. I will search	
@@ -696,7 +696,7 @@ quest_SpiritD
 				really be in a tough spot.	
 0xabf6	0x06	NOI		ANI_NOD	
 0xac32	0x98	NOI	#6A	Yeah... Since the Temple is still shut down,	
-				the spirits have been working together	
+				the nymphs have been working together	
 				to support the continent.	
 0xacbf	0x06	NOI		ANI_DEJECTED	
 0xace8	0x98	NOI	#6A	But they aren't very strong,	
@@ -705,10 +705,10 @@ quest_SpiritD
 0xad79	0x98	NOI	#6A	Hey, Nayuta. Here's a request from me as well.	
 				Will you help me with this little one?	
 0xadec	0x98	NOI	#6A	Yeah... Since the Temple is still shut down,	
-				the spirits have been joining together	
+				the nymphs have been joining together	
 				to support the continent.
 0xae6e	0x06	NOI		ANI_DEJECTED	
-0xae97	0x98	NOI	#6A	But the spirits aren't very strong,	
+0xae97	0x98	NOI	#6A	But the nymphs aren't very strong,	
 				so it seems to have been difficult...	
 0xaef9	0x06	NOI		ANI_GESTURE1	
 0xaf22	0x98	NOI	#6A	Hey, Nayuta. Here's a request from me as well.	
@@ -774,7 +774,7 @@ quest_SpiritD
 				winter of "Shaded Animal Trail" soon!	
 0xb9b8	0x98	NOI	#6A	Let's try heading to the winter	
 				of "Shaded Animal Trail" soon!	
-0xba50	0x07	System	#3C	Quest [Forest Spirit's Request] started!	
+0xba50	0x07	System	#3C	Quest [A Nymph's Request] started!	
 0xbb5c	0x06	ALTO		ANI_WAIT	
 0xbb82	0x06	NOI		ANI_WAIT	
 quest_SpiritD_End
@@ -817,7 +817,7 @@ quest_SpiritD_End
 				problems, contact us, okay?.
 0xc6d4	0x06	SpiritD		ANI_NOD	
 0xc704	0x98	SpiritD		...!	mp_1099 0xb874
-0xc75f	0x07	System	#3C	Quest [Forest Spirit's Request] completed!	
+0xc75f	0x07	System	#3C	Quest [A nymph's Request] completed!	
 0xc844	0x06	ALTO		ANI_WAIT	
 0xc86a	0x06	NOI		ANI_WAIT	
 QS_83_boss_start

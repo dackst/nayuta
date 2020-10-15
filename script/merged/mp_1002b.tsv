@@ -18,12 +18,12 @@ push_box
 QS54_talk_SpiritA
 0x170a	0x6B	QS54_SpiritA		Unknown	
 0x1810	0x98	NOI	#6A	Ah, found you!	
-0x1842	0x98	ALTO		Doesn't this look like	
-				one of the spirits	
-				from Nemeas' Temple?	
+0x1842	0x98	ALTO		Isn't this one of	
+				the nymphs from	
+				Nemeas' Temple?	
 0x18a3	0x98	ALTO		Ah, but what could you be doing here...?	
 0x18e4	0x98	ALTO		...Aren't you one of Nemeas'	
-				spirits? Are you okay?	
+				nymphs? Are you okay?	
 0x1957	0x6B	QS54_SpiritA		Surprise	
 0x1991	0x6B	QS54_SpiritA		Unknown	
 0x1a07	0x98	QS54_SpiritA	#6A	...～～～～～～...	
@@ -33,7 +33,7 @@ QS54_talk_SpiritA
 				in the swamp before it got stuck...?	
 0x1b1a	0x06	ALTO		ANI_WAIT	
 0x1b40	0x06	NOI		ANI_THINK	
-0x1b66	0x98	NOI	#6A	A spirit shouldn't normally get stuck	
+0x1b66	0x98	NOI	#6A	A nymph shouldn't normally get stuck	
 				like this though... It's probably	
 				in a bit of a tight spot.	
 0x1be5	0x06	NOI		ANI_NOD	
@@ -48,20 +48,20 @@ QS54_talk_SpiritA
 				Don't get lost again, okay?	
 0x1ef5	0x98	NOI	#6A	Nemeas is worried about you, too.	
 0x1f34	0x6B	QS54_SpiritA		Surprise	
-0x1f6e	0x40	UNDEF		Noi explained to the spirit how to
+0x1f6e	0x40	UNDEF		Noi explained to the nymph how to
 				get back to the Origin Continent.	
 0x1fd9	0x6B	QS54_SpiritA		Unknown	
 0x2013	0x06	QS54_SpiritA		ANI_NOD	
 0x221c	0x98	ALTO		Looks like we rescued that one safely.
 0x229b	0x06	NOI		ANI_NOD	
 0x2303	0x98	NOI	#6A	Yeah, now that's all	
-				of the missing spirits.	
+				of the missing nymphs.	
 0x2356	0x98	NOI	#6A	Nayuta, let's go	
 				tell Nemeas!	
 0x239e	0x06	ALTO		ANI_NOD	
 0x23c3	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x242e	0x98	NOI	#6A	Yeah...but there should	
-				be three missing spirits.	
+				be three missing nymphs.	
 0x247d	0x06	NOI		ANI_GUTSPOSE	
 0x24a6	0x98	NOI	#6A	Nayuta, let's try	
 				looking for them.	

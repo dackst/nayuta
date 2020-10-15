@@ -164,8 +164,8 @@
 0x2d08	line	Let's tell Eartha.
 0x2d3c	line	
 0x2d70	line	
-0x2dc0	quest name	Spirit's Request
-0x2df0	client	Oltapia Spirit
+0x2dc0	quest name	A Nymph's Request
+0x2df0	client	Oltapia Nymph
 0x2e10	line	？×～△●③〆∴
 0x2e44	line	＊＠↑○×☆～！
 0x2e78	line	
@@ -232,8 +232,8 @@
 0x3f8c	line	Reticul. I'll bring it
 0x3fc0	line	to Ursamina.
 0x3ff4	line	
-0x4044	quest name	Spirit's Request
-0x4074	client	Rieseweld Spirit
+0x4044	quest name	A Nymph's Request
+0x4074	client	Rieseweld Nymph
 0x4094	line	＃＆～？♪∠†
 0x40c8	line	※♭△↑×☆～！
 0x40fc	line	
@@ -308,8 +308,8 @@
 0x5488	line	Let's bring it to Norma and
 0x54bc	line	discuss meeting strategies.
 0x54f0	line	
-0x5540	quest name	Spirit's Request
-0x5570	client	Heimmel Spirit
+0x5540	quest name	A Nymph's Request
+0x5570	client	Heimmel Nymph
 0x5590	line	×□ＴＬ＊√▽
 0x55c4	line	∀∃↑◇☆―！
 0x55f8	line	
@@ -322,30 +322,30 @@
 0x583c	line	Let's report back immediately.
 0x5870	line	
 0x58a4	line	
-0x58f4	quest name	Where Are the Spirits?
+0x58f4	quest name	Where Are the Nymphs?
 0x5924	client	Sage Nemeas
 0x5944	line	I am facing trouble
-0x5978	line	regarding my spirits.
+0x5978	line	regarding my nymphs.
 0x59ac	line	I wait at the sanctum
 0x59e0	line	in La Worg.
 0x5a80	line	The other Wardens may
 0x5ab4	line	know the location of
-0x5ae8	line	the spirits. Let's ask
+0x5ae8	line	the nymphs. Let's ask
 0x5b1c	line	at each temple.
 0x5bbc	line	It seems the presence of
-0x5bf0	line	a spirit is in the summer
+0x5bf0	line	a nymph is in the summer
 0x5c24	line	of Hermit's Path in
 0x5c58	line	Oltapia. Let's look there.
 0x5cf8	line	It seems the presence of
-0x5d2c	line	a spirit is in the winter
+0x5d2c	line	a nymph is in the winter
 0x5d60	line	of Scrying Pool Caves in
 0x5d94	line	Rieseweld. Let's look there.
 0x5e34	line	It seems the presence of
-0x5e68	line	a spirit is in the fall
+0x5e68	line	a nymph is in the fall
 0x5e9c	line	of Wind Cutting Valley in
 0x5ed0	line	Heimmel. Let's look there.
 0x5f70	line	We were able to find all
-0x5fa4	line	of the spirits safely.
+0x5fa4	line	of the nymphs safely.
 0x5fd8	line	Let's return to Nemeas.
 0x600c	line	
 0x605c	quest name	Search for Heir
@@ -382,8 +382,8 @@
 0x6984	line	Let's bring him to
 0x69b8	line	Mrs. Mensa.
 0x69ec	line	
-0x6a3c	quest name	Spirit's Request
-0x6a6c	client	Heimmel Spirit
+0x6a3c	quest name	A Nymph's Request
+0x6a6c	client	Heimmel Nymph
 0x6a8c	line	×□ＴＬ＊√▽
 0x6ac0	line	∀∃↑◇☆―！
 0x6af4	line	

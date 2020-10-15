@@ -57,7 +57,7 @@ talk_SpiritD
 				.........	
 0x33e5	0x98	SpiritD		...?	mp_1099 0x3014
 quest_Nemeas
-0x34bd	0x98	Nemeas		Three of my spirits in	
+0x34bd	0x98	Nemeas		Three of my nymphs in	
 				total are missing...	
 0x351c	0x98	Nemeas		Though it is hard to imagine,	
 				they may have somehow ended	
@@ -75,11 +75,11 @@ QS_54_quest_start
 0x38c6	0x06	ALTO		ANI_THINK2	
 0x38ee	0x98	ALTO	#6A	The request from Nemeas...	
 				From what I understood, it was	
-				something about your spirits.	
+				something about your nymphs.	
 0x395e	0x06	ALTO		ANI_WAIT	
 0x3984	0x06	NOI		ANI_THINK	
 0x39aa	0x98	NOI	#6A	Is there something wrong	
-				with your spirits, exactly?	
+				with your nymphs, exactly?	
 0x39f7	0x06	NOI		ANI_LOOK_AROUND	
 0x3a43	0x98	NOI	#6A	Speaking of which, I don't	
 				see any of them around...	
@@ -92,7 +92,7 @@ QS_54_quest_start
 				for a few moments of your time.	
 0x3c28	0x06	Nemeas		ANI_GESTURE1	
 0x3c54	0x98	Nemeas		I have a request to make	
-				regarding the spirits of	
+				regarding the nymphs of	
 				this continent.	
 0x3cae	0x98	Nemeas		Though I am sorry to oblige you	mp_4099 0x3b84
 				at a time like this, I will require	
@@ -118,7 +118,7 @@ QS_54_ask_reason
 0x40cd	0x98	Nemeas		Thank you, Nayuta.	
 				Well, let's get on with it.	
 				Allow me to explain.	
-0x4139	0x98	Nemeas		The truth is...the spirits in charge	
+0x4139	0x98	Nemeas		The truth is...the nymphs in charge	
 				of Temple maintenance from this room	
 				seem to have disappeared.	
 0x41b6	0x06	Nemeas		ANI_WAIT	
@@ -135,7 +135,7 @@ QS_54_ask_reason
 0x43a4	0x06	Nemeas		ANI_DENY	
 0x43cc	0x98	Nemeas		No, that should not be a possibility.	
 0x440e	0x06	Nemeas		ANI_GESTURE1	
-0x443a	0x98	Nemeas		Of all my spirits, these little	
+0x443a	0x98	Nemeas		Of all my nymphs, these little	
 				ones were the most skilled at	
 				managing the Temple.	
 0x4493	0x98	Nemeas		Therefore, I've always told them,	
@@ -179,7 +179,7 @@ QS_54_ask_reason
 				Certainly, it might be	
 				reasonable to think so.	
 0x4b6f	0x06	NOI		ANI_THINK	
-0x4b95	0x98	NOI	#6A	Hmm, since spirits are part of	
+0x4b95	0x98	NOI	#6A	Hmm, since nymphs are part of	
 				the land, they normally wouldn't	
 				leave it to go somewhere else...	
 0x4c13	0x06	NOI		ANI_NOD	
@@ -192,7 +192,7 @@ QS_54_ask_reason
 0x4d85	0x98	Nemeas		Then, it might be appropriate to check	
 				in with the Wardens of each continent.	
 0x4de9	0x98	Nemeas		They should be able to detect any	
-				presence of my spirits on their	
+				presence of my nymphs on their	
 				respective continents like I can.	
 0x4e62	0x06	ALTO		ANI_NOD	
 0x4e87	0x98	ALTO	#6A	I see, that's a good idea.	
@@ -219,7 +219,7 @@ QS_54_ask_reason
 0x51e0	0x98	ALTO	#6A	Right, leave it to us!	
 0x5219	0x06	NOI		ANI_GUTSPOSE	
 0x5242	0x98	NOI	#6A	We'll find them soon!	
-0x52bc	0x07	System	#3C	Quest [Where Are the Spirits?] started!	
+0x52bc	0x07	System	#3C	Quest [Where Are the Nymphs?] started!	
 stp_qs54_last
 0x55d7	0x6B	ALTO		Surprise	
 0x5609	0x6B	NOI		Surprise	
@@ -299,7 +299,7 @@ stp_qs54_last
 				they get so smart?	
 0x66ee	0x06	NOI		ANI_NOD	
 0x6712	0x98	NOI	#6A	Ehehe, as expected	
-				from the spirits of	
+				from the nymphs of	
 				Sage Nemeas.	
 0x6767	0x98	ALTO		Haha, maybe they've grown	
 				similar to their master.	
@@ -368,7 +368,7 @@ stp_qs54_last
 				...Please, be careful.	
 0x7407	0x06	ALTO		ANI_JOY	
 0x742c	0x98	ALTO		...Understood!	mp_0001 0x122a0
-0x748e	0x07	System	#3C	Quest [Where Are the Spirits?] completed!	
+0x748e	0x07	System	#3C	Quest [Where Are the Nymphs?] completed!	
 quest_SpiritD
 0x772b	0x98	SpiritD		..........	
 				...～～～...!	
@@ -523,7 +523,7 @@ quest_SpiritD
 0x9326	0x06	ALTO		ANI_JOY	
 0x934b	0x98	ALTO		Okay, thanks. Now let's go and	
 				change the season to summer!	
-0x93e4	0x07	System	#3C	Quest [Origin Spirit's Request] started!	
+0x93e4	0x07	System	#3C	Quest [A Nymph's Request] started!	
 0x94d0	0x06	ALTO		ANI_WAIT	
 0x94f6	0x06	NOI		ANI_WAIT	
 quest_SpiritD_End
@@ -567,7 +567,7 @@ quest_SpiritD_End
 				consult us, OK?	
 0xa00c	0x06	SpiritD		ANI_NOD	
 0xa03c	0x98	SpiritD		...!	mp_1099 0xb874
-0xa097	0x07	System	#3C	Quest [Origin Spirit's Request] completed!	
+0xa097	0x07	System	#3C	Quest [A Nymph's Request] completed!	
 0xa17c	0x06	ALTO		ANI_WAIT	
 0xa1a2	0x06	NOI		ANI_WAIT	
 QS_83_boss_start

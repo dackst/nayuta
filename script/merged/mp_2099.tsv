@@ -83,7 +83,7 @@ talk_Erislet
 				havoc on this world, so we have no	
 				choice to turn against him.	
 0x2851	0x98	Erislet		And more importantly,	
-				he hurt my spirits...	
+				he hurt my nymphs...	
 				I can't allow that!	
 0x28e2	0x98	Erislet		It's been too hot lately.	
 				From now on, I must work to	
@@ -112,13 +112,13 @@ talk_SpiritD
 quest_Erislet
 0x2e6c	0x98	Erislet		Hehe, looks like you guys 	
 				were able to find Nemeas'	
-				spirit without any problems.	
+				nymph without any problems.	
 0x2ec7	0x98	Erislet		The caves around here are	
 				so vast that it's easy to	
 				get lost in them...	
 0x2f32	0x98	Erislet		Anyway, I'm glad you found it.	
 				Please give my regards to Nemeas.	
-0x2fa6	0x98	Erislet		On the presence of Nemeas' spirit,	
+0x2fa6	0x98	Erislet		On the presence of Nemeas' nymph,	
 				it was somewhere around "Scrying	
 				Pool Caves" in mid-eastern Rieseweld.	
 0x3054	0x98	Erislet		You should search for it with	
@@ -537,7 +537,7 @@ quest_SpiritD
 				autumn of "Scrying Pool Caves" soon!	
 0x8825	0x98	NOI	#6A	Let's try heading to the autumn	
 				of "Scrying Pool Caves" soon!
-0x88bf	0x07	System	#3C	Quest [Abyss Spirit's Request] started!	
+0x88bf	0x07	System	#3C	Quest [A Nymph's Request] started!	
 0x89d3	0x06	ALTO		ANI_WAIT	
 0x89f9	0x06	NOI		ANI_WAIT	
 quest_SpiritD_End
@@ -582,7 +582,7 @@ quest_SpiritD_End
 				consult us, OK?	
 0x9520	0x06	SpiritD		ANI_NOD	
 0x9550	0x98	SpiritD		...♪	mp_2099 0x86d0
-0x95ac	0x07	System	#3C	Quest [Abyss Spirit's Request] completed!	
+0x95ac	0x07	System	#3C	Quest [A Nymph's Request] completed!	
 0x9690	0x06	ALTO		ANI_WAIT	
 0x96b6	0x06	NOI		ANI_WAIT	
 QS_83_boss_start
@@ -828,9 +828,9 @@ QS_54_talk_Erislet
 				a favor from you, Erisette.	
 0xee89	0x40	UNDEF		Nayuta explained what happened to Erisette,	
 				and asked if she had any idea where to find	
-				Nemeas' missing spirits.	
+				Nemeas' missing nymphs.	
 0xef00	0x06	Erislet		ANI_GESTURE1	
-0xef2d	0x98	Erislet		Her spirits have gone missing...	
+0xef2d	0x98	Erislet		Her nymphs have gone missing...	
 				If so, then that's pretty worrisome.	
 0xefa1	0x06	Erislet		ANI_NOD	
 0xefc9	0x98	Erislet		Of course, if there is anything	
@@ -839,18 +839,18 @@ QS_54_talk_Erislet
 0xf051	0x98	ALTO	#6A	Please do!	mp_1099 0x9437
 0xf07e	0x06	NOI		ANI_GESTURE1	
 0xf0a7	0x98	NOI	#6A	We want you to use your power to	
-				determine if any spirits are on	
+				determine if any nymphs are on	
 				this continent!	
 0xf117	0x06	Erislet		ANI_TALK	
 0xf140	0x98	Erislet		Of course, they should feel a	
-				little different from my spirits...	
+				little different from my nymphs...	
 0xf1ae	0x06	Erislet		ANI_USE_POWER	
 0xf2ae	0x98	Erislet	#1W	Fuwaaah......	
 0xf2e9	0x6B	Erislet		Exclamation	
 0xf361	0x06	Erislet		ANI_NOD	
 0xf389	0x98	Erislet		...Yes, found one!	
 0xf3e3	0x98	Erislet		It definitely matches the signature	
-				of one of Nemeas' spirits. So there	
+				of one of Nemeas' nymphs. So there	
 				was one on this continent after all.	
 0xf45c	0x06	ALTO		ANI_GESTURE1	
 0xf486	0x98	ALTO	#6A	Thank goodness... We might be able	mp_1099 0x96f7
@@ -861,7 +861,7 @@ QS_54_talk_Erislet
 0xf565	0x06	Erislet		ANI_NOD	
 0xf58d	0x98	Erislet		Well, nonetheless, I can tell where it is.	
 0xf5e3	0x98	Erislet		It definitely matches the signature	
-				of one of Nemeas' spirits. It seems	
+				of one of Nemeas' nymphs. It seems	
 				there is only one on this continent.	
 0xf663	0x06	ALTO		ANI_GESTURE1	
 0xf68d	0x98	ALTO	#6A	Thank goodness...Do you know the location?	mp_1099 0x98b9
@@ -926,7 +926,7 @@ EV_2_S23_boss_battle
 0x12c7b	0x6B	SpiritA		Unknown	
 0x12d6a	0x6B	SpiritB		Unknown	
 0x12e59	0x6B	SpiritC		Unknown	
-0x132dc	0x98	Zext	#6A	The spirits of Rieseweld...?	
+0x132dc	0x98	Zext	#6A	The nymphs of Rieseweld...?	
 0x13320	0x98	Zext	#6A	...Step aside.	
 				There is a mission	
 				I must accomplish.	
