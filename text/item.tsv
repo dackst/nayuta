@@ -13,7 +13,7 @@
 0x358	name	Executor
 0x370	desc	Legendary sword of judgment that destroys all evil.
 0x3e4	name	Seventh Heaven
-0x3fc	desc	Sword created by the Mythos that can cut through space.
+0x3fc	desc	Sword created by the Mitos that can cut through space.
 0x470	name	Chrono Blade
 0x488	desc	Legendary blade of Terra, made from refined Power of the Stars.
 0x4fc	name	Thousand Worlds Sword
@@ -319,7 +319,7 @@
 0x5704	name	Headdress
 0x571c	desc	[Hide from Enemies] Ornament worn on the head with church symbol.
 0x5790	name	Fairy Cross
-0x57a8	desc	Pure clothing worn by the wind spirit.
+0x57a8	desc	Pure clothing worn by wind spirits.
 0x581c	name	Tight Suit
 0x5834	desc	Doll clothes. Importance is placed on mobility.
 0x58a8	name	Slit Mini
@@ -333,11 +333,11 @@
 0x5ad8	name	Gothic Dress
 0x5af0	desc	Doll clothes. Exhibits elaborate craftsmanship.
 0x5b64	name	Formal Sailor
-0x5b7c	desc	Doll uniform tailored with fresh and subdued colors.
+0x5b7c	desc	Doll sailor uniform tailored with fresh and subdued colors.
 0x5bf0	name	Ether Cross
 0x5c08	desc	Doll clothes with magic power made from unknown material.
 0x5c7c	name	Maid Dress
-0x5c94	desc	Sophisticated dress that evokes the spirit of service.
+0x5c94	desc	Sophisticated dress that summons a sense of service.
 0x5d08	name	Angel Wings
 0x5d20	desc	[Fall Damage Down] Posable doll accessory shaped like angel wings.
 0x5d94	name	Anklet
@@ -355,7 +355,7 @@
 0x60dc	name	Halo Ring
 0x60f4	desc	[Freeze Resist/Freeze Add] Metal halo ornament that absorbs heat.
 0x6168	name	Cat Tail
-0x6180	desc	[No Fall Damage/Trap Damage Down] Cat tail accessory that somehow moves.
+0x6180	desc	[No Fall Damage/Trap Damage Down] Cat tail accessory that moves somehow.
 0x61f4	name	Belt Choker
 0x620c	desc	[Resist All/Add All] Holy choker that repels all evil.
 0x6280	name	
@@ -609,7 +609,7 @@
 0xa650	name	White Snow God Meat
 0xa668	desc	[White Meat] Supreme meat with miraculous balance of fat.
 0xa6dc	name	Firm Meat
-0xa6f4	desc	[Red Meat] Chewy meat. Its transformation depends on cooking.
+0xa6f4	desc	[Red Meat] Chewy meat. Its end product depends on how it's prepared.
 0xa768	name	Thin-Sliced Red Meat
 0xa780	desc	[Red Meat] Bright red and dripping with blood. Pretty soft.
 0xa7f4	name	Meat From The Bone
@@ -701,7 +701,7 @@
 0xbf78	name	Eartha's Lunch Box
 0xbf90	desc	Lunch box that Eartha made. Smells nice even though covered.
 0xc004	name	Eternal Rose
-0xc01c	desc	Found on the Forest Continent. If given water, it will never wither.
+0xc01c	desc	Found on the Forest Continent. Said to never wither if given water.
 0xc090	name	Small Shard
 0xc0a8	desc	Cracked star shard. Can't be used to see another world. Shines prettily.
 0xc11c	name	100-Year Peach Sapling
@@ -709,7 +709,7 @@
 0xc1a8	name	100-Year Peach
 0xc1c0	desc	Strange peach with a deep sweet flavor. Said to give eternal youth.
 0xc234	name	Elumi Resin
-0xc24c	desc	Colorless and transparent resin. Used to repair broken lens.
+0xc24c	desc	Colorless and transparent resin. Used to repair broken lenses.
 0xc2c0	name	Pacific Flying Squid
 0xc2d8	desc	Remnant Island specialty. Sun-dried.
 0xc34c	name	Ruins Rock Salt
@@ -717,9 +717,9 @@
 0xc3d8	name	Island Loco Moco
 0xc3f0	desc	Remnant Island specialty. A dish full of local ingredients.
 0xc464	name	Moon Bird Egg
-0xc47c	desc	Egg of extinct animal cared for by Erisette. Slightly warm.
+0xc47c	desc	Egg of an extinct animal cared for by Erisette. Slightly warm.
 0xc4f0	name	Sandalwood Tree Branch
-0xc508	desc	Wooden branch found on Mountain Continent. Has a pure fragrance.
+0xc508	desc	Wooden branch found on the Mountain Continent. Has a pure fragrance.
 0xc57c	name	Ursamina's Letter
 0xc594	desc	Addressed to "Reticul."
 0xc608	name	Red Pigment
@@ -731,9 +731,9 @@
 0xc7ac	name	Colored Jewel
 0xc7c4	desc	Jewel that stores Algol's power. A dark gray color.
 0xc838	name	Colored Jewel
-0xc850	desc	Jewel that stores Algol's power. A faint light is inside.
+0xc850	desc	Jewel that stores Algol's power. Gives off a faint light.
 0xc8c4	name	Colored Jewel
-0xc8dc	desc	Jewel that stores Algol's power. A strong light is inside.
+0xc8dc	desc	Jewel that stores Algol's power. Gives off a moderately strong light.
 0xc950	name	Colored Jewel
 0xc968	desc	Jewel that stores Algol's power. Gives off multicolored lights.
 0xc9dc	name	Ancient Memo ①
@@ -745,7 +745,7 @@
 0xcb80	name	Ancient Memo ④
 0xcb98	desc	Copy of a lithograph in Lexendria. Written in strange characters.
 0xcc0c	name	Locked Box
-0xcc24	desc	Box cared for by Master. Its surface is carved with Mythos language.
+0xcc24	desc	Box cared for by Master. Its surface is carved with Mitos language.
 0xcc98	name	Produce Offering
 0xccb0	desc	Ancestral offering for the Star Festival. Full of island produce.
 0xcd24	name	Seafood Offering
@@ -1103,11 +1103,11 @@
 0x12d64	name	Darkness Stew
 0x12d7c	desc	Mysterious soup. Its appearance and flavor are incredible.
 0x12df0	name	Getty Dog
-0x12e08	desc	Made of mystery meat. Herbs help the flavor.
+0x12e08	desc	Made of mystery meat. Herbs enhance the flavor.
 0x12e7c	name	Dynasty Tripe
 0x12e94	desc	Guts stew lunch with traditional seasoning.
 0x12f08	name	Boiled Eye
-0x12f20	desc	High nutritional value, but its appearance is hated.
+0x12f20	desc	High nutritional value, but looks disgusting.
 0x12f94	name	Dark Spaghetti
 0x12fac	desc	Tooth blackening is inevitable, but worth it.
 0x13020	name	Confection Dream Ball
@@ -1117,7 +1117,7 @@
 0x13138	name	Pudding
 0x13150	desc	Masterpiece sweet of cooked ingredients.
 0x131c4	name	Stardust Parfait
-0x131dc	desc	Miraculous sweet. Good for your health.
+0x131dc	desc	Miraculously sweet. Good for your health.
 0x13250	name	
 0x13268	desc	
 0x132dc	name	
@@ -1211,9 +1211,9 @@
 0x14aec	name	Peerless Magic
 0x14b04	desc	Defeated 1000 enemies with Arts.
 0x14b78	name	Secret Sword Dancer
-0x14b90	desc	Defeated 100 enemies with sword techs (skills).
+0x14b90	desc	Defeated 100 enemies with sword skills.
 0x14c04	name	Hundred Counter
-0x14c1c	desc	Defended 100 attacks with guard.
+0x14c1c	desc	Defended against 100 attacks.
 0x14c90	name	Soul of Fortitude
 0x14ca8	desc	Slipped 20 times.
 0x14d1c	name	Avatar of Destruction
@@ -1265,7 +1265,7 @@
 0x159b0	name	Small Giant
 0x159c8	desc	Reached level 50.
 0x15a3c	name	Millionaire
-0x15a54	desc	Had more than one million mira.
+0x15a54	desc	Held more than one million mira.
 0x15ac8	name	Friend to Mishy
 0x15ae0	desc	Found Mishy with perfect timing.
 0x15b54	name	Nayuta Mastery
@@ -1308,7 +1308,7 @@
 0x16544	desc	Defeated <Weaver of Paradise> Noi Stelladia.
 0x165b8	name	Start of a Handyman
 0x165d0	desc	Started work as a handyman.
-0x16644	name	New Day
+0x16644	name	A New Day
 0x1665c	desc	Started the sequel.
 0x166d0	name	
 0x166e8	desc	

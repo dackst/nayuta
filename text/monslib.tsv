@@ -351,7 +351,7 @@
 0x419e	line	lava that appears unexpectedly
 0x41be	line	and rams its enemies.
 0x421e	mon name	Blast Turban
-0x423e	line	Shell monster living in rock
+0x423e	line	Shell monster living in rocky
 0x425e	line	areas. If angered, detonates
 0x427e	line	the pearl inside its body.
 0x42de	mon name	Piledriver
@@ -552,19 +552,19 @@
 0x673e	line	flame breath burns everything.
 0x679e	mon name	Necro Savant
 0x67be	line	Dark snake of legends. Called
-0x67de	line	a familiar of hell, seeing it
-0x67fe	line	has the meaning of death.
+0x67de	line	a familiar of hell, seeing one
+0x67fe	line	foretells one's death.
 0x685e	mon name	Doom Dragon
 0x687e	line	Holy dragon spoken of in
 0x689e	line	scripture. In the end, it will
-0x68be	line	watch over humanity's fate.
+0x68be	line	judge humanity's ultimate fate.
 0x691e	mon name	Selam
 0x693e	line	Burdened with the Remaking
 0x695e	line	mission, and gifted with the
 0x697e	line	Shining Wings of the Mitos.
 0x69de	mon name	Zext
-0x69fe	line	Head of the Mythos, the race
-0x6a1e	line	of the gods. No longer guiding
+0x69fe	line	Head of the Mitos, the race of
+0x6a1e	line	the gods. No longer guiding
 0x6a3e	line	humans, he remakes the world.
 0x6a9e	mon name	Stell Alaqran
 0x6abe	line	The Idol of Planetarium, and
@@ -575,9 +575,9 @@
 0x6b9e	line	
 0x6bbe	line	
 0x6c1e	mon name	Labe Virgos
-0x6c3e	line	Astrolabe defense machine that
-0x6c5e	line	is the embodiment of armor.
-0x6c7e	line	Repels intruders with force.
+0x6c3e	line	Astrolabe defense mechanism,
+0x6c5e	line	embodied as a suit of armor.
+0x6c7e	line	Forcefully repels intruders.
 0x6cde	mon name	Noi Stelladia
 0x6cfe	line	Idol that rules the Astrolabe.
 0x6d1e	line	The true form of Noi, Warden
