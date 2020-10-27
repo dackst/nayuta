@@ -33,8 +33,8 @@ EV_7_S07_battle_seram
 0xffa	0x06	Seram		ANI_GRIP_SWORD_HANDLE	
 0x1062	0x06	Seram		ANI_BATTOU	
 0x122b	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
-0x12e1	0x98	ALTO	#1W#18S	Here I come...Cygna!!	
+0x12e1	0x98	ALTO	#1W#18S	Let's go... Cygna!!	
 0x145a	0x06	Seram		ANI_KEN_WO_KAMAERU	
-0x1537	0x98	Seram	#1W#18S	Come on...Nayuta!!	
+0x1537	0x98	Seram	#1W#18S	Come on... Nayuta!!	
 EV_7_S08_defeat_seram
 0x17be	0x06	ALTO		ANI_TENSION_WAIT	

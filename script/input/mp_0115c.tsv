@@ -1,7 +1,7 @@
 mp_0115c
 init
 lp_smallfish1
-0x132a	0x36	Choice		Blowfish	
+0x132a	0x36	Choice		Pufferfish	
 0x134a	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x1386	0x36	Choice		Koi Carp	
 0x13a6	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -11,12 +11,12 @@ lp_smallfish1
 0x145e	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x147a	0x36	Choice		Quit	mp_0002 0x433f
 0x1500	0x41	None		[Seahorse] Hippocampus	
-				Strange fish that swims standing up.	
+				Strange fish that swims upright.	
 				Because the male rears its children in its stomach,	
 				it is considered as a symbol for easy childbirth.	
-0x1655	0x41	None		[Blowfish] Tetraodontidae	
+0x1655	0x41	None		[Pufferfish] Tetraodontidae	
 				Small, round fish.	
-				Though it is known to be extremely delicious,	
+				Though known to be extremely delicious,	
 				some of its internal organs hold lethal poison.	
 0x1798	0x41	None		[Koi Carp] Cyprinus carpio	
 				Medium size fish that prefers gentle waters.	
@@ -94,7 +94,7 @@ lp_middlefish
 0x307e	0x41	None		[Giant Isopod] Bathynomus giganteus	
 				Large sea arthropod.	
 				Living in the deep sea, it consumes the corpses of animals.	
-				It is the "Sea Cleaner" that returns the living to dust.	
+				The "cleaner of the seas" that returns the living to dust.	
 0x32ba	0x41	None		[Moon Jellyfish] Aurelia	
 				Sea animal floating on the waves.	
 				Nearly colorless and transparent, it uses the tentacles	
@@ -204,14 +204,13 @@ lp_largefish
 				horizontally, it chases and eats small fish.	
 lp_nodata
 0x5ab6	0x41	None		【？？？？？？】	mp_0115a 0x5de8
-					
-				　　　　　　（ＮＯ　ＤＡＴＡ）　　　　　　	
+				　　　　　　（ＮＯ　ＤＡＴＡ）　　　　　　
 lp_nothing
-0x5b42	0x40	UNDEF		It seems there's nothing on display.	mp_0115a 0x5e74
+0x5b42	0x40	UNDEF		It looks like there's nothing on display.	mp_0115a 0x5e74
 subev_showroom_first
 0x5eef	0x06	ALTO		ANI_SURPRISE	
 0x5f19	0x06	NOI		ANI_SURPRISE	
-0x5f4a	0x98	ALTO		T-This is...!	mp_0115a 0x6232
+0x5f4a	0x98	ALTO		I-Is this...!?	mp_0115a 0x6232
 0x5f91	0x06	NOI		ANI_COMPLAIN	
 0x5fba	0x98	NOI		I don't believe this...	
 				Something like this exists	
@@ -225,12 +224,12 @@ subev_showroom_first
 0x621b	0x6B	ALTO		Unknown	
 0x624f	0x06	ALTO		ANI_JOY	
 0x6274	0x98	ALTO		This is the first time I've seen	mp_0115b 0x48c9
-				such a magnificent exhibit.	
-				Yeah, very interesting!	
+				such a magnificent exhibit.
+				Hmm, how fascinating!
 0x62f0	0x06	ALTO		ANI_JOY	
 0x6315	0x98	ALTO		I can't let something this	mp_0115a 0x6566
-				interesting pass by.	
-				...Anyway, I'll go look at them!	
+				interesting pass me by...
+				Let's go get a better look!
 talk_Vavo
 0x6417	0x98	Vavo		Hehe, this is a grand	
 				exhibit room, isn't it?	
@@ -250,19 +249,19 @@ talk_Vavo
 0x66d6	0x98	Vavo		To repay the favor I owe to Dr. Volans,	
 				I, too, must continue my research.	
 0x676d	0x98	Vavo		I can't lose to Coron.	
-0x67a2	0x98	Vavo		To repay the favor I owe to Dr. Volans too,	mp_0115c 0x66d6
-				I must continue my research efforts.	
+0x67a2	0x98	Vavo		To repay the favor I owe to Dr. Volans,	mp_0115c 0x66d6
+				I, too, must continue my research.
 0x6847	0x98	Vavo		It seems that the moon that drifted away
 				from the planet a year ago will be	
 				approaching us soon in orbit.	
-0x68bc	0x98	Vavo		I wonder if the meteorological abnormalities	
+0x68bc	0x98	Vavo		I wonder if the meteorological anomalies	
 				that occurred before will return...	
 				We've got to be thoroughly prepared.	
 0x696b	0x98	Vavo		The other moon has come	
 				closer to our planet again.	
-0x69bb	0x98	Vavo		I wonder if the abnormalities that happened	mp_0115c 0x68bc
-				then will again occur...	
-				We've got to be thoroughly prepared.	
+0x69bb	0x98	Vavo		I wonder if the meteorological anomalies	mp_0115c 0x68bc
+				that occurred before will return...
+				We've got to be thoroughly prepared.
 0x6a78	0x98	Vavo		Oh... It seems to be noisy	
 				outside for some reason.	
 0x6abc	0x98	Vavo		I wonder if some ruins fell	
@@ -276,12 +275,12 @@ talk_Vavo
 0x6c1d	0x98	Vavo		To repay my debt to hum,	
 				I want to show him the results	
 				of my research someday.	
-0x6caa	0x98	Vavo		When I was in the Empire,	mp_0115c 0x6b3e
-				I begged Dr. Volans to make	
-				me his research assistant.	
-0x6d18	0x98	Vavo		To repay that favor,	mp_0115c 0x6c1d
-				I want to someday show	
-				the results of my research.	
+0x6caa	0x98	Vavo		Back in the Empire, I begged	mp_0115c 0x6b3e
+				Dr. Volans to make me his
+				research assistant.
+0x6d18	0x98	Vavo		To repay my debt to hum,	mp_0115c 0x6c1d
+				I want to show him the results
+				of my research someday.
 0x6db3	0x98	Vavo		All the aquatic organisms in this room	
 				were found suspended inside ice crystals.	
 0x6e0e	0x98	Vavo		Using a special process, we are	
@@ -291,8 +290,8 @@ talk_Vavo
 				we would never be able to	
 				open this exhibition room...	
 0x6eca	0x98	Vavo		No, no, it seems like many mysteries	
-				lie in wait in this world	
-				outside of the star shards.	
+				lie in wait in this world outside of	
+				the star shards.	
 0x6f65	0x98	Vavo		It seems like many mysteries	
 				lie in wait in this world	
 				outside of the star shards.	

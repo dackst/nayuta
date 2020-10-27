@@ -16,68 +16,67 @@ open_door
 ev_water
 0x1200	0x06	switch1		ANI_LEVER_ON_LOCK	
 QS_42_Lithograph
-0x1308	0x40	UNDEF		Something is written in ancient letters.	mp_6000 0x240f
+0x1308	0x40	UNDEF		An ancient-looking script is written here.	mp_6000 0x240f
 0x137b	0x98	ALTO		This tablet...	mp_6000 0x2482
-				Some sentence is	
-				written on it.	
-0x13c7	0x98	NOI		Hmm, they do look like	mp_6000 0x24ce
-				ancient letters, but...	
+				There's something
+				written here.
+0x13c7	0x98	NOI		Hmm, it does look like some	mp_6000 0x24ce
+				kind of ancient text, but...
 0x1413	0x98	NOI		We don't have time to	mp_6000 0x251a
-				read them right now.	
-				Let's come check it later!	
-0x1475	0x98	ALTO		Oh...You're right.	mp_6000 0x257c
-0x14a7	0x98	ALTO		(For now, I should memorize	mp_6000 0x25ae
-				 this location.)	
-0x1528	0x40	UNDEF		Something is written in ancient letters.	mp_6000 0x240f
+				read it right now.
+				Let's come back later!
+0x1475	0x98	ALTO		Okay... I guess you're right.	mp_6000 0x257c
+0x14a7	0x98	ALTO		(I might want to take a note	mp_6000 0x25ae
+				 of this location, just in case.)
+0x1528	0x40	UNDEF		An ancient-looking script is written here.	mp_6000 0x240f
 QS_42_Lithograph_Ev
 0x1645	0x06	ALTO		ANI_WAIT	
 0x17a6	0x06	ALTO		ANI_GESTURE2	
-0x17d0	0x98	ALTO	#6A	It looks like something	mp_6000 0x294b
-				is written on this tablet.	
+0x17d0	0x98	ALTO	#6A	Looks like something	mp_6000 0x294b
+				is written on this tablet.
 0x1824	0x06	ALTO		ANI_THINK2	
-0x184c	0x98	ALTO	#6A	Maybe something important	mp_6000 0x29c7
-				is written here?	
+0x184c	0x98	ALTO	#6A	Do you think it might say	mp_6000 0x29c7
+				anything interesting...?
 0x1898	0x06	NOI		ANI_GESTURE1	
-0x18c1	0x98	NOI	#6A	They look like ancient	mp_6000 0x2a3c
-				letters. I'll read them.	
+0x18c1	0x98	NOI	#6A	It looks like they're written	mp_6000 0x2a3c
+				in ancient script. I'll read it.
 0x1911	0x98	NOI	#6A	Let's see...	mp_0002 0x10ffb
 0x193f	0x6B	NOI		Question	
 0x1970	0x06	NOI		ANI_THINK	
-0x1996	0x98	NOI	#6A	...It looks like only one	mp_6000 0x2b11
-				part of the message	
-				is written here.	
+0x1996	0x98	NOI	#6A	...It looks like only	mp_6000 0x2b11
+				part of the message
+				is written here.
 0x19f4	0x98	NOI	#6A	To read it properly,	mp_6000 0x2b6f
-				I think we need the other	
-				parts as well.	
-0x1a51	0x98	ALTO	#6A	Is that so...	mp_0001 0xcecd
+				I think we'll need the
+				other parts as well.
+0x1a51	0x98	ALTO	#6A	I see...	mp_0001 0xcecd
 0x1a81	0x06	ALTO		ANI_GESTURE2	
 0x1aab	0x98	ALTO	#6A	Then for now, I'll write down	mp_6000 0x2c26
-				the letters on this tablet.	
-0x1b06	0x98	ALTO	#6A	We'll search for the other tablets,	mp_6000 0x2c81
-				write them all down, and head	
-				to Dr. Volans to inspect them.	
+				what's on this tablet.
+0x1b06	0x98	ALTO	#6A	Let's search for the other tablets,	mp_6000 0x2c81
+				write them all down, and bring it
+				to Dr. Volans for inspection.
 0x1b87	0x06	NOI		ANI_NOD	
-0x1bab	0x98	NOI	#6A	Yeah, got it!	mp_0101 0x956b
-0x1c42	0x98	NOI	#6A	There it is, a tablet!	mp_6000 0x2dbd
+0x1bab	0x98	NOI	#6A	Yeah, sure!	mp_0101 0x956b
+0x1c42	0x98	NOI	#6A	Hey, another tablet!	mp_6000 0x2dbd
 0x1c7a	0x06	ALTO		ANI_GESTURE2	
-0x1ca4	0x98	ALTO	#6A	Alright, I'll record	mp_6000 0x2e1f
-				the written letters.	
-0x1cf1	0x40	UNDEF		Nayuta wrote down the tablet's letters.	mp_6000 0x2e6c
+0x1ca4	0x98	ALTO	#6A	All right, I'll write down	mp_6000 0x2e1f
+				a copy of what it says.
+0x1cf1	0x40	UNDEF		Nayuta wrote down the contents of the tablet.	mp_6000 0x2e6c
 0x1d41	0xC1	System		obtained.	mp_0000 0x7558
 0x1e44	0x6B	NOI		Exclamation	
 0x1e75	0x06	NOI		ANI_SURPRISE	
-0x1e9e	0x98	NOI	#6A	Ah...	mp_6000 0x3019
-				If we put together the memos we've taken up until	
-				now, it seems they make a single composition!	
+0x1e9e	0x98	NOI	#6A	Ah... If we combine all of what we've	mp_6000 0x3019
+				found so far, it seems like they
+				fit together into a single document!
 0x1f23	0x06	ALTO		ANI_GESTURE2	
-0x1f4d	0x98	ALTO	#6A	It looks like we've gathered	mp_6000 0x30c8
-				the information.	
-0x1f9c	0x98	ALTO	#6A	Let's take it to Dr. Volans	mp_6000 0x3117
-				immediately.	
+0x1f4d	0x98	ALTO	#6A	Looks like we've got all	mp_6000 0x30c8
+				the information we need.
+0x1f9c	0x98	ALTO	#6A	Let's take it straight	mp_6000 0x3117
+				to Dr. Volans.
 0x2034	0x06	NOI		ANI_THINK	
-0x205a	0x98	NOI	#6A	Hmm...	mp_6000 0x31d5
-				It still doesn't look like it makes	
-				a proper composition.	
+0x205a	0x98	NOI	#6A	Hmm... It still doesn't	mp_6000 0x31d5
+				look complete.
 0x20ba	0x06	ALTO		ANI_GESTURE2	
-0x20e4	0x98	ALTO	#6A	Then, let's search	mp_6000 0x325f
-				for the other tablets.	
+0x20e4	0x98	ALTO	#6A	Well, let's continue searching	mp_6000 0x325f
+				for the other tablets, then.

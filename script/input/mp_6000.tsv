@@ -38,7 +38,7 @@ boss_battle2
 0x192c	0x6B	ALTO		Exclamation	
 dead_EV02
 open_door9_10
-0x2058	0x07	System	#3C	Defeated high-rank monster [Expatrion]!	
+0x2058	0x07	System	#3C	Defeated high-rank monster [Expeltron]!	
 0x2117	0x06	NOI		ANI_TAMEATK1	
 0x217a	0x07	System	#1C	Noi recovered the spring magic, #4C『#780ITri-Blossom』#1C!	
 0x2208	0xC1	System		obtained.	mp_0000 0x7558
@@ -55,7 +55,7 @@ QS_42_Lithograph
 0x257c	0x98	ALTO		Okay... I guess you're right.	
 0x25ae	0x98	ALTO		(I might want to take a note	
 				 of this location, just in case.)	
-0x262f	0x40	UNDEF		Something is written in ancient letters.	mp_6000 0x240f
+0x262f	0x40	UNDEF		An ancient-looking script is written here.	mp_6000 0x240f
 QS_42_Lithograph_Ev
 0x27c0	0x06	ALTO		ANI_WAIT	
 0x2921	0x06	ALTO		ANI_GESTURE2	
@@ -76,7 +76,7 @@ QS_42_Lithograph_Ev
 0x2b6f	0x98	NOI	#6A	To read it properly,	
 				I think we'll need the	
 				other parts as well.	
-0x2bcc	0x98	ALTO	#6A	Is that so...	mp_0001 0xcecd
+0x2bcc	0x98	ALTO	#6A	I see...	mp_0001 0xcecd
 0x2bfc	0x06	ALTO		ANI_GESTURE2	
 0x2c26	0x98	ALTO	#6A	Then for now, I'll write down	
 				what's on this tablet.	
@@ -84,7 +84,7 @@ QS_42_Lithograph_Ev
 				write them all down, and bring it	
 				to Dr. Volans for inspection.	
 0x2d02	0x06	NOI		ANI_NOD	
-0x2d26	0x98	NOI	#6A	Yeah, got it!	mp_0101 0x956b
+0x2d26	0x98	NOI	#6A	Yeah, sure!	mp_0101 0x956b
 0x2dbd	0x98	NOI	#6A	Hey, another tablet!	
 0x2df5	0x06	ALTO		ANI_GESTURE2	
 0x2e1f	0x98	ALTO	#6A	All right, I'll write down	

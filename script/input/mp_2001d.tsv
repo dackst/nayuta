@@ -24,29 +24,29 @@ fall_icicle3
 0x1230	0x06	ob_210_03		ANI_PATA1	
 0x1264	0x06	swt03		ANI_LEVER_ON_LOCK	
 QS_81_check_altar
-0x13a6	0x40	UNDEF		Nayuta tried putting the unopened box here.	mp_1002b 0x2e09
+0x13a6	0x40	UNDEF		Nayuta placed the Locked Box.	mp_1002b 0x2e09
 0x13fa	0x40	UNDEF		...Seems like there's no reaction.	
 0x1457	0x98	ALTO		H-Huh...?	mp_1002b 0x274a
-				I thought it would be	
-				in a place like this, but...	
-0x14b1	0x98	NOI		I see...It looks like this cage	mp_1002b 0x27a4
-				was made using the "power area"	
-				of the Power of Stars.	
-0x1524	0x98	NOI		But somehow, the method	mp_1002b 0x2817
-				used was insufficient.	
-0x1570	0x98	ALTO		If I remember correctly, "If you would release me,	mp_1002b 0x2863
-				you must change the season to how it should be.	
-				Then, this box will open"...wasn't it.	
-0x1617	0x98	ALTO		(Somehow, I need to think of this as having	mp_1002b 0x290a
-				 something to do with the seasons, maybe.)	
-0x16b4	0x98	ALTO		("If you would release me,	mp_1002b 0x29a7
-				 you must change the season to how it should be.	
-				 Then, this box will open"...)	
-0x173c	0x98	ALTO		(Somehow, I need to think of this as having	mp_1002b 0x290a
-				 something to do with the seasons, maybe.)	
+				I thought this was
+				the place, but...
+0x14b1	0x98	NOI		I see... Looks like the lock	mp_1002b 0x27a4
+				was made using areas filled
+				with the Power of Stars.
+0x1524	0x98	NOI		But I think we're not	mp_1002b 0x2817
+				doing something right.
+0x1570	0x98	ALTO		If I remember correctly, didn't it say,	mp_1002b 0x2863
+				"offer up this box in order of the seasons,
+				with them changed as they should be"...?
+0x1617	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
+				 kind of seasonal order?)
+0x16b4	0x98	ALTO		("If you wish to release the locks,	mp_1002b 0x29a7
+				 offer up this box in order of the seasons,
+				 with them changed as they should be"...)
+0x173c	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
+				 kind of seasonal order?)
 QS_81_hang_out_box
 0x1990	0x06	ALTO		ANI_HANDOVER1	
-0x1a36	0x40	UNDEF		Nayuta tried putting the unopened box here.	mp_1002b 0x2e09
+0x1a36	0x40	UNDEF		Nayuta placed the Locked Box.	mp_1002b 0x2e09
 0x1a82	0x6B	ALTO		Ellipsis	
 0x1ab4	0x6B	NOI		Ellipsis	
 0x1b11	0x6B	ALTO		Exclamation	
@@ -57,17 +57,18 @@ QS_81_hang_out_box
 0x1c8f	0x98	ALTO		I'm tempted to open it up and 
 				look inside right away, but...	
 0x1d1a	0x98	NOI	#6A	First, we should bring	
-				it to your Master.	
+				it to your master.	
 0x1d5f	0x06	ALTO		ANI_NOD	
 0x1d84	0x98	ALTO		Yeah, let's bring it over right away.	
 QS54_talk_SpiritB
 0x204c	0x6B	QS54_SpiritB		Unknown	
-0x216b	0x98	NOI	#6A	Ah, there it is!	mp_1002b 0x1810
-0x219d	0x98	ALTO	#6A	You're one of Nemeas'	mp_1002b 0x1842
-				spirits, aren't you?	
-0x21f3	0x98	ALTO	#6A	Ah, in a place like this...	mp_1002b 0x18a3
-0x2231	0x98	ALTO	#6A	It's one of Nemeas' spirits all right.	mp_1002b 0x18e4
-				...Are you all right?	
+0x216b	0x98	NOI	#6A	Ah, found you!	mp_1002b 0x1810
+0x219d	0x98	ALTO	#6A	Isn't this one of	mp_1002b 0x1842
+				the nymphs from
+				Nemeas' temple?
+0x21f3	0x98	ALTO	#6A	Ah, but what could you be doing here...?	mp_1002b 0x18a3
+0x2231	0x98	ALTO	#6A	...Aren't you one of Nemeas'	mp_1002b 0x18e4
+				nymphs? Are you okay?
 0x22a5	0x6B	QS54_SpiritB		Exclamation	
 0x22ff	0x06	QS54_SpiritB		ANI_TALK	
 0x232d	0x98	QS54_SpiritB		...～～～～～～...	mp_1002b 0x1a07
@@ -80,7 +81,7 @@ QS54_talk_SpiritB
 				 I can't find the way out..."	
 				 That's what it's saying.	
 0x24c0	0x06	NOI		ANI_DEJECTED	
-0x24e9	0x98	NOI	#6A	nymphs don't normally leave their own	
+0x24e9	0x98	NOI	#6A	Nymphs don't normally leave their own	
 				continent, so this one seems to have	
 				gotten lost in the unfamiliar terrain..	
 0x258a	0x06	ALTO		ANI_NOD	
@@ -91,27 +92,27 @@ QS54_talk_SpiritB
 0x2638	0x98	NOI	#6A	Anyway, let me show you the way back,	
 				so you can return home right away.	
 0x26a2	0x98	NOI	#6A	Nemeas is waiting for	
-				you at La Worg Temple.	
+				you at La Worg temple.	
 0x26ef	0x6B	QS54_SpiritB		Surprise	
-0x2729	0x40	UNDEF		Noi explained to the spirit how to	mp_1002b 0x1f6e
-				get back to the Origin Continent.	
+0x2729	0x40	UNDEF		Noi explained to the nymph how to	mp_1002b 0x1f6e
+				get back to the Origin Continent.
 0x278f	0x6B	QS54_SpiritB		Unknown	
 0x27c9	0x06	QS54_SpiritB		ANI_NOD	
 0x29bb	0x98	ALTO		Looks like we rescued that one safely.	mp_1002b 0x221c
 0x2a3f	0x06	NOI		ANI_NOD	
-0x2aa7	0x98	NOI	#6A	Yeah, with this, we've saved all	mp_1002b 0x2303
-				the lost spirits.	
-0x2afa	0x98	NOI	#6A	Nayuta, let's go report this	mp_1002b 0x2356
-				to Nemeas!	
+0x2aa7	0x98	NOI	#6A	Yeah, now that's all	mp_1002b 0x2303
+				of the missing nymphs.
+0x2afa	0x98	NOI	#6A	Nayuta, let's go	mp_1002b 0x2356
+				tell Nemeas!
 0x2b42	0x06	ALTO		ANI_NOD	
 0x2b67	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x2bd2	0x98	NOI	#6A	Yeah...but there should	mp_1002b 0x242e
-				be three lost spirits.	
-0x2c21	0x98	NOI	#6A	Nayuta, let's try searching	mp_1002b 0x24a6
-				for them.	
+				be three missing nymphs.
+0x2c21	0x98	NOI	#6A	Nayuta, let's try	mp_1002b 0x24a6
+				looking for them.
 0x2c67	0x06	ALTO		ANI_NOD	
-0x2c8c	0x98	ALTO		Right, let's try going to the	mp_1002b 0x2511
-				other continents, too.	
+0x2c8c	0x98	ALTO		Right, let's try going to	mp_1002b 0x2511
+				the other continents, too.
 SB_3_S11_escape_ALTO
 SB_3_S11_move_ALTO
 SB_3_S11_move_NOI
@@ -137,7 +138,7 @@ EV_3_S11_help_eris
 0x3e77	0x06	ALTO		ANI_2_ATK0	
 0x4092	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_2	
 0x415e	0x06	ALTO		ANI_2_ATK1	
-0x4364	0x41	None	#0W#2E#029c	Ah...the barrier is getting weaker!#0E	
+0x4364	0x41	None	#0W#2E#029c	Ah... The barrier is getting weaker!#0E	
 0x4448	0x41	None	#0W#2E#029c	All right, that's good enough...	
 				Stand back a little!#0E	
 0x460a	0x06	Erislet		ANI_USE_POWER	
@@ -183,10 +184,10 @@ EV_3_S11_help_eris
 				kind of time. Would you mind	
 				telling me what's been going on?	
 0x5a0b	0x06	ALTO		ANI_NOD	
-0x5a3e	0x98	ALTO	#1W#6A	Yes, got it.	mp_0000 0x1b27a
+0x5a3e	0x98	ALTO	#1W#6A	Yeah, okay.	mp_0000 0x1b27a
 0x5dfd	0x06	ALTO		ANI_GESTURE2	
 0x5e27	0x98	ALTO	#6A	And then, you were...	
-0x5f14	0x98	Erislet		Uh-huh...so you haven't seen that	
+0x5f14	0x98	Erislet		Uh-huh... So you haven't seen that	
 				boy, Cygna, at all since then.	
 0x5fed	0x06	Erislet		ANI_DENY	
 0x6016	0x98	Erislet		And I'm sorry, but I have no idea	
@@ -198,7 +199,7 @@ EV_3_S11_help_eris
 0x6264	0x98	Erislet		But still... I'm shocked to	
 				hear about all of this.
 0x630e	0x98	Erislet		For the head of the Mitos	
-				to attack my Temple...	
+				to attack my temple...	
 0x638c	0x06	NOI		ANI_DENY	
 0x63b1	0x98	NOI	#6A	Even now, I still don't	
 				want to believe it, but...	
@@ -241,11 +242,11 @@ EV_3_S11_help_eris
 0x6e1e	0x06	NOI		ANI_GESTURE2	
 0x6ea5	0x98	NOI	#6A#16S	Eris...!	
 0x6f61	0x98	Erislet		...Sorry, that's right.	
-				Please don't worry about it.	
+				Please, don't worry about it.	
 0x6fbf	0x06	ALTO		ANI_WAIT4	
 0x6fe6	0x98	ALTO	#6A	(Hmm, now I'm curious, but...	
-				 It seems they don't want	
-				 to tell me about it.)	
+				 It seems they don't want to	
+				 tell me about it.)	
 0x707b	0x98	NOI	#6A	...Sorry, Nayuta. I've been keeping	
 				so many secrets from you...	
 0x70f4	0x06	ALTO		ANI_WAIT	
@@ -284,15 +285,15 @@ EV_3_S11_help_eris
 				(hold markers) and move about them freely.	
 0x7ecf	0x06	Erislet		ANI_WAIT	
 0x7f4a	0x98	Erislet		If you're going to continue to the	
-				Sacred Mountain Continent, I'm sure	
+				Holy Mountain Continent, I'm sure	
 				you'll need it. Please, use it well.	
 0x7fd9	0x06	NOI		ANI_NOD	
 0x7ffd	0x98	NOI	#6A	Thank you, Eris!	
 0x8037	0x06	ALTO		ANI_JOY	
 0x805c	0x98	ALTO	#6A	We will do our best for you!	
 0x80a3	0x06	Erislet		ANI_GESTURE2	
-0x80f1	0x98	Erislet		Well, I'll be at the	
-				Temple of this continent.	
+0x80f1	0x98	Erislet		Well, I'll be at the temple	
+				of this continent.	
 0x8202	0x98	Erislet		Good luck finding the Yupina	
 				Grass and the Cygna boy.	
 				...Farewell.	

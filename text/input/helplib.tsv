@@ -21,10 +21,10 @@
 0x328	Gear Crafts ③
 0x350	Gear Crafts ④
 0x378	Craft Gauge
-0x3a0	Swdtech:Spinning Cut
-0x3c8	Swdtech:Down Thrust
-0x3f0	Swdtech:Kamaitachi
-0x418	Swdtech:Swallow Retn
+0x3a0	Sword: Spinning Cut
+0x3c8	Sword: Down Thrust
+0x3f0	Sword: Kamaitachi
+0x418	Sword: Swallow Rtrn
 0x440	Mastery/1H Swords
 0x468	Mastery/2H Swords
 0x490	Mastery/Guarding

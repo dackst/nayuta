@@ -6,7 +6,7 @@ lp_portal
 0x2a6	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
 0x446	0x06	st		ANI_PATA1	
 LP_Monsyo
-0x591	0x40	UNDEF		A mysterious crest is carved into the monument.	mp_0101 0x328b
+0x591	0x40	UNDEF		A strange crest is engraved on the stone monument.	mp_0101 0x328b
 SB_6_S16_appear_ALTO
 0x701	0x6B	ALTO		Exclamation	
 0x72b	0x06	ALTO		ANI_SURPRISE_WEAK	
@@ -17,7 +17,7 @@ SB_6_S16_move_ALTO
 SB_6_S16_move_NOI
 EV_6_S16_change_garden
 0xc3f	0x06	ALTO		ANI_LOOK_AROUND	
-0xc74	0x98	ALTO		Wh-What is this!?	mp_0101 0x21853
+0xc74	0x98	ALTO		Wh-What's this...!?	mp_0101 0x21853
 0x107a	0x98	ALTO		...The surroundings have	
 				completely changed.	
 0x114c	0x98	ALTO	#240x#500y	And up above us, in the distance...	
@@ -47,17 +47,17 @@ EV_6_S18_search_key
 				from the surface of ancient times	
 				were preserved, but...	
 0x1eb1	0x40	NOI		This is the lower stratum─	
-				Star City Lexendria.	
+				Star Capital Lexendria.	
 0x1f04	0x40	NOI		A residential district the	
 				Mitos created for the humans.	
-0x1f55	0x40	ALTO		Star City...Lexendria...	
+0x1f55	0x40	ALTO		Star Capital... Lexendria...	
 0x1f98	0x40	NOI		It's supposedly named after	
 				an ancient continent.	
 0x1fe8	0x40	NOI		There are four "Pillars" here	
 				that supply each continent	
 				with the Power of Stars.	
 0x20dd	0x06	ALTO		ANI_NOD	
-0x2102	0x98	ALTO		I see, so that's how it is...	
+0x2102	0x98	ALTO		I see, so that's how it works...	
 0x2152	0x06	ALTO		ANI_COMPLAIN	
 0x217c	0x98	ALTO		...Wait, there are humans here!?	
 0x21e0	0x06	NOI		ANI_DENY	
@@ -76,8 +76,8 @@ EV_6_S18_search_key
 				to Terra are stored in the	
 				lower most stratum.	
 0x25d9	0x06	NOI		ANI_GESTURE2	
-0x2602	0x98	NOI	#6A	A great body of crystallized Power	
-				of Stars to be used for the remaking...	
+0x2602	0x98	NOI	#6A	A great body of crystallized Power of	
+				Stars to be used for the Recreation...	
 0x2676	0x06	NOI		ANI_COMPLAIN	
 0x269f	0x98	NOI	#6A	It seems like Zext is	
 				trying to start it!	
@@ -94,7 +94,7 @@ EV_6_S18_search_key
 				Mitos to use it, we'd need four	
 				Stellagears, though...	
 0x28d7	0x06	ALTO		ANI_GESTURE1	
-0x2901	0x98	ALTO		Stellagears...!?	
+0x2901	0x98	ALTO		"Stellagears"...?	
 0x2938	0x06	NOI		ANI_GESTURE1	
 0x2961	0x98	NOI	#6A	They're the counterparts	
 				to the Master Gears in	
@@ -120,7 +120,7 @@ EV_6_S18_search_key
 				from the front of the Garden.	
 0x308b	0xCE	Objective		Stellagears are in the Pillars of Lexendria. Let's get them!	
 0x3117	0x07	System	#4C	The sub-menu movement command	
-				"Star City Lexendria"	
+				"Star Capital Lexendria"	
 				has been added.	
 SB_6_S32_appear_ALTO
 SB_6_S32_appear_NOI
@@ -135,5 +135,5 @@ EV_6_S32_notice_noi
 0x3937	0x98	NOI	#6A	Let's go, Nayuta. We'll put the	
 				Stellagears in the Astrolabe.	
 0x399e	0x06	ALTO		ANI_JOY	
-0x39c3	0x98	ALTO		Yeah, let's do that.	mp_0004 0x18592
+0x39c3	0x98	ALTO		Yeah, let's go.	mp_0004 0x18592
 0x3b50	0xCE	Objective		Gathered the four Stellagears. Let's head for the Astrolabe!	

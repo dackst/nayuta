@@ -7,14 +7,14 @@ lp_portal
 				we should be able to go to Heliograd!	
 0x6ee	0x98	ALTO		We've got to hurry...	
 				Anyway, let's do this!	
-0x7ad	0xC9	YesNoBox		Use the transporter device?	mp_0101 0x2651
+0x7ad	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
 0x94f	0x06	st		ANI_PATA1	
 EV_entry3
 LP_Monsyo
-0xcb8	0x40	UNDEF		A strange crest is carved on the stone monument.	mp_0101 0x328b
+0xcb8	0x40	UNDEF		A strange crest is engraved on the stone monument.	mp_0101 0x328b
 talk_Cetus
 0xd7d	0x98	Cetus		I think something is about	
-				to happen to this world....	
+				to happen to this world...	
 0xdce	0x98	Cetus		Regardless, we'll wait here	
 				until you guys return.	
 0xe18	0x98	Cetus		We can't be of much help, but at least we'll	
@@ -25,16 +25,16 @@ talk_Cetus
 0xf6a	0x98	Cetus		We'll return together on the way back to	
 				the island. Make sure to come back safely.	
 talk_Reticul
-0x1043	0x98	Reticul		I know you guys got a lot going on....	
+0x1043	0x98	Reticul		I know you guys got a lot going on...	
 				But we'll be waiting here for you.	
 0x10b7	0x98	Reticul		Come on, get outta here	
 				and go save your friends.	
 0x10fd	0x98	Reticul		When we go back to the island, we'll	
 				pass through that gate together!		
-0x1177	0x98	Reticul		Now, get going and	mp_0101b 0x10b7
-				save your friend.	
-0x11bd	0x98	Reticul		Pass through that gate	mp_0101b 0x10fd
-				to return to the village!	
+0x1177	0x98	Reticul		Come on, get outta here	mp_0101b 0x10b7
+				and go save your friends.
+0x11bd	0x98	Reticul		When we go back to the island, we'll	mp_0101b 0x10fd
+				pass through that gate together!
 SUB_meet_adventurer
 0x12cb	0x06	Cetus		ANI_WAIT0	
 0x1387	0x06	ALTO		ANI_SURPRISE_WEAK	
@@ -62,22 +62,22 @@ SUB_meet_adventurer
 				of control now!
 0x1773	0x6B	Cetus		Sweatdrop	
 0x179e	0x6B	Reticul		Sweatdrop	
-0x17d3	0x98	Reticul		W-We planned to return	mp_0101b 0x1514
-				soon, but...	
+0x17d3	0x98	Reticul		W-We were planning to	mp_0101b 0x1514
+				leave soon too...
 0x1818	0x06	Reticul		ANI_DIRECT	
 0x1843	0x98	Reticul		Anyway, a lot happened, and	
 				the next thing I knew, the	
 				sky started to go crazy!
 0x18b6	0x06	ALTO		ANI_THINK2	
-0x18de	0x98	ALTO	#6A	You got involved...	mp_0101b 0x1612
-				But, I'm glad you're safe.	
+0x18de	0x98	ALTO	#6A	You got wrapped up in this whole mess...	mp_0101b 0x1612
+				But I'm glad you're safe.
 0x192e	0x06	Cetus		ANI_WAIT3	
 0x1956	0x98	Cetus		We were wandering around a while ago,	
 				and this fairy-looking thing appeared	
 				and led us here.	
 0x19c3	0x98	Cetus		I don't know what, but I think	
 				something is about to happen	
-				to this world....	
+				to this world...	
 0x1a3b	0x98	Cetus		It must have something to do with	
 				why you two are adventuring out	
 				in this world...	
@@ -103,7 +103,7 @@ SUB_meet_adventurer
 				planned to do, but...	
 				We changed our mind.	
 0x1e41	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x1e70	0x98	ALTO		Huh?	mp_0004 0x392d
+0x1e70	0x98	ALTO		Huh...?	mp_0004 0x392d
 0x1e94	0x06	NOI		ANI_THINK	
 0x1eba	0x98	NOI	#6A	Wh-Why?	mp_0101 0x8930
 0x1ee2	0x06	NOI		ANI_WAIT	
@@ -129,8 +129,8 @@ SUB_meet_adventurer
 				really dangerous here, we'll	
 				pull out immediately.	
 0x2266	0x06	Reticul		ANI_WAIT3	
-0x2290	0x98	Reticul		Now, get going and	mp_0101b 0x10b7
-				save your friend.	
+0x2290	0x98	Reticul		Come on, get outta here	mp_0101b 0x10b7
+				and go save your friends.
 0x22d6	0x98	Reticul		Then, when we go back to the island,	
 				we'll pass through that gate together!	
 0x234c	0x06	ALTO		ANI_NOD	
@@ -163,8 +163,8 @@ EV_5_S02_talk_noi
 0x336c	0x98	NOI		Is Cygna with you!?	
 0x33c4	0x98	ALTO	#6A#0W	...Noi, I'm sorry.	
 				Creha is...	
-0x3410	0x40	UNDEF		Nayuta explained that Cygna left again, and that	
-				Creha joined Selam.	
+0x3410	0x40	UNDEF		Nayuta explained that Cygna left again,	
+				and that Creha joined Selam.	
 0x3483	0x06	NOI		ANI_GESTURE1	
 0x34ac	0x98	NOI	#0W	N-No way...	
 				Why...!?	
@@ -174,14 +174,14 @@ EV_5_S02_talk_noi
 				She said she remembered her	
 				"mission" or something.	
 0x35f9	0x06	NOI		ANI_SURPRISE	
-0x3636	0x98	NOI	#16S	!!!!	
-0x3682	0x98	NOI	#1W#12S	Is that so...	mp_0001 0xcecd
+0x3636	0x98	NOI	#16S	！！！！	
+0x3682	0x98	NOI	#1W#12S	I see...	mp_0001 0xcecd
 0x36bd	0x98	NOI	#0W#12S	...I knew it...	
 0x36fd	0x6B	NOI		Ellipsis	
 0x374b	0x98	NOI		...Just after we separated,	
 				something changed on Terra.	
 0x37a5	0x06	NOI		ANI_GESTURE1	
-0x37ce	0x98	NOI		Because the four Temples have shut down,	
+0x37ce	0x98	NOI		Because the four temples have shut down,	
 				all the Power of Stars from each of the	
 				continents is flowing into the Garden.	
 0x3862	0x06	NOI		ANI_DENY	
@@ -190,13 +190,13 @@ EV_5_S02_talk_noi
 0x38d7	0x6B	ALTO		Surprise	
 0x3909	0x06	ALTO		ANI_THINK2	
 0x3931	0x98	ALTO	#6A	Th-That's what	
-				that Selam said...	
+				Selam said...	
 0x39f3	0x3F	Name		Selam	
-0x3a00	0x40	ALTO		Once we shut down this Temple, the	mp_4100 0x18b4
-				Power of Stars from every continent	
-				will flow into a single focal point...	
-0x3a8d	0x40	ALTO		Concluding the first step	mp_4100 0x193d
-				in releasing the seal on Terra.		
+0x3a00	0x40	ALTO		Once we shut down this temple, the	mp_4100 0x18b4
+				Power of Stars from every continent
+				will flow into a single focal point...
+0x3a8d	0x40	ALTO		Concluding the first step in	mp_4100 0x193d
+				releasing the seal on Terra.
 0x3b97	0x98	ALTO	#6A#0W	(.............)	
 0x3bd1	0x98	ALTO	#6A#0W	(...Selam...)	
 0x3cb8	0x06	ALTO		ANI_GESTURE2	
@@ -226,7 +226,7 @@ EV_5_S02_talk_noi
 				even if I wanted to.	
 0x418a	0x06	ALTO		ANI_GESTURE2	
 0x41b4	0x98	ALTO	#6A	...? What do you mean?	
-0x4211	0x98	NOI		I am, originally, a Warden,	
+0x4211	0x98	NOI		I am, originally, a warden,	
 				who follows the orders of	
 				Lady Creha and the others...	
 0x4283	0x06	NOI		ANI_GESTURE1	
@@ -237,7 +237,7 @@ EV_5_S02_talk_noi
 0x4357	0x98	ALTO	#6A	You were designed...?	
 0x4396	0x98	ALTO	#6A	Oh, right, now that you mention it,	
 				you said that Creha and the others	
-				created the Wardens...	
+				created the wardens...	
 0x441a	0x06	NOI		ANI_DENY	
 0x443f	0x98	NOI		...I just don't know	
 				what to do anymore.	
@@ -253,7 +253,7 @@ EV_5_S02_talk_noi
 0x479b	0x98	NOI	#500x#500y	We should be able to get to	
 				the outer wall of Heliograd	
 				by following that tree root.	
-0x4810	0x98	NOI	#500x#500y	Anyway, let's try going!	
+0x4810	0x98	NOI	#500x#500y	Anyway, let's try it!	
 0x4859	0x98	ALTO	#0x#500y	Got it!	
 0x48c4	0x07	System	#3C	Heliograd can now be accessed.	
 0x49b7	0xCE	Objective		Gotta go to Heliograd! Let's follow the tree root!	

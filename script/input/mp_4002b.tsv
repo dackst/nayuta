@@ -25,30 +25,30 @@ dead_ev03
 0x10cb	0x06	ALTO		ANI_TAMEATK1	
 0x10fd	0xC1	System		obtained.	mp_0000 0x7558
 0x12ff	0x06	ALTO		ANI_NOD	
-0x1324	0x98	ALTO		Phew...We defeated it somehow.	mp_1000d 0x15cc
+0x1324	0x98	ALTO		Phew... We somehow managed to defeat it.	mp_1000d 0x15cc
 0x1362	0x06	ALTO		ANI_GESTURE2	
-0x138c	0x98	ALTO		Does it seem like that monster	mp_1000d 0x1634
-				appeared due to the abnormalities?	
+0x138c	0x98	ALTO		Did it seem like that monster	mp_1000d 0x1634
+				appeared due to the abnormalities?
 0x13ec	0x06	NOI		ANI_NOD	
-0x1428	0x98	NOI	#6A	Yes, that power...	mp_1000d 0x16d0
-				There's no mistake.	
+0x1428	0x98	NOI	#6A	Yes, that power... There's	mp_1000d 0x16d0
+				no doubt about it.
 0x146f	0x06	NOI		ANI_LAUGH	
-0x1495	0x98	NOI	#6A	But with this, this region	mp_1000d 0x173d
-				should be a little more peaceful.	
+0x1495	0x98	NOI	#6A	But this should make the area	mp_1000d 0x173d
+				a little more peaceful.
 0x14f2	0x98	NOI	#6A	Nayuta, let's report to the	mp_1000d 0x179a
-				spirit that made the request!	
-0x1556	0x98	NOI	#6A	Yeah, there's no mistake.	mp_1000d 0x17fe
+				nymph that made the request!
+0x1556	0x98	NOI	#6A	Yeah, of course.	mp_1000d 0x17fe
 0x1591	0x06	NOI		ANI_LAUGH	
-0x15b7	0x98	NOI	#6A	With this, this region	mp_1000d 0x185f
-				should be a little more peaceful.	
+0x15b7	0x98	NOI	#6A	With this, this area should	mp_1000d 0x185f
+				be a little more peaceful.
 0x1610	0x98	NOI	#6A	Nayuta, let's report to the	mp_1000d 0x179a
-				spirit that made the request!	
+				nymph that made the request!
 0x166c	0x06	ALTO		ANI_GUTSPOSE	
 0x1696	0x98	ALTO		Yeah!	mp_0001 0x1174e
 encount_secret
 0x1897	0x6B	ALTO		Exclamation	
 0x18e1	0x6B	NOI		Exclamation	
 0x19ed	0x98	NOI		That monster...!	mp_1000d 0x1c91
-0x1a24	0x98	ALTO		It's the monster that spirit asked	mp_1000d 0x1cc8
-				us to defeat...	
-				Let's fight it carefully!	
+0x1a24	0x98	ALTO		It's the monster the nymph	mp_1000d 0x1cc8
+				asked us to defeat...
+				Be careful!

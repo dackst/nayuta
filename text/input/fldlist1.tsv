@@ -16,7 +16,7 @@
 0x872	name	Hermit's Path
 0x9a8	mission	Destroy at least \n25 objects
 0x9da	name	Shaded Animal Trail
-0xb10	mission	Achieve at least \nCHAIN 30
+0xb10	mission	Build a CHAIN \n of at least 30
 0xb42	name	Lakeside Tree Path
 0xc78	mission	Take damage \nat most 10 times
 0xcaa	name	Hermit's Path
@@ -128,7 +128,7 @@
 0x52fa	name	Pulsating Fault
 0x5430	mission	Defeat 15 foes \nwith your sword
 0x5462	name	Infernal Crater
-0x5598	mission	Uncover secret of \nall gimmicks!
+0x5598	mission	Solve \nall puzzles!
 0x55ca	name	La Worg Temple
 0x561e	desc	mp_4011
 0x5700	mission	Defeat at least \n35 monsters

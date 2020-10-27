@@ -67,7 +67,7 @@ AL_shop
 				Oltapia has been unlocked.	
 0x2e75	0x07	System	#4C	The spring of Abyss Continent	
 				Rieseweld has been unlocked.	
-0x300b	0x07	System	#4C	The summer of Sacred Mountain 	
+0x300b	0x07	System	#4C	The summer of Holy Mountain 	
 				Continent Heimmel has been unlocked.	
 0x31a9	0x07	System	#4C	The winter of Origin Continent	
 				La Worg has been unlocked.	
@@ -90,14 +90,14 @@ QS_35_use_astrolabe
 				Reticul's sister.	
 0x3d59	0x98	ALTO		I'd like to give it to her, if possible.	
 0x3da1	0x06	NOI		ANI_NOD	
-0x3dc5	0x98	NOI	#6A	Is that so...	mp_0001 0xcecd
+0x3dc5	0x98	NOI	#6A	I see...	mp_0001 0xcecd
 0x3df4	0x98	NOI	#6A	Ooh, though I don't want to	
 				have to deal with those two...	
 0x3e49	0x98	NOI	#6A	Um, just that should be fine.	
 0x3e93	0x06	NOI		ANI_GESTURE2	
 0x3ebc	0x98	NOI	#6A	However, the system is still incomplete,	
-				so I probably won't be able to	
-				identify a specific place.	
+				so I probably won't be able to identify	
+				a specific place.	
 0x3f4b	0x06	ALTO		ANI_GESTURE2	
 0x3f75	0x98	ALTO		It'd be good if you could at least give	
 				a general idea of their location, like	
@@ -142,13 +142,13 @@ QS_58_use_astrolabe
 0x54ea	0x06	NOI		ANI_OPERATION	
 0x5926	0x98	NOI	#6A	...Ah, there's a reaction!	
 0x5962	0x98	NOI	#6A	Looks like a strange animal	
-				snuck into La Worg!	
+				has snuck into La Worg!	
 0x59d1	0x98	ALTO	#6A	H-He really came to Terra!?	
 0x5a0f	0xBC	ALTO		Sweatdrop	
 0x5a4d	0x98	ALTO	#6A	(Hmm, in other words...	
-				 Mishy is unknown even to Terra.) 
+				 Mishy is strange even in Terra.) 
 0x5ab3	0xBC	ALTO		Sweatdrop	
-0x5af1	0x98	ALTO	#6A	(Hmm, Mishy is unknown even to Terra.)		
+0x5af1	0x98	ALTO	#6A	(Hmm, Mishy is strange even in Terra.)		
 0x5e5f	0x06	NOI		ANI_WAIT	
 0x5e86	0x06	ALTO		ANI_THINK2	
 0x5eae	0x98	ALTO	#6A	Now... How should we find Mishy...?	
@@ -219,7 +219,7 @@ EV_2_S13_use_astrolabe
 				taken care of the abnormal	
 				conditions in Oltapia.	
 0x8dea	0x98	NOI	#6A	The Power of Stars at the	
-				Temple is still cut off,	
+				temple is still cut off,	
 				and I can't seem to fix it...	
 0x8e6d	0x98	NOI	#6A	But there's no other side effects,	
 				so I think it should be fine for now.	
@@ -260,8 +260,8 @@ EV_2_S13_use_astrolabe
 				of Stars in the world.	
 0x9acc	0x06	ALTO		ANI_GESTURE2	
 0x9b1c	0x98	ALTO		This Power of Stars,	
-				does it come from	
-				Oltapia Temple?	
+				does it come from the	
+				Oltapia temple?	
 0x9b79	0x06	NOI		ANI_GESTURE1	
 0x9ba2	0x98	NOI	#6A	Umm... The Power of Stars	
 				is the source of all life.	
@@ -291,7 +291,7 @@ EV_2_S13_use_astrolabe
 0xa085	0xBC	NOI		Sweatdrop	
 0xa0c2	0x98	NOI	#6A	Nayuta... You sure are a weirdo.	
 0xa108	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xa155	0x98	ALTO		Huh?	mp_0004 0x392d
+0xa155	0x98	ALTO		Huh...?	mp_0004 0x392d
 0xa181	0x06	NOI		ANI_DENY	
 0xa1a6	0x98	NOI	#6A	N-Nevermind.	
 0xa1da	0x98	NOI		Anyway, if we can take back the	
@@ -333,12 +333,12 @@ EV_2_S29_find_creha
 0xb23a	0x98	Creha	#0W	...Who are you?	
 0xb3e2	0xBC	ALTO		Unknown	
 0xb418	0x06	ALTO		ANI_COMPLAIN	
-0xb46e	0x98	ALTO	#3W#6A	Uh... I'm Nayuta.	
+0xb46e	0x98	ALTO	#3W#6A	Uh, um... I'm Nayuta.	
 				Nayuta Herschel.	
 0xb4b7	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xb4f3	0x98	ALTO	#1W#6A	It's a long story.	
 				I came to this world...	
-				And, umm...	
+				And, uh...	
 0xb565	0x98	ALTO	#1W#6A	(What is wrong with me? There's so	
 				 many things I want to ask her, but	
 				 the words just won't come out...)	
@@ -413,12 +413,12 @@ EV_3_S05_set_gear_2nd
 0xd565	0x06	NOI		ANI_OPERATION	
 EV_3_S07_use_astrolabe
 0xdd72	0x06	NOI		ANI_OPERATION	
-0xe15b	0x98	NOI	#6A	Yeah...! Now Rieseweld	
-				can be returned to normal!	
+0xe15b	0x98	NOI	#6A	Yeah...! Now Rieseweld can	
+				be returned to normal!	
 0xe1e6	0x06	ALTO		ANI_GESTURE1	
 0xe210	0x98	ALTO		Noi, this is kind of sudden, but...	
-				Can you search for a herb called	
-				Yupina Grass for me?	
+				Can you search for the Yupina Grass	
+				for me now?	
 0xe286	0x98	ALTO		The encyclopedia said it has "pale blue petals"	
 				and is "found in the northern highlands"...	
 0xe34f	0x98	NOI	#6A	Got it, I'll run a search with those criteria.	
@@ -426,7 +426,7 @@ EV_3_S07_use_astrolabe
 				him and Zext, too.	
 0xe40b	0xBC	Creha		Question	
 0xe460	0x06	Creha		ANI_WAIT4	
-0xe488	0x98	Creha		Cygna...and Zext?	
+0xe488	0x98	Creha		Cygna... and Zext?	
 0xe4f6	0x06	ALTO		ANI_WAIT4	
 0xe51d	0x98	ALTO		Uh, Cygna is my friend who's	
 				been missing for a while now...	
@@ -442,13 +442,13 @@ EV_3_S07_use_astrolabe
 				the world of Lady Creha,	
 				then I must fight him!	
 0xe762	0x06	ALTO		ANI_WAIT	
-0xe7a3	0x98	ALTO		Noi...	
-				I've made up my mind.	
+0xe7a3	0x98	ALTO		Noi... I've made	
+				up my mind.	
 0xe7de	0x06	ALTO		ANI_JOY	
 0xe803	0x98	ALTO		Let's do this together.	
-				We have to protect things	
-				important to us!	
-0xe874	0x98	NOI		Yeah...!	mp_0001 0x1174e
+				We have to protect the	
+				things important to us!	
+0xe874	0x98	NOI		Yeah!	mp_0001 0x1174e
 0xe8a0	0x98	NOI	#6A	Then let the search for	
 				Yupina Grass, Cygna and	
 				Zext begin!	
@@ -468,8 +468,8 @@ EV_3_S07_use_astrolabe
 				 Terra by instinct...)	
 0xebe8	0x98	ALTO		(Zext... Did he expect
 				 this would happen?)	
-0xec56	0x98	ALTO		(In that case, then his	
-				 goal was to wake up	
+0xec56	0x98	ALTO		(In that case, then was	
+				 his goal to wake up	
 				 Creha...?)	
 0xecbf	0xBC	NOI		Exclamation	
 0xecfc	0x98	NOI	#6A#16S	...There's a reaction!	
@@ -485,11 +485,11 @@ EV_3_S07_use_astrolabe
 				around on Terra...	
 0xef6d	0x98	ALTO		If I can have that,	
 				then my sister...!	
-0xefcd	0x98	NOI	#6A	And...looks like the reactions	
+0xefcd	0x98	NOI	#6A	And... looks like the reactions	
 				of Cygna and Zext are on the	
 				same continent.	
 0xf03e	0x98	NOI	#6A	Zext is planning to shut down	
-				the Temple again... Probably.	
+				a temple again... Probably.	
 0xf0b3	0x06	ALTO		ANI_THINK2	
 0xf0db	0x98	ALTO		...I'm sure Cygna is	
 				chasing after him, too.	
@@ -499,21 +499,21 @@ EV_3_S07_use_astrolabe
 0xf4b3	0x98	ALTO	#6A	With this, now we	
 				know where to go.	
 0xf543	0x06	NOI		ANI_GUTSPOSE	
-0xf56c	0x98	NOI	#6A	Heimmel, the Sacred Mountain Continent.	
-				The Yupina Grass, Cygna and Zext,	
-				they're all there...!		
-0xf5f1	0x98	NOI	#6A	And now that the	
-				climate of Rieseweld	
-				is returned to normal...	
+0xf56c	0x98	NOI	#6A	Heimmel, the Holy Mountain Continent.	
+				The Yupina Grass, Cygna, and Zext are	
+				all there...!		
+0xf5f1	0x98	NOI	#6A	And now that the climate	
+				climate of Rieseweld is	
+				returned to normal...	
 0xf678	0x98	ALTO	#6A	We should also be able	
-				to save Erisette .	
-0xf6c7	0x98	ALTO	#6A	I don't want to waste time	
-				on side trips, but...	
-				I can't just leave her either.	
-0xf772	0x98	Creha		...............	mp_0001 0xc917
+				to save Erisette.	
+0xf6c7	0x98	ALTO	#6A	I don't want to waste time on	
+				side trips, but... We can't	
+				just leave her there either.	
+0xf772	0x98	Creha		.......	mp_0001 0xc917
 0xf7de	0x06	ALTO		ANI_GOODIDEA	
 0xf808	0x98	ALTO	#6A	Oh, yeah... What should	
-				we do with Creha?	
+				we do about Creha?	
 0xf861	0x98	ALTO	#6A	It's dangerous, so I don't think	
 				we should take her with us, but...	
 0xf8cc	0x06	NOI		ANI_ANGRYTALK	
@@ -523,7 +523,7 @@ EV_3_S07_use_astrolabe
 0xf966	0x06	Creha		ANI_WAIT2	
 0xf98e	0x98	Creha		...It's all right.	
 				I will wait here.	
-0xf9db	0x98	Creha		Maybe my memories will	
+0xf9db	0x98	Creha		Perhaps my memories will	
 				return while I am here...	
 0xfa72	0x06	ALTO		ANI_NOD	
 0xfa97	0x98	ALTO	#6A	Right... Well, watch over	
@@ -533,8 +533,8 @@ EV_3_S07_use_astrolabe
 0xfb88	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
 0xfbe3	0x06	NOI		ANI_SPEECH	
 0xfc0a	0x98	NOI	#6A	We'll be back, Lady Creha!	
-0xfd6c	0x98	Creha	#0W	...............	mp_0001 0xc917
-0xfe17	0x07	System	#3C	The Sacred Mountain Continent	
+0xfd6c	0x98	Creha	#0W	.......	mp_0001 0xc917
+0xfe17	0x07	System	#3C	The Holy Mountain Continent	
 				Heimmel has been unlocked.	
 0xfe84	0x07	System	#3C	The winter of Abyss Continent	
 				Rieseweld has been unlocked.	
@@ -542,7 +542,7 @@ EV_3_S07_use_astrolabe
 				Rieseweld has been unlocked.	
 0x1000c	0x07	System	#3C	The spring of Abyss Continent	
 				Rieseweld has been unlocked.
-0x101ca	0xCE	Objective		Yupina Grass is on the mountain continent. Let's go, Nayuta!	
+0x101ca	0xCE	Objective		Yupina Grass is on the Mountain Continent. Let's go, Nayuta!	
 SB_3_S25_alto_move
 SB_3_S25_noi_move
 EV_3_S25_invite_creha
@@ -585,8 +585,8 @@ EV_3_S25_invite_creha
 0x10f28	0x98	ALTO	#6A	(Seems like she's kind of	
 				 interested, I think...?)	
 0x10f8a	0x06	NOI		ANI_GUTSPOSE	
-0x10fb3	0x98	NOI	#6A	Then let's go to	
-				Remnant Island, everyone!	
+0x10fb3	0x98	NOI	#6A	Then let's go to Remnant	
+				Island, everyone!	
 EV_3_S18_set_gear_3rd
 0x11539	0x06	NOI		ANI_TAKE_OUT	
 0x115e2	0x06	komono05		ANI_STOP	
@@ -606,7 +606,7 @@ EV_3_S20_go_mountain
 				here a little longer!	
 0x12b0b	0x98	Creha		...O-Okay.	
 0x12b36	0xBC	NOI		Unknown	
-0x12be4	0x98	Creha	#0W	Why are you going so far for...?	
+0x12be4	0x98	Creha	#0W	What are you going so far for...?	
 0x12c2c	0x98	Creha	#0W	...Is that what it means to be "human"...?	
 0x12ca9	0x98	Creha	#1W	...I...	
 EV_4_S01_use_astrolabe
@@ -615,13 +615,13 @@ EV_4_S01_use_astrolabe
 0x1334e	0x98	NOI	#6A#16S	There's a reaction!	
 0x13387	0x98	NOI	#6A	It's in the Origin Continent,	
 				La Worg, southeast from here...	
-0x133e4	0x98	NOI	#6A	It looks like Cygna's	
-				there...and Zext too!	
+0x133e4	0x98	NOI	#6A	It looks like Cygna is	
+				there... and Zext, too!	
 0x13437	0x98	ALTO		We're finally on the	
 				fourth continent, huh?	
 0x13480	0x98	ALTO		We've come a long way.	
 0x134cf	0x98	NOI	#6A	If Zext shuts down the La Worg	
-				Temple too, then...	
+				temple as well, then...	
 0x13525	0x98	NOI	#6A	This time irreversible	
 				abnormalities might occur.	
 0x135bc	0x06	ALTO		ANI_WAIT4	
@@ -633,20 +633,20 @@ EV_4_S01_use_astrolabe
 0x136b4	0x98	NOI	#6A	Yeah... The Astrolabe will	
 				be fully functional again!	
 0x13714	0x98	NOI	#6A	And then we should be able to	
-				restore the Temples that have	
+				restore the temples that have	
 				been shut down up until now!	
 0x13791	0x98	NOI	#6A	This is the final	
 				battle against Zext!	
 0x137e2	0x06	ALTO		ANI_JOY	
 0x13807	0x98	ALTO		We gotta find Cygna too, no matter what.	
-0x13849	0x98	ALTO		...We haven't seen Cygna	
-				since this all started.	
+0x13849	0x98	ALTO		...We haven't seen Cygna at	
+				all since this all started.	
 0x1389e	0x98	NOI	#6A	It's all right...	
 				I'm sure he's safe.	
 0x13c5b	0x06	NOI		ANI_GESTURE1	
 0x13c84	0x98	NOI	#6A	That's right, Nayuta.	
-				We do need to go	
-				to La Worg, but...	
+				We do need to go to	
+				La Worg, but...	
 0x13cf9	0x98	NOI	#6A	It might be better to	
 				visit Heimmel first.	
 0x13d45	0x98	NOI	#6A	We should be able to free	
@@ -660,11 +660,11 @@ EV_4_S01_use_astrolabe
 0x13ecf	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
 0x13f7a	0x07	System	#3C	The Origin Continent	
 				La Worg has been unlocked.	
-0x13fea	0x07	System	#3C	The autumn of Sacred Mountain	
+0x13fea	0x07	System	#3C	The autumn of Holy Mountain	
 				Continent Heimmel has been unlocked.	
-0x14076	0x07	System	#3C	The spring of Sacred Mountain	
+0x14076	0x07	System	#3C	The spring of Holy Mountain	
 				Continent Heimmel has been unlocked.
-0x14182	0x07	System	#3C	The summer of Sacred Mountain	
+0x14182	0x07	System	#3C	The summer of Holy Mountain	
 				Continent Heimmel has been unlocked.
 0x1445b	0xCE	Objective		Anomalies remain on the Mountain Continent. Let's save Algol!	
 EV_8_S08_emergency_al
@@ -696,7 +696,7 @@ EV_8_S08_emergency_al
 				they placed their own souls.#0E	
 0x154b0	0x41	None	#0W#995c#1E	They did so in an attempt to	
 				diagnose the cause of the	
-				abnormalities directly.#0E	
+				error directly.#0E	
 0x15648	0x41	None	#0W#995c#1E	However... Suddenly,	
 				they fell into a deep sleep.#0E	
 0x1585c	0x06	Signa2		ANI_SLEEP3	
@@ -711,8 +711,8 @@ EV_8_S08_emergency_al
 0x15cc3	0x06	NOI		ANI_REBIRTH	
 0x15ebe	0x41	None	#0W#995c#1E	Noi should have already	
 				completely disappeared, but...#0E	
-0x15f59	0x41	None	#0W#995c#1E	No matter the fate, an entity with	
-				the same abilities as before will manifest.#0E	
+0x15f59	0x41	None	#0W#995c#1E	No matter her fate, an entity with	
+				the same abilities as before manifested.#0E	
 0x1600a	0x41	None	#0W#995c#1E	This is the story of the unusual	
 				events happening on Terra right now...#0E	
 EV_8_S10_in_astrolabe
@@ -737,13 +737,13 @@ EV_8_S10_in_astrolabe
 0x16873	0x98	NOI		I understand.	
 				I'll try!	
 0x16b9f	0x06	NOI		ANI_OPERATION	
-0x16fa7	0x98	NOI	#6A	By my authority as a Warden,	
+0x16fa7	0x98	NOI	#6A	By my authority as a warden,	
 				I hereby command the Astrolabe...	
 0x17014	0x98	NOI	#6A	Open a gate to your Inner World,	
 				and accept the coming visitor!	
 0x17164	0xBC	ALTO		Exclamation	
 0x171a2	0xBC	NOI		Exclamation	
-0x171df	0x98	NOI	#6A	I-Is...is the Astrolabe	
+0x171df	0x98	NOI	#6A	Is... Is the Astrolabe	
 				refusing my command!?	
 0x17239	0x06	ALTO		ANI_COMPLAIN	
 0x17263	0x98	ALTO	#6A	Noi... Is everything all right!?	
@@ -759,11 +759,11 @@ EV_8_S10_in_astrolabe
 0x17dd2	0x98	NOI		Nayuta...!	mp_0000c 0x734d
 0x17e24	0x41	None	#0W#995c#1E	...It seems he was delivered	
 				safely into the Inner World.#0E	
-0x17ec0	0x41	None	#0W#995c#1E	All I can do now is pray	
+0x17ec0	0x41	None	#0W#995c#1E	All we can do now is pray	
 				that Nayuta Herschel will	
 				fix the error.#0E	
 0x17f6d	0x06	NOI		ANI_NOD	
-0x17f91	0x98	NOI		...That's right.	
+0x17f91	0x98	NOI		...I agree.	
 0x17fdd	0x98	NOI		I have no idea who	
 				I was before, but...	
 0x18053	0x98	NOI		I wish Nayuta the best of luck.	
@@ -777,8 +777,8 @@ EV_8_S17_happy_end
 0x18704	0x3F	Name		？？？	
 0x18712	0x98	Signa2	#N#1W#12S#150x#80y	...Nayuta... Hey, Nayuta!	
 0x18766	0x98	Creha2	#N#1W#12S#350x#120y	...Wake up, Nayuta...	
-0x18955	0x98	ALTO	#240x#240y#6A#1W	..................	mp_0000d 0x70fd
-0x1899f	0x98	Creha2	#400x#20y#6A	Ah...	mp_0004 0x6a21
+0x18955	0x98	ALTO	#240x#240y#6A#1W	.....	mp_0000d 0x70fd
+0x1899f	0x98	Creha2	#400x#20y#6A	Oh...	mp_0004 0x6a21
 0x189da	0x98	Signa2	#200x#40y#6A	...You're awake.	
 0x18ae6	0x06	ALTO		ANI_WAKE_UP_HALF	
 0x18b42	0x98	ALTO	#0W#6A	...Cygna, Creha...	
@@ -793,11 +793,11 @@ EV_8_S17_happy_end
 0x18e9b	0x98	ALTO	#6A	How's the Astrolabe?	
 0x18edb	0x98	Creha2		It appears to have	
 				returned back to normal.	
-0x18f1f	0x98	Creha2		The chaotic climate has	
-				also been restored to normal.	
+0x18f1f	0x98	Creha2		The chaotic climate has also	
+				been restored to normal.	
 0x18f7d	0x06	Signa2		ANI_GESTURE2	
 0x18fa9	0x98	Signa2		This should put an end to any	
-				remaining abnormalities in Terra.	
+				remaining abnormalities on Terra.	
 0x19030	0x98	Signa2		You made this happen, Nayuta.	
 				I suppose I have to thank you.	
 0x1914c	0x06	ALTO		ANI_DENY	
@@ -813,7 +813,7 @@ EV_8_S17_happy_end
 0x193a0	0x98	Creha2	#0W	Noi... I wanted to talk	
 				to you one last time	
 				before you left...	
-0x19414	0x98	NOI	#6A#2W	.....................	mp_0003 0xc610
+0x19414	0x98	NOI	#6A#2W	.........	mp_0003 0xc610
 0x19456	0x6B	ALTO		Surprise	
 0x194d7	0x06	ALTO		ANI_GESTURE2	
 0x19501	0x98	ALTO		Oh... Sorry. You're the real Noi, too.	
@@ -832,7 +832,7 @@ EV_8_S17_happy_end
 0x197d9	0x98	NOI	#0W#6A	U-Umm, that's not true...	
 0x1984b	0x41	None	#0W#995c#1E	It is good to see you	
 				have awakened, O Mitos...#0E	
-0x198f1	0x41	None	#0W#995c#1E	And you too, Warden, and child of the surface.#0E	
+0x198f1	0x41	None	#0W#995c#1E	And you too, warden, and child of the surface.#0E	
 0x199a2	0x6B	ALTO		Exclamation	
 0x199cc	0x6B	NOI		Exclamation	
 0x199f5	0x6B	Creha2		Exclamation	
@@ -850,8 +850,8 @@ EV_8_S17_happy_end
 0x19dcd	0x98	ALTO		Why would you
 				want to help us?	
 0x19e15	0x41	None	#0W#995c#1E	...That is not important.#0E	
-0x19e96	0x41	None	#0W#995c#1E	As one who caused a part of these	
-				abnormalities, I am just trying to	
+0x19e96	0x41	None	#0W#995c#1E	As one who was partly at fault for	
+				these events, I am just trying to	
 				fulfill my responsibilities .#0E	
 0x19f5f	0x6B	ALTO		Question	
 0x19f91	0x6B	NOI		Question	
@@ -860,7 +860,7 @@ EV_8_S17_happy_end
 0x1a078	0x98	Signa2		...I see.	mp_0004c 0x4434
 0x1a0a3	0x98	Signa2		Besides us Mitos, the only other	
 				entity capable of doing this is...	
-0x1a151	0x98	Signa2		Planetarium... Is it you?	
+0x1a151	0x98	Signa2		Planetarium... Is that you?	
 0x1a1d8	0x98	ALTO		Huh!?	
 0x1a514	0x6B	ALTO		Exclamation	
 0x1a546	0x6B	NOI		Exclamation	
@@ -877,7 +877,7 @@ EV_8_S17_happy_end
 				You've returned to normal, too.	
 0x1a7ca	0x98	Zext	#0W	Thanks to you...	
 0x1a834	0x98	Zext	#1W	Again, I feel I owe you all	
-				some kind of an apology.	
+				some form of apology.	
 0x1a88d	0x06	ALTO		ANI_DENY	
 0x1a8c1	0x98	ALTO	#1W	...No. Because of you, I was	
 				able to save Cygna and Creha...	
@@ -886,7 +886,7 @@ EV_8_S17_happy_end
 				Noi couldn't be saved...	
 0x1aa00	0x98	Creha2	#1W#6A	...That's right.	mp_0100 0x17f91
 0x1aa6e	0x98	Signa2	#0W	...It's a shame, that's for sure...	
-0x1aabf	0x98	Zext	#1W	..................	mp_0000d 0x70fd
+0x1aabf	0x98	Zext	#1W	.....	mp_0000d 0x70fd
 0x1ab02	0x98	Zext	#1W	...Hmm, I am afraid I do	
 				not understand what you	
 				all are talking about...	
@@ -902,8 +902,8 @@ EV_8_S17_happy_end
 0x1ae24	0x98	NOI	#2W#6A	Well, umm... I don't know	
 				how to say this, but...	
 0x1ae87	0x98	NOI	#2W#6A	I'm back to my old self.	
-0x1aed3	0x98	Creha2	#2W#6A	Huh?	mp_0004 0x392d
-0x1af07	0x98	ALTO	#1W	...............	mp_0001 0xc917
+0x1aed3	0x98	Creha2	#2W#6A	Huh...?	mp_0004 0x392d
+0x1af07	0x98	ALTO	#1W	.......	mp_0001 0xc917
 0x1af4f	0x98	NOI	#2W#6A	No, I mean...	
 0x1af90	0x98	NOI	#0W#6A	It's more like, I just didn't 
 				completely disappear.	
@@ -926,16 +926,16 @@ EV_8_S17_happy_end
 				I was in this body...	
 0x1b4cf	0x98	Zext	#1W	To be more precise, you were	
 				merged with the new Noi.	
-0x1b534	0x98	Zext	#1W	You have memories of going to	
-				the surface this time, do you not?	
+0x1b534	0x98	Zext	#1W	You have memories of going to the	
+				surface this time, do you not?	
 0x1b59b	0x06	NOI		ANI_GESTURE1	
 0x1b5e7	0x98	NOI	#1W#6A	Umm... Now that you	
 				mention it, I do.	
 0x1b6df	0x06	Creha2		ANI_GESTURE2	
 0x1b719	0x98	Creha2	#2W	Th-Then...	
 0x1b755	0x98	Creha2	#1W	You were the one who saved Noi...!?	
-0x1b7b1	0x98	Zext	#1W	Once the abnormalities of the Astrolabe	
-				were removed, I had the opportunity to	
+0x1b7b1	0x98	Zext	#1W	Once the errors of the Astrolabe	
+				were fixed, I had the opportunity to	
 				intervene from within the Inner World.	
 0x1b849	0x98	Zext	#1W	It was just enough to protect	
 				Noi's soul before it disappeared.	
@@ -947,16 +947,16 @@ EV_8_S17_happy_end
 0x1b99a	0x98	Signa2	#1W#6A	You did all of that...	
 				That's amazing!	
 0x1b9ed	0x06	Signa2		ANI_NOD	
-0x1ba22	0x98	Signa2	#1W#6A	Well, as expected	
-				from the Planetarium...	
+0x1ba22	0x98	Signa2	#1W#6A	Well, as expected from	
+				the Planetarium...	
 0x1bb83	0x98	NOI	#2W#6A	...Thank you so much for this...	
 0x1bc2a	0x06	NOI		ANI_WIPE_TEAR	
 0x1bc54	0x98	NOI	#2W#6A	...*sniff*...	
-0x1bcb7	0x98	NOI	#2W#6A	...I...I...I thought I'd	
+0x1bcb7	0x98	NOI	#2W#6A	...I... I thought I'd	
 				never see everyone again...	
 0x1bdb0	0x06	NOI		ANI_DENY	
-0x1bde3	0x98	NOI	#2W#6A	...And from thinking that...	
-				...To this...again...!	
+0x1bde3	0x98	NOI	#2W#6A	...And to go from that...	
+				...To this... again...!	
 0x1beb2	0x98	NOI	#7W#6A	Ooooh...	
 0x1bf0b	0x06	NOI		ANI_CRY	
 0x1bf6e	0x98	NOI	#6W#18S#6A	Uwaaaaaah...!!	
@@ -986,11 +986,11 @@ EV_8_S17_happy_end
 0x1c6e6	0x98	Zext	#1W	It is why I am here.	
 0x1c738	0x98	ALTO	#0W#6A	Something to tell us?	
 0x1c792	0x98	Zext	#1W	...Terra has begun to float	
-				away from the surface, starting	
+				away from the planet, starting	
 				a voyage into the sea of stars.	
 0x1c81d	0x98	Zext	#1W	Soon, the transfer gate links	
-				will sever, and the world will	
-				be isolated once again.	
+				will sever, and this world	
+				will be isolated once again.	
 0x1c89e	0x6B	ALTO		Exclamation	
 0x1c8d0	0x6B	NOI		Exclamation	
 0x1c901	0x6B	Creha2		Exclamation	
@@ -1008,12 +1008,12 @@ EV_8_S17_happy_end
 				I will not stop you.	
 0x1cc29	0x98	NOI	#1W#6A	Eh...?	
 0x1cda9	0x98	Zext	#2W	One year ago, Terra lost its	
-				role in Remaking the world.	
-0x1ce08	0x98	Zext	#2W	And now that the Astrolabe	
-				has stopped, life on Terra has	
+				role in recreating the world.	
+0x1ce08	0x98	Zext	#2W	And since the Astrolabe was	
+				stopped, life on Terra has	
 				continued without its control.	
 0x1ce95	0x98	Zext	#2W	In that sense, the Mitos and the	
-				Wardens are no longer necessary.	
+				wardens are no longer necessary.	
 0x1cf05	0x6B	ALTO		Surprise	
 0x1cf37	0x6B	NOI		Surprise	
 0x1cf68	0x6B	Creha2		Surprise	
@@ -1034,7 +1034,7 @@ EV_8_S17_happy_end
 				everyone in the village...	
 				All our loved ones...	
 0x1d547	0x06	Creha2		ANI_GESTURE2	
-0x1d581	0x98	Creha2	#1W	I...want to go to the surface.	
+0x1d581	0x98	Creha2	#1W	I... want to go to the surface.	
 0x1d5f4	0x06	NOI		ANI_NOD	
 0x1d660	0x98	NOI	#1W#6A	I want... I want to live	
 				together with Nayuta,	
@@ -1050,7 +1050,7 @@ EV_8_S17_happy_end
 0x1da86	0x98	Zext	#1W	...If you pass through the transfer gate,	
 				it will mean goodbye to Terra forever.	
 0x1db72	0x98	Zext	#2W	Farewell, Mitos. And...	
-				Child of the surface.	
+				child of the surface.	
 0x1dcc9	0x06	NOI		ANI_NOD	
 0x1dcfb	0x98	NOI	#2W#6A	Goodbye, Planetarium!	
 0x1dd3d	0x06	Creha2		ANI_GESTURE2	
@@ -1091,25 +1091,25 @@ EV_4_S26_set_gear_4th
 0x1faa1	0x06	NOI		ANI_STOP	
 0x1fac6	0x06	NOI		ANI_TAKE_OUT_LOOP	
 0x1fb60	0x40	NOI		With this last gear, the Astrolabe	
-				should be completely fixed!	
+				should be fully operational!	
 0x1fbb1	0x40	NOI		We have to hurry!	
 0x1fc5f	0x06	NOI		ANI_ATTACH	
 0x1ff13	0x06	NOI		ANI_OPERATION	
 0x2042b	0x98	NOI		A favorable response!	
-0x2045f	0x98	NOI		The light emanating from each Temple...	
+0x2045f	0x98	NOI		The light emanating from each temple...	
 				Let's stop that first!	
 0x20525	0x6B	NOI		Question	
 0x207c0	0xBC	NOI		Unknown	
-0x207f5	0x98	NOI		Wh-Wha!? It stopped!	
+0x207f5	0x98	NOI		Wh-Wha!? It's not working!?	
 0x20860	0x06	Signa		ANI_WAIT3	
 0x20888	0x98	Signa	#6A	...Maybe it's because all of	
-				the Temples were disabled.	
-0x208e5	0x98	Signa	#6A	Maybe... The Power of Stars	
+				the temples were disabled.	
+0x208e5	0x98	Signa	#6A	I mean... the Power of Stars	
 				or whatever has gone haywire
 				everywhere, right?	
 0x2095d	0x98	NOI	#0W	Um, I guess so, but...	
-0x2099b	0x98	NOI		Even the completed Astrolabe
-				can't control it...!!	
+0x2099b	0x98	NOI		Not even the completed Astrolabe
+				can control it...!!	
 0x20a19	0x98	ALTO	#0W#6A	Crap... What can we do...?	
 0x20a66	0x6B	ALTO		Surprise	
 0x20a90	0x06	ALTO		ANI_GOODIDEA	

@@ -8,68 +8,68 @@
 0xe2	Heliograd Center
 0x102	Heliograd Top
 0x122	Oltapia
-0x142	Shaded Animal Trail
-0x162	Lakeside Tree Path
-0x182	Hermit's Path
-0x1a2	Shaded Animal Trail
-0x1c2	Lakeside Tree Path
-0x1e2	Hermit's Path
-0x202	Shaded Animal Trail
-0x222	Lakeside Tree Path
-0x242	Hermit's Path
-0x262	Shaded Animal Trail
-0x282	Lakeside Tree Path
-0x2a2	Hermit's Path
+0x142	Animal Trail/Sp
+0x162	Tree Path/Sp
+0x182	Hermit's Path/Sp
+0x1a2	Animal Trail/Su
+0x1c2	Tree Path/Su
+0x1e2	Hermit's Path/Su
+0x202	Animal Trail/Au
+0x222	Tree Path/Au
+0x242	Hermit's Path/Au
+0x262	Animal Trail/Wi
+0x282	Tree Path/Wi
+0x2a2	Hermit's Path/Wi
 0x2c2	Oltapia Temple
 0x2e2	Oltapia Sanctum
 0x302	Oltapia Sanctum
 0x322	Rieseweld
-0x342	Great Echoing Caves
-0x362	Scrying Pool Caves
-0x382	Dragon River Cavern
-0x3a2	Great Echoing Caves
-0x3c2	Scrying Pool Caves
-0x3e2	Dragon River Cavern
-0x402	Great Echoing Caves
-0x422	Scrying Pool Caves
-0x442	Dragon River Cavern
-0x462	Great Echoing Caves
-0x482	Scrying Pool Caves
-0x4a2	Dragon River Cavern
+0x342	Echoing Caves/Sp
+0x362	Scrying Pool/Sp
+0x382	Dragon River/Sp
+0x3a2	Echoing Caves/Su
+0x3c2	Scrying Pool/Su
+0x3e2	Dragon River/Su
+0x402	Echoing Caves/Au
+0x422	Scrying Pool/Au
+0x442	Dragon River/Au
+0x462	Echoing Caves/Wi
+0x482	Scrying Pool/Wi
+0x4a2	Dragon River/Wi
 0x4c2	Rieseweld Temple
 0x4e2	Rieseweld Sanctum
 0x502	Rieseweld Sanctum
 0x522	Heimmel
-0x542	Wind Cutting Valley
-0x562	Dragon Graveyard
-0x582	Heavenly Mountain
-0x5a2	Wind Cutting Valley
-0x5c2	Dragon Graveyard
-0x5e2	Heavenly Mountain
-0x602	Wind Cutting Valley
-0x622	Dragon Graveyard
-0x642	Heavenly Mountain
+0x542	Wind Valley/Sp
+0x562	DrgnGraveyard/Sp
+0x582	HeavnlyMtn/Sp
+0x5a2	Wind Valley/Su
+0x5c2	DrgnGraveyard/Su
+0x5e2	HeavnlyMtn/Su
+0x602	Wind Valley/Au
+0x622	DrgnGraveyard/Au
+0x642	HeavnlyMtn/Au
 0x662	Hidden Grove
-0x682	Wind Cutting Valley
-0x6a2	Dragon Graveyard
-0x6c2	Heavenly Mountain
+0x682	Wind Valley/Wi
+0x6a2	DrgnGraveyard/Wi
+0x6c2	HeavnlyMtn/Wi
 0x6e2	Hidden Grove
 0x702	Heimmel Temple
 0x722	Heimmel Sanctum
 0x742	Heimmel Sanctum
 0x762	La Worg
-0x782	Ancient Reef
-0x7a2	Pulsing Fault
-0x7c2	Crater
-0x7e2	Ancient Reef
-0x802	Pulsating Fault
-0x822	Infernal Crater
-0x842	Ancient Reef
-0x862	Pulsating Fault
-0x882	Infernal Crater
-0x8a2	Ancient Reef
-0x8c2	Pulsating Fault
-0x8e2	Infernal Crater
+0x782	Ancient Reef/Sp
+0x7a2	PulsatingFault/Sp
+0x7c2	InfernalCrater/Sp
+0x7e2	Ancient Reef/Su
+0x802	PulsatingFault/Su
+0x822	InfernalCrater/Su
+0x842	Ancient Reef/Au
+0x862	PulsatingFault/Au
+0x882	InfernalCrater/Au
+0x8a2	Ancient Reef/Wi
+0x8c2	PulsatingFault/Wi
+0x8e2	InfernalCrater/Wi
 0x902	La Worg Temple
 0x922	La Worg Sanctum
 0x942	La Worg Sanctum
@@ -92,6 +92,6 @@
 0xb62	Astrolabe
 0xb82	Astrolabe
 0xba2	Birthing Chamber
-0xbc2	Planetary Core Temple
-0xbe2	Shining Dust Area
+0xbc2	Core Temple
+0xbe2	Shining Shard Area
 0xc02	Planetarium Core

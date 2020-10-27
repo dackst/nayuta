@@ -4,8 +4,8 @@ talk_Nemeas
 0x71f	0x98	Nemeas		They have an "Ancient	
 				Memory" that has not	
 				been shared with Noi.
-0x77f	0x98	Nemeas		It holds the basis 	
-				for their entire plan...	
+0x77f	0x98	Nemeas		It holds the basis for 	
+				their entire plan...	
 0x7d6	0x98	Nemeas		When you find out, will you	
 				be able to stick to your guns?	
 0x847	0x98	Nemeas		The rest is all up to you.	
@@ -25,26 +25,26 @@ SB_6_S22_appear_NOI
 EV_6_S22_in_bossmap4
 0x1509	0x06	st		ANI_PATA1	
 0x1735	0x06	ALTO		ANI_LOOK_AROUND	
-0x1762	0x98	ALTO		This is the interior	mp_6300 0x18ae
-				of the "Pillar"...	
-0x17e0	0x98	ALTO	#6A	It certainly is the	mp_6300 0x192c
-				place that supplies the	
-				continent with Power of Stars.	
-0x1885	0x98	NOI		Yeah, exactly right.	mp_6300 0x19d1
+0x1762	0x98	ALTO		So this is the interior	mp_6300 0x18ae
+				of the Pillar...
+0x17e0	0x98	ALTO	#6A	You said this is where the	mp_6300 0x192c
+				continent receives its supply
+				of the Power of Stars?
+0x1885	0x98	NOI		Yeah, that's right.	mp_6300 0x19d1
 0x18b8	0x06	NOI		ANI_GESTURE2	
 0x18e1	0x98	NOI		The Stellagear should be	mp_6300 0x1a2d
-				installed in the center of	
-				this place.	
+				kept right at the center
+				of the base.
 0x1947	0x06	ALTO		ANI_JOY	
-0x196c	0x98	ALTO	#6A	Anyway, let's try looking for it!	mp_6300 0x1ab8
+0x196c	0x98	ALTO	#6A	Well, let's find it!	mp_6300 0x1ab8
 EV_6_S29_hituzi_boss
-0x1e9d	0x41	None	#1W#2E#710c	──So you have come.#0E	mp_6300 0x220d
+0x1e9d	0x41	None	#1W#2E#710c	...So you came.#0E	mp_6300 0x220d
 0x1f1a	0x6B	ALTO		Exclamation	
 0x1f6a	0x6B	NOI		Exclamation	
 0x23a2	0x06	NOI		ANI_SURPRISE	
 0x23cb	0x98	NOI	#6A	Nemeas!?	
 0x23fd	0x06	Nemeas		ANI_NOD	
-0x2424	0x98	Nemeas		Nayuta, and Noi too.	mp_6301 0x2b24
+0x2424	0x98	Nemeas		Nayuta and Noi.	mp_6301 0x2b24
 0x247a	0x98	Nemeas		I cannot give you	
 				the Stellagear.	
 0x24be	0x06	Nemeas		ANI_GESTURE2	
@@ -54,25 +54,26 @@ EV_6_S29_hituzi_boss
 0x25d0	0x06	ALTO		ANI_COMPLAIN	
 0x25fa	0x98	ALTO	#6A	Why!?	mp_0004c 0x3162
 0x2672	0x06	NOI		ANI_GESTURE1	
-0x269b	0x98	NOI	#6A	I-It can't be!!	mp_6301 0x2cff
+0x269b	0x98	NOI	#6A	Oh, no...!!	mp_6301 0x2cff
 0x273b	0x98	Nemeas		...I have learned the truth.	
-0x27b4	0x98	Nemeas		The mission of the Mitos...	mp_6300 0x2b5b
-				And the true reason for the	
-				existence of Terra.	
+0x27b4	0x98	Nemeas		The duty of the Mitos...	mp_6300 0x2b5b
+				And the real reason for
+				the creation of Terra.
 0x284c	0x06	Nemeas		ANI_GESTURE1	
-0x2898	0x98	Nemeas		As a Warden of the continents,	mp_6300 0x2c43
-				I cannot allow you to interfere in	
-				the Remaking of Master Creha and the others.	
+0x2898	0x98	Nemeas		As warden of the continent,	mp_6300 0x2c43
+				I cannot allow you to interfere
+				in the Remaking planned by Lady
+				Creha and the others.
 0x2953	0x06	NOI		ANI_COMPLAIN	
 0x297c	0x98	NOI	#6A	...Stop it, Nemeas!	
-0x29f2	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f
-				surface where Nayuta is...	
+0x29f2	0x98	NOI	#6A	Erasing the surface where Nayuta	mp_6300 0x2d9f
+				and all those people live...
 0x2a48	0x06	NOI		ANI_DENY	
-0x2a6d	0x98	NOI	#6A	We don't want to let Master	mp_6300 0x2e1a
-				Creha do that!	
+0x2a6d	0x98	NOI	#6A	We can't let Lady	mp_6300 0x2e1a
+				Creha do that!
 0x2ac1	0x06	ALTO		ANI_JOY	
-0x2ae6	0x98	ALTO	#6A	Yeah, we've got to stop her,	mp_6300 0x2e93
-				no matter what!	
+0x2ae6	0x98	ALTO	#6A	Yeah, we've got to stop	mp_6300 0x2e93
+				this thing, no matter what!
 0x2ba4	0x06	Nemeas		ANI_DENY	
 0x2bcc	0x98	Nemeas		...That's quite naive, is it not?	
 0x2c09	0x98	Nemeas		Challenging the Mitos with	
@@ -80,17 +81,17 @@ EV_6_S29_hituzi_boss
 0x2cb7	0x98	Nemeas		How shameful...!	
 0x2d08	0x06	Nemeas		ANI_DENY	
 0x2d30	0x98	Nemeas		I cannot give you	mp_6302 0x247a
-				the Stellagear.	
+				the Stellagear.
 0x2d74	0x06	Nemeas		ANI_GESTURE2	
 0x2da0	0x98	Nemeas		Please, accept this and move on.	
 0x2de2	0x06	NOI		ANI_COMPLAIN	
 0x2e0b	0x98	NOI	#6A	Oh, no...	
 				Nemeas, you too!?	
 0x2e86	0x98	Nemeas		I am so sorry, Noi.	
-0x2f09	0x98	Nemeas		However, I am a Warden...	
+0x2f09	0x98	Nemeas		However, I am a warden...	
 				I have no choice.	
 0x2fd5	0x98	Nemeas		...If it were possible,	
-				I would wish to not fight you.	
+				I would wish not to fight you.	
 0x302d	0x06	Nemeas		ANI_GESTURE1	
 0x3079	0x98	Nemeas		Please... Will	
 				you turn back?	
@@ -101,7 +102,7 @@ EV_6_S29_hituzi_boss
 0x316d	0x98	ALTO	#6A	To see Cygna and	
 				Creha again!	
 0x3222	0x98	Nemeas		...I am sorry to hear that.	
-0x3297	0x98	Nemeas		Then──!	
+0x3297	0x98	Nemeas		Then...!	
 0x3311	0x06	Nemeas		ANI_WAIT	
 0x3447	0x06	Nemeas		ANI_USE_POWER	
 0x3630	0x98	Nemeas	#2W#240x#0y	I, Sage Nemeas,	
@@ -132,10 +133,10 @@ EV_6_S30_bye_nemeas
 0x4da4	0x6B	ALTO		Question	
 0x4dd6	0x6B	NOI		Question	
 0x4ebe	0x98	Nemeas		They have an "Ancient	mp_6302 0x71f
-				Memory" that has not	
-				been shared with Noi.	
+				Memory" that has not
+				been shared with Noi.
 0x4f5e	0x98	Nemeas		It holds the basis 	mp_6302 0x77f
-				for their entire mission...	
+				for their entire plan...
 0x5023	0x98	Nemeas		I don't think you would be able	
 				to so strongly stick to your	
 				current beliefs if you realized...	
@@ -163,15 +164,15 @@ EV_6_S30_bye_nemeas
 				on you and your will.	
 0x5fb2	0x06	Nemeas		ANI_NOD	
 0x6071	0x98	Nemeas		May the stars guide your path.	mp_6302 0x889
-0x60b1	0x98	Nemeas		Please, take care of	
-				Master Creha and the others.	
+0x60b1	0x98	Nemeas		Please, take care of Lady	
+				Creha and the others.	
 0x610b	0x06	ALTO		ANI_THANKS	
-0x6133	0x98	ALTO	#6A	Yes!	mp_0001 0xfd91
+0x6133	0x98	ALTO	#6A	Yes...!	mp_0001 0xfd91
 0x6226	0x06	NOI		ANI_GESTURE2	
-0x624f	0x98	NOI	#6A	Anyway with this, we've	mp_6300 0x63a4
-				gathered all of the Stellagears!	
+0x624f	0x98	NOI	#6A	Anyway, now we've collected	mp_6300 0x63a4
+				all of the Stellagears!
 0x62b2	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
-				and chase after Creha and the others!	
+				We have to get to Creha and the others!
 SB_6_S31_turn_Gio
 SB_6_S31_turn_Erislet
 SB_6_S31_turn_Algorl
@@ -183,7 +184,7 @@ SB_6_S31_exit_Nemeas
 EV_6_S31_4gear_get
 0x6fbe	0x40	UNDEF		Having gathered the four Stellagears,	
 				Nayuta and Noi hurried to the Garden.	
-0x711e	0x98	Nemeas	#1W	...............	mp_0001 0xc917
+0x711e	0x98	Nemeas	#1W	.......	mp_0001 0xc917
 0x71a2	0x41	None	#1W#2E#310c	...I think they are gone.#0E	
 0x734e	0x06	Gio		ANI_WAIT	
 0x744c	0x06	Erislet		ANI_WAIT	
@@ -195,7 +196,7 @@ EV_6_S31_4gear_get
 0x76df	0x06	Nemeas		ANI_GESTURE2	
 0x7741	0x98	Nemeas	#1W	I am not quite sure we	
 				made the right choice...	
-0x7850	0x98	Gio	#1W#6A	...Is that so.	mp_0001 0xa6e5
+0x7850	0x98	Gio	#1W#6A	...I see.	mp_0001 0xa6e5
 0x78e6	0x98	Gio	#1W#6A	However, I do not think it is	
 				less preferable to destroy the	
 				surface like this.	
@@ -223,12 +224,12 @@ EV_6_S31_4gear_get
 0x829e	0x98	Nemeas	#2W	Everyone, take care.	
 0x839f	0x06	Algorl		ANI_TALK	
 0x83d5	0x98	Algorl	#6A	...It has been a long time.	
-				But it was fun.	
+				However, it was fun.	
 0x8435	0x06	Algorl		ANI_WAIT	
 0x8504	0x06	Gio		ANI_LAUGH	
 0x857a	0x98	Gio	#2W	Gwahaha, I think so too.	
 				And so, out I go, with a smile.	
 0x86bb	0x06	Erislet		ANI_LAUGH	
-0x873d	0x98	Erislet	#3W	Hehe...see you later.	
+0x873d	0x98	Erislet	#3W	Hehe... Then, see ya.	
 EV_6_S40_check_bossmap4
 0x8e6a	0x40	UNDEF		There is no trace of Nemeas.	

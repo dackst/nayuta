@@ -3,9 +3,9 @@ init
 EV_6_S35_bombard_earth
 0x766	0x06	Creha2		ANI_GRASP_CLOTH	
 0xcee	0x06	ALTO		ANI_FIND	
-0xd14	0x98	ALTO	#1W#6A	..................	mp_0000d 0x70fd
-0xd54	0x98	ALTO	#1W#6A	...That's...our world...	
-0xda8	0x98	ALTO	#0W#6A	That's...what's...beyond
+0xd14	0x98	ALTO	#1W#6A	.....	mp_0000d 0x70fd
+0xd54	0x98	ALTO	#1W#6A	...That's... our world...	
+0xda8	0x98	ALTO	#0W#6A	That's... what's... beyond
 				the End of the World...?		
 0xe25	0x06	NOI		ANI_DENY	
 0xe52	0x98	NOI	#1W#6A	...No way...	
@@ -13,13 +13,13 @@ EV_6_S35_bombard_earth
 				planet suffered terrible damage.	
 0xef0	0x98	Creha	#0W	Even today, the planet's complete	
 				destruction continues to advance.	
-0xf44	0x98	Creha	#0W	The surface established by the humans
+0xf44	0x98	Creha	#0W	The world established by the humans
 				up until now is only temporary...	
 0xfb6	0x98	Creha	#0W	At this rate, before long...
 				The complete annihilation	
 				of the planet will occur.	
-0x11f1	0x98	Creha	#1W	Yet we have the power to restore this	
-				planet back to its beautiful former state.	
+0x11f1	0x98	Creha	#1W	Yet we have the power to restore the	
+				world back to its beautiful former state.	
 0x12d1	0x98	Creha	#1W	...Still...	
 0x130a	0xBC	Creha		Ellipsis	
 0x13b4	0x98	Creha	#1W	Still can you say what we're	
@@ -34,9 +34,9 @@ EV_6_S35_bombard_earth
 0x1905	0x06	ALTO		ANI_GESTURE1	
 0x192f	0x98	ALTO	#0W#6A	People have lived out their lives on	
 				the surface, carving out history.	
-0x1994	0x98	ALTO	#0W#6A	Even though there's little land	
-				left, and their lifespans are short,	
-				people pass down what they learn...	
+0x1994	0x98	ALTO	#0W#6A	Even though there's little land left,	
+				and their lifespans are short, people	
+				can learn from the past...	
 0x1a2b	0x98	ALTO	#0W#6A	The various archaeological	
 				ruins and literature left	
 				behind are proof of this.
@@ -45,8 +45,8 @@ EV_6_S35_bombard_earth
 				definitely not temporary.	
 0x1c02	0x98	NOI		Nayuta...	mp_0000d 0x7671
 0x1c7e	0x98	ALTO	#6A	When viewed from the god-like perspective
-				of the Mitos, it's true the world is tiny	
-				and inconsequential...	
+				of the Mitos, it's true this world is	
+				tiny and inconsequential...	
 0x1cfe	0x98	ALTO	#6A	Perhaps it's only natural you	
 				would think of it as temporary.
 0x1db0	0x98	ALTO	#1W#6A	But...	
@@ -57,14 +57,14 @@ EV_6_S35_bombard_earth
 				with me on Remnant Island.	
 0x208d	0x98	ALTO	#1W#100x#270y	You two should understand	
 				already, shouldn't you?	
-0x210f	0x98	ALTO	#3W#100x#270y	That the world is	
+0x210f	0x98	ALTO	#3W#100x#270y	That this world is	
 				truly precious.	
 0x2218	0x98	Creha	#1W	......!	
 0x235d	0x06	ALTO		ANI_COMPLAIN	
 0x2395	0x98	ALTO	#1W#6A	Humans and Mitos	
 				can live together!	
-0x23f9	0x98	ALTO	#0W#6A	There's gotta be something else	
-				that can be done besides Remaking!	
+0x23f9	0x98	ALTO	#0W#6A	There's gotta be something else that	
+				can be done besides Recreating it!	
 0x2475	0x98	ALTO	#0W#6A	Don't give up until the end,	
 				and we'll find it together!	
 0x24fd	0xBC	Creha		Ellipsis	
@@ -75,20 +75,20 @@ EV_6_S35_bombard_earth
 EV_7_S17_collapse_core
 EV_7_S20_byebye_tera
 0x2cc8	0x06	ALTO		ANI_FLY_IN_SPACE	
-0x30ad	0x98	ALTO	#2W	.....................	mp_0003 0xc610
-0x3139	0x98	ALTO	#1W	...What is...this place...?	
-0x31bd	0x98	ALTO	#0W	Is this a...dream...?	
-0x3247	0x98	ALTO	#0W	I feel...sleepy...	
+0x30ad	0x98	ALTO	#2W	.........	mp_0003 0xc610
+0x3139	0x98	ALTO	#1W	...What... What is this place...?	
+0x31bd	0x98	ALTO	#0W	Is this a... dream...?	
+0x3247	0x98	ALTO	#0W	I feel... sleepy...	
 0x32b5	0x41	None	#0W#2E#226c	...This is not a dream.#0E	
 0x3336	0x41	None	#1W#2E#226c	See, look down.#0E	
-0x3418	0x98	ALTO	#1W	Huh...	mp_0001 0x166ea
-0x346f	0x98	ALTO	#3W	Ah...	mp_0004 0x6a21
+0x3418	0x98	ALTO	#1W	Huh...?	mp_0001 0x166ea
+0x346f	0x98	ALTO	#3W	Oh...	mp_0004 0x6a21
 0x35d5	0x06	ALTO		ANI_WAKE_IN_SPACE	
 0x3a9f	0x98	ALTO	#0W#6A	Cygna, Creha...	
 0x3add	0x98	ALTO	#0W#6A	Haha, well...	
 				It worked...	
 0x3b2d	0x06	Creha3		ANI_NOD	
-0x3b74	0x98	Creha3	#0W	Yeah... Looks like the planet's	
+0x3b74	0x98	Creha3	#0W	Yeah... Looks like the planetary	
 				core has been completely repaired.	
 0x3bd8	0x98	Creha3	#0W	Your world should	
 				be okay now.	
@@ -96,8 +96,8 @@ EV_7_S20_byebye_tera
 0x3c95	0x98	Signa	#0W	Well, I guess that takes care of that.	
 0x3d3f	0x98	Signa	#0W	Because of all this, Terra has	
 				completely exhausted its power.	
-0x3d9d	0x98	ALTO	#0W#6A	Huh...	mp_0001 0x166ea
-0x3eab	0x98	ALTO	#0W#440x#230y	It's so...far...	
+0x3d9d	0x98	ALTO	#0W#6A	Huh...?	mp_0001 0x166ea
+0x3eab	0x98	ALTO	#0W#440x#230y	It's so... far...	
 0x3fc4	0x06	Creha3		ANI_GESTURE1	
 0x3ff8	0x98	Creha3	#0W	The recoil earlier	
 				knocked it out of orbit.	
@@ -123,7 +123,7 @@ EV_7_S20_byebye_tera
 				it's gonna take, but...	
 				Sit tight until then.	
 0x4634	0x06	Creha3		ANI_WAIT2	
-0x46b3	0x98	Creha3	#1W	This time... We'll come back to	
+0x46b3	0x98	Creha3	#1W	Next time... We'll come back to	
 				Remnant Island together with Noi.	
 0x472a	0x98	Creha3	#1W	...We'll be back to	
 				see you all again!	
@@ -140,7 +140,7 @@ EV_7_S20_byebye_tera
 0x4da0	0x06	Creha3		ANI_PRAY	
 0x4dd6	0x98	Creha3	#2W	...Thank you so much!	
 0x4e17	0x06	Creha3		ANI_WAIT2	
-0x4e76	0x98	Creha3	#1W	See you later, Nayuta!	
+0x4e76	0x98	Creha3	#1W	See you soon, Nayuta!	
 0x5304	0x06	ALTO		ANI_WAKE_IN_SPACE_END	
 0x5696	0x41	None	#2W#2E	There is an "End" to this world...	
 				We have been taught this for as	

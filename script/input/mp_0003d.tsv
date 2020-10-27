@@ -11,12 +11,12 @@ talk_Puppis
 				every island must be in a	
 				state of panic right now.	
 0x662	0x98	Puppis		I'm sure San Ceriz is going	
-				through the same thing....	
+				through the same thing...	
 0x6bf	0x98	Puppis		...Damn it, this is not good.
 				The world's not in a good	
 				place at the moment.	
 0x724	0x98	Puppis		I don't know the specifics,	
-				but...this crazy weather isn't	
+				but... this crazy weather isn't	
 				only happening around here.	
 0x7a2	0x98	Puppis		We don't know how far it goes...	
 talk_Puppis_and_Axe
@@ -37,9 +37,9 @@ talk_Puppis_and_Axe
 				something more specific.	
 0xb6a	0x98	Puppis		...Oops, well, I guess that wasn't	
 				the best thing to say to the boy...	
-0xbbb	0x98	ALTO		...............	mp_0001 0xc917
+0xbbb	0x98	ALTO		.......	mp_0001 0xc917
 0xbea	0x98	Puppis		I only heard what happened	
-				secondhand, but...don't get	
+				secondhand, but... don't get	
 				yourself too worked up about it.	
 0xc51	0x98	Puppis		You're not to blame	
 				for any of this, boy.	
@@ -50,8 +50,8 @@ talk_Crux
 0xdd9	0x98	Crux		Ooh, what is with	
 				those armored guys!?	
 0xe1e	0x98	Crux		Dammit, you got a problem with us!?	
-0xe82	0x98	Crux		What's more, the terrible weather	
-				in this area isn't clearing up at all.	
+0xe82	0x98	Crux		What's more, the terrible weather in	
+				this area isn't clearing up at all.	
 0xee0	0x98	Crux		It just goes on and on into the sea...	
 				Can the ship even sail like this?	
 talk_Axe
@@ -60,9 +60,9 @@ talk_Axe
 0x1014	0x98	Puppis		Yeah, apparently this crazy cold	
 				spell is happening throughout	
 				the entire Ciencia sea.	
-0x1074	0x98	Puppis		I haven't been to the other	
-				islands, but I'm sure everyone's	
-				in a state of panic right now.
+0x1074	0x98	Puppis		I haven't been to the other islands,	
+				but I'm sure everyone is in a state	
+				of panic right now.
 0x10d4	0x98	Puppis		...Oh man, we'll have to get the	
 				ship ready. Looks like it won't	
 				be smooth sailing as usual.	
@@ -82,5 +82,5 @@ talk_Carina
 				Vel, and Ax are safe...	
 0x13a9	0x98	Carina		...This is all because
 				Creha protected us.	
-0x13f8	0x98	Carina		Nayuta...	mp_0003d 0x129f
-				I'm sure you'll save her.	
+0x13f8	0x98	Carina		Nayuta, you...	mp_0003d 0x129f
+				You have to rescue her.

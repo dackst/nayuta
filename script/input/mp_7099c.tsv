@@ -18,8 +18,8 @@ EV_7_S14_battle_zext
 				My foolish children.	
 0x1161	0x98	Zext		Again and again, they forget
 				the mission of the Mitos.	
-0x120d	0x98	Zext		...Now, they must simply	
-				watch as I take over from here.	
+0x120d	0x98	Zext		...Now, they must simply watch	
+				as I take over from here.	
 0x1257	0x98	Zext		The end of all things...	
 				And a new beginning─	
 0x12c4	0x98	ALTO	#16S#0x#200y	Zext!!	mp_5200 0x1c08
@@ -35,18 +35,18 @@ EV_7_S14_battle_zext
 				The fathers of all life, if you will.	
 0x17fd	0x98	Zext		It is only natural for me to	
 				discipline my unruly children.
-0x1870	0x98	Zext		Now, the Remaking will─	
+0x1870	0x98	Zext		Now, the Recreation will─	
 0x18c6	0x06	NOI		ANI_ANGRYTALK	
-0x1904	0x98	NOI	#16S	...D-Don't mess with us!	
+0x1904	0x98	NOI	#16S	...D-Don't give us that!	
 0x1946	0x98	ALTO	#6A	...Creha showed us	
 				the Ancient Memory.	
-0x1993	0x98	ALTO	#6A	You were definitely dying in it...
+0x1993	0x98	ALTO	#6A	You were definitely died in it...
 				How are you still here?	
 0x19f2	0x98	ALTO	#6A	...How did you end up	
 				back here on Terra?	
 0x1a57	0x98	ALTO	#16S#6A	How could you once be so kind,
 				and then come back like this!?	
-0x1c46	0x98	Zext	#1W	...............	mp_0001 0xc917
+0x1c46	0x98	Zext	#1W	.......	mp_0001 0xc917
 0x1c78	0x98	Zext		...When we Mitos lose our lives,	
 				we dissolve into the Power of Stars.	
 0x1ced	0x98	Zext		That is... We assimilate	
@@ -54,7 +54,7 @@ EV_7_S14_battle_zext
 0x1d43	0x98	Zext		Even after death, I continued	
 				to watch over both Terra and	
 				the surface world.	
-0x1dac	0x98	NOI	#200x#270y	Watch...over the world...!?	
+0x1dac	0x98	NOI	#200x#270y	Watch... over the world...!?	
 0x1e11	0x98	Zext		While Creha and Selam relinquished	
 				their mission and slept...	
 0x1e6b	0x98	Zext		The humans of the surface shared	
@@ -63,17 +63,17 @@ EV_7_S14_battle_zext
 0x1ef4	0x98	Zext		...However, as years passed and new	
 				civilizations were built, the humans	
 				again started to grow foolish.	
-0x1f90	0x98	Zext		They killed animals, destroyed nature,	
-				killed their fellow man for wealth	
-				and power time and time again.	
-0x2021	0x98	Zext		And so, the destruction	
-				of the surface accelerated.	
-0x2088	0x98	ALTO	#1W#240x#270y	..................	mp_0000d 0x70fd
+0x1f90	0x98	Zext		They slaughtered animals, destroyed nature,	
+				killed their fellow man for wealth and	
+				power time and time again.	
+0x2021	0x98	Zext		And so, the destruction of	
+				the planet accelerated.	
+0x2088	0x98	ALTO	#1W#240x#270y	.....	mp_0000d 0x70fd
 0x2129	0x98	Zext		I was utterly disheartened...	
-				Humans, no matter what, grow	
-				to become such sinful creatures.	
-0x219f	0x98	Zext		The destruction of the surface	
-				can be avoided no longer...	
+				Humans, no matter what, grow to	
+				become such sinful creatures.	
+0x219f	0x98	Zext		World destruction can	
+				be avoided no longer...	
 0x2204	0x98	Zext		Just as I realized that,	
 				I found myself descended	
 				to Terra once again.	
@@ -95,21 +95,21 @@ EV_7_S14_battle_zext
 				to take it back.	
 0x2a2c	0x98	Zext	#4A	Back to a beautiful world where	
 				so many lives once prospered!!	
-0x2a9f	0x98	Zext	#2W#6A#18S	Remaking, begin!!	
+0x2a9f	0x98	Zext	#2W#6A#18S	Recreation, begin!!	
 0x2cb1	0x06	Zext		ANI_WAIT	
 0x2d33	0x06	ALTO		ANI_TENSION_WAIT	
 0x2df5	0x06	NOI		ANI_WORRIED	
 0x2e25	0x98	NOI	#6A#1W	I-It's starting!!	
-0x2e60	0x98	ALTO	#6A	Tch...!!	
+0x2e60	0x98	ALTO	#6A	Damn...!!	
 0x2e93	0x98	Zext	#140x#120y	...For the first step, we will	
 				drop a keystone to the surface.		
 0x2f00	0x06	NOI		ANI_WAIT	
-0x2f25	0x98	ALTO	#6A	A...keystone!?	
+0x2f25	0x98	ALTO	#6A	A... keystone!?	
 0x2f90	0x98	Zext	#140x#120y	Yes, and so, Terra will use it to	
 				anchor itself deeply into the ground...	
 0x2ffd	0x98	Zext	#140x#120y	And so, the Planetarium can then	
-					descend into the surface, and then	
-					the plan will finally be complete.	
+				descend into the surface, and then	
+				the Plan will finally be complete.	
 0x30c9	0x98	Zext	#140x#120y	The temporary history created by	
 				foolish humans is now at an end...!	
 0x314c	0x06	ALTO		ANI_TENSION_STRONG_DENY	
@@ -126,11 +126,11 @@ EV_7_S14_battle_zext
 0x33c9	0x06	NOI		ANI_COMPLAIN	
 0x33f2	0x98	NOI	#6A	Zext... Reconsider!	
 0x3426	0x98	NOI	#6A	There has to be something else that	
-				could be done besides Remaking!	
+				could be done besides the Recreation!	
 0x348b	0x98	NOI	#6A	If you are the same person who cared	
 				for Lady Creha and Lord Selam...	
 				You should already understand!	
-0x352d	0x98	Zext	#140x#120y	Something besides Remaking?	
+0x352d	0x98	Zext	#140x#120y	Something besides the Recreation?	
 0x35ba	0x06	Zext		ANI_DENY	
 0x35e8	0x98	Zext	#140x#120y	That's just an easy excuse	
 				that delays the problem!	
@@ -141,22 +141,22 @@ EV_7_S14_battle_zext
 0x389e	0x06	ALTO		ANI_TENSION_WAIT	
 0x396e	0x98	ALTO	#1W#6A	Even so...	
 0x3a42	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_1	
-0x3b6c	0x98	ALTO	#1W#16S#6A	I won't let you	
-				#16Swipe out the surface!	
+0x3b6c	0x98	ALTO	#1W#16S#6A	I won't let you wipe	
+				#16Sout the surface!	
 0x3bcb	0x98	ALTO	#2W#16S#6A	Everything we hold	
 				#16Sdear is there!!	
 0x3c22	0x06	NOI		ANI_GUTSPOSE	
 0x3c8a	0x98	NOI	#1W#16S	We'll stop you!	
 0x3d07	0x98	NOI	#1W#16S	And restore Lady Creha and	
-				#16S Lord Selam to normal!!	
+				#16SLord Selam to normal!!	
 0x3d88	0x98	Zext	#1W#480x#250y	...So, you will thwart my	
 				efforts to the bitter end.	
 0x3e05	0x98	Zext	#2W#480x#250y	Very well.	
-				Before entering the final command,	
+				Before executing the final commands,	
 				I will erase you myself.	
 0x4050	0x98	Zext	#1W	Lest we repeat the errors of the past,	
 				I shall erase all of you sinful humans.	
-0x40d6	0x98	Zext	#1W	Same goes to you, foolish Warden	
+0x40d6	0x98	Zext	#1W	Same goes to you, foolish warden	
 				who sides with the humans...
 0x41a7	0x98	Zext	#2W	I, Zext Ji Quarius Dominador of the Mitos...	
 0x4245	0x06	Zext		ANI_ATK8	
@@ -172,12 +172,12 @@ EV_7_S15_last_battle
 0x4cc4	0x06	Zext		ANI_TIRED_WAIT	
 0x4e61	0x06	Creha		ANI_STONE	
 0x4f05	0x98	Zext	#2W	...Impossible!!	
-0x4f37	0x98	Zext	#1W	I lost...to a human...	
-				and a Warden...!!	
+0x4f37	0x98	Zext	#1W	I lost... to a human...	
+				and a warden...!!	
 0x4f96	0x98	ALTO	#1W	*huff*, *huff*...	
-0x4fd0	0x98	NOI	#1W#6A	All right...we won!!	
+0x4fd0	0x98	NOI	#1W#6A	All right... We won!!	
 0x5115	0x98	Zext	#2W	...Guh....	
-0x5902	0x98	ALTO		Ah...!!	mp_7098 0xca10
+0x5902	0x98	ALTO		Oh...!!	mp_7098 0xca10
 0x5931	0x98	NOI	#16S	Lady Creha!!	mp_0100 0xc2b1
 0x596b	0x06	Creha		ANI_WAKE_UP_FROM_STONE	
 0x5a9b	0x06	ALTO		ANI_SIT6	
@@ -199,25 +199,25 @@ EV_7_S15_last_battle
 0x6034	0x98	ALTO	#6A	...Enough.	
 0x6067	0x98	ALTO	#6A	There's no point in	
 				continuing this fight.	
-0x60a4	0x98	ALTO	#6A	You can join all of us and	
-				search together for a path	
-				forward outside of Remaking.	
+0x60a4	0x98	ALTO	#6A	You can join all of us and search	
+				together for a path forward	
+				outside of recreation.	
 0x6196	0x98	Zext	#18S	...Quiet!!	
-0x61cd	0x98	Zext	#1W	I must...I must fulfill	
+0x61cd	0x98	Zext	#1W	I must... I must fulfill	
 				the duty of the Mitos!	
 0x6223	0x98	Zext	#0W	And save our dying planet!!	
 0x63d5	0x06	NOI		ANI_SURPRISE	
 0x6412	0x98	NOI	#18S	...!?	
 0x645f	0x98	ALTO	#16S	...Wha...	
-0x649a	0x98	Creha	#1W#6A	...............	mp_0001 0xc917
+0x649a	0x98	Creha	#1W#6A	.......	mp_0001 0xc917
 0x6574	0x06	Zext		ANI_HOLD_FACE	
 0x65bd	0x98	Zext	#1W#6A	...Wh-What was that...	
-				...That sound just now...?	
+				...that sound just now...?	
 0x6619	0x98	Zext	#1W#6A	...My face...?	
 0x674f	0x06	ZextRobo		ANI_HOLD_FACE	
 0x6937	0x06	ZextRobo		ANI_BRAKE_FACE	
 0x69d5	0x3F	Name		Zext	
-0x69e1	0x98	ZextRobo	#18S	Tch...!!!?	
+0x69e1	0x98	ZextRobo	#18S	！！！？	
 0x6a55	0x06	ZextRobo		ANI_BRAKE_CHEST	
 0x6b39	0x98	ZextRobo	#1W	Wh-What the...!?	
 0x6ba6	0x98	ZextRobo	#16S	What the hell is this!?	
@@ -229,11 +229,11 @@ EV_7_S15_last_battle
 0x6e58	0xBC	ALTO		Exclamation	
 0x6e8e	0xBC	NOI		Exclamation	
 0x6f33	0x3F	Name		Zext	mp_7099c 0x69d5
-0x6f3f	0x98	ZextRobo	#1W#0x#250y#6A	What...what do you mean...!?	
+0x6f3f	0x98	ZextRobo	#1W#0x#250y#6A	What... What do you mean...!?	
 0x6fd6	0x98	NOI	#6A	...!! Lady Creha, is he...?	
 0x703e	0xBC	Creha		Ellipsis	
-0x707d	0x98	Creha	#0W#6A	His true identity is...	
-0x7125	0x98	Creha	#0W#6A	...He's the idol of the Planetarium.	
+0x707d	0x98	Creha	#0W#6A	His true identity...	
+0x7125	0x98	Creha	#0W#6A	...Is the idol of the Planetarium.	
 0x71c5	0x3F	Name		Zext	mp_7099c 0x69d5
 0x71d1	0x98	ZextRobo	#0x#250y#16S#6A	！！！！	mp_0100a 0xda21
 0x721c	0x98	ALTO		An idol...!?	
@@ -257,8 +257,8 @@ EV_7_S15_last_battle
 0x7618	0x98	NOI	#0W#6A	I-I never knew
 				about this...	
 0x768c	0x98	Creha	#6A	We only created Noi and the	
-				other Wardens afterwards, so...	
-0x7823	0x98	ZextRobo	#16S	Si-Silence!!	
+				other wardens afterwards, so...	
+0x7823	0x98	ZextRobo	#16S	S-Silence!!	
 0x7896	0x98	ZextRobo	#0W	Did you think I would ever	
 				believe such preposterous lies!?	
 0x78fb	0x98	Creha	#6A	No, this is the honest truth.	
@@ -268,9 +268,9 @@ EV_7_S15_last_battle
 0x79a6	0x98	Creha	#6A	And at some point, you
 				began to think of yourself	
 				as the real Zext.	
-0x7a11	0x98	Creha	#6A	But... The one thing you
+0x7a11	0x98	Creha	#6A	But... the one thing you
 				could never forget was	
-				the Remaking mission.	
+				the Recreation mission.	
 0x7a83	0x98	Creha	#6A	As the Planetarium, that was the
 				whole reason you were created...	
 0x7b0a	0x98	ZextRobo	#1W	...Tch...!	mp_0110 0x31601
@@ -283,8 +283,8 @@ EV_7_S15_last_battle
 				decided to be extra careful	
 				in preparing to awaken me.	
 0x7cd0	0x98	Creha	#6A	Five years later, you finally	
-				resumed execution of the plan...	
-0x7d43	0x98	ALTO	#6A	And that's...that's when	
+				resumed carrying out the plan...	
+0x7d43	0x98	ALTO	#6A	And that's... that's when	
 				Cygna and I got involved...	
 0x7dd6	0x98	NOI	#0W#6A	An idol gone mad over	
 				a task too great to	
@@ -298,8 +298,8 @@ EV_7_S15_last_battle
 0x8093	0x06	ZextRobo		ANI_WALK_BACK	
 0x8218	0x06	komono17		ANI_FALL	
 0x826e	0x98	ZextRobo	#0W#45M	I am not the leader of the Mitos...	
-0x82c4	0x98	ZextRobo	#2W#45M	I am...wrong?	
-0x8303	0x98	ZextRobo	#0W#45M	Why was I...created...?	
+0x82c4	0x98	ZextRobo	#2W#45M	I am... wrong?	
+0x8303	0x98	ZextRobo	#0W#45M	Why was I... created...?	
 0x84d3	0x06	ALTO		ANI_SUPPORT_CREHA3_MIRROR	
 0x854f	0x06	Creha		ANI_SUPPORTED_MIRROR	
 0x8669	0x06	ZextRobo		ANI_HOLD_FACE	
@@ -308,7 +308,7 @@ EV_7_S15_last_battle
 0x87b5	0x98	ZextRobo	#20S#50M	Hahahahahahahaha...	
 0x884e	0x06	ZextRobo		ANI_FALL_TO_WATER	
 0x8a13	0x98	NOI	#1W#6A	...Zext...	
-0x8a4a	0x98	Creha	#0W#6A	He is... To me and my brother,	
+0x8a4a	0x98	Creha	#0W#6A	He is... to me and my brother,	
 				he was no different to us	
 				from our real father.	
 0x8ab9	0x98	Creha	#0W#6A	He was kind, most of all...	
@@ -318,7 +318,7 @@ EV_7_S15_last_battle
 0x8be9	0x6B	ALTO		Exclamation	
 0x8c1f	0x6B	NOI		Exclamation	
 0x8c48	0x6B	Creha		Exclamation	
-0x8c7b	0x98	ALTO	#1W#6A	T-This is!?	mp_0101a 0xc74
+0x8c7b	0x98	ALTO	#1W#6A	Wh-What is this!?	mp_0101a 0xc74
 0x8d92	0x06	ALTO		ANI_SUPPORT_CREHA3_MIRROR	
 0x8e1f	0x06	Creha		ANI_SUPPORTED_MIRROR	
 0x8fc0	0x06	b006		ANI_APPEAR_0	
@@ -329,10 +329,10 @@ EV_7_S15_last_battle
 0x9a41	0x41	None	#2E#733c#1W	Then in accordance with my sacred duty...
 				Let it all return to nothingness...!#0E	
 0x9b19	0x41	None	#2E#733c#1W#16S	...Now is the time for the	
-				Remaking to take place...!#0E	
+				Recreation to take place...!#0E	
 0x9d5a	0x98	NOI	#6A#16S	That's the idol of the Planetarium!	
 0x9da7	0x98	NOI	#6A#16S	It's "Zext's" true form! 	
-0x9df2	0x98	ALTO	#16S	Wh-What do we do!?	mp_2099 0x4f2e
+0x9df2	0x98	ALTO	#16S	Wh-What can we do!?	mp_2099 0x4f2e
 0x9e52	0x98	Creha	#6A	The Planetarium has given	
 				itself the final command!!	
 0x9edc	0x98	NOI	#6A	Nayuta, we have to stop this!!	
@@ -340,7 +340,7 @@ EV_7_S15_last_battle
 				Everyone on Remnant Island will...!	
 0x9fc5	0x98	ALTO	#0W	(Tch, I don't have much strength	
 				 left after that last battle...)	
-0xa087	0x98	ALTO	#0W	(But... #0WThere's no way we can give up here!!)	
+0xa087	0x98	ALTO	#0W	(But... #0Wthere's no way we can give up here!!)	
 0xa10e	0x41	None	#0W#1E#889c	...Oh man, looks like I'm	
 				just in the nick of time.#0E	
 0xa27b	0x06	ALTO		ANI_SUPPORT_CREHA3_MIRROR	
@@ -382,8 +382,8 @@ EV_7_S15_last_battle
 				the vast sea of stars!#0E	
 0xb9a5	0x98	ALTO	#2W#6A	...It's do or die.	
 0xb9e5	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_1	
-0xba6f	0x98	ALTO	#0W#6A#16S	I'll...relieve him	
-				from his duty!	
+0xba6f	0x98	ALTO	#0W#6A#16S	We'll... relieve him	
+				#16Sfrom his duty!	
 0xbac7	0x06	NOI		ANI_GUTSPOSE	
 0xbafe	0x98	NOI	#1W#6A	Yeah...!!	
 				And return to Remnant	
@@ -409,7 +409,7 @@ EV_7_S16_defeat_zext
 0xc834	0xBC	NOI		Ellipsis	
 0xc871	0x98	NOI	#6A	...He was the embodiment	
 				of the Planetarium itself.	
-0xc8b6	0x98	NOI	#6A	The Remaking was the sole	
+0xc8b6	0x98	NOI	#6A	The Recreation was the sole	
 				reason for his existence.	
 0xc910	0x06	NOI		ANI_WAIT	
 0xc977	0x98	NOI	#6A	I guess he couldn't escape his	
@@ -433,7 +433,7 @@ EV_7_S16_defeat_zext
 0xcdcc	0x06	ALTO		ANI_THANKS	
 0xcdfc	0x98	ALTO	#6A	Creha... Thanks.	
 0xce56	0xBC	Creha		Surprise	
-0xcef9	0x98	Creha	#0W	..................!	mp_0100b 0x2218
+0xcef9	0x98	Creha	#0W	......!	mp_0100b 0x2218
 0xcf40	0xBC	ALTO		Surprise	
 0xcfb3	0xBC	NOI		Surprise	
 0xd00d	0xBC	Signa		Surprise	
@@ -441,14 +441,14 @@ EV_7_S16_defeat_zext
 0xd0ef	0x06	Signa		ANI_GESTURE2	
 0xd11a	0x98	Signa		What's going on all of a sudden?	
 0xd17e	0x06	Creha		ANI_THINK	
-0xd1a6	0x98	Creha	#0W	...Something is...not	
+0xd1a6	0x98	Creha	#0W	...Something is... not	
 				right on the surface...?	
 0xd26c	0x98	Creha	#1W	...This can't be...!?	
 EV_7_S18_go_astrolabe
 0xd93b	0xBC	ALTO		Unknown	
 0xd971	0x06	ALTO		ANI_COMPLAIN	
 0xd99b	0x98	ALTO	#0W#6A	The core is falling apart!?	
-0xd9fb	0x98	ALTO	#1W#6A	N-No way...#0WWhy!?	
+0xd9fb	0x98	ALTO	#1W#6A	N-No way... #0WWhy!?	
 0xda90	0x98	Creha		The planet's core was already	
 				on the verge of collapse...	
 0xdadd	0x98	Creha		It looks like the impact of the	
@@ -461,21 +461,21 @@ EV_7_S18_go_astrolabe
 0xdc69	0x98	ALTO	#0W#6A	C-Calamity?	
 0xdca3	0xBC	NOI		Unknown	
 0xdcd8	0x06	NOI		ANI_WORRIED	
-0xdd00	0x98	NOI	#6A	Wh-What do we do!?	mp_2099 0x4f2e
+0xdd00	0x98	NOI	#6A	Wh-What can we do!?	mp_2099 0x4f2e
 0xdd3f	0x06	Signa		ANI_GESTURE2	
 0xdd89	0x98	Signa		What can we do to lend a hand?	
-0xddbb	0x98	Signa		Maybe we can control the	
+0xddbb	0x98	Signa		Maybe we can manipulate the	
 				Power of Stars, and then...!	
 0xde7d	0x06	Creha		ANI_THINK	
-0xdead	0x98	Creha	#1W	..................	mp_0000d 0x70fd
+0xdead	0x98	Creha	#1W	.....	mp_0000d 0x70fd
 0xdf0a	0x98	Creha		...It's no good, there's not enough...	
 				There's not enough of our power left...	
 0xdf71	0x98	ALTO	#1W#6A	N-No way...	mp_0111 0x86c0
 0xdffd	0x06	Signa		ANI_WAIT5	
-0xe025	0x98	Signa	#2W	.....................	mp_0003 0xc610
-0xe05e	0x98	Signa	#0W	...After all this...	
-				Is Remaking our only	
-				option left...?	
+0xe025	0x98	Signa	#2W	.........	mp_0003 0xc610
+0xe05e	0x98	Signa	#0W	...After all that...	
+				Is the Recreation our	
+				only option left...?	
 0xe0bb	0xBC	ALTO		Exclamation	
 0xe110	0xBC	NOI		Exclamation	
 0xe163	0xBC	Creha		Exclamation	
@@ -484,26 +484,26 @@ EV_7_S18_go_astrolabe
 				all that trouble to stop it!	
 0xe2b0	0x06	Signa		ANI_DENY	
 0xe31d	0x98	Signa		I don't want to do it either!	
-0xe363	0x98	Signa		...But it's better than	
-				letting fall into complete	
+0xe363	0x98	Signa		...But it's better than letting	
+				everything fall into complete	
 				and utter destruction...	
 0xe3e9	0x06	ALTO		ANI_THINK2	
-0xe455	0x98	ALTO	#1W#6A	...............	mp_0001 0xc917
+0xe455	0x98	ALTO	#1W#6A	.......	mp_0001 0xc917
 0xe48a	0x98	ALTO	#6A	(Really... Is this	
 				 the only way?)	
 0xe4d7	0x98	ALTO	#6A	(Think, Nayuta Herschel...!)	
 0xe515	0x98	ALTO	#6A	(For our planet...	
 				 For Remnant Island,	
 				 How can we save it...?)	
-0xe64e	0x98	ALTO	#6A#0W	...............	mp_0001 0xc917
+0xe64e	0x98	ALTO	#6A#0W	.......	mp_0001 0xc917
 0xe683	0x98	ALTO	#6A#0W	...The Astrolabe...	
 0xe702	0x06	ALTO		ANI_GOODIDEA	
 0xe734	0x98	ALTO		Noi, what if we used	
 				the Astrolabe!?	
-0xe7c0	0x98	NOI	#6A	The...Astrolabe...?	
+0xe7c0	0x98	NOI	#6A	The... Astrolabe...?	
 0xe7f8	0x06	ALTO		ANI_GESTURE1	
 0xe822	0x98	ALTO		The Astrolabe can use the	
-				Power of Stars to manipulate	
+				Power of Stars to control	
 				the environment, right!?	
 0xe887	0x98	ALTO		Couldn't we use it to stop	
 				the core from breaking down!?	
@@ -522,7 +522,7 @@ EV_7_S18_go_astrolabe
 				it would fall inside the	
 				Astrolabe's area of effect...	
 0xeda6	0x06	ALTO		ANI_DEJECTED	
-0xedd0	0x98	ALTO	#6A	Oh...okay...	
+0xedd0	0x98	ALTO	#6A	Oh... okay...	
 0xee29	0x98	Signa		...Damn it!!	
 0xeeba	0xBC	NOI		Ellipsis	
 0xef4e	0x98	NOI	#6A#1W	...Maybe...	
@@ -554,7 +554,7 @@ EV_7_S18_go_astrolabe
 0xf5c6	0x06	ALTO		ANI_NOD	
 0xf5eb	0x98	ALTO		This could be the only	
 				way to save the world	
-				apart from Remaking it.	
+				apart from remaking it.	
 0xf651	0x98	ALTO		If we agree on this...!	
 0xf6f3	0xBC	ALTO		Exclamation	
 0xf731	0xBC	NOI		Exclamation	
@@ -564,12 +564,12 @@ EV_7_S18_go_astrolabe
 0xf80e	0x06	NOI		ANI_SURPRISE	
 0xf837	0x06	Signa		ANI_SURPRISE	
 0xf862	0x06	Creha		ANI_SURPRISE	
-0xfa10	0x98	Signa		Tch... This whole place is	
+0xfa10	0x98	Signa		Shit... This whole place is	
 				starting to fall apart!!	
 0xfa89	0x98	Creha		The Planetarium's	
 				idol HAS fallen...	
-0xfafe	0x98	NOI	#6A#1W	.....................	mp_0003 0xc610
-0xfb8d	0x98	NOI	#6A	...Nayuta, Lady Creha, everyone	
+0xfafe	0x98	NOI	#6A#1W	.........	mp_0003 0xc610
+0xfb8d	0x98	NOI	#6A	...Nayuta, Lady Creha, everyone,	
 				get to the Astrolabe!	
 0xfce7	0x98	ALTO		Huh...? What about you, Noi!?	
 0xfd2c	0x06	NOI		ANI_GUTSPOSE	
@@ -577,7 +577,7 @@ EV_7_S18_go_astrolabe
 				collapse of the Planetarium!	
 0xfdb1	0x98	NOI	#6A	For this to work, we need
 				the Planetarium's power...	
-				We can't just leave it alone!	
+				We can't just leave it be!	
 0xfe1d	0x98	NOI	#6A	You guys go on ahead	
 				and get ready!	
 0xfe98	0x06	Creha		ANI_WAIT4	
@@ -599,7 +599,7 @@ EV_7_S18_go_astrolabe
 				Time for some	
 				finishing touches!	
 0x10769	0xBC	NOI		Ellipsis	
-0x107ae	0x98	NOI	#1W	..................	mp_0000d 0x70fd
+0x107ae	0x98	NOI	#1W	.....	mp_0000d 0x70fd
 0x107f0	0x98	NOI	#2W	...Nayuta, Lady Creha, Cygna...	
 0x10867	0x98	NOI	#1W	...I'm sorry.	
 0x108ef	0x98	NOI	#1W	The Planetarium...	

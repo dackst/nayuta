@@ -13,7 +13,7 @@ SB_7_S04_appear_ALTO
 SB_7_S04_appear_NOI
 EV_7_S04_temple5_front
 0x1b94	0x06	ALTO		ANI_LOOK_AROUND	
-0x1bc1	0x98	ALTO		Is this...some kind of temple?	
+0x1bc1	0x98	ALTO		Is this... some kind of temple?	
 0x1c9d	0x98	NOI		This is where the command center	
 				for the Planetarium, the most	
 				important part of Terra, is kept.	
@@ -39,7 +39,7 @@ EV_7_S05_check_starball
 				also plays a crucial role in	
 				performing the Remaking.	
 0x2697	0x06	ALTO		ANI_GESTURE2	
-0x26c1	0x98	ALTO		What...role is that?	
+0x26c1	0x98	ALTO		What... role is that?	
 0x2728	0x41	None	#0W#1E#889c	Allow me to tell you.#0E	
 0x27a4	0x6B	ALTO		Exclamation	
 0x27d6	0x6B	NOI		Exclamation	
@@ -61,16 +61,16 @@ EV_7_S05_check_starball
 0x2c3c	0x41	None	#0W#1E#889c	Heheh, just up ahead.	
 				...You should come.#0E	
 0x2d09	0x06	NOI		ANI_GESTURE1	
-0x2d32	0x98	NOI		Nayuta!	mp_0000c 0x734d
+0x2d32	0x98	NOI		Nayuta...!	mp_0000c 0x734d
 0x2d90	0x06	ALTO		ANI_JOY	
 0x2db5	0x98	ALTO	#6A	Let's go, Noi!	mp_1099 0x152c1
 0x2f9c	0xCE	Objective		...Cygna's beckons. Let's go!	
 SB_7_S06_appear_ALTO
 SB_7_S06_appear_NOI
 EV_7_S06_meet_seram
-0x3466	0x98	Seram		I've grown tired of	
-				waiting...Nayuta Herschel.	
-0x35fb	0x98	ALTO	#6A	Cygna!	mp_0100 0x1d946
+0x3466	0x98	Seram		I've grown tired of waiting...	
+				Nayuta Herschel.	
+0x35fb	0x98	ALTO	#6A	Cygna...!	mp_0100 0x1d946
 0x362c	0x06	NOI		ANI_GESTURE1	
 0x3655	0x98	NOI	#6A	Lord Selam... Where are	
 				Zext and Lady Creha!?	
@@ -79,15 +79,15 @@ EV_7_S06_meet_seram
 0x371f	0x98	Seram		This is only a remote interface	
 				point for the Planetarium...	
 0x377a	0x06	Seram		ANI_GESTURE2	
-0x37a5	0x98	Seram		In order to run the Remaking,	
+0x37a5	0x98	Seram		In order to run the Recreation,	
 				Creha and I both need to
-				execute the command in person.	
+				execute commands in person.	
 0x3817	0x06	ALTO		ANI_COMPLAIN	
 0x3841	0x98	ALTO	#6A	But that's not... That's	
 				not what Creha wants!	
 0x389a	0x06	ALTO		ANI_GESTURE2	
 0x38c4	0x98	ALTO	#6A	She told me she was going	
-				to stop the Remaking!	
+				to stop the Recreation!	
 0x393b	0x98	Seram		Yeah... Thanks to you guys'	
 				little intervention.	
 0x399d	0x06	Seram		ANI_GESTURE1	
@@ -99,10 +99,10 @@ EV_7_S06_meet_seram
 				reducing her to a doll whose only	
 				purpose is completing the mission.	
 0x3ada	0x06	NOI		ANI_SURPRISE	
-0x3b17	0x98	NOI	#6A#16S	!!!?	
+0x3b17	0x98	NOI	#6A#16S	！！！？	
 0x3bb7	0x06	Seram		ANI_DENY	
-0x3bde	0x98	Seram	#6A 	Creha has been attempting to resist	
-				so far... But, it's only a matter of	
+0x3bde	0x98	Seram	#6A	Creha has been attempting to resist	
+				so far... But it's only a matter of	
 				time until she succumbs.	
 0x3cb4	0x98	ALTO		Wh-What the...	
 0x3d4d	0x06	ALTO		ANI_GESTURE1	
@@ -114,7 +114,7 @@ EV_7_S06_meet_seram
 				of the Mitos, this is	
 				but a small sacrifice.	
 0x3eae	0x06	Seram		ANI_GESTURE2	
-0x3ed9	0x98	Seram	#6A#0W	If it prevents the Remaking of the world...	
+0x3ed9	0x98	Seram	#6A#0W	If it prevents the remaking of the world...	
 				The mind is nothing more than a hindrance.	
 0x3f5a	0x06	NOI		ANI_COMPLAIN	
 0x3fa0	0x98	NOI		Lord Selam,	
@@ -130,13 +130,13 @@ EV_7_S06_meet_seram
 				degradation that originally caused the
 				planet's destruction are happening again...	
 0x41dc	0x06	Seram		ANI_NOD	
-0x4202	0x98	Seram	#6A	...We should have performed	
-				the Remaking after all.	
+0x4202	0x98	Seram	#6A	...We should have carried out	
+				the Recreation after all.	
 0x4270	0x06	ALTO		ANI_DENY	
 0x42b4	0x98	ALTO		So... You think the right	
 				thing to do now is erasing	
 				the current surface!?	
-0x4311	0x98	ALTO		That's...that's just not right!	
+0x4311	0x98	ALTO		That's... that's just not right!	
 0x4351	0x06	ALTO		ANI_GESTURE2	
 0x4399	0x98	ALTO		If you were the same person I	
 				knew on Remnant Island, you	
@@ -177,16 +177,16 @@ EV_7_S06_meet_seram
 0x4e27	0x98	ALTO	#1W	I will never lose to someone who's	
 				ready to give up on everything!
 0x4e7b	0x06	ALTO		ANI_JOY	
-0x4ed4	0x98	ALTO	#2W	And then...I'll get	
+0x4ed4	0x98	ALTO	#2W	And then... I'll get	
 				Creha back, too!	
 0x4f1c	0x6B	NOI		Ellipsis	
 0x4f95	0x98	NOI	#1W#6A	Got it... I'll let you
 				handle this one, Nayuta.	
 0x5015	0x06	NOI		ANI_GUTSPOSE	
-0x5054	0x98	NOI	#0W#6A	I'm sure...this must be	
-				something that only best	
-				friend can accomplish. 	
-0x52ce	0x98	Seram	#2W	Hehe...	mp_0110 0x20945
+0x5054	0x98	NOI	#0W#6A	I'm sure... this must be	
+				something that only his	
+				best friend can accomplish. 	
+0x52ce	0x98	Seram	#2W	Heheh...	mp_0110 0x20945
 0x5301	0x06	Seram		ANI_LAUGH	
 0x5389	0x98	Seram	#3W#16S	Hahahahahahaha!!	
 0x542e	0x06	Seram		ANI_WAIT3	
@@ -216,8 +216,8 @@ EV_7_S09_seram_stone
 0x6680	0x98	ALTO	#1W#6A	*huff*, *huff*...	
 				I-I did it...	
 0x66ca	0x98	Seram	#1W#380x#120y	...*huff*, *huff*...	
-0x670a	0x98	Seram	#0W#380x#120y	It can't be...he...	
-				He really beat me, huh...?	
+0x670a	0x98	Seram	#0W#380x#120y	It can't be... You...	
+				You really beat me, huh...?	
 0x6776	0x06	ALTO		ANI_NOUTOU	
 0x67f8	0x98	ALTO	#0W#6A	Haha... That's the first time	
 				I've ever beaten you in a fight.	
@@ -229,8 +229,8 @@ EV_7_S09_seram_stone
 0x6950	0xBC	Seram		Ellipsis	
 0x698f	0x06	Seram		ANI_WAKE_UP	
 0x6ab0	0x98	Seram	#6A	...I sincerely believed the	
-				Remaking needed to happen from	
-				the bottom of my heart.	
+				Recreation needed to happen	
+				from the bottom of my heart.	
 0x6b21	0x98	Seram	#6A	Since joining the city guard in San Ceriz,	
 				I've been exposed to some of the nastiest	
 				scum of the human world.	
@@ -239,11 +239,11 @@ EV_7_S09_seram_stone
 0x6c0d	0x06	NOI		ANI_GESTURE1	
 0x6c36	0x98	NOI		Lord Selam...	
 0x6c6c	0x98	Seram	#6A	I had prepared myself to wipe out	
-				Remnant Island in the Remaking...		
+				Remnant Island in the Recreation...		
 0x6cfa	0x98	Seram	#6A	By carrying the guilt and suffering of	
 				that sin into eternity, I would atone...	
 0x6d75	0x06	ALTO		ANI_DENY	
-0x6d9b	0x98	ALTO		That's so...sad.	
+0x6d9b	0x98	ALTO		That's so... sad.	
 0x6dec	0x98	Seram	#6A	...I know.	
 0x6e1f	0x98	Seram	#6A	But some things	
 				can't be gained	
@@ -256,10 +256,10 @@ EV_7_S09_seram_stone
 0x6faa	0x98	ALTO		There's got to be a way...	
 				A way to save everything!	
 0x7003	0x06	ALTO		ANI_JOY	
-0x7028	0x98	ALTO		I...I will find it for sure!	
+0x7028	0x98	ALTO		I... I will find it for sure!	
 0x707b	0x98	NOI		...Nayuta...	mp_5200 0x5763
 0x70ae	0x98	Seram	#6A	...So that's what...
-				...You've determined...	
+				...you've determined...	
 0x70f9	0xBC	Seram		Ellipsis	
 0x7157	0x98	Seram	#6A	...Thank you.	mp_0100a 0x8a4e
 0x71a6	0x06	ALTO		ANI_GESTURE2	
@@ -267,7 +267,7 @@ EV_7_S09_seram_stone
 0x72a3	0x98	Seram		Since I returned to being Selam,	
 				I was always betting on one thing.	
 0x7304	0x98	Seram		In denial, I proceeded with the	
-				Remaking with an unwavering will... 	
+				Recreation with an unwavering will... 	
 0x736e	0x98	Seram		But then someone with	
 				the power to challenge	
 				that will appeared.	
@@ -285,17 +285,17 @@ EV_7_S09_seram_stone
 				of strength and will.	
 0x7662	0x98	Seram		Because of that, I, too...	
 				I, too, can admit that the	
-				Remaking would be a mistake.	
+				Recreation would be a mistake.	
 0x76d5	0x98	Seram		I thank you, Nayuta.	
 0x7712	0x06	ALTO		ANI_WAIT4	
 0x7739	0x98	ALTO	#6A	...Jeez. You're	
 				beyond stubborn.	
 0x7789	0x98	ALTO	#6A	Your willingness to go straight ahead	
-				on the path you believe in is USUALLY	
-				one of your good traits.	
+				on the path you believe in is usually	
+				one of your good traits.	# reference to intro scene, should be worded similarly
 0x7827	0x06	ALTO		ANI_GESTURE1	
-0x7851	0x98	ALTO	#6A	But...don't let it	
-				worry you too much.	
+0x7851	0x98	ALTO	#6A	But... Don't let it get	
+				to you too badly.	
 0x78bf	0x98	Seram		Haha... My bad, man.	
 				I'm just a big fat mess. 	
 0x7937	0x06	Seram		ANI_STANDUP	
@@ -308,8 +308,8 @@ EV_7_S09_seram_stone
 0x7dfe	0x06	Signa		ANI_DENY	
 0x7e33	0x98	Signa	#1W	Not as Selam Il Ordene	
 				of the Mitos...	
-0x7eb4	0x98	Signa	#2W	But as Cygna Alhazen,	
-				a human from the surface.	
+0x7eb4	0x98	Signa	#2W	But as the human from the	
+				surface, Cygna Alhazen.	
 0x80f5	0x98	ALTO	#1W	Cygna...!	mp_0100 0x1d946
 0x8126	0x06	NOI		ANI_GESTURE2	
 0x816c	0x98	NOI		You're back!	
@@ -332,11 +332,11 @@ EV_7_S09_seram_stone
 0x84a3	0x06	NOI		ANI_GUTSPOSE	
 0x84e9	0x98	NOI		We have two of the Shining	
 				Wings of the Mitos. We can	
-				stop the Remaking!	
+				stop the Recreation!	
 0x8578	0x06	Signa		ANI_GESTURE1	
 0x85a3	0x98	Signa	#6A	Yeah... Then let's all	
 				come up with a way forward	
-				other than Remaking.	
+				other than recreation.	
 0x8631	0x98	Signa	#6A	...We may have no choice	
 				but to defeat Zext...	
 0x8686	0xBC	ALTO		Surprise	
@@ -353,13 +353,13 @@ EV_7_S09_seram_stone
 0x89dc	0xBC	ALTO		Exclamation	
 0x8a38	0x6B	Signa		Exclamation	
 0x8a6b	0xBC	NOI		Exclamation	
-0x8f93	0x98	NOI	#0x#500y	──Zext!!	mp_5200 0x1c08
+0x8f93	0x98	NOI	#0x#500y	Zext!!	mp_5200 0x1c08
 0x8fcc	0x98	Signa	#500x#500y	Tch... So you're here.	
 0x92d6	0x98	Zext		...I asked, what are you doing?	
 0x931b	0x98	Zext		Selam, do you intend to betray me?	
 0x9365	0x06	Signa		ANI_GESTURE2	
-0x9390	0x98	Signa	#6A	Haha... Well, they usually say	
-				teenage rebellious is just a phase.	
+0x9390	0x98	Signa	#6A	Haha... Well, they usually just call	
+				it a teenage rebellious phase.	
 0x93ea	0x06	ALTO		ANI_BATTOU2	
 0x945d	0x98	ALTO	#6A	W-Wait... Where is Creha now!?	
 0x949e	0x98	ALTO	#6A	There's no way her mind	
@@ -367,12 +367,12 @@ EV_7_S09_seram_stone
 0x951c	0x98	Zext		Creha...? Ah, that	
 				good-for-nothing	
 				daughter of mine.	
-0x956d	0x98	Zext		Heheh, now...where, indeed?	
+0x956d	0x98	Zext		Heheh, now... where, indeed?	
 0x95b6	0x6B	Signa		Exclamation	
 0x95e9	0x06	Signa		ANI_GESTURE1	
-0x9614	0x98	Signa	#6A	Hey, wait...this feeling...	
+0x9614	0x98	Signa	#6A	Hey, wait... This feeling...	
 0x965d	0x06	Signa		ANI_COMPLAIN	
-0x9688	0x98	Signa	#6A	It's...the Shining
+0x9688	0x98	Signa	#6A	It's... the Shining
 				Wing of the Mitos...!	
 0x96e1	0x6B	NOI		Exclamation	
 0x9712	0x06	ALTO		ANI_TENSION_SURPRISE	
@@ -382,21 +382,21 @@ EV_7_S09_seram_stone
 0x97dc	0x06	NOI		ANI_COMPLAIN	
 0x9805	0x98	NOI	#16S#6A	What have you done	
 				to Lady Creha!?	
-0x9861	0x98	Zext	#1W	..................	mp_0000d 0x70fd
+0x9861	0x98	Zext	#1W	.....	mp_0000d 0x70fd
 0x9896	0x98	Zext	#0W	She is dead.	
 0x98ec	0x3F	Name		Everyone	mp_0100 0x1b196
 0x98fc	0x98	ALTO	#18S#N#240x#200y	！！！？	
 0x9948	0x98	Zext		I was planning to reshape her	
-				identity, but... She proved	
+				identity, but... she proved	
 				to be a little too stubborn.	
 0x99b3	0x98	Zext		I reclaimed the Shining Wing necessary	
-				for the Remaking, as well as stripped	
+				for the Recreation, as well as stripped	
 				her of all her power.	
 0x9a51	0x98	Zext		She will never wake again.	
 0x9a93	0x06	ALTO		ANI_TENSION_STRONG_DENY	
 0x9ac8	0x98	ALTO	#1W#6A	Oh, no!	
 0x9afd	0x06	NOI		ANI_GESTURE1	
-0x9b26	0x98	NOI	#0W#6A	No...way...	
+0x9b26	0x98	NOI	#0W#6A	No... way...	
 0x9cb5	0x06	Signa		ANI_WAIT3	
 0xa0a2	0x98	Signa	#16S	Zext, you bastard!!	
 0xa42a	0x06	Signa		ANI_WAIT3	
@@ -408,7 +408,7 @@ EV_7_S09_seram_stone
 0xab23	0x98	Signa	#240x#0y#16S	Guwah...!?	
 0xac36	0x06	Zext		ANI_PIERCE3	
 0xac5f	0x06	Signa		ANI_PIERCED2	
-0xad3c	0x98	ALTO	#N#16S	Cygna!!	mp_7098 0x2991
+0xad3c	0x98	ALTO	#N#16S	...Cygna!!	mp_7098 0x2991
 0xad75	0x98	Zext	#6A#0x#50y	It is unlike you lose your composure	
 				over something as simple as this...
 0xade8	0x98	Zext	#6A#0x#50y	You, too, have become impure after	
@@ -417,44 +417,44 @@ EV_7_S09_seram_stone
 0xb45e	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0xb64f	0x06	NOI		ANI_SURPRISE	
 0xb678	0x98	NOI	#6A	Ah... Cygna's Shining Wing!	
-0xb6be	0x98	Zext_b		Heheheh...The power that I once	
+0xb6be	0x98	Zext_b		Heheheh... The power that I once	
 				shared has returned to my hand.	
 0xb72c	0x98	Zext_b		My children, your sacrifices	
-				have not been in vain.	
+				will not go in vain.	
 0xb906	0x06	Zext_b		ANI_PUT_UP_ROD	
 0xb9ba	0x98	Zext_b	#1W	Planetarium...!	
-				Awaken now!!	
+				Awaken!!	
 0xc305	0x98	NOI	#0W#0x#500y	The Planetarium...	
-				It's starting to move!!	
+				It's beginning to start!!	
 0xc361	0x98	Zext_b	#0W#500x#500y	Heheh, beautiful...	
 0xc4d6	0x98	Zext_b		...Farewell, son of man.	
 0xc51f	0x98	Zext_b		Soon you will witness the end	
 				of your temporary world.	
-0xc5df	0x98	ALTO	#6A#16S	W-Wait!!	mp_5200 0x4a36
+0xc5df	0x98	ALTO	#6A#16S	W-Wait...!!	mp_5200 0x4a36
 0xc7b4	0x06	Signa		ANI_SLEEP2	
 0xc98c	0x06	NOI		ANI_DENY	
 0xca10	0x98	NOI		Oh...!!	
 0xca36	0x06	NOI		ANI_WORRIED	
 0xca86	0x06	ALTO		ANI_NOUTOU	
-0xcb00	0x98	NOI		At this rate...the	
-				Remaking will begin!!	
+0xcb00	0x98	NOI		At this rate... the	
+				Recreation will begin!!	
 0xcb51	0x98	Signa	#1W#240x#500y	...Ooh...	mp_0001c 0x4b32
 0xccbb	0x98	ALTO		Cygna!!	mp_6100 0x605e
 0xccf2	0x06	NOI		ANI_COMPLAIN	
-0xcd1b	0x98	NOI		Are you okay!?	mp_0001c 0x6067
+0xcd1b	0x98	NOI		Are you all right!?	mp_0001c 0x6067
 0xcdc2	0x98	Signa	#1W#6A#180x#220y	Don't mind me...	
-				...After...him...!	
+				...After... him...!	
 0xce63	0x98	Signa	#0W#6A#180x#220y	I'll open the way	
 				for you now...	
 0xcebc	0x06	Signa		ANI_RISE_HAND	
 0xcf2a	0x06	gl		ANI_STOP1	
-0xd131	0x98	NOI		Is that...a teleporter device!?	
+0xd131	0x98	NOI		Is that... a teleporter device!?	
 0xd17d	0x06	Signa		ANI_SLEEP2	
 0xd223	0x98	Signa	#0W#6A#180x#220y	The Planetarium... It's just	
 				past the next area...	
 0xd2ac	0x98	Signa	#2W#6A#180x#220y	Hurry, go...!	
 0xd337	0x98	ALTO		Cygna!!	mp_6100 0x605e
-0xd3ac	0x98	Signa	#1W#6A#180x#220y	You're the...only one	
+0xd3ac	0x98	Signa	#1W#6A#180x#220y	You're... the only one	
 				who can stop him now...	
 0xd457	0x98	Signa	#0W#6A#180x#220y	...You can handle the rest, partner...	
 0xd525	0x6B	ALTO		Exclamation	
@@ -464,7 +464,7 @@ EV_7_S09_seram_stone
 0xd619	0x98	ALTO	#16S	Open your eyes, Cygna!!	
 0xd660	0x06	NOI		ANI_GESTURE1	
 0xd689	0x98	NOI		...W-Wait! Maybe...	
-0xda52	0x98	ALTO		D-Did he just...turn into stone!?	
+0xda52	0x98	ALTO		D-Did he just... turn into stone!?	
 0xdae6	0x98	NOI		It's the Mitos suspended
 				near-death state.	
 0xdb30	0x06	NOI		ANI_GESTURE1	
@@ -487,8 +487,8 @@ EV_7_S09_seram_stone
 0xdf41	0x06	ALTO		ANI_GESTURE1	
 0xdf6b	0x98	ALTO	#6A	Let's go, Noi.	
 0xdfab	0x06	ALTO		ANI_JOY	
-0xdfd0	0x98	ALTO	#6A	We have to stop Zext from	
-				Remaking no matter what...	
+0xdfd0	0x98	ALTO	#6A	We have to stop Zext and the	
+				Recreation no matter what...	
 				And save Creha and Cygna!!	
 0xe043	0x06	NOI		ANI_NOD	
 0xe067	0x98	NOI		Yeah!!	mp_0100 0x17675

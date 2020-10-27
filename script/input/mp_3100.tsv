@@ -2,17 +2,17 @@ mp_3100
 init
 EV_3_S14_temple3_front
 0x73e	0x06	ALTO		ANI_FIND	
-0x764	0x98	ALTO	#6A	There's the Temple of Heimmel...	
+0x764	0x98	ALTO	#6A	There's the temple of Heimmel...	
 0x7b3	0x98	NOI	#6A	It looks like the Power of Stars	
-				hasn't been shut down yet...	
+				hasn't been cut off yet...	
 0x80c	0x98	NOI	#6A	Zext might not have reached the altar yet.	
 				...If we hurry, we should be able to catch up!	
-0x8d4	0x41	None	#0W#1E#889c	...Hmph, you two seem pretty carefree.#0E	
+0x8d4	0x41	None	#0W#1E#889c	...Hehe, you two seem pretty carefree.#0E	
 0x966	0x6B	ALTO		Exclamation	
 0x990	0x6B	NOI		Exclamation	
 0x9b9	0x06	ALTO		ANI_SURPRISE	
 0x9e3	0x06	NOI		ANI_SURPRISE	
-0xbd8	0x98	NOI	#180x#270y	Ah!	mp_1002b 0x4627
+0xbd8	0x98	NOI	#180x#270y	Ah...!	mp_1002b 0x4627
 0xc0c	0x98	ALTO	#300x#270y	The masked man!?	
 0xdf7	0x06	ALTO		ANI_BATTOU2	
 0xe5c	0x98	Seram		It's been a while, Noi.	
@@ -25,21 +25,20 @@ EV_3_S14_temple3_front
 0xfcd	0x06	Seram		ANI_NOD	
 0x1039	0x98	Seram		Well, something like that.	
 0x10ba	0x98	Seram		And you seem to have been sticking	
-				your head where it doesn't belong	
+				your nose where it doesn't belong	
 				and meddling in our affairs...	
-0x1130	0x98	Seram		Hmph, there are some	
-				real crazies out there.	
-0x1181	0x98	ALTO	#6A	...You're here in order to shut	
-				down this Temple, aren't you?	
+0x1130	0x98	Seram		Heh, there are some real	
+				crazies out there.	
+0x1181	0x98	ALTO	#6A	...You're here to shut down	
+				this temple, aren't you?	
 0x11d4	0x06	NOI		ANI_ANGRYTALK	
 0x11fe	0x98	NOI		But first, we will take back the	
 				Master Gear from you here and now!	
 0x1278	0x98	Seram		Heh... That's why I said	
 				you're so carefree.	
 0x139c	0x06	Seram		ANI_GESTURE2	
-0x13c7	0x98	Seram		I'm not here "in order	
-				to shut it down."	
-				I've already done so.	
+0x13c7	0x98	Seram		I'm not here "to shut it down."	
+				I have already done so.	
 0x1452	0x6B	ALTO		Surprise	
 0x147c	0x6B	NOI		Surprise	
 0x1504	0x06	ALTO		ANI_TENSION_SURPRISE	
@@ -49,17 +48,17 @@ EV_3_S14_temple3_front
 0x15ba	0x98	NOI	#0W	N-No... It's not just this mountain!	
 0x160b	0x98	NOI	#0W	This entire continent is...	
 0x1678	0x6B	ALTO		Exclamation	
-0x16aa	0x98	ALTO	#0W#6A#16S	Noi, the Temple...!!	
+0x16aa	0x98	ALTO	#0W#6A#16S	Noi, the temple...!!	
 0x17c9	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0x1998	0x98	NOI	#240x#270y	Ah, the Power of Stars stopped...!!	
-0x1a90	0x98	Seram		Hmph, as you can see...	
-				My business here is over.	
+0x1a90	0x98	Seram		Heh, as you can see...	
+				My business here is done.	
 0x1af2	0x98	Seram		I was going to return	
 				back to Zext, but...	
 0x1c69	0x06	Seram		ANI_BATTOU	
 0x1cc6	0x06	Seram		ANI_KEN_WO_KAMAERU	
 0x1d47	0x98	Seram	#1W	I've had enough of you	
-				heedlessly trailing behind us.	
+				blindly trailing behind us.	
 0x1dae	0x98	Seram	#3W	Now that you're here,	
 				I'm going to kill you both.		
 0x1e0d	0x98	Seram	#1W	Just like that dark-haired swordsman.	
@@ -69,18 +68,19 @@ EV_3_S14_temple3_front
 0x22eb	0x06	ALTO		ANI_DOWN_ONLY	
 0x2380	0x06	NOI		ANI_KNOCKDOWN	
 0x25b9	0x98	NOI	#360x#270y#2W#6A	Ooh...	mp_0000d 0x2c16
-0x25f6	0x98	ALTO	#380x#160y#0W	H-He's fast...!?	
+0x25f6	0x98	ALTO	#380x#160y#0W	H-He's fast...!	
 0x265b	0x06	Seram		ANI_KEN_WO_KAMAERU	
 0x26bb	0x98	Seram		Is that all you've got,	
 				Nayuta Herschel?	
-0x270c	0x98	Seram		That dark-haired swordsman	
-				was at least a little better.	
+0x270c	0x98	Seram		That dark-haired swordsman was at	
+				least a little better than this.	
 0x2783	0x06	ALTO		ANI_WAKE_UP_HALF	
 0x27e5	0x98	ALTO	#380x#160y#0W	Cygna would never lose	
 				to someone like you...	
 				I don't believe it!	
 0x2863	0x98	ALTO	#380x#160y#0W	Even I can't...	
-				I can't let myself lose either!	
+				I can't let myself	
+				lose either!	
 0x28bc	0x06	ALTO		ANI_STAGGER_STAND_UP	
 0x2922	0x06	ALTO		ANI_TENSION_WAIT	
 0x2968	0x06	NOI		ANI_WAKE_UP_FLY	
@@ -92,11 +92,11 @@ EV_3_S14_temple3_front
 				what happens in this world.
 0x2bfb	0x98	ALTO		It IS my business!	
 				Because it's Noi's world!	
-0x2cc8	0x98	ALTO	#0W	And...my, my sister's been sick...!	
+0x2cc8	0x98	ALTO	#0W	And... my, my sister's been sick...!	
 0x2d71	0x98	ALTO		With the Master Gear,	
 				I could get the herbs	
 				she needs, so I...!!	
-0x2ddc	0x98	Seram	#0W#0x#250y	...............	mp_0001 0xc917
+0x2ddc	0x98	Seram	#0W#0x#250y	.......	mp_0001 0xc917
 0x2f03	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0x2fec	0x06	Seram		ANI_NOUTOU	
 0x3049	0x6B	ALTO		Surprise	
@@ -125,17 +125,17 @@ EV_3_S14_temple3_front
 0x3588	0x98	Seram	#0W	...Oh, now that you mention it,	
 				I forgot to introduce myself.	
 0x36bb	0x98	Seram	#2W	My name is Selam...	mp_3002c 0x5347
-				Selam Il Ordene.	
+				Selam Il Ordene.
 0x371e	0x06	NOI		ANI_SURPRISE	
 0x3747	0x98	NOI	#100x#270y#18S	!!!!	mp_0101b 0x3636
-0x378e	0x98	Seram	#2W	Our mission is to restore the	mp_3002c 0x53a3	
-				true state of the world.	
-				No more.	
+0x378e	0x98	Seram	#2W	We are on a mission to restore	mp_3002c 0x53a3
+				the world to its true form...
+				Nothing more.
 0x38a9	0x98	Seram	#2W	Hmph...	
 				Later.	
 0x3af8	0x6B	ALTO		Ellipsis	
 0x3b22	0x6B	NOI		Ellipsis	
-0x3b53	0x98	ALTO	#6A	This world's...true form...?	
+0x3b53	0x98	ALTO	#6A	This world's... true form...?	
 0x3baf	0x98	ALTO	#6A	Noi, do you know what this─	
 0x3c02	0x98	NOI	#0W	It can't be...	
 				Lord Selam...!?	
@@ -152,22 +152,22 @@ EV_3_S14_temple3_front
 0x3f5d	0x6B	ALTO		Exclamation	
 0x3f87	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x3fbe	0x98	ALTO	#6A	A Mitos... Like Creha...!?	
-0x4014	0x98	NOI		...Lord Selam used to sleep	
-				in the Garden alongside	
-				with Lady Creha.	
+0x4014	0x98	NOI		...Lord Selam used to	
+				sleep in the Garden	
+				alongside Lady Creha.	
 0x406e	0x98	NOI		But a few years ago, he	
 				suddenly disappeared...	
 0x40c5	0x06	ALTO		ANI_THINK2	
-0x40ed	0x98	ALTO	#6A	Is that so...	mp_0001 0xcecd
+0x40ed	0x98	ALTO	#6A	I see...	mp_0001 0xcecd
 0x4125	0x06	NOI		ANI_DEJECTED	
-0x4190	0x98	NOI		...Why...? Why is Lord	
+0x4190	0x98	NOI		Why...? Why is Lord	
 				Selam helping Zext?	
 0x41d9	0x98	NOI		Just what happened	
 				between those two...?	
 0x4221	0x06	ALTO		ANI_WAIT4	
 0x4248	0x98	ALTO	#6A	...Well, no point in dwelling	
 				over that right now.	
-0x42e8	0x98	NOI		...You're right.	mp_0115 0x1296f
+0x42e8	0x98	NOI		...You're right	
 0x4317	0x98	NOI		For now, we should take the Master	
 				Gear back and help your sister...	
 0x437f	0x06	NOI		ANI_GUTSPOSE	

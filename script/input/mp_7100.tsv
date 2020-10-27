@@ -5,14 +5,14 @@ EV_7_S02_enter_cradle
 0x56d	0x6B	NOI		Exclamation	
 0x59e	0x06	ALTO		ANI_SURPRISE	
 0x5c8	0x06	NOI		ANI_SURPRISE	
-0x605	0x98	ALTO	#6A#18S	W-Wah!?	
+0x605	0x98	ALTO	#6A#18S	W-What the!?	
 0x63b	0x98	NOI	#6A	A m-monster...!?	
 0x672	0x6B	ALTO		Ellipsis	
 0x69c	0x6B	NOI		Ellipsis	
 0x6cd	0x06	ALTO		ANI_GESTURE2	
 0x6f7	0x98	ALTO	#6A	Doesn't seem like it's	
 				going to attack us...	
-0x741	0x98	ALTO	#6A	What is this thing?	
+0x741	0x98	ALTO	#6A	What is that thing?	
 0x784	0x06	NOI		ANI_DENY	
 0x7a9	0x98	NOI	#6A	It's an ancient species...	
 				Though I've never seen	
@@ -43,7 +43,7 @@ EV_7_S03_look_up_statue
 				influence altered this	
 				entire area...	
 0x13b5	0x06	ALTO		ANI_GESTURE2	
-0x13df	0x98	ALTO	#6A	The entire thing changed...?	
+0x13df	0x98	ALTO	#6A	The entire area changed...?	
 				This massive place!?	
 0x1434	0x06	ALTO		ANI_THINK2	
 0x145c	0x98	ALTO	#6A	The Planetarium...	

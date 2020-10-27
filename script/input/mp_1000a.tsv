@@ -12,14 +12,14 @@ QS_21_plant_a_seedling
 0x1092	0x98	ALTO		(Looks like there's some high	
 				 quality soil around here.)	
 0x10e8	0x98	ALTO		(I might be able to raise	
-				 the Hundred-Year Peach here.)	
+				 the 100-Year Peach here.)	
 0x114d	0x6B	NOI		Question	
 0x11ae	0x98	NOI		Nayuta, what's wrong?	
 0x121a	0x98	ALTO	#6A	Noi, is it okay if I try planting	
 				this sapling here?	
 0x1270	0x06	NOI		ANI_NOD	
-0x1294	0x98	NOI		Hmm, I think it should	
-				be fine, but...	
+0x1294	0x98	NOI		Hmm, it should be fine,	
+				I think, but...	
 0x12eb	0x06	NOI		ANI_GESTURE1	
 0x1314	0x98	NOI		Just what are you planning?	
 0x134e	0x06	ALTO		ANI_LAUGH	
@@ -49,8 +49,8 @@ EV_1_S01_jungle1_start
 0x24a3	0x06	ALTO		ANI_TIRED_WAIT	
 0x24cf	0x98	ALTO	#6A	Ah, I'm okay, just a little winded	
 				by the teleporter device...	
-0x2533	0x98	ALTO	#6A	I guess I'm just not used to the	
-				sensation of my body being	
+0x2533	0x98	ALTO	#6A	I guess I'm just not used to	
+				the sensation of my body being	
 				hurled around at high speeds.	
 0x25e7	0x98	NOI	#6A	Jeez, humans are so feeble...	
 0x265d	0x98	NOI	#6A	...Hey, but Cygna seems	
@@ -69,8 +69,8 @@ EV_1_S01_jungle1_start
 0x28da	0x06	ALTO		ANI_LOOK_AROUND	
 0x2907	0x98	ALTO		The cherry trees are in full bloom.	
 				It's a very beautiful place.	
-0x2979	0x98	ALTO		And there's plants I've never	
-				seen before growing everywhere...	
+0x2979	0x98	ALTO		And there's plants I've never seen	
+				before growing everywhere...	
 0x29e9	0x06	ALTO		ANI_THINK2	
 0x2a11	0x98	ALTO		Maybe we should try viewing	
 				the flowers with Eartha	
@@ -80,9 +80,9 @@ EV_1_S01_jungle1_start
 0x2af6	0x06	ALTO		ANI_WAIT	
 0x2b1c	0x06	Signa		ANI_WAIT0	
 0x2b44	0x06	NOI		ANI_GESTURE1	
-0x2b6d	0x98	NOI	#6A	Normally, there should be
-				hot sun and a sea of verdant	
-				trees at this time of year.	
+0x2b6d	0x98	NOI	#6A	Normally, there should be hot
+				sun and an ocean of verdant	
+				foliage at this time of year.	
 0x2c01	0x98	NOI	#6A	But since the Master Gear	
 				was stolen, the climate has	
 				been all screwed up.	

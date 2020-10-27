@@ -17,14 +17,14 @@ talk_Gio
 				it looks as if you can proceed.	
 0x17fd	0x98	Gio		Leave this place to me.	
 				You should climb Heliograd!	
-0x1884	0x98	Gio		Because each continent's Temple was	
-				stopped, it seems that all the Power	
-				of Stars is flowing into Heliograd.	
+0x1884	0x98	Gio		Since each continent's temple was shut	
+				down, it seems that all the Power of	
+				Stars is flowing into Heliograd.	
 0x1909	0x98	Gio		So this was his true objective...	
 0x1953	0x98	Gio		Anyhow, I will try looking for a	
 				way to stop the flow of power.	
 0x19b5	0x98	Gio		You should save Nemeas!	
-0x1a13	0x98	Gio		From our Temples, we will try looking	
+0x1a13	0x98	Gio		From our temples, we will try looking	
 				for a way to stop the Power of Stars	
 				from flowing into the tower.	
 0x1a92	0x98	Gio		You should save Nemeas!	mp_1099 0x19b5
@@ -32,11 +32,11 @@ talk_Gio
 				safely rescued Algol.	
 0x1b71	0x98	Gio		Now Algol, too, has been	
 				released from his prison.	
-0x1bcb	0x98	Gio		Three Wardens have	
+0x1bcb	0x98	Gio		Three wardens have	
 				now been assembled.	
-0x1c16	0x98	Gio		Remaining is the Warden of the Origin Continent...	
+0x1c16	0x98	Gio		Remaining is the warden of the Origin Continent...	
 				Once she is free, we will be ready for anything...	
-0x1ce0	0x98	Gio		The remaining Warden has more knowledge	
+0x1ce0	0x98	Gio		The remaining warden has more knowledge	
 				and wisdom than any of us.	
 0x1d55	0x98	Gio		Once she is free, we will	
 				be ready for anything...	
@@ -64,22 +64,22 @@ talk_Gio
 				and his evil work...		
 0x215d	0x98	Gio		Even awakening Lady Creha...	
 				Perhaps it was part of his plan.	
-0x21b4	0x98	ALTO		No way...	mp_0100 0x1c977
+0x21b4	0x98	ALTO		Oh, no...	mp_0100 0x1c977
 0x21dd	0x98	Gio		It is only a guess, but...	
 				The two of you should keep	
 				your eyes open.	
 0x2270	0x98	Gio		Speaking of which, you seem	
 				to be searching for something.	
-0x22cc	0x98	Gio		If you are going to the Sacred 	
+0x22cc	0x98	Gio		If you are going to the Holy 	
 				Mountain Continent, be careful.	
 0x2333	0x98	Gio		Much like Oltapia and Rieseweld, I	
 				sense the climate has been very	
 				chaotic. You should be fully prepared.	
-0x23dc	0x98	Gio		If you are going to the sacred mountain	mp_1099 0x22cc
-				continent, take care on your way.	
-0x2443	0x98	Gio		The same as Oltapia and Rieseweld,	mp_1099 0x2333
-				I sense the climate is very disturbed.	
-				Make careful preparations.	
+0x23dc	0x98	Gio		If you are going to the Holy 	mp_1099 0x22cc
+				Mountain Continent, be careful.
+0x2443	0x98	Gio		Much like Oltapia and Rieseweld, I	mp_1099 0x2333
+				sense the climate has been very
+				chaotic. You should be fully prepared.
 0x2500	0x98	Gio		You have given me a fascinating	
 				insight into human life..	
 				I must thank you.	
@@ -87,13 +87,13 @@ talk_Gio
 				the sake of this world as well.	
 0x25d6	0x98	Gio		Nayuta, I look forward to	
 				working with you in the future.	
-0x2650	0x98	Gio		I do not know if our Zext is really	
-				the same man as the leader of the Mitos	
-				and the creator of Terra, but...	
+0x2650	0x98	Gio		I do not know if our Zext really is the	
+				same man as the leader of the Mitos and	
+				the creator of Terra, but...	
 0x26ec	0x98	Gio		There's no mistaking the great	
 				skill needed to capture me or	
 				control of the Master Gears.	
-0x276b	0x98	Gio		As the Warden of the continent,	
+0x276b	0x98	Gio		As the warden of this continent,	
 				I cannot allow this existential	
 				threat to Terra to continue.	
 0x27d9	0x98	Gio		I am sure we will work together soon.	
@@ -112,8 +112,8 @@ talk_Gio
 0x2a3e	0x98	ALTO		I-I see...	
 				(This truly is a	
 				 strange world...)	
-0x2ad2	0x98	Gio		Maybe it's because it was stopped,	
-				but the Temple is not in good shape.	
+0x2ad2	0x98	Gio		Maybe it's because it was shut down,	
+				but the temple is not in good shape.	
 0x2b32	0x98	Gio		It is because you retrieved the	
 				Master Gear that we were able	
 				to avoid the worst of it, but...	
@@ -125,7 +125,7 @@ talk_SpiritA
 0x2ccc	0x98	SpiritA		...! ......!	mp_1099 0x2c40
 0x2cfb	0x40	UNDEF		It's doing something passionately...	mp_1099 0x2c6f
 talk_SpiritB
-0x2d7a	0x98	SpiritB		...............	mp_0001 0xc917
+0x2d7a	0x98	SpiritB		.......	mp_0001 0xc917
 0x2db6	0x6B	SpiritB		Question	
 0x2deb	0x40	UNDEF		It seems to be concentrating on the altar...	
 talk_SpiritC
@@ -165,7 +165,7 @@ quest_Gio
 0x357a	0x98	Gio		If you use it as incense, the two	
 				humans will feel more relaxed and	
 				able to speak at ease.	
-0x36ba	0x98	Gio		A local disk, a special fruit, or	
+0x36ba	0x98	Gio		A local dish, a special fruit, or	
 				anything else, really, will do.	
 				I'll let you decide, Nayuta.	
 0x3758	0x98	Gio		Gather three things and	
@@ -185,8 +185,8 @@ QS_24_quest_start
 0x3b1e	0x06	ALTO		ANI_GESTURE1	
 0x3b48	0x98	ALTO	#6A	Well, um, yes, in a manner of speaking, but...	
 				I'm kind of surprised by how it happened.	
-0x3ba4	0x98	ALTO	#6A	Finding a letter from YOU	
-				in my mailbox in our world...	
+0x3ba4	0x98	ALTO	#6A	Finding a letter from YOU in	
+				my mailbox in our world...	
 0x3bfb	0x06	NOI		ANI_SURPRISE	
 0x3c24	0x98	NOI	#6A	Huh? When did you put a letter
 				in Nayuta's mailbox!?	
@@ -204,8 +204,8 @@ QS_24_quest_start
 0x3ecc	0x98	Gio		So, I'd like to speak	mp_1099 0x39c7
 				to you at once, but...
 0x3f17	0x98	Gio		Do you not have anything else	mp_1099 0x3a12
-				going on? I don't want to take	
-				you from other commitments.	
+				going on? I don't want to take
+				you from other commitments.
 0x3fb9	0x36	Choice		[Accept]	mp_0000 0xeaf5
 0x3fcf	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0x406e	0x06	ALTO		ANI_OJIGI	
@@ -233,7 +233,7 @@ QS_24_undertake
 0x4504	0x98	NOI	#6A	Broadening your horizons...	
 				You mean of the human world!?	
 0x455d	0x06	Gio		ANI_THINK	
-0x4583	0x98	Gio		To us Wardens, humans are nothing	
+0x4583	0x98	Gio		To us wardens, humans are nothing	
 				more than another species that has	
 				acquired a little intelligence.	
 0x45e1	0x98	Gio		I was never particularly	
@@ -248,16 +248,16 @@ QS_24_undertake
 				hated humans, has come to trust Nayuta.	
 0x4777	0x6B	NOI		Unknown	
 0x47a8	0x06	NOI		ANI_COMPLAIN	
-0x47d1	0x98	NOI	#6A	I-I...I'm not like that!	
+0x47d1	0x98	NOI	#6A	I-I... I'm not like that!	
 0x4814	0x06	NOI		ANI_DEJECTED	
-0x483d	0x98	NOI	#6A	It's just that, um... Lately I've	
+0x483d	0x98	NOI	#6A	It's just that, um... Lately, I've	
 				thought that maybe humans aren't	
 				as bad as I thought.	
 0x48cb	0x06	Gio		ANI_NOD	
 0x48ef	0x98	Gio		Hmm, be that as it may..,	
 0x491f	0x06	Gio		ANI_GESTURE2	
-0x4948	0x98	Gio		I want to understand the world	
-				of humans better myself.	
+0x4948	0x98	Gio		I wish to better understand	
+				the world of humans myself.	
 0x4996	0x06	ALTO		ANI_TALK	
 0x49bc	0x98	ALTO	#6A	I see... I think I get the idea.	
 0x4a19	0x98	ALTO	#6A	But, what, specifically,	
@@ -269,8 +269,8 @@ QS_24_undertake
 0x4b17	0x06	Gio		ANI_DENY	
 0x4b3c	0x98	Gio		No, no, far from it.	
 				It has not been long since	
-				Zext captured this Temple.	
-0x4bb9	0x98	Gio		As the Warden of Oltapia,	
+				Zext captured this temple.	
+0x4bb9	0x98	Gio		As the warden of Oltapia,	
 				I do not intend to leave
 				this place for a while.	
 0x4c28	0x06	Gio		ANI_GESTURE2	
@@ -289,8 +289,8 @@ QS_24_undertake
 0x4ea0	0x06	Gio		ANI_NOD	
 0x4ec4	0x98	Gio		That's exactly right.	
 				Hehe, you're a clever boy.	
-0x4f11	0x98	Gio		A local disk, a special fruit, or	mp_1099 0x36ba	
-				anything else, really, will do.	
+0x4f11	0x98	Gio		A local dish, a special fruit, or	mp_1099 0x36ba
+				anything else, really, will do.
 				I'll let you decide, Nayuta.
 0x4faf	0x06	Gio		ANI_GESTURE1	
 0x4fd8	0x98	Gio		Gather three things like that	
@@ -379,14 +379,14 @@ QS_24_quest_end
 0x644f	0x06	Gio		ANI_LAUGH	
 0x6475	0x98	Gio		Wahaha, I'm just showing	
 				off this long life of mine.	
-0x64c7	0x98	Gio		Food is an inseparable	
-				part of the local society.	
+0x64c7	0x98	Gio		Food is an inseparable part	
+				2of the local culture.	
 0x6534	0x06	Gio		ANI_NOD	
 0x6558	0x98	Gio		*chew*, *chew*	
 				Mmm, it's good!	
-0x65a8	0x98	Gio		...Well, I'm sure Nayuta will	
-				learn many things in the future	
-				as he goes through his own life.	
+0x65a8	0x98	Gio		...Well, I'm sure Nayuta will learn	
+				many such things in the future as	
+				he goes through his own life.	
 0x663d	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x666b	0x98	ALTO	#6A	Haha... I hope so.	
 0x66ac	0x06	Gio		ANI_THINK	
@@ -413,7 +413,7 @@ QS_24_quest_end
 0x6a8c	0x6B	ALTO		Surprise	
 0x6ad3	0x06	ALTO		ANI_GESTURE2	
 0x6afd	0x98	ALTO		Speaking of which, I first met	
-				Noi in a fallen ruin, right?.	
+				Noi in a fallen ruin, right?	
 0x6b88	0x06	Gio		ANI_WAIT	
 0x6bb5	0x06	NOI		ANI_NOD	
 0x6bd9	0x98	NOI	#6A	...Y-Yeah.	
@@ -452,7 +452,7 @@ QS_24_quest_end
 0x7174	0x98	Gio		Hehe, I am sure Noi isn't any	
 				less interested than I am.	
 0x71c9	0x06	NOI		ANI_GESTURE1	
-0x71f2	0x98	NOI	#6A	B-But I... Nayuta just...	
+0x71f2	0x98	NOI	#6A	B-But, I... Nayuta just...	
 0x7248	0x98	NOI	#6A	...Surely Nayuta and his	
 				sister are just exceptions.	
 0x729b	0x06	NOI		ANI_COMPLAIN	
@@ -473,7 +473,7 @@ QS_24_quest_end
 0x75b4	0x06	Gio		ANI_TALK	
 0x75d9	0x98	Gio		Nayuta, we will need your cooperation for	
 				the continued betterment of this world.	
-0x7642	0x98	Gio		I look forward to continuing working with you.	
+0x7642	0x98	Gio		I look forward to continuing to work with you.	
 0x768f	0x06	Gio		ANI_WAIT	
 0x77a7	0x07	System	#1C	Noi learned the summer magic, #4C『#784ISol Erase』.	
 0x785f	0x06	NOI		ANI_SURPRISE	
@@ -481,7 +481,7 @@ QS_24_quest_end
 0x78ba	0x06	Gio		ANI_TALK	
 0x78df	0x98	Gio		Hehe, you seem to already know what	
 				this is. It is one of the arts	
-				reserved for use only by Wardens.	
+				reserved for use only by wardens.	
 0x794b	0x98	Gio		It's tricky to use, but use it	
 				when the time is right, and it	
 				can pack a powerful punch.	
@@ -519,7 +519,7 @@ QS_34_consultation
 				sorts of humans.	
 0x843d	0x06	ALTO		ANI_GESTURE2	
 0x8467	0x98	ALTO	#6A	Yes, well...	
-0x8496	0x98	ALTO	#6A	We are looking for a	
+0x8496	0x98	ALTO	#6A	I'm looking for a	
 				calming herb, but...	
 0x84fa	0x06	NOI		ANI_THINK	
 0x8520	0x98	NOI	#6A	A calming herb...	
@@ -553,7 +553,7 @@ QS_34_consultation
 				two of them should be able to	
 				calm down and talk, right?	
 0x8afb	0x06	Gio		ANI_NOD	
-0x8b1f	0x98	Gio		Yes, exactly right.	mp_0003 0x10455
+0x8b1f	0x98	Gio		Yes, that is correct.	mp_0003 0x10455
 0x8b51	0x98	Gio		But there are no sandalwood	
 				trees on Oltapia.	
 0x8b9a	0x06	Gio		ANI_GESTURE2	
@@ -599,7 +599,7 @@ QS_54_talk_gio
 0x96f7	0x98	ALTO	#6A	Thank goodness... We might be able	
 				to do this faster than I thought.
 0x974e	0x06	Gio		ANI_THINK	
-0x9774	0x98	Gio		However, I sensed only one signature....	
+0x9774	0x98	Gio		However, I sensed only one signature...	
 0x97ba	0x06	Gio		ANI_NOD	
 0x97de	0x98	Gio		Anyway, I can tell you its location.	
 0x982c	0x98	Gio		Indeed, I did sense something.		
@@ -649,8 +649,8 @@ quest_SpiritD
 				ferocious monster has	
 				appeared on this continent!	
 0xa449	0x06	NOI		ANI_COMPLAIN	
-0xa472	0x98	NOI	#6A	And it's very troubled,	mp_1099 0xa365
-				and wants you to help...is what it's saying!	
+0xa472	0x98	NOI	#6A	It says it's in a bit of a tight	mp_1099 0xa365
+				spot, and needs your help...!
 0xa4d9	0x06	ALTO		ANI_THINK2	
 0xa501	0x98	ALTO		A ferocious monster...	
 				Could it be one of the monsters	
@@ -678,11 +678,12 @@ quest_SpiritD
 0xa8c5	0x98	NOI	#6A	It says it's not one of those,	
 				but it's just as powerful, or more...	
 0xa91f	0x06	NOI		ANI_COMPLAIN	
-0xa948	0x98	NOI	#6A	"Because of the influence of the abnormalities,	mp_1099 0xa71e
-				 unthinkable life forms have been born and are	
-				 wreaking havoc."	
-0xa9d8	0x98	NOI	#6A	"Like this, many continent	mp_1099 0xa7ae
-				animals will die!" it says.	
+0xa948	0x98	NOI	#6A	"Unnatural creatures, spawned by the	mp_1099 0xa71e
+				abnormalities, have been wandering
+				the world wreaking havoc."
+0xa9d8	0x98	NOI	#6A	"If we don't do anything, a lot	mp_1099 0xa7ae
+				of the fauna on this continent
+				are going to die!" it says.
 0xaa2f	0x06	NOI		ANI_DEJECTED	
 0xaa58	0x98	NOI	#6A	This one normally patrols the continents,	
 				but it seems like they can't hold back	
@@ -690,12 +691,12 @@ quest_SpiritD
 0xaad5	0x06	SpiritD		ANI_NOD	
 0xaafd	0x98	SpiritD		.......	
 0xab27	0x06	ALTO		ANI_THINK	
-0xab4e	0x98	ALTO		Because of...the abnormalities...		
+0xab4e	0x98	ALTO		Because of... the abnormalities...		
 0xab95	0x06	ALTO		ANI_NOD	
 0xabba	0x98	ALTO		These little ones must
 				really be in a tough spot.	
 0xabf6	0x06	NOI		ANI_NOD	
-0xac32	0x98	NOI	#6A	Yeah... Since the Temple is still shut down,	
+0xac32	0x98	NOI	#6A	Yeah... Since the temple is still shut down,	
 				the nymphs have been working together	
 				to support the continent.	
 0xacbf	0x06	NOI		ANI_DEJECTED	
@@ -704,7 +705,7 @@ quest_SpiritD
 0xad50	0x06	NOI		ANI_GESTURE1	
 0xad79	0x98	NOI	#6A	Hey, Nayuta. Here's a request from me as well.	
 				Will you help me with this little one?	
-0xadec	0x98	NOI	#6A	Yeah... Since the Temple is still shut down,	
+0xadec	0x98	NOI	#6A	Yeah... Since the temple is still shut down,	
 				the nymphs have been joining together	
 				to support the continent.
 0xae6e	0x06	NOI		ANI_DEJECTED	
@@ -735,8 +736,8 @@ quest_SpiritD
 				monster has appeared on this	
 				continent as well.	
 0xb30f	0x06	NOI		ANI_GESTURE1	
-0xb338	0x98	NOI	#6A	And it's very troubled, and	mp_1099 0xb237
-				wants you to help...is what it says!	
+0xb338	0x98	NOI	#6A	It says it's in a bit of a tight	mp_1099 0xb237
+				spot, and needs your help...!
 0xb39b	0x06	ALTO		ANI_NOD	
 0xb3c0	0x98	ALTO		Ha, got it. The Handyman Shop	
 				will take care of this request.	
@@ -771,9 +772,9 @@ quest_SpiritD
 				were able to communicate.	
 0xb904	0x06	NOI		ANI_GUTSPOSE	
 0xb945	0x98	NOI	#6A	Nayuta, let's try heading to the	
-				winter of "Shaded Animal Trail" soon!	
+				winter of Shaded Animal Trail soon!	
 0xb9b8	0x98	NOI	#6A	Let's try heading to the winter	
-				of "Shaded Animal Trail" soon!	
+				of Shaded Animal Trail soon!	
 0xba50	0x07	System	#3C	Quest [A Nymph's Request] started!	
 0xbb5c	0x06	ALTO		ANI_WAIT	
 0xbb82	0x06	NOI		ANI_WAIT	
@@ -798,7 +799,7 @@ quest_SpiritD_End
 0xc1fa	0x06	NOI		ANI_GESTURE1	
 0xc223	0x98	NOI	#6A	It says, "Thank you."	mp_1099 0xc157
 0xc260	0x6B	SpiritD		Unknown	
-0xc2fe	0x98	SpiritD		.........☆	mp_1099 0x2f07
+0xc2fe	0x98	SpiritD		...☆	mp_1099 0x2f07
 0xc32c	0xC1	System		received.	mp_0000 0x12596
 0xc3a5	0x6B	SpiritD		Unknown	
 0xc3da	0x06	ALTO		ANI_JOY	
@@ -809,15 +810,14 @@ quest_SpiritD_End
 0xc528	0x06	NOI		ANI_GESTURE1	
 0xc551	0x98	NOI	#6A	If you have any more	
 				problems, please contact us.	
-0xc5b4	0x98	NOI	#6A	We have to go already...	mp_1099 0xc4bf
-				Please do your best	
-				with your work from here on.	
+0xc5b4	0x98	NOI	#6A	We're going to have to go, but...	mp_1099 0xc4bf
+				Please, keep up the good work.
 0xc61d	0x06	NOI		ANI_GESTURE1	
 0xc646	0x98	NOI	#6A	If you have any more	
 				problems, contact us, okay?.
 0xc6d4	0x06	SpiritD		ANI_NOD	
 0xc704	0x98	SpiritD		...!	mp_1099 0xb874
-0xc75f	0x07	System	#3C	Quest [A nymph's Request] completed!	
+0xc75f	0x07	System	#3C	Quest [A Nymph's Request] completed!	
 0xc844	0x06	ALTO		ANI_WAIT	
 0xc86a	0x06	NOI		ANI_WAIT	
 QS_83_boss_start
@@ -892,14 +892,14 @@ QS_83_quest_end
 0xe963	0x98	Erislet		Hehe, it's been a year.	
 				How have you two been?	
 0xe9bb	0x06	NOI		ANI_COMPLAIN	
-0xe9e4	0x98	NOI	#6A	Y-You guys are...the Wardens	
+0xe9e4	0x98	NOI	#6A	Y-You guys are... the wardens	
 				of the continents!?	
-0xea37	0x98	NOI	#6A	The Wardens were supposed
+0xea37	0x98	NOI	#6A	The wardens were supposed
 				to have disappeared during	
 				the events a year ago...	
 0xeaae	0x06	Algorl		ANI_NOD	
-0xead5	0x98	Algorl		Yes, after what took place in	
-				the Star City, we did disappear.	
+0xead5	0x98	Algorl		Yes, after what took place in the	
+				Star Capital, we did disappear.	
 0xeb34	0x98	Algorl		When Nayuta and Noi defeated the supreme idols,	
 				we were relieved of our duties.	
 0xebbc	0x06	Nemeas		ANI_TALK	
@@ -914,8 +914,8 @@ QS_83_quest_end
 				Haha, so you guys have become	
 				like gods now too, huh?	
 0xedad	0x06	ALTO		ANI_THANKS	
-0xedd5	0x98	ALTO	#6A	But, it's nice to be able to see	
-				you again under such circumstances.	
+0xedd5	0x98	ALTO	#6A	But it's nice to be able to see you	
+				again under such circumstances.	
 0xee2b	0x06	Erislet		ANI_DENY	
 0xee54	0x98	Erislet		Before, we disappeared without	
 				saying goodbye... Sorry.	
@@ -981,7 +981,7 @@ QS_83_quest_end
 0xfa19	0x98	NOI	#6A	Whatever the case may be,	
 				I refrain from commenting...	
 0xfa74	0x06	ALTO		ANI_LAUGH	
-0xfa9b	0x98	ALTO	#6A	Ahaha...	mp_0001c 0x5727
+0xfa9b	0x98	ALTO	#6A	Haha...	mp_0001c 0x5727
 0xfadc	0x06	Nemeas		ANI_LAUGH	
 0xfb13	0x98	Nemeas	#2W	Hehe... These are the kind of	
 				silly moments I wish we could	
@@ -997,7 +997,7 @@ QS_83_quest_end
 				meet with you guys after this.	
 0xff5d	0x98	NOI	#1W#6A	Oh...	mp_0101 0x1ff08
 0xff8f	0x06	ALTO		ANI_DEJECTED	
-0xffc7	0x98	ALTO	#2W#6A	Is that so... We'll definitely miss you.	
+0xffc7	0x98	ALTO	#2W#6A	Is that so...? We'll definitely miss you.	
 0x1000d	0x06	Gio		ANI_GESTURE2	
 0x10044	0x98	Gio	#0W	Heheh, I'm sorry to say this, but...	
 				It is unavoidable.	
@@ -1008,7 +1008,7 @@ QS_83_quest_end
 				are waiting for you.	
 0x101cb	0x98	Erislet	#1W	And for our duties,	
 				wish us luck!	
-0x10235	0x98	NOI	#1W#6A	Miss Erisette...	
+0x10235	0x98	NOI	#1W#6A	Ms. Erisette...	
 0x10273	0x06	NOI		ANI_DENY	
 0x102a6	0x98	NOI	#2W#6A	...No, Eris...	
 				Thank you.	
@@ -1053,36 +1053,36 @@ EV_1_S08_vs_seram
 0x11797	0x6B	Zext		Exclamation	
 0x117c1	0x6B	Seram		Exclamation	
 0x118cc	0x06	Signa		ANI_WAIT4	
-0x11902	0x98	Signa	#2W	Zext...was it?	
+0x11902	0x98	Signa	#2W	Zext... was it?	
 0x11941	0x98	Signa	#1W	And you, maskey...	
 				I finally managed to	
 				catch up with you.	
 0x11bf9	0x98	Zext		You, we met in the other world...	
 0x11c40	0x98	Zext		I didn't expect to find you on Terra.	
-0x11cde	0x98	Zext		So...it's just as I thought.	
-0x11d19	0x98	Seram	#1W	...............	mp_0001 0xc917
-0x11e3c	0x98	Signa	#240x#270y	Is that the Altar over there...?	
+0x11cde	0x98	Zext		So... it's just as I thought.	
+0x11d19	0x98	Seram	#1W	.......	mp_0001 0xc917
+0x11e3c	0x98	Signa	#240x#270y	Is that the altar over there...?	
 				Looks like the Master Gear is there too.	
 0x11eaa	0x98	Signa	#240x#270y	I'm told that because you guys	
-				stopped the Power of Stars, the	
+				cut off the Power of Stars, the	
 				continent is in real trouble.	
 0x11f28	0x98	Signa	#240x#270y	The hell was the point of that?	
 				This is your world too, isn't it?		
 0x12078	0x98	Zext		I will simply state... 
 				All is guided by the stars.	
 0x120e2	0x98	Zext		That includes what I'm trying	
-				to accomplish here on Terra....	
+				to accomplish here on Terra...	
 0x12174	0x98	Zext		As well as the fact that	
 				you have come here.	
 0x121ca	0x06	Signa		ANI_DENY	
-0x121f1	0x98	Signa	#6A	...I don't understand this bunk....	
+0x121f1	0x98	Signa	#6A	...I don't understand this bunk...	
 0x122a0	0x06	Seram		ANI_GRIP_SWORD_HANDLE	
 0x12303	0x98	Seram		...Just to be clear...	
 				Why have you chosen	
 				to come alone?	
 0x12356	0x98	Seram		Wouldn't it have been wiser to come	
 				along with Noi and that other boy?	
-0x123bd	0x98	Signa	#6A	I came alone...to have	
+0x123bd	0x98	Signa	#6A	I came alone... to have	
 				a proper fight with you.	
 0x12433	0x98	Seram		What...?	
 0x125f9	0x06	Signa		ANI_DULL	
@@ -1125,12 +1125,12 @@ EV_1_S08_vs_seram
 0x14319	0x06	Seram		ANI_STEP_B	
 0x1434a	0x06	Signa_g		ANI_WAIT3	
 0x14374	0x06	Seram		ANI_WAIT3	
-0x14896	0x98	Zext	#1W	Hm... Fight to your heart's content.	
+0x14896	0x98	Zext	#1W	Hmph... Fight to your heart's content.	
 0x1492e	0x98	Zext	#1W	At the end of the battle, you will both	
 				come to better understand your destinies.	
 0x149f1	0x98	Zext	#1W	Now then... Noi should be here soon.	
-0x14a4e	0x98	Zext	#1W	Regretfully... I must prepare to give	
-				the Warden of the Garden a good welcome.		
+0x14a4e	0x98	Zext	#1W	Regretfully... I must prepare to give the	
+				warden of the Garden a good welcome.		
 SB_1_S08_signa_g_1
 0x14c9f	0x06	Signa_g		ANI_STEP_F2	
 0x14cd3	0x06	Signa_g		ANI_ATK5	
@@ -1140,7 +1140,7 @@ EV_1_S08_signa_eq
 EV_1_S10_temple_top
 0x15196	0x06	NOI		ANI_LOOK_AROUND	
 0x151c2	0x98	NOI	#6A	We're here... This is the	
-				summit of the Temple!	
+				summit of the temple!	
 0x15252	0x98	ALTO		...Zext and Cygna should	
 				be just past here.	
 0x1529c	0x06	ALTO		ANI_JOY	
@@ -1166,7 +1166,7 @@ EV_1_S11_boss_battle
 0x15c0a	0x98	NOI	#400x#20y	The Master Gear...	
 				We finally found one!	
 0x15cfe	0x06	ALTO		ANI_THINK2	
-0x15d26	0x98	ALTO		But...why would they leave	
+0x15d26	0x98	ALTO		But... why would they leave	
 				the Master Gear behind?	
 0x15d79	0x98	ALTO		Wasn't it something	
 				they needed, too?	
@@ -1182,7 +1182,7 @@ EV_1_S11_boss_battle
 0x15fac	0x06	ALTO		ANI_TENSION_SURPRISE	
 0x15fe6	0x98	ALTO	#0W	Wh-What's that...!?	
 0x16023	0x06	NOI		ANI_LOOK_AROUND	
-0x1604f	0x98	NOI	#0W#6A	N-No way!  It's...	
+0x1604f	0x98	NOI	#0W#6A	N-No way! It's...	
 0x16263	0x06	b000		ANI_APPEAR	
 0x164e4	0xBC	ALTO		Unknown	
 0x1651a	0x06	ALTO		ANI_TENSION_WAIT	
@@ -1213,7 +1213,7 @@ EV_1_S12_battle_end
 0x16f0b	0x06	NOI		ANI_WAIT_TIRED	
 0x1706d	0x98	ALTO	#6A	*huff*, *huff*...	
 0x170a7	0x98	ALTO	#6A	S-Somehow...	
-				We made it...	
+				We did it...	
 0x170eb	0x98	NOI		*huff*, *huff*...	
 				Wh-Why did those idols	
 				attack us...	
@@ -1221,7 +1221,7 @@ EV_1_S12_battle_end
 				What in the world is an "idol"...?	
 0x17213	0x06	NOI		ANI_WAIT	
 0x17268	0x98	NOI		...They're beings created by	
-				Mitos to protect the Temple.	
+				Mitos to protect the temple.	
 0x172cc	0x98	NOI		Zext probably made that	
 				one go out of control...	
 0x17326	0xBC	NOI		Ellipsis	
@@ -1277,14 +1277,14 @@ EV_1_S12_battle_end
 0x180ac	0xBC	Signa		Ellipsis	
 0x1810a	0x06	Signa		ANI_WAIT2	
 0x181aa	0x98	Signa	#1W#16S	But... No more!	
-0x181fa	0x98	ALTO	#6A#1W	Huh...	mp_0001 0x166ea
+0x181fa	0x98	ALTO	#6A#1W	Huh...?	mp_0001 0x166ea
 0x1822e	0x98	NOI		What...?	
 0x1826a	0x98	Signa		Zext and that masked guy seem to	
 				have gone to another continent	
 				with the other three Master Gears.	
-0x182f5	0x98	Signa		If you go after them,	
-				you'll end up in even	
-				more dangerous situations.	
+0x182f5	0x98	Signa		If you go after them, you'll	
+				end up in even more dangerous	
+				situations.	
 0x183a9	0x98	Signa		So... Nayuta, Noi,	
 				go home already.	
 0x18439	0x98	Signa		...From here on out, I'll	
@@ -1298,7 +1298,7 @@ EV_1_S12_battle_end
 0x18727	0x98	ALTO	#6A	You seem to have run	
 				into Zext, but...	
 				What happened...?	
-0x18793	0x98	Signa	#1W#6A	.....................	mp_0003 0xc610
+0x18793	0x98	Signa	#1W#6A	.........	mp_0003 0xc610
 0x18809	0x98	ALTO	#16S#6A	Say something, Cygna...!	
 0x188de	0x98	ALTO	#6A	I...I can't just wrap everything up	
 				and leave without you, can I...?	
@@ -1307,11 +1307,12 @@ EV_1_S12_battle_end
 				try and listen to what	
 				I tell you.	
 0x18b38	0x06	Signa		ANI_WAIT4	
-0x18bd3	0x98	Signa	#1W	...Stay well, partner.	mp_0101 0x14e31
-0x18c23	0x98	Signa	#0W	These five years since I came to Remnant Island...	mp_0101 0x14e80
-				They've been pretty fun.	
-0x18ced	0x98	Signa	#1W	I have to give thanks to Master,	mp_0101 0x14f03
-				who took me under his wing...	
+0x18bd3	0x98	Signa	#1W	...Take care, partner.	mp_0101 0x14e31
+0x18c23	0x98	Signa	#0W	It's been a pretty fun	mp_0101 0x14e80
+				five years since I came
+				to Remnant Island...
+0x18ced	0x98	Signa	#1W	I'll have to thank Master for	mp_0101 0x14f03
+				taking me under his wing...
 0x18e4b	0x98	ALTO	#2W#6A#16S	W-Wait...!	mp_0001d 0x1b79
 0x18ea4	0x06	ALTO		ANI_TIRED_WALK	
 0x18f4e	0x06	ALTO		ANI_STAGGER_SIT	
@@ -1334,8 +1335,7 @@ EV_5_S10_signa_vs_seram
 				I was actually asleep for a long	
 				time in the Garden with Creha.	
 0x1a46e	0x40	Signa	#0W	Why was I asleep...?	
-				Well, let's put that	
-				matter aside for now.	
+				Well, let's put that matter aside for now.	
 0x1a4d8	0x40	Signa	#0W	One day...	
 				An "accident" occurred.	
 0x1a527	0x40	Signa	#0W	In an event that neither I nor	
@@ -1346,16 +1346,16 @@ EV_5_S10_signa_vs_seram
 				But Mitos are closer to being	
 				spiritual life-forms than human.	
 0x1a6d4	0x40	Signa	#0W	Anyway, due to the shock, one of	
-				my selves lost its memory... And	
-				somehow, wound up on Remnant Island.	
-0x1a75a	0x40	Signa	#0W	That was "Cygna" ─ the me	
-				who became Nayuta's friend.	
+				my selves lost his memory...	
+				And somehow, wound up on Remnant Island.	
+0x1a75a	0x40	Signa	#0W	That was "Cygna" ─	
+				the me who became Nayuta's friend.	
 0x1a828	0x40	Signa	#0W	In a manner of speaking, it must	
 				have been fate for that me to	
 				cross over to Terra once again...		
-0x1a88d	0x40	Signa	#0W	After leaving Nayuta, he	
-				proceeded toward Oltapia	
-				Temple, as if drawn to it.	
+0x1a88d	0x40	Signa	#0W	After leaving Nayuta, he continued	
+				towards the Oltapia temple, as if	
+				drawn to it.	
 0x1a8fe	0x40	Signa	#0W	He had to confront the	
 				masked man "Selam" again.	
 0x1aac6	0x40	Signa	#0W	The battle was fierce.	

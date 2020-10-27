@@ -32,8 +32,8 @@ EV_5_S03_arrive_tower
 0x1170	0x06	NOI		ANI_GESTURE1	
 0x1199	0x98	NOI	#6A	The tower needs to be able to send the	
 				Astrolabe's power to all four continents...	
-0x1236	0x98	NOI	#6A	In other words, the tower is	
-				capable of corrupting all of Terra...	
+0x1236	0x98	NOI	#6A	Conversely, the tower is capable	
+				of corrupting all of Terra...	
 0x129c	0x06	ALTO		ANI_WAIT4	
 0x12c3	0x98	ALTO		So the Mitos are trying to	
 				release some kind of seal...	
@@ -79,7 +79,7 @@ EV_5_S04_hear_many_voice
 				to free Nemeas yet.	
 0x1ffe	0x98	NOI	#6A	Nemeas is referred	
 				to as a Sage, even	
-				among the Wardens.		
+				among the wardens.		
 0x2057	0x06	NOI		ANI_GUTSPOSE	
 0x2080	0x98	NOI	#6A	Maybe she knows	
 				of a way...!	
@@ -88,13 +88,13 @@ EV_5_S04_hear_many_voice
 				been restored to normal, so we	
 				should be able save her now.	
 0x2175	0x06	ALTO		ANI_JOY	
-0x219a	0x98	ALTO		All right...then first,	
+0x219a	0x98	ALTO		All right... Then first,	
 				we'll go to Nemeas!	
 0x21ea	0x41	None	#0W#2E#030c	Hmm... You seem to have	
 				found your next objective.#0E	
 0x2334	0x41	None	#0W#2E#310c	We will try searching for a way to	
 				stop the flow of the Power of Stars	
-				from our Temples to the tower.#0E	
+				from our temples to the tower.#0E	
 0x23fc	0x41	None	#0W#2E#029c	We leave everything else up you two!#0E	
 0x24b4	0x06	ALTO		ANI_THANKS	
 0x24dc	0x98	ALTO		Yeah...!	
@@ -124,13 +124,13 @@ EV_5_S05_hear_neme_voice
 				has also been safely released.#0E	
 0x2f66	0x98	ALTO		Geo!	
 0x2f92	0x41	None	#0W#2E#029c	I'm here, too!#0E	mp_5100 0x1980
-0x3008	0x41	None	#0W#2E#030c	...As she said...#0E	mp_5100 0x19f6
+0x3008	0x41	None	#0W#2E#030c	...Just as she said...#0E	mp_5100 0x19f6
 0x3081	0x06	NOI		ANI_GESTURE1	
 0x30aa	0x98	NOI	#6A	Eris, Algol, too!	
 0x30e4	0x41	None	#0W#2E#710c	I've been informed of our current	
 				situation by everyone else.#0E	
-0x3179	0x41	None	#0W#2E#710c	You are planning on	
-				ascending Heliograd, aren't you?#0E	
+0x3179	0x41	None	#0W#2E#710c	You are planning on ascending	
+				Heliograd, aren't you?#0E	
 0x3210	0x06	ALTO		ANI_JOY	
 0x3235	0x98	ALTO		Yes... To find out	
 				Creha's true motives!	
@@ -139,9 +139,9 @@ EV_5_S05_hear_neme_voice
 				seem determined.#0E	
 0x3317	0x41	None	#0W#2E#310c	Then, we will let you	
 				handle that task.#0E	
-0x339e	0x41	None	#0W#2E#310c	From our temples, we will	mp_5100 0x2334
-				search for a method to stop the Power of	
-				Stars flowing from the tower.#0E	
+0x339e	0x41	None	#0W#2E#310c	We will try searching for a way to	mp_5100 0x2334
+				stop the flow of the Power of Stars
+				from our temples to the tower.#0E
 0x3466	0x41	None	#0W#2E#029c	Please look after Lady Creha	
 				for us, you two!#0E	
 0x34ff	0x06	NOI		ANI_NOD	
@@ -149,10 +149,10 @@ EV_5_S05_hear_neme_voice
 				Leave it to us!	
 0x3562	0x41	None	#0W#2E#710c	May you both be	
 				guided by the stars...#0E	
-0x370a	0x07	System	#3C	"Spring" of Origin Continent La Worg	mp_5100 0x260a
-				has been unlocked.	
-0x378d	0x07	System	#3C	"Summer" of Origin Continent La Worg	mp_5100 0x2695
-				has been unlocked.	
-0x3890	0x07	System	#3C	"Winter" of Origin Continent La Worg	mp_5100 0x27a0
-				has been unlocked.	
+0x370a	0x07	System	#3C	The spring of Origin Continent	mp_5100 0x260a
+				La Worg has been unlocked.
+0x378d	0x07	System	#3C	The summer of Origin Continent	mp_5100 0x2695
+				La Worg has been unlocked.
+0x3890	0x07	System	#3C	The winter of Origin Continent	mp_5100 0x27a0
+				La Worg has been unlocked..
 0x3ab2	0xCE	Objective		Creha's in Heliograd... I have to find out her true motives!	

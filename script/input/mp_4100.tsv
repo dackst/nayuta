@@ -13,7 +13,7 @@ SB_4_S10_appear_NOI
 EV_4_S10_meet_seram
 0x987	0x06	st		ANI_PATA2	
 0xd65	0x06	ALTO		ANI_WAIT4	
-0xd8c	0x98	ALTO	#6A	So this is the Temple of La Worg...	
+0xd8c	0x98	ALTO	#6A	So this is the temple of La Worg...	
 0xdd4	0x06	ALTO		ANI_WAIT	
 0xe17	0x98	ALTO		From the looks of it, it doesn't	
 				seem like it's been shut down yet.	
@@ -38,14 +38,14 @@ EV_4_S10_meet_seram
 				us all the way down here...	
 0x17a6	0x06	ALTO		ANI_GESTURE1	
 0x17d0	0x98	ALTO	#6A	...Have you come to	
-				shut down this Temple?	
+				shut down this temple?	
 0x1823	0x06	Seram		ANI_NOD	
 0x1849	0x98	Seram		That's right.	
-0x18b4	0x98	Seram		Once we shut down this Temple, the	
-				Power of Stars from every continent	
-				will flow into a single focal point...	
-0x193d	0x98	Seram		Concluding the first step	
-				in releasing the seal on Terra.	
+0x18b4	0x98	Seram		Once we shut it down, the Power of	
+				Stars from every continent will	
+				flow into a single focal point...	
+0x193d	0x98	Seram		Concluding the first step in	
+				releasing the seal on Terra.	
 0x19b3	0x06	ALTO		ANI_THINK2	
 0x19db	0x98	ALTO	#6A	The "seal"...	
 				It's just as	
@@ -56,10 +56,10 @@ EV_4_S10_meet_seram
 0x1bc7	0x06	NOI		ANI_COMPLAIN	
 0x1bf0	0x98	NOI		Are you guys really
 				going to use it!?	
-0x1c79	0x98	Seram	#6A	Yes, we will do it. Without	
-				the slightest hesitation.	
+0x1c79	0x98	Seram	#6A	Yes, we will. Without the	
+				slightest hesitation.	
 0x1cd2	0x06	Seram		ANI_GESTURE1	
-0x1cfd	0x98	Seram	#6A	It's what we...the Mitos─	
+0x1cfd	0x98	Seram	#6A	It's what we... the Mitos─	
 				it's what we MUST do.	
 0x1d6f	0x06	ALTO		ANI_DENY	
 0x1d95	0x98	ALTO		W-Wait, hold on a minute.	
@@ -83,11 +83,11 @@ EV_4_S10_meet_seram
 0x228e	0x06	Seram		ANI_GESTURE1	
 0x22b9	0x98	Seram		From here on out, our actions won't	
 				be so repetitive and predictable.	
-0x231b	0x98	ALTO	#6A	The...k-key?	
+0x231b	0x98	ALTO	#6A	The... k-key?	
 0x234e	0x06	NOI		ANI_GESTURE2	
 0x2377	0x98	NOI	#6A	Wh-What are you saying!?	mp_0101 0x1f77e
 0x23b8	0x06	Seram		ANI_WAIT	
-0x23df	0x98	Seram		Heheh, don't you understand?	
+0x23df	0x98	Seram		Heheh, you don't understand?	
 0x2415	0x06	Seram		ANI_DENY	
 0x243c	0x98	Seram		Right now, all your	
 				attention is focused	
@@ -105,8 +105,8 @@ EV_4_S10_meet_seram
 0x265d	0x98	ALTO	#6A	...!?	mp_4002a 0x12a4
 0x268d	0x06	NOI		ANI_SURPRISE	
 0x26b6	0x98	NOI	#0W#6A	Wh-What do you mean!?	
-0x271d	0x98	Seram		Heheh, With those words, I shall	
-				continue on into the Temple.	
+0x271d	0x98	Seram		Heh, with those words, I shall	
+				continue on into the temple.	
 0x2799	0x98	Seram		What should you do...?	
 				I suggest you give it	
 				some careful thought.	
@@ -117,7 +117,7 @@ EV_4_S10_meet_seram
 0x2b29	0x98	ALTO		...Haha, it's fine.	
 0x2b5d	0x06	ALTO		ANI_GESTURE2	
 0x2b87	0x98	ALTO		Like I said before...	
-				when you feel that you're	
+				When you feel that you're	
 				ready, you can tell me.	
 0x2beb	0x06	ALTO		ANI_THINK2	
 0x2c13	0x98	ALTO		...I'm more worried	

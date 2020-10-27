@@ -20,7 +20,7 @@ open_door5_6
 0x122e	0xC1	System		obtained.	mp_0000 0x7558
 talk_SpiritC
 QS_54_discovery_SpiritC
-0x15d6	0x6B	SpiritC		Exclamation	
+0x15d6	0x6B	SpiritC		Exclamation	# this is probably all dummy text. nothing happens in La Worg in QS_54 outside the temple
 0x160b	0x06	ALTO		ANI_GESTURE1	
 0x1635	0x98	ALTO		You're Nemeas' messenger...right?	
 0x1676	0x98	SpiritC		...～?	

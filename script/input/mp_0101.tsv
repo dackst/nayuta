@@ -29,9 +29,9 @@ lp_portal
 				exploring without Noi, right?	
 0x2299	0x98	ALTO		I should return to the island	
 				for now and get ready.	
-0x237c	0x98	ALTO		It's not time to go exploring now.	
-0x23be	0x98	ALTO		I gotta search for	mp_0101 0x1d69
-				Creha with Noi!	
+0x237c	0x98	ALTO		This is no time to go exploring.	
+0x23be	0x98	ALTO		I gotta split up with Noi	mp_0101 0x1d69
+				and search for Creha...!
 0x2485	0x98	ALTO		Now's not the time go to exploring.	
 				I gotta hurry up and find Cygna...!	
 0x2567	0x98	ALTO		Looks like some kind of artifact...	
@@ -40,13 +40,13 @@ lp_portal
 0x280e	0x06	st		ANI_PATA1	
 0x2b1f	0x06	st		ANI_PATA1	
 lp_portal2
-0x2ce8	0x98	ALTO		Huh, is this another	
+0x2ce8	0x98	ALTO		Huh, is this a new	
 				teleporter device...?	
 0x2d30	0x98	NOI		I know you're interested...	
 				But right now, we should	
 				check on Lady Creha.	
 0x2e2b	0x07	System	#4C	By using this teleporter device,	
-				you can go to Star City Lexendria.	
+				you can go to Star Capital Lexendria.	
 0x2ec5	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
 0x3056	0x06	st_later		ANI_PATA1	
 LP_Saku
@@ -60,9 +60,9 @@ LP_Monsyo
 LP_Flower
 talk_Signa
 0x3388	0x40	UNDEF		Cygna is sleeping, wrapped in flowers.	
-0x33f1	0x98	ALTO		(...Cygna......)	
+0x33f1	0x98	ALTO		(...Cygna.....)	
 0x3421	0x98	ALTO		(Don't worry, I'll save you...!)	
-0x34cc	0x98	Signa		...............	mp_0001 0xc917
+0x34cc	0x98	Signa		.......	mp_0001 0xc917
 0x34fc	0x98	ALTO		Cygna... What's wrong?	
 				You look like you've had	
 				something on your mind.	
@@ -91,48 +91,46 @@ talk_Signa
 				going for now.	
 0x386e	0x98	Signa		We've gotta catch that Zext	
 				guy quickly for Noi's sake.	
-0x38c6	0x98	NOI		Y-Yeah.	mp_0005c 0x6aba
-0x3926	0x98	Signa		Anyway, let's	mp_0101 0x382a
-				proceed ahead for now.	
+0x38c6	0x98	NOI		O-Okay.	mp_0005c 0x6aba
+0x3926	0x98	Signa		Anyway, let's keep	mp_0101 0x382a
+				going for now.
 0x396a	0x98	Signa		If you're unsure about your	
 				equipment, it might be a good	
 				idea to go back to the village.	
 0x39df	0x98	Signa		We've gotta catch that Zext guy	
 				quickly for Noi's sake, too.	
-0x3a64	0x98	Signa		Anyway, let's	mp_0101 0x382a
-				proceed ahead for now.	
-0x3aa8	0x98	Signa		We've got to catch	mp_0101 0x39df
-				that Zext quickly	
-				for the sake of Noi, too.	
+0x3a64	0x98	Signa		Anyway, let's keep	mp_0101 0x382a
+				going for now.
+0x3aa8	0x98	Signa		We've gotta catch that Zext guy	mp_0101 0x39df
+				quickly for Noi's sake, too.
 0x3b3b	0x98	Signa		Hmmm, no kidding, this	
 				place is beautiful.	
 0x3b8b	0x6B	Signa		Ellipsis	
 0x3bbe	0x98	ALTO		Cygna, what's wrong?	
-0x3bf2	0x98	Signa		...No, it's nothing.	mp_0001 0x165cc
+0x3bf2	0x98	Signa		...It's nothing.	mp_0001 0x165cc
 0x3c27	0x98	Signa		There's a lot going on here we don't	
 				understand. Let's take a look around.	
-0x3cc1	0x98	Signa		I'll look around here. Nayuta, why don't	
-				you try checking out the rest of this place?	
-0x3d19	0x98	Signa		Right now, there's nothing except	mp_0101 0x3c27
-				that which I don't understand. Let's	
-				look around.	
+0x3cc1	0x98	Signa		I'll look around here. Nayuta, why don't you	
+				try checking out the rest of this place?	
+0x3d19	0x98	Signa		There's a lot going on here we don't	mp_0101 0x3c27
+				understand. Let's take a look around.
 talk_Creha
 0x3e15	0x40	UNDEF		Creha is sleeping, wrapped in flowers.	
-0x3e7f	0x98	ALTO		Just like the first I saw her...	
-0x3ec2	0x98	NOI		...Lady Creha......	
+0x3e7f	0x98	ALTO		Just like the first time I saw her...	
+0x3ec2	0x98	NOI		...Lady Creha....	
 0x3f4d	0x98	NOI		Lady Creha... Are you okay?	
 0x3f8e	0x98	Creha		Yes, I'm fine... I don't	
 				feel dizzy anymore.	
 0x4010	0x98	Creha		...This place feels	
 				a little familiar...	
-0x4061	0x98	ALTO		I've been told you have been	
-				sleeping there for a long time.	
+0x4061	0x98	ALTO		I was told you've been sleeping	
+				there for a long time.	
 0x40bd	0x98	ALTO		I only found out about	
 				it recently though...	
 0x4104	0x98	Creha		..................	
 0x4137	0x98	ALTO		(Y-You know, she seems	
 				 kinda out of it.)	
-0x4180	0x98	NOI		(Yeah... Maybe she's about	
+0x4180	0x98	NOI		(Yeah... Maybe she's trying	
 				 to remember something.)	
 0x41cb	0x98	NOI		(Nayuta, it's probably best	
 				 to let her be for now.)	
@@ -162,8 +160,8 @@ talk_Creha
 0x4756	0x98	ALTO		Anyway, let's try to	
 				find him ourselves.		
 0x4855	0x40	UNDEF		A girl is sleeping, wrapped in flowers.	mp_0101 0x463f
-0x489d	0x40	UNDEF		If you listen closely, you can	mp_0101 0x4687	
-				hear her softly breathing...	
+0x489d	0x40	UNDEF		If you listen closely, you can hear	mp_0101 0x4687
+				her softly breathing in her sleep...
 0x491a	0x98	ALTO		This is Creha...? I have a lot	
 				of questions on my mind, but...	
 0x4966	0x98	ALTO		Our first priority is to proceed	
@@ -176,7 +174,7 @@ talk_Cetus
 0x4ade	0x98	Cetus		It's the least we can do for you.	
 				Leave this place to us.	
 0x4b36	0x98	Cetus		We'll return to the island together.	mp_0101 0x4a0c
-				Absolutely return safely.	
+				Make sure to come back to us in one piece.
 talk_Reticul
 0x4bde	0x98	Reticul		All that's left is for you	
 				to do what you need to do.	
@@ -187,13 +185,13 @@ talk_Reticul
 0x4cc3	0x98	Reticul		For now, it's a relief to	
 				finally be able to go back 	
 				to our original world.	
-0x4d2f	0x98	Reticul		All that's left is for you to	mp_0101 0x4bde
-				do what you need to do.	
-				Do your best!	
+0x4d2f	0x98	Reticul		All that's left is for you	mp_0101 0x4bde
+				to do what you need to do.
+				Get over there and be strong!
 subev_look_creha
 0x4f70	0x40	UNDEF		A girl is sleeping, wrapped in flowers.	mp_0101 0x463f
-0x4fb8	0x40	UNDEF		If you listen closely, you can	mp_0101 0x4687
-				hear her softly breathing...	
+0x4fb8	0x40	UNDEF		If you listen closely, you can hear	mp_0101 0x4687
+				her softly breathing in her sleep...
 0x501b	0x98	ALTO	#6A	...Creha, huh?	
 0x5050	0x06	ALTO		ANI_GESTURE2	
 0x5097	0x98	ALTO	#6A	Noi, why is this girl	
@@ -206,7 +204,7 @@ subev_look_creha
 0x51f3	0x06	ALTO		ANI_THINK2	
 0x521b	0x98	ALTO	#6A	(Hmm... She answered to most of our other	
 				 questions, but it seems like there's some	
-				 things she's not willing to tell us.)	
+				 things she's not willing to share with us.)	
 0x528c	0x98	ALTO	#6A	(There must be a reason behind it.	
 				 Unless we get to know her better,	
 				 I probably shouldn't push it...)	
@@ -214,7 +212,7 @@ subev_look_creha
 0x5351	0x98	ALTO	#6A	(Even so, this girl	
 				 is really pretty...)	
 0x539e	0x98	ALTO	#6A	(Noi said she wasn't human, but...)	
-0x53ec	0x3F	Name		Noi's Voice	
+0x53ec	0x3F	Name		Cygna's Voice	
 0x53ff	0x98	Signa	#0x#270y	What, are you spacing out again?	
 0x5458	0x6B	ALTO		Surprise	
 0x548a	0x6B	NOI		Surprise	
@@ -241,7 +239,7 @@ subev_look_creha
 0x5bba	0x98	NOI	#6A	...What are you	
 				talking about?	
 0x5bf2	0x06	Signa		ANI_DENY	
-0x5c19	0x98	Signa		...No, it's nothing.	mp_0001 0x165cc
+0x5c19	0x98	Signa		...It's nothing.	mp_0001 0x165cc
 0x5c6d	0x98	Signa		More importantly, Nayuta...	
 				Did ya see that other one over there?	
 0x5ccf	0x6B	ALTO		Surprise	
@@ -252,8 +250,8 @@ subev_look_creha
 0x6029	0x06	Signa		ANI_GESTURE2	
 0x6054	0x98	Signa	#6A	If this Creha girl	
 				is sleeping here...	
-0x60a9	0x98	Signa	#6A	It seems like someone else	
-				should be sleeping there.	
+0x60a9	0x98	Signa	#6A	It stands to reason that someone	
+				else should be sleeping there.	
 0x610e	0x98	NOI	#1A	W-Well...	
 0x613c	0x6B	NOI		Ellipsis	
 0x616d	0x06	NOI		ANI_GUTSPOSE	
@@ -291,10 +289,10 @@ subev_return_garden
 0x6df3	0x06	NOI		ANI_ANGRYTALK	
 0x6e1d	0x98	NOI	#6A	Th-That's absurd!	
 0x6e69	0x06	NOI		ANI_DULL	
-0x6e8e	0x98	NOI	#6A	Since way before you two	
-				showed up, I've been alone...	
+0x6e8e	0x98	NOI	#6A	I've been alone way longer before	
+				you two showed up...	
 0x6edb	0x06	NOI		ANI_COMPLAIN	
-0x6f04	0x98	NOI	#6A	...Anyway, if you're finished	
+0x6f04	0x98	NOI	#6A	...Anyway, if you've finished	
 				preparing, let's go to Oltapia.	
 0x6f67	0x98	NOI	#6A	We have to take back	
 				the Master Gear!	
@@ -331,7 +329,7 @@ QS_41_discovery_Equlea
 0x8064	0x98	Equlea	#6A	Am I dreaming...?	
 0x80b7	0x3F	Name		Nayuta's Voice	mp_0001 0x1090f
 0x80cd	0x98	ALTO	#1000x#1000y	There she is!	
-0x8116	0x3F	Name		Noi's Voice	mp_0101 0x53ec
+0x8116	0x3F	Name		Noi's Voice	 
 0x8129	0x98	NOI	#0x#1000y	A h-human...!	
 				Another snuck in!?	
 0x817f	0x6B	Equlea		Surprise	
@@ -362,7 +360,7 @@ QS_41_discovery_Equlea
 0x87b2	0x98	ALTO		On request from Victor,	
 				I've been looking for you...	
 0x8816	0x06	Equlea		ANI_WAIT3	
-0x883f	0x98	Equlea		...A request from...my father?	
+0x883f	0x98	Equlea		...A request from... Father?	
 0x889f	0x98	Equlea		...I don't want to.	
 				I am not returning to	
 				where those people are.	
@@ -371,25 +369,25 @@ QS_41_discovery_Equlea
 0x8958	0x06	ALTO		ANI_GESTURE2	
 0x8982	0x98	ALTO		Umm, can you tell me why?	
 0x89de	0x06	Equlea		ANI_WAIT	
-0x8a06	0x98	Equlea		...My mother and father	
-				are always, always fighting.	
+0x8a06	0x98	Equlea		...Mother and Father are	
+				always, always fighting.	
 0x8a5b	0x98	Equlea		They quarrel about even minor details...	
 				There is always tension inside my house.	
 0x8aca	0x98	Equlea		They are like that even when	
-				we are on vacation, I could not	
+				we are on vacation. I couldn't	
 				bear it any longer and left.	
 0x8b46	0x06	ALTO		ANI_NOD	
 0x8b6b	0x98	ALTO		I'm sorry...	
 0x8ba5	0x06	ALTO		ANI_GESTURE1	
-0x8bcf	0x98	ALTO		But...even so, before you run away	
+0x8bcf	0x98	ALTO		But... even so, before you run away	
 				from home, I think you should talk	
 				to them about it first.	
 0x8c60	0x98	ALTO		You should be honest	
 				about your feelings.	
-0x8cbd	0x98	Equlea		mp_0001 0x166ea
+0x8cbd	0x98	Equlea		Huh...?	mp_0001 0x166ea
 0x8ce5	0x06	ALTO		ANI_WAIT4	
-0x8d0c	0x98	ALTO		I heard from your parents that	
-				you're quiet and well-mannered...
+0x8d0c	0x98	ALTO		I heard from your parents that you	
+				were quiet and mild-mannered...
 0x8d73	0x98	ALTO		But from what I heard from the villagers,	
 				I got the impression that you're	
 				energetic and full of curiosity.	
@@ -397,18 +395,18 @@ QS_41_discovery_Equlea
 				a tomboy too, as you pushed a sailor off	
 				the pier for disagreeing with you.
 0x8e9a	0x6B	Equlea		Unknown	
-0x8eee	0x98	Equlea		W-Well, you see...	mp_0003 0xa418
+0x8eee	0x98	Equlea		Um, ah, w-well...	mp_0003 0xa418
 0x8f22	0x06	ALTO		ANI_GESTURE1	
 0x8f4c	0x98	ALTO		I know it's important	
 				to be a good girl for	
 				your mother and father...	
-0x8fb7	0x98	ALTO		It's important to reveal	
-				yourself and tell them	
-				the truth, too.	
+0x8fb7	0x98	ALTO		But it's important to reveal	
+				yourself and tell them the	
+				truth, too.	
 0x9027	0x06	ALTO		ANI_GESTURE2	
 0x9051	0x98	ALTO		Sure, your parents may fight, but	
-				right now they are worried about	
-				you from the bottom of their hearts.	
+				right now they are worried about you	
+				from the bottom of their hearts.	
 0x90d7	0x98	ALTO		If I were them, I think I'd	
 				listen to what you have to say. 	
 0x9154	0x98	Equlea		...Nayuta...	
@@ -426,8 +424,8 @@ QS_41_discovery_Equlea
 0x9355	0x6B	ALTO		Sweatdrop	
 0x939c	0x6B	Equlea		Sweatdrop	
 0x93e7	0x98	ALTO		N-Noi...	
-0x940f	0x98	Equlea		...Hehe, I think you are	
-				right, Miss Fairy.	
+0x940f	0x98	Equlea		...Hehe, I think you	
+				are right, Ms. Fairy.	
 0x948f	0x98	Equlea		Nayuta, could you	
 				escort me to the inn?	
 0x94db	0x98	Equlea		As you two have said,	
@@ -459,7 +457,7 @@ QS_41_discovery_Equlea
 0x9a27	0x40	UNDEF		For a little bit, together the three toured the	
 				rest of the Garden, where it was less dangerous.
 0x9aab	0x40	UNDEF		Afterwards, they delivered Equulea to her parents,	
-				who were still waiting at their room at the inn.	
+				who were still waiting in their room at the inn.	
 QS_41_sub_move_ALTO
 0x9cb5	0x06	ALTO		ANI_LOOK_AROUND	
 QS_41_sub_move_NOI
@@ -496,8 +494,7 @@ EV_0_S19_arrive_garden
 0xb055	0x06	Creha		ANI_SLEEP_TILT	
 0xb0b4	0x40	ALTO	#1W	(...Ooh...)	
 0xb0e9	0x40	ALTO	#1W	(...It's way too bright...)	
-0xb12a	0x40	ALTO	#0W	(...But my eyes are	
-				 starting to adjust...)	
+0xb12a	0x40	ALTO	#0W	(...But my eyes are starting to adjust...)	
 0xb408	0x98	ALTO	#0W#6A	...This place...	
 0xb625	0x06	ALTO		ANI_GUTSPOSE	
 0xb64f	0x98	ALTO	#1W#6A	...I-Incredible!	
@@ -506,8 +503,8 @@ EV_0_S19_arrive_garden
 0xb6e5	0x06	Signa		ANI_WAIT2	
 0xb70d	0x98	Signa		I don't even have the words	
 				to describe this...	
-0xb75d	0x98	Signa		Haha, well who knows, we might	
-				not be in "this world" any longer.	
+0xb75d	0x98	Signa		Haha, but who knows, we might not exist	
+				in "this world" any longer ourselves.	#in case it's still not clear, he was trying to imply they died and went to the afterlife, not that he immediately (and correctly) guessed they just discovered a new world
 0xb7f2	0x06	ALTO		ANI_SURPRISE	
 0xb81c	0x98	ALTO	#6A	Huh? Don't say	
 				stuff like that...	
@@ -593,7 +590,7 @@ EV_0_S20_meet_creha
 0xd2ca	0x06	Signa		ANI_WAIT2	
 0xd2f2	0x98	Signa	#6A	What's wrong?	
 				What did you find?	
-0xd348	0x98	ALTO	#0W	What...is that...?	
+0xd348	0x98	ALTO	#0W	What... is that...?	
 0xd3b6	0x06	Signa		ANI_SURPRISE_WEAK	
 0xd405	0x98	Signa	#6A	W-Whoa!	
 0xd60b	0x06	ALTO		ANI_WAIT	
@@ -601,14 +598,14 @@ EV_0_S20_meet_creha
 0xd6bb	0x41	None	#0W#2E	...There is an "End" to this world.	
 				We have been taught this for as	
 				long as anyone can remember.#0E	
-0xd768	0x41	None	#0W#2E	Even the sea, which might seem to stretch	
+0xd768	0x41	None	#0W#2E	Even the sea, which might look to stretch	
 				towards infinity, has a definite end,	
 				beyond which one cannot travel.#0E	
 0xd823	0x41	None	#0W#2E	...Even so, I finally reached it.	
 				The lost paradise of Lost Heaven...#0E	
 0xd8c4	0x41	None	#0W#2E	...And then...#0E	
 0xda14	0x3F	Name		???	
-0xda1f	0x98	Creha	#200x#40y#1W	.....................	mp_0003 0xc610
+0xda1f	0x98	Creha	#200x#40y#1W	.........	mp_0003 0xc610
 0xdbc3	0x98	Signa	#1W#6A	I-Is this...?	
 0xdbfe	0x98	ALTO	#1W#6A	A g-girl...?	
 0xdca6	0x41	None	#1W#2E	─In this beautiful world,	
@@ -619,8 +616,8 @@ EV_0_S20_meet_creha
 				wheel of fate beginning to turn...#0E	
 EV_1_S00_go_jungle
 0xe317	0x3F	Name		Silver-Haired Girl	mp_0100 0xb212
-0xe339	0x98	Creha	#1W#12S	.....................	mp_0003 0xc610
-0xe386	0x98	ALTO	#0W#6A	.....................	mp_0003 0xc610
+0xe339	0x98	Creha	#1W#12S	.........	mp_0003 0xc610
+0xe386	0x98	ALTO	#0W#6A	.........	mp_0003 0xc610
 0xe3c1	0x06	ALTO		ANI_THINK2	
 0xe3e9	0x98	ALTO	#0W#6A	(...Who is this girl...?	
 				 How did she get here...?)	
@@ -631,11 +628,11 @@ EV_1_S00_go_jungle
 0xe568	0x98	ALTO	#0W#6A	(...W-Well, I guess she's	
 				 not dead, but...)	
 0xe5bb	0x06	ALTO		ANI_FIND	
-0xe6c9	0x98	ALTO	#0W#0x#400y#5A	(...She feels...mysterious, somehow.)	
+0xe6c9	0x98	ALTO	#0W#0x#400y#5A	(...She feels... mysterious, somehow.)	
 0xe719	0x98	ALTO	#0W#0x#400y#5A	(Her hair and skin are so beautiful...	
 				I've never seen a girl like her.)	
 0xe7b6	0x98	Signa	#0W#0x#30y#12S	...y...ta...	
-0xe802	0x98	ALTO	#0W#0x#400y#5A	(...What is this?	
+0xe802	0x98	ALTO	#0W#0x#400y#5A	(...What is happening?	
 				...My heart is pounding.)	
 0xe892	0x98	Signa	#0x#30y#16S	...Hey, Nayuta! Can you hear me!?	
 0xe8e7	0x06	Signa		ANI_ANGRYTALK	
@@ -668,10 +665,10 @@ EV_1_S00_go_jungle
 				we found you.	
 0xf350	0x06	NOI		ANI_ANGRYTALK	
 0xf37a	0x98	NOI		H-How are you guys here!?	
-0xf3b2	0x98	NOI		Humans should not be able	
+0xf3b2	0x98	NOI		Humans shouldn't be able	
 				to get to this place...	
 0xf473	0x06	ALTO		ANI_GESTURE2	
-0xf49d	0x98	ALTO	#6A	Umm... Not able to get here?	
+0xf49d	0x98	ALTO	#6A	Umm... Shouldn't be able to get here?	
 0xf4e7	0x06	Signa		ANI_WAIT4	
 0xf50f	0x98	Signa	#6A	We went chasing after you,	
 				and we got here just fine.	
@@ -698,13 +695,13 @@ EV_1_S00_go_jungle
 				this girl in any danger.	
 0xf9fd	0x06	NOI		ANI_THINK	
 0xfa23	0x6B	NOI		Ellipsis	
-0xfa71	0x98	NOI		...You guys did save me	
-				once already, didn't you...?	
+0xfa71	0x98	NOI		...You guys did save me once	
+				already, didn't you...?	
 0xfae7	0x06	NOI		ANI_WAIT	
 0xfb0c	0x98	NOI		...O-Okay. It's scary, but...	
 				I'll trust you for now.	
 0xfb6b	0x06	ALTO		ANI_NOD	
-0xfb90	0x98	ALTO	#6A	Ahaha, that's good to hear.	
+0xfb90	0x98	ALTO	#6A	Haha, that's good to hear.	
 0xfbc6	0x98	ALTO	#6A	By the way... There's a bunch	
 				of things we wanted to ask you.	
 0xfc3e	0x98	NOI		Th-Things?	
@@ -750,19 +747,19 @@ EV_1_S00_go_jungle
 0x1051e	0x98	NOI	#6A	A long time ago, a lot of	
 				things happened and she	
 				fell asleep, though...	
-0x10585	0x98	ALTO	#6A	The Mitos...created this world!?	
-0x105d0	0x98	ALTO	#6A	And...she fell asleep...	
+0x10585	0x98	ALTO	#6A	The Mitos... created this world!?	
+0x105d0	0x98	ALTO	#6A	And... she fell asleep...?	
 				Do you mean she's been	
 				sleeping here ever since?	
 0x10645	0x98	Signa	#6A	Hmmm... That's a little	
 				hard to believe...	
 0x10754	0x06	Signa		ANI_WAIT3	
-0x1077c	0x98	Signa	#6A	And you... Noi, are you supposed
+0x1077c	0x98	Signa	#6A	And you... Noi, you're supposed
 				to be her caretaker or something?	
 0x1088e	0x98	NOI		Y-Yeah, something like that...	
 0x10909	0x98	NOI		While Lady Creha sleeps, my job	
 				is to watch over this Garden...
-				It's my duty as a Warden.	
+				It's my duty as a warden.	
 0x1098d	0x06	ALTO		ANI_COMPLAIN	
 0x109b7	0x98	ALTO	#6A	You supervise a huge place	
 				like this all by yourself!?	
@@ -796,7 +793,7 @@ EV_1_S00_go_jungle
 0x1143a	0x06	NOI		ANI_GUTSPOSE	
 0x11463	0x98	NOI		Lady Creha...	
 				I'll be back!	
-0x114ec	0x98	NOI		As the Warden of the Garden...	
+0x114ec	0x98	NOI		As the warden of the Garden...	
 				I'll stop Zext for sure!	
 0x11593	0x06	NOI		ANI_NOD	
 0x115b7	0x98	NOI		...Please, let me	
@@ -858,7 +855,7 @@ EV_1_S00_go_jungle
 				and fuzzy feeling from	
 				you guys...?	
 0x1229e	0x98	NOI	#6A	I'm being serious, you know!	
-0x122e5	0x98	ALTO		Ahaha, anyway...	
+0x122e5	0x98	ALTO		Haha, anyway...	
 				Let's reintroduce ourselves.	
 0x1233d	0x06	ALTO		ANI_THANKS	
 0x1236d	0x98	ALTO		I am Nayuta Herschel.	
@@ -952,14 +949,14 @@ EV_2_S01_look_around
 				Maybe he already	
 				left the Garden.	
 0x1447b	0x06	ALTO		ANI_GESTURE2	
-0x144a5	0x98	ALTO		But... He would have needed to use	
+0x144a5	0x98	ALTO		But... He would've needed to use	
 				the teleporter device to go to	
 				another continent, right?	
 0x1450c	0x98	ALTO		I don't know how he'd have	
 				managed to control it...	
 0x14561	0x06	NOI		ANI_THINK	
 0x14587	0x98	NOI	#6A	It's only connected to Oltapia	
-				right now, and there's no indication	
+				right now, and there's no reason	
 				to think we missed each other...	
 0x145d6	0x98	NOI	#6A	It's possible that he found another	
 				teleporter I don't know about...	
@@ -967,7 +964,7 @@ EV_2_S01_look_around
 0x14676	0x06	NOI		ANI_WAIT	
 0x1469b	0x98	NOI	#6A	...Nayuta, I need you to	
 				wait here for a moment.	
-0x146e9	0x98	NOI	#6A	There's something I want to try...	
+0x146e9	0x98	NOI	#6A	There's something I wanna try...	
 0x147ec	0x98	ALTO		Hey, Noi...!?	
 0x14be5	0x98	ALTO		There she goes...	
 0x14c36	0x06	ALTO		ANI_THINK2	
@@ -999,7 +996,7 @@ EV_2_S01_look_around
 0x153dc	0xCE	Objective		Cygna might've returned. Let's go back and search for him.	
 EV_2_S10_return_tera
 0x158f0	0x98	NOI		This way!	
-0x15c8c	0x98	ALTO	#6A	It's... The gate to Heliograd?	
+0x15c8c	0x98	ALTO	#6A	It's... the gate to Heliograd?	
 0x15cd6	0x98	NOI		Hmm... Wait a minute.	
 0x15d38	0x06	NOI		ANI_USE_POWER	
 0x15ec2	0x06	NOI		ANI_WAIT	
@@ -1027,7 +1024,8 @@ EV_2_S14_hear_gio_voice
 0x167ba	0x98	NOI		This voice... Geo!?	
 0x167ee	0x98	ALTO		Where the heck is it coming from?	
 0x16833	0x41	None	#0W#2E#310c	I am communicating with you	
-				telepathically from Oltapia Temple.#0E	
+				telepathically from the	
+				Oltapia temple.#0E	
 0x168d3	0x41	None	#0W#2E#310c	Indeed, earlier,	
 				I was finally able to	
 				destroy that prison.#0E	
@@ -1056,7 +1054,7 @@ EV_2_S14_hear_gio_voice
 0x170a6	0x41	None	#0W#2E#310c	It seems all you can do is confirm	
 				the true identity of "Zext" with him.#0E	
 0x1714d	0x41	None	#0W#2E#310c	Anyway, my proper place	
-				is at the Temple.#0E	
+				is at the temple.#0E	
 0x171d7	0x41	None	#0W#2E#310c	If you need anything,	
 				feel free to come visit.	
 				...Farewell.#0E	
@@ -1074,9 +1072,9 @@ SB_2_S28_noi_move
 EV_2_S28_check_coffin
 0x17a8e	0x6B	ALTO		Exclamation	
 0x17ad5	0x6B	NOI		Exclamation	
-0x17c95	0x98	NOI	#0W#6A	...Sh-She's not here....	
+0x17c95	0x98	NOI	#0W#6A	...Sh-She's not here...	
 0x17cd6	0x06	NOI		ANI_SURPRISE	
-0x17d13	0x98	NOI	#16S#6A	...Lady Creha's gone!?	
+0x17d13	0x98	NOI	#16S#6A	...Lady Creha is gone!?	
 0x17d5f	0x06	ALTO		ANI_DENY	
 0x17d85	0x98	ALTO		No way... She should be	
 				sleeping right here!	
@@ -1141,37 +1139,37 @@ EV_2_S30_talk_creha
 				I want to wait a little while	
 				before our next exploration.	
 0x18f6c	0x06	NOI		ANI_DEJECTED	
-0x18f95	0x98	NOI	#6A	I'm worried about Cygna too, but	
-				right now, I'm more worried about	
-				Lady Creha...		
-0x19005	0x98	NOI	#6A	I also want to think a little	
-				more about Lord Zext...	
+0x18f95	0x98	NOI	#6A	I'm worried about Cygna too,	
+				but right now, I'm more	
+				worried about Lady Creha...		
+0x19005	0x98	NOI	#6A	I also want some more time	
+				to think about Lord Zext...	
 0x1907f	0x06	ALTO		ANI_NOD	
 0x190a4	0x98	ALTO	#6A	...Yeah, I understand.	
 				Let's take a break then.	
 0x19104	0x06	ALTO		ANI_WAIT4	
 0x1912b	0x98	ALTO	#6A	I'll go back to 	
 				Remnant Island.	
-0x19176	0x98	ALTO	#6A	I want to make sure	
+0x19176	0x98	ALTO	#6A	I should make sure	
 				my equipment is all	
 				ready to go.	
 0x191cd	0x06	NOI		ANI_OJIGI	
 0x191f3	0x98	NOI	#6A	Thank you... Nayuta.	
-0x19247	0x98	Creha	#0W	mp_0000d 0x70fd
+0x19247	0x98	Creha	#0W	.....	mp_0000d 0x70fd
 0x192b9	0x06	ALTO		ANI_WAIT	
 0x192df	0x06	NOI		ANI_WAIT	
 0x1943a	0xCE	Objective		Let's return and get ready to explore.	
 EV_3_S04_meet_creha
 0x1962a	0x06	Creha		ANI_SIT5	
 0x196f1	0xBC	Creha		Ellipsis	
-0x19776	0x98	Creha	#0W	It's a beautiful place... Really.	
+0x19776	0x98	Creha	#0W	This is a beautiful place... Really.	
 0x197c2	0xBC	Creha		Surprise	
 0x1995d	0x06	ALTO		ANI_LOOK_AROUND	
 0x19992	0x98	ALTO		(...Noi might have some idea	
 				 about the Yupina Grass...)	
-0x19a00	0x98	ALTO		(I've gotta find her...!)	
+0x19a00	0x98	ALTO		(I gotta find her...!)	
 0x19a9a	0x06	Creha		ANI_WAIT	
-0x19ac1	0x98	Creha	#30x#270y	mp_0001 0x1656d
+0x19ac1	0x98	Creha	#30x#270y	...What's wrong?	mp_0001 0x1656d
 0x19b1a	0x6B	ALTO		Surprise	
 0x19ca7	0x06	ALTO		ANI_GESTURE1	
 0x19cd1	0x98	ALTO		Oh, I'm glad I found you...	
@@ -1181,14 +1179,14 @@ EV_3_S04_meet_creha
 				She's not here now...	
 0x19da3	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x19df0	0x98	ALTO		D-Did she go out!?	
-0x19e40	0x98	ALTO		Tch, just where is she...?	
-				Gotta go search for her!!	
+0x19e40	0x98	ALTO		Tch, where the heck is she...?	
+				I gotta go find her!!	
 0x19ea8	0x06	Creha		ANI_GESTURE2	
 0x19ed3	0x98	Creha	#6A	...Did something happen?	
 0x19f17	0x06	ALTO		ANI_COMPLAIN	
-0x19f5f	0x98	ALTO		We have to find a herb called	
+0x19f5f	0x98	ALTO		I have to find a herb called	
 				Yupina Grass right away!	
-0x19ff7	0x98	ALTO	#0W	If we don't, then my sister will...!	
+0x19ff7	0x98	ALTO	#0W	If I don't, then my sister will...!	
 				My sister is sick!!	
 0x1a05e	0x6B	Creha		Surprise	
 0x1a091	0x98	Creha	#1W#6A	...........
@@ -1220,22 +1218,22 @@ EV_3_S04_meet_creha
 0x1ad0b	0x6B	Creha		Surprise	
 0x1aedb	0x98	ALTO		Noi... Speak of the devil.	
 0x1af14	0x06	ALTO		ANI_GESTURE1	
-0x1af3e	0x98	ALTO		There's something	
-				I need your help with!	
+0x1af3e	0x98	ALTO		There's something I	
+				need your help with!	
 0x1af96	0x40	UNDEF		Nayuta explained how Eartha fell ill and collapsed.	
 0x1aff0	0x6B	NOI		Exclamation	
 0x1b019	0x06	NOI		ANI_SURPRISE	
 0x1b067	0x98	NOI	#6A	Nayuta, your sister...!	
 0x1b0ab	0x06	ALTO		ANI_THANKS	
 0x1b0f1	0x98	ALTO		I know it's selfish, but...	
-				Please help me out.	
-0x1b158	0x98	ALTO		Could you search with the Astrolabe	
-				and find out if there is any Yupina	
-				Grass in this world?	
+				Please, help me out.	
+0x1b158	0x98	ALTO		Could you do a search with the	
+				Astrolabe to find if there is	
+				any Yupina Grass in this world?	
 0x1b1dd	0x06	NOI		ANI_NOD	
 0x1b21e	0x98	NOI	#6A	...Okay. You've helped	
 				me so many times...	
-0x1b26b	0x98	NOI	#6A	I just finished	
+0x1b26b	0x98	NOI	#6A	I've just finished	
 				the adjustments.	
 				Come with me!	
 0x1b2c8	0x06	Creha		ANI_WAIT2	
@@ -1256,7 +1254,7 @@ EV_3_S08_hear_eris_voice
 0x1bb9a	0x06	NOI		ANI_GESTURE1	
 0x1bbc3	0x98	NOI		Could it be... Eris!?	
 0x1bbf6	0x41	None	#0W#2E#029c	Yes, I am now speaking with	
-				you from the Temple.#0E	
+				you from the temple.#0E	
 0x1bc85	0x41	None	#0W#2E#029c	Thanks to you, I was	
 				able to break out of the prison.	
 				Truly, thank you!#0E	
@@ -1278,7 +1276,7 @@ EV_3_S08_hear_eris_voice
 0x1c238	0x06	ALTO		ANI_NOD	
 0x1c25d	0x98	ALTO		Yes... Thank you very much.	
 0x1c297	0x41	None	#0W#2E#029c	Anyway, I plan to remain at	
-				the Temple for some time.#0E	
+				the temple for some time.#0E	
 0x1c32d	0x41	None	#0W#2E#029c	I have work to do...	
 				If you need anything,	
 				don't hesitate to ask.#0E	
@@ -1291,10 +1289,10 @@ SB_3_S24_appear_ALTO
 SB_3_S24_appear_NOI
 EV_3_S24_meet_gio
 0x1cbbb	0x06	Gio		ANI_GESTURE1	
-0x1cbe4	0x98	Gio		mp_0000 0x1a8e1
+0x1cbe4	0x98	Gio		Oh, it's you guys.	mp_0000 0x1a8e1
 0x1cc1d	0x06	ALTO		ANI_GESTURE2	
 0x1cc47	0x98	ALTO	#6A	Geo, you're here at the Garden?
-0x1ccc2	0x98	NOI	#6A	I only asked him to come	
+0x1ccc2	0x98	NOI	#6A	Only because I asked him to come	
 				when I go to Nayuta's world.	
 0x1cd83	0x98	NOI	#6A	I'm still worried about leaving	
 				Lady Creha here all alone...	
@@ -1302,9 +1300,9 @@ EV_3_S24_meet_gio
 0x1ce0a	0x98	ALTO	#6A	You're probably right...	
 0x1ce76	0x98	ALTO	#6A	It's been a few days. What's	
 				happened with Zext and Selam?	
-0x1cf03	0x98	Gio		Mm... It seems they have been	
-				showing any signs of activity	
-				since the last time.	
+0x1cf03	0x98	Gio		Mm... It seems they have not	
+				been showing any signs of	
+				activity since the last time.	
 0x1cf64	0x06	Gio		ANI_THINK	
 0x1cf8a	0x98	Gio		What should we do next...?	
 0x1cfc2	0x06	Gio		ANI_WAIT	
@@ -1319,7 +1317,7 @@ EV_3_S24_meet_gio
 				take some more to release him.	
 0x1d189	0x06	ALTO		ANI_THINK	
 0x1d1b0	0x98	ALTO	#6A	Hmm, well, it sounds like he's considered	
-				one of the strongest Wardens, so perhaps	
+				one of the strongest wardens, so perhaps	
 				they reinforced it as a precaution.
 0x1d216	0x06	ALTO		ANI_WAIT	
 0x1d2d2	0x06	ALTO		ANI_GESTURE1	
@@ -1337,14 +1335,14 @@ EV_3_S24_meet_gio
 				but to support those around us.
 0x1d5bb	0x06	Gio		ANI_NOD	
 0x1d5df	0x98	Gio		All right then, I shall be returning	
-				to the Temple. I'll let you handle	
-				this from here.	
+				to the temple. I'll let you handle	
+				things from here.	
 0x1d888	0x06	ALTO		ANI_GESTURE2	
-0x1d8b2	0x98	ALTO		This might be perfect	
+0x1d8b2	0x98	ALTO		It might be perfect	
 				timing that my sister	
 				offered to invite her.	
 0x1d918	0x06	ALTO		ANI_WAIT4	
-0x1d93f	0x98	ALTO		Hopefully it will
+0x1d93f	0x98	ALTO		Hopefully this will
 				cheer Creha up.	
 0x1d98e	0x06	NOI		ANI_NOD	
 0x1d9b2	0x98	NOI	#6A	Yeah... Let's get	
@@ -1361,7 +1359,7 @@ EV_4_S02_hear_algo_voice
 0x1e033	0x98	ALTO		Then... Did he	
 				escape the prison?	
 0x1e074	0x41	None	#0W#2E#030c	Though I cannot say I have fully recovered... 	
-				I have made it to the Temple for now.#0E	
+				I have made it to the temple for now.#0E	
 0x1e129	0x41	None	#0W#2E#030c	Thanks to your help.	
 				...Allow me to express	
 				my gratitude once again.#0E	
@@ -1377,7 +1375,7 @@ EV_4_S02_hear_algo_voice
 				and inquire as to their true motives.#0E	
 0x1e645	0x41	None	#0W#2E#030c	Though I cannot help you directly,	
 				I will at least be watching over you	
-				from the temple. ...Farewell then.#0E	
+				from the temple... Farewell.#0E	
 0x1e875	0x06	NOI		ANI_GESTURE2	
 0x1e89e	0x98	NOI	#6A	...Now we know	
 				Algol is fine.	
@@ -1398,17 +1396,16 @@ EV_4_S27_talk_signa
 0x1f1bc	0x98	ALTO		Huh...? What's this!?	
 0x1f1f3	0x98	ALTO		...I-It's not working!?	
 0x1f231	0x06	Signa		ANI_WAIT3	
-0x1f259	0x98	Signa	#6A	Hmm... Maybe it's becoming	
-				unstable due to the effects	
-				of the abnormalities.	
-0x1f2c5	0x98	Signa	#6A	If you wait a bit, it should	
+0x1f259	0x98	Signa	#6A	Hmm... It might be unstable due to	
+				the effects of the abnormalities.	
+0x1f2c5	0x98	Signa	#6A	If we wait a bit, it should	
 				start to work again soon...	
 0x1f32d	0x6B	Signa		Ellipsis	
-0x1f497	0x98	Signa	#0W	...Well, thanks to this,	
-				Maybe we have time to talk?	
+0x1f497	0x98	Signa	#0W	...Well, thanks to this, maybe	
+				we have some time to talk?	
 0x1f52a	0x98	ALTO	#0W#6A	Huh...?	mp_0003 0x133b2
 0x1f55f	0x06	Signa		ANI_WAIT4	
-0x1f5bc	0x98	Signa	#1W	Nayuta: This is where I say goodbye.	
+0x1f5bc	0x98	Signa	#1W	Nayuta. This is where I say goodbye.	
 0x1f648	0x98	Signa		...There's something I	
 				need to do in this world.	
 0x1f698	0x98	Signa		I won't be returning to	
@@ -1419,22 +1416,21 @@ EV_4_S27_talk_signa
 0x1f77e	0x98	ALTO	#6A#16S	Wh-What are you saying!?	
 0x1f7bc	0x98	ALTO	#6A	No way, are you planning to	
 				chase after Zext alone again?	
-0x1f81e	0x98	Signa	#0W	...............	mp_0001 0xc917
+0x1f81e	0x98	Signa	#0W	.......	mp_0001 0xc917
 0x1f877	0x98	ALTO	#6A	...Cygna, why!?	
 0x1f8a9	0x98	ALTO	#6A	Are Noi and I really	
 				that unreliable?	
-0x1f8e9	0x98	ALTO	#6A	So you're just gonna go	
-				off on your own again?	
+0x1f8e9	0x98	ALTO	#6A	So you're just gonna leave and	
+				go off on your own again?	
 0x1f93c	0x06	Signa		ANI_DENY	
 0x1f982	0x98	Signa		...Actually, it's the other way around.	
 				You guys have become truly strong.	
 0x1fa2d	0x98	Signa		Especially you, Nayuta...	
 				You've certainly changed a lot.	
-0x1fa88	0x98	Signa		Although you were with Noi,	
-				you've already managed to	
-				destroy four of the idols.	
+0x1fa88	0x98	Signa		Together with Noi, you've already	
+				managed to destroy four of the idols.	
 0x1fb10	0x98	Signa		...That's why. That is
-				why we're splitting up.	
+				why we're splitting up.	# should be callback to line at 0004 0xa24a
 0x1fb7e	0x06	ALTO		ANI_COMPLAIN	
 0x1fba8	0x98	ALTO	#6A#16S	...I don't understand!	
 0x1fbed	0x06	Signa		ANI_SCRATCH_HEAD	
@@ -1444,7 +1440,8 @@ EV_4_S27_talk_signa
 0x1fce2	0xBC	Signa		Surprise	
 0x1fea3	0x06	gate_a		ANI_PATA1	
 0x1ff08	0x98	ALTO	#0W#6A	Oh...	
-0x1ff3b	0x98	Signa	#6A	It feels like we're tied together.	
+0x1ff3b	0x98	Signa	#6A	It feels like our fates are	
+				intertwined together.	
 0x20075	0x98	Signa	#1W#6A	Let's see if you can	
 				protect those most	
 				important to you...	
@@ -1478,7 +1475,7 @@ EV_8_S07_check_sleeper
 				you two to be like this...	
 0x21589	0x98	NOI	#6A	Nayuta...	mp_0000d 0x7671
 0x215e8	0x41	None	#0W#995c#1E	...It is good you have returned,	
-				Warden of the Astrolabe.#0E	
+				warden of the Astrolabe.#0E	
 0x21681	0x41	None	#0W#995c#1E	And you, child of the surface...	
 				Nayuta Herschel.#0E	
 0x21717	0x6B	ALTO		Exclamation	
@@ -1518,7 +1515,7 @@ EV_8_S07_check_sleeper
 0x21e98	0x98	NOI	#6A	I'm willing to do whatever	
 				it takes to protect them...
 0x21f01	0x98	NOI	#6A	You are too, right?		
-0x21f6f	0x98	ALTO	#0W#6A	..................	mp_0000d 0x70fd
+0x21f6f	0x98	ALTO	#0W#6A	.....	mp_0000d 0x70fd
 0x21fa7	0x98	ALTO	#6A	...Yes, all right.	
 0x21fe7	0x41	None	#0W#995c#1E	Good.#0E	
 0x2206f	0x41	None	#0W#995c#1E	...Then allow me to walk you	
@@ -1543,7 +1540,7 @@ EV_8_S09_go_astrolabe
 0x2269d	0x98	ALTO	#6A	Me...!?	
 0x226d1	0x06	NOI		ANI_DENY	
 0x226f6	0x98	NOI	#6A	He can do that!?	
-0x2274c	0x41	None	#0W#995c#1E	The idol of the Astrolabe...	
+0x2274c	0x41	None	#0W#995c#1E	Idol of the Astrolabe...	
 				It will surely be easy for you to	
 				open the gate to the Inner World.#0E	
 0x22807	0x41	None	#0W#995c#1E	After all, the Astrolabe	
@@ -1577,11 +1574,11 @@ EV_8_S09_go_astrolabe
 0x22e5b	0x41	None	#0W#995c#1E	Whenever you are ready,	
 				check the operating terminal	
 				at the Astrolabe.#0E	
-0x22ef6	0x41	None	#0W#995c#1E	If the Warden, Noi, gives the order,	
+0x22ef6	0x41	None	#0W#995c#1E	If the warden, Noi, gives the order,	
 				you should be able to enter the	
 				Astrolabe's Inner World.#0E	
 0x22faf	0x41	None	#0W#995c#1E	Use your powers to the utmost.	
-				Child of the surface, and Warden...#0E	
+				Child of the surface, and warden...#0E	
 0x23120	0x6B	ALTO		Ellipsis	
 0x2314a	0x6B	NOI		Ellipsis	
 0x231a9	0x06	ALTO		ANI_WAIT3	

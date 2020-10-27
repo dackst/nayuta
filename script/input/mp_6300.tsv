@@ -12,9 +12,9 @@ talk_Erislet
 				Please, take care of them.	
 0x8d9	0x98	Erislet		I'm sure that with how	
 				strong you've grown,	
-				you'll be able to....	
-0x939	0x98	Erislet		About Creha and the others...	mp_6300 0x856
-				Please, take care of them.	
+				you'll be able to...	
+0x939	0x98	Erislet		Lady Creha and the others...	mp_6300 0x856
+				Please, take care of them.
 boss_demo1
 0xb2b	0x06	b010		ANI_DEMO2	
 boss_retry
@@ -74,10 +74,9 @@ EV_6_S25_usi_boss
 				And the real reason for	
 				the creation of Terra.	
 0x2bf5	0x06	Erislet		ANI_GESTURE1	
-0x2c43	0x98	Erislet		As Warden of the continent,	
-				I cannot allow you to interfere	
-				in the Remaking planned by Lady	
-				Creha and the others.	
+0x2c43	0x98	Erislet		As warden of the continent, I cannot allow	
+				you to interfere in the Recreation planned	
+				by Lady Creha and the others.	
 0x2d00	0x06	NOI		ANI_COMPLAIN	
 0x2d29	0x98	NOI	#6A	...Stop it, Eris!	
 0x2d9f	0x98	NOI	#6A	Erasing the surface where Nayuta	
@@ -86,8 +85,8 @@ EV_6_S25_usi_boss
 0x2e1a	0x98	NOI	#6A	We can't let Lady	
 				Creha do that!	
 0x2e6e	0x06	ALTO		ANI_JOY	
-0x2e93	0x98	ALTO	#6A	Yeah, we've got to stop	
-				this thing, no matter what!	
+0x2e93	0x98	ALTO	#6A	Yeah, we have stop this	
+				thing, no matter what!	
 0x2f54	0x06	Erislet		ANI_DENY	
 0x2f7d	0x98	Erislet		...How sweet.	
 0x2fad	0x98	Erislet		Do you really intend to challenge	

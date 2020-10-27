@@ -23,12 +23,12 @@ EV_8_S03_noi_again
 				you're safe!	
 0xcbf	0x98	Lyra	#3W	Jeez, you stupid fairy.	
 				You had me worried!	
-0xd0b	0x98	NOI	#240x#240y#6A#2W	..................	mp_0000d 0x70fd
+0xd0b	0x98	NOI	#240x#240y#6A#2W	.....	mp_0000d 0x70fd
 0xd5a	0x98	NOI	#240x#240y#6A#6W	...You...	
-				...Who are you...?	
+				...Who are you guys...?	
 0xdb3	0x6B	ALTO		Surprise	
 0xde5	0x6B	Lyra		Surprise	
-0xe17	0x98	Lyra	#1W	Huh...	mp_0001 0x166ea
+0xe17	0x98	Lyra	#1W	Huh...?	mp_0001 0x166ea
 0xe48	0x98	ALTO	#0W	Noi...? What do you mean?	
 0xe8e	0x98	NOI	#240x#240y#6A#1W	Noi...	
 				That's my name...	

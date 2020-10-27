@@ -14,17 +14,16 @@ QS_81_hang_out_box
 0xe24	0x98	ALTO		I remember being told that	
 				they "use the weather of	
 				its surrounding environment."	
-0xe95	0x98	NOI	#6A	I see...Certainly this "Cage"	mp_1002b 0x27a4
-				was constructed using the	
-				"Power Place" of the Power of Stars.	
-0xf11	0x98	NOI	#6A	The Locked Box we were given
-				might react to this place.	
+0xe95	0x98	NOI	#6A	I see... Looks like the lock	mp_1002b 0x27a4
+				was made using areas filled
+				with the Power of Stars.
+0xf11	0x98	NOI	#6A	The Locked Box we were
+				given might react here.	
 0xf76	0x06	ALTO		ANI_NOD	
 0xf9b	0x98	ALTO		It seems worth a try.	
 0xfee	0x98	ALTO		Well... Here I go.	
 0x1033	0x06	ALTO		ANI_HANDOVER1	
-0x10d9	0x40	UNDEF		Nayuta tried raising	mp_1002b 0x2e09
-				the unopened box.	
+0x10d9	0x40	UNDEF		Nayuta placed the Locked Box.	mp_1002b 0x2e09
 0x111f	0x6B	ALTO		Ellipsis	
 0x1151	0x6B	NOI		Ellipsis	
 0x11ae	0x6B	ALTO		Exclamation	
@@ -34,7 +33,7 @@ QS_81_hang_out_box
 0x12ce	0x06	ALTO		ANI_HOLD	
 0x12f4	0x98	ALTO		Okay, wait...!	
 				I'll check it now.	
-0x1334	0x98	ALTO		...............	mp_0001 0xc917
+0x1334	0x98	ALTO		.......	mp_0001 0xc917
 0x13b8	0x06	ALTO		ANI_WAIT	
 0x1420	0x98	ALTO		...Hmm, no good.	
 				It still doesn't open.	
@@ -46,8 +45,8 @@ QS_81_hang_out_box
 				to be multiple locks.	
 0x1559	0x06	ALTO		ANI_GESTURE2	
 0x1583	0x98	ALTO		I guess we'll have to try visiting	
-				each of the prisons on the other	
-				continents in order.	
+				where each of the prisons on the	
+				other continents were in order.	
 0x15f7	0x06	ALTO		ANI_THINK2	
 0x161f	0x98	ALTO		If the first one was on this	
 				continent in spring, then...	
@@ -83,7 +82,7 @@ EV_5_S06_help_nemeas
 				reintroduce myself.	
 0x338c	0x06	Nemeas		ANI_GESTURE1	
 0x345e	0x98	Nemeas	#2W	My name is Nemeas...	
-				I am the Warden of La Worg.	
+				I am the warden of La Worg.	
 0x3834	0x06	Nemeas		ANI_GESTURE2	
 0x3880	0x98	Nemeas		So Lady Creha and	
 				Lord Selam have	
@@ -94,9 +93,9 @@ EV_5_S06_help_nemeas
 0x39c2	0x06	ALTO		ANI_COMPLAIN	
 0x39ec	0x98	ALTO	#6A	Creha's... The Mitos' plan...
 				Do you know anything about it?
-0x3ac9	0x98	ALTO	#6A	I just have to know. I have to	
-				know what Creha really wants...	
-0x3b45	0x98	NOI		mp_0000d 0x7671
+0x3ac9	0x98	ALTO	#6A	I have to know. I have to know	
+				what Creha really wants...	
+0x3b45	0x98	NOI		Nayuta...	mp_0000d 0x7671
 0x3b75	0x06	Nemeas		ANI_DENY	
 0x3bbd	0x98	Nemeas		I am terribly sorry.	
 				I, too, know nothing.	
@@ -107,8 +106,8 @@ EV_5_S06_help_nemeas
 				no other way but to find	
 				out directly from them.	
 0x3de2	0x06	ALTO		ANI_DEJECTED	
-0x3e2a	0x98	ALTO	#6A	mp_0001 0xcc63
-0x3e82	0x98	NOI	#0W	..................	mp_0000d 0x70fd
+0x3e2a	0x98	ALTO	#6A	...I see...	mp_0001 0xcc63
+0x3e82	0x98	NOI	#0W	.....	mp_0000d 0x70fd
 0x3f7e	0x98	Nemeas		Anyway... It seems you are	
 				seeking a way to scale the	
 				walls of Heliograd,	
@@ -117,26 +116,26 @@ EV_5_S06_help_nemeas
 				should solve that problem.	
 0x412b	0x6B	ALTO		Surprise	
 0x415d	0x6B	NOI		Surprise	
-0x41cd	0x98	Nemeas		Noi, come here.	mp_1002b 0x7fc0
+0x41cd	0x98	Nemeas		Noi, come closer.	mp_1002b 0x7fc0
 0x4226	0x06	NOI		ANI_NOD	
 0x424a	0x98	NOI	#6A	O-Okay!	
 0x43df	0x06	NOI		ANI_PRAY	
 0x4424	0x06	Nemeas		ANI_USE_POWER	
 0x46da	0xC1	System		#3CNoi learned 『Gear Drive』!	
-0x477c	0x07	System	#4C	Noi learned 『Gear Drive』.	
+0x477c	0x07	System	#4C	Noi learned "Gear Drive".	
 				You can now travel at high speeds	
 				and run up walls with bumpy surfaces.	
 0x4829	0x06	Nemeas		ANI_WAIT	
 0x4899	0x98	Nemeas		With that power, you should	
 				be able to scale Heliograd.	
 0x4914	0x06	ALTO		ANI_THANKS	
-0x493c	0x98	ALTO	#6A	Thank you very much!	mp_3002c 0x6128
+0x493c	0x98	ALTO	#6A	Thank you so much!	mp_3002c 0x6128
 0x497b	0x06	NOI		ANI_GUTSPOSE	
 0x49a4	0x98	NOI	#6A	We're saved!	
 0x49da	0x06	Nemeas		ANI_GESTURE2	
 0x4a26	0x98	Nemeas		I will join Geo and the others and	
 				attempt to take back control of the	
-				Power of Stars from our Temples.	
+				Power of Stars from our temples.	
 0x4b59	0x98	Nemeas		May the stars	
 				guide you...		
 0x4ec7	0x98	ALTO	#6A	Now, we should	
@@ -147,4 +146,4 @@ EV_5_S06_help_nemeas
 0x4f7e	0x06	NOI		ANI_GESTURE2	
 0x4fc4	0x98	NOI		...Understood!	mp_0001 0x122a0
 0x5332	0x07	System	#4C	Activate "Drive" by holding the △ button.	
-0x55c5	0xCE	Objective		Creha's in Heliograd...I gotta find out what she really wants!	
+0x55c5	0xCE	Objective		Creha's in Heliograd... I gotta find out what she really wants!	

@@ -3,7 +3,7 @@ init
 mp6200_retrySet
 mp6200_monsterSet
 tutorial_crystal
-0xf5f	0x07	System	#4C	The shining crystals found in	
+0xf5f	0x07	System	#4C	The shining stones found in	
 				each stage can be used as money.	
 tutorial_find_monster
 0x1107	0x6B	ALTO		Exclamation	
@@ -39,7 +39,7 @@ tutorial_collect
 0x1bff	0x98	Signa	#6A	If you smash it, maybe something	
 				interesting will come out, y'know?	
 0x1c7e	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x1cac	0x98	ALTO		Ahaha... Well, let's	
+0x1cac	0x98	ALTO		Haha... Well, let's	
 				give it a try then.	
 tutorial_jump
 0x208d	0x98	Signa		Oh man... The whole place	
@@ -232,7 +232,7 @@ EV_4_S34_see_flashback
 0x6890	0x40	ALTO	#0W	This way, Creha!	mp_0101c 0x941
 0x68c8	0x40	ALTO	#0W	Hurry... We have to get out of here!!	
 0x69c7	0x98	ALTO	#0W#200x#70y	...Creha?	
-0x6a39	0x98	Creha	#2W#6A#300x#220y	...No, it's nothing.	mp_0001 0x165cc
+0x6a39	0x98	Creha	#2W#6A#300x#220y	...It's nothing.	mp_0001 0x165cc
 0x6a8e	0x06	ALTO		ANI_WAIT	
 0x6ab4	0x06	Creha		ANI_WAIT	
 0x6ba1	0x06	ALTO		ANI_GESTURE2	
@@ -241,4 +241,4 @@ EV_4_S34_see_flashback
 0x6c1d	0x06	Creha		ANI_NOD	
 0x6c43	0x98	Creha	#1W#6A	...Okay.	mp_0004c 0x10d2
 0x6ca1	0x98	Creha	#0W#6A	(That just now...	
-				 Has this...happened before...?)	
+				 Has this... happened before...?)	

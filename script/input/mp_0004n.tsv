@@ -20,7 +20,7 @@ EV_8_S00_1years_after
 0x132c	0x98	Asa	#6A	Even if it is summer vacation,	
 				it's not good for you to stay	
 				up too late, okay?	
-0x13a9	0x98	ALTO		...It's been a year since...	
+0x13a9	0x98	ALTO		...It's been a year...	
 				Terra is starting to approach	
 				the surface again.	
 0x1426	0x98	ALTO		I thought it might look even bigger	
@@ -50,10 +50,10 @@ EV_8_S00_1years_after
 				I'll go to bed soon.	
 0x191d	0x06	ALTO		ANI_WAIT	
 0x19d1	0x06	ALTO		ANI_THINK2	
-0x1a17	0x98	ALTO		(...I don't know what I'm hoping
-				 to do by observing Terra.)		
+0x1a17	0x98	ALTO		(...I don't know what I hope to
+				 achieve by observing Terra.)		
 0x1a6e	0x98	ALTO		(The transfer gate doesn't work anymore...	
-				 There's no way I could see them.)	
+				 There's no way I could go see them.)	
 0x1acd	0x98	ALTO		(But obviously, I'm feeling	
 				 kind of empty inside...)	
 0x1b22	0x6B	ALTO		Ellipsis	

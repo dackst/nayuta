@@ -20,7 +20,7 @@ skill_monster
 0xb23	0x06	mahouzin		ANI_STOP2	
 0xb64	0x6B	ALTO		Exclamation	
 dead_sk_01
-0xefa	0x07	System	#3C	Defeated high-rank monster [Sukeisu Keeper]!	
+0xefa	0x07	System	#3C	Defeated high-rank monster [Scissor Keeper]!	
 0xfbe	0x06	NOI		ANI_TAMEATK1	
 0x1021	0x07	System	#1C	Noi recovered the spring magic, #4C『#765IFleur Edge』#1C!	
 0x10b0	0xC1	System		obtained.	mp_0000 0x7558
@@ -94,7 +94,7 @@ EV_1_S03_jungle2_start
 0x2696	0x98	Signa		I sense a group of monsters up ahead.	
 				What the hell is happening in this world?	
 0x2709	0x6B	NOI		Surprise	
-0x273a	0x98	NOI	#6A	Could it be...that in your world,	
+0x273a	0x98	NOI	#6A	Could it be... that in your world,	
 				there are no monsters...?	
 0x27c0	0x98	Signa		Well, no... They exist,
 				but I've never seen so
@@ -124,7 +124,7 @@ EV_1_S03_jungle2_start
 0x2c5b	0x98	NOI	#6A	Hey, let's move on. We can't
 				afford to lose track of Zext!	
 0x2cc7	0x06	Signa		ANI_JOY	
-0x2ced	0x98	Signa		Yeah, got it!	mp_0101 0x956b
+0x2ced	0x98	Signa		Yeah, of course!	
 0x2d23	0x06	ALTO		ANI_NOD	
 0x2d48	0x98	ALTO		Well then, let's
 				resume our chase!	

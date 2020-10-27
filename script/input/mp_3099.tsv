@@ -22,8 +22,8 @@ dead_boss
 CancerAtariOn
 CancerAtariOff
 talk_Algorl
-0x33ca	0x98	Algorl		If the four Wardens pool	
-				their strength, then perhaps...	
+0x33ca	0x98	Algorl		If the four wardens pool their	
+				strength, then perhaps...	
 0x3424	0x98	Algorl		However, you are the only ones	
 				who can save Lady Creha.	
 				...We are counting on you.	
@@ -45,25 +45,27 @@ talk_Algorl
 				You must ever give up.	
 0x37e4	0x98	Algorl		For Terra and Lady Creha...	
 				Please, take care of them.	
-0x3866	0x98	Algorl		Hmm...as I thought, I am currently	
-				in no condition to restart this Temple.	
+0x3866	0x98	Algorl		Hmm... as expected, I am currently in	
+				no condition to restart this temple.	
 0x38c2	0x98	Algorl		It seems that while I was imprisoned,	
 				the situation grew worse by the second.	
 0x3925	0x98	Algorl		...Zext. Just what	
 				is he planning?	
-0x3997	0x98	Algorl		mp_3099 0x3925
+0x3997	0x98	Algorl		...Zext. Just what	mp_3099 0x3925
+				is he planning?
 talk_SpiritA
 0x3a11	0x6B	SpiritA		Exclamation	
 0x3a46	0x40	UNDEF		It seems surprised...	
 0x3a86	0x6B	SpiritA		Exclamation	
-0x3abb	0x40	UNDEF		mp_3099 0x3a46
+0x3abb	0x40	UNDEF		It seems surprised...	mp_3099 0x3a46
 talk_SpiritB
 0x3b1d	0x98	SpiritB		.....	
 				.....	
-0x3b68	0x98	SpiritB		mp_3099 0x3b1d
+0x3b68	0x98	SpiritB		.....	mp_3099 0x3b1d
+				.....
 0x3ba9	0x40	UNDEF		It seems to be staring at the mural...	
 talk_SpiritC
-0x3c20	0x98	SpiritC		mp_1099 0x3014
+0x3c20	0x98	SpiritC		...?	mp_1099 0x3014
 0x3c51	0x98	SpiritC		...㈱	
 talk_SpiritD
 0x3cad	0x98	SpiritD		.....!	
@@ -71,7 +73,7 @@ talk_SpiritD
 0x3d4d	0x98	SpiritD		...........	
 				...........	
 				...～～～...	
-0x3d9e	0x98	SpiritD		mp_1099 0x3014
+0x3d9e	0x98	SpiritD		...?	mp_1099 0x3014
 quest_Algorl
 0x3e6e	0x98	Algorl		So you have safely found	
 				Nemeas' nymph...	
@@ -82,40 +84,40 @@ quest_Algorl
 				For that, I give my thanks.	
 0x3f98	0x98	Algorl		The life signature of Nemeas' nymph	
 				is in the southwest part of Heimmel,	
-				near "Wind-Cutting Valley."
+				near Wind Cutting Valley.
 0x4025	0x98	Algorl		You might wish to search 	
 				with the season set to autumn.	
 0x4078	0x98	Algorl		It seems the signature is considerably	
-				panicked, so you should go quickly.	
+				distraught, so you should go quickly.	
 0x41cb	0x98	Algorl		The fragments of my lost power should be	
 				in the form of floating pale orbs of light	
 				scattered across the Origin Continent.	
 0x425a	0x98	Algorl		And thus, as the power is collected,	
 				light will gradually return to the jewel.	
 0x42cc	0x98	Algorl		Bring the jewel back to me once	
-				it shines its brightest,	
+				it shines its brightest.	
 				
 QS_44_quest_start
 0x454a	0x98	Algorl		I have an important favor	
 				to ask of you, my friend.	
 0x45a4	0x98	Algorl		How about it...?	
-				Will you...help me?	
-0x45ee	0x98	Algorl		...Noi and...Nayuta?	
+				Will you... help me?	
+0x45ee	0x98	Algorl		...Noi... and Nayuta?	
 0x4629	0x98	Algorl		I have an important	
 				favor to ask of you...	
 0x467c	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x46ab	0x98	ALTO	#6A	mp_0001 0x166ea
+0x46ab	0x98	ALTO	#6A	Huh...?	mp_0001 0x166ea
 0x46d4	0x06	NOI		ANI_GESTURE2	
-0x46fd	0x98	NOI	#6A	mp_0115 0x100aa
-0x4729	0x98	NOI	#6A	It's unusual of you	
-				to need a favor, Algol.	
+0x46fd	0x98	NOI	#6A	A favor to ask of us...?	
+0x4729	0x98	NOI	#6A	It's unusual of you to	
+				need a favor, Algol.	
 				What's the matter?	
 0x47a7	0x98	Algorl		It is a matter I cannot	
 				accomplish on my own.	
 0x4806	0x98	Algorl		What do you think...?	
 				Will you help me?	
-0x4888	0x36	Choice		mp_0000 0xeaf5
-0x489e	0x36	Choice		mp_0000 0xeb0b
+0x4888	0x36	Choice		[Accept]	mp_0000 0xeaf5
+0x489e	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0x493d	0x06	ALTO		ANI_OJIGI	
 0x4964	0x98	ALTO	#6A	Um, sorry. Now's not a good time...	
 0x49a3	0x06	NOI		ANI_GESTURE1	
@@ -132,8 +134,8 @@ QS_44_undertake
 0x4c81	0x06	NOI		ANI_GESTURE1	
 0x4caa	0x98	NOI	#6A	Sealed power...?	
 0x4cf3	0x98	Algorl		As you should already know, Noi...	
-				I am the most combat-oriented among us Wardens.	
-0x4d7b	0x98	Algorl		I can easily match monsters	
+				I am the most combat-oriented among us wardens.	
+0x4d7b	0x98	Algorl		I can easily match monsters,	
 				or even one of the Mitos.
 0x4df5	0x06	ALTO		ANI_THINK2	
 0x4e1d	0x98	ALTO	#6A	Certainly, even when you were sealed,	
@@ -141,28 +143,28 @@ QS_44_undertake
 0x4e8b	0x98	NOI	#6A	Algol is normally pretty tranquil,	
 				but if he gets serious, he can	
 				even blow up mountains.	
-0x4f1a	0x98	Algorl		Hmm, but...	
-				Since I was released from the seal,	
-				I've recovered only part of my power.	
+0x4f1a	0x98	Algorl		Mmm, but... Since I was released	
+				from the prison, I've recovered	
+				only part of my power.	
 0x4f8f	0x98	Algorl		...It seems that Lord Selam	
 				placed a second seal on me.	
 0x4fe8	0x06	ALTO		ANI_SURPRISE	
 0x5012	0x98	ALTO	#6A	A second seal!?	
 0x5044	0x06	NOI		ANI_COMPLAIN	
 0x506d	0x98	NOI	#6A	You mean, he did something	
-				in addition to the cage!?	
-0x50c2	0x98	Algorl		Hmm... Apparently, my power was sealed	
+				in addition to the prison!?	
+0x50c2	0x98	Algorl		Mmm... Apparently, my power was sealed	
 				and divided into three separate pieces.	
 0x512d	0x98	Algorl		And subsequently transferred	
 				to another continent.	
-0x51a9	0x98	Algorl		I may be being over cautious..	
-				But I cannot bring forth half	
-				of my true power at the moment.
+0x51a9	0x98	Algorl		I may be being overly cautious..	
+				But I cannot bring forth half of	
+				my true power at the moment.
 0x5215	0x98	Algorl		With time, I could gradually	
 				recover my power... But that	
 				would take a long time indeed.	
 0x529b	0x06	NOI		ANI_DEJECTED	
-0x52c4	0x98	NOI	#6A	mp_0100 0x1c977
+0x52c4	0x98	NOI	#6A	Oh, no...	mp_0100 0x1c977
 0x52ef	0x98	NOI	#6A	Now I'm worried that we won't	
 				be able to rely on your power	
 				to help out in times of need!
@@ -175,18 +177,18 @@ QS_44_undertake
 0x54c4	0x98	ALTO	#6A	What should we do, exactly?	
 0x551e	0x98	Algorl		First, I want you to take this.	
 0x5585	0x06	Algorl		ANI_HANDOVER	
-0x55b9	0xC1	System		mp_0000 0x7558
+0x55b9	0xC1	System		obtained.	mp_0000 0x7558
 0x568e	0x06	ALTO		ANI_GESTURE2	
 0x56b8	0x98	ALTO	#6A	What's this...?	
 				It's kind of	
 				dull and gray.	
 0x5703	0x98	Algorl		That is a special jewel capable	
-				of housing my power as a Warden.	
+				of housing my power as a warden.	
 0x5761	0x98	Algorl		With that, I want you to gather	
 				the scattered fragments of my power.	
 0x57fb	0x98	Algorl		As for where my power is sealed,	
-				according to the nymphs, they seem	
-				to be in La Worg, the Origin Continent.	
+				according to the nymphs, it seems to	
+				be in La Worg, the Origin Continent.	
 0x5890	0x06	NOI		ANI_GESTURE2	
 0x58b9	0x98	NOI	#6A	La Worg...	
 				So that's where	
@@ -203,10 +205,12 @@ QS_44_undertake
 				floating pale orbs of light.	
 0x5a60	0x98	Algorl		If you find one and bring it close,	
 				the jewel will absorb it.	
-0x5ad7	0x98	Algorl		mp_3099 0x425a
-0x5b49	0x98	Algorl		mp_3099 0x42cc
+0x5ad7	0x98	Algorl		And thus, as the power is collected,	mp_3099 0x425a
+				light will gradually return to the jewel.
+0x5b49	0x98	Algorl		Bring the jewel back to me once	mp_3099 0x42cc
+				it shines its brightest.
 0x5bbb	0x06	ALTO		ANI_THANKS	
-0x5be3	0x98	ALTO	#6A	I see... I understand.	
+0x5be3	0x98	ALTO	#6A	I see... Understood.	
 0x5c30	0x98	ALTO	#6A	Well then, Noi, let's	
 				do our best to find	
 				all of Algol's power!	
@@ -239,11 +243,11 @@ QS_44_quest_end
 0x66a6	0x6B	ALTO		Unknown	
 0x66d8	0x6B	NOI		Unknown	
 0x6711	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x6740	0x98	ALTO	#6A	mp_0115a 0x6232
+0x6740	0x98	ALTO	#6A	I-Is this...!?	mp_0115a 0x6232
 0x6770	0x06	NOI		ANI_GESTURE1	
 0x6799	0x98	NOI	#6A	Algol's colossal power is 	
 				affecting the environment!	
-0x6801	0x98	Algorl	#0W	mp_0002 0x1b64	
+0x6801	0x98	Algorl	#0W	..................	mp_0002 0x1b64
 0x684a	0x98	Algorl	#18S	......Kaa!!	
 0x69b6	0x6B	ALTO		Exclamation	
 0x69e8	0x6B	NOI		Exclamation	
@@ -261,8 +265,8 @@ QS_44_quest_end
 0x6c63	0x98	NOI	#6A	W-We did it!	
 				Algol's power	
 				is restored!	
-0x6cab	0x98	NOI	#6A	Now that Algol has his true power, we	
-				have nothing to be afraid of from Zext!	
+0x6cab	0x98	NOI	#6A	Now that Algol has his true power,	
+				wehave nothing to fear from Zext!	
 0x6d39	0x98	Algorl		...No, it is not that simple.	
 0x6d78	0x98	Algorl		With my power, I can	
 				certainly hold him back	
@@ -272,7 +276,7 @@ QS_44_quest_end
 				he is still the creator of this world of Terra.	
 0x6e8f	0x98	Algorl		This particular matter...	
 				It's far beyond the power of	
-				any single Warden to solve it.	
+				any single warden to solve it.	
 0x6f13	0x06	NOI		ANI_DEJECTED	
 0x6f3c	0x98	NOI	#6A	Y-You're right...	
 0x6f6f	0x06	ALTO		ANI_GESTURE1	
@@ -285,14 +289,14 @@ QS_44_quest_end
 0x7086	0x98	Algorl		I must thank you,	
 				Nayuta and Noi.	
 0x70cd	0x06	ALTO		ANI_DENY	
-0x70f3	0x98	ALTO	#6A	No, we were only doing	
-				what we should have done.	
+0x70f3	0x98	ALTO	#6A	No, we only did what	
+				anyone would do.	
 0x7138	0x06	NOI		ANI_GESTURE1	
-0x7161	0x98	NOI	#6A	In our hour of need, we need	
-				you to use that power to help us!	
+0x7161	0x98	NOI	#6A	In our hour of need, we need you	
+				to use that power to help us!	
 0x71d6	0x98	Algorl		Hmm... You can count on me.	
-0x7213	0x98	Algorl		And...please, take this.	
-0x7266	0xC1	System		mp_0000 0x12596
+0x7213	0x98	Algorl		And... please, take this.	
+0x7266	0xC1	System		received.	mp_0000 0x12596
 0x73b9	0x07	System	#1C	Noi learned the autumn magic, #4C『#786IGround Terra』.	
 0x7437	0x06	NOI		ANI_GESTURE2	
 0x7460	0x98	NOI	#6A	This art...!	
@@ -302,8 +306,11 @@ QS_44_quest_end
 				...Use it wisely.	
 0x7512	0x06	ALTO		ANI_THANKS	
 0x753a	0x98	ALTO	#6A	Haha, thank you very much.	
-0x75b9	0x98	Algorl		mp_3099 0x377b
-0x7622	0x98	Algorl		mp_3099 0x37e4
+0x75b9	0x98	Algorl		In the coming days, you will	mp_3099 0x377b
+				face countless trials, but...
+				You must ever give up.
+0x7622	0x98	Algorl		For Terra and Lady Creha...	mp_3099 0x37e4
+				Please, take care of them.
 0x76b4	0x07	System	#3C	Quest [Lost Power] completed!	
 QS_44_quake_start
 QS_44_quake_end
@@ -323,7 +330,7 @@ QS_54_talk_Algorl
 				difficult for Nemeas.	
 0x7d8d	0x06	Algorl		ANI_NOD	
 0x7db4	0x98	Algorl		Very well. I shall lend	
-				you my power as Warden.	
+				you my power as warden.	
 0x7e04	0x06	NOI		ANI_NOD	
 0x7e28	0x98	NOI	#6A	Thank you, Algol!	
 0x7e5b	0x06	NOI		ANI_THINK	
@@ -345,23 +352,23 @@ QS_54_talk_Algorl
 0x8240	0x06	ALTO		ANI_GESTURE1	
 0x826a	0x98	ALTO	#6A	Thank goodness... We might be able	mp_1099 0x96f7
 				to do this faster than I thought.
-0x82c0	0x98	Algorl		But, I only sensed	
+0x82c0	0x98	Algorl		However, I only sensed	
 				one presence...	
 0x8303	0x06	Algorl		ANI_GESTURE2	
-0x832f	0x98	Algorl		Anyway, I will tell you	
-				the location.	
-0x837f	0x98	Algorl		It is certainly the presence of	
-				Nemeas' nymph─But it seems only	
+0x832f	0x98	Algorl		I shall tell you its	
+				location, in any case.	
+0x837f	0x98	Algorl		I certainly detected the presence	
+				of Nemeas' nymph─But it seems only	
 				one exists on this continent.	
 0x83ff	0x06	ALTO		ANI_GESTURE1	
-0x8429	0x98	ALTO	#6A	Thank goodness...Do you know the location?	mp_1099 0x98b9
+0x8429	0x98	ALTO	#6A	Thank goodness... Do you know where?	mp_1099 0x98b9
 0x8478	0x06	Algorl		ANI_GESTURE1	
-0x84a4	0x98	Algorl		The presence is near	
-				"Wind Cutting Valley"	
+0x84a4	0x98	Algorl		It was located near	
+				Wind Cutting Valley	
 				in southwestern Heimmel.	
-0x8515	0x98	Algorl		The signature seemed considerably	
-				panicked, you should try and go	
-				during the normal season.	
+0x8515	0x98	Algorl		It seemed considerably distraught,	
+				you should try and go during the	
+				normal season.	
 0x858f	0x06	NOI		ANI_NOD	
 0x85b3	0x98	NOI	#6A	Understood.	
 				We'll make the season	
@@ -384,151 +391,150 @@ quest_SpiritD
 0x8c8d	0x6B	SpiritD		Coldsweat	
 0x8cc2	0x06	SpiritD		ANI_DENY	
 0x8ceb	0x98	SpiritD		...～.........	mp_2099 0x6ef5
-				......～～～...!	
+				......～～～...!
 0x8d82	0x06	ALTO		ANI_GESTURE2	
-0x8dac	0x98	ALTO		Hmm, it seems it's	mp_1099 0xa22d
-				frantically conveying something, but...	
+0x8dac	0x98	ALTO		Hmm, it seems to frantically	mp_1099 0xa22d
+				be trying to convey something...
 0x8e05	0x06	NOI		ANI_SURPRISE	
-0x8e46	0x98	NOI	#6A	N-No way...Somehow, it seems a very	mp_1099 0xa2c7
-				ferocious monster has appeared	
-				on this continent!	
+0x8e46	0x98	NOI	#6A	Oh, no... It seems that	mp_1099 0xa2c7
+				a ferocious monster has
+				appeared on this continent!
 0x8ebb	0x06	NOI		ANI_COMPLAIN	
-0x8ee4	0x98	NOI	#6A	And it's very troubled,	mp_1099 0xa365
-				and wants you to help...is what it's saying!	
-0x8f53	0x98	NOI	#6A	Hmm, hmm...Somehow,	mp_1099 0xa3d4
-				it seems a very ferocious monster	
-				has appeared on this continent!	
+0x8ee4	0x98	NOI	#6A	It says it's in a bit of a tight	mp_1099 0xa365
+				spot, and needs your help...!
+0x8f53	0x98	NOI	#6A	Hmm... It seems that a	mp_1099 0xa3d4
+				ferocious monster has
+				appeared on this continent!
 0x8fc8	0x06	NOI		ANI_COMPLAIN	
-0x8ff1	0x98	NOI	#6A	And it's very troubled,	mp_1099 0xa365
-				and wants you to help...is what it's saying!	
+0x8ff1	0x98	NOI	#6A	It says it's in a bit of a tight	mp_1099 0xa365
+				spot, and needs your help...!
 0x9058	0x06	ALTO		ANI_THINK2	
 0x9080	0x98	ALTO		A ferocious monster...	mp_1099 0xa501
-				Could that be one of the ones	
-				that stole your power, Noi?	
+				Could it be one of the monsters
+				that stole your magic, Noi?
 0x90ee	0x06	ALTO		ANI_WAIT	
 0x9114	0x06	SpiritD		ANI_DENY	
-0x913d	0x98	SpiritD		..........	mp_1099 0xa5be
-				............!	
+0x913d	0x98	SpiritD		.............	mp_1099 0xa5be
+				............!
 0x9177	0x06	SpiritD		ANI_NOD	
 0x919f	0x98	SpiritD		...～～～～...	mp_1099 0xa620
 0x91d0	0x06	NOI		ANI_DENY	
-0x920d	0x98	NOI	#6A	That's not the case, but it	mp_1099 0xa68e
-				has a similar power...	
-				is what it's saying.	
+0x920d	0x98	NOI	#6A	It says it's not one of those,	mp_1099 0xa68e
+				but it's just as powerful, or more...
 0x9274	0x06	NOI		ANI_COMPLAIN	
-0x929d	0x98	NOI	#6A	"Because of the influence of the abnormalities,	mp_1099 0xa71e
-				 unthinkable life forms have been born and are	
-				 wreaking havoc."	
-0x932d	0x98	NOI	#6A	"Like this, many continent	mp_1099 0xa7ae
-				animals will die!" it says.	
+0x929d	0x98	NOI	#6A	"Unnatural creatures, spawned by the	mp_1099 0xa71e
+				abnormalities, have been wandering
+				the world wreaking havoc."
+0x932d	0x98	NOI	#6A	"If we don't do anything, a lot	mp_1099 0xa7ae
+				of the fauna on this continent
+				are going to die!" it says.
 0x9384	0x06	NOI		ANI_DEJECTED	
-0x93ad	0x98	NOI	#6A	Normally, this one is patrolling	mp_1099 0xaa58
-				the continent, but...	
-				it seems they can't stop themselves.	
-0x9432	0x98	NOI	#6A	That's not the case, but it	mp_1099 0xa8c5
-				it seems it has a similar power.	
+0x93ad	0x98	NOI	#6A	This one normally patrols the continents,	mp_1099 0xaa58
+				but it seems like they can't hold back
+				the abnormalities on their own anymore.
+0x9432	0x98	NOI	#6A	It says it's not one of those,	mp_1099 0xa8c5
+				but it's just as powerful, or more...
 0x948f	0x06	NOI		ANI_COMPLAIN	
-0x94b8	0x98	NOI	#6A	"Because of the influence of the abnormalities,	mp_1099 0xa71e
-				 unthinkable life forms have been born and are	
-				 wreaking havoc."	
-0x9548	0x98	NOI	#6A	"Like this, many continent	mp_1099 0xa7ae
-				animals will die!" it says.	
+0x94b8	0x98	NOI	#6A	"Unnatural creatures, spawned by the	mp_1099 0xa71e
+				abnormalities, have been wandering
+				the world wreaking havoc."
+0x9548	0x98	NOI	#6A	"If we don't do anything, a lot	mp_1099 0xa7ae
+				of the fauna on this continent
+				are going to die!" it says.
 0x959f	0x06	NOI		ANI_DEJECTED	
-0x95c8	0x98	NOI	#6A	Normally, this one is patrolling	mp_1099 0xaa58
-				the continent, but...	
-				it seems they can't stop themselves.	
+0x95c8	0x98	NOI	#6A	This one normally patrols the continents,	mp_1099 0xaa58
+				but it seems like they can't hold back
+				the abnormalities on their own anymore.
 0x9645	0x06	SpiritD		ANI_NOD	
 0x966d	0x98	SpiritD		.......	mp_1099 0xaafd
 0x9697	0x06	ALTO		ANI_THINK	
-0x96be	0x98	ALTO		Because of the abnormalities...	mp_1099 0xab4e
-				it said.	
+0x96be	0x98	ALTO		Because of...the abnormalities...	mp_1099 0xab4e
 0x9705	0x06	ALTO		ANI_NOD	
-0x972a	0x98	ALTO		These children are troubled.	mp_1099 0xabba
+0x972a	0x98	ALTO		These little ones must	mp_1099 0xabba
+				really be in a tough spot.
 0x9766	0x06	NOI		ANI_NOD	
-0x97a2	0x98	NOI	#6A	Yes...Because the temple remains	mp_1099 0xac32
-				stopped, the nymphs are combining	
-				their strength to support this continent.	
+0x97a2	0x98	NOI	#6A	Yeah... Since the temple is still shut down,	mp_1099 0xac32
+				the nymphs have been working together
+				to support the continent.
 0x982f	0x06	NOI		ANI_DEJECTED	
-0x9858	0x98	NOI	#6A	However, because the nymphs'	mp_1099 0xace8
-				power is small, they have many	
-				troubles...	
+0x9858	0x98	NOI	#6A	But they aren't very strong,	mp_1099 0xace8
+				so it hasn't been easy...
 0x98c0	0x06	NOI		ANI_GESTURE1	
-0x98e9	0x98	NOI	#6A	Hey, Nayuta.	mp_1099 0xad79
-				Here's a request from me too.	
-				Will you help this little one?	
-0x995c	0x98	NOI	#6A	Yeah...the temple has stopped,	mp_1099 0xadec
-				and now the nymphs are doing their	
-				best to support this continent.	
+0x98e9	0x98	NOI	#6A	Hey, Nayuta. Here's a request from me as well.	mp_1099 0xad79
+				Will you help me with this little one?
+0x995c	0x98	NOI	#6A	Yeah... Since the temple is still shut down,	mp_1099 0xadec
+				the nymphs have been joining together
+				to support the continent.
 0x99de	0x06	NOI		ANI_DEJECTED	
-0x9a07	0x98	NOI	#6A	But, because they don't have	mp_1099 0xae97
-				much power, they have many troubles.	
+0x9a07	0x98	NOI	#6A	But the nymphs aren't very strong,	mp_1099 0xae97
+				so it seems to have been difficult...
 0x9a69	0x06	NOI		ANI_GESTURE1	
-0x9a92	0x98	NOI	#6A	Hey Nayuta, I have a request for you.	mp_1099 0xaf22
-				Will you help this little one?	
+0x9a92	0x98	NOI	#6A	Hey, Nayuta. Here's a request from me as well.	mp_1099 0xaf22
+				Will you help me with this little one?
 0x9af9	0x06	ALTO		ANI_GUTSPOSE	
 0x9b23	0x98	ALTO		Yeah, of course!	mp_1099 0xafb3
 0x9b53	0x06	ALTO		ANI_GESTURE2	
-0x9b7d	0x98	ALTO		Hey you, will you tell us	mp_1099 0xb00d
-				where that monster appeared?	
+0x9b7d	0x98	ALTO		Hey, you, will you tell us	mp_1099 0xb00d
+				where that monster appeared?
 0x9bdc	0x06	ALTO		ANI_GESTURE2	
-0x9c06	0x98	ALTO		It seems it's frantically	mp_1099 0xb096
-				conveying something...	
+0x9c06	0x98	ALTO		It seems to frantically be	mp_1099 0xb096
+				trying to convey something...
 0x9c55	0x06	ALTO		ANI_THINK2	
-0x9c7d	0x98	ALTO		Noi, could it be?	mp_1099 0xb10d
+0x9c7d	0x98	ALTO		Noi, what is it?	mp_1099 0xb10d
 0x9cae	0x06	ALTO		ANI_WAIT	
 0x9cd4	0x06	NOI		ANI_NOD	
-0x9d10	0x98	NOI	#6A	Yes, a ferocious monster has appeared	mp_1099 0xb1a0
-				on this continent, is what it's saying.	
+0x9d10	0x98	NOI	#6A	It seems to be saying that	mp_1099 0xb1a0
+				a ferocious monster has
+				appeared on this continent.
 0x9d7e	0x06	NOI		ANI_GESTURE1	
-0x9da7	0x98	NOI	#6A	And it's very troubled, and	mp_1099 0xb237
-				wants you to help...is what it says!	
-0x9e12	0x98	NOI	#6A	Hmm, so it looks like a ferocious	mp_1099 0xb2a2
-				monster has appeared on this continent	
-				too.	
+0x9da7	0x98	NOI	#6A	It says it's in a bit of a tight	mp_1099 0xb237
+				spot, and needs your help...!
+0x9e12	0x98	NOI	#6A	Hmm, it looks like a ferocious	mp_1099 0xb2a2
+				monster has appeared on this
+				continent as well.
 0x9e7f	0x06	NOI		ANI_GESTURE1	
-0x9ea8	0x98	NOI	#6A	And it's very troubled, and	mp_1099 0xb237
-				wants you to help...is what it says!	
+0x9ea8	0x98	NOI	#6A	It says it's in a bit of a tight	mp_1099 0xb237
+				spot, and needs your help...!
 0x9f0b	0x06	ALTO		ANI_NOD	
-0x9f30	0x98	ALTO		Yes, understood.	mp_1099 0xb3c0
-				The Handyman Shop will accept	
-				this request.	
+0x9f30	0x98	ALTO		Ha, got it. The Handyman Shop	mp_1099 0xb3c0
+				will take care of this request.
 0x9f8a	0x06	ALTO		ANI_GESTURE2	
-0x9fb4	0x98	ALTO		Will you tell us the location	mp_1099 0xb444
-				the monster appeared?	
+0x9fb4	0x98	ALTO		Can you tell us where	mp_1099 0xb444
+				this monster appeared?
 0xa008	0x6B	SpiritD		Surprise	
 0xa03d	0x06	SpiritD		ANI_NOD	
 0xa06d	0x98	SpiritD		...～～～...!	
 0xa09d	0x06	NOI		ANI_GESTURE2	
 0xa0de	0x98	NOI	#6A	It said it appeared during the spring in	
 				"Heavenly Mountain," in midwestern Heimmel!	
-0xa16b	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb5ed
-				when we have time, we should proceed	
-				carefully, it says.	
+0xa16b	0x98	NOI	#6A	It says it doesn't want to	mp_1099 0xb5ed
+				force you to rush, so go when
+				you're ready and have time.
 0xa1ed	0x98	NOI	#6A	It seems to have appeared during	
 				the spring in "Heavenly Mountain,"	
 				in midwestern Heimmel!	
-0xa27b	0x98	NOI	#6A	We don't need to hurry, because	mp_1099 0xb6ef
-				when we have time, it wants us to proceed	
-				carefully.	
+0xa27b	0x98	NOI	#6A	It doesn't want to force you to rush,	mp_1099 0xb6ef
+				so go when you're ready and have time.
 0xa2f1	0x06	ALTO		ANI_NOD	
 0xa316	0x98	ALTO		Understood. If we find it,	mp_1099 0xb78a
-				we'll eliminate it.	
+				we'll eliminate it.
 0xa363	0x06	ALTO		ANI_GESTURE2	
-0xa38d	0x98	ALTO		We should report to you after that?	mp_1099 0xb801
+0xa38d	0x98	ALTO		Should we report to	mp_1099 0xb801
+				you after we're done?
 0xa3d0	0x06	SpiritD		ANI_NOD	
 0xa400	0x98	SpiritD		...!	mp_1099 0xb874
 0xa490	0xC1	System		received.	mp_0000 0x12596
 0xa509	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xa538	0x98	ALTO		Oh... Is this...an advance payment?
+0xa538	0x98	ALTO		Oh... Is this... an advance payment?
 0xa5a7	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xa5d5	0x98	ALTO		Ahaha, you're pretty organized...	
 0xa60c	0x06	NOI		ANI_GUTSPOSE	
 0xa64d	0x98	NOI	#6A	Nayuta, let's get going to	
 				the spring of "Heavenly	
 				Mountain" right away!	
-0xa6d4	0x98	NOI	#6A	Nayuta, let's get going to	mp_3099 0xa64d	
-				the spring of the "Heavenly	
-				Mountain" right away!		
+0xa6d4	0x98	NOI	#6A	Nayuta, let's get going to	mp_3099 0xa64d
+				the spring of "Heavenly
+				Mountain" right away!
 0xa787	0x07	System	#3C	Quest [A Nymph's Request] started!	
 0xa88b	0x06	ALTO		ANI_WAIT	
 0xa8b1	0x06	NOI		ANI_WAIT	
@@ -545,35 +551,31 @@ quest_SpiritD_End
 0xadd3	0x98	ALTO		Ahaha, somehow, it seems	
 				kind of impressed...	
 0xae1f	0x06	NOI		ANI_NOD	
-0xae5b	0x98	NOI	#6A	Yes, it says it senses the disappearance	mp_1099 0xc0cc
-				of the monster presence.	
+0xae5b	0x98	NOI	#6A	Yes, it says it feels the presence	mp_1099 0xc0cc
+				of that monster disappearing.
 0xaebd	0x06	NOI		ANI_GESTURE1	
-0xaee6	0x98	NOI	#6A	It's saying, "Thank you."	mp_1099 0xc157
-0xaf2b	0x98	NOI	#6A	Yeah, it looks like the presence of that	mp_1099 0xc19c
-				monster disappeared.	
+0xaee6	0x98	NOI	#6A	It says, "Thank you."	mp_1099 0xc157
+0xaf2b	0x98	NOI	#6A	Yeah, it senses the presence	mp_1099 0xc19c
+				of that monster disappearing.
 0xaf89	0x06	NOI		ANI_GESTURE1	
-0xafb2	0x98	NOI	#6A	It's saying, "Thank you."	mp_1099 0xc157
+0xafb2	0x98	NOI	#6A	It says, "Thank you."	mp_1099 0xc157
 0xafef	0x6B	SpiritD		Ellipsis	
 0xb08d	0x98	SpiritD		....	
 0xb0b4	0xC1	System		received.	mp_0000 0x12596
 0xb12d	0x6B	SpiritD		Unknown	
 0xb162	0x06	ALTO		ANI_JOY	
-0xb187	0x98	ALTO		Haha, thanks. I'll accept it.	mp_1099 0xc3ff
-				(In Japanese, 5963 - "go-ku-ro-san"	
-				 - "Thanks for your hard work!")	
+0xb187	0x98	ALTO		Haha, thanks. I'll accept this.	mp_1099 0xc3ff
 0xb209	0x06	NOI		ANI_THINK	
-0xb247	0x98	NOI	#6A	We have to go already...	mp_1099 0xc4bf
-				Please do your best	
-				with your work from here on.	
+0xb247	0x98	NOI	#6A	We're going to have to go, but...	mp_1099 0xc4bf
+				Please, keep up the good work.
 0xb2b0	0x06	NOI		ANI_GESTURE1	
-0xb2d9	0x98	NOI	#6A	If something troubling happens again,	mp_1099 0xc551
-				please consult us.	
-0xb33c	0x98	NOI	#6A	We have to go already...	mp_1099 0xc4bf
-				Please do your best	
-				with your work from here on.	
+0xb2d9	0x98	NOI	#6A	If you have any more	mp_1099 0xc551
+				problems, please contact us.
+0xb33c	0x98	NOI	#6A	We're going to have to go, but...	mp_1099 0xc4bf
+				Please, keep up the good work.
 0xb3a5	0x06	NOI		ANI_GESTURE1	
-0xb3ce	0x98	NOI	#6A	If something troubling happens again,	mp_1099 0xc646
-				consult us, OK?	
+0xb3ce	0x98	NOI	#6A	If you have any more	mp_1099 0xc646
+				problems, contact us, okay?.
 0xb45c	0x06	SpiritD		ANI_NOD	
 0xb48c	0x98	SpiritD		...!	mp_1099 0xb874
 0xb4e7	0x07	System	#3C	Quest [A Nymph's Request] completed!	
@@ -590,198 +592,193 @@ QS_83_dead_boss
 0xcb08	0x06	ALTO		ANI_WAIT	
 0xcfde	0x98	NOI	#6A	Phew...	mp_1099 0xda89
 0xd007	0x06	NOI		ANI_GUTSPOSE	
-0xd030	0x98	NOI	#6A	It looks like we were able	mp_1099 0xdadb
-				to defeat this idol, too.	
+0xd030	0x98	NOI	#6A	Looks like we were able	mp_1099 0xdadb
+				to defeat this idol, too.
 0xd085	0x06	ALTO		ANI_NOD	
-0xd0aa	0x98	ALTO		Yeah, let's keep going like this!	mp_1099 0xdb55
-0xd0fd	0x98	ALTO		S-So that was a revived idol just now...	mp_1099 0xdba8
-				It was tougher than I expected, but...	
+0xd0aa	0x98	ALTO		Yeah, let's keep this up!	mp_1099 0xdb55
+0xd0fd	0x98	ALTO		S-So that was a resurrected idol...	mp_1099 0xdba8
+				It was a lot tougher than I expected...
 0xd16b	0x06	NOI		ANI_GESTURE1	
-0xd194	0x98	NOI	#6A	Nayuta, you're amazing!	mp_1099 0xdc3f
-				You were able to do a thing like	
-				defeat this powerful an idol...!	
+0xd194	0x98	NOI	#6A	Defeating an idol this powerful...!	mp_1099 0xdc3f
+				Nayuta, you're amazing!
 0xd20d	0x06	ALTO		ANI_GESTURE2	
-0xd237	0x98	ALTO		Haha, it's because I had your help, Noi.	mp_1099 0xdce2
-0xd27f	0x98	ALTO		There should be three remaining	mp_1099 0xdd2a
-				idols that are out of control...	
+0xd237	0x98	ALTO		Haha, I had a lot of	mp_1099 0xdce2
+				help from you, Noi.
+0xd27f	0x98	ALTO		There should be three idols	mp_1099 0xdd2a
+				remaining that are still loose...
 0xd2de	0x06	ALTO		ANI_JOY	
-0xd303	0x98	ALTO		Noi, let's brace ourselves	mp_1099 0xddae
-				for what's coming next!	
+0xd303	0x98	ALTO		Noi, let's keep up	mp_1099 0xddae
+				the good work!!
 0xd354	0x98	NOI	#6A	...Yeah!	mp_0001c 0x406c
 QS_83_quest_end
 0xd47b	0x06	ALTO		ANI_NOD	
-0xd4a0	0x98	ALTO		...With this, it seems that we've defeated	mp_1099 0xdf28
-				all of the revived idols.	
+0xd4a0	0x98	ALTO		...Seems like we've now defeated	mp_1099 0xdf28
+				all the resurrected idols.
 0xd520	0x06	NOI		ANI_GUTSPOSE	
-0xd549	0x98	NOI	#6A	As expected, you're amazing Nayuta!	mp_1099 0xdfd1
-0xd58e	0x98	NOI	#6A	If we keep going like this,	mp_1099 0xe016
-				both Master Cygna and Master Creha will...	
+0xd549	0x98	NOI	#6A	You're so amazing, Nayuta!	mp_1099 0xdfd1
+0xd58e	0x98	NOI	#6A	At this rate, Lord Cygna	mp_1099 0xe016
+				and Lady Creha can...
 0xd5fe	0x06	ALTO		ANI_JOY	
-0xd623	0x98	ALTO		Yeah, I'm sure we'll be able to save them.	mp_1099 0xe0ab
-0xd66d	0x98	ALTO		While we were fighting the idols,	mp_1099 0xe0f5
-				I feel like we gained considerable strength.	
+0xd623	0x98	ALTO		Yeah, I'm sure we can save them.	mp_1099 0xe0ab
+0xd66d	0x98	ALTO		I feel like we grew a lot stronger	mp_1099 0xe0f5
+				while fighting the idols.
 0xd6e2	0x06	NOI		ANI_NOD	
 0xd706	0x98	NOI	#6A	That's right...	mp_0115 0x172f0
-0xd737	0x98	NOI	#6A	But in the end, why did the idols go	mp_1099 0xe1bf
-				out of control in the first place, I wonder.	
+0xd737	0x98	NOI	#6A	But, that said, I wonder why the idols	mp_1099 0xe1bf
+				went berserk in the first place.
 0xd7b1	0x06	NOI		ANI_GESTURE1	
-0xd7da	0x98	NOI	#6A	They had a power level above normal.	mp_1099 0xe262
-				If I were to say something is controlling them...	
-0xd851	0x98	NOI	#6A	They attacked us as if they	mp_1099 0xe2d9
-				had some intention...	
-				Maybe I am overthinking it.	
+0xd7da	0x98	NOI	#6A	They were way more powerful	mp_1099 0xe262
+				than normal. It's almost as if
+				something was controlling them...
+0xd851	0x98	NOI	#6A	And they attacked us deliberately...	mp_1099 0xe2d9
+				Maybe I'm just overthinking this.
 0xd8c6	0x06	ALTO		ANI_GESTURE2	
-0xd8f0	0x98	ALTO		...I have just one idea about that.	mp_1099 0xe378
+0xd8f0	0x98	ALTO		...There's only one explanation.	mp_1099 0xe378
 0xd93b	0x6B	NOI		Surprise	
 0xd990	0x06	ALTO		ANI_LOOK_AROUND	
-0xd9bd	0x98	ALTO		Everyone, you are there, aren't you.	mp_1099 0xe445
-				Will you show your faces?	
+0xd9bd	0x98	ALTO		You're all here, right?	mp_1099 0xe445
+				Can you show yourselves?
 0xda22	0x06	NOI		ANI_THINK	
-0xda48	0x98	NOI	#6A	Everyone...?	mp_1099 0xe4d0
-0xda8c	0x41	None	#1W#2E#310c	──Wahaha, as expected, you are a good guesser.#0E	mp_1099 0xe514
+0xda48	0x98	NOI	#6A	All...?	mp_1099 0xe4d0
+0xda8c	0x41	None	#1W#2E#310c	...Gahaha, you're still a clever boy..#0E	mp_1099 0xe514
 0xdd44	0x6B	NOI		Exclamation	
 0xdd6d	0x06	NOI		ANI_SURPRISE	
 0xdd9e	0x06	ALTO		ANI_OJIGI	
-0xddd3	0x98	ALTO	#6A	Geo, Erisette, Algol and Nemeas, too.	mp_1099 0xe85b
-				It's been a while.	
+0xddd3	0x98	ALTO	#6A	Geo, Erisette,	mp_1099 0xe85b
+				Algol and Nemeas...
+				It's been a while.
 0xde35	0x06	Gio		ANI_GESTURE2	
-0xde5e	0x98	Gio		Yes, it has.	mp_1099 0xe8e6
-				I am happy to meet you again.	
+0xde5e	0x98	Gio		Hmm, it has. It is good to see you again.	mp_1099 0xe8e6
 0xdeae	0x06	Erislet		ANI_GESTURE1	
-0xdedb	0x98	Erislet		Huhu, it's been a year.	mp_1099 0xe963
-				How have you two been?	
+0xdedb	0x98	Erislet		Hehe, it's been a year.	mp_1099 0xe963
+				How have you two been?
 0xdf33	0x06	NOI		ANI_COMPLAIN	
-0xdf5c	0x98	NOI	#6A	Y-You people are...	mp_1099 0xe9e4
-				the warden of each continent!?	
-0xdfaf	0x98	NOI	#6A	Certainly, the warden should	mp_1099 0xea37
-				have disappeared during the incident	
-				a year ago...	
+0xdf5c	0x98	NOI	#6A	Y-You guys are...the wardens	mp_1099 0xe9e4
+				of the continents!?
+0xdfaf	0x98	NOI	#6A	The wardens were supposed	mp_1099 0xea37
+				to have disappeared during
+				the events a year ago...
 0xe026	0x06	Algorl		ANI_NOD	
-0xe04d	0x98	Algorl		Yes, after the incident in the "Star Capital,"	mp_1099 0xead5
-				we disappeared.	
-0xe0ac	0x98	Algorl		Because the governing idols were defeated by Nayuta and Noi,	mp_1099 0xeb34
-				we were released from our mission.	
+0xe04d	0x98	Algorl		Yes, after what took place in	mp_1099 0xead5
+				the Star City, we did disappear.
+0xe0ac	0x98	Algorl		When Nayuta and Noi defeated the supreme idols,	mp_1099 0xeb34
+				we were relieved of our duties.
 0xe134	0x06	Nemeas		ANI_TALK	
-0xe15c	0x98	Nemeas		However, due to the influence of the changes,	mp_1099 0xebe4
-				our souls were resurrected along with	
-				the idols of the four continents.	
-0xe1f1	0x98	Nemeas		We are now assimilated into each continent	mp_1099 0xec79
-				we used to govern, and now watch over	
-				the activities of the wildlife there.	
+0xe15c	0x98	Nemeas		However, as a result of recent abnormalities,	mp_1099 0xebe4
+				it seems our souls were resurrected along with
+				the idols of the four continents.
+0xe1f1	0x98	Nemeas		We have now been assimilated into the continents	mp_1099 0xec79
+				we used to oversee, and continue to monitor the
+				well-beings of their ecosystems.
 0xe287	0x06	Nemeas		ANI_WAIT	
 0xe2b7	0x98	ALTO	#6A	So that's what happened...	mp_1099 0xed3f
-				Haha, so you have become like gods,	
-				right?	
+				Haha, so you guys have become
+				like gods now too, huh?
 0xe325	0x06	ALTO		ANI_THANKS	
-0xe34d	0x98	ALTO	#6A	But, I am glad to meet you again like this.	mp_1099 0xedd5
+0xe34d	0x98	ALTO	#6A	But, it's nice to be able to see	mp_1099 0xedd5
+				you again under such circumstances.
 0xe3a3	0x06	Erislet		ANI_DENY	
-0xe3cc	0x98	Erislet		At that time, we disappeared	mp_1099 0xee54
-				without telling you...I am sorry.	
-0xe434	0x98	Gio		We did not intend to excessively burden	mp_1099 0xeebc
-				your hearts that stood against a great wall.	
-				Please, forgive us.	
+0xe3cc	0x98	Erislet		Before, we disappeared without	mp_1099 0xee54
+				saying goodbye... Sorry.
+0xe434	0x98	Gio		We did not wish to place an unnecessary	mp_1099 0xeebc
+				burden in your minds before facing off
+				against a mighty foe. Please, forgive us.
 0xe4c1	0x06	ALTO		ANI_SCRATCH_HEAD	
-0xe4ef	0x98	ALTO	#6A	Ahaha, whether I forgive you or not...	mp_1099 0xef77
-				At least I want to say my thanks.	
-0xe559	0x98	ALTO	#6A	Even the idols going out	mp_1099 0xefe1
-				of control this time...	
-				It was a test for us, wasn't it?	
+0xe4ef	0x98	ALTO	#6A	Ahaha, there's nothing to forgive...	mp_1099 0xef77
+				I'd rather thank you.
+0xe559	0x98	ALTO	#6A	Even the idols going berserk...	mp_1099 0xefe1
+				It was all a test for us, wasn't it?
 0xe5d3	0x06	Algorl		ANI_NOD	
-0xe5fa	0x98	Algorl		Yes...We understand everything that has	mp_1099 0xf082
-				happened to Terra from start to end.	
-0xe669	0x98	Algorl		In order to save the two Mitos,	mp_1099 0xf0f1
-				I think we should offer our final	
-				assistance.	
+0xe5fa	0x98	Algorl		Yes... We are aware of all that	mp_1099 0xf082
+				has happened on Terra so far.
+0xe669	0x98	Algorl		We thought we should offer one	mp_1099 0xf0f1
+				last bit of help to you in order
+				to save those two Mitos.
 0xe6df	0x06	NOI		ANI_GESTURE1	
-0xe708	0x98	NOI	#6A	T-Thank you very much...	mp_1099 0xf190
+0xe708	0x98	NOI	#6A	Th-Thank you very much...	mp_1099 0xf190
 0xe74a	0x06	Nemeas		ANI_GESTURE2	
-0xe776	0x98	Nemeas		Noi...	mp_1099 0xf1fe
-				I heard that you are a new Noi without	
-				memories of your past.	
-0xe7da	0x98	Nemeas		Though there are various things that worry me...	mp_1099 0xf262
-				Even so, Noi is Noi.	
+0xe776	0x98	Nemeas		Noi... I understand that you are a new	mp_1099 0xf1fe
+				Noi and have no recollection of the past.
+0xe7da	0x98	Nemeas		I know you may have doubts, but...	mp_1099 0xf262
+				Even so, you are still Noi.
 0xe840	0x06	Nemeas		ANI_NOD	
-0xe867	0x98	Nemeas		With Nayuta, I am certain you can save	mp_1099 0xf2ef
-				Masters Creha and Cygna.	
+0xe867	0x98	Nemeas		Together with Nayuta, I am certain	mp_1099 0xf2ef
+				you are capable of saving Lady
+				Creha and Lord Cygna.
 0xe90c	0x98	NOI	#6A	Y-Yeah!	mp_0004 0x64d8
 0xe93d	0x06	Gio		ANI_THINK	
-0xe963	0x98	Gio		Hmm, even so...	mp_1099 0xf3eb
-				Noi's respectful language is	
-				quite fitting.	
+0xe963	0x98	Gio		Hmm, and yet... Noi's polite	mp_1099 0xf3eb
+				manner of speaking does not
+				quite feel right.
 0xe9bb	0x06	Gio		ANI_WAIT	
 0xe9e8	0x06	Erislet		ANI_LAUGH	
 0xea12	0x98	Erislet		Yes, that's true.	mp_1099 0xf49a
-				It feels distinctly out of place.	
-0xea67	0x98	Erislet		The previous Noi should absolutely never have	mp_1099 0xf4ef
-				been able to use such respectful language.	
+				It does feel strange.
+0xea67	0x98	Erislet		The old Noi would never have	mp_1099 0xf4ef
+				been able to be so courteous.
 0xeae9	0x6B	NOI		Unknown	
 0xeb44	0x98	NOI	#6A	I-Is that so...?	mp_1099 0xf5cc
 0xeb9b	0x06	ALTO		ANI_GESTURE2	
-0xebc5	0x98	ALTO	#6A	Ahaha, the previous Noi was	mp_1099 0xf64d
-				much more frank.	
-0xec13	0x98	ALTO	#6A	Well, for the current Noi,	mp_1099 0xf69b
-				this is like a first meeting, so	
-				it can't be helped.	
+0xebc5	0x98	ALTO	#6A	Ahaha, the old Noi was	mp_1099 0xf64d
+				much more abrasive.
+0xec13	0x98	ALTO	#6A	Well, as the current Noi, you	mp_1099 0xf69b
+				haven't met any of us before,
+				so I suppose it's understandable. 
 0xec8b	0x06	Gio		ANI_GESTURE2	
-0xecb4	0x98	Gio		Even for a joke, the idol of the Astrolabe...	mp_1099 0xf73c
-				Maybe it was thinking, how about a more	
-				dignified-sounding warden this time?	
-0xed4b	0x98	Gio		If you like, feel free to steal	mp_1099 0xf7d3
-				the way I and Algol use our words.	
+0xecb4	0x98	Gio		Even if just for a lark, idol of the Astrolabe...	mp_1099 0xf73c
+				How about acting more dignified this time around?
+0xed4b	0x98	Gio		Feel free to imitate me	mp_1099 0xf7d3
+				if you'd like. Or Algol.
 0xedb3	0x06	Algorl		ANI_DENY	
-0xeddb	0x98	Algorl		...If you think about distinction between sex,	mp_1099 0xf863
-				Nemeas is more appropriate.	
+0xeddb	0x98	Algorl		...Given our genders, perhaps using	mp_1099 0xf863
+				Nemeas would be more appropriate.
 0xee4e	0x06	Erislet		ANI_SURPRISE	
-0xee7b	0x98	Erislet		Y-You're making a retort,	mp_1099 0xf903
-				Algol!?	
+0xee7b	0x98	Erislet		Q-Quit it with the	mp_1099 0xf903
+				sarcastic remarks, Algol!
 0xeebe	0x06	Erislet		ANI_COMPLAIN	
-0xeeeb	0x98	Erislet		Or rather, isn't that	mp_1099 0xf973
-				rude to me!?	
+0xeeeb	0x98	Erislet		I mean, that's my job!	mp_1099 0xf973
 0xef37	0x6B	NOI		Sweatdrop	
 0xef68	0x06	NOI		ANI_DEJECTED	
-0xef91	0x98	NOI	#6A	No matter who it is,	mp_1099 0xfa19
-				I will refrain...	
+0xef91	0x98	NOI	#6A	Whatever the case may be,	mp_1099 0xfa19
+				I refrain from commenting...
 0xefec	0x06	ALTO		ANI_LAUGH	
-0xf013	0x98	ALTO	#6A	Ahaha...	mp_0001c 0x5727
+0xf013	0x98	ALTO	#6A	Haha...	mp_0001c 0x5727
 0xf054	0x06	Nemeas		ANI_LAUGH	
-0xf08b	0x98	Nemeas	#2W	Huhu...I wish that this	mp_1099 0xfb13
-				kind of time, of foolish talk,	
-				would continue forever.	
+0xf08b	0x98	Nemeas	#2W	Hehe... These are the kind of	mp_1099 0xfb13
+				silly moments I wish we could
+				continue to have forever.
 0xf2a8	0x6B	ALTO		Exclamation	
 0xf2da	0x6B	NOI		Exclamation	
 0xf30b	0x06	ALTO		ANI_COMPLAIN	
 0xf343	0x98	ALTO	#1W#6A	Everyone...!?	mp_1099 0xfdcb
 0xf38c	0x06	Nemeas		ANI_GESTURE1	
-0xf3c6	0x98	Nemeas	#0W	The mission of us, who have been	mp_1099 0xfe4e
-				assimilated into the continents...	
-				We must watch over them until the end...	
-0xf46b	0x98	Nemeas	#4A	So to our being able to meet with you	mp_1099 0xfef3
-				ends here.	
+0xf3c6	0x98	Nemeas	#0W	Having been assimilated to the continent,	mp_1099 0xfe4e
+				our sole mission is to monitor it.
+0xf46b	0x98	Nemeas	#4A	We will no longer be able to	mp_1099 0xfef3
+				meet with you guys after this.
 0xf4d5	0x98	NOI	#1W#6A	Oh...	mp_0101 0x1ff08
 0xf507	0x06	ALTO		ANI_DEJECTED	
-0xf53f	0x98	ALTO	#2W#6A	Is that so...	mp_1099 0xffc7
-				That's sad.	
+0xf53f	0x98	ALTO	#2W#6A	Is that so... We'll definitely miss you.	mp_1099 0xffc7
 0xf585	0x06	Gio		ANI_GESTURE2	
-0xf5bc	0x98	Gio	#0W	Heheh, so you are reluctant to part...	mp_1099 0x10044
-				However, it cannot be helped.	
-0xf637	0x98	Gio	#6A	We will be watching over you always.	mp_1099 0x100bf
-				Carry out your mission properly.	
+0xf5bc	0x98	Gio	#0W	Heheh, I'm sorry to say this, but...	mp_1099 0x10044
+				It is unavoidable.
+0xf637	0x98	Gio	#6A	We will always be watching over you.	mp_1099 0x100bf
+				Be sure to do your part well.
 0xf6a5	0x06	Erislet		ANI_NOD	
-0xf6db	0x98	Erislet	#1W	Masters Creha and Selam	mp_1099 0x10163
-				are waiting for you.	
-0xf743	0x98	Erislet	#1W	As for our part,	mp_1099 0x101cb
-				we intend to do our very best!	
+0xf6db	0x98	Erislet	#1W	Lady Creha and Lord Selam	mp_1099 0x10163
+				are waiting for you.
+0xf743	0x98	Erislet	#1W	And for our duties,	mp_1099 0x101cb
+				wish us luck!
 0xf7ad	0x98	NOI	#1W#6A	Miss Erisette...	mp_1099 0x10235
 0xf7eb	0x06	NOI		ANI_DENY	
 0xf81e	0x98	NOI	#2W#6A	...No, Eris...	mp_1099 0x102a6
-				Thank you.	
+				Thank you.
 0xf871	0x06	Nemeas		ANI_GESTURE1	
-0xf89d	0x98	Nemeas	#1W	When this time of change is over,	mp_1099 0x10325
-				spin a new history with the true meaning	
-				of Terra.	
-0xf92c	0x98	Algorl	#3W	...And finally,	mp_1099 0x103b4
-				We will grant you our	
-				remaining power.	
+0xf89d	0x98	Nemeas	#1W	Finally overcoming these abnormalities	mp_1099 0x10325
+				will mark a new page in Terra's history.
+0xf92c	0x98	Algorl	#3W	...Before we go, I will	mp_1099 0x103b4
+				grant physical form to
+				our remaining powers...
 0xf99b	0x98	Algorl	#1W	Please, accept it.	mp_1099 0x10423
 0xf9da	0x06	Gio		ANI_USE_POWER	
 0xfa04	0x06	Erislet		ANI_USE_POWER	
@@ -797,17 +794,16 @@ QS_83_quest_end
 0xffce	0x06	Algorl		ANI_WAIT	
 0xfff6	0x06	Nemeas		ANI_WAIT	
 0x10078	0x3F	Name		Wardens	mp_1099 0x10b00
-0x10095	0x98	ALTO	#2W#240x#100y#N#2W	We leave the rest to you.	mp_1099 0x10b1d
-				Ye of little courage...	
+0x10095	0x98	ALTO	#2W#240x#100y#N#2W	We leave the rest up to you.	mp_1099 0x10b1d
+				You brave little ones...
 0x10364	0x6B	ALTO		Ellipsis	
 0x10396	0x6B	NOI		Ellipsis	
 0x103ef	0x06	ALTO		ANI_THANKS	
-0x10417	0x98	ALTO		Everyone...	mp_1099 0x10e9f
-				Please leave the rest to me.	
-0x10496	0x98	NOI	#6A	...Let's get our preparations in order,	mp_1099 0x10f1e
-				heading for the final battle.	
+0x10417	0x98	ALTO		Everyone... We'll take care of it.	mp_1099 0x10e9f
+0x10496	0x98	NOI	#6A	Let's get ready for the	mp_1099 0x10f1e
+				final battle, Nayuta...
 0x10504	0x06	NOI		ANI_GUTSPOSE	
-0x1052d	0x98	NOI	#6A	To save Masters Creha and Cygna!	mp_1099 0x10fb5
+0x1052d	0x98	NOI	#6A	And save Lady Creha and Lord Cygna!	mp_1099 0x10fb5
 0x105b0	0x06	ALTO		ANI_NOD	
 0x105d5	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x10636	0x07	System	#3C	Quest [Crush the Four Idols] completed!	mp_1099 0x110be
@@ -835,7 +831,7 @@ EV_3_S16_boss_battle
 0x112b1	0x6B	NOI		Surprise	
 0x1139e	0x98	NOI		There it is...	
 				The Master Gear of Wind!	
-0x113ed	0x98	ALTO		Thank goodness...We found it!	
+0x113ed	0x98	ALTO		Thank goodness... We found it!	
 0x114ce	0x06	ALTO		ANI_WAIT4	
 0x114f5	0x98	ALTO	#6A	Can't believe they really did	
 				just leave it behind again...	
@@ -862,11 +858,11 @@ EV_3_S16_boss_battle
 0x1198e	0x98	NOI	#0W#6A#12S	...Because they ARE...	
 0x11a26	0x98	ALTO	#6A	Huh, what did you say?	
 0x11ab3	0x06	NOI		ANI_DENY	
-0x11ad8	0x98	NOI	#6A	...It, it's n-nothing.	
+0x11ad8	0x98	NOI	#6A	...I-It's nothing.	
 0x11b09	0x98	NOI	#6A	Anyway... let's go collect the	
 				Master Gear now, shall we?	
 0x11b63	0x06	ALTO		ANI_NOD	
-0x11b88	0x98	ALTO	#6A	...Yes, let's go.	
+0x11b88	0x98	ALTO	#6A	...Yeah, let's go.	
 0x11bb9	0x98	ALTO	#6A	Now we can revive the Yupina	
 				Grass and save my sister-	
 0x11c52	0x6B	ALTO		Surprise	
@@ -910,13 +906,13 @@ EV_3_S17_get_gear_3rd
 0x134bb	0x06	komono05		ANI_STOP	
 0x135ef	0xC1	System		obtained.	mp_0000 0x7558
 0x1379e	0x06	ALTO		ANI_JOY	
-0x137c3	0x40	ALTO	#6A	With this Master Gear, we should	
-				be able to restore the Yupina Grass!	
-0x13826	0x40	NOI		Yeah, I'm sure we can!	
+0x137c3	0x40	ALTO	#6A	With this Master Gear, we should be	
+				able to restore the Yupina Grass!	
+0x13826	0x40	NOI		Yeah, I'm sure of it!	
 0x138cf	0x06	NOI		ANI_TAKE_OUT_END	
 0x139ea	0x98	NOI		Quick, let's change the	
-				continent's climate back	
-				to normal with the Astrolabe!	
+				continent's climate back to	
+				normal with the Astrolabe!	
 0x13a5a	0x06	ALTO		ANI_NOD	
 0x13a7f	0x98	ALTO	#6A	Yeah... Let's go back to the Garden!	
 EV_4_S21_release_seal_m

@@ -20,7 +20,7 @@ QS54_talk_SpiritA
 0x1810	0x98	NOI	#6A	Ah, found you!	
 0x1842	0x98	ALTO		Isn't this one of	
 				the nymphs from	
-				Nemeas' Temple?	
+				Nemeas' temple?	
 0x18a3	0x98	ALTO		Ah, but what could you be doing here...?	
 0x18e4	0x98	ALTO		...Aren't you one of Nemeas'	
 				nymphs? Are you okay?	
@@ -60,7 +60,7 @@ QS54_talk_SpiritA
 				tell Nemeas!	
 0x239e	0x06	ALTO		ANI_NOD	
 0x23c3	0x98	ALTO		Yeah!	mp_0001 0x1174e
-0x242e	0x98	NOI	#6A	Yeah...but there should	
+0x242e	0x98	NOI	#6A	Yeah... but there should	
 				be three missing nymphs.	
 0x247d	0x06	NOI		ANI_GUTSPOSE	
 0x24a6	0x98	NOI	#6A	Nayuta, let's try	
@@ -69,14 +69,14 @@ QS54_talk_SpiritA
 0x2511	0x98	ALTO		Right, let's try going to	
 				the other continents, too.	
 QS_81_check_altar
-0x26b7	0x40	UNDEF		Nayuta placed the Locked Box.	
+0x26b7	0x40	UNDEF		Nayuta took out the Locked Box.	
 0x26f8	0x40	UNDEF		...There's no response.	
 0x274a	0x98	ALTO		H-Huh...?	
 				I thought this was	
 				the place, but...	
-0x27a4	0x98	NOI		I see... Looks like the lock	
-				was made using areas filled	
-				with the Power of Stars.	
+0x27a4	0x98	NOI		I see... The lock should detect	
+				areas like this, filled with	
+				the Power of Stars.	
 0x2817	0x98	NOI		But I think we're not	
 				doing something right.	
 0x2863	0x98	ALTO		If I remember correctly, didn't it say,	
@@ -87,14 +87,14 @@ QS_81_check_altar
 0x29a7	0x98	ALTO		("If you wish to release the locks,	
 				 offer up this box in order of the seasons,	
 				 with them changed as they should be"...)	
-0x2a2f	0x98	ALTO		(Somehow, I need to think of this as having	mp_1002b 0x290a
-				 something to do with the seasons, maybe.)	
+0x2a2f	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
+				 kind of seasonal order?)
 QS_81_hang_out_box
 0x2c98	0x98	ALTO		Is this the right place	
 				to put the Locked Box?
 0x2d01	0x98	NOI	#6A	Let's try it!	
 0x2d58	0x06	ALTO		ANI_HANDOVER1	
-0x2e09	0x40	UNDEF		Nayuta placed the Locked Box.	
+0x2e09	0x40	UNDEF		Nayuta took out the Locked Box.	
 0x2e55	0x6B	ALTO		Ellipsis	
 0x2e87	0x6B	NOI		Ellipsis	
 0x2ee4	0x6B	ALTO		Exclamation	
@@ -105,7 +105,7 @@ QS_81_hang_out_box
 0x30d5	0x98	ALTO		Now two locks are opened...	
 				Half of them are left, huh?	
 0x312c	0x06	ALTO		ANI_THINK	
-0x3153	0x98	ALTO		But still... This must be an amazing device
+0x3153	0x98	ALTO		But still... this must be an amazing device
 				to react to the changing of the seasons.	
 0x31be	0x06	NOI		ANI_GESTURE1	
 0x31e7	0x98	NOI	#6A	Devices that sense the Power of Stars...	
@@ -119,26 +119,26 @@ QS_81_hang_out_box
 0x336c	0x98	ALTO		All right. Anyway, let's	
 				find the next altar.	
 0x33c3	0x98	ALTO		Next stop, either the Abyss Continent,	
-				or the Sacred Mountain Continent...	
+				or the Holy Mountain Continent...	
 				Which one is it?	
 EV_2_S19_jungle_summer
 0x37f4	0x06	ALTO		ANI_LOOK_AROUND	
-0x3821	0x98	ALTO		The scenery	mp_1000b 0x1dd1
-				completely changed...	
+0x3821	0x98	ALTO		The scenery looks	mp_1000b 0x1dd1
+				completely different...
 0x3861	0x06	ALTO		ANI_WAIT	
-0x38a5	0x98	ALTO		The sun is dazzling and	mp_1000b 0x1e55
-				the forest verdant...	
+0x38a5	0x98	ALTO		The sun is blinding and	mp_1000b 0x1e55
+				the forest is so green...
 0x38fd	0x06	ALTO		ANI_WAIT4	
 0x3924	0x98	ALTO		I can't believe this is the	mp_1000b 0x1ed4
-				same place as before...	
+				same place as before...
 0x3976	0x06	NOI		ANI_GUTSPOSE	
-0x399f	0x98	NOI	#6A	Heheh, that's the power	mp_1000b 0x1f4f
-				of the Astrolabe for you!	
+0x399f	0x98	NOI	#6A	Hehe, that's the power	mp_1000b 0x1f4f
+				of the Astrolabe for you!
 0x3a29	0x06	ALTO		ANI_WAIT	
 0x3a87	0x06	NOI		ANI_GESTURE2	
-0x3ab0	0x98	NOI	#6A	The geographical features may	mp_1000b 0x2060
-				have changed too...	
-				Let's proceed with plenty of caution!	
+0x3ab0	0x98	NOI	#6A	The geographical features	mp_1000b 0x2060
+				might have changed too...
+				Let's be careful!
 0x3b27	0x06	ALTO		ANI_NOD	
 0x3c00	0x06	ALTO		ANI_WAIT	
 SB_2_S20_escape_ALTO
@@ -194,7 +194,7 @@ EV_2_S20_help_gio
 0x6440	0x06	Gio		ANI_DENY	
 0x64b5	0x98	Gio	#1W	Phew... Finally, I can	
 				get some fresh air.	
-0x655d	0x98	Gio	#1W	Jeez, what a terrible	
+0x655d	0x98	Gio	#1W	Goodness gracious, what a terrible	
 				experience that was.	
 0x671a	0x06	NOI		ANI_JOY	
 0x674c	0x98	NOI	#0W#6A	Geo... Phew!	
@@ -204,7 +204,7 @@ EV_2_S20_help_gio
 				(I thought he would look	
 				 a little older than that...)	
 0x68e6	0x98	Gio	#1W	Indeed, I am Lychnis Geo...	
-				I am the Warden of Oltapia.	
+				I am the warden of Oltapia.	
 0x698f	0x06	Gio		ANI_GESTURE1	
 0x69c6	0x98	Gio	#1W	You are a human child, are you not?	
 				Thank you for letting me out of there.	
@@ -242,7 +242,7 @@ EV_2_S20_help_gio
 0x747e	0x6B	ALTO		Exclamation	
 0x74b0	0x6B	NOI		Exclamation	
 0x74e1	0x06	NOI		ANI_GESTURE1	
-0x750a	0x98	NOI	#6A	Y-You see...	mp_0101 0x610e
+0x750a	0x98	NOI	#6A	W-Well...	mp_0101 0x610e
 0x7540	0x06	ALTO		ANI_COMPLAIN	
 0x756a	0x98	ALTO	#6A	Wh-What do you mean	
 				"Lord" Zext...!?	
@@ -293,9 +293,9 @@ EV_2_S20_help_gio
 				attacks and break hard objects.	
 0x8534	0x06	Gio		ANI_WAIT	
 0x859b	0x06	NOI		ANI_GUTSPOSE	
-0x85c4	0x98	NOI	#6A	Th-This...overwhelming power!?	
+0x85c4	0x98	NOI	#6A	Th-This... overwhelming power!?	
 0x860d	0x06	Gio		ANI_GESTURE1	
-0x8653	0x98	Gio		We Wardens were once created	
+0x8653	0x98	Gio		We wardens were once created	
 				by Lady Creha's race...	
 0x86be	0x98	Gio		At the time, we were bestowed	
 				various powers so we would be	
@@ -316,16 +316,16 @@ EV_2_S20_help_gio
 				will be difficult, but...	
 				Please, help out Noi.	
 0x8a54	0x06	ALTO		ANI_THANKS	
-0x8a7c	0x98	ALTO	#6A	Yes!	mp_0001 0xfd91
+0x8a7c	0x98	ALTO	#6A	Yes...!	mp_0001 0xfd91
 0x8aab	0x06	Gio		ANI_LAUGH	
 0x8b13	0x98	Gio		Heheheh, you have a good face.	
 0x8b9a	0x98	Gio		I will be going back to my	
-				rightful place in the Temple.		
+				rightful place in the temple.		
 0x8c18	0x98	Gio		If you need anything,	
 				feel free to come visit.	
 				...Farewell.	
 0x8f7e	0x06	ALTO		ANI_JOY	
-0x8fa3	0x98	ALTO	#6A	Well...looks like	
+0x8fa3	0x98	ALTO	#6A	Well... looks like	
 				Geo is all right now.	
 0x8ff8	0x06	ALTO		ANI_GESTURE2	
 0x9022	0x98	ALTO		Let's head to Rieseweld next.	

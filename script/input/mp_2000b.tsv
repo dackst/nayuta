@@ -26,12 +26,12 @@ SB_2_S15_noi_move
 0x1580	0x06	NOI		ANI_LOOK_AROUND	
 EV_2_S15_cave1_start
 0x18c6	0x06	st		ANI_PATA2	
-0x19c8	0x98	ALTO		It's...another ridiculously large cave.	
+0x19c8	0x98	ALTO		It's... another ridiculously large cave.	
 0x1a11	0x98	ALTO		The light reflects off the	
 				water's surface, giving this	
 				place a fantastical atmosphere.	
 0x1a91	0x06	NOI		ANI_THINK	
-0x1ab7	0x98	NOI	#6A	Yeah, but... The climate of this	
+0x1ab7	0x98	NOI	#6A	Yeah, but... the climate of this	
 				continent is strange, too.	
 0x1b1e	0x98	NOI	#6A	In fact, this time of year, it should	
 				be cold and the water's surface should	

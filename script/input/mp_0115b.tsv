@@ -40,8 +40,8 @@ lp_stuffed4
 0x1e6e	0x41	None		[Penguin] Spheniscidae	
 				Sea bird living in cold regions.	
 				They stand erect and walk unsteadily on land.	
-				Because they raise their chicks in groups, they	
-				have gotten the name, "human bird."	
+				Because they raise their chicks in groups,	
+				they have been dubbed the "human bird."	
 lp_stuffed5
 0x2058	0x41	None		[Frog] Anura	
 				Amphibian that lives near water.	
@@ -101,9 +101,9 @@ lp_dinosaur
 0x33c3	0x36	Choice		Quit	mp_0002 0x433f
 0x351f	0x41	None		Tyrannosaurus	
 				Reptile species that lived in ancient times.	
-				Appropriately nicknamed "tyrant dragon," it has a large body	
-				and fangs, and is thought to have attacked and eaten all other	
-				kinds of animals.	
+				Appropriately nicknamed "tyrant dragon," it has a large	
+				body and fangs, and is thought to have preyed upon all	
+				manner of other animals.	
 0x364e	0x41	None		Tyrannosaur Skeleton	
 				It seems to be the skeleton of a tyrannosauroid.	
 				Because part of it is missing, further details are unknown.	
@@ -130,14 +130,13 @@ lp_dinosaur
 				Because part of it is missing, further details are unknown.	
 lp_nodata
 0x40d9	0x41	None		【？？？？？？】	mp_0115a 0x5de8
-					
-				　　　　　　（ＮＯ　ＤＡＴＡ）　　　　　　	
+				　　　　　　（ＮＯ　ＤＡＴＡ）　　　　　　
 lp_nothing
-0x4165	0x40	UNDEF		It seems there's nothing on display.	mp_0115a 0x5e74
+0x4165	0x40	UNDEF		It looks like there's nothing on display.	mp_0115a 0x5e74
 subev_showroom_first
 0x45d2	0x06	ALTO		ANI_SURPRISE	
 0x45fc	0x06	NOI		ANI_SURPRISE	
-0x4625	0x98	ALTO		T-This is...!	mp_0115a 0x6232
+0x4625	0x98	ALTO		I-Is this...!?	mp_0115a 0x6232
 0x466c	0x98	NOI		Seems like this room is constructed	
 				differently for some reason...	
 0x46c5	0x06	ALTO		ANI_LOOK_AROUND	
@@ -151,5 +150,5 @@ subev_showroom_first
 				Hmm, how fascinating!	
 0x4945	0x06	ALTO		ANI_JOY	
 0x496a	0x98	ALTO		I can't let something this	mp_0115a 0x6566
-				interesting pass by.	
-				...Anyway, I'll go look at them!	
+				interesting pass me by...
+				Let's go get a better look!

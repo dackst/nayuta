@@ -10,8 +10,8 @@ talk_Ophiuchus
 				be brought to an end soon.	
 0x91b	0x98	Ophiuchus		That way we can settle the matter	
 				of Master Mishy's inheritance...	
-0x976	0x98	Ophiuchus		He wishes for these abnormalities	mp_0005c 0x89f
-				to be settled.	
+0x976	0x98	Ophiuchus		I hope that these anomalies will	mp_0005c 0x89f
+				be brought to an end soon.
 boss_retry
 0xa0e	0xCE	Objective		We can't lose... We have to protect Lyra and Vel!	
 SB_6_S10_appear_Lyra
@@ -48,7 +48,7 @@ EV_6_S10_battle_mons
 0x23e6	0x06	Lyra		ANI_NOD	
 0x249b	0x98	Lyra		G-Got it!!	
 0x24eb	0x06	Bell		ANI_SPEECH	
-0x2557	0x98	Bell		Nayuta! Go get'em, Miss Fairy!	
+0x2557	0x98	Bell		Nayuta! Go get'em, Ms. Fairy!	
 0x25a4	0x06	Bell		ANI_WAIT	
 0x2704	0x06	e137		ANI_DEMO1	
 0x2777	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
@@ -89,14 +89,14 @@ EV_6_S11_help_lyra
 0x3a4f	0x06	Bell		ANI_GESTURE2	
 0x3abd	0x98	Bell		Nayuta, you're super strong!	
 0x3b38	0x06	Bell		ANI_JOY	
-0x3ba1	0x98	Bell		Miss Fairy was	
+0x3ba1	0x98	Bell		Ms. Fairy was	
 				super cool, too!	
 0x3c2a	0x06	NOI		ANI_GROOMING	
 0x3c53	0x98	NOI	#6A	Hehe... You think so?	
 0x3ccc	0x06	ALTO		ANI_GESTURE2	
 0x3d14	0x98	ALTO	#6A	Great, looks like	
 				you're both safe.	
-0x3dce	0x98	Lyra	#1W	..................	mp_0000d 0x70fd
+0x3dce	0x98	Lyra	#1W	.....	mp_0000d 0x70fd
 0x405d	0x06	Lyra		ANI_HUG	
 0x4082	0x06	ALTO		ANI_HUGGED2	
 0x411f	0x6B	ALTO		Exclamation	
@@ -146,7 +146,7 @@ EV_6_S11_help_lyra
 				monster appeared out here.
 0x539f	0x98	Aulbath		Heheh, it seems that a	
 				crisis was averted because	
-				Nayuta has awakened, 	
+				Nayuta has awakened.	
 0x541f	0x98	Aulbath		By the way, Dorado was carried into	
 				the village and is being treated.	
 0x5484	0x06	Aulbath		ANI_WAIT2	
@@ -163,7 +163,7 @@ EV_6_S11_help_lyra
 0x574c	0x98	Aulbath		Nayuta... Above all, it	
 				is good to see you awake.	
 0x57ae	0x06	ALTO		ANI_OJIGI	
-0x57d5	0x98	ALTO	#6A	Ahaha... It's been a while, Master.	
+0x57d5	0x98	ALTO	#6A	Ahaha... Long time no see, Master.	
 0x5821	0x6B	Aulbath		Ellipsis	
 0x5856	0x06	Aulbath		ANI_GESTURE1	
 0x5883	0x98	Aulbath		...You two, come see me later.	
@@ -176,7 +176,7 @@ EV_6_S11_help_lyra
 0x5a1d	0x98	NOI		Something you must show us?	
 0x5a5a	0x06	NOI		ANI_WAIT	
 0x5ac1	0x06	Aulbath		ANI_NOD	
-0x5ae9	0x98	Aulbath		It is waiting at my house.	
+0x5ae9	0x98	Aulbath		I will be waiting at my house.	
 				Come once you are ready.	
 0x5db1	0x06	Lyra		ANI_WAIT4	
 0x5e1c	0x98	Lyra		What did he mean just now?	
@@ -190,7 +190,7 @@ EV_6_S11_help_lyra
 0x61f4	0x98	Lyra		Yeah, got it.	
 				...Thanks, Nayuta.	
 0x6273	0x06	Bell		ANI_GESTURE2	
-0x62e1	0x98	Bell	#6A	Bye, Miss Fairy!	
+0x62e1	0x98	Bell	#6A	Bye, Ms. Fairy!	
 0x6390	0x06	NOI		ANI_ROTATE	
 0x63f9	0x98	NOI		Heheh, be careful on your way home.	
 0x6744	0x6B	ALTO		Ellipsis	
@@ -204,24 +204,24 @@ EV_6_S11_help_lyra
 0x69e2	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x6a36	0x98	ALTO		Uh... Why don't you start?	
 0x6a96	0x06	NOI		ANI_NOD	
-0x6aba	0x98	NOI	#6A	O-Okay.	
+0x6aba	0x98	NOI	#6A	Y-Yeah.	
 0x6b08	0x98	NOI	#6A	...Nayuta,	
 				I want to apologize.	
-0x6b8e	0x98	NOI	#6A	I...I kept lots of important	
+0x6b8e	0x98	NOI	#6A	I... I kept lots of important	
 				things secret from you, and...	
 				I'm really sorry.	
 0x6bed	0x06	NOI		ANI_DENY	
-0x6c12	0x98	NOI	#6A	But it's...it's not because
+0x6c12	0x98	NOI	#6A	But it's... it's not because
 				I'm on the Mitos' side.	
 0x6c7c	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x6d3b	0x98	ALTO		Huh?	mp_0004 0x392d
+0x6d3b	0x98	ALTO		Huh...?	mp_0004 0x392d
 0x6d85	0x06	NOI		ANI_GESTURE1	
 0x6dae	0x98	NOI	#6A	The Mitos...	
 				Zext and Lady Creha...	
 				They're really powerful.	
-0x6e2f	0x98	NOI	#6A	I thought...maybe I could	
+0x6e2f	0x98	NOI	#6A	I thought... maybe I could	
 				never stop their mission...		
-0x6e90	0x98	NOI	#6A	So...I didn't want to	
+0x6e90	0x98	NOI	#6A	So... I didn't want to	
 				tell you about this	
 				world being erased.	
 0x6f20	0x06	NOI		ANI_COMPLAIN	

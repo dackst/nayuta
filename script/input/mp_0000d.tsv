@@ -2,25 +2,25 @@ mp_0000d
 init
 0x873	0x06	Dorado		ANI_SLEEP2	
 LP_Shop1
-0x9d0	0x41	None		～  Bar & Inn Moon View Pavillion  ～	mp_0000 0x254e
-				  We have tasty food and warm rooms	
-				    ready for you.	
+0x9d0	0x41	None		～  Moonlight Pavilion Bar & Inn   ～	mp_0000 0x254e
+				  We have tasty food and warm rooms
+				    ready for you to enjoy.
 LP_Shop2
 0xab0	0x41	None		★Welcome to Sunset General Store!★	mp_0000 0x262e
-				  From daily necessities to souvenirs,	
-				    Leave it to Sunset!	
-				  Would you like to try Star Shards,	
-				  Remnant Island's most popular product?	
+				  From daily necessities to souvenirs,
+				    Sunset is the place to go!
+				  Take a look at our star shards,
+				  a specialty of Remnant Island!
 stp_port
 0xbc5	0x98	ALTO		This is no time to get sidetracked...	
 				I've got to get to the beach!	
 stp_cape
-0xcbf	0x98	ALTO		I don't have time for any detours...	mp_0000d 0xbc5
-				I've got to get to the beach!	
+0xcbf	0x98	ALTO		This is no time to get sidetracked...	mp_0000d 0xbc5
+				I've got to get to the beach!
 talk_Dorado
-0xdeb	0x98	Dorado		Creha... I... I...!	
-0xe1f	0x98	Dorado		...Ooh... I'm sorry I	
-				couldn't protect you!	
+0xdeb	0x98	Dorado		Creha... I...I...!	
+0xe1f	0x98	Dorado		...Ooh... I'm so sorry	
+				I couldn't protect you!	
 0xe72	0x98	ALTO		(...Dorado...)	
 0xec8	0x98	Dorado		The village was attacked, 	
 				and Creha was kidnapped...	
@@ -38,25 +38,25 @@ talk_Lupus
 				Don't do anything rash.	
 0x11e1	0x98	Lupus		...All things considered, I feel like	
 				my grandpa's story just doesn't add up.	
-0x124d	0x98	Lupus		There's no way he doesn't know what's	
-				going on and is covering it up...	
+0x124d	0x98	Lupus		There's no way he's not covering	
+				up what's really going on...	
 				...There's no way.	
 talk_Aquela
 0x12f1	0x98	Aquela		My, you...	mp_0000c 0x3db6
 0x131d	0x98	Aquela		Hehe, you have good eyes, don't you?	mp_0000c 0x3de2
 0x1358	0x98	Aquela		And so, in my reading of the stars,	mp_0000c 0x3e1d
-				I can see you are one burdened	
-				with a great destiny.	
+				I can see you are one burdened
+				with a great destiny.
 0x13cd	0x6B	Aquela		Ellipsis	
 0x1401	0x98	ALTO		Y-You are?	mp_0000c 0x3ec6
-0x142b	0x98	Aquela		Hehehe... As an astrologer, Imp_0000c 0x3ef0	
+0x142b	0x98	Aquela		Hehehe... As an astrologer, I	mp_0000c 0x3ef0
 				take great interest in you.
-0x147b	0x98	Aquela		That is how it is to me, boy.	mp_0000c 0x3f40
-				I want you to keep this..	
+0x147b	0x98	Aquela		That is how it seems to me, boy.	mp_0000c 0x3f40
+				I want you to keep this.
 0x14c0	0xC1	System		obtained.	mp_0000 0x7558
 0x153f	0x98	Aquela		I get some very interesting	mp_0000 0x75d7
-				premonitions from you...	
-				This is thanks for that.	
+				premonitions from you...
+				This is thanks for that.
 0x15e1	0x98	Aquela		That man in black... He seems to	
 				be a person who is far beyond	
 				our wildest expectations.	
@@ -64,23 +64,23 @@ talk_Aquela
 				this island was no mistake...	
 0x16bb	0x98	Aquela		The conclusion of this chain of events...	
 				I will try to divine it.	
-0x1749	0x98	Aquela		The evil omen that I sensed	mp_0000d 0x165c
-				from this island was no mistake...	
+0x1749	0x98	Aquela		The evil omen that I sensed from	mp_0000d 0x165c
+				this island was no mistake...
 0x17a8	0x98	Aquela		The conclusion of this chain of events...	mp_0000d 0x16bb
-				I will try to divine it.	
+				I will try to divine it.
 talk_Hydol
 0x1854	0x98	Hydol		Nayuta... Are you hurt?	
 0x188f	0x98	ALTO		No, not particularly...	
-0x18c7	0x98	ALTO		...In the end, it wasn't much of a fight.	
+0x18c7	0x98	ALTO		...In the end, there wasn't much of a fight.	
 0x1906	0x98	Hydol		Well, try not to be too discouraged.	
-0x194d	0x98	Hydol		I've just finish examining	
+0x194d	0x98	Hydol		I've just finished examining	
 				and tending to the others.	
 0x19b4	0x98	Hydol		Dorado was the one with the most serious injuries,	
 				and he only suffered some cuts and bruises. As	
 				long as he gets some rest, he should be fine.	
-0x1a2f	0x98	Hydol		The psychological shock of what	
-				happened seems to be more serious. 	
-				...But that's not limited to him...	
+0x1a2f	0x98	Hydol		The psychological shock of what happened	
+				seems to be more serious... But that's	
+				not limited to just him...	
 0x1ada	0x98	Hydol		I was about to return to the Clinic	
 				when all this happened. It's a good	
 				thing that I was still here...	
@@ -89,8 +89,11 @@ talk_Hydol
 0x1bb9	0x98	Hydol		Nayuta, if you need anything,	
 				please feel free to come to me	
 				immediately... At any time.	
-0x1c50	0x98	Hydol		mp_0000d 0x1b5d
-0x1cac	0x98	Hydol		mp_0000d 0x1bb9	
+0x1c50	0x98	Hydol		I've decided to stay here a little	mp_0000d 0x1b5d
+				longer to see to the injured.
+0x1cac	0x98	Hydol		Nayuta, if you need anything,	mp_0000d 0x1bb9
+				please feel free to come to me
+				immediately... At any time.
 talk_Cow
 talk_Cat
 talk_Chicken
@@ -148,8 +151,8 @@ EV_4_S29_find_dorado
 0x2cea	0x98	ALTO		...I'm going now.	
 				For Lyra and Creha, I...	
 0x2dfa	0x06	ALTO		ANI_WAIT	
-0x2e60	0x98	ALTO		...I gotta hurry!	
-0x2f2f	0xCE	Objective		Creha and Lyra are on the beach, and I've got to hurry!	
+0x2e60	0x98	ALTO		...I should hurry!	
+0x2f2f	0xCE	Objective		Creha and Lyra are on the beach. I should hurry!	
 SB_4_S31_appear_ALTO
 SB_4_S31_appear_Lyra
 0x2fab	0x06	Lyra		ANI_RUN2	
@@ -359,7 +362,7 @@ EV_5_S00_talk_islander
 				return to us safe and sound.	
 0x8647	0x06	Lyra		ANI_WAIT2	
 0x868c	0x98	Lyra		Because I'll be waiting for you.	
-				Come home Creha and Cygna...	
+				Come home with Creha and Cygna...	
 0x870b	0x06	ALTO		ANI_NOD	
 0x8730	0x98	ALTO	#6A	I understand, Lyra.	
 0x8766	0x06	ALTO		ANI_JOY	

@@ -18,8 +18,8 @@ QS58_stpMichy
 0x8b9	0x98	ALTO		Before we proceed, maybe we	
 				should take Mishy to Mensa.	
 0x912	0x98	NOI		Yeah... I think that's a good idea.	
-0x97b	0x98	ALTO		...I don't know what's	mp_5098 0x877
-				ahead of us.	
+0x97b	0x98	ALTO		...We don't know	mp_5098 0x877
+				what's up ahead.
 0x9bd	0x98	ALTO		Before we proceed, let's	
 				take Mishy to Mensa.	
 EV_5_S13_arrive_relay
@@ -57,10 +57,10 @@ EV_5_S09_meet_seram
 				you at the Tower Ruins.	
 0x27bb	0x98	Seram	#0W	For your own sake, learn to recognize	
 				the difference in our strength.	
-0x2830	0x98	ALTO	#2W#6A	..................	mp_0000d 0x70fd
+0x2830	0x98	ALTO	#2W#6A	.....	mp_0000d 0x70fd
 0x28b3	0x98	Seram	#1W	And Noi, what do you	
 				think you're doing?	
-0x291f	0x98	Seram	#1W	As a Warden, do you really
+0x291f	0x98	Seram	#1W	As a warden, do you really
 				intend to oppose the duties	
 				of the Mitos?	
 0x29cb	0x98	NOI	#2W#6A	W-Well...	mp_0101 0x610e
@@ -69,7 +69,7 @@ EV_5_S09_meet_seram
 0x2b61	0x06	Seram		ANI_WAIT2	
 0x2c29	0x98	Seram	#0W#16S	But... No more.	
 0x2c74	0x06	Seram		ANI_GRIP_SWORD_HANDLE	
-0x2d30	0x98	Seram	#0W	If you value your life,	
+0x2d30	0x98	Seram	#0W	If you value your lives,	
 				turning around immediately	
 				is in your own best interest.	
 0x2ec1	0x06	ALTO		ANI_LAUGH	
@@ -78,7 +78,7 @@ EV_5_S09_meet_seram
 0x3021	0x98	NOI	#2W	Nayuta?	mp_0001c 0x4001
 0x3060	0x98	ALTO	#0W	...What you just said was	
 				basically the same as what you	
-				said when we parted at the Temple.	
+				said when we parted at the temple.	
 0x30d1	0x06	ALTO		ANI_DENY	
 0x3105	0x98	ALTO	#1W	Just because you're stronger...	
 				You're always acting like my big bro...	
@@ -87,7 +87,7 @@ EV_5_S09_meet_seram
 0x3221	0x98	ALTO	#0W	It's a bad habit of yours#15W...#1WCygna.	
 0x3298	0x6B	NOI		Ellipsis	
 0x334b	0x98	NOI	#1W	Eh...?	
-0x337c	0x98	Seram	#2W#6A	..................	mp_0000d 0x70fd
+0x337c	0x98	Seram	#2W#6A	.....	mp_0000d 0x70fd
 0x33e4	0x06	Seram		ANI_WAIT	
 0x35ca	0x06	Seram		ANI_LAUGH	
 0x362b	0x98	Seram	#2W#6A	...Heheh, so you knew	
@@ -97,7 +97,7 @@ EV_5_S09_meet_seram
 0x3791	0x06	Signa		ANI_TAKE_HELMET2-2	
 0x390d	0x98	NOI	#2W#16S#500x#500y	!!!!	mp_0101b 0x3636
 0x3949	0x98	ALTO	#0x#500y#0W	...I didn't want to believe it.	
-0x399b	0x98	NOI	#500x#500y#1W	Selam is...Cygna!?	
+0x399b	0x98	NOI	#500x#500y#1W	Selam is... Cygna!?	
 0x39f5	0x98	NOI	#500x#500y#2W	H-How...? Why...!?	
 0x3a9d	0x98	Signa		It's easy to understand	
 				why Noi didn't notice.	
@@ -118,20 +118,20 @@ EV_5_S09_meet_seram
 				if you can protect those	
 				most important to you."	
 0x3f3c	0x06	Signa		ANI_LAUGH	
-0x3faa	0x98	Signa		Haha, and that's it?	
+0x3faa	0x98	Signa		Haha, and that was it?	
 0x402e	0x06	ALTO		ANI_DENY	
 0x4054	0x98	ALTO	#6A	...It was more than enough.	
 0x4094	0x06	ALTO		ANI_GESTURE2	
 0x40be	0x98	ALTO	#6A	Ever since you came to the island...	
-				Hardly a day would go by where	
-				we wouldn't see each other.	
+				Hardly a day would go by where we	
+				wouldn't see each other.	
 0x4141	0x06	Signa		ANI_NOD	
 0x41fb	0x98	Signa		...I see.	mp_0004c 0x4434
 0x422d	0x06	ALTO		ANI_COMPLAIN	
 0x4257	0x98	ALTO	#6A	...Tell me. How long	
 				have you been Selam?	
 0x429f	0x98	ALTO	#6A	When we explored the Tower Ruins for	
-				the first time...Cygna and Selam	
+				the first time... Cygna and Selam	
 				were clearly two different people.	
 0x4328	0x06	Signa		ANI_DENY	
 0x4395	0x98	Signa		Your premise is wrong.	
@@ -147,7 +147,7 @@ EV_5_S11_last_advise
 				Brace yourselves.	
 0x4c57	0x06	Signa		ANI_WAIT2	
 0x4ce7	0x98	Signa	#2W#16S	Brace yourselves to put your lives	
-				on the line #16Sto fight Creha and me.	
+				#16Son the line to fight Creha and me.	
 0x4d58	0x06	ALTO		ANI_WAIT2	
 0x4d7f	0x6B	ALTO		Exclamation	
 0x4db1	0x6B	NOI		Exclamation	
@@ -165,9 +165,9 @@ EV_5_S11_last_advise
 0x576a	0x98	NOI	#6A	Eh...!?	
 0x5798	0x06	ALTO		ANI_GESTURE2	
 0x57e0	0x98	ALTO		It doesn't matter	
-				that Selam was Cygna.	
-0x583a	0x98	ALTO		...If Cygna and Creha	
-				have become our enemies─	
+				that Selam is Cygna.	
+0x583a	0x98	ALTO		...If Cygna and Creha have	
+				become our enemies─	
 0x5893	0x06	ALTO		ANI_DENY	
 0x58d7	0x98	ALTO		No, BECAUSE they have	
 				become our enemies, there's	
@@ -195,7 +195,7 @@ EV_5_S11_last_advise
 				best together with	
 				you until the end.	
 0x6023	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x6051	0x98	ALTO	#6A	Haha, thanks.	mp_0004 0x9484
+0x6051	0x98	ALTO	#6A	Haha, thanks.	
 0x6089	0x06	ALTO		ANI_GESTURE2	
 0x60b3	0x98	ALTO	#6A	If we're decided...	
 				Let's hurry up and	
@@ -205,4 +205,4 @@ EV_5_S11_last_advise
 0x618b	0x06	NOI		ANI_NOD	
 0x623b	0x98	NOI		Yeah!	mp_0001 0x1174e
 0x63ab	0x06	ALTO		ANI_WAIT	
-0x64a7	0xCE	Objective		Everyone's waiting. Nayuta...we're together to the end!	
+0x64a7	0xCE	Objective		Everyone's waiting. Nayuta... We're together to the end!	

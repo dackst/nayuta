@@ -53,7 +53,7 @@ SUB_meet_adventurer
 				on here.
 0x2091	0x3F	Name		Youth with Rucksack	mp_0003 0xa0db
 0x20ac	0x06	Cetus		ANI_WAIT2	
-0x20d4	0x98	Cetus		Hmm, so this is "Terra"...	
+0x20d4	0x98	Cetus		Hmm, so it's called "Terra"...	
 				It's certainly a strange world	
 				to have folks like this.	
 0x2183	0x06	Cetus		ANI_WAIT3	
@@ -70,7 +70,7 @@ SUB_meet_adventurer
 0x237b	0x98	ALTO		Umm, I'm Nayuta...	
 				She's called Noi.	
 0x23bd	0x06	ALTO		ANI_GESTURE1	
-0x23fe	0x98	NOI		N-Nayuta, what is	
+0x23fe	0x98	NOI		N-Nayuta, what's	
 				an "adventurer?"	
 0x245b	0x98	ALTO		Someone who travels to all	
 				sorts of places, pursing	
@@ -82,7 +82,7 @@ SUB_meet_adventurer
 				the mysteries and wonders	
 				of the world.	
 0x25bf	0x98	Cetus		So, I decided to come to Remnant Island,	
-				famous for being a mysterious island...	
+				famous for being mysterious...	
 0x2624	0x06	Cetus		ANI_GESTURE1	
 0x264f	0x98	Cetus		We happened to witness you	
 				going in and out of that	
@@ -115,16 +115,16 @@ SUB_meet_adventurer
 0x2b8c	0x98	ALTO		(They saw us...)	
 0x2bc5	0x98	NOI		(That's pretty unfortunate...)	
 0x2c34	0x06	NOI		ANI_GESTURE1	
-0x2c5d	0x98	NOI		(Hey Nayuta... Can you convince	
+0x2c5d	0x98	NOI		(Hey, Nayuta... Can you convince	
 				 these two to go home already?)	
 0x2cce	0x06	ALTO		ANI_NOD	
 0x2cf3	0x98	ALTO		(A-Agreed. I can try	
 				 talking to them...)	
 0x2dab	0x98	Cetus		...Oh, right. There was this one	
-				thing I wanted to ask you...	
+				one thing I want to ask you...	
 0x2e09	0x6B	Cetus		Question	
 0x2e53	0x06	Cetus		ANI_WAIT3	
-0x2e7b	0x98	Cetus		Hm? What are you guys doing here?	
+0x2e7b	0x98	Cetus		What are YOU doing here?	
 0x2ed0	0x98	Cetus		Are you adventuring alone at your age	
 				with that fairy-looking companion?	
 0x2f3c	0x06	ALTO		ANI_THINK2	
@@ -132,10 +132,10 @@ SUB_meet_adventurer
 				(Should I ask them,	
 				 just in case?)	
 0x2fbb	0x06	ALTO		ANI_GESTURE2	
-0x2fe5	0x98	ALTO		Actually, I'm looking for my	
-				friend who's gone missing.	
-0x3034	0x98	ALTO		He's three years older than me, and he's	
-				a tan-skinned young man named Cygna...	
+0x2fe5	0x98	ALTO		Actually, I'm looking for a friend	
+				of mine who's gone missing.	
+0x3034	0x98	ALTO		He's a tan-skinned young man three	
+				years older than me named Cygna...	
 				Have you seen anyone like that?	
 0x30c1	0x06	Reticul		ANI_WAIT3	
 0x30eb	0x98	Reticul		Hmm, sorry, but	

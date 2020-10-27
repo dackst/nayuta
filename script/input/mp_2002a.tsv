@@ -23,11 +23,11 @@ swt03_timer
 0x1541	0x06	swt03		ANI_LEVER_OFF	
 talk_Cetus
 0x159f	0x98	Cetus		Not much time has passed since	
-				I was separated from Reticul.	
-				She's close...I think.	
+				I got separated from Reticul.	
+				She's close... I think.	
 0x1611	0x98	Cetus		I'll search around here.	
-				You two: Search where	
-				you think she is!	
+				You two: look for where	
+				she could be!	
 SB_QS_35_alto_move
 SB_QS_35_noi_move
 0x189a	0x06	NOI		ANI_LOOK_AROUND	
@@ -52,7 +52,7 @@ QS_35_meet_cetus
 0x215d	0x98	NOI	#6A	But... what are you doing out here?	
 0x21ac	0x6B	Cetus		Exclamation	
 0x21df	0x06	Cetus		ANI_COMPLAIN	
-0x220a	0x98	Cetus		W-Well, you see...	mp_0003 0xa418
+0x220a	0x98	Cetus		Um, ah, w-well...	mp_0003 0xa418
 0x223d	0x98	Cetus		The truth is, I lost Reticul...!	
 0x2288	0x06	ALTO		ANI_SURPRISE	
 0x22b2	0x06	NOI		ANI_SURPRISE	
@@ -63,12 +63,12 @@ QS_35_meet_cetus
 0x2375	0x98	NOI	#6A	This is a dangerous place	
 				for an ordinary human...	
 0x23ca	0x06	ALTO		ANI_GESTURE2	
-0x23f4	0x98	ALTO	#6A	Cetus, what the hell happened!?	
+0x23f4	0x98	ALTO	#6A	Cetus, what happened!?	
 0x2437	0x06	Cetus		ANI_DENY	
 0x245e	0x98	Cetus		S-Sorry...	
 				I don't know myself...	
 0x249e	0x98	Cetus		I've been exploring this world with Reticul...	
-				...But she's an absolute tomboy.	
+				...But she's an absolute reckless tomboy.	
 0x2510	0x06	Cetus		ANI_GESTURE2	
 0x253b	0x98	Cetus		She said something about "finding treasure"
 				and went off on her own, poking around in	
@@ -117,15 +117,15 @@ QS_35_meet_cetus
 0x2c98	0x98	NOI	#6A	Let's look around!	
 QS35_Ev_Reticul
 0x3015	0x06	Reticul		ANI_WAIT4	
-0x30ef	0x98	ALTO		Ah!	mp_1002b 0x4627
+0x30ef	0x98	ALTO		Ah...!	mp_1002b 0x4627
 0x3152	0x06	Reticul		ANI_WORRIED	
 0x317e	0x98	Reticul		Oh, jeez.	
 				What is up with	
 				this place!?	
 0x31ce	0x06	Reticul		ANI_ANGRYTALK	
-0x31fc	0x98	Reticul		I'm pretty sure this place should	
-				be filled with treasure, but I	
-				can't find anything at all!	
+0x31fc	0x98	Reticul		I'm pretty sure there should be	
+				all kinds of treasure here, but	
+				I can't find anything at all!	
 0x3267	0x06	Reticul		ANI_WAIT4	
 0x3291	0x98	Reticul		And now I got separated	
 				from Cetus, too...	
@@ -139,9 +139,9 @@ QS35_Ev_Reticul
 0x3498	0x98	ALTO		Hmm, it doesn't seem like she's	
 				learned her lesson at all...	
 0x34df	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x350d	0x98	ALTO		Anyway, let's go get Cetus.	
-				We should let him know we	
-				found her.	
+0x350d	0x98	ALTO		Anyway, let's get Cetus.	
+				We should let him know	
+				we found her.	
 0x3568	0x06	NOI		ANI_NOD	
 0x358c	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
 0x37a1	0x06	Cetus		ANI_GESTURE2	
@@ -202,7 +202,7 @@ QS35_Ev_Reticul
 				It's been about half a year	
 				since I last heard her name.	
 0x41cd	0x06	Reticul		ANI_GESTURE1	
-0x41fa	0x98	Reticul		B-But, how did she...?	
+0x41fa	0x98	Reticul		B-But how did she...?	
 0x4233	0x06	ALTO		ANI_GESTURE2	
 0x425d	0x98	ALTO	#6A	She's been on Remnant	
 				Island with Antlia.	
@@ -219,8 +219,8 @@ QS35_Ev_Reticul
 0x4446	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x4474	0x98	ALTO	#6A	(It seems there's a lot	
 				 going on here...)	
-0x44ca	0x98	ALTO	#6A	So anyway... will you	
-				take this letter?	
+0x44ca	0x98	ALTO	#6A	So anyway... Will you	
+				accept this letter?	
 0x4521	0x98	Reticul		...H-Hmph, fine. If it's	
 				from Ursamina, not Papa,	
 				then I guess...	
@@ -244,7 +244,7 @@ QS35_Ev_Reticul
 				away from home...	
 0x498a	0x98	Reticul		...She hasn't changed at all. Pfft.	
 0x49d6	0x06	Cetus		ANI_GESTURE2	
-0x4a01	0x98	Cetus		Haha, it looks like you got	
+0x4a01	0x98	Cetus		Haha, looks like you got	
 				a little homesick, huh?	
 0x4a4f	0x98	Cetus		Now's a good chance. Why don't we	
 				go back and see her? We can keep	
@@ -273,7 +273,7 @@ QS35_Ev_Reticul
 0x4e99	0x98	Reticul		There's definitely treasure	
 				here somewhere...	
 0x4ee3	0x06	Reticul		ANI_GUTSPOSE	
-0x4f10	0x98	Reticul		I will never give up!	
+0x4f10	0x98	Reticul		I'll never give it up!	
 0x4fc8	0x6B	ALTO		Sweatdrop	
 0x4ffa	0x6B	NOI		Sweatdrop	
 0x502b	0x6B	Cetus		Sweatdrop	
@@ -282,7 +282,7 @@ QS35_Ev_Reticul
 				to be easy for you, Cetus.	
 0x50ec	0x06	Cetus		ANI_DEJECTED	
 0x5117	0x98	Cetus		Glad to see someone else understands, man.	
-				...Jeez, what a stubborn tomboy...	
+				...Jeez, what a stubborn...	
 0x518d	0x06	Cetus		ANI_GESTURE2	
 0x51b8	0x98	Cetus		Anyway, thanks to both of you	
 				for your help this time.	
@@ -299,13 +299,13 @@ QS35_Ev_Reticul
 				worried about humans like	
 				that running around Terra...	
 0x5540	0x06	ALTO		ANI_LAUGH	
-0x5567	0x98	ALTO		Ahaha... That much is true.	
+0x5567	0x98	ALTO		Haha... That much is true.	
 0x55c0	0x06	ALTO		ANI_GESTURE2	
 0x55ea	0x98	ALTO		But from the looks of it, I'm	
 				sure Reticul will want to go	
 				home to her family eventually.	
 0x5666	0x98	ALTO		Cetus is with her. I think they'll	
-				leave once they're satified.	
+				leave once they're satisfied.	
 0x56c0	0x06	NOI		ANI_NOD	
 0x56e4	0x98	NOI	#6A	Yeah, I hope so.	
 0x5721	0x98	NOI	#6A	...Things like this...	

@@ -15,9 +15,9 @@ talk_Noi
 0x214	0x98	NOI		Zext's actions so far shouldn't	
 				have had any direct impact on	
 				this world...	
-0x277	0x98	NOI		...We should still get	
-				to La Worg Temple as	
-				soon as possible!	
+0x277	0x98	NOI		...We should still get to	
+				the La Worg temple as soon	
+				as possible!	
 0x2f8	0x98	NOI		Nayuta, you should go	
 				check on Lady Creha.	
 0x346	0x98	NOI		It looks like she's in	
@@ -27,8 +27,8 @@ talk_Noi
 0x3db	0x98	ALTO		Hold on. I'll find her soon.	
 0x441	0x98	NOI		I wish I could go look for	
 				Lady Creha myself, but...	
-0x495	0x98	NOI		Jeez, it sure is inconvenient not	
-				to be able to walk in the village.	
+0x495	0x98	NOI		Jeez, it sure is inconvenient to not	
+				be able to walk around in the village.	
 0x513	0x98	NOI		Looks like Lady Creha	
 				is in the village...	
 0x564	0x98	NOI		I-I wonder if she's okay...	
@@ -37,12 +37,12 @@ talk_Noi
 0x5d9	0x98	NOI		...Please, Nayuta.	
 				If you find Lady Creha,	
 				you have to help her.	
-0x668	0x98	NOI		Lady Creha, it seems...	
-				I sense she's alive.	
-0x6b3	0x98	NOI		I hope she'll regain some	
-				of her memories by staying	
-				here...	
-0x70d	0x98	ALTO		mp_0115 0x172f0
+0x668	0x98	NOI		Something about Lady Creha...	
+				She feels more alive than ever.	
+0x6b3	0x98	NOI		Hopefully spending time	
+				here will help bring back	
+				some of her memories...	
+0x70d	0x98	ALTO		I agree...	mp_0115 0x172f0
 0x73c	0x98	NOI		...Anyway, I feel like I can	
 				trust your sister and leave	
 				everything up to her.	
@@ -52,17 +52,17 @@ talk_Noi
 				this time for sure!	
 0x874	0x98	NOI		...I feel like I can trust your sister	
 				and leave everything up to her.	
-0x8cd	0x98	NOI		I hope she'll regain	
-				some of her memories	
-				by staying here...	
-0x944	0x98	NOI		Sorry Nayuta, but...	mp_0101 0x18efe
-				I want to wait a little longer	
-				before the next exploration.	
+0x8cd	0x98	NOI		Hopefully spending time	
+				here will help bring back	
+				some memories...		
+0x944	0x98	NOI		Nayuta, I'm sorry, but...	mp_0101 0x18efe
+				I want to wait a little while
+				before our next exploration.
 0x9ad	0x98	NOI		I'm worried about Cygna too, but	mp_0101 0x18f95
-				right now, I'm more worried about	
-				Lady Creha...	
-0xa1c	0x98	NOI		Please take care of Lady Creha	
-				until she gets better!	
+				right now, I'm more worried about
+				Lady Creha...
+0xa1c	0x98	NOI		Please help me take care of Lady	
+				Creha until she gets better!	
 0xaac	0x98	NOI		Lady Creha! Lady Creha!	
 0xb18	0x6B	NOI		Unknown	
 0xb49	0x98	NOI		I-It doesn't look like	
@@ -73,7 +73,7 @@ talk_Noi
 				we found that resin.	
 0xc74	0x98	NOI		This will help both you	
 				and your sister...	
-0xcbc	0x98	NOI		mp_3099 0x11ad8
+0xcbc	0x98	NOI		...It, it's n-nothing.	mp_3099 0x11ad8
 0xd12	0x98	NOI		(Our business is finished.	
 				 I should resume the search	
 				 for Cygna and Zext.)	
@@ -106,7 +106,8 @@ talk_Noi
 				She must be a master craftsman among humans!	
 0x127a	0x98	ALTO		Hahahaha...	
 				I wouldn't go THAT far.	
-0x12f4	0x98	NOI		noi 0x11b6	
+0x12f4	0x98	NOI		Nayuta's sister has	noi 0x11b6
+				excellent skill.
 0x133a	0x98	NOI		...Like Nayuta...	
 				It seems that there's all	
 				kinds of people among humans.	
@@ -116,8 +117,8 @@ quest_Noi
 0x14b9	0x98	NOI		I-I dunno, but...	
 				Anything could happen	
 				in Terra right now.	
-0x152f	0x98	NOI		If you want to search for that	
-				animal, let's hurry, Nayuta!	
+0x152f	0x98	NOI		If you wanna search for that animal,	
+				we should hurry, Nayuta!	
 0x162e	0x98	NOI		Hey, Nayuta! Let's get your	
 				sister the Elumi Resin!	
 0x168e	0x98	NOI		(Elumi Resin... We should be able to	

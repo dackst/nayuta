@@ -22,9 +22,9 @@ QS_44_get_power
 0x1352	0x98	ALTO		Anyway, let's deliver it to	
 				Algol as soon as possible.	
 0x1529	0x40	UNDEF		A mysterious sphere is floating here.	
-0x1591	0x98	ALTO		What is this thing...?	mp_1002a 0x1fbb	
-0x15cf	0x98	ALTO		Well, it doesn't seem to have	mp_1002a 0x1ff4	
-				any bearing on our progress.	
+0x1591	0x98	ALTO		What is this thing...?	mp_1002a 0x1fbb
+0x15cf	0x98	ALTO		Well, it doesn't seem to have	mp_1002a 0x1ff4
+				any bearing on our progress.
 SB_4_S04_appear_ALTO
 0x1706	0x6B	ALTO		Unknown	
 0x1730	0x06	ALTO		ANI_LOOK_AROUND	
@@ -96,7 +96,7 @@ EV_4_S06_look_cage_4th
 0x32a7	0x41	None	#0W#2E#710c	And with you is...	
 				...A human?#0E	
 0x3350	0x98	NOI	#6A	Nemeas...	
-				The Warden of	
+				The warden of	
 				this continent!	
 0x33b9	0x06	NOI		ANI_GESTURE1	
 0x33e2	0x98	NOI	#6A	Were you captured	
@@ -106,7 +106,7 @@ EV_4_S06_look_cage_4th
 				Please, could you inform me of the situation?#0E	
 0x355a	0x06	ALTO		ANI_NOD	
 0x357f	0x98	ALTO	#6A	Okay, uh...	
-0x35bc	0x40	UNDEF		Nayuta summarized the events up until now.	mp_3002d 0x508b
+0x35bc	0x40	UNDEF		Nayuta briefly explained what had happened so far.	mp_3002d 0x508b
 0x360f	0x41	None	#0W#2E#710c	...I see...#0E	
 0x3690	0x41	None	#0W#2E#710c	The lost head of the Mitos has revived...	
 				And Lord Selam is now an enemy...#0E	
@@ -114,14 +114,14 @@ EV_4_S06_look_cage_4th
 0x37bb	0x06	NOI		ANI_GESTURE2	
 0x37e4	0x98	NOI	#6A	Nemeas... Do you know anything	
 				that could help with all this?	
-0x382f	0x41	None	#0W#2E#710c	...Why they are shutting down the Temples...#0E	
+0x382f	0x41	None	#0W#2E#710c	...Why they are shutting down the temples...#0E	
 0x38c2	0x41	None	#0W#2E#710c	That is all I feel I can figure out.#0E	
 0x394a	0x06	ALTO		ANI_COMPLAIN	
 0x3974	0x98	ALTO	#6A	R-Really!?	mp_0110 0x10ffa
 0x39a1	0x41	None	#0W#2E#710c	I noticed it while	
 				administering this continent...#0E	
 0x3a38	0x41	None	#0W#2E#710c	There appears to exist some sort of	
-				important seal applied on this world.#0E	
+				important seal applied to this world.#0E	
 0x3af7	0xBC	ALTO		Surprise	
 0x3b35	0xBC	NOI		Surprise	
 0x3b8f	0x98	NOI	#0W	...A seal...?	
@@ -132,19 +132,19 @@ EV_4_S06_look_cage_4th
 				the four continents are operating normally,	
 				the seal is kept intact...#0E	
 0x3d77	0x41	None	#0W#2E#710c	That is most surely how the	
-				mechanism behind the seal works.#0E	
+				mechanism behind the it works.#0E	
 0x3e15	0x06	ALTO		ANI_GESTURE1	
 0x3e3f	0x98	ALTO	#6A	Then all this time, Zext was	
-				shutting down the Temples to	
+				shutting down the temples to	
 				undo this seal...!?	
-0x3eb4	0x41	None	#0W#2E#710c	It is an enormously	
-				huge seal. It is easy to imagine that	
-				it hides something equally dreadful.#0E	
+0x3eb4	0x41	None	#0W#2E#710c	It is an enormously huge seal.	
+				It is easy to imagine that it	
+				hides something equally dreadful.#0E	
 0x3f73	0x41	None	#0W#2E#710c	Whatever is being sealed away could be a threat	
 				to the very existence of this world itself.#0E	
 0x4021	0x98	NOI	#0W	...If Zext gets his	
 				hands on it, then...	
-0x406a	0x98	NOI	#0W	.....................	mp_0003 0xc610
+0x406a	0x98	NOI	#0W	.........	mp_0003 0xc610
 0x40e1	0x98	ALTO		...Either way, what we	
 				should do stays the same.	
 0x4147	0x06	ALTO		ANI_JOY	
@@ -154,10 +154,10 @@ EV_4_S06_look_cage_4th
 				Nayuta, was it?#0E	
 0x42ae	0x41	None	#0W#2E#710c	The fate of Terra rests	
 				in the hands of you and Noi.#0E	
-0x433f	0x41	None	#0W#2E#710c	Head for the Temple as soon	
+0x433f	0x41	None	#0W#2E#710c	Head for the temple as soon	
 				as you can and stop Zext.#0E	
 0x43db	0x41	None	#0W#2E#710c	 I'm counting on you guys...#0E	
 0x453a	0x06	ALTO		ANI_THANKS	
-0x4562	0x98	ALTO	#6A	Leave it to me!	mp_2001b 0x3941
+0x4562	0x98	ALTO	#6A	Leave it to us!	mp_2001b 0x3941
 0x45d3	0x98	NOI	#6A	...Let's go, Nayuta!	
 0x4641	0x06	ALTO		ANI_NOD	

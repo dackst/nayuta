@@ -30,7 +30,7 @@
 0x10e2	name	Hermit's Path
 0x1218	mission	Destroy at least \n25 objects
 0x124a	name	Shaded Animal Trail
-0x1380	mission	Achieve at least \nCHAIN 30
+0x1380	mission	Build a CHAIN \n of at least 30
 0x13b2	name	Lakeside Tree Path
 0x14e8	mission	Take damage \nat most 10 times
 0x151a	name	Hermit's Path
@@ -44,7 +44,7 @@
 0x1aba	name	Shaded Animal Trail
 0x1bf0	mission	Defeat 25 foes \nwith magic
 0x1c22	name	Lakeside Tree Path
-0x1d58	mission	Jump \nat most 10 times
+0x1d58	mission	Jump at most \n10 times
 0x1d8a	name	Hermit's Path
 0x1ec0	mission	Get at least 30 \nshining stones
 0x1ef2	name	Oltapia Temple
@@ -104,7 +104,7 @@
 0x421a	name	Heavenly Mountain
 0x4350	mission	Clear \nwithin 2:30
 0x4382	name	Wind Cutting Valley
-0x44b8	mission	Fall at most\n3 times
+0x44b8	mission	Fall at most \n3 times
 0x44ea	name	Dragon Graveyard
 0x4620	mission	Destroy at least \n45 objects
 0x4652	name	Heavenly Mountain

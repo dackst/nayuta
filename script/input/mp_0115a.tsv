@@ -90,12 +90,13 @@ lp_dragonfly
 0x334c	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x3388	0x36	Choice		Banded Darter	
 0x33ad	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x33e9	0x36	Choice		Butterfly Dragonfly	
+0x33e9	0x36	Choice		Flutterer	
 0x3414	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x3430	0x36	Choice		Quit	mp_0002 0x433f
 0x34b6	0x41	None		[Jumbo Dragonfly] Anotogaster sieboldii	
 				Large dragonfly with striped black and yellow body pattern.	
-				Though it is wild, showing it a twirling finger will lure it.	
+				Though it is wild, twirling a finger will	
+				lure it to one's hand.	
 0x360a	0x41	None		[Damselfly] Zygoptera	
 				Small dragonfly that lives near water.	
 				When it stops on a leaf, it gently folds its	
@@ -104,10 +105,10 @@ lp_dragonfly
 				Dragonfly with crimson body and wings.	
 				When mating, the male and female pair up and	
 				take flight. Popularly called the red dragonfly.	
-0x38bd	0x41	None		[Butterfly Dragonfly] Rhyothemis fuliginosa	
+0x38bd	0x41	None		[Flutterer] Rhyothemis fuliginosa	
 				Small dragonfly with shining black and blue wings.	
-				Though they can only live near water, they	
-				flutter like butterflies when they fly.	
+				Can only live near water, and flutters 	
+				like butterflies during flight.	
 lp_stagbeetle
 0x3bc6	0x36	Choice		Longhorn Beetle	
 0x3bed	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -127,7 +128,7 @@ lp_stagbeetle
 				It has a belligerent nature. When it receives	
 				a shock, it pretends to be dead and falls.	
 0x40b2	0x41	None		[Longhorn Beetle] Cerambycidae	
-				Species of beetle with a long antenna.
+				Species of beetle with long antennae.
 				Boring into wood with powerful mandibles,
 				they occasionally collapse buildings.
 0x41be	0x41	None		[Goliath Beetle] Goliathus	
@@ -146,8 +147,8 @@ lp_beetle
 0x45ae	0x36	Choice		Quit	mp_0002 0x433f
 0x4634	0x41	None		[Hercules Beetle] Dynastes hercules	
 				Large rhinoceros beetle crowned with the name of a legendary	
-				hero. Has one large horn. As the name says, it is king of the	
-				forest, boasting the largest size class among all insects.	
+				hero. Has one large horn. As the name implies, it is king of	
+				the forest, boasting the largest size among all insects.	
 0x47c6	0x41	None		[Caucasus Beetle] Chalcosoma chiron	
 				Large rhinoceros beetle with a characteristic	
 				three-pronged horn. Though it lives in the high	
@@ -182,11 +183,11 @@ lp_fly
 				can't easily approach due to their sharp stingers.	
 0x5270	0x41	None		[Fly] Muscomorpha	
 				Insect that flies about with quick movements.	
-				In addition to eating fruits and feces, their larva,	
-				called maggots, appear on animal corpses.	
+				In addition to eating fruits and feces, their larvae,	
+				known as maggots, appear on animal corpses.	
 0x53eb	0x41	None		[Mosquito] Culicidae	
 				The sound made by the wings of this flying insect is grating	
-				to the ears. The females stick humans and animals, sucking	
+				to the ears. The females feed on humans and animals, sucking	
 				their blood, and sometimes spread infectious disease.	
 lp_sandbug
 0x5697	0x36	Choice		Ant Lion Larva	
@@ -259,7 +260,9 @@ talk_Coron
 0x6a47	0x98	Coron		She doesn't have to look so uncool all	
 				the time. I have to take it upon myself	
 				to dress her up every now and then! ㈱	
-0x6adb	0x98	Coron		mp_0115a 0x69d6		
+0x6adb	0x98	Coron		She's just as nice and beautiful as 	mp_0115a 0x69d6
+				me, after all, so I didn't want that
+				to go to waste.
 0x6b4c	0x98	Coron		But... I'm afraid she's at her limit.	
 				If I tease her too much, she'll cry.	
 0x6bda	0x3F	Name		Researcher Caelum	mp_0115 0xb4da

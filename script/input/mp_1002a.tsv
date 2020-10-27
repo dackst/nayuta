@@ -88,7 +88,7 @@ EV_1_S05_jungle3_start
 0x2c6a	0x98	NOI	#6A	For now, let's	
 				keep going!	
 0x2cb8	0x06	Signa		ANI_NOD	
-0x2cde	0x98	Signa		Alright!	mp_0004 0x99aa
+0x2cde	0x98	Signa		All right! ♪	mp_0004 0x99aa
 0x2d0f	0x06	ALTO		ANI_JOY	
 0x2d34	0x98	ALTO		Let's be careful!	
 SB_1_S06_move_ALTO
@@ -101,23 +101,23 @@ EV_1_S06_look_cage_1st
 				path opens up here.	
 0x3334	0x98	Signa		It finally feels like we're at the center...	
 				Noi, what's past here?	
-0x3419	0x98	NOI		Past here's...the Temple of Oltapia.	
+0x3419	0x98	NOI		Past here's... the temple of Oltapia.	
 0x3467	0x06	ALTO		ANI_THINK2	
-0x348f	0x98	ALTO	#6A	The Temple...？	
+0x348f	0x98	ALTO	#6A	The temple...?	
 0x34dc	0x98	NOI		Umm, it's hard to explain, but...	
 0x353f	0x98	NOI		In other words, it's a facility that	
 				controls the entire continent.	
 0x359b	0x06	NOI		ANI_GESTURE1	
-0x35c4	0x98	NOI		If the Warden is there,	
+0x35c4	0x98	NOI		If the warden is there,	
 				we could probably find	
 				out where Zext is...	
 0x362c	0x06	Signa		ANI_THINK	
 0x3654	0x98	Signa		You said you were the	
-				Warden of the Garden...	
+				warden of the Garden...	
 0x36a3	0x06	Signa		ANI_GESTURE2	
 0x36ce	0x98	Signa		And this continent has one too.	
 0x3711	0x06	ALTO		ANI_COMPLAIN	
-0x373b	0x98	ALTO	#6A	...Wait, Warden of an entire continent?	
+0x373b	0x98	ALTO	#6A	...Wait, warden of an entire continent?	
 				You could have said something before...	
 0x37aa	0x98	ALTO	#6A	That scale is too	
 				huge to even imagine.	
@@ -128,7 +128,7 @@ EV_1_S06_look_cage_1st
 0x393b	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x396a	0x98	ALTO	#6A	Wh-What was that just now!?	
 0x39af	0x06	Signa		ANI_WAIT3	
-0x39d7	0x98	Signa		Someone's...voice?	
+0x39d7	0x98	Signa		Someone's... voice?	
 0x3a0a	0x98	Signa		It's not one of Zext's	
 				companions, is it?	
 0x3a64	0x06	NOI		ANI_DENY	
@@ -140,50 +140,50 @@ EV_1_S06_look_cage_1st
 0x3b81	0x98	NOI		A-As I thought...it's Geo!	
 0x3bc4	0x06	NOI		ANI_LOOK_AROUND	
 0x3bf0	0x98	NOI		Where are you, Geo!?	
-0x3c2b	0x41	None	#0W#2E#310c	Oh...this must be the guidance of the stars.	
+0x3c2b	0x41	None	#0W#2E#310c	Oh... This must be the guidance of the stars.	
 				What a godsend!#0E	
 0x3ccb	0x41	None	#0W#2E#310c	This way, this way!#0E	
-0x3f2e	0x98	Signa	#500x#500y	Is it...in there!?	
+0x3f2e	0x98	Signa	#500x#500y	Is it... in there!?	
 0x3f79	0x98	ALTO	#250x#500y	I know I've taken interest in lots of things	
 				since we started fighting monsters, but...	
 				Noi, what is that?	
-0x3ffa	0x98	NOI	#0x#500y	I-I don't know!	
-				That something like that	
-				is here is totally strange...!	
+0x3ffa	0x98	NOI	#0x#500y	I-I don't know! That something	
+				like that is just sitting out	
+				here is totally strange...!	
 0x4064	0x98	NOI	#100x#500y	...Geo, are you there!?	
 0x40c8	0x41	None	#0W#2E#310c	...That is correct, I am here!#0E	
-0x4144	0x41	None	#0W#2E#310c	Yes, it has been many years indeed...	
+0x4144	0x41	None	#0W#2E#310c	Yes, it has been many years, indeed...	
 				I am glad to see you, Noi!#0E	
 0x43e5	0x98	ALTO		Umm... Do you know him, Noi?	
 0x4458	0x06	NOI		ANI_NOD	
 0x447c	0x98	NOI	#6A	Y-Yeah.	mp_0005c 0x6aba
 0x44a5	0x06	NOI		ANI_GESTURE1	
 0x44ce	0x98	NOI	#N#6A	Lychnis Geo... As I	
-				said, he's the Warden	
+				said, he's the warden	
 				of this continent.	
 0x4539	0x41	None	#0W#2E#310c	...Hmm...? There are two strange	
 				foreign presences beside you, Noi...#0E	
-0x45d9	0x41	None	#0W#2E#310c	Could it be...humans!?#0E	
+0x45d9	0x41	None	#0W#2E#310c	Could it be... humans!?#0E	
 0x46d8	0x06	NOI		ANI_GESTURE2	
 0x4701	0x98	NOI	#6A	Geo, Nayuta and Cygna	
 				came out here with me	
 				for some reason...	
-0x4767	0x40	UNDEF		Noi summarized what happened up until now.	
-0x47b7	0x41	None	#0W#2E#310c	Hmm...Is that so?#0E	
+0x4767	0x40	UNDEF		Noi summarized what has happened up until now.	
+0x47b7	0x41	None	#0W#2E#310c	Hmm... Is that so?#0E	
 0x4828	0x41	None	#0W#2E#310c	To think that humans would	
 				ever set foot on Terra...#0E	
 0x48b0	0x41	None	#0W#2E#310c	And what's more, that 	
 				they would be acting together with	
 				you, Noi, who hates humans...#0E	
 0x4972	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x49a0	0x98	ALTO	#6A	Ahaha, well, we kind of	
-				forced her to let us help...	
+0x49a0	0x98	ALTO	#6A	Ahaha, well, we kind of forced	
+				her to let us help...	
 0x4a03	0x06	Signa		ANI_GESTURE2	
 0x4a2e	0x98	Signa	#6A	You don't seem to be very	
 				afraid of us, are you?	
 0x4a87	0x41	None	#0W#2E#310c	...Well, not really.	
-				I have heard about humans	
-				in stories, you see...#0E	
+				I have heard stories about	
+				you humans, you see...#0E	
 0x4b2d	0x41	None	#0W#2E#310c	For those who have acted	
 				along with Noi from the beginning,	
 				such wariness is not necessary.#0E	
@@ -194,12 +194,12 @@ EV_1_S06_look_cage_1st
 				Why are you here, Geo!?	
 0x4d03	0x06	ALTO		ANI_NOD	
 0x4d28	0x98	ALTO	#6A	Oh, yeah, that's right. You	
-				told us earlier that the Warden	
-				should be in the Temple...	
+				told us earlier that the warden	
+				should be in the temple...	
 0x4d9c	0x41	None	#0W#2E#310c	Yes... About that...#0E	
 0x4e0f	0x41	None	#0W#2E#310c	In truth, a man calling	
 				himself "Zext" showed up at the	
-				Temple just now.#0E	
+				temple just now.#0E	
 0x4ebe	0xBC	ALTO		Exclamation	
 0x4efc	0xBC	NOI		Exclamation	
 0x4f39	0xBC	Signa		Exclamation	
@@ -235,14 +235,14 @@ EV_1_S06_look_cage_1st
 				troubling you...	
 0x5605	0x98	NOI	#6A	N-No, it's nothing...	
 0x5661	0x98	NOI	#6A	(Z-Zext went to the	
-				 Temple. That means...)	
+				 temple. That means...)	
 0x56b3	0x98	NOI	#6A	(Then, it's just as I thought...)	
 0x56f9	0x41	None	#0W#2E#310c	...Be that as it may, if the	
 				Master Gear is not recovered soon,	
 				terrible consequences could occur.#0E	
 0x57b7	0x41	None	#0W#2E#310c	Noi, and...	
 				Nayuta and Cygna, too.#0E	
-0x5837	0x41	None	#0W#2E#310c	Please, proceed on to the Temple	
+0x5837	0x41	None	#0W#2E#310c	Please, proceed on to the temple	
 				as soon as possible.#0E	
 0x595f	0x06	ALTO		ANI_THANKS	
 0x5987	0x98	ALTO	#6A	Understood...	
@@ -258,7 +258,7 @@ EV_1_S06_look_cage_1st
 0x5b54	0x41	None	#0W#2E#310c	Mmm... Well, I'm counting on you!#0E	
 0x5e5f	0x06	ALTO		ANI_JOY	
 0x5e84	0x98	ALTO		Well then...	
-				Let's get to the Temple
+				Let's get to the temple
 				as soon as possible!	
 0x5ed2	0x06	ALTO		ANI_GESTURE1	
 0x5efc	0x98	ALTO		Noi, please, show us the way.	
@@ -267,4 +267,4 @@ EV_1_S06_look_cage_1st
 				don't have to order me around!	
 0x5fbc	0x06	Signa		ANI_WAIT0	
 0x5fe4	0x98	Signa		(......)	
-0x6189	0xCE	Objective		It seems that Zext is at the Temple. Let's face him!	
+0x6189	0xCE	Objective		It seems that Zext is at the temple. Let's face him!	

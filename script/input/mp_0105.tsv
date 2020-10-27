@@ -8,7 +8,7 @@ EV_7_S00_in_elevator
 				Lady Creha's father...	
 				I don't think he'd hurt her.	
 0x647	0x06	ALTO		ANI_THINK2	
-0x66f	0x98	ALTO	#1W	...............	mp_0001 0xc917
+0x66f	0x98	ALTO	#1W	.......	mp_0001 0xc917
 0x6a9	0x6B	NOI		Surprise	
 0x70a	0x98	NOI	#6A	Nayuta...?	
 0x753	0x06	ALTO		ANI_GESTURE2	
@@ -21,7 +21,7 @@ EV_7_S00_in_elevator
 0x8de	0x40	ALTO		In that image, he should have	
 				already taken his last breath.	
 0x941	0x40	NOI		T-True...	
-0x96e	0x40	NOI		And...I feel that Zext's current	
+0x96e	0x40	NOI		And... I feel that Zext's current	
 				personality is too cruel.	
 0x9cf	0x40	NOI		I heard from Lady Creha that	
 				he was a very kind person...	
@@ -37,9 +37,9 @@ EV_7_S00_in_elevator
 0xc20	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
 0xc85	0x98	NOI	#6A	Deep inside here, there's the	
 				Planetarium, a crystallization	
-				of Power of Stars.	
+				of the Power of Stars.	
 0xcf4	0x98	NOI	#6A	Zext plans to use it to	
-				perform the Remaking...	
+				perform the Recreation...	
 0xd4e	0x06	ALTO		ANI_NOD	
 0xd73	0x98	ALTO		Let's do whatever we can	
 				to get to him before that.	

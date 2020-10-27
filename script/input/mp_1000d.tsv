@@ -32,7 +32,7 @@ dead_ev4
 0x185f	0x98	NOI	#6A	With this, this area should	
 				be a little more peaceful.	
 0x18b8	0x98	NOI	#6A	Nayuta, let's report to the	mp_1000d 0x179a
-				nymph that made the request!	
+				nymph that made the request!
 0x1914	0x06	ALTO		ANI_GUTSPOSE	
 0x193e	0x98	ALTO		Yeah!	mp_0001 0x1174e
 encount_secret

@@ -4,14 +4,14 @@ dead_EV1
 open_door1
 EV_2_S22_temple2_front
 0x5ff	0x06	ALTO		ANI_THINK2	
-0x627	0x98	ALTO		So this is the Rieseweld Temple...	
+0x627	0x98	ALTO		So this is the Rieseweld temple...	
 0x66b	0x06	ALTO		ANI_WAIT	
 0x6ae	0x98	ALTO		According to Erisette,	
 				Zext should be inside.	
 0x708	0x06	NOI		ANI_GESTURE1	
 0x731	0x98	NOI		And look, the light from	
 				the Power of Stars still	
-				surrounds the Temple...!	
+				surrounds the temple...!	
 0x7cd	0x98	NOI		Looks like the emergency shutdown	
 				function of the Master Gear hasn't	
 				been activated yet!	

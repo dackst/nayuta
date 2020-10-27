@@ -48,18 +48,18 @@ QS_33_set_nest_and_egg
 				in a cold area too...	
 0x20f0	0x06	NOI		ANI_GUTSPOSE	
 0x2119	0x98	NOI	#6A	This must be the perfect place	
-				for Moon Birds to lay their eggs!	
+				to lay the Moon Bird eggs!	
 0x217a	0x06	ALTO		ANI_WAIT	
 0x21c3	0x06	ALTO		ANI_JOY	
 0x21e8	0x98	ALTO	#6A	All right, let's try	
 				placing the nest!	
 0x23b3	0x06	ALTO		ANI_NOD	
 0x23d8	0x98	ALTO	#6A	Okay, I think we're good to go.	
-0x242d	0x98	NOI	#6A	When we leave, let's change	
+0x242d	0x98	NOI	#6A	Once we leave, let's change	
 				the season to summer and	
 				come back here again.	
-0x24b9	0x98	NOI		Hopefully there'll be some	mp_2002d 0x1b3b	
-				adorable chicks waiting for us...	
+0x24b9	0x98	NOI		Hopefully there'll be some	mp_2002d 0x1b3b
+				adorable chicks waiting for us...
 QS_33_look_map
 0x28a0	0x6B	ALTO		Surprise	
 0x292a	0x98	ALTO		Huh...?	mp_0003 0x133b2

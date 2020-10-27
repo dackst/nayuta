@@ -28,7 +28,7 @@ waterwheel02_miss_1
 0x1a0d	0x98	PLAYER2		Huh? Nothing's happening?	
 0x1a4b	0x98	PLAYER1		But there's definitely	
 				a device here...	
-0x1b4e	0x98	PLAYER1		Maybe...the orientation	
+0x1b4e	0x98	PLAYER1		Maybe... the orientation	
 				of that statue has	
 				something to do with it?	
 battle01
@@ -54,11 +54,10 @@ waterwheel03_miss
 0x342f	0x06	PLAYER1		ANI_WAIT	
 0x3460	0x6B	PLAYER1		Ellipsis	
 0x348d	0x6B	PLAYER2		Ellipsis	
-0x3536	0x98	PLAYER2		Huh?	mp_2010 0x1a0d
-				It's not moving at all?	
-0x3574	0x98	PLAYER1		But there's definitely	mp_2010 0x1a4b	
+0x3536	0x98	PLAYER2		Huh? Nothing's happening?	mp_2010 0x1a0d
+0x3574	0x98	PLAYER1		But there's definitely	mp_2010 0x1a4b
 				a device here...
-0x3799	0x98	PLAYER1		Maybe...does it have to do	mp_2010 0x1b4e
-				with the direction the statue	
-				is facing?	
+0x3799	0x98	PLAYER1		Maybe... the orientation	mp_2010 0x1b4e
+				of that statue has
+				something to do with it?
 jamp_dai02

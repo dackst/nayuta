@@ -1,23 +1,21 @@
 mp_0004c
 init
 lp_post
-0x708	0x98	ALTO		Huh...	mp_0004 0x2113
-				Somehow, it looks like a strange	
-				letter is inside.	
-0x75f	0x98	ALTO		It looks like it's from someone	mp_0004 0x2165
-				connected to the wardens...	
-0x7b9	0x98	ALTO		I should visit the temple	mp_0004 0x21c4
-				once and try asking about it.	
+0x708	0x98	ALTO		Huh...? Looks like there's a	mp_0004 0x2113
+				strange letter inside here.
+0x75f	0x98	ALTO		It's from an associate of a warden...	mp_0004 0x2165
+0x7b9	0x98	ALTO		We should go to the Temple and at least	mp_0004 0x21c4
+				listen to what they have to say.
 lp_ladder_u
 lp_ladder_d
 lp_telescope
 0xb9e	0x40	UNDEF		Nayuta peered through the astronomical telescope.	mp_0004 0x2875
-0xe3d	0x07	System	#4C	You can operate the telescope using the analog stick.	mp_0004 0x2b14
-				With the L button, you can zoom in,	
-				and with the R button, you can zoom out.	
+0xe3d	0x07	System	#4C	Operate the telescope with the analog pad.	mp_0004 0x2b14
+				Zoom in with the L button and
+				zoom out with the R button.
 lp_tera
 0xfbb	0x40	UNDEF		The gate is completely drained of its power.	
-0x1009	0x40	UNDEF		mp_0004c 0xfbb
+0x1009	0x40	UNDEF		The gate is completely drained of its power.	mp_0004c 0xfbb
 0x109f	0x98	NOI		...Nayuta, let's go.	
 0x10d2	0x98	ALTO		...Okay.	
 talk_Ophiuchus
@@ -25,9 +23,9 @@ talk_Ophiuchus
 				be lost in thought...	
 0x11cb	0x98	Ophiuchus		The abnormalities have been	
 				going on here for awhile.	
-0x1220	0x98	Ophiuchus		Master Mishy has grown attached to this.	
+0x1220	0x98	Ophiuchus		Master Mishy has grown attached to this	
 				island. He must be quite concerned.
-0x12b1	0x98	Ophiuchus		...However, while I was busy daydreaming,	
+0x12b1	0x98	Ophiuchus		...However, while I was busy daydreaming earlier,	
 				Master Mishy was already on the move.	
 0x133d	0x98	Ophiuchus		Phew, I've got to be careful not	
 				to lose track of him again...	
@@ -43,17 +41,16 @@ talk_SheepA
 talk_SheepB
 talk_Nora
 0x169e	0x98	Dog		Ruff, ruff!	mp_0004 0x7911
-0x16e2	0x98	ALTO		Huh? It looks like you're holding	mp_0004 0x7955
-				something in your mouth, but...	
-0x1742	0x98	ALTO		Could it be that you're giving	mp_0004 0x79b5
-				these to me?	
-0x178c	0x98	Dog		Ruff♪	mp_0004 0x79ff
-0x17b1	0x98	ALTO		Hmm, then since you went through	mp_0004 0x7a24
-				trouble to find those, I'll accept them.	
-0x1841	0x98	ALTO		Ah, you're holding something again.	mp_0004 0x7ab4
-				...Are you giving those to me?	
-0x18a2	0x98	Dog		Ruff♪	mp_0004 0x79ff
-0x18c7	0x98	ALTO		Haha, then I'll accept them thankfully.	mp_0004 0x7b3a
+0x16e2	0x98	ALTO		Huh? Looks like you got yourself	mp_0004 0x7955
+				something there in your mouth...
+0x1742	0x98	ALTO		Oh, is this for me?	mp_0004 0x79b5
+0x178c	0x98	Dog		Ruff! ♪	mp_0004 0x79ff
+0x17b1	0x98	ALTO		Hmm, I'll take it, since you	mp_0004 0x7a24
+				went through the trouble.
+0x1841	0x98	ALTO		Oh, you got something in your mouth again.	mp_0004 0x7ab4
+				...Are you giving those to me?
+0x18a2	0x98	Dog		Ruff! ♪	mp_0004 0x79ff
+0x18c7	0x98	ALTO		Haha, thanks.	mp_0004 0x7b3a
 sub_Nora
 0x19db	0x98	Dog		Bow wow!	
 0x1a3d	0x98	Dog		...Yip yap!	
@@ -61,35 +58,33 @@ sub_Nora
 talk_Michy
 subev_get_dog2
 0x1e93	0x06	ALTO		ANI_GESTURE2	
-0x1ebd	0x98	ALTO		Yeah, it looks like setting	mp_0004 0x3ccc
-				up the shed went well.	
+0x1ebd	0x98	ALTO		Yep, looks like I managed to get	mp_0004 0x3ccc
+				the shed set up pretty well.
 0x1f0e	0x6B	Dog		Unknown	
 0x1f3f	0x3F	Name		Stray Dog	mp_0004 0x3d4e
-0x1f74	0x98	Dog		Ruff, ruff♪	mp_0001 0x3a9c
+0x1f74	0x98	Dog		Ruff, ruff! ♪	mp_0001 0x3a9c
 0x1fc9	0x06	NOI		ANI_NOD	
-0x2005	0x98	NOI		This one looks happy with it.	mp_0004 0x3e14
-0x204b	0x98	NOI		This one looks happy with it.	mp_0004 0x3e14
+0x2005	0x98	NOI		She seems to like it.	mp_0004 0x3e14
+0x204b	0x98	NOI		She seems to like it.	mp_0004 0x3e14
 0x20a0	0x06	Asa		ANI_THINK	
-0x20c6	0x98	Asa		But now,	mp_0004 0x3ed5
-				I need a name to call you.	
-0x2107	0x98	Asa		I wonder what name would be good.	mp_0004 0x3f16
+0x20c6	0x98	Asa		But now, you need a name.	mp_0004 0x3ed5
+0x2107	0x98	Asa		What we should call you...?	mp_0004 0x3f16
 0x215b	0x06	ALTO		ANI_THINK	
-0x2182	0x98	ALTO		Hmm, then...it's "Nora."	mp_0004 0x3f91
-				This one's name will be Nora.	
+0x2182	0x98	ALTO		Hmm, how about... Nora?	mp_0004 0x3f91
+				Let's go with Nora.
 0x21d7	0x06	ALTO		ANI_WAIT	
 0x2212	0x06	Asa		ANI_NOD	
-0x2236	0x98	Asa		Yes, I don't think it's too bad.	mp_0004 0x4066
+0x2236	0x98	Asa		Yeah, that's not too bad.	mp_0004 0x4066
 0x2280	0x06	Asa		ANI_WAIT4	
-0x22a6	0x98	Asa		Huhu, nice to meet you,	mp_0004 0x40d6
-				Nora♪	
-0x22e2	0x98	Dog		Ruff, ruff, whine!	mp_0004 0x4112
+0x22a6	0x98	Asa		Hehe, nice to meet you, Nora! ♪	mp_0004 0x40d6
+0x22e2	0x98	Dog		Ruff, ruff! *whine*	mp_0004 0x4112
 SB_6_S01_appear_ALTO
 SB_6_S01_move_ALTO
 EV_6_S01_stop_warp
 0x27f9	0x6B	ALTO_pj		Exclamation	
 0x2826	0x06	ALTO_pj		ANI_SURPRISE	
 0x29df	0x06	ALTO_pj		ANI_LOOK_AROUND	
-0x2a30	0x98	ALTO_pj		Wh-What's with this sky!?	
+0x2a30	0x98	ALTO_pj		Wh-What's up with this sky!?	
 				And the atmosphere of the island...	
 0x2a9b	0x06	ALTO_pj		ANI_WAIT	
 0x2b29	0x98	ALTO_pj		...Whatever, gotta	
@@ -99,9 +94,9 @@ EV_6_S01_stop_warp
 0x3106	0x98	ALTO_pj	#6A#0W	The transfer gate's not working...?	
 0x3162	0x98	ALTO_pj	#16S#6A	Why!?	
 0x3199	0x06	ALTO_pj		ANI_COMPLAIN	
-0x31ce	0x98	ALTO_pj	#16S#6A	...Work!	
+0x31ce	0x98	ALTO_pj	#16S#6A	...Come on, work!	
 				#16SPlease, take me to Terra!	
-0x3225	0x98	ALTO_pj	#16S#6A	Cygna...and Creha...	
+0x3225	0x98	ALTO_pj	#16S#6A	Cygna... and Creha...	
 				#16SI need to talk to them!	
 0x32a8	0x06	ALTO		ANI_WAIT	
 0x3460	0x98	NOI	#6A	Nayuta...	mp_0000d 0x7671
@@ -117,7 +112,7 @@ EV_6_S01_stop_warp
 0x36a2	0x98	NOI	#6A	Thanks to her, we fell	
 				to this island safely.	
 0x36fd	0x06	NOI		ANI_DENY	
-0x3722	0x98	NOI	#6A	But...a lot of unusual events	
+0x3722	0x98	NOI	#6A	But... a lot of unusual events	
 				were already happening in this	
 				world when I woke up...	
 0x379a	0x6B	ALTO_pj		Ellipsis	
@@ -129,8 +124,8 @@ EV_6_S01_stop_warp
 0x389f	0x98	NOI	#6A	They probably did it to 	
 				prevent us from interfering	
 				more than we already have.	
-0x3915	0x98	NOI	#6A	Lady Creha...and Lord Selam.	
-0x3963	0x98	ALTO_pj	#1W	.........	mp_0000d 0x70fd
+0x3915	0x98	NOI	#6A	Lady Creha... and Lord Selam.	
+0x3963	0x98	ALTO_pj	#1W	.....	mp_0000d 0x70fd
 0x39b2	0x98	ALTO_pj		...I'm still not sure	
 				what's happening.	
 0x3a0e	0x98	ALTO_pj		What's going to happen to our	

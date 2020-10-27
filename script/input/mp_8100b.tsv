@@ -12,10 +12,10 @@ EV_8_S16_help_s_and_c
 0x842	0x6B	ALTO		Exclamation	
 0xa8d	0x06	Signa		ANI_FLY_SIT_END	
 0xb04	0x06	Signa		ANI_FLY_SIT_END2	
-0xbb2	0x98	Signa	#0W	.....................	mp_0003 0xc610
+0xbb2	0x98	Signa	#0W	.........	mp_0003 0xc610
 0xdf8	0x06	Creha		ANI_FLY_SIT_END	
 0xe6f	0x06	Creha		ANI_FLY_SIT_END2	
-0xf1d	0x98	Creha	#0W	.....................	mp_0003 0xc610
+0xf1d	0x98	Creha	#0W	.........	mp_0003 0xc610
 0x1026	0x98	ALTO		Creha, Cygna!!	
 0x1107	0x41	None	#0W#2E#6C#12S#0W	...Don't worry, they are both safe.	
 				They're just sleeping now...#0E	
@@ -25,9 +25,9 @@ EV_8_S16_help_s_and_c
 0x1540	0x06	Noi2		ANI_NOD	
 0x1565	0x98	Noi2	#0W	...Yeah. Because you	
 				defeated that idol for me.	
-0x15b6	0x98	Noi2	#0W	The abnormalities of the Astrolabe have	
-				been completely removed, and Lady Creha	
-				and Lord Cygna have been set free.	
+0x15b6	0x98	Noi2	#0W	The errors of the Astrolabe have	
+				been removed, and Lady Creha and	
+				Lord Cygna can been set free.	
 0x1635	0x06	Noi2		ANI_THINK	
 0x16a0	0x98	Noi2	#0W	Thanks to that... We finally	
 				have a last chance to talk.	
@@ -38,8 +38,8 @@ EV_8_S16_help_s_and_c
 0x17e8	0x06	Noi2		ANI_WAIT	
 0x182c	0x98	Noi2	#0W	I am a being that should have	
 				disappeared a year ago...	
-0x18a8	0x98	Noi2	#0W	Now that the abnormalities are gone,	
-				as the one who caused them, I will	
+0x18a8	0x98	Noi2	#0W	Now that the errors are gone,	
+				as their source, I will	
 				disappear along with them...	
 0x192b	0x6B	ALTO		Exclamation	
 0x195d	0x06	ALTO		ANI_COMPLAIN	
@@ -71,12 +71,12 @@ EV_8_S16_help_s_and_c
 0x2157	0x06	ALTO		ANI_DENY	
 0x218b	0x98	ALTO	#1W	I can't leave you here!	
 0x21dd	0x06	Noi2		ANI_GESTURE1	
-0x2215	0x98	Noi2	#1W	I will never forget	
-				our adventures together...	
+0x2215	0x98	Noi2	#1W	I'll never forget our	
+				adventures together...	
 0x227e	0x98	Noi2	#1W	Say hi to Lady Creha	
 				and Cygna for me...	
 				And to the new me, too.	
-0x2349	0x98	Noi2	#3W	Goodbye...and thanks.	
+0x2349	0x98	Noi2	#3W	Goodbye... and thanks.	
 				Take care, Nayuta.	
 0x2457	0x98	ALTO	#40M#18S	Noi! Noi...!!	
 0x24ad	0x06	ALTO		ANI_PLEASE_WAIT	

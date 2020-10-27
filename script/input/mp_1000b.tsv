@@ -12,7 +12,7 @@ tbox
 QS_21_get_fruit
 0x13d9	0x6B	NOI		Exclamation	
 0x140a	0x06	NOI		ANI_SURPRISE	
-0x1433	0x98	NOI		Ah... It became a	
+0x1433	0x98	NOI		Ah... It produced a	
 				delicious-looking fruit!	
 0x147a	0x06	ALTO		ANI_JOY	
 0x149f	0x98	ALTO	#6A	Yes, just like I thought!	
@@ -31,7 +31,7 @@ QS_21_get_fruit
 0x18ab	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x18d9	0x98	ALTO		Ahaha... It might not be	
 				the way it's supposed to	
-				be used, though....	
+				be used, though...	
 0x193c	0x98	ALTO	#6A	Okay, let's go take this	
 				fruit to Ada right away.	
 QS_21_LookPoint

@@ -11,14 +11,14 @@
 0x21d9bc	終章	7	Epilogue	0x2346a4	1	
 0x21d9c4	後日譚	7	Sequel	0x2346a8	1	
 0x21d9cc	「クリアデータ」{ 0a }	19	「Clear Data」{ 0a }			14
-0x21d9e0	★～%s終了～{ 0a }	15	★~%sComplete~{ 0a }			
-0x21d9f0	～%s終了～{ 0a }	15	~%sComplete~{ 0a }			
+0x21d9e0	★～%s終了～{ 0a }	15	★~%s End~{ 0a }			
+0x21d9f0	～%s終了～{ 0a }	15	~%s End~{ 0a }			
 0x21da00	★%s 「%s」{ 0a }	15	★%s 「%s」{ 0a }			
 0x21da10	%s「%s」{ 0a }	11	%s「%s」{ 0a }			
-0x21da1c	Lv　　　　    %d{ 0a }	23	Level　　　%d{ 0a }			
-0x21da34	PlayTime　  %02d:%02d:%02d{ 0a }	31	PlayTime　%02d:%02d:%02d{ 0a }			
-0x21da54	実績　　        %02d/48{ 0a }	31	Trophies　 %02d/48{ 0a }			27
-0x21da74	難易度　        %s	23	Difficulty　%s			
+0x21da1c	Lv　　　　    %d{ 0a }	23	Level:　%d{ 0a }			
+0x21da34	PlayTime　  %02d:%02d:%02d{ 0a }	31	Playtime:　%02d:%02d:%02d{ 0a }			
+0x21da54	実績　　        %02d/48{ 0a }	31	Trophies:　 %02d/48{ 0a }			27
+0x21da74	難易度　        %s	23	Difficulty:　%s			
 0x21db78	%s/%s	7	%s/%s			
 0x21ed98	#1C#0P：話す{ 0a }#2P：クエスト会話	31	#1C#0P：Talk{ 0a }#2P：Quest			
 0x21edd4	#1C奥義・散蓮華	15	#1CFallen Lotus			15
@@ -26,12 +26,12 @@
 0x21ee10	#1C奥義・裂空斬	15	#1CVacuum Blade			15
 0x21ee30	#1C奥義・流星撃	15	#1CMeteor Attack	0x883C04C	3	16
 0x21ee9c	#1C%s	7	#1C%s			5
-0x21eefc	#1C#%dI %s#3CＬＶＵＰ	23	#1C#%dI %s#3CＬＶＵＰ			
-0x21f12c	#4C#%dI%s#1Cを入手！	23	#%dI#1CGot #4C%s#1C!			21
+0x21eefc	#1C#%dI %s#3CＬＶＵＰ	23	#1C#%dI %s#3C ＬＶＵＰ			
+0x21f12c	#4C#%dI%s#1Cを入手！	23	 #%dI#1CGot #4C%s#1C!			21
 0x21f2dc	#1C四季魔法の装備スロットが一つ増えた！！	43	#1CFour Season Magic equip slot opened!			
 0x21f308	#4Cノイが複数のアーツを{ 0a }セットできるようになりました。	55	#4CNoi is now able to{ 0a }equip several arts.			46
 0x21f340	#4C複数のアーツをセットすると、{ 0a }戦闘中にＬボタンを押すことで{ 0a }使用するアーツを素早く切り替えることができます。	111	#4CEquip several arts,{ 0a }and push L in battle{ 0a }to quickly switch between them.			85
-0x21f3b0	#4C%dミラ#1Cを手に入れた。	27	#1CGot #4C%d Mira#1C.			21
+0x21f3b0	#4C%dミラ#1Cを手に入れた。	27	#1CGot #4C%d #1CMira.			21
 0x21f3cc	#4C『#%dI%s×%d』#1Cを手に入れた。	35	#1CGot #4C『#%dI%s×%d』#1C.			
 0x21f3f0	#4C『#%dI%s』#1Cを手に入れた。	35	#1CGot #4C『#%dI%s』#1C.			
 0x21f440	#2C「%s」#4Cを使った。	23	#4CUsed #2C「%s」#4C.			
@@ -82,9 +82,9 @@
 0x2203d0	体防具を装備します。	23	Equip body armor.			17
 0x2203e8	足防具を装備します。	23	Equip shoes.			
 0x220400	四季魔法（アーツ）を装備します。	35	Equip arts.			
-0x220424	頭飾りを装備します。	23	Equip head accessory.			21
+0x220424	頭飾りを装備します。	23	Equip headgear.			21
 0x22043c	衣服を装備します。	19	Equip clothes.			
-0x220450	装飾品を装備します。	23	Equip decoration.			
+0x220450	装飾品を装備します。	23	Equip accessories.			
 0x220468	使用アイテムの確認と使用を行います。	39	Check or use usable items.			
 0x220490	食材アイテムを確認します。	27	Check food items.			
 0x2204ac	コレクトアイテムを確認します。	31	Check collectible items.			
@@ -127,7 +127,7 @@
 0x220830	INT%3d	7	INT%3d			
 0x220838	】	7	]			
 0x220840	%s	3	%s			
-0x220844	PlayTime  %02d:%02d:%02d{ 0a }	27	PlayTime  %02d:%02d:%02d{ 0a }			
+0x220844	PlayTime  %02d:%02d:%02d{ 0a }	27	Playtime: %02d:%02d:%02d{ 0a }			
 0x2208c0	%sへ移動しますか？	20	Move to %s?			11
 0x220a64	ビューモード	19	View Mode			
 0x220b18	WEAPON	7	WEAPON			
@@ -185,9 +185,9 @@
 0x220e9c	%9d	3	%9d			
 0x220ea0	Mira	7	Mira			
 0x220ea8	寄贈する	11	Donate			
-0x220eb4	昆虫館	7	Insectarium	0x220ed8	1	
+0x220eb4	昆虫館	7	Insects	0x220ed8	1	
 0x220ebc	水族館	7	Aquarium	0x220edc	1	8
-0x220ec4	生物資料館	11	Nat. History	0x220ee0	1	
+0x220ec4	生物資料館	11	N. History	0x220ee0	1	
 0x220ed0	宝物館	7	Treasury	0x220ee4	1	8
 0x220ee8	SELECT	7	SELECT			
 0x220ef0	%2d/32	7	%2d/32			
@@ -208,11 +208,11 @@
 0x220fb4	作成回数	15	Qty Made			8
 0x220fc4	：	3	：			
 0x220fd8	状態異常回復	15	Recover Status			15
-0x220fe8	ＳＴＲ上昇	15	STR Up			12
-0x220ff8	ＩＮＴ上昇	15	INT Up			12
-0x221008	ｸﾘﾃｨｶﾙ率UP	15	Crit Rate Up			14
-0x221018	経験値入手UP	15	EXP Up			13
-0x221028	ミラ入手UP	15	Mira Up			12
+0x220fe8	ＳＴＲ上昇	15	　　　　STR Up			12
+0x220ff8	ＩＮＴ上昇	15	　　　　INT Up			12
+0x221008	ｸﾘﾃｨｶﾙ率UP	15	　Crit Rate Up			14
+0x221018	経験値入手UP	15	　　　　EXP Up			13
+0x221028	ミラ入手UP	15	　　　　Mira Up			12
 0x221054	POST	7	POST			
 0x22105c	【未開封】	11	[Unopened]			
 0x221068	【開封済】	11	[Opened]			
@@ -328,7 +328,7 @@
 0x2229b0	所持しているお弁当と食材、料理ガイド、調理履歴、弁当箱の数を引き継ぎます。	75	Keep ingredients and food, cooking guides, cooking history and lunch boxes.			75
 0x2229fc	所持しているコレクトアイテムと、博物館への寄贈状態を引き継ぎます。	67	Keep collectibles and museum donation status.			
 0x222a40	敵情報の状態を引き継ぎます。	31	Keep enemy info.			
-0x222a60	武器屋、雑貨屋の販売状態と、ノラのランクを引き継ぎます。	59	Keep weapon and general store status and farm rank.			51
+0x222a60	武器屋、雑貨屋の販売状態と、ノラのランクを引き継ぎます。	59	Keep weapon and general store and farm status.			51
 0x222a9c	所持している星の欠片を引き継ぎます。	39	Keep owned star shards.			
 0x222ac4	以上の項目を引き継ぎ、ゲームを開始します。	43	Keep selected items and start game.			41
 0x222af0	タイトル画面に戻ります。	27	Return to title screen.			

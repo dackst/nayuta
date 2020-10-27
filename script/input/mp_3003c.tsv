@@ -10,10 +10,10 @@ EV_3_S21_get_yupina
 0x618	0x06	NOI		ANI_SURPRISE	
 0x649	0x98	ALTO	#2W#6A	Ah...!?	
 0xa31	0x06	ALTO		ANI_SIT6	
-0xa67	0x98	ALTO	#0W#6A	They're still...withered and dying...	
-0xab0	0x98	NOI		It's still only starting	
-				to recover, but...	
-0xafd	0x98	NOI		But even in Heimmel's normal climate,	
+0xa67	0x98	ALTO	#0W#6A	They're still... withered and dying...	
+0xab0	0x98	NOI		Things are looking a	
+				little better, but...	
+0xafd	0x98	NOI		Even with Heimmel's normal climate,	
 				the plant can no longer survive...	
 0xbb0	0x98	ALTO	#6A	...If I remember correctly,
 				the encyclopedia called it	
@@ -30,9 +30,9 @@ EV_3_S21_get_yupina
 				I'm sorry, I...	
 0xeea	0x98	ALTO	#0W#6A	...It's not your fault, Noi.	
 0xf2c	0xBC	ALTO		Ellipsis	
-0xf88	0x98	ALTO	#0W#6A	(But my sister...can't be saved anymore...)	
+0xf88	0x98	ALTO	#0W#6A	(But my sister... can't be saved anymore...)	
 0xfe4	0x98	ALTO	#0W#6A	(I don't want to give up, but...	
-				 There's nothing more we can do...)	
+				 There's nothing more that can be done...)	
 0x1055	0x06	st		ANI_PATA1	
 0x1090	0xBC	ALTO		Surprise	
 0x10c6	0xBC	NOI		Surprise	
@@ -42,18 +42,18 @@ EV_3_S21_get_yupina
 0x152b	0x06	ALTO		ANI_WAIT	
 0x169d	0x98	Creha	#6A	Is it no good...?	
 0x1716	0x06	ALTO		ANI_NOD	
-0x173b	0x98	ALTO	#1W	..................	mp_0000d 0x70fd
-0x1778	0x98	Creha	#0W#6A	I see...	mp_0100a 0xd531
+0x173b	0x98	ALTO	#1W	.....	mp_0000d 0x70fd
+0x1778	0x98	Creha	#0W#6A	...I see...	mp_0100a 0xd531
 0x1896	0xBC	Creha		Ellipsis	
 0x18e3	0x98	Creha	#0W	Perhaps...	
 0x1928	0x98	Creha	#0W	Perhaps we can	
 				make it work.	
 0x1983	0xBC	ALTO		Surprise	
 0x19b9	0xBC	NOI		Surprise	
-0x1aa7	0x98	ALTO	#1W#6A	...Huh?	mp_0100 0x19b81
+0x1aa7	0x98	ALTO	#1W#6A	...Huh...?	mp_0100 0x19b81
 0x1ade	0x06	NOI		ANI_GESTURE1	
 0x1b07	0x98	NOI	#6A	Lady Creha?	
-0x1bb3	0x98	Creha	#1W	..................	mp_0000d 0x70fd
+0x1bb3	0x98	Creha	#1W	.....	mp_0000d 0x70fd
 0x1ff1	0xBC	ALTO		Exclamation	
 0x2027	0xBC	NOI		Exclamation	
 0x205c	0x06	ALTO		ANI_SURPRISE	
@@ -67,21 +67,21 @@ EV_3_S21_get_yupina
 0x264b	0xBC	NOI		Exclamation	
 0x2693	0x06	NOI		ANI_LOOK_AROUND	
 0x26cb	0x06	ALTO		ANI_LOOK_AROUND	
-0x2714	0x98	NOI	#6A	T-This is...	mp_0101 0xdbc3
+0x2714	0x98	NOI	#6A	I-Is this...?	mp_0101 0xdbc3
 0x2742	0x98	ALTO	#6A	The Yupina Grass is	
 				coming back to life!?	
 0x2a7e	0x06	Creha		ANI_WAIT	
 0x2ac9	0x06	ALTO		ANI_COMPLAIN	
-0x2af3	0x98	ALTO	#6A	Creha, what the hell did you do!?	
+0x2af3	0x98	ALTO	#6A	Creha, what did you just do!?	
 0x2b7d	0x06	Creha		ANI_DENY	
 0x2bac	0x98	Creha	#0W	...I don't know.	mp_3002c 0x5634
-0x2be1	0x98	Creha	#0W	My body just...acted on its own...	
+0x2be1	0x98	Creha	#0W	My body just... acted on its own...	
 0x2c61	0x98	NOI	#6A	The Shining Wing of the Mitos appears 
 				when Lady Creha uses her powers.	
 0x2d06	0x98	NOI	#6A	Lady Creha must have resurrected	
 				the Yupina Grass by manipulating	
 				the Power of Stars!	
-0x2da4	0x98	Creha		I can...do that...?	
+0x2da4	0x98	Creha		I can... do that...?	
 0x2e0a	0x06	Creha		ANI_NOD	
 0x2e30	0x98	Creha		Though, I'm glad I could be of help.	
 0x2e7d	0x06	ALTO		ANI_THINK2	
@@ -101,7 +101,7 @@ EV_3_S21_get_yupina
 0x31f8	0x98	NOI	#6A	No, I didn't... This is all	
 				thanks to Lady Creha!	
 0x3297	0xBC	Creha		Unknown	
-0x3314	0x98	Creha		Umm...er, that's not true.	
+0x3314	0x98	Creha		Umm... Er, that's not true.	
 0x338c	0x98	Creha		...I'm sure it's all thanks	
 				to how hard the two of you	
 				have been working.	
@@ -110,8 +110,8 @@ EV_3_S21_get_yupina
 0x3447	0x06	ALTO		ANI_GUTSPOSE	
 0x3471	0x98	ALTO	#6A	Oh, yeah... We better take	
 				as much as we can carry!	
-0x3552	0x40	UNDEF		Afterwards, Nayuta gathered the Yupina	
-				Grass with the help of Noi and Creha...	
-0x35b7	0x40	UNDEF		Parting ways with them both	
-				at the Garden, he rushed home.	
+0x3552	0x40	UNDEF		Afterwards, Nayuta gathered the Yupina Grass	
+				with the help of Noi and Creha...	
+0x35b7	0x40	UNDEF		Parting ways with them both at the Garden,	
+				he rushed home.	
 0x3608	0x40	UNDEF		And then...	

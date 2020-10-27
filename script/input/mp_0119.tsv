@@ -10,7 +10,7 @@ EV_0_S00_night_ship
 				port city of San Ceriz... #0E	
 0x113c	0x98	ALTO	#0W	The wind sure is picking up...	
 0x131e	0x06	ALTO		ANI_USE_SEXTANT	
-0x13cd	0x98	ALTO	#1W	Is it...87.61 degrees?	
+0x13cd	0x98	ALTO	#1W	Is it... 87.61 degrees?	
 				Then the average angle	
 				from the horizon is...	
 0x1517	0x3F	Name		Youth's Voice	
@@ -53,7 +53,7 @@ EV_0_S00_night_ship
 0x26f0	0x06	Signa		ANI_WAIT4	
 0x276c	0x98	Signa	#0W	Your ability to concentrate on something	
 				so hard over everything else around you	
-				is USUALLY one of your good traits.	
+				is usually one of your good traits.	
 0x28d0	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x292a	0x98	ALTO	#1W	Ahaha, sorry, my bad.	
 0x298b	0x06	ALTO		ANI_THINK2	
@@ -75,11 +75,10 @@ EV_0_S00_night_ship
 0x2f74	0x40	ALTO		(Mom and Dad in heaven...	
 				 Soon, I'll be returning to the island.)	
 0x2fe0	0x40	ALTO		(My sister let me go to San Ceriz Academy,
-				 where I've really been learning something	
+				 where I really have been learning something	
 				 new every day.)	
-0x305d	0x40	ALTO		(It's been so busy, I've barely been able	
-				 to contact her... I've got to put a	
-				 smile on my face for her tomorrow.)	
+0x305d	0x40	ALTO		(It's been so busy, I've barely been able to contact her...	
+				 I've got to put a smile on my face for her tomorrow.)	
 0x3188	0xBC	ALTO		Exclamation	
 0x31be	0xBC	Signa		Exclamation	
 0x328e	0x06	ALTO		ANI_SURPRISE_WEAK	
@@ -94,11 +93,12 @@ EV_0_S00_night_ship
 0x3892	0x98	ALTO	#1W	Maybe there are star shards	
 				in there too...!	
 0x38f5	0x98	Signa	#1W	Yeah, I'm sure there are.	
-				...Then again, it is a nice view.	
+				...Then again, it really	
+				is a nice view.	
 0x395f	0x98	Signa	#2W	Haha, perhaps the stars are	
 				welcoming us home, too.	
 0x3add	0x06	ALTO		ANI_JOY	
-0x3b2e	0x98	ALTO	#0W	All right! I've got to record	
+0x3b2e	0x98	ALTO	#0W	All right! I should record	
 				these observations right away!	
 0x3bd6	0x98	Signa	#0W	...No, Nayuta. I just told you,	
 				if you don't get some sleep,	
@@ -106,15 +106,15 @@ EV_0_S00_night_ship
 0x3c5b	0x98	Signa	#0W	Come on! Back to the cabin!	
 0x3cbc	0xBC	ALTO		Coldsweat	
 0x3d3d	0x98	ALTO	#0W#16S	Man, seriously...?	
-0x3ef8	0x41	None	#1W#2E	There is an "End" to this world...	mp_0100b 0x5696	
-				We have been taught this for as	
-				long as anyone can remember.#0E	
-0x3fbe	0x41	None	#1W#2E	Even the sea, which might seem to stretch	mp_0101 0xd768
-				towards infinity, has a definite end,	
-				beyond which one cannot travel.#0E	
+0x3ef8	0x41	None	#1W#2E	There is an "End" to this world...	mp_0100b 0x5696
+				We have been taught this for as
+				long as anyone can remember.#0E
+0x3fbe	0x41	None	#1W#2E	Even the sea, which might look to stretch	mp_0101 0xd768
+				towards infinity, has a definite end,
+				beyond which one cannot travel.#0E
 0x4087	0x41	None	#1W#2E	Because of this, many scholars will tell	
 				you, "This world is flat." It is a pretty	
-				widely-held view about the world. #0E	
+				conventional view about the world. #0E	
 0x415e	0x41	None	#1W#2E	...Is that really true?	
 				No... I'm sure it's not.#0E	
 0x420a	0x41	None	#1W#2E	I strongly believe...	

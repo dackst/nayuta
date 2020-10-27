@@ -4,7 +4,7 @@ EV_8_S13_meet_noi
 0x4b4	0x06	Creha		ANI_FLY_SIT	
 0x5e1	0x06	Signa		ANI_FLY_SIT	
 0x658	0x06	ALTO		ANI_LOOK_AROUND	
-0x685	0x98	ALTO	#0W	...A world...without color...	
+0x685	0x98	ALTO	#0W	...A world... without color...	
 0x6c1	0x98	ALTO	#0W	What is this place...?	
 0x74b	0x06	ALTO		ANI_THINK2	
 0x773	0x98	ALTO		I remember fighting	
@@ -23,7 +23,7 @@ EV_8_S13_meet_noi
 0x1148	0x98	ALTO		Or, am I outside...?	
 0x1190	0x06	Noi2		ANI_DENY	
 0x11b6	0x98	Noi2	#0W	...No, Nayuta. We're still	
-				inside the Inner World.	
+				in the Inner World.	
 0x120d	0x98	Noi2	#0W	This place, it serves as a	
 				reflection of my inner self.	
 0x1264	0x98	Noi2	#0W	A year ago, I... I was
@@ -42,13 +42,13 @@ EV_8_S13_meet_noi
 0x14f4	0x98	Noi2	#0W	...I owe everyone
 				an apology, Nayuta.	
 0x1547	0x98	Noi2	#0W	Because the abnormalities	
-				of the Astrolabe this time...	
+				in the Astrolabe this time...	
 				They're all my fault.	
 0x15dd	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x160c	0x98	ALTO	#0W	Huh...	mp_0001 0x166ea
+0x160c	0x98	ALTO	#0W	Huh...?	mp_0001 0x166ea
 0x16ed	0x98	Noi2	#0W	...Back then, I was	
 				ready to disappear...	
-0x175c	0x98	Noi2	#0W	But...at the last moment,	
+0x175c	0x98	Noi2	#0W	But... at the last moment,	
 				my memories of everyone
 				all came pouring back.	
 0x180d	0x98	Noi2	#0W	Joking around with Cygna.	
@@ -97,7 +97,7 @@ EV_8_S13_meet_noi
 0x23d0	0x98	ALTO		Noi...!?	
 0x24aa	0x98	Noi2	#0W	I don't have much time left...	
 				I have started to become corrupted	
-				by the Astrolabe abnormalities myself.	
+				by the errors in the Astrolabe myself.	
 0x2587	0x98	Noi2	#0W	...Nayuta, that idol was my other	
 				self, created by the abnormalities.	
 0x2603	0x98	Noi2	#0W	Now that my armor is pierced,	

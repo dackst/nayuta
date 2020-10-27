@@ -39,12 +39,12 @@ EV_3_S13_find_yupina
 0x10d7	0x06	NOI		ANI_NOD	
 0x10fb	0x98	NOI		It sure can!	
 0x112a	0x98	NOI		First we have to go after Zext!	
-				He should be at the Temple by now...!	
+				He should be at the temple by now...!	
 0x11e7	0x06	ALTO		ANI_WAIT	
 0x1238	0x98	ALTO	#6A	...Okay. Can't give up	
 				until the very end, huh?	
 0x1294	0x06	ALTO		ANI_JOY	
-0x12b9	0x98	ALTO	#6A	mp_1099 0x152c1
+0x12b9	0x98	ALTO	#6A	Let's go, Noi!	mp_1099 0x152c1
 0x12f2	0x06	NOI		ANI_GUTSPOSE	
-0x131b	0x98	NOI		mp_0001 0x1174e
-0x149b	0xCE	Objective		Let's hurry to the Temple. We'll take back the Master Gear!	
+0x131b	0x98	NOI		Yeah!	mp_0001 0x1174e
+0x149b	0xCE	Objective		Let's hurry to the temple. We'll take back the Master Gear!	
