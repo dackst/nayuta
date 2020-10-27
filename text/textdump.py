@@ -1,6 +1,9 @@
 import os
 from functools import partial
 
+if not os.path.exists("dumped"):
+    os.makedirs("dumped")
+
 def get_s(f, pos):
     saved_pos = f.tell()
     f.seek(pos)
@@ -20,7 +23,7 @@ def generic_dump(filename, record_size, string_offset):
             s = get_s(f, pos + string_offset)
             output.append((hex(pos + string_offset), s))
             pos += record_size
-    with open('{}.tsv'.format(filename), 'w', encoding = 'utf-8') as f:
+    with open('dumped/{}.tsv'.format(filename), 'w', encoding = 'utf-8') as f:
         f.write('\n'.join('\t'.join((offset, s)) for offset, s in output))
 
 generic_dump('helplib',     0x28,   0x8)
@@ -37,7 +40,7 @@ def generic_dump_multi(filename, initial_offset, record_size, offset_tuple):
                 s = get_s(f, pos + offset)
                 output.append((hex(pos + offset), _type, s))
             pos += record_size
-    with open('{}.tsv'.format(filename), 'w', encoding = 'utf-8') as f:
+    with open('dumped/{}.tsv'.format(filename), 'w', encoding = 'utf-8') as f:
         first = True
         for offset, _type, s in output:
             if s == 'NULL':

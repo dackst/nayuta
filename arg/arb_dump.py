@@ -10,7 +10,7 @@ area_names = []
 chr_names = []
 for filename in os.listdir('orig'):
     basename = os.path.splitext(filename)[0]
-    with open(r'orig\{}'.format(filename), 'rb') as f:
+    with open(os.path.join('orig', filename), 'rb') as f:
         filedata = f.read()
     pos = -1
     for x in range(3):
@@ -39,9 +39,12 @@ for filename in os.listdir('orig'):
         else:
             s_dic[s] = '{} {}'.format(basename, hex(pos))
         chr_names.append((basename, hex(pos), 'chr name', s))
-        
-with open('area_names.tsv', 'w', encoding = 'utf-8') as f:
+     
+if not os.path.exists("dumped"):
+    os.makedirs("dumped")
+           
+with open(os.path.join('dumped', 'area_names.tsv'), 'w', encoding = 'utf-8') as f:
     f.write('\n'.join('\t'.join(x) for x in area_names))
-with open('chr_names.tsv', 'w', encoding = 'utf-8') as f:
+with open(os.path.join('dumped','chr_names.tsv'), 'w', encoding = 'utf-8') as f:
     f.write('\n'.join('\t'.join(x) for x in chr_names))
 

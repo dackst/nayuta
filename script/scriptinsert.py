@@ -3,6 +3,9 @@ import os
 import pdb
 import re
 import struct
+import sys
+sys.path.insert(0, '..')
+import address_mapper
 
 #specifies position of (first) string argument within each opcode
 arg_pos = {
@@ -12,7 +15,7 @@ arg_pos = {
     0x40:   1,
     0x41:   3,
     0x98:   1,
-    0xC1:   1,
+    0xC1:   3,
     0xC9:   1,
     0xCE:   1}
 #specifies location of pointer argument within each opcode
@@ -35,9 +38,11 @@ arg_pos_ptr = {
 #C9	1
 #CE	1
 
-INPUT_FOLDER = 'merged'
+INPUT_FOLDER = 'input'
 OUTPUT_FOLDER = 'output'
 INSERT_COL = 4
+
+mapping = address_mapper.get_mapping('dumped', INPUT_FOLDER)
 
 #Holds: addr, opcode/microcode number
 class Op(object):
@@ -45,19 +50,33 @@ class Op(object):
         self.addr = int(line[0], 16)
         self.opcode = int(line[1], 16)
         self.code = line[3]
-        self.text = [line[INSERT_COL]]
+        #self.text = ["AAAAAAAA"]
+        self.is_ref = False
+        try:
+            # try to use reference as input if one exists
+            # also try to allow # for script comments?
+            if line[INSERT_COL+1] != "" and not line[INSERT_COL+1].startswith("#"):
+                self.text = [line[INSERT_COL + 1]]
+            else:
+                self.text = [line[INSERT_COL]]
+        except IndexError:
+            self.text = [line[INSERT_COL]]
     def add_line(self, text):
         self.text.append(text)
     def __repr__(self):
         return '{} {}'.format(hex(self.addr), '\n'.join(self.text))
     def check_ref(self):
         if (re.match('mp_', self.text[0]) or
-            re.match('noi', self.text[0]) or
-            re.match('system', self.text[0])):
+            # would originally break if the strings "system" or 
+            # "noi" appeaered in any actual dialogue
+            re.match('noi 0x', self.text[0]) or
+            re.match('system 0x', self.text[0])):
+            self.is_ref = True
             self.ref, self.ref_addr = self.text[0].split(' ')
             self.ref_addr = int(self.ref_addr, 16)
+            self.ref_addr = mapping[self.ref][self.ref_addr]
         else:
-            self.ref = False
+            self.is_ref = False
     def get_args(self, origdata):
         end_pos, self.args = argparse(origdata, self.addr)
         self.size = 2 + len(b''.join(self.args))
@@ -67,6 +86,8 @@ class Op(object):
             return
         #check to see if opcode has speed parameter
         if 'W' not in self.code:
+            # more speedy bois 
+#            self.code += "0W"
             return
         speed_pos = self.code.find('W') - 1
         orig_speed = int(self.code[speed_pos]) + 1
@@ -85,6 +106,13 @@ class Op(object):
         new_speed = int(orig_time / new_len) - 1
         if new_speed < 0:   #0 is the fastest it can go (1 character per frame)
             new_speed = 0
+       
+        # speedy boi    
+        if new_speed > orig_speed:
+            new_speed = orig_speed
+        if new_speed > 2:
+            new_speed = 2
+        
         #writeback the new speed
         self.code = ''.join((
             self.code[:speed_pos], str(new_speed), self.code[speed_pos + 1:]))
@@ -179,7 +207,7 @@ def ensure_dir(dirname):
         os.makedirs(dirname)
 
 def scriptinsert(filename):
-    with open(r'orig\{}.bin'.format(filename), 'rb') as f:
+    with open(os.path.join('orig', filename + '.bin'), 'rb') as f:
         filedata = bytearray(f.read())
     origdata = bytes(filedata)
     pos = 0x18
@@ -211,19 +239,26 @@ def scriptinsert(filename):
     for key in sorted(inputdata[filename]):
         op = inputdata[filename][key]
         op.get_args(origdata)
-        op.check_ref()
 
         #resolve ref
-        if op.ref:
+        count = 0 # ensure no circular references added to script
+        refs = []
+        while op.is_ref:
             try:
                 op.text = inputdata[op.ref][op.ref_addr].text
+                op.check_ref()
+                count += 1
             except KeyError:
                 print('{}: Ref {} {} not found'.format(
                     hex(op.addr), op.ref, op.ref_addr))
-                continue
+                exit()
+            if count > 5:
+                print(refs)
+                raise ValueError("Possible circular reference starting with", hex(op.addr))
+                
                     
         if ''.join(op.text) == '':
-            print('{}: {}: Blank input'.format(filename, hex(op.addr)))
+            print('{}: {}: Blank input'.format(basename, hex(op.addr)))
             continue
 
         op.adjust_speed(origdata)
@@ -260,21 +295,22 @@ def scriptinsert(filename):
         tgt = tgt - (ptr + 4)
         filedata[ptr:ptr + 4] = struct.pack('<i', tgt)
 
-    with open(r'{}\{}.bin'.format(OUTPUT_FOLDER, filename), 'wb') as f:
+    with open(os.path.join(OUTPUT_FOLDER, filename + ".bin"), 'wb') as f:
         f.write(filedata)
 
 ensure_dir(OUTPUT_FOLDER)
 print('Load input')
 inputdata = {}
-for filename in (os.path.splitext(x)[0] for x in os.listdir(INPUT_FOLDER)):
+for filename in os.listdir(INPUT_FOLDER):
     basename = os.path.splitext(filename)[0]
+    print(basename)
     inputdata[basename] = {}
 
     #load input
-    with open(r'{}\{}.tsv'.format(
-        INPUT_FOLDER, basename), 'r', encoding='utf-8') as f:
+    with open(os.path.join(INPUT_FOLDER, filename), 'r', encoding='utf-8') as f:
         for line in f:
             line = line.rstrip('\r\n').split('\t')
+            print(line)
             if line[0] == '':
                 inputdata[basename][addr].add_line(line[INSERT_COL])
             try:
@@ -286,6 +322,11 @@ for filename in (os.path.splitext(x)[0] for x in os.listdir(INPUT_FOLDER)):
             if int(line[1], 16) in (0x06, 0x6B, 0xBC):
                 continue
             op = Op(line)
+            
+            # fix object addresses
+            op.addr = mapping[basename][op.addr]
+            op.check_ref()
+            
             addr = op.addr
             inputdata[basename][addr] = op
 print('Insert')
