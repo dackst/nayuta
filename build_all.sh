@@ -3,15 +3,14 @@
 # script to build outside windows, but requires a wineprefix with python 3 installed
 export WINEPREFIX=
 
+cd script
+python3 scriptinsert.py
 
 cd ../arg
 python3 arb_insert.py
 
 cd ../EBOOT
 python3 nayuta_eboot_insert_v2.py
-
-cd script
-python3 scriptinsert.py
 
 cd ../text
 python3 textinsert.py

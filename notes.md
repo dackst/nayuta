@@ -287,9 +287,8 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
     * I think it was correct as of 2012, but it appears koi have since been reclassified under a different species (Cyprinus rubrofuscus)
 * Moon bird egg: Egg of destruction beast -> Moon bird eggs: Eggs of an extinct animal
 * Unopened Box (from Orvus sidequest) -> Locked Box
-* Shard <Name> -> Name Shard
-  * Shard <Light of Wisdom> -> Enlightenment Shard
-  * Shard <Shining Star> -> Glittering Star Shard
+* Shard \<Name> -> Name Shard
+  * Shard \<Light of Wisdom> -> Enlightenment Shard
 * Zemuria Stone -> Zemurian Ore
 * White/Crimson/Deep Crystal -> White/Crimson/Deep Ore
 
@@ -471,7 +470,7 @@ some nonsensical, but spoilerly one-liners I didn't want to screenshot:
   * vs "received special education for gifted children"
 
 ----
-
+#### ys
 in my mind the whole game is basically a retelling of ys i and ii, with some of ys iv/vi giant climate control machine+clan of darkness backstory and a happier ending
   * nayuta - adol (protagonist, likely leaves home to become adventurer at 16-17 years old)
   * cygna - dogi (Heterosexual Life-Partners with protagonist)
@@ -490,14 +489,14 @@ in my mind the whole game is basically a retelling of ys i and ii, with some of 
 
 ---
 
-zemuria references
+#### zemuria references
   * zemurian ore
   * mishy, poms
   * geography 
     * a single continent with Empire that always seems to be at the brink of war with neighbors, but with a purportedly reasonable Prince
     * forests in western parts of continent, cold in northern parts
     * *something* that stops people from sailing too far out at sea
-    * contains a mishy theme park
+    * mishy theme park on continent
   * same measurement units (selge, arge, etc.) and money (mira)
     * current year is 1579 as opposed to early 1200s, so either far in the future (Loewe: "mankind will repeat its mistakes forever") or using a different calendar (no mention of Aidios, though the doctor brings up the lack of a church on Remnant Island so churches must exist elsewhere)
 

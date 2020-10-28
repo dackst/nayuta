@@ -44,13 +44,13 @@ xdelta3 -dfs original.iso patch.xdelta3 patched.iso
 ## Known Issues
 
 ### Issues in this version 
-These issues don't seem to exist in the original 4.15 fan translation release. I think they may be due to problems with the released tools? See [here](#Why-not-just-use-flame's-tools-directly?) for more info.
+These issues don't seem to exist in the original 4.15 fan translation release. I think they may be due to problems with the released tools? See [here](#Why-not-just-use-flame's-tools-directly) for more info.
 * unable to speak to Mishy in early chapters
   * The new game+ sidequest involving Mishy starts late enough to be unaffected, but the special Mishy achievement requires talking to him at every opportunity, so that achievement is unable to be completed.
 * there are some extra stray lines of text in Japanese when reading the tablet at the end of Volans' sidequest. 
 
 ### Issues from original fantranslation that I don't know how/care enough to try to fix myself
-* ingredient location text (press △ on the cooking screen) cannot be changed from the original fan translation, see [here](#Why-not-just-use-flame's-tools-directly?) for more
+* ingredient location text (press △ on the cooking screen) cannot be changed from the original fan translation, see [here](#Why-not-just-use-flame's-tools-directly) for more
 * erasing save data from in-game menu doesn't work
 * there is some strange text spacing in certain spell descriptions
 * text pop up when confusion is inflicted says "panic" instead. This inflicted confusion on me, the player, when I thought they were two different status effects.
@@ -65,7 +65,7 @@ These issues don't seem to exist in the original 4.15 fan translation release. I
 
 ## How do I use the files in this repo?
 
-The original tools require Windows and Python 3. They seem to ["work"](#Why-not-just-use-flame's-tools-directly-on-a-clean-iso?) just as well in Wine if you install a Windows version of Python in a wineprefix. With the changes made in this repo, the Python scripts for the dumping and inserting of binary files should no longer require Windows or Wine, but the beginning extraction step and the final rebuilding step still do due to their use of bundled `.exe` files. 
+The original tools require Windows and Python 3. They seem to ["work"](#Why-not-just-use-flame's-tools-directly-on-a-clean-iso) just as well in Wine if you install a Windows version of Python in a wineprefix. With the changes made in this repo, the Python scripts for the dumping and inserting of binary files should no longer require Windows or Wine, but the beginning extraction step and the final rebuilding step still do due to their use of bundled `.exe` files. 
 
 1. Download [flame's 2017 tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and set up an environment with a clean Japanese iso (Step 1 in the readme.txt included with the tools):
     1. Drag your iso over `_extract_new.bat`
@@ -90,15 +90,15 @@ Before I started, I extracted everything from an iso of the original fantranslat
 However, once I started testing the output, it seemed the released tools only *mostly* work as is. Even if I were to revert all of my changes and try to use them as <del>God</del> flame intended, doing something as simple as dumping and reinserting the Japanese script without changes or replacing all text with the string "AAAAA" creates a number of issues not present in the 4.15 fantranslation release:
   1. item/money received messages in cutscenes are broken (but not all?)
   2. Some text remains in their original Japanese forms: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
-  3. as mentioned before, chapter start/end graphics are still in Japanese
-  3. The text about your next objective that appears when pressing select used flame's translation
-  4. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact
+  3. chapter start/end graphics are still in Japanese
+  4. The text about your next objective that appears when pressing select used flame's translation
+  5. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact
 
 Clearly, there were undocumented shenanigans that went on in the original fantranslation, given that none of these issues exist in its final release.
 
 The way I ultimately dealt with #1, #2, and #3 was to look at files from outside the 2017 tools:
   * translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't present. I simply grabbed the files from the 4.15 release to replace the Japanese versions
-  * copying `USRDIR/pack` folder from the 4.15 translation mostly solved #2. This seems to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for the files listed in #2. At least, this isn't done successfully. Like with #3, grabbing the working files from the `pack` folder in the 4.15 release seems to have solved this issue. However, any changes I make in the `foodarea` and `helplib` files are still not reflected, and they are now stuck using the text from the original fantranslation.
+  * copying `USRDIR/pack` folder from the 4.15 translation mostly solved #2. This seems to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for the files listed in #2. At least, this isn't done successfully. Like with #3, grabbing the working files from the 4.15 release seems to have solved this issue. However, any changes I make in the `foodarea` and `helplib` files are still not reflected, and they are now stuck using the text from the original fantranslation.
   * issue #1 does not exist if I simply do not run the script inserter, but obviously, that leaves me unable to insert any of my script changes. This seemed to indicate something was wrong the script inserter.
     * inserting the script files produced from the [Flame's earlier Python 2 script inserter](https://pastebin.com/vtVwq338) released in 2015 seemed to fix #1, but all non-ascii characters found throughout the script do not display correctly ingame (e.g. ─□×△☆～♪). The game also seems to crash or freeze after talking to certain people, like Orvus. These crashes still occurred even after I tried removing all non-ascii characters from the script.
     * I eventually discovered changing a 1 to a 3 in for the `0xC1` entry in the dictionary defined in the beginning of the Python 3 inserter fixed #1 without introducing the problems in the Python 2 version. The inserter in this repo should include this change.
