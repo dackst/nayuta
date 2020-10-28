@@ -142,7 +142,7 @@
 0x220b70	食材	7	Ingredients	0x220b94	1	
 0x220b78	コレクト	11	Collectible	0x220b98	1	11
 0x220b84	イベント	11	Event	0x220b9c	1	
-0x220ba0	使う	7	Usable			
+0x220ba0	使う	7	Use			
 0x220bd0	進行中	7	Active	0x220be8	1	6
 0x220bd8	達成	7	Done	0x220bec	1	
 0x220be0	失敗	7	Fail	0x220bf0	1	
