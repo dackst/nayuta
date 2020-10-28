@@ -4,8 +4,12 @@
 ![before](https://i.imgur.com/1gWUK3w.jpg)
 ![after](https://i.imgur.com/TT9smIn.jpg)
 
+[More comparison screenshots](https://imgur.com/a/yJB1fTj). These are mostly one-liners that were particularly non-sensical. There shouldn't be any major spoilers if you're interested in avoiding them.
 
-I wasn't happy with the [existing Nayuta no Kiseki English fantranslation](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=73), so I used their [publicly available tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) to make my own edit. You can see more comparison screenshots of one-liners that I thought were particularly non-sensical [here](https://imgur.com/a/yJB1fTj). There shouldn't be any major spoilers if you're interested in avoiding them.
+---
+
+I wasn't happy with the [existing Nayuta no Kiseki English fantranslation](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=73), so I used their [publicly available tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) to make my own edit.
+
 
 Initially I only wanted to only fix various inconsistencies, nonsensical lines, and the awkward direct-from-Japanese punctuation and formatting. Since I can read zero Japanese, I started out by using Google Translate and Linguee for help on rewriting the more confusing lines, and editing the rest myself.
 
@@ -81,9 +85,9 @@ The original tools require Windows and Python 3. They seem to ["work"](#Why-not-
 
 #### Why not just use flame's tools directly?
 
-Before I started, I extracted everything from an iso of the original fantranslation. The addresses of each line in the English script then did not match up with the addresses of each line of the Japanese script, breaking the script insertion, well, script. My changes to the tools were initially so that the addresses from the dumped Japanese files are used instead of the addresses of each line of the input files.
+Before I started, I extracted everything from an iso of the original fantranslation. The addresses of each line in the English script then did not match up with the addresses of each line of the Japanese script, breaking the script insertion, well, script. My changes to the tools were mainly just so that the addresses from the dumped Japanese files are used instead of the addresses of each line of the input files.
 
-The translated graphics are included in with the released 2017 tools, except the chapter titles are missing. This leads to a common theme where the released tools only seem to *mostly* work as is. Even if I were to revert all of my changes and try to use them as <del>God</del>flame intended, doing something as simple as dumping and reinserting the Japanese script without changes or replacing all text with the string "AAAAA" creates a number of issues not present in the 4.15 fantranslation release:
+However, once I started testing the output, it seemed the released tools only *mostly* work as is. Even if I were to revert all of my changes and try to use them as <del>God</del> flame intended, doing something as simple as dumping and reinserting the Japanese script without changes or replacing all text with the string "AAAAA" creates a number of issues not present in the 4.15 fantranslation release:
   1. item/money received messages in cutscenes are broken (but not all?)
   2. Some text remains in their original Japanese forms: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
   3. as mentioned before, chapter start/end graphics are still in Japanese
