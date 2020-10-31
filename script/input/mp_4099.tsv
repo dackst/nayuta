@@ -496,12 +496,12 @@ quest_SpiritD
 0x8e11	0x98	SpiritD		............!	mp_1099 0xb4fd
 0x8e41	0x06	NOI		ANI_GESTURE2	
 0x8e82	0x98	NOI	#6A	It says it appeared during the summer in	
-				"Infernal Crater" in central La Worg!	
+				Infernal Crater in central La Worg!	
 0x8f00	0x98	NOI	#6A	It says it doesn't want to	mp_1099 0xb5ed
 				force you to rush, so go when
 				you're ready and have time.
 0x8f82	0x98	NOI	#6A	It says it appeared during the summer in	
-				"Infernal Crater" in central La Worg!		
+				Infernal Crater in central La Worg!		
 0x9000	0x98	NOI	#6A	It doesn't want to force you to rush,	mp_1099 0xb6ef
 				so go when you're ready and have time.
 0x9076	0x06	ALTO		ANI_NOD	

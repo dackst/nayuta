@@ -327,7 +327,7 @@ EV_6_S05_meet_dorado
 				Are you feeling any better, too?	
 0x52d4	0x06	NOI		ANI_NOD	
 0x52f8	0x98	NOI	#6A	Y-Yeah, well, for now,	
-				my body is feels fine.	
+				my body is feeling fine.	
 0x533f	0x06	NOI		ANI_GESTURE1	
 0x5368	0x98	NOI	#6A	By the way, what are	
 				you doing out here?	

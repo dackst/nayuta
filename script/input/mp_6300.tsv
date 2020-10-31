@@ -85,7 +85,7 @@ EV_6_S25_usi_boss
 0x2e1a	0x98	NOI	#6A	We can't let Lady	
 				Creha do that!	
 0x2e6e	0x06	ALTO		ANI_JOY	
-0x2e93	0x98	ALTO	#6A	Yeah, we have stop this	
+0x2e93	0x98	ALTO	#6A	Yeah, we have to stop this	
 				thing, no matter what!	
 0x2f54	0x06	Erislet		ANI_DENY	
 0x2f7d	0x98	Erislet		...How sweet.	

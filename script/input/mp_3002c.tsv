@@ -88,7 +88,7 @@ SB_4_S03_move_ALTO
 SB_4_S03_move_NOI
 EV_4_S03_help_algorl
 0x2c6b	0x06	ALTO		ANI_SURPRISE	
-0x2c95	0x98	ALTO		There used to be a giant block of ice...	
+0x2c95	0x98	ALTO		There used to be a giant block of ice here...	
 				It's completely melted!	
 0x304a	0x06	NOI		ANI_GESTURE1	
 0x3073	0x98	NOI	#6A	Algol, are you okay!?	

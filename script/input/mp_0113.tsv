@@ -95,7 +95,7 @@ talk_Sasha_add
 0x1c0e	0x98	Sasha		Oh Nayuta, it seems that you've	mp_0113 0x1947
 				brought me a cocoon again.
 0x1c64	0x98	Sasha		It looks like a pretty rare one too...	
-				Gow did you manage to find that...?	
+				How did you manage to find that...?	
 0x1cdb	0x98	ALTO		Haha, I just found it by chance.	
 0x1d2c	0x98	ALTO		Anyway, I'm giving	
 				this to you, Sasha.	
@@ -148,9 +148,9 @@ talk_Sasha_sub
 0x2976	0x98	Sasha		Grandmother and Norma came	
 				to visit because of the	
 				upcoming Star Festival.	
-0x29df	0x98	Sasha		...Though my Grandmother is still the	
-				same as she always is, she seems to	
-				have mellowed out a bit too.	
+0x29df	0x98	Sasha		...Though Grandmother is still the	
+				same as she always is, she seems	
+				to have mellowed out a bit too.	
 0x2a5b	0x98	Sasha		Hmm, maybe it won't be so bad for	
 				the three of us to enjoy the Star	
 				Festival together this year.	

@@ -654,7 +654,7 @@ talk_Gruz
 				life pursuing cooking.	
 0x9e33	0x98	Gruz		There's no way that the food I	
 				make won't be delicious!	
-				Wouldn't you agree Nayu, my boy?	
+				Wouldn't you agree, Nayu, my boy?	
 0x9eb0	0x6B	ALTO		Sweatdrop	
 0x9ee2	0x98	ALTO		Well, um, yeah...
 0x9f18	0x98	ALTO		(Maybe if he didn't try to get	
@@ -664,19 +664,19 @@ talk_Gruz
 				I've spent my whole life pursuing cooking.	
 0xa03b	0x98	Gruz		There's no way that the food I	mp_0112 0x9e33
 				make won't be delicious!
-				Wouldn't you agree Nayu, my boy?
+				Wouldn't you agree, Nayu, my boy?
 0xa0e0	0x98	Gruz		There's no way my food	
 				would not be delicious!	
 0xa137	0x98	Gruz		Therefore, the pursuit of	
 				new dishes is my mission!	
-0xa1cd	0x98	Gruz		Hmm... Because of that crash the	
+0xa1cd	0x98	Gruz		Hmm... Because of that crash,	
 				all the salt and the pepper in	
 				the bottles got mixed in it...	
-0xa238	0x98	Gruz		...I'll just finish for now.	
+0xa238	0x98	Gruz		...I'll just finish it for now.	
 				It might open a new door to	
 				unexpected flavors.	
 0xa2a2	0x6B	ALTO		Sweatdrop	
-0xa2fc	0x98	Gruz		...I'll just finish for now.	mp_0112 0xa238
+0xa2fc	0x98	Gruz		...I'll just finish it for now.	mp_0112 0xa238
 				It might open a new door to
 				unexpected flavors.
 0xa39c	0x6B	Gruz		Surprise	
@@ -2589,7 +2589,7 @@ QS_25_quest_end
 				Are you sure you want to have this?	
 0x23ac5	0x06	Hydol		ANI_GESTURE1	
 0x23af0	0x98	Hydol		You know, it's just a small	
-				token of my graditude.	
+				token of my gratitude.	
 0x23b3d	0x98	Hydol		Please, take it.	
 0x23b83	0x06	ALTO		ANI_THANKS	
 0x23bab	0x98	ALTO	#6A	Haha, I'll take your	
@@ -2777,7 +2777,7 @@ QS_41_undertake
 0x2640a	0x98	Victor		...This all happened	
 				because YOU didn't look	
 				after Equulea properly!	
-0x2646e	0x98	Victor		Even so, hpw can you still	
+0x2646e	0x98	Victor		Even so, how can you still	
 				call yourself her mother!?	
 0x264bc	0x6B	Pecula		Unknown	
 0x26532	0x98	Pecula		Oh my, you think it's MY fault!?	

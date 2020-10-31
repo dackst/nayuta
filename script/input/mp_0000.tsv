@@ -32,7 +32,7 @@ talk_Dorado
 0x2ae8	0x98	Dorado		*yawn*... But it's	
 				so peaceful now.	
 0x2b2e	0x98	Dorado		The fallen rubble has been cleared out, 	
-				and all the building damage has been`
+				and all the building damage has been
 				completely repaired...	
 0x2b9d	0x98	Dorado		It's hard to believe something so	mp_0000 0x2a58
 				crazy happened only a year ago.
@@ -303,7 +303,7 @@ talk_Lupus
 0x5f99	0x98	Lupus		I'll go see how she's doing later.	
 0x5fdc	0x98	Lupus		...Sorry, but I should let	
 				my grandpa know first.	
-0x6065	0x98	Lupus		There exists some people who	
+0x6065	0x98	Lupus		There exist some people who	
 				claim this world is spherical.		
 0x60ce	0x98	Lupus		There sure are some weirdos	
 				out there, aren't there?	
@@ -960,7 +960,7 @@ QS_38_quest_start
 				you'll take my request?	
 0xea2d	0x06	Horolo		ANI_TALK	
 0xea55	0x98	Horolo		If you don't mind, can you	mp_0000 0xe8fd
-				you listen to her request?
+				listen to her request?
 0xeaab	0x06	Horolo		ANI_WAIT	
 0xeaf5	0x36	Choice		[Accept]	
 0xeb0b	0x36	Choice		[Quit]	
@@ -1528,7 +1528,7 @@ QS_34_think_and_flash
 				 specialized in incense.)	
 0x17150	0x98	ALTO		(They were pretty popular, and they had	
 				 one where the fragrance was supposed	
-				 to make to you feel at peace.) 
+				 to make you feel at peace.) 
 0x171f0	0x06	ALTO		ANI_WAIT4	
 0x17217	0x98	ALTO		(...Ugh, I don't even remember	
 				 what it's called...)	

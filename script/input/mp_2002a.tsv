@@ -73,7 +73,7 @@ QS_35_meet_cetus
 0x253b	0x98	Cetus		She said something about "finding treasure"
 				and went off on her own, poking around in	
 				some monster nests...
-0x25c1	0x98	Cetus		And after chased by vicious	
+0x25c1	0x98	Cetus		And after being chased by vicious	
 				monsters, I ended up here...	
 0x2637	0x98	Cetus		But there's no sign	
 				of Reticul...	
@@ -131,7 +131,7 @@ QS35_Ev_Reticul
 				from Cetus, too...	
 0x32d6	0x06	Reticul		ANI_GUTSPOSE	
 0x3303	0x98	Reticul		...Ooh～, I'll never give up!	
-				I will fine that treasure for sure!	
+				I will find that treasure for sure!	
 0x33d5	0x6B	ALTO		Sweatdrop	
 0x33ff	0x6B	NOI		Sweatdrop	
 0x3430	0x98	NOI	#6A	We finally found her, but...	
@@ -151,7 +151,7 @@ QS35_Ev_Reticul
 0x383d	0x98	Cetus		Hey Reticul, you should	
 				thank them too.	
 0x3899	0x06	Reticul		ANI_WAIT3	
-0x38c3	0x98	Reticul		No. I haven't	
+0x38c3	0x98	Reticul		No. I haven't done	
 				anything wrong.	
 0x390f	0x6B	Cetus		Sweatdrop	
 0x394f	0x06	Cetus		ANI_DEJECTED	
@@ -251,7 +251,7 @@ QS35_Ev_Reticul
 				it a secret from Uncle for now.	
 0x4aeb	0x98	Reticul		...No, it's okay.	
 0x4b22	0x98	Reticul		I've decided not to come back until	
-				I've find an amazing treasure.	
+				I've found an amazing treasure.	
 0x4b86	0x06	Cetus		ANI_DENY	
 0x4bad	0x98	Cetus		Oh, man... Stubborn	
 				in such a weird way.	
@@ -286,7 +286,7 @@ QS35_Ev_Reticul
 0x518d	0x06	Cetus		ANI_GESTURE2	
 0x51b8	0x98	Cetus		Anyway, thanks to both of you	
 				for your help this time.	
-0x5208	0x98	Cetus		I'd love to show you my graditude,	
+0x5208	0x98	Cetus		I'd love to show you my gratitude,	
 				but I can't let Reticul run off	
 				again, so I should be going.	
 0x5283	0x98	Cetus		I've got to rein her in somehow to	

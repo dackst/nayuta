@@ -170,7 +170,7 @@ talk_Asa_sub
 				of different things in the village.	
 0x4a37	0x98	Asa		She says that it's interesting	
 				seeing so many new things not	
-				found on the other world.	
+				found in the other world.	
 0x4a91	0x98	Asa		And sometimes, she even offers	
 				to help me with my work.	
 				Hehe, she's such a sweet girl.	
@@ -1266,7 +1266,7 @@ QS_81_quest_end
 				but I feel that I understand him.	
 0x14847	0x98	Aulbath		Maybe because I am also	
 				a father figure to Cygna.	
-0x14896	0x98	Aulbath		...One doen't want to let their kids forget.	
+0x14896	0x98	Aulbath		...One doesn't want to let their kids forget.	
 				Especially the happy times.	
 0x148f2	0x06	ALTO		ANI_NOD	
 0x14917	0x98	ALTO	#6A	...Understood.	
@@ -2441,7 +2441,7 @@ EV_3_S27_bring_creha
 				than leaving her to live	
 				somewhere out by herself.	
 0x2d816	0x98	Asa	#6A	Not to mention, spending time with the	
-				islanders might provide good stimulus	
+				islanders might provide a good stimulus	
 				for addressing her memory loss.	
 0x2d8ab	0x06	NOI		ANI_SIT1_NOD	
 0x2d8dc	0x98	NOI		Th-This could be a good idea!	
@@ -2600,7 +2600,7 @@ EV_6_S02_state_order
 0x31f94	0x06	ALTO_pj		ANI_SIT2_NOD	
 0x31fc1	0x98	ALTO_pj	#6A	...Sorry for worrying you, Eartha.	
 0x32011	0x06	ALTO_pj		ANI_SIT2_GESTURE2	
-0x32043	0x98	ALTO_pj	#6A	...Looks like a lot has been 
+0x32043	0x98	ALTO_pj	#6A	...Looks like a lot has been
 				happening at the village, too.	
 0x320a6	0x06	Asa		ANI_SIT1_GESTURE1	
 0x320d4	0x98	Asa		...A few days before you and Noi	

@@ -266,7 +266,7 @@ QS_44_quest_end
 				Algol's power	
 				is restored!	
 0x6cab	0x98	NOI	#6A	Now that Algol has his true power,	
-				wehave nothing to fear from Zext!	
+				we have nothing to fear from Zext!	
 0x6d39	0x98	Algorl		...No, it is not that simple.	
 0x6d78	0x98	Algorl		With my power, I can	
 				certainly hold him back	
@@ -506,12 +506,12 @@ quest_SpiritD
 0xa06d	0x98	SpiritD		...～～～...!	
 0xa09d	0x06	NOI		ANI_GESTURE2	
 0xa0de	0x98	NOI	#6A	It said it appeared during the spring in	
-				"Heavenly Mountain," in midwestern Heimmel!	
+				Heavenly Mountain, in midwestern Heimmel!	
 0xa16b	0x98	NOI	#6A	It says it doesn't want to	mp_1099 0xb5ed
 				force you to rush, so go when
 				you're ready and have time.
 0xa1ed	0x98	NOI	#6A	It seems to have appeared during	
-				the spring in "Heavenly Mountain,"	
+				the spring in Heavenly Mountain,	
 				in midwestern Heimmel!	
 0xa27b	0x98	NOI	#6A	It doesn't want to force you to rush,	mp_1099 0xb6ef
 				so go when you're ready and have time.

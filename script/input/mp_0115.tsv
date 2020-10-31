@@ -469,7 +469,7 @@ talk_Caelum_sub
 				regular clothes...	
 0x83a5	0x98	Caelum		Give them back, Caelum...	
 0x83e9	0x98	Caelum		Once I'm back with my normal	
-				clothes, I can get return to	
+				clothes, I can get back to	
 				my research again...	
 0x8481	0x3F	Name		Researcher Coron	mp_0115 0x4434
 0x84b3	0x98	Caelum		W-Welcooome... Welcome to the	
@@ -600,7 +600,7 @@ talk_Vavo
 				these anomalies.	
 0x9c78	0x98	Vavo		No matter where you go, you can't escape...	
 				I can't help but feel that way.	
-0x9d06	0x98	Vavo		I feel hopeless about these	
+0x9d06	0x98	Vavo		I feel hopeless about	
 				these anomalies.
 0x9d5e	0x98	Vavo		No matter where you go, you can't escape...	mp_0115 0x9c78
 				I can't help but feel that way.

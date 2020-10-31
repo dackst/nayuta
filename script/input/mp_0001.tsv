@@ -45,7 +45,7 @@ talk_Bootie
 				Could you have picked them up	
 				from around here!?	
 0x1ef0	0x98	Bootie		Heheheh, that's right.	
-0x1f22	0x98	Bootie		When the ruins fell down,	
+0x1f22	0x98	Bootie		When the ruins fall down,	
 				a lot of these small shards	
 				wash up, right?	
 0x1f80	0x98	Bootie		Well, I picked up most of the	
@@ -573,7 +573,7 @@ QS_15_quest_false
 				wanted to find more, but...	
 0xa803	0x06	Bootie		ANI_DULL	
 0xa82b	0x98	Bootie	#6A	Tch, don't apologize so much.	
-				That just annoying.	
+				That's just annoying.	
 0xa887	0x98	Bootie	#6A	Wow, you found over half of them.	mp_0001 0x26b4
 				I'll keep looking for the rest.
 0xa8fc	0x98	Bootie	#6A	...Thanks, Nayuta.	mp_0001 0x2725
@@ -645,7 +645,7 @@ QS_35_quest_start
 				I won't stop you.	
 0xbc60	0x06	Ursaminor		ANI_WAIT3	
 0xbc8c	0x98	Ursaminor		...Help me find my sister.	
-0xbd39	0x98	Ursaminor		...If really want	mp_0001 0xbc04
+0xbd39	0x98	Ursaminor		...If you really want	mp_0001 0xbc04
 				to help, then...
 				I won't stop you.
 0xbd95	0x06	Ursaminor		ANI_WAIT3	
@@ -659,9 +659,9 @@ QS_35_quest_start
 0xbf79	0x98	Ursaminor		...Oh, yeah?	
 				Okay, then.	
 0xbfe1	0x06	ALTO		ANI_SCRATCH_HEAD	
-0xc00f	0x98	ALTO	#6A	(Her sister that left home, huh?	
-				 I'd like to help out if I get	
-				 the chance...)	
+0xc00f	0x98	ALTO	#6A	(Her runaway sister, huh?	
+				 I'd like to help out if	
+				 I get the chance...)	
 QS_35_undertake
 0xc14d	0x06	ALTO		ANI_THANKS	
 0xc175	0x98	ALTO	#6A	...Yeah, I'll help.	
@@ -896,7 +896,7 @@ QS_82_quest_end
 				Great Fairy to say as much about me. This	
 				year's offerings were a great success.	
 0xf9ed	0x98	Serpent	#6A	Good work, you two. As a	
-				token of my graditude,	
+				token of my gratitude,	
 				please accept this.	
 0xfaa8	0x06	Serpent		ANI_HANDOVER	
 0xfaf5	0xC1	System		received.	mp_0000 0x12596
@@ -956,7 +956,7 @@ EV_0_S10_meet_okita
 				yet there are signs of the presence	
 				of monsters within.	
 0x11479	0x98	Aulbath	#6A	While the sea is still calming down,	
-				we will need to wait before going	
+				we should wait here before going	
 				inside to take a closer look.	
 0x1151b	0x06	Signa		ANI_JOY	
 0x115d5	0x98	Signa		All right, let's go, Nayuta!	
@@ -1160,9 +1160,8 @@ EV_8_S02_meet_lyra
 0x15169	0x98	Lyra	#0W	U-Umm... Not to piggyback on the	
 				last thing or anything, but...	
 0x151e5	0x06	Lyra		ANI_GESTURE1	
-0x1522d	0x98	Lyra		...I want to continue to	
-				to support you from the	
-				bottom of my heart.	
+0x1522d	0x98	Lyra		...I want to continue to support	
+				you from the bottom of my heart.	
 0x1529d	0x06	ALTO		ANI_NOD	
 0x152c2	0x98	ALTO	#6A	S-Sure. I'm glad to hear it, but...	
 0x15308	0x98	ALTO	#6A	Why say this now all of a sudden?	
@@ -1178,7 +1177,7 @@ EV_8_S02_meet_lyra
 0x15aa6	0x98	ALTO		The falling ruins phenomenon...	
 				It seems different than before.	
 0x15b09	0x6B	ALTO		Ellipsis	
-0x15b3b	0x98	ALTO		...It was on the ruin over there.	
+0x15b3b	0x98	ALTO		...It fell on the ruin over there.	
 				Let's go see, Lyra!	
 0x15c43	0x06	Lyra		ANI_COMPLAIN	
 0x15c6d	0x98	Lyra		Hey, wait a second!	

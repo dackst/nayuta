@@ -76,7 +76,7 @@ talk_Erislet
 				need me. Keep up the good	
 				work going forward!	
 0x2749	0x98	Erislet		I've only heard about	
-				Zext secondhandedly.	
+				Zext second handedly.	
 0x2791	0x98	Erislet		Apparently, he's Lady Creha's father.	
 				But... what the hell happened to him?
 0x27f1	0x98	Erislet		...In any case, he's clearly wreaking	
@@ -119,8 +119,8 @@ quest_Erislet
 0x2f32	0x98	Erislet		Anyway, I'm glad you found it.	
 				Please give my regards to Nemeas.	
 0x2fa6	0x98	Erislet		On the presence of Nemeas' nymph,	
-				it was somewhere around "Scrying	
-				Pool Caves" in mid-eastern Rieseweld.	
+				it was somewhere around Scrying	
+				Pool Caves in mid-eastern Rieseweld.	
 0x3054	0x98	Erislet		You should search for it with	
 				the season set to winter.	
 0x30b7	0x98	Erislet		It seemed quite disoriented, so	
@@ -370,8 +370,8 @@ QS_33_quest_end
 0x678a	0x06	NOI		ANI_GUTSPOSE	
 0x67b3	0x98	NOI	#6A	I'll try getting	
 				some use out of it!	
-0x6832	0x98	Erislet		Then, I have to be	
-				going back to my work.	
+0x6832	0x98	Erislet		Then, I have to go	
+				back to my work.	
 0x6883	0x98	Erislet		I'll be here if you guys	mp_2099 0x26b0
 				need me. Keep up the good
 				work going forward!
@@ -504,13 +504,13 @@ quest_SpiritD
 0x8344	0x98	SpiritD		............!	mp_1099 0xb4fd
 0x8374	0x06	NOI		ANI_GESTURE2	
 0x83b5	0x98	NOI	#6A	It says it appeared during the	
-				autumn of "Scrying Pool Caves"	
+				autumn of Scrying Pool Caves	
 				in central Rieseweld!	
 0x8445	0x98	NOI	#6A	It says it doesn't want to	mp_1099 0xb5ed
 				force you to rush, so go when
 				you're ready and have time.
 0x84bf	0x98	NOI	#6A	It seems to have appeared in the
-				autumn of "Scrying Pool Caves"	
+				autumn of Scrying Pool Caves	
 				in central Rieseweld!	
 0x8543	0x98	NOI	#6A	It says it doesn't want to	mp_1099 0xb5ed
 				force you to rush, so go when
@@ -528,9 +528,9 @@ quest_SpiritD
 				comforted it a little.	
 0x876e	0x06	NOI		ANI_GUTSPOSE	
 0x87af	0x98	NOI	#6A	Nayuta, let's try heading to the	
-				autumn of "Scrying Pool Caves" soon!	
+				autumn of Scrying Pool Caves soon!	
 0x8825	0x98	NOI	#6A	Let's try heading to the autumn	
-				of "Scrying Pool Caves" soon!
+				of Scrying Pool Caves soon!
 0x88bf	0x07	System	#3C	Quest [A Nymph's Request] started!	
 0x89d3	0x06	ALTO		ANI_WAIT	
 0x89f9	0x06	NOI		ANI_WAIT	

@@ -6,7 +6,7 @@ talk_Cetus
 				know what would have happened	
 				if you guys didn't come...	
 0x5ad	0x98	ALTO		Haha, I'm glad we were able to help.	
-0x5f4	0x98	NOI		Return and don't take any sidetrips.	
+0x5f4	0x98	NOI		Return and don't take any side trips.	
 				Terra is a very dangerous place!	
 0x65b	0x98	Cetus		Thank you, Noi.	
 0x68b	0x98	Cetus		...At first, I thought you were paranoid, but you	
@@ -40,7 +40,7 @@ talk_Reticul
 				you noticed?	
 0xb7f	0x98	Reticul		Yeah, kinda.	
 0xbad	0x98	Reticul		I know what the insides of star shards look like.	
-				I've sneaked glipses of Papa's merchandise.	
+				I've sneaked glimpses of Papa's merchandise.	
 0xc29	0x98	Reticul		More importantly, my gut tells me this～:	
 				This is a world that's worth protecting.	
 0xc9e	0x98	ALTO		(Reticul... You seem to have	
@@ -130,7 +130,7 @@ SUB_meet_adventurer
 				and return to Remnant Island already!	
 0x2063	0x06	Reticul		ANI_WAIT4	
 0x208d	0x98	Reticul		Thanks for your help.	
-0x20ce	0x98	Reticul		We didn't found any treasure,	
+0x20ce	0x98	Reticul		We didn't find any treasure,	
 				but I guess it can't be helped.	
 				We'll go home as promised.	
 0x214e	0x06	Reticul		ANI_WAIT3	
@@ -268,7 +268,7 @@ EV_1_S07_temple_front
 0x470a	0x98	NOI	#6A	It's pretty complicated to explain.	
 				Humans probably wouldn't understand.	
 0x4776	0x06	ALTO		ANI_THINK	
-0x479d	0x98	ALTO		(Ooh, that sounds interestinf...)	
+0x479d	0x98	ALTO		(Ooh, that sounds interesting...)	
 0x47d9	0x98	ALTO		(Maybe I can ask again once	
 				 things have calmed down...)	
 0x4882	0x6B	ALTO		Exclamation	
@@ -326,7 +326,7 @@ EV_1_S07_temple_front
 0x57f5	0x98	NOI	#6A	Zext is probably at the altar,	
 				the continental control unit	
 				at the summit...		
-0x5881	0x98	NOI	#6A	We gotta to catch him	
+0x5881	0x98	NOI	#6A	We gotta catch him	
 				before he leaves...!	
 0x5916	0x98	ALTO		Let's go, Cygna!	
 0x5988	0x06	ALTO		ANI_JOY	

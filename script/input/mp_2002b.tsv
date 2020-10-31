@@ -64,7 +64,7 @@ SUB_meet_adventurer
 0x2266	0x3F	Name		Spirited Girl	mp_0003 0x9ffb
 0x227b	0x06	Reticul		ANI_WAIT4	
 0x22a5	0x98	Reticul		I'm Reticul. I'm traveling	
-				with my counsin Cetus on	
+				with my counin Cetus on	
 				his adventures.	
 0x231d	0x98	Reticul		Well, it's nice to meet you.	
 0x237b	0x98	ALTO		Umm, I'm Nayuta...	
@@ -73,7 +73,7 @@ SUB_meet_adventurer
 0x23fe	0x98	NOI		N-Nayuta, what's	
 				an "adventurer?"	
 0x245b	0x98	ALTO		Someone who travels to all	
-				sorts of places, pursing	
+				sorts of places, pursuing	
 				dreams and romance.	
 0x24ab	0x98	ALTO		I've never met one in	
 				person either, though...	
@@ -105,7 +105,7 @@ SUB_meet_adventurer
 0x29ab	0x06	Cetus		ANI_JOY	
 0x29d1	0x98	Cetus		At any rate, it is certainly a great discovery.	
 				The mysteries of this world...	
-				We will be reveal them with our own hands!	
+				We will uncover them with our own hands!	
 0x2a6e	0x6B	Cetus		Unknown	
 0x2a99	0x6B	Reticul		Unknown	
 0x2ace	0x06	ALTO		ANI_DEJECTED	
@@ -121,7 +121,7 @@ SUB_meet_adventurer
 0x2cf3	0x98	ALTO		(A-Agreed. I can try	
 				 talking to them...)	
 0x2dab	0x98	Cetus		...Oh, right. There was this one	
-				one thing I want to ask you...	
+				one thing I wanted to ask you...	
 0x2e09	0x6B	Cetus		Question	
 0x2e53	0x06	Cetus		ANI_WAIT3	
 0x2e7b	0x98	Cetus		What are YOU doing here?	

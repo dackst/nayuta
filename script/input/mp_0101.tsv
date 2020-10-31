@@ -32,7 +32,7 @@ lp_portal
 0x237c	0x98	ALTO		This is no time to go exploring.	
 0x23be	0x98	ALTO		I gotta split up with Noi	mp_0101 0x1d69
 				and search for Creha...!
-0x2485	0x98	ALTO		Now's not the time go to exploring.	
+0x2485	0x98	ALTO		Now's not the time to go exploring.	
 				I gotta hurry up and find Cygna...!	
 0x2567	0x98	ALTO		Looks like some kind of artifact...	
 				What the heck is this thing?	
@@ -202,7 +202,7 @@ subev_look_creha
 0x518f	0x06	ALTO		ANI_DEJECTED	
 0x51b9	0x98	ALTO	#6A	I-Is that so...?	
 0x51f3	0x06	ALTO		ANI_THINK2	
-0x521b	0x98	ALTO	#6A	(Hmm... She answered to most of our other	
+0x521b	0x98	ALTO	#6A	(Hmm... She answered most of our other	
 				 questions, but it seems like there's some	
 				 things she's not willing to share with us.)	
 0x528c	0x98	ALTO	#6A	(There must be a reason behind it.	

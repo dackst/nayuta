@@ -25,8 +25,8 @@ lp_telescope
 lp_telescope_sub
 0x271f	0x98	ALTO		Oh, it's Dad's telescope!	
 0x275b	0x98	ALTO		Haha, that Eartha,	
-				she got it ready for	
-				me for when I got home.	
+				she got it ready	
+				for when I got home.	
 0x27bf	0x98	ALTO		Looks like she kept	
 				well-maintained too...	
 0x281a	0x98	ALTO		The sun is still up, but	
@@ -133,7 +133,7 @@ subev_return_island1
 0x4cd3	0x06	Signa		ANI_WAIT2	
 0x4cfb	0x98	Signa		No one would believe us if we	
 				told them in the first place.	
-0x4d51	0x98	Signa		We still should to keep our	
+0x4d51	0x98	Signa		We still should keep our	
 				promise to Noi and keep	
 				the place a secret. 	
 0x4da9	0x06	ALTO		ANI_NOD	
@@ -150,8 +150,8 @@ subev_return_island1
 0x4fa3	0x98	Signa		...Oh, man. This is no time to	
 				be having this conversation.	
 0x5014	0x98	Signa		Eartha should be already	
-				back by now. We gotta come	
-				up something to tell her.	
+				back by now. We gotta come up	
+				with something to tell her.	
 0x506e	0x98	ALTO		Oh right. Seems like we're	
 				going to be away from home	
 				pretty often from now on.	
