@@ -53,7 +53,6 @@ These issues don't seem to exist in the original 4.15 fan translation release. I
 * ingredient location text (press △ on the cooking screen) cannot be changed from the original fan translation, see [here](#Why-not-just-use-flame's-tools-directly) for more
 * erasing save data from in-game menu doesn't work
 * there is some strange text spacing in certain spell descriptions
-* text pop up when confusion is inflicted says "panic" instead. This inflicted confusion on me, the player, when I thought they were two different status effects.
 * boss and new area intro graphics are still untranslated
 * long achievement names are cut off in the notification box when unlocking them, e.g. "<armor of anhillat"
   * the achievement notification box is tiny. I'm not willing to butcher the names further in order to make them fit
