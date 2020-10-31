@@ -105,9 +105,9 @@ subev_return_island1
 0x480b	0x98	ALTO		Looks like... we're back safe?	
 0x484c	0x06	Signa		ANI_SCRATCH_HEAD	
 0x487b	0x98	Signa		Yeah, that's a relief, huh?	
-0x48af	0x98	Signa		Noi said she "forgot to sever the connection" or	
-				something, so I guess we can continue to go back	
-				and forth as long as it's still connected.	
+0x48af	0x98	Signa		Noi said she "forgot to disconnect the transfer gate"	
+				or something, so I guess we can continue to go back	
+				and forth as long as it stays connected.	
 0x4941	0x98	ALTO		*huff*, *huff*...	
 				*huff*, *huff*...	
 0x49c6	0x98	ALTO	#16S	Cygna, this is awesome!!	
@@ -121,7 +121,7 @@ subev_return_island1
 				There's a whole endless world	
 				out there to explore...!	
 0x4b76	0x98	Signa		C-Calm down!	
-				I get it too!	
+				I was there too!	
 0x4bb1	0x06	Signa		ANI_COMPLAIN	
 0x4bde	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x4c0c	0x98	ALTO		S-Sorry... I just wanted
@@ -133,8 +133,8 @@ subev_return_island1
 0x4cd3	0x06	Signa		ANI_WAIT2	
 0x4cfb	0x98	Signa		No one would believe us if we	
 				told them in the first place.	
-0x4d51	0x98	Signa		We've still should to keep	
-				our promise to Noi and keep	
+0x4d51	0x98	Signa		We still should to keep our	
+				promise to Noi and keep	
 				the place a secret. 	
 0x4da9	0x06	ALTO		ANI_NOD	
 0x4dce	0x98	ALTO		Yeah, you're right.	

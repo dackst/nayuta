@@ -31,7 +31,7 @@
 0x21f2dc	#1C四季魔法の装備スロットが一つ増えた！！	43	#1CFour Season Magic equip slot opened!			
 0x21f308	#4Cノイが複数のアーツを{ 0a }セットできるようになりました。	55	#4CNoi is now able to{ 0a }equip several arts.			46
 0x21f340	#4C複数のアーツをセットすると、{ 0a }戦闘中にＬボタンを押すことで{ 0a }使用するアーツを素早く切り替えることができます。	111	#4CEquip several arts,{ 0a }and push L in battle{ 0a }to quickly switch between them.			85
-0x21f3b0	#4C%dミラ#1Cを手に入れた。	27	#1CGot #4C%d #1CMira.			21
+0x21f3b0	#4C%dミラ#1Cを手に入れた。	27	#1CGot #4C%d #1Cmira.			21
 0x21f3cc	#4C『#%dI%s×%d』#1Cを手に入れた。	35	#1CGot #4C『#%dI%s×%d』#1C.			
 0x21f3f0	#4C『#%dI%s』#1Cを手に入れた。	35	#1CGot #4C『#%dI%s』#1C.			
 0x21f440	#2C「%s」#4Cを使った。	23	#4CUsed #2C「%s」#4C.			
@@ -73,7 +73,7 @@
 0x220264	ＩＮＦＩＮＩＴＹ	19	ＩＮＦＩＮＩＴＹ	0x220290	1	
 0x220278	キャンセル	11	Cancel	0x220294	1	
 0x220298	ステージ攻略中は難易度の変更を行うことが出来ません。	55	Can't change difficulty during a stage.			39
-0x2202d0	ゲームの難易度を変更した場合、{ 0a }難易度に関する実績が獲得できませんがよろしいですか？	83	When changing difficulty you can't{ 0a }earn difficulty-related trophies. OK?			77
+0x2202d0	ゲームの難易度を変更した場合、{ 0a }難易度に関する実績が獲得できませんがよろしいですか？	83	If the difficulty is changed, you can't{ 0a }earn difficulty-related trophies. OK?			77
 0x220324	#7C%s	7	#7C%s			
 0x22032c	#4C%s	7	#4C%s			
 0x220334	ゲームの難易度を#4C%s#1Cに変更しますか？	43	#1CChange difficulty to #4C%s#1C?			
@@ -226,8 +226,8 @@
 0x2211cc	ＳＨＯＰ	11	ＳＨＯＰ			
 0x2211d8	ＣＯＯＫＩＮＧ	15	ＣＯＯＫＩＮＧ			
 0x2211fc	ＡＳＴＲＯＬＡＢＥ	19	ＡＳＴＲＯＬＡＢＥ			
-0x2212a4	ミラが足りません。	19	Not enough Mira.			
-0x2212c4	#4C%s#1Cを%dミラで購入しますか？	35	#1CBuy #4C%s#1C with %d Mira?			
+0x2212a4	ミラが足りません。	19	Not enough mira.			
+0x2212c4	#4C%s#1Cを%dミラで購入しますか？	35	#1CBuy #4C%s#1C with %d mira?			
 0x2212f4	#4C%s#1Cを装備しますか？	27	#1CEquip #4C%s#1C?			
 0x22131c	この項目は開放済みです。	27	Unlocked this item.			
 0x221338	実績ポイントが足りません。	27	Not enough achv. points.			24
@@ -334,7 +334,7 @@
 0x222af0	タイトル画面に戻ります。	27	Return to title screen.			
 0x226e74	イベントエフェクト読み込み数オーバー{ 0a }	39	Probably an error message.			26
 0x226e9c	を手に入れた。	15	got.			
-0x226eac	#4C『%d ミラ』#1C%s	19	#1CReceived #4C%d #1CMira.	0x08942840	2	26
+0x226eac	#4C『%d ミラ』#1C%s	19	#1CObtained #4C%d #1Cmira.	0x08942840	2	26
 0x226ec0	#4C『#%dI%s×%d』#1C%s	23	#4C『#%dI%s×%d』 #1C%s	0x08942874	2	20
 0x226ed8	#4C『#%dI%s』#1C%s	19	#4C『#%dI%s』 #1C%s	0x089428AC	3	17
 0x226eec	#4C『#%dI %s』#1C%s	19	#4C『#%dI %s』 #1C%s	0x089428BC	2	18

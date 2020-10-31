@@ -138,7 +138,7 @@ EV_0_S15_find_noi
 0x4958	0x98	Zext		Now the time has come to fulfill	
 				our most ardent desire.	
 0x4a03	0x98	Zext		We must move forward with the	
-				arrangements to obtain the Key	
+				arrangements to obtain the key	
 				as soon as possible.	
 0x4aaa	0x06	Zext		ANI_TAKE_OUT_END	
 0x4c42	0x98	Signa	#0W#18S#240x#250y	Stop right there!	
@@ -170,7 +170,7 @@ EV_0_S15_find_noi
 				You don't scare me!	
 0x5a16	0x06	Signa		ANI_JUMP_ATTACK	
 0x5ab0	0x06	Seram		ANI_IAI_GUARD	
-0x5c39	0x98	Seram	#6A	...Yah!...	
+0x5c39	0x98	Seram	#6A	...Yah...!	
 0x5e3b	0x98	Signa	#6A#16S	...What...!?	
 				#16S(What is this feeling...!?)	
 0x5eaf	0x98	Seram	#6A#18S	...Ha!!	

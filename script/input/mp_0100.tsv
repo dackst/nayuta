@@ -72,7 +72,7 @@ AL_shop
 0x31a9	0x07	System	#4C	The winter of Origin Continent	
 				La Worg has been unlocked.	
 0x333e	0x07	System	#3C	On Infinity difficulty, enemy levels will now scale.	
-0x33b6	0x07	System	#4C	※Item, "Infinity Enemy Restore" has been added.	
+0x33b6	0x07	System	#4C	※ "Infinity Enemy Restore" has been added.	
 				If used, enemy levels will be returned to fixed values.	
 0x3528	0x07	System	#3C	On Infinity difficulty, enemy levels are now fixed.	
 0x365f	0x07	System	#3C	On Infinity difficulty, enemy levels will now scale.	mp_0100 0x333e
@@ -312,7 +312,7 @@ EV_2_S13_use_astrolabe
 0xa4ae	0x98	NOI	#6A	I'm sure Geo would help us!	
 0xa4fe	0x06	ALTO		ANI_NOD	
 0xa523	0x98	ALTO		Well, let's head to the	
-				transfer gate for now.	
+				teleporter device for now.	
 0xa579	0x98	ALTO		I guess we'll have to decide	
 				which one to do first.	
 0xa658	0x07	System	#3C	The Abyss Continent Rieseweld	

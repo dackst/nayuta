@@ -117,11 +117,11 @@ talk_Puppis
 0x40b4	0x98	ALTO		I also wanted to thank you,	
 				Captain. Letting me slide	
 				on board was a big help.	
-0x412a	0x98	Puppis		Gahaha, it's nothing.	
-				Well, you should enjoy your	
-				summer vacation, at least.	
-0x4194	0x98	Puppis		Though I'm setting sail soon,	
-				I'll be back here again.	
+0x412a	0x98	Puppis		Gahaha, it's nothing. You should	
+				at least be able to enjoy your	
+				summer vacation at home.	
+0x4194	0x98	Puppis		Though I'll be setting sail,	
+				I'll be back here again soon.	
 0x41eb	0x98	ALTO		Yes, understood.	
 				Be careful on your journey.	
 0x4273	0x98	Puppis		Care is always needed for	
@@ -199,7 +199,7 @@ talk_Crux
 0x4fed	0x98	Crux		If it weren't for the captain's help,	
 				I don't know what would've happened...	
 				Ooh, I'll follow you forever, Captain!	
-0x5086	0x98	Puppis		...Crux, quit being a fool	
+0x5086	0x98	Puppis		...Crux, quit being a idiot	
 				and learn to swim already.	
 0x50e3	0x6B	ALTO		Sweatdrop	
 0x5157	0x98	Crux		*cough*, *cough*...	
@@ -308,9 +308,9 @@ talk_Axe
 				You are close siblings, after all...	
 0x66e0	0x98	Axe		But what is Cygna doing being	
 				gone at a time like this...?	
-0x676f	0x98	Axe		Which reminds me, there's been some	
+0x676f	0x98	Axe		That reminds me, there's been some	
 				people calling themselves researchers	
-				on the island recently.	
+				showing up on the island recently.	
 0x67ea	0x98	Axe		It's been around three months...	
 				I see them around here all the time.	
 0x684d	0x98	Axe		They said they were getting ready	
@@ -643,7 +643,7 @@ talk_Vavo
 0xa84f	0x98	Vavo		As always, you can find	
 				him inside the museum,	
 				absorbed in his research.	
-0xa8d3	0x98	Vavo		Dr. Volans's research often	
+0xa8d3	0x98	Vavo		Dr. Volans' research often	
 				goes beyond the fields of just	
 				human and natural history.	
 0xa94f	0x98	Vavo		His ideas are strange,	
@@ -672,7 +672,7 @@ talk_Creha
 0xacc9	0x98	Lyra		A-Ahem...	
 0xacf2	0x6B	ALTO		Surprise	
 0xad24	0x6B	ALTO		Unknown	
-0xad56	0x98	ALTO		Oh, uh...	
+0xad56	0x98	ALTO		Oh, uh...	# nayuta caught staring at creha again
 0xad80	0x98	ALTO		Anyway, just stay healthy,	
 				and don't overdo it.	
 0xadd1	0x98	ALTO		If you collapsed, Eartha,	

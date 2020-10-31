@@ -1413,7 +1413,7 @@ EV_0_S06_breakfast
 0x18040	0x06	Signa		ANI_WAIT0	
 0x180bf	0x06	Asa		ANI_WAIT0	
 0x18286	0x41	None	#0W#2E	Star shards:	
-				This is the name given to the mysterious	
+				This is the name given to the strange	
 				crystals that fall alongside shooting stars	
 				into the waters around Remnant Island.
 				  	
@@ -1627,7 +1627,7 @@ EV_0_S16_noi_wakeup
 0x1cafa	0xBC	Signa		Surprise	
 0x1cc5b	0x06	NOI		ANI_WAKE_UP	
 0x1cd0f	0x3F	Name		Fairy?	mp_0110 0x1ca75
-0x1cd2b	0x98	NOI	#0W	...Huh, where am I...	
+0x1cd2b	0x98	NOI	#0W	...Huh, where am I...?	
 0x1cd75	0x06	ALTO		ANI_SIT1_GESTURE2	
 0x1cdef	0x98	ALTO	#0W#6A	Ahaha, so you're awake?	
 0x1ce9e	0x3F	Name		Fairy?	mp_0110 0x1ca75
@@ -2492,8 +2492,8 @@ EV_4_S12_ask_asa
 0x2e633	0x06	NOI		ANI_LOOK_AROUND	
 0x2e667	0x98	NOI	#6A	...Umm, how is Lady Creha!?	
 0x2e6c3	0x06	Asa		ANI_WAIT	
-0x2e6e8	0x98	Asa		If you're looking for Creha,	
-				she should be out in the village.	
+0x2e6e8	0x98	Asa		If you're looking for Creha, she	
+				should be out in the village.	
 0x2e750	0x06	Asa		ANI_LAUGH	
 0x2e776	0x98	Asa		Hehe, it seems like she's getting	
 				to know the people of the village	

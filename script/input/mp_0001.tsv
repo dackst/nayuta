@@ -213,7 +213,7 @@ subev_look_moon
 0x4572	0x98	ALTO		The view is nice, and the only sound	
 				is the echo of the waves...	
 0x45d4	0x6B	ALTO		Surprise	
-0x46ac	0x98	ALTO		Ha, the moons are beautiful too.	
+0x46ac	0x98	ALTO		Haha, the moons are beautiful too.	
 				Maybe it's because it's so sunny?	
 0x4783	0x6B	PLAYER1		Ellipsis	
 0x47b8	0x98	ALTO		(Although my time at the Academy was fun...	
@@ -261,7 +261,7 @@ subev_haka
 				 I already saw my sister.)	
 0x52c9	0x98	ALTO		(It's been four months since I was	
 				 last on Remnant Island...	
-				 Ha, I'm relieved it hasn't changed.)	
+				 Haha, I'm relieved it hasn't changed.)	
 0x5342	0x98	ALTO	#3W	(......)	
 0x5437	0x98	ALTO		(It's already been five years since
 				 the ship that you and the other	
@@ -634,7 +634,7 @@ QS_35_quest_start
 				sister who ran away home.	
 0xba44	0x6B	ALTO		Exclamation	
 0xba76	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xbaa5	0x98	ALTO	#6A	Y-Your sister who ran away from home!?	
+0xbaa5	0x98	ALTO	#6A	Y-Your runaway sister!?	
 0xbaf0	0x06	ALTO		ANI_COMPLAIN	
 0xbb1a	0x98	ALTO	#6A	That means... she could	
 				be on Remnant Island!?	
@@ -1052,8 +1052,7 @@ EV_0_S11_go_remain_late
 				can never be too prepared.	
 0x134ef	0x06	Signa		ANI_GESTURE2	
 0x1351a	0x98	Signa		I'll wait right here, so talk	
-				to me again once you're done	
-				preparing.	
+				to me again once you're ready.	
 0x13676	0x06	Signa		ANI_WAIT0	
 0x136e1	0x06	ALTO		ANI_NOD	
 0x13706	0x98	ALTO	#6A	Yeah, all right.	

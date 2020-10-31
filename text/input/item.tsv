@@ -495,7 +495,7 @@
 0x8724	name	Hell Storm
 0x873c	desc	[Summer] A gigantic tornado swallows enemies over a wide range.
 0x87b0	name	Noir Haze
-0x87c8	desc	[Autumn] Condense earth toxins into gas, causing various statuses.
+0x87c8	desc	[Autumn] Condense earth toxins into gas, inflicting various statuses.
 0x883c	name	Crystal Lance
 0x8854	desc	[Winter] Shoot large tracking icicles, piercing enemies they touch.
 0x88c8	name	Sol Erase
@@ -1467,13 +1467,13 @@
 0x190ec	name	
 0x19104	desc	
 0x19178	name	Gear Buster Overdrive
-0x19190	desc	Gear Buster craft gauge usage down, and you can chain it longer.
+0x19190	desc	Gear Buster craft gauge usage down, and can make longer combos.
 0x19204	name	Gear Hold Overdrive
-0x1921c	desc	Gear Hold craft gauge usage down, and you can chain it longer.
+0x1921c	desc	Gear Hold craft gauge usage down, and can make longer combos.
 0x19290	name	Gear Shield Overdrive
-0x192a8	desc	Gear Shield craft gauge usage down, and you can chain it longer.
+0x192a8	desc	Gear Shield craft gauge usage down, and can make longer combos.
 0x1931c	name	Gear Drive Overdrive
-0x19334	desc	Gear Drive craft gauge usage down, and you can chain it longer.
+0x19334	desc	Gear Drive craft gauge usage down, and can make longer combos.
 0x193a8	name	
 0x193c0	desc	
 0x19434	name	
@@ -1591,13 +1591,13 @@
 0x1b2d4	name	
 0x1b2ec	desc	
 0x1b360	name	Delicious Bone
-0x1b378	desc	Bone infused with flavor. Give to dogs as a present.
+0x1b378	desc	Bone infused with flavor. Can be given to dogs as a present.
 0x1b3ec	name	Wood Saucer
-0x1b404	desc	Rides on the wind when thrown. Give to dogs as a present.
+0x1b404	desc	Rides on the wind when thrown. Can be given to dogs as a present.
 0x1b478	name	Excellent Bowl
-0x1b490	desc	Durable, flexible and colorful bowl. Give to dogs as a present.
+0x1b490	desc	Durable and colorful bowl. Can be given to dogs as a present.
 0x1b504	name	Bagel Bed
-0x1b51c	desc	Soft, bagel-shaped bed. Give to dogs as a present.
+0x1b51c	desc	Soft, bagel-shaped bed. Can be given to dogs as a present.
 0x1b590	name	Tyrannosaur Foot
 0x1b5a8	desc	Fossil through which we can learn about the time it was alive.
 0x1b61c	name	Tyrannosaur Body

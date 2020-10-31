@@ -41,9 +41,9 @@ talk_Aulbath_sub
 				dishonorable conduct.	
 0x1317	0x98	ALTO		Yeah, leave it all to me!	mp_0000 0xfbcf
 0x134b	0x98	NOI		We'll do our best.	
-0x13b6	0x98	Aulbath		In fact, I soon intend to start	
-				teaching swordsmanship classes	
-				for children soon.	
+0x13b6	0x98	Aulbath		In fact, I intend to start	
+				teaching swordsmanship	
+				classes for children soon.	
 0x1428	0x98	Aulbath		Once Cygna is awakened,	
 				I will have him help me to repay	
 				everything I've done for him.	
@@ -174,8 +174,8 @@ talk_Aulbath_sub
 0x2dc0	0x98	Aulbath		For goodness' sake, if Cygna	
 				were here, this would have been	
 				a better training session.	
-0x2e25	0x98	Aulbath		Even though the city guard, his	
-				mind is still in its adolescence.
+0x2e25	0x98	Aulbath		Even though he joined the city guard,	
+				his mind is still in its adolescence.
 0x2e98	0x98	Aulbath		I must discipline	
 				him for this soon.	
 0x2f05	0x98	Aulbath		Life is about discipline...	
@@ -451,7 +451,7 @@ QS_02_quest_start
 0x6ecd	0x98	Aulbath	#1W	However, none of them can	
 				ever stop and stay the same.	
 				Everything is always changing.	
-0x705b	0x98	Aulbath	#1W	...It has some time, Nayuta.	
+0x705b	0x98	Aulbath	#1W	...It has been some time, Nayuta.	
 0x70cd	0x06	ALTO		ANI_OJIGI	
 0x7102	0x98	ALTO	#0W#6A	It has been a while, Master Orvus!	
 0x7164	0x98	Aulbath		Hmph... You look to have become	
@@ -460,7 +460,7 @@ QS_02_quest_start
 				as always. It seems you've grown	
 				after seeing the outside world.	
 0x7253	0x06	Aulbath		ANI_WAIT2	
-0x727d	0x98	Aulbath		However... Where is Cygna? I asked	
+0x727d	0x98	Aulbath		However... where is Cygna? I asked	
 				for the two of you to come together.	
 0x72d9	0x6B	ALTO		Unknown	
 0x730b	0x06	ALTO		ANI_GESTURE2	
@@ -539,7 +539,7 @@ QS_02_normal_attack2
 0x86cb	0x07	System	#4C	Press ○ to perform a normal	
 				attack with a weapon.	
 0x86fc	0x07	System	#4C	If you push the button repeatedly,	
-				you can unleash a chain of up to	
+				you can unleash a combo of up to	
 				four attacks.	
 QS_02_dead_countA
 QS_02_jump_avoid

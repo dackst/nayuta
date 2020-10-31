@@ -19,11 +19,10 @@ EV_4_S10_meet_seram
 				seem like it's been shut down yet.	
 0xe7d	0x06	NOI		ANI_DENY	
 0xea2	0x98	NOI	#6A	But, it's overflowing with lava,	
-				more so than other places on	
-				this continent...	
+				I'm sure it will be dangerous inside.
 0x1165	0x06	NOI		ANI_GESTURE1	
-0x118e	0x98	NOI	#6A	I'm sure it will be even	
-				more dangerous inside.	
+0x118e	0x98	NOI	#6A	Even more so than other places	
+				on this continent...		
 0x11ef	0x06	ALTO		ANI_NOD	
 0x121c	0x98	ALTO		All right, let's	
 				proceed with caution─	

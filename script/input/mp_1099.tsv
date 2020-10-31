@@ -559,11 +559,11 @@ QS_34_consultation
 0x8b9a	0x06	Gio		ANI_GESTURE2	
 0x8bc3	0x98	Gio		You should search in	
 				the summer of Heimmel.	
-0x8c0a	0x98	Gio		If you look in the "Wind-Cutting Valley,"	
+0x8c0a	0x98	Gio		If you look in the Wind Cutting Valley,	
 				you should be able to find a big enough tree.	
 0x8c80	0x06	ALTO		ANI_NOD	
 0x8ca5	0x98	ALTO	#6A	Right, so summer of Heimmel	
-				in "Wind-Cutting Valley"?	
+				in Wind Cutting Valley?	
 0x8d01	0x06	ALTO		ANI_JOY	
 0x8d26	0x98	ALTO	#6A	Got it. We'll try looking for it!	
 0x8d8d	0x98	Gio		Hoho, best of luck to you, Nayuta.	
@@ -749,13 +749,13 @@ quest_SpiritD
 0xb4fd	0x98	SpiritD		............!	
 0xb52d	0x06	NOI		ANI_GESTURE2	
 0xb56e	0x98	NOI	#6A	It says it appeared during the	
-				winter of "Shaded Animal Trail"	
+				winter of Shaded Animal Trail	
 				in northeastern Oltapia!	
 0xb5ed	0x98	NOI	#6A	It says it doesn't want to	
 				force you to rush, so go when	
 				you're ready and have time.	
 0xb66f	0x98	NOI	#6A	It seems to have appeared in the	
-				winter of "Shaded Animal Trail"	
+				winter of Shaded Animal Trail	
 				in northeastern Oltapia!	
 0xb6ef	0x98	NOI	#6A	It doesn't want to force you to rush,	
 				so go when you're ready and have time.	
@@ -1300,7 +1300,7 @@ EV_1_S12_battle_end
 				What happened...?	
 0x18793	0x98	Signa	#1W#6A	.........	mp_0003 0xc610
 0x18809	0x98	ALTO	#16S#6A	Say something, Cygna...!	
-0x188de	0x98	ALTO	#6A	I...I can't just wrap everything up	
+0x188de	0x98	ALTO	#6A	I... I can't just wrap everything up	
 				and leave without you, can I...?	
 0x18a1a	0x06	Signa		ANI_DENY	
 0x18aab	0x98	Signa	#0W	Look... At least once,	

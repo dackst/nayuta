@@ -530,11 +530,11 @@ quest_SpiritD
 0xa5d5	0x98	ALTO		Ahaha, you're pretty organized...	
 0xa60c	0x06	NOI		ANI_GUTSPOSE	
 0xa64d	0x98	NOI	#6A	Nayuta, let's get going to	
-				the spring of "Heavenly	
-				Mountain" right away!	
+				the spring of Heavenly	
+				Mountain right away!	
 0xa6d4	0x98	NOI	#6A	Nayuta, let's get going to	mp_3099 0xa64d
-				the spring of "Heavenly
-				Mountain" right away!
+				the spring of Heavenly
+				Mountain right away!
 0xa787	0x07	System	#3C	Quest [A Nymph's Request] started!	
 0xa88b	0x06	ALTO		ANI_WAIT	
 0xa8b1	0x06	NOI		ANI_WAIT	

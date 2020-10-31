@@ -65,10 +65,10 @@ training_Aulbath
 				I'm sure it will prove useful.	
 0x2d64	0x98	Aulbath		This is battle gear that I received	
 				from a certain character while	
-				travelling in the East.	
+				traveling in the East.	
 0x2ddf	0x98	Aulbath		Though handling it is difficult,	system 0x2ce9
 				I'm sure it will prove useful.
-0x2e5a	0x98	Aulbath		I obtained it while travelling	
+0x2e5a	0x98	Aulbath		I obtained it while traveling	
 				in an unexplored region.	
 0x2eb3	0x98	Aulbath		This sword is still burdened	
 				with a great destiny...	
@@ -158,8 +158,8 @@ training_Aulbath
 0x5c2e	0x98	Aulbath		To have come this	
 				far at your age...	
 0x5c74	0x06	Aulbath		ANI_NOD	
-0x5c9c	0x98	Aulbath		Hehe, as expected, it seems	
-				my eyes do not deceive me.	
+0x5c9c	0x98	Aulbath		Hehe, it seems my eyes do	
+				not deceive me after all.	
 0x5cf4	0x06	ALTO		ANI_GESTURE1	
 0x5d1e	0x98	ALTO		Master...	mp_0002 0x16e8
 0x5d47	0x06	Aulbath		ANI_GESTURE1	
@@ -213,29 +213,28 @@ training_Aulbath
 collectget_dog
 0x6aca	0x98	Dog		*whimper*...	
 0x6af5	0x98	Dog		Ruff, ruff!	mp_0004 0x7911
-0x6b1f	0x98	ALTO		Hmm? It seems like	
-				it wants something, but...	
+0x6b1f	0x98	ALTO		Hmm? It seems like she	
+				wants something...	
 0x6b6b	0x98	ALTO		Come to think of it, don't I	
 				have something Nora will love?	
-0x6bc9	0x98	ALTO		All right, since it's a rare chance,	
-				I'll give you this, Nora.	
+0x6bc9	0x98	ALTO		All right, as a treat, I'll
+				let you have this, Nora.	
 0x6d04	0xC1	System		given to Nora.	
 0x6e4c	0xC1	System		given to Nora.	system 0x6d04
 0x6fb2	0xC1	System		given to Nora.	system 0x6d04
 0x70fa	0xC1	System		given to Nora.	system 0x6d04
 0x7186	0x98	Dog		Ruff, ruff ruff! ♪	
-0x721a	0x98	ALTO		You're giving me these?	
+0x721a	0x98	ALTO		You're giving these to me?	
 				Ahaha, thank you.	
-0x725f	0x98	ALTO		Thank goodness	
-				she seems happy.	
+0x725f	0x98	ALTO		Thank goodness she seems happy.	
 				Let's play again sometime.	
 0x72c1	0x98	ALTO		Haha, thanks.	mp_0117 0x1bd6
-0x72ef	0x98	ALTO		Hmm, even so, Nora	
-				brings me a lot of things...	
+0x72ef	0x98	ALTO		Hmm, even so, Nora brings	
+				me a lot of things...	
 0x733c	0x98	ALTO		Truth is, she might be even	
 				more of a collector than I am.	
 0x73a0	0x98	Dog		...*whimper*?	
-0x73cc	0x98	ALTO		Haha, nevermind.	
+0x73cc	0x98	ALTO		Haha, it's nothing.	
 				Let's take care of	
 				each other, okay?	
 0x7422	0x98	Dog		Ruff!	
@@ -308,7 +307,7 @@ Michy_common
 0x98c0	0x3F	Name		Mysterious Creature	
 0x9902	0x98	Michy		Mishishi! ♪	mp_0112 0x15a92
 0x9971	0x6B	ALTO		Sweatdrop	
-0x99c3	0x98	ALTO		Wh-What is th-this thing...?	
+0x99c3	0x98	ALTO		Wh-What is this thing...?	
 0x9a01	0x98	ALTO		(I haven't seen a creature like this	
 				 before. Where did it come from?)	
-0x9a76	0x98	ALTO		(I found it again...)	
+0x9a76	0x98	ALTO		(I found him again...)	

@@ -205,16 +205,16 @@ talk_Lupus
 				Noi fell down onto the Tower Ruins.	
 0x4d23	0x98	Lupus		But her memories are gone...?	
 0x4d66	0x98	Lupus		Oh, here it comes. Life's not	
-				worth living without excitement	
+				worth living without drama	
 				like this, am I right?	
 0x4de3	0x6B	ALTO		Sweatdrop	
 0x4e0d	0x6B	NOI		Sweatdrop	
 0x4e3e	0x98	NOI		I don't want to be this	
 				guy's entertainment...	
-0x4e8f	0x98	ALTO		Ha, Lupus is always like	
+0x4e8f	0x98	ALTO		Haha, Lupus is always like	
 				that. Just let him be.	
 0x4f2a	0x98	Lupus		Life's not worth living without	
-				excitement like this, am I right?	
+				drama like this, am I right?	
 0x4f95	0x98	Lupus		I'm still not entirely sure what's going	
 				on, but you're going to cause all kinds	
 				of trouble again, aren't you? ♪
@@ -303,7 +303,7 @@ talk_Lupus
 0x5f99	0x98	Lupus		I'll go see how she's doing later.	
 0x5fdc	0x98	Lupus		...Sorry, but I should let	
 				my grandpa know first.	
-0x6065	0x98	Lupus		There are some in this world who	
+0x6065	0x98	Lupus		There exists some people who	
 				claim this world is spherical.		
 0x60ce	0x98	Lupus		There sure are some weirdos	
 				out there, aren't there?	
@@ -359,7 +359,7 @@ talk_Lupus
 				home from the ruins...	
 0x6a3e	0x98	Lupus		...Hehe, feels like something	
 				fun is about to happen.	
-0x6acf	0x98	Lupus		My grandpa's stories, and	
+0x6acf	0x98	Lupus		Hearing my grandpa's stories, and	
 				freaking out my brother Dorado...	
 				Those are entertaining enough. 	
 0x6b27	0x98	Lupus		But all this stuff happening only the
@@ -520,7 +520,7 @@ talk_Sculp
 				but she's staying over now.	
 0x886c	0x98	Sculp		Ha, really?	
 0x889f	0x98	Sculp		Man, I was surprised when she	
-				approached  me out of the blue	
+				approached me out of the blue	
 				saying she wants to help, but...	
 0x8907	0x98	Sculp		Thanks to her, I was able to	
 				do my work much faster today.	
@@ -543,10 +543,10 @@ talk_Sculp
 				Is she still not feeling well?	
 0x8d46	0x6B	ALTO		Ellipsis	
 0x8d78	0x98	Sculp		...Right...	
-				Hopefully she gets	
-				better somehow.	
+				Hopefully she starts	
+				feeling better soon.	
 0x8ddd	0x98	Sculp		I never would have expected Eartha to collapse...	
-				Hopefully she gets better somehow.	
+				Hopefully she starts feeling better soon.	
 0x8e86	0x98	Sculp		We have a small farm on the back side	
 				of the island... But the weather has	
 				been pretty erratic lately.	
@@ -650,7 +650,7 @@ talk_Sculp_add
 0xa277	0x98	Sculp		With soil this good,	
 				I should be able produce	
 				even more vegetables!	
-0xa2ef	0x98	Sculp		Ha, for a farmer, there's	
+0xa2ef	0x98	Sculp		Haha, for a farmer, there's	
 				no better happiness than this.	
 0xa355	0x98	Sculp		I should be able to sell these new	
 				vegetables to the general store.	
@@ -839,7 +839,7 @@ talk_Vavo
 				only while I was off the island,	
 				such a shame...	
 0xcb67	0x98	Vavo		Anyway, I have to report	
-				to Dr, Volans...	
+				to Dr. Volans...	
 0xcbb2	0x98	Vavo		Umm... The impact site	
 				of the ruin...	
 talk_Ursaminor
@@ -1243,8 +1243,8 @@ QS_01_quest_end
 0x1260f	0x98	Dorado		Well, I'll be seeing you then. I'll let	
 				you know if I need something again.	
 0x1266a	0x06	ALTO		ANI_THANKS	
-0x12692	0x98	ALTO	#6A	Sure. From now on, you're our	
-				Handyman Shop customer.	
+0x12692	0x98	ALTO	#6A	Sure. From now on, you're a valued	
+				customer of the Handyman Shop.	
 0x1271d	0x07	System	#3C	Quest [Lunch Prep Agent] completed!	
 0x1287f	0x06	ALTO		ANI_THINK2	
 0x128a7	0x98	ALTO		I'm done with the requests	
@@ -1428,7 +1428,7 @@ QS_12_ask_reason
 				as yourself will be able to pick a better	
 				gift than a country bumpkin like me.	
 0x153fd	0x06	ALTO		ANI_LAUGH	
-0x15424	0x98	ALTO	#6A	Ahaha, I don't think like I'm	
+0x15424	0x98	ALTO	#6A	Haha, I don't think like I'm	
 				THAT different from you...	
 0x15485	0x98	ALTO	#6A	But if it's just looking	
 				for something, I can try.	
@@ -1561,7 +1561,7 @@ tuto_museum_force1
 0x17b7a	0x6B	ALTO		Surprise	
 0x17d3e	0x06	Volans		ANI_WAIT0	
 0x17d6f	0x06	ALTO		ANI_GESTURE2	
-0x17d99	0x98	ALTO		Umm... You are?	
+0x17d99	0x98	ALTO		Umm... And you are?	
 0x17e6a	0x98	Volans		I am Volans, an Imperial scientist	
 				who arrived here on Remnant Island	
 				a few days ago.	
@@ -1607,7 +1607,7 @@ tuto_museum_force1
 				Please follow me if	
 				you're interested.	
 0x185c6	0x06	Volans		ANI_WAIT0	
-0x185ef	0x98	Volans		Few visitors have some so far,	
+0x185ef	0x98	Volans		Few visitors have come so far,	
 				If you'd like, allow me to	
 				show you around.	
 0x18689	0x06	ALTO		ANI_THINK	
@@ -1633,7 +1633,7 @@ EV_0_S02_morn_town
 0x1935f	0x98	Signa	#6A	Ahhh, that was quite a long trip.	
 0x193b1	0x06	ALTO		ANI_GESTURE2	
 0x193db	0x98	ALTO		There's 1760 selge between	
-				Remnant Isle and San Ceriz.	
+				Remnant Island and San Ceriz.	
 0x19444	0x06	ALTO		ANI_THINK	
 0x1946b	0x98	ALTO		Even though Captain Puppis' ferry	
 				is pretty fast, it still took us	
@@ -1783,8 +1783,8 @@ EV_2_S05_meet_hydol
 				for us doctors to do.	
 0x1c0f4	0x06	Hydol		ANI_GESTURE2	
 0x1c11f	0x98	Hydol		Speaking of which, I heard	
-				you enrolled at San Ceriz	
-				Academy...	
+				you left to enroll in San	
+				Ceriz Academy...	
 0x1c17f	0x06	Hydol		ANI_WAIT2	
 0x1c1a7	0x98	Hydol		Oh, right, it's summer vacation now.	
 0x1c1f4	0x06	ALTO		ANI_NOD	

@@ -27,7 +27,7 @@ tutorial_combo
 				extra bonuses such as increased attack	
 				power will be gained.	
 0x16f2	0x07	System	#4C	As long as your [CHAIN] continues,	
-				the bonuses will remain in effect	
+				the bonuses will remain in effect.	
 tutorial_collect
 0x1adc	0x98	ALTO		Looks like rubble is blocking	
 				the way. I guess we can jump	

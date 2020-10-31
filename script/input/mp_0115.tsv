@@ -876,7 +876,7 @@ tuto_museum_common
 				in the history of the Ciencia Sea and	
 				the ruins that fall from the sky.	
 0xe810	0x98	Volans		This includes the unusual "Remnant Island,"	
-				created by an accumulation of ruins.
+				created by an accumulation of such ruins.
 0xe87c	0x98	Volans		I came here from the Empire in order to investigate	
 				the numerous ruins of this island, understand their	
 				origins, and make new scientific discoveries.	
@@ -1210,8 +1210,8 @@ QS_42_quest_end
 				to make things right.	
 0x12aa5	0x06	NOI		ANI_NOD	
 0x12ac9	0x98	NOI	#6A	...I agree.
-0x12b03	0x98	NOI	#6A	There's the same determination	
-				you showed the Lady Creha!	
+0x12b03	0x98	NOI	#6A	That's the same determination	
+				you showed Lady Creha!	
 0x12b52	0x06	Volans		ANI_NOD	
 0x12b79	0x98	Volans		Heh, it seems you already	
 				found your answer.	

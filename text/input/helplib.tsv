@@ -9,7 +9,7 @@
 0x148	Clearing Stages ①
 0x170	Clearing Stages ②
 0x198	Clearing Stages ③
-0x1c0	Status Abnormalities
+0x1c0	Abnormal Statuses
 0x1e8	World Map ①
 0x210	World Map ②
 0x238	World Map ③
@@ -21,10 +21,10 @@
 0x328	Gear Crafts ③
 0x350	Gear Crafts ④
 0x378	Craft Gauge
-0x3a0	Sword: Spinning Cut
-0x3c8	Sword: Down Thrust
-0x3f0	Sword: Kamaitachi
-0x418	Sword: Swallow Rtrn
+0x3a0	Sword/Spinning Cut
+0x3c8	Sword/Down Thrust
+0x3f0	Sword/Kamaitachi
+0x418	Sword/Swallow Rtrn
 0x440	Mastery/1H Swords
 0x468	Mastery/2H Swords
 0x490	Mastery/Guarding

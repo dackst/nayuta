@@ -105,7 +105,7 @@ EV_1_S06_look_cage_1st
 0x3467	0x06	ALTO		ANI_THINK2	
 0x348f	0x98	ALTO	#6A	The temple...?	
 0x34dc	0x98	NOI		Umm, it's hard to explain, but...	
-0x353f	0x98	NOI		In other words, it's a facility that	
+0x353f	0x98	NOI		In short, it's a facility that	
 				controls the entire continent.	
 0x359b	0x06	NOI		ANI_GESTURE1	
 0x35c4	0x98	NOI		If the warden is there,	
@@ -137,7 +137,7 @@ EV_1_S06_look_cage_1st
 0x3ac8	0x41	None	#0W#2E#310c	...Hm, you there...	
 				...Is that you, Noi!?#0E	
 0x3b58	0x06	NOI		ANI_GOODIDEA	
-0x3b81	0x98	NOI		A-As I thought...it's Geo!	
+0x3b81	0x98	NOI		A-As I thought... It's Geo!	
 0x3bc4	0x06	NOI		ANI_LOOK_AROUND	
 0x3bf0	0x98	NOI		Where are you, Geo!?	
 0x3c2b	0x41	None	#0W#2E#310c	Oh... This must be the guidance of the stars.	
@@ -267,4 +267,4 @@ EV_1_S06_look_cage_1st
 				don't have to order me around!	
 0x5fbc	0x06	Signa		ANI_WAIT0	
 0x5fe4	0x98	Signa		(......)	
-0x6189	0xCE	Objective		It seems that Zext is at the temple. Let's face him!	
+0x6189	0xCE	Objective		It seems that Zext is at the temple. After him!	
