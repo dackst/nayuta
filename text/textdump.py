@@ -16,14 +16,14 @@ def get_s(f, pos):
 
 def generic_dump(filename, record_size, string_offset):
     output = []
-    filesize = os.path.getsize(r'orig\{}.tbl'.format(filename))
-    with open(r'orig\{}.tbl'.format(filename), 'rb') as f:
+    filesize = os.path.getsize(os.path.join('orig', filename + '.tbl'))
+    with open(os.path.join('orig', filename + '.tbl'), 'rb') as f:
         pos = 0
         while pos < filesize:
             s = get_s(f, pos + string_offset)
             output.append((hex(pos + string_offset), s))
             pos += record_size
-    with open('dumped/{}.tsv'.format(filename), 'w', encoding = 'utf-8') as f:
+    with open(os.path.join('dumped', filename + '.tsv'), 'w', encoding = 'utf-8') as f:
         f.write('\n'.join('\t'.join((offset, s)) for offset, s in output))
 
 generic_dump('helplib',     0x28,   0x8)
@@ -32,15 +32,15 @@ generic_dump('pc',          0x74,  0x20)
 
 def generic_dump_multi(filename, initial_offset, record_size, offset_tuple):
     output = []
-    filesize = os.path.getsize(r'orig\{}.tbl'.format(filename))
-    with open(r'orig\{}.tbl'.format(filename), 'rb') as f:
+    filesize = os.path.getsize(os.path.join('orig', filename + '.tbl'))
+    with open(os.path.join('orig', filename + '.tbl'), 'rb') as f:
         pos = initial_offset
         while pos < filesize:
             for offset, _type in offset_tuple:
                 s = get_s(f, pos + offset)
                 output.append((hex(pos + offset), _type, s))
             pos += record_size
-    with open('dumped/{}.tsv'.format(filename), 'w', encoding = 'utf-8') as f:
+    with open(os.path.join('dumped', filename + '.tsv'), 'w', encoding = 'utf-8') as f:
         first = True
         for offset, _type, s in output:
             if s == 'NULL':
