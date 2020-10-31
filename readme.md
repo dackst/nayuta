@@ -1,12 +1,21 @@
 
 # Nayuta no Kiseki English Translation Edit
 
+<!-- TOC -->
+- [Introduction](#introduction)
+- [Patching Instructions](#patching-instructions)
+- [Known Issues](#known-issues)
+- [How do I use the files in this repo?](#how-do-i-use-the-files-in-this-repo)
+<!-- /TOC -->
+
+
 ![before](https://i.imgur.com/1gWUK3w.jpg)
 ![after](https://i.imgur.com/TT9smIn.jpg)
 
 [More comparison screenshots](https://imgur.com/a/yJB1fTj). These are mostly one-liners that were particularly non-sensical. There shouldn't be any major spoilers if you're interested in avoiding them.
 
 ---
+## Introduction
 
 I wasn't happy with the [existing Nayuta no Kiseki English fantranslation](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=73), so I used their [publicly available tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) to make my own edit.
 
@@ -25,35 +34,36 @@ If you're interested in more detail on the changes I made, you can look at my [s
 broken ever since I moved files around
 -->
 
-## Patching instructions
-1. Download an xdelta file from latest release. Choose clean.xdelta to apply the patch to an unmodified Japanese ISO, or choose 4_15.xdelta to apply to an ISO patched with version 4.15 of the previous fan-translation.
+## Patching Instructions
+1. Download an xdelta file from latest [release](https://github.com/dackst/nayuta/releases). Choose clean.xdelta to apply the patch to an unmodified Japanese ISO, or choose 4_15.xdelta to apply to an ISO patched with version 4.15 of the previous fan-translation.
 2. Apply your respective xdelta patch to your respective iso. If on Windows, the easiest thing to do would probably be to use [xdeltaUI](https://www.romhacking.net/utilities/598/).
 
-   If you have xdelta3 installed elsewhere, you should also be able to run something similar to this with the desired filenames swapped in:
+   Otherwise, if you have xdelta3 installed elsewhere, you should also be able to run something similar to this with the desired filenames swapped in:
 ```
 xdelta3 -dfs original.iso patch.xdelta3 patched.iso
 ```
 
 
-### MD5 checksums
+### MD5 Checksums
 * Clean Japanese ISO : `02adefbdef8197cca872268d5c01b277`
 * ISO patched with flame's 4.15 release: `6cc975153b7998db4242baa17eb8d276`
-* ISO patched with this current release: `1216ffbaa84f1839f7bfdf922233c881`
+* ISO patched with this current release: `3d17f08af098667722f348cf6c47b3b0`
 
 
 ## Known Issues
 
 ### Issues in this version 
-These issues don't seem to exist in the original 4.15 fan translation release. I think they may be due to problems with the released tools? See [here](#Why-not-just-use-flame's-tools-directly) for more info.
-* unable to speak to Mishy in early chapters
-  * The new game+ sidequest involving Mishy starts late enough to be unaffected, but the special Mishy achievement requires talking to him at every opportunity, so that achievement is unable to be completed.
+These issues don't seem to exist in the original 4.15 fan translation release. I think they may be due to problems with the released tools? See [here](./notes.md/#Why-not-just-use-flame's-tools-directly) for more info.
+* unable to speak to Mishy before chapter 5
+  * The new game+ sidequest involving Mishy starts partway into chapter 5, so it is unaffected. However, the special Mishy achievement requires talking to him at every opportunity, so that achievement is unable to be completed.
+    * If you really want to have a go at that achievement, you can save whenever you find Mishy, and reload with a clean/4.15 patched ISO to talk to him.
 * there are some extra stray lines of text in Japanese when reading the tablet at the end of Volans' sidequest. 
 
 ### Issues from original fantranslation that I don't know how/care enough to try to fix myself
-* ingredient location text (press △ on the cooking screen) cannot be changed from the original fan translation, see [here](#Why-not-just-use-flame's-tools-directly) for more
+* ingredient location text (press △ on the cooking screen) cannot be changed from the original fan translation, which still shows some partially Japanese text
+* boss and new area intro graphics still untranslated
 * erasing save data from in-game menu doesn't work
 * there is some strange text spacing in certain spell descriptions
-* boss and new area intro graphics are still untranslated
 * long achievement names are cut off in the notification box when unlocking them, e.g. "<armor of anhillat"
   * the achievement notification box is tiny. I'm not willing to butcher the names further in order to make them fit
 * characters that use idiosyncratic manners of speaking in Japanese probably still don't here
@@ -64,7 +74,7 @@ These issues don't seem to exist in the original 4.15 fan translation release. I
 
 ## How do I use the files in this repo?
 
-The original tools require Windows and Python 3. They seem to ["work"](#Why-not-just-use-flame's-tools-directly-on-a-clean-iso) just as well in Wine if you install a Windows version of Python in a wineprefix. With the changes made in this repo, the Python scripts for the dumping and inserting of binary files should no longer require Windows or Wine, but the beginning extraction step and the final rebuilding step still do due to their use of bundled `.exe` files. 
+The original tools require Windows and Python 3. They seem to ["work"](./notes.md#why-not-just-use-flames-tools-directly) just as well in Wine if you install a Windows version of Python in a wineprefix. With the changes made in this repo, the Python scripts for the dumping and inserting of binary files should no longer require Windows or Wine, but the beginning extraction step and the final rebuilding step still do.
 
 1. Download [flame's 2017 tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and set up an environment with a clean Japanese iso (Step 1 in the readme.txt included with the tools):
     1. Drag your iso over `_extract_new.bat`
@@ -82,30 +92,5 @@ The original tools require Windows and Python 3. They seem to ["work"](#Why-not-
 
 
 
-#### Why not just use flame's tools directly?
-
-Before I started, I extracted everything from an iso of the original fantranslation. The addresses of each line in the English script then did not match up with the addresses of each line of the Japanese script, breaking the script insertion, well, script. My changes to the tools were mainly just so that the addresses from the dumped Japanese files are used instead of the addresses of each line of the input files.
-
-However, once I started testing the output, it seemed the released tools only *mostly* work as is. Even if I were to revert all of my changes and try to use them as <del>God</del> flame intended, doing something as simple as dumping and reinserting the Japanese script without changes or replacing all text with the string "AAAAA" creates a number of issues not present in the 4.15 fantranslation release:
-  1. item/money received messages in cutscenes are broken (but not all?)
-  2. Some text remains in their original Japanese forms: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
-  3. chapter start/end graphics are still in Japanese
-  4. The text about your next objective that appears when pressing select used flame's translation
-  5. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact
-
-Clearly, there were undocumented shenanigans that went on in the original fantranslation, given that none of these issues exist in its final release.
-
-The way I ultimately dealt with #1, #2, and #3 was to look at files from outside the 2017 tools:
-  * translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't present. I simply grabbed the files from the 4.15 release to replace the Japanese versions
-  * copying `USRDIR/pack` folder from the 4.15 translation mostly solved #2. This seems to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for the files listed in #2. At least, this isn't done successfully. Like with #3, grabbing the working files from the 4.15 release seems to have solved this issue. However, any changes I make in the `foodarea` and `helplib` files are still not reflected, and they are now stuck using the text from the original fantranslation.
-  * issue #1 does not exist if I simply do not run the script inserter, but obviously, that leaves me unable to insert any of my script changes. This seemed to indicate something was wrong the script inserter.
-    * inserting the script files produced from the [Flame's earlier Python 2 script inserter](https://pastebin.com/vtVwq338) released in 2015 seemed to fix #1, but all non-ascii characters found throughout the script do not display correctly ingame (e.g. ─□×△☆～♪). The game also seems to crash or freeze after talking to certain people, like Orvus. These crashes still occurred even after I tried removing all non-ascii characters from the script.
-    * I eventually discovered changing a 1 to a 3 in for the `0xC1` entry in the dictionary defined in the beginning of the Python 3 inserter fixed #1 without introducing the problems in the Python 2 version. The inserter in this repo should include this change.
- 
-For #4, the correct text will be used if the story is continued to the next objective. It appears this is not at all the fault of the tools, and the text for the current objective is loaded directly from your savefile.
-
-Similar to how many characters tend to feel about Mishy, I still have no idea how to deal with #5, or why it's even there in the first place.
-
-After testing some more, I would occasionally encounter some stray lines of Japanese text underneath my English text in long text boxes. I would usually be able to fix this by reformatting my English text to use an extra line. However, this also occurred when reading the message at the end of Volans' sidequest, but my attempts at fixing it only makes my English text get cut off, and even more Japanese appearing. Copying the original fantranslation's script here also doesn't seem to work.
 
 

@@ -1,5 +1,27 @@
 
 
+<!-- TOC -->
+- [Original Translation Problems](#original-translation-problems)
+  - [awkward or overused words/phrases](#awkward-or-overused-wordsphrases)
+  - [fixed inconsistencies](#fixed-inconsistencies)
+- [Terminology Changes](#terminology-changes)
+  - [miscellaneous terminology changes](#miscellaneous-terminology-changes)
+  - [Name Changes](#name-changes)
+    - [Items/Museum](#itemsmuseum)
+    - [Locations](#locations)
+    - [Characters](#characters)
+    - [Monsters](#monsters)
+  - [tentative/unsure/mostly unimplemented](#tentativeunsuremostly-unimplemented)
+- [technical notes](#technical-notes)
+  - [Why not just use flame's tools directly?](#why-not-just-use-flames-tools-directly)
+  - [other stuff](#other-stuff)
+- [lol](#lol)
+    - [ys](#ys)
+    - [zemuria references](#zemuria-references)
+    - [other references](#other-references)
+<!-- /TOC -->
+
+
 
 ## Original Translation Problems ##
 
@@ -11,7 +33,7 @@ In this section I list just some of the things that stuck out to me while playin
 * "Even so", "though", etc. are commonly used as filler or conjunctions in situations
 where they don't make sense in English
 * "As expected" when it didn't seem reasonable for exactly that to be expected
-* "somehow" and "anyhow" to express uncertainty, eTODO: ven if it is known exactly how
+* "somehow" and "anyhow" to express uncertainty, even if it is known exactly how
 * use of "various" to mean "lots of things" rather than "lots of different things" 
 * *most* of the original Japanese punctuation and sentence structure was preserved
   * questions that lack question marks. This doesn't happen in English, does it.
@@ -439,6 +461,34 @@ More monster changes:
 
 
 ## technical notes
+
+### Why not just use flame's tools directly?
+
+Before I started, I extracted everything from an iso of the original fantranslation. The addresses of each line in the English script then did not match up with the addresses of each line of the Japanese script, breaking the script insertion, well, script. My changes to the tools were mainly just so that the addresses from the dumped Japanese files are used instead of the addresses of each line of the input files.
+
+However, once I started testing the output, it seemed the released tools only *mostly* work as is. Even if I were to revert all of my changes and try to use them as <del>God</del> flame intended, doing something as simple as dumping and reinserting the Japanese script without changes or replacing all text with the string "AAAAA" creates a number of issues not present in the 4.15 fantranslation release:
+  1. item/money received messages in cutscenes are broken (but not all?)
+  2. Some text remains in their original Japanese forms: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
+  3. chapter start/end graphics are still in Japanese
+  4. <del> The text about your next objective that appears when pressing select used flame's translation</del>
+  5. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact
+
+Clearly, there were undocumented shenanigans that went on in the original fantranslation, given that none of these issues exist in its final release.
+
+The way I ultimately dealt with #1, #2, and #3 was to look at files from outside the 2017 tools:
+  * translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't present. I simply grabbed the files from the 4.15 release to replace the Japanese versions
+  * copying `USRDIR/pack` folder from the 4.15 translation mostly solved #2. This seems to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for the files listed in #2. At least, this isn't done successfully. Like with #3, grabbing the working files from the 4.15 release seems to have solved this issue. However, any changes I make in the `foodarea` and `helplib` files are still not reflected, and they are now stuck using the text from the original fantranslation.
+  * issue #1 does not exist if I simply do not run the script inserter, but obviously, that leaves me unable to insert any of my script changes. This seemed to indicate something was wrong the script inserter.
+    * I eventually discovered changing a 1 to a 3 in for the `0xC1` entry in the dictionary defined in the beginning of the Python 3 inserter fixed #1 without introducing any other problems. The inserter in this repo should include this change.
+ 
+For #4, the correct text will be used if the story is continued to the next objective. It appears this is not at all the fault of the tools, and the text for the current objective is loaded directly from your savefile.
+
+Similar to how many characters tend to feel about Mishy, I still have no idea how to deal with #5, or why it's even there in the first place.
+
+After testing some more, I would occasionally encounter some stray lines of Japanese text underneath my English text in long text boxes. I would usually be able to fix this by reformatting my English text to use an extra line. However, this also occurred when reading the message at the end of Volans' sidequest, but my attempts at fixing it only makes my English text get cut off, and even more Japanese appearing. Copying the original fantranslation's script here also doesn't seem to work.
+
+
+### other stuff
   * accented characters, like for Soufflé or Boötie don't work
   * emdashes (—) don't display well, light horizontal (─) hyphen is better
   * same goes whatever the tilde character on my keyboard is (~), use ～ instead
@@ -502,8 +552,9 @@ in my mind the whole game is basically a retelling of ys i and ii, with some of 
 
 ---
 
+#### other references
 [towa's grandfather](https://vignette.wikia.nocookie.net/kiseki/images/d/d4/Towa_Herschel_-_Family_Photo_4_%28Sen_III%29.png/revision/latest?cb=20180420170602)
-  * astronomer, museum owner
+  * astronomer, museum owner, last name
   * also seems to have a familiar hairstyle?
 
 William Herschel
