@@ -1637,7 +1637,7 @@ EV_0_S02_morn_town
 0x19444	0x06	ALTO		ANI_THINK	
 0x1946b	0x98	ALTO		Even though Captain Puppis' ferry	
 				is pretty fast, it still took us	
-				half a day... Waah...	
+				12 hours... Waah...	
 0x194df	0x6B	Signa		Question	
 0x19512	0x6B	ALTO		Ellipsis	
 0x19544	0x06	ALTO		ANI_YAWN	
@@ -1769,7 +1769,7 @@ EV_2_S05_meet_hydol
 0x1be36	0x98	Hydol		Yes, the ferry just arrived.	
 0x1be76	0x06	Hydol		ANI_WAIT4	
 0x1be9e	0x98	Hydol		Wow, even though I make the trip every	
-				month, the half-day boat trip still	
+				month, that 12-hour boat trip still	
 				takes a lot out of me.	
 0x1bf01	0x98	Hydol		Man, it never gets any easier.
 0x1bf4b	0x06	ALTO		ANI_SCRATCH_HEAD	
