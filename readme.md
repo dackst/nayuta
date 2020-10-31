@@ -28,7 +28,7 @@ But I'm not a big creative writer, and again, don't know Japanese, so maybe I ju
 
 I would appreciate reporting of any issues or general language weirdness. I played through a new game plus with my script and fixed a number of less-obvious mistakes, but it is possible that I missed some. There are a few [issues](#Known-Issues) I've found that I don't know how to fix.
 
-If you're interested in more detail on the changes I made, you can look at my [script notes](./notes.md) file (definitely spoilers to be found here), or look directly at the file history in this repository. You can easily view almost all the changes at once [here](https://github.com/dackst/nayuta/commit/2e5b5c5db7d33fb19f7d38e6ba8c0a8826a07419).
+If you're interested in more detail on the changes I made, you can look at my [script notes](./notes.md) file (definitely spoilers to be found here), or look directly at the file history in this repository. You can easily view almost all the changes at once [here](https://github.com/dackst/nayuta/compare/682d608e28f995515601fd783c1359dd5fa7f49e...master).
 
 <!-- or you can [compare]((https://github.com/dackst/nayuta/compare/original...master)) any of the changed files directly to their originals in this repo. 
 broken ever since I moved files around
@@ -47,7 +47,7 @@ xdelta3 -dfs original.iso patch.xdelta3 patched.iso
 ### MD5 Checksums
 * Clean Japanese ISO : `02adefbdef8197cca872268d5c01b277`
 * ISO patched with flame's 4.15 release: `6cc975153b7998db4242baa17eb8d276`
-* ISO patched with this current release: `3d17f08af098667722f348cf6c47b3b0`
+* ISO patched with this current release: `9c829d2b6d90e6fc5830fbb926e1ed96`
 
 
 ## Known Issues
