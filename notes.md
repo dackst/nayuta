@@ -229,7 +229,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * Nayuta and Cygna fight with swords, but don't exactly seem to use fencing swords like laxia in Ys VIII
 
 * Mythos -> Mitos 
-  * rather than have a race named after a random English word, (oh so they're named Mythos because they're an ancient, mythical race? okay, that would be like Charlemagne declaring himself the kind of the Medievals), use a random (non-English) Greek word instead. apparently means "warp thread", like the root for the word "mitosis". Although by all likelihood what I'm doing to Greek is what the the Japanese text did to English, at least the rest of the text isn't also Greek. (There are some mythology references, including Greek, in the Terran monsters, though.) 
+  * rather than have a race named after a random English word, (oh so they're named Mythos because they're an ancient, mythical race? okay, that would be like Charlemagne declaring himself the king of the Medievals), use a random (non-English) Greek word instead. apparently means "warp thread", like the root for the word "mitosis". Although by all likelihood what I'm doing to Greek is what the the Japanese text did to English, at least the rest of the text isn't also Greek. (There are some mythology references, including Greek, in the Terran monsters, though.) 
   * connection with mitosis could relate to their apparent ability to create, resurrect, and manipulate life. 
   * Possibly related that hajimari no kiseki [promo art](https://static.wikia.nocookie.net/kiseki/images/8/80/Key_Visual_(Hajimari).jpg) shows the grandmaster with similar white hair and holding some kind of yarn
     * even if they do ultimately turn out to be unrelated to the grandmaster, both could still be a reference to similar immortal beings who exert control over the destiny of the world and its life with [thread-related powers](https://en.wikipedia.org/wiki/Moirai). the mechanics behind how they are able to do the whole "controlling power of stars" thing aren't exactly explained as much as with the eldeen
@@ -325,7 +325,8 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * at this point I'm unsure if the second part is referencing cherries, the roman harvest goddess/dwarf planet, or both, so I'll try to not be too on the nose and use "Ceriz", which is neither, but I imagine would be pronounced similarly to the Spanish "feliz", and somewhat similarly how most English speakers would pronounce both Cerise and Ceres.
 
 * Moon View Pavillion -> Moonlight Pavilion
-  * I can't figure out what the Japanese means beyond "moon", but "Moonlight" sounds better than "Moon View"? at least, "moon" and "light" are used often enough together in English to have its own word. Also "pavillion" is supposedly an absolete spelling
+  * I can't figure out what the Japanese means beyond "moon", but "Moonlight" sounds better than "Moon View"? at least, "moon" and "light" are used often enough together in English to have its own word. Also "pavillion" is supposedly an obsolete spelling
+    * maybe "Luna Vista" to keep the Spanish thing going?
 * Herschel House -> Herschels' House
 
 * "Giant Dragon Graveyard" -> "Dragon Graveyard"
@@ -343,6 +344,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * Michey/Michy -> Mishy (match official localizations)
 * Kureha -> Creha
   * Previous translators picked her brother's name to look more Arabic. I personally know less about Arabic that I do about Japanese, but at least "Creha" looks less Japanese. Not that they're always the best (see: [Dalk Fukt](https://www.falcom.co.jp/ys12_psp/character.html)), but "Creha" also seems to be the [official romanization](https://falcom-collections.net/Nayuta%20No%20Kiseki/nayuta04s.jpg.html) of her name
+    * on her brother's name, it could be that any variation of vowels between ["SLM"](https://en.wikipedia.org/wiki/%C5%A0-L-M) (rather than "Serum" or "Seram") would work.
   * the downside here is that her name appears in voiced scenes pretty frequently, where you can hear it starting with an audible "ku" sound
 
 3/4 of the wardens now (alongside Algol) directly refer to astronomical objects (they all do if you consider Nemeas to reference the Nemean Lion, which is associated with the constellation Leo)
@@ -376,7 +378,7 @@ The bosses you fight throughout the story are supposed to related somehow to the
 * Ishtaros -> Ishtauros (Taurus + maybe Ishtar)
 * Gradleon -> Gladarieon (supposed to be Aries, not Leo. Also "Glad" from the Latin "gladius" because the boss is associated with swords)
 * Armadaries -> Armadilleos (supposed to be Leo, not Aries. also an armadillo)
-* Stell Alaqran -> Stell Alcorion (Scorpio + Stella)
+* Stell Alaqran -> Stell Arcorion (Scorpio + Stella)
 
 
 More monster changes:
@@ -385,12 +387,13 @@ More monster changes:
 * Incense -> Innocence (a being made *purely* from this whole Power of Stars, source of all life stuff)
 * Encent Mage -> Ancient Mage
 * Bullmajiro -> Bullmadillo (a charging armadillo)
+* Bullgatorio -> Purgatorio (I don't know where the bull comes from here, it's just a dragon)
 * Rideleon -> Rideron (a humanoid robot that transforms into a bike, hence "rider". has no lion form)
 
-* Suikesu Keeper/Sukeisu Keeper -> Scissor Keeper (a version of the Root Keeper than uses "leaf blade * magic")
-* Evil Tycoon -> Evil [Typhon](https://en.wikipedia.org/wiki/Typhon) (a dragon, not a capitalist)
+* Suikesu Keeper/Sukeisu Keeper -> Scissor Keeper (a version of the Root Keeper than uses "leaf blade magic")
+* Evil Tycoon -> Evil [Typhon](https://en.wikipedia.org/wiki/Typhon) (a version of the Evil Dragon, which, of course, a dragon, not a capitalist)
 * Expert Lion/Expatrion -> Expeltron (another robot that was translated into a lion)
-* Albion -> Hyperion (a giant, not the island of Britain. It doesn't completely match up with the * Japanse name though)
+* Albion -> Hyperion (a giant, not the island of Britain. It doesn't completely match up with the Japanese name though)
 * Lindblum -> [Lindworm](https://en.wikipedia.org/wiki/Lindworm) (a white dragon)
 
 
@@ -459,6 +462,7 @@ More monster changes:
 * the fuck is a "Sprout Magatama"
   * doesn't appear during the corresponding quest it's listed under, and the phrase "芽吹きの勾玉" only appears in these same two files in the original Japanese. Unused dummy text?
 
+* (N.S.) - I previously removed this because I wanted to avoid [real world references](https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates), same as how the original translation would sometimes call the surface "Earth." However, this one might also serve as a hint that there are at least [two calendar systems](#zemuria-references) currently in use.
 
 ## technical notes
 

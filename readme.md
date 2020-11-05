@@ -26,9 +26,9 @@ In addition to some lines simply not making any sense, I noticed others had made
 
 But I'm not a big creative writer, and again, don't know Japanese, so maybe I just made everything worse. At least I ran my English script through a spelling and grammar checker to catch obvious typos and errors, unlike the original. Personally, I think it still might stick slightly closer to the literal Japanese compared to most previous official localizations of Falcom games, but now I believe it to be actually comprehensible. 
 
-I would appreciate reporting of any issues or general language weirdness. I played through a new game plus with my script and fixed a number of less-obvious mistakes, but it is possible that I missed some. There are a few [issues](#Known-Issues) I've found that I don't know how to fix.
+I would appreciate reporting of any issues or general language weirdness. I played through a new game plus with my script and fixed a number of less-obvious mistakes, but it is possible that I missed some. There are a few [issues](#known-issues) I've found that I don't know how to fix.
 
-If you're interested in more detail on the changes I made, you can look at my [script notes](./notes.md) file (definitely spoilers to be found here), or look directly at the file history in this repository. You can easily view almost all the changes at once [here](https://github.com/dackst/nayuta/compare/682d608e28f995515601fd783c1359dd5fa7f49e...master).
+If you're interested in more detail on the changes I made, you can look at my [script notes](./notes.md) file (definitely spoilers to be found here), or look directly at the file history in this repository. You can easily view almost all the changes at once [here](https://github.com/dackst/nayuta/compare/682d608e28f995515601fd783c1359dd5fa7f49e...original).
 
 <!-- or you can [compare]((https://github.com/dackst/nayuta/compare/original...master)) any of the changed files directly to their originals in this repo. 
 broken ever since I moved files around
@@ -40,7 +40,7 @@ broken ever since I moved files around
 
    Otherwise, if you have xdelta3 installed elsewhere, you should also be able to run something similar to this with the desired filenames swapped in:
 ```
-xdelta3 -dfs original.iso patch.xdelta3 patched.iso
+xdelta3 -ds original.iso patch.xdelta3 patched.iso
 ```
 
 
@@ -53,8 +53,9 @@ xdelta3 -dfs original.iso patch.xdelta3 patched.iso
 ## Known Issues
 
 ### Issues in this version 
-These issues don't seem to exist in the original 4.15 fan translation release. I think they may be due to problems with the released tools? See [here](./notes.md/#Why-not-just-use-flame's-tools-directly) for more info.
-* unable to speak to Mishy before chapter 5
+These issues don't seem to exist in the original 4.15 fan translation release. I think they may be due to problems with the released tools? See [here](./notes.md/#why-not-just-use-flame's-tools-directly) for more info.
+* unable to speak to Mishy
+  * before the start of chapter 5, he can only be successfully spoken to on the cape in chapter 2
   * The new game+ sidequest involving Mishy starts partway into chapter 5, so it is unaffected. However, the special Mishy achievement requires talking to him at every opportunity, so that achievement is unable to be completed.
     * If you really want to have a go at that achievement, you can save whenever you find Mishy, and reload with a clean/4.15 patched ISO to talk to him.
 * there are some extra stray lines of text in Japanese when reading the tablet at the end of Volans' sidequest. 
@@ -62,6 +63,7 @@ These issues don't seem to exist in the original 4.15 fan translation release. I
 ### Issues from original fantranslation that I don't know how/care enough to try to fix myself
 * ingredient location text (press △ on the cooking screen) cannot be changed from the original fan translation, which still shows some partially Japanese text
 * boss and new area intro graphics still untranslated
+* some text during final boss encounter is still untranslated
 * erasing save data from in-game menu doesn't work
 * there is some strange text spacing in certain spell descriptions
 * long achievement names are cut off in the notification box when unlocking them, e.g. "<armor of anhillat"
