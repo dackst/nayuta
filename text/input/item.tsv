@@ -259,7 +259,7 @@
 0x469c	name	
 0x46b4	desc	
 0x4728	name	Trek Boots
-0x4740	desc	Boots to prevent injuries used by mountain climbers.
+0x4740	desc	Boots to prevent injuries. Used by mountain climbers.
 0x47b4	name	Leather Guard
 0x47cc	desc	Heavy duty yet comfortable leather pants.
 0x4840	name	Bronze Greaves
@@ -275,7 +275,7 @@
 0x4afc	name	Deneb Leg Guards
 0x4b14	desc	Ultimate armor etched with countless blessings.
 0x4b88	name	Saint Guard
-0x4ba0	desc	Shining leg armor. Makes your body so it can almost float.
+0x4ba0	desc	Shining leg armor. Makes your body feel as if it can float.
 0x4c14	name	Lord Greaves
 0x4c2c	desc	Ancient footgear that has set foot on many battlefields.
 0x4ca0	name	
@@ -539,7 +539,7 @@
 0x932c	name	
 0x9344	desc	
 0x93b8	name	White Mushroom
-0x93d0	desc	[Natural Food] Flavorful thick mushroom. Grows where in humid places.
+0x93d0	desc	[Natural Food] Flavorful thick mushroom. Grows well in humid places.
 0x9444	name	Large Matsutake
 0x945c	desc	[Natural Food] High-class ingredient with characteristic sweet scent.
 0x94d0	name	Solar Beans
@@ -698,8 +698,8 @@
 0xbe78	desc	
 0xbeec	name	
 0xbf04	desc	
-0xbf78	name	Eartha's Box Lunch
-0xbf90	desc	Box lunch that Eartha made. Smells nice even though covered.
+0xbf78	name	Eartha's Boxed Lunch
+0xbf90	desc	Boxed lunch that Eartha made. Smells nice even when covered.
 0xc004	name	Eternal Rose
 0xc01c	desc	Found on the Forest Continent. Said to never wither if given water.
 0xc090	name	Small Shard
@@ -1026,8 +1026,8 @@
 0x11828	desc	Easy-cook frypan dish.
 0x1189c	name	Choice Pilaf
 0x118b4	desc	Pilaf of mixed luxury ingredients.
-0x11928	name	Gorgeous Box Lunch
-0x11940	desc	Box lunch with gorgeous side dishes throughout.
+0x11928	name	Grand Boxed Lunch
+0x11940	desc	Boxed lunch packed with luxurious side dishes.
 0x119b4	name	Jerky
 0x119cc	desc	Dried, smoked thin strips of meat. Have it for a snack.
 0x11a40	name	Meat Bun
@@ -1039,22 +1039,22 @@
 0x11be4	name	Hot Dog
 0x11bfc	desc	Easy dish with sausage between bread.
 0x11c70	name	Jungle Rice
-0x11c88	desc	Box lunch full of deluxe spicy meat and rice.
+0x11c88	desc	Boxed lunch packed with deluxe spicy meat and rice.
 0x11cfc	name	Roast
 0x11d14	desc	Teriyaki-cooked meat. Mouthwatering is inevitable.
 0x11d88	name	Half-Cooked Burger
 0x11da0	desc	Half-cooked sunny side up eggs with a round burger.
-0x11e14	name	Noble Rib Box Lunch
+0x11e14	name	Noble Rib Boxed Lunch
 0x11e2c	desc	Fine lunch said to be eaten by Imperial nobility.
 0x11ea0	name	Hamburger
 0x11eb8	desc	Special burger made sparing no expense.
 0x11f2c	name	Meat Roll Nigiri
-0x11f44	desc	Masterpiece onigiri wrapped with juicy meat strips.
+0x11f44	desc	Exquisite onigiri wrapped in thin-sliced meat.
 0x11fb8	name	Pepper Steak Curry
 0x11fd0	desc	Dreamlike curry made with top-class meat.
 0x12044	name	Steak
 0x1205c	desc	Well-done steak cooked on an iron plate.
-0x120d0	name	Meat Bun
+0x120d0	name	Steak Bun
 0x120e8	desc	Steamed bun filled with steak.
 0x1215c	name	Devil King Sukiyaki
 0x12174	desc	Cooked with a sweet and salty seasoning.
@@ -1063,13 +1063,13 @@
 0x12274	name	Seafood Pizza
 0x1228c	desc	Pizza studded with plenty of fish and mushrooms.
 0x12300	name	Quality Tartare
-0x12318	desc	Box lunch of fried meaty fish with special sauce.
+0x12318	desc	Boxed lunch of fried meaty fish with special sauce.
 0x1238c	name	Fried Fish
 0x123a4	desc	Crispy fried fish with an out-of-this-world texture.
 0x12418	name	Seafood Spaghetti
 0x12430	desc	Spaghetti where whitefish plays the leading role.
 0x124a4	name	Royal Paella
-0x124bc	desc	Box lunch with harmonious seafood flavors.
+0x124bc	desc	Boxed lunch of seafood mixed in perfect harmony.
 0x12530	name	Grilled Fish
 0x12548	desc	Thoroughly grilled fish. A companion for rice.
 0x125bc	name	Seafood Roll
@@ -1091,15 +1091,15 @@
 0x12a1c	name	Liver Sashimi
 0x12a34	desc	Sashimi of iron-filled liver. With ginger.
 0x12aa8	name	Plum Rice Ball
-0x12ac0	desc	Coated with miso. Expecially filling.
+0x12ac0	desc	Coated with miso. Especially filling.
 0x12b34	name	Solid Liver Lunch
-0x12b4c	desc	Box lunch of liver that gives energy.
+0x12b4c	desc	Boxed lunch of liver. Has rejuvinating effect.
 0x12bc0	name	Jellied Broth
 0x12bd8	desc	Dish of solidified broth. Best as a small snack.
 0x12c4c	name	Guts Rice Ball
 0x12c64	desc	Deep flavor rice ball made with grilled guts.
 0x12cd8	name	Fermented Meat
-0x12cf0	desc	Box lunch of guts pickled for a long time.
+0x12cf0	desc	Boxed lunch of guts pickled for a long time.
 0x12d64	name	Darkness Stew
 0x12d7c	desc	Mysterious soup. Its appearance and flavor are incredible.
 0x12df0	name	Getty Dog
@@ -1245,7 +1245,7 @@
 0x15438	name	Gourmet Master
 0x15450	desc	Learned how to make all lunch boxes.
 0x154c4	name	Weapon Master
-0x154dc	desc	Obtained all weapons.
+0x154dc	desc	Obtained all pieces of equipment.
 0x15550	name	Hand of All Creation
 0x15568	desc	Obtained all arts.
 0x155dc	name	Top-Class Collector

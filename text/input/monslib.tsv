@@ -87,9 +87,9 @@
 0x101e	line	curses, producing small-scale
 0x103e	line	black holes from thin air.
 0x109e	mon name	Yeti
-0x10be	line	Monkey wrapped in white fur.
-0x10de	line	Runs fast in snowy mountains,
-0x10fe	line	threaning with terrible speed.
+0x10be	line	Monkey covered in white fur.
+0x10de	line	Able to run through snowy
+0x10fe	line	mountains at terrific speeds.
 0x115e	mon name	Blade Rose
 0x117e	line	At a glance a rose, it hides
 0x119e	line	blades that, if touched, will
@@ -595,9 +595,9 @@
 0x6f5e	line	The winds it creates tears it
 0x6f7e	line	prey to shreds.
 0x6fde	mon name	Bullet Popo
-0x6ffe	line	Giant fluffy monster. Summons
-0x701e	line	poison bees inside it body,
-0x703e	line	shooting them on contact.
+0x6ffe	line	Giant fluffy monster. Launches
+0x701e	line	venomous bees from inside its 
+0x703e	line	body with its antennae.
 0x709e	mon name	Ice Velg
 0x70be	line	Magic armor sealed in an
 0x70de	line	iceberg. Its ice sword attacks
