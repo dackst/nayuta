@@ -387,7 +387,7 @@ EV_1_S07_temple_front
 0x6738	0x06	NOI		ANI_GESTURE2	
 0x6761	0x98	NOI	#6A	Like what...?	
 0x6798	0x06	ALTO		ANI_DENY	
-0x67be	0x98	ALTO		...I don't know exactly, but...	
+0x67be	0x98	ALTO		...I don't know exactly...	
 				But in any case, there's no	
 				way we can just let him go.	
 0x6844	0x06	ALTO		ANI_GESTURE2	

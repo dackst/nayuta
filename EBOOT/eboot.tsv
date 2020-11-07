@@ -311,7 +311,7 @@
 0x2226dc	アクションゲームに慣れている方に。	35	For those used to action games.			
 0x222700	かなり厳しいバランスです。	27	A pretty hard balance.	0x088DD418	3	22
 0x22271c	ノーマルでは物足りない上級者向け。	35	For those unsatisfied with normal.	0x088DD428	3	34
-0x222740	一度クリアした事がある方のみ楽しめます。	43	2nd playthrough only. Enemies are scaled to	0x088DD458	3	46
+0x222740	一度クリアした事がある方のみ楽しめます。	43	2nd playthrough only. Enemies can scale to	0x088DD458	3	46
 0x22276c	Ｌｖに応じて敵が強化される、超やりこみモード。	47	your level for a super-challenging game mode.	0x088DD468	3	43
 0x22279c	ＢＧＭの音量を変更します。	27	Change BGM volume.			
 0x2227b8	ＳＥの音量を変更します。（○ボタン：テストＳＥ再生）	55	Change sound effect volume. (○:Test playback)			45

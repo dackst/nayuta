@@ -413,8 +413,8 @@ talk_Sasha_sub
 				Well, thanks.	
 0x5b30	0x98	Sasha		Cygna... Did he disappear?	
 0x5b6f	0x98	Sasha		I'm worried about that...	
-				But I don't think he	
-				was ever here...	
+				But I don't think he was	
+				ever here...	
 0x5bd2	0x98	Sasha		Sorry, I can't help you.	
 0x5c63	0x98	Sasha		Anyway, Canie would surely be	
 				pleased with an Eternal Rose.	
@@ -474,13 +474,13 @@ talk_Camelope
 				as to prepare a marriage partner for Sasha.	
 0x6763	0x98	Camelope		Because Sasha is an adult, she will	
 				find her own partner by herself.	
-0x67c0	0x98	Camelope		...However, as the daughter of a good family,	
+0x67c0	0x98	Camelope		...However, as the daughter of a noble family,	
 				there is a prerequisite that she chooses a	
 				suitor that will not embarrass us.	
 0x6844	0x98	ALTO		(Wow, Sasha has it rough...)	
 0x68a8	0x98	Camelope		Because Sasha is an adult, she will	mp_0113 0x6763
 				find her own partner by herself.
-0x6905	0x98	Camelope		...However, as the daughter of a good family,	mp_0113 0x67c0
+0x6905	0x98	Camelope		...However, as the daughter of a noble family,	mp_0113 0x67c0
 				there is a prerequisite that she chooses a
 				suitor that will not embarrass us.
 0x69bd	0x98	Camelope		Because Sasha is an adult, she will	mp_0113 0x6763
@@ -492,7 +492,7 @@ talk_Camelope
 				as to prepare a marriage partner for Sasha.
 0x6b1c	0x98	Camelope		Because Sasha is an adult, she will	mp_0113 0x6763
 				find her own partner by herself.
-0x6b79	0x98	Camelope		...However, as the daughter of a good family,	mp_0113 0x67c0
+0x6b79	0x98	Camelope		...However, as the daughter of a noble family,	mp_0113 0x67c0
 				there is a prerequisite that she chooses a
 				suitor that will not embarrass us.
 0x6bfd	0x98	ALTO		(Wow, Sasha has it rough...)	mp_0113 0x6844
@@ -699,7 +699,7 @@ QS_12_consult_a_lawyer
 0x94d4	0x98	ALTO	#6A	Can I get one of those roses, then?	
 0x951b	0x6B	Sasha		Ellipsis	
 0x956d	0x6B	ALTO		Question	
-0x95be	0x98	Sasha		...I'm sorry, I know I was getting	
+0x95be	0x98	Sasha		...I'm sorry. I know I was getting	
 				a little ahead of myself there, but	
 				unfortunately, I don't stock them.	
 0x963c	0x98	Sasha		To begin with, they're a rare and precious	mp_0113 0x88bd
@@ -715,7 +715,7 @@ QS_12_consult_a_lawyer
 				 be on the Forest Continent?)	
 0x9854	0x98	ALTO	#6A	(Though Noi said it's unusual, that place is	
 				 in full bloom with cherry blossoms right now.	
-				 Maybe a rose in there is somewhere...)	
+				 Maybe that rose is in there somewhere...)	
 0x98f5	0x6B	Sasha		Question	
 0x9928	0x06	Sasha		ANI_WAIT4	
 0x9950	0x98	Sasha		What's wrong, Nayuta?	
@@ -726,7 +726,7 @@ QS_12_consult_a_lawyer
 				for any other good anniversary
 				presents on my end.
 0x9a69	0x06	ALTO		ANI_THANKS	
-0x9a91	0x98	ALTO	#6A	Okay, thanks, Sasha.	
+0x9a91	0x98	ALTO	#6A	Okay. Thanks, Sasha.	
 0x9ac7	0x98	ALTO	#6A	(The Forest Continent...	
 				 It might be worth looking there.)	
 QS_25_ask_Sasha

@@ -1253,13 +1253,13 @@ QS_11_look_boat
 0x12da0	0x98	Axe	#6A	Haha, so you're playing with Vel, eh?	
 				Sorry for the trouble, as always.	
 0x12df8	0x06	Axe		ANI_WAIT2	
-0x12e1e	0x98	Axe	#6A	But if you're looking for Vel,	
+0x12e1e	0x98	Axe	#6A	But when it comes to Vel,	
 				I haven't seen her today.	
-0x12e80	0x98	Axe	#6A	I left early today to fish,	
+0x12e80	0x98	Axe	#6A	I left early this morning to fish,	
 				and only just now returned.	
 0x12ed7	0x06	ALTO		ANI_THINK2	
 0x12eff	0x98	ALTO		I see...	mp_0001 0xcecd
-0x12f2c	0x98	ALTO		(So that means it might be somewhere else...)	
+0x12f2c	0x98	ALTO		(So that means it must be somewhere else...)	
 0x12f89	0x06	ALTO		ANI_GOODIDEA	
 0x12fbb	0x98	ALTO		(Come to think of it, I think there should	
 				 be at least one other boat on the island...	

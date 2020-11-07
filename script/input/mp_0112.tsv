@@ -415,9 +415,9 @@ talk_Barton
 				Please, don't mind me.	
 0x7263	0x98	Barton		Nayuta, maybe you will come here	mp_0112 0x70af
 				for a drink with Cygna someday.
-0x72bc	0x98	Barton		Perhaps Lyra would rather	
-				have you be on this side	
-				of the counter...	
+0x72bc	0x98	Barton		Or perhaps Lyra would rather	
+				have you be on this side of	
+				the counter...	
 0x731c	0x98	Barton		Hehe, personally, I'm	
 				looking forward to it.	
 0x7391	0x98	Barton		Nayuta, maybe you will come here	mp_0112 0x70af
@@ -1292,7 +1292,7 @@ talk_Axe
 				from the Empire. It sounds	
 				pretty interesting.	
 0x12205	0x98	Axe		I'm sure Vel would be happy to see it.	
-				I should take her to see it sometime.	
+				I should take her to there sometime.	
 talk_Hydol
 0x122a0	0x98	Hydol		It's almost time to do	
 				my regular checkups, so	
@@ -1578,7 +1578,7 @@ talk_Ophiuchus
 				be too late...	
 talk_Michy
 0x15a92	0x98	Michy		Mishishi! ♪	
-0x15abd	0x98	ALTO		(Ahaha, it sounds satisfied.)	
+0x15abd	0x98	ALTO		(Ahaha, he sounds satisfied.)	
 0x15b5e	0x98	Michy		Mishishi! ♪	mp_0112 0x15a92
 talk_Victor
 0x15c2c	0x98	Victor		I have come to discuss with Dr. Volans	

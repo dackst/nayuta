@@ -41,7 +41,7 @@ QS_12_discovery_rose
 0x1b1d	0xC1	System		obtained.	mp_0000 0x7558
 0x1bb7	0x06	ALTO		ANI_WAIT	
 0x1c41	0x06	NOI		ANI_THINK	
-0x1c67	0x98	NOI	#6A	But...what are you 	
+0x1c67	0x98	NOI	#6A	But... what're you 	
 				gonna use it for?	
 0x1ca8	0x06	NOI		ANI_WAIT	
 0x1ccd	0x06	ALTO		ANI_GESTURE2	

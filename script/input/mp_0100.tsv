@@ -210,7 +210,7 @@ EV_2_S11_set_gear_1st
 				misheard you...	
 0x8580	0x6B	ALTO		Exclamation	
 0x85b2	0x06	ALTO		ANI_SURPRISE	
-0x85dc	0x98	ALTO	#16S	S-Something came out!?	
+0x85dc	0x98	ALTO	#16S	S-Something came out of it!?	
 0x8624	0x98	NOI		First of all, let's restore	
 				Oltapia's climate!	
 EV_2_S13_use_astrolabe
@@ -346,7 +346,7 @@ EV_2_S29_find_creha
 0xb657	0x98	Creha	#1W	Ooh...	mp_0000d 0x2c16
 0xb691	0x06	Creha		ANI_CATCHED	
 0xb6dd	0x06	ALTO		ANI_CATCH_WOMAN	
-0xb70a	0x98	ALTO	#6A#5M	Ah...！	
+0xb70a	0x98	ALTO	#6A#5M	Ah...!	
 0xb88f	0x98	ALTO	#0W#6A	A-Are you okay!?	
 0xb91e	0x3F	Name		Silver-Haired Girl	mp_0100 0xb212
 0xb946	0x98	Creha	#250x#0y#1W	...Thank you.	
@@ -508,7 +508,7 @@ EV_3_S07_use_astrolabe
 0xf678	0x98	ALTO	#6A	We should also be able	
 				to save Erisette.	
 0xf6c7	0x98	ALTO	#6A	I don't want to waste time on	
-				side trips, but... We can't	
+				side trips, but... we can't	
 				just leave her there either.	
 0xf772	0x98	Creha		.......	mp_0001 0xc917
 0xf7de	0x06	ALTO		ANI_GOODIDEA	

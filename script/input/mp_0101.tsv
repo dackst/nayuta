@@ -554,7 +554,7 @@ EV_0_S19_arrive_garden
 				offer to help her!	
 0xc605	0x06	Signa		ANI_JOY	
 0xc62b	0x98	Signa		Yeah, got it. Let's split	
-				up and cover more ground!	
+				up and cover more ground!	# another callback to line at 0004 0xa24a
 0xc773	0x06	Signa		ANI_WAIT0	
 0xc80d	0xCE	Objective		We've arrived in another world. Let's look around!	
 SB_0_S20_alto_move
@@ -949,7 +949,7 @@ EV_2_S01_look_around
 				Maybe he already	
 				left the Garden.	
 0x1447b	0x06	ALTO		ANI_GESTURE2	
-0x144a5	0x98	ALTO		But... He would've needed to use	
+0x144a5	0x98	ALTO		But... he would've needed to use	
 				the teleporter device to go to	
 				another continent, right?	
 0x1450c	0x98	ALTO		I don't know how he'd have	
