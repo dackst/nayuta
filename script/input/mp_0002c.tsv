@@ -111,7 +111,7 @@ tuto_Aulbath
 0x1945	0x36	Choice		About Spinning Cut	mp_0002 0x4d5b
 0x1987	0x36	Choice		About Down Thrust/Meteor Attack	mp_0002 0x4d9d
 0x19ce	0x36	Choice		About Down Thrust	mp_0002 0x4de4
-0x1a0f	0x36	Choice		About Kamaitachi/Whirlwind	mp_0002 0x4e25
+0x1a0f	0x36	Choice		About Kamaitachi/Divine Wind	mp_0002 0x4e25
 0x1a51	0x36	Choice		About Kamaitachi	mp_0002 0x4e67
 0x1a91	0x36	Choice		About Swallow Return/Fallen Lotus	mp_0002 0x4ea7
 0x1ada	0x36	Choice		About Swallow Return	mp_0002 0x4ef0
@@ -174,7 +174,7 @@ tuto_Aulbath
 				longer reach. It is possible to attack
 				from a distance with this technique.
 0x26e7	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x5afd
-				more powerful secret technique, "Whirlwind."
+				more powerful secret technique, "Divine Wind."
 				You can confirm its true nature in battle.
 0x27c2	0x98	Aulbath		"Swallow Return" can cut down all	mp_0002 0x5bd8
 				surrounding enemies in an instant.

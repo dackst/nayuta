@@ -22,7 +22,7 @@
 0x21db78	%s/%s	7	%s/%s			
 0x21ed98	#1C#0P：話す{ 0a }#2P：クエスト会話	31	#1C#0P：Talk{ 0a }#2P：Quest			
 0x21edd4	#1C奥義・散蓮華	15	#1CFallen Lotus			15
-0x21edf4	#1C奥義・神風	15	#1CWhirlwind			12
+0x21edf4	#1C奥義・神風	15	#1CDivine Wind			12
 0x21ee10	#1C奥義・裂空斬	15	#1CVacuum Blade			15
 0x21ee30	#1C奥義・流星撃	15	#1CMeteor Attack	0x883C04C	3	16
 0x21ee9c	#1C%s	7	#1C%s			5

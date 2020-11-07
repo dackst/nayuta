@@ -319,7 +319,7 @@ tuto_Aulbath
 0x4d5b	0x36	Choice		About Spinning Cut	
 0x4d9d	0x36	Choice		About Down Thrust/Meteor Attack	
 0x4de4	0x36	Choice		About Down Thrust	
-0x4e25	0x36	Choice		About Kamaitachi/Whirlwind	
+0x4e25	0x36	Choice		About Kamaitachi/Divine Wind	
 0x4e67	0x36	Choice		About Kamaitachi	
 0x4ea7	0x36	Choice		About Swallow Return/Fallen Lotus	
 0x4ef0	0x36	Choice		About Swallow Return	
@@ -382,7 +382,7 @@ tuto_Aulbath
 				longer reach. It is possible to attack	
 				from a distance with this technique.	
 0x5afd	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	
-				more powerful secret technique, "Whirlwind."	
+				more powerful secret technique, "Divine Wind."	
 				You can confirm its true nature in battle.
 0x5bd8	0x98	Aulbath		"Swallow Return" can cut down all	
 				surrounding enemies in an instant.	
@@ -709,7 +709,7 @@ QS_02_quest_end
 0xc1c8	0xC1	System		obtained.	mp_0000 0x7558
 0xc259	0xC1	System		#3C『Evasion』 improved!	
 0xc345	0xC1	System		#3C『Mastery: Two-Handed Swords ②』 learned!	
-0xc440	0xC1	System		#3CLearned secret technique 『Whirlwind』!	
+0xc440	0xC1	System		#3CLearned secret technique 『Divine Wind』!	
 0xc538	0xC1	System		#3CLearned 『Counter』!	
 0xc61d	0xC1	System		#3C『Mastery: One-Handed Swords ③』 learned!	
 0xc718	0xC1	System		#3C『Magic Charge』 has been strengthened further!	
