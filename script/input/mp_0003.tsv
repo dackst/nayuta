@@ -929,7 +929,7 @@ QS_41_ask_Aquela
 0xe5d1	0x98	Aquela		If you change your mind and desire	
 				a fortune, please call on me anytime.	
 0xe6b0	0x06	ALTO		ANI_SCRATCH_HEAD	
-0xe6de	0x98	ALTO	#6A	Umm...I'll have to pass on that.	
+0xe6de	0x98	ALTO	#6A	Umm... I'll have to pass on that.	
 0xe719	0x06	Aquela		ANI_NOD	
 0xe740	0x98	Aquela		Is that so? I understand.	mp_0003 0xe56b
 0xe77a	0x06	Aquela		ANI_GESTURE1	
@@ -985,7 +985,7 @@ QS_41_fortunetelling
 				I am sure you will find her.
 0xf44a	0x06	ALTO		ANI_THANKS	
 0xf472	0x98	ALTO	#6A	U-Understood. Uh, thank you	
-				for the information	
+				for the information.	
 quest_Axe
 0xf606	0x98	Axe		Oh, about the Elder's request	
 				for an offering from before.	
@@ -1080,8 +1080,8 @@ QS_34_undertake
 0x106f3	0x98	Norma	#6A	...The main reason was the feud	
 				with Mistress I mentioned earlier.	
 0x10765	0x98	Norma	#6A	As the only child, Milady was trained	
-				since her birth to assume the role	
-				of the next head of the family.  	
+				since her birth to assume the role of	
+				the next head of the family.  	
 0x1080f	0x98	Norma	#6A	The Mistress would have loved	
 				nothing more than for her to grow	
 				into a proper noblewoman, but...	
@@ -1228,8 +1228,8 @@ QS_41_ask_captain
 				 mild-mannered though...)	
 0x126a2	0x06	Puppis		ANI_GESTURE1	
 0x126ce	0x98	Puppis		Leaving that matter aside...	
-				That Equulea girl ran	
-				off towards the village.	
+				That Equulea girl ran off	
+				towards the village.	
 0x12740	0x06	ALTO		ANI_THINK2	
 0x12768	0x98	ALTO	#6A	I see... Maybe someone else	
 				could have seen her.	

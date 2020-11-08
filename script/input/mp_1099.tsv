@@ -545,9 +545,9 @@ QS_34_consultation
 				remember that!	
 0x8960	0x98	NOI	#6A	A long time ago, I searched	
 				for it for Lady Creha.	
-0x89b6	0x98	NOI	#6A	If I remember correctly, it's the	
-				sandalwood tree that has that	
-				good fragrance!	
+0x89b6	0x98	NOI	#6A	If I remember correctly, it's	
+				the sandalwood tree that has	
+				that good fragrance!	
 0x8a41	0x06	ALTO		ANI_GESTURE2	
 0x8a6b	0x98	ALTO	#6A	Then, if we have that tree, the	
 				two of them should be able to	
@@ -559,8 +559,8 @@ QS_34_consultation
 0x8b9a	0x06	Gio		ANI_GESTURE2	
 0x8bc3	0x98	Gio		You should search in	
 				the summer of Heimmel.	
-0x8c0a	0x98	Gio		If you look in the Wind Cutting Valley,	
-				you should be able to find a big enough tree.	
+0x8c0a	0x98	Gio		If you look in Wind Cutting Valley, you	
+				should be able to find a big enough tree.	
 0x8c80	0x06	ALTO		ANI_NOD	
 0x8ca5	0x98	ALTO	#6A	Right, so summer of Heimmel	
 				in Wind Cutting Valley?	
@@ -720,7 +720,7 @@ quest_SpiritD
 0xb00d	0x98	ALTO		Hey, you, will you tell us	
 				where that monster appeared?	
 0xb06c	0x06	ALTO		ANI_GESTURE2	
-0xb096	0x98	ALTO		It seems to be franticallyd		
+0xb096	0x98	ALTO		It seems to be frantically		
 				trying to convey something...	
 0xb0e5	0x06	ALTO		ANI_THINK2	
 0xb10d	0x98	ALTO		Noi, what is it?	

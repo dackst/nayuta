@@ -501,7 +501,7 @@
 0x88c8	name	Sol Erase
 0x88e0	desc	[Summer] Create an artificial sun, evaporating all life.
 0x8954	name	White Nova
-0x896c	desc	[Winter] Lower enemy movement with an absolute zero chill.
+0x896c	desc	[Winter] Slow enemy movement with an absolute zero chill.
 0x89e0	name	Grand Terra
 0x89f8	desc	[Autumn] Warp the wind of reality, inflicting statuses and stealing mira.
 0x8a6c	name	Gospel Flower
@@ -1658,7 +1658,7 @@
 0x1c4f8	desc	Ancient fossil through which the time it was alive can be examined.
 0x1c56c	name	Archaeopteryx
 0x1c584	desc	Ancient fossil through which the time it was alive can be examined.
-0x1c5f8	name	Dragon Egg
+0x1c5f8	name	Dinosaur Egg
 0x1c610	desc	Ancient fossil through which the time it was alive can be examined.
 0x1c684	name	Trilobite
 0x1c69c	desc	Ancient fossil through which the time it was alive can be examined.

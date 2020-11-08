@@ -1292,7 +1292,7 @@ talk_Axe
 				from the Empire. It sounds	
 				pretty interesting.	
 0x12205	0x98	Axe		I'm sure Vel would be happy to see it.	
-				I should take her to there sometime.	
+				I should take her there sometime.	
 talk_Hydol
 0x122a0	0x98	Hydol		It's almost time to do	
 				my regular checkups, so	
@@ -2635,7 +2635,7 @@ QS_34_ask_Camelope
 0x2452e	0x98	Camelope		I am indeed, but...	
 				Do you have some business with me?	
 0x24587	0x06	ALTO		ANI_OJIGI	
-0x245ae	0x98	ALTO	#6A	My name is Nayuta and I'm from this island.	
+0x245ae	0x98	ALTO	#6A	My name is Nayuta, and I'm from this island.	
 				I'd like to speak with you for a bit...	
 0x24615	0x40	UNDEF		Nayuta explained the request from	
 				Norma about the feud with Sasha.

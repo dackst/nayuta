@@ -1314,7 +1314,7 @@ EV_3_S24_meet_gio
 0x1d0cb	0x06	NOI		ANI_DENY	
 0x1d0f0	0x98	NOI	#6A	Although we managed to return the	
 				climate back to normal, it will	
-				take some more to release him.	
+				take some more time to release him.	
 0x1d189	0x06	ALTO		ANI_THINK	
 0x1d1b0	0x98	ALTO	#6A	Hmm, well, it sounds like he's considered	
 				one of the strongest wardens, so perhaps	

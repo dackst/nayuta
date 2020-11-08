@@ -278,7 +278,7 @@ subev_haka
 0x5732	0x06	ALTO		ANI_NOD	
 0x5757	0x98	ALTO		(Your dream... Lost Heaven...	
 				 I will find it someday.)	
-0x57e8	0x98	ALTO		(So... Watch over me from the skies.)	
+0x57e8	0x98	ALTO		(So... watch over me from the skies.)	
 0x58e6	0x06	ALTO		ANI_TONTON_SHUE	
 0x5913	0x98	ALTO		...Well, I should get going soon.	
 0x5970	0x98	ALTO		Haha, Cygna will get mad	
@@ -780,8 +780,8 @@ QS_35_quest_end
 				 worry yourself sick."	
 0xd883	0x06	Ursaminor		ANI_WAIT2	
 0xd8af	0x98	Ursaminor		...I see.	mp_0001 0xa6e5
-0xd905	0x98	Ursaminor		..........I'm glad to	
-				hear she's well.	
+0xd905	0x98	Ursaminor		..........	
+				Glad to hear she's well.	
 0xd958	0x06	ALTO		ANI_LAUGH	
 0xd97f	0x98	ALTO	#6A	Haha... I agree. Honestly,	
 				she seems too much so.	
