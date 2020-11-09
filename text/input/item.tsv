@@ -1479,11 +1479,11 @@
 0x19434	name	
 0x1944c	desc	
 0x194c0	name	Infinity Enemy Scaling
-0x194d8	desc	On Infinity difficulty, set enemy levels to scale (can be reset).
+0x194d8	desc	On Infinity difficulty, remove enemy scaling limit (can be reset).
 0x1954c	name	Infinity Enemy Restore
-0x19564	desc	On Infinity difficulty, restore fixed enemy levels (can be reset).
+0x19564	desc	On Infinity difficulty, restore enemy scaling limit (can be reset).
 0x195d8	name	Infinity Enemy Scaling
-0x195f0	desc	On Infinity difficulty, set enemy levels to scale (can be reset).
+0x195f0	desc	On Infinity difficulty, remove enemy scaling limit (can be reset).
 0x19664	name	
 0x1967c	desc	
 0x196f0	name	

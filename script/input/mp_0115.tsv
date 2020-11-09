@@ -424,7 +424,7 @@ talk_Caelum_sub
 				Keep up the good work!	
 0x7a68	0x98	Caelum		Though all we can do is research,	
 				we'll be rooting for you all the way!	
-0x7b04	0x98	Caelum		Hehe, Keep up that good work	
+0x7b04	0x98	Caelum		Hehe, keep up that good work	
 				you two, just like always!	
 0x7b50	0x98	Caelum		Though all we can do is research,	mp_0115 0x7a68
 				we'll be rooting for you all the way!
@@ -1454,7 +1454,7 @@ EV_6_S07_meet_volans
 				It's because Terra was in the sky...?	
 0x16617	0x06	Volans		ANI_GESTURE2	
 0x16643	0x98	Volans		Hehe, this talk	
-				is not over yet	
+				is not over yet.	
 0x16696	0x98	Volans		In fact, if you think about it	
 				further, there's even more	
 				interesting things to discover.

@@ -104,8 +104,8 @@ talk_Crux
 				than it usually does.	
 0x15e6	0x98	Crux		...Well even so, the captain	
 				refuses to stop his ship.	
-0x1669	0x98	Crux		So that this small island won't	
-				get stuck and isolated, we'll	
+0x1669	0x98	Crux		So that these small islands won't	
+				become stuck and isolated, we'll	
 				brace ourselves and keep sailing...	
 0x16e0	0x98	Crux		Well, that's what	
 				the captain says.	
@@ -184,7 +184,7 @@ talk_Vavo
 0x24f6	0x98	Vavo		Nayuta, as always, I would
 				appreciate your help.	
 0x2579	0x98	Vavo		Hmm, it's fortunate that not much	
-				rubble has not hit the museum.	
+				rubble has hit the museum.	
 0x25d3	0x98	Vavo		However, from a research angle,	
 				this is very intriguing...	
 				If I investigate this thoroughly...	

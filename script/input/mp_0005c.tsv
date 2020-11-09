@@ -108,7 +108,7 @@ EV_6_S11_help_lyra
 0x4434	0x98	ALTO	#1W	Haha, you're welcome.	
 0x44ce	0x98	ALTO	#1W	...Sorry for always worrying you.	
 				But I'm fine now, so...	
-0x4574	0x98	Lyra	#2W#6A	*cry* Really...! You and	
+0x4574	0x98	Lyra	#2W#6A	*sniff* Really...! You and	
 				Cygna always do this!	
 0x4678	0x98	Lyra	#16S#4W#6A	...Waaaaaah...	
 				#16SNayuta, you idiot...!!	
@@ -117,7 +117,7 @@ EV_6_S11_help_lyra
 0x4734	0x98	NOI	#6A	(She's mad, yet she's crying...	
 				 Heh, that's just like her.)	
 0x47a0	0x06	Bell		ANI_THINK	
-0x47c7	0x98	Bell	#6A	*cry*...	
+0x47c7	0x98	Bell	#6A	Wow～...	
 0x47f2	0x06	Bell		ANI_WAIT2	
 0x4819	0x98	Bell	#6A	Nayuta and Lyra,	
 				is this adult love?	
@@ -139,7 +139,7 @@ EV_6_S11_help_lyra
 0x4e07	0x6B	Bell		Surprise	
 0x523b	0x98	ALTO	#6A	Master!	mp_0001 0x10925
 0x526d	0x06	Lyra		ANI_GESTURE2	
-0x52b5	0x98	Lyra		Orvus, didn't you	
+0x52b5	0x98	Lyra		Mr. Orvus, didn't you	
 				leave on patrol?	
 0x5335	0x98	Aulbath		Yes, that is right, but...	
 				I came running when I heard a
@@ -230,7 +230,7 @@ EV_6_S11_help_lyra
 0x6f99	0x06	ALTO		ANI_GESTURE2	
 0x6fe1	0x98	ALTO		Noi...	
 0x702d	0x06	NOI		ANI_DENY	
-0x7052	0x98	NOI	#6A	But... That might have been	
+0x7052	0x98	NOI	#6A	But... that might have been	
 				a mistake, after all.	
 0x70a2	0x06	NOI		ANI_GESTURE2	
 0x70cb	0x98	NOI	#6A	I believe in you... If we work	
