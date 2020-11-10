@@ -28,7 +28,7 @@ QS_22_get_scale
 0x1d59	0x06	NOI		ANI_SURPRISE	
 0x1d82	0x98	NOI	#6A	Ah... Look, Nayuta!	
 0x1dbe	0x06	ALTO		ANI_GUTSPOSE	
-0x1de8	0x98	ALTO	#6A	Elumi Resin... It's oozing out	
+0x1de8	0x98	ALTO	#6A	Elemi Resin... It's oozing out	
 				of the surface of this tree!	
 0x1e44	0x06	ALTO		ANI_THANKS	
 0x1e6c	0x98	ALTO	#6A	Good... We've	

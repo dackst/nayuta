@@ -1022,7 +1022,7 @@ QS_22_undertake
 0x1093a	0x06	ALTO		ANI_GESTURE1	
 0x10964	0x98	ALTO	#6A	Old lenses need to be coated	
 				with a special resin, but...	
-0x109c3	0x98	ALTO	#6A	The Elumi Resin	
+0x109c3	0x98	ALTO	#6A	The Elemi Resin	
 				is a little rare.	
 0x10a09	0x06	Asa		ANI_GESTURE2	
 0x10a32	0x98	Asa		You can only find it in the	
@@ -1030,7 +1030,7 @@ QS_22_undertake
 0x10a8f	0x98	Asa		It takes several	
 				months to order it.	
 0x10ad6	0x06	NOI		ANI_THINK	
-0x10afc	0x98	NOI	#6A	Elumi Resin...	
+0x10afc	0x98	NOI	#6A	Elemi Resin...	
 0x10b2e	0x06	Lyra		ANI_DEJECTED	
 0x10b58	0x98	Lyra		I-Is that so?	
 				If that's the case, we	
@@ -1100,7 +1100,7 @@ QS_22_quest_end
 0x11ac9	0x06	Asa		ANI_SURPRISE	
 0x11af2	0x98	Asa		Ah, Nayuta, have you...?	
 0x11b34	0x06	ALTO		ANI_GESTURE2	
-0x11b5e	0x98	ALTO	#6A	Yeah, I managed to acquire some Elumi Resin.	
+0x11b5e	0x98	ALTO	#6A	Yeah, I managed to acquire some Elemi Resin.	
 0x11ba6	0x98	Lyra		I-I can't believe you	
 				found it so quickly...	
 0x11c2b	0x06	Lyra		ANI_ANGRYTALK	
