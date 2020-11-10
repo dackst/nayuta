@@ -33,7 +33,7 @@ EV_8_S16_help_s_and_c
 				have a last chance to talk.	
 0x1703	0x6B	ALTO		Surprise	
 0x1741	0x06	ALTO		ANI_GESTURE1	
-0x176b	0x98	ALTO	#1W	"Last"...#0WWhat do you mean?	
+0x176b	0x98	ALTO	#1W	"Last"... #0WWhat do you mean?	
 0x17b6	0x6B	Noi2		Ellipsis	
 0x17e8	0x06	Noi2		ANI_WAIT	
 0x182c	0x98	Noi2	#0W	I am a being that should have	

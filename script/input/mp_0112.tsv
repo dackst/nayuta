@@ -238,7 +238,7 @@ talk_Barton
 0x52c0	0x98	Barton		Hey, Nayuta. I heard you	
 				were supposed to spend	
 				time with Lyra today.	
-0x5320	0x98	Barton		I'm sorry, I'm sure you must	
+0x5320	0x98	Barton		I'm sorry. I'm sure you must	
 				be already very busy with	
 				your Handyman Shop work.	
 0x5371	0x98	ALTO		Haha, it's all right.	
@@ -1445,7 +1445,7 @@ talk_Mensa
 				But panicking won't solve anything.	
 0x13f69	0x98	Mensa		In times like these, you just	
 				have to stand your ground and	
-				 do what needs to be done.	
+				do what needs to be done.	
 0x13fc4	0x98	Mensa		Heh, you seem	
 				to understand.	
 0x1402f	0x98	Mensa		In times like these, you just have	mp_0112 0x13f69

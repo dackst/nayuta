@@ -37,7 +37,7 @@ EV_7_S05_check_starball
 				been activated yet...	
 0x25f0	0x98	NOI	#6A	It's the core of Terra, and	
 				also plays a crucial role in	
-				performing the Remaking.	
+				executing the Recreation.	
 0x2697	0x06	ALTO		ANI_GESTURE2	
 0x26c1	0x98	ALTO		What... role is that?	
 0x2728	0x41	None	#0W#1E#889c	Allow me to tell you.#0E	
@@ -64,7 +64,7 @@ EV_7_S05_check_starball
 0x2d32	0x98	NOI		Nayuta...!	mp_0000c 0x734d
 0x2d90	0x06	ALTO		ANI_JOY	
 0x2db5	0x98	ALTO	#6A	Let's go, Noi!	mp_1099 0x152c1
-0x2f9c	0xCE	Objective		...Cygna's beckons. Let's go!	
+0x2f9c	0xCE	Objective		...Cygna beckons. Let's go!	
 SB_7_S06_appear_ALTO
 SB_7_S06_appear_NOI
 EV_7_S06_meet_seram
@@ -133,7 +133,7 @@ EV_7_S06_meet_seram
 0x4202	0x98	Seram	#6A	...We should have carried out	
 				the Recreation after all.	
 0x4270	0x06	ALTO		ANI_DENY	
-0x42b4	0x98	ALTO		So... You think the right	
+0x42b4	0x98	ALTO		So... you think the correct	
 				thing to do now is erasing	
 				the current surface!?	
 0x4311	0x98	ALTO		That's... that's just not right!	
@@ -294,7 +294,7 @@ EV_7_S09_seram_stone
 				on the path you believe in is usually	
 				one of your good traits.	# reference to intro scene, should be worded similarly
 0x7827	0x06	ALTO		ANI_GESTURE1	
-0x7851	0x98	ALTO	#6A	But... Don't let it get	
+0x7851	0x98	ALTO	#6A	But... don't let it get	
 				to you too badly.	
 0x78bf	0x98	Seram		Haha... My bad, man.	
 				I'm just a big fat mess. 	
@@ -354,7 +354,7 @@ EV_7_S09_seram_stone
 0x8a38	0x6B	Signa		Exclamation	
 0x8a6b	0xBC	NOI		Exclamation	
 0x8f93	0x98	NOI	#0x#500y	Zext!!	mp_5200 0x1c08
-0x8fcc	0x98	Signa	#500x#500y	Tch... So you're here.	
+0x8fcc	0x98	Signa	#500x#500y	Damn... You're here.	
 0x92d6	0x98	Zext		...I asked, what are you doing?	
 0x931b	0x98	Zext		Selam, do you intend to betray me?	
 0x9365	0x06	Signa		ANI_GESTURE2	
@@ -362,8 +362,8 @@ EV_7_S09_seram_stone
 				it a teenage rebellious phase.	
 0x93ea	0x06	ALTO		ANI_BATTOU2	
 0x945d	0x98	ALTO	#6A	W-Wait... Where is Creha now!?	
-0x949e	0x98	ALTO	#6A	There's no way her mind	
-				and memories are...	
+0x949e	0x98	ALTO	#6A	Her mind and memories	
+				can't be...	
 0x951c	0x98	Zext		Creha...? Ah, that	
 				good-for-nothing	
 				daughter of mine.	

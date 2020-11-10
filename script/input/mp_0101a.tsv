@@ -130,7 +130,7 @@ EV_6_S32_notice_noi
 0x3621	0x06	ALTO		ANI_GESTURE2	
 0x364b	0x98	ALTO	#6A#220x#50y	...Noi?	
 0x3686	0x06	NOI		ANI_DENY	
-0x36ed	0x98	NOI	#1W	........It's nothing.	
+0x36ed	0x98	NOI	#1W	......It's nothing.	
 0x390e	0x06	NOI		ANI_GESTURE2	
 0x3937	0x98	NOI	#6A	Let's go, Nayuta. We'll put the	
 				Stellagears in the Astrolabe.	

@@ -892,7 +892,7 @@ QS_82_quest_end
 0xf85f	0x98	NOI		No... It's fine.	
 				Somehow, I understand what	
 				you're feeling, Nayuta.	
-0xf8da	0x98	Serpent	#6A	Hoho, oh, what U would give to have the	
+0xf8da	0x98	Serpent	#6A	Hoho, oh, what I would give to have the	
 				Great Fairy to say as much about me. This	
 				year's offerings were a great success.	
 0xf9ed	0x98	Serpent	#6A	Good work, you two. As a	
@@ -1091,9 +1091,9 @@ EV_8_S02_meet_lyra
 0x14348	0x06	Lyra		ANI_WAIT1	
 0x1436f	0x98	Lyra		...It's been about	
 				a year already.	
-0x143b4	0x98	Lyra		Thanks to you guys,	
-				abnormalities throughout	
-				the world have cleared up...	
+0x143b4	0x98	Lyra		Thanks to you guys, the	
+				anomalies throughout the	
+				world have cleared up...	
 0x14423	0x06	ALTO		ANI_NOD	
 0x14448	0x98	ALTO	#6A	I guess you're right...	
 				It's gone by so fast.	
@@ -1125,9 +1125,9 @@ EV_8_S02_meet_lyra
 0x149bf	0x98	Lyra		They were precious companions to me	
 				and the rest of the islanders.	
 0x14a1d	0x06	Lyra		ANI_GESTURE2	
-0x14a65	0x98	Lyra		If you're in pain, don't keep it	
-				bottled up by yourself. You can	
-				talk to me about anything, okay?	
+0x14a65	0x98	Lyra		If you're in pain, you don't have to	
+				keep it bottled up by yourself. You	
+				can talk to me about anything, okay?	
 0x14b0b	0x06	ALTO		ANI_NOD	
 0x14b30	0x98	ALTO	#6A	...I'll do that.	
 0x14b63	0x98	ALTO	#6A	Lyra, thanks for always worrying	

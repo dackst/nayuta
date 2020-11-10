@@ -138,7 +138,7 @@ talk_Sculp
 0x230d	0x98	Axe		Next is the one that fell near	
 				your cow shed, I guess...	
 0x2362	0x98	Axe		I'll meet you guys there as soon	
-				as I'm finished with my patrol,	
+				as I'm finished with my patrol.	
 0x240c	0x98	Sculp		Nayuta, don't worry about the	
 				village. We'll protect the	
 				place while you're gone.	
@@ -411,7 +411,7 @@ talk_Pyxia
 0x5c01	0x98	Pyxia		It reminds me of that	
 				famous artist's work,	
 				"The End of Days"...	
-0x5c69	0x98	Pyxia		...N-No way.	
+0x5c69	0x98	Pyxia		...I-It can't be.	
 0x5cc3	0x98	Pyxia		That the beautiful blue sky and	
 				ocean would turn into this...
 0x5d23	0x98	Pyxia		Somehow, it doesn't feel real.

@@ -215,7 +215,7 @@ EV_6_S36_break_up_creha
 0x7df4	0x98	Creha		We left all life on Terra in the hands	
 				of Noi and the other wardens...	
 0x7e9c	0xBC	Creha		Ellipsis	
-0x7f19	0x98	Creha		But... When I regained the memories	
+0x7f19	0x98	Creha		But... when I regained the memories	
 				I lost during my long slumber...	
 0x7f7a	0x98	Creha		My father told me about	
 				the accelerating pace of	
@@ -228,9 +228,9 @@ EV_6_S36_break_up_creha
 0x81a1	0x98	Creha	#0W	You... You said you would stop us.	
 0x81f1	0x98	Creha	#1W	We could not allow that to happen.	
 0x8339	0x06	Creha		ANI_WAIT2	
-0x8369	0x98	Creha	#0W	You have seen the "Ancient	
-				Memories" and know the 	
-				truth about this planet.	
+0x8369	0x98	Creha	#0W	You have seen the Ancient	
+				Memory and know the truth	
+				about this planet.	
 0x8419	0x98	Creha	#0W	If you could look at me in the	
 				eyes and say you are still	
 				determined to fight us...	
@@ -301,7 +301,7 @@ EV_6_S36_break_up_creha
 				my daughter with such worthless thoughts.	
 0x9ea9	0x06	Zext		ANI_CAPTURE_CREHA	
 0x9ee8	0x06	Creha		ANI_CAPTURED	
-0x9f8c	0x98	Zext	#1W	Come, Creha! The Planetarium	
+0x9f8c	0x98	Zext	#1W	Creha! Come, the Planetarium	
 				will be ready soon.	
 0xa01d	0x98	Zext	#2W	We need you to take care of	
 				some finishing touches...	
@@ -502,7 +502,7 @@ EV_7_S19_use_astrolabe
 0xf179	0x98	Noi	#1W	So don't lose your way, Nayuta!	
 0xf204	0x06	Noi		ANI_GUTSPOSE	
 0xf24f	0x98	Noi	#1W#16S	Everyone... I'm gonna	
-				save the surface world!!	
+				#16Ssave the surface world!!	
 0xf2d5	0x98	ALTO	#1W#6A	...Got it.	
 0xf33a	0x98	ALTO	#2W#6A	I... I'll never forget you.	
 0xf382	0x06	ALTO		ANI_JOY	
