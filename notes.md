@@ -192,6 +192,7 @@ Like before, this section mostly served so that *I* could keep these things cons
   * the animals Mishy and Nora (the dog) are now referred to by those that know them using male and female pronouns, respectively, rather than being (almost) always genderless.
 
 * transfer/transport(er) gate/device -> "transfer gate" should now exclusively refer to the large physical gates you walk through, and "teleporter device" for the small pads on the ground
+* Training Book: stamp/seal -> seal
 
 * Pyxia should no longer switch between making paintings and drawings
 
