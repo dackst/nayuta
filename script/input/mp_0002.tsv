@@ -276,9 +276,9 @@ check_growth
 				useful in my training.	
 0x4593	0x98	Aulbath		Hmm, is that so...?	
 0x45fc	0x98	Aulbath		It seems you've been gradually	
-				collecting all the stamps.	
+				collecting all the seals.	
 0x4654	0x98	Aulbath		...Yes, if you collect a few more	
-				stamps, you should be able to	
+				seals, you should be able to	
 				learn a new sword skill.	
 0x46cd	0x98	ALTO		Huh...? A skill?	
 0x46fb	0x98	ALTO		Oh, yeah, Cygna used them	
@@ -298,9 +298,9 @@ check_growth
 				you can receive new skills or items.
 0x4980	0x07	System	#4C	Speak with Orvus once you've	
 				accumulated a sufficient number	
-				of stamps in the Training Book.	
-0x49f7	0x98	Aulbath		The number of stamps in the	
-				Training Book show how many	
+				of seals in the Training Book.	
+0x49f7	0x98	Aulbath		The number of seals in the	
+				Training Book shows how many	
 				challenges you've accomplished.	
 0x4a74	0x98	Aulbath		...Let's see, if you've done this	
 				much, you should be able to learn	

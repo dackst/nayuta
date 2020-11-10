@@ -84,7 +84,7 @@ def ensure_dir(dirname):
         os.makedirs(dirname)
 
 def scriptdump(filename):
-    with open(r'orig\{}.bin'.format(filename), 'rb') as f:
+    with open(r'orig/{}.bin'.format(filename), 'rb') as f:
         filedata = f.read()
     pos = 0x18
     EOF = struct.unpack('<I',filedata[pos + 0x24:pos+ 0x28])[0]
@@ -164,7 +164,7 @@ def scriptdump(filename):
             output.append((hex(pos_saved),
                            '0x{:02X}'.format(opcode),
                            name, code, text, [ref]))
-    with open(r'dumped\{}.tsv'.format(filename), 'w', encoding='utf-8') as f:
+    with open(r'dumped/{}.tsv'.format(filename), 'w', encoding='utf-8') as f:
         first = True
         for item in output:
             if first:
