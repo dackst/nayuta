@@ -238,7 +238,7 @@ talk_Barton
 0x52c0	0x98	Barton		Hey, Nayuta. I heard you	
 				were supposed to spend	
 				time with Lyra today.	
-0x5320	0x98	Barton		I'm sorry, I'm sure you must	
+0x5320	0x98	Barton		I'm sorry. I'm sure you must	
 				be already very busy with	
 				your Handyman Shop work.	
 0x5371	0x98	ALTO		Haha, it's all right.	
@@ -415,9 +415,9 @@ talk_Barton
 				Please, don't mind me.	
 0x7263	0x98	Barton		Nayuta, maybe you will come here	mp_0112 0x70af
 				for a drink with Cygna someday.
-0x72bc	0x98	Barton		Perhaps Lyra would rather	
-				have you be on this side	
-				of the counter...	
+0x72bc	0x98	Barton		Or perhaps Lyra would rather	
+				have you be on this side of	
+				the counter...	
 0x731c	0x98	Barton		Hehe, personally, I'm	
 				looking forward to it.	
 0x7391	0x98	Barton		Nayuta, maybe you will come here	mp_0112 0x70af
@@ -1292,7 +1292,7 @@ talk_Axe
 				from the Empire. It sounds	
 				pretty interesting.	
 0x12205	0x98	Axe		I'm sure Vel would be happy to see it.	
-				I should take her to see it sometime.	
+				I should take her there sometime.	
 talk_Hydol
 0x122a0	0x98	Hydol		It's almost time to do	
 				my regular checkups, so	
@@ -1445,7 +1445,7 @@ talk_Mensa
 				But panicking won't solve anything.	
 0x13f69	0x98	Mensa		In times like these, you just	
 				have to stand your ground and	
-				 do what needs to be done.	
+				do what needs to be done.	
 0x13fc4	0x98	Mensa		Heh, you seem	
 				to understand.	
 0x1402f	0x98	Mensa		In times like these, you just have	mp_0112 0x13f69
@@ -1478,9 +1478,9 @@ talk_Mensa
 0x14502	0x98	Mensa		I need to contact the company	
 				and make sure as much of it	
 				is preserved as possible.	
-0x145be	0x98	Mensa		The millionaire put much of	
-				his mira into preserving	
-				nature before he died.	
+0x145be	0x98	Mensa		Our client put much of his	
+				mira into preserving the	
+				environment before he died.	
 0x14624	0x98	Mensa		His legacy was to be the vast tract	
 				of lush green land he owned.	
 0x14683	0x98	Mensa		His family has been plotting	
@@ -1488,11 +1488,11 @@ talk_Mensa
 0x146fb	0x98	Mensa		Hehe, now that we've found	
 				Mishy, they won't be able	
 				to do anything by themselves.	
-0x14799	0x98	Mensa		The millionaire hired us to find and	
-				take care of Mishy, and to manage the	
-				land that will be his legacy.	
+0x14799	0x98	Mensa		Our client hired us to find and take	
+				care of Mishy, and to manage the land	
+				that will be his legacy.	
 0x1481b	0x98	Mensa		Well, it's a pain in the ass...	
-				But I have to finish what he	
+				But we have to finish what he	
 				asked us to do.	
 0x148c4	0x98	Mensa		Hmm... If we still	
 				can't find him after	
@@ -1578,7 +1578,7 @@ talk_Ophiuchus
 				be too late...	
 talk_Michy
 0x15a92	0x98	Michy		Mishishi! ♪	
-0x15abd	0x98	ALTO		(Ahaha, it sounds satisfied.)	
+0x15abd	0x98	ALTO		(Ahaha, he sounds satisfied.)	
 0x15b5e	0x98	Michy		Mishishi! ♪	mp_0112 0x15a92
 talk_Victor
 0x15c2c	0x98	Victor		I have come to discuss with Dr. Volans	
@@ -1847,8 +1847,8 @@ quest_Hydol
 				you've spoken to those three.	
 0x193c8	0x98	Hydol		Well, thanks for all your help.	
 quest_Mensa
-0x194d3	0x98	Mensa		The millionaire who hired us	
-				to manage his estate was a	
+0x194d3	0x98	Mensa		Our client who hired us to	
+				manage his estate was a	
 				very generous man.
 0x19525	0x98	Mensa		He was a solitary old man, and	
 				he did a lot for us outside of	
@@ -1998,7 +1998,7 @@ QS_58_ask_reason
 0x1b210	0x98	Mensa		And... this was our client's last request.	
 				We're obligated to fulfill it at all costs.	
 0x1b28c	0x06	Mensa		ANI_SIT1_GESTURE2	
-0x1b2bc	0x98	Mensa		You should understand, you're	
+0x1b2bc	0x98	Mensa		You should understand. You're	
 				in a similar line of work.	
 0x1b320	0x06	ALTO		ANI_THINK2	
 0x1b348	0x98	ALTO	#6A	...I get it, yes.	
@@ -2029,7 +2029,7 @@ QS_58_quest_end
 0x1bb50	0x06	Mensa		ANI_SIT1_GESTURE2	
 0x1bb80	0x98	Mensa		Hehe, looks like you	
 				brought him here safely.	
-0x1bbd1	0x98	Mensa		You know, he just disappeared, and...	
+0x1bbd1	0x98	Mensa		You know, you just disappeared, and...	
 				Your master would be worried about you.	
 0x1bc3e	0x98	Michy	#6A#200x#300y	Mishii...	
 0x1bc8b	0x06	ALTO		ANI_DENY	
@@ -2635,7 +2635,7 @@ QS_34_ask_Camelope
 0x2452e	0x98	Camelope		I am indeed, but...	
 				Do you have some business with me?	
 0x24587	0x06	ALTO		ANI_OJIGI	
-0x245ae	0x98	ALTO	#6A	My name is Nayuta and I'm from this island.	
+0x245ae	0x98	ALTO	#6A	My name is Nayuta, and I'm from this island.	
 				I'd like to speak with you for a bit...	
 0x24615	0x40	UNDEF		Nayuta explained the request from	
 				Norma about the feud with Sasha.

@@ -55,7 +55,7 @@ EV_6_S29_hituzi_boss
 0x25fa	0x98	ALTO	#6A	Why!?	mp_0004c 0x3162
 0x2672	0x06	NOI		ANI_GESTURE1	
 0x269b	0x98	NOI	#6A	Oh, no...!!	mp_6301 0x2cff
-0x273b	0x98	Nemeas		...I have learned the truth.	
+0x273b	0x98	Nemeas		...We have learned the truth.	
 0x27b4	0x98	Nemeas		The duty of the Mitos...	mp_6300 0x2b5b
 				And the real reason for
 				the creation of Terra.
@@ -194,17 +194,17 @@ EV_6_S31_4gear_get
 				those two can proceed	
 				to the lowest stratum.	
 0x76df	0x06	Nemeas		ANI_GESTURE2	
-0x7741	0x98	Nemeas	#1W	I am not quite sure we	
-				made the right choice...	
+0x7741	0x98	Nemeas	#1W	I am not quite sure we made	
+				the right choice myself...	
 0x7850	0x98	Gio	#1W#6A	...I see.	mp_0001 0xa6e5
-0x78e6	0x98	Gio	#1W#6A	However, I do not think it is	
-				less preferable to destroy the	
-				surface like this.	
+0x78e6	0x98	Gio	#1W#6A	However, I do not think it	
+				more preferable to destroy	
+				the surface like this.	
 0x7971	0x06	Erislet		ANI_NOD	
 0x79a7	0x98	Erislet	#0W#6A	Maybe...	
 0x79e5	0x06	Erislet		ANI_GESTURE2	
 0x7a49	0x98	Erislet	#3W#6A	Hopefully those two	
-				can find some answers.	
+				can find the answer.	
 0x7ae7	0x98	Algorl	#1W	All things are guided by the stars...	
 				Nothing we can do now but trust this to them.	
 0x7d61	0x06	Gio		ANI_GESTURE2	

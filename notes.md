@@ -173,6 +173,7 @@ Like before, this section mostly served so that *I* could keep these things cons
   * Defeated high-rank monster [Monster Name]!
   * Noi recovered the *season name* magic, 『*magic name*』!
   * season unlock message
+  * sub menu/submenu/sub-menu -> submenu
 
 * rephrase "the/this [continent name] continent" and "Continent [continent name]" (as in, "Let's try to get to the Asia continent from Continent Europe!") or to either "the continent of [continent name]" or just "[continent name]" 
   * "[epithet] Continent [continent name]" is okay too i guess
@@ -308,6 +309,9 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * Serpent -> Cobra
   * koi's listed scientific name is unchanged, however (Cyprinus carpio) 
     * I think it was correct as of 2012, but it appears koi have since been reclassified under a different species (Cyprinus rubrofuscus)
+* Bronze Sextant -> Bronze Instrument
+  * it's described as modeling the heavenly bodies, which is exactly what an [astrolabe](https://en.wikipedia.org/wiki/Astrolabe) is.
+
 * Moon bird egg: Egg of destruction beast -> Moon bird eggs: Eggs of an extinct animal
 * Unopened Box (from Orvus sidequest) -> Locked Box
 * Shard \<Name> -> Name Shard
@@ -317,6 +321,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 
 * Byakuda -> sandalwood
   * wiki walk: [ビャクダン](https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%A3%E3%82%AF%E3%83%80%E3%83%B3) -> Santalum album -> sandalwood
+* Elumi -> [Elemi](https://en.wikipedia.org/wiki/Canarium_luzonicum)
 
 
 #### Locations

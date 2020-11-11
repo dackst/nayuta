@@ -5,7 +5,7 @@ EV_3_S14_temple3_front
 0x764	0x98	ALTO	#6A	There's the temple of Heimmel...	
 0x7b3	0x98	NOI	#6A	It looks like the Power of Stars	
 				hasn't been cut off yet...	
-0x80c	0x98	NOI	#6A	Zext might not have reached the altar yet.	
+0x80c	0x98	NOI	#6A	Zext might have yet to reach the altar.	
 				...If we hurry, we should be able to catch up!	
 0x8d4	0x41	None	#0W#1E#889c	...Hehe, you two seem pretty carefree.#0E	
 0x966	0x6B	ALTO		Exclamation	
@@ -167,7 +167,7 @@ EV_3_S14_temple3_front
 0x4221	0x06	ALTO		ANI_WAIT4	
 0x4248	0x98	ALTO	#6A	...Well, no point in dwelling	
 				over that right now.	
-0x42e8	0x98	NOI		...You're right	
+0x42e8	0x98	NOI		...You're right.	
 0x4317	0x98	NOI		For now, we should take the Master	
 				Gear back and help your sister...	
 0x437f	0x06	NOI		ANI_GUTSPOSE	

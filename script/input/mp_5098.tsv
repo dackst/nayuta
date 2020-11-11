@@ -67,7 +67,7 @@ EV_5_S09_meet_seram
 0x2b10	0x98	Seram	#1W	I applaud you for	
 				coming this far.	
 0x2b61	0x06	Seram		ANI_WAIT2	
-0x2c29	0x98	Seram	#0W#16S	But... No more.	
+0x2c29	0x98	Seram	#0W#16S	But... no more.	
 0x2c74	0x06	Seram		ANI_GRIP_SWORD_HANDLE	
 0x2d30	0x98	Seram	#0W	If you value your lives,	
 				turning around immediately	
@@ -84,7 +84,7 @@ EV_5_S09_meet_seram
 				You're always acting like my big bro...	
 				Always taking on any burden by yourself...	
 0x31e9	0x06	ALTO		ANI_GESTURE2	
-0x3221	0x98	ALTO	#0W	It's a bad habit of yours#15W...#1WCygna.	
+0x3221	0x98	ALTO	#0W	It's a bad habit of yours#12W...#1WCygna.	
 0x3298	0x6B	NOI		Ellipsis	
 0x334b	0x98	NOI	#1W	Eh...?	
 0x337c	0x98	Seram	#2W#6A	.....	mp_0000d 0x70fd

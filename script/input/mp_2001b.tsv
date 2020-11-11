@@ -32,8 +32,8 @@ EV_2_S16_big_hindrance
 0x1dd8	0x98	ALTO		Come to think of it, I feel like	
 				I've seen these gear things all	
 				over the place...	
-0x1e45	0x98	ALTO		Are they a part of the world	
-				made by the Mitos...?	
+0x1e45	0x98	ALTO		Are they a part of how the	
+				Mitos made this world...?	
 0x1e93	0x06	ALTO		ANI_GESTURE2	
 0x1ebd	0x98	ALTO		Haha, it appears that there are still	
 				many more amazing devices hidden here	
@@ -79,7 +79,7 @@ EV_2_S21_look_cage_2nd
 0x2a74	0x6B	ALTO		Exclamation	
 0x2aa6	0x6B	NOI		Exclamation	
 0x2af4	0x98	ALTO		What was that voice...!?	
-0x2b50	0x98	NOI	#6A	...No way!	
+0x2b50	0x98	NOI	#6A	...Oh no!	
 0x2cae	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x2cdd	0x98	ALTO	#6A	It's just like... the thing	
 				Geo was trapped in!?	
@@ -105,7 +105,7 @@ EV_2_S21_look_cage_2nd
 0x321c	0x40	UNDEF		Nayuta briefly explained what had happened so far.
 0x3273	0x41	None	#0W#2E#029c	I see...	
 				It seems as though the same	
-				thing happened on Oltapia.#0E	
+				thing happened in Oltapia.#0E	
 0x3315	0x41	None	#0W#2E#029c	I, too, was captured by "Zext"	
 				when I was in my temple.#0E	
 0x33ab	0x41	None	#0W#2E#029c	I can't even sing in this	

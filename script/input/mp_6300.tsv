@@ -67,8 +67,7 @@ EV_6_S25_usi_boss
 0x2a11	0x06	NOI		ANI_GESTURE1	
 0x2a3a	0x98	NOI	#6A	Oh, no...	
 				Eris!!	
-0x2ada	0x98	Erislet		...We finally	
-				understand	
+0x2ada	0x98	Erislet		...We finally understand	
 				the truth.	
 0x2b5b	0x98	Erislet		The duty of the Mitos...	
 				And the real reason for	
@@ -124,8 +123,7 @@ SB_6_S25_equip_se
 EV_6_S26_bye_erislet
 0x47c8	0x06	Erislet		ANI_WAIT	
 0x4cb7	0x06	Erislet		ANI_DENY	
-0x4d38	0x98	Erislet	#4W	Phew...	
-				I lost.	
+0x4d38	0x98	Erislet	#4W	Phew... I lost.	
 0x4d74	0x06	Erislet		ANI_GESTURE2	
 0x4df9	0x98	Erislet	#0W	I should have known, you two...	
 				You make quite a good team.	

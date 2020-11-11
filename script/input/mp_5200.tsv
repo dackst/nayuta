@@ -82,7 +82,7 @@ EV_5_S19_meet_zext
 				in Heimmel...	
 0x33e3	0x98	Seram		Heh, an image of the Mitos	
 				leading your world.	
-0x3440	0x98	Seram		Well, the relationship between gods	
+0x3440	0x98	Seram		Well, the relationship between god	
 				and man was going pretty well.	
 0x3498	0x98	Seram		...Until one day.	
 0x34db	0x98	Creha		One day... the humans made a mistake.	
@@ -231,8 +231,8 @@ EV_5_S19_meet_zext
 				not to communicate all	
 				she knew to you.	
 0x67b8	0x98	Zext	#6A	In other words, Noi used you in order	
-				to help create the situation in which	
-				we currently find ourselves.	
+				to help contribute to the situation	
+				in which we currently find ourselves.	
 0x6983	0x98	ALTO	#1W#6A	...No way...	mp_0100b 0xe52
 0x69b5	0x06	NOI		ANI_DENY	
 0x6a1c	0x98	NOI		N-No! It's not like that!	
@@ -282,7 +282,7 @@ EV_5_S19_meet_zext
 				ago for the sole purpose of	
 				Recreating the planet.	
 0x80a4	0x98	ALTO	#3W#16S#6A	...!!	mp_0110 0x23435
-0x812d	0x98	Zext	#1W	Now then... This talk is over.	
+0x812d	0x98	Zext	#1W	Now then... this talk is over.	
 0x817f	0x98	Zext	#1W	We have no further need of that	
 				useless warden, either...	
 0x822a	0x98	Zext	#3W	I will personally put	

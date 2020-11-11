@@ -40,7 +40,7 @@
 0xa8c	desc	
 0xb00	name	Woodcutter Axe
 0xb18	desc	Long-handle iron axe for felling large trees.
-0xb8c	name	Spike Mace
+0xb8c	name	Spiked Mace
 0xba4	desc	Steel mace with pointed spikes. Plenty of destructive power.
 0xc18	name	Puriesta
 0xc30	desc	Ritual greatsword used in Remnant Island festivals.
@@ -207,9 +207,9 @@
 0x3864	name	Beast Gloves
 0x387c	desc	Patterned on beast claws. Supple and won't hurt mobility.
 0x38f0	name	Oni Mask
-0x3908	desc	Mask of a shouting Oni. The wearer is granted strength.
+0x3908	desc	Mask of a shouting oni. Its wearer is granted power.
 0x397c	name	Goggle Helmet
-0x3994	desc	With googles for ruins exploration, worn by adventurers.
+0x3994	desc	Goggles for exploration of ruins. Worn by adventurers.
 0x3a08	name	Metal Claw
 0x3a20	desc	Hand guard with ornamental claws used by ancient knights.
 0x3a94	name	Altair Shield
@@ -317,7 +317,7 @@
 0x5678	name	Cat Ears
 0x5690	desc	[Mira/Ingr./Coll. Drop Up] Mysterious legacy of an ancient civilization.
 0x5704	name	Headdress
-0x571c	desc	[Hide from Enemies] Ornament worn on the head with church symbol.
+0x571c	desc	[Hide from Enemies] Ornament worn on the heads of maids.
 0x5790	name	Fairy Cross
 0x57a8	desc	Pure clothing worn by wind spirits.
 0x581c	name	Tight Suit
@@ -501,7 +501,7 @@
 0x88c8	name	Sol Erase
 0x88e0	desc	[Summer] Create an artificial sun, evaporating all life.
 0x8954	name	White Nova
-0x896c	desc	[Winter] Lower enemy movement with an absolute zero chill.
+0x896c	desc	[Winter] Slow enemy movement with an absolute zero chill.
 0x89e0	name	Grand Terra
 0x89f8	desc	[Autumn] Warp the wind of reality, inflicting statuses and stealing mira.
 0x8a6c	name	Gospel Flower
@@ -580,7 +580,7 @@
 0x9e34	desc	[Natural Food] Healthful orange carrot whose end is split into three.
 0x9ea8	name	100-Leaf Cabbage
 0x9ec0	desc	[Natural Food] Its lush green leaves are piled on each other.
-0x9f34	name	Big Old Turnip
+0x9f34	name	Big Ol' Turnip
 0x9f4c	desc	[Natural Food] Thick, heavy turnip that sucked nutrients from the ground.
 0x9fc0	name	Tear Onion
 0x9fd8	desc	[Natural Food] Fresh onion that makes you cry just by being near it.
@@ -704,7 +704,7 @@
 0xc01c	desc	Found on the Forest Continent. Said to never wither if given water.
 0xc090	name	Small Shard
 0xc0a8	desc	Cracked star shard. Can't be used to see another world. Shines prettily.
-0xc11c	name	100-Year Peach Sapling
+0xc11c	name	100-Yr Peach Sapling
 0xc134	desc	Strange tree sapling. If planted in spring, it bears fruit in summer.
 0xc1a8	name	100-Year Peach
 0xc1c0	desc	Strange peach with a deep sweet flavor. Said to give eternal youth.
@@ -1019,7 +1019,7 @@
 0x1166c	name	Meat Sushi
 0x11684	desc	Unconventional dish where the fish is swapped for meat.
 0x116f8	name	Parent and Child Bowl
-0x11710	desc	Popular rice bowl with egg and chicken meat.
+0x11710	desc	Popular rice bowl with egg and chicken.
 0x11784	name	Special Katsudon
 0x1179c	desc	Fried pork on top, dessert on bottom.
 0x11810	name	Ginger Pork
@@ -1301,7 +1301,7 @@
 0x16388	name	Guide of Legends
 0x163a0	desc	Defeated <Guide of Legends> Zext Ji Quarius.
 0x16414	name	Star Core of Void
-0x1642c	desc	Defeated <Star Core of Void> Stell Alcorion.
+0x1642c	desc	Defeated <Star Core of Void> Stell Arcorion.
 0x164a0	name	Divine Armor
 0x164b8	desc	Defeated <Divine Armor of Purity> Labe Virgos.
 0x1652c	name	Weaver of Paradise
@@ -1478,12 +1478,12 @@
 0x193c0	desc	
 0x19434	name	
 0x1944c	desc	
-0x194c0	name	Infinity Enemy Scaling
-0x194d8	desc	On Infinity difficulty, set enemy levels to scale (can be reset).
-0x1954c	name	Infinity Enemy Restore
-0x19564	desc	On Infinity difficulty, restore fixed enemy levels (can be reset).
-0x195d8	name	Infinity Enemy Scaling
-0x195f0	desc	On Infinity difficulty, set enemy levels to scale (can be reset).
+0x194c0	name	Infinite Enemy Scaling
+0x194d8	desc	Remove enemy scaling limit in Infinity difficulty (can be reset).
+0x1954c	name	Revert Infinite Scaling
+0x19564	desc	Restore enemy scaling limit in Infinity difficulty (can be reset).
+0x195d8	name	Infinite Enemy Scaling
+0x195f0	desc	Remove enemy scaling limit in Infinity difficulty (can be reset).
 0x19664	name	
 0x1967c	desc	
 0x196f0	name	
@@ -1658,7 +1658,7 @@
 0x1c4f8	desc	Ancient fossil through which the time it was alive can be examined.
 0x1c56c	name	Archaeopteryx
 0x1c584	desc	Ancient fossil through which the time it was alive can be examined.
-0x1c5f8	name	Dragon Egg
+0x1c5f8	name	Dinosaur Egg
 0x1c610	desc	Ancient fossil through which the time it was alive can be examined.
 0x1c684	name	Trilobite
 0x1c69c	desc	Ancient fossil through which the time it was alive can be examined.
@@ -1796,7 +1796,7 @@
 0x1eab4	desc	A precious gemstone of high value.
 0x1eb28	name	Cursed Armor: Body
 0x1eb40	desc	Precious artifact of ancient times.
-0x1ebb4	name	Festival Mural
+0x1ebb4	name	Ritual Mural
 0x1ebcc	desc	Precious artifact of ancient times.
 0x1ec40	name	Cursed Armor: Arm
 0x1ec58	desc	Precious artifact of ancient times.
@@ -1820,7 +1820,7 @@
 0x1f144	desc	A precious gemstone of high value.
 0x1f1b8	name	Golden Armor: Foot
 0x1f1d0	desc	Precious artifact of ancient times.
-0x1f244	name	Bronze Sextant
+0x1f244	name	Bronze Instrument
 0x1f25c	desc	Precious artifact of ancient times.
 0x1f2d0	name	Silver Armor: Head
 0x1f2e8	desc	Precious artifact of ancient times.
@@ -1852,7 +1852,7 @@
 0x1fa04	desc	A precious gemstone of high value.
 0x1fa78	name	Steel Armor: Foot
 0x1fa90	desc	Precious artifact of ancient times.
-0x1fb04	name	Planetary Globe
+0x1fb04	name	Terrestrial Globe
 0x1fb1c	desc	Precious artifact of ancient times.
 0x1fb90	name	
 0x1fba8	desc	

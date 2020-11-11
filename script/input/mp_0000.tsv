@@ -531,8 +531,8 @@ talk_Sculp
 				Yup, she's a good kid.	
 0x8ab4	0x98	Sculp		Canie just left to visit Eartha.	
 0x8afa	0x98	Sculp		It will be difficult moving forward...	
-				If you ever need any help,	
-				you can always rely on us.	
+				If you ever need any help, you can	
+				always rely on us.	
 0x8b97	0x98	Sculp		Anyway, we're all looking for	
 				a way to cure Eartha together.	
 0x8bee	0x98	Sculp		I'm going to go through and see if	
@@ -748,7 +748,7 @@ talk_Pyxia
 				 to my sister appeared?)	
 0xb81f	0x98	Pyxia		You! Thank you so much!	
 0xb859	0x98	Pyxia		With these pigments, I should be	
-				able to draw an amazing picture!	
+				able to paint an amazing picture!	
 0xb8d3	0x98	Pyxia	#18S	My goal is to be a chicken-level artist!	
 0xb941	0x98	Pyxia		This is Remnant Island...	
 				Sure is a relaxed place.	
@@ -807,7 +807,7 @@ talk_Horolo
 				it's such a beautiful place...
 0xc418	0x98	Horolo		...Did something happen?	mp_0000 0xc32d
 talk_Mensa
-0xc4c6	0x98	Mensa		So... How are things going?	
+0xc4c6	0x98	Mensa		So... how are things progressing?	
 0xc505	0x98	Ophiuchus		*sigh*, I managed to	
 				catch sight of him...	
 0xc563	0x98	Ophiuchus		But as soon he saw	
@@ -1471,7 +1471,7 @@ QS_12_quest_end
 0x15e66	0x06	ALTO		ANI_DENY	
 0x15e8c	0x98	ALTO	#6A	Um, ah, I'm good, really...	
 0x15eca	0x06	ALTO		ANI_GESTURE2	
-0x15ef4	0x98	ALTO	#6A	More importantly, Why don't you	
+0x15ef4	0x98	ALTO	#6A	More importantly, why don't you	
 				go give the present to Canie?	
 0x15f48	0x06	Sculp		ANI_NOD	
 0x15f6e	0x98	Sculp		Oh, that's right!!	
@@ -1793,7 +1793,7 @@ EV_2_S05_meet_hydol
 0x1c283	0x6B	ALTO		Ellipsis	
 0x1c2b5	0x6B	Hydol		Question	
 0x1c2e8	0x06	Hydol		ANI_WAIT3	
-0x1c310	0x98	Hydol		Hmm, I'm sure why, but...	
+0x1c310	0x98	Hydol		Hmm, I'm not sure why, but...	
 				You seem a little down.	
 0x1c371	0x98	Hydol		I'll be renting a room	
 				at the inn for a while.	

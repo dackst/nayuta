@@ -161,7 +161,7 @@ talk_Aulbath_sub
 0x2a91	0x98	Aulbath		...I, too, must be getting old.	
 0x2acc	0x6B	ALTO		Sweatdrop	
 0x2afe	0x98	ALTO		(That's Master for you...	
-				 If you're not careful, he's bound	
+				 If we're not careful, he's bound	
 				 to find out everything immediately.)	
 0x2bb5	0x98	Aulbath		For a moment, I sensed inside	mp_0002 0x2a09
 				those ruins an unusual presence...
@@ -225,7 +225,7 @@ talk_Pyxia
 				sketch this at once...	
 0x3832	0x98	Pyxia		...Eek, the paper got wet!	
 0x38a9	0x98	Pyxia		I can't decide what to	
-				draw for the contest.	
+				paint for the contest.	
 0x38fe	0x98	Pyxia		...See that old geezer over there?	
 				He has a special atmosphere about him.	
 0x3948	0x98	Pyxia		"The Master Swordsman Awaits His Nemesis."	
@@ -233,9 +233,9 @@ talk_Pyxia
 				it would go something like that.	
 0x39ec	0x6B	ALTO		Sweatdrop	
 0x3a46	0x98	Pyxia		I can't decide what to	mp_0002 0x38a9
-				draw for the contest.
+				paint for the contest.
 0x3a9b	0x98	Pyxia		That old geezer over there...	
-				I'll just draw him in secret.	
+				I'll just sketch him in secret.	
 talk_Horolo
 0x3b70	0x98	Horolo		Snow is not unusual on	
 				the continent, but...	

@@ -826,7 +826,7 @@ EV_4_S20_get_gear_4th
 0x104dd	0x06	ALTO		ANI_TENSION_WAIT	
 0x10659	0x06	b003		ANI_DEMO5	
 0x1082c	0x98	ALTO	#0W	*huff*, *huff*	
-				We... we did it...!	
+				We... We did it...!	
 0x10870	0x98	NOI	#0W#6A	Look, that's...!	
 0x10b8c	0x98	ALTO		It's the Master Gear of Fire...!	
 				Noi, let's grab it and get outta here!	

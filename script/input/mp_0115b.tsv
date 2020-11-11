@@ -12,7 +12,7 @@ lp_fossil2
 				You can observe tiny dinosaur skeletons inside.	
 lp_fossil3
 0x157c	0x41	None		[Ammonite] Ammonoidea	
-				Snail that lived in ancient times.	
+				Mollusc that lived in ancient times.	
 				A common ancient organism whose fossils	
 				can be found throughout the world. Even now,	
 				there are conflicting opinions on its classification.	
@@ -62,7 +62,7 @@ lp_stuffed7
 lp_stuffed8
 0x25e8	0x41	None		[Ancient Bear] Ursus	
 				Ancient white animal with a large build.	
-				Living in the center of the cold region,	
+				Living in the middle of cold regions,	
 				it preys on seals and dolphins.	
 lp_stuffed9
 0x27a0	0x41	None		[Dodo] Raphidae	
@@ -82,8 +82,8 @@ lp_stuffed11
 lp_stuffed12
 0x2cfd	0x41	None		[Frilled Lizard] Chlamydosaurus	
 				Reptile with characteristic frills around its neck.	
-				Strongly territorial, it expands the	
-				frills to threaten its opponents.	
+				Strongly territorial, it expands its frills to	
+				threaten its opponents.	
 lp_dinosaur_cam
 lp_dinosaur
 0x317b	0x36	Choice		Tyrannosaurus	

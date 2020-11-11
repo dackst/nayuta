@@ -132,10 +132,10 @@ talk_SpiritC
 0x2e68	0x98	SpiritC		......?	
 0x2ea2	0x98	SpiritC		......☆	
 talk_SpiritD
-0x2f07	0x98	SpiritD		...☆	
+0x2f07	0x98	SpiritD		.........☆	
 0x2f35	0x98	SpiritD		...～～...	
 				......!	
-0x2fd4	0x98	SpiritD		.......	
+0x2fd4	0x98	SpiritD		.............	
 				...～～～...	
 0x3014	0x98	SpiritD		...?	
 quest_Gio
@@ -380,7 +380,7 @@ QS_24_quest_end
 0x6475	0x98	Gio		Wahaha, I'm just showing	
 				off this long life of mine.	
 0x64c7	0x98	Gio		Food is an inseparable part	
-				2of the local culture.	
+				of the local culture.	
 0x6534	0x06	Gio		ANI_NOD	
 0x6558	0x98	Gio		*chew*, *chew*	
 				Mmm, it's good!	
@@ -545,9 +545,9 @@ QS_34_consultation
 				remember that!	
 0x8960	0x98	NOI	#6A	A long time ago, I searched	
 				for it for Lady Creha.	
-0x89b6	0x98	NOI	#6A	If I remember correctly, it's the	
-				sandalwood tree that has that	
-				good fragrance!	
+0x89b6	0x98	NOI	#6A	If I remember correctly, it's	
+				the sandalwood tree that has	
+				that good fragrance!	
 0x8a41	0x06	ALTO		ANI_GESTURE2	
 0x8a6b	0x98	ALTO	#6A	Then, if we have that tree, the	
 				two of them should be able to	
@@ -559,8 +559,8 @@ QS_34_consultation
 0x8b9a	0x06	Gio		ANI_GESTURE2	
 0x8bc3	0x98	Gio		You should search in	
 				the summer of Heimmel.	
-0x8c0a	0x98	Gio		If you look in the Wind Cutting Valley,	
-				you should be able to find a big enough tree.	
+0x8c0a	0x98	Gio		If you look in Wind Cutting Valley, you	
+				should be able to find a big enough tree.	
 0x8c80	0x06	ALTO		ANI_NOD	
 0x8ca5	0x98	ALTO	#6A	Right, so summer of Heimmel	
 				in Wind Cutting Valley?	
@@ -623,7 +623,7 @@ QS_54_talk_gio
 0x9b36	0x98	Gio		Hmm, of course. Send my	
 				regards to Nemeas!	
 quest_SpiritD
-0x9dda	0x98	SpiritD		...........!	
+0x9dda	0x98	SpiritD		..............!	
 				...～～～...!	
 0xa027	0x06	ALTO		ANI_WAIT	
 0xa04d	0x06	NOI		ANI_WAIT	
@@ -636,8 +636,8 @@ quest_SpiritD
 0xa16d	0x98	SpiritD		...～..........	
 				......～～～...!	
 0xa203	0x06	ALTO		ANI_GESTURE2	
-0xa22d	0x98	ALTO		Hmm, it seems to frantically		
-				be trying to convey something...
+0xa22d	0x98	ALTO		Hmm, it seems to be frantically		
+				trying to convey something...
 0xa286	0x06	NOI		ANI_SURPRISE	
 0xa2c7	0x98	NOI	#6A	Oh, no... It seems that	
 				a ferocious monster has	
@@ -672,7 +672,7 @@ quest_SpiritD
 				of the fauna on this continent	
 				are going to die!" it says.	
 0xa805	0x06	NOI		ANI_DEJECTED	
-0xa82e	0x98	NOI	#6A	This one normally patrols the continents,	
+0xa82e	0x98	NOI	#6A	This one normally patrols the continent,	
 				but it seems like they can't hold back	
 				the abnormalities on their own anymore.	
 0xa8c5	0x98	NOI	#6A	It says it's not one of those,	
@@ -685,7 +685,7 @@ quest_SpiritD
 				of the fauna on this continent
 				are going to die!" it says.
 0xaa2f	0x06	NOI		ANI_DEJECTED	
-0xaa58	0x98	NOI	#6A	This one normally patrols the continents,	
+0xaa58	0x98	NOI	#6A	This one normally patrols the continent,	
 				but it seems like they can't hold back	
 				the abnormalities on their own anymore.	
 0xaad5	0x06	SpiritD		ANI_NOD	
@@ -720,7 +720,7 @@ quest_SpiritD
 0xb00d	0x98	ALTO		Hey, you, will you tell us	
 				where that monster appeared?	
 0xb06c	0x06	ALTO		ANI_GESTURE2	
-0xb096	0x98	ALTO		It seems to frantically be		
+0xb096	0x98	ALTO		It seems to be frantically		
 				trying to convey something...	
 0xb0e5	0x06	ALTO		ANI_THINK2	
 0xb10d	0x98	ALTO		Noi, what is it?	
@@ -1276,7 +1276,7 @@ EV_1_S12_battle_end
 				I'm proud of you.	
 0x180ac	0xBC	Signa		Ellipsis	
 0x1810a	0x06	Signa		ANI_WAIT2	
-0x181aa	0x98	Signa	#1W#16S	But... No more!	
+0x181aa	0x98	Signa	#1W#16S	But... no more!	
 0x181fa	0x98	ALTO	#6A#1W	Huh...?	mp_0001 0x166ea
 0x1822e	0x98	NOI		What...?	
 0x1826a	0x98	Signa		Zext and that masked guy seem to	

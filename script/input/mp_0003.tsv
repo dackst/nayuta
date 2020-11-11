@@ -929,7 +929,7 @@ QS_41_ask_Aquela
 0xe5d1	0x98	Aquela		If you change your mind and desire	
 				a fortune, please call on me anytime.	
 0xe6b0	0x06	ALTO		ANI_SCRATCH_HEAD	
-0xe6de	0x98	ALTO	#6A	Umm...I'll have to pass on that.	
+0xe6de	0x98	ALTO	#6A	Umm... I'll have to pass on that.	
 0xe719	0x06	Aquela		ANI_NOD	
 0xe740	0x98	Aquela		Is that so? I understand.	mp_0003 0xe56b
 0xe77a	0x06	Aquela		ANI_GESTURE1	
@@ -985,7 +985,7 @@ QS_41_fortunetelling
 				I am sure you will find her.
 0xf44a	0x06	ALTO		ANI_THANKS	
 0xf472	0x98	ALTO	#6A	U-Understood. Uh, thank you	
-				for the information	
+				for the information.	
 quest_Axe
 0xf606	0x98	Axe		Oh, about the Elder's request	
 				for an offering from before.	
@@ -1080,8 +1080,8 @@ QS_34_undertake
 0x106f3	0x98	Norma	#6A	...The main reason was the feud	
 				with Mistress I mentioned earlier.	
 0x10765	0x98	Norma	#6A	As the only child, Milady was trained	
-				since her birth to assume the role	
-				of the next head of the family.  	
+				since her birth to assume the role of	
+				the next head of the family.  	
 0x1080f	0x98	Norma	#6A	The Mistress would have loved	
 				nothing more than for her to grow	
 				into a proper noblewoman, but...	
@@ -1228,8 +1228,8 @@ QS_41_ask_captain
 				 mild-mannered though...)	
 0x126a2	0x06	Puppis		ANI_GESTURE1	
 0x126ce	0x98	Puppis		Leaving that matter aside...	
-				That Equulea girl ran	
-				off towards the village.	
+				That Equulea girl ran off	
+				towards the village.	
 0x12740	0x06	ALTO		ANI_THINK2	
 0x12768	0x98	ALTO	#6A	I see... Maybe someone else	
 				could have seen her.	
@@ -1253,13 +1253,13 @@ QS_11_look_boat
 0x12da0	0x98	Axe	#6A	Haha, so you're playing with Vel, eh?	
 				Sorry for the trouble, as always.	
 0x12df8	0x06	Axe		ANI_WAIT2	
-0x12e1e	0x98	Axe	#6A	But if you're looking for Vel,	
+0x12e1e	0x98	Axe	#6A	But when it comes to Vel,	
 				I haven't seen her today.	
-0x12e80	0x98	Axe	#6A	I left early today to fish,	
+0x12e80	0x98	Axe	#6A	I left early this morning to fish,	
 				and only just now returned.	
 0x12ed7	0x06	ALTO		ANI_THINK2	
 0x12eff	0x98	ALTO		I see...	mp_0001 0xcecd
-0x12f2c	0x98	ALTO		(So that means it might be somewhere else...)	
+0x12f2c	0x98	ALTO		(So that means it must be somewhere else...)	
 0x12f89	0x06	ALTO		ANI_GOODIDEA	
 0x12fbb	0x98	ALTO		(Come to think of it, I think there should	
 				 be at least one other boat on the island...	

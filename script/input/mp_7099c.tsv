@@ -45,7 +45,7 @@ EV_7_S14_battle_zext
 0x19f2	0x98	ALTO	#6A	...How did you end up	
 				back here on Terra?	
 0x1a57	0x98	ALTO	#16S#6A	How could you once be so kind,
-				and then come back like this!?	
+				#16Sand then come back like this!?	
 0x1c46	0x98	Zext	#1W	.......	mp_0001 0xc917
 0x1c78	0x98	Zext		...When we Mitos lose our lives,	
 				we dissolve into the Power of Stars.	
@@ -63,9 +63,9 @@ EV_7_S14_battle_zext
 0x1ef4	0x98	Zext		...However, as years passed and new	
 				civilizations were built, the humans	
 				again started to grow foolish.	
-0x1f90	0x98	Zext		They slaughtered animals, destroyed nature,	
-				killed their fellow man for wealth and	
-				power time and time again.	
+0x1f90	0x98	Zext		They slaughtered animals, destroyed the	
+				environment, and killed their fellow man	
+				for wealth and power time and time again.	
 0x2021	0x98	Zext		And so, the destruction of	
 				the planet accelerated.	
 0x2088	0x98	ALTO	#1W#240x#270y	.....	mp_0000d 0x70fd
@@ -105,8 +105,8 @@ EV_7_S14_battle_zext
 				drop a keystone to the surface.		
 0x2f00	0x06	NOI		ANI_WAIT	
 0x2f25	0x98	ALTO	#6A	A... keystone!?	
-0x2f90	0x98	Zext	#140x#120y	Yes, and so, Terra will use it to	
-				anchor itself deeply into the ground...	
+0x2f90	0x98	Zext	#140x#120y	Yes, and Terra will use it to anchor	
+				itself deeply into the ground...	
 0x2ffd	0x98	Zext	#140x#120y	And so, the Planetarium can then	
 				descend into the surface, and then	
 				the Plan will finally be complete.	
@@ -539,9 +539,9 @@ EV_7_S18_go_astrolabe
 0xf286	0x40	NOI		"Zext" said it could connect	
 				Terra to the surface!	
 0xf3ce	0x06	NOI		ANI_GESTURE1	
-0xf3f7	0x98	NOI	#6A	If we do that with the crystal,	
-				we could control the planet	
-				with the Astrolabe!	
+0xf3f7	0x98	NOI	#6A	If we do the same thing with that	
+				crystal, we could control the	
+				planet with the Astrolabe!	
 0xf45c	0x98	NOI	#6A	Meanwhile, we could also	
 				send in the Planetarium's	
 				Power of Stars...	

@@ -11,7 +11,7 @@ EV_6_S34_bygone_garden
 0x941	0x98	Seram	#0W#N#240x#140y#16S	This way, Creha!	
 0x992	0x98	Seram	#0W#N#240x#140y#16S	Hurry... #0WWe have to get out of here!!	
 0xc7a	0x06	Seram		ANI_WAIT2	
-0xcaa	0x98	Seram	#0W	*huff, huff*...Are you all right?	
+0xcaa	0x98	Seram	#0W	*huff*, *huff*...Are you all right?	
 0xcf8	0x98	Seram		...It looks like we were the only ones	
 				who were able to escape to Terra...	
 0xd78	0x06	Creha		ANI_DENY	

@@ -61,7 +61,7 @@ EV_6_S18_search_key
 0x2152	0x06	ALTO		ANI_COMPLAIN	
 0x217c	0x98	ALTO		...Wait, there are humans here!?	
 0x21e0	0x06	NOI		ANI_DENY	
-0x220d	0x98	NOI	#0W#6A	...No. Apparently they weren't	
+0x220d	0x98	NOI	#0W#6A	...No. Apparently, they weren't	
 				able to save a single human.	
 0x226f	0x06	NOI		ANI_DEJECTED	
 0x2298	0x98	NOI	#6A#0W	The surface was destroyed faster	
@@ -74,7 +74,7 @@ EV_6_S18_search_key
 0x24f0	0x98	ALTO		Wh-What was that rumble just now!?	
 0x2569	0x98	NOI	#6A	Some of the things most important	
 				to Terra are stored in the	
-				lower most stratum.	
+				lower-most stratum.	
 0x25d9	0x06	NOI		ANI_GESTURE2	
 0x2602	0x98	NOI	#6A	A great body of crystallized Power of	
 				Stars to be used for the Recreation...	
@@ -119,7 +119,7 @@ EV_6_S18_search_key
 0x2ec8	0x40	UNDEF		A new world map can be accessed	
 				from the front of the Garden.	
 0x308b	0xCE	Objective		Stellagears are in the Pillars of Lexendria. Let's get them!	
-0x3117	0x07	System	#4C	The sub-menu movement command	
+0x3117	0x07	System	#4C	The submenu movement command	
 				"Star Capital Lexendria"	
 				has been added.	
 SB_6_S32_appear_ALTO
@@ -130,7 +130,7 @@ EV_6_S32_notice_noi
 0x3621	0x06	ALTO		ANI_GESTURE2	
 0x364b	0x98	ALTO	#6A#220x#50y	...Noi?	
 0x3686	0x06	NOI		ANI_DENY	
-0x36ed	0x98	NOI	#1W	........It's nothing.	
+0x36ed	0x98	NOI	#1W	......It's nothing.	
 0x390e	0x06	NOI		ANI_GESTURE2	
 0x3937	0x98	NOI	#6A	Let's go, Nayuta. We'll put the	
 				Stellagears in the Astrolabe.	

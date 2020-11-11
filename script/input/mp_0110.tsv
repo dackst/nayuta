@@ -111,8 +111,8 @@ talk_Asa_sub
 				I'm sure you'll be able to bring	
 				those two back. So, cheer up.	
 0x3f95	0x98	ALTO		...Yeah, you're right.	mp_0004n 0x1712
-0x3fcb	0x98	ALTO		Anyway, now I just have to	
-				focus on those two...	
+0x3fcb	0x98	ALTO		Anyway, now I just have	
+				to focus on those two...	
 				Prepare yourself, Noi!	
 0x402c	0x98	NOI		Yeah!	mp_0001 0x1174e
 0x408a	0x98	Asa		If it's Nayuta and Noi on the job,	
@@ -513,7 +513,7 @@ talk_Lyra
 0x8d5a	0x98	Lyra		...No, there's no way	
 				that could be right.	
 0x8dcf	0x98	Lyra		(Nayuta has been charmed by her...	
-				 Or, rather, she has him in the palm of	
+				 Or rather, she has him in the palm of	
 				 her hands and doesn't even realize it.)	
 0x8e43	0x98	Lyra		...I have to try harder.	
 				There's no way I can let myself	
@@ -525,8 +525,8 @@ talk_Lyra
 0x8f75	0x98	Lyra		Umm, you slice the	
 				cabbage like this...	
 0x8fc0	0x6B	Lyra		Ellipsis	
-0x9016	0x98	Lyra		Nayuta, was that...?	
-				Was that Noi?	
+0x9016	0x98	Lyra		Nayuta, about that...?	
+				About that Noi.	
 0x9066	0x98	Lyra		I don't know what you're doing,	
 				but later, I want a detailed	
 				explanation.	
@@ -634,7 +634,7 @@ LP_bottle
 0xac38	0x98	ALTO		But they're still pretty to look at,	
 				so I've come to collect them.	
 quest_Asa
-0xad1d	0x98	Asa		So the way Noi's world is just	
+0xad1d	0x98	Asa		So the way to Noi's world is just	
 				in that garden over there...	
 0xad6b	0x98	Asa		I'm starting to get	
 				somewhat concerned.	
@@ -846,8 +846,8 @@ QS_01_talk_Asa
 				in addition to recovering HP.
 0xd770	0x07	System	#4C	Furthermore, you will become able to make each	
 				lunch box that has already been made for you.	
-0xd7f3	0x07	System	#4C	Lunch boxes have been added to the sub-menu.	
-0xd82c	0x07	System	#4C	Open the sub-menu by pressing SELECT	
+0xd7f3	0x07	System	#4C	Lunch boxes have been added to the submenu.	
+0xd82c	0x07	System	#4C	Open the submenu by pressing SELECT	
 				to quickly use a lunch box.
 0xd8bd	0x6B	Asa		Surprise	
 0xd8ee	0x06	Asa		ANI_THINK	
@@ -920,8 +920,8 @@ QS_01_cooked_LB
 				in addition to recovering HP.
 0xea11	0x07	System	#4C	Furthermore, you will become able to make each	mp_0110 0xd770
 				lunch box that has already been made for you.
-0xedfc	0x07	System	#4C	Lunch boxes have been added to the sub-menu.	mp_0110 0xd7f3
-0xee35	0x07	System	#4C	Open the sub-menu by pressing SELECT	mp_0110 0xd82c
+0xedfc	0x07	System	#4C	Lunch boxes have been added to the submenu.	mp_0110 0xd7f3
+0xee35	0x07	System	#4C	Open the submenu by pressing SELECT	mp_0110 0xd82c
 				to quickly use a lunch box.
 QS_22_quest_start
 0xf2f1	0x06	Asa		ANI_THINK	
@@ -1065,7 +1065,7 @@ QS_22_undertake
 0x110db	0x06	NOI		ANI_GESTURE1	
 0x11104	0x98	NOI	#6A	If I remember correctly, it can be	
 				taken from a tree that grows in	
-				the dark in autumn of Oltapia.	
+				the dark during autumn of Oltapia.	
 0x1118d	0x98	NOI	#6A	It's supposed to shine beautifully	
 				in the dark. If we look for it,	
 				I'm sure we can find it!	
@@ -1755,7 +1755,7 @@ EV_2_S07_lecture_on_noi
 0x1f4a0	0x98	ALTO	#6A	So...	
 0x1f4cf	0x06	ALTO		ANI_SIT2_GESTURE1	
 0x1f4fe	0x98	ALTO	#6A	I met Noi in that huge ruin, and she's	
-				a real life fairy... or something.	
+				a real-life fairy... or something.	
 0x1f55b	0x98	ALTO	#6A	It would probably cause a	
 				fright if people found out,
 				so I didn't tell anyone.	
@@ -2083,13 +2083,13 @@ EV_3_S22_recovery_asa
 0x26978	0x40	UNDEF		Word of Eartha's survival spread through the	
 				island in a flash, and everyone came by to	
 				visit with their congratulations.	
-0x26a05	0x40	UNDEF		As the disease continued to show signs of recovery,	
-				visitors poured in continuously from all	
-				over the island.	
+0x26a05	0x40	UNDEF		As the disease continued to show signs of	
+				remission, visitors poured in continuously	
+				from all over the island.	
 0x26bb6	0x06	Asa_b		ANI_WAKE_UP_IN_BED	
 0x26c56	0x06	Hydol		ANI_SIT1	
 0x26d41	0x06	ALTO		ANI_WAIT	
-0x26e73	0x41	None	#999c	One morning, A few days later...	
+0x26e73	0x41	None	#999c	One morning, a few days later...	
 0x26f64	0x06	Hydol		ANI_SIT1_GESTURE2	
 0x26f94	0xBC	Hydol		Unknown	
 0x26fd3	0xBC	Asa_b		Unknown	
@@ -2221,7 +2221,7 @@ EV_3_S23_confide_asa
 0x299ad	0x98	Asa_b		My, even you came	
 				to see me, Noi.	
 0x299ee	0x98	Asa_b		Yes, I'm doing much better.	
-0x29a7c	0x98	Asa_b		Plus... This is perfect timing.	
+0x29a7c	0x98	Asa_b		Plus... this is perfect timing.	
 0x29ac3	0x6B	ALTO		Question	
 0x29aed	0x6B	NOI		Question	
 0x29b64	0x98	Asa_b		Heheh. Well, anyway,	

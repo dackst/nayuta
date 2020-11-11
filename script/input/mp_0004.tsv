@@ -326,7 +326,7 @@ QS_11_third_hint
 0x80e6	0x98	ALTO		"The hole peeping at the sky..."	
 				It sure sounds like my astronomical	
 				telescope, doesn't it?	
-0x815a	0x98	ALTO		The note said "look through" it, but...	
+0x815a	0x98	ALTO		The note said "look through" it...	
 0x81af	0x06	ALTO		ANI_USE_TELESCOPE	
 0x81e6	0x40	UNDEF		Nayuta looked into the astronomical telescope.	
 0x824d	0x06	ALTO		ANI_HOLD	
@@ -335,7 +335,7 @@ QS_11_third_hint
 0x830c	0x40	UNDEF		A note is attached to the other end of the	
 				telescope.	
 0x836b	0x6B	ALTO		Sweatdrop	
-0x839d	0x98	ALTO		Wh-When did that happen...?	
+0x839d	0x98	ALTO		Wh-When did this get here...?	
 0x83d6	0x98	ALTO		Ahem, anyway, let's read it.	
 0x8419	0x41	None		I won't give you the	mp_0004 0x7ec1
 				treasure just yet.
@@ -345,8 +345,8 @@ QS_11_third_hint
 0x84de	0x06	ALTO		ANI_THINK	
 0x8505	0x98	ALTO		The knight's backside?	
 0x853c	0x98	ALTO		If you mention a knight in this	
-				village, HE'S the only one you	
-				could be referring to...	
+				village, there's only one person	
+				you could be referring to...	
 0x85c3	0x06	ALTO		ANI_WAIT	
 SB_0_S03_move_ALTO
 EV_0_S03_alto_home
@@ -786,7 +786,7 @@ EV_2_S02_ask_asa
 				That's what he told me to tell you.	
 0x12f2e	0x98	Asa	#6A	He had a different vibe than	
 				usual. He looked pretty serious.	
-0x12fa0	0x98	Asa	#6A	Isn't that pretty strange?	
+0x12fa0	0x98	Asa	#6A	Isn't that kinda strange?	
 				You guys just reopened...	
 0x13008	0x98	ALTO		...Yeah...	
 0x1303a	0x06	ALTO		ANI_NOD	

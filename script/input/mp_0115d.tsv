@@ -67,7 +67,7 @@ lp_treasure1
 				been the subject of worship since ancient times.	
 0x2859	0x41	None		Judgment Mirror	
 				A mirror used in ancient trials.	
-				It is thought to have a special magic power	
+				It was thought to have a special magic power	
 				to show the past deeds and crimes of any man.	
 0x299b	0x41	None		Crystal Ball	
 				A tool used by ancient prophets.	
@@ -78,34 +78,34 @@ lp_treasure1
 				Using various esoteric techniques, they sought to	
 				manipulate the material world, as well as life itself.	
 lp_treasure2
-0x2e60	0x36	Choice		Festival Mural	
+0x2e60	0x36	Choice		Ritual Mural	
 0x2e86	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x2ec2	0x36	Choice		Bronze Sextant	
+0x2ec2	0x36	Choice		Bronze Instrument	
 0x2ee8	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x2f24	0x36	Choice		Globe	
+0x2f24	0x36	Choice		Terrestrial Globe	
 0x2f4b	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2f87	0x36	Choice		Model Flying Machine	
 0x2fb3	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2fcf	0x36	Choice		Quit	mp_0002 0x433f
-0x3055	0x41	None		Festival Mural	
-				A mural depicting an ancient festival scene.	
-				Engraved with words praising the gods, it is	
-				thought to have adorned an ancient temple.	
-0x31a1	0x41	None		Bronze Sextant	
-				A mysterious relic of ancient times made of bronze.	
+0x3055	0x41	None		Ritual Mural	
+				A mural depicting a scene from an ancient ritual.	
+				Engraved with words praising the gods, it is thought	
+				to have adorned the walls of an ancient temple.	
+0x31a1	0x41	None		Bronze Instrument	
+				A mysterious astronomical artifact from ancient times.	
 				Though it is still able to show the location of heavenly	
 				bodies with its complex gears, the details of its	
 				construction are not yet fully understood.	
-0x3324	0x41	None		Globe	
-				A mysterious relic of ancient times with a map of	
+0x3324	0x41	None		Terrestrial Globe	
+				A mysterious artifact from ancient times with a map of	
 				the world drawn on a sphere. It depicts far more land	
-				than there is today. It is thought to have been an	
-				imaginary world, but further details are unknown.	
+				than there is today. It is thought to have been a	
+				fictional world, but further details are unknown.	
 0x34bf	0x41	None		Model Flying Machine	
-				Mysterious relic of ancient times with two wings.	
-				It is thought that this was modeled after a bird,	
-				expressing the desire to fly through the sky, but	
-				the details are unknown.	
+				A mysterious artifact from ancient times with two wings.	
+				It is thought to have been fashioned in imitation of	
+				a bird out of a desire to fly through the sky, but	
+				further details are unknown.	
 lp_armor
 0x38a1	0x36	Choice		Golden Arms	
 0x38c4	0x36	Choice		？？？？？？	mp_0115a 0x176c

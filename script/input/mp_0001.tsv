@@ -278,7 +278,7 @@ subev_haka
 0x5732	0x06	ALTO		ANI_NOD	
 0x5757	0x98	ALTO		(Your dream... Lost Heaven...	
 				 I will find it someday.)	
-0x57e8	0x98	ALTO		(So... Watch over me from the skies.)	
+0x57e8	0x98	ALTO		(So... watch over me from the skies.)	
 0x58e6	0x06	ALTO		ANI_TONTON_SHUE	
 0x5913	0x98	ALTO		...Well, I should get going soon.	
 0x5970	0x98	ALTO		Haha, Cygna will get mad	
@@ -741,7 +741,7 @@ QS_35_undertake
 0xcea8	0x06	ALTO		ANI_NOD	
 0xcecd	0x98	ALTO	#6A	I see...	
 0xcf5b	0x06	Ursaminor		ANI_GESTURE2	
-0xcf8a	0x98	Ursaminor		...If you're acquaintanced	
+0xcf8a	0x98	Ursaminor		...If you're acquainted	
 				with my sister...	
 				Can you give this to her?	
 0xcff2	0x06	Ursaminor		ANI_HANDOVER	
@@ -780,8 +780,8 @@ QS_35_quest_end
 				 worry yourself sick."	
 0xd883	0x06	Ursaminor		ANI_WAIT2	
 0xd8af	0x98	Ursaminor		...I see.	mp_0001 0xa6e5
-0xd905	0x98	Ursaminor		..........I'm glad to	
-				hear she's well.	
+0xd905	0x98	Ursaminor		..........	
+				Glad to hear she's well.	
 0xd958	0x06	ALTO		ANI_LAUGH	
 0xd97f	0x98	ALTO	#6A	Haha... I agree. Honestly,	
 				she seems too much so.	
@@ -892,7 +892,7 @@ QS_82_quest_end
 0xf85f	0x98	NOI		No... It's fine.	
 				Somehow, I understand what	
 				you're feeling, Nayuta.	
-0xf8da	0x98	Serpent	#6A	Hoho, oh, what U would give to have the	
+0xf8da	0x98	Serpent	#6A	Hoho, oh, what I would give to have the	
 				Great Fairy to say as much about me. This	
 				year's offerings were a great success.	
 0xf9ed	0x98	Serpent	#6A	Good work, you two. As a	
@@ -1091,9 +1091,9 @@ EV_8_S02_meet_lyra
 0x14348	0x06	Lyra		ANI_WAIT1	
 0x1436f	0x98	Lyra		...It's been about	
 				a year already.	
-0x143b4	0x98	Lyra		Thanks to you guys,	
-				abnormalities throughout	
-				the world have cleared up...	
+0x143b4	0x98	Lyra		Thanks to you guys, the	
+				anomalies throughout the	
+				world have cleared up...	
 0x14423	0x06	ALTO		ANI_NOD	
 0x14448	0x98	ALTO	#6A	I guess you're right...	
 				It's gone by so fast.	
@@ -1125,9 +1125,9 @@ EV_8_S02_meet_lyra
 0x149bf	0x98	Lyra		They were precious companions to me	
 				and the rest of the islanders.	
 0x14a1d	0x06	Lyra		ANI_GESTURE2	
-0x14a65	0x98	Lyra		If you're in pain, don't keep it	
-				bottled up by yourself. You can	
-				talk to me about anything, okay?	
+0x14a65	0x98	Lyra		If you're in pain, you don't have to	
+				keep it bottled up by yourself. You	
+				can talk to me about anything, okay?	
 0x14b0b	0x06	ALTO		ANI_NOD	
 0x14b30	0x98	ALTO	#6A	...I'll do that.	
 0x14b63	0x98	ALTO	#6A	Lyra, thanks for always worrying	

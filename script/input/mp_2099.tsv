@@ -76,7 +76,7 @@ talk_Erislet
 				need me. Keep up the good	
 				work going forward!	
 0x2749	0x98	Erislet		I've only heard about	
-				Zext second handedly.	
+				Zext secondhandedly.	
 0x2791	0x98	Erislet		Apparently, he's Lady Creha's father.	
 				But... what the hell happened to him?
 0x27f1	0x98	Erislet		...In any case, he's clearly wreaking	
@@ -343,8 +343,8 @@ QS_33_quest_end
 0x6110	0x98	Erislet		Hehe, anyway... Thanks	
 				for helping me out.	
 0x6174	0x98	Erislet		I'm sorry for requesting	
-				something like from you	
-				out of the blue.	
+				something like this from	
+				you out of the blue.	
 0x61d0	0x06	NOI		ANI_DENY	
 0x61f5	0x98	NOI	#6A	No, we're all in	
 				this together!	
@@ -1108,16 +1108,16 @@ SB_2_S26_move_NOI
 EV_2_S26_get_gear_2nd
 0x1a0a8	0x98	NOI		Something's different.	
 				Did we stop it?	
-0x1a0f5	0x98	ALTO		...What is THAT?	
-0x1a15d	0x98	ALTO		Some kind of wave of light is	
-				radiating over the horizon...	
+0x1a0f5	0x98	ALTO		...What WAS that?	
+0x1a15d	0x98	ALTO		Some kind of wave of light was	
+				radiating from the horizon...	
 0x1a1e1	0x98	NOI		If I remember correctly,	
 				in that direction...	
 0x1a237	0x6B	NOI		Exclamation	
 0x1a2a0	0x98	NOI		Let's go, Nayuta!	
 0x1a308	0x06	NOI		ANI_COMPLAIN	
 0x1a331	0x98	NOI		I think... I think	
-				something's happening	
+				something's happened	
 				in the Garden!!	
 0x1a38f	0x06	ALTO		ANI_NOD	
 0x1a3b4	0x98	ALTO	#6A	Oh, yeah... right!	

@@ -110,9 +110,9 @@ EV_1_S01_jungle1_start
 				using magic called "arts."	
 				Use her well with Nayuta to continue.	
 0x3315	0x07	System	#4C	Stage Clear status is now	
-				displayed on the sub-menu.	
+				displayed on the submenu.	
 0x3357	0x07	System	#4C	Fast travel has also been	
-				added to the sub-menu.	
+				added to the submenu.	
 EV_1_S02_jungle1_end
 0x3c73	0x06	ALTO		ANI_GESTURE1	
 0x3c9d	0x98	ALTO		Right over there...	
