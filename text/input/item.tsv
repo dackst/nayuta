@@ -1,13 +1,13 @@
 0x10	name	Wooden Sword
 0x28	desc	For training. The blade is thick and good for swinging around.
 0x9c	name	Short Sword
-0xb4	desc	Copper sword. Though small, it has some weight to it.
+0xb4	desc	Bronze sword. Though small, it has some weight to it.
 0x128	name	Legion Knife
-0x140	desc	Easy to handle single-edge sword preferred by soldiers.
+0x140	desc	Easy to use single-edged sword favored by soldiers.
 0x1b4	name	Crescent Sword
-0x1cc	desc	Typical Eastern scimitar with a sharp edge.
+0x1cc	desc	An extremely sharp sword based on Eastern curved blades.
 0x240	name	Crystal Edge
-0x258	desc	Made from mysterious material, it is as light as a feather.
+0x258	desc	Made of mysterious translucent material. As light as a feather.
 0x2cc	name	Durandal
 0x2e4	desc	Sword refined from a special ore that can never be broken.
 0x358	name	Executor
@@ -15,9 +15,9 @@
 0x3e4	name	Seventh Heaven
 0x3fc	desc	Sword created by the Mitos that can cut through space.
 0x470	name	Chrono Blade
-0x488	desc	Legendary blade of Terra, made of refined Power of the Stars.
+0x488	desc	Legendary blade of Terra made of purified Power of the Stars.
 0x4fc	name	Thousand Worlds Sword
-0x514	desc	Fine sword inherited from Master. Unrivaled sharpness.
+0x514	desc	Reward received from Master. Boasts unparalleled sharpness.
 0x588	name	
 0x5a0	desc	
 0x614	name	
@@ -39,25 +39,25 @@
 0xa74	name	
 0xa8c	desc	
 0xb00	name	Woodcutter Axe
-0xb18	desc	Long-handle iron axe for felling large trees.
+0xb18	desc	Long-handled iron axe for felling large trees.
 0xb8c	name	Spiked Mace
-0xba4	desc	Steel mace with pointed spikes. Plenty of destructive power.
-0xc18	name	Puriesta
-0xc30	desc	Ritual greatsword used in Remnant Island festivals.
-0xca4	name	Rune Arcs
-0xcbc	desc	Axe of a refined special mineral. Strong but hard to use.
+0xba4	desc	Steel mace with a spiked tip. Quite heavy and destructive.
+0xc18	name	Sacerdos
+0xc30	desc	Ceremonial greatsword used in Remnant Island festivals.
+0xca4	name	Rune Axe
+0xcbc	desc	Axe refined from a special ore. Strong, but hard to use.
 0xd30	name	Sledgehammer
-0xd48	desc	Heavy hammer said to be wielded by the toughest of warriors.
-0xdbc	name	Moon Rosso
-0xdd4	desc	Halberd with a scarlet tip. Easily slices metal.
+0xd48	desc	Heavy hammer that only skilled fighters can handle.
+0xdbc	name	Luna Rossa
+0xdd4	desc	Halberd with a scarlet blade. Easily slices even metal.
 0xe48	name	Crimson Sword
-0xe60	desc	Forged in secret in the East. Tremendously powerful.
+0xe60	desc	Tremendous greatsword forged using Eastern techniques.
 0xed4	name	Lost Dragon
-0xeec	desc	The power of a dragon lives in this large halberd.
+0xeec	desc	Large halberd with the might of an ancient dragon.
 0xf60	name	Caladbolg
-0xf78	desc	Peerless long sword with tremendous destructive power.
+0xf78	desc	Uses a gear mechanism to produce tremendous destructive power.
 0xfec	name	Meteor Buster
-0x1004	desc	Shining club born from the explosive impact of a meteorite.
+0x1004	desc	Shining club that produces explosively meteoric impacts.
 0x1078	name	
 0x1090	desc	
 0x1104	name	
@@ -201,43 +201,43 @@
 0x36c0	name	Bandana
 0x36d8	desc	Cloth worn on the head. Get fired up when you wear it.
 0x374c	name	Leather Gloves
-0x3764	desc	Durable gloves of tanned leather. Keeps hands protected.
+0x3764	desc	Durable gloves of tanned leather. Keeps hands well-protected.
 0x37d8	name	Bronze Helm
-0x37f0	desc	Copper helm that covers most of the face, made in antiquity.
+0x37f0	desc	Provides a thick head covering. Used since ancient times.
 0x3864	name	Beast Gloves
-0x387c	desc	Patterned on beast claws. Supple and won't hurt mobility.
+0x387c	desc	Based on beast claws. Flexible and does not impair mobility.
 0x38f0	name	Oni Mask
 0x3908	desc	Mask of a shouting oni. Its wearer is granted power.
 0x397c	name	Goggle Helmet
-0x3994	desc	Goggles for exploration of ruins. Worn by adventurers.
+0x3994	desc	Goggles worn by adventurers to explore ruins. 
 0x3a08	name	Metal Claw
-0x3a20	desc	Hand guard with ornamental claws used by ancient knights.
+0x3a20	desc	Clawed steel gauntlets used by ancient knights.
 0x3a94	name	Altair Shield
-0x3aac	desc	Stop any blow with the legendary symbol of protection.
+0x3aac	desc	Mythical symbol of protection. Can stop any blow in the land.
 0x3b20	name	Aegis Arm
-0x3b38	desc	Shining gauntlet that will absorb any shock.
+0x3b38	desc	Ultimate shining gauntlet that absorbs any shock.
 0x3bac	name	Lord Helm
-0x3bc4	desc	Helm worn by the ancients, adorned with two daring horns.
+0x3bc4	desc	Worn by an ancient warrior. Adorned with two valiant horns.
 0x3c38	name	Leather Armor
 0x3c50	desc	Light leather breastplate that protects the chest.
 0x3cc4	name	Chain Vest
-0x3cdc	desc	Exterior of woven chain to increase defensive fortitude.
+0x3cdc	desc	A sturdy vest with a mail of chains for extra protection.
 0x3d50	name	Bronze Plate
-0x3d68	desc	Heavy copper breastplate. Reliably protects the chest.
+0x3d68	desc	Heavy bronze breastplate. Reliably protects the chest.
 0x3ddc	name	Fang Necklace
 0x3df4	desc	Magic necklace thought to be used in ancient rituals.
-0x3e68	name	Military Uniform
-0x3e80	desc	Battle uniform worn by warriors in the Far East.
+0x3e68	name	Samurai Armor
+0x3e80	desc	Combat garments worn by warriors in the Far East.
 0x3ef4	name	Light Armor
-0x3f0c	desc	Light and sturdy, an extremely popular armor.
+0x3f0c	desc	Commonly used armor that is both light and sturdy.
 0x3f80	name	Defender
-0x3f98	desc	Steel pauldron used by ancient warriors who valued motility.
+0x3f98	desc	Steel pauldron used by ancient knights for extra mobility.
 0x400c	name	Vega Armor
-0x4024	desc	Ultimate armor that repels any attack.
+0x4024	desc	Ultimate chest armor made from a special ore. Repels any attack. 
 0x4098	name	Valkyrie Guard
-0x40b0	desc	Beautiful pauldron. A faint barrier appears around the body.
+0x40b0	desc	Beautiful feathered pauldron. Creates a barrier around the body.
 0x4124	name	Lord Armor
-0x413c	desc	Ancient armor worn by those determined for war.
+0x413c	desc	Ancient and venerable armor expressing determination for battle.
 0x41b0	name	
 0x41c8	desc	
 0x423c	name	
@@ -259,25 +259,25 @@
 0x469c	name	
 0x46b4	desc	
 0x4728	name	Trek Boots
-0x4740	desc	Boots to prevent injuries. Used by mountain climbers.
+0x4740	desc	Designed to prevent foot injuries while climbing mountains.
 0x47b4	name	Leather Guard
-0x47cc	desc	Heavy duty yet comfortable leather pants.
+0x47cc	desc	Easy-to-move-in, yet durable leather pants.
 0x4840	name	Bronze Greaves
-0x4858	desc	Copper leg guards made in antiquity.
+0x4858	desc	Bronze leg guards that have been used since ancient times.
 0x48cc	name	Beast Cloak
-0x48e4	desc	Light gear for exploration, made of solid raw materials.
-0x4958	name	Military Armor
-0x4970	desc	Full armor worn by warriors heading to battle in the East.
+0x48e4	desc	Light and suitable for exploration. Made from raw materials.
+0x4958	name	Samurai Boots
+0x4970	desc	Footgear worn into battle by warriors in the Far East.
 0x49e4	name	Ranger Boots
-0x49fc	desc	Excellent gear made for overcoming harsh environments.
+0x49fc	desc	Highly functional exploration gear to combat harsh environments.
 0x4a70	name	Dark Walker
-0x4a88	desc	Made of unknown material and able to absorb any shock.
+0x4a88	desc	Made of enigmatic jet-black material that absorbs any shock.
 0x4afc	name	Deneb Leg Guards
-0x4b14	desc	Ultimate armor etched with countless blessings.
+0x4b14	desc	Ultimate leg armor inscribed with countless blessings of the earth.
 0x4b88	name	Saint Guard
-0x4ba0	desc	Shining leg armor. Makes your body feel as if it can float.
+0x4ba0	desc	Shining leg armor. Makes you feel as if you can float in the air.
 0x4c14	name	Lord Greaves
-0x4c2c	desc	Ancient footgear that has set foot on many battlefields.
+0x4c2c	desc	Footgear of an ancient warrior who treaded the sites of many battles.
 0x4ca0	name	
 0x4cb8	desc	
 0x4d2c	name	
@@ -298,66 +298,66 @@
 0x5118	desc	
 0x518c	name	
 0x51a4	desc	
-0x5218	name	Hairclip
+0x5218	name	Hair Clip
 0x5230	desc	[Collectible Drop Rate Up] Cute hair ornament for dolls.
 0x52a4	name	Casual Glasses
-0x52bc	desc	[INT Up In a Pinch] Small red glasses.
-0x5330	name	Dango Chigon
-0x5348	desc	[Recovery Item Drop Rate Up] Doll ornament to collect all hair.
+0x52bc	desc	[INT Up In a Pinch] Vivid red designer glasses.
+0x5330	name	Dango Chignon
+0x5348	desc	[Recovery Drop Rate Up] Doll ornament to hold hair in place.
 0x53bc	name	Ribbon
-0x53d4	desc	[Mira Up] Red ribbon said to bring good luck.
+0x53d4	desc	[Mira Up] Large purple ribbon said to bring good luck.
 0x5448	name	Flower Crown
 0x5460	desc	[Full HP STR Up] Hair ornament of artificial flowers. Smells nice.
 0x54d4	name	Witch's Hat
 0x54ec	desc	[Ingredient Drop Rate Up] Accessory shaped like a witch's hat.
 0x5560	name	Whisper Band
-0x5578	desc	[EXP Up] Sinister doll accessory in the shape of a bat wing.
+0x5578	desc	[EXP Up] Sinister hair ornament for dolls in the shape of bat wings.
 0x55ec	name	Star Bands
-0x5604	desc	[Fast Craft Gauge Recovery] Large brass star hairclip.
+0x5604	desc	[Fast Craft Gauge Recovery] Large star-shaped hair clips made of brass.
 0x5678	name	Cat Ears
 0x5690	desc	[Mira/Ingr./Coll. Drop Up] Mysterious legacy of an ancient civilization.
 0x5704	name	Headdress
-0x571c	desc	[Hide from Enemies] Ornament worn on the heads of maids.
-0x5790	name	Fairy Cross
-0x57a8	desc	Pure clothing worn by wind spirits.
+0x571c	desc	[Hide from Enemies] Ornament worn on the head to symbolize service.
+0x5790	name	Fairy Clothes
+0x57a8	desc	A simple robe believed to be worn by wind spirits.
 0x581c	name	Tight Suit
-0x5834	desc	Doll clothes. Importance is placed on mobility.
+0x5834	desc	Doll clothes. Designed to account for movable joints.
 0x58a8	name	Slit Mini
-0x58c0	desc	Doll clothes. Has a hidden charm from the short slits.
+0x58c0	desc	Doll clothes. The short slits in the dress create a subtle allure.
 0x5934	name	Crimson Dress
-0x594c	desc	Red dress with black laces to show off its elegant style.
+0x594c	desc	A fiery red dress decorated with black lace for a stylish feel.
 0x59c0	name	Dance Costume
-0x59d8	desc	Ethnic clothes said to be worn by ancient dancers.
+0x59d8	desc	Ethnic clothes thought to be worn by ancient dancers.
 0x5a4c	name	Witch's Robe
 0x5a64	desc	Doll clothes made in the image of a witch.
 0x5ad8	name	Gothic Dress
-0x5af0	desc	Doll clothes. Exhibits elaborate craftsmanship.
+0x5af0	desc	Doll clothes. Exhibits intricate and elaborate craftsmanship.
 0x5b64	name	Formal Sailor
 0x5b7c	desc	Doll sailor uniform tailored with fresh and subdued colors.
-0x5bf0	name	Ether Cross
-0x5c08	desc	Doll clothes with magic power from unknown material.
+0x5bf0	name	Ethereal Clothes
+0x5c08	desc	Doll clothes made of a magical and bizarre material.
 0x5c7c	name	Maid Dress
 0x5c94	desc	Sophisticated dress that summons a sense of service.
 0x5d08	name	Angel Wings
-0x5d20	desc	[Fall Damage Down] Posable doll accessory shaped like angel wings.
+0x5d20	desc	[Reduce Fall Damage] Posable doll accessory shaped like angel wings.
 0x5d94	name	Anklet
-0x5dac	desc	[Plyze Resist/Plyze Add] Small gold anklet.
+0x5dac	desc	[Plyze Resist/Add] Finely decorated anklet of pure gold.
 0x5e20	name	Pom Pouch
-0x5e38	desc	[Trap Damage Down] Doll pouch in the shape of the mysterious Pom.
+0x5e38	desc	[Reduce Trap Damage] Doll pouch shaped like an inexplicable Pom creature.
 0x5eac	name	Silver Bracelet
-0x5ec4	desc	[Panic Resist/Panic Add] Beautiful bracelet of shining silver.
+0x5ec4	desc	[Panic Resist/Add] Beautiful silver bracelet with holy inscriptions.
 0x5f38	name	Butterfly Wings
 0x5f50	desc	[No Fall Damage] Posable doll accessory shaped like butterfly wings.
 0x5fc4	name	Periwinkle Anklet
 0x5fdc	desc	[Poison Resist/Poison Add] Heavy and carved with complex patterns.
-0x6050	name	Demon Tail
+0x6050	name	Devil Tail
 0x6068	desc	[Trap Damage Halved] Slippery ornament made with mischief in mind.
 0x60dc	name	Halo Ring
-0x60f4	desc	[Freeze Resist/Freeze Add] Metal halo ornament that absorbs heat.
+0x60f4	desc	[Freeze Resist/Add] Metal halo ornament that absorbs heat.
 0x6168	name	Cat Tail
-0x6180	desc	[No Fall Damage/Trap Damage Down] Cat tail accessory that moves somehow.
+0x6180	desc	[No Fall Damage/Greatly Reduce Trap Damage] Cat tail that moves somehow.
 0x61f4	name	Belt Choker
-0x620c	desc	[Resist All/Add All] Holy choker that repels all evil.
+0x620c	desc	[All Resist/Add] Holy belted choker that repels all maladies.
 0x6280	name	
 0x6298	desc	
 0x630c	name	
@@ -459,53 +459,53 @@
 0x7d4c	name	
 0x7d64	desc	螻1遞ｮｼ晢ｽｲｾ晢ｾ奇ｾ滂ｽｸｾ 螻3遞ｮｼ晏ｭ｣遽 螻3蛟､ｼ昴ヮ繧､遘ｻ蜍穂ｸ榊庄
 0x7dd8	name	Plum Shot
-0x7df0	desc	[Spring] Shoot rapid-fire light balls forward.
+0x7df0	desc	[Spring] Shoot rapid-fire orbs of light forward.
 0x7e64	name	Fleur Edge
-0x7e7c	desc	[Spring] Mow down enemies in front of you with spinning petal blade.
-0x7ef0	name	Frost Web
-0x7f08	desc	[Winter] Small icebergs powerfully toss enemies one after another.
+0x7e7c	desc	[Spring] Mow down enemies in front of you with a spinning petal blade.
+0x7ef0	name	Frost Wave
+0x7f08	desc	[Winter] Create a series of small icebergs to toss enemies into the air.
 0x7f7c	name	Thorn Around
-0x7f94	desc	[Summer] Summon a thorn barrier to knock down enemies in a wide range.
+0x7f94	desc	[Summer] A wreath of thorns knocks down foes in a wide range.
 0x8008	name	Kiefer Bomb
-0x8020	desc	[Autumn] Throw small, powerful pinecone-shaped bombs.
+0x8020	desc	[Autumn] Throw a small but potent pinecone-shaped grenade.
 0x8094	name	Icicle Spear
-0x80ac	desc	[Winter] Freeze water vapor to create icicles that track enemies.
+0x80ac	desc	[Winter] Freeze water vapor to create an icicle that tracks enemies.
 0x8120	name	Cyclone
 0x8138	desc	[Summer] Swallow a group of enemies with a localized typhoon.
 0x81ac	name	Corona Laser
-0x81c4	desc	[Summer] Bundle up sunlight and release a pyro laser beam.
-0x8238	name	Luna Butterfly
-0x8250	desc	[Spring] Summon a bewitching butterfly that confuses enemies.
+0x81c4	desc	[Summer] Concentrate sunlight to unleash a deadly laser.
+0x8238	name	Lunar Butterfly
+0x8250	desc	[Spring] Summon a illusory butterfly that bewitches enemies.
 0x82c4	name	Freeze Shot
 0x82dc	desc	[Winter] Shoot an extremely cold bullet that freezes enemies instantly.
 0x8350	name	Venom Haze
-0x8368	desc	[Autumn] Spurt out poison gas from underground.
+0x8368	desc	[Autumn] Collect underground toxic substances and spew poisonous gas.
 0x83dc	name	Bullet Bee
-0x83f4	desc	[Summer] Summon a high speed bee that paralyzes enemies with its stinger.
+0x83f4	desc	[Summer] Summon a high-speed bee that paralyzes enemies with its stinger.
 0x8468	name	Flower Dance
-0x8480	desc	[Spring] Petals fly about for a while, attacking enemies that touch them.
-0x84f4	name	Speed Fire
-0x850c	desc	[Autumn] Pull ground enemies to the center of an exploding inferno.
+0x8480	desc	[Spring] Petals fly around for a set time, attacking any foes they touch.
+0x84f4	name	Spitfire
+0x850c	desc	[Autumn] Pull enemies to a spot on the ground for it to erupt into flames.
 0x8580	name	Blizzard
-0x8598	desc	[Winter] Create a strong blizzard, mowing down enemies in front.
+0x8598	desc	[Winter] Create a powerful blizzard that topples enemies in front of you.
 0x860c	name	Maple Wind
-0x8624	desc	[Autumn] Create a slowly growing, intense whirlwind.
+0x8624	desc	[Autumn] Create an intense whirlwind of gradually increasing size.
 0x8698	name	Tri-Blossom
-0x86b0	desc	[Spring] Fire 3 pink light orbs simultaneously with rapid fire.
+0x86b0	desc	[Spring] Simultaneously shoot 3 rapid-fire pink orbs of light.
 0x8724	name	Hell Storm
-0x873c	desc	[Summer] A gigantic tornado swallows enemies over a wide range.
+0x873c	desc	[Summer] Create a gigantic tornado that swallows a large swath of enemies.
 0x87b0	name	Noir Haze
-0x87c8	desc	[Autumn] Condense earth toxins into gas, inflicting various statuses.
+0x87c8	desc	[Autumn] Concentrate toxins into a gas that inflicts various statuses.
 0x883c	name	Crystal Lance
 0x8854	desc	[Winter] Shoot large tracking icicles, piercing enemies they touch.
 0x88c8	name	Sol Erase
-0x88e0	desc	[Summer] Create an artificial sun, evaporating all life.
+0x88e0	desc	[Summer] Generate an artificial sun, evaporating all life.
 0x8954	name	White Nova
-0x896c	desc	[Winter] Slow enemy movement with an absolute zero chill.
-0x89e0	name	Grand Terra
-0x89f8	desc	[Autumn] Warp the wind of reality, inflicting statuses and stealing mira.
+0x896c	desc	[Winter] Slow all movement with a chill at absolute zero.
+0x89e0	name	Grand Terror
+0x89f8	desc	[Autumn] Warp the fabric of life, inflicting statuses and stealing mira.
 0x8a6c	name	Gospel Flower
-0x8a84	desc	[Spring] Make a solemn flower bloom. Enemy body parts turn into items.
+0x8a84	desc	[Spring] A majestic flower blooms and turns enemies into items.
 0x8af8	name	
 0x8b10	desc	
 0x8b84	name	
@@ -593,7 +593,7 @@
 0xa1f0	name	Maple Berry
 0xa208	desc	[Natural Food] Sweet and sour miracle strawberry.
 0xa27c	name	King Melon
-0xa294	desc	[Natural Food] Huge sweet melon said to be king of fruits.
+0xa294	desc	[Natural Food] Huge sweet melon said to be the king of fruits.
 0xa308	name	
 0xa320	desc	
 0xa394	name	
@@ -1018,8 +1018,8 @@
 0x115f8	desc	Hot dish of carefully cooked ingredients.
 0x1166c	name	Meat Sushi
 0x11684	desc	Unconventional dish where the fish is swapped for meat.
-0x116f8	name	Parent and Child Bowl
-0x11710	desc	Popular rice bowl with egg and chicken.
+0x116f8	name	Oyakodon
+0x11710	desc	"Parent and child" rice bowl with chicken and egg.
 0x11784	name	Special Katsudon
 0x1179c	desc	Fried pork on top, dessert on bottom.
 0x11810	name	Ginger Pork
@@ -1044,7 +1044,7 @@
 0x11d14	desc	Teriyaki-cooked meat. Mouthwatering is inevitable.
 0x11d88	name	Half-Cooked Burger
 0x11da0	desc	Half-cooked sunny side up eggs with a round burger.
-0x11e14	name	Noble Rib Boxed Lunch
+0x11e14	name	Noble Boxed Lunch
 0x11e2c	desc	Fine lunch said to be eaten by Imperial nobility.
 0x11ea0	name	Hamburger
 0x11eb8	desc	Special burger made sparing no expense.
@@ -1074,8 +1074,8 @@
 0x12548	desc	Thoroughly grilled fish. A companion for rice.
 0x125bc	name	Seafood Roll
 0x125d4	desc	Cabbage-wrapped fish boiled over low flame.
-0x12648	name	Gorgeous Seafood Plate
-0x12660	desc	Plate of fine seafood.
+0x12648	name	Fine Seafood Plate
+0x12660	desc	Gorgeous arrangement of extravagant seafood.
 0x126d4	name	Tail Soup
 0x126ec	desc	Simple dish of boiled fatty tail.
 0x12760	name	Gorgeous Pizza

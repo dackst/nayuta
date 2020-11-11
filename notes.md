@@ -323,6 +323,15 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * wiki walk: [ビャクダン](https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%A3%E3%82%AF%E3%83%80%E3%83%B3) -> Santalum album -> sandalwood
 * Elumi -> [Elemi](https://en.wikipedia.org/wiki/Canarium_luzonicum)
 
+* Puriesta -> Sacerdos
+  * I'm pretty sure this was originally just the literal English word "priest".  Now it's the literal word in Latin.
+* Moon Rosso -> Luna Rossa
+  * originally mix of english "Moon" and italian "Rosso". Now entirely italian
+
+* Military Uniform/Armor -> Samurai Armor/Boots
+* Fairy/Ether Cross -> Fairy/Ethereal Clothes
+* "bronze" items are no longer described as made of "copper"
+
 
 #### Locations
 
