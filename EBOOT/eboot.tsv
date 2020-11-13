@@ -29,8 +29,8 @@
 0x21eefc	#1C#%dI %s#3CＬＶＵＰ	23	#1C#%dI %s#3C ＬＶＵＰ			
 0x21f12c	#4C#%dI%s#1Cを入手！	23	 #%dI#1CGot #4C%s#1C!			21
 0x21f2dc	#1C四季魔法の装備スロットが一つ増えた！！	43	#1CFour Season Magic equip slot opened!			
-0x21f308	#4Cノイが複数のアーツを{ 0a }セットできるようになりました。	55	#4CNoi is now able to{ 0a }equip several arts.			46
-0x21f340	#4C複数のアーツをセットすると、{ 0a }戦闘中にＬボタンを押すことで{ 0a }使用するアーツを素早く切り替えることができます。	111	#4CEquip several arts,{ 0a }and push L in battle{ 0a }to quickly switch between them.			85
+0x21f308	#4Cノイが複数のアーツを{ 0a }セットできるようになりました。	55	#4CNoi is now able to{ 0a }equip multiple arts.			46
+0x21f340	#4C複数のアーツをセットすると、{ 0a }戦闘中にＬボタンを押すことで{ 0a }使用するアーツを素早く切り替えることができます。	111	#4CEquip multiple arts,{ 0a }and push L in battle{ 0a }to quickly switch between them.			85
 0x21f3b0	#4C%dミラ#1Cを手に入れた。	27	#1CGot #4C%d #1Cmira.			21
 0x21f3cc	#4C『#%dI%s×%d』#1Cを手に入れた。	35	#1CGot #4C『#%dI%s×%d』#1C.			
 0x21f3f0	#4C『#%dI%s』#1Cを手に入れた。	35	#1CGot #4C『#%dI%s』#1C.			
@@ -245,7 +245,7 @@
 0x221434	お弁当はこれ以上持てません。{ 0a }#4C%s#1Cをこの場で食べますか？	59	Can't carry more food.{ 0a }#1CEat #4C%s#1C here?			
 0x221470	レベルが%dになった！	23	Became level %d!			
 0x221488	食材が足りません。	19	Not enough ingredients.	0x88A6170	2	
-0x2214d4	鍛錬帳に十分な数の印が溜まりました。{ 0a }島の砂浜にいる師匠に会うと、{ 0a }剣技やアイテムを伝授してもらう事ができます。	111	Collected enough seals in Training Book.{ 0a }Meet Master on the beach to{ 0a }receive a sword tech or item.			109
+0x2214d4	鍛錬帳に十分な数の印が溜まりました。{ 0a }島の砂浜にいる師匠に会うと、{ 0a }剣技やアイテムを伝授してもらう事ができます。	111	Collected enough seals in the Training Book.{ 0a }See Master Orvus on the beach to{ 0a }get a sword technique or item.			109
 0x221544	クリアデータをセーブする	27	Save Clear Data			
 0x221560	セーブデータを削除する	23	Erase Save Data			
 0x221578	セーブする	11	Save			

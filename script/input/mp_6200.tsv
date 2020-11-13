@@ -55,8 +55,8 @@ tutorial_jump
 				to proceed is jump.	
 0x2310	0x07	System	#4C	During exploration, if you	
 				press × during a jump, you	
-				perform a double-jump.	
-0x236c	0x07	System	#4C	By using double-jumps,	
+				perform a double jump.	
+0x236c	0x07	System	#4C	By using double jumps,	
 				you can reach places that	
 				cannot be reached normally.	
 tutorial_find_door

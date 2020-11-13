@@ -246,8 +246,8 @@ talk_Horolo
 0x3c81	0x98	Horolo		Though the snow is pretty,	
 				when it falls on this island,	
 				it's definitely bizarre～!	
-0x3cf3	0x98	Horolo		...If it accumulates, maybe	
-				I can make a snow sculpture.	
+0x3cf3	0x98	Horolo		...If it sticks, maybe I	
+				can make a snow sculpture.	
 0x3d7b	0x98	Horolo		I think that man would make a	
 				good model for a statue, too～.	
 0x3ddc	0x98	Horolo		Heh, the beard part would	
@@ -279,13 +279,13 @@ check_growth
 				collecting all the seals.	
 0x4654	0x98	Aulbath		...Yes, if you collect a few more	
 				seals, you should be able to	
-				learn a new sword skill.	
-0x46cd	0x98	ALTO		Huh...? A skill?	
+				learn a new sword technique.	
+0x46cd	0x98	ALTO		Huh...? A sword technique?	
 0x46fb	0x98	ALTO		Oh, yeah, Cygna used them	
 				often to slay monsters...	
-0x4752	0x98	Aulbath		Hmm... When facing formidable	
-				foes, they will prove to be	
-				very useful techniques.	
+0x4752	0x98	Aulbath		Hmm... They will prove to	
+				be very useful when facing	
+				formidable foes.	
 0x47b3	0x98	Aulbath		In time, I plan to teach you	
 				the same skills as Cygna.	
 0x480b	0x98	Aulbath		Be patient, Nayuta.	
@@ -297,14 +297,14 @@ check_growth
 0x492c	0x07	System	#4C	If you show Orvus the Training Book,	mp_0002 0x41e5
 				you can receive new skills or items.
 0x4980	0x07	System	#4C	Speak with Orvus once you've	
-				accumulated a sufficient number	
+				collected a sufficient number	
 				of seals in the Training Book.	
 0x49f7	0x98	Aulbath		The number of seals in the	
 				Training Book shows how many	
 				challenges you've accomplished.	
 0x4a74	0x98	Aulbath		...Let's see, if you've done this	
 				much, you should be able to learn	
-				a new skill.	
+				a new sword technique.	
 0x4ae1	0x98	ALTO		Huh...? A skill?	mp_0002 0x46cd
 0x4b0f	0x98	ALTO		Oh, yeah, Cygna used them	mp_0002 0x46fb
 				often to slay monsters...
@@ -407,7 +407,7 @@ tuto_Aulbath
 				sword most comfortable for you to use.	
 0x610c	0x98	Aulbath		Some monsters can cause	
 				various status conditions.	
-0x6176	0x98	Aulbath		"Poison" rapidly saps your stamina, and	
+0x6176	0x98	Aulbath		"Poison" rapidly saps your health, and	
 				"paralysis" greatly slows your movement...	
 0x6205	0x98	Aulbath		"Freezing" can stop your movements.	
 				"Panic" derails your actions.	

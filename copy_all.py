@@ -72,9 +72,15 @@ def copy_img():
 
     #manual images
     filelist = tuple('{}/{}'.format(src_path, x) for x in filter(
-        lambda x: 'h_' in x and '.itp' in x, os.listdir(src_path)))
+        lambda x: x.startswith('h_') and x.endswith('.itp'), os.listdir(src_path)))
     for filename in filelist:
         shutil.copy(filename, r'ISO/PSP_GAME/USRDIR/visual/help')
+
+    # chapter start/end titles
+    filelist = tuple('{}/{}'.format(src_path, x) for x in filter(
+        lambda x:  x.startswith('p_') and x.endswith('.itp'), os.listdir(src_path)))
+    for filename in filelist:
+        shutil.copy(filename, r'ISO/PSP_GAME/USRDIR/visual/event')
 
     #save file images
     for filename in ('{}/{}'.format(src_path, x) for x in (
