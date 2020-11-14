@@ -61,7 +61,6 @@ These issues don't seem to exist in the original 4.15 fan translation release. I
 * there are some extra stray lines of text in Japanese when reading the tablet at the end of Volans' sidequest. 
 
 ### Issues from original fantranslation that I don't know how/care enough to try to fix myself
-* ingredient location text (press △ on the cooking screen) cannot be changed from the original fan translation, which still shows some partially Japanese text
 * boss and new area intro graphics still untranslated
 * some text during final boss encounter is still untranslated
 * erasing save data from in-game menu doesn't work
@@ -85,6 +84,7 @@ The original tools require Windows and Python 3. They seem to ["work"](./notes.m
    You should also have both a clean Nayuta no Kiseki iso and [version 4.15 patched](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=73) translated iso.
 
 2. Remove the `ISO/USRDIR/pack` and `ISO/USRDIR/visual/event` folders in the environment from the previous step and replace them with their respective folders found from within the 4.15 patched ISO. Open the patched 4.15 ISO by mounting it with your OS or file explorer, or with UMDGen, 7-Zip, or anything else that works, really.
+  * Also copy over `pc.tbb` and `helplib.tbb` from `ISO/USRDIR/text/` 
 3. Copy and overwrite the files in this repository into the environment. Overwrite files if necessary. Modify text or images to your liking. 
 4. Reinsert text by running using the insertion Python scripts from within each respective folder. With my changes, the dump scripts must be run at least once beforehand.
 5. Copy the new files to their correct locations. I avoided using flame's scripts, since they modified other files in a way that didn't seem to completely work.
