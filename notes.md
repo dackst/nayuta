@@ -386,7 +386,10 @@ I didn't pay nearly as much attention to the monster (and food) names and descri
 
 The bosses you fight throughout the story are supposed to related somehow to the zodiac constellations:
 
-* Palreschia -> Palichthya (Pisces, or ikthyos or ichthyos in Greek)
+* Duoqurois -> Duokuroi (from Gemini, or [Dioskuroi](https://en.wikipedia.org/wiki/Castor_and_Pollux#cite_note-5) + Duo)
+* Palreschia -> Pallichthya (Pisces, or ikthyos or ichthyos in Greek + maybe Pallas?)
+* Sagiscellan -> Sagicheiron (Sagittarius + Hecatoncheir?)
+
 * Livadrigger -> Libradigger (Libra)
 
 * Raigivern -> Raprivern (Capricorn + wyvern)
@@ -404,10 +407,25 @@ More monster changes:
 * Bullmajiro -> Bullmadillo (a charging armadillo)
 * Bullgatorio -> Purgatorio (I don't know where the bull comes from here, it's just a dragon)
 * Rideleon -> Rideron (a humanoid robot that transforms into a bike, hence "rider". has no lion form)
+* Warcat -> Werecat
+* Beowulf -> Werewolf
+* Zoropino -> Zorropino (Spanish for fox + pine)
+
+* Flame Spirit -> Flamme Geist (the Japanese is literally "fureimugaisuto")
+* Soldart -> Soldat (solder, nothing about darting)
+* Shuvalgrif -> Chevalgriff (it's a just hippogriff, but I guess they opted to use the French word for "horse" instead of the Greek one)
+* Demon Zerob -> Demon's Robe (it's a robe brought to life)
 
 * Suikesu Keeper/Sukeisu Keeper -> Scissor Keeper (a version of the Root Keeper than uses "leaf blade magic")
+* Ice Velg -> Tempano (pretty sure it was just the English word "Iceberg". Now it's Spanish)
 * Evil Tycoon -> Evil [Typhon](https://en.wikipedia.org/wiki/Typhon) (a version of the Evil Dragon, which, of course, a dragon, not a capitalist)
 * Expert Lion/Expatrion -> Expeltron (another robot that was translated into a lion)
+* Gerou Aspis -> Guerra Aspis ("aspis" is a Latin word, so use another one)
+* Vulganon -> Vulkanon (supposed to be evocative of volcanos, not zelda)
+* Dizodyne -> Discordyne (discord + dyne)
+* Solar Sofia -> Solar Sphere (literally a ball of sunlight, no mention of it being wise)
+* Flower Batolei -> Flower Betrayer (described as a parasite to other monsters)
+
 * Albion -> Hyperion (a giant, not the island of Britain. It doesn't completely match up with the Japanese name though)
 * Lindblum -> [Lindworm](https://en.wikipedia.org/wiki/Lindworm) (a white dragon)
 
