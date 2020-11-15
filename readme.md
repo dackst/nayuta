@@ -8,9 +8,8 @@
 - [How do I use the files in this repo?](#how-do-i-use-the-files-in-this-repo)
 <!-- /TOC -->
 
+<img src="https://i.imgur.com/1gWUK3w.jpg" width="360" height="204"> <img src="https://i.imgur.com/TT9smIn.jpg" width="360" height="204">
 
-![before](https://i.imgur.com/1gWUK3w.jpg)
-![after](https://i.imgur.com/TT9smIn.jpg)
 
 [More comparison screenshots](https://imgur.com/a/yJB1fTj). These are mostly one-liners that were particularly non-sensical. There shouldn't be any major spoilers if you're interested in avoiding them.
 
