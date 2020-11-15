@@ -859,7 +859,7 @@ QS_01_talk_Asa
 0xd9ea	0x06	ALTO		ANI_SURPRISE_WEAK	
 0xda19	0x98	ALTO	#6A	Huh? Are you sure?
 0xda55	0x98	Asa		Yes, there's even some leftover	
-				ingredients from `breakfast.	
+				ingredients from breakfast.	
 0xdaa9	0x06	Asa		ANI_HANDOVER	
 0xdada	0xC1	System		received.	mp_0000 0x12596
 0xdb51	0x98	Asa		What will I do for a lunch box	

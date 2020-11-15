@@ -382,8 +382,6 @@ For character names based off of constellations, change spellings to more closel
 
 #### Monsters 
 
-I didn't pay nearly as much attention to the monster (and food) names and descriptions as I did to the rest of the text, but some things still stood out to me.
-
 The bosses you fight throughout the story are supposed to related somehow to the zodiac constellations:
 
 * Duoqurois -> Duokuroi (from Gemini, or [Dioskuroi](https://en.wikipedia.org/wiki/Castor_and_Pollux#cite_note-5) + Duo)
@@ -586,14 +584,28 @@ in my mind the whole game is basically a retelling of ys i and ii, with some of 
     * *something* that stops people from sailing too far out at sea
     * mishy theme park on continent
   * same measurement units (selge, arge, etc.) and money (mira)
-    * current year is 1579 as opposed to early 1200s, so either far in the future (Loewe: "mankind will repeat its mistakes forever") or using a different calendar (no mention of Aidios, though the doctor brings up the lack of a church on Remnant Island so churches must exist elsewhere)
+    * current year is 1579 as opposed to early 1200s, so either far in the future (Loewe: "mankind will repeat its mistakes forever") or using a different calendar (no mention of Aidios, though Nayuta brings up the lack of a church on Remnant Island to the doctor so churches must exist elsewhere)
+      * use of N.S. means there must be at least 1 other "Old Style" calendar system in place
+  
+assuming the continent *is* the zemuria that we know (and not some parallel version of it), the conditions at the end of this game (only one moon, but fully accessible planet) could only mean:
+
+- this game is in the distant past of other games (before Great Collapse)  
+  - humanity eventually returns to its old problems and cause another disaster, the Great Collapse
+- this game is in the near past of other games (after Great Collapse)  
+  - needs to be distant enough that worldwide abnormal weather, rocks falling from the sky, and disappearance of the second moon become overshadowed by other events, like the Orbal Revolution or multiple wars, and for star shards from Terra to become extremely rare
+  - not much of the new area is made known before humanity falls back to its old problems and End of the World returns or something to prevent people from exploring the rest of the world, threatening another cataclysmic disaster
+
+- if this game was in the distant future of other games (i.e. other games are before the Great Flood), more than one continent should exist and be accessible
+- if this game was in the near future of other games (i.e. other games are after the Great Flood), there should be [two moons visible in the sky](https://i.imgur.com/b2SXfaI.jpg)
+
+And of course, they could always be in some Aureole-like alternate dimension or something.
 
 ---
 
 #### other references
 [towa's grandfather](https://vignette.wikia.nocookie.net/kiseki/images/d/d4/Towa_Herschel_-_Family_Photo_4_%28Sen_III%29.png/revision/latest?cb=20180420170602)
   * astronomer, museum owner, last name
-  * also seems to have a familiar hairstyle?
+  * hairstyle looks similar to nayuta's if you ask me
 
 William Herschel
   * there was a real life [William Herschel](https://en.wikipedia.org/wiki/William_Herschel) who was an astronomer, married to a Mary Herschel, and had a son John who was also an astronomer. William discovered the first new planet since antiquity

@@ -1,5 +1,5 @@
 
-# Nayuta no Kiseki English Translation Edit
+# Nayuta no Kiseki/Nayuta: Endless Trails English Translation Edit
 
 <!-- TOC -->
 - [Introduction](#introduction)
@@ -35,7 +35,7 @@ broken ever since I moved files around
 -->
 
 ## Patching Instructions
-1. Download an xdelta file from latest [release](https://github.com/dackst/nayuta/releases). Choose clean.xdelta to apply the patch to an unmodified Japanese ISO, or choose 4_15.xdelta to apply to an ISO patched with version 4.15 of the previous fan-translation.
+1. Download an xdelta file from latest [release](https://github.com/dackst/nayuta/releases). Choose clean.xdelta to apply the patch to an unmodified Japanese ISO, or choose 4.15.xdelta to apply to an ISO patched with version 4.15 of the previous fan-translation.
 2. Apply your respective xdelta patch to your respective iso. If on Windows, the easiest thing to do would probably be to use [xdeltaUI](https://www.romhacking.net/utilities/598/).
 
    Otherwise, if you have xdelta3 installed elsewhere, you should also be able to run something similar to this with the desired filenames swapped in:
@@ -47,24 +47,23 @@ xdelta3 -ds original.iso patch.xdelta3 patched.iso
 ### MD5 Checksums
 * Clean Japanese ISO : `02adefbdef8197cca872268d5c01b277`
 * ISO patched with flame's 4.15 release: `6cc975153b7998db4242baa17eb8d276`
-* ISO patched with this current release: `9c829d2b6d90e6fc5830fbb926e1ed96`
+* ISO patched with this current release: `f3fc080f685d41ac148888e4c2a2e4bd`
 
 
 ## Known Issues
 
 ### Issues in this version 
-These issues don't seem to exist in the original 4.15 fan translation release. I think they may be due to problems with the released tools? See [here](./notes.md/#why-not-just-use-flame's-tools-directly) for more info.
-* unable to speak to Mishy
-  * before the start of chapter 5, he can only be successfully spoken to on the cape in chapter 2
+These issues don't seem to exist in the original 4.15 fan translation release. I think they may be due to problems with the released tools? See [here](./notes.md#why-not-just-use-flames-tools-directly) for more info.
+* unable to speak to Mishy at some points
+  * before the start of chapter 5, he can only be successfully spoken to on the cape. Talking to him seems to work at every ocassion after the start of chapter 5.
   * The new game+ sidequest involving Mishy starts partway into chapter 5, so it is unaffected. However, the special Mishy achievement requires talking to him at every opportunity, so that achievement is unable to be completed.
     * If you really want to have a go at that achievement, you can save whenever you find Mishy, and reload with a clean/4.15 patched ISO to talk to him.
 * there are some extra stray lines of text in Japanese when reading the tablet at the end of Volans' sidequest. 
 
 ### Issues from original fantranslation that I don't know how/care enough to try to fix myself
 * boss and new area intro graphics still untranslated
-* some text during final boss encounter is still untranslated
 * erasing save data from in-game menu doesn't work
-* there is some strange text spacing in certain spell descriptions
+* there is some strange text spacing in some longer spell and item descriptions
 * long achievement names are cut off in the notification box when unlocking them, e.g. "<armor of anhillat"
   * the achievement notification box is tiny. I'm not willing to butcher the names further in order to make them fit
 * characters that use idiosyncratic manners of speaking in Japanese probably still don't here
@@ -87,7 +86,7 @@ The original tools require Windows and Python 3. They seem to ["work"](./notes.m
   * Also copy over `pc.tbb` and `helplib.tbb` from `ISO/USRDIR/text/` 
 3. Copy and overwrite the files in this repository into the environment. Overwrite files if necessary. Modify text or images to your liking. 
 4. Reinsert text by running using the insertion Python scripts from within each respective folder. With my changes, the dump scripts must be run at least once beforehand.
-5. Copy the new files to their correct locations. I avoided using flame's scripts, since they modified other files in a way that didn't seem to completely work.
+5. Copy the new files to their correct locations. I avoided using flame's scripts, since they modified other files in a way that didn't seem to completely work. You can use `copy_all.py` instead.
 6. Run `_build.bat` build the new ISO with your changes, named `output.iso`.
 
    * You should be able to do steps 4-6 in one go with `build_all.bat` or `build_all.sh`
