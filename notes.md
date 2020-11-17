@@ -14,6 +14,7 @@
   - [tentative/unsure/mostly unimplemented](#tentativeunsuremostly-unimplemented)
 - [technical notes](#technical-notes)
   - [Why not just use flame's tools directly?](#why-not-just-use-flames-tools-directly)
+    - ["Solutions"](#solutions)
   - [other stuff](#other-stuff)
 - [lol](#lol)
     - [ys](#ys)
@@ -522,10 +523,10 @@ Here's how I solved or managed to work around each of the above problems.
 If you want to do a actual, proper translation of this game yourself and you're like me and not smart enough to write your own tools or fix the existing ones, you might have to do something similar.
 
   1. it does not occur if I simply do not run the script inserter, but obviously, that leaves me unable to insert any of my script changes. This seemed to indicate something was wrong the script inserter.
-    * Switching to [Flame's earlier Python 2 script inserter](https://pastebin.com/vtVwq338) released in 2015 seemed to fix this, but it had its own problems. But looking through it, I noticed there was a special case that applied only to these particular problematic textboxes 
-    * changing a 1 to a 3 in for the `0xC1` entry in the dictionary defined in the beginning of the Python 3 inserter fixed #1 without introducing any other problems. The inserter in this repo should include this change.
+      * Switching to [Flame's earlier Python 2 script inserter](https://pastebin.com/vtVwq338) released in 2015 seemed to fix this, but it had its own problems. But looking through it, I noticed there was a special case that applied only to these particular problematic textboxes 
+      * changing a 1 to a 3 in for the `0xC1` entry in the dictionary defined in the beginning of the Python 3 inserter fixed #1 without introducing any other problems. The inserter in this repo should include this change.
   2. copying `PSP_GAME/USRDIR/pack` folder from the 4.15 translation solved this for the `script` files. To me, this seemed to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for those files. At least, this isn't done successfully.
-    * However, any changes made in `pc`, `foodarea` and `helplib` are still not reflected. I'm assuming, like with how I solved #1, the hardcoded offsets given in `textinsert.py` for these particular files are wrong somehow, but I'm not entirely sure how to fix it. Currently I'm stuck using the versions of these files originating from flame's fantranslation. `foodarea` and `pc` seem to be easily modifiable with a hex editor. Be sure to keep the two zero bytes in the middle if each name
+      * However, any changes made in `pc`, `foodarea` and `helplib` are still not reflected. I'm assuming, like with how I solved #1, the hardcoded offsets given in `textinsert.py` for these particular files are wrong somehow, but I'm not entirely sure how to fix it. Currently I'm stuck using the versions of these files originating from flame's fantranslation. `foodarea` and `pc` seem to be easily modifiable with a hex editor. Be sure to keep the two zero bytes in the middle if each name
   3. Like with #2, I copied the files from the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't.
   4. As noted above, not actually a problem with the tools
   5. N/A
