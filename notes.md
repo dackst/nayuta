@@ -196,6 +196,7 @@ Like before, this section mostly served so that *I* could keep these things cons
 * Training Book: stamp/seal -> seal
 
 * Pyxia should no longer switch between making paintings and drawings
+  * I guess it's okay if she makes sketches before starting a painting
 
 
 
@@ -502,26 +503,33 @@ More monster changes:
 Before I started, I extracted everything from an iso of the original fantranslation. The addresses of each line in the English script then did not match up with the addresses of each line of the Japanese script, breaking the script insertion, well, script. My changes to the tools were mainly just so that the addresses from the dumped Japanese files are used instead of the addresses of each line of the input files.
 
 However, once I started testing the output, it seemed the released tools only *mostly* work as is. Even if I were to revert all of my changes and try to use them as <del>God</del> flame intended, doing something as simple as dumping and reinserting the Japanese script without changes or replacing all text with the string "AAAAA" creates a number of issues not present in the 4.15 fantranslation release:
-  1. item/money received messages in cutscenes are broken (but not all?)
+  1. item/money received messages in cutscenes are broken (those with opcode `0xC1`)
   2. Some text remains in their original Japanese forms: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
   3. chapter start/end graphics are still in Japanese
   4. <del> The text about your next objective that appears when pressing select used flame's translation</del>
   5. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact
+  6. I would occasionally encounter some stray lines of Japanese text underneath my English text in long text boxes (`0x41` op codes)
 
 Clearly, there were undocumented shenanigans that went on in the original fantranslation, given that none of these issues exist in its final release.
 
-The way I ultimately dealt with #1, #2, and #3 was to look at files from outside the 2017 tools:
-  * translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't present. I simply grabbed the files from the 4.15 release to replace the Japanese versions
-  * copying `USRDIR/pack` folder from the 4.15 translation solved #2 for the `script` files. This seems to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for the files listed in #2. At least, this isn't done successfully. Like with #3, grabbing the working files from the 4.15 release seems to have solved this issue. 
-    * However, any changes made in `pc`, `foodarea` and `helplib` are still not reflected. I'm assuming, like with how I solved #1 below, the hardcoded offsets given in `textinsert.py` for these particular files are wrong somehow. Currently I'm stuck using the versions of these files originating from flame's fantranslation.
-  * issue #1 does not exist if I simply do not run the script inserter, but obviously, that leaves me unable to insert any of my script changes. This seemed to indicate something was wrong the script inserter.
-    * I eventually discovered changing a 1 to a 3 in for the `0xC1` entry in the dictionary defined in the beginning of the Python 3 inserter fixed #1 without introducing any other problems. The inserter in this repo should include this change.
- 
 For #4, the correct text will be used if the story is continued to the next objective. It appears this is not at all the fault of the tools, and the text for the current objective is loaded directly from your savefile.
 
-Similar to how many characters tend to feel about Mishy, I still have no idea how to deal with #5, or why it's even there in the first place.
 
-After testing some more, I would occasionally encounter some stray lines of Japanese text underneath my English text in long text boxes. I would usually be able to fix this by reformatting my English text to use an extra line. However, this also occurred when reading the message at the end of Volans' sidequest, but my attempts at fixing it only makes my English text get cut off, and even more Japanese appearing. Copying the original fantranslation's script here also doesn't seem to work.
+#### "Solutions"
+
+Here's how I solved or managed to work around each of the above problems.
+
+If you want to do a actual, proper translation of this game yourself and you're like me and not smart enough to write your own tools or fix the existing ones, you might have to do something similar.
+
+  1. it does not occur if I simply do not run the script inserter, but obviously, that leaves me unable to insert any of my script changes. This seemed to indicate something was wrong the script inserter.
+    * Switching to [Flame's earlier Python 2 script inserter](https://pastebin.com/vtVwq338) released in 2015 seemed to fix this, but it had its own problems. But looking through it, I noticed there was a special case that applied only to these particular problematic textboxes 
+    * changing a 1 to a 3 in for the `0xC1` entry in the dictionary defined in the beginning of the Python 3 inserter fixed #1 without introducing any other problems. The inserter in this repo should include this change.
+  2. copying `PSP_GAME/USRDIR/pack` folder from the 4.15 translation solved this for the `script` files. To me, this seemed to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for those files. At least, this isn't done successfully.
+    * However, any changes made in `pc`, `foodarea` and `helplib` are still not reflected. I'm assuming, like with how I solved #1, the hardcoded offsets given in `textinsert.py` for these particular files are wrong somehow, but I'm not entirely sure how to fix it. Currently I'm stuck using the versions of these files originating from flame's fantranslation. `foodarea` and `pc` seem to be easily modifiable with a hex editor. Be sure to keep the two zero bytes in the middle if each name
+  3. Like with #2, I copied the files from the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't.
+  4. As noted above, not actually a problem with the tools
+  5. N/A
+  6. I would usually be able to fix these by reformatting my English text to use an extra line in the text box. However, I encountered this again for two lines when reading the message at the end of Volans' sidequest, but wasn't able to fix it this way. I found that opening mp_0115.bin in a hex editor and changing the first byte of the phantom line to 00 worked. (after the supposed last line, there'll be some non-zero bytes, then zeros, then some non-zero bytes. Zero out the first of the non-zero bytes after the zeros. [Example](https://i.imgur.com/aospeqr.png): Zero out the highlighted byte)
 
 
 ### other stuff
