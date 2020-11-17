@@ -21,7 +21,7 @@ ev_timer
 0xf14	0x06	switch2		ANI_STOP1	
 0xf3e	0x06	switch3		ANI_STOP1	
 dead_ev03
-0x100c	0x07	System	#3C	Defeated high-rank monster [Yak Tool]!	
+0x100c	0x07	System	#3C	Defeated high-rank monster [Yak Drudger]!	
 0x10cb	0x06	ALTO		ANI_TAMEATK1	
 0x10fd	0xC1	System		obtained.	mp_0000 0x7558
 0x12ff	0x06	ALTO		ANI_NOD	

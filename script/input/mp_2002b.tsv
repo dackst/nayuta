@@ -120,8 +120,8 @@ SUB_meet_adventurer
 0x2cce	0x06	ALTO		ANI_NOD	
 0x2cf3	0x98	ALTO		(A-Agreed. I can try	
 				 talking to them...)	
-0x2dab	0x98	Cetus		...Oh, right. There was this one	
-				one thing I wanted to ask you...	
+0x2dab	0x98	Cetus		...Oh, right. There was one	
+				thing I wanted to ask you...	
 0x2e09	0x6B	Cetus		Question	
 0x2e53	0x06	Cetus		ANI_WAIT3	
 0x2e7b	0x98	Cetus		What are YOU doing here?	
