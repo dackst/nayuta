@@ -51,15 +51,8 @@ xdelta3 -ds original.iso patch.xdelta3 patched.iso
 
 ## Known Issues
 
-### Issues in this version 
-These issues don't seem to exist in the original 4.15 fan translation release. I think they may be due to problems with the released tools? See [here](./notes.md#why-not-just-use-flames-tools-directly) for more info.
-* unable to speak to Mishy at some points
-  * before the start of chapter 5, he can only be successfully spoken to on the cape. Talking to him seems to work at every ocassion after the start of chapter 5.
-  * The new game+ sidequest involving Mishy starts partway into chapter 5, so it is unaffected. However, the special Mishy achievement requires talking to him at every opportunity, so that achievement is unable to be completed.
-    * If you really want to have a go at that achievement, you can save whenever you find Mishy, and reload with a clean/4.15 patched ISO to talk to him.
-* there are some extra stray lines of text in Japanese when reading the tablet at the end of Volans' sidequest. 
+There are all issues from original fantranslation that I don't know how or care enough to try to fix myself.
 
-### Issues from original fantranslation that I don't know how/care enough to try to fix myself
 * boss and new area intro graphics still untranslated
 * erasing save data from in-game menu doesn't work
 * there is some strange text spacing in some longer spell and item descriptions
