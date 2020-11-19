@@ -82,7 +82,7 @@ QS_42_Lithograph_Ev
 				what's on this tablet.	
 0x2c81	0x98	ALTO	#6A	Let's search for the other tablets,	
 				write them all down, and bring it	
-				to Dr. Volans for inspection.	
+				to Professor Volans for inspection.	
 0x2d02	0x06	NOI		ANI_NOD	
 0x2d26	0x98	NOI	#6A	Yeah, sure!	mp_0101 0x956b
 0x2dbd	0x98	NOI	#6A	Hey, another tablet!	
@@ -100,7 +100,7 @@ QS_42_Lithograph_Ev
 0x30c8	0x98	ALTO	#6A	Looks like we've got all	
 				the information we need.	
 0x3117	0x98	ALTO	#6A	Let's take it straight	
-				to Dr. Volans.	
+				to Professor Volans.	
 0x31af	0x06	NOI		ANI_THINK	
 0x31d5	0x98	NOI	#6A	Hmm... It still doesn't	
 				look complete.	

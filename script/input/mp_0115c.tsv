@@ -233,7 +233,7 @@ subev_showroom_first
 talk_Vavo
 0x6417	0x98	Vavo		Hehe, this is a grand	
 				exhibit room, isn't it?	
-0x6462	0x98	Vavo		Due to Dr. Volans' suggestion,	
+0x6462	0x98	Vavo		At Professor Volans' suggestion,	
 				we are able to observe aquatic life	
 				exist just as it does in nature.	
 0x64e3	0x98	Vavo		These large, single-panel glass panes	
@@ -246,10 +246,10 @@ talk_Vavo
 				doctorate with her thesis soon.	
 0x669c	0x98	Vavo		Hmmmm...	
 				I can't lose here.	
-0x66d6	0x98	Vavo		To repay the favor I owe to Dr. Volans,	
+0x66d6	0x98	Vavo		To repay what I owe to the professor,	
 				I, too, must continue my research.	
 0x676d	0x98	Vavo		I can't lose to Coron.	
-0x67a2	0x98	Vavo		To repay the favor I owe to Dr. Volans,	mp_0115c 0x66d6
+0x67a2	0x98	Vavo		To repay what I owe to the professor,	mp_0115c 0x66d6
 				I, too, must continue my research.
 0x6847	0x98	Vavo		It seems that the moon that drifted away
 				from the planet a year ago will be	
@@ -267,17 +267,17 @@ talk_Vavo
 0x6abc	0x98	Vavo		I wonder if some ruins fell	
 				again or something?	
 0x6b3e	0x98	Vavo		Back in the Empire, I begged	
-				Dr. Volans to make me his	
-				research assistant.	
+				Professor Volans to take me	
+				on his research assistant.	
 0x6bac	0x98	Vavo		Normally, a kid like me	
 				becoming a researcher would	
 				be unthinkable, but...	
-0x6c1d	0x98	Vavo		To repay my debt to hum,	
-				I want to show him the results	
+0x6c1d	0x98	Vavo		To repay him, I want to	
+				show him great results	
 				of my research someday.	
 0x6caa	0x98	Vavo		Back in the Empire, I begged	mp_0115c 0x6b3e
-				Dr. Volans to make me his
-				research assistant.
+				Professor Volans to take me	
+				on his research assistant.
 0x6d18	0x98	Vavo		To repay my debt to hum,	mp_0115c 0x6c1d
 				I want to show him the results
 				of my research someday.

@@ -1581,9 +1581,9 @@ talk_Michy
 0x15abd	0x98	ALTO		(Ahaha, he sounds satisfied.)	
 0x15b5e	0x98	Michy		Mishishi! ♪	mp_0112 0x15a92
 talk_Victor
-0x15c2c	0x98	Victor		I have come to discuss with Dr. Volans	
-				on how to end the war between the Empire	
-				and other nations of the continent.
+0x15c2c	0x98	Victor		I have come to discuss with Professor Volans	
+				on how to end the war between the Empire and	
+				other nations of the continent.
 0x15c9e	0x98	Victor		It would be a sure thing if we could prove	
 				that the debris that rained down was not a	
 				weapon, but the product of another world.	
@@ -1593,8 +1593,8 @@ talk_Victor
 				Emperor through the prince...
 0x15e1f	0x98	Victor		Of course, I'll need to return	
 				to the Empire alone...	
-0x15eeb	0x98	Victor		I'm certain Dr. Volans will find a way	
-				to prevent disaster for the Empire.	
+0x15eeb	0x98	Victor		I'm certain Professor Volans will find a	
+				way to prevent disaster for the Empire.	
 0x15f71	0x98	Victor		Perhaps I can be of some	
 				use to him as well.
 0x15fe0	0x98	Victor		The state of affairs in the Empire	
@@ -1626,7 +1626,7 @@ talk_Victor
 				care of people...!	
 talk_Victor_and_Pecula
 0x1658e	0x98	Victor		Now, I shall be going to discuss the	
-				current situation with Dr. Volans.
+				current situation with Professor Volans.
 0x165e2	0x98	Victor		Surely he should be able to find a way	
 				to prevent disaster for the Empire.		
 0x1665f	0x98	Victor		You should try to	

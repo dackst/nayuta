@@ -240,11 +240,11 @@ subev_showroom_first
 				interesting pass me by...	
 				Let's go get a better look!	
 talk_Coron
-0x66ac	0x98	Coron		Dr. Volans designed every	
+0x66ac	0x98	Coron		Professor Volans designed every	
 				exhibition room in this museum.	
-0x6700	0x98	Coron		Natural history is Dr. Volans'	
-				specialty. He's put a lot of	
-				mira into making them.	
+0x6700	0x98	Coron		Natural history is Professor Volans'	
+				specialty. He's put a lot of mira	
+				into making them.	
 0x676c	0x98	Coron		Ah, what a splendid research space...	
 0x67b2	0x98	Coron		A-Ahem. By the way, I am responsible	
 				for organizing the exhibits.	
@@ -312,5 +312,5 @@ talk_Coron
 0x749a	0x98	Coron		Ehehehe, today I'm going to	
 				concentrate on research of	
 				insect life cycles...	
-0x7504	0x98	Coron		Coming along with Dr. Volans was	
-				the right decision after all...	
+0x7504	0x98	Coron		Coming along with Professor Volans	
+				was the right decision after all...	

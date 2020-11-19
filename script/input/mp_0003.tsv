@@ -639,20 +639,20 @@ talk_Vavo
 				that the End of the World is	
 				rumored to be approaching...	
 0xa80a	0x98	Vavo		Oh, do you need something	
-				from Dr. Volans?	
+				from Professor Volans?	
 0xa84f	0x98	Vavo		As always, you can find	
 				him inside the museum,	
 				absorbed in his research.	
-0xa8d3	0x98	Vavo		Dr. Volans' research often	
+0xa8d3	0x98	Vavo		Professor Volans' research often	
 				goes beyond the fields of just	
 				human and natural history.	
-0xa94f	0x98	Vavo		His ideas are strange,	
-				but very interesting.	
+0xa94f	0x98	Vavo		His ideas are strange, but	
+				very thought-provoking.	
 0xa99c	0x98	Vavo		You might want to talk with
 				him from time to time to	
 				further your own studies.	
-0xaa1e	0x98	Vavo		Dr. Volans' ideas are strange,	
-				but very interesting.	
+0xaa1e	0x98	Vavo		Professor Volans' ideas are strange,	
+				strange, but very thought-provoking.	
 0xaa6c	0x98	Vavo		You might want to talk with	mp_0003 0xa99c
 				him from time to time to
 				further your own studies.

@@ -405,17 +405,17 @@ talk_Caelum_sub
 0x7607	0x98	Caelum		She was able to write a great paper based	
 				on her research during the abnormalities.
 				Hehe, that's my twin sister.	
-0x76de	0x98	Caelum		Dr. Volans is currently analyzing the	
-				abnormal phenomena that are occurring	
-				throughout the world.	
+0x76de	0x98	Caelum		Professor Volans is currently analyzing	
+				the abnormal phenomena that are	
+				occurring throughout the world.	
 0x775a	0x98	Caelum		He plans to compile them into a thesis to send to every	
 				town and country so that they can smoothly deal with	
 				the abnormal weather and fallen ruins in the future.	
 0x7801	0x98	Caelum		Hopefully, this will reduce the chaos	
 				happening everywhere, if only a little...	
-0x788f	0x98	Caelum		Dr. Volans is currently analyzing the	mp_0115 0x76de
-				abnormal phenomena that are occurring
-				throughout the world.
+0x788f	0x98	Caelum		Professor Volans is currently analyzing	mp_0115 0x76de	
+				the abnormal phenomena that are	
+				occurring throughout the world.
 0x790b	0x98	Caelum		Hopefully, this will reduce the chaos	mp_0115 0x7801
 				happening everywhere, if only a little...
 0x79a7	0x98	Caelum		I hear that you two protected a	
@@ -496,22 +496,22 @@ talk_Caelum_sub
 0x887f	0x98	Caelum		Would the gods abandon	mp_0115 0x87a7
 				a good person like you?
 0x88f9	0x98	Caelum		Oh, do you need something	
-				from Dr. Volans?	
+				from Professor Volans?	
 0x8945	0x98	Caelum		He's right over there,	
 				why not ask him?	
 0x89c9	0x98	Caelum		It looks like Baron Victor came	
 				to see us from the Empire.	
 0x8a19	0x98	Caelum		Since our time in the Empire,	
 				he's always been sent to	
-				chaperone Dr. Volans.	
+				chaperone Professor Volans.	
 0x8a82	0x98	Caelum		...What an unfortunate	
 				duty for him!	
 0x8aef	0x98	Caelum		The Baron was forced to chaperone	
-				Dr. Volans in the Empire as well.	
+				Professor Volans in the Empire as well.	
 0x8b4b	0x98	Caelum		Hehe, that's why the two of them	
 				seem to get along so well.	
-0x8bf4	0x98	Caelum		Hmm, it was a good decision to	
-				follow Dr. Volans here after all.
+0x8bf4	0x98	Caelum		Hmm, it was a good decision to follow	
+				Professor Volans here after all.
 0x8c5a	0x98	Caelum		I'm just happy to have met	
 				a cute boy like Nayuta in a	
 				remote place like this. ㈱	
@@ -537,8 +537,8 @@ talk_Caelum_sub
 				bring it to the reception desk.	
 0x9038	0x98	Caelum		Heheh, I expect you would be able	mp_0115 0x8ef3
 				to help in this area, Nayuta.
-0x90aa	0x98	Caelum		Hmm, it was a good decision to	mp_0115 0x8bf4
-				follow Dr. Volans here after all.
+0x90aa	0x98	Caelum		Hmm, it was a good decision to follow	mp_0115 0x8bf4	
+				Professor Volans here after all.
 0x9112	0x98	Caelum		I'm just happy to have met	mp_0115 0x8c5a
 				a cute boy like Nayuta in a
 				remote place like this. ㈱
@@ -566,17 +566,17 @@ talk_Coron
 				to publish my paper...	
 0x95dc	0x98	Coron		Of course, I can't go around	
 				dressed like Caelum～...	
-0x966d	0x98	Coron		At Dr. Volans' suggestion, I have been studying	
-				the behavior of marine life in the vicinity	
-				of this island in great detail.	
+0x966d	0x98	Coron		At Professor Volans' suggestion, I have been	
+				studying the behavior of marine life in the	
+				vicinity of this island in great detail.	
 0x96fa	0x98	Coron		The natural instincts of the animals could	
 				help us identify locations that are safe	
 				even in the event of a major disaster...	
-0x9787	0x98	Coron		As expected from Dr. Volans...	
+0x9787	0x98	Coron		As expected from the professor...	
 				He has a unique way of looking at things.	
-0x980f	0x98	Coron		At Dr. Volans' suggestion, I have been studying	mp_0115 0x966d
-				the behavior of marine life in the vicinity
-				of this island in great detail.
+0x980f	0x98	Coron		At Professor Volans' suggestion, I have been	mp_0115 0x966d
+				studying the behavior of marine life in the	
+				vicinity of this island in great detail.
 0x989c	0x98	Coron		If all goes well, we could find safe	
 				places to escape to in case of disaster.	
 				I've got to do my best...	
@@ -593,8 +593,8 @@ talk_Coron
 				continue researching on	
 				this island like this...?	
 talk_Vavo
-0x9bb4	0x98	Vavo		I'm still amazed by the	
-				way Dr. Volans thinks.	
+0x9bb4	0x98	Vavo		I'm still amazed by the way	
+				Professor Volans thinks.	
 0x9c05	0x98	Vavo		However... at the same time,	
 				I feel hopeless about	
 				these anomalies.	
@@ -606,7 +606,7 @@ talk_Vavo
 				I can't help but feel that way.
 0x9e03	0x98	Vavo		During the attack, the museum	
 				acted as an emergency shelter.	
-0x9e5d	0x98	Vavo		Dr. Volans and I guided the islanders to safety,
+0x9e5d	0x98	Vavo		The professor and I guided the islanders to safety,
 				and most of them managed to escape, but...	
 0x9ecd	0x98	Vavo		In the end, that Zext man was	
 				only after Creha, wasn't he...?	
@@ -615,8 +615,8 @@ talk_Vavo
 0x9fb3	0x98	Vavo		I'm a failure for not being	
 				able to protect her...	
 talk_Victor
-0xa050	0x98	Victor		It's been some time since	
-				I've last seen Dr. Volans.
+0xa050	0x98	Victor		It's been some time since I've	
+				last seen Professor Volans.
 0xa0ac	0x98	Victor		It's already been a year	
 				since those events...	
 				Time goes by fast.	
@@ -631,10 +631,10 @@ talk_Victor
 0xa29a	0x98	Victor		I'm sure it will be soon when we can say	mp_0115 0xa1a2
 				that a true sense of peace has returned.
 0xa397	0x98	Victor		The nobility of the Empire has heavily	
-				invested in Dr. Volans' research...	
+				invested in the professor's research...	
 0xa3f0	0x98	Victor		I have come here myself on orders from the	
-				prince to inspect the fruits of his research...	
-				Alas, Dr. Volans is an eccentric.	
+				prince to inspect the fruits of his labor...	
+				Alas, Professor Volans is an eccentric.	
 0xa482	0x98	Victor		All I can do is let him do what he	
 				wants. Hopefully he will not serve	
 				as a detriment to our country.	
@@ -642,7 +642,7 @@ talk_Victor_and_Volans
 0xa512	0x98	Victor		When the Empire heard you went through the trouble	
 				of moving your research lab all the way out to	
 				Remnant Island, we had to come take a look.	
-0xa589	0x98	Victor		Dr. Volans... What in the world are	
+0xa589	0x98	Victor		Professor Volans... What in the world are	
 				you thinking by opening this museum?
 0xa5df	0x98	Victor		How can this possibly contribute	
 				to the future of our country?	
@@ -868,7 +868,7 @@ tuto_museum_common
 0xe4cf	0x98	Caelum		Oh dear, you two are	
 				getting carried away...	
 0xe534	0x98	Caelum		From the looks of it, maybe you	
-				would understand Dr. Volans'	
+				would understand Professor Volans'	
 				research of Remnant Island.	
 0xe67e	0x98	ALTO	#6A	Research of Remnant Island...?	
 0xe761	0x06	Volans		ANI_WAIT0	
@@ -985,7 +985,7 @@ quest_Volans
 				to assemble it into one piece.	
 QS_42_quest_start
 0xfe89	0x06	Volans		ANI_WAIT0	
-0xff60	0x98	ALTO	#6A	Doctor, about your request...	
+0xff60	0x98	ALTO	#6A	Professor, about your request...	
 0xffb0	0x06	Volans		ANI_GESTURE2	
 0xffdc	0x98	Volans		Nayuta, Noi.	
 				It seems you came.	
@@ -1317,7 +1317,7 @@ EV_3_S02_meet_volans
 0x140a2	0x98	Volans		I heard your sister fell	
 				ill... Is she okay?	
 0x14103	0x06	ALTO		ANI_GESTURE1	
-0x1412d	0x98	ALTO	#6A	Dr. Volans... There's	
+0x1412d	0x98	ALTO	#6A	Professor Volans... There's	
 				something I want to ask you.	
 0x14189	0x40	UNDEF		Nayuta explained the situation about Eartha's Hell Fever,	
 				and asked about Yupina Grass.	
@@ -1400,7 +1400,7 @@ EV_6_S07_meet_volans
 0x15c54	0x06	Volans		ANI_GESTURE1	
 0x15c80	0x98	Volans		Oh, it's Nayuta!	
 0x15cb9	0x06	ALTO		ANI_OJIGI	
-0x15ce0	0x98	ALTO	#6A	Hi... Dr. Volans.	
+0x15ce0	0x98	ALTO	#6A	Hi... Professor Volans.	
 0x15d20	0x06	Volans		ANI_GESTURE2	
 0x15d4c	0x98	Volans		Hehe, I had every faith that	
 				you would regain consciousness.	

@@ -407,7 +407,7 @@
 0x6fe4	line	5 meat From The Bone,
 0x7018	line	and 2 Olm Shells.
 0x7068	quest name	Terra Research
-0x7098	client	Dr. Volans
+0x7098	client	Professor Volans
 0x70b8	line	There is something I want
 0x70ec	line	to request of you, Nayuta.
 0x7120	line	Allow me to explain at
@@ -423,7 +423,7 @@
 0x746c	line	Copied down each tablet
 0x74a0	line	in the ancient script.
 0x74d4	line	Let's check the contents
-0x7508	line	together with Dr. Volans.
+0x7508	line	together with Prof. Volans.
 0x7558	quest name	Locked Box
 0x7588	client	Orvus
 0x75a8	line	There is something I need
