@@ -281,7 +281,7 @@ talk_Eida_sub
 				frequently on the island.	
 0x4782	0x98	Eida		The only people we have on the	
 				island who can fight them are you,	
-				Cygna, and your Master, right?	
+				Cygna, and Master Orvus, right?	
 0x47f4	0x98	Eida		Well, maybe you're not quite	
 				as skilled as the other two...
 0x4858	0x98	Eida		But you should still buy a nice	
@@ -665,7 +665,7 @@ subev_zemuria
 				anything else for a while.	
 				...That's all.	
 0x9abb	0x06	ALTO		ANI_THINK	
-0x9aea	0x98	ALTO		(This weapon is pretty amazing...)	
+0x9aea	0x98	ALTO		(This weapon IS pretty amazing...)	
 0x9b2c	0x06	ALTO		ANI_JOY	
 0x9b51	0x98	ALTO		Anyway, thanks, Mr. Columba.	
 				I'll put it to good use.	

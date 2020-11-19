@@ -633,7 +633,7 @@ talk_Victor
 0xa397	0x98	Victor		The nobility of the Empire has heavily	
 				invested in Dr. Volans' research...	
 0xa3f0	0x98	Victor		I have come here myself on orders from the	
-				Prince to inspect the fruits of his research...	
+				prince to inspect the fruits of his research...	
 				Alas, Dr. Volans is an eccentric.	
 0xa482	0x98	Victor		All I can do is let him do what he	
 				wants. Hopefully he will not serve	
@@ -771,8 +771,8 @@ tuto_museum_first
 				you seem to be a child from 	
 				Remnant Island.	
 0xc8bc	0x3F	Name		Blonde-Haired Woman	
-0xc8d7	0x98	Caelum		I'm terribly sorry～, reception	
-				is currently closed.	
+0xc8d7	0x98	Caelum		I'm terribly sorry～, but	
+				reception is currently closed.	
 0xcacb	0x06	Volans		ANI_WAIT0	
 0xcb0c	0x06	ALTO		ANI_GESTURE2	
 0xcb36	0x98	ALTO	#6A	Umm, who are you guys...?	
@@ -787,7 +787,7 @@ tuto_museum_first
 				director of this museum.	
 0xccda	0x06	Volans		ANI_WAIT0	
 0xcd0b	0x06	Caelum		ANI_LAUGH	
-0xcd34	0x98	Caelum		Ehehe, and I'm his receptionist,	
+0xcd34	0x98	Caelum		Ehehe, and I'm the receptionist,	
 				Caelum. Nice to meet you! ♪	
 0xcd8f	0x06	Caelum		ANI_WAIT	
 0xcdb7	0x06	ALTO		ANI_COMPLAIN	
@@ -835,7 +835,7 @@ tuto_museum_force3
 				this on Remnant Island...	
 0xdcfe	0x06	ALTO		ANI_THINK2	
 0xdd26	0x98	ALTO		(...This is definitely	
-				 way off topic, but...)	
+				 way off base...)	
 0xdd76	0x98	ALTO		(I don't think Cygna	
 				 has stopped by here...)	
 0xddd5	0x06	ALTO		ANI_NOD	
@@ -850,7 +850,7 @@ tuto_museum_common
 0xe1a3	0x06	Volans		ANI_WAIT3	
 0xe1cc	0x98	Volans		The sphere was excavated in the Empire.	
 				It serves as an ancient astronomical	
-				model of celestial objects.	
+				model of the celestial bodies.	
 0xe253	0x98	Volans		As for the statues, they were also	
 				excavated in the Empire, and thought	
 				to predate the Great Flood.	
@@ -893,7 +893,7 @@ tuto_museum_common
 0xeb19	0x98	ALTO	#6A	Umm, I know it's sudden, but...	
 				Is it okay if I see the exhibits?	
 0xeb7f	0x98	Caelum		Ehehe, of course～ ㈱	
-				...Is what I would say...	
+				...Is what I would say.	
 0xebd3	0x06	Caelum		ANI_WAIT4	
 0xebfc	0x98	Caelum		Unfortunately, we have nothing	
 				to display at the moment～!	
@@ -960,7 +960,7 @@ tuto_museum_common
 0xf7b7	0x06	Volans		ANI_LAUGH	
 0xf7e0	0x98	Volans		Hahaha, I expect great things from you.	
 0xf82e	0x06	Volans		ANI_COMPLAIN	
-0xf85a	0x98	Volans		Relics from ancient times, fossils...	
+0xf85a	0x98	Volans		Ancient artifacts, fossils...	
 				Flora and fauna that should be extinct...	
 0xf8cf	0x98	Volans		If you find anything like that,	
 				by all means, bring them here.	
@@ -1271,8 +1271,8 @@ LithographMes
 				warring among themselves.
 				 	
 				The countless battles they waged	
-				gradually upset the balance of Power	
-				of Stars that composes our world,	
+				gradually collapsed the balance of	
+				Power of Stars that composes our world,	
 				and the core of our planet.#0E	
 0x1372c	0x41	None	#2E#0W	Then, on the day the humans started	
 				the greatest war in history, the	

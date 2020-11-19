@@ -262,12 +262,12 @@ talk_Asa_sub
 0x5d09	0x98	Asa		I won't stop you. No matter what I do,	
 				you wouldn't listen anyway, but...	
 				Don't do anything too dangerous, okay?	
-0x5d95	0x98	Asa		...Hehe, you are already 15,	
-				perhaps I shouldn't worry so much.	
+0x5d95	0x98	Asa		...Hehe, you're 15 now, maybe	
+				I shouldn't worry so much.	
 0x5dfa	0x98	ALTO		Yeah, I'm fine.	
 				I'll be careful.	
-0x5e3c	0x98	ALTO		(...But this time, I'll be going to	
-				 a place unlike any before.)	
+0x5e3c	0x98	ALTO		(...But this time, I'll be going	
+				 to a place unlike any before.)	
 0x5ec4	0x98	Asa		Anyway, don't do	
 				anything too dangerous.	
 0x5f10	0x98	Asa		I'll make you a lunch box,	
@@ -277,7 +277,7 @@ talk_Asa_sub
 				were going out for work.	
 0x600d	0x6B	Asa		Surprise	
 0x6072	0x98	Asa		Nayuta...	mp_0000d 0x7671
-0x609a	0x98	Asa		Well, I was in a meeting with	
+0x609a	0x98	Asa		Well, I WAS in a meeting with	
 				Antlia, but I got worried about	
 				the house and slipped out.	
 0x6112	0x98	Asa		More importantly...
@@ -295,7 +295,7 @@ talk_Asa_sub
 				and most of the broken jars. You two	
 				go check out the ruins.	
 0x63ca	0x98	ALTO		Yeah... Thanks, Eartha.	
-0x6427	0x98	Asa		I was in a work meeting with	
+0x6427	0x98	Asa		I WAS in a work meeting with	
 				Antlia, but I got worried about	
 				the house and slipped out.	
 0x649f	0x98	Asa		I'll clean up quickly	

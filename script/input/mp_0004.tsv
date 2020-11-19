@@ -149,17 +149,17 @@ subev_return_island1
 0x4f7b	0x06	Signa		ANI_WAIT3	
 0x4fa3	0x98	Signa		...Oh, man. This is no time to	
 				be having this conversation.	
-0x5014	0x98	Signa		Eartha should be already	
-				back by now. We gotta come up	
-				with something to tell her.	
+0x5014	0x98	Signa		Eartha should be back by	
+				now. We gotta come up with	
+				something to tell her.	
 0x506e	0x98	ALTO		Oh right. Seems like we're	
 				going to be away from home	
 				pretty often from now on.	
 0x50ca	0x98	ALTO		Hmm, what to say...	
 0x5114	0x06	Signa		ANI_SCRATCH_HEAD	
 0x5143	0x98	Signa		For now, we should just keep	
-				it casual so she doesn't get	
-				suspicious...	
+				keep it casual so she doesn't	
+				get suspicious...	
 0x51ad	0x98	Signa		Oh yeah, Nayuta. What	
 				about our work for	
 				the Handyman Shop?	
@@ -170,7 +170,7 @@ subev_return_island1
 0x529d	0x06	ALTO		ANI_THINK	
 0x52c4	0x98	ALTO		Taking a break, huh...?	
 				We just reopened it.	
-				It kinda seems like a waste.	
+				Kinda seems like a waste.	
 0x532d	0x06	ALTO		ANI_WAIT0	
 0x5354	0x98	ALTO		Can we still continue the Handyman	
 				Shop work... and continue exploring	

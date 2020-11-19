@@ -1209,7 +1209,7 @@
 0x14a60	name	Intense Warrior
 0x14a78	desc	Defeated 5000 enemies.
 0x14aec	name	Peerless Magic
-0x14b04	desc	Defeated 1000 enemies with Arts.
+0x14b04	desc	Defeated 1000 enemies with arts.
 0x14b78	name	Secret Sword Dancer
 0x14b90	desc	Defeated 100 enemies with sword techniques.
 0x14c04	name	Hundred Counter
@@ -1429,11 +1429,11 @@
 0x18688	name	
 0x186a0	desc	
 0x18714	name	Arts Max Lvl Unlock ①
-0x1872c	desc	Raise Arts' max level to 10.
+0x1872c	desc	Raise arts' max level to 10.
 0x187a0	name	Arts Max Lvl Unlock ②
-0x187b8	desc	Raise Arts' max level to 20.
+0x187b8	desc	Raise arts' max level to 20.
 0x1882c	name	Arts Max Lvl Unlock ③
-0x18844	desc	Raise Arts' max level to 30.
+0x18844	desc	Raise arts' max level to 30.
 0x188b8	name	
 0x188d0	desc	
 0x18944	name	

@@ -84,7 +84,7 @@ lp_middlefish
 				They are distributed throughout the world. In some	
 				regions, they are seen as a symbol of longevity.	
 0x2c1f	0x41	None		[Crab] Brachyura	
-				Aquatic crustacean with a large pair of scissors.	
+				Aquatic crustacean with a large pair of pincers.	
 				They have the strange property of only being able	
 				to walk sideways, and it is easy to capture them.	
 0x2e54	0x41	None		[Nautilus] Nautilidae	
@@ -110,7 +110,7 @@ lp_middlefish
 				the umbrella is eaten as food.	
 0x3956	0x41	None		[Portuguese Man o' War] Physalia physalis	
 				Jellyfish with various organs suspended below the umbrella.	
-				Because sharp pain runs through the body if stabbed,	
+				Because sharp pain runs through the body if stung,	
 				it has earned the name "electric jellyfish."	
 0x3bac	0x41	None		[Goosefish] Lophiidae	
 				Deep-sea fish with a shining antenna on its head.	
@@ -160,7 +160,7 @@ lp_largefish
 				zone, its speed has no equal.	
 0x4be9	0x41	None		[Coelacanth] Coelacanthiformes	
 				Ancient fish living in the deep sea.	
-				Though it was thought to be extinct, living	
+				Though once thought to be extinct, living	
 				specimens have been found in recent years.	
 0x4d3c	0x41	None		[Japanese Catfish] Silurus asotus	
 				Fish with a flat face and long whiskers.	
@@ -171,11 +171,11 @@ lp_largefish
 				Because of its hard scales and large body, it has hardly any	
 				natural enemies. It feeds leisurely on fish and crustaceans.	
 0x5013	0x41	None		[Octopus] Octopoda	
-				Soft-bodied organism with 8 arms.	
-				Each arm is outfitted with large suckers.	
+				Soft-bodied organism with 8 limbs.	
+				Each limb is outfitted with large suckers.	
 				It prefers to live in cramped places.	
 0x5150	0x41	None		[Squid] Decapodiformes	
-				Soft-bodied organism with 10 arms.	
+				Soft-bodied organism with 10 limbs.	
 				When it meets an enemy, it squirts	
 				black ink and escapes.	
 0x527c	0x41	None		[Sea Anemone] Actiniaria	
