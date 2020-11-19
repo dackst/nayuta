@@ -337,9 +337,13 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 
 #### Locations
 
-* St. Cerize -> <del>St. Cerise</del> San Ceriz <del>San Ceres?</del>
+* St. Cerize -> <del>St. Cerise</del> <del>San Ceres?</del> <del> San Ceriz </del> Saint Cerise
   * google translate romanizes it (サンセリーゼ) as something like "sanserize", which is different than say, the romanized name for St. Louis (セントルイス - Sentoruisu) and more like that of San Salvador (サンサルバドル - Sansarubadoru), so I think "San" is better here. It also fits together with the Spanish "Ciencia"
   * at this point I'm unsure if the second part is referencing cherries, the roman harvest goddess/dwarf planet, or both, so I'll try to not be too on the nose and use "Ceriz", which is neither, but I imagine would be pronounced similarly to the Spanish "feliz", and somewhat similarly how most English speakers would pronounce both Cerise and Ceres.
+  * so I did some searches and found that "Saint Arkh" starts with "sento" in Japanese, as expected, but "Saint-Gral" and "Saint-Croix" start with "san", like here.
+    * The only instance of "San" I could find in English is the store named "San Corries" in Cold Steel, which also starts with "san" in Japanese. But then they use the English word "corries", which comes from Gaelic, and not Spanish like "Correas" or something 
+    * I'll be consistent with the names of other major locations and render it as "Saint"
+    * and since we're anglicizing stuff, might as well go back to "Cerise", the only explicitly English word out of the above. 
 
 * Moon View Pavillion -> Moonlight Pavilion
   * I can't figure out what the Japanese means beyond "moon", but "Moonlight" sounds better than "Moon View"? at least, "moon" and "light" are used often enough together in English to have its own word. Also "pavillion" is supposedly an obsolete spelling
@@ -467,7 +471,7 @@ More monster changes:
     * Cetus separately lists the Ciencia sea, eastern island(s), and the northern continent as places he's explored
     * Remnant Island is suggested to be part of some archipelago, with various dialogue talking about other islands
       * Ciencia Sea could possibly just refer to the region around the achipelago, like the Carribean or the Sea of Japan
-      * it's also unclear whether the city of San Ceriz is on the continent or just on a bigger, more populated island
+      * it's also unclear whether the city of Saint Cerise is on the continent or just on a bigger, more populated island
 
 
 
