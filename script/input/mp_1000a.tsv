@@ -124,7 +124,7 @@ EV_1_S02_jungle1_end
 0x3df6	0x06	NOI		ANI_THINK	
 0x3e1c	0x98	NOI	#6A	Zext... Wonder where he's	
 				planning on taking the	
-				Master Gear...?	
+				Master Gear...	
 0x3f22	0x06	Signa		ANI_WAIT4	
 0x3f4a	0x98	Signa		Anyway, looks like he's not	
 				here anymore. Let's just	
@@ -132,7 +132,7 @@ EV_1_S02_jungle1_end
 0x3fb5	0x06	NOI		ANI_WAIT	
 0x4029	0x6B	Signa		Surprise	
 0x407b	0x06	Signa		ANI_WAIT	
-0x40bf	0x98	Signa		Oh, right...Nayuta, I	
+0x40bf	0x98	Signa		Oh, right... Nayuta, I	
 				was gonna give you this.	
 0x4172	0x06	Signa		ANI_HANDOVER	
 0x419d	0x06	ALTO		ANI_RECEIVE	

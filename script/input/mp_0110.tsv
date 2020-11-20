@@ -257,8 +257,8 @@ talk_Asa_sub
 				Shop is already getting busy.	
 0x5c11	0x98	Asa		If you need a lunch box, ask me anytime.	
 				I'll make it with plenty of love! ♪	
-0x5cb0	0x98	Asa		Looks like you two went off on	
-				an adventure somewhere again.	
+0x5cb0	0x98	Asa		Looks like you two are going off	
+				exploring somewhere again.	
 0x5d09	0x98	Asa		I won't stop you. No matter what I do,	
 				you wouldn't listen anyway, but...	
 				Don't do anything too dangerous, okay?	
@@ -271,8 +271,8 @@ talk_Asa_sub
 0x5ec4	0x98	Asa		Anyway, don't do	
 				anything too dangerous.	
 0x5f10	0x98	Asa		I'll make you a lunch box,	
-				so be careful and have	
-				a good trip.	
+				so be careful and have a	
+				good trip.	
 0x5fbf	0x98	ALTO		Huh, Eartha? I thought you	
 				were going out for work.	
 0x600d	0x6B	Asa		Surprise	
@@ -367,7 +367,7 @@ talk_Signa
 				 I figured it would be better	
 				 not to lie to her too much...)	
 0x712e	0x98	Signa		(Hmm, even at our age, it's still	
-				 hard to go against Eartha.)	
+				 hard to lie to Eartha.)	
 0x71b6	0x98	Signa		(Anyway, I'll smooth things over so she	
 				 doesn't find out about that other world.)	
 0x7215	0x98	Signa		(I got this!)	
