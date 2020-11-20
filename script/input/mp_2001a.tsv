@@ -29,7 +29,7 @@ battle_skill
 0x153d	0x6B	ALTO		Exclamation	
 dead_skill
 open_door02_03
-0x1c76	0x07	System	#3C	Defeated high-rank monster [Noire Palace]!	
+0x1c76	0x07	System	#3C	Defeated high-rank monster [Noir Palace]!	
 0x1d37	0x06	NOI		ANI_TAMEATK1	
-0x1d9a	0x07	System	#1C	Noi recovered the autumn magic, #4C『#782INoire Haze』#1C!	
+0x1d9a	0x07	System	#1C	Noi recovered the autumn magic, #4C『#782INoir Haze』#1C!	
 0x1e24	0xC1	System		obtained.	mp_0000 0x7558

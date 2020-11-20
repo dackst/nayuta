@@ -112,9 +112,9 @@ SUB_meet_adventurer
 				Got it!?	
 0x1b95	0x40	UNDEF		Noi explained how to use the teleporter	
 				devices and the way back to the island.	
-0x1c05	0x40	UNDEF		The two didn't seem to understand the teleporter	
-				teleporter devices very well, but Nayuta and Noi were	
-				able to patiently explain it to them again.	
+0x1c05	0x40	UNDEF		The two still didn't seem to understand the	
+				teleporter devices very well, but Nayuta and Noi	
+				were able to patiently explain it to them again.	
 0x1dd3	0x06	Cetus		ANI_WAIT3	
 0x1e44	0x06	Reticul		ANI_WAIT	
 0x1e85	0x98	Cetus		I see... So those round devices	
