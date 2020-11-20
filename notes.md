@@ -17,6 +17,7 @@
     - ["Solutions"](#solutions)
   - [other stuff](#other-stuff)
 - [lol](#lol)
+    - [mishy guide](#mishy-guide)
     - [ys](#ys)
     - [zemuria references](#zemuria-references)
     - [other references](#other-references)
@@ -133,7 +134,6 @@ Like before, this section mostly served so that *I* could keep these things cons
     * items that appear in your inventory
   * should now be always decapitalized (outside of dungeon names, etc.): 
     * "arts", "crafts", "mira", "star shard", "shard", "shining stone", "selge", "ruins", "temple", "warden", season names (spring, summer, autumn, winter), "seal", "final key", "key"
-    * items that don't appear in inventory (e.g. harbor souffle)
   * names of positions/titles (elder, doctor) should now be decapitalized, and only capitalized if used in place or as part of a name, e.g. "Hello, Elder", "go see the elder", and "Elder Serpent"
 
 * inconsistent location names
@@ -217,13 +217,13 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
     * otherwise might confusingly imply one of them is their actual aunt/uncle
     * exception here is in Canie's case: In Japanese she insisted on Nayuta calling her older sister rather than aunt, his default for her and the rest of the adults. Meanwhile the original translation has Canie insist on Nayuta calling her Mrs. Canie rather than just Canie. I feel like a sister would normally be more familiar and younger than an aunt, and asking for a "Mrs." in front of her name implies the opposite of that.
     * keep "old man Barton" from original translation, he seems especially close to the Herschels, and was a good friend of William, so it's fine that it's only him
-  * Ada no longer talks so much about Nayuta's sister (although Nayuta never reciprocates, she's calling herself nee-san, not talking about Eartha, currently changed to something like "your darling Ada")
+  * Ada no longer talks so much about Nayuta's sister (although Nayuta never reciprocates, she's calling herself nee-san, not randomly bringing up Eartha. currently changed to something like "your darling Ada")
   * remove the small kids (the polite ones, anyway) calling older kids (Nayuta, Cygna, Lyra) big brother/sister to be consistent with how the older kids address the young adults/even older kids (e.g. Ada, Dorado, Sasha)
 
 * vigilance/vigilante committee/corps/force -> city guard
   * vigilance committee and vigilante corps are both used as translations for 自警団, but I personally have never heard of either
     * vigilance committees seem to have been an actual historical [thing](https://en.wikipedia.org/wiki/Vigilance_committee), meanwhile the top results for a google search for "vigilante corps" are about a law in Singapore and Counter Strike
-    * the idea that no one has any comments with Cygna casually dropping the fact he was part of some vigilante group *probably* means he wasn't acting outside the law like Batman (inb4 Cygna in San Ceriz prequel game)
+    * that no one has any comments with Cygna casually dropping the idea he was part of some vigilante group *probably* means he wasn't acting outside the law like Batman (inb4 crime fighting Cygna prequel game)
     * decided on some variation of neighborhood/<del>town</del>/city/<del>island</del> guard/watch
       * not "town" or "island", since this was Cygna's actual job in the big city they lived in before the game started, but not back home on Remnant island 
 
@@ -233,14 +233,15 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * Nayuta and Cygna fight with swords, but don't exactly seem to use fencing swords like laxia in Ys VIII
 
 * Mythos -> Mitos 
-  * rather than have a race named after a random English word, (oh so they're named Mythos because they're an ancient, mythical race? okay, that would be like Charlemagne declaring himself the king of the Medievals), use a random (non-English) Greek word instead. apparently means "warp thread", like the root for the word "mitosis". Although by all likelihood what I'm doing to Greek is what the the Japanese text did to English, at least the rest of the text isn't also Greek. (There are some mythology references, including Greek, in the Terran monsters, though.) 
+  * rather than have a race named after a random English word, (oh so they're named Mythos because they're an ancient, mythical race? okay, that would be like Charlemagne declaring himself the king of the Medievals), use a random (non-English) Greek word instead. apparently means "warp thread", like the root for the word "mitosis".  
+  Although by all likelihood what I'm doing to Greek is what the the Japanese text did to English, at least the rest of the text isn't also Greek. (There are some mythology references, including Greek, in the Terran monsters, though.) 
   * connection with mitosis could relate to their apparent ability to create, resurrect, and manipulate life. 
   * Possibly related that hajimari no kiseki [promo art](https://static.wikia.nocookie.net/kiseki/images/8/80/Key_Visual_(Hajimari).jpg) shows the grandmaster with similar white hair and holding some kind of yarn
-    * even if they do ultimately turn out to be unrelated to the grandmaster, both could still be a reference to similar immortal beings who exert control over the destiny of the world and its life with [thread-related powers](https://en.wikipedia.org/wiki/Moirai). the mechanics behind how they are able to do the whole "controlling power of stars" thing aren't exactly explained as much as with the eldeen
+    * even if they do ultimately turn out to be unrelated to the grandmaster, both could still be a reference to similar immortal beings who exert control over the destiny of the world and its life with [thread-related powers](https://en.wikipedia.org/wiki/Moirai). 
   * maybe sprinkle in some fun veiled sewing metaphors: "cut short", "thread of history/fate", "weave/twist", "seams"
     * adding more metaphors or such in general is probably a good idea
     * LMAO A FIBER OF INTENT
-* god/God -> the gods (cough, iwonderwhothiscouldreferto, cough)
+* god/God -> a god/the gods (cough, iwonderwhothiscouldreferto, cough)
 * master -> lady/lord (for wardens addressing mitos)
   * their historical role and actions are remarkably similar to the Eldeen from Ys, and this is consistent with how Feena and Reah are addressed in Origin by their followers
 * '"Cage"' -> 'prison' (the magical vase things that the Wardens are trapped in)
@@ -272,7 +273,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * vel sidequest: poster -> note (they're supposed to hidden messages, not something posted for all to see)
 * new menu -> new dish (as in, a single meal served in a restaurant, rather than a list of all meals to choose from)
 * sculp makes sterotypical drunk noises, such as hiccuping and burping, rather than crying
-* millionaire -> wealthy man (pretty sure he was described as (one of?) the world's richest men, as well as spending a lot of mira in his life. "millionaire" is probably selling it short a little given how much mira you collect by the end of other kiseki games)
+* millionaire -> wealthy man/our client (pretty sure he was described as (one of?) the world's richest men, as well as spending a lot of mira in his life. "millionaire" is probably selling it short a little given how much mira you collect by the end of other kiseki games, or even this one)
 
 * she's a good girl -> she's a good kid (sound less like the speaker is treating the subject as a dog)
 
@@ -302,6 +303,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * someone originally decided to translate [プテラノドン](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%86%E3%83%A9%E3%83%8E%E3%83%89%E3%83%B3) as [Pterodactyl](https://en.wikipedia.org/wiki/Pterodactylus) for some reason unknown to me. I thought maybe the skeleton looks more like a pterodactyl instead, but it doesn't, it has that huge crest
 * It may be the case that they're *all* commonly called "kabuto" beetles in Japanese (not sure), but at least in English, [stag beetles](https://en.wikipedia.org/wiki/Stag_beetle) are not considered a type of [rhinoceros beetle](https://en.wikipedia.org/wiki/Dynastinae). Descriptions should now correctly distinguish between them, rather than calling everything a rhinoceros beetle.
   * same goes with every prehistoric reptile being called a "dinosaur"
+  * ammonites aren't snails
 * Googled the scientific names to fix English names of museum animals, or add missing common names
   * lots of common names for various species of Asian grasshoppers and cicadas that I don't care to list
   * White Butterfly -> Cabbage White
@@ -313,7 +315,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
     * I think it was correct as of 2012, but it appears koi have since been reclassified under a different species (Cyprinus rubrofuscus)
 * Bronze Sextant -> Bronze Instrument
   * it's described as modeling the heavenly bodies, which is exactly what an [astrolabe](https://en.wikipedia.org/wiki/Astrolabe) is.
-
+* Dragon Egg -> Dinosaur Egg
 * Moon bird egg: Egg of destruction beast -> Moon bird eggs: Eggs of an extinct animal
 * Unopened Box (from Orvus sidequest) -> Locked Box
 * Shard \<Name> -> Name Shard
@@ -382,15 +384,17 @@ For character names based off of constellations, change spellings to more closel
 * Hydol -> Hydrol (from Hydra/Hydrus)
 * Pencula -> Pecula (from Vulpecula)
 * <del>Serpent -> Serpen (from Serpens)</del>
-  * keeping for the same reason I'm replacing "Saint" with "San", there's a definite "to" sound present at the end of his name that's missing for "San"
+  * <del>keeping for the same reason I'm replacing "Saint" with "San", </del>there's a definite "to" sound present at the end of his name in Japanese
 * <del>Victor -> Pictor</del>
   * keeping it, since at least Victor is an actual name. same goes for Janis (from Canis)
 
+* Dr. Volans -> Professor Volans
+
 #### Monsters 
 
-The bosses you fight throughout the story are supposed to related somehow to the zodiac constellations:
+The bosses you fight throughout the story are supposed to be related somehow to the zodiac constellations:
 
-* Duoqurois -> Duokuroi (from Gemini, or [Dioskuroi](https://en.wikipedia.org/wiki/Castor_and_Pollux#cite_note-5) + Duo)
+* Duoqurois -> Duokuroi (from Gemini, or [Dioskuroi](https://en.wikipedia.org/wiki/Castor_and_Pollux) + Duo)
 * Palreschia -> Pallichthya (Pisces, or ikthyos or ichthyos in Greek + maybe Pallas?)
 * Sagiscellan -> Sagicheiron (Sagittarius + Hecatoncheir?)
 
@@ -416,7 +420,7 @@ More monster changes:
 * Zoropino -> Zorropino (Spanish for fox + pine)
 
 * Flame Spirit -> Flamme Geist (the Japanese is literally "fureimugaisuto")
-* Soldart -> Soldat (solder, nothing about darting)
+* Soldart -> Soldat (soldier, nothing about darting)
 * Shuvalgrif -> Chevalgriff (it's a just hippogriff, but I guess they opted to use the French word for "horse" instead of the Greek one)
 * Demon Zerob -> Demon's Robe (it's a robe brought to life)
 
@@ -459,8 +463,8 @@ More monster changes:
 
 
 
-* "X-tachi" -> "X and the others" or just "X", but often its just one person (usually Noi or Cygna/Selam) that gets left out of being explictly listed in X
-  * especially annoying when it's as if its done so that Noi can avoid choosing to address or knowing who he is, or choosing calling him Selam or Cygna
+* "X-tachi" sometimes translated as "X and the others" or just "X", but often its just one person (usually Noi or Cygna/Selam) that gets left out of being explictly listed in X
+  * especially annoying when it's as if its done so that Noi can avoid choosing to address whether she knows who he is, or choosing calling him Selam or Cygna
 
 
 * sometimes people talk about "this sea". not sure if this is an expression roughly equivalent to "the whole world", like "sailing the seven seas" (and should instead be something like "these seas" or 
@@ -509,7 +513,7 @@ Before I started, I extracted everything from an iso of the original fantranslat
 
 However, once I started testing the output, it seemed the released tools only *mostly* work as is. Even if I were to revert all of my changes and try to use them as <del>God</del> flame intended, I ran into a number of issues not present in the 4.15 fantranslation release:
   1. item/money received messages in cutscenes are broken (those with opcode `0xC1`)
-  2. Some text remains in their original Japanese forms: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
+  2. Some text remains in their original Japanese forms, with no Enlish displayed: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
   3. chapter start/end graphics are still in Japanese
   4. The text about your next objective that appears when pressing select is not updated
   5. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact. He remained perfectly in in Chapter 2 and after starting Chapter 5.
@@ -520,19 +524,19 @@ Clearly, there were undocumented shenanigans that went on in the original fantra
 
 #### "Solutions"
 
-Here's how I solved or managed to work around each of the above problems.
+Here's how I solved or managed to work around each of the above problems. In about half of the cases where the programs themselves were actually bugged, I only managed to fix one. The rest were resolved more with workarounds, involving the use of bug-free files from the 4.15 release and/or a hex editor.
 
-If you want to do a actual, proper translation of this game yourself and you're like me and not smart enough to write your own tools or fix the existing ones, you might have to do something similar.
+If you want to do a actual, proper retranslation of this game yourself and you're like me and not smart enough to write your own tools or fix the existing ones, you might have to do something similar.
 
   1. the broken item messages do not occur if I simply do not run the provided script inserter, but obviously, that leaves me unable to insert any of my script changes. This seemed to indicate something was wrong the script inserter.
       * Switching to [Flame's earlier Python 2 script inserter](https://pastebin.com/vtVwq338) released in 2015 seemed to fix this, but it had its own problems. But looking through it, I noticed there was a special case that applied only to these particular problematic textboxes 
       * changing a 1 to a 3 in for the `0xC1` entry in the dictionary defined in the beginning of the Python 3 inserter fixed #1 without introducing any other problems. The inserter in this repo should include this change.
-  2. Only Japanese text (no English): copying `PSP_GAME/USRDIR/pack` folder from the 4.15 translation solved the Japanese appearing for the `script` files. To me, this seemed to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for those files. At least, this isn't done successfully.
-      * However, any changes made in `pc`, `foodarea` and `helplib` are still not reflected. I'm assuming, like with how I solved #1, the hardcoded offsets given in `textinsert.py` for these particular files are wrong somehow, but I'm not entirely sure how to fix it. Currently I'm stuck using the versions of these files originating from flame's fantranslation. `foodarea` and `pc` seem to be easily modifiable with a hex editor. Be sure to keep the two zero bytes in the middle if each name
+  2. Only Japanese text in places (no English): copying `PSP_GAME/USRDIR/pack` folder from the 4.15 translation solved the Japanese appearing for the `noi` and `system` files. To me, this seemed to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for those files. At least, this isn't done successfully.
+      * However, any changes made in `pc`, `foodarea` and `helplib` are still not reflected. I'm not entirely sure how to fix this. Currently I'm stuck using the versions of these files originating from flame's fantranslation. `foodarea.bin` and `pc.bin` seem to be easily modifiable with a hex editor. 
   3. Chapter titles: like with #2, I copied the files from the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't.
   4. the correct objective text will be used if the story is continued to the next objective. It appears this is not at all the fault of the tools, and the text for the current objective is loaded directly from your savefile.
-  5. The Mishy issue was also not entirely the fault of the tools. For some reason, Mishy internal name (Michy) was exposed in `chr_names.tsv` as well as his name that is displayed above this textboxes (originally Michey). For comparison, Mensa was called "Mrs. Mensa" in the original translation, and has an internal name of "Mensa", but only appeared once in this file (as "Mrs. Mensa"). Several variations of Cygna/Signa and Creha also appear, so just make sure you only change the right one? 
-  6. Extra Japanese text (underneath my English): I would usually be able to fix these by reformatting my English text to use an extra line in the text box. However, I encountered this again for two lines when reading the message at the end of Volans' sidequest, but wasn't able to fix it this way. I found that opening mp_0115.bin in a hex editor and changing the first byte of the phantom line to 00 worked. (after the supposed last line, there'll be some non-zero bytes, then zeros, then some non-zero bytes. Zero out the first of the non-zero bytes after the zeros. [Example](https://i.imgur.com/aospeqr.png): Zero out the highlighted byte)
+  5. The Mishy issue was also not entirely the fault of the tools. For some reason, Mishy's internal name ("Michy") was exposed in `chr_names.tsv` as well as his name that is displayed above his textboxes (originally "Michey"). For comparison, Mensa was called "Mrs. Mensa" in the original translation, and has an internal name of "Mensa", but only appeared once in `chr_names.tsv` (as "Mrs. Mensa"). I've also been able to break shopkeepers by changing the wrong names in `chr_names.tsv`, so just make sure you only change the right one? 
+  6. Extra Japanese text (underneath my English): I would usually be able to fix these by reformatting my English text to use an extra line in the text box. However, I encountered this again for two lines when reading the message at the end of Volans' sidequest, but wasn't able to fix it this way. I found that opening mp_0115.bin in a hex editor and changing the first byte of the phantom line to 00 worked. (after what *should* to be last line, there'll be some non-zero bytes, then zeros, then some non-zero bytes. Zero out the first of the non-zero bytes after the zeros. [Example](https://i.imgur.com/aospeqr.png): Zero out the highlighted byte)
 
 
 ### other stuff
@@ -566,9 +570,19 @@ some nonsensical, but spoilerly one-liners I didn't want to screenshot:
   of the next head of the family.  	
   * vs "received special education for gifted children"
 
+#### mishy guide
+prologue: center of town, outside elder's house
+ch1: harbor, outside fisherman's house
+ch2: cape, underneath stairs
+ch4: harbor, outside museum
+ch5: southwest corner of beach (before sidequest); bar (after sidequest)
+ch6: ouside nayuta's house, by sheep
+epilogue: ruins northeast of cape
+sequel: top of tower ruins
+
 ----
 #### ys
-in my mind the whole game is basically a retelling of ys i and ii, with some of ys iv/vi giant climate control machine+clan of darkness backstory and a happier ending
+in my mind the whole game is thematically a retelling of ys i and ii, with some of ys iv/vi giant climate control machine+clan of darkness backstory and a happier ending
   * nayuta - adol (protagonist, likely leaves home to become adventurer at 16-17 years old)
   * cygna - dogi (Heterosexual Life-Partners with protagonist)
   * creha - feena (amnesiac damsel in distress that the protagonist seems to have a thing for, leaving almost no time of day for the numerous other girls who also seem into the protagonist, also happens to be a god with long, strangely colored hair)
@@ -583,6 +597,7 @@ in my mind the whole game is basically a retelling of ys i and ii, with some of 
   * aquela - clan of darkness, esp. those from Danan (repentant descendants of humans who betrayed race of gods)
   * power of stars - emelas (power usable by said "gods")
   * idols - galba (giant artificial monsters guarding something important)
+  * humans destroy environment with wars, accelerate collapsing core of planet - humans destroy environment with mine, unearth cleria and bring back demons
 
 ---
 
@@ -590,7 +605,7 @@ in my mind the whole game is basically a retelling of ys i and ii, with some of 
   * zemurian ore
   * mishy, poms
   * geography 
-    * a single continent with Empire that always seems to be at the brink of war with neighbors, but with a purportedly reasonable Prince
+    * a single continent with Empire that always seems to be at the brink of war with neighbors, but with a purportedly reasonable prince
     * forests in western parts of continent, cold in northern parts
     * *something* that stops people from sailing too far out at sea
     * mishy theme park on continent
@@ -601,15 +616,16 @@ in my mind the whole game is basically a retelling of ys i and ii, with some of 
 assuming the continent *is* the zemuria that we know (and not some parallel version of it), the conditions at the end of this game (only one moon, but fully accessible planet) could only mean:
 
 - this game is in the distant past of other games (before Great Collapse)  
-  - humanity eventually returns to its old problems and cause another disaster, the Great Collapse
+  - humanity eventually returns to its old problems and cause another disaster, the Great Collapse, and maybe a third one looms again in the S.1200s
+
 - this game is in the near past of other games (after Great Collapse)  
   - needs to be distant enough that worldwide abnormal weather, rocks falling from the sky, and disappearance of the second moon become overshadowed by other events, like the Orbal Revolution or multiple wars, and for star shards from Terra to become extremely rare
-  - not much of the new area is made known before humanity falls back to its old problems and End of the World returns or something to prevent people from exploring the rest of the world, threatening another cataclysmic disaster
+  - not much of the new area is made known before humanity falls back to its old problems and End of the World returns or something to prevent people from exploring the rest of the world, threatening another cataclysmic disaster unknown to humans
 
 - if this game was in the distant future of other games (i.e. other games are before the Great Flood), more than one continent should exist and be accessible
 - if this game was in the near future of other games (i.e. other games are after the Great Flood), there should be [two moons visible in the sky](https://i.imgur.com/b2SXfaI.jpg)
 
-And of course, they could always be in some Aureole-like alternate dimension or something.
+And of course, they could always be in some alternate dimension like the Aureole was or something.
 
 ---
 
