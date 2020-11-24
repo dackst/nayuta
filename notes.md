@@ -434,7 +434,8 @@ More monster changes:
 * Solar Sofia -> Solar Sphere (literally a ball of sunlight, no mention of it being wise)
 * Flower Batolei -> Flower Betrayer (described as a parasite to other monsters)
 
-* Albion -> Hyperion (a giant, not the island of Britain. It doesn't completely match up with the Japanese name though)
+* <del>Albion -> Hyperion (a giant, not the island of Britain.</del>
+  * Nope, [Albion](https://en.wikipedia.org/wiki/Albion_(Blake)) is right. Although I can't find any references to Albion/Alebion being a giant (rather than just a nondescript son of Poseidon) outside of Blake's stuff
 * Lindblum -> [Lindworm](https://en.wikipedia.org/wiki/Lindworm) (a white dragon)
 
 
