@@ -854,8 +854,8 @@ QS_21_ask_work
 0xc159	0x06	ALTO		ANI_THINK2	
 0xc181	0x98	ALTO	#6A	(But a rare and exotic fruit...	
 				 I have no idea about that at the moment.)	
-0xc1ed	0x98	ALTO	#6A	(Maybe someone who at the	
-				 bar would know something?	
+0xc1ed	0x98	ALTO	#6A	(Maybe someone at the bar	
+				 would know something?	
 				 ...Let's gather some info.)	
 0xc28f	0x07	System	#3C	Quest [Fine Fruit Liqueur] started!	
 QS_21_quest_end

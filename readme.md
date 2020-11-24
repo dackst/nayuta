@@ -46,7 +46,7 @@ xdelta3 -ds original.iso patch.xdelta patched.iso
 ### MD5 Checksums
 * Clean Japanese ISO : `02adefbdef8197cca872268d5c01b277`
 * ISO patched with flame's 4.15 release: `6cc975153b7998db4242baa17eb8d276`
-* ISO patched with this current release: `dceef485fd90535f450c68aaf27803d4`
+* ISO patched with this current release: `d77f8103a181ca325784f5e061bcd2a5`
 
 
 ## Known Issues
