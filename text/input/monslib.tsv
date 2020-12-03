@@ -47,8 +47,8 @@
 0x89e	line	thread and lives in trees.
 0x8be	line	Surprise attacks from above.
 0x91e	mon name	Assembly
-0x93e	line	Collective of small insect
-0x95e	line	monsters. Separates to easily
+0x93e	line	Colony of small insect monsters.
+0x95e	line	Able to separate to easily
 0x97e	line	dodge physical attacks.
 0x9de	mon name	Bullet Lily
 0x9fe	line	Vicious plant monster that
@@ -71,7 +71,7 @@
 0xd1e	line	Holds seeds in its petals to
 0xd3e	line	release them all at once.
 0xd9e	mon name	Gathermoth
-0xdbe	line	Collective of countless moths.
+0xdbe	line	Colony of countless moths.
 0xdde	line	Can dodge attacks as well as
 0xdfe	line	spread a toxic powder.
 0xe5e	mon name	Skyrave
@@ -260,14 +260,14 @@
 0x307e	line	black flames it produces.
 0x30de	mon name	Cravaltarf
 0x30fe	line	Crab idol guarding temple. A
-0x311e	line	collective of countless crabs
+0x311e	line	colony of countless crabs
 0x313e	line	that can change its shape.
 0x319e	mon name	Lupine Armor
 0x31be	line	Canine monster wearing armor.
 0x31de	line	Uses its full weight to 
 0x31fe	line	unleash rabid attacks.
 0x325e	mon name	Killer Hornets
-0x327e	line	A collective of dreaded killer
+0x327e	line	A colony of dreaded killer
 0x329e	line	hornets. Its venom destroys 
 0x32be	line	nerves, paralyzing victims.
 0x331e	mon name	Thrust Bird
