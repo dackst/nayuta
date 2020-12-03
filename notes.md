@@ -11,7 +11,7 @@
     - [Locations](#locations)
     - [Characters](#characters)
     - [Monsters](#monsters)
-  - [tentative/unsure/mostly unimplemented](#tentativeunsuremostly-unimplemented)
+  - [tentative/unsure/wanted to change at some point](#tentativeunsurewanted-to-change-at-some-point)
 - [technical notes](#technical-notes)
   - [Why not just use flame's tools directly?](#why-not-just-use-flames-tools-directly)
     - ["Solutions"](#solutions)
@@ -106,11 +106,6 @@ Here's a nonexhaustive list of suggestions for possible (i.e. not always done) r
   * (when lacking): wishy-washy, banal, trite, weak, no confidence
 * functions -> systems, functionality, features
 * presence -> (life) signature 
-* abnormalities: anomalies  
-  * abnormal (weather) conditions, anomolous weather
-    * erratic, extreme, bizarre 
-  *  events, incidents (when speaking collectively about happenings that may include the abnormal weather)
-  * glitches, errors (if within Astrolabe or other machine)
 * observing -> gazing (looking at stars, star shards, etc)
 * nature -> environment, ecosystem, wildlife
 
@@ -236,6 +231,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * rather than have a race named after a random English word, (oh so they're named Mythos because they're an ancient, mythical race? okay, that would be like Charlemagne declaring himself the king of the Medievals), use a random (non-English) Greek word instead. apparently means "warp thread", like the root for the word "mitosis".  
   Although by all likelihood what I'm doing to Greek is what the the Japanese text did to English, at least the rest of the text isn't also Greek. (There are some mythology references, including Greek, in the Terran monsters, though.) 
   * connection with mitosis could relate to their apparent ability to create, resurrect, and manipulate life. 
+  * still means "myths" in Spanish and Portuguese
   * Possibly related that hajimari no kiseki [promo art](https://static.wikia.nocookie.net/kiseki/images/8/80/Key_Visual_(Hajimari).jpg) shows the grandmaster with similar white hair and holding some kind of yarn
     * even if they do ultimately turn out to be unrelated to the grandmaster, both could still be a reference to similar immortal beings who exert control over the destiny of the world and its life with [thread-related powers](https://en.wikipedia.org/wiki/Moirai). 
   * maybe sprinkle in some fun veiled sewing metaphors: "cut short", "thread of history/fate", "weave/twist", "seams"
@@ -261,6 +257,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * cliff: chasm (when referring to the gap between two natural cliffs), wall (when referring to the sides of an artificial building)
 * transfer gates "work" or "connect" when teleportation is available and "don't work" or "disconnect" when unavailable, rather than "moving" or "stopping" 
   * same goes for pretty much every other technology that previously "moved" or "stopped"
+  * "run/execute programs" with astrolabe rather than "perform procedures"
 * "Ancient Memories" -> Ancient Memory
   * singular, though I'm sure the mitos could make VR recreations of all kinds of things, this term is only ever used in reference to a specific recreation of a certain historical event. 
 * "masked guy" -> "masked man" (except maybe for Cygna because he's casual like that)
@@ -357,7 +354,8 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 
 * Muncipial District -> Urban District (no mention at all of any government, just a city part of Terra that humans were intended to live in. "Residential District" might be even better?)
 * Cradle Area -> Birthing Chamber (formerly used for raising animals, also pretty creepy looking)
-* Glowing Dust Area -> Shining Shard <del>Chamber</del> Area (consistency with <del>Birthing Chamber</del>(nope, too long), and shining stones/star shards)
+  * not written the same way as the the Cradle District in SC, or used for the same purpose (not a human residential district)
+* Glowing Dust Area -> Shining Shard Area (consistency with shining stones/star shards)
 
 
 
@@ -440,33 +438,20 @@ More monster changes:
 
 
 
-### tentative/unsure/mostly unimplemented
+### tentative/unsure/wanted to change at some point
 
-* the Power of Stars -> (the?) Power of the Stars, star power? astral energy?
+* the Power of Stars -> (the?) Power of the Stars, star power? astral energy? celestial power?
 
-* spicier wording
+* implement spicier wording
   * use more technobabblesque phrasing from people familiar with Terra
     * revived/resurrected idols -> regenerated?
     * errors, glitches, etc
-    * "run/execute programs" rather than "perform procedures"
+    * warden: rename to admin(instrator)? (maybe better fit Terra/Astrolabe being giant futuristic computer-like thing with computery term)
   * geo: how does one even speak like an old man
   * algol: ye elizabethan english?
-  * pretty sure boote, as a young kid, has some sort of speech impendiment or something
 * remove multiple exclamation points (!!) except in cases of extreme exclamation
 
-* くっ (Ku~tsu) seems to be translated as "Tch" or "Guh". Google translate says "huh" and DeepL tends to use "shit", which often sounds more appropiate than "huh". Replace with some kind of swear? dammit? is this actually some kind of minced form of "kuso"/shit, like "jeez":"jesus" or "frick":"fuck" or just a sound of frustration?
-  * チッ (chi-tsu) actually gets translated as "tsk" by deepL
-  * after watching a scene of a fate stay night playthrough, where a "Damn." in the English text was voiced as just as "tch", I'm gonna say yes, this is a viable swear
-
 * head (Zext, as in "head of the mythos") -> chief, leader, director?
-
-* warden: rename to admin(instrator)? (maybe better fit Terra/Astrolabe being giant futuristic computer-like thing with computery term)
-
-
-
-* "X-tachi" sometimes translated as "X and the others" or just "X", but often its just one person (usually Noi or Cygna/Selam) that gets left out of being explictly listed in X
-  * especially annoying when it's as if its done so that Noi can avoid choosing to address whether she knows who he is, or choosing calling him Selam or Cygna
-
 
 * sometimes people talk about "this sea". not sure if this is an expression roughly equivalent to "the whole world", like "sailing the seven seas" (and should instead be something like "these seas" or 
 "this world"), the events weren't as far-reaching as they were previously mentioned to be, or if it literally implies the Cienca Sea is the only sea in the world
@@ -495,9 +480,8 @@ More monster changes:
 * refer to nymphs as female rather than keep them awkwardly genderless?
 
 * rephrase "abnormalities", at least sometimes so it doesn't seem as if the whole world has somehow instantly come to a consensus on what to call literally everything that happens
-  * anomolies, aberrations
-  * error when in context of astrolabe going wrong, or at least use different term than the weather
-    * those accidentally caused by noi should be "malfunction" (maybe "error")
+  * anomolies, aberrations, irregularities
+  * error/malfunction when in context of astrolabe going wrong, or at least use different term than the weather
   * abnormal (weather) conditions, anomolous
   * events, incidents, etc also appear to be viable translations
 
@@ -505,6 +489,8 @@ More monster changes:
   * doesn't appear during the corresponding quest it's listed under, and the phrase "芽吹きの勾玉" only appears in these same two files in the original Japanese. Unused dummy text?
 
 * (N.S.) - I previously removed this because I wanted to avoid [real world references](https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates), same as how the original translation would sometimes call the surface "Earth." However, this one might also serve as a hint that there are at least [two calendar systems](#zemuria-references) currently in use.
+
+* Riesewald - Riese[woerd](https://en.wikipedia.org/wiki/Terp) or some other variation (instead of Wald, meaning "forest" when that continent has no forests)
 
 ## technical notes
 
