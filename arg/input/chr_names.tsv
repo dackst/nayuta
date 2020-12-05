@@ -62,7 +62,7 @@ mp_0000d	0xd2b	chr name	岬方面
 mp_0000d	0xd95	chr name	mp_0000 0x17a3
 mp_0000d	0xe30	chr name	mp_0000 0x1a26
 mp_0000d	0xecb	chr name	Eartha
-mp_0000d	0xf69	chr name	Barton
+mp_0000d	0xf69	chr name	Mr. Barton
 mp_0000d	0x1008	chr name	mp_0000c 0x5be
 mp_0000d	0x10a8	chr name	mp_0000 0x84e
 mp_0000d	0x114e	chr name	mp_0000 0x1661
@@ -154,7 +154,7 @@ mp_0003	0x463	chr name	Captain Puppis
 mp_0003	0x51e	chr name	Crux
 mp_0003	0x5ca	chr name	mp_0000c 0x91b
 mp_0003	0x676	chr name	Carina
-mp_0003	0x721	chr name	Camelope
+mp_0003	0x721	chr name	Mrs. Camelope
 mp_0003	0x7d2	chr name	Norma
 mp_0003	0x882	chr name	mp_0001c 0x426
 mp_0003	0x925	chr name	mp_0000 0xb12
@@ -399,7 +399,7 @@ mp_0112	0xdc4	chr name	mp_0000 0xbc1
 mp_0112	0xe81	chr name	mp_0000 0x1a26
 mp_0112	0xf28	chr name	mp_0001c 0x56e
 mp_0112	0xfce	chr name	mp_0000 0xdbb
-mp_0112	0x107c	chr name	mp_0000d 0xf69
+mp_0112	0x107c	chr name	Barton
 mp_0112	0x10b2	chr name	フライパン
 mp_0112	0x1160	chr name	料理
 mp_0112	0x1205	chr name	mp_0112 0x1160

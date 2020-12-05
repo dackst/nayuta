@@ -2630,7 +2630,7 @@ QS_25_quest_end
 QS_34_ask_Camelope
 0x2448a	0x06	ALTO		ANI_GESTURE1	
 0x244b4	0x98	ALTO	#6A	Umm, excuse me. You're	
-				Ms. Camelope, right?	
+				Mrs. Camelope, right?	
 0x24500	0x06	Camelope		ANI_SIT1_NOD	
 0x2452e	0x98	Camelope		I am indeed, but...	
 				Do you have some business with me?	

@@ -42,7 +42,7 @@ talk_Algorl
 				...Use it wisely.	
 0x377b	0x98	Algorl		In the coming days, you will	
 				face countless trials, but...	
-				You must ever give up.	
+				you must mever give up.	
 0x37e4	0x98	Algorl		For Terra and Lady Creha...	
 				Please, take care of them.	
 0x3866	0x98	Algorl		Hmm... as expected, I am currently in	
@@ -308,7 +308,7 @@ QS_44_quest_end
 0x753a	0x98	ALTO	#6A	Haha, thank you very much.	
 0x75b9	0x98	Algorl		In the coming days, you will	mp_3099 0x377b
 				face countless trials, but...
-				You must ever give up.
+				you must never give up.
 0x7622	0x98	Algorl		For Terra and Lady Creha...	mp_3099 0x37e4
 				Please, take care of them.
 0x76b4	0x07	System	#3C	Quest [Lost Power] completed!	

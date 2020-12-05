@@ -302,7 +302,7 @@ EV_4_S30_help_creha
 				...a..Mitos...!?	
 0x713f	0x98	Creha	#3W	...I...I...!	
 0x71b9	0x3F	Name		Nayuta's Voice	mp_0001 0x1090f
-0x71dd	0x98	ALTO	#1W#16S#500x#100y	Crehaaa!	
+0x71dd	0x98	ALTO	#1W#16S#450x#100y	Crehaaa!	
 0x7500	0x06	Creha		ANI_HEADACHE2	
 0x75bc	0x06	Aulbath		ANI_DRAIN_LOOP	
 0x786e	0x06	Lyra		ANI_JOY	

@@ -86,7 +86,7 @@ talk_Aulbath_sub
 				Make sure she feels welcome.	
 0x1cc8	0x98	Aulbath		Hmm, but as for that	
 				damned son of mine...	
-0x1d19	0x98	Aulbath		...I just have no idea	
+0x1d19	0x98	Aulbath		...I just have no	
 				idea what to do...	
 0x1d69	0x98	ALTO		(Of course, Master would	
 				 be the one to realize	
@@ -94,7 +94,7 @@ talk_Aulbath_sub
 0x1dbd	0x98	ALTO		(I've gotta find Cygna soon!)	
 0x1e23	0x98	Aulbath		Hmm, but as for that	mp_0002 0x1cc8
 				damned son of mine...
-0x1e74	0x98	Aulbath		...I just have no idea	mp_0002 0x1d19
+0x1e74	0x98	Aulbath		...I just have no	mp_0002 0x1d19
 				idea what to do...
 0x1efa	0x98	Aulbath		I never would have anticipated	
 				someone recovering from Hell Fever...	

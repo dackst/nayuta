@@ -57,7 +57,7 @@ mp_1002c	0x55	area name	 Hermit's Path/Autumn
 mp_1002d	0x55	area name	 Hermit's Path/Winter
 mp_1010	0x53	area name	 Oltapia Temple/First Half
 mp_1011	0x53	area name	 Oltapia Temple/Second Half
-mp_1099	0x53	area name	 Oltapia Temple/Sanctum
+mp_1099	0x53	area name	 Oltapia Temple/Inner Sanctum
 mp_1100	0x53	area name	 Oltapia Temple
 mp_2000a	0x55	area name	 Great Echoing Caves/Spring
 mp_2000b	0x55	area name	 Great Echoing Caves/Summer
@@ -73,7 +73,7 @@ mp_2002c	0x55	area name	 Dragon River Cavern/Autumn
 mp_2002d	0x55	area name	 Dragon River Cavern/Winter
 mp_2010	0x53	area name	 Rieseweld Temple/First Half
 mp_2011	0x53	area name	 Rieseweld Temple/Second Half
-mp_2099	0x53	area name	 Rieseweld Temple/Sanctum
+mp_2099	0x53	area name	 Rieseweld Temple/Inner Sanctum
 mp_2100	0x53	area name	 Rieseweld Temple
 mp_3000a	0x55	area name	 Wind Cutting Valley/Spring
 mp_3000b	0x55	area name	 Wind Cutting Valley/Summer
@@ -91,7 +91,7 @@ mp_3003c	0x55	area name	 Hidden Plateau/Autumn
 mp_3003d	0x55	area name	 Hidden Plateau/Winter
 mp_3010	0x53	area name	 Heimmel Temple/First Half
 mp_3011	0x53	area name	 Heimmel Temple/Second Half
-mp_3099	0x53	area name	 Heimmel Temple/Sanctum
+mp_3099	0x53	area name	 Heimmel Temple/Inner Sanctum
 mp_3100	0x53	area name	 Heimmel Temple
 mp_4000a	0x4e	area name	 Ancient Reef/Spring
 mp_4000b	0x4e	area name	 Ancient Reef/Summer
@@ -107,7 +107,7 @@ mp_4002c	0x4e	area name	 Infernal Crater/Autumn
 mp_4002d	0x4e	area name	 Infernal Crater/Winter
 mp_4010	0x4c	area name	 La Worg Temple/First Half
 mp_4011	0x4c	area name	 La Worg Temple/Second Half
-mp_4099	0x53	area name	 La Worg Temple/Sanctum
+mp_4099	0x53	area name	 La Worg Temple/Inner Sanctum
 mp_4100	0x4c	area name	 La Worg Temple
 mp_5000	0x53	area name	 Heliograd/Lower Stratum
 mp_5001	0x53	area name	 Heliograd/Center Stratum
