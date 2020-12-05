@@ -244,7 +244,7 @@ LP_haka
 0x4d7f	0x98	ALTO		(I don't want to lose anyone	
 				 else important to me...)	
 0x4de2	0x98	ALTO		(Mom, Dad... Please, protect us.)	
-0x4e2c	0x98	ALTO		(Eartha, I'm sure that I can save you!)	
+0x4e2c	0x98	ALTO		(Eartha, I swear I'll save you!)	
 0x4eee	0x98	ALTO		(Mom, Dad... Did you	
 				 see it from heaven?)	
 0x4f42	0x98	ALTO		(Lost Heaven...	
@@ -1030,7 +1030,7 @@ EV_0_S10_meet_okita
 0x129cf	0x06	Signa		ANI_LAUGH	
 0x12a3d	0x98	Signa		Haha, that's true.	
 0x12b46	0x06	Signa		ANI_GESTURE2	
-0x12b71	0x98	Signa		...Then our next course	
+0x12b71	0x98	Signa		...Then our next course of	
 				action is to look for a	
 				way into those ruins, eh?	
 0x12eae	0xCE	Objective		We've gotta search the fallen ruin. Let's go together!	
@@ -1146,18 +1146,18 @@ EV_8_S02_meet_lyra
 				always by my side.	
 0x14dba	0x06	ALTO		ANI_GESTURE1	
 0x14de4	0x98	ALTO	#6A	Since now is a good	
-				opportunity, let	
-				me say thank you.	
+				opportunity, I want	
+				say thank you.	
 0x14e48	0x06	Lyra		ANI_NOD	
 0x14e8b	0x98	Lyra	#1W	Y-Yeah...	
 0x14efb	0x6B	Lyra		Ellipsis	
 0x15045	0x06	Lyra		ANI_COMPLAIN	
-0x1506f	0x98	Lyra		H-Hey, Nayuta. There's	
-				something I want to tell you.	
+0x1506f	0x98	Lyra		H-Hey, Nayuta. There's something	
+				I wanted to tell you.	
 0x150cf	0x06	ALTO		ANI_NOD	
 0x150f4	0x98	ALTO	#6A	Yeah?	
 0x15124	0x06	Lyra		ANI_WAIT2	
-0x15169	0x98	Lyra	#0W	U-Umm... Not to piggyback on the	
+0x15169	0x98	Lyra	#0W	It's, umm... Not to piggyback on that	
 				last thing or anything, but...	
 0x151e5	0x06	Lyra		ANI_GESTURE1	
 0x1522d	0x98	Lyra		...I want to continue to support	

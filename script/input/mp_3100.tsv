@@ -52,7 +52,7 @@ EV_3_S14_temple3_front
 0x17c9	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0x1998	0x98	NOI	#240x#270y	Ah, the Power of Stars stopped...!!	
 0x1a90	0x98	Seram		Heh, as you can see...	
-				My business here is done.	
+				my business here is done.	
 0x1af2	0x98	Seram		I was going to return	
 				back to Zext, but...	
 0x1c69	0x06	Seram		ANI_BATTOU	
@@ -61,7 +61,7 @@ EV_3_S14_temple3_front
 				blindly trailing behind us.	
 0x1dae	0x98	Seram	#3W	Now that you're here,	
 				I'm going to kill you both.		
-0x1e0d	0x98	Seram	#1W	Just like that dark-haired swordsman.	
+0x1e0d	0x98	Seram	#1W	Just like I did that dark-haired swordsman.	
 0x1e80	0x98	ALTO	#0W#0x#250y	W-Wait, what...!?	
 0x2087	0x06	Seram		ANI_STEP_F2	
 0x20b9	0x06	Seram		ANI_ATK6	

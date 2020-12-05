@@ -247,7 +247,7 @@ talk_Bootie
 0x378c	0x98	Bootie		A girl with white clothes	
 				and silver hair showed up...	
 				She picked up a shard for me.	
-0x37fd	0x98	Bootie		...Though she didn't say a word,	
+0x37fd	0x98	Bootie		...She didn't say a word, but	
 				she had such beautiful eyes...	
 0x3866	0x98	Bootie		...You know, nevermind.	
 				I-I never get nervous	
@@ -271,8 +271,8 @@ talk_Bootie
 				What is he even doing?	
 0x3c55	0x98	Bootie		I dunno...	
 				Eartha collapsed...	
-0x3cac	0x98	Bootie		N-Nayuta... Lemme give you	
-				some of my star shards.	
+0x3cac	0x98	Bootie		H-Here, Nayuta... Lemme give	
+				you some of my star shards.	
 0x3d05	0x98	Bootie		So, umm...	
 				Cheer up...	
 0x3d41	0x98	ALTO		...Haha, thanks, Boote.	

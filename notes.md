@@ -362,11 +362,12 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 #### Characters
 
 
-* Michey/Michy -> Mishy (match official localizations)
+* Michey -> Mishy (match official localizations)
 * Kureha -> Creha
   * Previous translators picked her brother's name to look more Arabic. I personally know less about Arabic that I do about Japanese, but at least "Creha" looks less Japanese. Not that they're always the best (see: [Dalk Fukt](https://www.falcom.co.jp/ys12_psp/character.html)), but "Creha" also seems to be the [official romanization](https://falcom-collections.net/Nayuta%20No%20Kiseki/nayuta04s.jpg.html) of her name
     * on her brother's name, it could be that any variation of vowels between ["SLM"](https://en.wikipedia.org/wiki/%C5%A0-L-M) (rather than "Serum" or "Seram") would work.
   * the downside here is that her name appears in voiced scenes pretty frequently, where you can hear it starting with an audible "ku" sound
+* Dr. Volans -> Professor Volans
 
 3/4 of the wardens now (alongside Algol) directly refer to astronomical objects (they all do if you consider Nemeas to reference the Nemean Lion, which is associated with the constellation Leo)
 * Gio -> [Geo](https://en.wikipedia.org/wiki/Geo)
@@ -386,7 +387,6 @@ For character names based off of constellations, change spellings to more closel
 * <del>Victor -> Pictor</del>
   * keeping it, since at least Victor is an actual name. same goes for Janis (from Canis)
 
-* Dr. Volans -> Professor Volans
 
 #### Monsters 
 
@@ -460,8 +460,8 @@ More monster changes:
     * however, when Antlia is talking about a flower that grows on the western continent, he says something like "it doesn't grow in the Ciencia Sea". and since the northern part of the continent gets cold, while Renmant Island is always warm, it can be assumed that Remnant Island (and at least part of the Ciencia Sea with it) is south of the continent, and what is considered the Ciencia Sea doesn't extend to the west.
     * Cetus separately lists the Ciencia sea, eastern island(s), and the northern continent as places he's explored
     * Remnant Island is suggested to be part of some archipelago, with various dialogue talking about other islands
-      * Ciencia Sea could possibly just refer to the region around the achipelago, like the Carribean or the Sea of Japan
-      * it's also unclear whether the city of Saint Cerise is on the continent or just on a bigger, more populated island
+      * Ciencia Sea could possibly just refer to the region around the archipelago, like the Carribean or the Sea of Japan
+      * it's also unclear whether Saint Cerise is a city on the continent (like Miami) or just on a bigger, more populated island (like Nassau)
 
 
 

@@ -1488,7 +1488,7 @@ EV_0_S06_breakfast
 0x195ec	0x98	Signa		But Nayuta... Once he's like this,	
 				he seriously can't hear people	
 				speaking directly to him.	
-0x196a3	0x98	Signa		Stop fooling around. I wanna	
+0x196a3	0x98	Signa		Quit fooling around. I wanna	
 				get a good look at it too.	
 0x19712	0x98	Asa	#6A	Hehe, it seems you'd better	
 				wait your turn.	
@@ -1503,10 +1503,10 @@ EV_0_S06_breakfast
 				time since I saw that starry-eyed	
 				face of yours, Nayuta.	
 0x19dbe	0x98	Signa		Well, to be honest, that
-				scenery is pretty awesome,	
+				scenery IS pretty awesome,	
 				so I get how you feel.	
 0x19e83	0x98	Signa		If that tower really exists,	
-				I want to see it too, but...	
+				I wanna see it too, but...	
 0x19ef3	0xBC	Signa		Ellipsis	
 0x19f4f	0x98	ALTO	#6A	...What's wrong, Cygna?	
 0x19ff5	0x98	Signa		No, it's nothing.	
@@ -1710,7 +1710,7 @@ EV_0_S16_noi_wakeup
 0x1e489	0x98	NOI		Oh, no...
 				I-It can't be...		
 0x1e4ce	0x98	NOI		...Zext! I can't believe that he	
-				would chase me all the way here...!	
+				would pursue me all the way here...!	
 0x1e546	0x06	Signa		ANI_WAIT3	
 0x1e58d	0x98	Signa		...Zext...	
 0x1e5e0	0x98	ALTO	#6A	That's, umm... That's the name	

@@ -1232,7 +1232,7 @@ QS_01_quest_end
 				regardless of whether or not I	
 				forgot on purpose!!	
 0x12463	0x6B	ALTO		Sweatdrop	
-0x12495	0x06	ALTO		ANI_SCRATCH_HEAD,
+0x12495	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x124c3	0x98	ALTO	#6A	(It's probably best to just	
 				 leave it at that...)	
 0x12511	0x98	Dorado		Hahaha... A-Anyway,	
@@ -1316,7 +1316,7 @@ QS_11_fourth_hint
 				beneath a vehicle for setting off on a journey.
 0x13c13	0x06	Dorado		ANI_SURPRISE	
 0x13c3f	0x98	Dorado		Wh-When did that get there...!?	
-0x13c90	0x98	Dorado		Vel wrote these...? I did just	
+0x13c90	0x98	Dorado		Vel wrote this...? I DID just	
 				talk to her a minute ago...	
 0x13cea	0x98	Dorado		...To think that she stuck these on my back!	
 0x13d4e	0x06	ALTO		ANI_SCRATCH_HEAD	
@@ -1428,7 +1428,7 @@ QS_12_ask_reason
 				as yourself will be able to pick a better	
 				gift than a country bumpkin like me.	
 0x153fd	0x06	ALTO		ANI_LAUGH	
-0x15424	0x98	ALTO	#6A	Haha, I don't think like I'm	
+0x15424	0x98	ALTO	#6A	Haha, I don't think I'm	
 				THAT different from you...	
 0x15485	0x98	ALTO	#6A	But if it's just looking	
 				for something, I can try.	
