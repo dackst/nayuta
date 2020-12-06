@@ -1062,14 +1062,14 @@ talk_Ursaminor
 talk_Camelope
 0xeff6	0x98	Camelope		Now then... Now that I've had some rest,	
 				Let's go see how that girl lives her life.	
-0xf064	0x98	Camelope		That one of the esteemed House	mp_0003 0x59e0
-				of Camelope would run away and hide
+0xf064	0x98	Camelope		That someone would run away from the	mp_0003 0x59e0	
+				esteemed Camelope mansion to hide	
 				on this hick island! Preposterous!
 0xf0ec	0x98	Camelope		Shall we return her to her	mp_0003 0x5aa4
 				family home right away?
 0xf174	0x98	Camelope		Oh my, how pitiful...	mp_0003 0x5b26
-				One of the esteemed House of Camelope
-				would hide out on this hick island.
+				Running from the esteemed Camelope mansion	
+				to hide out on this hick island.	
 0xf213	0x98	Camelope		Shall we return her to her	mp_0003 0x5aa4
 				family home right away?
 0xf2af	0x98	Camelope		It's good to know how Sasha feels.	
@@ -1101,13 +1101,13 @@ talk_Camelope
 0xf842	0x98	Camelope		And that girl's become even more of	
 				a tomboy than before she ran away.	
 0xf8c1	0x98	Camelope		I just wish she'd have some sense	
-				as the daughter of the noble	
-				House of Camelope.	
+				as the daughter of the great	
+				Camelope family.	
 0xf953	0x98	Camelope		And that girl's become even more of	mp_0112 0xf842
 				a tomboy than before she ran away.
 0xf9d2	0x98	Camelope		I just wish she'd have some sense	mp_0112 0xf8c1
-				as the daughter of the noble
-				House of Camelope.
+				as the daughter of the great	
+				Camelope family.
 talk_Norma
 0xfa6a	0x98	Norma		(Milady...	mp_0003 0x5ffd
 				 I hope you are well.)

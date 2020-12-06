@@ -243,14 +243,14 @@ talk_Camelope
 0x598f	0x98	Camelope		...This is the Remnant	
 				Island where she lives?
 				Oh my, how pitiful...	
-0x59e0	0x98	Camelope		That one of the esteemed House of	
-				Camelope would run away and hide	
+0x59e0	0x98	Camelope		That someone would run away from the	
+				esteemed Camelope mansion to hide	
 				on this hick island! Preposterous!	
 0x5aa4	0x98	Camelope		Shall we return her to her	
 				rightful home at once?	
 0x5b26	0x98	Camelope		Oh my, how pitiful...	
-				One of the esteemed House of Camelope	
-				would hide out on this hick island.	
+				Running from the esteemed Camelope mansion	
+				to hide out on this hick island.	
 0x5bbd	0x98	Camelope		Let's return her to her	
 				rightful home at once, huh?		
 talk_Norma
@@ -1049,10 +1049,10 @@ QS_34_undertake
 				Ahem, then...	
 0x101e6	0x06	Norma		ANI_TALK3	
 0x1020e	0x98	Norma	#6A	The task I require is regarding a	
-				complex family feud within the House	
-				of Camelope, of which I am of service.		
+				complex feud within the Camelope	
+				family, of which I am of service.		
 0x10286	0x98	Norma	#6A	...It concerns the head of the	
-				House, Mistress Camelope, and	
+				family, Mistress Camelope, and	
 				her granddaughter, Lady Sasha.	
 0x10319	0x6B	ALTO		Surprise	
 0x1034b	0x06	ALTO		ANI_THINK	
@@ -1063,9 +1063,9 @@ QS_34_undertake
 0x1042f	0x06	Norma		ANI_NOD	
 0x10455	0x98	Norma	#6A	Yes, that is correct.	
 0x1048c	0x06	Norma		ANI_GESTURE2	
-0x104b7	0x98	Norma	#6A	Lady Sasha is the rightful daughter of the	
-				House of Camelope, one of the most prominent	
-				noble families on the continent.	
+0x104b7	0x98	Norma	#6A	Lady Sasha is the rightful daughter of	
+				the Camelope family, one of the most	
+				distinguished families on the continent.	
 0x1053d	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1056c	0x98	ALTO		Oh, wow. I knew she was from	
 				the continent, but...	
@@ -1082,9 +1082,9 @@ QS_34_undertake
 0x10765	0x98	Norma	#6A	As the only child, Milady was trained	
 				since her birth to assume the role of	
 				the next head of the family.  	
-0x1080f	0x98	Norma	#6A	The Mistress would have loved	
-				nothing more than for her to grow	
-				into a proper noblewoman, but...	
+0x1080f	0x98	Norma	#6A	The Mistress would have loved nothing	
+				more than for her to grow up to	
+				become a proper young lady, but...	
 0x10893	0x06	Norma		ANI_WAIT0	
 0x108bb	0x98	Norma	#6A	She was very strict, so I felt as	
 				though Milady was always unhappy.	
@@ -1130,8 +1130,8 @@ QS_34_undertake
 0x1104f	0x06	ALTO		ANI_GESTURE2	
 0x11079	0x98	ALTO		It won't be easy, but...	
 				I'll try to do as much as I can.	
-0x110da	0x98	ALTO		(I mean, it's like the future of a great noble	
-				 house is at stake. This might be the biggest	
+0x110da	0x98	ALTO		(I mean, it's like the future of some prominent	
+				 family is at stake. This might be the biggest	
 				 job we've had since starting the Handyman Shop...)	
 0x11186	0x06	ALTO		ANI_THINK2	
 0x111ae	0x98	ALTO		Umm, well, it might be a good idea to try	

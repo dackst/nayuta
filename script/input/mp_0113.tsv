@@ -474,27 +474,27 @@ talk_Camelope
 				as to prepare a marriage partner for Sasha.	
 0x6763	0x98	Camelope		Because Sasha is an adult, she will	
 				find her own partner by herself.	
-0x67c0	0x98	Camelope		...However, as the daughter of a noble family,	
-				there is a prerequisite that she chooses a	
-				suitor that will not embarrass us.	
+0x67c0	0x98	Camelope		...However, as the daughter of a prominent family,	
+				there is a prerequisite that she chooses a suitor	
+				that will not embarrass us.	
 0x6844	0x98	ALTO		(Wow, Sasha has it rough...)	
 0x68a8	0x98	Camelope		Because Sasha is an adult, she will	mp_0113 0x6763
 				find her own partner by herself.
-0x6905	0x98	Camelope		...However, as the daughter of a noble family,	mp_0113 0x67c0
-				there is a prerequisite that she chooses a
-				suitor that will not embarrass us.
+0x6905	0x98	Camelope		...However, as the daughter of a prominent family,	mp_0113 0x67c0	
+				there is a prerequisite that she chooses a suitor	
+				that will not embarrass us.
 0x69bd	0x98	Camelope		Because Sasha is an adult, she will	mp_0113 0x6763
 				find her own partner by herself.
-0x6a1a	0x98	Camelope		...However, as the daughter of a good family,	mp_0113 0x67c0
-				there is a prerequisite that she chooses a
-				suitor that will not embarrass us.
+0x6a1a	0x98	Camelope		...However, as the daughter of a prominent family,	mp_0113 0x67c0	
+				there is a prerequisite that she chooses a suitor	
+				that will not embarrass us.
 0x6aa8	0x98	Camelope		Unlike before, I will not be so arrogant	mp_0113 0x66ef
 				as to prepare a marriage partner for Sasha.
 0x6b1c	0x98	Camelope		Because Sasha is an adult, she will	mp_0113 0x6763
 				find her own partner by herself.
-0x6b79	0x98	Camelope		...However, as the daughter of a noble family,	mp_0113 0x67c0
-				there is a prerequisite that she chooses a
-				suitor that will not embarrass us.
+0x6b79	0x98	Camelope		...However, as the daughter of a prominent family,	mp_0113 0x67c0	
+				there is a prerequisite that she chooses a suitor	
+				that will not embarrass us.
 0x6bfd	0x98	ALTO		(Wow, Sasha has it rough...)	mp_0113 0x6844
 0x6c8d	0x98	Camelope		She's a stubborn little girl who	
 				refuses to listen to me because she	
@@ -527,8 +527,8 @@ talk_Camelope
 				other people, there's nothing we can do.	
 				I think we should give up for today.
 0x7264	0x98	Camelope		However, the fact that Sasha is	
-				still the heir to the House of	
-				Camelope will not change.	
+				still the heir to the Camelope	
+				family will not change.	
 0x72da	0x98	Camelope		Hmph... I can only hope she will	
 				be more aware of the impact of	
 				her actions in the future.	
@@ -964,7 +964,7 @@ QS_34_quest_end
 0xd4b8	0x06	Camelope		ANI_NOD	
 0xd4e1	0x98	Camelope	#6A	Hehe, I think I will.	
 0xd51d	0x06	Camelope		ANI_DIRECT	
-0xd549	0x98	Camelope	#6A	Us Camelopes are a great merchant house to 	
+0xd549	0x98	Camelope	#6A	Us Camelopes are a great merchant family to 	
 				begin with. If you turn out to be managing some	
 				half-assed establishment, I won't forgive you.	
 0xd5fd	0x98	Camelope	#6A	Oh, Norma. It has been a long	
@@ -1006,7 +1006,7 @@ QS_34_quest_end
 0xe183	0x06	Norma		ANI_GESTURE2	
 0xe1ae	0x98	Norma		However, Mistress Camelope felt	
 				that Milady was neglecting the	
-				House, and ignored them...	
+				family, and ignored them...	
 0xe22c	0x98	ALTO	#6A	I see...	mp_0001 0xcecd
 0xe25c	0x06	Sasha		ANI_LAUGH	
 0xe284	0x98	Sasha		Heh, it wasn't such a big deal	
