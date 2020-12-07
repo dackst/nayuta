@@ -894,7 +894,7 @@ QS_81_undertake
 				it up in order of the seasons."	
 0xfcef	0x06	NOI		ANI_GESTURE1	
 0xfd18	0x98	NOI	#6A	It probably means to shower	
-				it in the Power of Stars most	
+				it in the astral power most	
 				attuned to each season.	
 0xfd88	0x98	NOI	#6A	The Mitos created a device called	
 				the Astrolabe that is able to to	
@@ -906,13 +906,13 @@ QS_81_undertake
 				of setting up something like that, there	
 				must be something important inside.	
 0xfee1	0x98	ALTO		...But, what can we do?	
-				We can't manipulate the	
-				Power of Stars.	
+				We can't manipulate	
+				astral power.	
 0xff42	0x06	NOI		ANI_GESTURE1	
 0xff6b	0x98	NOI	#6A	All right, then...	
 0xffa2	0x98	NOI	#6A	Then we should probably search	
-				for the "power stations" of the	
-				Power of Stars.	
+				for the "power stations" of	
+				astral power.	
 0x1000d	0x06	ALTO		ANI_GESTURE2	
 0x10037	0x98	ALTO		"Power stations?"	
 0x1007e	0x06	Aulbath		ANI_THINK	
@@ -921,8 +921,8 @@ QS_81_undertake
 0x1012c	0x98	NOI	#6A	It's a part of the knowledge	
 				the old Noi passed down to me.
 0x10190	0x98	NOI	#6A	In each of Terra's four continents, there	
-				are places where the Power of Stars is	
-				stronger than the surrounding environment...	
+				are places where the astral power is	
+				stronger than the surrounding area...	
 0x10230	0x98	NOI	#6A	If we use places like that,	
 				we can simulate changing	
 				the seasons for the device.

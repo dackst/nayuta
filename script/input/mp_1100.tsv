@@ -246,11 +246,11 @@ EV_1_S07_temple_front
 				rising into the sky everywhere...	
 0x4214	0x06	ALTO		ANI_USE_SEXTANT_END	
 0x4308	0x98	ALTO		Noi, what the heck are they?	
-0x43c3	0x98	NOI	#6A	That's... the Power of Stars.	
+0x43c3	0x98	NOI	#6A	That's... astral power.	
 0x440c	0x6B	ALTO		Question	
 0x443e	0x6B	Signa		Question	
 0x4471	0x06	ALTO		ANI_THINK2	
-0x4499	0x98	ALTO		The Power...of Stars?	
+0x4499	0x98	ALTO		Astral...power?	
 0x44d6	0x06	Signa		ANI_GESTURE1	
 0x4501	0x98	Signa		Again you're throwing	
 				around terms we've	
@@ -260,7 +260,7 @@ EV_1_S07_temple_front
 				to this world of Terra.	
 0x45e9	0x06	ALTO		ANI_WAIT	
 0x460f	0x98	NOI	#6A	Temples are places used to harness	
-				the Power of Stars and control it...	
+				astral power and control it...	
 0x4670	0x06	NOI		ANI_DENY	
 0x4695	0x98	NOI	#6A	Well... Let's ignore some of the	
 				theoretical details, they're not	
@@ -284,7 +284,7 @@ EV_1_S07_temple_front
 0x4db2	0x98	Signa	#6A	...It stopped...?	
 0x4e75	0x98	ALTO		...You said that light	
 				around the temple was	
-				the Power of Stars?	
+				astral power?	
 0x4edb	0x06	ALTO		ANI_GESTURE2	
 0x4f05	0x98	ALTO		Looks like it disappeared...	
 0x4f53	0x6B	NOI		Unknown	
@@ -293,10 +293,10 @@ EV_1_S07_temple_front
 				function in case something goes wrong.	
 0x508a	0x06	NOI		ANI_COMPLAIN	
 0x50b3	0x98	NOI	#6A	Zext used the Master Gear to cut	
-				off the supply of Power of Stars!	
+				off the supply of astral power!	
 0x5136	0x06	Signa		ANI_GESTURE2	
 0x5161	0x98	Signa		...What happens if the	
-				Power of Stars stops?	
+				astral power stops?	
 0x51ef	0x98	NOI	#6A	I guess... Major abnormalities will
 				arise throughout the continent.	
 0x527e	0x98	NOI	#6A	More extreme weather than before,	
@@ -308,8 +308,8 @@ EV_1_S07_temple_front
 0x53f4	0x06	ALTO		ANI_COMPLAIN	
 0x541e	0x98	ALTO		Th-This beautiful place...!?	
 0x5466	0x06	Signa		ANI_WAIT3	
-0x548e	0x98	Signa		Sounds like this Power of Stars	
-				stuff is pretty powerful...	
+0x548e	0x98	Signa		Sounds like this astral power	
+				stuff is pretty important...	
 0x5504	0x6B	Signa		Ellipsis	
 0x5574	0x06	Signa		ANI_WAIT	
 0x559b	0x98	Signa		Noi, what can we do to	

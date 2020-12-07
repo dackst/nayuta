@@ -55,7 +55,7 @@ EV_6_S18_search_key
 				an ancient continent.	
 0x1fe8	0x40	NOI		There are four "Pillars" here	
 				that supply each continent	
-				with the Power of Stars.	
+				with astral power.	
 0x20dd	0x06	ALTO		ANI_NOD	
 0x2102	0x98	ALTO		I see, so that's how it works...	
 0x2152	0x06	ALTO		ANI_COMPLAIN	
@@ -76,8 +76,8 @@ EV_6_S18_search_key
 				to Terra are stored in the	
 				lower-most stratum.	
 0x25d9	0x06	NOI		ANI_GESTURE2	
-0x2602	0x98	NOI	#6A	A great body of crystallized Power of	
-				Stars to be used for the Recreation...	
+0x2602	0x98	NOI	#6A	A great body of crystallized astral	
+				power to be used for the Recreation...	
 0x2676	0x06	NOI		ANI_COMPLAIN	
 0x269f	0x98	NOI	#6A	It seems like Zext is	
 				trying to start it!	

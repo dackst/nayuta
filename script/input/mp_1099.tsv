@@ -18,14 +18,14 @@ talk_Gio
 0x17fd	0x98	Gio		Leave this place to me.	
 				You should climb Heliograd!	
 0x1884	0x98	Gio		Since each continent's temple was shut	
-				down, it seems that all the Power of	
-				Stars is flowing into Heliograd.	
+				down, it seems that all the astral	
+				power is flowing into Heliograd.	
 0x1909	0x98	Gio		So this was his true objective...	
 0x1953	0x98	Gio		Anyhow, I will try looking for a	
 				way to stop the flow of power.	
 0x19b5	0x98	Gio		You should save Nemeas!	
 0x1a13	0x98	Gio		From our temples, we will try looking	
-				for a way to stop the Power of Stars	
+				for a way to stop the astral power	
 				from flowing into the tower.	
 0x1a92	0x98	Gio		You should save Nemeas!	mp_1099 0x19b5
 0x1b18	0x98	Gio		Mmhmm, it seems that you have	
@@ -104,7 +104,7 @@ talk_Gio
 				things flying around?	
 0x2903	0x98	NOI		Those are Geo's nymphs.	
 0x293c	0x98	Gio		They are spiritual beings brought	
-				forth by the great Power of Stars	
+				forth by the great astral power	
 				from within the continent.	
 0x29c0	0x98	Gio		They cannot speak, but they are	
 				very hard workers. They've always	
@@ -1064,7 +1064,7 @@ EV_1_S08_vs_seram
 0x11e3c	0x98	Signa	#240x#270y	Is that the altar over there...?	
 				Looks like the Master Gear is there too.	
 0x11eaa	0x98	Signa	#240x#270y	I'm told that because you guys	
-				cut off the Power of Stars, the	
+				cut off the astral power, the	
 				continent is in real trouble.	
 0x11f28	0x98	Signa	#240x#270y	The hell was the point of that?	
 				This is your world too, isn't it?		

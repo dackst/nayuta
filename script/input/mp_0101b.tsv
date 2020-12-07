@@ -182,7 +182,7 @@ EV_5_S02_talk_noi
 				something changed on Terra.	
 0x37a5	0x06	NOI		ANI_GESTURE1	
 0x37ce	0x98	NOI		Because the four temples have shut down,	
-				all the Power of Stars from each of the	
+				all the astral power from each of the	
 				continents is flowing into the Garden.	
 0x3862	0x06	NOI		ANI_DENY	
 0x3887	0x98	NOI		No, to be more precise...	
@@ -193,7 +193,7 @@ EV_5_S02_talk_noi
 				Selam said...	
 0x39f3	0x3F	Name		Selam	
 0x3a00	0x40	ALTO		Once we shut down this temple, the	mp_4100 0x18b4
-				Power of Stars from every continent
+				astral power from every continent
 				will flow into a single focal point...
 0x3a8d	0x40	ALTO		Concluding the first step in	mp_4100 0x193d
 				releasing the seal on Terra.
@@ -205,8 +205,8 @@ EV_5_S02_talk_noi
 0x3d36	0x06	NOI		ANI_NOD	
 0x3d5a	0x98	NOI	#6A	...No doubt about it.	
 0x3d91	0x98	NOI	#6A	Heliograd is the central structure	
-				that delivers the Power of Stars	
-				to all of this world...	
+				that delivers astral power to all	
+				of this world...	
 0x3e09	0x06	NOI		ANI_GESTURE1	
 0x3e32	0x98	NOI	#6A	Lady Creha, the final key,	
 				is probably there, along	

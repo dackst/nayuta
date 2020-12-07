@@ -218,7 +218,7 @@ EV_2_S13_use_astrolabe
 0x8d8b	0x98	NOI	#6A	All right... That should have	
 				taken care of the abnormal	
 				conditions in Oltapia.	
-0x8dea	0x98	NOI	#6A	The Power of Stars at the	
+0x8dea	0x98	NOI	#6A	The astral power at the	
 				temple is still cut off,	
 				and I can't seem to fix it...	
 0x8e6d	0x98	NOI	#6A	But there's no other side effects,	
@@ -256,15 +256,15 @@ EV_2_S13_use_astrolabe
 				tracking a living person alone.	
 0x99e8	0x06	NOI		ANI_THINK	
 0x9a0e	0x98	NOI	#6A	Hmm, basically...	
-0x9a48	0x98	NOI	#6A	It makes use of the Power	
-				of Stars in the world.	
+0x9a48	0x98	NOI	#6A	It makes use of the astral	
+				power in the world.	
 0x9acc	0x06	ALTO		ANI_GESTURE2	
-0x9b1c	0x98	ALTO		This Power of Stars,	
-				does it come from the	
-				Oltapia temple?	
+0x9b1c	0x98	ALTO		This astral power,	
+				does it come from	
+				the Oltapia temple?	
 0x9b79	0x06	NOI		ANI_GESTURE1	
-0x9ba2	0x98	NOI	#6A	Umm... The Power of Stars	
-				is the source of all life.	
+0x9ba2	0x98	NOI	#6A	Umm... Astral power is	
+				the source of all life.	
 0x9c00	0x98	NOI		Not just for animals, for everything.	
 				The trees, the water, the wind,	
 				and the ground.	
@@ -272,9 +272,9 @@ EV_2_S13_use_astrolabe
 				everything in the entire world.	
 0x9cb3	0x06	ALTO		ANI_THINK	
 0x9d1e	0x98	ALTO		The world is made of...	
-0x9d5e	0x98	NOI		The Astrolabe can weave together	
-				the Power of Stars in order to	
-				manipulate the climate...	
+0x9d5e	0x98	NOI		The Astrolabe can manipulate	
+				astral power in order to	
+				control the climate...	
 0x9dd2	0x98	NOI	#6A	It can also be used to detect	
 				all life on each continent.	
 0x9e39	0x06	ALTO		ANI_THINK2	
@@ -676,7 +676,7 @@ EV_8_S08_emergency_al
 				the Astrolabe.#0E	
 0x14930	0x41	None	#0W#995c#1E	The extensive repairs took some time,	
 				but they made steady progress by	
-				twisting the Power of Stars .#0E	
+				using astral power.#0E	
 0x149f1	0x41	None	#0W#995c#1E	They succeeded in restoring part	
 				of its functionality, but...#0E	
 0x14a96	0x41	None	#0W#995c#1E	Then, a problem occurred.#0E	
@@ -691,7 +691,7 @@ EV_8_S08_emergency_al
 				the Mitos.#0E	
 0x15377	0x41	None	#0W#995c#1E	A subspace exists inside the Astrolabe,	
 				formed by the vast amount of	
-				Power of Stars contained within...#0E	
+				astral power contained within...#0E	
 0x15422	0x41	None	#0W#995c#1E	In that "Inner World"	
 				they placed their own souls.#0E	
 0x154b0	0x41	None	#0W#995c#1E	They did so in an attempt to	
@@ -1104,7 +1104,7 @@ EV_4_S26_set_gear_4th
 0x20860	0x06	Signa		ANI_WAIT3	
 0x20888	0x98	Signa	#6A	...Maybe it's because all of	
 				the temples were disabled.	
-0x208e5	0x98	Signa	#6A	I mean... the Power of Stars	
+0x208e5	0x98	Signa	#6A	I mean... the astral power	
 				or whatever has gone haywire
 				everywhere, right?	
 0x2095d	0x98	NOI	#0W	Um, I guess so, but...	

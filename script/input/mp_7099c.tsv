@@ -48,7 +48,7 @@ EV_7_S14_battle_zext
 				#16Sand then come back like this!?	
 0x1c46	0x98	Zext	#1W	.......	mp_0001 0xc917
 0x1c78	0x98	Zext		...When we Mitos lose our lives,	
-				we dissolve into the Power of Stars.	
+				we dissolve into astral power.	
 0x1ced	0x98	Zext		That is... We assimilate	
 				into the universe itself.	
 0x1d43	0x98	Zext		Even after death, I continued	
@@ -184,7 +184,7 @@ EV_7_S15_last_battle
 0x5b86	0x98	Creha	#0W	...Nayu...ta...?	
 				...Noi...?	
 0x5bcd	0x06	NOI		ANI_GOODIDEA	
-0x5bf6	0x98	NOI	#N	The Power of Stars that was	
+0x5bf6	0x98	NOI	#N	The astral power that was	
 				stripped by Zext is returning!!	
 0x5c6f	0x98	Creha	#1W	...Oh... I knew you	
 				two would save me...	
@@ -464,8 +464,8 @@ EV_7_S18_go_astrolabe
 0xdd00	0x98	NOI	#6A	Wh-What can we do!?	mp_2099 0x4f2e
 0xdd3f	0x06	Signa		ANI_GESTURE2	
 0xdd89	0x98	Signa		What can we do to lend a hand?	
-0xddbb	0x98	Signa		Maybe we can manipulate the	
-				Power of Stars, and then...!	
+0xddbb	0x98	Signa		Maybe we can use astral	
+				power, and then...!	
 0xde7d	0x06	Creha		ANI_THINK	
 0xdead	0x98	Creha	#1W	.....	mp_0000d 0x70fd
 0xdf0a	0x98	Creha		...It's no good, there's not enough...	
@@ -502,8 +502,8 @@ EV_7_S18_go_astrolabe
 				the Astrolabe!?	
 0xe7c0	0x98	NOI	#6A	The... Astrolabe...?	
 0xe7f8	0x06	ALTO		ANI_GESTURE1	
-0xe822	0x98	ALTO		The Astrolabe can use the	
-				Power of Stars to control	
+0xe822	0x98	ALTO		The Astrolabe can use	
+				astral power to control	
 				the environment, right!?	
 0xe887	0x98	ALTO		Couldn't we use it to stop	
 				the core from breaking down!?	
@@ -544,7 +544,7 @@ EV_7_S18_go_astrolabe
 				planet with the Astrolabe!	
 0xf45c	0x98	NOI	#6A	Meanwhile, we could also	
 				send in the Planetarium's	
-				Power of Stars...	
+				astral power...	
 0xf4c9	0x98	NOI	#6A	Not only could we stop the world	
 				from ending, we might be able to	
 				restore the planetary core as well!!	

@@ -1130,9 +1130,9 @@ EV_2_S30_talk_creha
 0x18d26	0x98	NOI	#6A	And she must have used her power	
 				while still barely conscious.	
 0x18d81	0x98	NOI	#6A	Since the Mitos are a race that	
-				can control the Power of Stars...	
+				can control astral power...	
 0x18df5	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x18e24	0x98	ALTO	#6A	Control the Power of Stars!?	
+0x18e24	0x98	ALTO	#6A	Control astral power!?	
 0x18e66	0x98	ALTO	#6A	(In that case, it explains how	
 				 they created the Astrolabe, but...)	
 0x18efe	0x98	NOI	#6A	Nayuta, I'm sorry, but...	
@@ -1329,7 +1329,7 @@ EV_3_S24_meet_gio
 				has been useless.	
 0x1d42c	0x06	Gio		ANI_GESTURE2	
 0x1d455	0x98	Gio		She must be feeling confused by her	
-				abilities over the Power of Stars.	
+				abilities over astral power.	
 0x1d4ed	0x98	NOI	#6A	...I'm concerned.	
 0x1d551	0x98	Gio		But in any case, we have no choice	
 				but to support those around us.

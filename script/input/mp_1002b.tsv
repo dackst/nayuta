@@ -76,7 +76,7 @@ QS_81_check_altar
 				the place, but...	
 0x27a4	0x98	NOI		I see... The lock should detect	
 				areas like this, filled with	
-				the Power of Stars.	
+				astral power.	
 0x2817	0x98	NOI		But I think we're not	
 				doing something right.	
 0x2863	0x98	ALTO		If I remember correctly, didn't it say,	
@@ -108,9 +108,9 @@ QS_81_hang_out_box
 0x3153	0x98	ALTO		But still... this must be an amazing device
 				to react to the changing of the seasons.	
 0x31be	0x06	NOI		ANI_GESTURE1	
-0x31e7	0x98	NOI	#6A	Devices that sense the Power of Stars...	
-				Seems like you can find them all over	
-				the place in Terra.	
+0x31e7	0x98	NOI	#6A	Devices that sense astral power...	
+				Seems like you can find them all	
+				over the place in Terra.	
 0x3279	0x98	NOI	#6A	The Mitos might have used them	
 				on a daily basis in the past.	
 0x32e0	0x06	ALTO		ANI_NOD	

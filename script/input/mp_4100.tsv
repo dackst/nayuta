@@ -40,8 +40,8 @@ EV_4_S10_meet_seram
 				shut down this temple?	
 0x1823	0x06	Seram		ANI_NOD	
 0x1849	0x98	Seram		That's right.	
-0x18b4	0x98	Seram		Once we shut it down, the Power of	
-				Stars from every continent will	
+0x18b4	0x98	Seram		Once we shut it down, the astral	
+				power from every continent will	
 				flow into a single focal point...	
 0x193d	0x98	Seram		Concluding the first step in	
 				releasing the seal on Terra.	
@@ -141,8 +141,8 @@ EV_4_S15_temple4_front
 				like always...	
 0x336c	0x06	ALTO		ANI_GESTURE1	
 0x3396	0x98	ALTO	#6A	Looks like the flow of	
-				the Power of Stars	
-				hasn't stopped yet.	
+				astral power hasn't	
+				stopped yet.	
 0x3441	0x06	NOI		ANI_GESTURE2	
 0x346a	0x98	NOI		Now let's hurry and	
 				go after Lord Selam!	

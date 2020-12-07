@@ -125,7 +125,6 @@ Like before, this section mostly served so that *I* could keep these things cons
 * inconsistent capitalization, esp. for special terms that are originally always used in "quotes" or 《brackets》 in Japanese:
   * should now be always capitalized
     * proper names: Garden (specific location), contintental epithets (Forest Continent, etc.), the End of the World/End (a specific location/border)
-    * the Power of Stars
     * items that appear in your inventory
   * should now be always decapitalized (outside of dungeon names, etc.): 
     * "arts", "crafts", "mira", "star shard", "shard", "shining stone", "selge", "ruins", "temple", "warden", season names (spring, summer, autumn, winter), "seal", "final key", "key"
@@ -185,7 +184,6 @@ Like before, this section mostly served so that *I* could keep these things cons
 * gender issues 
   * Nimeas should now always be female
   * Cory should now always be male
-  * remove the "Mrs." in front of the older female adults' names in things like dialogue boxes (none of the male adults have a "Mr.", "Master", or any other sort of generic English title or honorific)
   * the animals Mishy and Nora (the dog) are now referred to by those that know them using male and female pronouns, respectively, rather than being (almost) always genderless.
 
 * transfer/transport(er) gate/device -> "transfer gate" should now exclusively refer to the large physical gates you walk through, and "teleporter device" for the small pads on the ground
@@ -228,10 +226,9 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * Nayuta and Cygna fight with swords, but don't exactly seem to use fencing swords like laxia in Ys VIII
 
 * Mythos -> Mitos 
-  * rather than have a race named after a random English word, (oh so they're named Mythos because they're an ancient, mythical race? okay, that would be like Charlemagne declaring himself the king of the Medievals), use a random (non-English) Greek word instead. apparently means "warp thread", like the root for the word "mitosis".  
-  Although by all likelihood what I'm doing to Greek is what the the Japanese text did to English, at least the rest of the text isn't also Greek. (There are some mythology references, including Greek, in the Terran monsters, though.) 
+  * rather than have a race named after a random English word, (oh so they're named Mythos because they're an ancient, mythical race? okay, that would be like Charlemagne declaring himself the king of the Medievals), use a random (not shared with English) Greek word instead. apparently means "warp thread", like the root for the word "mitosis". It also still means "myths" in Spanish and Portuguese.  
+  Although by all likelihood what I'm doing to Greek (and Spanish) is what the the Japanese text did to English, at least the rest of the text isn't also Greek (or Spanish).
   * connection with mitosis could relate to their apparent ability to create, resurrect, and manipulate life. 
-  * still means "myths" in Spanish and Portuguese
   * Possibly related that hajimari no kiseki [promo art](https://static.wikia.nocookie.net/kiseki/images/8/80/Key_Visual_(Hajimari).jpg) shows the grandmaster with similar white hair and holding some kind of yarn
     * even if they do ultimately turn out to be unrelated to the grandmaster, both could still be a reference to similar immortal beings who exert control over the destiny of the world and its life with [thread-related powers](https://en.wikipedia.org/wiki/Moirai). 
   * maybe sprinkle in some fun veiled sewing metaphors: "cut short", "thread of history/fate", "weave/twist", "seams"
@@ -246,6 +243,13 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * removes overlap between "spirit" referring to both the little sprite-like followers of the Wardens and the non-corporeal ghost-like forms characters take at some points
   * "nymph" fits with the whole "personifications of nature, typically tied to a specific place or landform"
 * Remake/Remaking -> Recreate/Recreation, and not necessarily always capitalized
+* Power of Stars -> astral power
+  * see [here](https://kiseki.fandom.com/wiki/Mythus) (though I still have the same problem with "Mythus" as "Mythos", being also a word that exists in English) and [here](https://en.wiktionary.org/wiki/astral#English) (all three definitions could now relate somehow)
+  * stuff like [this](https://en.wikipedia.org/wiki/Astral_plane) seems to heavily inspire Falcom's cosmology
+  * also considered: star/planetary/celestial/cosmic power/force/energy
+    * from what we're shown, it really seems to have nothing to do with actual stars and is more of a universal life-granting power like [the Force](https://en.wikipedia.org/wiki/The_Force) It would make just as much sense to replace "Power of Stars" with "the Force" if this game were to somehow share a universe with Star Wars.
+    * if it was "planetary" (alternate translation of word for star), it could be interpreted to mean it is derived from the planet itself, and could possibly explain why their race might want to fix the old planet instead of living on an artifical replacement like Terra
+    * i'm still shaky on using "power" vs "energy"
 
 * earth/Earth/surface (or surface world) -> surface, world, or planet
   * originally *almost* always translated as "surface", but it seems weird to always specifically refer the surface of a planet rather than just the whole planet itself (especially when you can eventually see for yourself that a lot more than just the surface of the planet has been affected by things, and most who actually knew it was a planet in the first place already knew this)
@@ -408,7 +412,7 @@ The bosses you fight throughout the story are supposed to be related somehow to 
 More monster changes:
 
 * Gurupus -> Garupus (a bird, so I thought of Garuda. I might be wrong in this case)
-* Incense -> Innocence (a being made *purely* from this whole Power of Stars, source of all life stuff)
+* Incense -> Innocence (a being made *purely* from this whole source of all life stuff)
 * Encent Mage -> Ancient Mage
 * Bullmajiro -> Bullmadillo (a charging armadillo)
 * Bullgatorio -> Purgatorio (I don't know where the bull comes from here, it's just a dragon)
@@ -439,8 +443,6 @@ More monster changes:
 
 
 ### tentative/unsure/wanted to change at some point
-
-* the Power of Stars -> (the?) Power of the Stars, star power? astral energy? celestial power?
 
 * implement spicier wording
   * use more technobabblesque phrasing from people familiar with Terra
@@ -490,7 +492,8 @@ More monster changes:
 
 * (N.S.) - I previously removed this because I wanted to avoid [real world references](https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates), same as how the original translation would sometimes call the surface "Earth." However, this one might also serve as a hint that there are at least [two calendar systems](#zemuria-references) currently in use.
 
-* Riesewald - Riese[woerd](https://en.wikipedia.org/wiki/Terp) or some other variation (instead of Wald, meaning "forest" when that continent has no forests)
+* Rieseweld - Riese[woerd](https://en.wikipedia.org/wiki/Terp) or some other variation (instead of something deriving from Wald, meaning "forest" when that continent has no forests)
+  * apparently there are [some](https://en.wiktionary.org/wiki/wold#English) [derivations](https://en.wiktionary.org/wiki/weald#English) that can also denote an *un*forested place
 
 ## technical notes
 

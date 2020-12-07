@@ -3,7 +3,7 @@ init
 EV_3_S14_temple3_front
 0x73e	0x06	ALTO		ANI_FIND	
 0x764	0x98	ALTO	#6A	There's the temple of Heimmel...	
-0x7b3	0x98	NOI	#6A	It looks like the Power of Stars	
+0x7b3	0x98	NOI	#6A	It looks like the astral power	
 				hasn't been cut off yet...	
 0x80c	0x98	NOI	#6A	Zext might have yet to reach the altar.	
 				...If we hurry, we should be able to catch up!	
@@ -50,7 +50,7 @@ EV_3_S14_temple3_front
 0x1678	0x6B	ALTO		Exclamation	
 0x16aa	0x98	ALTO	#0W#6A#16S	Noi, the temple...!!	
 0x17c9	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
-0x1998	0x98	NOI	#240x#270y	Ah, the Power of Stars stopped...!!	
+0x1998	0x98	NOI	#240x#270y	Ah, the astral power stopped...!!	
 0x1a90	0x98	Seram		Heh, as you can see...	
 				my business here is done.	
 0x1af2	0x98	Seram		I was going to return	

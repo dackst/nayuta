@@ -93,7 +93,7 @@ EV_5_S04_hear_many_voice
 0x21ea	0x41	None	#0W#2E#030c	Hmm... You seem to have	
 				found your next objective.#0E	
 0x2334	0x41	None	#0W#2E#310c	We will try searching for a way to	
-				stop the flow of the Power of Stars	
+				stop the flow of the astral power	
 				from our temples to the tower.#0E	
 0x23fc	0x41	None	#0W#2E#029c	We leave everything else up you two!#0E	
 0x24b4	0x06	ALTO		ANI_THANKS	
@@ -140,7 +140,7 @@ EV_5_S05_hear_neme_voice
 0x3317	0x41	None	#0W#2E#310c	Then, we will let you	
 				handle that task.#0E	
 0x339e	0x41	None	#0W#2E#310c	We will try searching for a way to	mp_5100 0x2334
-				stop the flow of the Power of Stars
+				stop the flow of the astral power
 				from our temples to the tower.#0E
 0x3466	0x41	None	#0W#2E#029c	Please look after Lady Creha	
 				for us, you two!#0E	

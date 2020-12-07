@@ -15,7 +15,7 @@
 0x3e4	name	Seventh Heaven
 0x3fc	desc	Sword created by the Mitos that can cut through space.
 0x470	name	Chrono Blade
-0x488	desc	Legendary blade of Terra made of purified Power of Stars.
+0x488	desc	Legendary blade of Terra made of purified astral power.
 0x4fc	name	Thousand Worlds Sword
 0x514	desc	Reward received from Master. Boasts unparalleled sharpness.
 0x588	name	
@@ -807,7 +807,7 @@
 0xdc74	name	
 0xdc8c	desc	
 0xdd00	name	Zemurian Ore
-0xdd18	desc	Ore that glistens like the stars. So hard that it cannot be processed.
+0xdd18	desc	Ore that glistens like the stars. Seemingly too hard to be processed.
 0xdd8c	name	
 0xdda4	desc	
 0xde18	name	
@@ -1573,7 +1573,7 @@
 0x1ade8	name	Deep Ore
 0x1ae00	desc	Heavy ultramarine ore. Bring to weapon shop for new goods.
 0x1ae74	name	Stellatite
-0x1ae8c	desc	Ore infused with Power of Stars. Bring to weapon shop.
+0x1ae8c	desc	Ore infused with astral power. Bring to weapon shop.
 0x1af00	name	Crimson Cocoon
 0x1af18	desc	Brightly colored silk. Bring to general store for new goods.
 0x1af8c	name	Silver Cocoon
@@ -1581,13 +1581,13 @@
 0x1b018	name	Bright Green Cocoon
 0x1b030	desc	Beautifully brilliant silk. Bring to general store for new goods.
 0x1b0a4	name	Stella Cocoon
-0x1b0bc	desc	Silk infused with Power of Stars. Bring to general store.
+0x1b0bc	desc	Silk infused with astral power. Bring to general store.
 0x1b130	name	Ripening Soil
 0x1b148	desc	Soft soil. Bring to farm for new goods.
 0x1b1bc	name	Good Harvest Soil
 0x1b1d4	desc	Rich, dark soil. Bring to farm for new goods.
 0x1b248	name	Stella Soil
-0x1b260	desc	Soil infused with Power of Stars. Bring to farm.
+0x1b260	desc	Soil infused with astral power. Bring to farm.
 0x1b2d4	name	
 0x1b2ec	desc	
 0x1b360	name	Delicious Bone

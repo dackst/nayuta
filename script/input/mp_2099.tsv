@@ -7,9 +7,9 @@ talk_Erislet
 0x19b1	0x98	Erislet		It could potentially be related to	
 				the entire world of Terra itself.	
 0x1a0e	0x98	Erislet		...If Zext wasn't lying, that is.	
-0x1a7a	0x98	Erislet		We wardens will attempt	
-				to control the Power of	
-				Stars from the temples.	
+0x1a7a	0x98	Erislet		We wardens will attemptd	
+				to control the astral
+				power from our temples.	
 0x1aef	0x98	Erislet		I leave taking care of
 				Lady Creha to you two!	
 0x1b6d	0x98	Erislet		Man, I can't believe	
@@ -18,8 +18,8 @@ talk_Erislet
 				happened to Lady Creha.	
 				I've got a bad feeling about this...	
 0x1c4f	0x98	Erislet		We wardens will attempt	mp_2099 0x1a7a
-				to control the Power of
-				Stars from the temples.
+				to control the astral
+				power from our temples.
 0x1cc4	0x98	Erislet		I leave taking care of	mp_2099 0x1aef
 				Lady Creha to you two!
 0x1d42	0x98	Erislet		If you can recover the last remaining Master	
@@ -35,7 +35,7 @@ talk_Erislet
 0x1f0f	0x98	Erislet		I've tried a number of things since then, but	
 				the temple remains almost completely shut down.	
 0x1f7b	0x98	Erislet		I've at least been able to send the bare minimum
-				amount of Power of Stars throughout the continent...	
+				amount of astral power throughout the continent...	
 				You must recover the last Master Gear soon.	
 0x2065	0x98	Erislet		I understand Lady Creha
 				has gone to the human world.	
@@ -228,8 +228,8 @@ QS_33_undertake
 				Moon Bird population has decreased
 				significantly in a short time.	
 0x4757	0x98	Erislet		And then, even if only briefly, the	
-				Power of Stars, the source of all	
-				life in the world, was stopped...	
+				flow of astral power, the source of	
+				all life in the world, was stopped...	
 0x47e2	0x06	Erislet		ANI_WAIT	
 0x480b	0x06	ALTO		ANI_THINK	
 0x4832	0x98	ALTO	#6A	So they're all extinct...	
@@ -982,8 +982,8 @@ EV_2_S23_boss_battle
 0x15a77	0x06	ALTO		ANI_WAIT	
 0x15a9d	0x98	ALTO		...The sky...!?	
 0x15b36	0x98	NOI		...Now with two temples shut down,	
-				the balance of the Power of Stars
-				in this world is crumbling...	
+				the balance of astral power in
+				this world is crumbling...	
 0x15c34	0x98	NOI	#6A	At this rate... Terra
 				itself could collapse!	
 0x15cbe	0x98	ALTO		N-No way...	mp_0111 0x86c0
@@ -1064,9 +1064,9 @@ EV_2_S24_boss_end
 				then these abnormalities can...!	
 0x18dd3	0x6B	NOI		Ellipsis	
 0x18e04	0x06	NOI		ANI_DENY	
-0x18e29	0x98	NOI		No... This time, the Power	
-				of Stars across all of Terra	
-				has been knocked off balance!	
+0x18e29	0x98	NOI		No... This time, the astral	
+				power across all of Terra has	
+				been knocked off balance!	
 0x18ed3	0x98	NOI		Just two Master Gears	
 				won't be enough to stop	
 				this many abnormalities...	
