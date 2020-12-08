@@ -1,10 +1,10 @@
 0x2	name	トップ
 0x138	mission	ミッション説明
 0x16a	name	Star Garden
-0x1be	desc	Go to the island where the Star Garden is.
+0x1be	desc	Go to the island containing the Star Garden.
 0x2a0	mission	ミッション説明
 0x2d2	name	Star Garden
-0x326	desc	Go to the island where the Star Garden is.
+0x326	desc	Go to the island containing the Star Garden.
 0x408	mission	ミッション説明
 0x43a	name	Oltapia
 0x48e	desc	Go to Forest Continent Oltapia.

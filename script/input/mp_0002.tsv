@@ -96,8 +96,8 @@ talk_Aulbath_sub
 				damned son of mine...
 0x1e74	0x98	Aulbath		...I just have no	mp_0002 0x1d19
 				idea what to do...
-0x1efa	0x98	Aulbath		I never would have anticipated	
-				someone recovering from Hell Fever...	
+0x1efa	0x98	Aulbath		I never would have anticipated someone	
+				recovering from that demonic disease...	
 				I am as shocked as can be.	
 0x1f6c	0x98	Aulbath		The rumor is that you were	
 				the one that supplied that	
@@ -579,7 +579,7 @@ QS_02_jump_avoid
 0x9126	0x98	ALTO	#6A	My parents believed it existed	
 				beyond the End of the World.	
 0x9197	0x98	ALTO	#6A	The truth is, there is no such	
-				thing as an End to this world.	
+				thing as an "end" to this world.	
 				There must be something more.	
 0x921a	0x06	ALTO		ANI_THANKS	
 0x9242	0x98	ALTO	#6A	What my parents sought...	

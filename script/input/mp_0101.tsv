@@ -590,7 +590,7 @@ EV_0_S20_meet_creha
 0xd2ca	0x06	Signa		ANI_WAIT2	
 0xd2f2	0x98	Signa	#6A	What's wrong?	
 				What did you find?	
-0xd348	0x98	ALTO	#0W	What... is that...?	
+0xd348	0x98	ALTO	#0W	What...is that...?	
 0xd3b6	0x06	Signa		ANI_SURPRISE_WEAK	
 0xd405	0x98	Signa	#6A	W-Whoa!	
 0xd60b	0x06	ALTO		ANI_WAIT	
@@ -942,7 +942,8 @@ SB_2_S01_noi_move
 EV_2_S01_look_around
 0x1432c	0x06	ALTO		ANI_DENY	
 0x14352	0x98	ALTO		...It's no good.	
-				It doesn't look like he's this way.	
+				It doesn't look	
+				like he's here.	
 0x143af	0x06	NOI		ANI_DENY	
 0x143d4	0x98	NOI	#6A	I couldn't find him over there either.	
 0x14419	0x98	NOI	#6A	As I thought...	

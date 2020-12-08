@@ -1418,22 +1418,22 @@
 0x18358	desc	Unlock Holy Mountain Continent 4th Season [Summer]. (Stage Level 65)
 0x183cc	name	Origin - 4th Season
 0x183e4	desc	Unlock Origin Continent 4th Season [Winter]. (Stage Level 70)
-0x18458	name	Max Level Unlock ①
-0x18470	desc	Raise Nayuta's max level to 70.
-0x184e4	name	Max Level Unlock ②
-0x184fc	desc	Raise Nayuta's max level to 85.
-0x18570	name	Max Level Unlock ③
-0x18588	desc	Raise Nayuta's max level to 99.
+0x18458	name	Maximum Level Unlock ①
+0x18470	desc	Raise Nayuta's maximum level to 70.
+0x184e4	name	Maximum Level Unlock ②
+0x184fc	desc	Raise Nayuta's maximum level to 85.
+0x18570	name	Maximum Level Unlock ③
+0x18588	desc	Raise Nayuta's maximum level to 99.
 0x185fc	name	
 0x18614	desc	
 0x18688	name	
 0x186a0	desc	
-0x18714	name	Arts Max Lvl Unlock ①
-0x1872c	desc	Raise arts' max level to 10.
-0x187a0	name	Arts Max Lvl Unlock ②
-0x187b8	desc	Raise arts' max level to 20.
-0x1882c	name	Arts Max Lvl Unlock ③
-0x18844	desc	Raise arts' max level to 30.
+0x18714	name	Arts Level Unlock ①
+0x1872c	desc	Raise maximum level of arts to 10.
+0x187a0	name	Arts Level Unlock ②
+0x187b8	desc	Raise maximum level of arts to 20.
+0x1882c	name	Arts Level Unlock ③
+0x18844	desc	Raise maximum level of arts to 30.
 0x188b8	name	
 0x188d0	desc	
 0x18944	name	

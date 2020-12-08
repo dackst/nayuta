@@ -71,11 +71,11 @@ AL_shop
 				Continent Heimmel has been unlocked.	
 0x31a9	0x07	System	#4C	The winter of Origin Continent	
 				La Worg has been unlocked.	
-0x333e	0x07	System	#3C	On Infinity difficulty, enemy levels will now scale.	
+0x333e	0x07	System	#3C	On Infinity difficulty, enemy levels will now scale without limit.	
 0x33b6	0x07	System	#4C	※ "Infinity Enemy Restore" has been added.	
-				If used, enemy levels will be returned to fixed values.	
-0x3528	0x07	System	#3C	On Infinity difficulty, enemy levels are now fixed.	
-0x365f	0x07	System	#3C	On Infinity difficulty, enemy levels will now scale.	mp_0100 0x333e
+				If used, enemy level scaling will return to a fixed limit.	
+0x3528	0x07	System	#3C	On Infinity difficulty, enemy levels will scale to a fixed limit.	
+0x365f	0x07	System	#3C	On Infinity difficulty, enemy levels will now scale without limit.	mp_0100 0x333e
 EV_use_elevator
 0x371d	0x36	Choice		[Use Elevator]	
 0x3739	0x36	Choice		[Quit]	mp_0000 0xeb0b
@@ -205,9 +205,9 @@ EV_2_S11_set_gear_1st
 0x82a9	0x98	NOI		It's a machine that controls the	
 				climate and biosphere of Terra.	
 0x8323	0x98	ALTO	#6A	Controls the... climate and biosphere...!?	
-0x8363	0x98	ALTO	#6A	...Ha.. Haha... That's too	
-				too incredible. I think I	
-				misheard you...	
+0x8363	0x98	ALTO	#6A	...Ha..haha... That's	
+				TOO incredible. I think	
+				I misheard you...	
 0x8580	0x6B	ALTO		Exclamation	
 0x85b2	0x06	ALTO		ANI_SURPRISE	
 0x85dc	0x98	ALTO	#16S	S-Something came out of it!?	
@@ -234,8 +234,8 @@ EV_2_S13_use_astrolabe
 0x93c9	0x98	ALTO		...Th-This is too...	
 0x943c	0x06	ALTO		ANI_GUTSPOSE	
 0x9498	0x98	ALTO	#16S	It's too amazing, Noi!!	
-0x94d3	0x98	ALTO	#16S	Of everything I've seen until now,	
-				#16Sthis is more amazing than all of them!	
+0x94d3	0x98	ALTO	#16S	Of everything I've seen so far,	
+				#16Sthis is the most amazing of all!	
 0x962a	0x06	NOI		ANI_LAUGH	
 0x9650	0x98	NOI	#6A	Ehehe, surprised?	
 				It's the Astrolabe...	

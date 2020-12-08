@@ -875,7 +875,7 @@ talk_Sasha
 0xd26c	0x98	Sasha		It's been two years since I	
 				started my shop on this island	
 				and I'm still surprised.	
-0xd2f4	0x98	Sasha		Remnant Island in the Ciencia Sea...	
+0xd2f4	0x98	Sasha		Ciencia Sea's Remnant Island...	
 				It is truly a strange place.	
 talk_Lyra
 0xd383	0x98	Lyra		You guys are still always sticking	
@@ -1552,7 +1552,7 @@ tuto_quest_memo
 				under [Quest] from the	
 				camp menu.	
 0x17847	0x07	System	#4C	Quest memos are updated	
-				automatically, so please check it	
+				automatically, so please check them	
 				when you are not sure what to do.	
 tuto_museum_force1
 0x17b08	0x3F	Name		Man's Voice	

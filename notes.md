@@ -139,7 +139,7 @@ Like before, this section mostly served so that *I* could keep these things cons
   * Star Capital/Stellar City -> <del>Star City</del> Star Capital
     * world map graphic has "Star Capital", might as well go with that
   * removed current season indicators in some world map dungeon names (sometimes they were in English, other times in still in Japanese, but mostly they were already absent)
-    * it doesn't fit on-screen to add them all in English, plus there are multiple graphical indicators of the current season anyway)
+    * it doesn't fit on-screen to add them all in English, plus there are multiple graphical indicators of the current season anyway
 
 * inconsistent quest names
   * quest names in system dialogue should actually match up to the names in the quest log, and shouldn't change between being accepted and completed
@@ -255,7 +255,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * originally *almost* always translated as "surface", but it seems weird to always specifically refer the surface of a planet rather than just the whole planet itself (especially when you can eventually see for yourself that a lot more than just the surface of the planet has been affected by things, and most who actually knew it was a planet in the first place already knew this)
   * ground/earth/Earth seems to be an acceptable translation of the Japanese word used here, but in English the first two most often refer to the substance, while the latter refers specifically to *our* planet
     * Nayuta recognizes the meaning of the word "Terra" when he first hears it, so there's another thing to think about. apparently in Latin there's a similar ambiguity between the substance and the specific entity
-  * humans definitely shouldn't call it anything but "world" until at least after moon reveal. except for William's theories, Lost Heaven almost seems to be commonly thought of as an alternate dimension or something in the beginning and most think the world is flat (and therefore would definitely not be [considered a planet](https://en.wikipedia.org/wiki/Classical_planet))
+  * humans definitely shouldn't call it anything but "world" until at least after moon reveal. except for William's theories, Lost Heaven almost seems to be commonly thought of as an alternate dimension or something and most think the world is flat (and therefore would definitely not be [considered a planet](https://en.wikipedia.org/wiki/Classical_planet))
     * let's just say the researchers, as smart dudes into astronomy, understand by the time they read zext's message. meanwhile maybe most others would probably find out by the epilogue, if they even bring it up at all
 
 * cliff: chasm (when referring to the gap between two natural cliffs), wall (when referring to the sides of an artificial building)
@@ -369,7 +369,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * Michey -> Mishy (match official localizations)
 * Kureha -> Creha
   * Previous translators picked her brother's name to look more Arabic. I personally know less about Arabic that I do about Japanese, but at least "Creha" looks less Japanese. Not that they're always the best (see: [Dalk Fukt](https://www.falcom.co.jp/ys12_psp/character.html)), but "Creha" also seems to be the [official romanization](https://falcom-collections.net/Nayuta%20No%20Kiseki/nayuta04s.jpg.html) of her name
-    * on her brother's name, it could be that any variation of vowels between ["SLM"](https://en.wikipedia.org/wiki/%C5%A0-L-M) (rather than "Serum" or "Seram") would work.
+    * on her brother's name, it could be that any variation of vowels between ["SLM"](https://en.wikipedia.org/wiki/%C5%A0-L-M) would work. (rather than the official romanization "Serum" or his internal name "Seram")
   * the downside here is that her name appears in voiced scenes pretty frequently, where you can hear it starting with an audible "ku" sound
 * Dr. Volans -> Professor Volans
 
@@ -416,7 +416,7 @@ More monster changes:
 * Encent Mage -> Ancient Mage
 * Bullmajiro -> Bullmadillo (a charging armadillo)
 * Bullgatorio -> Purgatorio (I don't know where the bull comes from here, it's just a dragon)
-* Rideleon -> Rideron (a humanoid robot that transforms into a bike, hence "rider". has no lion form)
+* Rideleon -> Riderion (a humanoid robot that transforms into a bike, hence "rider". has no lion form)
 * Warcat -> Werecat
 * Beowulf -> Werewolf
 * Zoropino -> Zorropino (Spanish for fox + pine)
@@ -428,7 +428,8 @@ More monster changes:
 
 * Suikesu Keeper/Sukeisu Keeper -> Scissor Keeper (a version of the Root Keeper than uses "leaf blade magic")
 * Ice Velg -> Tempano (pretty sure it was just the English word "Iceberg". Now it's Spanish)
-* Evil Tycoon -> Evil [Typhon](https://en.wikipedia.org/wiki/Typhon) (a version of the Evil Dragon, which, of course, a dragon, not a capitalist)
+* Evil Tycoon -> Evil [Typhon](https://en.wikipedia.org/wiki/Typhon) (a version of the Evil Dragon, which is, of course, a dragon, not a capitalist)
+  * the red Ragnard copy in Sky 3rd is called "R-Tycoon" but that also makes no sense, at least in the English usage of the word "tycoon" (which turns out is actually a loanword from Japanese, with an original meaning that does actually make some sense)
 * Expert Lion/Expatrion -> Expeltron (another robot that was translated into a lion)
 * Gerou Aspis -> Guerra Aspis ("aspis" is a Latin word, so use another one)
 * Vulganon -> Vulkanon (supposed to be evocative of volcanos, not zelda)
@@ -493,7 +494,7 @@ More monster changes:
 * (N.S.) - I previously removed this because I wanted to avoid [real world references](https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates), same as how the original translation would sometimes call the surface "Earth." However, this one might also serve as a hint that there are at least [two calendar systems](#zemuria-references) currently in use.
 
 * Rieseweld - Riese[woerd](https://en.wikipedia.org/wiki/Terp) or some other variation (instead of something deriving from Wald, meaning "forest" when that continent has no forests)
-  * apparently there are [some](https://en.wiktionary.org/wiki/wold#English) [derivations](https://en.wiktionary.org/wiki/weald#English) that can also denote an *un*forested place
+  * apparently there are [some](https://en.wiktionary.org/wiki/wold#English) [derivations](https://en.wiktionary.org/wiki/weald#English) of "wald" that can also denote an *un*forested place
 
 ## technical notes
 
