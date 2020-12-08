@@ -1,8 +1,8 @@
 mp_6302
 init
 talk_Nemeas
-0x71f	0x98	Nemeas		They have an "Ancient	
-				Memory" that has not	
+0x71f	0x98	Nemeas		They have an 'Ancient	
+				Memory' that has not	
 				been shared with Noi.
 0x77f	0x98	Nemeas		It holds the basis for 	
 				their entire plan...	
@@ -132,8 +132,8 @@ EV_6_S30_bye_nemeas
 				about their duty?	
 0x4da4	0x6B	ALTO		Question	
 0x4dd6	0x6B	NOI		Question	
-0x4ebe	0x98	Nemeas		They have an "Ancient	mp_6302 0x71f
-				Memory" that has not
+0x4ebe	0x98	Nemeas		They have an 'Ancient	mp_6302 0x71f
+				Memory' that has not
 				been shared with Noi.
 0x4f5e	0x98	Nemeas		It holds the basis 	mp_6302 0x77f
 				for their entire plan...

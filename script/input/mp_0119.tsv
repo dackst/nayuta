@@ -21,7 +21,7 @@ EV_0_S00_night_ship
 0x19a7	0x06	ALTO		ANI_WAIT	
 0x1a62	0x98	ALTO	#1W#6A	Ah, Cygna.	
 0x1b62	0x06	Signa		ANI_WAIT2	
-0x1be7	0x98	Signa	#1W	Don't "Ah, Cygna" me.	
+0x1be7	0x98	Signa	#1W	Don't 'Ah, Cygna' me.	
 0x1c9b	0x98	Signa	#0W	You weren't in your room.	
 				If you're even thinking of─	
 0x1d24	0x98	Signa	#0W	I thought I told you	
@@ -106,14 +106,14 @@ EV_0_S00_night_ship
 0x3c5b	0x98	Signa	#0W	Come on! Back to the cabin!	
 0x3cbc	0xBC	ALTO		Coldsweat	
 0x3d3d	0x98	ALTO	#0W#16S	Man, seriously...?	
-0x3ef8	0x41	None	#1W#2E	There is an "End" to this world...	mp_0100b 0x5696
+0x3ef8	0x41	None	#1W#2E	There is an 'End' to this world...	mp_0100b 0x5696
 				We have been taught this for as
 				long as anyone can remember.#0E
 0x3fbe	0x41	None	#1W#2E	Even the sea, which might look to stretch	mp_0101 0xd768
 				towards infinity, has a definite end,
 				beyond which one cannot travel.#0E
 0x4087	0x41	None	#1W#2E	Because of this, many scholars will tell	
-				you: "This world is flat." It is a pretty	
+				you: 'This world is flat.' It is a pretty	
 				conventional view about the world. #0E	
 0x415e	0x41	None	#1W#2E	...Is that really true?	
 				No... I'm sure it's not.#0E	

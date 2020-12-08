@@ -35,13 +35,13 @@ QS_81_check_altar
 0x1524	0x98	NOI		But I think we're not	mp_1002b 0x2817
 				doing something right.
 0x1570	0x98	ALTO		If I remember correctly, didn't it say,	mp_1002b 0x2863
-				"offer up this box in order of the seasons,
-				with them changed as they should be"...?
+				'offer up this box in order of the seasons,
+				with them changed as they should be'...?
 0x1617	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
 				 kind of seasonal order?)
-0x16b4	0x98	ALTO		("If you wish to release the locks,	mp_1002b 0x29a7
+0x16b4	0x98	ALTO		('If you wish to release the locks,	mp_1002b 0x29a7
 				 offer up this box in order of the seasons,
-				 with them changed as they should be"...)
+				 with them changed as they should be'...)
 0x173c	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
 				 kind of seasonal order?)
 QS_81_hang_out_box
@@ -77,8 +77,8 @@ QS54_talk_SpiritB
 0x23cf	0x98	ALTO	#6A	Hmm, I'm getting the vibe that it's	
 				panicked about something, but...	
 0x2428	0x06	NOI		ANI_GESTURE2	
-0x2451	0x98	NOI	#6A	"The cave is too vast, and	
-				 I can't find the way out..."	
+0x2451	0x98	NOI	#6A	'The cave is too vast, and	
+				 I can't find the way out...'	
 				 That's what it's saying.	
 0x24c0	0x06	NOI		ANI_DEJECTED	
 0x24e9	0x98	NOI	#6A	Nymphs don't normally leave their own	
@@ -280,7 +280,7 @@ EV_3_S11_help_eris
 0x7a83	0x06	NOI		ANI_PRAY	
 0x7ac8	0x06	Erislet		ANI_USE_POWER	
 0x7d87	0xC1	System		#3CNoi learned 『Gear Hold』!	
-0x7e28	0x07	System	#4C	Noi learned "Gear Hold."	
+0x7e28	0x07	System	#4C	Noi learned 'Gear Hold.'	
 				You can now hold onto floating gears	
 				(hold markers) and move about them freely.	
 0x7ecf	0x06	Erislet		ANI_WAIT	
@@ -303,7 +303,7 @@ EV_3_S11_help_eris
 0x8611	0x06	NOI		ANI_GUTSPOSE	
 0x86c6	0x98	NOI		Yeah... We've got a lot of work to do	
 				this time. Gotta keep moving forward!	
-0x8961	0x07	System	#4C	To activate "Gear Hold," press and hold the X button.	
+0x8961	0x07	System	#4C	To activate 'Gear Hold,' press and hold the X button.	
 0x8ae1	0x07	System	#4C	In addition, your item gathering	
 				range has been increased.	
 0x8c81	0xCE	Objective		Yupina Grass is on the Mountain Continent. Let's go, Nayuta!	

@@ -228,7 +228,7 @@ talk_Pyxia
 				paint for the contest.	
 0x38fe	0x98	Pyxia		...See that old geezer over there?	
 				He has a special atmosphere about him.	
-0x3948	0x98	Pyxia		"The Master Swordsman Awaits His Nemesis."	
+0x3948	0x98	Pyxia		'The Master Swordsman Awaits His Nemesis.'	
 0x3993	0x98	Pyxia		...If I were to give it a title,	
 				it would go something like that.	
 0x39ec	0x6B	ALTO		Sweatdrop	
@@ -350,7 +350,7 @@ tuto_Aulbath
 				powerful ally in a tough battle.	
 0x53f4	0x98	Aulbath		It is a good idea to keep this in mind,	
 				and to fight actively when possible.	
-0x5483	0x98	Aulbath		If you unleash "Spinning Cut,"	
+0x5483	0x98	Aulbath		If you unleash 'Spinning Cut,'	
 				you can hit flying monsters.	
 0x54e4	0x98	Aulbath		You can also launch smaller monsters into	
 				the air. If you can master it, you can gain	
@@ -359,9 +359,9 @@ tuto_Aulbath
 				to launch larger enemies.	
 				Something to keep in mind.	
 0x55fb	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	
-				more powerful secret technique, "Vacuum Blade."	
+				more powerful secret technique, 'Vacuum Blade.'	
 				You can confirm its true nature in battle.	
-0x56d6	0x98	Aulbath		"Down Thrust" is an attack that uses the	
+0x56d6	0x98	Aulbath		'Down Thrust' is an attack that uses the	
 				momentum of a fall to increase its power.	
 0x5745	0x98	Aulbath		Its distinguishing feature is	
 				that, of all the sword techniques,	
@@ -370,9 +370,9 @@ tuto_Aulbath
 				there are many different ways to use it.	
 				You can try finding them out on your own.	
 0x586f	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	
-				more powerful secret technique, "Meteor Attack."		
+				more powerful secret technique, 'Meteor Attack.'		
 				You can confirm its true nature in battle.
-0x594e	0x98	Aulbath		"Kamaitachi" unleashes an	
+0x594e	0x98	Aulbath		'Kamaitachi' unleashes an	
 				intense stroke of your sword	
 				with a quick step.	
 0x59bc	0x98	Aulbath		This technique, infused with sword chi,	
@@ -382,9 +382,9 @@ tuto_Aulbath
 				longer reach. It is possible to attack	
 				from a distance with this technique.	
 0x5afd	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	
-				more powerful secret technique, "Divine Wind."	
+				more powerful secret technique, 'Divine Wind.'	
 				You can confirm its true nature in battle.
-0x5bd8	0x98	Aulbath		"Swallow Return" can cut down all	
+0x5bd8	0x98	Aulbath		'Swallow Return' can cut down all	
 				surrounding enemies in an instant.	
 0x5c40	0x98	Aulbath		It also has the effect of pulling the enemies	
 				towards you. This is very powerful in melee.	
@@ -392,7 +392,7 @@ tuto_Aulbath
 				but if mastered, it can be a powerful tool.	
 				Never tire, and keep practicing.	
 0x5da1	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	
-				more powerful secret technique, "Fallen Lotus."		
+				more powerful secret technique, 'Fallen Lotus.'		
 				You can confirm its true nature in battle.
 0x5e7f	0x98	Aulbath		There exist two types of swords:	
 				One-handed and two-handed swords.	
@@ -407,10 +407,10 @@ tuto_Aulbath
 				sword most comfortable for you to use.	
 0x610c	0x98	Aulbath		Some monsters can cause	
 				various status conditions.	
-0x6176	0x98	Aulbath		"Poison" rapidly saps your health, and	
-				"paralysis" greatly slows your movement...	
-0x6205	0x98	Aulbath		"Freezing" can stop your movements.	
-				"Panic" derails your actions.	
+0x6176	0x98	Aulbath		'Poison' rapidly saps your health, and	
+				'paralysis' greatly slows your movement...	
+0x6205	0x98	Aulbath		'Freezing' can stop your movements.	
+				'Panic' derails your actions.	
 0x6275	0x98	Aulbath		Though all can be reversed with time,	
 				there exists equipment that improves	
 				resistance and status recovery items.	
@@ -419,11 +419,11 @@ tuto_Aulbath
 quest_Aulbath
 0x6442	0x98	Aulbath		According to Noi,	
 				the Locked Box reads:	
-0x6499	0x98	Aulbath	#6A	"This box is sealed	
-				 with four locks."	
-0x64e4	0x98	Aulbath	#6A	"If you wish to release the locks,	
+0x6499	0x98	Aulbath	#6A	'This box is sealed	
+				 with four locks.'	
+0x64e4	0x98	Aulbath	#6A	'If you wish to release the locks,	
 				 offer up this box in order of the seasons,	
-				 with them changed as they should be..."	
+				 with them changed as they should be...'	
 0x6551	0x98	Aulbath		Maybe you have some idea	
 				where in Terra to take it.	
 0x6676	0x98	Aulbath		Use that sword in your hands	mp_0002 0x3109
@@ -579,7 +579,7 @@ QS_02_jump_avoid
 0x9126	0x98	ALTO	#6A	My parents believed it existed	
 				beyond the End of the World.	
 0x9197	0x98	ALTO	#6A	The truth is, there is no such	
-				thing as an "end" to this world.	
+				thing as an 'end' to this world.	
 				There must be something more.	
 0x921a	0x06	ALTO		ANI_THANKS	
 0x9242	0x98	ALTO	#6A	What my parents sought...	
@@ -759,7 +759,7 @@ QS_02_stopperB
 				you going? Come back here.
 0xd9bc	0x98	ALTO		Y-Yes!	mp_0002 0xd4f0
 QS_11_get_treasure
-0xdbc0	0x98	ALTO		"A vehicle for setting out on a journey...?"	
+0xdbc0	0x98	ALTO		'A vehicle for setting out on a journey...?'	
 0xdc0f	0x98	ALTO		It sounds like the hiding place	
 				is under this boat, but there's	
 				no space for Vel to have put it..	
@@ -772,7 +772,7 @@ QS_11_get_treasure
 0xde9f	0xC1	System		obtained.	mp_0000 0x7558
 0xdf16	0x06	ALTO		ANI_WAIT	
 0xdf66	0x98	ALTO		Here it is... Is this 	
-				the "treasure" that	
+				the 'treasure' that	
 				Vel was talking about?	
 0xdfc7	0x98	ALTO		Let's show her right away.	
 QS_24_get_salt
@@ -788,7 +788,7 @@ QS_24_get_salt
 				island specialties. Let's go	
 				bring them to Geo.	
 0xe4d4	0x06	ALTO		ANI_THINK2	
-0xe4fc	0x98	ALTO		Isn't there still the "local cuisine"	
+0xe4fc	0x98	ALTO		Isn't there still the 'local cuisine'	
 				that the elder mentioned...?	
 0xe55f	0x98	ALTO		But it's the specialty dish of someone	
 				you wouldn't think of as a cook...	
@@ -877,11 +877,11 @@ QS_81_undertake
 0xf9b7	0x06	NOI		ANI_NOD	
 0xf9db	0x98	NOI	#6A	I-I can try.	
 				...Ehem, umm...	
-0xfa30	0x98	NOI	#6A	"This box is sealed	mp_0002 0x6499
-				 with four locks."
-0xfa77	0x98	NOI	#6A	"If you wish to release the locks,	mp_0002 0x64e4
+0xfa30	0x98	NOI	#6A	'This box is sealed	mp_0002 0x6499
+				 with four locks.'
+0xfa77	0x98	NOI	#6A	'If you wish to release the locks,	mp_0002 0x64e4
 				 offer up this box in order of the seasons,
-				 with them changed as they should be..."
+				 with them changed as they should be...'
 0xfb18	0x98	NOI	#6A	That's what it looks	
 				like is written.	
 0xfbb3	0x06	ALTO		ANI_WAIT	
@@ -890,8 +890,8 @@ QS_81_undertake
 				And we have to offer it up	
 				as the seasons change?	
 0xfc74	0x98	ALTO		Ignoring the first half for now,	
-				I don't get what it means by "offer	
-				it up in order of the seasons."	
+				I don't get what it means by 'offer	
+				it up in order of the seasons.'	
 0xfcef	0x06	NOI		ANI_GESTURE1	
 0xfd18	0x98	NOI	#6A	It probably means to shower	
 				it in the astral power most	
@@ -911,10 +911,10 @@ QS_81_undertake
 0xff42	0x06	NOI		ANI_GESTURE1	
 0xff6b	0x98	NOI	#6A	All right, then...	
 0xffa2	0x98	NOI	#6A	Then we should probably search	
-				for the "power stations" of	
+				for the 'power stations' of	
 				astral power.	
 0x1000d	0x06	ALTO		ANI_GESTURE2	
-0x10037	0x98	ALTO		"Power stations?"	
+0x10037	0x98	ALTO		'Power stations?'	
 0x1007e	0x06	Aulbath		ANI_THINK	
 0x100a8	0x98	Aulbath		Hmm... It sounds like they are a	
 				place where power congregates.		
@@ -938,7 +938,7 @@ QS_81_undertake
 0x10476	0x98	ALTO		(Those places on each continent where	
 				 the wardens were imprisoned...	
 				 Could they be...?)	
-0x104f0	0x98	ALTO		(And, "changed as they should be?")	
+0x104f0	0x98	ALTO		(And, 'changed as they should be?')	
 0x10539	0x98	ALTO		(The proper order of the seasons...	
 				 ...Maybe we'll need to put some	
 				 thought into this.)	

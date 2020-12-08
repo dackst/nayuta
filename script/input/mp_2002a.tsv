@@ -70,7 +70,7 @@ QS_35_meet_cetus
 0x249e	0x98	Cetus		I've been exploring this world with Reticul...	
 				...But she's an absolute reckless tomboy.	
 0x2510	0x06	Cetus		ANI_GESTURE2	
-0x253b	0x98	Cetus		She said something about "finding treasure"
+0x253b	0x98	Cetus		She said something about 'finding treasure'
 				and went off on her own, poking around in	
 				some monster nests...
 0x25c1	0x98	Cetus		And after being chased by vicious	
@@ -235,9 +235,9 @@ QS35_Ev_Reticul
 0x47ca	0x06	Reticul		ANI_GESTURE2	
 0x47f7	0x98	Reticul		How she's doing, what she's been	
 				up to, mundane stuff like that.	
-0x4862	0x98	Reticul		And... she said, "Please show	
+0x4862	0x98	Reticul		And... she said, 'Please show	
 				me some of your wonderful	
-				treasures when you find them."	
+				treasures when you find them.'	
 0x48d3	0x06	Reticul		ANI_WAIT3	
 0x48fd	0x98	Reticul		...That child, sending this	
 				kind of letter after I ran	
@@ -261,9 +261,9 @@ QS35_Ev_Reticul
 				this letter.	
 0x4c9f	0x98	Reticul		If you don't mind, can you pass	
 				on my reply to Ursamina?	
-0x4d03	0x98	Reticul		"Someday I'll find a huge treasure	
+0x4d03	0x98	Reticul		'Someday I'll find a huge treasure	
 				 and come home. Stay well and don't	
-				 worry yourself sick."	
+				 worry yourself sick.'	
 0x4d7e	0x06	ALTO		ANI_NOD	
 0x4da3	0x98	ALTO	#6A	Okay, got it. I'll be	
 				sure to tell her.	

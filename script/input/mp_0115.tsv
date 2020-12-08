@@ -150,7 +150,7 @@ talk_Volans
 				of what was destroyed by the Calamity.	
 0x2b0f	0x98	Volans		Even if this is so, it leaves	
 				many things still unexplained.	
-0x2b53	0x98	Volans		But this "Remnant Island," created by	
+0x2b53	0x98	Volans		But this 'Remnant Island,' created by	
 				an accumulation of ruins, may hold some	
 				clue to unraveling this mystery...	
 0x2beb	0x98	Volans		Hehe, that is what I believe.	
@@ -875,7 +875,7 @@ tuto_museum_common
 0xe78a	0x98	Volans		Heh, my main research interests are	
 				in the history of the Ciencia Sea and	
 				the ruins that fall from the sky.	
-0xe810	0x98	Volans		This includes the unusual "Remnant Island,"	
+0xe810	0x98	Volans		This includes the unusual 'Remnant Island,'	
 				created by an accumulation of such ruins.
 0xe87c	0x98	Volans		I came here from the Empire in order to investigate	
 				the numerous ruins of this island, understand their	
@@ -973,7 +973,7 @@ tuto_museum_common
 0xfa13	0x06	ALTO		ANI_JOY	
 0xfa38	0x98	ALTO	#6A	Yes, thank you!	
 0xfaa3	0x07	System	#4C	During your adventure, you can	
-				obtain "Collectible" items.	
+				obtain 'Collectible' items.	
 0xfaf2	0x07	System	#4C	These items can be donated to	
 				the museum to be displayed.	
 quest_Volans
@@ -1027,7 +1027,7 @@ QS_42_undertake
 0x106e1	0x06	Volans		ANI_GESTURE1	
 0x1070d	0x98	Volans		What I need you to do for me...	
 				Is, quite frankly, research on	
-				this "other world."	
+				this 'other world.'	
 0x10783	0x6B	ALTO		Exclamation	
 0x107b5	0x6B	NOI		Exclamation	
 0x107e6	0x98	ALTO	#6A	Like it said on the request,	
@@ -1038,7 +1038,7 @@ QS_42_undertake
 0x108e1	0x98	Volans		There are people on the continent	
 				who believe the world is ending.	
 0x10967	0x98	Volans		No doubt that these anomalies are	
-				likely connected to this "Terra",	
+				likely connected to this 'Terra',	
 				as you call it?	
 0x109e8	0x06	Volans		ANI_WAIT	
 0x10a10	0x98	NOI	#6A	Um, ah, w-well...	mp_0003 0xa418
@@ -1173,8 +1173,8 @@ QS_42_quest_end
 				actually be called the truth.	
 0x1243f	0x98	Volans		And, its cause was natural devastation	
 				and warring carried out by past humans.	
-0x124b1	0x98	Volans		Furthermore, these "stones"	
-				that "preserve nature and life"	
+0x124b1	0x98	Volans		Furthermore, these 'stones'	
+				that 'preserve nature and life'	
 				are most likely...	
 0x1252f	0x06	Volans		ANI_WAIT	
 0x12557	0x06	ALTO		ANI_NOD	
@@ -1380,8 +1380,8 @@ EV_3_S02_meet_volans
 0x15464	0x98	Caelum		Nayuta...	
 				Hang in there.	
 0x154a7	0x06	ALTO		ANI_THINK2	
-0x154cf	0x98	ALTO	#6A	..."Pale blue petals"...	
-				..."Northern highlands"...	
+0x154cf	0x98	ALTO	#6A	...'Pale blue petals'...	
+				...'Northern highlands'...	
 0x1553d	0x06	ALTO		ANI_WAIT	
 0x15583	0x98	ALTO	#6A	Just knowing that is enough.	
 0x155c8	0x6B	Volans		Surprise	
@@ -1466,7 +1466,7 @@ EV_6_S07_meet_volans
 				centered around this island.	
 0x1684c	0x06	Volans		ANI_GESTURE2	
 0x16878	0x98	Volans		But if these phenomena occur because this
-				"other world" is floating in the skies,	
+				'other world' is floating in the skies,	
 				why does this bias exist?	
 0x1690b	0x06	ALTO		ANI_THINK2	
 0x16933	0x98	ALTO	#6A	...That's true...	

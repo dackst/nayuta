@@ -112,7 +112,7 @@ talk_Dorado
 				about stuff like weapons, she gets so	
 				carried away and won't stop.		
 0x3af4	0x98	Dorado		...Whenever I take my spear in for repairs,	
-				she's always all, "You're not using it right!"	
+				she's always all, 'You're not using it right!'	
 				and I get lectured at for half an hour.	
 0x3b80	0x6B	ALTO		Sweatdrop	
 0x3bda	0x98	Dorado		If someone comes between Ada and her weapons,	
@@ -722,14 +722,14 @@ talk_Pyxia
 				to be the one to take first place.	
 0xb30a	0x98	Pyxia		There's no way I won't win, now	
 				that I've leveled up as an artist	
-				from an "egg" to "chick!"	
+				from an 'egg' to 'chick!'	
 0xb3a7	0x98	Pyxia		There's no way I won't win, now	mp_0000 0xb30a
 				that I've leveled up as an artist
-				from an "egg" to "chick!"
+				from an 'egg' to 'chick!'
 0xb41c	0x98	Pyxia		And this is the year I will finally	
 				become a full-fledged chicken!	
 0xb46d	0x6B	ALTO		Sweatdrop	
-0xb4d5	0x98	Pyxia		I hear these specialty "star shards"	
+0xb4d5	0x98	Pyxia		I hear these specialty 'star shards'	
 				project amazingly beautiful scenery.	
 0xb54c	0x98	Pyxia		And there are people who	
 				sketch that scenery...	
@@ -775,7 +775,7 @@ talk_Horolo
 				I have to do my best too.	
 0xbd96	0x98	Horolo		Hopefully I can find	
 				a good motif again.	
-0xbe15	0x98	Pyxia		I hear these specialty "star shards"	mp_0000 0xb4d5
+0xbe15	0x98	Pyxia		I hear these specialty 'star shards'	mp_0000 0xb4d5
 				project amazingly beautiful scenery.
 0xbe8c	0x98	Pyxia		And there are people who	mp_0000 0xb54c
 				sketch that scenery...
@@ -789,7 +789,7 @@ talk_Horolo
 				it would pose a challenge different	
 				from making a normal painting.
 0xc089	0x98	Horolo		I'm a fan of it～, even though I'm	
-				an "egg" of a sculptor myself.	
+				an 'egg' of a sculptor myself.	
 0xc112	0x98	Horolo		Hehe, Pyxia is so happy～.	
 0xc155	0x98	Horolo		I want to thank you as well.	
 0xc194	0x98	Horolo		You should cheer up too～.	
@@ -1264,8 +1264,8 @@ QS_11_second_hint
 0x12d71	0x6B	ALTO		Surprise	
 0x12dc7	0x98	ALTO		Huh? Is this... a note?	
 0x12dff	0x06	ALTO		ANI_THINK2	
-0x12e27	0x98	ALTO		"A place where you can go up stairs	
-				 and see over everyone's heads"...	
+0x12e27	0x98	ALTO		'A place where you can go up stairs	
+				 and see over everyone's heads'...	
 0x12e91	0x06	ALTO		ANI_GOODIDEA	
 0x12ebb	0x98	ALTO		Right, what Vel said was really	
 				referring to the second floor	
@@ -1284,7 +1284,7 @@ QS_11_second_hint
 				a real treasure hunt, so it's
 				kind of exciting.	
 0x13341	0x06	ALTO		ANI_THINK	
-0x13368	0x98	ALTO		The hint says "the hole peering at the sky"...	
+0x13368	0x98	ALTO		The hint says 'the hole peering at the sky'...	
 				Is there a place like that in the village...?	
 0x133f6	0x06	ALTO		ANI_WAIT	
 QS_11_fourth_hint
@@ -1325,7 +1325,7 @@ QS_11_fourth_hint
 0x13dda	0x98	ALTO	#6A	Uh, looks like this	
 				is the last hint.	
 0x13e32	0x06	ALTO		ANI_THINK	
-0x13e59	0x98	ALTO	#6A	"A vehicle for setting off on a journey"...?	
+0x13e59	0x98	ALTO	#6A	'A vehicle for setting off on a journey'...?	
 0x13ea8	0x98	Dorado		Hmm, in that case, then maybe	
 				it's talking about a boat?	
 0x13f08	0x98	Dorado		If you're setting off on a journey from this	
@@ -1460,7 +1460,7 @@ QS_12_quest_end
 				It's a flower from the East	
 				that's supposed to never wither.		
 0x15d0d	0x98	ALTO	#6A	Sasha said in the language of flowers,	
-				it means, "eternal love."	
+				it means, 'eternal love.'	
 0x15d67	0x06	Sculp		ANI_WAIT2	
 0x15d8f	0x98	Sculp		N-Nayuta, you...	
 				Just how did you bring me	
@@ -1720,7 +1720,7 @@ EV_0_S09_see_riot
 0x1adb4	0x98	Dorado		Yahaha, he's very	
 				reliable.	
 0x1ae01	0x06	Lyra		ANI_ANGRYTALK	
-0x1ae2c	0x98	Lyra	#6A	Don't "Yahaha" me,	
+0x1ae2c	0x98	Lyra	#6A	Don't 'Yahaha' me,	
 				you spineless guard!	
 0x1ae82	0x06	Dorado		ANI_DEJECTED	
 0x1aeae	0x98	Dorado		Ouch! That's too	
@@ -1832,7 +1832,7 @@ EV_4_S07_creha_scene_1st
 0x1d571	0x6B	Creha		Surprise	
 0x1d5bb	0x98	Creha	#6A	Umm...	
 0x1d5e5	0x06	Creha		ANI_WAIT2	
-0x1d60d	0x98	Creha	#6A	I am "staying over"	
+0x1d60d	0x98	Creha	#6A	I am 'staying over'	
 				at Nayuta's house.	
 0x1d65b	0x06	Eida		ANI_NOD	
 0x1d680	0x98	Eida		Wow! Then you must	
@@ -1842,7 +1842,7 @@ EV_4_S07_creha_scene_1st
 0x1d705	0x98	Eida		Could you be...?	
 				Are you his girlfriend?	
 0x1d756	0x06	Creha		ANI_WAIT4	
-0x1d77e	0x98	Creha	#6A	(What is a "girlfriend"?)	
+0x1d77e	0x98	Creha	#6A	(What is a 'girlfriend'?)	
 0x1d887	0x06	Eida		ANI_LAUGH	
 0x1d8ae	0x98	Eida	#6A	Hmm... Something interesting	
 				came to me today! ☆	

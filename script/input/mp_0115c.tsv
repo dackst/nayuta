@@ -94,7 +94,7 @@ lp_middlefish
 0x307e	0x41	None		[Giant Isopod] Bathynomus giganteus	
 				Large sea arthropod.	
 				Living in the deep sea, it consumes the corpses of animals.	
-				The "cleaner of the seas" that returns the living to dust.	
+				The 'cleaner of the seas' that returns the living to dust.	
 0x32ba	0x41	None		[Moon Jellyfish] Aurelia	
 				Sea animal floating on the waves.	
 				Nearly colorless and transparent, it uses the tentacles	
@@ -111,7 +111,7 @@ lp_middlefish
 0x3956	0x41	None		[Portuguese Man o' War] Physalia physalis	
 				Jellyfish with various organs suspended below the umbrella.	
 				Because sharp pain runs through the body if stung,	
-				it has earned the name "electric jellyfish."	
+				it has earned the name 'electric jellyfish.'	
 0x3bac	0x41	None		[Goosefish] Lophiidae	
 				Deep-sea fish with a shining antenna on its head.	
 				Because in the deep sea there is not much bait,	
@@ -215,7 +215,7 @@ subev_showroom_first
 0x5fba	0x98	NOI		I don't believe this...	
 				Something like this exists	
 				in this world!?	
-0x601b	0x98	ALTO		It looks like an "aquarium"...	
+0x601b	0x98	ALTO		It looks like an 'aquarium'...	
 				Y-You can even watch what's	
 				happening behind glass...!?	
 0x609a	0x06	ALTO		ANI_COMPLAIN	

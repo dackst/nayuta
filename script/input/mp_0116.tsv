@@ -58,7 +58,7 @@ talk_Serpent
 0x1615	0x98	Serpent		...For now anyway, we all	
 				must do what we can.	
 0x169b	0x98	Serpent		Before Master Orvus came to Remnant Island,	
-				he had doubts on the meaning of "strength."	
+				he had doubts on the meaning of 'strength.'	
 0x1707	0x98	Serpent		Nowadays, we no longer live in a world where	
 				you can be distinguished by brute power alone.	
 				Is there any meaning left in his strength?	
@@ -154,7 +154,7 @@ talk_Serpent
 0x290d	0x98	Serpent		In it, almost all the land was	
 				submerged under the Ciencia Sea...	
 0x296c	0x98	Serpent		Later on, as ruins fell in the sea,	
-				this island of "remnants" was made.	
+				this island of 'remnants' was made.	
 0x29db	0x98	Serpent		That is how this island came	
 				to be known as Remnant Island.	
 				...Did you learn something?	
@@ -475,7 +475,7 @@ QS_24_ask_Serpent
 				to ask you, Elder...	
 0x6ca5	0x06	ALTO		ANI_COMPLAIN	
 0x6ccf	0x98	ALTO	#6A	What would you consider to be	
-				the "specialties" of this island?		
+				the 'specialties' of this island?		
 0x6d36	0x98	Serpent		What? Where did that come from?	
 				Are you working on an assignment	
 				during your summer vacation?	
@@ -641,7 +641,7 @@ QS_82_undertake
 0x9040	0x98	NOI	#6A	We'll help you with	
 				whatever we can.	
 0x9085	0x98	NOI	#6A	Umm, so... What is	
-				the "Star Festival?"	
+				the 'Star Festival?'	
 0x90ea	0x98	ALTO		It is a festival held on	
 				Remnant Island every year.	
 0x9152	0x98	ALTO		It's named because of the clear	

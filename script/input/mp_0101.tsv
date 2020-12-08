@@ -504,7 +504,7 @@ EV_0_S19_arrive_garden
 0xb70d	0x98	Signa		I don't even have the words	
 				to describe this...	
 0xb75d	0x98	Signa		Haha, but who knows, we might not exist	
-				in "this world" any longer ourselves.	#in case it's still not clear, he was trying to imply they died and went to the afterlife, not that he immediately (and correctly) guessed they just discovered a new world
+				in 'this world' any longer ourselves.	#in case it's still not clear, he was trying to imply they died and went to the afterlife, not that he immediately (and correctly) guessed they just discovered a new world
 0xb7f2	0x06	ALTO		ANI_SURPRISE	
 0xb81c	0x98	ALTO	#6A	Huh? Don't say	
 				stuff like that...	
@@ -595,7 +595,7 @@ EV_0_S20_meet_creha
 0xd405	0x98	Signa	#6A	W-Whoa!	
 0xd60b	0x06	ALTO		ANI_WAIT	
 0xd681	0x06	Signa		ANI_WAIT	
-0xd6bb	0x41	None	#0W#2E	...There is an "End" to this world.	
+0xd6bb	0x41	None	#0W#2E	...There is an 'End' to this world.	
 				We have been taught this for as	
 				long as anyone can remember.#0E	
 0xd768	0x41	None	#0W#2E	Even the sea, which might look to stretch	
@@ -641,7 +641,7 @@ EV_1_S00_go_jungle
 0xea20	0x6B	ALTO		Unknown	
 0xea67	0x98	ALTO	#6A	C-Cygna...! Wh-What!?	
 0xeaab	0x06	Signa		ANI_WAIT3	
-0xead3	0x98	Signa		Don't "What!?" me!	
+0xead3	0x98	Signa		Don't 'What!?' me!	
 				Snap out of it.	
 0xeb15	0x98	Signa		We were just discussing who	
 				the hell this girl could be.	
@@ -688,7 +688,7 @@ EV_1_S00_go_jungle
 0xf818	0x06	NOI		ANI_GUTSPOSE	
 0xf883	0x98	NOI		I-If it's come to this, I	
 				must protect Lady Creha!	
-0xf8fa	0x98	ALTO	#6A	Umm, so this "Creha"...	
+0xf8fa	0x98	ALTO	#6A	Umm, so this 'Creha'...	
 				You mean this sleeping girl?	
 0xf96d	0x06	ALTO		ANI_THANKS	
 0xf99d	0x98	ALTO	#6A	We don't intend to put you or	
@@ -721,11 +721,11 @@ EV_1_S00_go_jungle
 				there are four continents that make up	
 				this impeccable world.	
 0xff53	0x06	ALTO		ANI_THINK2	
-0xff7b	0x98	ALTO	#6A	Terra... I think that means "earth"	
+0xff7b	0x98	ALTO	#6A	Terra... I think that means 'earth'	
 				in an ancient language, right?
 0xffe8	0x98	ALTO		The Garden, and four continents...?	
 0x10033	0x98	ALTO	#6A	I wonder if it's beyond	
-				the "End" of our world...?	
+				the 'End' of our world...?	
 0x1008d	0x06	ALTO		ANI_WAIT	
 0x100d8	0x06	NOI		ANI_DULL	
 0x100fd	0x98	NOI		...I don't know	
@@ -1050,10 +1050,10 @@ EV_2_S14_hear_gio_voice
 				information with Geo.	
 0x16e8c	0x40	UNDEF		It seemed that Geo hadn't seen Cygna either...	
 0x16ed6	0x40	UNDEF		Furthermore, it was revealed that the man	
-				calling himself "Zext" might be the leader 	
+				calling himself 'Zext' might be the leader 	
 				of the Mitos people.	
 0x170a6	0x41	None	#0W#2E#310c	It seems all you can do is confirm	
-				the true identity of "Zext" with him.#0E	
+				the true identity of 'Zext' with him.#0E	
 0x1714d	0x41	None	#0W#2E#310c	Anyway, my proper place	
 				is at the temple.#0E	
 0x171d7	0x41	None	#0W#2E#310c	If you need anything,	

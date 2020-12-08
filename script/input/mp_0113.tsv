@@ -684,13 +684,13 @@ QS_12_consult_a_lawyer
 				There's the Eternal Rose, a rose native	
 				to the East.	
 0x92c6	0x06	ALTO		ANI_WAIT	
-0x92ec	0x98	ALTO	#6A	The "Eternal Rose"...?	
+0x92ec	0x98	ALTO	#6A	The 'Eternal Rose'...?	
 0x9320	0x06	Sasha		ANI_TALK	
 0x9347	0x98	Sasha		As the name implies,	
 				it lives a long time and	
 				almost never withers.	
 0x93ae	0x98	Sasha		In the language of flowers, it stands for	
-				"eternal love"... It's a popular romantic	
+				'eternal love'... It's a popular romantic	
 				trend to give them to someone as a gift.	
 0x942d	0x06	Sasha		ANI_WAIT0	
 0x9455	0x06	ALTO		ANI_NOD	

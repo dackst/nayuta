@@ -619,7 +619,7 @@ QS_35_quest_start
 0xb652	0x6B	ALTO		Surprise	
 0xb684	0x98	ALTO	#6A	Now that you mention it, the	
 				letter said something like,	
-				"A clue about Sis."	
+				'A clue about Sis.'	
 0xb6f1	0x98	ALTO	#6A	What's this about your sister?	
 0xb73a	0x6B	Ursaminor		Ellipsis	
 0xb7bd	0x98	Ursaminor		...Look at this.	
@@ -775,9 +775,9 @@ QS_35_quest_end
 0xd771	0x98	ALTO	#6A	Yeah, I managed to get it to her.	
 				She even had a short reply, too.	
 0xd7bf	0x06	ALTO		ANI_GESTURE1	
-0xd7e9	0x98	ALTO	#6A	"Someday I'll find a huge treasure	
+0xd7e9	0x98	ALTO	#6A	'Someday I'll find a huge treasure	
 				 and come home. Stay well and don't	
-				 worry yourself sick."	
+				 worry yourself sick.'	
 0xd883	0x06	Ursaminor		ANI_WAIT2	
 0xd8af	0x98	Ursaminor		...I see.	mp_0001 0xa6e5
 0xd905	0x98	Ursaminor		..........	
@@ -940,7 +940,7 @@ EV_0_S10_meet_okita
 0x110c5	0x98	Signa	#6A	Hmph... Looks like the ruin fell closer	
 				to the island than I thought.	
 0x11121	0x98	Signa	#6A	It looks like some kind of tower...	
-				Let's call it the "Tower Ruins."	
+				Let's call it the 'Tower Ruins.'	
 0x11187	0x98	Signa	#6A	Good thing that it didn't	
 				create any damaging waves	
 				by falling so close.
@@ -1249,7 +1249,7 @@ EV_4_S13_meet_creha
 				something to help others...	
 0x16f97	0x06	Creha		ANI_NOD	
 0x16fcb	0x98	Creha	#1W	I am sure that is what it	
-				means to be "human."	
+				means to be 'human.'	
 0x1702f	0x06	ALTO		ANI_THINK	
 0x17064	0x98	ALTO	#2W#6A	Help others...?	
 				You might be right.	

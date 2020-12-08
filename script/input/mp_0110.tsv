@@ -696,7 +696,7 @@ quest_Asa
 0xb95f	0x07	System	#4C	Give the ingredients to Eartha and	
 				she will make a lunch box for you.	
 0xb9b3	0x07	System	#4C	Talk to Eartha using the ○ button	
-				and select "Lunch Box, Please!"	
+				and select 'Lunch Box, Please!'	
 				then select the dish you want to make.	
 quest_Lyra
 0xbae1	0x98	Lyra		Huh, did you...?	
@@ -879,7 +879,7 @@ QS_01_talk_Asa
 0xdf5d	0x07	System	#4C	Give the ingredients to Eartha and	mp_0110 0xb95f
 				she will make a lunch box for you.
 0xdfb4	0x07	System	#4C	Talk to Eartha using the ○ button	mp_0110 0xb9b3
-				and select "Lunch Box, Please!"
+				and select 'Lunch Box, Please!'
 				then select the dish you want to make.
 QS_01_cooked_LB
 0xe29c	0x06	ALTO		ANI_THANKS	
@@ -1423,7 +1423,7 @@ EV_0_S06_breakfast
 				an image of a beautiful other world.
 				  	
 0x18450	0x41	None	#0W#2E	People have taken to calling that world	
-				"Lost Heaven", and hold a wide array	
+				'Lost Heaven', and hold a wide array	
 				of theories about its nature.	
 0x18596	0x06	horogram		ANI_PATA1	
 0x18695	0x40	ALTO		Awesome! This is amazing, Eartha!	
@@ -1458,9 +1458,9 @@ EV_0_S06_breakfast
 0x18ed5	0x06	ALTO		ANI_THINK	
 0x18efc	0x98	ALTO		The world of Lost Heaven, 
 				seen only in star shards...	
-0x18f6b	0x98	ALTO		"Does this world exist?"	
-				"If so... then where is it?"	
-				"Why do star shards project this world?"	
+0x18f6b	0x98	ALTO		'Does this world exist?'	
+				'If so... then where is it?'	
+				'Why do star shards project this world?'	
 0x18ff5	0x98	ALTO		Researchers have attempted to 	
 				answer these kinds of questions	
 				since ancient times.	
@@ -1530,7 +1530,7 @@ EV_0_S06_breakfast
 				...But that's beside the point.	
 0x1a552	0x06	Signa		ANI_SIT2_GESTURE1	
 0x1a582	0x98	Signa		Actually, I've been thinking...	
-				We should resume the "Handyman Shop"	
+				We should resume the 'Handyman Shop'	
 				during our summer vacation.	
 0x1a621	0x6B	ALTO		Surprise	
 0x1a653	0xBC	Asa		Surprise	
@@ -1540,7 +1540,7 @@ EV_0_S06_breakfast
 0x1a796	0x98	Signa		Yep, that's exactly right.	
 0x1a7f1	0x98	Signa		We take various requests, and	
 				then solve them and get paid...	
-				A so-called "anything shop."	
+				A so-called 'anything shop.'	
 0x1a8aa	0x98	Signa		I was too busy in Saint Cerise with	
 				the city guard... But since we're
 				back, I thought...	
@@ -1591,7 +1591,7 @@ EV_0_S06_breakfast
 0x1b930	0x06	Asa		ANI_WAIT	
 0x1ba69	0xCE	Objective		Check the mailbox to look for the request letters.	
 0x1becd	0x07	System	#4C	Help screens like this one can be found	
-				in the camp menu under "Manual".	
+				in the camp menu under 'Manual'.	
 				They can be accessed at any time.	
 SB_0_S16_alto_move
 SB_0_S16_noi_move
@@ -1728,8 +1728,8 @@ EV_0_S16_noi_wakeup
 				throw our world into chaos!	
 0x1e8a9	0x06	ALTO		ANI_SIT1_SURPRISE	
 0x1e915	0x98	ALTO	#6A	W-Wait a minute.	
-				"Our world!?"	
-				"Throw into chaos"...?	
+				'Our world!?'	
+				'Throw into chaos'...?	
 0x1e97d	0x06	Signa		ANI_COMPLAIN	
 0x1e9c7	0x98	Signa		Hey, come on, you can	
 				come up with a better	
@@ -2406,7 +2406,7 @@ EV_3_S27_bring_creha
 				to be so worried about that.	
 0x2d1af	0x98	Creha		Huh...?	mp_0001 0x166ea
 0x2d1de	0x06	Asa		ANI_SIT1_GESTURE1	
-0x2d20c	0x98	Asa	#6A	"Who am I?"...	
+0x2d20c	0x98	Asa	#6A	'Who am I?'...	
 				No one knows the answer to
 				that question at first.	
 0x2d25f	0x98	Asa	#6A	I think the answer is just something
@@ -2789,18 +2789,18 @@ EV_8_S04_talk_noi
 				maybe you should relax for a while?
 0x35199	0x98	NOI	#6A	Uh, umm, that's not why...	
 0x351d7	0x98	NOI	#6A	To tell you the truth, I came	
-				here to this "Remnant Island"	
+				here to this 'Remnant Island'	
 				for a reason.	
 0x35247	0x98	ALTO		...A reason?	
 0x3529a	0x98	NOI	#6A	...To bring someone to Terra.	
 0x352f1	0x98	NOI	#6A	...Someone named	
-				"Nayuta Herschel"...	
+				'Nayuta Herschel'...	
 0x35344	0x6B	ALTO		Exclamation	
 0x35394	0x6B	Lyra		Exclamation	
 0x353e4	0x6B	Asa		Exclamation	
 0x35432	0x98	ALTO		You want to bring	
 				me to Terra...!?	
-0x3547e	0x98	NOI	#0W#6A	"Me"...?	
+0x3547e	0x98	NOI	#0W#6A	'Me'...?	
 0x354ad	0x98	NOI	#6A	Are you...!?	
 0x3554b	0x98	ALTO		Yes, I am Nayuta...	
 				Oh yeah, you don't remember.	
@@ -2841,9 +2841,9 @@ EV_8_S04_talk_noi
 0x35ca9	0x98	NOI	#6A	All I know for sure is	
 				that the voice guided me
 				to go to the surface...	
-0x35d30	0x98	NOI	#6A	"Bring Mr. Nayuta here, 	
+0x35d30	0x98	NOI	#6A	'Bring Mr. Nayuta here, 	
 				and Lady Creha and Lord	
-				Cygna can be saved..."	
+				Cygna can be saved...'	
 0x35da5	0x06	Lyra		ANI_THINK	
 0x35dcc	0x98	Lyra		Hmm... I dunno, I'm not really	
 				following the logic there...	

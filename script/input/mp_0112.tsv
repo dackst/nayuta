@@ -333,7 +333,7 @@ talk_Barton
 				You must be shocked, too.	
 0x63d1	0x98	Barton		I thought everyone was making a bunch	
 				of noise outside, and it turns out	
-				something called "snow" is falling.	
+				something called 'snow' is falling.	
 0x6441	0x98	Barton		Sure, I had heard of it from	
 				around the time Orvus first	
 				arrived at the island, but...	
@@ -927,7 +927,7 @@ talk_Antlia
 0xd31b	0x98	Antlia		Star shards are a type of crystal found	
 				in the Ciencia Sea with the ability to	
 				project mysterious scenery.	
-0xd3b4	0x98	Antlia		The landscape of this so-called "Lost Heaven."	
+0xd3b4	0x98	Antlia		The landscape of this so-called 'Lost Heaven.'	
 0xd3fd	0x98	Antlia		The scenes in each shard are different,	
 				and their value varies accordingly.
 0xd487	0x98	Antlia		The setup for viewing each shard is also different,	
@@ -1258,8 +1258,8 @@ talk_Sculp_addmes
 talk_S_and_A
 0x11b1f	0x98	Sculp		...And that's why Canie	
 				was so upset with me.	
-0x11b6d	0x98	Sculp		"When a child needs to be scolded,	
-				 you've got to scold them properly!"	
+0x11b6d	0x98	Sculp		'When a child needs to be scolded,	
+				 you've got to scold them properly!'	
 				she says.	
 0x11be1	0x98	Axe		Good grief, she completely	
 				dominates you, doesn't she?	
@@ -1789,7 +1789,7 @@ talk_Eida_Creha
 				to return, you come back all wet.	
 0x186b4	0x98	Lyra		...Here, I'll lend you a towel,	
 				so dry yourself off properly, okay?	
-0x18711	0x98	Creha		"Towel"...?	
+0x18711	0x98	Creha		'Towel'...?	
 0x1873b	0x6B	Lyra		Sweatdrop	
 0x1876d	0x98	Lyra		F-Forget it, just hold still.	
 				(Oh, all right, if I have to...)	
@@ -1823,13 +1823,13 @@ quest_Antlia
 				and is popular as an offering.	
 0x18e93	0x98	Antlia		It's a pure white color, and has for a	
 				long time believed to have the meaning	
-				of "repose of the soul."	
+				of 'repose of the soul.'	
 0x18f02	0x98	Antlia		I'm sorry to say, but it doesn't	
 				live in the Ciencia Sea.	
 0x18f5d	0x98	Antlia		Of all things, how could I forget the	
 				request for the Star Festival...	
 				I'm ashamed of myself.	
-0x1905e	0x98	Antlia		The "100-Year Peach" saplings are	
+0x1905e	0x98	Antlia		The '100-Year Peach' saplings are	
 				supposed to bear fruit in the	
 				summer if planted in spring.		
 0x190e0	0x98	Antlia		If you're interested, why	
@@ -1966,7 +1966,7 @@ QS_58_ask_reason
 0x1ac38	0x06	Ophiuchus		ANI_TALK	
 0x1ac63	0x98	Ophiuchus		Before he died... the wealthy man	
 				grew fond of a certain creature.	
-0x1accc	0x98	Ophiuchus		His cry sounds like, "Mishishi."
+0x1accc	0x98	Ophiuchus		His cry sounds like, 'Mishishi.'
 				He's even become an established	
 				mascot of a theme park.	
 0x1ad39	0x98	Ophiuchus		That's who the heir to the vast	
@@ -2135,7 +2135,7 @@ QS_13_quest_start
 0x1d47d	0x06	ALTO		ANI_GESTURE2	
 0x1d4a7	0x98	ALTO	#6A	So, Gruz. I've been	
 				meaning to ask you...	
-0x1d500	0x98	ALTO	#6A	The letter said, "New Dish Development,"	
+0x1d500	0x98	ALTO	#6A	The letter said, 'New Dish Development,'	
 				but, um, does this mean...?	
 0x1d569	0x98	Gruz		Yep, it's the same job I've requested from	
 				the Handyman Shop many times before.	
@@ -2414,7 +2414,7 @@ QS_21_get_seedling
 0x214d6	0x06	Antlia		ANI_SIT1_NOD	
 0x21502	0x98	Antlia		Yes, I just got them in	
 				stock on a recent voyage.	
-0x21555	0x98	Antlia		These are rare "100-Year Peaches"	
+0x21555	0x98	Antlia		These are rare '100-Year Peaches'	
 				that grow in an uninhabited island	
 				in the northern Ciencia Sea.
 0x215e6	0x98	Antlia		The fruit tastes profoundly sweet,	
@@ -2745,7 +2745,7 @@ QS_41_undertake
 				note by the bed.	
 0x25e23	0x06	Victor		ANI_GESTURE1	
 0x25e4f	0x98	Victor		The only thing it said was,	
-				"Please do not look for me."		
+				'Please do not look for me.'		
 0x25ec5	0x98	Victor		On top of that, the weather	
 				outside is looking strange.	
 				...Why is this happening...?	

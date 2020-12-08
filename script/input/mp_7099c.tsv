@@ -80,7 +80,7 @@ EV_7_S14_battle_zext
 0x2264	0x98	NOI	#0W#200x#270y	Wh-What, how!?	
 0x22ac	0x06	Zext		ANI_DENY	
 0x231e	0x98	Zext		...I do not quite know how, myself.	
-0x2360	0x98	Zext		Perhaps it was a "miracle," offered	
+0x2360	0x98	Zext		Perhaps it was a 'miracle,' offered	
 				by the providence of the stars.	
 0x23c1	0x98	Zext		I was brought back to save the	
 				world from destruction at the	
@@ -120,7 +120,7 @@ EV_7_S14_battle_zext
 0x3246	0x98	ALTO	#6A	If a human makes a mistake, then	
 				others should correct them!	
 0x32b5	0x98	ALTO	#6A	That is humanity's own responsibility!	
-0x3310	0x98	ALTO	#6A	You're not "gods" for looking	
+0x3310	0x98	ALTO	#6A	You're not 'gods' for looking	
 				down at us from above!!	
 0x3388	0x98	Zext	#140x#120y#1W	............	mp_0001 0x15fd5
 0x33c9	0x06	NOI		ANI_COMPLAIN	
@@ -331,7 +331,7 @@ EV_7_S15_last_battle
 0x9b19	0x41	None	#2E#733c#1W#16S	...Now is the time for the	
 				Recreation to take place...!#0E	
 0x9d5a	0x98	NOI	#6A#16S	That's the idol of the Planetarium!	
-0x9da7	0x98	NOI	#6A#16S	It's "Zext's" true form! 	
+0x9da7	0x98	NOI	#6A#16S	It's 'Zext's' true form! 	
 0x9df2	0x98	ALTO	#16S	Wh-What can we do!?	mp_2099 0x4f2e
 0x9e52	0x98	Creha	#6A	The Planetarium has given	
 				itself the final command!!	
@@ -403,7 +403,7 @@ EV_7_S16_defeat_zext
 0xc6fb	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xc731	0x98	ALTO	#6A	Haha... I did it, somehow.	
 				I'm glad you're safe too.	
-0xc782	0x98	ALTO	#6A	"Zext"... I kinda	
+0xc782	0x98	ALTO	#6A	'Zext'... I kinda	
 				feel sorry for him...	
 0xc80e	0x06	NOI		ANI_THINK	
 0xc834	0xBC	NOI		Ellipsis	
@@ -532,11 +532,11 @@ EV_7_S18_go_astrolabe
 0xf001	0xBC	Signa		Surprise	
 0xf108	0x06	NOI		ANI_GUTSPOSE	
 0xf14e	0x98	NOI	#6A	If we use the crystal	
-				"Zext" dropped to the	
+				'Zext' dropped to the	
 				surface a while ago...	
 0xf21e	0x40	NOI		That crystal acts as an anchor to	
 				attach the Planetarium to the surface...	
-0xf286	0x40	NOI		"Zext" said it could connect	
+0xf286	0x40	NOI		'Zext' said it could connect	
 				Terra to the surface!	
 0xf3ce	0x06	NOI		ANI_GESTURE1	
 0xf3f7	0x98	NOI	#6A	If we do the same thing with that	

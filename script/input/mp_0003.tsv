@@ -495,7 +495,7 @@ talk_Bell
 0x8b7e	0x98	Bell		Hey, Cory, what's that stuff	
 				drying out in front of our house?	
 0x8bd7	0x98	Bell		Too bad, time's up!	
-				The answer was "fish!!"	
+				The answer was 'fish!!'	
 0x8c1f	0x98	baby		Abubu...	
 talk_Collie
 0x8ca2	0x98	Collie		Aah...	
@@ -513,7 +513,7 @@ talk_Collie
 talk_Hydol
 0x8f4e	0x98	Hydol		Wh-What is this...?	
 				What's happening?	
-0x8f9f	0x98	Hydol		It seems that "snow" is falling.	
+0x8f9f	0x98	Hydol		It seems that 'snow' is falling.	
 				I've never seen it before...
 0x902e	0x98	Hydol		Hmm... Furthermore, it feels	
 				as if it's getting colder.	
@@ -556,7 +556,7 @@ talk_Ophiuchus
 				takes to find him...	
 0x982e	0x98	Ophiuchus		I hope this goes smoothly.	
 talk_Antlia
-0x989c	0x98	Antlia		I've heard about "snow" many times	
+0x989c	0x98	Antlia		I've heard about 'snow' many times	
 				from my trader associates.	
 0x98fa	0x98	Antlia		In the North Sea, the snow blocks	
 				visibility and makes it impossible	
@@ -624,12 +624,12 @@ talk_Ursaminor_Reticul2
 talk_Vavo
 0xa4f0	0x98	Vavo		There is a legend that on the	
 				other side of the End of the	
-				World is a never-ending "Hell."	
+				World is a never-ending 'Hell.'	
 0xa55f	0x98	Vavo		Since it mainly only affects the northern reaches	
 				of the continent, which is close to the End, the	
-				disease was named "Hell Fever," but...	
+				disease was named 'Hell Fever,' but...	
 0xa5f0	0x98	Vavo		...As a matter of fact, there have been	
-				recent reports that the "End" has been	
+				recent reports that the 'End' has been	
 				gradually expanding towards this island...		
 0xa672	0x98	Vavo		It may be no mere coincidence	
 				that a new case of Hell Fever	
@@ -1199,7 +1199,7 @@ QS_41_ask_captain
 				She did come by here a little while ago.	
 0x120da	0x06	Puppis		ANI_WAIT0	
 0x12103	0x98	Puppis		I don't know why, but she was shouting,	
-				"Hurry up and launch the ship!" and	
+				'Hurry up and launch the ship!' and	
 				generally making a bunch of noise.	
 0x1216d	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1219c	0x98	ALTO	#6A	L-Launch the ship?	
@@ -1242,7 +1242,7 @@ QS_41_ask_captain
 0x128e4	0x98	Puppis		No problem. Good luck.	
 0x12971	0x06	Puppis		ANI_WAIT0	
 QS_11_look_boat
-0x12b0c	0x98	ALTO		"A vehicle for setting out on a journey"...	
+0x12b0c	0x98	ALTO		'A vehicle for setting out on a journey'...	
 				Ax's boat seems suspicious...	
 0x12c35	0x98	ALTO		Hey Ax, got a minute?	
 0x12ca3	0x98	Axe	#6A	What is it?	
@@ -1277,7 +1277,7 @@ tuto_museum
 0x1364d	0x98	Volans	#20M	Oh, I'll deal with 
 				that for you...	
 0x137cd	0x06	ALTO		ANI_THINK	
-0x137f4	0x98	ALTO		(Sure enough, "Museum"	
+0x137f4	0x98	ALTO		(Sure enough, 'Museum'	
 				 is written out there...)	
 0x1383f	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x1386d	0x98	ALTO		Haha, there's no way... Right?	
@@ -1372,7 +1372,7 @@ EV_4_S09_creha_scene_3rd
 0x1699a	0x98	Lyra	#0W#6A	...Don't tell me you're	
 				planning to get married!?	
 0x169ff	0x06	Creha		ANI_THINK	
-0x16a7b	0x98	Creha	#0W	..."Mare...reed"...?	
+0x16a7b	0x98	Creha	#0W	...'Mare...reed'...?	
 0x16abb	0x06	Lyra		ANI_DENY	
 0x16aef	0x98	Lyra	#0W#6A	W-Well, glad that's	
 				not the case.	

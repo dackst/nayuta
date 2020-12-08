@@ -105,7 +105,7 @@ subev_return_island1
 0x480b	0x98	ALTO		Looks like... we're back safe?	
 0x484c	0x06	Signa		ANI_SCRATCH_HEAD	
 0x487b	0x98	Signa		Yeah, that's a relief, huh?	
-0x48af	0x98	Signa		Noi said she "forgot to disconnect the transfer gate"	
+0x48af	0x98	Signa		Noi said she 'forgot to disconnect the transfer gate'	
 				or something, so I guess we can continue to go back	
 				and forth as long as it stays connected.	
 0x4941	0x98	ALTO		*huff*, *huff*...	
@@ -323,10 +323,10 @@ QS_11_third_hint
 				you should search the	
 				knight's backside.	
 0x80be	0x06	ALTO		ANI_THINK2	
-0x80e6	0x98	ALTO		"The hole peeping at the sky..."	
+0x80e6	0x98	ALTO		'The hole peeping at the sky...'	
 				It sure sounds like my astronomical	
 				telescope, doesn't it?	
-0x815a	0x98	ALTO		The note said "look through" it...	
+0x815a	0x98	ALTO		The note said 'look through' it...	
 0x81af	0x06	ALTO		ANI_USE_TELESCOPE	
 0x81e6	0x40	UNDEF		Nayuta looked into the astronomical telescope.	
 0x824d	0x06	ALTO		ANI_HOLD	
@@ -424,7 +424,7 @@ EV_0_S07_check_post
 0xa2df	0x06	ALTO		ANI_THINK2	
 0xa307	0x98	ALTO	#6A	Hey, but... This request	
 				from Master seems to say,
-				"Please meet me together."	
+				'Please meet me together.'	
 0xa37b	0x06	Signa		ANI_SURPRISE	
 0xa3a6	0x98	Signa		Yeah, well, you're in	
 				charge of that one!	
@@ -443,8 +443,8 @@ EV_0_S07_check_post
 				with these jobs, I've got to	
 				make sure they're done right.	
 0xa880	0xCE	Objective		I received two requests. Gotta finish 'em up quickly!	
-0xa96c	0x07	System	#4C	Acquired trophy, "Start of a Handyman."	
-0xa9a0	0x07	System	#4C	Like this one, there are "trophies"	
+0xa96c	0x07	System	#4C	Acquired trophy, 'Start of a Handyman.'	
+0xa9a0	0x07	System	#4C	Like this one, there are 'trophies'	
 				you can earn throughout the game	
 				by fulfilling certain conditions.	
 0xaa0d	0x07	System	#4C	You can check earned trophies in the camp	
@@ -466,11 +466,11 @@ SB_0_S08_lyra_move3
 0xb103	0x06	Lyra		ANI_RUN2	
 EV_0_S08_fall_remain
 0xb3ee	0x06	Lyra		ANI_THINK	
-0xb439	0x98	Lyra	#1W	"It's been a while. You look well."	
+0xb439	0x98	Lyra	#1W	'It's been a while. You look well.'	
 				...Hmm, no, that's a little boring.	
 0xb49b	0x06	Lyra		ANI_WAIT	
 0xb511	0x06	Lyra		ANI_JOY	
-0xb546	0x98	Lyra	#0W	"Hello Nayuta! ☆ Long time no see! ♪"	
+0xb546	0x98	Lyra	#0W	'Hello Nayuta! ☆ Long time no see! ♪'	
 				...That's way too out of character!	
 0xb5c6	0x06	Lyra		ANI_WORRIED	
 0xb5fd	0x98	Lyra	#1W	Oooh, come on! This our	
@@ -581,7 +581,7 @@ EV_0_S08_fall_remain
 				coming from the sky...	
 0xd791	0x98	ALTO	#6A	...Wait a minute!	
 0xd848	0x98	Lyra		Ah, what, Nayuta!?	
-0xda51	0x98	ALTO	#6A	Maybe it's "that" phenomenon.	
+0xda51	0x98	ALTO	#6A	Maybe it's 'that' phenomenon.	
 0xda91	0x98	ALTO	#6A	Anyway, it's coming from...	
 0xe06a	0x06	Lyra		ANI_WAIT	
 0xe104	0x06	Signa		ANI_WAIT	
@@ -781,8 +781,8 @@ EV_2_S02_ask_asa
 0x12dfe	0x06	ALTO		ANI_GESTURE2	
 0x12e28	0x98	ALTO		...Something bothering you?	
 0x12e69	0x06	Asa		ANI_WAIT4	
-0x12e8f	0x98	Asa	#6A	"I'll be taking a break from the Handyman Shop	
-				for a while. I'm leaving Nayuta in charge..."	
+0x12e8f	0x98	Asa	#6A	'I'll be taking a break from the Handyman Shop	
+				for a while. I'm leaving Nayuta in charge...'	
 				That's what he told me to tell you.	
 0x12f2e	0x98	Asa	#6A	He had a different vibe than	
 				usual. He looked pretty serious.	
@@ -1054,7 +1054,7 @@ EV_8_S05_remove_warp
 				told me to do, but... I am glad	
 				to see it all worked out well.
 0x19fcf	0x06	ALTO		ANI_THINK2	
-0x19ff7	0x98	ALTO	#6A	(The owner of this "voice"...	
+0x19ff7	0x98	ALTO	#6A	(The owner of this 'voice'...	
 				 They seem to be very familiar	
 				 with the inner workings of Terra.)	
 0x1a074	0x98	ALTO	#6A	(I wonder who it really is...)	
@@ -1068,7 +1068,7 @@ EV_8_S05_remove_warp
 				Could you just call me Nayuta?	
 0x1a21b	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x1a249	0x98	ALTO	#6A	If you somehow start making me call	
-				you "miss," it'll make my skin crawl.	
+				you 'miss,' it'll make my skin crawl.	
 0x1a2b4	0x98	NOI		U-Umm... Really?	
 0x1a2ea	0x06	NOI		ANI_NOD	
 0x1a30e	0x98	NOI		...U-Understood. I look forward	

@@ -107,7 +107,7 @@ EV_1_S01_jungle1_start
 0x2f9b	0x07	System	#4C	Noi has been added to your companions,	
 				and you can now control her.	
 0x2fec	0x07	System	#4C	Noi is a partner who can fight	
-				using magic called "arts."	
+				using magic called 'arts.'	
 				Use her well with Nayuta to continue.	
 0x3315	0x07	System	#4C	Stage Clear status is now	
 				displayed on the submenu.	

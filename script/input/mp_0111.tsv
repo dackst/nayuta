@@ -694,7 +694,7 @@ talk_Creha
 				and made them beautiful.	
 0xa05c	0x98	Creha		Somehow, they seemed to get	
 				more beautiful, little by little.	
-0xa0b9	0x98	Creha		By the way... "Arm-er"...	
+0xa0b9	0x98	Creha		By the way... 'Arm-er'...	
 				What do they use it for...?
 0xa122	0x98	ALTO		Ahahaha...	
 				(Looks like she's really dedicated to this.	
@@ -756,7 +756,7 @@ quest_Eida
 				you'll bring to the table.	
 quest_Columha
 0xaee0	0x98	Columha		...She told us something like,	
-				"I'm going to go watch the fish."	
+				'I'm going to go watch the fish.'	
 0xaf5a	0x98	Columha		She didn't say where	
 				exactly, though.	
 0xafa7	0x98	Columha		...Phew, but still...	
@@ -945,7 +945,7 @@ QS_24_get_local_cuisine
 				specialties at the moment.	
 0xd5ce	0x06	ALTO		ANI_GESTURE2	
 0xd5f8	0x98	ALTO	#6A	What kind of dish is	
-				this "Island Loco Moco?"	
+				this 'Island Loco Moco?'	
 0xd647	0x06	Columha		ANI_TALK	
 0xd670	0x98	Columha		It's white rice topped with steak,	
 				fried eggs, and local island vegetables.	
@@ -1050,13 +1050,13 @@ QS_41_getting_information
 				she did say something...	
 0xee9f	0x06	Columha		ANI_TALK	
 0xeec8	0x98	Columha		...Yeah, it was something like,	
-				"I'm going to go watch the fish."	
+				'I'm going to go watch the fish.'	
 0xef30	0x06	Eida		ANI_WAIT	
 0xef56	0x98	Columha		She didn't say where	mp_0111 0xaf5a
 				exactly, though.
 0xefa8	0x06	Columha		ANI_WAIT	
 0xefd1	0x06	ALTO		ANI_THINK2	
-0xeff9	0x98	ALTO	#6A	"Fish?"	
+0xeff9	0x98	ALTO	#6A	'Fish?'	
 				I can think of lots of	
 				places that could be.	
 0xf048	0x06	ALTO		ANI_OJIGI	
@@ -1126,13 +1126,13 @@ QS_41_getting_information2
 				she did say something...
 0x10031	0x06	Columha		ANI_TALK	
 0x1005a	0x98	Columha		...Yeah, it was something like,	mp_0111 0xeec8
-				"I'm going to go watch the fish."
+				'I'm going to go watch the fish.'
 0x100c2	0x06	Eida		ANI_WAIT	
 0x100e8	0x98	Columha		She didn't say where	mp_0111 0xaf5a
 				exactly, though.
 0x1013a	0x06	Columha		ANI_WAIT	
 0x10163	0x06	ALTO		ANI_THINK2	
-0x10197	0x98	ALTO	#6A	"Fish?"	mp_0111 0xeff9
+0x10197	0x98	ALTO	#6A	'Fish?'	mp_0111 0xeff9
 				I can think of lots of
 				places that could be.
 0x101e6	0x06	ALTO		ANI_OJIGI	

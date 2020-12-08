@@ -721,7 +721,7 @@
 0xc4f0	name	Sandalwood Branch
 0xc508	desc	Wooden branch found on the Mountain Continent. Has a pure fragrance.
 0xc57c	name	Ursamina's Letter
-0xc594	desc	Addressed to "Reticul."
+0xc594	desc	Addressed to 'Reticul.'
 0xc608	name	Red Pigment
 0xc620	desc	Pigment collected on Mountain Continent. A vivid red color.
 0xc694	name	Yellow Pigment
@@ -755,7 +755,7 @@
 0xce3c	name	Ingredients Bundle
 0xce54	desc	From Dorado. Contains vegetables and bacon.
 0xcec8	name	Mishy
-0xcee0	desc	Mysterious animal that cries, "Misshi." Understands human speech.
+0xcee0	desc	Mysterious animal that cries, 'Misshi.' Understands human speech.
 0xcf54	name	
 0xcf6c	desc	
 0xcfe0	name	
@@ -1019,7 +1019,7 @@
 0x1166c	name	Meat Sushi
 0x11684	desc	Unconventional dish where the fish is swapped for meat.
 0x116f8	name	Oyakodon
-0x11710	desc	"Parent and child" rice bowl with chicken and egg.
+0x11710	desc	'Parent and child' rice bowl with chicken and egg.
 0x11784	name	Special Katsudon
 0x1179c	desc	Fried pork on top, dessert on bottom.
 0x11810	name	Ginger Pork

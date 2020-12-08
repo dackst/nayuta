@@ -54,14 +54,14 @@ OS_58_TBOX
 0x1d4a	0x06	NOI		ANI_WAIT	
 0x1d6f	0x98	Michy		...Mishi, mishii.	
 0x1da1	0x06	NOI		ANI_GESTURE2	
-0x1dca	0x98	NOI	#6A	"I came to the island before	
-				 with my master as tourists."	
-0x1e2b	0x98	NOI	#6A	"My master liked the island too.	
-				 I have fond memories of that time."	
+0x1dca	0x98	NOI	#6A	'I came to the island before	
+				 with my master as tourists.'	
+0x1e2b	0x98	NOI	#6A	'My master liked the island too.	
+				 I have fond memories of that time.'	
 0x1e8f	0x06	NOI		ANI_GESTURE1	
-0x1eb8	0x98	NOI	#6A	"I feel connected with my	
+0x1eb8	0x98	NOI	#6A	'I feel connected with my	
 				 dead master here, and that	
-				 makes me feel reassured."	
+				 makes me feel reassured.'	
 0x1f3c	0x98	ALTO	#6A	I-Is that so...?	
 				You have a huge	
 				amount of energy.	
@@ -73,11 +73,11 @@ OS_58_TBOX
 0x204d	0x98	Michy		Mishishi.	
 				Mishimishi, Mishishii.	
 0x208d	0x06	NOI		ANI_GESTURE1	
-0x20b6	0x98	NOI	#6A	"If those two found me, they	
+0x20b6	0x98	NOI	#6A	'If those two found me, they	
 				 would make me return to the	
-				 estate immediately."	
-0x2125	0x98	NOI	#6A	"I want to enjoy my memories	
-				 of my master awhile longer."	
+				 estate immediately.'	
+0x2125	0x98	NOI	#6A	'I want to enjoy my memories	
+				 of my master awhile longer.'	
 0x2180	0x06	ALTO		ANI_NOD	
 0x21a5	0x98	ALTO	#6A	...I see. I feel	
 				like I understand.	
@@ -91,21 +91,21 @@ OS_58_TBOX
 				to worry them so much?	
 0x231f	0x6B	Michy		Ellipsis	
 0x236b	0x98	Michy		...Mishishi, mishi.	
-0x239f	0x98	NOI	#6A	"That might be true.	
-				 I understand."	
-0x23e4	0x98	NOI	#6A	"Before long, the time will	
+0x239f	0x98	NOI	#6A	'That might be true.	
+				 I understand.'	
+0x23e4	0x98	NOI	#6A	'Before long, the time will	
 				 come when I, too, can	
-				 overcome my grief."	
+				 overcome my grief.'	
 0x25d2	0x06	ALTO		ANI_SURPRISE	
 0x25fc	0x98	ALTO	#6A	Wha...!?	
 0x2627	0xC1	System		obtained.	mp_0000 0x7558
 0x26f3	0x3F	Name		Mishy	
 0x2701	0x98	ALTO	#N#6A#4C#210x#170y	Mishishi!	
 0x274c	0x06	NOI		ANI_GESTURE2	
-0x2775	0x98	NOI	#6A	"Let me into	
-				 your pocket."	
-0x27b1	0x98	NOI	#6A	"Can you take	
-				 me to them?"	
+0x2775	0x98	NOI	#6A	'Let me into	
+				 your pocket.'	
+0x27b1	0x98	NOI	#6A	'Can you take	
+				 me to them?'	
 0x27f3	0x6B	ALTO		Sweatdrop	
 0x2825	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x2853	0x98	ALTO		Haha... Got it.	

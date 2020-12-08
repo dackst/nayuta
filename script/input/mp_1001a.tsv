@@ -179,7 +179,7 @@ EV_1_S04_defeat_mons
 0x3fdf	0x98	Signa		No, no, wait a sec.	
 				I get that part, but...	
 0x4037	0x06	ALTO		ANI_GESTURE2	
-0x4061	0x98	ALTO	#6A	...Did you say "magic"?	
+0x4061	0x98	ALTO	#6A	...Did you say 'magic'?	
 0x40a9	0x6B	NOI		Question	
 0x4112	0x98	NOI		Uh, y-yeah, I guess...	
 				What's wrong?	

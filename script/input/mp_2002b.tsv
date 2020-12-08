@@ -53,7 +53,7 @@ SUB_meet_adventurer
 				on here.
 0x2091	0x3F	Name		Youth with Rucksack	mp_0003 0xa0db
 0x20ac	0x06	Cetus		ANI_WAIT2	
-0x20d4	0x98	Cetus		Hmm, so it's called "Terra"...	
+0x20d4	0x98	Cetus		Hmm, so it's called 'Terra'...	
 				It's certainly a strange world	
 				to have folks like this.	
 0x2183	0x06	Cetus		ANI_WAIT3	
@@ -71,7 +71,7 @@ SUB_meet_adventurer
 				She's called Noi.	
 0x23bd	0x06	ALTO		ANI_GESTURE1	
 0x23fe	0x98	NOI		N-Nayuta, what's	
-				an "adventurer?"	
+				an 'adventurer?'	
 0x245b	0x98	ALTO		Someone who travels to all	
 				sorts of places, pursuing	
 				dreams and romance.	

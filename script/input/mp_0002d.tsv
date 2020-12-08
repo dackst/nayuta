@@ -124,7 +124,7 @@ tuto_Aulbath
 				powerful ally in a tough battle.
 0x1f15	0x98	Aulbath		It is a good idea to keep this in mind,	mp_0002 0x53f4
 				and to fight actively when possible.
-0x1fa4	0x98	Aulbath		If you unleash "Spinning Cut,"	mp_0002 0x5483
+0x1fa4	0x98	Aulbath		If you unleash 'Spinning Cut,'	mp_0002 0x5483
 				you can hit flying monsters.
 0x2005	0x98	Aulbath		You can also launch smaller monsters into	mp_0002 0x54e4
 				the air. If you can master it, you can gain
@@ -133,9 +133,9 @@ tuto_Aulbath
 				to launch larger enemies.
 				Something to keep in mind.
 0x211c	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x55fb
-				more powerful secret technique, "Vacuum Blade."
+				more powerful secret technique, 'Vacuum Blade.'
 				You can confirm its true nature in battle.
-0x21f7	0x98	Aulbath		"Down Thrust" is an attack that uses the	mp_0002 0x56d6
+0x21f7	0x98	Aulbath		'Down Thrust' is an attack that uses the	mp_0002 0x56d6
 				momentum of a fall to increase its power.
 0x2266	0x98	Aulbath		Its distinguishing feature is	mp_0002 0x5745
 				that, of all the sword techniques,
@@ -144,9 +144,9 @@ tuto_Aulbath
 				there are many different ways to use it.
 				You can try finding them out on your own.
 0x2390	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x586f
-				more powerful secret technique, "Meteor Attack."
+				more powerful secret technique, 'Meteor Attack.'
 				You can confirm its true nature in battle.
-0x246f	0x98	Aulbath		"Kamaitachi" unleashes an	mp_0002 0x594e
+0x246f	0x98	Aulbath		'Kamaitachi' unleashes an	mp_0002 0x594e
 				intense stroke of your sword
 				with a quick step.
 0x24dd	0x98	Aulbath		This technique, infused with sword chi,	mp_0002 0x59bc
@@ -156,9 +156,9 @@ tuto_Aulbath
 				longer reach. It is possible to attack
 				from a distance with this technique.
 0x261e	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x5afd
-				more powerful secret technique, "Divine Wind."
+				more powerful secret technique, 'Divine Wind.'
 				You can confirm its true nature in battle.
-0x26f9	0x98	Aulbath		"Swallow Return" can cut down all	mp_0002 0x5bd8
+0x26f9	0x98	Aulbath		'Swallow Return' can cut down all	mp_0002 0x5bd8
 				surrounding enemies in an instant.
 0x2761	0x98	Aulbath		It also has the effect of pulling the enemies	mp_0002 0x5c40
 				towards you. This is very powerful in melee.
@@ -166,7 +166,7 @@ tuto_Aulbath
 				but if mastered, it can be a powerful tool.
 				Never tire, and keep practicing.
 0x28c2	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x5da1
-				more powerful secret technique, "Fallen Lotus."
+				more powerful secret technique, 'Fallen Lotus.'
 				You can confirm its true nature in battle.
 0x29a0	0x98	Aulbath		There exist two types of swords:	mp_0002 0x5e7f
 				One-handed and two-handed swords.
@@ -181,10 +181,10 @@ tuto_Aulbath
 				sword most comfortable for you to use.
 0x2c2d	0x98	Aulbath		Some monsters can cause	mp_0002 0x610c
 				various status conditions.
-0x2c97	0x98	Aulbath		"Poison" rapidly saps your stamina, and	mp_0002 0x6176
-				"paralysis" greatly slows your movement...
-0x2d26	0x98	Aulbath		"Freezing" can stop your movements,	mp_0002 0x6205
-				"confusion" derails your actions.
+0x2c97	0x98	Aulbath		'Poison' rapidly saps your stamina, and	mp_0002 0x6176
+				'paralysis' greatly slows your movement...
+0x2d26	0x98	Aulbath		'Freezing' can stop your movements,	mp_0002 0x6205
+				'confusion' derails your actions.
 0x2d96	0x98	Aulbath		Though all can be reversed with time,	mp_0002 0x6275
 				there exists equipment that improves
 				resistance and status recovery items.

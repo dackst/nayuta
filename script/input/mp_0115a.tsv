@@ -41,13 +41,13 @@ lp_grasshopper
 0x21a5	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x21c1	0x36	Choice		Quit	mp_0002 0x433f
 0x2247	0x41	None		[Chinese Grasshopper] Acrida cinerea	
-				Grasshopper known as the "inviting grasshopper."	
+				Grasshopper known as the 'inviting grasshopper.'	
 				With a triangular head, males make a	
-				"kachi-kachi-kachi" sound when they fly.	
+				'kachi-kachi-kachi' sound when they fly.	
 0x2395	0x41	None		[Locust] Locusta migratoria	
 				Large grasshopper living mainly in grassy plains.	
 				When there is not much food, they swarm and	
-				destroy crops everywhere as "plagues."	
+				destroy crops everywhere as 'plagues.'	
 0x24ee	0x41	None		[Japanese Giant Mantis] Tenodera aridifolia	
 				Predatory insect with large sickle-shaped forelegs.	
 				Capturing and eating various insects with quick	
@@ -73,16 +73,16 @@ lp_cicada
 0x2c98	0x41	None		[Yezo Cicada] Lyristes japonicus	
 				Large cicada that lives in northern regions and	
 				dense mountains. Perching upside down on tree bark,	
-				They cry their "gii, gii" monotone call.	
+				They cry their 'gii, gii' monotone call.	
 0x2e18	0x41	None		[Walker's Cicada] Meimuna opalifera	
 				Cicada active from summer to fall. Because you	
-				can hear their "tsuku-tsuku-boushi" cry,	
+				can hear their 'tsuku-tsuku-boushi' cry,	
 				that is how they get their Japanese common	
-				name of "Tsukutsukuboushi." .	
+				name of 'Tsukutsukuboushi.' .	
 0x2fe2	0x41	None		[Evening Cicada] Tanna japonensis	
 				Cicada living in forests of Japanese	
 				cypress and cedar. From summer to fall,	
-				their sad "kana-kana-kana" cry resounds.	
+				their sad 'kana-kana-kana' cry resounds.	
 lp_dragonfly
 0x32cf	0x36	Choice		Jumbo Dragonfly	
 0x32ef	0x36	Choice		？？？？？？	mp_0115a 0x176c

@@ -70,7 +70,7 @@ AL_shop
 0x2c8b	0x07	System	#4C	The winter of Origin Continent	mp_0100 0x31a9
 				La Worg has been unlocked.
 0x2e20	0x07	System	#3C	On Infinity difficulty, enemy levels will now scale.	mp_0100 0x333e
-0x2e98	0x07	System	#4C	※Item, "Infinity Enemy Restore" has been added.	mp_0100 0x33b6
+0x2e98	0x07	System	#4C	※Item, 'Infinity Enemy Restore' has been added.	mp_0100 0x33b6
 				If used, enemy levels will be returned to fixed values.
 0x300a	0x07	System	#3C	On Infinity difficulty, enemy levels are now fixed.	mp_0100 0x3528
 0x3141	0x07	System	#3C	On Infinity difficulty, enemy levels will now scale.	mp_0100 0x333e
@@ -148,7 +148,7 @@ EV_6_S33_set_all_key
 				I can finish you off painlessly	
 				without any suffering.	
 0x62fe	0x98	Creha	#1W	So...	
-0x6334	0x98	NOI	#6A	"Finish you off"...?	
+0x6334	0x98	NOI	#6A	'Finish you off'...?	
 				Please don't say that!	
 0x6395	0x98	ALTO	#6A	...Yeah, she's right.	
 0x63cd	0x06	ALTO		ANI_JOY	
@@ -186,7 +186,7 @@ EV_6_S33_set_all_key
 0x6b0a	0x06	Creha		ANI_PUT_HAND_CONSOLE	
 0x6d63	0x98	NOI	#6A	Lady Creha, what are you...?	
 0x6dce	0x98	Creha	#0W	Stored inside the Astrolabe	
-				is an "Ancient Memory"	
+				is an 'Ancient Memory'	
 				preserved from the past.
 0x6e39	0x98	Creha	#0W	A dreadful, heartbreaking memory from long	
 				ago, when the world was destroyed...	

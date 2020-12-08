@@ -49,7 +49,7 @@ talk_Carina
 				us for some dried fish.	
 0x169e	0x98	Carina		Since we had leftovers, I went to get him some,	
 				but then I saw him patting Cory's head saying,
-				"It's the only way to survive..."		
+				'It's the only way to survive...'		
 0x1713	0x98	Carina		Nayuta, are you playing a	
 				survival game with Cygna?	
 0x1762	0x98	ALTO		Uh, no, I don't think so...	
@@ -75,7 +75,7 @@ talk_Bell
 				No, Noi, wasn't it?	
 				Thank you for earlier.	
 0x1b84	0x98	Bell		You guys defeated that	
-				huge monster, like "pow"!	
+				huge monster, like 'pow'!	
 				That was super cool!	
 0x1bd6	0x98	ALTO		Haha, thanks.	
 0x1c04	0x98	NOI		Though you're small,	
@@ -217,7 +217,7 @@ quest_Bell
 				treasure won't be that easy～.	
 0x37d3	0x98	Bell		Good luck in your search!	
 0x3833	0x98	Bell		The treasure search hint is...	
-				"Second floor places are good."	
+				'Second floor places are good.'	
 0x3890	0x98	Bell		Well then, good luck!	mp_0000 0x11984
 quest_Carina
 0x3990	0x98	Carina		We always eat the offerings	
@@ -299,8 +299,8 @@ QS_11_first_hint
 				the clue to the hiding place!	
 0x4935	0x06	Bell		ANI_WAIT2	
 0x495c	0x98	Bell	#6A	Ahem, umm...	
-0x498b	0x98	Bell	#6A	..."A place where you can go up stairs	
-				 and see over everyone's heads."	
+0x498b	0x98	Bell	#6A	...'A place where you can go up stairs	
+				 and see over everyone's heads.'	
 0x49f9	0x6B	ALTO		Ellipsis	
 0x4a2b	0x06	ALTO		ANI_GESTURE2	
 0x4a55	0x98	ALTO		...That's it?	
@@ -377,7 +377,7 @@ QS_25_speak_to_Carina
 				to check up on my progress after	
 				I gave birth to Cory.	
 0x5c07	0x06	ALTO		ANI_GESTURE2	
-0x5c31	0x98	ALTO	#6A	"Progress"...? Did the	
+0x5c31	0x98	ALTO	#6A	'Progress'...? Did the	
 				doctor also care for	
 				you during the birth?	
 0x5ca1	0x06	Carina		ANI_NOD	

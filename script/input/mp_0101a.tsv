@@ -53,7 +53,7 @@ EV_6_S18_search_key
 0x1f55	0x40	ALTO		Star Capital... Lexendria...	
 0x1f98	0x40	NOI		It's supposedly named after	
 				an ancient continent.	
-0x1fe8	0x40	NOI		There are four "Pillars" here	
+0x1fe8	0x40	NOI		There are four 'Pillars' here	
 				that supply each continent	
 				with astral power.	
 0x20dd	0x06	ALTO		ANI_NOD	
@@ -94,7 +94,7 @@ EV_6_S18_search_key
 				Mitos to use it, we'd need four	
 				Stellagears, though...	
 0x28d7	0x06	ALTO		ANI_GESTURE1	
-0x2901	0x98	ALTO		"Stellagears"...?	
+0x2901	0x98	ALTO		'Stellagears'...?	
 0x2938	0x06	NOI		ANI_GESTURE1	
 0x2961	0x98	NOI	#6A	They're the counterparts	
 				to the Master Gears in	
@@ -120,7 +120,7 @@ EV_6_S18_search_key
 				from the front of the Garden.	
 0x308b	0xCE	Objective		Stellagears are in the Pillars of Lexendria. Let's get them!	
 0x3117	0x07	System	#4C	The submenu movement command	
-				"Star Capital Lexendria"	
+				'Star Capital Lexendria'	
 				has been added.	
 SB_6_S32_appear_ALTO
 SB_6_S32_appear_NOI

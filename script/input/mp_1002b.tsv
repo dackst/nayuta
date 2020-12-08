@@ -80,13 +80,13 @@ QS_81_check_altar
 0x2817	0x98	NOI		But I think we're not	
 				doing something right.	
 0x2863	0x98	ALTO		If I remember correctly, didn't it say,	
-				"offer up this box in order of the seasons,	
-				with them changed as they should be"...?	
+				'offer up this box in order of the seasons,	
+				with them changed as they should be'...?	
 0x290a	0x98	ALTO		(Maybe I need to follow some	
 				 kind of seasonal order?)	
-0x29a7	0x98	ALTO		("If you wish to release the locks,	
+0x29a7	0x98	ALTO		('If you wish to release the locks,	
 				 offer up this box in order of the seasons,	
-				 with them changed as they should be"...)	
+				 with them changed as they should be'...)	
 0x2a2f	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
 				 kind of seasonal order?)
 QS_81_hang_out_box
@@ -245,10 +245,10 @@ EV_2_S20_help_gio
 0x750a	0x98	NOI	#6A	W-Well...	mp_0101 0x610e
 0x7540	0x06	ALTO		ANI_COMPLAIN	
 0x756a	0x98	ALTO	#6A	Wh-What do you mean	
-				"Lord" Zext...!?	
+				'Lord' Zext...!?	
 0x75ee	0x98	Gio		The Mitos race that	
 				created Terra...	
-0x7650	0x98	Gio		"Zext" is the name	
+0x7650	0x98	Gio		'Zext' is the name	
 				of their leader.	
 0x76e4	0x98	Gio		I heard he died	
 				long ago, but...	

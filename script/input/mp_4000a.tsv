@@ -12,8 +12,8 @@ QS_81_hang_out_box
 0xdcc	0x98	ALTO		This is where the barrier	
 				that held Nemeas was.	
 0xe24	0x98	ALTO		I remember being told that	
-				they "use the weather of	
-				its surrounding environment."	
+				they 'use the weather of	
+				its surrounding environment.'	
 0xe95	0x98	NOI	#6A	I see... Looks like the lock	mp_1002b 0x27a4
 				was made using areas filled
 				with the astral power.
@@ -38,8 +38,8 @@ QS_81_hang_out_box
 0x1420	0x98	ALTO		...Hmm, no good.	
 				It still doesn't open.	
 0x1471	0x06	NOI		ANI_THINK	
-0x1497	0x98	NOI	#6A	"This box is sealed	
-				 with four locks..."	
+0x1497	0x98	NOI	#6A	'This box is sealed	
+				 with four locks...'	
 0x14dd	0x06	NOI		ANI_WAIT	
 0x1502	0x98	NOI	#6A	Like it says, there seems	
 				to be multiple locks.	
@@ -122,7 +122,7 @@ EV_5_S06_help_nemeas
 0x43df	0x06	NOI		ANI_PRAY	
 0x4424	0x06	Nemeas		ANI_USE_POWER	
 0x46da	0xC1	System		#3CNoi learned 『Gear Drive』!	
-0x477c	0x07	System	#4C	Noi learned "Gear Drive".	
+0x477c	0x07	System	#4C	Noi learned 'Gear Drive'.	
 				You can now travel at high speeds	
 				and run up walls with bumpy surfaces.	
 0x4829	0x06	Nemeas		ANI_WAIT	
@@ -145,5 +145,5 @@ EV_5_S06_help_nemeas
 				To Heliograd!	
 0x4f7e	0x06	NOI		ANI_GESTURE2	
 0x4fc4	0x98	NOI		...Understood!	mp_0001 0x122a0
-0x5332	0x07	System	#4C	Activate "Drive" by holding the △ button.	
+0x5332	0x07	System	#4C	Activate 'Drive' by holding the △ button.	
 0x55c5	0xCE	Objective		Creha's in Heliograd... I gotta find out what she really wants!	

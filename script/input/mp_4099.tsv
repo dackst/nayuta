@@ -412,12 +412,12 @@ quest_SpiritD
 0x7fe3	0x98	NOI	#6A	It says it's not one of those,	mp_1099 0xa68e
 				but it's just as powerful, or more...
 0x804a	0x06	NOI		ANI_COMPLAIN	
-0x8073	0x98	NOI	#6A	"Unnatural creatures, spawned by the	mp_1099 0xa71e
+0x8073	0x98	NOI	#6A	'Unnatural creatures, spawned by the	mp_1099 0xa71e
 				abnormalities, have been wandering
-				the world wreaking havoc."
-0x8103	0x98	NOI	#6A	"If we don't do anything, a lot	mp_1099 0xa7ae
+				the world wreaking havoc.'
+0x8103	0x98	NOI	#6A	'If we don't do anything, a lot	mp_1099 0xa7ae
 				of the fauna on this continent
-				are going to die!" it says.
+				are going to die!' it says.
 0x815a	0x06	NOI		ANI_DEJECTED	
 0x8183	0x98	NOI	#6A	This one normally patrols the continents,	mp_1099 0xaa58
 				but it seems like they can't hold back
@@ -425,12 +425,12 @@ quest_SpiritD
 0x8208	0x98	NOI	#6A	It says it's not one of those,	mp_1099 0xa8c5
 				but it's just as powerful, or more...
 0x8265	0x06	NOI		ANI_COMPLAIN	
-0x828e	0x98	NOI		"Unnatural creatures, spawned by the	mp_1099 0xa71e
+0x828e	0x98	NOI		'Unnatural creatures, spawned by the	mp_1099 0xa71e
 				abnormalities, have been wandering
-				the world wreaking havoc."
-0x82ec	0x98	NOI	#6A	"If we don't do anything, a lot	mp_1099 0xa7ae
+				the world wreaking havoc.'
+0x82ec	0x98	NOI	#6A	'If we don't do anything, a lot	mp_1099 0xa7ae
 				of the fauna on this continent
-				are going to die!" it says.
+				are going to die!' it says.
 0x8343	0x06	NOI		ANI_DEJECTED	
 0x836c	0x98	NOI	#6A	This one normally patrols the continents,	mp_1099 0xaa58
 				but it seems like they can't hold back
@@ -515,10 +515,10 @@ quest_SpiritD
 0x91ac	0x98	SpiritD		..........	
 				.........!	
 0x91e3	0x06	NOI		ANI_COMPLAIN	
-0x9224	0x98	NOI	#6A	It says, "It is very dangerous	
-				to approach, so be careful."	
-0x92a9	0x98	NOI	#6A	It says, "It is very dangerous	mp_4099 0x9224
-				to approach, so be careful."
+0x9224	0x98	NOI	#6A	It says, 'It is very dangerous	
+				to approach, so be careful.'	
+0x92a9	0x98	NOI	#6A	It says, 'It is very dangerous	mp_4099 0x9224
+				to approach, so be careful.'
 0x9326	0x06	ALTO		ANI_JOY	
 0x934b	0x98	ALTO		Okay, thanks. Now let's go and	
 				change the season to summer!	
@@ -540,11 +540,11 @@ quest_SpiritD_End
 0x9a04	0x98	NOI	#6A	Yes, it says it feels the presence	mp_1099 0xc0cc
 				of that monster disappearing.
 0x9a66	0x06	NOI		ANI_GESTURE1	
-0x9a8f	0x98	NOI	#6A	It says, "Thank you."	mp_1099 0xc157
+0x9a8f	0x98	NOI	#6A	It says, 'Thank you.'	mp_1099 0xc157
 0x9ad4	0x98	NOI	#6A	Yeah, it senses the presence	mp_1099 0xc19c
 				of that monster disappearing.
 0x9b32	0x06	NOI		ANI_GESTURE1	
-0x9b5b	0x98	NOI	#6A	It says, "Thank you."	mp_1099 0xc157
+0x9b5b	0x98	NOI	#6A	It says, 'Thank you.'	mp_1099 0xc157
 0x9b98	0x6B	SpiritD		Surprise	
 0x9c36	0x98	SpiritD		...☆	mp_1099 0x2f07
 0x9c64	0xC1	System		received.	mp_0000 0x12596

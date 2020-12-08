@@ -148,7 +148,7 @@ quest_Gio
 				it was in a terrible hurry.	
 0x3216	0x98	Gio		I feel the presence of Nemeas'	
 				nymph in midwestern Oltapia, in	
-				the forest known as "Hermit's Path".	
+				the forest known as 'Hermit's Path'.	
 0x32af	0x98	Gio		You might want to set the season	
 				to summer and look for it there.	
 0x3307	0x98	Gio		I imagine it would be pretty confused.	
@@ -277,7 +277,7 @@ QS_24_undertake
 0x4c51	0x98	Gio		Nayuta, I want you to bring specialties	
 				from your hometown to me here.	
 0x4cc4	0x06	NOI		ANI_THINK	
-0x4cea	0x98	NOI	#6A	"Specialties"?	
+0x4cea	0x98	NOI	#6A	'Specialties'?	
 0x4d1d	0x06	NOI		ANI_GESTURE1	
 0x4d46	0x98	NOI	#6A	So, like, food and stuff?	
 0x4d7b	0x06	ALTO		ANI_GOODIDEA	
@@ -351,7 +351,7 @@ QS_24_quest_end
 0x5f95	0x98	ALTO	#6A	The village elder seems to like them,	
 				and often eats them for a snack.	
 0x5ff6	0x06	Gio		ANI_THINK	
-0x601c	0x98	Gio		Hoho, a human "snack"...	
+0x601c	0x98	Gio		Hoho, a human 'snack'...	
 				Let's try one.	
 0x606c	0x06	Gio		ANI_NOD	
 0x6090	0x98	Gio		*chew*, *chew*	
@@ -361,7 +361,7 @@ QS_24_quest_end
 0x6128	0x98	ALTO	#6A	(Hmm, he seems to like the dried squid...	
 				 As expected from an elderly person.)	
 0x6196	0x98	Gio		Next is this package,	
-				"Island Loco Moco", was it?	
+				'Island Loco Moco', was it?	
 0x61ee	0x06	Gio		ANI_THINK	
 0x6214	0x98	Gio		Hmm, this meaty quality...
 				It's perfect for those	
@@ -400,7 +400,7 @@ QS_24_quest_end
 0x67ff	0x98	ALTO	#6A	As the name implies, it's rock salt from	
 				the ruins that fell on the island's shore.	
 0x6879	0x6B	Gio		Surprise	
-0x68bf	0x98	Gio		Ruins that "fell", you say?	
+0x68bf	0x98	Gio		Ruins that 'fell', you say?	
 0x68f8	0x06	ALTO		ANI_GESTURE1	
 0x6922	0x98	ALTO	#6A	Yeah, umm... In my world, ruins	
 				sometimes fall from the sky.	
@@ -608,7 +608,7 @@ QS_54_talk_gio
 0x98b9	0x98	ALTO	#6A	Thank goodness... Do you know where?	
 0x9908	0x06	Gio		ANI_GESTURE1	
 0x9931	0x98	Gio		The presence is in the vicinity of	
-				the forest known as "Hermit's Path"
+				the forest known as 'Hermit's Path'
 				in midwestern Oltapia.	
 0x99cc	0x98	Gio		It seems pretty confused,	
 				so you should go in the
@@ -665,12 +665,12 @@ quest_SpiritD
 0xa68e	0x98	NOI	#6A	It says it's not one of those,	
 				but it's just as powerful, or more...		
 0xa6f5	0x06	NOI		ANI_COMPLAIN	
-0xa71e	0x98	NOI	#6A	"Unnatural creatures, spawned by the	
+0xa71e	0x98	NOI	#6A	'Unnatural creatures, spawned by the	
 				abnormalities, have been wandering	
-				the world wreaking havoc."	
-0xa7ae	0x98	NOI	#6A	"If we don't do anything, a lot	
+				the world wreaking havoc.'	
+0xa7ae	0x98	NOI	#6A	'If we don't do anything, a lot	
 				of the fauna on this continent	
-				are going to die!" it says.	
+				are going to die!' it says.	
 0xa805	0x06	NOI		ANI_DEJECTED	
 0xa82e	0x98	NOI	#6A	This one normally patrols the continent,	
 				but it seems like they can't hold back	
@@ -678,12 +678,12 @@ quest_SpiritD
 0xa8c5	0x98	NOI	#6A	It says it's not one of those,	
 				but it's just as powerful, or more...	
 0xa91f	0x06	NOI		ANI_COMPLAIN	
-0xa948	0x98	NOI	#6A	"Unnatural creatures, spawned by the	mp_1099 0xa71e
+0xa948	0x98	NOI	#6A	'Unnatural creatures, spawned by the	mp_1099 0xa71e
 				abnormalities, have been wandering
-				the world wreaking havoc."
-0xa9d8	0x98	NOI	#6A	"If we don't do anything, a lot	mp_1099 0xa7ae
+				the world wreaking havoc.'
+0xa9d8	0x98	NOI	#6A	'If we don't do anything, a lot	mp_1099 0xa7ae
 				of the fauna on this continent
-				are going to die!" it says.
+				are going to die!' it says.
 0xaa2f	0x06	NOI		ANI_DEJECTED	
 0xaa58	0x98	NOI	#6A	This one normally patrols the continent,	
 				but it seems like they can't hold back	
@@ -793,11 +793,11 @@ quest_SpiritD_End
 0xc0cc	0x98	NOI	#6A	Yes, it says it feels the presence	
 				of that monster disappearing.	
 0xc12e	0x06	NOI		ANI_GESTURE1	
-0xc157	0x98	NOI	#6A	It says, "Thank you."	
+0xc157	0x98	NOI	#6A	It says, 'Thank you.'	
 0xc19c	0x98	NOI	#6A	Yeah, it senses the presence	
 				of that monster disappearing.	
 0xc1fa	0x06	NOI		ANI_GESTURE1	
-0xc223	0x98	NOI	#6A	It says, "Thank you."	mp_1099 0xc157
+0xc223	0x98	NOI	#6A	It says, 'Thank you.'	mp_1099 0xc157
 0xc260	0x6B	SpiritD		Unknown	
 0xc2fe	0x98	SpiritD		...☆	mp_1099 0x2f07
 0xc32c	0xC1	System		received.	mp_0000 0x12596
@@ -1095,7 +1095,7 @@ EV_1_S08_vs_seram
 0x1272c	0x98	Signa		It was the feeling of	
 				facing one's fear.	
 0x127b4	0x06	Signa		ANI_BATTOU	
-0x129b4	0x98	Signa		I thought then, "You're gonna try to kill me."	
+0x129b4	0x98	Signa		I thought then, 'You're gonna try to kill me.'	
 0x12a09	0x98	Signa		I didn't want my little bro	
 				to have to watch that...	
 0x12a67	0x98	Signa		...That's all.	
@@ -1218,7 +1218,7 @@ EV_1_S12_battle_end
 				Wh-Why did those idols	
 				attack us...	
 0x17184	0x98	ALTO	#6A	Y-You called it that before, but...	
-				What in the world is an "idol"...?	
+				What in the world is an 'idol'...?	
 0x17213	0x06	NOI		ANI_WAIT	
 0x17268	0x98	NOI		...They're beings created by	
 				Mitos to protect the temple.	
@@ -1337,7 +1337,7 @@ EV_5_S10_signa_vs_seram
 0x1a46e	0x40	Signa	#0W	Why was I asleep...?	
 				Well, let's put that matter aside for now.	
 0x1a4d8	0x40	Signa	#0W	One day...	
-				An "accident" occurred.	
+				An 'accident' occurred.	
 0x1a527	0x40	Signa	#0W	In an event that neither I nor	
 				Creha could have predicted...	
 0x1a590	0x40	Signa	#0W	...My existence was	
@@ -1348,7 +1348,7 @@ EV_5_S10_signa_vs_seram
 0x1a6d4	0x40	Signa	#0W	Anyway, due to the shock, one of	
 				my selves lost his memory...	
 				And somehow, wound up on Remnant Island.	
-0x1a75a	0x40	Signa	#0W	That was "Cygna" ─	
+0x1a75a	0x40	Signa	#0W	That was 'Cygna' ─	
 				the me who became Nayuta's friend.	
 0x1a828	0x40	Signa	#0W	In a manner of speaking, it must	
 				have been fate for that me to	
@@ -1357,10 +1357,10 @@ EV_5_S10_signa_vs_seram
 				towards the Oltapia temple, as if	
 				drawn to it.	
 0x1a8fe	0x40	Signa	#0W	He had to confront the	
-				masked man "Selam" again.	
+				masked man 'Selam' again.	
 0x1aac6	0x40	Signa	#0W	The battle was fierce.	
 				A true battle to the death.	
-0x1ac32	0x40	Signa	#0W	"Cygna" and "Selam" both	
+0x1ac32	0x40	Signa	#0W	'Cygna' and 'Selam' both	
 				took a fatal wound, and used	
 				up all their strength...	
 0x1adda	0x40	Signa	#0W	...And then.	
@@ -1368,7 +1368,7 @@ EV_5_S10_signa_vs_seram
 0x1b569	0x40	Signa	#0W	The two were finally able to	
 				return to their original state.	
 0x1b5d8	0x40	Signa	#0W	I regained my lost memories and 	
-				powers of the Mitos as "Selam."	
+				powers of the Mitos as 'Selam.'	
 Yure1
 Yure2
 Yure3

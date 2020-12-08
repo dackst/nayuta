@@ -422,12 +422,12 @@ quest_SpiritD
 0x920d	0x98	NOI	#6A	It says it's not one of those,	mp_1099 0xa68e
 				but it's just as powerful, or more...
 0x9274	0x06	NOI		ANI_COMPLAIN	
-0x929d	0x98	NOI	#6A	"Unnatural creatures, spawned by the	mp_1099 0xa71e
+0x929d	0x98	NOI	#6A	'Unnatural creatures, spawned by the	mp_1099 0xa71e
 				abnormalities, have been wandering
-				the world wreaking havoc."
-0x932d	0x98	NOI	#6A	"If we don't do anything, a lot	mp_1099 0xa7ae
+				the world wreaking havoc.'
+0x932d	0x98	NOI	#6A	'If we don't do anything, a lot	mp_1099 0xa7ae
 				of the fauna on this continent
-				are going to die!" it says.
+				are going to die!' it says.
 0x9384	0x06	NOI		ANI_DEJECTED	
 0x93ad	0x98	NOI	#6A	This one normally patrols the continents,	mp_1099 0xaa58
 				but it seems like they can't hold back
@@ -435,12 +435,12 @@ quest_SpiritD
 0x9432	0x98	NOI	#6A	It says it's not one of those,	mp_1099 0xa8c5
 				but it's just as powerful, or more...
 0x948f	0x06	NOI		ANI_COMPLAIN	
-0x94b8	0x98	NOI	#6A	"Unnatural creatures, spawned by the	mp_1099 0xa71e
+0x94b8	0x98	NOI	#6A	'Unnatural creatures, spawned by the	mp_1099 0xa71e
 				abnormalities, have been wandering
-				the world wreaking havoc."
-0x9548	0x98	NOI	#6A	"If we don't do anything, a lot	mp_1099 0xa7ae
+				the world wreaking havoc.'
+0x9548	0x98	NOI	#6A	'If we don't do anything, a lot	mp_1099 0xa7ae
 				of the fauna on this continent
-				are going to die!" it says.
+				are going to die!' it says.
 0x959f	0x06	NOI		ANI_DEJECTED	
 0x95c8	0x98	NOI	#6A	This one normally patrols the continents,	mp_1099 0xaa58
 				but it seems like they can't hold back
@@ -554,11 +554,11 @@ quest_SpiritD_End
 0xae5b	0x98	NOI	#6A	Yes, it says it feels the presence	mp_1099 0xc0cc
 				of that monster disappearing.
 0xaebd	0x06	NOI		ANI_GESTURE1	
-0xaee6	0x98	NOI	#6A	It says, "Thank you."	mp_1099 0xc157
+0xaee6	0x98	NOI	#6A	It says, 'Thank you.'	mp_1099 0xc157
 0xaf2b	0x98	NOI	#6A	Yeah, it senses the presence	mp_1099 0xc19c
 				of that monster disappearing.
 0xaf89	0x06	NOI		ANI_GESTURE1	
-0xafb2	0x98	NOI	#6A	It says, "Thank you."	mp_1099 0xc157
+0xafb2	0x98	NOI	#6A	It says, 'Thank you.'	mp_1099 0xc157
 0xafef	0x6B	SpiritD		Ellipsis	
 0xb08d	0x98	SpiritD		....	
 0xb0b4	0xC1	System		received.	mp_0000 0x12596
@@ -854,7 +854,7 @@ EV_3_S16_boss_battle
 				And you also said that	
 				they created Terra...	
 0x11919	0x98	ALTO	#6A	They're almost like what we would	
-				call "gods" back in my world.	
+				call 'gods' back in my world.	
 0x1198e	0x98	NOI	#0W#6A#12S	...Because they ARE...	
 0x11a26	0x98	ALTO	#6A	Huh, what did you say?	
 0x11ab3	0x06	NOI		ANI_DENY	

@@ -173,9 +173,9 @@ training_Aulbath
 0x5e89	0x06	ALTO		ANI_THANKS	
 0x5eb1	0x98	ALTO		Yes!	
 				Thank you very much!	
-0x5f89	0x07	System	#4C	You can reference the newly acquired skill under "Manual"	
-				in the menu. If you speak with Master and select "Hear	
-				Tactics Instruction," you can hear more detailed info.	
+0x5f89	0x07	System	#4C	You can reference the newly acquired skill under 'Manual'	
+				in the menu. If you speak with Master and select 'Hear	
+				Tactics Instruction,' you can hear more detailed info.	
 0x6093	0x98	Aulbath		It seems that you have accumulated	
 				additional seals in your training book.	
 0x6117	0x98	Aulbath		...Yes, if you collect six more seals,	

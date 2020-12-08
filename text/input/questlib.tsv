@@ -40,20 +40,20 @@
 0xa78	line	a nice prize in it for you!
 0xaac	line	I'll be at my house near the
 0xae0	line	harbor!
-0xb80	line	"A place where you can go	
+0xb80	line	'A place where you can go	
 0xbb4	line	 up stairs and see over 
-0xbe8	line	 everyone's heads."
+0xbe8	line	 everyone's heads.'
 0xc1c	line	Apparently that's all I get.
-0xcbc	line	"Look throught the hole
-0xcf0	line	 peering at the sky"...?
+0xcbc	line	'Look throught the hole
+0xcf0	line	 peering at the sky'...?
 0xd24	line	In that case...
 0xd58	line	
-0xdf8	line	"The back of the knight"?
+0xdf8	line	'The back of the knight'?
 0xe2c	line	It's probably the person
 0xe60	line	always wearing armor.
 0xe94	line	
-0xf34	line	"A vehicle for setting off
-0xf68	line	 on a journey"...
+0xf34	line	'A vehicle for setting off
+0xf68	line	 on a journey'...
 0xf9c	line	It's probably under a boat.
 0xfd0	line	Which boat could it be?
 0x1020	quest name	A Thankful Gift
@@ -175,7 +175,7 @@
 0x2fb4	line	let's head to winter
 0x2fe8	line	of Shaded Animal Trail.
 0x3088	line	Defeated the monster, 
-0x30bc	line	"Bismarck!"
+0x30bc	line	'Bismarck!'
 0x30f0	line	Let's report back immediately.
 0x3124	line	
 0x3174	quest name	Pigment Supply
@@ -243,7 +243,7 @@
 0x4238	line	ready, let's head to autumn
 0x426c	line	of Scrying Pool Caves.
 0x430c	line	Defeated the monster,
-0x4340	line	"Albion!"
+0x4340	line	'Albion!'
 0x4374	line	Let's report back immediately.
 0x43a8	line	
 0x43f8	quest name	Missing Daughter
@@ -257,7 +257,7 @@
 0x45ec	line	shop. I'll ask the people
 0x4620	line	there about it.
 0x46c0	line	It seems Equulea left the
-0x46f4	line	shop to "watch the fish."
+0x46f4	line	shop to 'watch the fish.'
 0x4728	line	Maybe someone else saw
 0x475c	line	her.
 0x47fc	line	Seems like we just missed
@@ -319,7 +319,7 @@
 0x5734	line	let's head to the spring
 0x5768	line	of Heavenly Mountain.
 0x5808	line	Defeated the monster, 
-0x583c	line	"Lindworm!"
+0x583c	line	'Lindworm!'
 0x5870	line	Let's report back immediately.
 0x58a4	line	
 0x58f4	quest name	Where Are the Nymphs?
@@ -356,7 +356,7 @@
 0x6148	line	
 0x61e8	line	I'm asked to search for the
 0x621c	line	animal Mishy which cries,
-0x6250	line	"Mishishi." He should be
+0x6250	line	'Mishishi.' He should be
 0x6284	line	hiding in the village.
 0x6324	line	Mishy ran away...
 0x6358	line	Did anyone else see
@@ -393,7 +393,7 @@
 0x6c30	line	let's head to the summer
 0x6c64	line	of Infernal Crater.
 0x6d04	line	Defeated the monster,
-0x6d38	line	"Yak Drudger!"
+0x6d38	line	'Yak Drudger!'
 0x6d6c	line	Let's report back
 0x6da0	line	immediately.
 0x6df0	quest name	New Dish Development
@@ -433,7 +433,7 @@
 0x76e4	line	Where the wardens were
 0x7718	line	were sealed... There
 0x774c	line	may be some clue in
-0x7780	line	"each season in order."
+0x7780	line	'each season in order.'
 0x7820	line	The locks were finally
 0x7854	line	released. Let's review
 0x7888	line	the contents with Master

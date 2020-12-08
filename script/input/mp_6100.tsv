@@ -65,7 +65,7 @@ EV_0_S15_find_noi
 0x22d0	0x98	Signa	#2W#N	A little... girl?	
 0x2319	0x98	Signa	#1W#N	No, she's small, but she	
 				doesn't look like a kid.	
-0x238b	0x98	ALTO	#0W#6A	...Almost like a "fairy"	
+0x238b	0x98	ALTO	#0W#6A	...Almost like a 'fairy'	
 				out of a fairy tale.	
 0x2404	0x06	Signa		ANI_GESTURE2	
 0x243d	0x98	Signa	#2W#N	A f-fairy? Hey, come on,	
@@ -210,14 +210,14 @@ EV_0_S15_find_noi
 				talk a bunch before they left...	
 0x70d2	0x06	Signa		ANI_WAIT3	
 0x70fa	0x98	Signa	#6A	...I don't know.	
-0x7136	0x98	Signa	#6A	"This world," "that world," some 	
-				kind of "gear"... There's too	
+0x7136	0x98	Signa	#6A	'This world,' 'that world,' some 	
+				kind of 'gear'... There's too	
 				many things I don't understand.	
 0x71ce	0x98	ALTO		That's true. Some of what they	
 				said still bothers me...	
 0x7242	0x98	ALTO		In any case, we still have	
 				to take care of this girl.	
-0x7290	0x98	ALTO		...Was it "Noi"	
+0x7290	0x98	ALTO		...Was it 'Noi'	
 				they called her?	
 0x72db	0x06	Signa		ANI_WAIT2	
 0x7303	0x98	Signa	#6A	Right. How about we go to	

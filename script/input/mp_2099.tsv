@@ -281,7 +281,7 @@ QS_33_undertake
 0x51a1	0x98	ALTO	#6A	I see... There are birds	
 				from my world that also	
 				have a similar life cycle.	
-0x520f	0x98	ALTO	#6A	"Penguins," I think they're called..	
+0x520f	0x98	ALTO	#6A	'Penguins,' I think they're called..	
 0x5267	0x06	ALTO		ANI_WAIT	
 0x528d	0x06	NOI		ANI_THINK	
 0x52b3	0x98	NOI	#6A	Now that we've got the Master Gear back,	
@@ -418,12 +418,12 @@ quest_SpiritD
 0x742b	0x98	NOI	#6A	It says it's not one of those,	mp_1099 0xa68e
 				but it's just as powerful, or more...
 0x749e	0x06	NOI		ANI_COMPLAIN	
-0x74c7	0x98	NOI	#6A	"Unnatural creatures, spawned by the	mp_1099 0xa71e
+0x74c7	0x98	NOI	#6A	'Unnatural creatures, spawned by the	mp_1099 0xa71e
 				abnormalities, have been wandering
-				the world wreaking havoc."
-0x755e	0x98	NOI	#6A	"If we don't do anything, a lot	mp_1099 0xa7ae
+				the world wreaking havoc.'
+0x755e	0x98	NOI	#6A	'If we don't do anything, a lot	mp_1099 0xa7ae
 				of the fauna on this continent
-				are going to die!" it says.
+				are going to die!' it says.
 0x75e5	0x06	NOI		ANI_DEJECTED	
 0x760e	0x98	NOI	#6A	This one normally patrols the continents,	mp_1099 0xa82e
 				but it seems like they can't hold back
@@ -431,12 +431,12 @@ quest_SpiritD
 0x7689	0x98	NOI	#6A	It says it's not one of those,	mp_1099 0xa8c5
 				but it's just as powerful, or more...
 0x76f1	0x06	NOI		ANI_COMPLAIN	
-0x771a	0x98	NOI	#6A	"Unnatural creatures, spawned by the	mp_1099 0xa71e
+0x771a	0x98	NOI	#6A	'Unnatural creatures, spawned by the	mp_1099 0xa71e
 				abnormalities, have been wandering
-				the world wreaking havoc."
-0x77b1	0x98	NOI	#6A	"If we don't do anything, a lot	mp_1099 0xa7ae
+				the world wreaking havoc.'
+0x77b1	0x98	NOI	#6A	'If we don't do anything, a lot	mp_1099 0xa7ae
 				of the fauna on this continent
-				are going to die!" it says.
+				are going to die!' it says.
 0x7838	0x06	NOI		ANI_DEJECTED	
 0x7861	0x98	NOI	#6A	This one normally patrols the continents,	mp_1099 0xa82e
 				but it seems like they can't hold back
@@ -548,11 +548,11 @@ quest_SpiritD_End
 0x8f19	0x98	NOI	#6A	Yes, it says it feels the presence	mp_1099 0xc0cc
 				of that monster disappearing.
 0x8f7b	0x06	NOI		ANI_GESTURE1	
-0x8fa4	0x98	NOI	#6A	It says, "Thank you."	mp_1099 0xc157
+0x8fa4	0x98	NOI	#6A	It says, 'Thank you.'	mp_1099 0xc157
 0x8fe9	0x98	NOI	#6A	Yeah, it senses the presence	mp_1099 0xc19c
 				of that monster disappearing.
 0x9047	0x06	NOI		ANI_GESTURE1	
-0x9070	0x98	NOI	#6A	It says, "Thank you."	mp_1099 0xc157
+0x9070	0x98	NOI	#6A	It says, 'Thank you.'	mp_1099 0xc157
 0x90ad	0x6B	SpiritD		Unknown	
 0x914b	0x98	SpiritD		......㈱㈱	
 0x9178	0xC1	System		received.	mp_0000 0x12596
@@ -852,7 +852,7 @@ QS_54_talk_Erislet
 0xf6dc	0x06	Erislet		ANI_GESTURE1	
 0xf709	0x98	Erislet		It seems to be in the mid-eastern part	
 				of Rieseweld, in the area called the	
-				"Scrying Pool Caves."	
+				'Scrying Pool Caves.'	
 0xf79f	0x98	Erislet		It seems pretty confused,	
 				so you should go during
 				the normal season.	
@@ -951,7 +951,7 @@ EV_2_S23_boss_battle
 				You met Cygna!?	
 0x143ac	0x06	ALTO		ANI_COMPLAIN	
 0x143f4	0x98	ALTO		Tell me! Where is he now!?	
-0x14474	0x98	Zext	#6A	..."Cygna?" I know no such	
+0x14474	0x98	Zext	#6A	...'Cygna?' I know no such	
 				person with that name.	
 0x144c1	0x98	Zext	#6A	Even if I did, I would have	
 				no obligation to tell you.	
@@ -1011,8 +1011,8 @@ EV_2_S23_boss_battle
 				The final key is now in place.	
 0x162b1	0x98	Zext		The Plan is almost ready	
 				for the next phase.	
-0x16302	0x98	ALTO	#6A	"Plan"...!?	
-				"Final key"...!?	
+0x16302	0x98	ALTO	#6A	'Plan'...!?	
+				'Final key'...!?	
 0x1635a	0x06	Zext		ANI_PUT_UP_ROD	
 0x16508	0x6B	ALTO		Exclamation	
 0x1653a	0x6B	NOI		Exclamation	
