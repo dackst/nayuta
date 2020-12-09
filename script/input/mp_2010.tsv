@@ -1,27 +1,27 @@
-mp_2010
-init
-Hide_sp_null01
-Hide_sp_null02
-Appear_sp_null01
-Appear_sp_null02
-Appear_sp_null01_02
-set_lever01
+mp_2010					
+init					
+Hide_sp_null01					
+Hide_sp_null02					
+Appear_sp_null01					
+Appear_sp_null02					
+Appear_sp_null01_02					
+set_lever01					
 0x7ae	0x06	swt01		ANI_LEVER_ON_LOCK	
-set_block01
+set_block01					
 0x930	0x06	lev_01		ANI_LEVER_OFF	
 0xab5	0x06	lev_01		ANI_LEVER_OFF	
-waterwheel01
+waterwheel01					
 0xb6e	0x06	ob_pw01_01		ANI_WATER	
 0xeec	0x06	lev_01		ANI_LEVER_ON_LOCK	
-set_lever02
+set_lever02					
 0x1059	0x06	swt02		ANI_LEVER_ON_LOCK	
-set_block02
+set_block02					
 0x12f1	0x06	lev_02		ANI_LEVER_OFF	
 0x159e	0x06	lev_02		ANI_LEVER_OFF	
-waterwheel02
+waterwheel02					
 0x1671	0x06	ob_pw02_02		ANI_WATER	
 0x1869	0x06	lev_02		ANI_LEVER_ON_LOCK	
-waterwheel02_miss_1
+waterwheel02_miss_1					
 0x1906	0x06	PLAYER1		ANI_WAIT	
 0x1937	0x6B	PLAYER1		Ellipsis	
 0x1964	0x6B	PLAYER2		Ellipsis	
@@ -31,33 +31,33 @@ waterwheel02_miss_1
 0x1b4e	0x98	PLAYER1		Maybe... the orientation	
 				of that statue has	
 				something to do with it?	
-battle01
+battle01					
 0x1be8	0x6B	ALTO		Exclamation	
-dead_EV01
-open_door1
-battle02
+dead_EV01					
+open_door1					
+battle02					
 0x21d6	0x6B	ALTO		Exclamation	
-dead_EV02
-open_door2
-open_door3
+dead_EV02					
+open_door2					
+open_door3					
 0x26b9	0x06	swt03		ANI_LEVER_ON_LOCK	
-set_block03
+set_block03					
 0x2b1b	0x06	lev_03		ANI_LEVER_OFF	
 0x2f28	0x06	lev_03		ANI_LEVER_OFF	
-waterwheel03
+waterwheel03					
 0x2ffb	0x06	ob_pw03_04		ANI_WATER	
 0x327f	0x06	lev_03		ANI_LEVER_ON_LOCK	
-waterwheel03_miss_1
-waterwheel03_miss_2
-waterwheel03_miss_3
-waterwheel03_miss
+waterwheel03_miss_1					
+waterwheel03_miss_2					
+waterwheel03_miss_3					
+waterwheel03_miss					
 0x342f	0x06	PLAYER1		ANI_WAIT	
 0x3460	0x6B	PLAYER1		Ellipsis	
 0x348d	0x6B	PLAYER2		Ellipsis	
 0x3536	0x98	PLAYER2		Huh? Nothing's happening?	mp_2010 0x1a0d
 0x3574	0x98	PLAYER1		But there's definitely	mp_2010 0x1a4b
-				a device here...
+				a device here...	
 0x3799	0x98	PLAYER1		Maybe... the orientation	mp_2010 0x1b4e
-				of that statue has
-				something to do with it?
-jamp_dai02
+				of that statue has	
+				something to do with it?	
+jamp_dai02					

@@ -1,6 +1,6 @@
-mp_6301
-init
-talk_Algorl
+mp_6301					
+init					
+talk_Algorl					
 0x71e	0x98	Algorl		So the time has come for one capable	
 				of standing against me to appear...	
 0x76c	0x98	Algorl		Hmph... A long time has passed	
@@ -12,12 +12,12 @@ talk_Algorl
 				your courage from now on...	
 				I will be watching.	
 0x8da	0x98	Algorl		You have no further	mp_6301 0x7ce
-				need of this place...
-				Hurry, onwards.
+				need of this place...	
+				Hurry, onwards.	
 0x93c	0x98	Algorl		Show me how you will demonstrate	mp_6301 0x830
-				your courage from now on...
-				I will be watching.
-boss_demo1
+				your courage from now on...	
+				I will be watching.	
+boss_demo1					
 0xab9	0x06	PLAYER1		ANI_WAIT	
 0xb1e	0x06	PLAYER2		ANI_WAIT	
 0xb7d	0x06	b009		ANI_WAIT	
@@ -26,36 +26,36 @@ boss_demo1
 0xc0c	0x6B	PLAYER2		Exclamation	
 0xd9b	0x06	b009		ANI_ASCENT	
 0xe4b	0x06	b009		ANI_ASCENT_DEMO	
-boss_retry
+boss_retry					
 0xf95	0x06	b009		ANI_WAIT	
-Anime_Wind01_ON
-Anime_Wind01_OFF
-Anime_Wind02_ON
-Anime_Wind02_OFF
-Anime_Wind03_ON
-Anime_Wind03_OFF
-Anime_Wind04_ON
-Anime_Wind04_OFF
-switch_camera01
-switch_camera02
-SB_6_S21_appear_ALTO
-SB_6_S21_appear_NOI
-EV_6_S21_in_bossmap3
+Anime_Wind01_ON					
+Anime_Wind01_OFF					
+Anime_Wind02_ON					
+Anime_Wind02_OFF					
+Anime_Wind03_ON					
+Anime_Wind03_OFF					
+Anime_Wind04_ON					
+Anime_Wind04_OFF					
+switch_camera01					
+switch_camera02					
+SB_6_S21_appear_ALTO					
+SB_6_S21_appear_NOI					
+EV_6_S21_in_bossmap3					
 0x1bc3	0x06	st		ANI_PATA1	
 0x1def	0x06	ALTO		ANI_LOOK_AROUND	
 0x1e1c	0x98	ALTO		So this is the interior	mp_6300 0x18ae
-				of the Pillar...
+				of the Pillar...	
 0x1e9a	0x98	ALTO	#6A	You said this is where the	mp_6300 0x192c
-				continent receives its supply
-				of astral power?
+				continent receives its	
+				supply of astral power?	
 0x1f3f	0x98	NOI		Yeah, that's right.	mp_6300 0x19d1
 0x1f72	0x06	NOI		ANI_GESTURE2	
 0x1f9b	0x98	NOI		The Stellagear should be	mp_6300 0x1a2d
-				kept right at the center
-				of the base.
+				kept right at the center	
+				of the base.	
 0x2001	0x06	ALTO		ANI_JOY	
 0x2026	0x98	ALTO	#6A	Well, let's find it!	mp_6300 0x1ab8
-EV_6_S27_sisi_boss
+EV_6_S27_sisi_boss					
 0x258e	0x41	None	#1W#2E#030c	...Stop.#0E	mp_5098 0x2155
 0x25ff	0x6B	ALTO		Exclamation	
 0x264f	0x6B	NOI		Exclamation	
@@ -78,22 +78,21 @@ EV_6_S27_sisi_boss
 				And the true reason for	
 				the creation of Terra.	
 0x2e4e	0x06	Algorl		ANI_GESTURE1	
-0x2e7a	0x98	Algorl		As warden of the continent,	mp_6300 0x2c43
-				I cannot allow you to interfere
-				in the Remaking planned by Lady
-				Creha and the others.
+0x2e7a	0x98	Algorl		As warden of the continent, I cannot allow	mp_6300 0x2c43
+				you to interfere in the Recreation planned	
+				by Lady Creha and the others.	
 0x2f15	0x06	NOI		ANI_COMPLAIN	
 0x2f3e	0x98	NOI	#6A	...Stop it, Algol!	
 0x2f93	0x98	NOI	#6A	Erasing the surface where Nayuta	mp_6300 0x2d9f
-				and all those people live...
+				and all those people live...	
 0x2fe9	0x06	NOI		ANI_DENY	
 0x300e	0x98	NOI	#6A	We can't let Lady	mp_6300 0x2e1a
-				Creha do that!
+				Creha do that!	
 0x3062	0x06	ALTO		ANI_JOY	
-0x3087	0x98	ALTO	#6A	Yeah, we've got to stop	mp_6300 0x2e93
-				this thing, no matter what!
+0x3087	0x98	ALTO	#6A	Yeah, we have to stop this	mp_6300 0x2e93
+				thing, no matter what!	
 0x3105	0x06	Algorl		ANI_DENY	
-0x312d	0x98	Algorl		...So you wish to challenge
+0x312d	0x98	Algorl		...So you wish to challenge	
 				the Mitos with that kind	
 				of resolve...	
 0x31e7	0x98	Algorl	#16S	...Ridiculous!!	
@@ -101,7 +100,7 @@ EV_6_S27_sisi_boss
 0x325b	0x98	Algorl		You will go no further.	
 0x32aa	0x06	Algorl		ANI_GESTURE2	
 0x32d6	0x98	Algorl		I cannot allow you to	mp_6301 0x2b5a
-				take the Stellagear.
+				take the Stellagear.	
 0x332a	0x06	NOI		ANI_COMPLAIN	
 0x3353	0x98	NOI	#6A	Algol!!	
 				You too!?	
@@ -130,12 +129,12 @@ EV_6_S27_sisi_boss
 				Be careful, Nayuta!!	
 0x4405	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_1	
 0x4506	0x98	ALTO	#3W	Got it!	mp_0101b 0x4859
-SB_6_S27_equip_se
-EV_6_S28_bye_algorl
+SB_6_S27_equip_se					
+EV_6_S28_bye_algorl					
 0x4910	0x06	Algorl		ANI_WAIT	
 0x4fe4	0x06	Algorl		ANI_DENY	
 0x501a	0x98	Algorl		So the time has come for one capable	mp_6301 0x71e
-				of standing against me to appear...
+				of standing against me to appear...	
 0x507e	0x98	Algorl	#3W	This too, must be fate.	
 0x50d0	0x06	ALTO		ANI_GESTURE2	
 0x50fa	0x98	ALTO	#6A	Algol...	
@@ -182,9 +181,9 @@ EV_6_S28_bye_algorl
 0x6304	0x98	ALTO	#6A	Yeah... Leave it to us!	
 0x640e	0x06	NOI		ANI_GESTURE2	
 0x6437	0x98	NOI	#6A	Anyway, now we've collected	mp_6300 0x63a4
-				all of the Stellagears!
+				all of the Stellagears!	
 0x64a2	0x06	ALTO		ANI_JOY	
 0x64c7	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
-				We have to get to Creha and the others!
-EV_6_S39_check_bossmap3
+				We have to get to Creha and the others!	
+EV_6_S39_check_bossmap3					
 0x69a7	0x40	UNDEF		There is no trace of Algol.	

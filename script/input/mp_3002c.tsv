@@ -1,5 +1,5 @@
-mp_3002c
-init
+mp_3002c					
+init					
 0x5c6	0x06	hana00		ANI_STOP2	
 0x5ef	0x06	hana01		ANI_STOP2	
 0x618	0x06	hana02		ANI_STOP2	
@@ -15,53 +15,53 @@ init
 0x7b2	0x06	hana12		ANI_STOP2	
 0x7db	0x06	hana13		ANI_STOP2	
 0x804	0x06	hana14		ANI_STOP2	
-ev_goal
-hashira1
+ev_goal					
+hashira1					
 0xa4a	0x06	nobi1		ANI_DOWN	
-hashira1_Cmd
+hashira1_Cmd					
 0xb19	0x06	nobi1		ANI_UP	
 0xb64	0x06	swt01		ANI_LEVER_OFF	
-hashira2
+hashira2					
 0xc73	0x06	nobi2		ANI_DOWN	
-hashira2_Cmd
+hashira2_Cmd					
 0xd34	0x06	nobi2		ANI_UP	
 0xd7f	0x06	swt02		ANI_LEVER_OFF	
-hashira3
+hashira3					
 0xe8e	0x06	nobi3		ANI_DOWN	
-hashira3_Cmd
+hashira3_Cmd					
 0xf4f	0x06	nobi3		ANI_UP	
 0xf9a	0x06	swt03		ANI_LEVER_OFF	
-hashira4
+hashira4					
 0x10a9	0x06	nobi4		ANI_DOWN	
-hashira4_Cmd
+hashira4_Cmd					
 0x116a	0x06	nobi4		ANI_UP	
 0x11b5	0x06	swt04		ANI_LEVER_OFF	
-boss_battle
+boss_battle					
 0x1227	0x6B	ALTO		Exclamation	
-dead_EV01
-put_hana01
-QS_81_check_altar
-0x188a	0x40	UNDEF		Nayuta placed the Locked Box.	mp_1002b 0x26b7
+dead_EV01					
+put_hana01					
+QS_81_check_altar					
+0x188a	0x40	UNDEF		Nayuta took out the Locked Box.	mp_1002b 0x26b7
 0x18d6	0x40	UNDEF		...There's no response.	mp_1002b 0x26f8
 0x1931	0x98	ALTO		H-Huh...?	mp_1002b 0x274a
-				I thought this was
-				the place, but...
-0x197d	0x98	NOI		I see... Looks like the lock	mp_1002b 0x27a4
-				was made using areas filled
-				with astral power.
+				I thought this was	
+				the place, but...	
+0x197d	0x98	NOI		I see... The lock should detect	mp_1002b 0x27a4
+				areas like this, filled with	
+				astral power.	
 0x1a05	0x98	NOI		But I think we're not	mp_1002b 0x2817
-				doing something right.
+				doing something right.	
 0x1a57	0x98	ALTO		If I remember correctly, didn't it say,	mp_1002b 0x2863
-				'offer up this box in order of the seasons,
-				with them changed as they should be'...?
+				'offer up this box in order of the seasons,	
+				with them changed as they should be'...?	
 0x1ad7	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
-				 kind of seasonal order?)
+				 kind of seasonal order?)	
 0x1b6e	0x98	ALTO		('If you wish to release the locks,	mp_1002b 0x29a7
-				 offer up this box in order of the seasons,
-				 with them changed as they should be'...)
+				 offer up this box in order of the seasons,	
+				 with them changed as they should be'...)	
 0x1be9	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
-				 kind of seasonal order?)
-QS_81_hang_out_box
+				 kind of seasonal order?)	
+QS_81_hang_out_box					
 0x1e37	0x06	ALTO		ANI_HANDOVER1	
 0x1edd	0x40	UNDEF		Nayuta placed the Locked Box.	
 0x1f1d	0x6B	ALTO		Ellipsis	
@@ -83,10 +83,10 @@ QS_81_hang_out_box
 0x2301	0x98	ALTO		...All right, next up should	
 				be the last one. Let's head	
 				to the Abyss Continent!	
-SB_4_S03_escape_ALTO
-SB_4_S03_move_ALTO
-SB_4_S03_move_NOI
-EV_4_S03_help_algorl
+SB_4_S03_escape_ALTO					
+SB_4_S03_move_ALTO					
+SB_4_S03_move_NOI					
+EV_4_S03_help_algorl					
 0x2c6b	0x06	ALTO		ANI_SURPRISE	
 0x2c95	0x98	ALTO		There used to be a giant block of ice here...	
 				It's completely melted!	

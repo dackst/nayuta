@@ -1,13 +1,13 @@
-mp_8100b
-init
-EV_8_S16_help_s_and_c
+mp_8100b					
+init					
+EV_8_S16_help_s_and_c					
 0x33b	0x06	Creha		ANI_FLY_SIT	
 0x4a8	0x06	Signa		ANI_FLY_SIT	
 0x6ee	0x98	ALTO	#0W	...This place...	
-				Is this the same 
+				Is this the same 	
 				place as before?	
 0x73a	0x06	ALTO		ANI_LOOK_AROUND	
-0x785	0x98	ALTO	#0W	But the atmosphere is totally
+0x785	0x98	ALTO	#0W	But the atmosphere is totally	
 				different... It's so beautiful...	
 0x842	0x6B	ALTO		Exclamation	
 0xa8d	0x06	Signa		ANI_FLY_SIT_END	

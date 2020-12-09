@@ -1,7 +1,7 @@
-mp_0004n
-init
-gamestart_after
-EV_8_S00_1years_after
+mp_0004n					
+init					
+gamestart_after					
+EV_8_S00_1years_after					
 0xa06	0x06	ALTO		ANI_USE_TELESCOPE	
 0xbce	0x41	None	#0W#2E	...Remnant Island, one year later.#0E	
 0xc4e	0x41	None	#0W#2E	Nayuta, now 16, is on his second summer	
@@ -50,8 +50,8 @@ EV_8_S00_1years_after
 				I'll go to bed soon.	
 0x191d	0x06	ALTO		ANI_WAIT	
 0x19d1	0x06	ALTO		ANI_THINK2	
-0x1a17	0x98	ALTO		(...I don't know what I hope to
-				 achieve by observing Terra.)		
+0x1a17	0x98	ALTO		(...I don't know what I hope to	
+				 achieve by observing Terra.)	
 0x1a6e	0x98	ALTO		(The transfer gate doesn't work anymore...	
 				 There's no way I could go see them.)	
 0x1acd	0x98	ALTO		(But obviously, I'm feeling	

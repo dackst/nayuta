@@ -1,12 +1,12 @@
-mp_0101c
-init
+mp_0101c					
+init					
 0x108	0x06	gate_a		ANI_PATA2	
-SB_6_S34_seram_move
-SB_6_S34_creha_move
-SB_6_S34_seram_move2
-SB_6_S34_creha_move2
+SB_6_S34_seram_move					
+SB_6_S34_creha_move					
+SB_6_S34_seram_move2					
+SB_6_S34_creha_move2					
 0x56f	0x06	Creha		ANI_SIT7	
-EV_6_S34_bygone_garden
+EV_6_S34_bygone_garden					
 0x886	0x06	Zext		ANI_SIT_PAIN	
 0x941	0x98	Seram	#0W#N#240x#140y#16S	This way, Creha!	
 0x992	0x98	Seram	#0W#N#240x#140y#16S	Hurry... #0WWe have to get out of here!!	

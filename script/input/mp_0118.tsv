@@ -1,6 +1,6 @@
-mp_0118
-init
-lp_tera
+mp_0118					
+init					
+lp_tera					
 0xb30	0x98	NOI		Is this a gate...?	
 0xb61	0x98	NOI		Though it looks pretty old,	
 				it's a genuine gate all right...	
@@ -20,13 +20,13 @@ lp_tera
 				 ...I should be grateful.)	
 0xe41	0x40	UNDEF		The gate stands quietly, devoid of power.	mp_0004 0x2ddf
 0xed6	0x40	UNDEF		The gate stands quietly, devoid of power.	mp_0004 0x2ddf
-LP_Bed
+LP_Bed					
 0xf80	0x40	UNDEF		Cygna's luggage is scattered about in a mess.	
 0xfe6	0x98	ALTO		(Cygna, you just threw your bag	
 				 on your bed and left it there.)	
 0x103b	0x98	ALTO		(Looks like Master will be	
 				 getting mad again...)	
-subev_look_AulbathHouse
+subev_look_AulbathHouse					
 0x12b0	0x98	ALTO		Yeah, Cygna and Master's house	
 				hasn't changed at all...	
 0x1306	0x06	ALTO		ANI_THINK2	
@@ -38,8 +38,8 @@ subev_look_AulbathHouse
 				 his luggage since he returned.)	
 0x14eb	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x1519	0x98	ALTO		(That part of him is still the same.)	
-SB_2_S03_move_Aulbath
-EV_2_S03_visit_aulbath
+SB_2_S03_move_Aulbath					
+EV_2_S03_visit_aulbath					
 0x1849	0x98	ALTO	#16S	Hello!	
 0x1877	0x06	ALTO		ANI_GESTURE1	
 0x18a1	0x98	ALTO	#16S	It's Nayuta!	
@@ -74,7 +74,7 @@ EV_2_S03_visit_aulbath
 0x240e	0x06	ALTO		ANI_WAIT	
 0x243c	0x98	ALTO		Cygna... I knew it...	
 0x24dc	0x3F	Name		Dignified Voice	mp_0005c 0x4c48
-0x24f0	0x98	Aulbath		Goodness... To think that he's
+0x24f0	0x98	Aulbath		Goodness... To think that he's	
 				run away from home leaving only	
 				that worthless scrap of paper.	
 0x2572	0x6B	ALTO		Surprise	
@@ -106,21 +106,21 @@ EV_2_S03_visit_aulbath
 				I hope it's not too serious.	
 0x2c85	0x06	ALTO		ANI_NOD	
 0x2caa	0x98	ALTO	#6A	Yeah, I hope so, too...	
-SB_6_S13_move_Aulbath
-SB_6_S13_move_ALTO
-SB_6_S13_move_NOI
-SB_6_S13_appear_Aulbath
-SB_6_S13_appear_ALTO
-SB_6_S13_appear_NOI
-SB_6_S13_check_NOI
-SB_6_S13_check_ALTO
-EV_6_S13_talk_aulbath
+SB_6_S13_move_Aulbath					
+SB_6_S13_move_ALTO					
+SB_6_S13_move_NOI					
+SB_6_S13_appear_Aulbath					
+SB_6_S13_appear_ALTO					
+SB_6_S13_appear_NOI					
+SB_6_S13_check_NOI					
+SB_6_S13_check_ALTO					
+EV_6_S13_talk_aulbath					
 0x3901	0x06	Aulbath		ANI_WAIT3	
 0x3939	0x98	Aulbath	#2W	...I can feel a strong	
 				determination from your eyes.	
 0x3999	0x98	Aulbath	#1W	Perhaps you are thinking of once	
 				again going to that other world.	
-0x3a16	0x98	Aulbath	#0W	Are you sure about that decision?
+0x3a16	0x98	Aulbath	#0W	Are you sure about that decision?	
 0x3a6e	0x06	ALTO		ANI_THANKS	
 0x3aa4	0x98	ALTO	#1W#6A	...Yes. It might not be	
 				possible to do right now, but...	
@@ -137,7 +137,7 @@ EV_6_S13_talk_aulbath
 0x3d1a	0x06	Aulbath		ANI_NOD	
 0x3d50	0x98	Aulbath	#2W	...Hehe, very well.	
 0x3d91	0x06	Aulbath		ANI_GESTURE2	
-0x3dcc	0x98	Aulbath	#1W	I knew I could count on you two.
+0x3dcc	0x98	Aulbath	#1W	I knew I could count on you two.	
 				I think I can trust you with this.	
 0x3e6d	0x06	Aulbath		ANI_HANDOVER	
 0x3eeb	0x6B	ALTO		Exclamation	
@@ -245,9 +245,9 @@ EV_6_S13_talk_aulbath
 				to the Herschel household for now.	
 0x6234	0x40	UNDEF		They explained the situation to Eartha, and told	
 				her they were once again heading for Terra.	
-SB_6_S15_warp_ALTO
-SB_6_S15_warp_NOI
-EV_6_S15_repair_warp
+SB_6_S15_warp_ALTO					
+SB_6_S15_warp_NOI					
+EV_6_S15_repair_warp					
 0x691b	0x06	NOI		ANI_USE_POWER	
 0x6b48	0x06	NOI		ANI_WAIT	
 0x6da5	0x06	Aulbath		ANI_WAIT3	
@@ -262,11 +262,11 @@ EV_6_S15_repair_warp
 0x6fa0	0x06	ALTO		ANI_WAIT4	
 0x6fc7	0x98	ALTO	#6A	Are you ready for this, Noi?	
 0x700e	0x06	NOI		ANI_GUTSPOSE	
-0x7037	0x98	NOI		...I'm ready whenever you are!
+0x7037	0x98	NOI		...I'm ready whenever you are!	
 0x708e	0x98	Aulbath	#6A	You should get going, you two.	
 0x70d2	0x06	ALTO		ANI_WAIT	
 0x7196	0x06	Aulbath		ANI_GESTURE1	
-0x71c3	0x98	Aulbath	#6A	I shall pray you reach Cygna
+0x71c3	0x98	Aulbath	#6A	I shall pray you reach Cygna	
 				and the others safely.	
 0x7231	0x06	ALTO		ANI_JOY	
 0x7256	0x98	ALTO		Yes... Leave it to us!	

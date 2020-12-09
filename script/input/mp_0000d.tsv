@@ -1,23 +1,23 @@
-mp_0000d
-init
+mp_0000d					
+init					
 0x873	0x06	Dorado		ANI_SLEEP2	
-LP_Shop1
+LP_Shop1					
 0x9d0	0x41	None		～  Moonlight Pavilion Bar & Inn   ～	mp_0000 0x254e
-				  We have tasty food and warm rooms
-				    ready for you to enjoy.
-LP_Shop2
+				  We have tasty food and warm rooms	
+				    ready for you to enjoy.	
+LP_Shop2					
 0xab0	0x41	None		★Welcome to Sunset General Store!★	mp_0000 0x262e
-				  From daily necessities to souvenirs,
-				    Sunset is the place to go!
-				  Take a look at our star shards,
-				  a specialty of Remnant Island!
-stp_port
+				  From daily necessities to souvenirs,	
+				    Sunset is the place to go!	
+				  Take a look at our star shards,	
+				  a specialty of Remnant Island!	
+stp_port					
 0xbc5	0x98	ALTO		This is no time to get sidetracked...	
 				I've got to get to the beach!	
-stp_cape
+stp_cape					
 0xcbf	0x98	ALTO		This is no time to get sidetracked...	mp_0000d 0xbc5
-				I've got to get to the beach!
-talk_Dorado
+				I've got to get to the beach!	
+talk_Dorado					
 0xdeb	0x98	Dorado		Creha...I...I...!	
 0xe1f	0x98	Dorado		...Ooh... I'm so sorry	
 				I couldn't protect you!	
@@ -28,7 +28,7 @@ talk_Dorado
 				I wonder if I can still be	
 				a village guard after this...	
 0xfab	0x40	UNDEF		Dorado seems to have lost consciousness.	
-talk_Lupus
+talk_Lupus					
 0x106a	0x98	Lupus		A mysterious assailant, summoning	
 				those empty armors...? He's no	
 				normal person by any means...	
@@ -41,22 +41,22 @@ talk_Lupus
 0x124d	0x98	Lupus		There's no way he's not covering	
 				up what's really going on...	
 				...There's no way.	
-talk_Aquela
-0x12f1	0x98	Aquela		My, you...	mp_0000c 0x3db6
-0x131d	0x98	Aquela		Hehe, you have good eyes, don't you?	mp_0000c 0x3de2
+talk_Aquela					
+0x12f1	0x98	Aquela		Oh my, you...	mp_0000c 0x3db6
+0x131d	0x98	Aquela		Hehe, you have lovely eyes, don't you?	mp_0000c 0x3de2
 0x1358	0x98	Aquela		And so, in my reading of the stars,	mp_0000c 0x3e1d
-				I can see you are one burdened
-				with a great destiny.
+				I can see you are one burdened	
+				with a great destiny.	
 0x13cd	0x6B	Aquela		Ellipsis	
-0x1401	0x98	ALTO		Y-You are?	mp_0000c 0x3ec6
+0x1401	0x98	ALTO		Uh, and you are...?	mp_0000c 0x3ec6
 0x142b	0x98	Aquela		Hehehe... As an astrologer, I	mp_0000c 0x3ef0
-				take great interest in you.
+				take great interest in you.	
 0x147b	0x98	Aquela		That is how it seems to me, boy.	mp_0000c 0x3f40
-				I want you to keep this.
+				I want you to keep this.	
 0x14c0	0xC1	System		obtained.	mp_0000 0x7558
 0x153f	0x98	Aquela		I get some very interesting	mp_0000 0x75d7
-				premonitions from you...
-				This is thanks for that.
+				premonitions from you...	
+				This is thanks for that.	
 0x15e1	0x98	Aquela		That man in black... He seems to	
 				be a person who is far beyond	
 				our wildest expectations.	
@@ -65,10 +65,10 @@ talk_Aquela
 0x16bb	0x98	Aquela		The conclusion of this chain of events...	
 				I will try to divine it.	
 0x1749	0x98	Aquela		The evil omen that I sensed from	mp_0000d 0x165c
-				this island was no mistake...
+				this island was no mistake...	
 0x17a8	0x98	Aquela		The conclusion of this chain of events...	mp_0000d 0x16bb
-				I will try to divine it.
-talk_Hydol
+				I will try to divine it.	
+talk_Hydol					
 0x1854	0x98	Hydol		Nayuta... Are you hurt?	
 0x188f	0x98	ALTO		No, not particularly...	
 0x18c7	0x98	ALTO		...In the end, there wasn't much of a fight.	
@@ -90,14 +90,14 @@ talk_Hydol
 				please feel free to come to me	
 				immediately... At any time.	
 0x1c50	0x98	Hydol		I've decided to stay here a little	mp_0000d 0x1b5d
-				longer to see to the injured.
+				longer to see to the injured.	
 0x1cac	0x98	Hydol		Nayuta, if you need anything,	mp_0000d 0x1bb9
-				please feel free to come to me
-				immediately... At any time.
-talk_Cow
-talk_Cat
-talk_Chicken
-quest_Lupus
+				please feel free to come to me	
+				immediately... At any time.	
+talk_Cow					
+talk_Cat					
+talk_Chicken					
+quest_Lupus					
 0x1e23	0x98	Lupus		That weird creature from earlier?	
 				Nah, it didn't come back here.	
 0x1e7d	0x98	Lupus		...What are really up to?	
@@ -113,17 +113,17 @@ quest_Lupus
 0x20cd	0x98	Lupus		If you're looking for that weird creature	
 				from earlier, it ran back towards the cape.	
 0x2140	0x98	Lupus		...What the hell WAS that thing?	mp_0000d 0x1ffe
-quest_Hydol
+quest_Hydol					
 0x2199	0x98	Hydol		I saw what looked like a strange	
 				animal bouncing around just now...	
 0x21eb	0x98	Hydol		It seemed like it was headed	
 				towards your house, Nayuta...	
-SB_4_S29_appear_ALTO
+SB_4_S29_appear_ALTO					
 0x2272	0x6B	ALTO		Exclamation	
 0x22e2	0x06	ALTO		ANI_SURPRISE	
-SB_4_S29_move_ALTO
+SB_4_S29_move_ALTO					
 0x2374	0x06	ALTO		ANI_SIT6	
-EV_4_S29_find_dorado
+EV_4_S29_find_dorado					
 0x245f	0x06	Dorado		ANI_SLEEP2	
 0x26da	0x98	ALTO	#N#16S	D-Dorado...!?	
 0x28aa	0x98	ALTO		Are you all right!?	
@@ -153,28 +153,28 @@ EV_4_S29_find_dorado
 0x2dfa	0x06	ALTO		ANI_WAIT	
 0x2e60	0x98	ALTO		...I should hurry!	
 0x2f2f	0xCE	Objective		Creha and Lyra are on the beach. I should hurry!	
-SB_4_S31_appear_ALTO
-SB_4_S31_appear_Lyra
+SB_4_S31_appear_ALTO					
+SB_4_S31_appear_Lyra					
 0x2fab	0x06	Lyra		ANI_RUN2	
 0x3007	0x06	Lyra		ANI_WAIT	
-SB_4_S31_appear_Creha
+SB_4_S31_appear_Creha					
 0x304a	0x06	Creha		ANI_RUN	
 0x30a7	0x06	Creha		ANI_WAIT	
-SB_4_S31_appear_Barton
+SB_4_S31_appear_Barton					
 0x30f4	0x06	Barton		ANI_RUN2	
 0x3154	0x06	Barton		ANI_WAIT	
 0x319c	0x06	Barton		ANI_BOU_KAMAE	
-SB_4_S31_appear_Columha
+SB_4_S31_appear_Columha					
 0x31ea	0x06	Columha		ANI_RUN2	
 0x324c	0x06	Columha		ANI_WAIT	
 0x32de	0x06	Columha		ANI_BOU_KAMAE	
-SB_4_S31_turn_Knight
-SB_4_S31_move_Barton
+SB_4_S31_turn_Knight					
+SB_4_S31_move_Barton					
 0x3381	0x06	Barton		ANI_WAIT	
 0x33cf	0x06	Barton		ANI_RUN2	
-SB_4_S31_exit_ALTO
-SB_4_S31_exit_Creha
-EV_4_S31_escape_village
+SB_4_S31_exit_ALTO					
+SB_4_S31_exit_Creha					
+EV_4_S31_escape_village					
 0x3655	0x06	Creha		ANI_RUN	
 0x36ea	0x06	Lyra		ANI_RUN2	
 0x3c4c	0x06	Asa		ANI_RUN2	
@@ -186,7 +186,7 @@ EV_4_S31_escape_village
 				You're all okay!	
 0x3f4c	0x06	ALTO		ANI_GESTURE2	
 0x3f76	0x98	ALTO		You too...!	
-0x4082	0x98	ALTO		Eartha, Creha is in trouble...!
+0x4082	0x98	ALTO		Eartha, Creha is in trouble...!	
 				Her head suddenly started hurting...	
 0x40cf	0x98	Creha	#1W#6A	...Eartha...	
 0x410a	0x06	Asa		ANI_GESTURE2	
@@ -233,7 +233,7 @@ EV_4_S31_escape_village
 0x5bc2	0x06	Asa		ANI_GESTURE2	
 0x5c08	0x98	Asa		We'll draw their attention.	
 				In the meantime, you help	
-				Creha hide in a safe place.
+				Creha hide in a safe place.	
 0x5ca5	0x06	ALTO		ANI_COMPLAIN	
 0x5ccf	0x98	ALTO	#6A	N-No way... Are you saying	
 				to use you guys as bait!?	
@@ -242,9 +242,9 @@ EV_4_S31_escape_village
 0x5d93	0x98	Barton	#6A	The museum is pretty study,	
 				so it should be able to hold	
 				off attacks from those armors.	
-0x5e4c	0x98	Barton	#6A	We will be responsible 
+0x5e4c	0x98	Barton	#6A	We will be responsible 	
 				for protecting Eartha	
-				and Lyra from danger.
+				and Lyra from danger.	
 0x5eb8	0x06	Creha		ANI_DENY	
 0x5edf	0x98	Creha	#0W#6A	P-Please, wait...	
 0x5f94	0x98	Creha	#0W	I can't leave everyone	
@@ -271,9 +271,9 @@ EV_4_S31_escape_village
 0x65f6	0x98	ALTO	#6A	Let's go, Creha!	
 0x6666	0x06	Creha		ANI_NOD	
 0x668c	0x98	Creha	#0W	.........*gulp*	
-SB_5_S00_appear_Asa
-SB_5_S00_appear_Aulbath
-EV_5_S00_talk_islander
+SB_5_S00_appear_Asa					
+SB_5_S00_appear_Aulbath					
+EV_5_S00_talk_islander					
 0x6a9b	0x06	ALTO		ANI_SIT1	
 0x6b99	0x06	Lyra		ANI_WAIT0	
 0x6c11	0x06	Asa		ANI_WALK	
@@ -338,7 +338,7 @@ EV_5_S00_talk_islander
 				Much stronger than before.	
 0x8012	0x98	Aulbath		Unbeknownst to us, he has traveled across	
 				that other world and must have survived	
-				many trials and tribulations.
+				many trials and tribulations.	
 0x8090	0x06	Aulbath		ANI_WAIT2	
 0x80ba	0x98	Aulbath		That young lady... and Cygna.	
 				We should be able to trust	

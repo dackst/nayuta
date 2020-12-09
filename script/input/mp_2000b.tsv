@@ -1,7 +1,7 @@
-mp_2000b
-init
-ev_goal
-ob_sw_cb
+mp_2000b					
+init					
+ev_goal					
+ob_sw_cb					
 0x50b	0x06	ob_sw_00		ANI_CHANGE_GREEN	
 0x53d	0x06	ob_sw_01		ANI_CHANGE_GREEN	
 0x56f	0x06	ob_sw_02		ANI_CHANGE_GREEN	
@@ -15,16 +15,16 @@ ob_sw_cb
 0x918	0x06	ob_sw_01		ANI_CHANGE_RED	
 0x948	0x06	ob_sw_02		ANI_CHANGE_RED	
 0x978	0x06	ob_sw_03		ANI_CHANGE_RED	
-point
-crystal
-boss_battle01
+point					
+crystal					
+boss_battle01					
 0xdd6	0x6B	ALTO		Exclamation	
-dead_EV01
-open_door1_2
-SB_2_S15_alto_move
-SB_2_S15_noi_move
+dead_EV01					
+open_door1_2					
+SB_2_S15_alto_move					
+SB_2_S15_noi_move					
 0x1580	0x06	NOI		ANI_LOOK_AROUND	
-EV_2_S15_cave1_start
+EV_2_S15_cave1_start					
 0x18c6	0x06	st		ANI_PATA2	
 0x19c8	0x98	ALTO		It's... another ridiculously large cave.	
 0x1a11	0x98	ALTO		The light reflecting off the	

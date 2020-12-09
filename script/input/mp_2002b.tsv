@@ -1,27 +1,27 @@
-mp_2002b
-init
-ev_goal
-open_door1
+mp_2002b					
+init					
+ev_goal					
+open_door1					
 0x65d	0x06	swt01		ANI_LEVER_ON_LOCK	
-boss_battle01
+boss_battle01					
 0x6c3	0x6B	ALTO		Exclamation	
-dead_EV02
-open_door1_2
-open_door3
+dead_EV02					
+open_door1_2					
+open_door3					
 0xc8e	0x06	swt02		ANI_LEVER_ON_LOCK	
-swt02_timer
+swt02_timer					
 0xda6	0x06	swt02		ANI_LEVER_OFF	
-open_door4
+open_door4					
 0xeb4	0x06	swt03		ANI_LEVER_ON_LOCK	
-swt03_timer
+swt03_timer					
 0xfda	0x06	swt03		ANI_LEVER_OFF	
-move_marker00
-move_marker01
-move_marker02
-put_box
+move_marker00					
+move_marker01					
+move_marker02					
+put_box					
 0x1366	0x07	System	#4C	You can push objects like	
 				this one and move them.	
-SUB_meet_adventurer
+SUB_meet_adventurer					
 0x170b	0x06	st		ANI_PATA2	
 0x17ed	0x6B	ALTO		Exclamation	
 0x181f	0x6B	NOI		Exclamation	
@@ -50,7 +50,7 @@ SUB_meet_adventurer
 0x202d	0x3F	Name		Spirited Girl	mp_0003 0x9ffb
 0x2042	0x98	Reticul		I-It talked!? There's	
 				something funny going	
-				on here.
+				on here.	
 0x2091	0x3F	Name		Youth with Rucksack	mp_0003 0xa0db
 0x20ac	0x06	Cetus		ANI_WAIT2	
 0x20d4	0x98	Cetus		Hmm, so it's called 'Terra'...	
@@ -89,7 +89,7 @@ SUB_meet_adventurer
 				gate beneath a tree, see.	
 0x26c8	0x98	Reticul		When we went inside, we	
 				ended up discovering it was	
-				connected to another world.
+				connected to another world.	
 0x273d	0x06	Reticul		ANI_THINK	
 0x2767	0x98	Reticul		I mean, there seems to be an endless	
 				expanse of unexplored territory, and	
@@ -97,7 +97,7 @@ SUB_meet_adventurer
 0x27f3	0x06	Reticul		ANI_LAUGH	
 0x281d	0x98	Reticul		Surely this world has some	
 				valuable treasures waiting	
-				for us to discover!
+				for us to discover!	
 0x28bf	0x98	Reticul		Cetus, it's our lucky day!	
 0x292e	0x98	Cetus		Oh, you betcha!	
 0x295b	0x98	Cetus		...Although, we're not	
@@ -147,7 +147,7 @@ SUB_meet_adventurer
 				your work cut out for you...	
 0x320d	0x06	Cetus		ANI_GESTURE1	
 0x3238	0x98	Cetus		We're going to be out exploring	
-				more places from now on. 
+				more places from now on. 	
 0x328a	0x98	Cetus		If we see someone matching that description,	
 				we'll tell him that you've been looking for him.	
 0x3304	0x06	ALTO		ANI_THANKS	
@@ -186,9 +186,9 @@ SUB_meet_adventurer
 				We gotta find Cygna and Zext.	
 0x3b03	0x06	NOI		ANI_NOD	
 0x3b27	0x98	NOI		Yeah, let's move onwards!	
-SUB_alto_move
-SUB_noi_move
-QS_33_check_incubation
+SUB_alto_move					
+SUB_noi_move					
+QS_33_check_incubation					
 0x3ee3	0x06	ALTO		ANI_SWIM_WAIT	
 0x40f1	0x98	obj_q33	#240x#100y#N#0W	Cheep-cheep, cheep-cheep...	
 0x41cc	0x98	ALTO	#6A	These are Moon Bird chicks...	
@@ -196,7 +196,7 @@ QS_33_check_incubation
 0x4243	0x98	NOI	#6A	Way to go, Nayuta! Now,	
 				Eris' request is complete!	
 0x42b3	0x98	ALTO	#6A	Yeah, they should be able to grow	
-				up just fine at this rate...
+				up just fine at this rate...	
 				There's no need to worry.	
 0x4341	0x98	ALTO	#6A	Haha, and yet... Except for the color	
 				of their down, they look just like	

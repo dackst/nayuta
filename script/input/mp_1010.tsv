@@ -1,19 +1,19 @@
-mp_1010
-init
-open_door1
-put_monster
+mp_1010					
+init					
+open_door1					
+put_monster					
 0x5d1	0x6B	ALTO		Exclamation	
-open_door2
-put_monster2
+open_door2					
+put_monster2					
 0x874	0x6B	ALTO		Exclamation	
-open_door3
-put_monster3
+open_door3					
+put_monster3					
 0xc37	0x6B	ALTO		Exclamation	
-open_door4
-put_monster5
+open_door4					
+put_monster5					
 0xf38	0x6B	ALTO		Exclamation	
-open_door5
-EV_1_S11_move_gear
+open_door5					
+EV_1_S11_move_gear					
 0x12b7	0x6B	NOI		Question	
 0x12e8	0x98	NOI	#6A	Huh...?	mp_0003 0x133b2
 0x1434	0x98	ALTO		Noi, what's wrong?	mp_0004 0x6aa2

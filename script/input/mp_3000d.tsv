@@ -1,22 +1,22 @@
-mp_3000d
-init
-ev_goal
-open_door2
+mp_3000d					
+init					
+ev_goal					
+open_door2					
 0x505	0x06	switch1		ANI_LEVER_ON_LOCK	
-close_door3_4
+close_door3_4					
 0x56d	0x6B	ALTO		Exclamation	
-dead_EV01
-open_door3_4
-switch2
-switch3
-wind
-ev_timer
+dead_EV01					
+open_door3_4					
+switch2					
+switch3					
+wind					
+ev_timer					
 0xe35	0x06	switch2		ANI_LEVER_OFF	
 0xe63	0x06	switch3		ANI_LEVER_OFF	
-crystal1
-SB_3_S09_appear_ALTO
-SB_3_S09_appear_NOI
-EV_3_S09_mount1_start
+crystal1					
+SB_3_S09_appear_ALTO					
+SB_3_S09_appear_NOI					
+EV_3_S09_mount1_start					
 0x14f9	0x06	st		ANI_PATA2	
 0x16a5	0x6B	ALTO		Exclamation	
 0x16d7	0x06	ALTO		ANI_SNEEZE	

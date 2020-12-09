@@ -1,16 +1,16 @@
-mp_0000c
-init
-LP_Shop1
+mp_0000c					
+init					
+LP_Shop1					
 0x96c	0x41	None		～  Moonlight Pavilion Bar & Inn   ～	mp_0000 0x254e
-				  We have tasty food and warm rooms
-				    ready for you to enjoy.
-LP_Shop2
+				  We have tasty food and warm rooms	
+				    ready for you to enjoy.	
+LP_Shop2					
 0xa4c	0x41	None		★Welcome to Sunset General Store!★	mp_0000 0x262e
-				  From daily necessities to souvenirs,
-				    Sunset is the place to go!
-				  Take a look at our star shards,
-				  a specialty of Remnant Island!
-talk_Dorado
+				  From daily necessities to souvenirs,	
+				    Sunset is the place to go!	
+				  Take a look at our star shards,	
+				  a specialty of Remnant Island!	
+talk_Dorado					
 0xb7b	0x98	Dorado		I was just about to leave	
 				for patrol with Ax and	
 				the others, but...	
@@ -27,7 +27,7 @@ talk_Dorado
 				increase our patrols.	
 0xde1	0x98	Dorado		I've got to fulfill my duty	
 				as the town guard!	
-talk_Lupus
+talk_Lupus					
 0xe72	0x98	Lupus		That rubble just wouldn't budge.	
 				I thought it'd be funny to ask	
 				my mom to help, but...	
@@ -44,13 +44,13 @@ talk_Lupus
 				wants to hear more about	
 				your doctor's rounds.	
 0x10fd	0x98	Hydol		I see... I wanted to ask	
-				him some questions as well.		
+				him some questions as well.	
 0x1154	0x98	Hydol		Lyra and Vel's exams are done.	
 				All right, let's be on our way.	
 0x1211	0x98	Lupus		Nayuta, we can handle	
 				the island for now.	
 0x1258	0x98	Lupus		Just don't push yourself too hard, okay?	
-talk_Canis
+talk_Canis					
 0x12bd	0x98	Canis		*huff*, *huff*, *huff*	
 				I thought I'd try to clear	
 				out this rubble, but...	
@@ -65,10 +65,10 @@ talk_Canis
 0x1480	0x98	Canis		Nayuta and everyone else	
 				are working so hard...	
 				I can't get complacent!	
-talk_Columha
+talk_Columha					
 0x1503	0x98	Columha		I've been cleaning up the wreckage	
 				with some of the stronger men in	
-				the village...
+				the village...	
 0x156a	0x98	Columha		...But this one won't budge at all.	
 				It seems impossible to move with	
 				human hands...	
@@ -79,15 +79,15 @@ talk_Columha
 				to clean up the debris... But pushing this	
 				one away is proving to be too difficult.	
 0x16de	0x98	Columha		Though it'll take some time, it seems	mp_0000c 0x15d0
-				the only thing we can do is crush it
-				into smaller pieces with a hammer.
-talk_Ursaminor
+				the only thing we can do is crush it	
+				into smaller pieces with a hammer.	
+talk_Ursaminor					
 0x17b9	0x98	Ursaminor		Even though the world has become	
 				like this, I'm glad to be able to	
 				see my sister again.	
 0x181c	0x98	Ursaminor		...If only she could make up with	
 				Father, I'll be even happier.	
-talk_Ursaminor_and_Reticul
+talk_Ursaminor_and_Reticul					
 0x188b	0x98	Ursaminor		Reticul, I'm glad you're safe...	
 0x18d0	0x98	Ursaminor		I was really worried about you...	
 0x1916	0x98	Reticul		Ursamina...	
@@ -100,37 +100,37 @@ talk_Ursaminor_and_Reticul
 0x1a12	0x98	Reticul		Umm, well... You know, it'd be a little	
 				awkward for us to meet each other...	
 0x1a8a	0x98	Reticul		B-But maybe someday, okay?	
-talk_Sculp
+talk_Sculp					
 0x1c12	0x98	Sculp		Heya Nayuta, I've got	mp_0000 0x7935
-				a question for you.
+				a question for you.	
 0x1c63	0x98	ALTO		Eh, for me?	mp_0000 0x7988
-				What is it?
+				What is it?	
 0x1ca5	0x98	Sculp		I actually heard this	mp_0000 0x79cb
-				from Antlia recently...
+				from Antlia recently...	
 0x1d00	0x98	Sculp		Apparently using fertile soil	mp_0000 0x7a23
-				will greatly improve crop yield.
+				will greatly improve crop yield.	
 0x1d70	0x98	Sculp		It's supposed to be better than manure,	mp_0000 0x7a7d
-				and pretty popular on the continent.
+				and pretty popular on the continent.	
 0x1dcb	0x98	Sculp		But here on Remnant Island,	mp_0000 0x7adf
-				I can't find any good soil...
-				Do you have any ideas, Nayuta?
+				I can't find any good soil...	
+				Do you have any ideas, Nayuta?	
 0x1e4c	0x98	ALTO		Hmm, fertile soil, huh?	mp_0000 0x7b57
-				I don't think so.
+				I don't think so.	
 0x1ea7	0x98	ALTO		To begin with, Remnant Island soil	mp_0000 0x7bb0
-				is probably rocky and full of salt...
+				is probably rocky and full of salt...	
 0x1f13	0x98	Sculp		I thought that might be the case...	mp_0000 0x7c18
-				If you say so, it must be true.
+				If you say so, it must be true.	
 0x1f67	0x98	Sculp		Haha, it seems like it's	mp_0000 0x7c75
-				nothing but a fantasy for
-				us here, eh? Sorry, my bad.
+				nothing but a fantasy for	
+				us here, eh? Sorry, my bad.	
 0x1fc6	0x98	Sculp		But if you ever do find some	mp_0000 0x7cd2
-				good soil somewhere, it'd be
-				great if I could use it.
+				good soil somewhere, it'd be	
+				great if I could use it.	
 0x203b	0x98	Sculp		Just keep an eye out for it.	mp_0000 0x7d44
 0x207e	0x98	ALTO		Yeah, got it.	mp_0000 0x7d86
 0x20ab	0x98	ALTO		(Fertile soil, huh?	mp_0000 0x7db3
-				 If I find any, Maybe I should
-				 try bringing it to Sculp?)
+				 If I find any, Maybe I should	
+				 try bringing it to Sculp?)	
 0x2253	0x98	Sculp		Hmm... It seems that we just might	
 				be able to remove these stones now.	
 0x22a6	0x98	Sculp		I can't believe there exists a human	
@@ -171,104 +171,104 @@ talk_Sculp
 				from the village square.	
 0x2a54	0x98	Sculp		Man, there's a lot to do, but we	
 				gotta keep it together here.	
-talk_Sculp_add
+talk_Sculp_add					
 0x2af2	0x98	Sculp		Hmm!? Hey, Nayuta...	mp_0000 0x974f
-				Isn't that pretty good soil!?
+				Isn't that pretty good soil!?	
 0x2b46	0x98	Sculp		It's dark, has a soft texture and a fragrant,	mp_0000 0x97a3
-				earthy scent... There's no mistaking it─
-				It's of excellent quality.
+				earthy scent... There's no mistaking it─	
+				It's of excellent quality.	
 0x2bd3	0x98	ALTO		Yeah, I actually found it somewhere...	mp_0000 0x9830
 0x2c1d	0x98	ALTO		Oh right, if you want it,	mp_0000 0x987a
-				shall I give it to you?
+				shall I give it to you?	
 0x2cab	0x98	Sculp		Oh, what a big help!	mp_0000 0x9907
 0x2ce0	0x98	Sculp		If I have this, I'll be able to	mp_0000 0x993c
-				quickly raise vegetables and
-				have more free time than usual.
+				quickly raise vegetables and	
+				have more free time than usual.	
 0x2d5b	0x98	Sculp		...By the way, Sasha from the general	mp_0000 0x99b7
-				store came by and said she wanted to
-				stock my vegetables.
+				store came by and said she wanted to	
+				stock my vegetables.	
 0x2dd5	0x98	Sculp		I was so honored by her request,	mp_0000 0x9a31
-				I thought I would respond in turn.
+				I thought I would respond in turn.	
 0x2e6e	0x98	Sculp		Anyway, you've helped me out, Nayuta.	mp_0000 0x9aca
-				Please use this well for me.
+				Please use this well for me.	
 0x2ecd	0x98	ALTO		I'm glad you found it useful.	mp_0000 0x9b29
 0x2f0a	0x98	ALTO		If you need anything else,	mp_0000 0x9b66
-				don't hesitate to ask.
+				don't hesitate to ask.	
 0x2f62	0x98	Sculp		Haha, thank you. Good to know	mp_0000 0x9bbe
-				I'm in good hands, Nayuta.
+				I'm in good hands, Nayuta.	
 0x2ff1	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
-				to the general store lineup.
+				to the general store lineup.	
 0x3042	0x07	System	#4C	If you give soil to Sculp,	mp_0000 0x9c9e
-				the lineup of vegetables for sale at
-				the general store will increase.
+				the lineup of vegetables for sale at	
+				the general store will increase.	
 0x30ba	0x07	System	#4C	If you find soil,	mp_0000 0x9d16
-				be sure to bring it here.
+				be sure to bring it here.	
 0x3150	0x98	Sculp		Hmm, Nayuta...	mp_0000 0x9dac
-				It looks like you have
-				some good soil again.
+				It looks like you have	
+				some good soil again.	
 0x31aa	0x98	Sculp		If you don't mind, can you please	mp_0000 0x9e06
-				give it to me? I've got some things
-				I want to try on the field again.
+				give it to me? I've got some things	
+				I want to try on the field again.	
 0x3230	0x98	ALTO		Yeah, sure.	mp_0000 0x9e8c
-				If it's useful to you, Sculp.
+				If it's useful to you, Sculp.	
 0x32a9	0x98	Sculp		Mmm, this is very fertile, too.	mp_0000 0x9f04
 0x32e9	0x98	Sculp		All right... Time to go try it out.	mp_0000 0x9f44
 0x3326	0x98	Sculp		There'll be new vegetables for	mp_0000 0x9f81
-				sale as soon as possible.
+				sale as soon as possible.	
 0x33b7	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
-				to the general store lineup.
+				to the general store lineup.	
 0x3442	0x98	Sculp		Hmm, Nayuta...	mp_0000 0x9dac
-				It looks like you have
-				some good soil again.
+				It looks like you have	
+				some good soil again.	
 0x349c	0x98	Sculp		What's more, it's ridiculously high	mp_0000 0xa0f7
-				quality... Hmm, just where on
-				Remnant Island did you get his...?
+				quality... Hmm, just where on	
+				Remnant Island did you get his...?	
 0x3521	0x98	ALTO		There's, uh, various places.	mp_0000 0xa17c
 0x355f	0x98	ALTO		Anyway, I'm giving	mp_0000 0xa1ba
-				this to you, Sculp.
+				this to you, Sculp.	
 0x35d4	0x98	Sculp		Thanks as always.	mp_0000 0xa22e
-				You're a great help.
+				You're a great help.	
 0x361d	0x98	Sculp		With soil this good,	mp_0000 0xa277
-				I should be able produce
-				even more vegetables!
-0x3695	0x98	Sculp		Ha, for a farmer, there's	mp_0000 0xa2ef
-				no better happiness than this.
+				I should be able produce	
+				even more vegetables!	
+0x3695	0x98	Sculp		Haha, for a farmer, there's	mp_0000 0xa2ef
+				no better happiness than this.	
 0x36fb	0x98	Sculp		I should be able to sell these new	mp_0000 0xa355
-				vegetables to the general store.
-				Nayuta, I'm glad you found this for me.
+				vegetables to the general store.	
+				Nayuta, I'm glad you found this for me.	
 0x37bc	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
-				to the general store lineup.
-talk_Sculp_addmes
+				to the general store lineup.	
+talk_Sculp_addmes					
 0x38f9	0xC1	System		handed over.	mp_0000 0xa553
 0x39f9	0xC1	System		handed over.	mp_0000 0xa553
 0x3af9	0xC1	System		handed over.	mp_0000 0xa553
-talk_Bootie
+talk_Bootie					
 0x3b83	0x98	Bootie		Hey Nayuta, what are you doing,	
 				looking at me like that...?	
 				No way I'm staying home!	
 0x3bfe	0x98	Bootie		It's times like these where a man has	
-				to stand up for himself, isn't it?
+				to stand up for himself, isn't it?	
 0x3c56	0x98	Bootie		So, the Remnant Island patrol begins!	
 0x3c9c	0x98	Dorado		I said go home!	
 0x3cfb	0x98	Bootie		...I can do something too, you know.	
 0x3d3a	0x98	Bootie		Nayuta, leave everyone in	
 				this village to me!	
-talk_Aquela
+talk_Aquela					
 0x3db6	0x98	Aquela		Oh my, you...	mp_0000 0x7370
 0x3de2	0x98	Aquela		Hehe, you have lovely eyes, don't you?	mp_0000 0x73a0
 0x3e1d	0x98	Aquela		And so, in my reading of the stars,	mp_0000 0x73e6
-				I can see you are one burdened
-				with a great destiny.
+				I can see you are one burdened	
+				with a great destiny.	
 0x3e92	0x6B	Aquela		Ellipsis	
 0x3ec6	0x98	ALTO		Uh, and you are...?	mp_0000 0x747f
 0x3ef0	0x98	Aquela		Hehehe... As an astrologer, I	mp_0000 0x74ae
-				take great interest in you.
+				take great interest in you.	
 0x3f40	0x98	Aquela		That is how it seems to me, boy.	mp_0000 0x7507
-				I want you to keep this.
+				I want you to keep this.	
 0x3f85	0xC1	System		obtained.	mp_0000 0x7558
 0x4004	0x98	Aquela		I get some very interesting	mp_0000 0x75d7
-				premonitions from you...
-				This is thanks for that.
+				premonitions from you...	
+				This is thanks for that.	
 0x40bc	0x6B	Aquela		Ellipsis	
 0x40f0	0x98	Aquela		...It is passed down that	
 				my clan made a grave error	
@@ -315,7 +315,7 @@ talk_Aquela
 0x4994	0x98	Aquela		I can see... inside of your hearts,	
 				lies a shining fiber of hope...	
 0x49f2	0x98	Aquela		Heh, what kind of future will it lead us to...?	mp_0000c 0x48f5
-				We will have to watch it unfold for ourselves.
+				We will have to watch it unfold for ourselves.	
 0x4a9f	0x98	Aquela		Stones pouring from the heavens,	
 				and the raging climate of the	
 				Ciencia Sea...	
@@ -333,60 +333,60 @@ talk_Aquela
 0x4cef	0x98	NOI		(I can't say for sure... But you	
 				 should be careful, just in case.)	
 0x4d8d	0x98	Aquela		Stones pouring from the heavens,	mp_0000c 0x4a9f
-				and the raging climate of the
-				Ciencia Sea...
+				and the raging climate of the	
+				Ciencia Sea...	
 0x4df3	0x98	Aquela		And the destiny born by the small	
 				one who enters this village...	
-				I have yet to see any more...
+				I have yet to see any more...	
 0x4e8d	0x98	Aquela		...Hehe, is there something on my face?	
-talk_Hydol
+talk_Hydol					
 0x4f43	0x98	Lupus		Just in time, Doctor. My	mp_0000c 0x1054
-				grandpa wants to see you.
+				grandpa wants to see you.	
 0x4f92	0x98	Lupus		As the village elder, he	mp_0000c 0x10af
-				wants to hear more about
-				your doctor's rounds.
+				wants to hear more about	
+				your doctor's rounds.	
 0x5003	0x98	Hydol		I see... I wanted to ask	mp_0000c 0x10fd
-				him some questions as well.
+				him some questions as well.	
 0x505b	0x98	Hydol		Lyra and Vel's exams are done.	mp_0000c 0x1154
-				All right, let's be on our way.
+				All right, let's be on our way.	
 0x5124	0x98	Hydol		Though they were not particularly	
 				injured, I examined Lyra and Vel	
-				just to make sure.
+				just to make sure.	
 0x5197	0x98	Hydol		The only reason they survived after	
 				encountering such a powerful monster	
 				is thanks to you, Nayuta.	
 0x5206	0x98	Hydol		Please continue to use your strength	
 				to protect everyone, you two.	
-0x528d	0x98	Hydol		There has been a rapid increase
+0x528d	0x98	Hydol		There has been a rapid increase	
 				in the number of people attacked	
 				by monsters this past week...	
 0x52f8	0x98	Hydol		I must also do my	
 				part as a doctor.	
-talk_Cow
-talk_Reticul
+talk_Cow					
+talk_Reticul					
 0x53dc	0x98	Reticul		Ah, you're awake. We were	
 				worried about you guys.	
 0x541f	0x98	Reticul		We weren't able to wait for	
 				the both of you after all...	
 0x5477	0x98	Reticul		We managed to get back, but	
 				we were left wondering what	
-				happened to you guys.
+				happened to you guys.	
 0x54d0	0x98	ALTO		Sorry... But it's good to	
 				see you're safe as well.	
 0x5519	0x98	Reticul		Hmm, it seems like you're still	
 				feeling a little unwell.	
 0x5571	0x98	Reticul		Well, you'll survive. You just	
-				need to rest a while longer.
+				need to rest a while longer.	
 0x55f9	0x98	Reticul		Making up with Papa... Hmm, I've	
 				been thinking about it, but...	
 0x566b	0x98	Reticul		For right now, I really don't want	
 				to face him. I feel like he's gonna	
 				be seriously mad at me.	
-talk_Axe
+talk_Axe					
 0x5749	0x98	Axe		We gotta get this junk outta the way	
 				so we can beef up the patrols...	
 0x578f	0x98	Axe		Little by little, things are	
-				moving in the right direction.
+				moving in the right direction.	
 0x57e6	0x98	Axe		Heh, let's get Remnant Island	
 				back to normal, Nayuta.	
 0x5862	0x98	Axe		If we work together, we	
@@ -394,7 +394,7 @@ talk_Axe
 0x58c7	0x98	Axe		You've got to bring back the missing	
 				Cygna, and your little Creha back too...	
 				and restore peace on Remnant Island.	
-talk_Pyxia
+talk_Pyxia					
 0x5986	0x98	Pyxia		There's just something about the people	
 				of this island that's admirable.	
 0x59d9	0x98	Pyxia		Even at a time like this, they	
@@ -403,7 +403,7 @@ talk_Pyxia
 0x5a48	0x98	Pyxia		I think I've finally managed	
 				to decide what to paint.	
 0x5ac3	0x98	Pyxia		I think I've finally managed	mp_0000c 0x5a48
-				to decide what to paint.
+				to decide what to paint.	
 0x5b16	0x98	Pyxia		We, too, must work hard to	
 				overcome this situation!	
 0x5ba3	0x98	Pyxia		I can't believe that the beautiful blue	
@@ -413,11 +413,11 @@ talk_Pyxia
 				'The End of Days'...	
 0x5c69	0x98	Pyxia		...I-It can't be.	
 0x5cc3	0x98	Pyxia		That the beautiful blue sky and	
-				ocean would turn into this...
-0x5d23	0x98	Pyxia		Somehow, it doesn't feel real.
+				ocean would turn into this...	
+0x5d23	0x98	Pyxia		Somehow, it doesn't feel real.	
 				It's a crazy feeling.	
-talk_Horolo
-0x5dda	0x98	Horolo		You. You look so awesome～!
+talk_Horolo					
+0x5dda	0x98	Horolo		You. You look so awesome～!	
 0x5e24	0x98	Horolo		You look full of resolve	
 				and determination...	
 				I think it's super cool～!	
@@ -426,8 +426,8 @@ talk_Horolo
 				I'm rooting for you～!	
 0x5f17	0x98	Horolo		You. You look so awesome～!	mp_0000c 0x5dda
 0x5f61	0x98	Horolo		I'm not sure exactly	mp_0000c 0x5e8d
-				what's going on, but
-				I'm rooting for you～!
+				what's going on, but	
+				I'm rooting for you～!	
 0x5ff9	0x98	Horolo		It's like this whole world	
 				has gone up in smoke～!	
 0x6059	0x98	Horolo		At this rate, the art contest this	
@@ -438,18 +438,18 @@ talk_Horolo
 0x6158	0x98	Horolo		With the world like this, the art contest	
 				this year will probably be canceled.	
 0x61cb	0x98	Horolo		I even came to Remnant Island and	mp_0000c 0x60be
-				found some good inspiration for it.
-				My disappointment is immeasurable...
-SB_6_S08_appear_ALTO
+				found some good inspiration for it.	
+				My disappointment is immeasurable...	
+SB_6_S08_appear_ALTO					
 0x6275	0x6B	ALTO		Ellipsis	
-SB_6_S08_appear_NOI
-SB_6_S08_move_ALTO
-SB_6_S08_move_NOI
-SB_6_S08_appear_Bootie
-SB_6_S08_exit_ALTO
-SB_6_S08_exit_NOI
-SB_6_S08_turn_Bootie
-EV_6_S08_call_help
+SB_6_S08_appear_NOI					
+SB_6_S08_move_ALTO					
+SB_6_S08_move_NOI					
+SB_6_S08_appear_Bootie					
+SB_6_S08_exit_ALTO					
+SB_6_S08_exit_NOI					
+SB_6_S08_turn_Bootie					
+EV_6_S08_call_help					
 0x65d5	0x06	ALTO		ANI_WAIT	
 0x68b1	0x06	ALTO		ANI_GESTURE2	
 0x68db	0x98	ALTO		Everyone in the village...	

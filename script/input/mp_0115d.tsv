@@ -1,6 +1,6 @@
-mp_0115d
-init
-lp_jewel
+mp_0115d					
+init					
+lp_jewel					
 0x15a3	0x36	Choice		Amber	
 0x15c0	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x15fc	0x36	Choice		Lapis Lazuli	
@@ -51,7 +51,7 @@ lp_jewel
 				Diamond tinged with a faint red color.	
 				They are even rarer than the colorless diamonds,	
 				and command large sums of money.	
-lp_treasure1
+lp_treasure1					
 0x250d	0x36	Choice		Angel Statue	
 0x2531	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x256d	0x36	Choice		Judgment Mirror	
@@ -77,7 +77,7 @@ lp_treasure1
 				A book written by ancient alchemists.	
 				Using various esoteric techniques, they sought to	
 				manipulate the material world, as well as life itself.	
-lp_treasure2
+lp_treasure2					
 0x2e60	0x36	Choice		Ritual Mural	
 0x2e86	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2ec2	0x36	Choice		Bronze Instrument	
@@ -106,7 +106,7 @@ lp_treasure2
 				It is thought to have been fashioned in imitation of	
 				a bird out of a desire to fly through the sky, but	
 				further details are unknown.	
-lp_armor
+lp_armor					
 0x38a1	0x36	Choice		Golden Arms	
 0x38c4	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x38f8	0x36	Choice		Cursed Arms	
@@ -146,12 +146,12 @@ lp_armor
 0x4551	0x41	None		Steel Arms	
 				Female-use armor and helm made from steel.	
 				Because part of it is missing, the details are unknown.	
-lp_nodata
+lp_nodata					
 0x469c	0x41	None		【？？？？？？】	mp_0115a 0x5de8
-				　　　　　　（ＮＯ　ＤＡＴＡ）　　　　　　
-lp_nothing
+				　　　　　　（ＮＯ　ＤＡＴＡ）　　　　　　	
+lp_nothing					
 0x4728	0x40	UNDEF		It looks like there's nothing on display.	mp_0115a 0x5e74
-subev_showroom_first
+subev_showroom_first					
 0x4b97	0x06	ALTO		ANI_SURPRISE	
 0x4bc1	0x06	NOI		ANI_SURPRISE	
 0x4bea	0x98	ALTO		I-Is this...!?	mp_0115a 0x6232
@@ -162,13 +162,13 @@ subev_showroom_first
 0x4e0d	0x6B	ALTO		Unknown	
 0x4e41	0x06	ALTO		ANI_JOY	
 0x4e66	0x98	ALTO		This is the first time I've seen	mp_0115b 0x48c9
-				such a magnificent exhibit.
-				Hmm, how fascinating!
+				such a magnificent exhibit.	
+				Hmm, how fascinating!	
 0x4ee2	0x06	ALTO		ANI_JOY	
 0x4f07	0x98	ALTO		I can't let something this	mp_0115a 0x6566
-				interesting pass me by...
-				Let's go get a better look!
-talk_Coron
+				interesting pass me by...	
+				Let's go get a better look!	
+talk_Coron					
 0x5021	0x98	Coron		To think Noi would appear on the	
 				island again like this...	
 0x5079	0x98	Coron		It seems there are still plenty of	
@@ -176,7 +176,7 @@ talk_Coron
 0x50cb	0x98	Coron		Someday, I hope to be able to explain	
 				everything together with the professor.	
 0x5152	0x98	Coron		It seems there are still plenty of	mp_0115d 0x5079
-				mysteries left regarding Remnant Island.
+				mysteries left regarding Remnant Island.	
 0x51a4	0x98	Coron		Someday, I hope to be able to explain	mp_0115d 0x50cb
 				everything together with the professor.	
 0x5239	0x98	Coron		The current state of the moon...	
@@ -189,7 +189,7 @@ talk_Coron
 0x53a5	0x98	Coron		The true form of the moon, and	
 				the other world that exists up there...	
 0x5407	0x98	Coron		If I were to publish something like that	mp_0115d 0x531f
-				in an article, no one would ever believe me.
+				in an article, no one would ever believe me.	
 0x549b	0x98	Coron		When that torrent of ruin fragments	
 				fell, I... I was so scared.	
 0x5500	0x98	Coron		Buildings and roads were destroyed,	

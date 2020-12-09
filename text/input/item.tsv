@@ -209,7 +209,7 @@
 0x38f0	name	Oni Mask
 0x3908	desc	Mask of a shouting oni. Its wearer is granted power.
 0x397c	name	Goggle Helmet
-0x3994	desc	Goggles worn by adventurers to explore ruins. 
+0x3994	desc	Goggles worn by adventurers to explore ruins.
 0x3a08	name	Metal Claw
 0x3a20	desc	Clawed steel gauntlets used by ancient knights.
 0x3a94	name	Altair Shield
@@ -233,7 +233,7 @@
 0x3f80	name	Defender
 0x3f98	desc	Steel pauldron used by ancient knights for extra mobility.
 0x400c	name	Vega Armor
-0x4024	desc	Ultimate chest armor made from a special ore. Repels any attack. 
+0x4024	desc	Ultimate chest armor made from a special ore. Repels any attack.
 0x4098	name	Valkyrie Guard
 0x40b0	desc	Beautiful feathered pauldron. Creates a barrier around the body.
 0x4124	name	Lord Armor

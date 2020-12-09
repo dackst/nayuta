@@ -1,13 +1,13 @@
-mp_1000a
-init
-ev_goal
-boss_battle
+mp_1000a					
+init					
+ev_goal					
+boss_battle					
 0x62a	0x6B	ALTO		Exclamation	
-dead_ev01
-open_door1_2
-tbox
-crystal
-QS_21_plant_a_seedling
+dead_ev01					
+open_door1_2					
+tbox					
+crystal					
+QS_21_plant_a_seedling					
 0x106a	0x06	ALTO		ANI_THINK2	
 0x1092	0x98	ALTO		(Looks like there's some high	
 				 quality soil around here.)	
@@ -29,17 +29,17 @@ QS_21_plant_a_seedling
 0x15ab	0x06	ALTO		ANI_WAIT	
 0x1617	0x98	ALTO		(Let's try changing the season to	
 				 summer and coming back here.)	
-QS_21_LookPoint
+QS_21_LookPoint					
 0x1815	0x40	UNDEF		The 100-Year Peach Sapling is planted.	
 0x185c	0x98	ALTO		(Let's try changing the season to	
 				 summer and coming back here.	
 				 Then, I'm sure...)	
-SB_1_S01_appear_ALTO
+SB_1_S01_appear_ALTO					
 0x19b6	0x06	ALTO		ANI_TIRED_WALK	
 0x1a18	0x06	ALTO		ANI_TIRED_WAIT	
-SB_1_S01_appear_NOI
-SB_1_S01_appear_Signa
-EV_1_S01_jungle1_start
+SB_1_S01_appear_NOI					
+SB_1_S01_appear_Signa					
+EV_1_S01_jungle1_start					
 0x2118	0x06	st		ANI_PATA2	
 0x2324	0x98	ALTO		*huff*, *huff* I-I think...we're here...?	
 0x2376	0x06	Signa		ANI_WAIT4	
@@ -80,7 +80,7 @@ EV_1_S01_jungle1_start
 0x2af6	0x06	ALTO		ANI_WAIT	
 0x2b1c	0x06	Signa		ANI_WAIT0	
 0x2b44	0x06	NOI		ANI_GESTURE1	
-0x2b6d	0x98	NOI	#6A	Normally, there should be hot
+0x2b6d	0x98	NOI	#6A	Normally, there should be hot	
 				sun and an ocean of verdant	
 				foliage at this time of year.	
 0x2c01	0x98	NOI	#6A	But since the Master Gear	
@@ -113,7 +113,7 @@ EV_1_S01_jungle1_start
 				displayed on the submenu.	
 0x3357	0x07	System	#4C	Fast travel has also been	
 				added to the submenu.	
-EV_1_S02_jungle1_end
+EV_1_S02_jungle1_end					
 0x3c73	0x06	ALTO		ANI_GESTURE1	
 0x3c9d	0x98	ALTO		Right over there...	
 				Looks like another	
@@ -155,7 +155,7 @@ EV_1_S02_jungle1_end
 				You are Master's student too, and you	
 				already have a pretty good feel for swords.	
 0x468b	0x98	Signa		I've pretty much finished the	
-				training in it. You should use
+				training in it. You should use	
 				it so it won't go to waste.	
 0x46fe	0x98	Signa		...Nayuta, when you've collected enough	
 				training seals, you should show Master.	

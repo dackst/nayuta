@@ -1,30 +1,30 @@
-mp_1001c
-init
-ev_goal
-boss_battle
+mp_1001c					
+init					
+ev_goal					
+boss_battle					
 0x59f	0x6B	ALTO		Exclamation	
-dead_ev01
-open_door_3
-hashira2
+dead_ev01					
+open_door_3					
+hashira2					
 0xac7	0x06	switch1		ANI_LEVER_ON_LOCK	
-hashira1
-tg_5678
+hashira1					
+tg_5678					
 0x10e9	0x06	switch2		ANI_LEVER_ON_LOCK	
-tg_5678_timer
+tg_5678_timer					
 0x13b8	0x06	switch2		ANI_LEVER_OFF	
-tg_1234
+tg_1234					
 0x16fa	0x06	switch3		ANI_LEVER_ON_LOCK	
-tg_1234_timer
+tg_1234_timer					
 0x19c3	0x06	switch3		ANI_LEVER_OFF	
-sw01
+sw01					
 0x1a06	0x06	sw01		ANI_LEVER_ON_LOCK	
-sw01_timer
+sw01_timer					
 0x1b55	0x06	sw01		ANI_LEVER_OFF	
-battle_skill
+battle_skill					
 0x1be5	0x06	mahouzin2		ANI_STOP2	
 0x1c27	0x6B	ALTO		Exclamation	
-dead_skill
-open_door06
+dead_skill					
+open_door06					
 0x20c8	0x07	System	#3C	Defeated high-rank monster [Flower Betrayer]!	
 0x218b	0x06	NOI		ANI_TAMEATK1	
 0x21ee	0x07	System	#1C	Noi recovered the autumn magic, #4C『#768IKiefer Bomb』#1C!	

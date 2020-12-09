@@ -1,6 +1,6 @@
-mp_6303
-init
-talk_Gio
+mp_6303					
+init					
+talk_Gio					
 0x61b	0x98	Gio		Gwahaha... It seems that I, too,	
 				am tempted to make a gamble...	
 0x66b	0x98	Gio		Lady Creha and the other	
@@ -8,40 +8,40 @@ talk_Gio
 				gave me the role of warden...	
 0x6ba	0x98	Gio		You must be strong-willed	
 				enough to be able to overcome	
-				their sense of righteousness.
+				their sense of righteousness.	
 0x716	0x98	Gio		Though I cannot help you directly,	
-				I leave everything in your care.		
+				I leave everything in your care.	
 0x7bd	0x98	Gio		And so, I choose to	
 				cast my lot in with you.	
 0x803	0x98	Gio		Though I cannot help you directly,	mp_6303 0x716
-				I leave everything in your care.
-boss_move0
-boss_move1
-boss_move2
-boss_move3
-boss_move4
-boss_demo1
+				I leave everything in your care.	
+boss_move0					
+boss_move1					
+boss_move2					
+boss_move3					
+boss_move4					
+boss_demo1					
 0xb33	0x06	b011		ANI_TAKEOFF	
-boss_retry
+boss_retry					
 0xe50	0x06	b011		ANI_WAIT	
-SB_6_S19_appear_ALTO
-SB_6_S19_appear_NOI
-EV_6_S19_in_bossmap1
+SB_6_S19_appear_ALTO					
+SB_6_S19_appear_NOI					
+EV_6_S19_in_bossmap1					
 0x14fa	0x06	st		ANI_PATA1	
 0x1726	0x06	ALTO		ANI_LOOK_AROUND	
 0x1753	0x98	ALTO		So this is the interior	mp_6300 0x18ae
-				of the Pillar...
+				of the Pillar...	
 0x17d1	0x98	ALTO	#6A	You said this is where the	mp_6300 0x192c
-				continent receives its supply
-				of astral power?
+				continent receives its	
+				supply of astral power?	
 0x1876	0x98	NOI		Yeah, that's right.	mp_6300 0x19d1
 0x18a9	0x06	NOI		ANI_GESTURE2	
 0x18d2	0x98	NOI		The Stellagear should be	mp_6300 0x1a2d
-				kept right at the center
-				of the base.
+				kept right at the center	
+				of the base.	
 0x1938	0x06	ALTO		ANI_JOY	
 0x195d	0x98	ALTO	#6A	Well, let's find it!	mp_6300 0x1ab8
-EV_6_S23_yagi_boss
+EV_6_S23_yagi_boss					
 0x1e8d	0x41	None	#1W#2E#310c	...It seems you have arrived.#0E	
 0x1f10	0x6B	ALTO		Exclamation	
 0x1f60	0x6B	NOI		Exclamation	
@@ -64,34 +64,33 @@ EV_6_S23_yagi_boss
 				understand	
 				the truth.	
 0x2779	0x98	Gio		The duty of the Mitos...	mp_6300 0x2b5b
-				And the real reason for
-				the creation of Terra.
+				And the real reason for	
+				the creation of Terra.	
 0x280b	0x06	Gio		ANI_GESTURE1	
-0x2851	0x98	Gio		As warden of the continent,	mp_6300 0x2c43
-				I cannot allow you to interfere
-				in the Remaking planned by Lady
-				Creha and the others.
+0x2851	0x98	Gio		As warden of the continent, I cannot allow	mp_6300 0x2c43
+				you to interfere in the Recreation planned	
+				by Lady Creha and the others.	
 0x2906	0x06	NOI		ANI_COMPLAIN	
 0x292f	0x98	NOI	#6A	...What do you mean, Geo!?	
 0x299c	0x98	NOI	#6A	Erasing the surface where Nayuta	mp_6300 0x2d9f
-				and all those people live...
+				and all those people live...	
 0x29f2	0x06	NOI		ANI_DENY	
 0x2a17	0x98	NOI	#6A	We can't let Lady	mp_6300 0x2e1a
-				Creha do that!
+				Creha do that!	
 0x2a6b	0x06	ALTO		ANI_JOY	
-0x2a90	0x98	ALTO	#6A	Yeah, we've got to stop	mp_6300 0x2e93
-				this thing, no matter what!
+0x2a90	0x98	ALTO	#6A	Yeah, we have to stop this	mp_6300 0x2e93
+				thing, no matter what!	
 0x2b45	0x06	Gio		ANI_DENY	
 0x2b6a	0x98	Gio		...How naive.	
 0x2b96	0x98	Gio		Do you really intend to challenge	
-				them with wishy-washy crap like that!?		
+				them with wishy-washy crap like that!?	
 0x2c64	0x98	Gio	#16S	...Don't make me laugh,	
 				you little brats!	
 0x2cd8	0x06	Gio		ANI_GESTURE1	
 0x2d01	0x98	Gio		I really do not wish	
 				to fight you two, but...	
 0x2d6c	0x98	Gio		I cannot give you	mp_6302 0x247a
-				the Stellagear.
+				the Stellagear.	
 0x2dd2	0x06	ALTO		ANI_COMPLAIN	
 0x2dfc	0x98	ALTO	#6A	Gio!!	
 0x2e5e	0x98	Gio		Alas, we are wardens...	
@@ -116,8 +115,8 @@ EV_6_S23_yagi_boss
 0x3e86	0x98	NOI	#1W	It's Geo's true form!	
 0x3ee2	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_1	
 0x3fe3	0x98	ALTO	#1W	We can't afford to lose!	
-SB_6_S23_equip_se
-EV_6_S24_bye_gio
+SB_6_S23_equip_se					
+EV_6_S24_bye_gio					
 0x4379	0x06	Gio		ANI_WAIT	
 0x4877	0x06	Gio		ANI_LAUGH	
 0x48ed	0x98	Gio	#5A	...Gwahaha, well done, you two.	
@@ -170,9 +169,9 @@ EV_6_S24_bye_gio
 				Leave it to us!	
 0x60d6	0x06	NOI		ANI_GESTURE2	
 0x60ff	0x98	NOI	#6A	Anyway, now we've collected	mp_6300 0x63a4
-				all of the Stellagears!
+				all of the Stellagears!	
 0x616a	0x06	ALTO		ANI_JOY	
 0x618f	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
-				We have to get to Creha and the others!
-EV_6_S37_check_bossmap1
+				We have to get to Creha and the others!	
+EV_6_S37_check_bossmap1					
 0x666d	0x40	UNDEF		There is no trace of Geo.	

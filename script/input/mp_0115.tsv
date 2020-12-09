@@ -1,8 +1,8 @@
-mp_0115
-init
+mp_0115					
+init					
 0x5b7	0x06	Caelum		ANI_WAIT2	
-LP_Collect
-talk_Volans
+LP_Collect					
+talk_Volans					
 0xdd2	0x98	Volans		Noi... You've come back to us!?	
 0xe21	0x98	Volans		How about now? Are you willing	
 				to let me conduct experiments	
@@ -14,9 +14,9 @@ talk_Volans
 				You look better than ever.	
 0xf9b	0x98	Volans		After what happened during last	
 				year's events, it seems the times	
-				are changing for the better.
-0x1045	0x98	Volans		After the abnormalities ended,
-				the storm at the End of the World
+				are changing for the better.	
+0x1045	0x98	Volans		After the abnormalities ended,	
+				the storm at the End of the World	
 				cleared up in a flash of light.	
 0x10d7	0x98	Volans		And beyond, we found the	
 				rest of the world...	
@@ -35,7 +35,7 @@ talk_Volans
 				no one can determine the future.	
 0x1341	0x98	Volans		I am sure that is for you	
 				young ones to decide.	
-0x138c	0x98	ALTO		...I agree.
+0x138c	0x98	ALTO		...I agree.	
 0x13f6	0x98	Volans		The storm at the End of the World has cleared	
 				up, and we've found the rest of the world...	
 				Our conventional wisdom has been overturned.	
@@ -45,7 +45,7 @@ talk_Volans
 				still continuing my research.	
 				I do not intend to lose to the young.	
 0x158d	0x98	Volans		The future of this sea will be decided	mp_0115 0x148b
-				by young ones such as yourself.
+				by young ones such as yourself.	
 0x15e5	0x98	Volans		Heh, of course, I am committed to	
 				still continuing my research.	
 0x16be	0x36	Choice		Talk	mp_0002 0x42a1
@@ -75,7 +75,7 @@ talk_Volans
 				connections we could relieve some of the chaos.	
 0x1c07	0x98	Volans		Hehe, there is nothing more satisfying than	
 				being able to influence the world with a	
-				single paper. I shall do my best to help.
+				single paper. I shall do my best to help.	
 0x1caf	0x98	Volans		Where you are heading now... I am sure all	
 				the answers are waiting for you there.	
 0x1d18	0x98	Volans		As a scientist, it is frustrating	
@@ -83,15 +83,15 @@ talk_Volans
 0x1d78	0x98	Volans		I look forward to hearing your	
 				stories upon your safe return.	
 0x1e02	0x98	Volans		As a scientist, it is frustrating	mp_0115 0x1d18
-				that I cannot go with you...
+				that I cannot go with you...	
 0x1e62	0x98	Volans		I look forward to hearing your	mp_0115 0x1d78
-				stories upon your safe return.
+				stories upon your safe return.	
 0x1efa	0x98	Volans		Though Noi explained everything to me, such	
 				as the whole other world on the moon...	
 0x1f81	0x98	Volans		In fact, had I not seen what	
 				Noi spoke of with my own eyes,	
 				I never would have believed it.	
-0x1ffd	0x98	Volans		It feels like everything I know is wrong.
+0x1ffd	0x98	Volans		It feels like everything I know is wrong.	
 				Ah, what a wonderful feeling...	
 0x206b	0x98	Volans		...Oh, I'm sorry. I got	
 				carried away, didn't I?	
@@ -108,8 +108,8 @@ talk_Volans
 				what we can to help.	
 0x22fb	0x98	Volans		Nayuta, please do your best.	
 0x2360	0x98	Volans		I never thought that a being	mp_0115 0x21d8
-				with such power beyond human
-				understanding could exist...
+				with such power beyond human	
+				understanding could exist...	
 0x23d5	0x98	Volans		...Anyway, we will do	
 				what we can to help.	
 				Do your best, Nayuta.	
@@ -122,8 +122,8 @@ talk_Volans
 0x2587	0x98	Volans		Ha ha ha, if you are cold,	
 				wear heavier clothing, Nayuta.	
 0x2600	0x98	Volans		I am from the northern reaches of the Empire.	mp_0115 0x24de
-				This degree of cold is not unusual there.
-				Of course I know how to deal with this.
+				This degree of cold is not unusual there.	
+				Of course I know how to deal with this.	
 0x26a9	0x98	Volans		If you are cold, wear	
 				heavier clothing, Nayuta.	
 0x2727	0x98	Volans		In the Ciencia Sea, sometimes parts	
@@ -184,17 +184,17 @@ talk_Volans
 0x31c9	0x98	Volans		Nayuta, could you...	
 				From Lost Heaven...	
 0x3224	0x98	Volans		Perhaps then YOU can become the	mp_0115 0x308b
-				ultimate subject of my research.
+				ultimate subject of my research.	
 0x327a	0x98	Volans		Mwhaha... Ahahahaha!	mp_0115 0x30e1
 0x32e8	0x98	Volans		The Yupina Grass herb	
 				is already extinct.	
 0x334b	0x98	Volans		...To put it bluntly, it would	
 				be all but impossible to obtain	
-				any more of it today.
+				any more of it today.	
 0x33c8	0x98	Volans		It may sound cruel, but...	
 				Do not get your hopes up.	
 0x3445	0x98	Volans		The Yupina Grass herb	mp_0115 0x32e8
-				is already extinct.
+				is already extinct.	
 0x34a8	0x98	Volans		Unless some miracle happens...	
 				It would be impossible to obtain.	
 0x3594	0x98	Volans		Heh, the Baron is	
@@ -253,14 +253,14 @@ talk_Volans
 				Who knows what is on the other side?	
 0x3fdd	0x98	Volans		Heh, perhaps it will be young people	
 				like you who will set forth a new way	
-				of thinking about the world.
+				of thinking about the world.	
 0x406f	0x98	Volans		...Hehe, I never thought I'd	
 				meet someone here on this island	
-				who I could talk to like this!
+				who I could talk to like this!	
 0x40df	0x98	Volans		Nayuta, you are quite an interesting	
 				young man. Once again, I look forward	
 				to working with you in the future.	
-talk_Caelum
+talk_Caelum					
 0x42e2	0x98	Caelum		By the way... You have brought us	
 				a great many donations, Nayuta.	
 0x4341	0x98	Caelum		Then I must give you a small	
@@ -289,7 +289,7 @@ talk_Caelum
 				we should be able to open	
 				a new exhibition room.	
 0x4bbf	0x98	Caelum		Ehehe, if you want to, you	
-				should go take a tour, Nayuta.		
+				should go take a tour, Nayuta.	
 0x4c20	0x3F	Name		Researcher Coron	mp_0115 0x4434
 0x4c38	0x98	Caelum		Huh... With these items,	
 				we should be able to open	
@@ -301,17 +301,17 @@ talk_Caelum
 0x4ec3	0x07	System	#3C	The Natural History Exhibition Room has been unlocked.	
 0x4f6c	0x07	System	#3C	The Treasure Gallery Exhibition Room has been unlocked.	
 0x50da	0x98	Caelum		By the way... You have brought us	mp_0115 0x42e2
-				a great many donations, Nayuta.
+				a great many donations, Nayuta.	
 0x513d	0x98	Caelum		Then I must give you a small	mp_0115 0x4341
-				token of our appreciation! ☆
+				token of our appreciation! ☆	
 0x51c4	0x98	Caelum		Keep up the good work, Nayuta! ㈱	mp_0115 0x43c8
 0x5228	0x3F	Name		Researcher Coron	mp_0115 0x4434
 0x5240	0x98	Caelum		Umm... You've brought a great	mp_0115 0x444c
-				many donations to us, Nayuta.
+				many donations to us, Nayuta.	
 0x529f	0x98	Caelum		Then, to thank you...	mp_0115 0x44ab
 0x5302	0x98	Caelum		A little gift from this museum.	mp_0115 0x4536
 0x5343	0x98	Caelum		...Uh, thank you for	mp_0115 0x4577
-				your continued support.
+				your continued support.	
 0x53d5	0x98	Caelum		Oh, be sure to come back and give	
 				to us again anytime you like.	
 0x542e	0x3F	Name		Researcher Coron	mp_0115 0x4434
@@ -325,22 +325,22 @@ talk_Caelum
 				rare again, bring it here.	
 				Thank you for your help.	
 0x561c	0x98	Caelum		Oh my, it looks like you don't	
-				have anything to give us.		
+				have anything to give us.	
 0x566f	0x98	Caelum		If you discover anything	mp_0115 0x55a6
-				rare again, bring it here.
-				Thank you for your help.
+				rare again, bring it here.	
+				Thank you for your help.	
 0x56e7	0x3F	Name		Researcher Coron	mp_0115 0x4434
 0x5717	0x98	Caelum		We will put the new items	
 				on display immediately.	
 0x576e	0x98	Caelum		Hehe, that's some pretty good stuff...	
 0x57b7	0x98	Caelum		Please let us know if discover	
-				anything unusual again,		
+				anything unusual again,	
 0x581f	0x98	Caelum		Huh, it looks like you don't	
 				have anything to give us.	
 0x5873	0x98	Caelum		If you find something that could be	
 				the subject of research, please bring	
 				it here. Thank you for your help.	
-sub_get_reward
+sub_get_reward					
 0x59fb	0xC1	System		received.	mp_0000 0x12596
 0x5a72	0xC1	System		received.	mp_0000 0x12596
 0x5ae9	0xC1	System		received.	mp_0000 0x12596
@@ -389,7 +389,7 @@ sub_get_reward
 0x714a	0xC1	System		received.	mp_0000 0x12596
 0x71f1	0xC1	System		received.	mp_0000 0x12596
 0x7274	0xC1	System		received.	mp_0000 0x12596
-talk_Caelum_sub
+talk_Caelum_sub					
 0x7337	0x98	Caelum		Are you two adventuring in	
 				the other world again?	
 0x7395	0x98	Caelum		Hehe, I'm sure you'll find	
@@ -401,9 +401,9 @@ talk_Caelum_sub
 0x74d3	0x98	Caelum		I'll be waiting! ㈱	mp_0115 0x73ea
 0x7583	0x98	Caelum		Coron was asked to present her paper	
 				on the marine life of Remnant Island	
-				at an academic conference.
+				at an academic conference.	
 0x7607	0x98	Caelum		She was able to write a great paper based	
-				on her research during the abnormalities.
+				on her research during the abnormalities.	
 				Hehe, that's my twin sister.	
 0x76de	0x98	Caelum		Professor Volans is currently analyzing	
 				the abnormal phenomena that are	
@@ -413,11 +413,11 @@ talk_Caelum_sub
 				the abnormal weather and fallen ruins in the future.	
 0x7801	0x98	Caelum		Hopefully, this will reduce the chaos	
 				happening everywhere, if only a little...	
-0x788f	0x98	Caelum		Professor Volans is currently analyzing	mp_0115 0x76de	
+0x788f	0x98	Caelum		Professor Volans is currently analyzing	mp_0115 0x76de
 				the abnormal phenomena that are	
-				occurring throughout the world.
+				occurring throughout the world.	
 0x790b	0x98	Caelum		Hopefully, this will reduce the chaos	mp_0115 0x7801
-				happening everywhere, if only a little...
+				happening everywhere, if only a little...	
 0x79a7	0x98	Caelum		I hear that you two protected a	
 				young girl against a huge monster.	
 0x7a08	0x98	Caelum		Hehe, that's my Nayuta! ㈱	
@@ -427,12 +427,12 @@ talk_Caelum_sub
 0x7b04	0x98	Caelum		Hehe, keep up that good work	
 				you two, just like always!	
 0x7b50	0x98	Caelum		Though all we can do is research,	mp_0115 0x7a68
-				we'll be rooting for you all the way!
+				we'll be rooting for you all the way!	
 0x7bfa	0x98	Caelum		Hiya, Nayuta.	
 				Long time no see!	
 0x7c37	0x98	Caelum		I've been so confused by all the	
 				unbelievable things that have	
-				happened in the last few days...
+				happened in the last few days...	
 0x7ca2	0x98	Caelum		The people of this island	
 				seem to be working hard	
 				every day to get by.	
@@ -441,7 +441,7 @@ talk_Caelum_sub
 0x7d97	0x98	Caelum		The other day, they brought us	
 				fish and vegetables, even though	
 				we didn't ask for them.	
-0x7e09	0x98	Caelum		I'm glad I came to this
+0x7e09	0x98	Caelum		I'm glad I came to this	
 				island. It's a nice place.	
 0x7e9f	0x98	Caelum		I can't believe some monstrous old dude	
 				could attack the village like that...	
@@ -451,13 +451,13 @@ talk_Caelum_sub
 				I'm sure we'll do something.	
 0x7fdc	0x98	Caelum		He even kidnapped that Creha girl...	
 0x8021	0x98	Caelum		...Don't lose heart, Nayuta.	mp_0115 0x7f5a
-				I'm sure we'll do something.
+				I'm sure we'll do something.	
 0x80b1	0x98	Caelum		Hmm... It's kind of chilly in here...	
 0x80ee	0x98	Caelum		Maybe it's because I just changed my clothes.	
 				But it feels strangely sinister...	
 0x8153	0x98	Caelum		Coron and I have	
 				cold sensitivity.	
-0x81be	0x98	Caelum		It's kind of chilly in here...		
+0x81be	0x98	Caelum		It's kind of chilly in here...	
 				Maybe it's because I just	
 				switched clothes with Coron.	
 0x8237	0x3F	Name		Researcher Coron	mp_0115 0x4434
@@ -476,15 +476,15 @@ talk_Caelum_sub
 				Remnant Island Museum...	
 0x850a	0x98	Caelum		...That Caelum...	
 				You know, sometimes she forces	
-				me to switch jobs with her...
+				me to switch jobs with her...	
 0x856f	0x98	Caelum		Every time, she dresses me up like this...	
 				Ooh, it's so embarrassing...	
 0x8600	0x98	Caelum		...That Caelum...	mp_0115 0x850a
-				You know, sometimes she forces
-				me to switch jobs with her...
+				You know, sometimes she forces	
+				me to switch jobs with her...	
 0x8665	0x98	Caelum		Caelum's glasses...	
 				They're so weak, I can	
-				barely see anything...
+				barely see anything...	
 0x8711	0x98	Caelum		I never would have guessed that	
 				your sister had Hell Fever...	
 0x8755	0x98	Caelum		...Nayuta, hang in there.	
@@ -492,9 +492,9 @@ talk_Caelum_sub
 0x87a7	0x98	Caelum		Would the gods abandon	
 				a good person like you?	
 0x882d	0x98	Caelum		...Nayuta, hang in there.	mp_0115 0x8755
-				There's always hope.
+				There's always hope.	
 0x887f	0x98	Caelum		Would the gods abandon	mp_0115 0x87a7
-				a good person like you?
+				a good person like you?	
 0x88f9	0x98	Caelum		Oh, do you need something	
 				from Professor Volans?	
 0x8945	0x98	Caelum		He's right over there,	
@@ -511,7 +511,7 @@ talk_Caelum_sub
 0x8b4b	0x98	Caelum		Hehe, that's why the two of them	
 				seem to get along so well.	
 0x8bf4	0x98	Caelum		Hmm, it was a good decision to follow	
-				Professor Volans here after all.
+				Professor Volans here after all.	
 0x8c5a	0x98	Caelum		I'm just happy to have met	
 				a cute boy like Nayuta in a	
 				remote place like this. ㈱	
@@ -521,13 +521,13 @@ talk_Caelum_sub
 0x8d33	0x98	Caelum		And Coron is very shy～!	
 0x8d69	0x98	Caelum		...She's my younger twin sister,	
 				but she's never been very good	
-				at socializing.		
+				at socializing.	
 0x8dff	0x98	Caelum		We haven't collected any items for	
 				the exhibits. Most of the exhibition	
 				rooms are closed right now.	
 0x8e6f	0x98	Caelum		We're planning on opening each room	
 				to the public once we have a few	
-				items to display in them...		
+				items to display in them...	
 0x8ef3	0x98	Caelum		Heheh, I expect you would be able	
 				to help in this area, Nayuta.	
 0x8f67	0x98	Caelum		We can save introducing you to	
@@ -536,32 +536,32 @@ talk_Caelum_sub
 				be exhibited in the museum, please	
 				bring it to the reception desk.	
 0x9038	0x98	Caelum		Heheh, I expect you would be able	mp_0115 0x8ef3
-				to help in this area, Nayuta.
-0x90aa	0x98	Caelum		Hmm, it was a good decision to follow	mp_0115 0x8bf4	
-				Professor Volans here after all.
+				to help in this area, Nayuta.	
+0x90aa	0x98	Caelum		Hmm, it was a good decision to follow	mp_0115 0x8bf4
+				Professor Volans here after all.	
 0x9112	0x98	Caelum		I'm just happy to have met	mp_0115 0x8c5a
-				a cute boy like Nayuta in a
-				remote place like this. ㈱
+				a cute boy like Nayuta in a	
+				remote place like this. ㈱	
 0x9185	0x98	Caelum		If you ever find something that can	mp_0115 0x8fbd
-				be exhibited in the museum, please
-				bring it to the reception desk.
+				be exhibited in the museum, please	
+				bring it to the reception desk.	
 0x9200	0x98	Caelum		Heheh, I expect you would be able	mp_0115 0x8ef3
-				to help in this area, Nayuta.
+				to help in this area, Nayuta.	
 0x9274	0x98	Caelum		If you ever find something that can	mp_0115 0x8fbd
-				be exhibited in the museum, please
-				bring it to the reception desk.
+				be exhibited in the museum, please	
+				bring it to the reception desk.	
 0x92ef	0x98	Caelum		Heheh, I expect you would be able	mp_0115 0x8ef3
-				to help in this area, Nayuta.
-talk_Caelum_and_Coron
+				to help in this area, Nayuta.	
+talk_Caelum_and_Coron					
 0x9343	0x98	Caelum		Coron, shouldn't you dress	
 				a little more fashionably?	
-0x939d	0x98	Caelum		You need to look more presentable.
+0x939d	0x98	Caelum		You need to look more presentable.	
 				You'll embarrass yourself at the	
 				next conference.	
 0x940d	0x98	Coron		Ugh, ooh... You may be right...	
 0x9454	0x98	Coron		But I don't want to have to dress	
 				like you. It's too flashy...	
-talk_Coron
+talk_Coron					
 0x9594	0x98	Coron		Though I'm happy to be able	
 				to publish my paper...	
 0x95dc	0x98	Coron		Of course, I can't go around	
@@ -576,7 +576,7 @@ talk_Coron
 				He has a unique way of looking at things.	
 0x980f	0x98	Coron		At Professor Volans' suggestion, I have been	mp_0115 0x966d
 				studying the behavior of marine life in the	
-				vicinity of this island in great detail.
+				vicinity of this island in great detail.	
 0x989c	0x98	Coron		If all goes well, we could find safe	
 				places to escape to in case of disaster.	
 				I've got to do my best...	
@@ -592,7 +592,7 @@ talk_Coron
 0x9aff	0x98	Coron		Is it really okay to	
 				continue researching on	
 				this island like this...?	
-talk_Vavo
+talk_Vavo					
 0x9bb4	0x98	Vavo		I'm still amazed by the way	
 				Professor Volans thinks.	
 0x9c05	0x98	Vavo		However... at the same time,	
@@ -601,22 +601,22 @@ talk_Vavo
 0x9c78	0x98	Vavo		No matter where you go, you can't escape...	
 				I can't help but feel that way.	
 0x9d06	0x98	Vavo		I feel hopeless about	
-				these anomalies.
+				these anomalies.	
 0x9d5e	0x98	Vavo		No matter where you go, you can't escape...	mp_0115 0x9c78
-				I can't help but feel that way.
+				I can't help but feel that way.	
 0x9e03	0x98	Vavo		During the attack, the museum	
 				acted as an emergency shelter.	
-0x9e5d	0x98	Vavo		The professor and I guided the islanders to safety,
+0x9e5d	0x98	Vavo		The professor and I guided the islanders to safety,	
 				and most of them managed to escape, but...	
 0x9ecd	0x98	Vavo		In the end, that Zext man was	
 				only after Creha, wasn't he...?	
 0x9f54	0x98	Vavo		In the end, that Zext man was	mp_0115 0x9ecd
-				only after Creha, wasn't he...?
+				only after Creha, wasn't he...?	
 0x9fb3	0x98	Vavo		I'm a failure for not being	
 				able to protect her...	
-talk_Victor
+talk_Victor					
 0xa050	0x98	Victor		It's been some time since I've	
-				last seen Professor Volans.
+				last seen Professor Volans.	
 0xa0ac	0x98	Victor		It's already been a year	
 				since those events...	
 				Time goes by fast.	
@@ -626,10 +626,10 @@ talk_Victor
 0xa1a2	0x98	Victor		I'm sure it will be soon when we can say	
 				that a true sense of peace has returned.	
 0xa21f	0x98	Victor		Reconstruction is underway, and	mp_0115 0xa127
-				the situation in the Empire has
-				calmed down considerably.
+				the situation in the Empire has	
+				calmed down considerably.	
 0xa29a	0x98	Victor		I'm sure it will be soon when we can say	mp_0115 0xa1a2
-				that a true sense of peace has returned.
+				that a true sense of peace has returned.	
 0xa397	0x98	Victor		The nobility of the Empire has heavily	
 				invested in the professor's research...	
 0xa3f0	0x98	Victor		I have come here myself on orders from the	
@@ -638,25 +638,25 @@ talk_Victor
 0xa482	0x98	Victor		All I can do is let him do what he	
 				wants. Hopefully he will not serve	
 				as a detriment to our country.	
-talk_Victor_and_Volans
+talk_Victor_and_Volans					
 0xa512	0x98	Victor		When the Empire heard you went through the trouble	
 				of moving your research lab all the way out to	
 				Remnant Island, we had to come take a look.	
 0xa589	0x98	Victor		Professor Volans... What in the world are	
-				you thinking by opening this museum?
+				you thinking by opening this museum?	
 0xa5df	0x98	Victor		How can this possibly contribute	
 				to the future of our country?	
 0xa65c	0x98	Volans		Hahaha... Baron, what do I	
 				care about the Empire?	
 0xa6a0	0x98	Volans		I am conducting this research	
-				for my own personal interest.
+				for my own personal interest.	
 0xa704	0x98	Victor		Wh-What!? That is a	
 				little problematic...	
 0xa75b	0x98	Volans		Hahahahaha.	
 0xa788	0x6B	Victor		Sweatdrop	
 0xa7bc	0x98	Victor		D-Don't just laugh it off	
 				and dodge the question.	
-talk_Pecula
+talk_Pecula					
 0xa88e	0x98	Pecula		Idyllic and lush in nature...	
 				This is truly a beautiful island.	
 0xa8fb	0x98	Pecula		My husband is currently working	
@@ -665,15 +665,15 @@ talk_Pecula
 0xa964	0x98	Pecula		Hehe, I couldn't be more	
 				proud to be his wife.	
 0xa9d7	0x98	Pecula		My husband is currently working	mp_0115 0xa8fb
-				to make our home the Empire a
-				similarly nice place to live.
+				to make our home the Empire a	
+				similarly nice place to live.	
 0xaa40	0x98	Pecula		Hehe, I couldn't be more	mp_0115 0xa964
-				proud to be his wife.
+				proud to be his wife.	
 0xaac1	0x98	Pecula		My husband came to Remnant Island	
 				to meet an acquaintance, and I	
 				thought of coming with him.	
 0xab40	0x98	Pecula		But... being unable to control a man	
-				of such low ranking is just pathetic.		
+				of such low ranking is just pathetic.	
 0xab96	0x98	Pecula		Hmph. In the end, his rank of Baron is	
 				merely a sham. He's of no import whatsoever.	
 0xac35	0x98	Pecula		The way my husband lets others exert	
@@ -681,7 +681,7 @@ talk_Pecula
 0xaca1	0x98	Pecula		Well, now that we have come all this way,	
 				what's the harm in letting the commoners	
 				show us their way of life?	
-talk_Equlea
+talk_Equlea					
 0xad66	0x98	Equlea		It has been a long time since my	
 				family has traveled together.	
 0xadc5	0x98	Equlea		So much has happened the last few days	
@@ -700,7 +700,7 @@ talk_Equlea
 0xb076	0x98	Equlea		(Mother and Father...	
 				 I wish they would	
 				 get along better...)	
-subev_complete
+subev_complete					
 0xb32d	0x06	Vavo		ANI_WAIT	
 0xb353	0x06	Coron		ANI_WAIT	
 0xb424	0x98	Volans		Well, you surprise me, Nayuta.	
@@ -714,7 +714,7 @@ subev_complete
 0xb5a9	0x98	Coron		Thank you, Nayuta! ㈱	
 0xb5f7	0x06	Caelum		ANI_STREATCH	
 0xb623	0x98	Caelum		Thanks to you, all the	mp_0115 0xb51e
-				exhibition rooms are full.
+				exhibition rooms are full.	
 0xb687	0x06	Caelum		ANI_WAIT2	
 0xb6b0	0x98	Caelum		Thank you, Nayuta! ㈱	mp_0115 0xb5a9
 0xb6e7	0x06	ALTO		ANI_SCRATCH_HEAD	
@@ -725,7 +725,7 @@ subev_complete
 0xb816	0x98	NOI		Nayuta...	mp_0000d 0x7671
 0xb848	0x98	NOI		Nayuta... Hehe.	
 0xb899	0x98	ALTO	#6A	Others have helped me. I couldn't	
-				have done it by myself.		
+				have done it by myself.	
 0xb919	0x06	Vavo		ANI_WAIT0	
 0xb940	0x98	Vavo		Hehe, aren't you a humble one?	
 				Truly, excellent work.	
@@ -737,8 +737,8 @@ subev_complete
 				the collection and hope to keep it safe.	
 0xbad0	0x06	Coron		ANI_GESTURE1	
 0xbafb	0x98	Coron		The display items you have assembled have	mp_0115 0xba1f
-				yielded valuable research data. We treasure
-				the collection and hope to keep it safe.
+				yielded valuable research data. We treasure	
+				the collection and hope to keep it safe.	
 0xbb93	0x98	Volans		I would be remiss not to thank you in some way.	
 				Here, I would like you to take this.	
 0xbbfa	0x06	Volans		ANI_HANDOVER	
@@ -752,7 +752,7 @@ subev_complete
 0xbd88	0x98	ALTO	#6A	Yes... I'll do my best!	
 0xbebf	0x06	Volans		ANI_WAIT0	
 0xbee8	0x06	Caelum		ANI_WAIT0	
-tuto_museum_first
+tuto_museum_first					
 0xc4b1	0x06	ALTO		ANI_LOOK_AROUND	
 0xc4de	0x98	ALTO		Wh-What is this...!?	
 0xc511	0x06	ALTO		ANI_SURPRISE	
@@ -777,11 +777,11 @@ tuto_museum_first
 0xcb0c	0x06	ALTO		ANI_GESTURE2	
 0xcb36	0x98	ALTO	#6A	Umm, who are you guys...?	
 0xcb7a	0x98	Volans		I am Volans, an Imperial scientist	mp_0000 0x17e6a
-				who arrived here on Remnant Island
-				a few days ago.
+				who arrived here on Remnant Island	
+				a few days ago.	
 0xcbe9	0x98	Volans		Courtesy of the village elder, I have	mp_0000 0x17edc
-				been entrusted with operating the
-				Remnant Island Museum.
+				been entrusted with operating the	
+				Remnant Island Museum.	
 0xcc62	0x06	Volans		ANI_GESTURE1	
 0xcc8e	0x98	Volans		Long story short, I am the	
 				director of this museum.	
@@ -803,23 +803,23 @@ tuto_museum_first
 0xcfab	0x98	Volans		Hahaha... That's a good answer.	
 0xcfed	0x06	Volans		ANI_WAIT0	
 0xd016	0x98	Volans		You... What did you say	mp_0000 0x1831e
-				your name was again?
+				your name was again?	
 0xd059	0x98	ALTO	#6A	Umm... I am Nayuta Herschel.	mp_0000 0x18392
 0xd09d	0x6B	Volans		Surprise	
 0xd0d1	0x98	Volans		Hmm... Herschel...?	
 				(If I recall, that name is...)	
-tuto_museum_force3
+tuto_museum_force3					
 0xd2d4	0x06	Volans		ANI_WAIT0	
 0xd549	0x06	ALTO		ANI_LOOK_AROUND	
 0xd596	0x98	ALTO		Wh-What is this...!?	mp_0115 0xc4de
 0xd5c9	0x06	ALTO		ANI_SURPRISE	
 0xd5f3	0x98	ALTO		Wh-What happened here...?	mp_0115 0xc53b
-				Fancy interior design,
-				valuable exhibits...
+				Fancy interior design,	
+				valuable exhibits...	
 0xd658	0x06	ALTO		ANI_COMPLAIN	
 0xd682	0x98	ALTO		...Amazing!! It's even	mp_0115 0xc5ca
-				more amazing than the
-				Academy's library!
+				more amazing than the	
+				Academy's library!	
 0xd6f8	0x3F	Name		Blonde-Haired Woman	mp_0115 0xc8bc
 0xd713	0x06	Caelum		ANI_LAUGH	
 0xd73c	0x98	Caelum		Ehehe, looks like you get the idea.	
@@ -841,7 +841,7 @@ tuto_museum_force3
 0xddd5	0x06	ALTO		ANI_NOD	
 0xddfa	0x98	ALTO		(...I should try looking elsewhere.	
 				There has to be clues somewhere.)	
-tuto_museum_common
+tuto_museum_common					
 0xe020	0x06	ALTO		ANI_GESTURE2	
 0xe04a	0x98	ALTO	#6A	Umm, what is that moving thing	
 				next to the reception desk?	
@@ -857,7 +857,7 @@ tuto_museum_common
 0xe2d6	0x06	ALTO		ANI_NOD	
 0xe2fb	0x98	ALTO	#6A	The Great Flood...!	
 				It's the legend about	
-				the ancient Calamity.
+				the ancient Calamity.	
 0xe366	0x98	ALTO	#6A	It's said that half of the world	
 				sank to the bottom of the ocean.	
 0xe3dd	0x98	ALTO	#6A	If that's true, then these are	
@@ -876,7 +876,7 @@ tuto_museum_common
 				in the history of the Ciencia Sea and	
 				the ruins that fall from the sky.	
 0xe810	0x98	Volans		This includes the unusual 'Remnant Island,'	
-				created by an accumulation of such ruins.
+				created by an accumulation of such ruins.	
 0xe87c	0x98	Volans		I came here from the Empire in order to investigate	
 				the numerous ruins of this island, understand their	
 				origins, and make new scientific discoveries.	
@@ -902,7 +902,7 @@ tuto_museum_common
 0xecba	0x06	Caelum		ANI_GESTURE2	
 0xece6	0x98	Caelum		We just now finished renovating	
 				this deserted building.	
-0xed40	0x98	Caelum		We will be collecting items for exhibition
+0xed40	0x98	Caelum		We will be collecting items for exhibition	
 				little by little throughout our research...	
 0xeda1	0x06	Caelum		ANI_WAIT2	
 0xedca	0x98	Caelum		By the way, the laboratory space	
@@ -976,14 +976,14 @@ tuto_museum_common
 				obtain 'Collectible' items.	
 0xfaf2	0x07	System	#4C	These items can be donated to	
 				the museum to be displayed.	
-quest_Volans
+quest_Volans					
 0xfbe9	0x98	Volans		The legend of the destruction of the world...	
 				I would like to get to the truth of this matter.	
 0xfc5a	0x98	Volans		If you obtain any information,	
 				please come report it to me.	
 0xfcb7	0x98	Volans		The three of us will work together	
 				to assemble it into one piece.	
-QS_42_quest_start
+QS_42_quest_start					
 0xfe89	0x06	Volans		ANI_WAIT0	
 0xff60	0x98	ALTO	#6A	Professor, about your request...	
 0xffb0	0x06	Volans		ANI_GESTURE2	
@@ -1001,7 +1001,7 @@ QS_42_quest_start
 				can you accept?	
 0x101c6	0x06	Volans		ANI_GESTURE2	
 0x101f2	0x98	Volans		There is something that	mp_0115 0x1002c
-				I must ask of you two.
+				I must ask of you two.	
 0x1024a	0x98	Volans		I know these are troubling	
 				times, but...	
 				Will you accept?	
@@ -1016,7 +1016,7 @@ QS_42_quest_start
 0x10481	0x06	Volans		ANI_GESTURE1	
 0x104ad	0x98	Volans		If you are ever available,	
 				please call on me again.	
-QS_42_undertake
+QS_42_undertake					
 0x1059b	0x06	ALTO		ANI_THANKS	
 0x105c3	0x98	ALTO		Yeah, okay.	mp_0000 0x1b27a
 0x105f3	0x98	NOI	#6A	I'm worried about Lady Creha, but...	
@@ -1052,7 +1052,7 @@ QS_42_undertake
 0x10b8b	0x98	Volans		This doesn't sound too	
 				far-fetched, does it?	
 0x10bd4	0x06	ALTO		ANI_THINK2	
-0x10bfc	0x98	ALTO	#6A	...Not at all.
+0x10bfc	0x98	ALTO	#6A	...Not at all.	
 0x10c2f	0x06	ALTO		ANI_NOD	
 0x10c54	0x98	ALTO		We can't allow for the same	
 				mistakes to repeat themselves...	
@@ -1074,7 +1074,7 @@ QS_42_undertake
 0x10f52	0x06	NOI		ANI_NOD	
 0x10f76	0x98	NOI	#6A	...Understood.	mp_0000 0x1c46f
 0x10fa6	0x98	NOI	#6A	I wasn't around for the destruction	
-				of the planet either, but... 
+				of the planet either, but... 	
 0x11008	0x98	NOI	#6A	I feel like I need to take this	
 				opportunity to know for myself...	
 0x1106b	0x06	ALTO		ANI_NOD	
@@ -1112,7 +1112,7 @@ QS_42_undertake
 				kind of text written on them...	
 0x1158c	0x06	ALTO		ANI_NOD	
 0x115b1	0x98	ALTO	#6A	Maybe we should go back there	
-				and check those tablets out.
+				and check those tablets out.	
 0x1163e	0x06	ALTO		ANI_NOD	
 0x11663	0x98	ALTO	#6A	Maybe we should go back	
 				there and look around.	
@@ -1121,13 +1121,13 @@ QS_42_undertake
 				any information, please come	
 				report it to me.	
 0x1177f	0x98	Volans		The three of us will work together	mp_0115 0xfcb7
-				to assemble it into one piece.
+				to assemble it into one piece.	
 0x117da	0x06	ALTO		ANI_JOY	
 0x117ff	0x98	ALTO	#6A	Yes, understood!	
 0x11832	0x06	NOI		ANI_NOD	
 0x11856	0x98	NOI	#6A	Let's get going!	
 0x118c4	0x07	System	#3C	Quest [Terra Research] started!	
-QS_42_quest_end
+QS_42_quest_end					
 0x11b5c	0x06	Volans		ANI_WAIT0	
 0x11c19	0x98	Volans		Oh, Nayuta, Noi. Did your	
 				investigation yield any results?	
@@ -1192,13 +1192,13 @@ QS_42_quest_end
 0x12759	0x6B	Volans		Ellipsis	
 0x1278d	0x98	Volans		...But ironically, the modern	
 				world is just as filled with wars	
-				and natural devastation as ever.
+				and natural devastation as ever.	
 0x1281e	0x98	Volans		Our situation is no different than	
 				that which was supposed to have	
-				once destroyed the planet... 
+				once destroyed the planet... 	
 0x128a7	0x06	Volans		ANI_GESTURE1	
 0x128d3	0x98	Volans		Perhaps it's inevitable, in a sense,	
-				that the apocalypse draws near again.
+				that the apocalypse draws near again.	
 0x1294a	0x06	ALTO		ANI_NOD	
 0x1296f	0x98	ALTO	#6A	...Maybe so.	
 0x129aa	0x06	ALTO		ANI_COMPLAIN	
@@ -1209,7 +1209,7 @@ QS_42_quest_end
 				There has to be some way	
 				to make things right.	
 0x12aa5	0x06	NOI		ANI_NOD	
-0x12ac9	0x98	NOI	#6A	...I agree.
+0x12ac9	0x98	NOI	#6A	...I agree.	
 0x12b03	0x98	NOI	#6A	That's the same determination	
 				you showed Lady Creha!	
 0x12b52	0x06	Volans		ANI_NOD	
@@ -1217,8 +1217,8 @@ QS_42_quest_end
 				found your answer.	
 0x12bd3	0x06	Volans		ANI_GESTURE1	
 0x12bff	0x98	Volans		...You guys have brought a	mp_0115 0x1757
-				wealth of knowledge to light.
-				Allow me to thank you.
+				wealth of knowledge to light.	
+				Allow me to thank you.	
 0x12c71	0x98	Volans		It's not much, but please	
 				accept this reward.	
 0x12cbf	0x06	Volans		ANI_HANDOVER	
@@ -1230,7 +1230,7 @@ QS_42_quest_end
 0x12e1f	0x98	Volans		Nayuta, Noi.	
 				Press onwards.	
 0x12e5f	0x98	Volans		Now, I'm sure humanity will require much	mp_0115 0x17c9
-				time in order to right its wrongs...
+				time in order to right its wrongs...	
 0x12ec6	0x06	Volans		ANI_NOD	
 0x12eed	0x98	Volans		I pray that you young	
 				ones will achieve it.	
@@ -1239,7 +1239,7 @@ QS_42_quest_end
 0x12f9b	0x06	NOI		ANI_GUTSPOSE	
 0x12fc4	0x98	NOI	#6A	Leave it to us!	mp_0001c 0x20db
 0x13031	0x07	System	#3C	Quest [Terra Research] completed!	
-LithographMes
+LithographMes					
 0x13242	0x41	None	#2E#0W	...It has been many months	
 				since Terra left the planet...	
 				The two Mitos children abandoned	
@@ -1249,7 +1249,7 @@ LithographMes
 				enter a lasting slumber.#0E	
 0x13347	0x41	None	#2E#0W	But first...	
 				I shall note the true facts as	
-				to why the planet was destroyed.		
+				to why the planet was destroyed.	
 				In the future, if by some chance,	
 				the day comes when human survivors	
 				from the surface set foot in Terra...	
@@ -1261,14 +1261,14 @@ LithographMes
 				There, Mitos and Man shared their	
 				vast knowledge and technology,	
 				and walked together on the same	
-				path towards prosperity.		
+				path towards prosperity.	
 				However,	
 				the humans who had obtained this	
 				knowledge and technology misused it.#0E	#stray line of Japanese text after this
 0x135e2	0x41	None	#2E#0W	Environmental devastation,	
 				overrunning other life forms...	
 				And eventually, humans started	
-				warring amongst themselves.
+				warring amongst themselves.	
 				 	
 				The countless battles they waged	
 				gradually collapsed the balance of	
@@ -1283,7 +1283,7 @@ LithographMes
 				The resulting flood caused nearly	
 				all the land at the time to sink	
 				into the sea.#0E	
-0x138a3	0x41	None	#2E#0W	The Mitos, anticipating this outcome,
+0x138a3	0x41	None	#2E#0W	The Mitos, anticipating this outcome,	
 				created Terra in hopes of one day	
 				recreating the planet.	
 				There, they built a great city,	
@@ -1306,12 +1306,12 @@ LithographMes
 				 	
 				As humans are beings able to learn	
 				from their mistakes.#0E	
-SB_3_S02_exit_Caelum
-SB_3_S02_exit_ALTO
-SB_3_S02_action_Volans
+SB_3_S02_exit_Caelum					
+SB_3_S02_exit_ALTO					
+SB_3_S02_action_Volans					
 0x13e84	0x06	Volans		ANI_OPEN_BOOK	
 0x13edd	0x06	book		ANI_OPEN	
-EV_3_S02_meet_volans
+EV_3_S02_meet_volans					
 0x1403d	0x06	Volans		ANI_GESTURE2	
 0x14069	0x98	Volans		Oh, Nayuta, is that you?	mp_0112 0xcab2
 0x140a2	0x98	Volans		I heard your sister fell	
@@ -1354,7 +1354,7 @@ EV_3_S02_meet_volans
 0x1486e	0x06	Volans		ANI_WAIT	
 0x1493a	0x98	Volans	#6A	Caelum, bring me our copy of the	
 				Great Encyclopedia of Natural	
-				History from the back.		
+				History from the back.	
 0x149b5	0x06	Caelum		ANI_NOD	
 0x149dc	0x98	Caelum		Y-Yes... Be right there.	
 0x14daa	0x98	Volans		...Here, look at this page.	
@@ -1396,7 +1396,7 @@ EV_3_S02_meet_volans
 0x1588c	0x98	Volans		Hmm...?	mp_0000d 0x7df1
 0x158b5	0x06	Caelum		ANI_GESTURE2	
 0x158e1	0x98	Caelum		Nayuta...!?	
-EV_6_S07_meet_volans
+EV_6_S07_meet_volans					
 0x15c54	0x06	Volans		ANI_GESTURE1	
 0x15c80	0x98	Volans		Oh, it's Nayuta!	
 0x15cb9	0x06	ALTO		ANI_OJIGI	
@@ -1457,7 +1457,7 @@ EV_6_S07_meet_volans
 				is not over yet.	
 0x16696	0x98	Volans		In fact, if you think about it	
 				further, there's even more	
-				interesting things to discover.
+				interesting things to discover.	
 0x16715	0x06	NOI		ANI_GESTURE2	
 0x1673e	0x06	ALTO		ANI_WAIT	
 0x16764	0x98	NOI	#6A	More interesting things...?	
@@ -1465,7 +1465,7 @@ EV_6_S07_meet_volans
 				fall in a concentrated manner	
 				centered around this island.	
 0x1684c	0x06	Volans		ANI_GESTURE2	
-0x16878	0x98	Volans		But if these phenomena occur because this
+0x16878	0x98	Volans		But if these phenomena occur because this	
 				'other world' is floating in the skies,	
 				why does this bias exist?	
 0x1690b	0x06	ALTO		ANI_THINK2	
@@ -1519,4 +1519,4 @@ EV_6_S07_meet_volans
 0x172cb	0x06	ALTO		ANI_NOD	
 0x172f0	0x98	ALTO	#6A	I agree...	
 0x1732a	0x98	NOI	#6A	I'm not sure what that may be, but...	
-				You take care on your end.
+				You take care on your end.	

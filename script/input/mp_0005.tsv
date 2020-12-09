@@ -1,7 +1,7 @@
-mp_0005
-init
-Effect_LOOP
-EV_8_S03_noi_again
+mp_0005					
+init					
+Effect_LOOP					
+EV_8_S03_noi_again					
 0x278	0x06	NOI		ANI_SLEEP2	
 0x578	0x6B	ALTO		Exclamation	
 0x5aa	0x6B	Lyra		Exclamation	
@@ -9,7 +9,7 @@ EV_8_S03_noi_again
 0x630	0x98	Lyra	#1W#6A	Collapsed over there!	
 0x756	0x98	ALTO	#2W#300x#300y#16S	...Noi!?	
 0x958	0x98	Lyra	#1W	No way... It's really Noi!?	
-0x9c3	0x98	ALTO	#0W	Yeah, no doubt about it!
+0x9c3	0x98	ALTO	#0W	Yeah, no doubt about it!	
 0xa0d	0x98	ALTO	#1W	But she should have	
 				disappeared before...	
 0xa60	0x98	ALTO	#2W	...Noi, Noi!	
@@ -49,7 +49,7 @@ EV_8_S03_noi_again
 				her to my house and look	
 				after her for now.	
 0x11fc	0x98	Lyra		Yeah... I'll help too!	
-SB_8_S03_move_ALTO
+SB_8_S03_move_ALTO					
 0x1320	0x06	ALTO		ANI_SIT6	
-SB_8_S03_move_Lyra
+SB_8_S03_move_Lyra					
 0x138d	0x06	Lyra		ANI_SIT6	

@@ -1,6 +1,6 @@
-mp_7100
-init
-EV_7_S02_enter_cradle
+mp_7100					
+init					
+EV_7_S02_enter_cradle					
 0x53b	0x6B	ALTO		Exclamation	
 0x56d	0x6B	NOI		Exclamation	
 0x59e	0x06	ALTO		ANI_SURPRISE	
@@ -24,7 +24,7 @@ EV_7_S02_enter_cradle
 0xd32	0x06	NOI		ANI_THINK	
 0xd58	0x98	NOI	#6A	The atmosphere of this place	
 				is totally different...	
-0xdba	0x98	NOI	#6A	This area was originally used
+0xdba	0x98	NOI	#6A	This area was originally used	
 				for storage of stuff like eggs	
 				of the ancient organisms, but...	
 0xe24	0x06	NOI		ANI_WAIT	
@@ -32,7 +32,7 @@ EV_7_S02_enter_cradle
 0xe76	0x98	ALTO		...Seems like we should	
 				proceed with caution.	
 0xf54	0x06	ALTO		ANI_WAIT	
-EV_7_S03_look_up_statue
+EV_7_S03_look_up_statue					
 0x1208	0x06	ALTO		ANI_SURPRISE	
 0x1232	0x98	ALTO	#6A	Wh-What is that sinister-looking statue...!?	
 0x127a	0x06	NOI		ANI_THINK	
@@ -55,6 +55,6 @@ EV_7_S03_look_up_statue
 				road ahead will be like, but...	
 0x1561	0x06	NOI		ANI_GUTSPOSE	
 0x158a	0x98	NOI	#6A	...Let's go now!	
-				For Lady Creha!
+				For Lady Creha!	
 0x15d6	0x06	ALTO		ANI_NOD	
 0x15fb	0x98	ALTO	#6A	...Yeah!	mp_0001c 0x406c

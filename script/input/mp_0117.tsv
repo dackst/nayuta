@@ -1,7 +1,7 @@
-mp_0117
-init
+mp_0117					
+init					
 0x74a	0x06	Axe		ANI_WAIT	
-talk_Carina
+talk_Carina					
 0xd97	0x98	Carina		I'm glad Noi is	
 				back in the village.	
 0xde2	0x98	Carina		Now that there aren't any more	
@@ -9,7 +9,7 @@ talk_Carina
 0xe40	0x98	Carina		You can play with Vel and	
 				Cory as much as you want.	
 0xec4	0x98	Carina		I'm glad Noi is	mp_0117 0xd97
-				back in the village.
+				back in the village.	
 0xf0f	0x98	Carina		I wish Cygna and Creha	
 				would come back too...	
 0xfa5	0x98	Carina		The waters offshore seem	
@@ -22,9 +22,9 @@ talk_Carina
 0x109e	0x98	baby		Babu...	mp_0003 0x77d4
 0x10ed	0x98	Carina		We have two beautiful children.	
 				You have to make sure Ax comes	
-				home safe and sound...
+				home safe and sound...	
 0x1152	0x98	Carina		...Please gods, please	mp_0117 0x1059
-				protect my husband...
+				protect my husband...	
 0x11cd	0x98	Carina		Thank you truly, 	
 				for saving Vel, but...	
 0x1215	0x98	Carina		A monster that strong has never	
@@ -32,40 +32,40 @@ talk_Carina
 0x127e	0x98	Carina		I'm worried...	
 				What is going on here?	
 0x12f5	0x98	Carina		A monster that strong has never	mp_0117 0x1215
-				appeared on the island before.
+				appeared on the island before.	
 0x135e	0x98	Carina		I'm worried...	mp_0117 0x127e
-				What is going on here?
+				What is going on here?	
 0x13e3	0x98	Carina		I can't believe something	mp_0003d 0x12ed
-				so horrible could happen
-				on this island...
+				so horrible could happen	
+				on this island...	
 0x145f	0x98	Carina		Though we were able	
 				to escape and hide...	
 0x14a6	0x98	Carina		...I hope Creha is okay.	
 0x150e	0x98	Carina		I'm so glad Cory, Vel,	
-				and Ax are safe...
+				and Ax are safe...	
 0x155d	0x98	Carina		But I'm not happy about this at all.	
 				This can't be how it ends.	
 0x164c	0x98	Carina		Cygna came by earlier to ask	
 				us for some dried fish.	
 0x169e	0x98	Carina		Since we had leftovers, I went to get him some,	
-				but then I saw him patting Cory's head saying,
-				'It's the only way to survive...'		
+				but then I saw him patting Cory's head saying,	
+				'It's the only way to survive...'	
 0x1713	0x98	Carina		Nayuta, are you playing a	
 				survival game with Cygna?	
 0x1762	0x98	ALTO		Uh, no, I don't think so...	
-0x17d4	0x98	Carina		Cygna looked so worried about
+0x17d4	0x98	Carina		Cygna looked so worried about	
 				something. I wonder what's	
 				the matter with him...	
 0x182b	0x98	Carina		It's your summer vacation.	
 				You guys should be having fun.	
-talk_Carina_and_Bell
+talk_Carina_and_Bell					
 0x18f6	0x98	Carina		Listen up, Vel. Mommy	
 				is going to Nayuta's	
 				house for a while.	
 0x1951	0x98	Carina		Please look after	
 				Cory for me, okay?	
 0x199e	0x98	Bell		Okay.	
-talk_Bell
+talk_Bell					
 0x1a3b	0x98	Bell		Ah, it's Nayuta.	
 				...Sorry, but I can't	
 				play right now～!	
@@ -107,7 +107,7 @@ talk_Bell
 				care of Cory now!	
 0x21a4	0x98	Bell		Soon, our parents will return!	
 0x221c	0x98	Bell		It's Vel's turn to take	mp_0117 0x2150
-				care of Cory now!
+				care of Cory now!	
 0x2262	0x98	Bell		Vel's a big girl now!	
 0x22d3	0x98	Bell		Lyra is gonna	
 				come by today.	
@@ -115,7 +115,7 @@ talk_Bell
 				with her a lot!	
 0x2369	0x98	baby		Abubu...Babbu.	
 0x23bf	0x98	Bell		It's lonely for Vel	
-				with Cygna gone...
+				with Cygna gone...	
 0x240c	0x98	Bell		But now that Eartha was cured,	
 				I'm sure he'll return someday.	
 0x2460	0x98	Bell		Until then, Vel	
@@ -143,7 +143,7 @@ talk_Bell
 				nets out to trap fish～.	
 0x2913	0x98	Bell		Ehehe, jealous? ☆	
 0x296f	0x98	Bell		Sometimes, Dad sets the	mp_0117 0x28c6
-				nets out to trap fish～.
+				nets out to trap fish～.	
 0x29bc	0x98	Bell		Ehehe, jealous? ☆	mp_0117 0x2913
 0x2a28	0x98	Bell		I was so scaaared～.	
 				Vel fell on her bottom.	
@@ -175,8 +175,8 @@ talk_Bell
 0x2edf	0x98	Bell		Vel doesn't just clean, but also	
 				helps out around the house～.	
 0x2f3f	0x98	Bell		Ahem, isn't it great?	mp_0117 0x2e48
-				After all, Vel's a big girl now!
-talk_Bell_and_Collie
+				After all, Vel's a big girl now!	
+talk_Bell_and_Collie					
 0x3012	0x98	Bell		Cory, play with	
 				your sister today!	
 0x3059	0x98	Collie		No.	
@@ -186,7 +186,7 @@ talk_Bell_and_Collie
 0x3119	0x6B	Collie		Unknown	
 0x314d	0x98	Collie		Kyahahaha...	
 				Stooop it, sis.	
-talk_Axe
+talk_Axe					
 0x321c	0x98	Axe		I've been taking a break	
 				since yesterday.	
 0x3263	0x98	Axe		The fishing has been on the upswing now that	
@@ -201,16 +201,16 @@ talk_Axe
 0x343a	0x98	Axe		I heard from Lyra.	
 				You guys saved Vel	
 				from a close call.	
-0x3493	0x98	Axe		I really appreciate it.
+0x3493	0x98	Axe		I really appreciate it.	
 				...Truly, thank you.	
 0x3506	0x98	Axe		Given the current circumstances,	
 				we may need to be more careful	
 				with our children than before.	
 0x3583	0x98	Axe		Anyway, thanks again.	
-talk_Collie
+talk_Collie					
 0x3624	0x98	Collie		Kyahahaha...	
 				Stooop it, sis.	
-quest_Bell
+quest_Bell					
 0x372b	0x98	Bell		Judging by your face, it looks	
 				like you found the note.	
 0x377d	0x98	Bell		Ehehe, getting ahold of the	
@@ -219,7 +219,7 @@ quest_Bell
 0x3833	0x98	Bell		The treasure search hint is...	
 				'Second floor places are good.'	
 0x3890	0x98	Bell		Well then, good luck!	mp_0000 0x11984
-quest_Carina
+quest_Carina					
 0x3990	0x98	Carina		We always eat the offerings	
 				once the Star Festival is over.	
 0x39ea	0x98	Carina		When the time comes, please	
@@ -230,7 +230,7 @@ quest_Carina
 				gave birth.	
 0x3b76	0x98	Carina		Hehe, he's always so helpful.	
 				He truly is a great doctor.	
-QS_11_quest_start
+QS_11_quest_start					
 0x3daa	0x06	Bell		ANI_TALK	
 0x3dd0	0x98	Bell		You see, Vel has hidden secret	
 				treasure somewhere on the island.	
@@ -261,8 +261,8 @@ QS_11_quest_start
 				hidden secret treasure	
 				somewhere on the island.	
 0x423b	0x98	Bell	#6A	Nayuta, you need to find the	mp_0117 0x3e35
-				treasure by following the
-				hints Vel gives you.
+				treasure by following the	
+				hints Vel gives you.	
 0x42a4	0x06	Bell		ANI_WAIT3	
 0x42cb	0x98	Bell	#6A	Ehehe, doesn't that sound fun?	
 0x430b	0x06	ALTO		ANI_GOODIDEA	
@@ -281,7 +281,7 @@ QS_11_quest_start
 0x45c8	0x06	Bell		ANI_WAIT	
 0x45ee	0x98	Bell	#6A	...Well, if you're able to	
 				play, be sure to come see me!	
-QS_11_first_hint
+QS_11_first_hint					
 0x46d8	0x06	ALTO		ANI_THANKS	
 0x4700	0x98	ALTO		Yeah, okay.	
 				I guess I'll play	
@@ -321,7 +321,7 @@ QS_11_first_hint
 0x4ccd	0x06	ALTO		ANI_JOY	
 0x4cf2	0x98	ALTO		Yeah, I'll figure it out somehow.	
 0x4d65	0x07	System	#3C	Quest [Vel's Challenge] started!	
-QS_11_quest_end
+QS_11_quest_end					
 0x4fc6	0x6B	Bell		Unknown	
 0x4ff0	0x06	Bell		ANI_JOY	
 0x501d	0x98	Bell	#6A	Nayuta, you're amaaazing!	
@@ -337,7 +337,7 @@ QS_11_quest_end
 				book Puppis gave me.	
 0x5201	0x06	Bell		ANI_GESTURE1	
 0x522b	0x98	Bell	#6A	It was hard, but it	
-				was fun, right?		
+				was fun, right?	
 0x526d	0x06	ALTO		ANI_NOD	
 0x5292	0x98	ALTO		Yeah, I certainly did have fun.	
 0x52d1	0x98	ALTO		Well then, I'll return this	
@@ -350,7 +350,7 @@ QS_11_quest_end
 				that are a lot better.	
 0x53fd	0x06	ALTO		ANI_THANKS	
 0x5425	0x98	ALTO		I-Is that so...?	
-				Then, thanks, I'll keep it.
+				Then, thanks, I'll keep it.	
 0x5475	0x06	Bell		ANI_WAIT2	
 0x549c	0x98	Bell	#6A	Yeah, take care of it!	
 0x54d5	0x06	Bell		ANI_GUTSPOSE	
@@ -363,12 +363,12 @@ QS_11_quest_end
 0x5641	0xC1	System		obtained.	mp_0000 0x7558
 0x56de	0x07	System	#3C	Quest [Vel's Challenge] completed!	
 0x573b	0x07	System	#3C	Quest [Vel's Challenge] completed!	mp_0117 0x56de
-QS_25_speak_to_Carina
+QS_25_speak_to_Carina					
 0x59fe	0x98	Carina		My, it's Nayuta.	
 				Is something wrong?	
 0x5a46	0x06	ALTO		ANI_GESTURE1	
 0x5a70	0x40	UNDEF		Nayuta told Carina that Dr. Hydrol wanted	
-				her to come in for a medical exam.		
+				her to come in for a medical exam.	
 0x5adb	0x06	Carina		ANI_GOODIDEA	
 0x5b07	0x98	Carina		Oh, the doctor is here, isn't he?	
 				Thank you for telling me.	
@@ -387,10 +387,10 @@ QS_25_speak_to_Carina
 0x5d44	0x06	Carina		ANI_TALK	
 0x5d6c	0x98	Carina		From the tests, we discovered 	
 				that this baby would have a	
-				challenging delivery.
+				challenging delivery.	
 0x5dd6	0x98	Carina		The doctor contacted the	
 				Medical Center beforehand to	
-				make sure we were prepared.
+				make sure we were prepared.	
 0x5e2e	0x06	Carina		ANI_WAIT2	
 0x5e57	0x98	Carina		Thanks to him, the birth went	
 				much smoother than it would	
@@ -416,20 +416,20 @@ QS_25_speak_to_Carina
 0x62a5	0x98	ALTO		Now then, all that's left is Boote.	mp_0116 0x85cb
 0x62e3	0x06	ALTO		ANI_TONTON_SHUE	
 0x6310	0x98	ALTO		Has he come home yet...?	mp_0116 0x863c
-				Let's go check.
+				Let's go check.	
 0x636e	0x98	ALTO		Now then, all that's left is Boote...	mp_0116 0x86a9
-				...Come to think of it, I haven't
-				seen him around like usual.
+				...Come to think of it, I haven't	
+				seen him around like usual.	
 0x63e1	0x06	ALTO		ANI_TONTON_SHUE	
 0x640e	0x98	ALTO		Maybe he's at home?	mp_0116 0x874f
-				Let's go check.
-QS_82_get_dried_fish
+				Let's go check.	
+QS_82_get_dried_fish					
 0x668f	0x98	Carina		Good day, Nayuta and Noi.	
 				Is something wrong?	
 0x66dd	0x06	ALTO		ANI_GESTURE1	
 0x6707	0x98	ALTO	#6A	Um, actually...	mp_0114 0x7532
 0x673e	0x40	UNDEF		Nayuta explained that he was here to pick up the	mp_0114 0x7570
-				ancestral offerings on request from the elder.
+				ancestral offerings on request from the elder.	
 0x67c2	0x06	Carina		ANI_NOD	
 0x67e9	0x98	Carina		Ah, I see. We've already	
 				prepared the offerings.	
@@ -441,7 +441,7 @@ QS_82_get_dried_fish
 0x6ad2	0x06	NOI		ANI_NOD	
 0x6af6	0x98	NOI	#6A	This scent...	
 				It's dried fish, isn't it?	
-0x6bc7	0x98	Carina		Hehe, I doubt it's a good idea
+0x6bc7	0x98	Carina		Hehe, I doubt it's a good idea	
 				to offer fresh fish like that.	
 0x6c4f	0x06	Carina		ANI_WAIT2	
 0x6c78	0x98	Carina		When the Star Festival is over,	
@@ -451,7 +451,7 @@ QS_82_get_dried_fish
 0x6d1a	0x98	ALTO	#6A	Yes, I'll do that.	mp_0110 0x9557
 0x6d4f	0x98	ALTO	#6A	Then, I can take this, right?	mp_0114 0x7b70
 0x6e65	0x98	NOI	#6A	It looks like we have all the	mp_0101 0xa690
-				offerings the elder requested now.
+				offerings the elder requested now.	
 0x6ed2	0x06	ALTO		ANI_NOD	
 0x6ef7	0x98	ALTO		Yeah, let's get them to the	mp_0101 0xa734
-				elder as soon as we can.
+				elder as soon as we can.	

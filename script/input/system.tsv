@@ -1,11 +1,11 @@
-system
-gameover
-return_point
+system					
+gameover					
+return_point					
 0x22c	0x6B	NOI		Unknown	
 0x292	0x06	NOI		MOT_PANIC	
 0x2d2	0x06	ALTO		ANI_KNOCKDOWN2	
 0x2fe	0x06	NOI		ANI_PANIC	
-goal_stage
+goal_stage					
 0x583	0x07	System	#4C	You have conquered the fourth season 	
 				of Forest Continent Oltapia.	
 0x5d5	0x07	System	#4C	As a special reward, an additional function	
@@ -13,25 +13,25 @@ goal_stage
 0x6d8	0x07	System	#4C	You have conquered the fourth season 	
 				of Abyss Continent Rieseweld.	
 0x72b	0x07	System	#4C	As a special reward, an additional function	system 0x5d5
-				has been added to the Astrolabe.
+				has been added to the Astrolabe.	
 0x82e	0x07	System	#4C	You have conquered the fourth season 	
 				of Holy Mountain Continent Heimmel.	
 0x889	0x07	System	#4C	As a special reward, an additional function	system 0x5d5
-				has been added to the Astrolabe.
+				has been added to the Astrolabe.	
 0x98c	0x07	System	#4C	You have conquered the fourth season 	
 				of Origin Continent La Worg.	
 0x9de	0x07	System	#4C	As a special reward, an additional function	system 0x5d5
-				has been added to the Astrolabe.
-jamp_dai01
-jamp_dai_half
-fsw_crystal
-MoveTo
-tuto_arts_change
+				has been added to the Astrolabe.	
+jamp_dai01					
+jamp_dai_half					
+fsw_crystal					
+MoveTo					
+tuto_arts_change					
 0x17d8	0x07	System	#4C	Noi has become able	
 				to equip additional arts.	
 0x1810	0x07	System	#4C	You can quickly swap between them	
 				in battle by pressing the L button.	
-training_Aulbath
+training_Aulbath					
 0x188f	0x98	Aulbath		There is nothing more	
 				I can teach you.	
 0x18d7	0x98	Aulbath		If you are how you are now,	
@@ -67,7 +67,7 @@ training_Aulbath
 				from a certain character while	
 				traveling in the East.	
 0x2ddf	0x98	Aulbath		Though handling it is difficult,	system 0x2ce9
-				I'm sure it will prove useful.
+				I'm sure it will prove useful.	
 0x2e5a	0x98	Aulbath		I obtained it while traveling	
 				in an unexplored region.	
 0x2eb3	0x98	Aulbath		This sword is still burdened	
@@ -130,8 +130,8 @@ training_Aulbath
 0x4c2a	0xC1	System		#3C『Mastery: Two-Handed Swords ③』 learned!	mp_0002 0xcaec
 0x4d2d	0xC1	System		#3CLearned secret technique 『Fallen Lotus』!	mp_0002 0xcbe7
 0x561a	0x98	ALTO		*huff*, *huff*...	mp_7098 0x6680
-				I-I did it...
-0x5656	0x98	Aulbath		Hmm, you seem to have
+				I-I did it...	
+0x5656	0x98	Aulbath		Hmm, you seem to have	
 				mastered a new skill.	
 0x56aa	0x98	Aulbath		By all means, please use	
 				it effectively in your	
@@ -139,7 +139,7 @@ training_Aulbath
 0x5736	0x98	ALTO		*huff*, *huff*...	
 				...Master, I did it!!	
 0x577a	0x98	Aulbath		Hmm, you seem to have	system 0x5656
-				mastered a new skill.
+				mastered a new skill.	
 0x57ce	0x98	Aulbath		Later, you should test 	
 				out that secret technique	
 				on your own.	
@@ -164,12 +164,12 @@ training_Aulbath
 0x5d1e	0x98	ALTO		Master...	mp_0002 0x16e8
 0x5d47	0x06	Aulbath		ANI_GESTURE1	
 0x5d74	0x98	Aulbath		If you are how you are now,	system 0x18d7
-				you should be able to overcome
-				any difficulties ahead.
+				you should be able to overcome	
+				any difficulties ahead.	
 0x5de1	0x06	Aulbath		ANI_NOD	
 0x5e09	0x98	Aulbath		You need not hesitate, no matter the	system 0x1944
-				obstacle. Push on, following the path
-				that you believe in.
+				obstacle. Push on, following the path	
+				that you believe in.	
 0x5e89	0x06	ALTO		ANI_THANKS	
 0x5eb1	0x98	ALTO		Yes!	
 				Thank you very much!	
@@ -210,14 +210,14 @@ training_Aulbath
 				you may be able to receive something.	
 0x68d6	0x98	Aulbath		Nayuta, come again once you have trained	
 				further. I look forward seeing you then.	
-collectget_dog
+collectget_dog					
 0x6aca	0x98	Dog		*whimper*...	
 0x6af5	0x98	Dog		Ruff, ruff!	mp_0004 0x7911
 0x6b1f	0x98	ALTO		Hmm? It seems like she	
 				wants something...	
 0x6b6b	0x98	ALTO		Come to think of it, don't I	
 				have something Nora will love?	
-0x6bc9	0x98	ALTO		All right, as a treat, I'll
+0x6bc9	0x98	ALTO		All right, as a treat, I'll	
 				let you have this, Nora.	
 0x6d04	0xC1	System		given to Nora.	
 0x6e4c	0xC1	System		given to Nora.	system 0x6d04
@@ -238,7 +238,7 @@ collectget_dog
 				Let's take care of	
 				each other, okay?	
 0x7422	0x98	Dog		Ruff!	
-dog_reward
+dog_reward					
 0x74f2	0xC1	System		obtained.	mp_0000 0x7558
 0x757d	0xC1	System		obtained.	mp_0000 0x7558
 0x7608	0xC1	System		obtained.	mp_0000 0x7558
@@ -303,7 +303,7 @@ dog_reward
 0x9717	0xC1	System		obtained.	mp_0000 0x7558
 0x97a2	0xC1	System		obtained.	mp_0000 0x7558
 0x982d	0xC1	System		obtained.	mp_0000 0x7558
-Michy_common
+Michy_common					
 0x98c0	0x3F	Name		Strange Animal	
 0x9902	0x98	Michy		Mishishi! ♪	mp_0112 0x15a92
 0x9971	0x6B	ALTO		Sweatdrop	

@@ -1,5 +1,5 @@
-mp_3000c
-init
+mp_3000c					
+init					
 0x1d2	0x06	hana00		ANI_STOP2	
 0x1fb	0x06	hana01		ANI_STOP2	
 0x224	0x06	hana02		ANI_STOP2	
@@ -15,20 +15,20 @@ init
 0x3c4	0x06	OBJ03_3		ANI_STOP2	
 0x3ee	0x06	OBJ03_4		ANI_STOP2	
 0x4a2	0xBC	QS54_SpiritC		Unknown	
-ev_goal
-battle
+ev_goal					
+battle					
 0x578	0x6B	ALTO		Exclamation	
-dead_EV01
-obj_move
-QS54_talk_SpiritC
+dead_EV01					
+obj_move					
+QS54_talk_SpiritC					
 0xcb8	0x6B	QS54_SpiritC		Unknown	
 0xdbe	0x98	NOI	#6A	Ah, found it!	
 0xded	0x98	ALTO		Isn't this one of	mp_1002b 0x1842
-				the nymphs from
-				Nemeas' temple?
+				the nymphs from	
+				Nemeas' temple?	
 0xe40	0x98	ALTO		Ah, but what could you be doing here...?	mp_1002b 0x18a3
 0xe7d	0x98	ALTO		...Aren't you one of Nemeas'	mp_1002b 0x18e4
-				nymphs? Are you okay?
+				nymphs? Are you okay?	
 0xef1	0x6B	QS54_SpiritC		Exclamation	
 0xf4f	0x06	QS54_SpiritC		ANI_TALK	
 0xf7d	0x98	QS54_SpiritC		......～～～～～～.........	
@@ -57,22 +57,22 @@ QS54_talk_SpiritC
 				and Nemeas is in trouble.	
 0x13f5	0x6B	QS54_SpiritC		Question	
 0x142f	0x40	UNDEF		Noi explained to the nymph how to	mp_1002b 0x1f6e
-				get back to the Origin Continent.
+				get back to the Origin Continent.	
 0x1495	0x6B	QS54_SpiritC		Surprise	
 0x14cf	0x06	QS54_SpiritC		ANI_NOD	
 0x1504	0x6B	QS54_SpiritC		Unknown	
 0x16b0	0x98	ALTO		Looks like we rescued that one safely.	mp_1002b 0x221c
 0x1713	0x06	NOI		ANI_NOD	
 0x177b	0x98	NOI	#6A	Yeah, now that's all	mp_1002b 0x2303
-				of the missing nymphs.
+				of the missing nymphs.	
 0x17dd	0x98	NOI	#6A	Nayuta, let's go	mp_1002b 0x2356
-				tell Nemeas!
+				tell Nemeas!	
 0x1820	0x06	ALTO		ANI_NOD	
 0x1845	0x98	ALTO		Yeah!	mp_0001 0x1174e
-0x18b0	0x98	NOI	#6A	Yeah...but there should	mp_1002b 0x242e
-				be three missing nymphs.
+0x18b0	0x98	NOI	#6A	Yeah... but there should	mp_1002b 0x242e
+				be three missing nymphs.	
 0x18ff	0x98	NOI	#6A	Nayuta, let's try	mp_1002b 0x24a6
-				looking for them.
+				looking for them.	
 0x194f	0x06	ALTO		ANI_NOD	
 0x1974	0x98	ALTO		Right, let's try going to	mp_1002b 0x2511
-				the other continents, too.
+				the other continents, too.	

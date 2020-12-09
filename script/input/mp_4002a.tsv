@@ -1,20 +1,20 @@
-mp_4002a
-init
-ev_goal
-jumpdai
-open_door1
+mp_4002a					
+init					
+ev_goal					
+jumpdai					
+open_door1					
 0x526	0x06	switch		ANI_LEVER_ON_LOCK	
-mapanime1_se
-mapanime1
+mapanime1_se					
+mapanime1					
 0x8e0	0x06	switch2		ANI_LEVER_ON_LOCK	
-swt03_timer
+swt03_timer					
 0xb1d	0x06	switch2		ANI_LEVER_OFF	
-battle_boss
+battle_boss					
 0xb7b	0x6B	ALTO		Exclamation	
-dead_EV01
-door02_open
-talk_SpiritB
-QS_54_discovery_SpiritB
+dead_EV01					
+door02_open					
+talk_SpiritB					
+QS_54_discovery_SpiritB					
 0x11ff	0x6B	SpiritB		Exclamation	
 0x1234	0x06	NOI		ANI_GESTURE2	
 0x125d	0x98	NOI	#6A	There it is... Nemeas' messenger!	
@@ -22,8 +22,9 @@ QS_54_discovery_SpiritB
 0x12cc	0x06	ALTO		ANI_GESTURE1	
 0x12f6	0x98	ALTO		Umm, don't be afraid, it's okay.	
 				The truth is...	
-0x134a	0x40	UNDEF		Nayuta explained that, to receive Nemeas' art,	mp_4001b 0x170b
-				the Sprout Magatama is necessary.	
+0x134a	0x40	UNDEF		Nayuta explained that, to receive	mp_4001b 0x170b
+				Nemeas' art, the 'Sprout Magatama'	
+				is necessary.	
 0x13bc	0x98	SpiritB		...(*gulp, gulp*)	mp_4001b 0x177c
 0x1405	0x98	NOI	#6A	It seems it understands.	mp_4001b 0x17c5
 				It will go to the temple later.	

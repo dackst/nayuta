@@ -1,13 +1,13 @@
-mp_4002c
-init
-ev_goal
-close_door1
+mp_4002c					
+init					
+ev_goal					
+close_door1					
 0x384	0x6B	ALTO		Exclamation	
-dead_ev01
-open_door1_2
-tofortress
+dead_ev01					
+open_door1_2					
+tofortress					
 0xa5b	0x06	switch		ANI_LEVER_ON_LOCK	
-QS_44_get_power
+QS_44_get_power					
 0xb1d	0x06	ALTO		ANI_HANDOVER1	
 0xb48	0x40	UNDEF		The pale light was absorbed into the Colored Jewel.	mp_4000c 0xea7
 0xc86	0x40	UNDEF		Recovered a fragment of Algol's power!	mp_4000c 0xfe5
@@ -15,13 +15,13 @@ QS_44_get_power
 0xeb2	0x06	NOI		ANI_GUTSPOSE	
 0xedb	0x98	NOI		The Colored Jewel is shining brightly...	mp_4000c 0x123a
 0xf22	0x98	NOI		Looks like we've got all	mp_4000c 0x1281
-				of Algol's power back now!
+				of Algol's power back now!	
 0xf78	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xfa6	0x98	ALTO		Phew, that was more	mp_4000c 0x1305
-				difficult than I expected.
+				difficult than I expected.	
 0xff3	0x98	ALTO		Anyway, let's deliver it to	mp_4000c 0x1352
-				Algol as soon as possible.
+				Algol as soon as possible.	
 0x11ca	0x40	UNDEF		A mysterious sphere is floating here.	mp_4000c 0x1529
 0x1232	0x98	ALTO		What is this thing...?	mp_4000c 0x1591
 0x1270	0x98	ALTO		Well, it doesn't seem to have	mp_4000c 0x15cf
-				any bearing on our progress.
+				any bearing on our progress.	

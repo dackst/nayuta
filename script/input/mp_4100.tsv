@@ -1,16 +1,16 @@
-mp_4100
-init
-Open_Door
-stp_shrine
+mp_4100					
+init					
+Open_Door					
+stp_shrine					
 0x472	0x98	ALTO		Though I'm worried about this place...	
 				Now, I'm more worried about the village.	
 0x4e0	0x98	NOI		Yeah, I imagine it's not a coincidence	
 				that Lady Creha is there too...	
 0x53d	0x98	NOI		Let's return to the village for	
 				now and see how things are!	
-SB_4_S10_appear_ALTO
-SB_4_S10_appear_NOI
-EV_4_S10_meet_seram
+SB_4_S10_appear_ALTO					
+SB_4_S10_appear_NOI					
+EV_4_S10_meet_seram					
 0x987	0x06	st		ANI_PATA2	
 0xd65	0x06	ALTO		ANI_WAIT4	
 0xd8c	0x98	ALTO	#6A	So this is the temple of La Worg...	
@@ -19,10 +19,10 @@ EV_4_S10_meet_seram
 				seem like it's been shut down yet.	
 0xe7d	0x06	NOI		ANI_DENY	
 0xea2	0x98	NOI	#6A	But, it's overflowing with lava,	
-				I'm sure it will be dangerous inside.
+				I'm sure it will be dangerous inside.	
 0x1165	0x06	NOI		ANI_GESTURE1	
 0x118e	0x98	NOI	#6A	Even more so than other places	
-				on this continent...		
+				on this continent...	
 0x11ef	0x06	ALTO		ANI_NOD	
 0x121c	0x98	ALTO		All right, let's	
 				proceed with caution─	
@@ -53,7 +53,7 @@ EV_4_S10_meet_seram
 0x1ac3	0x06	ALTO		ANI_WAIT	
 0x1b87	0x98	NOI		...Are you really...	
 0x1bc7	0x06	NOI		ANI_COMPLAIN	
-0x1bf0	0x98	NOI		Are you guys really
+0x1bf0	0x98	NOI		Are you guys really	
 				going to use it!?	
 0x1c79	0x98	Seram	#6A	Yes, we will. Without the	
 				slightest hesitation.	
@@ -94,7 +94,7 @@ EV_4_S10_meet_seram
 0x24ab	0x98	Seram		But can you really	
 				afford to ignore those	
 				most important to you?	
-0x251a	0x98	Seram	#0W	.....
+0x251a	0x98	Seram	#0W	.....	
 0x254f	0x06	Seram		ANI_GESTURE2	
 0x257a	0x98	Seram	#0W	...Like on Remnant	
 				Island, if you will.	
@@ -135,7 +135,7 @@ EV_4_S10_meet_seram
 0x2e1b	0x98	ALTO		We've got to check up on	
 				Creha and Remnant Island...	
 0x2f47	0xCE	Objective		I'm worried about the island and Creha. Let's return to check.	
-EV_4_S15_temple4_front
+EV_4_S15_temple4_front					
 0x32d7	0x06	ALTO		ANI_WAIT4	
 0x32fe	0x98	ALTO	#6A	It's super hot here,	
 				like always...	
@@ -150,4 +150,4 @@ EV_4_S15_temple4_front
 0x34d8	0x98	NOI		Let's go, Nayuta!	
 				To recover the final Master Gear!	
 0x35ff	0x06	ALTO		ANI_NOD	
-EV_4_S17_stop_star_power
+EV_4_S17_stop_star_power					

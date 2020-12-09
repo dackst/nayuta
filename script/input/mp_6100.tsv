@@ -1,7 +1,7 @@
-mp_6100
-init
-talk_Michy
-0x657	0x3F	Name		Mysterious Life Form	mp_0002d 0x321a
+mp_6100					
+init					
+talk_Michy					
+0x657	0x3F	Name		Mysterious Creature	mp_0002d 0x321a
 0x696	0x98	Michy		Mishishi! ♪	mp_0112 0x15a92
 0x6c1	0x98	Michy		............	mp_0001 0x15fd5
 0x768	0x07	System	#3C	The mysterious creature spit something out!!	
@@ -20,8 +20,8 @@ talk_Michy
 				 know what kind of animal this is.)	
 0xbf2	0x98	ALTO		(What was that...? I'm not	
 				 sure what just happened...)	
-SB_0_S14_signa_move
-EV_0_S14_out_remain
+SB_0_S14_signa_move					
+EV_0_S14_out_remain					
 0x1123	0x98	Signa		Oh, it seems that we're outside now.	
 0x1183	0x06	ALTO		ANI_SURPRISE	
 0x11ad	0x6B	ALTO		Exclamation	
@@ -52,7 +52,7 @@ EV_0_S14_out_remain
 				going to climb up higher.	
 0x195b	0x06	ALTO		ANI_WAIT	
 0x1a40	0xCE	Objective		Just a little further. Let's try going as far as we can!	
-EV_0_S15_find_noi
+EV_0_S15_find_noi					
 0x1cdc	0x06	NOI		ANI_SLEEP_WITH_ORBMENT	
 0x1d80	0x06	komono07		ANI_STOP	
 0x1ebd	0xBC	ALTO		Exclamation	
@@ -184,7 +184,7 @@ EV_0_S15_find_noi
 0x6298	0x98	Seram	#0W	...It's... It's nothing...	
 0x62ef	0xBC	Zext		Surprise	
 0x634b	0x98	Zext		...Oh... Is this so?	
-0x63bd	0x98	Zext		...It seems that our coming to
+0x63bd	0x98	Zext		...It seems that our coming to	
 				this world was no coincidence.	
 0x642c	0x98	Zext		Everything is guided	
 				by the stars...	
@@ -226,20 +226,20 @@ EV_0_S15_find_noi
 				Noi in a soft cloth...	
 0x7423	0x40	UNDEF		Careful not to reveal her to the islanders,	
 				they carried her to Nayuta's house.	
-SB_0_S15_seram_move
-SB_0_S15_nayuta_move
+SB_0_S15_seram_move					
+SB_0_S15_nayuta_move					
 0x76ac	0xBC	ALTO		Exclamation	
 0x771b	0x06	ALTO		ANI_SURPRISE_WEAK	
-SB_0_S15_signa_move
+SB_0_S15_signa_move					
 0x776a	0xBC	Signa		Exclamation	
 0x77dc	0x06	Signa		ANI_SURPRISE_WEAK	
-SB_0_S15_nayuta_move2
+SB_0_S15_nayuta_move2					
 0x7870	0x06	ALTO		ANI_SIT6	
-SB_0_S15_signa_move2
+SB_0_S15_signa_move2					
 0x79a9	0x06	Signa		ANI_BACKSTEP	
 0x7a23	0x06	Signa		ANI_KEN_WO_KAMAERU_A_2	
-SB_0_S15_equip_4
-stp_back
+SB_0_S15_equip_4					
+stp_back					
 0x7a98	0x98	ALTO		Seems that there's still	
 				more ruins up above...	
 0x7ae1	0x98	ALTO		Since we've come all this way,	

@@ -1,44 +1,44 @@
-mp_0004d
-init
-lp_post
+mp_0004d					
+init					
+lp_post					
 0x7a2	0x98	ALTO		Now's not the time	
 				to check the mail!	
 0x8a0	0x98	ALTO		Huh...? Looks like there's a	mp_0004 0x2113
-				strange letter inside here.
-0x8f3	0x98	ALTO		It's from an associate of a warden...	mp_0004 0x2165
+				strange letter inside here.	
+0x8f3	0x98	ALTO		It seems to be from a warden...	mp_0004 0x2165
 0x956	0x98	ALTO		We should go to the temple and at least	mp_0004 0x21c4
-				listen to what they have to say.
-lp_ladder_u
-lp_ladder_d
-lp_telescope
+				listen to what they have to say.	
+lp_ladder_u					
+lp_ladder_d					
+lp_telescope					
 0xd32	0x40	UNDEF		Nayuta peered through the astronomical telescope.	mp_0004 0x2875
-0xfd1	0x07	System	#4C	You can operate the telescope using the analog stick.	mp_0004c 0xe3d
-				With the L button, you can zoom in,
-				and with the R button, you can zoom out.
-stp_tera
+0xfd1	0x07	System	#4C	Operate the telescope with the analog pad.	mp_0004c 0xe3d
+				Zoom in with the L button and	
+				zoom out with the R button.	
+stp_tera					
 0x1118	0x98	ALTO		I can't go to Terra...	
 				There seems to be something	
 				wrong with the gate...	
-talk_SheepA
-talk_SheepB
-talk_Nora
+talk_SheepA					
+talk_SheepB					
+talk_Nora					
 0x12b8	0x98	Dog		Ruff, ruff!	mp_0004 0x7911
 0x12fc	0x98	ALTO		Huh? Looks like you got yourself	mp_0004 0x7955
-				something there in your mouth...
+				something there in your mouth...	
 0x135c	0x98	ALTO		Oh, is this for me?	mp_0004 0x79b5
 0x13a6	0x98	Dog		Ruff! ♪	mp_0004 0x79ff
 0x13cb	0x98	ALTO		Hmm, I'll take it, since you	mp_0004 0x7a24
-				went through the trouble.
+				went through the trouble.	
 0x145b	0x98	ALTO		Oh, you got something in your mouth again.	mp_0004 0x7ab4
-				...Are you giving those to me?
+				...Are you giving those to me?	
 0x14bc	0x98	Dog		Ruff! ♪	mp_0004 0x79ff
 0x14e1	0x98	ALTO		Haha, thanks.	mp_0004 0x7b3a
-sub_Nora
+sub_Nora					
 0x15f5	0x98	Dog		Bow wow! Bow wow!	
-subev_get_dog2
+subev_get_dog2					
 0x183e	0x06	ALTO		ANI_GESTURE2	
 0x1868	0x98	ALTO		Yep, looks like I managed to get	mp_0004 0x3ccc
-				the shed set up pretty well.
+				the shed set up pretty well.	
 0x18b9	0x6B	Dog		Unknown	
 0x18ea	0x3F	Name		Stray Dog	mp_0004 0x3d4e
 0x191f	0x98	Dog		Ruff, ruff! ♪	mp_0001 0x3a9c
@@ -46,21 +46,21 @@ subev_get_dog2
 0x19b0	0x98	NOI		She seems to like it.	mp_0004 0x3e14
 0x19f6	0x98	NOI		She seems to like it.	mp_0004 0x3e14
 0x1a4b	0x06	Asa		ANI_THINK	
-0x1a71	0x98	Asa		But now, you need a name.	mp_0004 0x3ed5
-0x1ab2	0x98	Asa		What should we call you...?	mp_0004 0x3f16
+0x1a71	0x98	Asa		But now, she needs a name.	mp_0004 0x3ed5
+0x1ab2	0x98	Asa		What we should call her...?	mp_0004 0x3f16
 0x1b06	0x06	ALTO		ANI_THINK	
-0x1b2d	0x98	ALTO		Hmm, then...it's 'Nora.'	mp_0004c 0x2182
-				This one's name will be Nora.
+0x1b2d	0x98	ALTO		Hmm, how about... Nora?	mp_0004c 0x2182
+				Let's go with Nora.	
 0x1b82	0x06	ALTO		ANI_WAIT	
 0x1bbd	0x06	Asa		ANI_NOD	
 0x1be1	0x98	Asa		Yeah, that's not too bad.	mp_0004 0x4066
 0x1c2b	0x06	Asa		ANI_WAIT4	
 0x1c51	0x98	Asa		Hehe, nice to meet you, Nora! ♪	mp_0004 0x40d6
 0x1c8d	0x98	Dog		Ruff, ruff! *whine*	mp_0004 0x4112
-SB_4_S28_appear_ALTO
+SB_4_S28_appear_ALTO					
 0x1f52	0x06	ALTO		ANI_PUSHED	
 0x1fe6	0x06	ALTO		ANI_SIT6	
-EV_4_S28_return_island
+EV_4_S28_return_island					
 0x251a	0x06	ALTO		ANI_WAIT	
 0x25fa	0x06	ALTO		ANI_HANDOVER1	
 0x2625	0x98	ALTO		Tch... It's not working!	
@@ -75,7 +75,7 @@ EV_4_S28_return_island
 0x2908	0x06	ALTO		ANI_TONTON_SHUE	
 0x2935	0x98	ALTO		I have a bad feeling about this...!	
 0x2a25	0xCE	Objective		Something's wrong... Let's check out the surrounding area.	
-EV_5_S01_go_tera
+EV_5_S01_go_tera					
 0x2e19	0x06	ALTO		ANI_WAIT4	
 0x2e40	0x98	ALTO	#6A	Looks like the transfer gate	
 				went back up at some point.	

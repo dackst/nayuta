@@ -1,18 +1,18 @@
-mp_0101b
-init
+mp_0101b					
+init					
 0x40b	0x06	gate_a		ANI_PATA2	
 0x444	0x06	st		ANI_PATA3	
-lp_portal
+lp_portal					
 0x682	0x98	NOI		Nayuta, if we follow that tree root,	
 				we should be able to go to Heliograd!	
 0x6ee	0x98	ALTO		We've got to hurry...	
 				Anyway, let's do this!	
 0x7ad	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
 0x94f	0x06	st		ANI_PATA1	
-EV_entry3
-LP_Monsyo
+EV_entry3					
+LP_Monsyo					
 0xcb8	0x40	UNDEF		A strange crest is engraved on the stone monument.	mp_0101 0x328b
-talk_Cetus
+talk_Cetus					
 0xd7d	0x98	Cetus		I think something is about	
 				to happen to this world...	
 0xdce	0x98	Cetus		Regardless, we'll wait here	
@@ -24,18 +24,18 @@ talk_Cetus
 				this will be good enough.	
 0xf6a	0x98	Cetus		We'll return together on the way back to	
 				the island. Make sure to come back safely.	
-talk_Reticul
+talk_Reticul					
 0x1043	0x98	Reticul		I know you guys got a lot going on...	
 				But we'll be waiting here for you.	
 0x10b7	0x98	Reticul		Come on, get outta here	
 				and go save your friends.	
 0x10fd	0x98	Reticul		When we go back to the island, we'll	
-				pass through that gate together!		
+				pass through that gate together!	
 0x1177	0x98	Reticul		Come on, get outta here	mp_0101b 0x10b7
-				and go save your friends.
+				and go save your friends.	
 0x11bd	0x98	Reticul		When we go back to the island, we'll	mp_0101b 0x10fd
-				pass through that gate together!
-SUB_meet_adventurer
+				pass through that gate together!	
+SUB_meet_adventurer					
 0x12cb	0x06	Cetus		ANI_WAIT0	
 0x1387	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x13b6	0x98	ALTO		Ah... It's you guys!?	
@@ -59,18 +59,18 @@ SUB_meet_adventurer
 0x16bc	0x98	NOI	#6A	I mean, you're still on Terra...	
 0x1708	0x98	NOI	#6A	Hurry up and get outta here!	
 				Things are getting way out	
-				of control now!
+				of control now!	
 0x1773	0x6B	Cetus		Sweatdrop	
 0x179e	0x6B	Reticul		Sweatdrop	
 0x17d3	0x98	Reticul		W-We were planning to	mp_0101b 0x1514
-				leave soon too...
+				leave soon too...	
 0x1818	0x06	Reticul		ANI_DIRECT	
 0x1843	0x98	Reticul		Anyway, a lot happened, and	
 				the next thing I knew, the	
-				sky started to go crazy!
+				sky started to go crazy!	
 0x18b6	0x06	ALTO		ANI_THINK2	
 0x18de	0x98	ALTO	#6A	You got wrapped up in this whole mess...	mp_0101b 0x1612
-				But I'm glad you're safe.
+				But I'm glad you're safe.	
 0x192e	0x06	Cetus		ANI_WAIT3	
 0x1956	0x98	Cetus		We were wandering around a while ago,	
 				and this fairy-looking thing appeared	
@@ -110,7 +110,7 @@ SUB_meet_adventurer
 0x1f07	0x06	Reticul		ANI_DIRECT	
 0x1f32	0x98	Reticul		Well, I mean... What, you think	
 				we should just leave you two	
-				and run away from here?
+				and run away from here?	
 0x1f8c	0x06	Reticul		ANI_WAIT3	
 0x1fb6	0x98	Reticul		If we did that, it would	
 				be a disgrace to our good	
@@ -130,7 +130,7 @@ SUB_meet_adventurer
 				pull out immediately.	
 0x2266	0x06	Reticul		ANI_WAIT3	
 0x2290	0x98	Reticul		Come on, get outta here	mp_0101b 0x10b7
-				and go save your friends.
+				and go save your friends.	
 0x22d6	0x98	Reticul		Then, when we go back to the island,	
 				we'll pass through that gate together!	
 0x234c	0x06	ALTO		ANI_NOD	
@@ -142,11 +142,11 @@ SUB_meet_adventurer
 				with everyone for sure!	
 0x2500	0x06	Cetus		ANI_WAIT0	
 0x2552	0x06	Reticul		ANI_WAIT0	
-SUB_alto_move
-SUB_noi_move
-SB_5_S02_appear_ALTO
+SUB_alto_move					
+SUB_noi_move					
+SB_5_S02_appear_ALTO					
 0x2891	0x6B	ALTO		Exclamation	
-EV_5_S02_talk_noi
+EV_5_S02_talk_noi					
 0x2d5f	0x98	ALTO	#0W#480x#270y	Wh-What the heck!?	
 				The sky and the Garden...	
 0x2e60	0x98	ALTO		...I have to find Noi!	
@@ -192,11 +192,11 @@ EV_5_S02_talk_noi
 0x3931	0x98	ALTO	#6A	Th-That's what	
 				Selam said...	
 0x39f3	0x3F	Name		Selam	
-0x3a00	0x40	ALTO		Once we shut down this temple, the	mp_4100 0x18b4
-				astral power from every continent
-				will flow into a single focal point...
+0x3a00	0x40	ALTO		Once we shut it down, the astral	mp_4100 0x18b4
+				power from every continent will	
+				flow into a single focal point...	
 0x3a8d	0x40	ALTO		Concluding the first step in	mp_4100 0x193d
-				releasing the seal on Terra.
+				releasing the seal on Terra.	
 0x3b97	0x98	ALTO	#6A#0W	(.............)	
 0x3bd1	0x98	ALTO	#6A#0W	(...Selam...)	
 0x3cb8	0x06	ALTO		ANI_GESTURE2	

@@ -1,7 +1,7 @@
-mp_0005c
-init
-talk_Michy
-talk_Ophiuchus
+mp_0005c					
+init					
+talk_Michy					
+talk_Ophiuchus					
 0x7dd	0x98	Ophiuchus		Hmm... You can see the	
 				whole ocean from here.	
 0x841	0x98	Ophiuchus		I feel like Master Mishy has	
@@ -11,17 +11,17 @@ talk_Ophiuchus
 0x91b	0x98	Ophiuchus		That way we can settle the matter	
 				of Master Mishy's inheritance...	
 0x976	0x98	Ophiuchus		I hope that these anomalies will	mp_0005c 0x89f
-				be brought to an end soon.
-boss_retry
+				be brought to an end soon.	
+boss_retry					
 0xa0e	0xCE	Objective		We can't lose... We have to protect Lyra and Vel!	
-SB_6_S10_appear_Lyra
-SB_6_S10_appear_Bell
-SB_6_S10_appear_Mons
-SB_6_S10_appear_ALTO
-SB_6_S10_appear_NOI
-SB_6_S10_exit_Lyra
-SB_6_S10_exit_Bell
-EV_6_S10_battle_mons
+SB_6_S10_appear_Lyra					
+SB_6_S10_appear_Bell					
+SB_6_S10_appear_Mons					
+SB_6_S10_appear_ALTO					
+SB_6_S10_appear_NOI					
+SB_6_S10_exit_Lyra					
+SB_6_S10_exit_Bell					
+EV_6_S10_battle_mons					
 0x184f	0x98	Bell	#2W#6A	Lyra... Are we	
 				gonna get eaten?	
 0x18de	0x98	Lyra	#1W	It's gonna be okay, Vel.	
@@ -56,18 +56,18 @@ EV_6_S10_battle_mons
 				Let's go, Noi!	
 0x281f	0x06	NOI		ANI_NOD	
 0x2843	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
-SB_6_S10_equip_se
-SB_6_S11_appear_Lyra
-SB_6_S11_appear_Bell
-SB_6_S11_move_ALTO
-SB_6_S11_move_NOI
-SB_6_S11_move_Lyra
-SB_6_S11_move_Bell
-SB_6_S11_appear_Aulbath
-SB_6_S11_exit_Aulbath
-SB_6_S11_exit_Lyra
-SB_6_S11_exit_Bell
-EV_6_S11_help_lyra
+SB_6_S10_equip_se					
+SB_6_S11_appear_Lyra					
+SB_6_S11_appear_Bell					
+SB_6_S11_move_ALTO					
+SB_6_S11_move_NOI					
+SB_6_S11_move_Lyra					
+SB_6_S11_move_Bell					
+SB_6_S11_appear_Aulbath					
+SB_6_S11_exit_Aulbath					
+SB_6_S11_exit_Lyra					
+SB_6_S11_exit_Bell					
+EV_6_S11_help_lyra					
 0x3149	0x06	ALTO		ANI_NOUTOU	
 0x3273	0x06	ALTO		ANI_JOY	
 0x3298	0x98	ALTO		All right, we managed to defeat it...	
@@ -130,7 +130,7 @@ EV_6_S11_help_lyra
 				Don't say such	
 				precocious things.	
 0x4c48	0x3F	Name		Dignified Voice	
-0x4c5f	0x98	Aulbath		Hehe, looks like this won't
+0x4c5f	0x98	Aulbath		Hehe, looks like this won't	
 				be turning into a serious	
 				incident after all.	
 0x4ca7	0x6B	ALTO		Surprise	
@@ -142,8 +142,8 @@ EV_6_S11_help_lyra
 0x52b5	0x98	Lyra		Mr. Orvus, didn't you	
 				leave on patrol?	
 0x5335	0x98	Aulbath		Yes, that is right, but...	
-				I came running when I heard a
-				monster appeared out here.
+				I came running when I heard a	
+				monster appeared out here.	
 0x539f	0x98	Aulbath		Heheh, it seems that a	
 				crisis was averted because	
 				Nayuta has awakened.	
@@ -211,7 +211,7 @@ EV_6_S11_help_lyra
 				things secret from you, and...	
 				I'm really sorry.	
 0x6bed	0x06	NOI		ANI_DENY	
-0x6c12	0x98	NOI	#6A	But it's... it's not because
+0x6c12	0x98	NOI	#6A	But it's... it's not because	
 				I'm on the Mitos' side.	
 0x6c7c	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x6d3b	0x98	ALTO		Huh...?	mp_0004 0x392d
@@ -220,7 +220,7 @@ EV_6_S11_help_lyra
 				Zext and Lady Creha...	
 				They're really powerful.	
 0x6e2f	0x98	NOI	#6A	I thought... maybe I could	
-				never stop their mission...		
+				never stop their mission...	
 0x6e90	0x98	NOI	#6A	So... I didn't want to	
 				tell you about this	
 				world being erased.	

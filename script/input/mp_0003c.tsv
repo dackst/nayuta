@@ -1,29 +1,29 @@
-mp_0003c
-init
-talk_Puppis
+mp_0003c					
+init					
+talk_Puppis					
 0x4a9	0x98	Puppis		Everywhere on the Ciencia Sea,	
-				animals are starting to disappear.
+				animals are starting to disappear.	
 0x525	0x98	Puppis		...It's almost like the legendary	
 				Great Flood is happening again.	
 0x594	0x98	Puppis		With no wings or gills,	
 				we're stuck to living	
-				on our feet on land.
+				on our feet on land.	
 0x620	0x98	Puppis		According to legend, the	
 				world was once destroyed	
 				by a Great Flood.	
 0x687	0x98	Puppis		With no wings or gills,	mp_0003c 0x594
-				we're stuck to living
-				on our feet on land.
+				we're stuck to living	
+				on our feet on land.	
 0x721	0x98	Puppis		You guys fell from the broken	
-				moon, but you were fine.
+				moon, but you were fine.	
 				How did you even survive?	
 0x777	0x98	Puppis		Just how high is that thing?	
 				No mortal being could have	
 				survived such a fall..	
 0x7e7	0x98	Puppis		Maybe you guys are being	
-				protected by some kind of god.
+				protected by some kind of god.	
 0x858	0x98	Puppis		Maybe you guys are being	mp_0003c 0x7e7
-				protected by some kind of god.
+				protected by some kind of god.	
 0x8a1	0x98	Puppis		A god that's still watching out for us!	
 0x915	0x98	Puppis		Hey, boy.	
 				...You seem down.	
@@ -67,7 +67,7 @@ talk_Puppis
 0xf0f	0x98	Puppis		There's no way human beings could have	
 				caused worldwide incidents like these.	
 				Dammit, they need to calm down for a sec.	
-talk_Crux
+talk_Crux					
 0xfd7	0x98	Crux		It's already time to set sail, but	
 				it looks like a rough storm is brewing	
 				offshore, so we can't leave.	
@@ -93,7 +93,7 @@ talk_Crux
 				place. It's out of control.	
 0x141b	0x98	Crux		The captain's tough as	
 				nails, but the only weapon	
-				he's got is an oar...
+				he's got is an oar...	
 0x147c	0x98	Crux		...I wonder how long this	
 				situation will continue...	
 0x1512	0x98	Crux		Because of extreme weather,	
@@ -109,7 +109,7 @@ talk_Crux
 				brace ourselves and keep sailing...	
 0x16e0	0x98	Crux		Well, that's what	
 				the captain says.	
-talk_Axe
+talk_Axe					
 0x17aa	0x98	Axe		Nayuta... Looks like	
 				you're awake.	
 0x17e4	0x98	Axe		You guys washed up on the cape	
@@ -138,7 +138,7 @@ talk_Axe
 				be any good for fishing.	
 0x1c4b	0x98	Axe		It's like all the fish are going away.	
 				I don't know what the hell is going on.	
-talk_Carina
+talk_Carina					
 0x1cde	0x98	Carina		Nayuta... You're up now.	
 0x1d33	0x98	Carina		I was really worried about you.	
 0x1d74	0x98	ALTO		Haha... I'm sorry.	
@@ -152,8 +152,8 @@ talk_Carina
 0x1f01	0x98	baby		Abu, abu...	mp_0003c 0x1da5
 0x1f2c	0x98	Carina		Heheh, looks like Cory likes you, Noi, huh?	
 0x1f73	0x98	Carina		...Anyway, both of you should	mp_0003c 0x1e5e
-				get yourselves plenty of rest.
-talk_Bell
+				get yourselves plenty of rest.	
+talk_Bell					
 0x1ff5	0x98	Bell		There aren't enough fish left	
 				to catch, so Dad goes out	
 				fishing every day and night...	
@@ -167,8 +167,8 @@ talk_Bell
 				to be a fisherman just like Dad!	
 0x21c2	0x98	Bell		Vel will help Dad someday.	
 0x21ff	0x98	Bell		When I grow up... Vel is going	mp_0003c 0x213b
-				to be a fisherman just like Dad!
-talk_Vavo
+				to be a fisherman just like Dad!	
+talk_Vavo					
 0x22a4	0x98	Vavo		The phenomenon where large quantities of debris	
 				fell from the sky seems to have ended, but...	
 				I do not think it's over with just this.	
@@ -181,7 +181,7 @@ talk_Vavo
 0x246b	0x98	Vavo		It's precisely because of this baffling situation	
 				that we find ourselves in that academics should	
 				be able to relieve some of the insecurities.	
-0x24f6	0x98	Vavo		Nayuta, as always, I would
+0x24f6	0x98	Vavo		Nayuta, as always, I would	
 				appreciate your help.	
 0x2579	0x98	Vavo		Hmm, it's fortunate that not much	
 				rubble has hit the museum.	
@@ -196,7 +196,7 @@ talk_Vavo
 0x2758	0x98	Vavo		There's heavy damage everywhere...	
 				It was inappropriate to be pleased	
 				in their falling.	
-talk_Camelope
+talk_Camelope					
 0x280c	0x98	Camelope		I had a long discussion with Sasha,	
 				and she decided to return and visit	
 				the family home.	
@@ -212,7 +212,7 @@ talk_Camelope
 0x2a69	0x98	Camelope		...Now, let's go and	
 				check up on her.	
 0x2abe	0x98	Camelope		I hope she is well...	
-talk_Norma
+talk_Norma					
 0x2b42	0x98	Norma		The Mistress is known among	
 				her relatives for her stubborn	
 				and headstrong will.	
@@ -227,7 +227,7 @@ talk_Norma
 				heading off to stop these anomalies...	
 				Please, take care of yourself.	
 0x2e00	0x98	Norma		There was terrible damage to the mansion	
-				on the continent. We had returned to the
+				on the continent. We had returned to the	
 				family home for a time...	
 0x2e7e	0x98	Norma		However, the Mistress insisted	
 				on checking up on Milady again,	
@@ -236,6 +236,6 @@ talk_Norma
 				she brought me too.	
 0x2f70	0x98	Norma		Even so, I have no idea how	
 				the ferry is still operating	
-				in these conditions.
+				in these conditions.	
 0x2fd8	0x98	Norma		It is a real mess back	
 				on the continent...	

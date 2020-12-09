@@ -1,18 +1,18 @@
-mp_8098
-init
-BossJump
+mp_8098					
+init					
+BossJump					
 0x23e	0xCE	Objective		I'll win this battle, and free everyone!!	
 0x39e	0x06	b005		ANI_WAIT	
-boss_demo1
-gearHP_r
+boss_demo1					
+gearHP_r					
 0xfff	0x06	swt_gear_r		ANI_LEVER_OFF	
-gearHP_l
+gearHP_l					
 0x1574	0x06	swt_gear_l		ANI_LEVER_OFF	
-floor_up
-floor_down
-boss_yuka_laser
-boss_dead
-EV_8_S11_boss_battle
+floor_up					
+floor_down					
+boss_yuka_laser					
+boss_dead					
+EV_8_S11_boss_battle					
 0x26f3	0x06	ALTO		ANI_SIT6	
 0x27a2	0x98	ALTO	#2W	...Ooh...	mp_0001c 0x4b32
 0x27d6	0x06	ALTO		ANI_STAGGER_STAND_UP	

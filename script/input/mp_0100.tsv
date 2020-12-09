@@ -1,6 +1,6 @@
-mp_0100
-init
-lp_ctrl
+mp_0100					
+init					
+lp_ctrl					
 0xf0c	0x36	Choice		Enter the Astrolabe	
 0xf69	0x36	Choice		Unlock Additional Functions	
 0xfd2	0x36	Choice		Cancel	
@@ -8,7 +8,7 @@ lp_ctrl
 				the pedestal, giving off a mysterious light.	
 0x1194	0x98	ALTO		It looks like a device used	
 				for operating the Astrolabe.	
-AL_shop
+AL_shop					
 0x1477	0x06	ALTO		ANI_SURPRISE	
 0x14db	0x07	System	#3C	Nayuta's maximum	
 				level rose to 70!	
@@ -16,7 +16,7 @@ AL_shop
 0x15fd	0x07	System	#3C	Nayuta's maximum	
 				level rose to 85!	
 0x16bb	0x06	ALTO		ANI_SURPRISE	
-0x171f	0x07	System	#3C	Nayuta's maximum		
+0x171f	0x07	System	#3C	Nayuta's maximum	
 				level rose to 99!	
 0x17dc	0x06	NOI		ANI_TAMEATK1	
 0x183f	0x07	System	#3C	Noi's maximum magic	
@@ -79,10 +79,10 @@ AL_shop
 				will scale to a fixed limit.	
 0x365f	0x07	System	#3C	On Infinity difficulty, enemy levels	mp_0100 0x333e
 				will now scale without limit.	
-EV_use_elevator
+EV_use_elevator					
 0x371d	0x36	Choice		[Use Elevator]	
 0x3739	0x36	Choice		[Quit]	mp_0000 0xeb0b
-QS_35_use_astrolabe
+QS_35_use_astrolabe					
 0x3bab	0x98	ALTO		Noi, I have a request...	
 0x3be3	0x98	ALTO		Can you use the Astrolabe to	
 				search for Cetus and Reticul?	
@@ -128,7 +128,7 @@ QS_35_use_astrolabe
 				settings and search everywhere	
 0x4d1a	0x06	NOI		ANI_NOD	
 0x4d3e	0x98	NOI		Yes, let's give it a look!	
-QS_58_use_astrolabe
+QS_58_use_astrolabe					
 0x50ec	0x98	ALTO		(...That's right! Maybe...	
 				 It might be possible.)	
 0x5187	0x06	ALTO		ANI_GOODIDEA	
@@ -149,9 +149,9 @@ QS_58_use_astrolabe
 0x59d1	0x98	ALTO	#6A	H-He really came to Terra!?	
 0x5a0f	0xBC	ALTO		Sweatdrop	
 0x5a4d	0x98	ALTO	#6A	(Hmm, in other words...	
-				 Mishy is strange even in Terra.) 
+				 Mishy is strange even in Terra.) 	
 0x5ab3	0xBC	ALTO		Sweatdrop	
-0x5af1	0x98	ALTO	#6A	(Hmm, Mishy is strange even in Terra.)		
+0x5af1	0x98	ALTO	#6A	(Hmm, Mishy is strange even in Terra.)	
 0x5e5f	0x06	NOI		ANI_WAIT	
 0x5e86	0x06	ALTO		ANI_THINK2	
 0x5eae	0x98	ALTO	#6A	Now... How should we find Mishy...?	
@@ -175,7 +175,7 @@ QS_58_use_astrolabe
 				where Mishy will come out.	
 0x61ac	0x06	NOI		ANI_NOD	
 0x61d0	0x98	NOI		Let's start searching!	
-EV_2_S11_set_gear_1st
+EV_2_S11_set_gear_1st					
 0x6a0a	0x06	ALTO		ANI_LOOK_AROUND	
 0x6a37	0x98	ALTO		It's very spacious,	
 				but a little dark...	
@@ -216,7 +216,7 @@ EV_2_S11_set_gear_1st
 0x85dc	0x98	ALTO	#16S	S-Something came out of it!?	
 0x8624	0x98	NOI		First of all, let's restore	
 				Oltapia's climate!	
-EV_2_S13_use_astrolabe
+EV_2_S13_use_astrolabe					
 0x897e	0x06	NOI		ANI_OPERATION	
 0x8d8b	0x98	NOI	#6A	All right... That should have	
 				taken care of the abnormal	
@@ -326,7 +326,7 @@ EV_2_S13_use_astrolabe
 0xab1e	0x07	System	#4C	As you continue to operate the Astrolabe,	
 				you can unlock a number of additional features	
 				based on the achievement points you've earned.	
-EV_2_S29_find_creha
+EV_2_S29_find_creha					
 0xadf2	0x6B	ALTO		Exclamation	
 0xae1c	0x06	ALTO		ANI_SURPRISE_WEAK	
 0xae85	0x98	ALTO	#1W	Ah─	
@@ -386,7 +386,7 @@ EV_2_S29_find_creha
 0xc2e6	0xBC	ALTO		Surprise	
 0xc49b	0x06	NOI		ANI_GOODIDEA	
 0xc4d2	0x98	NOI	#2W#6A	What a relief, you're still here!	
-0xc52f	0x98	NOI	#1W#6A	Thanks for finding her for me, Nayuta!		
+0xc52f	0x98	NOI	#1W#6A	Thanks for finding her for me, Nayuta!	
 0xc5ae	0x98	ALTO	#1W	Uh, yeah, that's great, but...	
 0xc615	0x06	NOI		ANI_OJIGI	
 0xc649	0x98	NOI	#0W#6A	Hey, Lady Creha!	
@@ -406,7 +406,7 @@ EV_2_S29_find_creha
 				know about me.	
 0xc9e5	0x98	Creha	#1W	So tell me... Where am I?	
 0xca3b	0x98	Creha	#3W	Who...am I?	
-EV_3_S05_set_gear_2nd
+EV_3_S05_set_gear_2nd					
 0xcf92	0x06	NOI		ANI_TAKE_OUT	
 0xd03b	0x06	komono06		ANI_STOP	
 0xd165	0x40	NOI	#6A	Okay, here's the Master Gear of Water...	
@@ -414,7 +414,7 @@ EV_3_S05_set_gear_2nd
 0xd27b	0x06	NOI		ANI_TAKE_OUT_LOOP	
 0xd2b1	0x06	NOI		ANI_ATTACH	
 0xd565	0x06	NOI		ANI_OPERATION	
-EV_3_S07_use_astrolabe
+EV_3_S07_use_astrolabe					
 0xdd72	0x06	NOI		ANI_OPERATION	
 0xe15b	0x98	NOI	#6A	Yeah...! Now Rieseweld can	
 				be returned to normal!	
@@ -463,13 +463,13 @@ EV_3_S07_use_astrolabe
 0xea44	0x98	ALTO		Do you really not	
 				remember any of it?	
 0xeac4	0x06	Creha		ANI_NOD	
-0xeaea	0x98	Creha		Yes... Nothing.					
+0xeaea	0x98	Creha		Yes... Nothing.	
 0xeb19	0x98	Creha		Everything after I just woke	
 				up is a little fuzzy...	
 0xeb70	0x06	ALTO		ANI_THINK	
 0xeb97	0x98	ALTO		(...Maybe she saved	
 				 Terra by instinct...)	
-0xebe8	0x98	ALTO		(Zext... Did he expect
+0xebe8	0x98	ALTO		(Zext... Did he expect	
 				 this would happen?)	
 0xec56	0x98	ALTO		(In that case, then was	
 				 his goal to wake up	
@@ -504,7 +504,7 @@ EV_3_S07_use_astrolabe
 0xf543	0x06	NOI		ANI_GUTSPOSE	
 0xf56c	0x98	NOI	#6A	Heimmel, the Holy Mountain Continent.	
 				The Yupina Grass, Cygna, and Zext are	
-				all there...!		
+				all there...!	
 0xf5f1	0x98	NOI	#6A	And now that the climate	
 				of Rieseweld is returned	
 				to normal...	
@@ -544,11 +544,11 @@ EV_3_S07_use_astrolabe
 0xff08	0x07	System	#3C	The autumn of Abyss Continent	
 				Rieseweld has been unlocked.	
 0x1000c	0x07	System	#3C	The spring of Abyss Continent	
-				Rieseweld has been unlocked.
+				Rieseweld has been unlocked.	
 0x101ca	0xCE	Objective		Yupina Grass is on the Mountain Continent. Let's go, Nayuta!	
-SB_3_S25_alto_move
-SB_3_S25_noi_move
-EV_3_S25_invite_creha
+SB_3_S25_alto_move					
+SB_3_S25_noi_move					
+EV_3_S25_invite_creha					
 0x10774	0x98	NOI		Lady Creha～!	
 0x107ab	0x6B	Creha		Surprise	
 0x10895	0x06	Creha		ANI_WAIT2	
@@ -590,14 +590,14 @@ EV_3_S25_invite_creha
 0x10f8a	0x06	NOI		ANI_GUTSPOSE	
 0x10fb3	0x98	NOI	#6A	Then let's go to Remnant	
 				Island, everyone!	
-EV_3_S18_set_gear_3rd
+EV_3_S18_set_gear_3rd					
 0x11539	0x06	NOI		ANI_TAKE_OUT	
 0x115e2	0x06	komono05		ANI_STOP	
 0x116dd	0x06	NOI		ANI_STOP	
 0x11702	0x06	NOI		ANI_TAKE_OUT_LOOP	
 0x11738	0x06	NOI		ANI_ATTACH	
 0x119ec	0x06	NOI		ANI_OPERATION	
-EV_3_S20_go_mountain
+EV_3_S20_go_mountain					
 0x121eb	0x06	NOI		ANI_OPERATION	
 0x12594	0x98	NOI	#6A	The climate of Heimmel	
 				is now back to normal!	
@@ -612,7 +612,7 @@ EV_3_S20_go_mountain
 0x12be4	0x98	Creha	#0W	What are you going so far for...?	
 0x12c2c	0x98	Creha	#0W	...Is that what it means to be 'human'...?	
 0x12ca9	0x98	Creha	#1W	...I...	
-EV_4_S01_use_astrolabe
+EV_4_S01_use_astrolabe					
 0x12fcc	0x06	NOI		ANI_OPERATION	
 0x13311	0xBC	NOI		Exclamation	
 0x1334e	0x98	NOI	#6A#16S	There's a reaction!	
@@ -666,11 +666,11 @@ EV_4_S01_use_astrolabe
 0x13fea	0x07	System	#3C	The autumn of Holy Mountain	
 				Continent Heimmel has been unlocked.	
 0x14076	0x07	System	#3C	The spring of Holy Mountain	
-				Continent Heimmel has been unlocked.
+				Continent Heimmel has been unlocked.	
 0x14182	0x07	System	#3C	The summer of Holy Mountain	
-				Continent Heimmel has been unlocked.
+				Continent Heimmel has been unlocked.	
 0x1445b	0xCE	Objective		Anomalies remain on the Mountain Continent. Let's save Algol!	
-EV_8_S08_emergency_al
+EV_8_S08_emergency_al					
 0x147bd	0x3F	Name		Voice	mp_0000d 0x4c24
 0x147ca	0x41	None	#0W#995c#1E	After Terra drifted away	
 				from the planet a year ago...#0E	
@@ -718,7 +718,7 @@ EV_8_S08_emergency_al
 				the same abilities as before manifested.#0E	
 0x1600a	0x41	None	#0W#995c#1E	This is the story of the unusual	
 				events happening on Terra right now...#0E	
-EV_8_S10_in_astrolabe
+EV_8_S10_in_astrolabe					
 0x16272	0x98	ALTO		(I need to go into the	
 				 Inner World of the	
 				 Astrolabe alone.)	
@@ -771,8 +771,8 @@ EV_8_S10_in_astrolabe
 				I was before, but...	
 0x18053	0x98	NOI		I wish Nayuta the best of luck.	
 				For Lady Creha and Lord Cygna...	
-SB_8_S10_alert
-EV_8_S17_happy_end
+SB_8_S10_alert					
+EV_8_S17_happy_end					
 0x18282	0x06	ALTO		ANI_SLEEP2	
 0x183ba	0x06	Signa2		ANI_SIT6	
 0x1844c	0x06	Creha2		ANI_SIT6	
@@ -844,13 +844,13 @@ EV_8_S17_happy_end
 0x19bb4	0x98	Creha2		Who's this voice?	
 0x19bec	0x98	ALTO		The voice that guided me and Noi...	
 0x19cea	0x98	ALTO	#N	...You helped us save	
-				Cygna and Creha.
+				Cygna and Creha.	
 				Thank you so much.	
 0x19d4f	0x06	ALTO		ANI_GESTURE1	
 0x19d79	0x98	ALTO		But... In the end,	
 				we never learned your	
 				true intentions.	
-0x19dcd	0x98	ALTO		Why would you
+0x19dcd	0x98	ALTO		Why would you	
 				want to help us?	
 0x19e15	0x41	None	#0W#995c#1E	...That is not important.#0E	
 0x19e96	0x41	None	#0W#995c#1E	As one who was partly at fault for	
@@ -887,7 +887,7 @@ EV_8_S17_happy_end
 0x1a926	0x06	ALTO		ANI_WAIT	
 0x1a980	0x98	ALTO	#2W	But at the end of the day...	
 				Noi couldn't be saved...	
-0x1aa00	0x98	Creha2	#1W#6A	...That's right.	mp_0100 0x17f91
+0x1aa00	0x98	Creha2	#1W#6A	...I agree.	mp_0100 0x17f91
 0x1aa6e	0x98	Signa2	#0W	...It's a shame, that's for sure...	
 0x1aabf	0x98	Zext	#1W	.....	mp_0000d 0x70fd
 0x1ab02	0x98	Zext	#1W	...Hmm, I am afraid I do	
@@ -908,7 +908,7 @@ EV_8_S17_happy_end
 0x1aed3	0x98	Creha2	#2W#6A	Huh...?	mp_0004 0x392d
 0x1af07	0x98	ALTO	#1W	.......	mp_0001 0xc917
 0x1af4f	0x98	NOI	#2W#6A	No, I mean...	
-0x1af90	0x98	NOI	#0W#6A	It's more like, I just didn't 
+0x1af90	0x98	NOI	#0W#6A	It's more like, I just didn't 	
 				completely disappear.	
 0x1b002	0x98	ALTO	#2W	...Huh...?	
 0x1b047	0x6B	ALTO		Ellipsis	
@@ -1047,7 +1047,7 @@ EV_8_S17_happy_end
 0x1d81a	0x98	Signa2	#1W#6A	Haha, in that case...	
 				My decision's the same.	
 0x1d8bb	0x98	Signa2	#1W#6A	Though I'm worried I caused	
-				Master so much stress, he'll
+				Master so much stress, he'll	
 				chew me out when he sees me.	
 0x1d946	0x98	ALTO	#3W	Cygna...!	
 0x1da86	0x98	Zext	#1W	...If you pass through the transfer gate,	
@@ -1088,7 +1088,7 @@ EV_8_S17_happy_end
 0x1f356	0x07	System	#4C	In the new game, you can enjoy new stages,	
 				difficulty levels, and unlock various perks	
 				using achievement points.	
-EV_4_S26_set_gear_4th
+EV_4_S26_set_gear_4th					
 0x1f8fd	0x06	NOI		ANI_TAKE_OUT	
 0x1f9a6	0x06	komono08		ANI_STOP	
 0x1faa1	0x06	NOI		ANI_STOP	
@@ -1108,16 +1108,16 @@ EV_4_S26_set_gear_4th
 0x20888	0x98	Signa	#6A	...Maybe it's because all of	
 				the temples were disabled.	
 0x208e5	0x98	Signa	#6A	I mean... the astral power	
-				or whatever has gone haywire
+				or whatever has gone haywire	
 				everywhere, right?	
 0x2095d	0x98	NOI	#0W	Um, I guess so, but...	
-0x2099b	0x98	NOI		Not even the completed Astrolabe
+0x2099b	0x98	NOI		Not even the completed Astrolabe	
 				can control it...!!	
 0x20a19	0x98	ALTO	#0W#6A	Crap... What can we do...?	
 0x20a66	0x6B	ALTO		Surprise	
 0x20a90	0x06	ALTO		ANI_GOODIDEA	
 0x20b06	0x06	ALTO		ANI_GESTURE2	
-0x20b30	0x98	ALTO	#6A	...That's it! How about
+0x20b30	0x98	ALTO	#6A	...That's it! How about	
 				getting Creha's help!?	
 0x20b87	0x98	ALTO	#6A	Like before in Rieseweld...	
 				Maybe she could do something!	

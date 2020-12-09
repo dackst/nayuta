@@ -1,15 +1,15 @@
-mp_1000b
-init
-ev_goal
-fog_off
-fog_on
-boss_battle
+mp_1000b					
+init					
+ev_goal					
+fog_off					
+fog_on					
+boss_battle					
 0x9f9	0x6B	ALTO		Exclamation	
-dead_ev01
-open_door1_2
-crystal
-tbox
-QS_21_get_fruit
+dead_ev01					
+open_door1_2					
+crystal					
+tbox					
+QS_21_get_fruit					
 0x13d9	0x6B	NOI		Exclamation	
 0x140a	0x06	NOI		ANI_SURPRISE	
 0x1433	0x98	NOI		Ah... It produced a	
@@ -34,8 +34,8 @@ QS_21_get_fruit
 				be used, though...	
 0x193c	0x98	ALTO	#6A	Okay, let's go take this	
 				fruit to Ada right away.	
-QS_21_LookPoint
-EV_2_S17_jungle_summer
+QS_21_LookPoint					
+EV_2_S17_jungle_summer					
 0x1da4	0x06	ALTO		ANI_LOOK_AROUND	
 0x1dd1	0x98	ALTO		The scenery looks	
 				completely different...	

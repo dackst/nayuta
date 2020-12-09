@@ -1,36 +1,36 @@
-mp_3002d
-init
+mp_3002d					
+init					
 0x8c9	0x06	OBJ_q38_01		ANI_RED	
 0x957	0x06	OBJ_q38_02		ANI_GREEN	
 0x9e7	0x06	OBJ_q38_03		ANI_BLUE	
-ev_goal
-move_marker1
-close_door1_2_3
+ev_goal					
+move_marker1					
+close_door1_2_3					
 0xbb3	0x6B	ALTO		Exclamation	
-dead_EV01
-open_door_1_2_3
-Frost01
-Frost01_Cmd
+dead_EV01					
+open_door_1_2_3					
+Frost01					
+Frost01_Cmd					
 0x110b	0x06	ob_309_01		ANI_LEVER_ON	
 0x114a	0x06	ob_309_01		ANI_LEVER_OFF	
-Frost02
-Frost02_Cmd
+Frost02					
+Frost02_Cmd					
 0x1214	0x06	ob_309_02		ANI_LEVER_ON	
 0x1253	0x06	ob_309_02		ANI_LEVER_OFF	
-Frost03
-Frost03_Cmd
+Frost03					
+Frost03_Cmd					
 0x131d	0x06	ob_309_03		ANI_LEVER_ON	
 0x135c	0x06	ob_309_03		ANI_LEVER_OFF	
-Frost04
-Frost04_Cmd
+Frost04					
+Frost04_Cmd					
 0x1426	0x06	ob_309_04		ANI_LEVER_ON	
 0x1465	0x06	ob_309_04		ANI_LEVER_OFF	
-Frost05
-Frost05_Cmd
+Frost05					
+Frost05_Cmd					
 0x152f	0x06	ob_309_05		ANI_LEVER_ON	
 0x156e	0x06	ob_309_05		ANI_LEVER_OFF	
-ice01
-ice01_Cmd
+ice01					
+ice01_Cmd					
 0x16f5	0x06	ob_309_01		ANI_10	
 0x1764	0x06	ob_309_01		ANI_20	
 0x17d3	0x06	ob_309_01		ANI_30	
@@ -41,8 +41,8 @@ ice01_Cmd
 0x19fe	0x06	ob_309_01		ANI_80	
 0x1a6d	0x06	ob_309_01		ANI_90	
 0x1adc	0x06	ob_309_01		ANI_100	
-ice02
-ice02_Cmd
+ice02					
+ice02_Cmd					
 0x1c67	0x06	ob_309_02		ANI_10	
 0x1cd6	0x06	ob_309_02		ANI_20	
 0x1d45	0x06	ob_309_02		ANI_30	
@@ -53,8 +53,8 @@ ice02_Cmd
 0x1f70	0x06	ob_309_02		ANI_80	
 0x1fdf	0x06	ob_309_02		ANI_90	
 0x204e	0x06	ob_309_02		ANI_100	
-ice03
-ice03_Cmd
+ice03					
+ice03_Cmd					
 0x21d9	0x06	ob_309_03		ANI_10	
 0x2248	0x06	ob_309_03		ANI_20	
 0x22b7	0x06	ob_309_03		ANI_30	
@@ -65,8 +65,8 @@ ice03_Cmd
 0x24e2	0x06	ob_309_03		ANI_80	
 0x2551	0x06	ob_309_03		ANI_90	
 0x25c0	0x06	ob_309_03		ANI_100	
-ice04
-ice04_Cmd
+ice04					
+ice04_Cmd					
 0x274b	0x06	ob_309_04		ANI_10	
 0x27ba	0x06	ob_309_04		ANI_20	
 0x2829	0x06	ob_309_04		ANI_30	
@@ -77,12 +77,12 @@ ice04_Cmd
 0x2a54	0x06	ob_309_04		ANI_80	
 0x2ac3	0x06	ob_309_04		ANI_90	
 0x2b32	0x06	ob_309_04		ANI_100	
-QS_38_get_colors1
+QS_38_get_colors1					
 0x2c63	0x06	ALTO		ANI_WAIT	
 0x2d8b	0x06	NOI		ANI_SURPRISE	
 0x2db4	0x98	NOI	#6A	Nayuta, this sediment layer...	
 0x2dee	0x06	ALTO		ANI_GESTURE2	
-0x2e18	0x98	ALTO	#6A	That looks like it could
+0x2e18	0x98	ALTO	#6A	That looks like it could	
 				be used for red pigment.	
 				...I'll collect some.	
 0x2e74	0xC1	System		obtained.	mp_0000 0x7558
@@ -92,43 +92,43 @@ QS_38_get_colors1
 				colors of pigment.	
 0x2fc3	0x98	ALTO	#6A	Let's bring them	
 				to Pyxia later!	
-QS_38_get_colors2
+QS_38_get_colors2					
 0x3216	0x06	ALTO		ANI_WAIT	
 0x333e	0x06	ALTO		ANI_GESTURE2	
 0x3368	0x98	ALTO	#6A	Nayuta, this sediment layer...	mp_3002d 0x2db4
 0x33a3	0x06	NOI		ANI_JOY	
-0x33c7	0x98	NOI	#6A	That looks like it could
+0x33c7	0x98	NOI	#6A	That looks like it could	
 				be used for yellow pigment.	
-				...I'll collect some.
+				...I'll collect some.	
 0x3425	0x06	NOI		ANI_WAIT	
 0x344a	0xC1	System		obtained.	mp_0000 0x7558
 0x350b	0x06	ALTO		ANI_JOY	
 0x3530	0x98	ALTO	#6A	Red, blue, and yellow...	mp_3002d 0x2f5a
-				I've gathered the three
-				colors of pigment.
+				I've gathered the three	
+				colors of pigment.	
 0x3599	0x98	ALTO	#6A	Let's bring them	mp_3002d 0x2fc3
-				to Pyxia later!
-QS_38_get_colors3
+				to Pyxia later!	
+QS_38_get_colors3					
 0x3824	0x06	ALTO		ANI_WAIT	
 0x394c	0x06	NOI		ANI_SURPRISE	
 0x3975	0x98	NOI	#6A	Nayuta, this sediment layer...	mp_3002d 0x2db4
 0x39af	0x06	ALTO		ANI_NOD	
-0x39d4	0x98	ALTO	#6A	That looks like it could
+0x39d4	0x98	ALTO	#6A	That looks like it could	
 				be used for blue pigment.	
 				...I'll collect some.	
 0x3a31	0xC1	System		obtained.	mp_0000 0x7558
 0x3af2	0x06	ALTO		ANI_JOY	
 0x3b17	0x98	ALTO	#6A	Red, blue, and yellow...	mp_3002d 0x2f5a
-				I've gathered the three
-				colors of pigment.
+				I've gathered the three	
+				colors of pigment.	
 0x3b80	0x98	ALTO	#6A	Let's bring them	mp_3002d 0x2fc3
-				to Pyxia later!
-SB_3_S12_appear_ALTO
+				to Pyxia later!	
+SB_3_S12_appear_ALTO					
 0x3d56	0x6B	ALTO		Exclamation	
-SB_3_S12_appear_NOI
+SB_3_S12_appear_NOI					
 0x3dfd	0x6B	NOI		Exclamation	
-SB_3_S12_1002
-EV_3_S12_look_cage_3rd
+SB_3_S12_1002					
+EV_3_S12_look_cage_3rd					
 0x4375	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x43a4	0x98	ALTO		That's...	mp_0101 0x16bca
 0x479a	0x06	NOI		ANI_SURPRISE	
@@ -156,7 +156,7 @@ EV_3_S12_look_cage_3rd
 0x4f8e	0x06	NOI		ANI_DEJECTED	
 0x4fb7	0x98	NOI	#6A	Phew... At least he calmed down...	
 0x4ff9	0x06	ALTO		ANI_GESTURE2	
-0x5023	0x98	ALTO	#6A	Um, well... Would you
+0x5023	0x98	ALTO	#6A	Um, well... Would you	
 				mind hearing us out?	
 0x508b	0x40	UNDEF		Nayuta briefly explained what had happened so far.	
 0x50de	0x41	None	#0W#2E#030c	...I see...	

@@ -1,17 +1,17 @@
-mp_0001c
-init
+mp_0001c					
+init					
 0x6ab	0x06	Dorado		ANI_SLEEP2	
-stp_ruins
+stp_ruins					
 0x9bf	0x98	Dorado		It's dangerous, so you	
 				shouldn't go past here.	
 0xa0e	0x98	Dorado		It's just, we haven't determined	
-				the situation in there yet.
+				the situation in there yet.	
 				Please don't take it personally.	
-stp_stair
+stp_stair					
 0xb2e	0x98	ALTO		Lyra and Vel are in	
 				the ruins over there!	
 0xba6	0x98	NOI		Let's go, Nayuta!	
-talk_Dorado
+talk_Dorado					
 0xce5	0x98	Dorado		Since that strong monster appeared,	
 				I'm concerned another could appear	
 				in the future...	
@@ -27,7 +27,7 @@ talk_Dorado
 				getting depressed.	
 0xeb5	0x98	Dorado		I'll have to consult with Orvus	
 				and see if we can't do something	
-				to protect the village.			
+				to protect the village.	
 0xf3b	0x98	ALTO		Dorado, is it okay for	
 				you to be up already?	
 0xf8b	0x98	Dorado		Yeah, my injuries	
@@ -35,7 +35,7 @@ talk_Dorado
 0xfca	0x98	Dorado		But I was only saved	
 				thanks to you and Orvus.	
 0x1019	0x98	Dorado		Thank you for saving	mp_0001c 0xdab
-				Lyra and Vel for me.
+				Lyra and Vel for me.	
 0x10a1	0x40	UNDEF		Dorado seems to have lost consciousness.	mp_0000d 0xfab
 0x112a	0x98	Dorado		Come on, Nayuta, cheer up.	
 				Cygna will pop back in	
@@ -47,11 +47,11 @@ talk_Dorado
 				come back sooner or later.	
 0x123e	0x98	Dorado		Maybe even Creha will......	
 0x1280	0x98	Dorado		A-Anyway, cheer up, okay?	
-talk_Ursaminor
+talk_Ursaminor					
 0x133d	0x98	Ursaminor		When I heard about the monster,	
 				I started to wonder...	
 0x139d	0x98	Ursaminor		...Even though there's no way	
-				my sister is on this island.
+				my sister is on this island.	
 0x13f8	0x98	Ursaminor		But... whenever I hear about something	
 				like this, I always come and check.	
 				There might be a chance...	
@@ -64,16 +64,16 @@ talk_Ursaminor
 0x160f	0x98	Ursaminor		It seems okay to leave this	
 				to you and my sister.	
 0x1676	0x98	Ursaminor		I should go help Father.	mp_0001c 0x15a6
-talk_Bootie
+talk_Bootie					
 0x16e9	0x98	Bootie		Although that broken moon is awesome,	
 				I'm already tired of looking at it.	
 0x1756	0x98	Bootie		I wanna go explore the ruins.	
 				...If only Dorado would let me enter.	
-0x17e3	0x98	Bootie		There are probably tons of star shards
+0x17e3	0x98	Bootie		There are probably tons of star shards	
 				in that newly-fallen giant gear ruin.	
 0x186f	0x98	Bootie		Ehehe, I think I'll sneak in	
 				once Dorado isn't around.	
-talk_Bell
+talk_Bell					
 0x18ff	0x98	Bell		All the adults are busy.	
 0x1937	0x98	Bell		...Vel is booored.	
 				I wanna plaaay!	
@@ -81,7 +81,7 @@ talk_Bell
 				soon, but everyone seems so busy.	
 0x1a0f	0x98	Bell		I heard there might not be a	
 				festival this year. Oooh...	
-talk_Lyra
+talk_Lyra					
 0x1a9b	0x98	Lyra		Another world on the moon...?	
 0x1adc	0x98	Lyra		Nayuta, you've been fighting	
 				in such a faraway place up	
@@ -96,7 +96,7 @@ talk_Lyra
 				I'm sure of it.	
 0x1c72	0x6B	Lyra		Ellipsis	
 0x1ca4	0x98	Lyra		(...Nayuta is still Nayuta after all.)	
-0x1ce7	0x98	Lyra		(He's the same as when we first met. 
+0x1ce7	0x98	Lyra		(He's the same as when we first met. 	
 				 My dearest boy...)	
 0x1d4d	0x6B	ALTO		Question	
 0x1d77	0x6B	NOI		Question	
@@ -105,7 +105,7 @@ talk_Lyra
 0x1e15	0x98	Lyra		Hehe, it's nothing.	
 0x1e5e	0x98	Lyra		...Well, at least try	
 				not to get hurt.	
-0x1eaf	0x98	Lyra		Once this is all over,
+0x1eaf	0x98	Lyra		Once this is all over,	
 				let's celebrate with a	
 				party at my place.	
 0x1f11	0x98	ALTO		Yeah!	mp_0001 0x1174e
@@ -113,27 +113,27 @@ talk_Lyra
 0x1f9a	0x98	Lyra		Make sure to bring back	
 				Cygna and Creha, you two.	
 0x1fe8	0x98	Lyra		Once this is all over,	mp_0001c 0x1eaf
-				let's celebrate with a
-				party at my place.
+				let's celebrate with a	
+				party at my place.	
 0x204a	0x98	Lyra		I'll just tell you this:	
 				If you miss it, I'll never	
 				forgive you, got it?	
 0x20ad	0x98	ALTO		Yeah... Got it.	
 0x20db	0x98	NOI		Leave it to us!	
 0x2131	0x98	Lyra		Once this is all over,	mp_0001c 0x1eaf
-				let's celebrate with a
-				party at my place.
+				let's celebrate with a	
+				party at my place.	
 0x2193	0x98	Lyra		I'll just tell you this:	mp_0001c 0x204a
-				If you miss it, I'll never
-				forgive you, got it?
-talk_Cetus
+				If you miss it, I'll never	
+				forgive you, got it?	
+talk_Cetus					
 0x2295	0x98	Cetus		I have no idea what will	
 				become of this world...	
 0x2305	0x98	Cetus		Is there no way for the world	
 				of Terra and our world to accept	
-				each other and live in peace?
+				each other and live in peace?	
 0x237f	0x98	Cetus		...When you look at a beautiful sight like	
-				that, you can't turn to hate, can you?
+				that, you can't turn to hate, can you?	
 0x2404	0x98	Cetus		I hear Terra is trying to wipe us out...	
 				I can't be bothered to hate them.	
 0x2469	0x98	Cetus		Right now, as Reticul said, we	
@@ -157,7 +157,7 @@ talk_Cetus
 0x27c9	0x98	Cetus		Leave this one to us, and don't hesitate	
 				to go back to Terra. I'll be expecting	
 				good news from the both of you!	
-talk_Cetus_and_Reticul
+talk_Cetus_and_Reticul					
 0x287d	0x98	Cetus		Reticul, are you sure you don't	
 				want to stay home with Uncle?	
 0x28da	0x98	Cetus		Even after you were able to make up...	
@@ -179,7 +179,7 @@ talk_Cetus_and_Reticul
 0x2b80	0x6B	Reticul		Unknown	
 0x2bb5	0x98	Reticul		Wh-What's up with you,	
 				Cetus? Jeez...	
-talk_Reticul
+talk_Reticul					
 0x2cf0	0x98	Reticul		Papa and I talked it over, and we	
 				finally made up with each other.	
 0x2d52	0x98	Reticul		I told him about my dream of being	
@@ -191,8 +191,8 @@ talk_Reticul
 0x2e6f	0x98	Reticul		Papa and I talked it over, and we	
 				finally settled our differences.	
 0x2ecd	0x98	Reticul		Now I just wish this world would	mp_0001c 0x2dca
-				go back to normal so I can have
-				more fun adventures.
+				get back to normal so I can have	
+				more fun adventures.	
 0x2f82	0x98	Reticul		Making up with Papa... I guess	
 				I should be more pragmatic,	
 				for Ursamina's sake.	
@@ -201,11 +201,11 @@ talk_Reticul
 0x3043	0x98	Reticul		...Well, it's a common tale.	
 0x3085	0x98	Reticul		I've always had a passion for adventure and treasure	
 				hunting. I loved it, and I wanted to grow up to be	
-				an adventurer, like my cousin Cetus.
+				an adventurer, like my cousin Cetus.	
 0x3121	0x98	Reticul		However, Papa would never allow	
 				it, saying, 'Being an adventurer	
 				is not a woman's place.'	
-0x31a0	0x98	NOI		Is that so...?
+0x31a0	0x98	NOI		Is that so...?	
 0x31cc	0x98	Reticul		Well, the main reason I left was because	
 				Papa ate the last fish cake that I had	
 				saved in the cupboard without permission.	
@@ -217,54 +217,54 @@ talk_Reticul
 0x3389	0x98	Reticul		What made me run away from home was...	
 				I guess it was like, resentment over food.	
 0x33e9	0x98	Reticul		I mean, I just kept thinking to	
-				myself, why would he do that...?
+				myself, why would he do that...?	
 0x3448	0x98	Reticul		Maybe we should have talked about	
 				it more. Plus there was the thing	
-				about him being against my dream.
+				about him being against my dream.	
 0x34e8	0x98	Reticul		...Suddenly it feels a lot easier after	
 				talking about it with you for some reason. 	
 0x354e	0x98	Reticul		I'm going to have to take this opportunity	
 				to talk things over with Papa after all.	
-talk_Dog_before
+talk_Dog_before					
 0x364e	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
 0x3678	0x6B	ALTO		Surprise	
 0x36aa	0x98	ALTO		Come to think of it...	mp_0001 0x391b
-				Didn't I buy a doghouse
-				at the general store?
+				Didn't I buy a doghouse	
+				at the general store?	
 0x3718	0x98	ALTO		I should be able to use it to	mp_0001 0x3989
-				give this little guy a place
-				shielded from wind and rain...
+				give this little guy a place	
+				shielded from wind and rain...	
 0x3786	0x6B	ALTO		Ellipsis	
 0x37b8	0x98	ALTO		Hey, girl, wanna to come	mp_0001 0x3a29
-				over to my house?
+				over to my house?	
 0x37fa	0x6B	Dog		Unknown	
 0x382b	0x98	Dog		Ruff, ruff! ♪	mp_0001 0x3a9c
-0x3856	0x98	ALTO		Ahaha, is that right?	mp_0001 0x3ac7
+0x3856	0x98	ALTO		Haha, is that right?	mp_0001 0x3ac7
 0x3888	0x98	ALTO		Okay... Let's discuss it	mp_0001 0x3af9
-				with Eartha immediately.
+				with Eartha immediately.	
 0x3905	0x40	UNDEF		Nayuta returned home, and talked	mp_0001 0x3b76
-				to Eartha about the stray dog.
+				to Eartha about the stray dog.	
 0x3969	0x40	UNDEF		Though Eartha was surprised at first, she gladly 	mp_0001 0x3bda
-				approved of the idea once informed of the situation.
+				approved of the idea once informed of the situation.	
 0x3afc	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
 0x3b26	0x98	ALTO		Huh, I haven't seen a dog around before.	mp_0001 0x3d94
 0x3b65	0x98	ALTO		It might have wandered onto the ferry	mp_0001 0x3dd3
-				and ended up on this island.
+				and ended up on this island.	
 0x3bcc	0x6B	Dog		Unknown	
 0x3bfd	0x98	Dog		Ruff, ruff...	mp_0001 0x3e6b
 0x3c29	0x98	ALTO		Haha, so cute.	mp_0001 0x3e97
 0x3c5c	0x98	ALTO		(...Oh yeah, maybe I	mp_0001 0x3f89
-				 can keep it at home?)
+				 can keep it at home?)	
 0x3cb2	0x98	ALTO		(If only I had a decent doghouse...	mp_0001 0x3fdf
-				 Maybe I should check the general store?)
+				 Maybe I should check the general store?)	
 0x3db3	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
-0x3ddd	0x98	ALTO		(If I had a doghouse, I could
-				 keep him at home, but...)		
-LP_haka
+0x3ddd	0x98	ALTO		(If I had a doghouse, I could	
+				 keep him at home, but...)	
+LP_haka					
 0x3e80	0x41	None		William Herschel	mp_0001 0x4982
 				Mary Herschel	
-				 
-				May their souls rest in	
+				 	
+				May their souls rest in 	
 				peace with the gods.	
 0x3f4d	0x98	ALTO		(Mom, Dad... Please watch	
 				 over me from heaven.)	
@@ -280,10 +280,10 @@ LP_haka
 				 searched for was something like this...)	
 0x41db	0x98	ALTO		(What should I do?	
 				 Mom, Dad...)	
-SB_6_S04_appear_ALTO
+SB_6_S04_appear_ALTO					
 0x428c	0x6B	ALTO		Surprise	
-SB_6_S04_appear_NOI
-EV_6_S04_look_new_ruin
+SB_6_S04_appear_NOI					
+EV_6_S04_look_new_ruin					
 0x455c	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x458b	0x98	ALTO		...Ah!	
 0x46a5	0x98	ALTO	#N#500x#500y	...One of the twin moons...	
@@ -310,7 +310,7 @@ EV_6_S04_look_new_ruin
 				the rest of the debris...	
 0x4de7	0x98	ALTO	#N#500x#500y	(Dorado's standing over there...	
 				Let's hear what he has to say...)	
-EV_6_S05_meet_dorado
+EV_6_S05_meet_dorado					
 0x5086	0x06	Dorado		ANI_COMPLAIN	
 0x50b2	0x98	Dorado		Oh, Nayuta!	
 				You're up!	
@@ -355,20 +355,20 @@ EV_6_S05_meet_dorado
 0x58e2	0x98	Dorado		Oh, don't worry about it.	
 0x5934	0x06	Dorado		ANI_TALK	
 0x595c	0x98	Dorado		...It looks like Cygna's	mp_0001c 0x118f
-				still missing, but...
+				still missing, but...	
 0x59bd	0x06	Dorado		ANI_GESTURE1	
 0x59e9	0x98	Dorado		With him, there's not that much	mp_0001c 0x11e6
-				to worry about. He'll definitely
-				come back sooner or later.
+				to worry about. He'll definitely	
+				come back sooner or later.	
 0x5a41	0x06	Dorado		ANI_JOY	
 0x5a68	0x98	Dorado		So you've got to	
 				cheer up too, okay?	
 0x5ab8	0x06	ALTO		ANI_THANKS	
 0x5ae0	0x98	ALTO	#6A	Yeah... Thanks.	
-SB_6_S09_appear_ALTO
+SB_6_S09_appear_ALTO					
 0x5c6e	0x06	ALTO		ANI_SIT6	
-SB_6_S08_appear_NOI
-EV_6_S09_help_dorado
+SB_6_S08_appear_NOI					
+EV_6_S09_help_dorado					
 0x5dd5	0x06	Dorado		ANI_SLEEP2	
 0x5fca	0x98	Dorado	#0W#6A#275x#230y	Oo... Ooh...	
 0x600f	0x98	ALTO		Dorado!	
@@ -380,7 +380,7 @@ EV_6_S09_help_dorado
 				Where's Vel!?	
 0x61c0	0x98	Dorado	#0W#6A#275x#230y	I-Inside the ruins...	
 0x6207	0x98	Dorado	#0W#6A#275x#230y	She and Lyra came running during the commotion,	
-				but they were both driven further in... 
+				but they were both driven further in... 	
 0x6283	0x6B	ALTO		Exclamation	
 0x62ad	0x6B	NOI		Exclamation	
 0x62de	0x06	NOI		ANI_SURPRISE	
@@ -397,7 +397,7 @@ EV_6_S09_help_dorado
 0x668d	0x06	NOI		ANI_NOD	
 0x66b1	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
 0x6853	0xCE	Objective		Lyra and Vel are in the ruins. Let's hurry and save them!	
-EV_5_S21_fall_to_cape
+EV_5_S21_fall_to_cape					
 0x6a16	0x06	ALTO		ANI_SLEEP3	
 0x6ad3	0x06	NOI		ANI_SLEEP2	
-EV_5_S21_fallto_cape_cs
+EV_5_S21_fallto_cape_cs					

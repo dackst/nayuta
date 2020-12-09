@@ -1,17 +1,17 @@
-mp_7098
-init
-ev_stage_out
-elevator_in
-elevator
-stp_back
+mp_7098					
+init					
+ev_stage_out					
+elevator_in					
+elevator					
+stp_back					
 0x13b5	0x98	ALTO		...Cygna opened the way for us.	
 				We have to keep moving...!	
-talk_Signa
+talk_Signa					
 0x14a7	0x40	UNDEF		A petrified Cygna lies quietly on the ground.	
 0x1508	0x98	ALTO		(Hold on, Cygna!)	
-SB_7_S04_appear_ALTO
-SB_7_S04_appear_NOI
-EV_7_S04_temple5_front
+SB_7_S04_appear_ALTO					
+SB_7_S04_appear_NOI					
+EV_7_S04_temple5_front					
 0x1b94	0x06	ALTO		ANI_LOOK_AROUND	
 0x1bc1	0x98	ALTO		Is this... some kind of temple?	
 0x1c9d	0x98	NOI		This is where the command center	
@@ -22,11 +22,11 @@ EV_7_S04_temple5_front
 				should be here!	
 0x1d84	0x06	ALTO		ANI_NOD	
 0x1da9	0x98	ALTO	#6A	Understood, let's be careful!	
-SB_7_S05_appear_ALTO
-SB_7_S05_appear_NOI
-SB_7_S05_move_ALTO
-SB_7_S05_move_NOI
-EV_7_S05_check_starball
+SB_7_S05_appear_ALTO					
+SB_7_S05_appear_NOI					
+SB_7_S05_move_ALTO					
+SB_7_S05_move_NOI					
+EV_7_S05_check_starball					
 0x2295	0x6B	NOI		Exclamation	
 0x22ee	0x06	NOI		ANI_SURPRISE	
 0x2317	0x98	NOI		There it is!	
@@ -65,9 +65,9 @@ EV_7_S05_check_starball
 0x2d90	0x06	ALTO		ANI_JOY	
 0x2db5	0x98	ALTO	#6A	Let's go, Noi!	mp_1099 0x152c1
 0x2f9c	0xCE	Objective		...Cygna beckons. Let's go!	
-SB_7_S06_appear_ALTO
-SB_7_S06_appear_NOI
-EV_7_S06_meet_seram
+SB_7_S06_appear_ALTO					
+SB_7_S06_appear_NOI					
+EV_7_S06_meet_seram					
 0x3466	0x98	Seram		I've grown tired of waiting...	
 				Nayuta Herschel.	
 0x35fb	0x98	ALTO	#6A	Cygna...!	mp_0100 0x1d946
@@ -80,7 +80,7 @@ EV_7_S06_meet_seram
 				point for the Planetarium...	
 0x377a	0x06	Seram		ANI_GESTURE2	
 0x37a5	0x98	Seram		In order to run the Recreation,	
-				Creha and I both need to
+				Creha and I both need to	
 				execute commands in person.	
 0x3817	0x06	ALTO		ANI_COMPLAIN	
 0x3841	0x98	ALTO	#6A	But that's not... That's	
@@ -127,7 +127,7 @@ EV_7_S06_meet_seram
 				continues to erode.	
 0x411e	0x06	Seram		ANI_WAIT2	
 0x4146	0x98	Seram	#6A	Besides, the wars and the environmental	
-				degradation that originally caused the
+				degradation that originally caused the	
 				planet's destruction are happening again...	
 0x41dc	0x06	Seram		ANI_NOD	
 0x4202	0x98	Seram	#6A	...We should have carried out	
@@ -175,12 +175,12 @@ EV_7_S06_meet_seram
 				what's important to me.	
 0x4deb	0x06	ALTO		ANI_DENY	
 0x4e27	0x98	ALTO	#1W	I will never lose to someone who's	
-				ready to give up on everything!
+				ready to give up on everything!	
 0x4e7b	0x06	ALTO		ANI_JOY	
 0x4ed4	0x98	ALTO	#2W	And then... I'll get	
 				Creha back, too!	
 0x4f1c	0x6B	NOI		Ellipsis	
-0x4f95	0x98	NOI	#1W#6A	Got it... I'll let you
+0x4f95	0x98	NOI	#1W#6A	Got it... I'll let you	
 				handle this one, Nayuta.	
 0x5015	0x06	NOI		ANI_GUTSPOSE	
 0x5054	0x98	NOI	#0W#6A	I'm sure... this must be	
@@ -193,20 +193,20 @@ EV_7_S06_meet_seram
 0x5464	0x98	Seram	#2W	...Very well!! In that	
 				case, let me show you	
 				the perfect place!	
-SB_7_S09_move_NOI
-SB_7_S09_turn_ALTO
-SB_7_S09_turn_NOI
-SB_7_S09_turn_Zext_b
-SB_7_S09_approach_ALTO
+SB_7_S09_move_NOI					
+SB_7_S09_turn_ALTO					
+SB_7_S09_turn_NOI					
+SB_7_S09_turn_Zext_b					
+SB_7_S09_approach_ALTO					
 0x5add	0x6B	ALTO		Exclamation	
 0x5baa	0x06	ALTO		ANI_SIT6	
-SB_7_S09_approach_NOI
+SB_7_S09_approach_NOI					
 0x5bf6	0x06	NOI		ANI_WAIT	
 0x5c1b	0x6B	NOI		Exclamation	
-SB_7_S09_standup_ALTO
+SB_7_S09_standup_ALTO					
 0x5cf0	0x06	ALTO		ANI_WAIT	
-SB_7_S09_standup_NOI
-EV_7_S09_seram_stone
+SB_7_S09_standup_NOI					
+EV_7_S09_seram_stone					
 0x5e96	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0x5f33	0x06	NOI		ANI_PRAY	
 0x6088	0x06	Seram		ANI_DEAD2	
@@ -239,7 +239,7 @@ EV_7_S09_seram_stone
 0x6c0d	0x06	NOI		ANI_GESTURE1	
 0x6c36	0x98	NOI		Lord Selam...	
 0x6c6c	0x98	Seram	#6A	I had prepared myself to wipe out	
-				Remnant Island in the Recreation...		
+				Remnant Island in the Recreation...	
 0x6cfa	0x98	Seram	#6A	By carrying the guilt and suffering of	
 				that sin into eternity, I would atone...	
 0x6d75	0x06	ALTO		ANI_DENY	
@@ -251,14 +251,14 @@ EV_7_S09_seram_stone
 0x6e93	0x06	ALTO		ANI_COMPLAIN	
 0x6ebd	0x98	ALTO	#15S	That's... That's just escapism!	
 0x6f24	0x98	ALTO		Now that we've seen the Ancient Memory	
-				and know what happened in the past... 
+				and know what happened in the past... 	
 				We won't make the same mistakes!	
 0x6faa	0x98	ALTO		There's got to be a way...	
 				A way to save everything!	
 0x7003	0x06	ALTO		ANI_JOY	
 0x7028	0x98	ALTO		I... I will find it for sure!	
 0x707b	0x98	NOI		...Nayuta...	mp_5200 0x5763
-0x70ae	0x98	Seram	#6A	...So that's what...
+0x70ae	0x98	Seram	#6A	...So that's what...	
 				...you've determined...	
 0x70f9	0xBC	Seram		Ellipsis	
 0x7157	0x98	Seram	#6A	...Thank you.	mp_0100a 0x8a4e
@@ -372,7 +372,7 @@ EV_7_S09_seram_stone
 0x95e9	0x06	Signa		ANI_GESTURE1	
 0x9614	0x98	Signa	#6A	Hey, wait... This feeling...	
 0x965d	0x06	Signa		ANI_COMPLAIN	
-0x9688	0x98	Signa	#6A	It's... the Shining
+0x9688	0x98	Signa	#6A	It's... the Shining	
 				Wing of the Mitos...!	
 0x96e1	0x6B	NOI		Exclamation	
 0x9712	0x06	ALTO		ANI_TENSION_SURPRISE	
@@ -410,7 +410,7 @@ EV_7_S09_seram_stone
 0xac5f	0x06	Signa		ANI_PIERCED2	
 0xad3c	0x98	ALTO	#N#16S	...Cygna!!	mp_7098 0x2991
 0xad75	0x98	Zext	#6A#0x#50y	It is unlike you lose your composure	
-				over something as simple as this...
+				over something as simple as this...	
 0xade8	0x98	Zext	#6A#0x#50y	You, too, have become impure after	
 				mixing with humans, it seems.	
 0xafcb	0x06	Zext		ANI_THUNDER	
@@ -465,17 +465,17 @@ EV_7_S09_seram_stone
 0xd660	0x06	NOI		ANI_GESTURE1	
 0xd689	0x98	NOI		...W-Wait! Maybe...	
 0xda52	0x98	ALTO		D-Did he just... turn into stone!?	
-0xdae6	0x98	NOI		It's the Mitos suspended
+0xdae6	0x98	NOI		It's the Mitos suspended	
 				near-death state.	
 0xdb30	0x06	NOI		ANI_GESTURE1	
 0xdb59	0x98	NOI		A large amount of astral power	
-				was probably stolen from him 
-				along with the Shining Wing...
+				was probably stolen from him 	
+				along with the Shining Wing...	
 0xdbd5	0x98	ALTO	#6A	A near-death state...?	
 				So we can still save him, then!?	
 0xdc39	0x06	NOI		ANI_GESTURE2	
-0xdc62	0x98	NOI		If we're too slow, he could
-				fade away and dissolve into
+0xdc62	0x98	NOI		If we're too slow, he could	
+				fade away and dissolve into	
 				astral power, but...	
 0xdcca	0x06	NOI		ANI_GUTSPOSE	
 0xdcf3	0x98	NOI		If we defeat Zext and	
@@ -496,5 +496,5 @@ EV_7_S09_seram_stone
 				 I'll save you for sure!!)	
 0xe202	0x06	ALTO		ANI_WAIT	
 0xe2af	0xCE	Objective		Zext headed for the Planetarium. Hurry, before it's too late!	
-test
+test					
 0xe7ec	0x06	test		ANI_LEVER_OFF	

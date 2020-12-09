@@ -1,30 +1,30 @@
-mp_1011
-init
+mp_1011					
+init					
 0x3b3	0x06	sht01		ANI_STOP2	
 0x3db	0x06	sht03		ANI_STOP2	
 0x403	0x06	sht05		ANI_STOP2	
-ev_goal
-yuka1
-yuka2
-move01
-move02
-shutter
+ev_goal					
+yuka1					
+yuka2					
+move01					
+move02					
+shutter					
 0x919	0x06	sht01		ANI_STOP1	
 0x941	0x06	sht03		ANI_STOP1	
 0x969	0x06	sht05		ANI_STOP1	
-boss_battle
+boss_battle					
 0x9cf	0x6B	ALTO		Exclamation	
-dead_ev1
-open_door01
-elevator
-elevator_
-elevator2
-elevator2_
-elevator3
-elevator3_
-elevator4
-elevator4_
-EV_1_S09_vs_seram_after
+dead_ev1					
+open_door01					
+elevator					
+elevator_					
+elevator2					
+elevator2_					
+elevator3					
+elevator3_					
+elevator4					
+elevator4_					
+EV_1_S09_vs_seram_after					
 0x1ca3	0x06	stop		ANI_OPEN	
 0x1d11	0x06	ALTO		ANI_WAIT	
 0x1e33	0x06	NOI		ANI_WAIT_TIRED	

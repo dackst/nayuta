@@ -1,14 +1,14 @@
-mp_0001d
-init
-stp_tower
+mp_0001d					
+init					
+stp_tower					
 0x484	0x98	ALTO		This is no time to get sidetracked...	
 				I've got to look for Creha!	
-quest_Pyxia
+quest_Pyxia					
 0x548	0x98	Pyxia		...Mishy? What's that?	
 				I haven't seen him.	
 0x594	0x98	Pyxia		At least, I don't think I saw	
 				anyone go to the Tower Ruins.	
-talk_Pyxia
+talk_Pyxia					
 0x616	0x98	Pyxia		I wanted to ask that beautiful girl	
 				to model for my painting...	
 0x670	0x98	Pyxia		...Now's not that time for talking	
@@ -20,7 +20,7 @@ talk_Pyxia
 				It's unforgivable!	
 0x7a4	0x98	Pyxia		If I ever find him again, I'll	
 				whack him with a spatula!	
-talk_Horolo
+talk_Horolo					
 0x81e	0x98	Horolo		Looks like most of the buildings	
 				on the island came out unscathed.	
 0x88c	0x98	Horolo		And only the people who	
@@ -33,7 +33,7 @@ talk_Horolo
 				just steal a single girl?	
 0x9ef	0x98	Horolo		Was there some special	
 				reason or something...?	
-talk_Lyra
+talk_Lyra					
 0xa74	0x98	Lyra		Nayuta...	mp_0000d 0x7671
 0xa9d	0x98	ALTO		Lyra... If you hang around here	
 				like this, you'll catch a cold.	
@@ -54,7 +54,7 @@ talk_Lyra
 				I believe you, Nayuta.	
 0xd64	0x98	Lyra		But if you start talking like that, it	
 				feels like you have something reckless	
-				on your mind you're about to do.
+				on your mind you're about to do.	
 0xddf	0x98	ALTO		Haha... You might be right.	
 0xe1a	0x98	Lyra		So I WAS right, *sigh*...	
 0xe62	0x98	Lyra		Well, whatever. From what you	
@@ -63,46 +63,46 @@ talk_Lyra
 0xeb3	0x98	Lyra		Nayuta, please look after	
 				them both. You can bring	
 				them back to us, right?	
-0xf46	0x98	Lyra		Nayuta... You have to bring
+0xf46	0x98	Lyra		Nayuta... You have to bring	
 				Cygna and Creha back to us!	
 0xfa1	0x98	Lyra		I'll be waiting on this island.	
 				For all of you to return.	
-talk_Dog_before
+talk_Dog_before					
 0x1092	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
 0x10bc	0x6B	ALTO		Surprise	
 0x10ee	0x98	ALTO		Come to think of it...	mp_0001 0x391b
-				Didn't I buy a doghouse
-				at the general store?
+				Didn't I buy a doghouse	
+				at the general store?	
 0x115c	0x98	ALTO		I should be able to use it to	mp_0001 0x3989
-				give this little guy a place
-				shielded from wind and rain...
+				give this little guy a place	
+				shielded from wind and rain...	
 0x11ca	0x6B	ALTO		Ellipsis	
 0x11fc	0x98	ALTO		Hey, girl, wanna to come	mp_0001 0x3a29
-				over to my house?
+				over to my house?	
 0x123e	0x6B	Dog		Unknown	
 0x126f	0x98	Dog		Ruff, ruff! ♪	mp_0001 0x3a9c
-0x129a	0x98	ALTO		Ahaha, is that right?	mp_0001 0x3ac7
+0x129a	0x98	ALTO		Haha, is that right?	mp_0001 0x3ac7
 0x12cc	0x98	ALTO		Okay... Let's discuss it	mp_0001 0x3af9
-				with Eartha immediately.
+				with Eartha immediately.	
 0x1349	0x40	UNDEF		Nayuta returned home, and talked	mp_0001 0x3b76
-				to Eartha about the stray dog.
+				to Eartha about the stray dog.	
 0x13ad	0x40	UNDEF		Though Eartha was surprised at first, she gladly 	mp_0001 0x3bda
-				approved of the idea once informed of the situation.
+				approved of the idea once informed of the situation.	
 0x1540	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
 0x156a	0x98	ALTO		Huh, I haven't seen a dog around before.	mp_0001 0x3d94
 0x15a9	0x98	ALTO		It might have wandered onto the ferry	mp_0001 0x3dd3
-				and ended up on this island.
+				and ended up on this island.	
 0x1610	0x6B	Dog		Unknown	
 0x1641	0x98	Dog		Ruff, ruff...	mp_0001 0x3e6b
 0x166d	0x98	ALTO		Haha, so cute.	mp_0001 0x3e97
 0x16a0	0x98	ALTO		(...Oh yeah, maybe I	mp_0001 0x3f89
-				 can keep it at home?)
+				 can keep it at home?)	
 0x16f6	0x98	ALTO		(If only I had a decent doghouse...	mp_0001 0x3fdf
-				 Maybe I should check the general store?)
+				 Maybe I should check the general store?)	
 0x17f7	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
 0x1821	0x98	ALTO		(If I had a doghouse, I could	mp_0001c 0x3ddd
-				 keep him at home, but...)
-talk_Michy
+				 keep him at home, but...)	
+talk_Michy					
 0x1994	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x19c3	0x98	ALTO		Ah, here he is...!?	
 0x1a1d	0x6B	Michy		Exclamation	
@@ -115,11 +115,11 @@ talk_Michy
 0x1bd1	0x98	ALTO		Oh, I wonder where he's	
 				going this time. I gotta	
 				find him immediately!	
-QS_58_RunAway_Michy
-LP_haka
+QS_58_RunAway_Michy					
+LP_haka					
 0x1fab	0x41	None		William Herschel	mp_0001 0x4982
-				Mary Herschel
-				 
-				May their souls rest in 
-				peace with the gods.
-EV_4_S32_go_remain
+				Mary Herschel	
+				 	
+				May their souls rest in 	
+				peace with the gods.	
+EV_4_S32_go_remain					

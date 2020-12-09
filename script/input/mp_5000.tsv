@@ -1,28 +1,28 @@
-mp_5000
-init
-ev_goal
-floor01_anime
-floor02_anime
-floor03_anime
-floor04_anime
-floor05_anime
-floor06_anime
-floor07_anime
-floor08_anime
-floor09_anime
-floor10_anime
-floor11_anime
-battle
+mp_5000					
+init					
+ev_goal					
+floor01_anime					
+floor02_anime					
+floor03_anime					
+floor04_anime					
+floor05_anime					
+floor06_anime					
+floor07_anime					
+floor08_anime					
+floor09_anime					
+floor10_anime					
+floor11_anime					
+battle					
 0x20ca	0x6B	ALTO		Exclamation	
-dead_boss
-open_door
-battle2
+dead_boss					
+open_door					
+battle2					
 0x2551	0x6B	ALTO		Exclamation	
-dead_2
-open_door2
-SB_5_S07_appear_ALTO
-SB_5_S07_appear_NOI
-EV_5_S07_tower1_start
+dead_2					
+open_door2					
+SB_5_S07_appear_ALTO					
+SB_5_S07_appear_NOI					
+EV_5_S07_tower1_start					
 0x2df4	0x06	ALTO		ANI_LOOK_AROUND	
 0x2e21	0x98	ALTO		This is the interior	
 				of Heliograd...	

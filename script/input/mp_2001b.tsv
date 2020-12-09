@@ -1,24 +1,24 @@
-mp_2001b
-init
-ev_goal
-open_door1
+mp_2001b					
+init					
+ev_goal					
+open_door1					
 0x781	0x06	swt01		ANI_LEVER_ON_LOCK	
-boss_battle01
+boss_battle01					
 0x883	0x06	mahouzin		ANI_STOP2	
 0x8c4	0x6B	ALTO		Exclamation	
-dead_EV01
-open_door2_3
+dead_EV01					
+open_door2_3					
 0x103b	0x07	System	#3C	Defeated High-Rank Monster [Bullet Popo]!	
 0x10fc	0x06	NOI		ANI_TAMEATK1	
 0x115f	0x07	System	#1C	Noi recovered the summer magic, #4C『#775IBullet Bee』#1C!	
 0x11df	0xC1	System		obtained.	mp_0000 0x7558
-boss_battle02
+boss_battle02					
 0x1357	0x6B	ALTO		Exclamation	
-dead_EV02
-set_jampdai01
-SB_2_S16_alto_move
-SB_2_S16_noi_move
-EV_2_S16_big_hindrance
+dead_EV02					
+set_jampdai01					
+SB_2_S16_alto_move					
+SB_2_S16_noi_move					
+EV_2_S16_big_hindrance					
 0x19d2	0x06	st		ANI_PATA2	
 0x1aa8	0x6B	ALTO		Exclamation	
 0x1ad2	0x6B	NOI		Exclamation	
@@ -46,7 +46,7 @@ EV_2_S16_big_hindrance
 0x203c	0x98	ALTO		...Sorry. We have to concentrate	
 				on finding Cygna right now, huh?	
 0x2098	0x98	ALTO		First of all, the path ahead is blocked.	
-				We've got to do something with this gear.
+				We've got to do something with this gear.	
 0x212e	0x06	NOI		ANI_WAIT	
 0x2183	0x06	NOI		ANI_GUTSPOSE	
 0x21ac	0x98	NOI	#6A	...In that case, then we're good.	
@@ -72,9 +72,9 @@ EV_2_S16_big_hindrance
 0x24ee	0x98	NOI	#6A	Let's try going to the	
 				summer of Oltapia!	
 0x2540	0xCE	Objective		Next, let's help Geo in the summer of Oltapia.	
-SB_2_S21_turn_ALTO
-SB_2_S21_turn_NOI
-EV_2_S21_look_cage_2nd
+SB_2_S21_turn_ALTO					
+SB_2_S21_turn_NOI					
+EV_2_S21_look_cage_2nd					
 0x29e2	0x41	None	#0W#2E#029c	*sigh*... How did I get myself into this mess...?#0E	
 0x2a74	0x6B	ALTO		Exclamation	
 0x2aa6	0x6B	NOI		Exclamation	
@@ -102,7 +102,7 @@ EV_2_S21_look_cage_2nd
 0x317f	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x31ad	0x98	ALTO	#6A	Umm, my name is Nayuta.	
 				It's actually a long story...	
-0x321c	0x40	UNDEF		Nayuta briefly explained what had happened so far.
+0x321c	0x40	UNDEF		Nayuta briefly explained what had happened so far.	
 0x3273	0x41	None	#0W#2E#029c	I see...	
 				It seems as though the same	
 				thing happened in Oltapia.#0E	
@@ -123,7 +123,7 @@ EV_2_S21_look_cage_2nd
 0x3698	0x41	None	#0W#2E#029c	...Noi, and Nayuta, was it?	
 				For now, hurry up and	
 				head for the temple.#0E	
-0x3779	0x41	None	#0W#2E#029c	It hasn't been that long since I was caught...
+0x3779	0x41	None	#0W#2E#029c	It hasn't been that long since I was caught...	
 				If you hurry, you'll make it in time!#0E	
 0x3847	0x41	None	#0W#2E#029c	I'm entrusting everything to you guys.	
 				Please, take care of this for me!#0E	
@@ -134,4 +134,4 @@ EV_2_S21_look_cage_2nd
 				the Master Gear back and	
 				get you out of there soon!	
 0x3c56	0xCE	Objective		Zext went to the temple again. We gotta hurry there!	
-EV_2_Sxx_break_obj
+EV_2_Sxx_break_obj					

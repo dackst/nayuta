@@ -1,8 +1,8 @@
-mp_3003d
-init
-SB_3_S13_alto_move
-SB_3_S13_noi_move
-EV_3_S13_find_yupina
+mp_3003d					
+init					
+SB_3_S13_alto_move					
+SB_3_S13_noi_move					
+EV_3_S13_find_yupina					
 0x504	0x06	st		ANI_PATA2	
 0x5e2	0x6B	ALTO		Exclamation	
 0x60c	0x6B	NOI		Exclamation	

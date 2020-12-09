@@ -1,50 +1,50 @@
-mp_3010
-init
+mp_3010					
+init					
 0x4f0	0x06	nobi1		ANI_STOP	
 0x517	0x06	nobi2		ANI_STOP	
-open_door1
+open_door1					
 0x6b3	0x06	switch1		ANI_LEVER_ON_LOCK	
-open_door2
+open_door2					
 0x75d	0x06	switch2		ANI_LEVER_ON_LOCK	
-hashira1
+hashira1					
 0x7e7	0x06	swt01		ANI_LEVER_ON_LOCK	
 0x817	0x06	nobi1		ANI_DOWN	
-hashira1_Cmd
+hashira1_Cmd					
 0x94b	0x06	nobi1		ANI_UP	
 0x9e6	0x06	swt01		ANI_LEVER_OFF	
-hashira2
+hashira2					
 0xab2	0x06	swt02		ANI_LEVER_ON_LOCK	
 0xae2	0x06	nobi2		ANI_DOWN	
-hashira2_Cmd
+hashira2_Cmd					
 0xc16	0x06	nobi2		ANI_UP	
 0xcb1	0x06	swt02		ANI_LEVER_OFF	
-move_marker1
-monster2
+move_marker1					
+monster2					
 0xdb9	0x6B	ALTO		Exclamation	
-dead_ev2
-open_door_3_4
-Frost01
-Frost01_Cmd
+dead_ev2					
+open_door_3_4					
+Frost01					
+Frost01_Cmd					
 0x11db	0x06	ob_309_01		ANI_LEVER_ON	
 0x121a	0x06	ob_309_01		ANI_LEVER_OFF	
-Frost02
-Frost02_Cmd
+Frost02					
+Frost02_Cmd					
 0x12e4	0x06	ob_309_02		ANI_LEVER_ON	
 0x1323	0x06	ob_309_02		ANI_LEVER_OFF	
-Frost03
-Frost03_Cmd
+Frost03					
+Frost03_Cmd					
 0x13ed	0x06	ob_309_03		ANI_LEVER_ON	
 0x142c	0x06	ob_309_03		ANI_LEVER_OFF	
-Frost04
-Frost04_Cmd
+Frost04					
+Frost04_Cmd					
 0x14f6	0x06	ob_309_04		ANI_LEVER_ON	
 0x1535	0x06	ob_309_04		ANI_LEVER_OFF	
-monster
+monster					
 0x15b3	0x6B	ALTO		Exclamation	
-dead_ev1
-put_jmp
-ice01
-ice01_Cmd
+dead_ev1					
+put_jmp					
+ice01					
+ice01_Cmd					
 0x1a5d	0x06	ob_309_01		ANI_10	
 0x1acc	0x06	ob_309_01		ANI_20	
 0x1b3b	0x06	ob_309_01		ANI_30	
@@ -55,8 +55,8 @@ ice01_Cmd
 0x1d66	0x06	ob_309_01		ANI_80	
 0x1dd5	0x06	ob_309_01		ANI_90	
 0x1e44	0x06	ob_309_01		ANI_100	
-ice02
-ice02_Cmd
+ice02					
+ice02_Cmd					
 0x1fcf	0x06	ob_309_02		ANI_10	
 0x203e	0x06	ob_309_02		ANI_20	
 0x20ad	0x06	ob_309_02		ANI_30	
@@ -67,8 +67,8 @@ ice02_Cmd
 0x22d8	0x06	ob_309_02		ANI_80	
 0x2347	0x06	ob_309_02		ANI_90	
 0x23b6	0x06	ob_309_02		ANI_100	
-ice03
-ice03_Cmd
+ice03					
+ice03_Cmd					
 0x2541	0x06	ob_309_03		ANI_10	
 0x25b0	0x06	ob_309_03		ANI_20	
 0x261f	0x06	ob_309_03		ANI_30	
@@ -79,8 +79,8 @@ ice03_Cmd
 0x284a	0x06	ob_309_03		ANI_80	
 0x28b9	0x06	ob_309_03		ANI_90	
 0x2928	0x06	ob_309_03		ANI_100	
-ice04
-ice04_Cmd
+ice04					
+ice04_Cmd					
 0x2ab3	0x06	ob_309_04		ANI_10	
 0x2b22	0x06	ob_309_04		ANI_20	
 0x2b91	0x06	ob_309_04		ANI_30	

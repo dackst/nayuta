@@ -1,6 +1,6 @@
-mp_6300
-init
-talk_Erislet
+mp_6300					
+init					
+talk_Erislet					
 0x75a	0x98	Erislet		Hehe... I never thought	
 				you guys could ever get	
 				so strong.	
@@ -14,18 +14,18 @@ talk_Erislet
 				strong you've grown,	
 				you'll be able to...	
 0x939	0x98	Erislet		Lady Creha and the others...	mp_6300 0x856
-				Please, take care of them.
-boss_demo1
+				Please, take care of them.	
+boss_demo1					
 0xb2b	0x06	b010		ANI_DEMO2	
-boss_retry
+boss_retry					
 0xceb	0x06	b010		ANI_WAIT	
-ice_break
-fall_start
-fall_end
-map_freez
-SB_6_S20_appear_ALTO
-SB_6_S20_appear_NOI
-EV_6_S20_in_bossmap2
+ice_break					
+fall_start					
+fall_end					
+map_freez					
+SB_6_S20_appear_ALTO					
+SB_6_S20_appear_NOI					
+EV_6_S20_in_bossmap2					
 0x1655	0x06	st		ANI_PATA1	
 0x1881	0x06	ALTO		ANI_LOOK_AROUND	
 0x18ae	0x98	ALTO		So this is the interior	
@@ -40,7 +40,7 @@ EV_6_S20_in_bossmap2
 				of the base.	
 0x1a93	0x06	ALTO		ANI_JOY	
 0x1ab8	0x98	ALTO	#6A	Well, let's find it!	
-EV_6_S25_usi_boss
+EV_6_S25_usi_boss					
 0x1d16	0x06	ALTO		ANI_SIT6	
 0x1fe3	0x98	ALTO	#0W	*huff*, *huff*...	
 				I didn't expect to	
@@ -119,8 +119,8 @@ EV_6_S25_usi_boss
 0x4242	0x98	NOI	#1W	I-It's Eris' true form!!	
 0x42a1	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
 0x43a0	0x98	ALTO	#0W	...We have no choice but to fight!	
-SB_6_S25_equip_se
-EV_6_S26_bye_erislet
+SB_6_S25_equip_se					
+EV_6_S26_bye_erislet					
 0x47c8	0x06	Erislet		ANI_WAIT	
 0x4cb7	0x06	Erislet		ANI_DENY	
 0x4d38	0x98	Erislet	#4W	Phew... I lost.	
@@ -173,5 +173,5 @@ EV_6_S26_bye_erislet
 0x640f	0x06	ALTO		ANI_JOY	
 0x6434	0x98	ALTO		Let's go to the Astrolabe...	
 				We have to get to Creha and the others!	
-EV_6_S38_check_bossmap2
+EV_6_S38_check_bossmap2					
 0x690c	0x40	UNDEF		There is no trace of Erisette.	

@@ -1,22 +1,22 @@
-mp_1002a
-init
-ev_goal
-push_box
+mp_1002a					
+init					
+ev_goal					
+push_box					
 0x7b7	0x06	boxpoint		ANI_ON	
-boss_battle
+boss_battle					
 0x885	0x6B	ALTO		Exclamation	
-dead_ev1
-open_door2_3
+dead_ev1					
+open_door2_3					
 0xcec	0x6B	ALTO		Exclamation	
-open_door4
-open_door5
+open_door4					
+open_door5					
 0xf3e	0x06	switch		ANI_LEVER_ON_LOCK	
-put_monster
+put_monster					
 0xfa5	0x6B	ALTO		Exclamation	
-dead_ev2
-open_door1
-crystal1
-QS_12_discovery_rose
+dead_ev2					
+open_door1					
+crystal1					
+QS_12_discovery_rose					
 0x1609	0x06	ALTO		ANI_JOY	
 0x162e	0x98	ALTO		Oh, this is probably	
 				an Eternal Rose!	
@@ -53,10 +53,10 @@ QS_12_discovery_rose
 0x1fbb	0x98	ALTO		What is this thing...?	
 0x1ff4	0x98	ALTO		Well, it doesn't seem to have	
 				any bearing on our progress.	
-SB_1_S05_appear_ALTO
-SB_1_S05_appear_NOI
-SB_1_S05_appear_Signa
-EV_1_S05_jungle3_start
+SB_1_S05_appear_ALTO					
+SB_1_S05_appear_NOI					
+SB_1_S05_appear_Signa					
+EV_1_S05_jungle3_start					
 0x2504	0x06	st		ANI_PATA2	
 0x2710	0x06	ALTO		ANI_WAIT4	
 0x2737	0x98	ALTO		Phew... We've come a long way.	
@@ -91,10 +91,10 @@ EV_1_S05_jungle3_start
 0x2cde	0x98	Signa		All right! ♪	mp_0004 0x99aa
 0x2d0f	0x06	ALTO		ANI_JOY	
 0x2d34	0x98	ALTO		Let's be careful!	
-SB_1_S06_move_ALTO
-SB_1_S06_move_NOI
-SB_1_S06_move_Signa
-EV_1_S06_look_cage_1st
+SB_1_S06_move_ALTO					
+SB_1_S06_move_NOI					
+SB_1_S06_move_Signa					
+EV_1_S06_look_cage_1st					
 0x31b2	0x06	Gio		ANI_SEALED	
 0x3283	0x06	ALTO		ANI_GUTSPOSE	
 0x32ad	0x98	ALTO		Okay, looks like the	
@@ -258,12 +258,12 @@ EV_1_S06_look_cage_1st
 0x5b54	0x41	None	#0W#2E#310c	Mmm... Well, I'm counting on you!#0E	
 0x5e5f	0x06	ALTO		ANI_JOY	
 0x5e84	0x98	ALTO		Well then...	
-				Let's get to the temple
+				Let's get to the temple	
 				as soon as possible!	
 0x5ed2	0x06	ALTO		ANI_GESTURE1	
 0x5efc	0x98	ALTO		Noi, please, show us the way.	
 0x5f39	0x06	NOI		ANI_NOD	
-0x5f5d	0x98	NOI	#6A	Yeah... I know, I know, you
+0x5f5d	0x98	NOI	#6A	Yeah... I know, I know, you	
 				don't have to order me around!	
 0x5fbc	0x06	Signa		ANI_WAIT0	
 0x5fe4	0x98	Signa		(......)	

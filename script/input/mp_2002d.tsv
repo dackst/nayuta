@@ -1,43 +1,43 @@
-mp_2002d
-init
-ev_goal
-fall_icicle1
+mp_2002d					
+init					
+ev_goal					
+fall_icicle1					
 0x607	0x06	ob_209_00		ANI_PATA1	
-fall_icicle2
+fall_icicle2					
 0x6f5	0x06	ob_209_01		ANI_PATA1	
-open_door1
-boss_battle01
+open_door1					
+boss_battle01					
 0x830	0x06	mahouzin		ANI_STOP2	
 0x871	0x6B	ALTO		Exclamation	
-dead_EV01
+dead_EV01					
 0xc42	0x07	System	#3C	Defeated high-rank monster [Tempano]!	
 0xd00	0x06	NOI		ANI_TAMEATK1	
 0xd63	0x07	System	#1C	Noi recovered the winter magic, #4C『#766IFrost Wave』#1C!	
 0xdef	0xC1	System		obtained.	mp_0000 0x7558
-ob_sw_cb
+ob_sw_cb					
 0x1074	0x06	ob_cbsw_00		ANI_CHANGE_GREEN	
 0x10a8	0x06	ob_cbsw_01		ANI_CHANGE_GREEN	
 0x10dc	0x06	ob_cbsw_02		ANI_CHANGE_GREEN	
 0x11fe	0x06	ob_cbsw_00		ANI_CHANGE_RED	
 0x1230	0x06	ob_cbsw_01		ANI_CHANGE_RED	
 0x1262	0x06	ob_cbsw_02		ANI_CHANGE_RED	
-point
-fall_icicle3
+point					
+fall_icicle3					
 0x14c4	0x06	ob_209_02		ANI_PATA1	
-open_door3
-swt05_timer
+open_door3					
+swt05_timer					
 0x16b0	0x06	swt05		ANI_LEVER_OFF	
-open_door4
-move_marker00
-move_marker01
-move_marker03
-QS_33_LookPoint
+open_door4					
+move_marker00					
+move_marker01					
+move_marker03					
+QS_33_LookPoint					
 0x1a94	0x40	UNDEF		The Moon Bird eggs have been placed.	
 0x1ad9	0x98	NOI		Let's try changing the season to	
 				summer and coming back here again.	
 0x1b3b	0x98	NOI		Hopefully there'll be some	
 				adorable chicks waiting for us...	
-QS_33_set_nest_and_egg
+QS_33_set_nest_and_egg					
 0x1f5a	0x06	ALTO		ANI_WAIT4	
 0x1f81	0x98	ALTO	#6A	This place... It's almost like	
 				a little cave has formed.	
@@ -59,8 +59,8 @@ QS_33_set_nest_and_egg
 				the season to summer and	
 				come back here again.	
 0x24b9	0x98	NOI		Hopefully there'll be some	mp_2002d 0x1b3b
-				adorable chicks waiting for us...
-QS_33_look_map
+				adorable chicks waiting for us...	
+QS_33_look_map					
 0x28a0	0x6B	ALTO		Surprise	
 0x292a	0x98	ALTO		Huh...?	mp_0003 0x133b2
 0x29fe	0x98	NOI		Nayuta, what's wrong?	mp_1000a 0x11ae

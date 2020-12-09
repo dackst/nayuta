@@ -1,89 +1,89 @@
-mp_7099b
-init
-boss_start
+mp_7099b					
+init					
+boss_start					
 0xb92	0xCE	Objective		This decides everything. Let's join together and finish it!	
 0xc8b	0x06	ALTO		ANI_WAIT	
 0xcb1	0x06	NOI		ANI_WAIT	
 0xea0	0x06	b006		BE_TAIL_BTL	
-BossJump
+BossJump					
 0x1016	0x06	b006		BE_TAIL_BTL	
-boss_dead
+boss_dead					
 0x13fa	0x06	PLAYER1		ANI_JUMP2	
 0x177a	0x41	None	#2E#733c#4W	...I... will...	
 				...the... mission...#0E	
-Waist_Turn
-EV_Waist_Turn
+Waist_Turn					
+EV_Waist_Turn					
 0x1b73	0x06	PLAYER1		ANI_WAIT	
 0x1b9c	0x06	PLAYER2		ANI_WAIT	
 0x1d53	0x06	b006		ANI_ZEKST_APPEAR	
 0x1d81	0x06	b006		ANI_ZEKST_BARRIER	
-Tail1_Turn
+Tail1_Turn					
 0x1edf	0x06	b006		ANI_TAIL_ON	
-EvStand_Tail_Phase
+EvStand_Tail_Phase					
 0x1f91	0x06	PLAYER1		ANI_WAIT	
 0x1fba	0x06	PLAYER2		ANI_WAIT	
 0x21a5	0x06	b006		ANI_ZEKST_SINK	
 0x21d9	0x06	b006		ANI_STAND	
 0x23fd	0x06	PLAYER1		ANI_JUMP2	
-Tail2_Turn
+Tail2_Turn					
 0x2b21	0x06	b006		ANI_TAIL2_ON	
-Chest_Turn
-EV_Chest_Turn
+Chest_Turn					
+EV_Chest_Turn					
 0x2eeb	0x06	PLAYER1		ANI_WAIT	
 0x2f14	0x06	PLAYER2		ANI_WAIT	
 0x2fbf	0x06	b006		ANI_WAIT	
 0x2fe5	0x06	b006		ANI_CHEST_ON	
-Face_Turn
-EV_Face_Turn
+Face_Turn					
+EV_Face_Turn					
 0x3314	0x06	PLAYER1		ANI_WAIT	
 0x333d	0x06	PLAYER2		ANI_WAIT	
 0x345b	0x06	b006		ANI_WAIT	
 0x3481	0x06	b006		ANI_FACE_ON	
-EvScorpion_Phase
+EvScorpion_Phase					
 0x35d3	0x06	b006		ANI_WAIT	
 0x35f9	0x06	PLAYER1		ANI_WAIT	
 0x3622	0x06	PLAYER2		ANI_WAIT	
 0x3755	0x06	b006		ANI_SC_PHASE	
 0x395b	0x06	PLAYER1		ANI_JUMP	
-Tail_Phase
-Waist_Phase
-Stand_Tail_Phase
-Chest_Phase
-Face_Phase
-Scorpion_Phase
-Gather_Floor
-Back_Phase
-Down_LeftArm
-Down_RightArm
-Del_CA_LeftArm
-Del_CA_RightArm
-Camera08
-Scorpion_Turn
+Tail_Phase					
+Waist_Phase					
+Stand_Tail_Phase					
+Chest_Phase					
+Face_Phase					
+Scorpion_Phase					
+Gather_Floor					
+Back_Phase					
+Down_LeftArm					
+Down_RightArm					
+Del_CA_LeftArm					
+Del_CA_RightArm					
+Camera08					
+Scorpion_Turn					
 0x5c9d	0x06	PLAYER1		ANI_JUMP	
-Back_Turn
+Back_Turn					
 0x6050	0x06	b006		ANI_SC_ZEKST_APPEAR	
-Scorpion_Turn2
+Scorpion_Turn2					
 0x626e	0x06	b006		ANI_SC_ZEKST_SINK	
-Del_CT_Face
-ATK16_1
-ATK16_2
-ATK22
-FACE_ATK2_0
-FACE_ATK2_1
-FACE_ATK2_2
-FACE_ATK2_3
-FLOOR_UP_DAI1
-FLOOR_UP_DAI2
-FLOOR_UP_DAI3
-FLOOR_UP_DAI4
-LOOK_CENTER_SCORPION
-LOOK_LEFT_SCORPION
-LOOK_RIGHT_SCORPION
-Floor_Down
-Floor_up
-CD_Left_On
-CD_Center_On
-CD_Right_On
-CD_ALL_Off
-MAP_NAGI_LEFT
-MAP_NAGI_RIGHT
+Del_CT_Face					
+ATK16_1					
+ATK16_2					
+ATK22					
+FACE_ATK2_0					
+FACE_ATK2_1					
+FACE_ATK2_2					
+FACE_ATK2_3					
+FLOOR_UP_DAI1					
+FLOOR_UP_DAI2					
+FLOOR_UP_DAI3					
+FLOOR_UP_DAI4					
+LOOK_CENTER_SCORPION					
+LOOK_LEFT_SCORPION					
+LOOK_RIGHT_SCORPION					
+Floor_Down					
+Floor_up					
+CD_Left_On					
+CD_Center_On					
+CD_Right_On					
+CD_ALL_Off					
+MAP_NAGI_LEFT					
+MAP_NAGI_RIGHT					

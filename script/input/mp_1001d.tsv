@@ -1,35 +1,35 @@
-mp_1001d
-init
-ev_goal
-hashira1
+mp_1001d					
+init					
+ev_goal					
+hashira1					
 0x5ac	0x06	switch2		ANI_LEVER_ON_LOCK	
-hashira1_timer
+hashira1_timer					
 0x685	0x06	switch2		ANI_STOP1	
-boss_battle
+boss_battle					
 0x725	0x06	mahouzin		ANI_STOP2	
 0x766	0x6B	ALTO		Exclamation	
-dead_ev01
-open_door_2
+dead_ev01					
+open_door_2					
 0xbff	0x07	System	#3C	Defeated high-rank monster [Guerra Aspis]!	
 0xcc0	0x06	NOI		ANI_TAMEATK1	
 0xd23	0x07	System	#1C	Noi recovered the winter magic, #4C『#773IFreeze Shot』#1C!	
 0xdb0	0xC1	System		obtained.	mp_0000 0x7558
-open_door1
+open_door1					
 0xf64	0x06	switch1		ANI_LEVER_ON_LOCK	
-switch3
+switch3					
 0x1002	0x06	switch3		ANI_LEVER_ON_LOCK	
-switch4
+switch4					
 0x13bb	0x06	switch4		ANI_LEVER_ON_LOCK	
-switch5
+switch5					
 0x1465	0x06	switch5		ANI_LEVER_ON_LOCK	
-switch6
+switch6					
 0x1502	0x06	switch6		ANI_LEVER_ON_LOCK	
-switch7
+switch7					
 0x159f	0x06	switch7		ANI_LEVER_ON_LOCK	
-switch567_open
-ev_timer
+switch567_open					
+ev_timer					
 0x178a	0x06	switch5		ANI_STOP1	
 0x17b4	0x06	switch6		ANI_STOP1	
 0x17de	0x06	switch7		ANI_STOP1	
-hashira2
-crystal
+hashira2					
+crystal					

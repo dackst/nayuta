@@ -1,8 +1,8 @@
-mp_0113
-init
-talk_Sasha
+mp_0113					
+init					
+talk_Sasha					
 0x90c	0x98	Sasha		Hmm...hmmhmm～...	
-				(*stitch*, *stitch*)
+				(*stitch*, *stitch*)	
 0x93d	0x98	Sasha		Yay, finished! ♪	
 				It's well done,	
 				if I say so myself～.	
@@ -52,7 +52,7 @@ talk_Sasha
 0x130b	0x98	Sasha		My supply of cocoons is running low.	
 				If I had cocoons, I'd be able to	
 				make new doll clothes...	
-talk_Sasha_add
+talk_Sasha_add					
 0x147d	0x98	Sasha		Oh... Nayuta, that thing that you	
 				have there, is that a cocoon?	
 0x14d7	0x98	ALTO		Yeah, it is, but...	
@@ -84,16 +84,16 @@ talk_Sasha_add
 0x199d	0x98	Sasha		Will you be willing to give it to me?	
 				With that, I think I could make a new	
 				set of doll clothes.	
-0x1a2d	0x98	ALTO		Yeah, all right. I'm not doing
+0x1a2d	0x98	ALTO		Yeah, all right. I'm not doing	
 				anything with it anyway.	
 0x1aad	0x98	Sasha		Hehe, thanks.	
 				I'll sew it up at once.	
 0x1af8	0x98	Sasha		I'll put it on display in the store,	
 				so please take a look, okay? ♪	
 0x1b88	0x07	System	#3C	New items have been added	mp_0113 0x1807
-				to the general store lineup.
-0x1c0e	0x98	Sasha		Oh Nayuta, it seems that you've	mp_0113 0x1947
-				brought me a cocoon again.
+				to the general store lineup.	
+0x1c0e	0x98	Sasha		Oh, Nayuta. It seems that you've	mp_0113 0x1947
+				brought me a cocoon again.	
 0x1c64	0x98	Sasha		It looks like a pretty rare one too...	
 				How did you manage to find that...?	
 0x1cdb	0x98	ALTO		Haha, I just found it by chance.	
@@ -104,18 +104,18 @@ talk_Sasha_add
 				better doll clothes than I could	
 				have ever dreamed of...	
 0x1e5a	0x98	Sasha		Ehehe, you're looking forward	
-				to it too, aren't you, Nayuta?		
+				to it too, aren't you, Nayuta?	
 0x1eb5	0x98	ALTO		Ahaha, yeah...	
 				(In the end, I was never quite able to	
 				 resolve this misunderstanding, huh...?)	
 0x1f54	0x07	System	#3C	New items have been added	mp_0113 0x1807
-				to the general store lineup.
-talk_Sasha_addmes
+				to the general store lineup.	
+talk_Sasha_addmes					
 0x2042	0xC1	System		handed over.	mp_0000 0xa553
 0x213c	0xC1	System		handed over.	mp_0000 0xa553
 0x223e	0xC1	System		handed over.	mp_0000 0xa553
 0x2338	0xC1	System		handed over.	mp_0000 0xa553
-talk_Sasha_sub
+talk_Sasha_sub					
 0x23f8	0x98	Sasha		By the way, that incense	
 				was very effective.	
 0x2449	0x98	Sasha		Thanks to that, I could have a completely	
@@ -171,7 +171,7 @@ talk_Sasha_sub
 0x2df7	0x98	Sasha		Grandmother and Norma come to	
 				visit me once every three months.	
 0x2e47	0x98	Sasha		Hmm, this won't make	mp_0113 0x2d76
-				me a very good lover!
+				me a very good lover!	
 0x2eac	0x98	Sasha		It's almost time for the Star Festival...	
 				Hmm, how I've missed it.	
 0x2f09	0x98	Sasha		The reason I came to Remnant	
@@ -184,14 +184,14 @@ talk_Sasha_sub
 				Grandmother and Norma, but...	
 0x30a9	0x98	Sasha		I am one of the islanders, too.	
 				I have no intention of leaving	
-				this island, no matter what.
+				this island, no matter what.	
 0x312d	0x98	Sasha		If we pull together, I'm sure	
-				we'll survive this catastrophe!
-0x31cf	0x98	Sasha		I am one of the islanders too.	mp_0113 0x30a9
-				I have no intention of leaving
-				this island, no matter what.
+				we'll survive this catastrophe!	
+0x31cf	0x98	Sasha		I am one of the islanders, too.	mp_0113 0x30a9
+				I have no intention of leaving	
+				this island, no matter what.	
 0x3253	0x98	Sasha		If we pull together, I'm sure	mp_0113 0x312d
-				we'll survive this catastrophe!
+				we'll survive this catastrophe!	
 0x32f3	0x98	Sasha		Eartha brought me a	
 				warm jacket earlier.	
 0x333d	0x98	Sasha		It seems that some people have been	
@@ -230,7 +230,7 @@ talk_Sasha_sub
 0x38b1	0x98	Sasha		Mmm, too bad.	
 0x395f	0x98	Sasha		Grandmother and Norma were supposed	
 				to have gone home to the mansion, but	
-				they're visiting me here instead!
+				they're visiting me here instead!	
 0x39c4	0x98	Sasha		I know they're worried about me, but...	
 				I'm not going back to the mansion.	
 0x3a37	0x98	Sasha		Hehe, I must fulfill my role as the	
@@ -239,7 +239,7 @@ talk_Sasha_sub
 				of the Camelope family, has a	
 				different role to play, I think.	
 0x3b4f	0x98	Sasha		Hehe, I must fulfill my role as the	mp_0113 0x3a37
-				Remnant Island general store keeper.
+				Remnant Island general store keeper.	
 0x3bb6	0x98	Sasha		Oh, and making cute clothes for Noi! ♪	
 0x3bf8	0x6B	ALTO		Sweatdrop	
 0x3c22	0x6B	NOI		Sweatdrop	
@@ -252,21 +252,21 @@ talk_Sasha_sub
 0x3d78	0x98	Sasha		I can make a lot of new clothes	
 				to fit Noi while I'm at it.	
 0x3dfa	0x98	Sasha		Once everything has settled down,	mp_0113 0x3d08
-				let's sit down and have a relaxing
-				cup of tea together.
+				let's sit down and have a relaxing	
+				cup of tea together.	
 0x3e69	0x98	Sasha		I can make a lot of new clothes	mp_0113 0x3d78
-				to fit Noi while I'm at it.
+				to fit Noi while I'm at it.	
 0x3f13	0x98	Sasha		I'm told a lot of rubble fell on the	
 				family mansion on the continent.	
 0x3f77	0x98	Sasha		It looks like Grandmother and Norma	
 				rushed back to make sure that my	
-				parents are okay...
+				parents are okay...	
 0x3fe7	0x98	Sasha		It's times like these that I worry	
-				about being away from my family.
+				about being away from my family.	
 0x407f	0x98	Sasha		Anyway, I'm relieved to	
 				hear they are all safe.	
 0x40d1	0x98	Sasha		I... I should probably write them	
-				a letter or two to reassure them.
+				a letter or two to reassure them.	
 0x4162	0x98	Sasha		It's hard just to stock up	
 				supplies after all this...	
 0x41d7	0x98	Sasha		But people are counting on	
@@ -293,18 +293,18 @@ talk_Sasha_sub
 0x457c	0x98	Sasha		If you need anything, I'll	
 				prepare it for you right away.	
 0x45e9	0x98	Sasha		...The elder says Creha	mp_0113 0x44c7
-				was kidnapped by that
-				man in black.
+				was kidnapped by that	
+				man in black.	
 0x4655	0x98	Sasha		Creha... We could have been	
 				good tea-drinking buddies...	
 0x46ad	0x98	Sasha		...Nayuta, please bring	mp_0113 0x4533
-				her back somehow.
+				her back somehow.	
 0x46f6	0x98	Sasha		If you need anything, I'll	mp_0113 0x457c
-				prepare it for you right away.
+				prepare it for you right away.	
 0x4783	0x98	Sasha		...Nayuta, please bring	
 				Creha back somehow.	
 0x47cf	0x98	Sasha		If you need anything, I'll	mp_0113 0x457c
-				prepare it for you right away.
+				prepare it for you right away.	
 0x4868	0x98	Sasha		Look, looook!	
 				A cat wandered	
 				into my store!	
@@ -335,12 +335,12 @@ talk_Sasha_sub
 0x4d31	0x98	Sasha		Ooh, I want to dress	
 				her up so baaad.	
 0x4dae	0x98	Sasha		Thank goodness Eartha	
-				is feeling better.
+				is feeling better.	
 0x4df2	0x98	Sasha		I really want to visit	
 				her right away, but...	
 0x4e51	0x98	Sasha		We didn't want to have everyone barging	
 				in on her at once, so we talked it over	
-				and decided on an order.		
+				and decided on an order.	
 0x4ed5	0x98	Sasha		Hehe, while I'm at it,	
 				I can introduce her to	
 				Grandmother and Norma.	
@@ -350,14 +350,14 @@ talk_Sasha_sub
 0x4fe9	0x98	Sasha		We decided on an order, so I'll 	
 				visit Eartha when it's my turn.	
 0x505f	0x98	Sasha		Hehe, while I'm at it,	mp_0113 0x4ed5
-				I can introduce her to
-				Grandmother and Norma.
+				I can introduce her to	
+				Grandmother and Norma.	
 0x50c7	0x98	Sasha		I'll definitely be	
 				there later, Nayuta!	
 0x5152	0x98	Sasha		(...To think Grandmother would	
 				 visit after all this time...)	
 0x51b0	0x98	Sasha		(And the things she tried to say to me...	
-				 No matter how much time passes,
+				 No matter how much time passes,	
 				 she's still the same selfish jerk.)	
 0x5232	0x6B	Sasha		Ellipsis	
 0x5265	0x98	ALTO		Sasha...?	
@@ -432,7 +432,7 @@ talk_Sasha_sub
 0x5ea9	0x98	Sasha		Remnant Island is a nice place～.	
 0x5eeb	0x98	Sasha		At first, I thought it would be a romantic	
 				island where you could see mysterious	
-				phenomena, but that's not all.
+				phenomena, but that's not all.	
 0x5f76	0x98	Sasha		The islanders are friendly, we're	
 				surrounded by beautiful nature, it's warm	
 				all year, and the night sky is beautiful...	
@@ -459,17 +459,17 @@ talk_Sasha_sub
 0x63fd	0x98	ALTO		Sure, sounds like a plan.	
 0x647f	0x98	Sasha		Oh yeah, look at this display!	
 				That's a big star shard, isn't it?	
-0x64e4	0x98	Sasha		The other day, the elder asked me to 
+0x64e4	0x98	Sasha		The other day, the elder asked me to 	
 				keep it for him and promote Remnant	
-				Island's specialties in the store.
+				Island's specialties in the store.	
 0x6566	0x98	Sasha		Hehe, it's not for sale,	
 				so I can't sell it...	
 				Look at it all you want! ♪	
 0x6605	0x98	Sasha		The other day, the trader Antlia	
 				gave me some nice tea～.	
 0x6660	0x98	Sasha		Let's drink it together	mp_0113 0x63b0
-				with Eartha again.
-talk_Camelope
+				with Eartha again.	
+talk_Camelope					
 0x66ef	0x98	Camelope		Unlike before, I will not be so arrogant	
 				as to prepare a marriage partner for Sasha.	
 0x6763	0x98	Camelope		Because Sasha is an adult, she will	
@@ -479,22 +479,22 @@ talk_Camelope
 				that will not embarrass us.	
 0x6844	0x98	ALTO		(Wow, Sasha has it rough...)	
 0x68a8	0x98	Camelope		Because Sasha is an adult, she will	mp_0113 0x6763
-				find her own partner by herself.
-0x6905	0x98	Camelope		...However, as the daughter of a prominent family,	mp_0113 0x67c0	
+				find her own partner by herself.	
+0x6905	0x98	Camelope		...However, as the daughter of a prominent family,	mp_0113 0x67c0
 				there is a prerequisite that she chooses a suitor	
-				that will not embarrass us.
+				that will not embarrass us.	
 0x69bd	0x98	Camelope		Because Sasha is an adult, she will	mp_0113 0x6763
-				find her own partner by herself.
-0x6a1a	0x98	Camelope		...However, as the daughter of a prominent family,	mp_0113 0x67c0	
+				find her own partner by herself.	
+0x6a1a	0x98	Camelope		...However, as the daughter of a prominent family,	mp_0113 0x67c0
 				there is a prerequisite that she chooses a suitor	
-				that will not embarrass us.
+				that will not embarrass us.	
 0x6aa8	0x98	Camelope		Unlike before, I will not be so arrogant	mp_0113 0x66ef
-				as to prepare a marriage partner for Sasha.
+				as to prepare a marriage partner for Sasha.	
 0x6b1c	0x98	Camelope		Because Sasha is an adult, she will	mp_0113 0x6763
-				find her own partner by herself.
-0x6b79	0x98	Camelope		...However, as the daughter of a prominent family,	mp_0113 0x67c0	
+				find her own partner by herself.	
+0x6b79	0x98	Camelope		...However, as the daughter of a prominent family,	mp_0113 0x67c0
 				there is a prerequisite that she chooses a suitor	
-				that will not embarrass us.
+				that will not embarrass us.	
 0x6bfd	0x98	ALTO		(Wow, Sasha has it rough...)	mp_0113 0x6844
 0x6c8d	0x98	Camelope		She's a stubborn little girl who	
 				refuses to listen to me because she	
@@ -508,7 +508,7 @@ talk_Camelope
 				who doesn't change her decisions	
 				once she's made up her mind.	
 0x6ea2	0x98	Camelope		But there is some logic to it.	mp_0113 0x6d88
-				I can admit that here.
+				I can admit that here.	
 0x6f62	0x98	Camelope		Though I wanted to return with	
 				Sasha to the family mansion to	
 				relieve her parents...	
@@ -521,11 +521,11 @@ talk_Camelope
 				immediately and pick up Sasha	
 				in case anything happens...	
 0x7165	0x98	Camelope		Though I wanted to return with	mp_0113 0x6f62
-				Sasha to the family mansion to
-				relieve her parents...
+				Sasha to the family mansion to	
+				relieve her parents...	
 0x71d1	0x98	Camelope		...If she's going to be stubborn and ignore	
 				other people, there's nothing we can do.	
-				I think we should give up for today.
+				I think we should give up for today.	
 0x7264	0x98	Camelope		However, the fact that Sasha is	
 				still the heir to the Camelope	
 				family will not change.	
@@ -536,7 +536,7 @@ talk_Camelope
 				the estate alone.	
 0x73ad	0x98	Camelope		...I say, she's grown up to	
 				be a selfish little girl...	
-talk_Norma
+talk_Norma					
 0x744a	0x98	Norma		I came with the Mistress	
 				to see the Star Festival	
 				of Remnant Island.	
@@ -556,9 +556,9 @@ talk_Norma
 				to return to the Empire and leave Sasha here	
 				during the abnormalities a year ago.	
 0x780d	0x98	Norma		So now she wants to spend as	
-				much time with her as possible.
+				much time with her as possible.	
 0x7868	0x98	Norma		Hehe, it's just like the	mp_0113 0x770b
-				Mistress not to say so.
+				Mistress not to say so.	
 0x791b	0x98	Norma		The Mistress seemed really	
 				worried about Lady Sasha.	
 0x797e	0x98	Norma		I was worried that the Mistress	
@@ -575,7 +575,7 @@ talk_Norma
 				...I'm glad the two 	
 				of them reconciled.	
 0x7bad	0x98	Norma		How could such a peaceful village	
-				be attacked like this...?
+				be attacked like this...?	
 0x7c01	0x98	Norma		Ooh... It is indeed scary.	
 0x7c3f	0x98	Norma		But it's very admirable to see Milady	
 				trying to keep the store open for the	
@@ -586,15 +586,15 @@ talk_Norma
 				seems to be coming to accept Milady.	
 0x7dc7	0x98	Norma		It would be nice if Mistress	
 				were to accept Milady...	
-talk_Bootie
+talk_Bootie					
 0x7e32	0x98	Bootie		I know, I know. I'll go see the	
 				doctor for an exam later, okay?	
 0x7e86	0x98	Bootie		...More importantly, do I really not	
 				have to take that nasty medicine?	
 0x7eee	0x98	Bootie		If it turns out you're lying, Nayuta,	
 				you've got a big storm coming!	
-talk_Cat
-quest_Sasha
+talk_Cat					
+quest_Sasha					
 0x8029	0x98	Sasha		I mean, it's not that I	
 				hate Grandmother Camelope.	
 0x8077	0x98	Sasha		...But still, whenever I see	
@@ -618,7 +618,7 @@ quest_Sasha
 0x845d	0x98	ALTO		(She's obviously being suspicious!)	
 0x84da	0x98	Sasha		Oh my, is there something	
 				else you want to ask me?	
-0x8529	0x98	ALTO		Well... Sasha, do you really
+0x8529	0x98	ALTO		Well... Sasha, do you really	
 				not know where Boote is?	
 0x857f	0x98	Sasha		Hehe, I just told you, didn't I?	
 				I'm sorry, but I don't know～.	
@@ -640,14 +640,14 @@ quest_Sasha
 0x8950	0x98	Sasha		I'm so sorry! I'll try looking	
 				for any other good anniversary	
 				presents on my end.	
-quest_Bootie
+quest_Bootie					
 0x8a7a	0x98	Bootie		I know, I know. I'll go see the	mp_0113 0x7e32
-				doctor for an exam later, okay?
+				doctor for an exam later, okay?	
 0x8ace	0x98	Bootie		...More importantly, do I really not	mp_0113 0x7e86
-				have to take that nasty medicine?
+				have to take that nasty medicine?	
 0x8b36	0x98	Bootie		If it turns out you're lying, Nayuta,	mp_0113 0x7eee
-				you've got a big storm coming!
-QS_12_consult_a_lawyer
+				you've got a big storm coming!	
+QS_12_consult_a_lawyer					
 0x8cc9	0x98	Sasha		Oh, Nayuta. Is there something	
 				you're looking for?	
 0x8d2a	0x06	ALTO		ANI_GESTURE2	
@@ -703,8 +703,8 @@ QS_12_consult_a_lawyer
 				a little ahead of myself there, but	
 				unfortunately, I don't stock them.	
 0x963c	0x98	Sasha		To begin with, they're a rare and precious	mp_0113 0x88bd
-				flower that only seems to grow in places
-				where cherry blossoms have fallen...
+				flower that only seems to grow in places	
+				where cherry blossoms have fallen...	
 0x96cf	0x06	ALTO		ANI_DEJECTED	
 0x96f9	0x98	ALTO	#6A	I-Is that so...?	mp_0101 0x51b9
 0x972b	0x6B	ALTO		Ellipsis	
@@ -723,13 +723,13 @@ QS_12_consult_a_lawyer
 				...And it's all my fault!	
 0x99c9	0x06	Sasha		ANI_WAIT2	
 0x99f1	0x98	Sasha		I'm so sorry! I'll try looking	mp_0113 0x8950
-				for any other good anniversary
-				presents on my end.
+				for any other good anniversary	
+				presents on my end.	
 0x9a69	0x06	ALTO		ANI_THANKS	
 0x9a91	0x98	ALTO	#6A	Okay. Thanks, Sasha.	
 0x9ac7	0x98	ALTO	#6A	(The Forest Continent...	
 				 It might be worth looking there.)	
-QS_25_ask_Sasha
+QS_25_ask_Sasha					
 0x9d29	0x98	ALTO	#6A	...Sasha.	
 0x9d55	0x06	Sasha		ANI_WAIT0	
 0x9d7d	0x98	Sasha		Wh-What is it, Nayuta?	
@@ -793,12 +793,12 @@ QS_25_ask_Sasha
 0xa9b6	0x98	Bootie		R-Really, really?	
 0xa9e8	0x06	Bootie		ANI_DIRECT	
 0xaa12	0x98	Bootie		If it turns out you're lying, Nayuta,	mp_0113 0x7eee
-				you've got a big storm coming!
+				you've got a big storm coming!	
 0xaa6b	0x06	ALTO		ANI_NOD	
 0xaa90	0x98	ALTO	#6A	Yeah, yeah, sure.	
 0xaacc	0x98	ALTO	#6A	(I've called on everyone now...	
 				 I should report to the doctor.)	
-QS_34_ask_Sasha
+QS_34_ask_Sasha					
 0xad2a	0x06	Sasha		ANI_WAIT0	
 0xad52	0x98	Sasha		Oh Nayuta, what's up?	
 0xad8c	0x06	ALTO		ANI_GESTURE1	
@@ -834,20 +834,20 @@ QS_34_ask_Sasha
 0xb2d3	0x98	ALTO		I see...	mp_0001 0xcecd
 0xb327	0x06	Sasha		ANI_WAIT1	
 0xb34f	0x98	Sasha		...But still, whenever I see	mp_0113 0x8077
-				Grandmother's face, I can't
-				help but feel like rebelling.
+				Grandmother's face, I can't	
+				help but feel like rebelling.	
 0xb3bb	0x98	Sasha		I guess at this point in life	mp_0113 0x80e3
-				there's no way for us to talk
-				without erupting into anger...
+				there's no way for us to talk	
+				without erupting into anger...	
 0xb434	0x98	Sasha		I'm worried about Norma,	mp_0113 0x8145
-				and I'd like to make up
-				for her if I could...
+				and I'd like to make up	
+				for her if I could...	
 0xb48d	0x06	ALTO		ANI_WAIT4	
 0xb4b4	0x98	ALTO	#6A	I'm hearing a lot of	
 				conflicting emotions...	
 0xb4fb	0x98	ALTO	#6A	(...Hmm, maybe...)	
 0xb557	0x06	ALTO		ANI_WAIT	
-QS_34_quest_end
+QS_34_quest_end					
 0xb724	0x40	UNDEF		Afterwards, Nayuta headed for the general store	
 				and placed the incense in an inconspicuous spot.	
 0xb918	0x06	ALTO		ANI_GESTURE1	
@@ -898,7 +898,7 @@ QS_34_quest_end
 0xc78b	0x06	Camelope		ANI_WAIT4	
 0xc7b6	0x98	Camelope	#6A	Yes, of course, it's much preferable to	
 				live in elegance at the Camelope mansion	
-				rather than this general store here.
+				rather than this general store here.	
 0xc853	0x06	Sasha		ANI_WAIT3	
 0xc87b	0x98	Sasha		Hmph.	
 0xc8a0	0x06	Norma		ANI_DENY	
@@ -932,7 +932,7 @@ QS_34_quest_end
 0xcdfa	0x98	Camelope	#6A	Somehow, I'm not so bothered by	
 				your flippant comments today.	
 0xce57	0x98	Camelope	#6A	Why don't we both try to sort out	
-				one thing we're frustrated about.		
+				one thing we're frustrated about.	
 0xceb7	0x06	Sasha		ANI_NOD	
 0xcedd	0x98	Sasha		Hehe, okay. I was just thinking	
 				of doing the same thing.	
@@ -949,7 +949,7 @@ QS_34_quest_end
 				The two things that kept the two of them apart...	
 0xd1fd	0x40	UNDEF		They were both determined to understand each	
 				other's point of view, which they had been	
-				unable to express to each other for years.
+				unable to express to each other for years.	
 0xd2ca	0x06	Camelope		ANI_GESTURE2	
 0xd2f8	0x98	Camelope	#6A	...Then, I shall	
 				excuse myself here.	
@@ -986,7 +986,7 @@ QS_34_quest_end
 0xde3a	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xde68	0x98	ALTO	#6A	Haha, it definitely didn't seem	
 				to be a conversation I should be	
-				sticking my nose into.		
+				sticking my nose into.	
 0xdee1	0x06	ALTO		ANI_GESTURE1	
 0xdf0b	0x98	ALTO	#6A	So what ended up happening?	
 				You started out talking about	

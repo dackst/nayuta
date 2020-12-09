@@ -1,21 +1,21 @@
-mp_1002b
-init
+mp_1002b					
+init					
 0x74a	0xBC	QS54_SpiritA		Unknown	
-stp_return
+stp_return					
 0x81d	0x98	NOI		Since we can use Gear Buster, we can	
 				destroy this large tree blocking the	
 				path.	
 0x885	0x98	NOI		Geo lent us his power...	
 				Let's give it a try, Nayuta!	
-ev_goal
-boss_battle
+ev_goal					
+boss_battle					
 0x99a	0x6B	ALTO		Exclamation	
-dead_ev02
-open_door2_3
-tbox
-push_box
+dead_ev02					
+open_door2_3					
+tbox					
+push_box					
 0x1424	0x06	boxpoint		ANI_ON	
-QS54_talk_SpiritA
+QS54_talk_SpiritA					
 0x170a	0x6B	QS54_SpiritA		Unknown	
 0x1810	0x98	NOI	#6A	Ah, found you!	
 0x1842	0x98	ALTO		Isn't this one of	
@@ -48,11 +48,11 @@ QS54_talk_SpiritA
 				Don't get lost again, okay?	
 0x1ef5	0x98	NOI	#6A	Nemeas is worried about you, too.	
 0x1f34	0x6B	QS54_SpiritA		Surprise	
-0x1f6e	0x40	UNDEF		Noi explained to the nymph how to
+0x1f6e	0x40	UNDEF		Noi explained to the nymph how to	
 				get back to the Origin Continent.	
 0x1fd9	0x6B	QS54_SpiritA		Unknown	
 0x2013	0x06	QS54_SpiritA		ANI_NOD	
-0x221c	0x98	ALTO		Looks like we rescued that one safely.
+0x221c	0x98	ALTO		Looks like we rescued that one safely.	
 0x229b	0x06	NOI		ANI_NOD	
 0x2303	0x98	NOI	#6A	Yeah, now that's all	
 				of the missing nymphs.	
@@ -68,7 +68,7 @@ QS54_talk_SpiritA
 0x24ec	0x06	ALTO		ANI_NOD	
 0x2511	0x98	ALTO		Right, let's try going to	
 				the other continents, too.	
-QS_81_check_altar
+QS_81_check_altar					
 0x26b7	0x40	UNDEF		Nayuta took out the Locked Box.	
 0x26f8	0x40	UNDEF		...There's no response.	
 0x274a	0x98	ALTO		H-Huh...?	
@@ -88,10 +88,10 @@ QS_81_check_altar
 				 offer up this box in order of the seasons,	
 				 with them changed as they should be'...)	
 0x2a2f	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
-				 kind of seasonal order?)
-QS_81_hang_out_box
+				 kind of seasonal order?)	
+QS_81_hang_out_box					
 0x2c98	0x98	ALTO		Is this the right place	
-				to put the Locked Box?
+				to put the Locked Box?	
 0x2d01	0x98	NOI	#6A	Let's try it!	
 0x2d58	0x06	ALTO		ANI_HANDOVER1	
 0x2e09	0x40	UNDEF		Nayuta took out the Locked Box.	
@@ -105,7 +105,7 @@ QS_81_hang_out_box
 0x30d5	0x98	ALTO		Now two locks are opened...	
 				Half of them are left, huh?	
 0x312c	0x06	ALTO		ANI_THINK	
-0x3153	0x98	ALTO		But still... this must be an amazing device
+0x3153	0x98	ALTO		But still... this must be an amazing device	
 				to react to the changing of the seasons.	
 0x31be	0x06	NOI		ANI_GESTURE1	
 0x31e7	0x98	NOI	#6A	Devices that sense astral power...	
@@ -121,30 +121,30 @@ QS_81_hang_out_box
 0x33c3	0x98	ALTO		Next stop, either the Abyss Continent,	
 				or the Holy Mountain Continent...	
 				Which one is it?	
-EV_2_S19_jungle_summer
+EV_2_S19_jungle_summer					
 0x37f4	0x06	ALTO		ANI_LOOK_AROUND	
 0x3821	0x98	ALTO		The scenery looks	mp_1000b 0x1dd1
-				completely different...
+				completely different...	
 0x3861	0x06	ALTO		ANI_WAIT	
 0x38a5	0x98	ALTO		The sun is blinding and	mp_1000b 0x1e55
-				the forest is so green...
+				the forest is so green...	
 0x38fd	0x06	ALTO		ANI_WAIT4	
 0x3924	0x98	ALTO		I can't believe this is the	mp_1000b 0x1ed4
-				same place as before...
+				same place as before...	
 0x3976	0x06	NOI		ANI_GUTSPOSE	
 0x399f	0x98	NOI	#6A	Hehe, that's the power	mp_1000b 0x1f4f
-				of the Astrolabe for you!
+				of the Astrolabe for you!	
 0x3a29	0x06	ALTO		ANI_WAIT	
 0x3a87	0x06	NOI		ANI_GESTURE2	
 0x3ab0	0x98	NOI	#6A	The geographical features	mp_1000b 0x2060
-				might have changed too...
-				Let's be careful!
+				might have changed too...	
+				Let's be careful!	
 0x3b27	0x06	ALTO		ANI_NOD	
 0x3c00	0x06	ALTO		ANI_WAIT	
-SB_2_S20_escape_ALTO
-SB_2_S20_move_ALTO
-SB_2_S20_move_NOI
-EV_2_S20_help_gio
+SB_2_S20_escape_ALTO					
+SB_2_S20_move_ALTO					
+SB_2_S20_move_NOI					
+EV_2_S20_help_gio					
 0x3f1c	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_2	
 0x3ff5	0x06	NOI		ANI_WAIT	
 0x42cc	0x06	ALTO		ANI_NOUTOU	
@@ -213,7 +213,7 @@ EV_2_S20_help_gio
 				human children before...	
 0x6b6b	0x06	Gio		ANI_GESTURE2	
 0x6baa	0x98	Gio	#1W	Where did the other one go?	
-0x6c22	0x98	ALTO	#1W#6A	You see...	mp_0115 0x10a10
+0x6c22	0x98	ALTO	#1W#6A	Um, ah, w-well...	mp_0115 0x10a10
 0x6c77	0x6B	ALTO		Ellipsis	
 0x6ca1	0x6B	NOI		Ellipsis	
 0x6d47	0x06	Gio		ANI_GESTURE1	
@@ -320,7 +320,7 @@ EV_2_S20_help_gio
 0x8aab	0x06	Gio		ANI_LAUGH	
 0x8b13	0x98	Gio		Heheheh, you have a good face.	
 0x8b9a	0x98	Gio		I will be going back to my	
-				rightful place in the temple.		
+				rightful place in the temple.	
 0x8c18	0x98	Gio		If you need anything,	
 				feel free to come visit.	
 				...Farewell.	

@@ -1,11 +1,11 @@
-mp_6200
-init
-mp6200_retrySet
-mp6200_monsterSet
-tutorial_crystal
+mp_6200					
+init					
+mp6200_retrySet					
+mp6200_monsterSet					
+tutorial_crystal					
 0xf5f	0x07	System	#4C	The shining stones found in	
 				each stage can be used as money.	
-tutorial_find_monster
+tutorial_find_monster					
 0x1107	0x6B	ALTO		Exclamation	
 0x11dd	0x98	ALTO		As we thought, it looks like	
 				there ARE monsters here!	
@@ -15,12 +15,12 @@ tutorial_find_monster
 0x12ad	0x06	Signa		ANI_JOY	
 0x12d3	0x98	Signa		All right, let's get	
 				this over with!	
-tutorial_stopper_cmb
+tutorial_stopper_cmb					
 0x13fd	0x98	ALTO		...Whoops, it'd be a problem if monsters	
 				find their way onto the island.	
 				Let's defeat them all before leaving.	
-dead_ev00
-tutorial_combo
+dead_ev00					
+tutorial_combo					
 0x1601	0x07	System	#4C	When you continue to attack without taking damage,	
 				[CHAIN] will accumulate in the lower-left of the screen.	
 0x167b	0x07	System	#4C	When [CHAIN] reaches a certain amount,	
@@ -28,7 +28,7 @@ tutorial_combo
 				power will be gained.	
 0x16f2	0x07	System	#4C	As long as your [CHAIN] continues,	
 				the bonuses will remain in effect.	
-tutorial_collect
+tutorial_collect					
 0x1adc	0x98	ALTO		Looks like rubble is blocking	
 				the way. I guess we can jump	
 				over it and keep going...	
@@ -41,7 +41,7 @@ tutorial_collect
 0x1c7e	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x1cac	0x98	ALTO		Haha... Well, let's	
 				give it a try then.	
-tutorial_jump
+tutorial_jump					
 0x208d	0x98	Signa		Oh man... The whole place	
 				is totally falling apart.	
 0x20dc	0x98	ALTO		Aw, what a waste. If it was better	
@@ -59,15 +59,15 @@ tutorial_jump
 0x236c	0x07	System	#4C	By using double jumps,	
 				you can reach places that	
 				cannot be reached normally.	
-tutorial_find_door
+tutorial_find_door					
 0x2549	0x98	ALTO		(Wonder what that is...)	
-tutorial_stopper_door
+tutorial_stopper_door					
 0x2623	0x07	System	#3C	A mysterious energy is	
 				preventing you from proceeding.	
-tutorial_stopper_sw
+tutorial_stopper_sw					
 0x2765	0x98	ALTO		I'm curious about that	
 				thing back there...	
-tutorial_switch
+tutorial_switch					
 0x2871	0x06	sw01		ANI_LEVER_ON_LOCK	
 0x29e3	0x06	sw01		ANI_LEVER_ON_LOCK	
 0x2a8b	0x6B	ALTO		Exclamation	
@@ -89,24 +89,24 @@ tutorial_switch
 0x2d5c	0x98	Signa		Okay, okay. I know.	
 0x2d98	0x98	Signa		Looks like we still have	
 				a bit more to go anyway.	
-tutorial_stopper_fd
+tutorial_stopper_fd					
 0x2edb	0x98	ALTO		Looks like a group of monsters.	
 				Let's wipe them out.	
-tutorial_foodefeatd
+tutorial_foodefeatd					
 0x300f	0x07	System	#4C	When you defeat monsters,	
 				they sometimes drop ingredients.	
-dead_ev01
-stp_cape
+dead_ev01					
+stp_cape					
 0x3364	0x98	ALTO		It's dangerous to go back right now...	
 				Let's keep going towards the summit.	
-dead_ev02
-dead_ev03
-SB_0_S12_alto_move
+dead_ev02					
+dead_ev03					
+SB_0_S12_alto_move					
 0x3579	0x06	ALTO		ANI_LOOK_AROUND	
-SB_0_S11_alto_move2
-SB_0_S12_signa_move
+SB_0_S11_alto_move2					
+SB_0_S12_signa_move					
 0x3686	0x06	Signa		ANI_WAIT2	
-EV_0_S12_in_remain
+EV_0_S12_in_remain					
 0x3a5d	0x98	Signa		Oh, it's pretty roomy inside..	
 				This might be more difficult than expected.	
 0x3ac6	0x06	ALTO		ANI_GUTSPOSE	
@@ -138,8 +138,8 @@ EV_0_S12_in_remain
 0x3fb1	0x06	ALTO		ANI_KOBUSI_WO_AWASERU	
 0x3fe4	0x06	Signa		ANI_KOBUSI_WO_AWASERU	
 0x4054	0x07	System	#3C	Cygna is accompanying you.	
-SB_0_S13_alto_move
-EV_0_S13_break_floor
+SB_0_S13_alto_move					
+EV_0_S13_break_floor					
 0x4365	0x06	ALTO		ANI_WAIT	
 0x43f1	0x06	Signa		ANI_WAIT3	
 0x441b	0x06	ALTO		ANI_LOOK_AROUND	
@@ -188,11 +188,11 @@ EV_0_S13_break_floor
 0x5154	0x06	ALTO		ANI_NOD	
 0x5179	0x98	ALTO	#6A	Yeah, understood.	mp_0001 0x7ee5
 0x523d	0x98	ALTO		We should be able to easily	
-				jump over this distance.
+				jump over this distance.	
 0x52f8	0x06	ALTO		ANI_WAIT	
-SB_4_S33_appear_ALTO
-SB_4_S33_appear_Creha
-EV_4_S33_in_remain
+SB_4_S33_appear_ALTO					
+SB_4_S33_appear_Creha					
+EV_4_S33_in_remain					
 0x5773	0x98	Creha		Where are we...?	
 0x57ac	0x06	ALTO		ANI_WAIT4	
 0x57d3	0x98	ALTO		It's a ruin that fell a while ago.	
@@ -206,10 +206,10 @@ EV_4_S33_in_remain
 0x5a0b	0x98	Creha		...Okay, understood.	
 0x5b38	0x07	System	#3C	Creha is accompanying you.	
 0x5c27	0xCE	Objective		Let's go to the summit and check the state of the village.	
-mp6200_retry
-SB_4_S34_appear_ALTO
-SB_4_S34_appear_Creha
-EV_4_S34_see_flashback
+mp6200_retry					
+SB_4_S34_appear_ALTO					
+SB_4_S34_appear_Creha					
+EV_4_S34_see_flashback					
 0x6288	0x06	Creha		ANI_HEADACHE	
 0x62b3	0x98	Creha	#1W	...Ooh...	mp_0001c 0x4b32
 0x62e0	0x06	Creha		ANI_HEADACHE_SIT	

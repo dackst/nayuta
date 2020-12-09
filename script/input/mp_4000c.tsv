@@ -1,13 +1,13 @@
-mp_4000c
-init
-ev_goal
-open_door1
+mp_4000c					
+init					
+ev_goal					
+open_door1					
 0x6d1	0x06	switch1		ANI_LEVER_ON_LOCK	
-close_door2
+close_door2					
 0x739	0x6B	ALTO		Exclamation	
-dead_ev01
-open_door2
-QS_44_get_power
+dead_ev01					
+open_door2					
+QS_44_get_power					
 0xe7c	0x06	ALTO		ANI_HANDOVER1	
 0xea7	0x40	UNDEF		The pale light was absorbed into the Colored Jewel.	
 0xfe5	0x40	UNDEF		Recovered a fragment of Algol's power!	
@@ -24,14 +24,14 @@ QS_44_get_power
 0x1529	0x40	UNDEF		A mysterious sphere is floating here.	
 0x1591	0x98	ALTO		What is this thing...?	mp_1002a 0x1fbb
 0x15cf	0x98	ALTO		Well, it doesn't seem to have	mp_1002a 0x1ff4
-				any bearing on our progress.
-SB_4_S04_appear_ALTO
+				any bearing on our progress.	
+SB_4_S04_appear_ALTO					
 0x1706	0x6B	ALTO		Unknown	
 0x1730	0x06	ALTO		ANI_LOOK_AROUND	
-SB_4_S04_appear_NOI
+SB_4_S04_appear_NOI					
 0x1867	0x6B	NOI		Unknown	
 0x1890	0x06	NOI		ANI_LOOK_AROUND	
-EV_4_S04_lava1_start
+EV_4_S04_lava1_start					
 0x1bee	0x06	st		ANI_PATA2	
 0x1d9a	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1dc9	0x98	ALTO		Whoa...!	
@@ -51,20 +51,20 @@ EV_4_S04_lava1_start
 0x2087	0x98	NOI	#6A	Y-Yeah, I can handle it.	
 0x20b9	0x06	NOI		ANI_GESTURE1	
 0x20e2	0x98	NOI	#6A	But, because of this lava,	
-				it looks like there's hardly
+				it looks like there's hardly	
 				any safe places to walk on.	
 0x2154	0x06	NOI		ANI_GUTSPOSE	
 0x217d	0x98	NOI	#6A	Nayuta, proceed	
 				carefully!	
 0x21c0	0x06	ALTO		ANI_JOY	
 0x21e5	0x98	ALTO		Yeah!	mp_0001 0x1174e
-EV_4_S05_look_lava
+EV_4_S05_look_lava					
 0x24cf	0x06	NOI		ANI_SURPRISE	
 0x24f8	0x98	NOI	#6A	That sure is a	
 				lot of lava...	
 0x2541	0x06	ALTO		ANI_GESTURE2	
 0x256b	0x98	ALTO		There aren't any good footholds.	
-				I don't think we can keep going.
+				I don't think we can keep going.	
 0x25ca	0x06	ALTO		ANI_THINK	
 0x25f1	0x98	ALTO		There's got to be some	
 				way to get across...	
@@ -77,9 +77,9 @@ EV_4_S05_look_lava
 0x27b3	0x98	ALTO		You're right...	
 				I'd like to keep moving,	
 				but let's turn back for now.	
-SB_4_S06_move_ALTO
-SB_4_S06_move_NOI
-EV_4_S06_look_cage_4th
+SB_4_S06_move_ALTO					
+SB_4_S06_move_NOI					
+EV_4_S06_look_cage_4th					
 0x2d5e	0x06	ALTO		ANI_NOUTOU	
 0x2e2c	0x41	None	#0W#2E#610c	O heavenly stars...	
 				I beg of you, please protect Terra...#0E	

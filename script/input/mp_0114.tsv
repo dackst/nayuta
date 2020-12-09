@@ -1,7 +1,7 @@
-mp_0114
-init
+mp_0114					
+init					
 0x512	0x06	Sculp		ANI_SIT2	
-talk_Keny
+talk_Keny					
 0x8bd	0x98	Keny		It's nice to be able to	
 				see Noi again, but...	
 				She lost her memory, right?	
@@ -10,7 +10,7 @@ talk_Keny
 				memories as you want in the future.	
 0x9e2	0x98	Keny		Life is full of enjoyment.	
 0xa28	0x98	Keny		You can always make as many new	mp_0114 0x96d
-				memories as you want in the future.
+				memories as you want in the future.	
 0xaab	0x98	Keny		My, if it isn't Nayuta!	
 				You've got a date with	
 				Lyra today, right?	
@@ -18,7 +18,7 @@ talk_Keny
 0xb3c	0x98	ALTO		No, we just agreed to meet...	
 				How do you even know about that?	
 0xb97	0x98	Keny		Heheh, never underestimate	
-				the housewife community.
+				the housewife community.	
 0xbe6	0x98	Keny		If something happens in the village, you	
 				can bet your life that word gets around!	
 0xc39	0x98	ALTO		Th-That's what I get	
@@ -35,22 +35,22 @@ talk_Keny
 				getting sick with Hell Fever...	
 0xe82	0x98	Keny		Scary stuff, huh?	
 				Just what is happening	
-				to the world...?
+				to the world...?	
 0xefe	0x98	Keny		No, this is no time to be	
-				afraid of mere rumors!
-0xf41	0x98	Keny		No matter what happens, I won't be defeated.
-				Never underestimate a housewife with kids!
+				afraid of mere rumors!	
+0xf41	0x98	Keny		No matter what happens, I won't be defeated.	
+				Never underestimate a housewife with kids!	
 0xffb	0x98	Keny		Oh, man. He is in for it now!	
 0x1068	0x98	Keny		But still, the only thing that	
 				kept Boote from getting hurt	
-				was Dorado, it seems.
+				was Dorado, it seems.	
 0x10e5	0x98	Keny		I'll have to make him cookies	
 				later to thank him.	
 0x1156	0x98	Keny		Oh my... You two seem like you're	
-				feeling back to your normal selves.
+				feeling back to your normal selves.	
 0x11bd	0x98	Keny		Hehe, that's the way it should be.	
 				We all have a lot of difficulties to	
-				overcome, but we can do it together.
+				overcome, but we can do it together.	
 0x1261	0x98	Keny		It's kinda dreary outside, isn't it?	
 				We've been having some crazy weather.	
 0x12bf	0x98	Keny		Since this weather started, a lot of	
@@ -63,10 +63,10 @@ talk_Keny
 				like this is try to power through it.	
 0x1443	0x98	Keny		All we can do during a time like this	
 				is try to power through it. Time to	
-				take out the emergency food supplies.
+				take out the emergency food supplies.	
 0x14bf	0x98	Keny		While the men are all working,	
 				Eartha and I have been making and	
-				distributing food for everyone.
+				distributing food for everyone.	
 0x1574	0x98	Keny		Nayuta, don't overdo it and	
 				go do something dangerous.	
 0x15cd	0x98	Keny		If you got hurt or anything,	
@@ -77,7 +77,7 @@ talk_Keny
 0x16a6	0x98	Keny		Ahaha, that's my boy, Nayuta!	
 0x1716	0x98	Keny		At any rate, be careful.	
 0x1754	0x98	Keny		If you got hurt or anything,	mp_0114 0x15cd
-				Eartha would be sad, you know.
+				Eartha would be sad, you know.	
 0x17ce	0x98	Keny		Ah, this can't be good...	
 0x1804	0x98	Keny		The weather has never been like	
 				this ever since I came to Remnant	
@@ -86,11 +86,11 @@ talk_Keny
 				I'll have to be careful not to	
 				let Boote get sick too.	
 0x1920	0x98	Keny		The weather has never been like	mp_0114 0x1804
-				this ever since I came to Remnant
-				Island after I got married.
+				this ever since I came to Remnant	
+				Island after I got married.	
 0x199f	0x98	Keny		After what happened to Eartha...	mp_0114 0x1883
-				I'll have to be careful not to
-				let Boote get sick too.
+				I'll have to be careful not to	
+				let Boote get sick too.	
 0x1a30	0x98	Keny		The whole island is going nuts over	
 				this Creha girl helping everyone.	
 0x1a8c	0x98	Keny		The way she talks is a little odd.	
@@ -113,10 +113,10 @@ talk_Keny
 0x1dc9	0x98	Keny		The adults of this village are	
 				your foster parents, after all.	
 0x1e4a	0x98	Keny		Nayuta, if you're ever in any	mp_0114 0x1d67
-				trouble in the future, don't
-				hesitate to tell me, okay?
+				trouble in the future, don't	
+				hesitate to tell me, okay?	
 0x1eac	0x98	Keny		The adults of this village are	mp_0114 0x1dc9
-				your foster parents, after all.
+				your foster parents, after all.	
 0x1f21	0x98	Keny		This isn't good...	
 				I've gotta go visit her.	
 0x1f6c	0x98	Keny		Hmm, I'll bring tomatoes, and carrots, and...	
@@ -127,7 +127,7 @@ talk_Keny
 				some kind of punishment.	
 0x20ab	0x98	Keny		I should get Dr. Hydrol to	
 				prescribe him even bitterer	
-				medicine than before.
+				medicine than before.	
 0x2162	0x98	Keny		You know, Dr. Hydrol should	
 				be coming to the island soon.	
 0x21c8	0x98	Keny		It's really helpful of the doctor	
@@ -160,7 +160,7 @@ talk_Keny
 0x2740	0x98	Keny		I remember you collect star	
 				shards too, don't you?	
 0x27a1	0x98	Keny		Well, they're such beautiful stones, it's	mp_0114 0x26ae
-				understandable to want to collect them.
+				understandable to want to collect them.	
 0x2841	0x98	Keny		Whoa, that just scared the life out of me...	
 				That was more ruins falling, wasn't it?	
 0x289d	0x98	Keny		Our Boote ran off to see it,	
@@ -206,7 +206,7 @@ talk_Keny
 				with Eartha and trade	
 				you for my own son.	
 0x2f97	0x6B	ALTO		Sweatdrop	
-talk_Bootie
+talk_Bootie					
 0x3011	0x98	Bootie		Hey, Nayuta! Look at these star shards!	
 0x305c	0x98	Bootie		I got a ton of them at the	
 				beach the other day～!	
@@ -232,13 +232,13 @@ talk_Bootie
 				at home for a while...	
 0x34c9	0x98	Bootie		Nayuta, the fact you've been	
 				so busy lately has something	
-				to do with them, doesn't it? 		
+				to do with them, doesn't it? 	
 0x3544	0x98	Bootie		...Hmph, you sneaking around	
 				like this is a little annoying.	
 0x35a3	0x98	Bootie		...Well, good luck with that,	
 				Nayuta. For that Creha girl.	
 0x3627	0x98	Bootie		...Well, good luck with that,	mp_0114 0x35a3
-				Nayuta. For that Creha girl.
+				Nayuta. For that Creha girl.	
 0x3683	0x98	Bootie		And when you come back safe,	
 				you better have plenty of	
 				stories to tell me.	
@@ -252,7 +252,7 @@ talk_Bootie
 0x3866	0x98	Bootie		...You know, nevermind.	
 				I-I never get nervous	
 				around girls, got it!?	
-0x38f5	0x98	Bootie		Damn, this is some serious stuff.		
+0x38f5	0x98	Bootie		Damn, this is some serious stuff.	
 0x3938	0x98	Bootie		I think I'll take a break from	
 				collecting star shards for a while.	
 0x39c8	0x98	Bootie		Hey, Nayuta, what's up with you...?	
@@ -261,7 +261,7 @@ talk_Bootie
 0x3a46	0x98	Bootie		Well, I'll give you credit	
 				where it's due. Rejoice.	
 0x3a7b	0x6B	ALTO		Sweatdrop	
-0x3aad	0x98	ALTO		Thanks, Boote... You're kinda
+0x3aad	0x98	ALTO		Thanks, Boote... You're kinda	
 				stubborn, ya know that?	
 0x3af8	0x98	Bootie		Shut. It.	
 0x3b54	0x98	Bootie		That sounds like the kind	
@@ -313,39 +313,39 @@ talk_Bootie
 0x4351	0x98	ALTO		(That's a lot more than I have in my room...	
 				 I've gotta get him to show me next time. ♪)	
 0x43ef	0x98	Bootie		Forgetting to buy souvenirs...	mp_0114 0x4242
-				You're really stupid, Nayuta.
+				You're really stupid, Nayuta.	
 0x444c	0x98	Bootie		Wanna see my new star shards?	mp_0114 0x429f
-talk_Sculp
+talk_Sculp					
 0x453d	0x98	Sculp		Heya Nayuta, I've got	mp_0000 0x7935
-				a question for you.
+				a question for you.	
 0x4590	0x98	ALTO		Eh, for me?	mp_0000 0x7988
-				What is it?
+				What is it?	
 0x45d3	0x98	Sculp		I actually heard this	mp_0000 0x79cb
-				from Antlia recently...
+				from Antlia recently...	
 0x462b	0x98	Sculp		Apparently using fertile soil	mp_0000 0x7a23
-				will greatly improve crop yield.
+				will greatly improve crop yield.	
 0x4685	0x98	Sculp		It's supposed to be better than manure,	mp_0000 0x7a7d
-				and pretty popular on the continent.
+				and pretty popular on the continent.	
 0x46e7	0x98	Sculp		But here on Remnant Island,	mp_0000 0x7adf
-				I can't find any good soil...
-				Do you have any ideas, Nayuta?
+				I can't find any good soil...	
+				Do you have any ideas, Nayuta?	
 0x475f	0x98	ALTO		Hmm, fertile soil, huh?	mp_0000 0x7b57
-				I don't think so.
+				I don't think so.	
 0x47b8	0x98	ALTO		To begin with, Remnant Island soil	mp_0000 0x7bb0
-				is probably rocky and full of salt...
+				is probably rocky and full of salt...	
 0x4820	0x98	Sculp		I thought that might be the case...	mp_0000 0x7c18
-				If you say so, it must be true.
+				If you say so, it must be true.	
 0x487d	0x98	Sculp		Haha, it seems like it's	mp_0000 0x7c75
-				nothing but a fantasy for
-				us here, eh? Sorry, my bad.
+				nothing but a fantasy for	
+				us here, eh? Sorry, my bad.	
 0x48da	0x98	Sculp		But if you ever do find some	mp_0000 0x7cd2
-				good soil somewhere, it'd be
-				great if I could use it.
+				good soil somewhere, it'd be	
+				great if I could use it.	
 0x494c	0x98	Sculp		Just keep an eye out for it.	mp_0000 0x7d44
 0x498e	0x98	ALTO		Yeah, got it.	mp_0000 0x7d86
 0x49bb	0x98	ALTO		(Fertile soil, huh?	mp_0000 0x7db3
-				 If I find any, Maybe I should
-				 try bringing it to Sculp?)
+				 If I find any, Maybe I should	
+				 try bringing it to Sculp?)	
 0x4b12	0x98	Sculp		If they come again, I have to	
 				at least protect my family.	
 0x4b73	0x98	Sculp		And you've got to do whatever it	
@@ -355,88 +355,89 @@ talk_Sculp
 0x4c2f	0x98	Sculp		This wound they gave me hurts...	
 				But I must protect my family without fail.	
 0x4c9d	0x98	Sculp		And you've got to do whatever it	mp_0114 0x4b73
-				takes to save Creha from them, too.
+				takes to save Creha from them, too.	
 0x4d00	0x98	Sculp		This rose that never wilts...	
 				Canie seems to love it.	
 0x4d5a	0x98	Sculp		Gee, thanks, Nayuta.	
 				I can't thank you enough.	
-talk_Sculp_add
+talk_Sculp_add					
 0x4df0	0x98	Sculp		Hmm!? Hey, Nayuta...	mp_0000 0x974f
-				Isn't that pretty good soil!?
+				Isn't that pretty good soil!?	
 0x4e44	0x98	Sculp		It's dark, has a soft texture and a fragrant,	mp_0000 0x97a3
-				earthy scent... There's no mistaking it─
-				It's of excellent quality.
+				earthy scent... There's no mistaking it─	
+				It's of excellent quality.	
 0x4ed1	0x98	ALTO		Yeah, I actually found it somewhere...	mp_0000 0x9830
-0x4f1b	0x98	ALTO		mp_0000 0x987a	mp_0112 0x10b83
+0x4f1b	0x98	ALTO		Oh right, if you want it,	mp_0112 0x10b83
+				shall I give it to you?	
 0x4fa6	0x98	Sculp		Oh, what a big help!	mp_0000 0x9907
 0x4fdb	0x98	Sculp		If I have this, I'll be able to	mp_0000 0x993c
-				quickly raise vegetables and
-				have more free time than usual.
+				quickly raise vegetables and	
+				have more free time than usual.	
 0x5056	0x98	Sculp		...By the way, Sasha from the general	mp_0000 0x99b7
-				store came by and said she wanted to
-				stock my vegetables.
+				store came by and said she wanted to	
+				stock my vegetables.	
 0x50d0	0x98	Sculp		I was so honored by her request,	mp_0000 0x9a31
-				I thought I would respond in turn.
+				I thought I would respond in turn.	
 0x5169	0x98	Sculp		Anyway, you've helped me out, Nayuta.	mp_0000 0x9aca
-				Please use this well for me.
+				Please use this well for me.	
 0x51c8	0x98	ALTO		I'm glad you found it useful.	mp_0000 0x9b29
 0x5205	0x98	ALTO		If you need anything else,	mp_0000 0x9b66
-				don't hesitate to ask.
+				don't hesitate to ask.	
 0x525d	0x98	Sculp		Haha, thank you. Good to know	mp_0000 0x9bbe
-				I'm in good hands, Nayuta.
+				I'm in good hands, Nayuta.	
 0x52ec	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
-				to the general store lineup.
+				to the general store lineup.	
 0x533d	0x07	System	#4C	If you give soil to Sculp,	mp_0000 0x9c9e
-				the lineup of vegetables for sale at
-				the general store will increase.
+				the lineup of vegetables for sale at	
+				the general store will increase.	
 0x53b5	0x07	System	#4C	If you find soil,	mp_0000 0x9d16
-				be sure to bring it here.
+				be sure to bring it here.	
 0x544b	0x98	Sculp		Hmm, Nayuta...	mp_0000 0x9dac
-				It looks like you have
-				some good soil again.
-0x54a5	0x98	Sculp		If it's all right with you, please give it here.	mp_0112 0x1110d
-				I've again got some things I want to try
-				on the field.
+				It looks like you have	
+				some good soil again.	
+0x54a5	0x98	Sculp		If you don't mind, can you please	mp_0112 0x1110d
+				give it to me? I've got some things	
+				I want to try on the field again.	
 0x5529	0x98	ALTO		Yeah, sure.	mp_0000 0x9e8c
-				If it's useful to you, Sculp.
+				If it's useful to you, Sculp.	
 0x55a1	0x98	Sculp		Mmm, this is very fertile, too.	mp_0000 0x9f04
 0x55e1	0x98	Sculp		All right... Time to go try it out.	mp_0000 0x9f44
 0x561e	0x98	Sculp		There'll be new vegetables for	mp_0000 0x9f81
-				sale as soon as possible.
+				sale as soon as possible.	
 0x56af	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
-				to the general store lineup.
+				to the general store lineup.	
 0x573a	0x98	Sculp		Hmm, Nayuta...	mp_0000 0x9dac
-				It looks like you have
-				some good soil again.
+				It looks like you have	
+				some good soil again.	
 0x5794	0x98	Sculp		What's more, it's ridiculously high	mp_0000 0xa0f7
-				quality... Hmm, just where on
-				Remnant Island did you get his...?
+				quality... Hmm, just where on	
+				Remnant Island did you get his...?	
 0x5819	0x98	ALTO		There's, uh, various places.	mp_0000 0xa17c
 0x5857	0x98	ALTO		Anyway, I'm giving	mp_0000 0xa1ba
-				this to you, Sculp.
+				this to you, Sculp.	
 0x58cb	0x98	Sculp		Thanks as always.	mp_0000 0xa22e
-				You're a great help.
+				You're a great help.	
 0x5914	0x98	Sculp		With soil this good,	mp_0000 0xa277
-				I should be able produce
-				even more vegetables!
-0x598c	0x98	Sculp		Ha, for a farmer, there's	mp_0000 0xa2ef
-				no better happiness than this.
+				I should be able produce	
+				even more vegetables!	
+0x598c	0x98	Sculp		Haha, for a farmer, there's	mp_0000 0xa2ef
+				no better happiness than this.	
 0x59f2	0x98	Sculp		I should be able to sell these new	mp_0000 0xa355
-				vegetables to the general store.
-				Nayuta, I'm glad you found this for me.
+				vegetables to the general store.	
+				Nayuta, I'm glad you found this for me.	
 0x5ab3	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
-				to the general store lineup.
-talk_Sculp_addmes
+				to the general store lineup.	
+talk_Sculp_addmes					
 0x5bf0	0xC1	System		handed over.	mp_0000 0xa553
 0x5cf0	0xC1	System		handed over.	mp_0000 0xa553
 0x5df0	0xC1	System		handed over.	mp_0000 0xa553
-talk_Chicken
-quest_Keny
+talk_Chicken					
+quest_Keny					
 0x5f16	0x98	Keny		With the incidents last year, our crops	
 				did pretty poorly. But this year we've	
 				had an abundant harvest.	
 0x5fa8	0x98	Keny		I'm sure the gods are rewarding	
-				us with this great harvest.
+				us with this great harvest.	
 0x6103	0x98	Keny		Sasha is a pretty chatty one, and	
 				can easily deflect your questions.	
 0x6152	0x98	Keny		You should probably stay patient	
@@ -446,7 +447,7 @@ quest_Keny
 0x620b	0x98	Keny		However, Sasha is a pretty chatty one,	
 				and can easily deflect your questions.	
 0x6264	0x98	Keny		You should probably stay patient	mp_0114 0x6152
-				and keep on asking her.
+				and keep on asking her.	
 0x6356	0x98	Keny		Boote just went out.	
 0x638b	0x98	Keny		If he returns, I'll contact you.	
 				How about going to someone else's	
@@ -465,7 +466,7 @@ quest_Keny
 				place first?	
 0x6658	0x98	ALTO		Hmm, I guess I have to.	
 				I'll do just that.	
-QS_25_ask_destination
+QS_25_ask_destination					
 0x67ad	0x06	Keny		ANI_WAIT1	
 0x6880	0x98	Keny		My, it's Nayuta. Boote	
 				still isn't home yet.	
@@ -483,11 +484,11 @@ QS_25_ask_destination
 0x6ab8	0x06	Keny		ANI_NOD	
 0x6add	0x98	Keny		Eh, he just went out.	mp_0114 0x648c
 0x6b13	0x98	Keny		He should be back soon enough...	mp_0114 0x64c2
-				You need him for something?
+				You need him for something?	
 0x6b73	0x06	ALTO		ANI_GESTURE1	
 0x6b9d	0x98	ALTO		Umm, well, I guess...	mp_0004 0x14b0f
 0x6bcc	0x40	UNDEF		Nayuta told Canie that Dr. Hydrol wanted	mp_0114 0x6551
-				him to come in for a medical exam.
+				him to come in for a medical exam.	
 0x6c2f	0x06	Keny		ANI_WAIT4	
 0x6c56	0x98	Keny		Oh, I see.	mp_0114 0x65b4
 0x6c85	0x98	Keny		In that case, then maybe...	
@@ -517,7 +518,7 @@ QS_25_ask_destination
 0x704d	0x06	Keny		ANI_WAIT2	
 0x7074	0x98	Keny		Boote seems to frequent the	
 				general store to look at the	
-				star shards on display.
+				star shards on display.	
 0x70ed	0x98	Keny		There's a good chance he would ask	
 				Sasha for help at a time like this.	
 0x7156	0x06	ALTO		ANI_GESTURE2	
@@ -525,7 +526,7 @@ QS_25_ask_destination
 				try looking there.	
 0x71ca	0x06	ALTO		ANI_THANKS	
 0x71f2	0x98	ALTO	#6A	Thank you, Canie.	
-QS_82_get_crops
+QS_82_get_crops					
 0x74c6	0x98	Keny		Oh, Nayuta, do you need something?	
 0x7508	0x06	ALTO		ANI_GESTURE1	
 0x7532	0x98	ALTO	#6A	Um, actually...	
@@ -544,10 +545,10 @@ QS_82_get_crops
 				This year was a real bumper crop.	
 0x79de	0x06	Keny		ANI_WAIT3	
 0x7a05	0x98	Keny		With the incidents last year, our crops	mp_0114 0x5f16
-				did pretty poorly. But this year we've
-				had an abundant harvest.
+				did pretty poorly. But this year we've	
+				had an abundant harvest.	
 0x7a97	0x98	Keny		I'm sure the gods are rewarding	mp_0114 0x5fa8
-				us with this great harvest.
+				us with this great harvest.	
 0x7ae4	0x06	ALTO		ANI_LAUGH	
 0x7b0b	0x98	ALTO	#6A	Haha, maybe so.	
 0x7b48	0x06	ALTO		ANI_THANKS	
@@ -556,7 +557,7 @@ QS_82_get_crops
 0x7bd3	0x98	Keny		Yeah, yeah～.	
 				Say hi to the elder for me.	
 0x7cee	0x98	NOI	#6A	It looks like we have all the	mp_0101 0xa690
-				offerings the elder requested now.
+				offerings the elder requested now.	
 0x7d6d	0x06	ALTO		ANI_NOD	
 0x7d92	0x98	ALTO		Yeah, let's get them to the	mp_0101 0xa734
-				elder as soon as we can.
+				elder as soon as we can.	

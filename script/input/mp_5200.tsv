@@ -1,6 +1,6 @@
-mp_5200
-init
-EV_3_S28_at_tower_top
+mp_5200					
+init					
+EV_3_S28_at_tower_top					
 0x413	0x06	Zext		ANI_SIT2	
 0x4a5	0x98	Zext	#1W	...So, there has been another	
 				crossing over to the other world?	
@@ -23,8 +23,8 @@ EV_3_S28_at_tower_top
 				soon come to an end...	
 0xcf3	0x98	Zext	#1W	The greatest desire of the Mitos...	
 				I will definitely fulfill it.	
-EV_3_S28_at_tower_top_cs
-EV_5_S19_meet_zext
+EV_3_S28_at_tower_top_cs					
+EV_5_S19_meet_zext					
 0x16f8	0x06	Zext		ANI_SIT2	
 0x1c08	0x98	NOI	#2W#16S#240x#270y	Zext!!	
 0x1e5b	0x06	ALTO		ANI_TENSION_WAIT	
@@ -59,7 +59,7 @@ EV_5_S19_meet_zext
 				Invading Remnant Island...	
 				Just what are you guys trying to do?	
 0x2c7b	0x06	Zext		ANI_SIT2_NOD	
-0x2cad	0x98	Zext		...Keheh, very well, then.
+0x2cad	0x98	Zext		...Keheh, very well, then.	
 				The plan has already	
 				entered the final stage...	
 0x2ce0	0x98	Zext		There is nothing you could do now to stop it.	
@@ -78,7 +78,7 @@ EV_5_S19_meet_zext
 0x313c	0x98	Zext	#0W	Those humans worshipped	
 				us... as a race of 'gods.'	
 0x319c	0x98	ALTO	#0W#240x#270y	A race... of gods...	
-0x3240	0x40	ALTO		Then... The mural
+0x3240	0x40	ALTO		Then... The mural	
 				in Heimmel...	
 0x33e3	0x98	Seram		Heh, an image of the Mitos	
 				leading your world.	
@@ -101,8 +101,8 @@ EV_5_S19_meet_zext
 0x3811	0x98	Zext		We had a plan ready to protect the	
 				world in case of imminent destruction.	
 0x3882	0x98	NOI	#1W#20x#270y	...Plan...?	
-0x38be	0x98	Zext		We created a beautiful new world tailored for the 
-				preservation of every plant and animal in existence, 
+0x38be	0x98	Zext		We created a beautiful new world tailored for the 	
+				preservation of every plant and animal in existence, 	
 				so that we could one day reconstruct the old one.	
 0x393e	0x98	Zext		And thus, we laid the framework for	
 				one day remaking a destroyed world,	
@@ -148,7 +148,7 @@ EV_5_S19_meet_zext
 0x4b24	0x98	Zext		It will disappear, of course,	
 				and cease to exist.	
 0x4b92	0x06	ALTO		ANI_TENSION_SURPRISE	
-0x4bc4	0x98	ALTO	#6A#18S	!!!!	mp_0101b 0x3636
+0x4bc4	0x98	ALTO	#6A#18S	！！！！	mp_0101b 0x3636
 0x4bef	0x98	Zext		The fact that some humans had survived	
 				on the destroyed world to begin with	
 				was just some kind of fluke.	
@@ -192,7 +192,7 @@ EV_5_S19_meet_zext
 0x5bcf	0x98	ALTO	#200x#280y	...Cygna...	
 0x5cb0	0x98	ALTO	#6A	Even so... Noi is with me!	
 0x5cec	0x98	ALTO	#6A	And until now... no matter how	
-				high the barrier, we've always
+				high the barrier, we've always	
 				overcome it together!	
 0x5d60	0x98	Zext		Heheh... Son of man,	
 				I am fully aware of your	
@@ -201,8 +201,8 @@ EV_5_S19_meet_zext
 0x5e22	0xBC	NOI		Exclamation	
 0x5e5f	0x98	ALTO		...Eh...?	
 0x5fe9	0x98	Zext	#400x#270y	Everything we've discussed so far...	
-				Noi, you should already have known the truth.
-				Yet until now, you had not told him...		
+				Noi, you should already have known the truth.	
+				Yet until now, you had not told him...	
 0x605b	0x98	Zext	#400x#270y	Why have you not revealed any	
 				of this to this human child?	
 0x60ba	0x98	Zext	#400x#270y	If he understood sooner, he might	
@@ -227,7 +227,7 @@ EV_5_S19_meet_zext
 0x66ce	0x98	Zext	#6A	In order to achieve the	
 				Mitos' mission, she cannot	
 				disobey their orders.	
-0x6739	0x98	Zext	#6A	That is why she chose		
+0x6739	0x98	Zext	#6A	That is why she chose	
 				not to communicate all	
 				she knew to you.	
 0x67b8	0x98	Zext	#6A	In other words, Noi used you in order	

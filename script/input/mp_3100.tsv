@@ -1,6 +1,6 @@
-mp_3100
-init
-EV_3_S14_temple3_front
+mp_3100					
+init					
+EV_3_S14_temple3_front					
 0x73e	0x06	ALTO		ANI_FIND	
 0x764	0x98	ALTO	#6A	There's the temple of Heimmel...	
 0x7b3	0x98	NOI	#6A	It looks like the astral power	
@@ -60,7 +60,7 @@ EV_3_S14_temple3_front
 0x1d47	0x98	Seram	#1W	I've had enough of you	
 				blindly trailing behind us.	
 0x1dae	0x98	Seram	#3W	Now that you're here,	
-				I'm going to kill you both.		
+				I'm going to kill you both.	
 0x1e0d	0x98	Seram	#1W	Just like I did that dark-haired swordsman.	
 0x1e80	0x98	ALTO	#0W#0x#250y	W-Wait, what...!?	
 0x2087	0x06	Seram		ANI_STEP_F2	
@@ -89,7 +89,7 @@ EV_3_S14_temple3_front
 0x2a11	0x98	Seram		I don't understand.	
 				Why are you so stubborn...?	
 0x2a64	0x98	Seram		It's none of your business	
-				what happens in this world.
+				what happens in this world.	
 0x2bfb	0x98	ALTO		It IS my business!	
 				Because it's Noi's world!	
 0x2cc8	0x98	ALTO	#0W	And... my, my sister's been sick...!	
@@ -125,12 +125,12 @@ EV_3_S14_temple3_front
 0x3588	0x98	Seram	#0W	...Oh, now that you mention it,	
 				I forgot to introduce myself.	
 0x36bb	0x98	Seram	#2W	My name is Selam...	mp_3002c 0x5347
-				Selam Il Ordene.
+				Selam Il Ordene.	
 0x371e	0x06	NOI		ANI_SURPRISE	
-0x3747	0x98	NOI	#100x#270y#18S	!!!!	mp_0101b 0x3636
+0x3747	0x98	NOI	#100x#270y#18S	！！！！	mp_0101b 0x3636
 0x378e	0x98	Seram	#2W	We are on a mission to restore	mp_3002c 0x53a3
-				the world to its true form...
-				Nothing more.
+				the world to its true form...	
+				Nothing more.	
 0x38a9	0x98	Seram	#2W	Hmph...	
 				Later.	
 0x3af8	0x6B	ALTO		Ellipsis	
@@ -144,7 +144,7 @@ EV_3_S14_temple3_front
 0x3ceb	0x06	ALTO		ANI_GESTURE2	
 0x3d15	0x98	ALTO	#6A	Noi, what's wrong?	mp_0004 0x6aa2
 0x3d4a	0x98	ALTO	#6A	Does the name of that masked	
-				man mean anything to you...?
+				man mean anything to you...?	
 0x3dbb	0x06	NOI		ANI_WAIT	
 0x3e52	0x06	NOI		ANI_THINK	
 0x3e78	0x98	NOI	#0W	...If it really is Selam under that mask...	
@@ -175,7 +175,7 @@ EV_3_S14_temple3_front
 0x43ed	0x06	ALTO		ANI_NOD	
 0x4412	0x98	ALTO	#6A	Yeah!	mp_0001 0x1174e
 0x4494	0x06	ALTO		ANI_WAIT	
-SB_3_S14_alto_move
+SB_3_S14_alto_move					
 0x4650	0x06	ALTO		ANI_TENSION_STRONG_DENY	
 0x468d	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
-SB_3_S14_se_kamae
+SB_3_S14_se_kamae					

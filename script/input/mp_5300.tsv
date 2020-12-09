@@ -1,10 +1,10 @@
-mp_5300
-init
-stp_exit
+mp_5300					
+init					
+stp_exit					
 0x2a1	0x98	ALTO		We can't back out of this any longer.	
 				Let's brace ourselves and get in there.	
 0x2ef	0x98	NOI		Yeah! Let's end this thing with Zext!	
-EV_5_S17_out_outer_wall
+EV_5_S17_out_outer_wall					
 0x682	0x6B	ALTO		Exclamation	
 0x712	0x6B	NOI		Exclamation	
 0x79d	0x06	ALTO		ANI_FIND	
@@ -26,11 +26,11 @@ EV_5_S17_out_outer_wall
 				Let's finish this, Noi!	
 0xd3a	0x06	NOI		ANI_NOD	
 0xd5e	0x98	NOI	#6A	...Yeah!	mp_0001c 0x406c
-EV_5_S18_go_up_wall
+EV_5_S18_go_up_wall					
 0x10c5	0x06	PLAYER1		ANI_WHEEL	
 0x10ef	0x06	PLAYER2		ANI_ATK4	
-SB_5_S18_drive_se
-EV_5_S20_drop_to_ground
+SB_5_S18_drive_se					
+EV_5_S20_drop_to_ground					
 0x17e8	0x06	ALTO		ANI_KNOCKDOWN_EV	
 0x18ca	0x06	NOI		ANI_KNOCKDOWN_EV	
 0x1bf4	0x06	ALTO		ANI_KNOCKDOWN_EV	

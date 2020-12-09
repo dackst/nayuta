@@ -1,6 +1,6 @@
-mp_8100
-init
-EV_8_S13_meet_noi
+mp_8100					
+init					
+EV_8_S13_meet_noi					
 0x4b4	0x06	Creha		ANI_FLY_SIT	
 0x5e1	0x06	Signa		ANI_FLY_SIT	
 0x658	0x06	ALTO		ANI_LOOK_AROUND	
@@ -26,7 +26,7 @@ EV_8_S13_meet_noi
 				in the Inner World.	
 0x120d	0x98	Noi2	#0W	This place, it serves as a	
 				reflection of my inner self.	
-0x1264	0x98	Noi2	#0W	A year ago, I... I was
+0x1264	0x98	Noi2	#0W	A year ago, I... I was	
 				the Noi that adventured	
 				alongside you.	
 0x12e4	0x6B	ALTO		Exclamation	
@@ -39,7 +39,7 @@ EV_8_S13_meet_noi
 0x147b	0x98	Noi2	#0W	...No, I SHOULD	
 				have disappeared...	
 0x14ca	0x06	Noi2		ANI_DEJECTED	
-0x14f4	0x98	Noi2	#0W	...I owe everyone
+0x14f4	0x98	Noi2	#0W	...I owe everyone	
 				an apology, Nayuta.	
 0x1547	0x98	Noi2	#0W	Because the abnormalities	
 				in the Astrolabe this time...	
@@ -49,29 +49,29 @@ EV_8_S13_meet_noi
 0x16ed	0x98	Noi2	#0W	...Back then, I was	
 				ready to disappear...	
 0x175c	0x98	Noi2	#0W	But... at the last moment,	
-				my memories of everyone
+				my memories of everyone	
 				all came pouring back.	
 0x180d	0x98	Noi2	#0W	Joking around with Cygna.	
 				Drinking tea with Lady Creha...	
-0x186e	0x98	Noi2	#0W	My adventures with you, Nayuta...
-				I've made some really good
+0x186e	0x98	Noi2	#0W	My adventures with you, Nayuta...	
+				I've made some really good	
 				memories, I've lost count...	
 0x194b	0x06	Noi2		ANI_DENY	
-0x1971	0x98	Noi2	#0W	...In that final moment of weakness,
-				I thought in the back of my mind,
+0x1971	0x98	Noi2	#0W	...In that final moment of weakness,	
+				I thought in the back of my mind,	
 				'I don't want to disappear.'	
 0x19f0	0x98	ALTO	#1W#400x#300y	Noi...	mp_0005c 0x6fe1
 0x1a2b	0x06	Noi2		ANI_DEJECTED	
 0x1a55	0x98	Noi2	#0W	...I should've been ready to disappear.	
 				But when it came to it, I rejected it.	
-0x1adb	0x98	Noi2	#0W	The Astrolabe interpreted that as
-				a command, and forced my existence
+0x1adb	0x98	Noi2	#0W	The Astrolabe interpreted that as	
+				a command, and forced my existence	
 				inside it to 'protect' me.	
 0x1b82	0x98	Noi2	#0W	Thus causing the current malfunctions	
 				in the Astrolabe's systems.	
 0x1c02	0x98	ALTO	#1W#400x#300y	...No way...	mp_0100b 0xe52
 0x1d23	0x98	Noi2	#0W	When Lord Cygna and Lady Creha	
-				became aware of my presence in the
+				became aware of my presence in the	
 				Inner World, they tried to free me.	
 0x1db3	0x98	Noi2	#0W	Due to their efforts, my body was	
 				returned to the outside world,	

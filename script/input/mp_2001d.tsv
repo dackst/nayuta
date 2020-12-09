@@ -1,52 +1,52 @@
-mp_2001d
-init
+mp_2001d					
+init					
 0x37e	0x06	ob_209_s00		ANI_STOP2	
 0x3ab	0x06	ob_210_s01		ANI_STOP2	
 0x3d8	0x06	ob_209_s02		ANI_STOP2	
 0x6fd	0xBC	QS54_SpiritB		Unknown	
-ev_goal
-move_marker00
-move_marker01
-move_marker02
-move_marker03
-fall_icicle1
+ev_goal					
+move_marker00					
+move_marker01					
+move_marker02					
+move_marker03					
+fall_icicle1					
 0xc05	0x06	ob_209_00		ANI_PATA1	
 0xc39	0x06	swt01		ANI_LEVER_ON_LOCK	
-fall_icicle2
+fall_icicle2					
 0xcc7	0x06	ob_209_02		ANI_PATA1	
 0xcfb	0x06	ob_210_01		ANI_PATA1	
 0xd9d	0x06	swt02		ANI_LEVER_ON_LOCK	
-boss_battle01
+boss_battle01					
 0xe11	0x6B	ALTO		Exclamation	
-dead_EV01
-fall_icicle3
+dead_EV01					
+fall_icicle3					
 0x11fc	0x06	ob_209_04		ANI_PATA1	
 0x1230	0x06	ob_210_03		ANI_PATA1	
 0x1264	0x06	swt03		ANI_LEVER_ON_LOCK	
-QS_81_check_altar
-0x13a6	0x40	UNDEF		Nayuta placed the Locked Box.	mp_1002b 0x2e09
+QS_81_check_altar					
+0x13a6	0x40	UNDEF		Nayuta took out the Locked Box.	mp_1002b 0x2e09
 0x13fa	0x40	UNDEF		...Seems like there's no reaction.	
 0x1457	0x98	ALTO		H-Huh...?	mp_1002b 0x274a
-				I thought this was
-				the place, but...
-0x14b1	0x98	NOI		I see... Looks like the lock	mp_1002b 0x27a4
-				was made using areas filled
-				with astral power.
+				I thought this was	
+				the place, but...	
+0x14b1	0x98	NOI		I see... The lock should detect	mp_1002b 0x27a4
+				areas like this, filled with	
+				astral power.	
 0x1524	0x98	NOI		But I think we're not	mp_1002b 0x2817
-				doing something right.
+				doing something right.	
 0x1570	0x98	ALTO		If I remember correctly, didn't it say,	mp_1002b 0x2863
-				'offer up this box in order of the seasons,
-				with them changed as they should be'...?
+				'offer up this box in order of the seasons,	
+				with them changed as they should be'...?	
 0x1617	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
-				 kind of seasonal order?)
+				 kind of seasonal order?)	
 0x16b4	0x98	ALTO		('If you wish to release the locks,	mp_1002b 0x29a7
-				 offer up this box in order of the seasons,
-				 with them changed as they should be'...)
+				 offer up this box in order of the seasons,	
+				 with them changed as they should be'...)	
 0x173c	0x98	ALTO		(Maybe I need to follow some	mp_1002b 0x290a
-				 kind of seasonal order?)
-QS_81_hang_out_box
+				 kind of seasonal order?)	
+QS_81_hang_out_box					
 0x1990	0x06	ALTO		ANI_HANDOVER1	
-0x1a36	0x40	UNDEF		Nayuta placed the Locked Box.	mp_1002b 0x2e09
+0x1a36	0x40	UNDEF		Nayuta took out the Locked Box.	mp_1002b 0x2e09
 0x1a82	0x6B	ALTO		Ellipsis	
 0x1ab4	0x6B	NOI		Ellipsis	
 0x1b11	0x6B	ALTO		Exclamation	
@@ -54,21 +54,21 @@ QS_81_hang_out_box
 0x1b6c	0x98	ALTO		...Looks like we managed	
 				to open up all the locks.	
 0x1c27	0x06	ALTO		ANI_WAIT	
-0x1c8f	0x98	ALTO		I'm tempted to open it up and 
+0x1c8f	0x98	ALTO		I'm tempted to open it up and 	
 				look inside right away, but...	
 0x1d1a	0x98	NOI	#6A	First, we should bring	
 				it to your master.	
 0x1d5f	0x06	ALTO		ANI_NOD	
 0x1d84	0x98	ALTO		Yeah, let's bring it over right away.	
-QS54_talk_SpiritB
+QS54_talk_SpiritB					
 0x204c	0x6B	QS54_SpiritB		Unknown	
 0x216b	0x98	NOI	#6A	Ah, found you!	mp_1002b 0x1810
 0x219d	0x98	ALTO	#6A	Isn't this one of	mp_1002b 0x1842
-				the nymphs from
-				Nemeas' temple?
+				the nymphs from	
+				Nemeas' temple?	
 0x21f3	0x98	ALTO	#6A	Ah, but what could you be doing here...?	mp_1002b 0x18a3
 0x2231	0x98	ALTO	#6A	...Aren't you one of Nemeas'	mp_1002b 0x18e4
-				nymphs? Are you okay?
+				nymphs? Are you okay?	
 0x22a5	0x6B	QS54_SpiritB		Exclamation	
 0x22ff	0x06	QS54_SpiritB		ANI_TALK	
 0x232d	0x98	QS54_SpiritB		...～～～～～～...	mp_1002b 0x1a07
@@ -95,28 +95,28 @@ QS54_talk_SpiritB
 				you at La Worg temple.	
 0x26ef	0x6B	QS54_SpiritB		Surprise	
 0x2729	0x40	UNDEF		Noi explained to the nymph how to	mp_1002b 0x1f6e
-				get back to the Origin Continent.
+				get back to the Origin Continent.	
 0x278f	0x6B	QS54_SpiritB		Unknown	
 0x27c9	0x06	QS54_SpiritB		ANI_NOD	
 0x29bb	0x98	ALTO		Looks like we rescued that one safely.	mp_1002b 0x221c
 0x2a3f	0x06	NOI		ANI_NOD	
 0x2aa7	0x98	NOI	#6A	Yeah, now that's all	mp_1002b 0x2303
-				of the missing nymphs.
+				of the missing nymphs.	
 0x2afa	0x98	NOI	#6A	Nayuta, let's go	mp_1002b 0x2356
-				tell Nemeas!
+				tell Nemeas!	
 0x2b42	0x06	ALTO		ANI_NOD	
 0x2b67	0x98	ALTO		Yeah!	mp_0001 0x1174e
-0x2bd2	0x98	NOI	#6A	Yeah...but there should	mp_1002b 0x242e
-				be three missing nymphs.
+0x2bd2	0x98	NOI	#6A	Yeah... but there should	mp_1002b 0x242e
+				be three missing nymphs.	
 0x2c21	0x98	NOI	#6A	Nayuta, let's try	mp_1002b 0x24a6
-				looking for them.
+				looking for them.	
 0x2c67	0x06	ALTO		ANI_NOD	
 0x2c8c	0x98	ALTO		Right, let's try going to	mp_1002b 0x2511
-				the other continents, too.
-SB_3_S11_escape_ALTO
-SB_3_S11_move_ALTO
-SB_3_S11_move_NOI
-EV_3_S11_help_eris
+				the other continents, too.	
+SB_3_S11_escape_ALTO					
+SB_3_S11_move_ALTO					
+SB_3_S11_move_NOI					
+EV_3_S11_help_eris					
 0x33ec	0x98	ALTO		This area used to be a waterfall...	
 				But it looks like we can pass now.	
 0x376e	0x06	NOI		ANI_GESTURE1	
@@ -197,7 +197,7 @@ EV_3_S11_help_eris
 0x619c	0x98	ALTO		Right...	
 0x61cc	0x06	Erislet		ANI_GESTURE1	
 0x6264	0x98	Erislet		But still... I'm shocked to	
-				hear about all of this.
+				hear about all of this.	
 0x630e	0x98	Erislet		For the head of the Mitos	
 				to attack my temple...	
 0x638c	0x06	NOI		ANI_DENY	
@@ -211,7 +211,7 @@ EV_3_S11_help_eris
 				of great character, but...	
 0x6572	0x98	Erislet		Now that she's lost her memory,	
 				I suppose we can't be sure	
-				either way, huh?
+				either way, huh?	
 0x65de	0x6B	ALTO		Surprise	
 0x6610	0x06	ALTO		ANI_GESTURE1	
 0x663a	0x98	ALTO	#6A	Umm... I was wondering, what kind of	

@@ -1,42 +1,42 @@
-mp_0100a
-init
-lp_ctrl
+mp_0100a					
+init					
+lp_ctrl					
 0xa7b	0x36	Choice		Insert Stellagears	
 0xad5	0x36	Choice		Unlock Additional Functions	mp_0100 0xf69
 0xb3e	0x36	Choice		Cancel	mp_0100 0xfd2
 0xc68	0x40	UNDEF		A complicated mechanical structure is embedded in	mp_0100 0x10de
-				the pedestal, giving off a mysterious light.
-AL_shop
+				the pedestal, giving off a mysterious light.	
+AL_shop					
 0xf59	0x06	ALTO		ANI_SURPRISE	
 0xfbd	0x07	System	#3C	Nayuta's maximum	mp_0100 0x14db
-				level rose to 70!
+				level rose to 70!	
 0x107b	0x06	ALTO		ANI_SURPRISE	
 0x10df	0x07	System	#3C	Nayuta's maximum	mp_0100 0x15fd
-				level rose to 85!
+				level rose to 85!	
 0x119d	0x06	ALTO		ANI_SURPRISE	
 0x1201	0x07	System	#3C	Nayuta's maximum	mp_0100 0x171f
-				level rose to 99!
+				level rose to 99!	
 0x12be	0x06	NOI		ANI_TAMEATK1	
 0x1321	0x07	System	#3C	Noi's maximum magic	mp_0100 0x183f
-				level rose to 10!
+				level rose to 10!	
 0x13e1	0x06	NOI		ANI_TAMEATK1	
 0x1444	0x07	System	#3C	Noi's maximum magic	mp_0100 0x1962
-				level rose to 20!
+				level rose to 20!	
 0x1504	0x06	NOI		ANI_TAMEATK1	
 0x1567	0x07	System	#3C	Noi's maximum magic	mp_0100 0x1a85
-				level rose to 30!
+				level rose to 30!	
 0x1627	0x06	NOI		ANI_TAMEATK1	
 0x168a	0x07	System	#3C	Gear Buster no longer consumes craft gauge,	mp_0100 0x1ba8
-				and can now be used infinitely!
+				and can now be used infinitely!	
 0x1774	0x06	NOI		ANI_TAMEATK1	
 0x17d7	0x07	System	#3C	Gear Hold no longer consumes craft gauge,	mp_0100 0x1cf5
-				and can now be used infinitely!
+				and can now be used infinitely!	
 0x18bf	0x06	NOI		ANI_TAMEATK1	
 0x1922	0x07	System	#3C	Gear Shield no longer consumes craft gauge,	mp_0100 0x1e40
-				and can now be used infinitely!
+				and can now be used infinitely!	
 0x1a0c	0x06	NOI		ANI_TAMEATK1	
 0x1a6f	0x07	System	#3C	Gear Drive no longer consumes craft gauge,	mp_0100 0x1f8d
-				and can now be used infinitely!
+				and can now be used infinitely!	
 0x1b59	0x06	ALTO		ANI_SURPRISE	
 0x1bbd	0x07	System	#3C	Nayuta's movement speed has increased!	mp_0100 0x20db
 0x1c7e	0x06	ALTO		ANI_SURPRISE	
@@ -51,33 +51,36 @@ AL_shop
 0x218c	0x07	System	#3C	The item drop rate has tripled!	mp_0100 0x26aa
 0x2248	0x06	NOI		ANI_TAMEATK1	
 0x22ab	0x07	System	#3C	The craft gauge required to use	mp_0100 0x27c9
-				Gear Buster has greatly decreased!
+				Gear Buster has greatly decreased!	
 0x2397	0x06	NOI		ANI_TAMEATK1	
 0x23fa	0x07	System	#3C	The craft gauge required to use	mp_0100 0x2918
-				Gear Hold has greatly decreased!
+				Gear Hold has greatly decreased!	
 0x24e4	0x06	NOI		ANI_TAMEATK1	
 0x2547	0x07	System	#3C	The craft gauge required to use	mp_0100 0x2a65
-				Gear Shield has greatly decreased!
+				Gear Shield has greatly decreased!	
 0x2633	0x06	NOI		ANI_TAMEATK1	
 0x2696	0x07	System	#3C	The craft gauge required to use	mp_0100 0x2bb4
-				Gear Drive has greatly decreased!
+				Gear Drive has greatly decreased!	
 0x27c2	0x07	System	#4C	The autumn of Forest Continent	mp_0100 0x2ce0
-				Oltapia has been unlocked.
+				Oltapia has been unlocked.	
 0x2957	0x07	System	#4C	The spring of Abyss Continent	mp_0100 0x2e75
-				Rieseweld has been unlocked.
+				Rieseweld has been unlocked.	
 0x2aed	0x07	System	#4C	The summer of Holy Mountain 	mp_0100 0x300b
-				Continent Heimmel has been unlocked.
+				Continent Heimmel has been unlocked.	
 0x2c8b	0x07	System	#4C	The winter of Origin Continent	mp_0100 0x31a9
-				La Worg has been unlocked.
-0x2e20	0x07	System	#3C	On Infinity difficulty, enemy levels will now scale.	mp_0100 0x333e
-0x2e98	0x07	System	#4C	※Item, 'Infinity Enemy Restore' has been added.	mp_0100 0x33b6
-				If used, enemy levels will be returned to fixed values.
-0x300a	0x07	System	#3C	On Infinity difficulty, enemy levels are now fixed.	mp_0100 0x3528
-0x3141	0x07	System	#3C	On Infinity difficulty, enemy levels will now scale.	mp_0100 0x333e
-EV_use_elevator
+				La Worg has been unlocked.	
+0x2e20	0x07	System	#3C	On Infinity difficulty, enemy levels	mp_0100 0x333e
+				will now scale without limit.	
+0x2e98	0x07	System	#4C	※ 'Infinity Enemy Restore' has been added.	mp_0100 0x33b6
+				If used, enemy level scaling will return to a fixed limit.	
+0x300a	0x07	System	#3C	On Infinity difficulty, enemy levels	mp_0100 0x3528
+				will scale to a fixed limit.	
+0x3141	0x07	System	#3C	On Infinity difficulty, enemy levels	mp_0100 0x333e
+				will now scale without limit.	
+EV_use_elevator					
 0x31ff	0x36	Choice		[Use Elevator]	mp_0100 0x371d
 0x321b	0x36	Choice		[Quit]	mp_0000 0xeb0b
-EV_6_S33_set_all_key
+EV_6_S33_set_all_key					
 0x37de	0x06	ALTO		ANI_GESTURE2	
 0x3808	0x98	ALTO		The Astrolabe looks	
 				pretty different.	
@@ -175,7 +178,7 @@ EV_6_S33_set_all_key
 0x683e	0x98	ALTO	#6A	Life has continued to exist on our	
 				world until now, even without any	
 				sort of recreation happening.	
-0x68b4	0x98	ALTO	#6A	Is there any point in wiping
+0x68b4	0x98	ALTO	#6A	Is there any point in wiping	
 				out the surface now?	
 0x6932	0x98	Creha	#1W	..................	mp_0002 0x1b64
 0x697a	0x98	Creha	#0W	...Rather than explain...	
@@ -187,17 +190,17 @@ EV_6_S33_set_all_key
 0x6d63	0x98	NOI	#6A	Lady Creha, what are you...?	
 0x6dce	0x98	Creha	#0W	Stored inside the Astrolabe	
 				is an 'Ancient Memory'	
-				preserved from the past.
+				preserved from the past.	
 0x6e39	0x98	Creha	#0W	A dreadful, heartbreaking memory from long	
 				ago, when the world was destroyed...	
 0x6eae	0x98	ALTO	#6A#0W	A memory...	
-EV_6_S36_break_up_creha
+EV_6_S36_break_up_creha					
 0x7990	0x98	Creha	#0W	...Afterwards, Selam	
 				and I waited for the	
 				calamity to end.	
 0x79f5	0x98	Creha	#0W	We waited for the day when we	
 				could finally Recreate the	
-				surface, where all was lost...		
+				surface, where all was lost...	
 0x7a6c	0x98	Creha		But, ultimately, we	
 				decided against it.	
 0x7abe	0x06	NOI		ANI_GESTURE1	
@@ -207,9 +210,9 @@ EV_6_S36_break_up_creha
 0x7c04	0x98	Creha		They had recovered from the disaster, and	
 				started building a new chapter in history.	
 0x7cbf	0x06	Creha		ANI_DENY	
-0x7cee	0x98	Creha		Destroying humanity in		
-				order to recreate it...
-				We couldn't do it.		
+0x7cee	0x98	Creha		Destroying humanity in	
+				order to recreate it...	
+				We couldn't do it.	
 0x7da4	0x98	Creha		And so, we both went to	
 				sleep in the Garden instead.	
 0x7df4	0x98	Creha		We left all life on Terra in the hands	
@@ -220,7 +223,7 @@ EV_6_S36_break_up_creha
 0x7f7a	0x98	Creha		My father told me about	
 				the accelerating pace of	
 				the planet's destruction.	
-0x8035	0x98	Creha		...We have a mission to accomplish. 
+0x8035	0x98	Creha		...We have a mission to accomplish. 	
 				It is our duty to carry this through...	
 0x80ac	0x98	Creha	#0W	I'm sure Selam... My brother...	
 				#0WI'm sure he thinks the same.	
@@ -236,7 +239,7 @@ EV_6_S36_break_up_creha
 				determined to fight us...	
 0x84c6	0x98	Creha	#0W	I have come to think that,	
 				maybe, we could abandon	
-				the mission again.		
+				the mission again.	
 0x8671	0x98	ALTO	#1W#6A	Creha...	mp_0100a 0x61a2
 0x86f6	0x06	Creha		ANI_DENY	
 0x8725	0x98	Creha		...I am truly sorry for putting	
@@ -262,7 +265,7 @@ EV_6_S36_break_up_creha
 0x8bed	0x06	ALTO		ANI_GUTSPOSE	
 0x8c1f	0x98	ALTO	#6A	There must be a way to save the	
 				current surface without erasing	
-				it. There has to be.
+				it. There has to be.	
 0x8c8e	0x06	NOI		ANI_WAIT	
 0x8ce7	0x98	ALTO	#6A	Let's find it together.	
 0x8d30	0x06	Creha		ANI_NOD	
@@ -341,12 +344,12 @@ EV_6_S36_break_up_creha
 0xb412	0x06	ALTO		ANI_JOY	
 0xb445	0x98	ALTO	#1W	(Wait for us, Creha.	
 				 We must..!!)	
-SB_6_S36_zext_move
-SB_6_S36_nayuta_move
+SB_6_S36_zext_move					
+SB_6_S36_nayuta_move					
 0xbbbd	0x06	ALTO		ANI_HAND_EXTENDED_RUN	
 0xbc26	0x06	ALTO		ANI_HAND_EXTENDED_RUN_END	
-EV_6_S36_break_up_cs
-EV_7_S19_use_astrolabe
+EV_6_S36_break_up_cs					
+EV_7_S19_use_astrolabe					
 0xbeb6	0x06	Creha		ANI_PUT_HAND_CONSOLE	
 0xc0aa	0x06	Signa		ANI_WAIT	
 0xc382	0x06	Creha		ANI_WAIT	
@@ -414,13 +417,13 @@ EV_7_S19_use_astrolabe
 0xd6ca	0x98	Signa		...The destruction of the surface...	
 				It's advanced too far now.	
 0xd731	0x98	Signa		Trying to restore it to normal with our	
-				existing protocols would be useless...		
+				existing protocols would be useless...	
 0xd7f3	0x06	Creha		ANI_WAIT2	
 0xd81b	0x98	Creha		...We need to run a program	
 				that goes beyond the limits	
 				of the Astrolabe's power.	
 0xd894	0x98	Creha		Afterwards, it's likely that	
-				all of the systems will stop.
+				all of the systems will stop.	
 0xd93e	0x98	Creha	#0W	The existence of Noi, contained within...	
 				...Will disappear along with it...	
 0xd9d9	0x06	ALTO		ANI_SURPRISE	
@@ -476,7 +479,7 @@ EV_7_S19_use_astrolabe
 0xea41	0x06	Noi		ANI_LAUGH	
 0xea92	0x98	Noi	#4W	Before I knew it...	
 				I loved humans.	
-0xeb09	0x98	Noi	#1W	Now that I was able to save
+0xeb09	0x98	Noi	#1W	Now that I was able to save	
 				Lady Creha and Lord Selam─	
 				no, Cygna, I have no regrets.	
 0xeb91	0x98	Creha	#2W	Noi...	mp_0005c 0x6fe1

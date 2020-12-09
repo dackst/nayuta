@@ -1,17 +1,17 @@
-mp_0110
-first_init
-init
+mp_0110					
+first_init					
+init					
 0x1c6b	0x06	Asa_b		ANI_WAKE_UP_IN_BED	
 0x1eae	0x06	Hydol		ANI_SIT1	
 0x238b	0xBC	Asa		Unknown	
-sub_get_reward
+sub_get_reward					
 0x25d3	0xC1	System		received.	mp_0000 0x12596
 0x2674	0x07	System	#3C	The number of lunch boxes you have has increased.	
 0x26b6	0x07	System	#4C	If you make a lot of meals, you can increase	
 				the number of lunch boxes you have.	
 0x2721	0x07	System	#4C	With more lunch boxes, you can carry	
 				a larger number of meals.	
-talk_Asa
+talk_Asa					
 0x2ac3	0x36	Choice		Talk	mp_0002 0x42a1
 0x2ad5	0x36	Choice		Lunch Box, Please!	
 0x2af3	0x36	Choice		Quit	mp_0002 0x433f
@@ -31,7 +31,7 @@ talk_Asa
 0x2f5a	0x06	ALTO		ANI_THANKS	
 0x2f82	0x98	ALTO		That's it... From now on, I'll	
 				be the one in charge of cooking.	
-0x2fdf	0x98	ALTO		I've been relying on you for basic
+0x2fdf	0x98	ALTO		I've been relying on you for basic	
 				things for so long, but from now on,	
 				I'll be the one doing things for you.	
 0x3064	0x06	Asa		ANI_DENY	
@@ -61,14 +61,14 @@ talk_Asa
 				I'll be happy too.	
 0x3562	0x98	Asa		Hehe, just wait a sec.	
 0x35c3	0x98	Asa		Good luck on your adventures, Nayuta.	
-talk_Asa_sub
+talk_Asa_sub					
 0x36d6	0x98	Asa		It's been a long time since I examined a	
 				star shard as good as the one from today.	
 0x373c	0x98	Asa		Even though they're not related by	
 				blood, Orvus still is Cygna's father.	
 0x379d	0x98	Asa		Heheh, I'm kinda jealous.	
 0x37ff	0x98	Asa		It's been a long time since I examined a	mp_0110 0x36d6
-				star shard as good as the one from today.
+				star shard as good as the one from today.	
 0x3865	0x98	Asa		Nayuta, please get to the bottom	
 				of this and save Cygna and Creha.	
 				Do it for Orvus, too.	
@@ -95,7 +95,7 @@ talk_Asa_sub
 0x3cab	0x98	Asa		Were you able to find Creha?	
 0x3cfa	0x98	ALTO		Yeah, we WERE able to meet her	
 				and confirm her intentions, but...	
-0x3d58	0x98	ALTO		(In the end, we got so far, but we
+0x3d58	0x98	ALTO		(In the end, we got so far, but we	
 				 weren't able to get her back...)	
 0x3dc0	0x98	ALTO		(We probably shouldn't tell	
 				 anyone about how we also saw	
@@ -117,7 +117,7 @@ talk_Asa_sub
 0x402c	0x98	NOI		Yeah!	mp_0001 0x1174e
 0x408a	0x98	Asa		If it's Nayuta and Noi on the job,	
 				I'm sure you'll be able to bring	
-				those two back.
+				those two back.	
 0x40f1	0x98	Asa		Never, ever, give up.	
 0x4133	0x98	Asa		Lyra and I will be waiting for	
 				your return with everyone.	
@@ -137,19 +137,19 @@ talk_Asa_sub
 				everyone back home safe.	
 				...I believe in you.	
 0x44aa	0x98	Asa		You should take a walk	
-				through the village together
-				for a nice change of pace.		
+				through the village together	
+				for a nice change of pace.	
 0x450e	0x98	Asa		Everyone will be delighted to	
 				learn that you've woken up.	
 0x4578	0x98	Asa		You were taken care of by	
-				lots of people, so make
+				lots of people, so make	
 				sure to thank them, okay?	
 0x4603	0x98	Asa		You should take a walk	mp_0110 0x44aa
-				through the village together
-				for a nice change of pace.
+				through the village together	
+				for a nice change of pace.	
 0x4667	0x98	Asa		You were taken care of by	mp_0110 0x4578
-				lots of people, so make
-				sure to thank them, okay?
+				lots of people, so make	
+				sure to thank them, okay?	
 0x4700	0x98	Asa		There's no way Creha would	
 				want to say goodbye this way.	
 0x4753	0x98	Asa		Even though we only spent a short amount	
@@ -158,9 +158,9 @@ talk_Asa_sub
 0x47bd	0x98	Asa		Nayuta, make sure to	
 				bring Creha back to us.	
 0x4831	0x98	Asa		There's no way Creha would	mp_0110 0x4700
-				want to say goodbye this way.
+				want to say goodbye this way.	
 0x4884	0x98	Asa		Nayuta, make sure to	mp_0110 0x47bd
-				bring Creha back to us.
+				bring Creha back to us.	
 0x48ec	0x98	Asa		Snow... Dad used to	
 				tell us about it...	
 0x494e	0x98	Asa		Maybe this is part of the abnormal	
@@ -175,7 +175,7 @@ talk_Asa_sub
 				to help me with my work.	
 				Hehe, she's such a sweet girl.	
 0x4b2f	0x98	Asa		Seems like Creha is exploring lots	mp_0110 0x49de
-				of different things in the village.
+				of different things in the village.	
 0x4b88	0x98	Asa		Sometimes she even offers	
 				to help me with my work.	
 				Hehe, she's such a sweet girl.	
@@ -184,7 +184,7 @@ talk_Asa_sub
 				for, she went out.	
 0x4c67	0x98	Asa		I think she wanted to take	
 				a walk around the village.	
-0x4cba	0x98	Asa		Hehe, if you run, you should
+0x4cba	0x98	Asa		Hehe, if you run, you should	
 				be able to catch up with her.	
 0x4d41	0x98	Asa		Creha said she wanted to	
 				try cooking, so I started	
@@ -201,7 +201,7 @@ talk_Asa_sub
 0x4f79	0x98	Asa		Heheh, anyway, let me	
 				take care of Creha.	
 0x4fbe	0x98	Asa		You should go do what	mp_0110 0x4f09
-				you need to do, Nayuta.
+				you need to do, Nayuta.	
 0x503c	0x98	Asa_b		Could you bring Creha here?	
 0x507c	0x98	Asa_b		After everything she's done for me,	
 				I want to thank her in person.	
@@ -235,12 +235,12 @@ talk_Asa_sub
 0x5709	0x98	Asa		Hehe... She's so cute, I'm more	
 				than happy to have her! ㈱	
 0x5789	0x98	Asa		Hehe, in these past four months,	
-				Lyra's cooking has improved a lot.		
+				Lyra's cooking has improved a lot.	
 0x57f0	0x98	Asa		Maybe it's about time you tried	
 				some of her cooking, Nayuta.	
 0x5851	0x6B	Lyra		Unknown	
 0x58a6	0x98	Lyra		Hey... Eartha!	
-				I told you it's still
+				I told you it's still	
 				too early for that!!	
 0x58fd	0x6B	ALTO		Question	
 0x596f	0x98	Asa		By the way... Cygna hasn't	
@@ -280,8 +280,8 @@ talk_Asa_sub
 0x609a	0x98	Asa		Well, I was in a meeting with	
 				Antlia, but I got worried about	
 				the house and slipped out.	
-0x6112	0x98	Asa		More importantly...
-				What a huge quake!
+0x6112	0x98	Asa		More importantly...	
+				What a huge quake!	
 				Are you both okay!?	
 0x6171	0x98	ALTO		Yeah, me and Cygna are fine.	
 0x61b7	0x98	ALTO		And listen to this, Eartha!	
@@ -317,7 +317,7 @@ talk_Asa_sub
 0x67b5	0x98	Asa		Hey, I would never say	
 				something like that.	
 0x6808	0x98	Asa		But... it might be a good idea to tell	
-				Mom and Dad the news of your return, too.
+				Mom and Dad the news of your return, too.	
 0x686d	0x98	Asa		If you have time, how	
 				about going to the	
 				cemetery on the cape?	
@@ -328,7 +328,7 @@ talk_Asa_sub
 				deliver that star shard that I analyzed.	
 0x69ce	0x98	Asa		So I'll be gone for a bit this morning,	
 				but I promise I'll be back to make you	
-				something delicious for lunch.
+				something delicious for lunch.	
 0x6a54	0x98	Asa		Look forward to it, Nayuta.	
 0x6a8e	0x98	ALTO		Haha, yeah. I will be.	
 0x6aee	0x98	Asa		Today, I'm meeting a merchant to deliver	
@@ -337,10 +337,10 @@ talk_Asa_sub
 				good job drawing a sketch	
 				of the scene inside.	
 0x6bc2	0x98	Asa		Hehe, I hope he likes it.	
-talk_Asa_Signa_sub
+talk_Asa_Signa_sub					
 0x6c10	0x98	Asa		...I see, you two are going off	
 				exploring somewhere again, right?	
-0x6c69	0x98	Signa		No, of course nooot! 
+0x6c69	0x98	Signa		No, of course nooot! 	
 				B-But, I mean...	
 0x6caf	0x98	Signa		Of course not, the Handyman Shop is	
 				receiving nothing but rave reviews,	
@@ -362,8 +362,8 @@ talk_Asa_Signa_sub
 0x6f4c	0x98	ALTO		(Although no one said anything about the other world,	
 				 it's not a complete lie to say we're exploring...	
 				 It won't be suspicious if I request a lunch box.)	
-talk_Signa
-0x70ba	0x98	Signa		(I just said it's for work.
+talk_Signa					
+0x70ba	0x98	Signa		(I just said it's for work.	
 				 I figured it would be better	
 				 not to lie to her too much...)	
 0x712e	0x98	Signa		(Hmm, even at our age, it's still	
@@ -371,7 +371,7 @@ talk_Signa
 0x71b6	0x98	Signa		(Anyway, I'll smooth things over so she	
 				 doesn't find out about that other world.)	
 0x7215	0x98	Signa		(I got this!)	
-talk_Dorado
+talk_Dorado					
 0x7285	0x98	Dorado		E-Eartha... Oh no, this isn't good!	
 				I can't stop imagining terrible things!	
 0x72e4	0x98	Dorado		Hey, Eartha's gonna be fine, right!?	
@@ -381,17 +381,17 @@ talk_Dorado
 0x73f4	0x98	Dorado		Please, gods... I don't care if it	
 				requires a miracle or whatever, but	
 				please, let her get better...	
-talk_Lupus
+talk_Lupus					
 0x749b	0x98	Lupus		Can't believe Eartha	
 				has Hell Fever...	
-0x74e3	0x98	Lupus		Sure, I WAS tired of peaceful
+0x74e3	0x98	Lupus		Sure, I WAS tired of peaceful	
 				life in this village, but...	
 				I never wanted something like this.	
-0x755f	0x98	Lupus		...Damn it... 
-0x75b3	0x98	Lupus		How could this
+0x755f	0x98	Lupus		...Damn it... 	
+0x75b3	0x98	Lupus		How could this	
 				happen to Eartha...?	
 0x75f3	0x98	Lupus		Damn, I've really done it this time.	
-talk_Antlia
+talk_Antlia					
 0x7660	0x98	Antlia		I can't believe Eartha has	
 				contracted Hell Fever...	
 0x76b6	0x98	Antlia		...I'm speechless.	
@@ -400,23 +400,23 @@ talk_Antlia
 				getting a hold of any will be difficult...	
 0x7794	0x98	Antlia		I'll try to put in a word with my associates,	
 				but I'm sure actually getting a hold of any	
-				will be difficult...
+				will be difficult...	
 0x782e	0x98	Antlia		...Nayuta, don't get your	
 				hopes up too much.	
-talk_Keny
+talk_Keny					
 0x78b1	0x98	Keny		Eartha... She was always so healthy.	
 				How did she end up getting sick from	
 				Hell Fever...?	
 0x792b	0x98	Keny		Anyway, everyone all hopes	
 				that Eartha will recover...	
 0x79ab	0x98	Keny		Anyway, everyone all hopes	mp_0110 0x792b
-				that Eartha will recover...
-talk_Carina
+				that Eartha will recover...	
+talk_Carina					
 0x7a31	0x98	Carina		Nayuta... I'm worried about Eartha.	
 0x7a75	0x98	Carina		I wish I could be of	
 				more help to you...	
 0x7ab8	0x98	ALTO		Thank you, Carina.	
-0x7aea	0x98	ALTO		But... I'm gonna do something
+0x7aea	0x98	ALTO		But... I'm gonna do something	
 				about Eartha's illness.	
 0x7b49	0x98	Carina		...I see. But don't be too	
 				hard on yourself, okay?	
@@ -425,8 +425,8 @@ talk_Carina
 0x7bf9	0x98	Carina		I plan to do whatever I can	
 				to visit and care for Eartha.	
 0x7c62	0x98	Carina		Nayuta... Don't be too	
-				hard on yourself, okay?		
-talk_Lyra
+				hard on yourself, okay?	
+talk_Lyra					
 0x7ccd	0x98	Lyra		Take care, you two.	
 0x7d0d	0x98	Lyra		...And Nayuta, when it's all over,	
 				we'll continue the rest of today's	
@@ -467,8 +467,8 @@ talk_Lyra
 0x83ae	0x98	Lyra		Good luck, Nayuta.	
 				Don't push yourself too hard.	
 0x83f8	0x98	Lyra		If something were to happen,	mp_0110 0x8326
-				to you, Nayuta, I think Eartha
-				would be devastated.
+				to you, Nayuta, I think Eartha	
+				would be devastated.	
 0x851a	0x06	Lyra		ANI_GOODIDEA	
 0x8544	0x98	Lyra		Oh, yeah! Wait a minute.	
 0x85b7	0x98	Lyra		Eartha told me to hang on to it	
@@ -480,12 +480,12 @@ talk_Lyra
 0x86aa	0x98	ALTO		Yeah... Thanks, Lyra.	
 0x874a	0x98	Lyra		*sniff*...It's Hell Fever...	
 				How did this happen...?	
-0x87a7	0x98	Lyra		Eartha... You're sure you
+0x87a7	0x98	Lyra		Eartha... You're sure you	
 				can save her, right?	
 0x87f3	0x98	ALTO		...Of course I can.	
 				I'll save her for sure...!	
 0x8872	0x98	Lyra		*sniff*...Eartha...	
-				How did this happen...?		
+				How did this happen...?	
 0x891c	0x98	Lyra		Jeez, where did you even	
 				find that weird resin?	
 0x896c	0x98	Lyra		Nayuta, you're gonna have to	
@@ -501,7 +501,7 @@ talk_Lyra
 				what I imagined a fairy would be like,	
 				but she's still so small and cute.	
 0x8bd5	0x98	ALTO		Haha, that's for sure. She	
-				always works so hard....
+				always works so hard....	
 0x8c27	0x98	ALTO		When I watch her,	
 				I feel like I have	
 				to do better, too.	
@@ -532,7 +532,7 @@ talk_Lyra
 				explanation.	
 0x90cc	0x98	ALTO		U-Umm, well... Sorry.	
 				I'm kinda busy...	
-0x911b	0x98	ALTO		Next time we talk, I'll
+0x911b	0x98	ALTO		Next time we talk, I'll	
 				explain it to you properly.	
 0x9171	0x98	Lyra		...Hmph, well, I guess that's fine.	
 				Anyway, are you keeping her waiting?	
@@ -545,7 +545,7 @@ talk_Lyra
 				more time with Nayuta...	
 0x930c	0x98	Lyra		Wh-Whatever!	
 				...Hmph!	
-talk_Creha
+talk_Creha					
 0x9370	0x98	Creha		Cooking...	
 				It seems difficult,	
 				but rewarding.	
@@ -553,7 +553,7 @@ talk_Creha
 				at my house all of a sudden?	
 0x942a	0x98	Creha		Yes... While I am here,	
 				I want to do what I can.	
-0x9479	0x98	Creha		I'll try visiting
+0x9479	0x98	Creha		I'll try visiting	
 				the village later...	
 0x94be	0x98	ALTO		Just don't overdo... whatever	
 				it is that you're doing.	
@@ -574,7 +574,7 @@ talk_Creha
 				the village.	
 0x9782	0x98	Creha		...I'm going to need to do	
 				a lot of looking around.	
-talk_Hydol
+talk_Hydol					
 0x980d	0x98	Hydol		Hell Fever was originally a disease	
 				said to be contracted when one	
 				approached the End of the World.	
@@ -589,15 +589,15 @@ talk_Hydol
 0x99e2	0x98	Hydol		Anyway, I'll do whatever I can to help.	
 0x9a1e	0x98	Hydol		I can't offer any reassurances, but...	
 				Nayuta, take care of yourself.	
-LP_Viewer1
+LP_Viewer1					
 0x9aaf	0x40	UNDEF		It is a star shard observation machine.	
 0x9aff	0x98	ALTO		Since Eartha uses this for	
 				work, I shouldn't just use	
 				it without permission.	
-0x9b73	0x98	ALTO		Eartha gave me her old model.
+0x9b73	0x98	ALTO		Eartha gave me her old model.	
 				If I want to look at star shards,	
 				I should use the one in my room.	
-LP_Viewer2
+LP_Viewer2					
 0x9c2c	0x40	UNDEF		It is a star shard observation machine.	mp_0110 0x9aaf
 0x9ecc	0x36	Choice		Bouquet Shard	
 0x9f08	0x36	Choice		Dusk Shard	
@@ -617,23 +617,23 @@ LP_Viewer2
 0xa8f4	0x98	ALTO		If I had star shards, I should be able	
 				to look into them with this machine.	
 				If I find any, I'll bring them here.	
-LP_benri_desk
+LP_benri_desk					
 0xa9bb	0x40	UNDEF		It is an old desk and bookshelf.	
 0xaa03	0x98	ALTO		This is a workspace for the Handyman	
 				Shop. Ha, it's been a while.	
 0xaa61	0x98	ALTO		We're restarting it after a four	
 				month break, so I'll have to get	
 				back into the swing of things.	
-LP_bottle
+LP_bottle					
 0xaaf9	0x40	UNDEF		Tiny, broken star shards are packed into a bottle.	
 0xab58	0x98	ALTO		Shards like these wash up	
 				on the beaches of Remnant	
-				Island from time to time.
+				Island from time to time.	
 0xabc4	0x98	ALTO		Broken shards don't reflect Lost Heaven,	
 				so they don't have any monetary value.	
 0xac38	0x98	ALTO		But they're still pretty to look at,	
 				so I've come to collect them.	
-quest_Asa
+quest_Asa					
 0xad1d	0x98	Asa		So the way to Noi's world is just	
 				in that garden over there...	
 0xad6b	0x98	Asa		I'm starting to get	
@@ -655,7 +655,7 @@ quest_Asa
 				by to play earlier.	
 0xb1d4	0x98	Asa		She said she wanted to play together	
 				on the roof, so I obliged and	
-				accompanied her up there.
+				accompanied her up there.	
 0xb248	0x98	Asa		But she just messed with the	
 				telescope for a bit and then	
 				left right away...	
@@ -664,24 +664,24 @@ quest_Asa
 0xb30a	0x98	ALTO		(O-Or maybe...?)	
 0xb364	0x98	Asa		Vel and I played on the roof earlier.	
 0xb3a9	0x98	Asa		But she just messed with the	mp_0110 0xb248
-				telescope for a bit and then
-				left right away...
+				telescope for a bit and then	
+				left right away...	
 0xb415	0x98	Asa		Hehe, maybe she wanted to go	mp_0110 0xb2b4
-				find some other place to play.
+				find some other place to play.	
 0xb4a9	0x98	Asa		Seems like you gave Dorado his	mp_0110 0x657a
-				lunch box. Hehe, good job.
+				lunch box. Hehe, good job.	
 0xb4fe	0x98	Asa		From now on, I'll be making	mp_0110 0x65e1
-				plenty of lunch boxes for you,
-				so look forward to it.
+				plenty of lunch boxes for you,	
+				so look forward to it.	
 0xb5bd	0x98	Asa		I'll make lunch boxes for you	
 				again, Nayuta, so please don't	
 				hesitate to call on me anytime.	
 0xb638	0x98	Asa		Hehe, your cooking skills are	
 				improving Nayuta. You may be able	
-				to make them yourself.
+				to make them yourself.	
 0xb6c1	0x98	Asa		I'll make lunch boxes for you	mp_0110 0xb5bd
-				again, Nayuta, so please don't
-				hesitate to call on me anytime.
+				again, Nayuta, so please don't	
+				hesitate to call on me anytime.	
 0xb73c	0x98	Asa		Hehe, while I'm at it, I'll	
 				teach you how to make them,	
 				so pay attention, please.	
@@ -698,22 +698,22 @@ quest_Asa
 0xb9b3	0x07	System	#4C	Talk to Eartha using the ○ button	
 				and select 'Lunch Box, Please!'	
 				then select the dish you want to make.	
-quest_Lyra
+quest_Lyra					
 0xbae1	0x98	Lyra		Huh, did you...?	
 				You actually found it!?	
 0xbb2c	0x98	Lyra		How the hell did you...	
 0xbb77	0x98	Lyra		You already knew where to find it...	
 				Just how did you know?	
-0xbbcb	0x98	Lyra		It's not like you've been
+0xbbcb	0x98	Lyra		It's not like you've been	
 				going off the island...	
-QS_58_asa_noi_talk
+QS_58_asa_noi_talk					
 0xbda7	0x06	Asa		ANI_GESTURE2	
 0xbdd0	0x98	Asa		There was this cute little animal	
 				that seemed to be bouncing around	
 				outside here earlier.	
 0xbe2d	0x06	Asa		ANI_THINK	
 0xbe53	0x98	Asa		It made a funny noise...	
-				I wonder what kind of
+				I wonder what kind of	
 				creature that was.	
 0xbebc	0x06	Asa		ANI_WAIT	
 0xbee1	0x06	NOI		ANI_THINK	
@@ -725,7 +725,7 @@ QS_58_asa_noi_talk
 0xbfb0	0x98	ALTO	#6A	Eartha, Noi, that animal!	
 				Did you see where it went!?	
 0xc006	0x06	Asa		ANI_GESTURE2	
-0xc02f	0x98	Asa		Umm, it looked like it
+0xc02f	0x98	Asa		Umm, it looked like it	
 				went towards that big	
 				tree over there, but...	
 0xc08c	0x6B	ALTO		Surprise	
@@ -740,7 +740,7 @@ QS_58_asa_noi_talk
 0xc1f3	0x98	ALTO	#6A	We have to hurry and find it...!	
 0xc234	0x98	ALTO	#6A	(Maybe it would be a good idea	
 				 to use the Astrolabe...)	
-QS_01_talk_Asa
+QS_01_talk_Asa					
 0xc491	0x98	Asa		Oh, what's wrong, Nayuta?	
 0xc4c8	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xc4f6	0x98	ALTO	#6A	Umm, I have a favor to	
@@ -762,13 +762,13 @@ QS_01_talk_Asa
 				so I agreed to do such a simple	
 				task for him.	
 0xc7f4	0x06	Asa		ANI_LAUGH	
-0xc81a	0x98	Asa		Hehe, Dorado is always
+0xc81a	0x98	Asa		Hehe, Dorado is always	
 				forgetting to make his lunch.	
 				He's pretty scatterbrained.	
 0xc882	0x6B	ALTO		Sweatdrop	
 0xc8b4	0x06	ALTO		ANI_DEJECTED	
 0xc8de	0x98	ALTO		(#6AThat Dorado...	
-				 I guess this really is all just about
+				 I guess this really is all just about	
 				 wanting to eat my sister's food.)	
 0xc958	0x06	ALTO		ANI_GESTURE2	
 0xc982	0x98	ALTO	#6A	Well, be that as it may,	
@@ -839,16 +839,16 @@ QS_01_talk_Asa
 0xd5ea	0x98	Asa		Uh-huh, it's nice to be so honest. ㈱	
 0xd62a	0x06	Asa		ANI_GESTURE2	
 0xd653	0x98	Asa		Make sure to give that lunch box to	mp_0110 0xb80b
-				Dorado while it's still warm, okay?
+				Dorado while it's still warm, okay?	
 0xd6ec	0x07	System	#4C	[Cooking] has been added	
 				to the camp menu.	
 0xd724	0x07	System	#4C	When using a lunch box, you gain experience	
-				in addition to recovering HP.
+				in addition to recovering HP.	
 0xd770	0x07	System	#4C	Furthermore, you will become able to make each	
 				lunch box that has already been made for you.	
 0xd7f3	0x07	System	#4C	Lunch boxes have been added to the submenu.	
 0xd82c	0x07	System	#4C	Open the submenu by pressing SELECT	
-				to quickly use a lunch box.
+				to quickly use a lunch box.	
 0xd8bd	0x6B	Asa		Surprise	
 0xd8ee	0x06	Asa		ANI_THINK	
 0xd914	0x98	Asa		Oh yeah... You were going to be	
@@ -857,7 +857,7 @@ QS_01_talk_Asa
 0xd992	0x98	Asa		I have to make lunch boxes for	
 				my hardworking Nayuta, too.	
 0xd9ea	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xda19	0x98	ALTO	#6A	Huh? Are you sure?
+0xda19	0x98	ALTO	#6A	Huh? Are you sure?	
 0xda55	0x98	Asa		Yes, there's even some leftover	
 				ingredients from breakfast.	
 0xdaa9	0x06	Asa		ANI_HANDOVER	
@@ -877,11 +877,11 @@ QS_01_talk_Asa
 0xdd3d	0x06	Asa		ANI_GESTURE2	
 0xdd66	0x98	Asa		Here's the ingredients again.	
 0xdf5d	0x07	System	#4C	Give the ingredients to Eartha and	mp_0110 0xb95f
-				she will make a lunch box for you.
+				she will make a lunch box for you.	
 0xdfb4	0x07	System	#4C	Talk to Eartha using the ○ button	mp_0110 0xb9b3
-				and select 'Lunch Box, Please!'
-				then select the dish you want to make.
-QS_01_cooked_LB
+				and select 'Lunch Box, Please!'	
+				then select the dish you want to make.	
+QS_01_cooked_LB					
 0xe29c	0x06	ALTO		ANI_THANKS	
 0xe2c4	0x98	ALTO	#6A	Thanks, Eartha!	
 				It looks delicious.	
@@ -893,37 +893,37 @@ QS_01_cooked_LB
 0xe3e3	0xC1	System		obtained.	mp_0000 0x7558
 0xe462	0x06	Asa		ANI_GESTURE2	
 0xe48b	0x98	Asa		It's a present from me to you.	mp_0110 0xd303
-				With this, you can easily cook
-				just about anywhere.
+				With this, you can easily cook	
+				just about anywhere.	
 0xe4f4	0x06	Asa		ANI_THINK	
 0xe51a	0x98	Asa		You wrote in your letters that it's hard	mp_0110 0xd394
-				to cook for yourself living in the dorms.
-				I think it'd be perfect for you.
+				to cook for yourself living in the dorms.	
+				I think it'd be perfect for you.	
 0xe5a3	0x06	Asa		ANI_NOD	
 0xe5c7	0x98	Asa		I'll teach you how to	mp_0110 0xd441
-				make the lunch boxes,
-				so pay attention, please.
+				make the lunch boxes,	
+				so pay attention, please.	
 0xe62d	0x06	ALTO		ANI_SCRATCH_HEAD	
-0xe65b	0x98	ALTO	#6A	Ahaha, thanks.	mp_0110 0xd4d5
+0xe65b	0x98	ALTO	#6A	Haha, thanks.	mp_0110 0xd4d5
 0xe68e	0x06	ALTO		ANI_NOD	
 0xe6b3	0x98	ALTO	#6A	Wow, this looks pretty professional...	mp_0110 0xd52d
-				Yeah, it looks like this will be an easy way to
-				practice cooking. Thanks for letting me use it.
+				Yeah, it looks like this will be an easy way to	
+				practice cooking. Thanks for letting me use it.	
 0xe74a	0x06	Asa		ANI_LAUGH	
 0xe770	0x98	Asa		Uh-huh, it's nice to be so honest. ㈱	mp_0110 0xd5ea
 0xe7ae	0x06	Asa		ANI_GESTURE2	
 0xe7d7	0x98	Asa		Make sure to give that lunch box to	mp_0110 0xb80b
-				Dorado while it's still warm, okay?
+				Dorado while it's still warm, okay?	
 0xe98d	0x07	System	#4C	[Cooking] has been added	mp_0110 0xd6ec
-				to the camp menu.
+				to the camp menu.	
 0xe9c5	0x07	System	#4C	When using a lunch box, you gain experience	mp_0110 0xd724
-				in addition to recovering HP.
+				in addition to recovering HP.	
 0xea11	0x07	System	#4C	Furthermore, you will become able to make each	mp_0110 0xd770
-				lunch box that has already been made for you.
+				lunch box that has already been made for you.	
 0xedfc	0x07	System	#4C	Lunch boxes have been added to the submenu.	mp_0110 0xd7f3
 0xee35	0x07	System	#4C	Open the submenu by pressing SELECT	mp_0110 0xd82c
-				to quickly use a lunch box.
-QS_22_quest_start
+				to quickly use a lunch box.	
+QS_22_quest_start					
 0xf2f1	0x06	Asa		ANI_THINK	
 0xf317	0x98	Asa		Phew, this is going to be a problem.	
 0xf34b	0x98	Asa		If it goes on like this,	
@@ -957,15 +957,15 @@ QS_22_quest_start
 0xf92f	0x06	ALTO		ANI_SURPRISE	
 0xf959	0x98	ALTO	#6A	Huh...!? Why is that happening?	
 0xf9a7	0x06	Asa		ANI_DENY	
-0xf9cc	0x98	Asa		That's what I don't understand...
+0xf9cc	0x98	Asa		That's what I don't understand...	
 0xfa02	0x06	Asa		ANI_GESTURE2	
 0xfa2b	0x98	Asa		I was wondering, could you help	
 				help me with the repairs?	
 0xfaa8	0x06	Asa		ANI_GESTURE2	
-0xfad1	0x98	Asa		There seems to be something wrong	mp_0110 0xf844
-				with my star shard observation machine.
+0xfad1	0x98	Asa		There seems to be something wrong with	mp_0110 0xf844
+				my star shard observation machine.	
 0xfb41	0x98	Asa		I was wondering, could you help	mp_0110 0xfa2b
-				help me with the repairs?
+				help me with the repairs?	
 0xfbb8	0x36	Choice		[Accept]	mp_0000 0xeaf5
 0xfbce	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0xfc6d	0x06	ALTO		ANI_DENY	
@@ -978,7 +978,7 @@ QS_22_quest_start
 0xfdb4	0x06	Asa		ANI_NOD	
 0xfdd8	0x98	Asa		Well, when you have time,	
 				please come talk to me again.	
-QS_22_undertake
+QS_22_undertake					
 0xffc2	0x06	ALTO		ANI_THANKS	
 0xffea	0x98	ALTO	#6A	Your work is important.	
 				Of course I'll help.	
@@ -1018,7 +1018,7 @@ QS_22_undertake
 0x10889	0x06	NOI		ANI_WAIT	
 0x108d5	0x06	ALTO		ANI_DENY	
 0x108fb	0x98	ALTO	#6A	Well, no... That's not going	
-				to happen anytime soon.
+				to happen anytime soon.	
 0x1093a	0x06	ALTO		ANI_GESTURE1	
 0x10964	0x98	ALTO	#6A	Old lenses need to be coated	
 				with a special resin, but...	
@@ -1040,7 +1040,7 @@ QS_22_undertake
 				I might have to be out	
 				of work for a while.	
 0x10c44	0x98	Asa		Though I was busy, I should have	
-				been a little more attentive.
+				been a little more attentive.	
 0x10cbc	0x06	ALTO		ANI_CHAGRINED	
 0x10ce7	0x98	ALTO	#6A	No, I'm sorry that I	
 				didn't notice either.	
@@ -1095,7 +1095,7 @@ QS_22_undertake
 0x11613	0x06	NOI		ANI_NOD	
 0x11637	0x98	NOI	#6A	We'll try to find it!	
 0x116b8	0x07	System	#3C	Quest [Work Repair] started!	
-QS_22_quest_end
+QS_22_quest_end					
 0x11a0f	0x06	Lyra		ANI_WAIT	
 0x11ac9	0x06	Asa		ANI_SURPRISE	
 0x11af2	0x98	Asa		Ah, Nayuta, have you...?	
@@ -1134,7 +1134,7 @@ QS_22_quest_end
 				it wouldn't end well...	
 0x12476	0x06	ALTO		ANI_THINK	
 0x1249d	0x98	ALTO	#6A	(...Cygna...	
-				 Hopefully I'll
+				 Hopefully I'll	
 				 find you soon.)	
 0x124e5	0x06	Asa		ANI_GOODIDEA	
 0x1250e	0x98	Asa		Hehe, thank you, Nayuta.	
@@ -1170,7 +1170,7 @@ QS_22_quest_end
 0x12c03	0x06	Asa		ANI_GESTURE1	
 0x12c2c	0x98	Asa		Hehe, this is because you two	
 				did such a fine job for me.	
-0x12c82	0x98	Asa		It's only natural for something like
+0x12c82	0x98	Asa		It's only natural for something like	
 				that to deserve compensation, right?	
 0x12cd1	0x06	Lyra		ANI_GESTURE2	
 0x12cfb	0x98	Lyra		Eartha said to, so	
@@ -1181,7 +1181,7 @@ QS_22_quest_end
 0x12dbd	0x06	NOI		ANI_NOD	
 0x12de1	0x98	NOI	#6A	I'll make good use of these.	
 0x12e4a	0x07	System	#3C	Quest [Work Repair] completed!	
-QS_81_quest_end
+QS_81_quest_end					
 0x13297	0x06	Asa		ANI_SIT1	
 0x13539	0x06	Aulbath		ANI_WAIT4	
 0x13563	0x98	Aulbath		Hmm, it has been quite some time	
@@ -1286,28 +1286,28 @@ QS_81_quest_end
 0x14c37	0x07	System	#3C	Quest [Locked Box] completed!	
 0x14ceb	0x06	ALTO		ANI_WAIT	
 0x14db2	0x06	horogram2		ANI_STOP1	
-tuto_stopper1
+tuto_stopper1					
 0x14ee7	0x98	ALTO		Whoops... I need to ask Eartha	
 				to make a lunch box now.	
-tuto_stopper2
-0x14fb8	0x98	ALTO		Better go check up on
+tuto_stopper2					
+0x14fb8	0x98	ALTO		Better go check up on	
 				my sister, at least.	
 0x15004	0x98	ALTO		She should already	
 				be feeling better.	
 0x15040	0x98	NOI		Ehehe, it's time to visit!	
 0x15082	0x98	ALTO		Whoops... I need to ask Eartha	mp_0110 0x14ee7
-				to make a lunch box now.
-tuto_stopper3
+				to make a lunch box now.	
+tuto_stopper3					
 0x15155	0x98	ALTO		Better go check up on	mp_0110 0x14fb8
-				my sister, at least.
+				my sister, at least.	
 0x151a1	0x98	ALTO		She should already	mp_0110 0x15004
-				be feeling better.
-0x151dd	0x98	NOI		Ehehe, it's a sick visit!	mp_0110 0x15040
+				be feeling better.	
+0x151dd	0x98	NOI		Ehehe, it's time to visit!	mp_0110 0x15040
 0x1521f	0x98	ALTO		Whoops... I need to ask Eartha	mp_0110 0x14ee7
-				to make a lunch box now.
-SB_0_S04_move_Asa
+				to make a lunch box now.	
+SB_0_S04_move_Asa					
 0x153aa	0x06	Asa		ANI_WAIT	
-EV_0_S04_asa_entry
+EV_0_S04_asa_entry					
 0x156cb	0x06	Asa		ANI_SIT1	
 0x157e0	0x98	Asa	#1W	Hmm... If the light hits	
 				it from this angle...	
@@ -1328,10 +1328,10 @@ EV_0_S04_asa_entry
 0x15df2	0xBC	Asa		Surprise	
 0x15e94	0x98	Asa	#0W	Ah...! Looks like he'll	
 				be home any minute now.	
-SB_0_S06_move_ALTO
-SB_0_S06_exit_Signa
+SB_0_S06_move_ALTO					
+SB_0_S06_exit_Signa					
 0x161ac	0x06	Signa		ANI_WAIT	
-EV_0_S06_breakfast
+EV_0_S06_breakfast					
 0x166d9	0x06	ALTO		ANI_STREATCH	
 0x1680d	0x06	ALTO		ANI_WAIT4	
 0x168c4	0x98	ALTO		Phew... Finally, I can take it easy.	
@@ -1342,7 +1342,7 @@ EV_0_S06_breakfast
 0x169c9	0x98	Signa	#6A	Yooo! It's been	
 				a while, Eartha!	
 0x16a22	0x98	Signa	#6A	Ooh, what's this...?	
-				Something smells delicious
+				Something smells delicious	
 				in here, like always.	
 0x16a80	0x3F	Name		Eartha's Voice	mp_0000d 0x77eb
 0x16a96	0x98	Asa		Well, if it isn't Cygna!	
@@ -1415,12 +1415,12 @@ EV_0_S06_breakfast
 0x18286	0x41	None	#0W#2E	Star shards:	
 				This is the name given to the strange	
 				crystals that fall alongside shooting stars	
-				into the waters around Remnant Island.
+				into the waters around Remnant Island.	
 				  	
 0x18352	0x41	None	#0W#2E	They have a mysterious special property.	
 				If a special machine is used to shine the	
-				seven colors of light on them, they project
-				an image of a beautiful other world.
+				seven colors of light on them, they project	
+				an image of a beautiful other world.	
 				  	
 0x18450	0x41	None	#0W#2E	People have taken to calling that world	
 				'Lost Heaven', and hold a wide array	
@@ -1447,16 +1447,16 @@ EV_0_S06_breakfast
 0x18cb5	0x06	ALTO		ANI_GESTURE1	
 0x18cdf	0x98	ALTO	#6A	In most cases, star shards project	
 				something from nature: forests,	
-				animals, the sea, or the sky.		
+				animals, the sea, or the sky.	
 0x18d5c	0x06	ALTO		ANI_THINK2	
 0x18d84	0x98	ALTO	#6A	There are some that supposedly	
 				show what appears to be ruins.	
-0x18de5	0x98	ALTO	#6A	To see an artificial structure
+0x18de5	0x98	ALTO	#6A	To see an artificial structure	
 				projected this clearly would	
 				be quite rare indeed.	
 0x18e45	0x06	ALTO		ANI_WAIT	
 0x18ed5	0x06	ALTO		ANI_THINK	
-0x18efc	0x98	ALTO		The world of Lost Heaven, 
+0x18efc	0x98	ALTO		The world of Lost Heaven, 	
 				seen only in star shards...	
 0x18f6b	0x98	ALTO		'Does this world exist?'	
 				'If so... then where is it?'	
@@ -1502,7 +1502,7 @@ EV_0_S06_breakfast
 0x19ce6	0x98	Asa		Hehe, it's fine. It's been a long	
 				time since I saw that starry-eyed	
 				face of yours, Nayuta.	
-0x19dbe	0x98	Signa		Well, to be honest, that
+0x19dbe	0x98	Signa		Well, to be honest, that	
 				scenery IS pretty awesome,	
 				so I get how you feel.	
 0x19e83	0x98	Signa		If that tower really exists,	
@@ -1542,7 +1542,7 @@ EV_0_S06_breakfast
 				then solve them and get paid...	
 				A so-called 'anything shop.'	
 0x1a8aa	0x98	Signa		I was too busy in Saint Cerise with	
-				the city guard... But since we're
+				the city guard... But since we're	
 				back, I thought...	
 0x1a962	0x98	Asa		Haha, that might be a great idea.	
 				I think everyone will be delighted.	
@@ -1593,10 +1593,10 @@ EV_0_S06_breakfast
 0x1becd	0x07	System	#4C	Help screens like this one can be found	
 				in the camp menu under 'Manual'.	
 				They can be accessed at any time.	
-SB_0_S16_alto_move
-SB_0_S16_noi_move
+SB_0_S16_alto_move					
+SB_0_S16_noi_move					
 0x1c081	0x06	NOI		ANI_WAKE_UP_FLY	
-EV_0_S16_noi_wakeup
+EV_0_S16_noi_wakeup					
 0x1c2bd	0x06	ALTO		ANI_SIT1	
 0x1c366	0x06	Signa		ANI_WAIT3	
 0x1c44d	0x06	NOI		ANI_SLEEP	
@@ -1607,7 +1607,7 @@ EV_0_S16_noi_wakeup
 				from the townsfolk...	
 0x1c6ef	0x98	Signa		We gotta be careful until	
 				we've determined just what	
-				is going on with this girl.
+				is going on with this girl.	
 0x1c752	0x98	Signa		No one would probably believe us	
 				even if we did tell them about	
 				what happened in the ruins.	
@@ -1618,7 +1618,7 @@ EV_0_S16_noi_wakeup
 				and barrage us with a bunch	
 				of questions.	
 0x1c94d	0x98	Signa		...But we can't keep her	
-				hidden away here forever.		
+				hidden away here forever.	
 0x1c9ad	0x06	Signa		ANI_WAIT2	
 0x1ca1b	0x98	Signa		What should we do now...?	
 0x1ca75	0x3F	Name		Fairy?	
@@ -1707,8 +1707,8 @@ EV_0_S16_noi_wakeup
 				the ruins and stole Noi's possession.	
 0x1e406	0xBC	NOI		Exclamation	
 0x1e43b	0x06	NOI		ANI_SURPRISE	
-0x1e489	0x98	NOI		Oh, no...
-				I-It can't be...		
+0x1e489	0x98	NOI		Oh, no...	
+				I-It can't be...	
 0x1e4ce	0x98	NOI		...Zext! I can't believe that he	
 				would pursue me all the way here...!	
 0x1e546	0x06	Signa		ANI_WAIT3	
@@ -1748,7 +1748,7 @@ EV_0_S16_noi_wakeup
 0x1ef68	0x98	ALTO		Hey, wait a minute!	
 				I still have some	
 				more questions...!	
-EV_2_S07_lecture_on_noi
+EV_2_S07_lecture_on_noi					
 0x1f18e	0x06	ALTO		ANI_SIT2	
 0x1f274	0x06	Asa		ANI_SIT1	
 0x1f314	0x06	Lyra		ANI_SIT1	
@@ -1757,7 +1757,7 @@ EV_2_S07_lecture_on_noi
 0x1f4fe	0x98	ALTO	#6A	I met Noi in that huge ruin, and she's	
 				a real-life fairy... or something.	
 0x1f55b	0x98	ALTO	#6A	It would probably cause a	
-				fright if people found out,
+				fright if people found out,	
 				so I didn't tell anyone.	
 0x1f5bb	0xBC	Asa		Ellipsis	
 0x1f5f8	0xBC	Lyra		Ellipsis	
@@ -1815,10 +1815,10 @@ EV_2_S07_lecture_on_noi
 				Eartha's gentle, yet pushy invitations and agreed.	
 0x20233	0x40	UNDEF		And then... Noi and Nayuta decided to return to Terra.	
 0x202be	0x06	ALTO		ANI_WAIT	
-EV_2_S09_disease_symptom
+EV_2_S09_disease_symptom					
 0x205da	0x06	Lyra		ANI_DEJECTED	
-0x20604	0x98	Lyra		...Ooh, I can't believe
-				that busybody Nayuta!
+0x20604	0x98	Lyra		...Ooh, I can't believe	
+				that busybody Nayuta!	
 0x2064d	0x98	Lyra		A dog or cat would be fine,	
 				but to think he's taken in	
 				some kind of fairy...	
@@ -1830,7 +1830,7 @@ EV_2_S09_disease_symptom
 0x207a6	0x06	Asa		ANI_WAIT3	
 0x207cc	0x98	Asa		Who knows, maybe next time you	
 				meet he'll be snatched up by an	
-				elf or angel or something?
+				elf or angel or something?	
 0x2082a	0x6B	Lyra		Unknown	
 0x20894	0x06	Lyra		ANI_COMPLAIN	
 0x208be	0x98	Lyra	#6A	H-Hey, wait...	
@@ -1857,7 +1857,7 @@ EV_2_S09_disease_symptom
 0x20c6a	0x06	Lyra		ANI_SURPRISE	
 0x20ca8	0x98	Lyra	#6A#16S	A-Aaah!	
 				#16SI totally forgot!	
-EV_2_S32_fall_down_asa
+EV_2_S32_fall_down_asa					
 0x21052	0x06	Asa		ANI_SLEEP2	
 0x210fe	0x98	ALTO	#1W	I'm back─	
 0x21135	0x6B	ALTO		Exclamation	
@@ -1874,8 +1874,8 @@ EV_2_S32_fall_down_asa
 0x216de	0x98	ALTO	#2W#6A	Th-This can't be... Why...?	
 0x2173e	0x98	ALTO	#1W#6A#16S	Please wake up, Eartha!!	
 0x217c6	0x98	ALTO	#1W#6A#18S#20M	...Earthaaaaaa!	
-EV_3_S00_detect_disease
-0x21a98	0x40	UNDEF		Afterwards, Dr. Hydrol, who was currently visiting
+EV_3_S00_detect_disease					
+0x21a98	0x40	UNDEF		Afterwards, Dr. Hydrol, who was currently visiting	
 				the island, was rushed to the Herschel household.	
 0x21b06	0x40	UNDEF		He gave Eartha the proper treatment, but...	
 0x21b4b	0x40	UNDEF		She remained in an unconscious state,	
@@ -1889,13 +1889,13 @@ EV_3_S00_detect_disease
 0x22041	0x06	Hydol		ANI_WAIT3	
 0x22069	0x98	Hydol		It's the name of a mysterious disease	
 				that has appeared in northern regions	
-				of the continent for some time.
+				of the continent for some time.	
 0x220f3	0x98	Hydol		The general symptoms include an	
 				unusual physical and mental frailty,	
-				and slower recovery from wounds. 
+				and slower recovery from wounds. 	
 0x2216f	0x98	Hydol		It's a terrible disease. Eventually,	
 				patients become unable to maintain	
-				consciousness, and soon after, die.		
+				consciousness, and soon after, die.	
 0x221ee	0x98	Hydol		Outbreaks of the disease have	
 				mostly been reported in places	
 				near the End of the World...	
@@ -1909,7 +1909,7 @@ EV_3_S00_detect_disease
 				Your sister, Eartha...	
 0x22419	0x98	Hydol		She's suffering from Hell Fever.	
 0x22472	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x224bf	0x98	ALTO	#6A#18S	!!!!	mp_0101b 0x3636
+0x224bf	0x98	ALTO	#6A#18S	！！！！	mp_0101b 0x3636
 0x224f2	0x98	ALTO	#1W#6A	Wha... What did you say...?	
 0x2253d	0x06	ALTO		ANI_DENY	
 0x22581	0x98	ALTO	#0W#6A	There's no way that can be right...	
@@ -1926,9 +1926,9 @@ EV_3_S00_detect_disease
 				you say anything!?	
 0x22af5	0x98	Asa_b	#1W#12S#6A#170x#220y	I'm sorry...	
 0x22b4b	0x98	Asa_b	#2W#12S#6A#170x#220y	It was just after...	
-				#12S...After you left for the Academy.
-0x22bd0	0x98	Asa_b	#3W#12S#6A#170x#220y	I didn't want... you to put your
-				#12Sdream on hold because of me...
+				#12S...After you left for the Academy.	
+0x22bd0	0x98	Asa_b	#3W#12S#6A#170x#220y	I didn't want... you to put your	
+				#12Sdream on hold because of me...	
 0x22c4c	0x98	Asa_b	#3W#12S#6A#170x#220y	...I'm really sorry...	
 0x22ccf	0x06	ALTO		ANI_FIND	
 0x22d17	0x98	ALTO	#16S	E-Eartha!!	
@@ -1952,7 +1952,7 @@ EV_3_S00_detect_disease
 0x232ee	0xBC	Hydol		Ellipsis	
 0x2332d	0x06	Hydol		ANI_DENY	
 0x23354	0x98	Hydol		This is a hard thing to say, but...	
-				I don't think she has much time left.
+				I don't think she has much time left.	
 0x233ab	0x98	Hydol		...A month at most...	
 0x233f2	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x23435	0x98	ALTO	#1W#6A#16S	...!!	
@@ -1973,7 +1973,7 @@ EV_3_S00_detect_disease
 0x23b1f	0x06	Lyra		ANI_DULL	
 0x23b89	0x98	Lyra	#0W	...S-Sorry.	
 				I overheard part of	
-				your conversation...
+				your conversation...	
 0x23c1e	0x98	Lyra	#1W	Hey, Nayuta...	
 				Is Eartha... going to be okay?	
 0x23c68	0x06	Lyra		ANI_COMPLAIN	
@@ -1981,14 +1981,14 @@ EV_3_S00_detect_disease
 				or anything... right!?	
 0x23ce3	0x06	ALTO		ANI_NOD	
 0x23d2e	0x98	ALTO	#6A	...Don't worry, she'll be fine.	
-0x23d6e	0x98	ALTO	#6A	Eartha, I'll...
+0x23d6e	0x98	ALTO	#6A	Eartha, I'll...	
 				I'll save her...!	
 0x23eec	0x06	Lyra		ANI_WAIT2	
 0x23f1b	0x98	Lyra	#0W	Nayuta...	mp_0000d 0x7671
-SB_3_S00_hydol_move
-SB_3_S00_nayuta_move
-SB_3_S00_nayuta_move2
-EV_3_S22_recovery_asa
+SB_3_S00_hydol_move					
+SB_3_S00_nayuta_move					
+SB_3_S00_nayuta_move2					
+EV_3_S22_recovery_asa					
 0x2452c	0x06	Asa_b		ANI_SLEEP_IN_BED	
 0x2464d	0x06	ALTO		ANI_SIT1	
 0x248fb	0x98	Asa_b	#6A#6W	...Mmm...	
@@ -2040,7 +2040,7 @@ EV_3_S22_recovery_asa
 0x25786	0x98	ALTO	#2W#6A	I... I... I was really	
 				worried, you know!?	
 0x2590f	0x98	Asa_b	#1W#300x#0y	I'm sorry. I didn't mean	
-				to worry you so much...
+				to worry you so much...	
 0x25997	0x98	Asa_b	#1W#300x#0y	Thanks, Nayuta...	
 0x259ed	0x98	ALTO	#1W#6A	Eartha...	mp_0000d 0x7b80
 0x25b51	0x98	Lyra	#0W#6A	*sniff* What a relief...	
@@ -2103,7 +2103,7 @@ EV_3_S22_recovery_asa
 0x2741e	0x06	ALTO		ANI_THANKS	
 0x27446	0x98	ALTO		...That's right, I have	
 				to thank you again, Lyra.	
-0x274a5	0x98	ALTO		You've been coming to help 
+0x274a5	0x98	ALTO		You've been coming to help 	
 				me out ever since Eartha...	
 				You really saved me.	
 0x2750d	0x6B	Lyra		Unknown	
@@ -2203,16 +2203,16 @@ EV_3_S22_recovery_asa
 0x28f0c	0x06	ALTO		ANI_WAIT	
 0x28f32	0x06	NOI		ANI_WAIT	
 0x29045	0xCE	Objective		Let's go check up on Eartha.	
-SB_3_S22_hydol_move
-SB_3_S22_hydol_move2
-SB_3_S22_alto_move
-SB_3_S22_lyra_move
-SB_3_S22_lyra_move2
+SB_3_S22_hydol_move					
+SB_3_S22_hydol_move2					
+SB_3_S22_alto_move					
+SB_3_S22_lyra_move					
+SB_3_S22_lyra_move2					
 0x29421	0x06	Lyra		ANI_WAIT	
 0x29489	0x06	Lyra		ANI_DEJECTED	
-SB_3_S22_noi_move
+SB_3_S22_noi_move					
 0x2959c	0x6B	NOI		Unknown	
-EV_3_S23_confide_asa
+EV_3_S23_confide_asa					
 0x297b9	0x06	Asa_b		ANI_WAKE_UP_IN_BED	
 0x298bd	0x06	ALTO		ANI_GESTURE2	
 0x298e7	0x98	ALTO	#6A	Eartha, how are you feeling?	
@@ -2279,11 +2279,11 @@ EV_3_S23_confide_asa
 0x2a9b2	0x98	Asa_b		...Nayuta, you've always been obsessed	
 				with Lost Heaven, haven't you?	
 0x2aa15	0x98	Asa_b		Ever since Mom and Dad died	
-				searching for that world...		
+				searching for that world...	
 0x2aa87	0x06	ALTO		ANI_SIT1_NOD	
 0x2aab1	0x98	ALTO	#6A	...Yeah.	
 0x2aadc	0x98	ALTO	#6A	What kind of place were	
-				they searching for...?		
+				they searching for...?	
 0x2ab42	0x98	ALTO	#6A	I've always wanted to find out.	
 0x2abfa	0x98	Asa_b		...I can't deny that I've	
 				also thought the same thing.	
@@ -2297,7 +2297,7 @@ EV_3_S23_confide_asa
 				that world with Noi from now on?	
 0x2adf8	0x98	NOI	#6A	Eartha...	mp_0000d 0x7b80
 0x2ae23	0x6B	ALTO		Ellipsis	
-0x2ae55	0x98	ALTO	#6A	Certainly, in the beginning, it
+0x2ae55	0x98	ALTO	#6A	Certainly, in the beginning, it	
 				was more about wanting to see	
 				that world over anything else.	
 0x2aec4	0x98	ALTO	#6A	But now, it's not just about my curiosity.	
@@ -2339,9 +2339,9 @@ EV_3_S23_confide_asa
 0x2b89c	0x98	NOI	#6A	Yeah, got it.	mp_0000 0x7d86
 0x2b950	0x06	ALTO		ANI_WAIT	
 0x2ba19	0xCE	Objective		Seems like Eartha wants to say thanks. Let's go tell Creha.	
-SB_3_S27_asa_move
+SB_3_S27_asa_move					
 0x2baf9	0x06	Asa		ANI_WAIT2	
-EV_3_S27_bring_creha
+EV_3_S27_bring_creha					
 0x2bf07	0x98	ALTO	#1W	I'm back, Eartha.	
 				I brought Creha.	
 0x2c010	0x6B	Asa		Surprise	
@@ -2399,7 +2399,7 @@ EV_3_S27_bring_creha
 0x2cfae	0x98	Creha		And you even went out of your	
 				way to invite me here...	
 0x2d04d	0x98	NOI		Lady Creha...	
-0x2d084	0x98	ALTO	#6A	You don't have to...
+0x2d084	0x98	ALTO	#6A	You don't have to...	
 0x2d0bc	0x98	Asa	#6A	...Creha, I heard you've had some	
 				trouble and lost your memory.	
 0x2d10a	0x98	Asa	#6A	However, you probably don't need	
@@ -2407,13 +2407,13 @@ EV_3_S27_bring_creha
 0x2d1af	0x98	Creha		Huh...?	mp_0001 0x166ea
 0x2d1de	0x06	Asa		ANI_SIT1_GESTURE1	
 0x2d20c	0x98	Asa	#6A	'Who am I?'...	
-				No one knows the answer to
+				No one knows the answer to	
 				that question at first.	
-0x2d25f	0x98	Asa	#6A	I think the answer is just something
+0x2d25f	0x98	Asa	#6A	I think the answer is just something	
 				that you build up as you go through	
 				life little by little...	
 0x2d2bd	0x98	Asa	#6A	And at the same time, it's	
-				always changing as you interact					
+				always changing as you interact	
 				with the people around you.	
 0x2d32a	0x98	Creha	#0W	It's always changing...	
 0x2d36f	0x06	Asa		ANI_SIT1_NOD	
@@ -2460,16 +2460,16 @@ EV_3_S27_bring_creha
 0x2db79	0x06	Asa		ANI_SIT1_LAUGH	
 0x2dba4	0x98	Asa	#6A	Hehe, it's like I made a new little	
 				sister. This is going to be fun!	
-0x2dc18	0x98	Asa	#6A	Then welcome, at least for 
+0x2dc18	0x98	Asa	#6A	Then welcome, at least for 	
 				a little while, Creha! ♪ 	
 0x2dc74	0x06	Creha		ANI_SIT1_NOD	
 0x2dc9f	0x98	Creha		...*gulp*	
 0x2dcd3	0x98	ALTO	#6A	(H-Haha... Of course she'd	
 				 give in. She's powerless	
 				 against my sister.)	
-SB_4_S12_appear_ALTO
-SB_4_S12_appear_NOI
-EV_4_S12_ask_asa
+SB_4_S12_appear_ALTO					
+SB_4_S12_appear_NOI					
+EV_4_S12_ask_asa					
 0x2dfaa	0x06	Asa		ANI_WAIT3_2	
 0x2e130	0x98	Asa		Hmm hmm hmm～.... ♪	
 				I wonder what would be	
@@ -2525,11 +2525,11 @@ EV_4_S12_ask_asa
 				for dinner for me, please! ♪	
 0x2ed8e	0x06	ALTO		ANI_THANKS	
 0x2edb6	0x98	ALTO		O-Okay.	mp_0110 0x2b795
-SB_6_S00_appear_NOI
-SB_6_S00_appear_Asa
-SB_6_S00_exit_ALTO
-SB_6_S00_exit_NOI
-EV_6_S00_wakeup_nayuta
+SB_6_S00_appear_NOI					
+SB_6_S00_appear_Asa					
+SB_6_S00_exit_ALTO					
+SB_6_S00_exit_NOI					
+EV_6_S00_wakeup_nayuta					
 0x2f624	0x06	ALTO_pj		ANI_SLEEP_IN_BED	
 0x2f806	0x41	None	#0W#2E	Several days later...#0E	
 0xFFFFF	0x3F	Name		 	
@@ -2591,7 +2591,7 @@ EV_6_S00_wakeup_nayuta
 0x31715	0x06	Asa		ANI_WAIT	
 0x31894	0x98	NOI	#6A	W-Wait, Nayuta!	
 0x319af	0x6B	Asa		Ellipsis	
-EV_6_S02_state_order
+EV_6_S02_state_order					
 0x31c1f	0x06	ALTO_pj		ANI_SIT2	
 0x31d45	0x06	Asa		ANI_SIT1	
 0x31f22	0x98	Asa		...Well, Nayuta?	
@@ -2600,7 +2600,7 @@ EV_6_S02_state_order
 0x31f94	0x06	ALTO_pj		ANI_SIT2_NOD	
 0x31fc1	0x98	ALTO_pj	#6A	...Sorry for worrying you, Eartha.	
 0x32011	0x06	ALTO_pj		ANI_SIT2_GESTURE2	
-0x32043	0x98	ALTO_pj	#6A	...Looks like a lot has been
+0x32043	0x98	ALTO_pj	#6A	...Looks like a lot has been	
 				happening at the village, too.	
 0x320a6	0x06	Asa		ANI_SIT1_GESTURE1	
 0x320d4	0x98	Asa		...A few days before you and Noi	
@@ -2610,7 +2610,7 @@ EV_6_S02_state_order
 0x32199	0x98	Asa		Looking back, that was	
 				only just the beginning.	
 0x32259	0x40	Asa		One of the twin moons started to break apart, and this	
-				creepy-looking thing emerged.
+				creepy-looking thing emerged.	
 0x322b5	0x40	Asa		And then a downpour of rubble started	
 				falling out of the sky.	
 0x32310	0x40	Asa		I was shocked to hear from Noi that that moon is Terra...	
@@ -2651,7 +2651,7 @@ EV_6_S02_state_order
 0x32aa5	0x98	ALTO_pj	#6A	Huh...?	
 0x32ad1	0x06	NOI		ANI_THINK	
 0x32af7	0x98	NOI		A walk...?	
-0x32b39	0x98	Asa	#6A	It's depressing to be stuck
+0x32b39	0x98	Asa	#6A	It's depressing to be stuck	
 				staying inside the house.	
 0x32b8e	0x06	NOI		ANI_WAIT	
 0x32bd3	0x98	Asa		Plus, I think everyone in	
@@ -2676,7 +2676,7 @@ EV_6_S02_state_order
 				and get dressed then.	
 0x32f3a	0x98	Asa		Say hi to everyone in the	
 				village for me, okay?	
-EV_6_S14_talk_asa
+EV_6_S14_talk_asa					
 0x332e5	0x06	Asa		ANI_NOD	
 0x33309	0x98	Asa		Oh... That's good.	
 0x3333c	0x06	Asa		ANI_LAUGH	
@@ -2703,7 +2703,7 @@ EV_6_S14_talk_asa
 0x33755	0x98	NOI	#6A	Yeah...! And connect that	
 				transfer gate to Terra!	
 0x3392e	0xCE	Objective		We've gotta stop those two. Let's get ready and see Master!	
-EV_8_S01_breakfast
+EV_8_S01_breakfast					
 0x33a5e	0x06	ALTO		ANI_SIT2	
 0x33b00	0x06	Asa		ANI_SIT1	
 0x33cca	0x98	ALTO	#6A	Phew... Thanks for the food.	
@@ -2721,10 +2721,10 @@ EV_8_S01_breakfast
 0x33f05	0x98	Asa		A one-man Handyman Shop, huh?	
 0x33f7c	0x98	Asa		If you're too busy and struggling,	
 				you don't have to push yourself to	
-				keep doing it, okay?
+				keep doing it, okay?	
 0x33feb	0x06	ALTO		ANI_SIT2_DENY	
 0x34016	0x98	ALTO	#6A	No, actually, I think I still want	
-				to keep it going while I'm here.
+				to keep it going while I'm here.	
 0x34080	0x98	ALTO	#6A	This shop is the biggest mark that Cygna	
 				left behind on Remnant Island...	
 0x340e7	0x98	Asa		...I see. I'll make	
@@ -2754,20 +2754,20 @@ EV_8_S01_breakfast
 				have a good time.	
 0x34704	0x06	Asa		ANI_WAIT	
 0x347bf	0xCE	Objective		It seems Lyra wants something. Let's go to the cape.	
-EV_8_S04_talk_noi
+EV_8_S04_talk_noi					
 0x34970	0x06	ALTO		ANI_SIT1	
 0x34a12	0x06	NOI		ANI_WAKE_UP	
 0x34b7c	0x40	UNDEF		Nayuta and Lyra brought Noi to the	
 				Herschels' house in order to care for her.	
 0x34be5	0x40	UNDEF		The islanders were thrilled	
-				when they noticed Noi, but...
+				when they noticed Noi, but...	
 0x34c44	0x40	UNDEF		When they learned that Noi needed treatment,	
 				they were worried, but left it to Nayuta and Lyra.	
 0x34cd2	0x40	UNDEF		And then...	
 0x34d51	0x98	ALTO		...So, you really don't	
 				remember anything?	
 0x34dad	0x98	NOI	#6A	...Or rather, I do not know any	
-				of you, to be more precise.
+				of you, to be more precise.	
 0x34e1f	0x98	NOI	#6A	I was just born	
 				as a new warden...	
 0x34e64	0x98	NOI	#6A	Though I may look the same, I'm	
@@ -2786,7 +2786,7 @@ EV_8_S04_talk_noi
 0x350ae	0x98	Lyra		Yes, Eartha's right.	
 0x350ef	0x06	Lyra		ANI_GESTURE1	
 0x35119	0x98	Lyra		Well, since you came all the way here,	
-				maybe you should relax for a while?
+				maybe you should relax for a while?	
 0x35199	0x98	NOI	#6A	Uh, umm, that's not why...	
 0x351d7	0x98	NOI	#6A	To tell you the truth, I came	
 				here to this 'Remnant Island'	
@@ -2812,7 +2812,7 @@ EV_8_S04_talk_noi
 0x356a7	0x06	Lyra		ANI_GESTURE2	
 0x356d1	0x98	Lyra		Uh, I'm his childhood friend, Lyra...	
 0x35717	0x06	Lyra		ANI_COMPLAIN	
-0x35741	0x98	Lyra		But forget about that, you said you
+0x35741	0x98	Lyra		But forget about that, you said you	
 				wanted to take Nayuta to Terra...!?	
 0x357ce	0x98	NOI	#6A	...The truth is, troubling	
 				things are happening in	
@@ -2839,7 +2839,7 @@ EV_8_S04_talk_noi
 0x35c23	0x98	Asa		A voice...?	
 0x35c6b	0x98	NOI	#6A	I do not know whose...	
 0x35ca9	0x98	NOI	#6A	All I know for sure is	
-				that the voice guided me
+				that the voice guided me	
 				to go to the surface...	
 0x35d30	0x98	NOI	#6A	'Bring Mr. Nayuta here, 	
 				and Lady Creha and Lord	
@@ -2892,5 +2892,5 @@ EV_8_S04_talk_noi
 0x36880	0x98	ALTO		Yeah, got it.	mp_0000 0x7d86
 0x368ad	0x06	ALTO		ANI_JOY	
 0x368d2	0x98	ALTO		Well... I'm off!	
-SB_8_S04_move_ALTO
-SB_8_S04_move_NOI
+SB_8_S04_move_ALTO					
+SB_8_S04_move_NOI					

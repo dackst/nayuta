@@ -1,18 +1,18 @@
-mp_6100d
-init
-stp_back
+mp_6100d					
+init					
+stp_back					
 0x380	0x98	ALTO		Let's try going as high up as we can.	
 				Gotta check on the village!	
-SB_4_S35_appear_ALTO
-SB_4_S35_appear_Creha
-SB_4_S35_appear_Seram
-SB_4_S35_exit_Seram
-SB_4_S35_exit_Creha
-EV_4_S35_byebye_creha
+SB_4_S35_appear_ALTO					
+SB_4_S35_appear_Creha					
+SB_4_S35_appear_Seram					
+SB_4_S35_exit_Seram					
+SB_4_S35_exit_Creha					
+EV_4_S35_byebye_creha					
 0xe57	0x06	ALTO		ANI_NOD	
 0xe9a	0x98	ALTO		All right, we made it...	
 0xf86	0x06	ALTO		ANI_LOOK_AROUND	
-0xfd1	0x98	ALTO		Anyway, here would be
+0xfd1	0x98	ALTO		Anyway, here would be	
 				a good place to see	
 				how the village looks...	
 0x106b	0x06	Creha		ANI_NOD	
@@ -90,7 +90,7 @@ EV_4_S35_byebye_creha
 				all of a sudden!?	
 0x3844	0x98	Creha	#0W	...I'm sorry.	mp_0110 0x2cf25
 0x3875	0x98	Creha	#0W	I remembered.	
-				The mission.
+				The mission.	
 				My duty...	
 0x38e5	0x98	Creha	#0W	Our destiny does not	
 				lie with the humans.	
@@ -118,4 +118,4 @@ EV_4_S35_byebye_creha
 0x43a6	0x06	ALTO		ANI_HAND_EXTENDED_RUN_END	
 0x44f3	0x98	ALTO	#3W	............	mp_0001 0x15fd5
 0x4592	0x98	ALTO	#3W	...Why...?	
-EV_4_S35_bye_creha_cs
+EV_4_S35_bye_creha_cs					

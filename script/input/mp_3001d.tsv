@@ -1,37 +1,37 @@
-mp_3001d
-init
-ev_goal
-close_door1_2
+mp_3001d					
+init					
+ev_goal					
+close_door1_2					
 0x768	0x06	mahouzin		ANI_STOP2	
 0x7a9	0x6B	ALTO		Exclamation	
-dead_EV01
-open_door1_2
+dead_EV01					
+open_door1_2					
 0xd52	0x07	System	#3C	Defeated high-rank monster [Guilloche]!	
 0xe11	0x06	NOI		ANI_TAMEATK1	
 0xe74	0x07	System	#1C	Noi recovered the winter magic, #4C『#769IIcicle Spear』#1C!	
 0xf03	0xC1	System		obtained.	mp_0000 0x7558
-Frost01
-Frost01_Cmd
+Frost01					
+Frost01_Cmd					
 0x10df	0x06	ob_309_01		ANI_LEVER_ON	
 0x111e	0x06	ob_309_01		ANI_LEVER_OFF	
-Frost02
-Frost02_Cmd
+Frost02					
+Frost02_Cmd					
 0x11e8	0x06	ob_309_02		ANI_LEVER_ON	
 0x1227	0x06	ob_309_02		ANI_LEVER_OFF	
-Frost03
-Frost03_Cmd
+Frost03					
+Frost03_Cmd					
 0x12f1	0x06	ob_309_03		ANI_LEVER_ON	
 0x1330	0x06	ob_309_03		ANI_LEVER_OFF	
-Frost04
-Frost04_Cmd
+Frost04					
+Frost04_Cmd					
 0x13fa	0x06	ob_309_04		ANI_LEVER_ON	
 0x1439	0x06	ob_309_04		ANI_LEVER_OFF	
-Frost05
-Frost05_Cmd
+Frost05					
+Frost05_Cmd					
 0x1503	0x06	ob_309_05		ANI_LEVER_ON	
 0x1542	0x06	ob_309_05		ANI_LEVER_OFF	
-ice01
-ice01_Cmd
+ice01					
+ice01_Cmd					
 0x16c9	0x06	ob_309_01		ANI_10	
 0x1738	0x06	ob_309_01		ANI_20	
 0x17a7	0x06	ob_309_01		ANI_30	
@@ -42,8 +42,8 @@ ice01_Cmd
 0x19d2	0x06	ob_309_01		ANI_80	
 0x1a41	0x06	ob_309_01		ANI_90	
 0x1ab0	0x06	ob_309_01		ANI_100	
-ice02
-ice02_Cmd
+ice02					
+ice02_Cmd					
 0x1c3b	0x06	ob_309_02		ANI_10	
 0x1caa	0x06	ob_309_02		ANI_20	
 0x1d19	0x06	ob_309_02		ANI_30	
@@ -54,8 +54,8 @@ ice02_Cmd
 0x1f44	0x06	ob_309_02		ANI_80	
 0x1fb3	0x06	ob_309_02		ANI_90	
 0x2022	0x06	ob_309_02		ANI_100	
-ice03
-ice03_Cmd
+ice03					
+ice03_Cmd					
 0x21ad	0x06	ob_309_03		ANI_10	
 0x221c	0x06	ob_309_03		ANI_20	
 0x228b	0x06	ob_309_03		ANI_30	
@@ -66,8 +66,8 @@ ice03_Cmd
 0x24b6	0x06	ob_309_03		ANI_80	
 0x2525	0x06	ob_309_03		ANI_90	
 0x2594	0x06	ob_309_03		ANI_100	
-ice04
-ice04_Cmd
+ice04					
+ice04_Cmd					
 0x271f	0x06	ob_309_04		ANI_10	
 0x278e	0x06	ob_309_04		ANI_20	
 0x27fd	0x06	ob_309_04		ANI_30	
@@ -78,8 +78,8 @@ ice04_Cmd
 0x2a28	0x06	ob_309_04		ANI_80	
 0x2a97	0x06	ob_309_04		ANI_90	
 0x2b06	0x06	ob_309_04		ANI_100	
-ice05
-ice05_Cmd
+ice05					
+ice05_Cmd					
 0x2c91	0x06	ob_309_05		ANI_10	
 0x2d00	0x06	ob_309_05		ANI_20	
 0x2d6f	0x06	ob_309_05		ANI_30	
@@ -90,11 +90,11 @@ ice05_Cmd
 0x2f9a	0x06	ob_309_05		ANI_80	
 0x3009	0x06	ob_309_05		ANI_90	
 0x3078	0x06	ob_309_05		ANI_100	
-SB_3_S10_appear_ALTO
+SB_3_S10_appear_ALTO					
 0x3198	0x6B	ALTO		Exclamation	
-SB_3_S10_appear_NOI
+SB_3_S10_appear_NOI					
 0x32ca	0x6B	NOI		Exclamation	
-EV_3_S10_mount2_start
+EV_3_S10_mount2_start					
 0x34bf	0x06	st		ANI_PATA2	
 0x3683	0x06	ALTO		ANI_SIT6	
 0x36a9	0x98	ALTO	#290x#120y	It's a chasm!	

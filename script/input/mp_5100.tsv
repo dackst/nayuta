@@ -1,8 +1,8 @@
-mp_5100
-init
-SB_5_S03_appear_ALTO
-SB_5_S03_appear_NOI
-EV_5_S03_arrive_tower
+mp_5100					
+init					
+SB_5_S03_appear_ALTO					
+SB_5_S03_appear_NOI					
+EV_5_S03_arrive_tower					
 0x86f	0x06	ALTO		ANI_THINK2	
 0x897	0x98	ALTO	#0W	...Something is emerging under	
 				each of the continents!?	
@@ -40,13 +40,13 @@ EV_5_S03_arrive_tower
 0x131c	0x98	ALTO		And they've all gathered there? 	
 0x1370	0x06	ALTO		ANI_GESTURE2	
 0x139a	0x98	ALTO		We should hurry.	
-SB_5_S04_look_ALTO
+SB_5_S04_look_ALTO					
 0x1465	0x6B	ALTO		Surprise	
 0x14d9	0x06	ALTO		ANI_LOOK_AROUND	
-SB_5_S04_look_NOI
+SB_5_S04_look_NOI					
 0x1508	0x6B	NOI		Surprise	
 0x1578	0x06	NOI		ANI_LOOK_AROUND	
-EV_5_S04_hear_many_voice
+EV_5_S04_hear_many_voice					
 0x15ae	0x06	ALTO		ANI_WAIT	
 0x15d4	0x06	NOI		ANI_WAIT	
 0x167d	0x98	ALTO		...But what about this wall?	
@@ -79,7 +79,7 @@ EV_5_S04_hear_many_voice
 				to free Nemeas yet.	
 0x1ffe	0x98	NOI	#6A	Nemeas is referred	
 				to as a Sage, even	
-				among the wardens.		
+				among the wardens.	
 0x2057	0x06	NOI		ANI_GUTSPOSE	
 0x2080	0x98	NOI	#6A	Maybe she knows	
 				of a way...!	
@@ -101,13 +101,13 @@ EV_5_S04_hear_many_voice
 				We'll take	
 				care of this!	
 0x260a	0x07	System	#3C	The spring of Origin Continent	
-				La Worg has been unlocked.
+				La Worg has been unlocked.	
 0x2695	0x07	System	#3C	The summer of Origin Continent	
 				La Worg has been unlocked.	
 0x27a0	0x07	System	#3C	The winter of Origin Continent	
 				La Worg has been unlocked..	
 0x29ca	0xCE	Objective		Let's help Nemeas during the spring of the Origin Continent!	
-EV_5_S05_hear_neme_voice
+EV_5_S05_hear_neme_voice					
 0x2a9b	0x06	ALTO		ANI_WAIT	
 0x2ac1	0x06	NOI		ANI_WAIT	
 0x2b70	0x41	None	#0W#2E#710c	...You two, can you hear me...?#0E	
@@ -140,8 +140,8 @@ EV_5_S05_hear_neme_voice
 0x3317	0x41	None	#0W#2E#310c	Then, we will let you	
 				handle that task.#0E	
 0x339e	0x41	None	#0W#2E#310c	We will try searching for a way to	mp_5100 0x2334
-				stop the flow of the astral power
-				from our temples to the tower.#0E
+				stop the flow of the astral power	
+				from our temples to the tower.#0E	
 0x3466	0x41	None	#0W#2E#029c	Please look after Lady Creha	
 				for us, you two!#0E	
 0x34ff	0x06	NOI		ANI_NOD	
@@ -150,9 +150,9 @@ EV_5_S05_hear_neme_voice
 0x3562	0x41	None	#0W#2E#710c	May you both be	
 				guided by the stars...#0E	
 0x370a	0x07	System	#3C	The spring of Origin Continent	mp_5100 0x260a
-				La Worg has been unlocked.
+				La Worg has been unlocked.	
 0x378d	0x07	System	#3C	The summer of Origin Continent	mp_5100 0x2695
-				La Worg has been unlocked.
+				La Worg has been unlocked.	
 0x3890	0x07	System	#3C	The winter of Origin Continent	mp_5100 0x27a0
-				La Worg has been unlocked..
+				La Worg has been unlocked..	
 0x3ab2	0xCE	Objective		Creha's in Heliograd... I have to find out her true motives!	

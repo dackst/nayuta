@@ -1,21 +1,21 @@
-mp_0100b
-init
-EV_6_S35_bombard_earth
+mp_0100b					
+init					
+EV_6_S35_bombard_earth					
 0x766	0x06	Creha2		ANI_GRASP_CLOTH	
 0xcee	0x06	ALTO		ANI_FIND	
 0xd14	0x98	ALTO	#1W#6A	.....	mp_0000d 0x70fd
 0xd54	0x98	ALTO	#1W#6A	...That's... our world...	
-0xda8	0x98	ALTO	#0W#6A	That's... what's... beyond
-				the End of the World...?		
+0xda8	0x98	ALTO	#0W#6A	That's... what's... beyond	
+				the End of the World...?	
 0xe25	0x06	NOI		ANI_DENY	
 0xe52	0x98	NOI	#1W#6A	...No way...	
 0xe8b	0x98	Creha	#0W	...At the time, the core of the	
 				planet suffered terrible damage.	
 0xef0	0x98	Creha	#0W	Even today, the planet's complete	
 				destruction continues to advance.	
-0xf44	0x98	Creha	#0W	The world established by the humans
+0xf44	0x98	Creha	#0W	The world established by the humans	
 				up until now is only temporary...	
-0xfb6	0x98	Creha	#0W	At this rate, before long...
+0xfb6	0x98	Creha	#0W	At this rate, before long...	
 				The complete annihilation	
 				of the planet will occur.	
 0x11f1	0x98	Creha	#1W	Yet we have the power to restore the	
@@ -39,16 +39,16 @@ EV_6_S35_bombard_earth
 				can learn from the past...	
 0x1a2b	0x98	ALTO	#0W#6A	The various archaeological	
 				ruins and literature left	
-				behind are proof of this.
+				behind are proof of this.	
 0x1b81	0x06	ALTO		ANI_JOY	
 0x1ba6	0x98	ALTO	#0W#6A	To us, our world is	
 				definitely not temporary.	
 0x1c02	0x98	NOI		Nayuta...	mp_0000d 0x7671
-0x1c7e	0x98	ALTO	#6A	When viewed from the god-like perspective
+0x1c7e	0x98	ALTO	#6A	When viewed from the god-like perspective	
 				of the Mitos, it's true this world is	
 				tiny and inconsequential...	
 0x1cfe	0x98	ALTO	#6A	Perhaps it's only natural you	
-				would think of it as temporary.
+				would think of it as temporary.	
 0x1db0	0x98	ALTO	#1W#6A	But...	
 0x1f61	0x98	ALTO	#0W#100x#270y	Even though it wasn't for very long,	
 				you spent some time at my house, Creha.	
@@ -72,8 +72,8 @@ EV_6_S35_bombard_earth
 0x25df	0x98	Creha	#1W	...Thank you.	mp_0100a 0x8a4e
 0x2626	0x98	Creha	#0W	For you, Nayuta...	
 0x26c5	0x98	Creha	#1W	For you, I can believe it.	
-EV_7_S17_collapse_core
-EV_7_S20_byebye_tera
+EV_7_S17_collapse_core					
+EV_7_S20_byebye_tera					
 0x2cc8	0x06	ALTO		ANI_FLY_IN_SPACE	
 0x30ad	0x98	ALTO	#2W	.........	mp_0003 0xc610
 0x3139	0x98	ALTO	#1W	...What... What is this place...?	
@@ -151,4 +151,4 @@ EV_7_S20_byebye_tera
 				And in it are people important to me.#0E	
 0x588f	0x41	None	#1W#2E	I will continue to wait.	
 				Until the day we meet again...#0E	
-EV_7_S20_fallto_cape_cs
+EV_7_S20_fallto_cape_cs					

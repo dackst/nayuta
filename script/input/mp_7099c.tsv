@@ -1,22 +1,22 @@
-mp_7099c
-init
+mp_7099c					
+init					
 0x240	0x06	ce152		ANI_STOP	
-event
+event					
 0x3f4	0x06	ce152		ANI_EVENT	
-EV_floor1enter
-EV_floor1exit
-EV_floor2enter
-EV_floor2exit
-EV_7_S13_enter_starball
+EV_floor1enter					
+EV_floor1exit					
+EV_floor2enter					
+EV_floor2exit					
+EV_7_S13_enter_starball					
 0x742	0x06	ALTO		ANI_FALL_EV	
 0x801	0x06	NOI		ANI_WALK_DOWN	
 0xa35	0x06	ALTO		ANI_WAIT	
 0xa92	0x06	NOI		ANI_WAIT	
 0xbfc	0xCE	Objective		Creha and Zext should be here. Let's proceed with caution!	
-EV_7_S14_battle_zext
+EV_7_S14_battle_zext					
 0x111d	0x98	Zext		Creha, Selam...	
 				My foolish children.	
-0x1161	0x98	Zext		Again and again, they forget
+0x1161	0x98	Zext		Again and again, they forget	
 				the mission of the Mitos.	
 0x120d	0x98	Zext		...Now, they must simply watch	
 				as I take over from here.	
@@ -34,17 +34,17 @@ EV_7_S14_battle_zext
 0x178e	0x98	Zext		We Mitos are a race of gods...	
 				The fathers of all life, if you will.	
 0x17fd	0x98	Zext		It is only natural for me to	
-				discipline my unruly children.
+				discipline my unruly children.	
 0x1870	0x98	Zext		Now, the Recreation will─	
 0x18c6	0x06	NOI		ANI_ANGRYTALK	
 0x1904	0x98	NOI	#16S	...D-Don't give us that!	
 0x1946	0x98	ALTO	#6A	...Creha showed us	
 				the Ancient Memory.	
-0x1993	0x98	ALTO	#6A	You definitely died in it...
+0x1993	0x98	ALTO	#6A	You definitely died in it...	
 				How are you still here?	
 0x19f2	0x98	ALTO	#6A	...How did you end up	
 				back here on Terra?	
-0x1a57	0x98	ALTO	#16S#6A	How could you once be so kind,
+0x1a57	0x98	ALTO	#16S#6A	How could you once be so kind,	
 				#16Sand then come back like this!?	
 0x1c46	0x98	Zext	#1W	.......	mp_0001 0xc917
 0x1c78	0x98	Zext		...When we Mitos lose our lives,	
@@ -84,7 +84,7 @@ EV_7_S14_battle_zext
 				by the providence of the stars.	
 0x23c1	0x98	Zext		I was brought back to save the	
 				world from destruction at the	
-				hands of those foolish humans...		
+				hands of those foolish humans...	
 0x2495	0x98	Zext	#16S	That is why...	
 				#16SThis Plan must be completed!!	
 0x2818	0x98	ALTO	#6A	Wh-What is that!?	mp_0002d 0x627c
@@ -102,7 +102,7 @@ EV_7_S14_battle_zext
 0x2e25	0x98	NOI	#6A#1W	I-It's starting!!	
 0x2e60	0x98	ALTO	#6A	Damn...!!	
 0x2e93	0x98	Zext	#140x#120y	...For the first step, we will	
-				drop a keystone to the surface.		
+				drop a keystone to the surface.	
 0x2f00	0x06	NOI		ANI_WAIT	
 0x2f25	0x98	ALTO	#6A	A... keystone!?	
 0x2f90	0x98	Zext	#140x#120y	Yes, and Terra will use it to anchor	
@@ -157,7 +157,7 @@ EV_7_S14_battle_zext
 0x4050	0x98	Zext	#1W	Lest we repeat the errors of the past,	
 				I shall erase all of you sinful humans.	
 0x40d6	0x98	Zext	#1W	Same goes to you, foolish warden	
-				who sides with the humans...
+				who sides with the humans...	
 0x41a7	0x98	Zext	#2W	I, Zext Ji Quarius Dominador of the Mitos...	
 0x4245	0x06	Zext		ANI_ATK8	
 0x42e7	0x98	Zext	#2W#16S	With my own flesh and blood,	
@@ -167,7 +167,7 @@ EV_7_S14_battle_zext
 0x44d0	0x06	NOI		ANI_NOD	
 0x450a	0x98	NOI	#1W#16S	Yeah, Nayuta!!	
 0x4753	0x06	ce152		ANI_EVENT	
-EV_7_S15_last_battle
+EV_7_S15_last_battle					
 0x4bc4	0x06	ALTO		ANI_TENSION_WAIT	
 0x4cc4	0x06	Zext		ANI_TIRED_WAIT	
 0x4e61	0x06	Creha		ANI_STONE	
@@ -254,7 +254,7 @@ EV_7_S15_last_battle
 0x75a0	0x98	Creha	#6A	When we decided to go to sleep,	
 				you chose to continue watching	
 				over Terra and the surface...	
-0x7618	0x98	NOI	#0W#6A	I-I never knew
+0x7618	0x98	NOI	#0W#6A	I-I never knew	
 				about this...	
 0x768c	0x98	Creha	#6A	We only created Noi and the	
 				other wardens afterwards, so...	
@@ -265,15 +265,15 @@ EV_7_S15_last_battle
 0x794a	0x98	Creha	#6A	...As the years went by,	
 				your memory must have	
 				failed and you forgot.	
-0x79a6	0x98	Creha	#6A	And at some point, you
+0x79a6	0x98	Creha	#6A	And at some point, you	
 				began to think of yourself	
 				as the real Zext.	
-0x7a11	0x98	Creha	#6A	But... the one thing you
+0x7a11	0x98	Creha	#6A	But... the one thing you	
 				could never forget was	
 				the Recreation mission.	
-0x7a83	0x98	Creha	#6A	As the Planetarium, that was the
+0x7a83	0x98	Creha	#6A	As the Planetarium, that was the	
 				whole reason you were created...	
-0x7b0a	0x98	ZextRobo	#1W	...Tch...!	mp_0110 0x31601
+0x7b0a	0x98	ZextRobo	#1W	...Damn it...!	mp_0110 0x31601
 0x7b43	0x98	Creha	#6A	Then, to complete the mission,	
 				you tried to force us awake.	
 0x7bb8	0x98	Creha	#6A	But there was an accident...	
@@ -318,7 +318,7 @@ EV_7_S15_last_battle
 0x8be9	0x6B	ALTO		Exclamation	
 0x8c1f	0x6B	NOI		Exclamation	
 0x8c48	0x6B	Creha		Exclamation	
-0x8c7b	0x98	ALTO	#1W#6A	Wh-What is this!?	mp_0101a 0xc74
+0x8c7b	0x98	ALTO	#1W#6A	Wh-What's this...!?	mp_0101a 0xc74
 0x8d92	0x06	ALTO		ANI_SUPPORT_CREHA3_MIRROR	
 0x8e1f	0x06	Creha		ANI_SUPPORTED_MIRROR	
 0x8fc0	0x06	b006		ANI_APPEAR_0	
@@ -326,7 +326,7 @@ EV_7_S15_last_battle
 0x9903	0x41	None	#2E#733c#2W	I finally understand now...#0E	
 0x9993	0x41	None	#2E#733c#2W	Everything is temporary...	
 				Both this world...and myself...#0E	
-0x9a41	0x41	None	#2E#733c#1W	Then in accordance with my sacred duty...
+0x9a41	0x41	None	#2E#733c#1W	Then in accordance with my sacred duty...	
 				Let it all return to nothingness...!#0E	
 0x9b19	0x41	None	#2E#733c#1W#16S	...Now is the time for the	
 				Recreation to take place...!#0E	
@@ -388,9 +388,9 @@ EV_7_S15_last_battle
 0xbafe	0x98	NOI	#1W#6A	Yeah...!!	
 				And return to Remnant	
 				Island with everyone!!	
-SB_7_S16_creha_move
-SB_7_S16_signa_move
-EV_7_S16_defeat_zext
+SB_7_S16_creha_move					
+SB_7_S16_signa_move					
+EV_7_S16_defeat_zext					
 0xc29e	0x98	ALTO	#0W#6A	...It disappeared...	
 0xc2e0	0x98	ALTO	#0W#6A	It's over, isn't it...?	
 0xc32e	0x98	NOI	#0W#6A	...Yeah... Now it's finally...	
@@ -416,7 +416,7 @@ EV_7_S16_defeat_zext
 				objective even if he wanted to...	
 0xca25	0x06	Signa		ANI_WAIT5	
 0xca4d	0x98	Signa		...Perhaps we bear the	
-				responsibility here for
+				responsibility here for	
 				abandoning our mission.	
 0xcafc	0x06	Creha		ANI_NOD	
 0xcb22	0x98	Creha	#1W	...Yeah.	mp_0110 0x2aab1
@@ -444,7 +444,7 @@ EV_7_S16_defeat_zext
 0xd1a6	0x98	Creha	#0W	...Something is... not	
 				right on the surface...?	
 0xd26c	0x98	Creha	#1W	...This can't be...!?	
-EV_7_S18_go_astrolabe
+EV_7_S18_go_astrolabe					
 0xd93b	0xBC	ALTO		Unknown	
 0xd971	0x06	ALTO		ANI_COMPLAIN	
 0xd99b	0x98	ALTO	#0W#6A	The core is falling apart!?	
@@ -575,7 +575,7 @@ EV_7_S18_go_astrolabe
 0xfd2c	0x06	NOI		ANI_GUTSPOSE	
 0xfd55	0x98	NOI	#6A	I'm going to try to stop the	
 				collapse of the Planetarium!	
-0xfdb1	0x98	NOI	#6A	For this to work, we need
+0xfdb1	0x98	NOI	#6A	For this to work, we need	
 				the Planetarium's power...	
 				We can't just leave it be!	
 0xfe1d	0x98	NOI	#6A	You guys go on ahead	

@@ -1,8 +1,8 @@
-mp_3003c
-init
-SB_3_S21_alto_move
-SB_3_S21_noi_move
-EV_3_S21_get_yupina
+mp_3003c					
+init					
+SB_3_S21_alto_move					
+SB_3_S21_noi_move					
+EV_3_S21_get_yupina					
 0x4b8	0x06	st		ANI_PATA2	
 0x58e	0x6B	ALTO		Exclamation	
 0x5b8	0x06	ALTO		ANI_SURPRISE_WEAK	
@@ -15,7 +15,7 @@ EV_3_S21_get_yupina
 				little better, but...	
 0xafd	0x98	NOI		Even with Heimmel's normal climate,	
 				the plant can no longer survive...	
-0xbb0	0x98	ALTO	#6A	...If I remember correctly,
+0xbb0	0x98	ALTO	#6A	...If I remember correctly,	
 				the encyclopedia called it	
 				a 'summer annual.'	
 0xc94	0x98	ALTO	#6A	Noi, can't you make the	
@@ -76,7 +76,7 @@ EV_3_S21_get_yupina
 0x2b7d	0x06	Creha		ANI_DENY	
 0x2bac	0x98	Creha	#0W	...I don't know.	mp_3002c 0x5634
 0x2be1	0x98	Creha	#0W	My body just... acted on its own...	
-0x2c61	0x98	NOI	#6A	The Shining Wing of the Mitos appears 
+0x2c61	0x98	NOI	#6A	The Shining Wing of the Mitos appears 	
 				when Lady Creha uses her powers.	
 0x2d06	0x98	NOI	#6A	Lady Creha must have resurrected	
 				the Yupina Grass by manipulating	

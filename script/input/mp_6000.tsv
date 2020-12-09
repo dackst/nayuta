@@ -1,15 +1,15 @@
-mp_6000
-init
-ev_goal
-ev_bridge_00
+mp_6000					
+init					
+ev_goal					
+ev_bridge_00					
 0x6cc	0x06	ob_br_00		ANI_PATA1	
-ev_bridge_01
+ev_bridge_01					
 0x77e	0x06	ob_br_01		ANI_PATA1	
-ev_bridge_02
+ev_bridge_02					
 0x830	0x06	ob_br_02		ANI_PATA1	
-ev_bridge_03
+ev_bridge_03					
 0x8e2	0x06	ob_br_03		ANI_PATA1	
-sw_timer_st
+sw_timer_st					
 0xa28	0x06	t_sw01		ANI_LEVER_OFF	
 0xa89	0x06	t_sw02		ANI_LEVER_OFF	
 0xaea	0x06	t_sw03		ANI_LEVER_OFF	
@@ -18,31 +18,31 @@ sw_timer_st
 0xc25	0x06	t_sw02		ANI_STOP1	
 0xc4e	0x06	t_sw03		ANI_STOP1	
 0xc77	0x06	t_sw04		ANI_STOP1	
-sw_timer_ct
-ev_timer
+sw_timer_ct					
+ev_timer					
 0xf0c	0x06	t_sw_st		ANI_LEVER_OFF	
-sw_door03
+sw_door03					
 0xfe2	0x06	switch1		ANI_LEVER_ON_LOCK	
-boss_battle
+boss_battle					
 0x104a	0x6B	ALTO		Exclamation	
-dead_EV01
-open_door4_5_6
-sw_door07
+dead_EV01					
+open_door4_5_6					
+sw_door07					
 0x1496	0x06	switch2		ANI_LEVER_ON_LOCK	
-sw_roll
+sw_roll					
 0x1796	0x06	r_sw01		ANI_LEVER_OFF	
-sw_door08
+sw_door08					
 0x183b	0x06	switch3		ANI_LEVER_ON_LOCK	
-boss_battle2
+boss_battle2					
 0x18ea	0x06	mahouzin2		ANI_STOP2	
 0x192c	0x6B	ALTO		Exclamation	
-dead_EV02
-open_door9_10
+dead_EV02					
+open_door9_10					
 0x2058	0x07	System	#3C	Defeated high-rank monster [Expeltron]!	
 0x2117	0x06	NOI		ANI_TAMEATK1	
 0x217a	0x07	System	#1C	Noi recovered the spring magic, #4C『#780ITri-Blossom』#1C!	
 0x2208	0xC1	System		obtained.	mp_0000 0x7558
-QS_42_Lithograph
+QS_42_Lithograph					
 0x240f	0x40	UNDEF		An ancient-looking script is written here.	
 0x2482	0x98	ALTO		This tablet...	
 				There's something	
@@ -56,7 +56,7 @@ QS_42_Lithograph
 0x25ae	0x98	ALTO		(I might want to take a note	
 				 of this location, just in case.)	
 0x262f	0x40	UNDEF		An ancient-looking script is written here.	mp_6000 0x240f
-QS_42_Lithograph_Ev
+QS_42_Lithograph_Ev					
 0x27c0	0x06	ALTO		ANI_WAIT	
 0x2921	0x06	ALTO		ANI_GESTURE2	
 0x294b	0x98	ALTO	#6A	Looks like something	

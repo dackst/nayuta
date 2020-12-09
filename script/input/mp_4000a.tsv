@@ -1,29 +1,29 @@
-mp_4000a
-init
-ev_goal
-open_door1
+mp_4000a					
+init					
+ev_goal					
+open_door1					
 0x6a0	0x06	switch		ANI_LEVER_ON_LOCK	
-close_door2
+close_door2					
 0x707	0x6B	ALTO		Exclamation	
-dead_ev01
-open_door2_3
-QS_81_check_altar
-QS_81_hang_out_box
+dead_ev01					
+open_door2_3					
+QS_81_check_altar					
+QS_81_hang_out_box					
 0xdcc	0x98	ALTO		This is where the barrier	
 				that held Nemeas was.	
 0xe24	0x98	ALTO		I remember being told that	
 				they 'use the weather of	
 				its surrounding environment.'	
-0xe95	0x98	NOI	#6A	I see... Looks like the lock	mp_1002b 0x27a4
-				was made using areas filled
-				with the astral power.
-0xf11	0x98	NOI	#6A	The Locked Box we were
+0xe95	0x98	NOI	#6A	I see... The lock should detect	mp_1002b 0x27a4
+				areas like this, filled with	
+				astral power.	
+0xf11	0x98	NOI	#6A	The Locked Box we were	
 				given might react here.	
 0xf76	0x06	ALTO		ANI_NOD	
 0xf9b	0x98	ALTO		It seems worth a try.	
 0xfee	0x98	ALTO		Well... Here I go.	
 0x1033	0x06	ALTO		ANI_HANDOVER1	
-0x10d9	0x40	UNDEF		Nayuta placed the Locked Box.	mp_1002b 0x2e09
+0x10d9	0x40	UNDEF		Nayuta took out the Locked Box.	mp_1002b 0x2e09
 0x111f	0x6B	ALTO		Ellipsis	
 0x1151	0x6B	NOI		Ellipsis	
 0x11ae	0x6B	ALTO		Exclamation	
@@ -51,8 +51,8 @@ QS_81_hang_out_box
 0x161f	0x98	ALTO		If the first one was on this	
 				continent in spring, then...	
 				Where should I go next?	
-SB_5_S06_escape_ALTO
-EV_5_S06_help_nemeas
+SB_5_S06_escape_ALTO					
+EV_5_S06_help_nemeas					
 0x1e6e	0x06	ALTO		ANI_GUTSPOSE	
 0x1e98	0x98	ALTO	#6A	Okay, looks like we've	
 				reached the prison.	
@@ -91,8 +91,8 @@ EV_5_S06_help_nemeas
 0x395c	0x98	Nemeas		...This is quite an alarming situation.	
 				I did not expect this would happen...	
 0x39c2	0x06	ALTO		ANI_COMPLAIN	
-0x39ec	0x98	ALTO	#6A	Creha's... The Mitos' plan...
-				Do you know anything about it?
+0x39ec	0x98	ALTO	#6A	Creha's... The Mitos' plan...	
+				Do you know anything about it?	
 0x3ac9	0x98	ALTO	#6A	I have to know. I have to know	
 				what Creha really wants...	
 0x3b45	0x98	NOI		Nayuta...	mp_0000d 0x7671
@@ -137,7 +137,7 @@ EV_5_S06_help_nemeas
 				attempt to take back control of	
 				the astral power from our temples.	
 0x4b59	0x98	Nemeas		May the stars	
-				guide you...		
+				guide you...	
 0x4ec7	0x98	ALTO	#6A	Now, we should	
 				be ready to go.	
 0x4f13	0x06	ALTO		ANI_JOY	

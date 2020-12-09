@@ -1,13 +1,13 @@
-mp_4000d
-init
-ev_goal
-boss_battle
+mp_4000d					
+init					
+ev_goal					
+boss_battle					
 0x60a	0x6B	ALTO		Exclamation	
-dead_ev01
-open_door1
-SB_QS_58_alto_move
-SB_QS_58_noi_move
-QS_58_Find_Michy
+dead_ev01					
+open_door1					
+SB_QS_58_alto_move					
+SB_QS_58_noi_move					
+QS_58_Find_Michy					
 0xbc9	0x06	st		ANI_STOP1	
 0xd02	0x06	st		ANI_PATA2	
 0xe4c	0x06	ALTO		ANI_SURPRISE	
@@ -21,8 +21,8 @@ QS_58_Find_Michy
 				Did it go further in!?	
 0x1035	0x06	NOI		ANI_COMPLAIN	
 0x105e	0x98	NOI	#6A	H-Hurry up and go after it!	
-QS_58_RunAway_Michy
-OS_58_TBOX
+QS_58_RunAway_Michy					
+OS_58_TBOX					
 0x1602	0x06	OS_58_TBOX		ANI_OPEN	
 0x1636	0x3F	Name		Voice	mp_0000d 0x4c24
 0x1667	0x98	Michy		...Mishishi...	
@@ -45,7 +45,7 @@ OS_58_TBOX
 0x1b84	0x06	ALTO		ANI_COMPLAIN	
 0x1bae	0x98	ALTO	#6A	We're not trying to hurt you.	
 0x1bf6	0x98	ALTO	#6A	Mensa and Ophiuchus are waiting.	
-				Will you please come back with us?
+				Will you please come back with us?	
 0x1c56	0x6B	Michy		Ellipsis	
 0x1ca2	0x98	Michy		...Mishishi.	
 0x1ccf	0x06	NOI		ANI_THINK	

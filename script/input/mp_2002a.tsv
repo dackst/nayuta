@@ -1,39 +1,39 @@
-mp_2002a
-init
-ev_goal
-ob_sw_cb
+mp_2002a					
+init					
+ev_goal					
+ob_sw_cb					
 0x760	0x06	ob_sw_00		ANI_CHANGE_GREEN	
 0x792	0x06	ob_sw_01		ANI_CHANGE_GREEN	
 0x8f9	0x06	ob_sw_00		ANI_CHANGE_RED	
 0x929	0x06	ob_sw_01		ANI_CHANGE_RED	
-point
-ob_sw_cb2
+point					
+ob_sw_cb2					
 0xbed	0x06	ob_sw_00		ANI_CHANGE_GREEN	
 0xc1f	0x06	ob_sw_01		ANI_CHANGE_GREEN	
 0xd84	0x06	ob_sw_00		ANI_CHANGE_RED	
 0xdb4	0x06	ob_sw_01		ANI_CHANGE_RED	
-open_door1
-open_door4
-boss_battle01
+open_door1					
+open_door4					
+boss_battle01					
 0x1024	0x6B	ALTO		Exclamation	
-dead_EV01
-open_door2_3
-open_door5
-swt03_timer
+dead_EV01					
+open_door2_3					
+open_door5					
+swt03_timer					
 0x1541	0x06	swt03		ANI_LEVER_OFF	
-talk_Cetus
+talk_Cetus					
 0x159f	0x98	Cetus		Not much time has passed since	
 				I got separated from Reticul.	
 				She's close... I think.	
 0x1611	0x98	Cetus		I'll search around here.	
 				You two: look for where	
 				she could be!	
-SB_QS_35_alto_move
-SB_QS_35_noi_move
+SB_QS_35_alto_move					
+SB_QS_35_noi_move					
 0x189a	0x06	NOI		ANI_LOOK_AROUND	
-SB_QS_35_Cetus_Ase
+SB_QS_35_Cetus_Ase					
 0x18c8	0x6B	Cetus		Unknown	
-QS_35_meet_cetus
+QS_35_meet_cetus					
 0x1ad9	0x06	st		ANI_PATA2	
 0x1c04	0x6B	ALTO		Surprise	
 0x1c36	0x6B	NOI		Surprise	
@@ -70,9 +70,9 @@ QS_35_meet_cetus
 0x249e	0x98	Cetus		I've been exploring this world with Reticul...	
 				...But she's an absolute reckless tomboy.	
 0x2510	0x06	Cetus		ANI_GESTURE2	
-0x253b	0x98	Cetus		She said something about 'finding treasure'
+0x253b	0x98	Cetus		She said something about 'finding treasure'	
 				and went off on her own, poking around in	
-				some monster nests...
+				some monster nests...	
 0x25c1	0x98	Cetus		And after being chased by vicious	
 				monsters, I ended up here...	
 0x2637	0x98	Cetus		But there's no sign	
@@ -91,7 +91,7 @@ QS_35_meet_cetus
 0x282c	0x98	Cetus		Th-That's not very nice.	
 0x2864	0x06	Cetus		ANI_GESTURE2	
 0x288f	0x98	Cetus		Well, in fact, Reticul has actually	
-				been very lucky so far...		
+				been very lucky so far...	
 0x290f	0x98	Cetus		She's always been able to slip away from	
 				nasty monster attacks, so she probably	
 				won't be killed that easily...	
@@ -115,7 +115,7 @@ QS_35_meet_cetus
 0x2c38	0x98	ALTO	#6A	Yeah, we can handle this!	
 0x2c6f	0x06	NOI		ANI_GUTSPOSE	
 0x2c98	0x98	NOI	#6A	Let's look around!	
-QS35_Ev_Reticul
+QS35_Ev_Reticul					
 0x3015	0x06	Reticul		ANI_WAIT4	
 0x30ef	0x98	ALTO		Ah...!	mp_1002b 0x4627
 0x3152	0x06	Reticul		ANI_WORRIED	
@@ -162,7 +162,7 @@ QS35_Ev_Reticul
 				thinking of asking...	
 				Wanna go back now?	
 0x3a74	0x06	Cetus		ANI_DENY	
-0x3a9b	0x98	Cetus		We're starting to run out of
+0x3a9b	0x98	Cetus		We're starting to run out of	
 				equipment. Exploring this	
 				place is too tough for us.	
 0x3b0e	0x98	Cetus		A real adventurer knows	
@@ -170,7 +170,7 @@ QS35_Ev_Reticul
 0x3b9d	0x06	Reticul		ANI_ANGRYTALK	
 0x3bcb	0x98	Reticul		Hmph, don't get me wrong. I came	
 				along with you Cetus in order to	
-				search for treasure, remember?
+				search for treasure, remember?	
 0x3c5a	0x06	Reticul		ANI_WAIT3	
 0x3c84	0x98	Reticul		If you want to leave, why	
 				don't you go back yourself?	
