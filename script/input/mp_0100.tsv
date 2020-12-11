@@ -74,7 +74,8 @@ AL_shop
 0x333e	0x07	System	#3C	On Infinity difficulty, enemy levels	
 				will now scale without limit.	
 0x33b6	0x07	System	#4C	※ 'Infinity Enemy Restore' has been added.	
-				If used, enemy level scaling will return to a fixed limit.	
+				If used, enemy levels will return to scaling
+				with a fixed limit.	
 0x3528	0x07	System	#3C	On Infinity difficulty, enemy levels	
 				will scale to a fixed limit.	
 0x365f	0x07	System	#3C	On Infinity difficulty, enemy levels	mp_0100 0x333e

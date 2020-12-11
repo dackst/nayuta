@@ -27,7 +27,7 @@ But I'm not a big creative writer, and again, don't know Japanese, so maybe I ju
 
 I would appreciate reporting of any issues: technical bugs, glaring mistranslations, lore inconsistencies, or even just general language weirdness and typos. I did a playthrough or two with my changes and fixed a number of less obvious mistakes, but it is possible that I missed some. There are a few remaining [issues](#known-issues). 
 
-If you're interested in more detail on the changes I made, you can look at my [script notes](./notes.md) file (definitely spoilers to be found here). You can easily view almost all the text changes from the original at once [here](https://github.com/dackst/nayuta/compare/682d608e28f995515601fd783c1359dd5fa7f49e...original).
+If you're interested in more detail on the changes I made, you can look at my [script notes](./notes.md) file (definitely spoilers to be found here). If you're *really* interested, you can easily view almost all the text changes from the original at once [here](https://github.com/dackst/nayuta/compare/4a29660d089c19bac592742a5796b7ecf398dcaf...original).
 
 <!-- or you can [compare]((https://github.com/dackst/nayuta/compare/original...master)) any of the changed files directly to their originals in this repo. 
 broken on github since I moved files around
@@ -46,7 +46,7 @@ xdelta3 -ds original.iso patch.xdelta patched.iso
 ### MD5 Checksums
 * Clean Japanese ISO : `02adefbdef8197cca872268d5c01b277`
 * ISO patched with flame's 4.15 release: `6cc975153b7998db4242baa17eb8d276`
-* ISO patched with this current release: `d77f8103a181ca325784f5e061bcd2a5`
+* ISO patched with this current release: `b82059223e0b8de0b9003a9acf8b712a`
 
 
 ## Known Issues
@@ -60,6 +60,7 @@ These are all issues that exist in the original fantranslation that I don't know
   * the above two *could* be solved by shortening them, but I'm not willing to butcher them further
 * characters that use idiosyncratic manners of speaking in Japanese probably still don't here
   * E.g. Geo is supposed to [sound like an old man](https://legendofheroes.fandom.com/wiki/Lychnis_Gio) (characters even comment on it several times in-game), Eris is supposed to sound [domineering](https://legendofheroes.fandom.com/wiki/Song_Priestess_Elislette) or sarcastic. I think Algol is supposed to use archaic speech patterns, and Nemeas is like a schoolteacher or something?
+  * Noi is supposed to have her own verbal tic that is lost
   * things like slang or shifts in politeness or tone are probably still not meaningfully conveyed
 
 
