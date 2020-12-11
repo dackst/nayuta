@@ -47,7 +47,7 @@ QS_12_discovery_rose
 0x1ccd	0x06	ALTO		ANI_GESTURE2	
 0x1cf7	0x98	ALTO		Uh, it's a present for someone.	
 0x1d38	0x6B	NOI		Question	
-0x1d69	0x98	ALTO		(Don't forget to give	
+0x1d69	0x98	ALTO		(I should remember to give	
 				 this to Sculp later.)	
 0x1f63	0x40	UNDEF		A beautiful rose is blooming.	
 0x1fbb	0x98	ALTO		What is this thing...?	
@@ -163,7 +163,7 @@ EV_1_S06_look_cage_1st
 				of this continent.	
 0x4539	0x41	None	#0W#2E#310c	...Hmm...? There are two strange	
 				foreign presences beside you, Noi...#0E	
-0x45d9	0x41	None	#0W#2E#310c	Could it be... humans!?#0E	
+0x45d9	0x41	None	#0W#2E#310c	Could it be...humans!?#0E	
 0x46d8	0x06	NOI		ANI_GESTURE2	
 0x4701	0x98	NOI	#6A	Geo, Nayuta and Cygna	
 				came out here with me	
@@ -172,8 +172,8 @@ EV_1_S06_look_cage_1st
 0x47b7	0x41	None	#0W#2E#310c	Hmm... Is that so?#0E	
 0x4828	0x41	None	#0W#2E#310c	To think that humans would	
 				ever set foot on Terra...#0E	
-0x48b0	0x41	None	#0W#2E#310c	And what's more, that 	
-				they would be acting together with	
+0x48b0	0x41	None	#0W#2E#310c	And what's more, that they	
+				would be acting together with	
 				you, Noi, who hates humans...#0E	
 0x4972	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x49a0	0x98	ALTO	#6A	Ahaha, well, we kind of forced	

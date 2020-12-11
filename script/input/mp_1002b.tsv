@@ -197,7 +197,7 @@ EV_2_S20_help_gio
 0x655d	0x98	Gio	#1W	Goodness gracious, what a terrible	
 				experience that was.	
 0x671a	0x06	NOI		ANI_JOY	
-0x674c	0x98	NOI	#0W#6A	Geo... Phew!	
+0x674c	0x98	NOI	#0W#6A	Geo... Thank goodness!	
 0x678e	0x06	NOI		ANI_WAIT	
 0x67b3	0x06	ALTO		ANI_GESTURE2	
 0x67eb	0x98	ALTO	#1W#6A	You are...	
@@ -293,7 +293,7 @@ EV_2_S20_help_gio
 				attacks and break hard objects.	
 0x8534	0x06	Gio		ANI_WAIT	
 0x859b	0x06	NOI		ANI_GUTSPOSE	
-0x85c4	0x98	NOI	#6A	Th-This... overwhelming power!?	
+0x85c4	0x98	NOI	#6A	Th-This...overwhelming power!?	
 0x860d	0x06	Gio		ANI_GESTURE1	
 0x8653	0x98	Gio		We wardens were once created	
 				by Lady Creha's race...	

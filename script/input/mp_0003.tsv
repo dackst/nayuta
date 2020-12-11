@@ -600,8 +600,8 @@ talk_Ursaminor_Reticul
 				at the center of the recent	
 				meteorological anomalies.	
 0xa165	0x98	Cetus		We heard the rumors and	
-				came running, but... uh,	
-				we're a little late.	
+				came running, but...	
+				Uh, we're a little late.	
 0xa1da	0x98	Ursaminor		You two... *sniff*...	
 				I'm so glad you're safe...	
 0xa228	0x6B	Reticul		Unknown	
@@ -713,8 +713,8 @@ talk_Lyra
 0xb3aa	0x98	Lyra		...Shut up, Nayuta.	
 0xb3da	0x98	ALTO		(Seems like she's in a bad mood today.)	
 0xb45e	0x98	Lyra		(So it has come to this...)	
-0xb49f	0x98	Lyra		(Forget about Nayuta for now,	
-				 somehow, I'm more worried	
+0xb49f	0x98	Lyra		(Forget about Nayuta for now.	
+				 Somehow, I'm more worried	
 				 about this girl...)	
 0xb50a	0x6B	ALTO		Question	
 talk_Cetus					
@@ -903,7 +903,7 @@ QS_41_ask_Aquela
 				shall I give a fortune?	
 0xe03a	0x98	Aquela		Regarding the location of the girl.	
 0xe084	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xe0b3	0x98	ALTO	#6A	A... fortune?	
+0xe0b3	0x98	ALTO	#6A	A...fortune?	
 0xe0e2	0x98	ALTO	#6A	(I don't know how accurate it is...	
 				 But I don't have much else to go on.)	
 0xe152	0x06	ALTO		ANI_NOD	
@@ -963,7 +963,7 @@ QS_41_fortunetelling
 				and taken off the island?	
 0xef7d	0x98	Aquela		No, I am not getting particularly	
 				fearful premonitions.	
-0xefd0	0x98	Aquela		She seems more... confused,	
+0xefd0	0x98	Aquela		She seems more...confused,	
 				and unsure of where she is.	
 0xf037	0x98	Aquela		It is a beautiful place, far	mp_0003 0xdabb
 				removed from common sense.	
@@ -1312,7 +1312,7 @@ EV_0_S01_morn_port
 SB_3_S03_move_ALTO					
 EV_3_S03_go_tera					
 0x150a5	0x98	ALTO		(The plant is extinct...	
-				 That's only the case	
+				 But that's only the case	
 				 in THIS world.)	
 0x15113	0x98	ALTO		(I'll try going to Terra.	
 				 Maybe it could be...!)	
@@ -1414,6 +1414,6 @@ EV_4_S09_creha_scene_3rd
 0x17681	0x06	Creha		ANI_HOLD	
 0x177a0	0x06	Lyra		ANI_WAIT2	
 0x17843	0x98	Lyra	#1W#6A	Gently, gently.	
-0x178ad	0x98	Creha	#1W	(This is... a human...)	
+0x178ad	0x98	Creha	#1W	(This is...a human...)	
 0x1794b	0x98	Creha	#1W	(He's heavy, and...	
 				 Feels so warm.)	

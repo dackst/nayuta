@@ -169,11 +169,11 @@ talk_Eida_sub
 0x31c2	0x98	Eida		All I'm good for is making	
 				and selling weapons...	
 0x320a	0x98	Eida		...Nayuta, look after	
-				that girl for me, okay?	
+				her for me, okay?	
 0x327e	0x98	Eida		All I'm good for is making	mp_0111 0x31c2
 				and selling weapons...	
 0x32c6	0x98	Eida		...Nayuta, look after	mp_0111 0x320a
-				that girl for me, okay?	
+				her for me, okay?	
 0x332e	0x98	Eida		Ugh, I'm feeling a chill...	
 				I wonder if a storm is coming.	
 0x3394	0x98	Eida		Maybe I'll go hang around the fire.	
@@ -455,8 +455,8 @@ talk_Columha
 0x6d3a	0x98	Columha		...Well done, Nayuta.	
 0x6d74	0x98	ALTO		Ahaha... Thanks.	
 0x6df7	0x98	Columha		(Something considerate...	
-				 I should do it right this time...)	
-0x6e5b	0x98	Columha		(...Well, here goes nothing.)	
+				 I actually did it right this time...)	
+0x6e5b	0x98	Columha		(...Well, that was something.)	
 0x6ed1	0x98	Columha		Such a good-natured girl,	
 				falling ill all of a sudden...	
 0x6f24	0x98	Columha		I wish I could help, but...	
@@ -623,12 +623,12 @@ subev_zemuria
 0x92e5	0x98	NOI	#6A	It's really a weapon...	
 0x9324	0x06	NOI		ANI_DULL	
 0x9349	0x98	NOI	#6A	That was no big deal. It's	
-				just smelting ore. Hmph... 	
+				just smelting ore. Hmph...	
 0x93c0	0x06	NOI		ANI_DEJECTED	
 0x93e9	0x98	NOI	#6A	It's really a weapon...	mp_0111 0x92e5
 0x9428	0x06	NOI		ANI_THINK	
 0x944e	0x98	NOI	#6A	That was no big deal. It's	mp_0111 0x9349
-				just smelting ore. Hmph... 	
+				just smelting ore. Hmph...	
 0x94d2	0x98	ALTO		Ahaha, looks like it was	
 				too complicated for Noi.	
 0x9522	0x06	ALTO		ANI_SCRATCH_HEAD	
@@ -1147,7 +1147,7 @@ QS_41_getting_information2
 0x1034a	0x98	ALTO	#6A	Ahaha, sure.	mp_0111 0xf196
 EV_4_S08_creha_scene_2nd					
 0x1062e	0x06	Columha		ANI_BLACKSMITH	
-0x10973	0x98	Creha	#0W	...The sword is... being created...	
+0x10973	0x98	Creha	#0W	...The sword is...being created...	
 0x10b1a	0x06	Eida		ANI_COMPLAIN	
 0x10b44	0x98	Eida	#6A	What do you think? Amazing, right?	
 0x10b81	0x06	Eida		ANI_WAIT3	

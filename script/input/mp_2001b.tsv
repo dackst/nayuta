@@ -8,7 +8,7 @@ boss_battle01
 0x8c4	0x6B	ALTO		Exclamation	
 dead_EV01					
 open_door2_3					
-0x103b	0x07	System	#3C	Defeated High-Rank Monster [Bullet Popo]!	
+0x103b	0x07	System	#3C	Defeated high-rank monster [Bullet Popo]!	
 0x10fc	0x06	NOI		ANI_TAMEATK1	
 0x115f	0x07	System	#1C	Noi recovered the summer magic, #4C『#775IBullet Bee』#1C!	
 0x11df	0xC1	System		obtained.	mp_0000 0x7558

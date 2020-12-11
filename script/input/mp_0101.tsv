@@ -360,7 +360,7 @@ QS_41_discovery_Equlea
 0x87b2	0x98	ALTO		On request from Victor,	
 				I've been looking for you...	
 0x8816	0x06	Equlea		ANI_WAIT3	
-0x883f	0x98	Equlea		...A request from... Father?	
+0x883f	0x98	Equlea		...A request from...Father?	
 0x889f	0x98	Equlea		...I don't want to.	
 				I am not returning to	
 				where those people are.	
@@ -628,7 +628,7 @@ EV_1_S00_go_jungle
 0xe568	0x98	ALTO	#0W#6A	(...W-Well, I guess she's	
 				 not dead, but...)	
 0xe5bb	0x06	ALTO		ANI_FIND	
-0xe6c9	0x98	ALTO	#0W#0x#400y#5A	(...She feels... mysterious, somehow.)	
+0xe6c9	0x98	ALTO	#0W#0x#400y#5A	(...She feels...mysterious, somehow.)	
 0xe719	0x98	ALTO	#0W#0x#400y#5A	(Her hair and skin are so beautiful...	
 				I've never seen a girl like her.)	
 0xe7b6	0x98	Signa	#0W#0x#30y#12S	...y...ta...	
@@ -997,7 +997,7 @@ EV_2_S01_look_around
 0x153dc	0xCE	Objective		Cygna might've returned. Let's go back and search for him.	
 EV_2_S10_return_tera					
 0x158f0	0x98	NOI		This way!	
-0x15c8c	0x98	ALTO	#6A	It's... the gate to Heliograd?	
+0x15c8c	0x98	ALTO	#6A	It's...the gate to Heliograd?	
 0x15cd6	0x98	NOI		Hmm... Wait a minute.	
 0x15d38	0x06	NOI		ANI_USE_POWER	
 0x15ec2	0x06	NOI		ANI_WAIT	
@@ -1203,7 +1203,7 @@ EV_3_S04_meet_creha
 0x1a921	0x06	Creha		ANI_WAIT	
 0x1a99c	0x98	Creha	#0W#6A	...Calmed down now?	
 0x1a9f1	0x98	ALTO	#1W	*sniff*...Thanks.	
-				 I'm fine now...	
+				I'm fine now...	
 0x1aa86	0x98	ALTO		...I guess I kinda lost	
 				control of myself.	
 0x1aad1	0x06	ALTO		ANI_GESTURE2	
@@ -1335,7 +1335,7 @@ EV_3_S24_meet_gio
 0x1d551	0x98	Gio		But in any case, we have no choice	
 				but to support those around us.	
 0x1d5bb	0x06	Gio		ANI_NOD	
-0x1d5df	0x98	Gio		All right then, I shall be returning	
+0x1d5df	0x98	Gio		All right then. I shall be returning	
 				to the temple. I'll let you handle	
 				things from here.	
 0x1d888	0x06	ALTO		ANI_GESTURE2	

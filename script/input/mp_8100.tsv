@@ -4,7 +4,7 @@ EV_8_S13_meet_noi
 0x4b4	0x06	Creha		ANI_FLY_SIT	
 0x5e1	0x06	Signa		ANI_FLY_SIT	
 0x658	0x06	ALTO		ANI_LOOK_AROUND	
-0x685	0x98	ALTO	#0W	...A world... without color...	
+0x685	0x98	ALTO	#0W	...A world...without color...	
 0x6c1	0x98	ALTO	#0W	What is this place...?	
 0x74b	0x06	ALTO		ANI_THINK2	
 0x773	0x98	ALTO		I remember fighting	

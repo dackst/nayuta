@@ -254,9 +254,9 @@ talk_Coron
 0x6942	0x3F	Name		Researcher Caelum	mp_0115 0xb4da
 0x6975	0x98	Coron		Ehehe, is Coron doing a good	
 				job at the reception desk?	
-0x69d6	0x98	Coron		She's just as nice and beautiful as 	
-				me, after all, so I didn't want that	
-				to go to waste.	
+0x69d6	0x98	Coron		She's just as nice and beautiful 	
+				as me, after all, so I didn't	
+				want that to go to waste.	
 0x6a47	0x98	Coron		She doesn't have to look so uncool all	
 				the time. I have to take it upon myself	
 				to dress her up every now and then! ㈱	
@@ -271,7 +271,7 @@ talk_Coron
 				had her man the reception desk.	
 0x6c8d	0x98	Coron		Even though we both look the same, she	
 				doesn't have enough self-confidence.	
-				I'm gonna to give her some special training.	
+				I'm gonna give her some special training.	
 0x6d1f	0x98	Coron		In the meantime, I'm stuck wearing this	
 				researcher getup. You can't always be up	
 				front and center for everything, y'know? ☆	
@@ -303,9 +303,9 @@ talk_Coron
 				We aren't alike at all.	
 0x72e9	0x98	Coron		I'm just a plain old researcher	
 				with no attractive qualities...	
-0x734d	0x98	Coron		...Aah, I've given up on myself.	
+0x734d	0x98	Coron		...*sigh*, I've given up on myself.	
 0x739b	0x6B	ALTO		Sweatdrop	
-0x73f5	0x98	Coron		It's okay, as long as I	
+0x73f5	0x98	Coron		It's okay, as long as I can	
 				continue my research...	
 0x743b	0x98	Coron		But sometimes, I feel	
 				jealous of Caelum.	

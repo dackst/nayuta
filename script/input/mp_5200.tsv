@@ -76,10 +76,9 @@ EV_5_S19_meet_zext
 				astral power, we lead the	
 				world down a righteous path.	
 0x313c	0x98	Zext	#0W	Those humans worshipped	
-				us... as a race of 'gods.'	
-0x319c	0x98	ALTO	#0W#240x#270y	A race... of gods...	
-0x3240	0x40	ALTO		Then... The mural	
-				in Heimmel...	
+				us... As a race of 'gods.'	
+0x319c	0x98	ALTO	#0W#240x#270y	A race...of gods...	
+0x3240	0x40	ALTO		Then... the mural in Heimmel...	
 0x33e3	0x98	Seram		Heh, an image of the Mitos	
 				leading your world.	
 0x3440	0x98	Seram		Well, the relationship between god	
@@ -98,7 +97,7 @@ EV_5_S19_meet_zext
 				it did actually happen.	
 0x37c8	0x98	Zext		...However, we had anticipated	
 				this to some extent...	
-0x3811	0x98	Zext		We had a plan ready to protect the	
+0x3811	0x98	Zext		We had a Plan ready to protect the	
 				world in case of imminent destruction.	
 0x3882	0x98	NOI	#1W#20x#270y	...Plan...?	
 0x38be	0x98	Zext		We created a beautiful new world tailored for the 	
@@ -276,13 +275,13 @@ EV_5_S19_meet_zext
 				...Terra is...!	
 0x7f6a	0x98	Zext	#1W	Hehe... For a human,	
 				you're quite perceptive.	
-0x7fca	0x98	Zext	#N#3W	Yes, Terra... lies far away into	
-				the skies above your world.	
+0x7fca	0x98	Zext	#N#3W	Yes, this Terra... It lies far away	
+				into the skies above your world.	
 0x803e	0x98	Zext	#2W	It has lain dormant since long	
 				ago for the sole purpose of	
 				Recreating the planet.	
 0x80a4	0x98	ALTO	#3W#16S#6A	...!!	mp_0110 0x23435
-0x812d	0x98	Zext	#1W	Now then... this talk is over.	
+0x812d	0x98	Zext	#1W	Now then... This talk is over.	
 0x817f	0x98	Zext	#1W	We have no further need of that	
 				useless warden, either...	
 0x822a	0x98	Zext	#3W	I will personally put	

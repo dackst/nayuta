@@ -81,18 +81,18 @@ talk_Gio
 				sense the climate has been very	
 				chaotic. You should be fully prepared.	
 0x2500	0x98	Gio		You have given me a fascinating	
-				insight into human life..	
+				insight into human life.	
 				I must thank you.	
 0x2586	0x98	Gio		And you two have done much for	
 				the sake of this world as well.	
-0x25d6	0x98	Gio		Nayuta, I look forward to	
+0x25d6	0x98	Gio		Nayuta, I look forward to continue	
 				working with you in the future.	
 0x2650	0x98	Gio		I do not know if our Zext really is the	
 				same man as the leader of the Mitos and	
 				the creator of Terra, but...	
 0x26ec	0x98	Gio		There's no mistaking the great	
 				skill needed to capture me or	
-				control of the Master Gears.	
+				control the Master Gears.	
 0x276b	0x98	Gio		As the warden of this continent,	
 				I cannot allow this existential	
 				threat to Terra to continue.	
@@ -398,7 +398,7 @@ QS_24_quest_end
 0x67b0	0x06	Gio		ANI_WAIT	
 0x67d5	0x06	ALTO		ANI_GESTURE2	
 0x67ff	0x98	ALTO	#6A	As the name implies, it's rock salt from	
-				the ruins that fell on the island's shore.	
+				ruins that fell on the island's shore.	
 0x6879	0x6B	Gio		Surprise	
 0x68bf	0x98	Gio		Ruins that 'fell', you say?	
 0x68f8	0x06	ALTO		ANI_GESTURE1	
@@ -462,7 +462,7 @@ QS_24_quest_end
 0x7335	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x7363	0x98	ALTO	#6A	Y-Yeah... I don't think there are	
 				very many people like that though...	
-0x73c6	0x98	ALTO	#6A	(Where the hell does Noi's	
+0x73c6	0x98	ALTO	#6A	(Where the heck does Noi's	
 				 perception of people come from?)	
 0x7434	0x06	Gio		ANI_LAUGH	
 0x745a	0x98	Gio		Wahaha, it seems you	
@@ -1198,7 +1198,7 @@ EV_1_S11_boss_battle
 0x16947	0x06	ALTO		ANI_BATTOU	
 0x16977	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
 0x169b7	0x98	ALTO	#1W#6A	Tch, I don't know what's going on, but...	
-				Looks like the altar is falling down!	
+				Looks like the altar went into the floor!	
 0x16a24	0x98	ALTO	#0W#6A	In this case, we have no	
 				choice but to fight...	
 				Let's go, Noi!	
@@ -1269,8 +1269,7 @@ EV_1_S12_battle_end
 				job supporting him too, Noi.	
 0x17f7c	0x98	NOI		Wha...?	
 0x17faa	0x98	ALTO	#6A	Well, uh... I guess.	
-				But of course,	
-				I'm exhausted...	
+				But still, I'm exhausted...	
 0x1801b	0x06	Signa		ANI_NOD	
 0x18060	0x98	Signa		Heh, as your big bro,	
 				I'm proud of you.	

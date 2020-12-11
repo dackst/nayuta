@@ -9,8 +9,8 @@ BossJump
 0x1016	0x06	b006		BE_TAIL_BTL	
 boss_dead					
 0x13fa	0x06	PLAYER1		ANI_JUMP2	
-0x177a	0x41	None	#2E#733c#4W	...I... will...	
-				...the... mission...#0E	
+0x177a	0x41	None	#2E#733c#4W	...I...will...	
+				...the...mission...#0E	
 Waist_Turn					
 EV_Waist_Turn					
 0x1b73	0x06	PLAYER1		ANI_WAIT	

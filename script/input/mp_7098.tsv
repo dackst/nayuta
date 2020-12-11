@@ -39,7 +39,7 @@ EV_7_S05_check_starball
 				also plays a crucial role in	
 				executing the Recreation.	
 0x2697	0x06	ALTO		ANI_GESTURE2	
-0x26c1	0x98	ALTO		What... role is that?	
+0x26c1	0x98	ALTO		What...role is that?	
 0x2728	0x41	None	#0W#1E#889c	Allow me to tell you.#0E	
 0x27a4	0x6B	ALTO		Exclamation	
 0x27d6	0x6B	NOI		Exclamation	
@@ -136,7 +136,7 @@ EV_7_S06_meet_seram
 0x42b4	0x98	ALTO		So... you think the correct	
 				thing to do now is erasing	
 				the current surface!?	
-0x4311	0x98	ALTO		That's... that's just not right!	
+0x4311	0x98	ALTO		That's... That's just not right!	
 0x4351	0x06	ALTO		ANI_GESTURE2	
 0x4399	0x98	ALTO		If you were the same person I	
 				knew on Remnant Island, you	
@@ -183,7 +183,7 @@ EV_7_S06_meet_seram
 0x4f95	0x98	NOI	#1W#6A	Got it... I'll let you	
 				handle this one, Nayuta.	
 0x5015	0x06	NOI		ANI_GUTSPOSE	
-0x5054	0x98	NOI	#0W#6A	I'm sure... this must be	
+0x5054	0x98	NOI	#0W#6A	I'm sure... This must be	
 				something that only his	
 				best friend can accomplish. 	
 0x52ce	0x98	Seram	#2W	Heheh...	mp_0110 0x20945
@@ -367,7 +367,7 @@ EV_7_S09_seram_stone
 0x951c	0x98	Zext		Creha...? Ah, that	
 				good-for-nothing	
 				daughter of mine.	
-0x956d	0x98	Zext		Heheh, now... where, indeed?	
+0x956d	0x98	Zext		Heheh, now... Where, indeed?	
 0x95b6	0x6B	Signa		Exclamation	
 0x95e9	0x06	Signa		ANI_GESTURE1	
 0x9614	0x98	Signa	#6A	Hey, wait... This feeling...	
@@ -396,7 +396,7 @@ EV_7_S09_seram_stone
 0x9a93	0x06	ALTO		ANI_TENSION_STRONG_DENY	
 0x9ac8	0x98	ALTO	#1W#6A	Oh, no!	
 0x9afd	0x06	NOI		ANI_GESTURE1	
-0x9b26	0x98	NOI	#0W#6A	No... way...	
+0x9b26	0x98	NOI	#0W#6A	No...way...	
 0x9cb5	0x06	Signa		ANI_WAIT3	
 0xa0a2	0x98	Signa	#16S	Zext, you bastard!!	
 0xa42a	0x06	Signa		ANI_WAIT3	
@@ -443,7 +443,7 @@ EV_7_S09_seram_stone
 0xccf2	0x06	NOI		ANI_COMPLAIN	
 0xcd1b	0x98	NOI		Are you all right!?	mp_0001c 0x6067
 0xcdc2	0x98	Signa	#1W#6A#180x#220y	Don't mind me...	
-				...After... him...!	
+				...After...him...!	
 0xce63	0x98	Signa	#0W#6A#180x#220y	I'll open the way	
 				for you now...	
 0xcebc	0x06	Signa		ANI_RISE_HAND	
@@ -454,7 +454,7 @@ EV_7_S09_seram_stone
 				past the next area...	
 0xd2ac	0x98	Signa	#2W#6A#180x#220y	Hurry, go...!	
 0xd337	0x98	ALTO		Cygna!!	mp_6100 0x605e
-0xd3ac	0x98	Signa	#1W#6A#180x#220y	You're... the only one	
+0xd3ac	0x98	Signa	#1W#6A#180x#220y	You're...the only one	
 				who can stop him now...	
 0xd457	0x98	Signa	#0W#6A#180x#220y	...You can handle the rest, partner...	
 0xd525	0x6B	ALTO		Exclamation	
@@ -464,7 +464,7 @@ EV_7_S09_seram_stone
 0xd619	0x98	ALTO	#16S	Open your eyes, Cygna!!	
 0xd660	0x06	NOI		ANI_GESTURE1	
 0xd689	0x98	NOI		...W-Wait! Maybe...	
-0xda52	0x98	ALTO		D-Did he just... turn into stone!?	
+0xda52	0x98	ALTO		D-Did he just...turn into stone!?	
 0xdae6	0x98	NOI		It's the Mitos suspended	
 				near-death state.	
 0xdb30	0x06	NOI		ANI_GESTURE1	

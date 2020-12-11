@@ -271,7 +271,7 @@ talk_Asa_sub
 0x5ec4	0x98	Asa		Anyway, don't do	
 				anything too dangerous.	
 0x5f10	0x98	Asa		I'll make you a lunch box,	
-				so be careful and have a	
+				so be careful, and have a	
 				good trip.	
 0x5fbf	0x98	ALTO		Huh, Eartha? I thought you	
 				were going out for work.	
@@ -1662,7 +1662,7 @@ EV_0_S16_noi_wakeup
 				about how you got there...	
 0x1d7b4	0x98	ALTO	#6A	Are you a fairy, like from a fairy tale?	
 				And, for something completely different─	
-0x1d866	0x98	NOI		Passed out... in the ruins...?	
+0x1d866	0x98	NOI		Passed out...in the ruins...?	
 0x1d910	0x98	NOI		...Right, I ran away from them	
 				in order to protect it...	
 0x1d96a	0x98	NOI		So when the power they stole from me went out	
@@ -1884,7 +1884,7 @@ EV_3_S00_detect_disease
 0x21f4d	0x98	Hydol		Nayuta, have you...	
 0x21f80	0x98	Hydol		Have you ever heard	
 				the name Hell Fever?	
-0x21ff0	0x98	ALTO	#1W#6A	...Hell... Fever...?	
+0x21ff0	0x98	ALTO	#1W#6A	...Hell...Fever...?	
 				Umm, I think so...	
 0x22041	0x06	Hydol		ANI_WAIT3	
 0x22069	0x98	Hydol		It's the name of a mysterious disease	
@@ -1927,7 +1927,7 @@ EV_3_S00_detect_disease
 0x22af5	0x98	Asa_b	#1W#12S#6A#170x#220y	I'm sorry...	
 0x22b4b	0x98	Asa_b	#2W#12S#6A#170x#220y	It was just after...	
 				#12S...After you left for the Academy.	
-0x22bd0	0x98	Asa_b	#3W#12S#6A#170x#220y	I didn't want... you to put your	
+0x22bd0	0x98	Asa_b	#3W#12S#6A#170x#220y	I didn't want...you to put your	
 				#12Sdream on hold because of me...	
 0x22c4c	0x98	Asa_b	#3W#12S#6A#170x#220y	...I'm really sorry...	
 0x22ccf	0x06	ALTO		ANI_FIND	
@@ -1975,10 +1975,10 @@ EV_3_S00_detect_disease
 				I overheard part of	
 				your conversation...	
 0x23c1e	0x98	Lyra	#1W	Hey, Nayuta...	
-				Is Eartha... going to be okay?	
+				Is Eartha...going to be okay?	
 0x23c68	0x06	Lyra		ANI_COMPLAIN	
 0x23c92	0x98	Lyra	#1W	...She's not gonna die or	
-				or anything... right!?	
+				or anything...right!?	
 0x23ce3	0x06	ALTO		ANI_NOD	
 0x23d2e	0x98	ALTO	#6A	...Don't worry, she'll be fine.	
 0x23d6e	0x98	ALTO	#6A	Eartha, I'll...	
@@ -2037,7 +2037,7 @@ EV_3_S22_recovery_asa
 0x256c0	0x06	Asa_b		ANI_TAKED_HAND_IN_BED	
 0x2570a	0x98	ALTO	#3W#6A	Eartha... Thank you!	
 				Oh, thank you!	
-0x25786	0x98	ALTO	#2W#6A	I... I... I was really	
+0x25786	0x98	ALTO	#2W#6A	I... I was really	
 				worried, you know!?	
 0x2590f	0x98	Asa_b	#1W#300x#0y	I'm sorry. I didn't mean	
 				to worry you so much...	
@@ -2104,7 +2104,7 @@ EV_3_S22_recovery_asa
 0x27446	0x98	ALTO		...That's right, I have	
 				to thank you again, Lyra.	
 0x274a5	0x98	ALTO		You've been coming to help 	
-				me out ever since Eartha...	
+				me out ever since she...	
 				You really saved me.	
 0x2750d	0x6B	Lyra		Unknown	
 0x2753f	0x06	Lyra		ANI_DULL	
@@ -2269,7 +2269,7 @@ EV_3_S23_confide_asa
 				a long story, but...	
 				Please listen.	
 0x2a7a7	0x40	UNDEF		Nayuta explained all the events that	
-				occurred in Terra one-by-one.	
+				occurred in Terra one by one.	
 0x2a80f	0x40	UNDEF		He explained as carefully as he	
 				could about his battles with Noi,	
 				and about Cygna disappearing...	
@@ -2328,7 +2328,7 @@ EV_3_S23_confide_asa
 0x2b57f	0x06	NOI		ANI_WORRIED	
 0x2b5e9	0x98	NOI	#6A	Hmm, well, I'll have	
 				to ask Lady Creha...	
-0x2b658	0x98	Asa_b		Hehe, then I'll look forward to it.	
+0x2b658	0x98	Asa_b		Hehe, then I'll be ready for her.	
 0x2b6a5	0x98	Asa_b		I'll prepare tea and sweets, so	
 				please try to convince her.	
 0x2b746	0x06	ALTO		ANI_SIT1_NOD	
@@ -2542,7 +2542,7 @@ EV_6_S00_wakeup_nayuta
 0x2fb4f	0x98	ALTO_pj	#1W	..........Huh...?	
 0x2fbdf	0x06	ALTO_pj		ANI_WAKE_UP_IN_BED	
 0x2fcde	0x6B	ALTO_pj		Ellipsis	
-0x2fe8a	0x98	ALTO_pj	#1W	...Is this... my room...?	
+0x2fe8a	0x98	ALTO_pj	#1W	...Is this...my room...?	
 0x2fed0	0x3F	Name		Girl's Voice	mp_0004 0x13851
 0x2fee4	0x98	NOI		Nayuta, are you okay...?	
 				You having another nightmare...?	
@@ -2576,7 +2576,7 @@ EV_6_S00_wakeup_nayuta
 0x31074	0x98	ALTO_pj	#0W#6A	We have to go back to Terra	
 				and stop Creha and Cygna!	
 0x310e7	0x06	NOI		ANI_DENY	
-0x3114e	0x98	NOI		B-But... now it's...	
+0x3114e	0x98	NOI		B-But...now it's...	
 0x311c6	0x98	ALTO_pj	#6A#16S	Shut up, Noi!	
 				#16SI'll do it myself...!	
 0x3125f	0x98	Asa		What's the matter,	
@@ -2666,8 +2666,8 @@ EV_6_S02_state_order
 				I should at least show	
 				myself to everyone...	
 0x32db8	0x06	NOI		ANI_COMPLAIN	
-0x32de1	0x98	NOI	#0W	B-But are you... sure?	
-				Going... with me...	
+0x32de1	0x98	NOI	#0W	B-But are you...sure?	
+				Going...with me...	
 0x32e4b	0x98	ALTO_pj	#0W#6A	...It's fine. I just	
 				need to get some fresh	
 				air for now...	
@@ -2851,7 +2851,7 @@ EV_8_S04_talk_noi
 0x35eb8	0x06	Asa		ANI_GESTURE2	
 0x35ee1	0x98	Asa		...Nayuta, what will you do?	
 0x35f39	0x98	ALTO	#6A	...I'll do it.	
-0x35f6c	0x98	ALTO	#6A	Over on Terra... something's	
+0x35f6c	0x98	ALTO	#6A	Over on Terra... Something's	
 				happened to Cygna and Creha.	
 0x35fc6	0x98	ALTO	#6A	There's no way we can	
 				just ignore this!	

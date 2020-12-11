@@ -73,7 +73,7 @@ EV_5_S09_meet_seram
 				turning around immediately	
 				is in your own best interest.	
 0x2ec1	0x06	ALTO		ANI_LAUGH	
-0x2ef6	0x98	ALTO	#1W#6A	...Haha, of course.	
+0x2ef6	0x98	ALTO	#1W#6A	...Haha, I knew it.	
 0x2f3a	0x6B	NOI		Question	
 0x3021	0x98	NOI	#2W	Nayuta?	mp_0001c 0x4001
 0x3060	0x98	ALTO	#0W	...What you just said was	
@@ -97,7 +97,7 @@ EV_5_S09_meet_seram
 0x3791	0x06	Signa		ANI_TAKE_HELMET2-2	
 0x390d	0x98	NOI	#2W#16S#500x#500y	！！！！	mp_0101b 0x3636
 0x3949	0x98	ALTO	#0x#500y#0W	...I didn't want to believe it.	
-0x399b	0x98	NOI	#500x#500y#1W	Selam is... Cygna!?	
+0x399b	0x98	NOI	#500x#500y#1W	Selam is...Cygna!?	
 0x39f5	0x98	NOI	#500x#500y#2W	H-How...? Why...!?	
 0x3a9d	0x98	Signa		It's easy to understand	
 				why Noi didn't notice.	

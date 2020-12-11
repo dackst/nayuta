@@ -7,7 +7,7 @@ talk_Erislet
 0x19b1	0x98	Erislet		It could potentially be related to	
 				the entire world of Terra itself.	
 0x1a0e	0x98	Erislet		...If Zext wasn't lying, that is.	
-0x1a7a	0x98	Erislet		We wardens will attemptd	
+0x1a7a	0x98	Erislet		We wardens will attempt	
 				to control the astral	
 				power from our temples.	
 0x1aef	0x98	Erislet		I leave taking care of	
@@ -17,7 +17,7 @@ talk_Erislet
 0x1bb3	0x98	Erislet		...I wonder what could have	
 				happened to Lady Creha.	
 				I've got a bad feeling about this...	
-0x1c4f	0x98	Erislet		We wardens will attemptd	mp_2099 0x1a7a
+0x1c4f	0x98	Erislet		We wardens will attempt	mp_2099 0x1a7a
 				to control the astral	
 				power from our temples.	
 0x1cc4	0x98	Erislet		I leave taking care of	mp_2099 0x1aef
@@ -967,7 +967,7 @@ EV_2_S23_boss_battle
 0x14c0b	0x6B	ALTO		Exclamation	
 0x14c3d	0x6B	NOI		Exclamation	
 0x14c6e	0x06	Zext		ANI_PUT_UP_ROD_END	
-0x14d08	0x98	Zext		I do not have the	
+0x14d08	0x98	Zext		I have not the	
 				time to entertain	
 				you two right now.	
 0x14d5f	0x98	Zext		You can just stand	
@@ -1120,7 +1120,7 @@ EV_2_S26_get_gear_2nd
 				something's happened	
 				in the Garden!!	
 0x1a38f	0x06	ALTO		ANI_NOD	
-0x1a3b4	0x98	ALTO	#6A	Oh, yeah... right!	
+0x1a3b4	0x98	ALTO	#6A	Oh, yeah... Right!	
 0x1a430	0x98	ALTO	#6A	But first, we should	
 				grab the Master Gear.	
 0x1a4c4	0x98	NOI	#6A	Oh, that's true...	

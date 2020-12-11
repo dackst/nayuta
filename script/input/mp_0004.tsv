@@ -117,7 +117,7 @@ subev_return_island1
 				We really went to	
 				Lost Heaven!!	
 0x4ac1	0x06	ALTO		ANI_GUTSPOSE	
-0x4aeb	0x98	ALTO		And there has to be more.	
+0x4aeb	0x98	ALTO		And there HAS to be more.	
 				There's a whole endless world	
 				out there to explore...!	
 0x4b76	0x98	Signa		C-Calm down!	
@@ -152,7 +152,7 @@ subev_return_island1
 0x5014	0x98	Signa		Eartha should be back by	
 				now. We gotta come up with	
 				something to tell her.	
-0x506e	0x98	ALTO		Oh right. Seems like we're	
+0x506e	0x98	ALTO		Oh, right. Seems like we're	
 				going to be away from home	
 				pretty often from now on.	
 0x50ca	0x98	ALTO		Hmm, what to say...	

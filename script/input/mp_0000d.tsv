@@ -22,7 +22,7 @@ talk_Dorado
 0xe1f	0x98	Dorado		...Ooh... I'm so sorry	
 				I couldn't protect you!	
 0xe72	0x98	ALTO		(...Dorado...)	
-0xec8	0x98	Dorado		The village was attacked, 	
+0xec8	0x98	Dorado		The village was attacked,	
 				and Creha was kidnapped...	
 0xf1f	0x98	Dorado		I... Ooh, I'm so pathetic...	
 				I wonder if I can still be	
@@ -242,7 +242,7 @@ EV_4_S31_escape_village
 0x5d93	0x98	Barton	#6A	The museum is pretty study,	
 				so it should be able to hold	
 				off attacks from those armors.	
-0x5e4c	0x98	Barton	#6A	We will be responsible 	
+0x5e4c	0x98	Barton	#6A	We will be responsible	
 				for protecting Eartha	
 				and Lyra from danger.	
 0x5eb8	0x06	Creha		ANI_DENY	
@@ -319,7 +319,7 @@ EV_5_S00_talk_islander
 0x78d2	0x6B	ALTO		Surprise	
 0x7b80	0x98	Lyra	#6A	Eartha...	
 0x7bac	0x06	Lyra		ANI_GESTURE2	
-0x7bd6	0x98	Lyra	#6A	Are your wounds okay, Mr. Orvus?	
+0x7bd6	0x98	Lyra	#6A	Are your wounds okay, Orvus?	
 0x7c46	0x98	Aulbath		Mm, they are not serious.	
 0x7d37	0x98	Aulbath		...More importantly, Elder.	
 0x7d76	0x06	Aulbath		ANI_NOD	

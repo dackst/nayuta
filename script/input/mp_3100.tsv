@@ -29,7 +29,7 @@ EV_3_S14_temple3_front
 				and meddling in our affairs...	
 0x1130	0x98	Seram		Heh, there are some real	
 				crazies out there.	
-0x1181	0x98	ALTO	#6A	...You're here to shut down	
+0x1181	0x98	ALTO	#6A	...You're going to shut down	
 				this temple, aren't you?	
 0x11d4	0x06	NOI		ANI_ANGRYTALK	
 0x11fe	0x98	NOI		But first, we will take back the	
@@ -37,7 +37,7 @@ EV_3_S14_temple3_front
 0x1278	0x98	Seram		Heh... That's why I said	
 				you're so carefree.	
 0x139c	0x06	Seram		ANI_GESTURE2	
-0x13c7	0x98	Seram		I'm not here 'to shut it down.'	
+0x13c7	0x98	Seram		I'm not 'going to shut it down.'	
 				I have already done so.	
 0x1452	0x6B	ALTO		Surprise	
 0x147c	0x6B	NOI		Surprise	
@@ -92,7 +92,7 @@ EV_3_S14_temple3_front
 				what happens in this world.	
 0x2bfb	0x98	ALTO		It IS my business!	
 				Because it's Noi's world!	
-0x2cc8	0x98	ALTO	#0W	And... my, my sister's been sick...!	
+0x2cc8	0x98	ALTO	#0W	And... M-My sister's been sick...!	
 0x2d71	0x98	ALTO		With the Master Gear,	
 				I could get the herbs	
 				she needs, so I...!!	
@@ -135,7 +135,7 @@ EV_3_S14_temple3_front
 				Later.	
 0x3af8	0x6B	ALTO		Ellipsis	
 0x3b22	0x6B	NOI		Ellipsis	
-0x3b53	0x98	ALTO	#6A	This world's... true form...?	
+0x3b53	0x98	ALTO	#6A	This world's...true form...?	
 0x3baf	0x98	ALTO	#6A	Noi, do you know what this─	
 0x3c02	0x98	NOI	#0W	It can't be...	
 				Lord Selam...!?	

@@ -207,7 +207,7 @@ EV_2_S11_set_gear_1st
 0x8268	0x98	NOI		This is the Astrolabe...	
 0x82a9	0x98	NOI		It's a machine that controls the	
 				climate and biosphere of Terra.	
-0x8323	0x98	ALTO	#6A	Controls the... climate and biosphere...!?	
+0x8323	0x98	ALTO	#6A	Controls the...climate and biosphere...!?	
 0x8363	0x98	ALTO	#6A	...Ha..haha... That's	
 				TOO incredible. I think	
 				I misheard you...	
@@ -307,7 +307,7 @@ EV_2_S13_use_astrolabe
 0xa377	0x06	ALTO		ANI_GESTURE2	
 0xa3a1	0x98	ALTO		On that subject...	
 				Wasn't Geo trapped	
-				on Oltapia?	
+				in Oltapia?	
 0xa408	0x98	NOI	#6A	Yeah... Now that we can return	
 				the climate back to normal, maybe	
 				we can save him!	
@@ -429,7 +429,7 @@ EV_3_S07_use_astrolabe
 				him and Zext, too.	
 0xe40b	0xBC	Creha		Question	
 0xe460	0x06	Creha		ANI_WAIT4	
-0xe488	0x98	Creha		Cygna... and Zext?	
+0xe488	0x98	Creha		Cygna...and Zext?	
 0xe4f6	0x06	ALTO		ANI_WAIT4	
 0xe51d	0x98	ALTO		Uh, Cygna is my friend who's	
 				been missing for a while now...	
@@ -959,7 +959,7 @@ EV_8_S17_happy_end
 				never see everyone again...	
 0x1bdb0	0x06	NOI		ANI_DENY	
 0x1bde3	0x98	NOI	#2W#6A	...And to go from that...	
-				...To this... again...!	
+				...To this...again...!	
 0x1beb2	0x98	NOI	#7W#6A	Ooooh...	
 0x1bf0b	0x06	NOI		ANI_CRY	
 0x1bf6e	0x98	NOI	#6W#18S#6A	Uwaaaaaah...!!	
@@ -1037,7 +1037,7 @@ EV_8_S17_happy_end
 				everyone in the village...	
 				All our loved ones...	
 0x1d547	0x06	Creha2		ANI_GESTURE2	
-0x1d581	0x98	Creha2	#1W	I... want to go to the surface.	
+0x1d581	0x98	Creha2	#1W	I...want to go to the surface.	
 0x1d5f4	0x06	NOI		ANI_NOD	
 0x1d660	0x98	NOI	#1W#6A	I want... I want to live	
 				together with Nayuta,	
@@ -1107,7 +1107,7 @@ EV_4_S26_set_gear_4th
 0x20860	0x06	Signa		ANI_WAIT3	
 0x20888	0x98	Signa	#6A	...Maybe it's because all of	
 				the temples were disabled.	
-0x208e5	0x98	Signa	#6A	I mean... the astral power	
+0x208e5	0x98	Signa	#6A	I mean... The astral power	
 				or whatever has gone haywire	
 				everywhere, right?	
 0x2095d	0x98	NOI	#0W	Um, I guess so, but...	

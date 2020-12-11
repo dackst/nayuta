@@ -45,7 +45,7 @@ talk_Algorl
 				you must never give up.	
 0x37e4	0x98	Algorl		For Terra and Lady Creha...	
 				Please, take care of them.	
-0x3866	0x98	Algorl		Hmm... as expected, I am currently in	
+0x3866	0x98	Algorl		Hmm... As expected, I am currently in	
 				no condition to restart this temple.	
 0x38c2	0x98	Algorl		It seems that while I was imprisoned,	
 				the situation grew worse by the second.	
@@ -833,8 +833,8 @@ EV_3_S16_boss_battle
 				The Master Gear of Wind!	
 0x113ed	0x98	ALTO		Thank goodness... We found it!	
 0x114ce	0x06	ALTO		ANI_WAIT4	
-0x114f5	0x98	ALTO	#6A	Can't believe they really did	
-				just leave it behind again...	
+0x114f5	0x98	ALTO	#6A	They really did just	
+				left it behind again...	
 0x1153b	0x98	ALTO	#6A	It's just as Selam said.	
 0x11597	0x6B	ALTO		Surprise	
 0x11685	0x06	ALTO		ANI_THINK2	
@@ -855,7 +855,7 @@ EV_3_S16_boss_battle
 				they created Terra...	
 0x11919	0x98	ALTO	#6A	They're almost like what we would	
 				call 'gods' back in my world.	
-0x1198e	0x98	NOI	#0W#6A#12S	...Because they ARE...	
+0x1198e	0x98	NOI	#0W#6A#12S	...Because they are...	
 0x11a26	0x98	ALTO	#6A	Huh, what did you say?	
 0x11ab3	0x06	NOI		ANI_DENY	
 0x11ad8	0x98	NOI	#6A	...I-It's nothing.	
@@ -864,7 +864,7 @@ EV_3_S16_boss_battle
 0x11b63	0x06	ALTO		ANI_NOD	
 0x11b88	0x98	ALTO	#6A	...Yeah, let's go.	
 0x11bb9	0x98	ALTO	#6A	Now we can revive the Yupina	
-				Grass and save my sister-	
+				Grass and save my sister─	
 0x11c52	0x6B	ALTO		Surprise	
 0x11c7c	0x6B	NOI		Surprise	
 0x11e4e	0x98	ALTO	#16S	What...!?	mp_1100 0x4966

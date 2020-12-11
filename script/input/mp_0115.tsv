@@ -167,7 +167,7 @@ talk_Volans
 0x2e82	0x98	Volans		Unless... star shards, this island's	
 				specialty, and the brilliant world	
 				projected from within them...	
-0x2f1c	0x98	Volans		Nayuta, could you... could you have	
+0x2f1c	0x98	Volans		Nayuta, could you... Could you have	
 				some relation to Lost Heaven...?	
 0x2f89	0x6B	Volans		Ellipsis	
 0x2fbd	0x6B	ALTO		Unknown	
@@ -258,8 +258,8 @@ talk_Volans
 				meet someone here on this island	
 				who I could talk to like this!	
 0x40df	0x98	Volans		Nayuta, you are quite an interesting	
-				young man. Once again, I look forward	
-				to working with you in the future.	
+				young man. Once again, I expect great	
+				things from you in the future.	
 talk_Caelum					
 0x42e2	0x98	Caelum		By the way... You have brought us	
 				a great many donations, Nayuta.	
@@ -516,7 +516,7 @@ talk_Caelum_sub
 				a cute boy like Nayuta in a	
 				remote place like this. ㈱	
 0x8ccd	0x98	Caelum		We actually have two more members	
-				of the researcher team, but Vavo	
+				of the research team, but Vavo	
 				is out of town...	
 0x8d33	0x98	Caelum		And Coron is very shy～!	
 0x8d69	0x98	Caelum		...She's my younger twin sister,	
@@ -844,7 +844,7 @@ tuto_museum_force3
 tuto_museum_common					
 0xe020	0x06	ALTO		ANI_GESTURE2	
 0xe04a	0x98	ALTO	#6A	Umm, what is that moving thing	
-				next to the reception desk?	
+				behind the reception desk?	
 0xe0a6	0x98	ALTO	#6A	I'm interested in the statues	
 				on the sides, too...	
 0xe1a3	0x06	Volans		ANI_WAIT3	
@@ -910,7 +910,7 @@ tuto_museum_common
 0xee37	0x06	Caelum		ANI_WAIT	
 0xee5f	0x06	ALTO		ANI_DEJECTED	
 0xee89	0x6B	ALTO		Sweatdrop	
-0xeebb	0x98	ALTO	#6A	I-Is that so...?	mp_0101 0x51b9
+0xeebb	0x98	ALTO	#6A	I-I see...	
 0xeeed	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xef1b	0x98	ALTO	#6A	Hm, it seems like being able to see	
 				real exhibits is a long way off.	

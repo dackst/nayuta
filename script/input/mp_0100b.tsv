@@ -4,7 +4,7 @@ EV_6_S35_bombard_earth
 0x766	0x06	Creha2		ANI_GRASP_CLOTH	
 0xcee	0x06	ALTO		ANI_FIND	
 0xd14	0x98	ALTO	#1W#6A	.....	mp_0000d 0x70fd
-0xd54	0x98	ALTO	#1W#6A	...That's... our world...	
+0xd54	0x98	ALTO	#1W#6A	...That's...our world...	
 0xda8	0x98	ALTO	#0W#6A	That's... what's... beyond	
 				the End of the World...?	
 0xe25	0x06	NOI		ANI_DENY	
@@ -77,8 +77,8 @@ EV_7_S20_byebye_tera
 0x2cc8	0x06	ALTO		ANI_FLY_IN_SPACE	
 0x30ad	0x98	ALTO	#2W	.........	mp_0003 0xc610
 0x3139	0x98	ALTO	#1W	...What... What is this place...?	
-0x31bd	0x98	ALTO	#0W	Is this a... dream...?	
-0x3247	0x98	ALTO	#0W	I feel... sleepy...	
+0x31bd	0x98	ALTO	#0W	Is this a...dream...?	
+0x3247	0x98	ALTO	#0W	I feel...sleepy...	
 0x32b5	0x41	None	#0W#2E#226c	...This is not a dream.#0E	
 0x3336	0x41	None	#1W#2E#226c	See, look down.#0E	
 0x3418	0x98	ALTO	#1W	Huh...?	mp_0001 0x166ea
@@ -97,7 +97,7 @@ EV_7_S20_byebye_tera
 0x3d3f	0x98	Signa	#0W	Because of all this, Terra has	
 				completely exhausted its power.	
 0x3d9d	0x98	ALTO	#0W#6A	Huh...?	mp_0001 0x166ea
-0x3eab	0x98	ALTO	#0W#440x#230y	It's so... far...	
+0x3eab	0x98	ALTO	#0W#440x#230y	It's so...far...	
 0x3fc4	0x06	Creha3		ANI_GESTURE1	
 0x3ff8	0x98	Creha3	#0W	The recoil earlier	
 				knocked it out of orbit.	

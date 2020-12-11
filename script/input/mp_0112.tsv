@@ -1716,7 +1716,7 @@ talk_Equlea
 0x177a4	0x98	Equlea		Since the abnormalities started,	mp_0112 0x176f8
 				I've been worried, but...	
 				I have to do my best as well.	
-0x1787e	0x98	Equlea		Oh, Ms. Fairy... are you	
+0x1787e	0x98	Equlea		Oh, Ms. Fairy... Are you	
 				taking a walk with Nayuta?	
 0x178d8	0x98	Equlea		I mean, you guys look	
 				pretty down...	
@@ -1995,7 +1995,7 @@ QS_58_ask_reason
 0x1b17b	0x98	Mensa		I know it sounds	
 				strange, but...	
 0x1b1c8	0x98	Mensa		A will is a powerful thing.	
-0x1b210	0x98	Mensa		And... this was our client's last request.	
+0x1b210	0x98	Mensa		And...this was our client's final request.	
 				We're obligated to fulfill it at all costs.	
 0x1b28c	0x06	Mensa		ANI_SIT1_GESTURE2	
 0x1b2bc	0x98	Mensa		You should understand. You're	
@@ -2587,7 +2587,7 @@ QS_25_quest_end
 0x23959	0xC1	System		received.	mp_0000 0x12596
 0x23a2b	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x23a5a	0x98	ALTO	#6A	Wow, what a strange model...	
-				Are you sure you want to have this?	
+				Are you sure you want me to have this?	
 0x23ac5	0x06	Hydol		ANI_GESTURE1	
 0x23af0	0x98	Hydol		You know, it's just a small	
 				token of my gratitude.	
@@ -2620,7 +2620,7 @@ QS_25_quest_end
 				Really, thank you.	
 0x23fb3	0x06	Hydol		ANI_GESTURE2	
 0x23fde	0x98	Hydol		If you ever feel sick, please	
-				feel free to stopy by.	
+				feel free to stop by.	
 0x24034	0x98	Hydol		I plan on staying here a	
 				little while longer, so	
 				I'll see you again soon.	
@@ -2798,7 +2798,7 @@ QS_41_undertake
 0x267c7	0x98	ALTO	#6A	Do either of you have any idea	
 				where she might have gone?	
 0x268a7	0x06	Pecula		ANI_NOD	
-0x268ce	0x98	Pecula		A-Ahem... Indeed.	
+0x268ce	0x98	Pecula		A-Ahem... Of course.	
 0x26906	0x06	Pecula		ANI_THINK	
 0x2692f	0x98	Pecula		Come to think of it, the other day	
 				I remember her peeking around looking	

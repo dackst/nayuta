@@ -60,7 +60,7 @@ talk_Dorado
 				she'd be in the strike zone...	
 0x3091	0x98	Dorado		Nah, maybe if I make a good	
 				impression on her now, then	
-				later... Later...	
+				later... later...	
 0x30fd	0x98	ALTO		(Is he serious...?)	
 0x3158	0x98	Dorado		For now, I just have to make	
 				a good impression on Creha.	
@@ -525,7 +525,7 @@ talk_Sculp
 0x8907	0x98	Sculp		Thanks to her, I was able to	
 				do my work much faster today.	
 				Haha, she was a big help.	
-0x899a	0x98	Sculp		Creha... Was it?	
+0x899a	0x98	Sculp		Creha... was it?	
 0x89d9	0x98	Sculp		She's beautiful, graceful,	
 				and above all, considerate.	
 				Yup, she's a good kid.	
@@ -621,7 +621,7 @@ talk_Sculp_add
 				the lineup of vegetables for sale at	
 				the general store will increase.	
 0x9d16	0x07	System	#4C	If you find soil,	
-				be sure to bring it here.	
+				be sure to bring it to him.	
 0x9dac	0x98	Sculp		Hmm, Nayuta...	
 				It looks like you have	
 				some good soil again.	
@@ -988,7 +988,7 @@ QS_38_ask_reason
 0xef80	0x98	ALTO	#6A	Pigment...? Like for paint?	
 				What for...?	
 0xefcd	0x06	Horolo		ANI_TALK	
-0xeff5	0x98	Horolo		Well you see, Pyxia and I	
+0xeff5	0x98	Horolo		Well, you see, Pyxia and I	
 				are artists in the making.	
 0xf04a	0x98	Horolo		Pyxia is a painter,	
 				and I am a sculptor.	
@@ -1014,7 +1014,7 @@ QS_38_ask_reason
 0xf393	0x98	Pyxia		What's more, Horolo's chisel	
 				just destroys my canvases.	
 0xf3e6	0x6B	ALTO		Sweatdrop	
-0xf418	0x98	ALTO	#6A	That's... a problem.	
+0xf418	0x98	ALTO	#6A	That's...a problem.	
 0xf44e	0x06	Pyxia		ANI_GESTURE2	
 0xf479	0x98	Pyxia		Well, with art supplies,	
 				you can use various things	
@@ -1099,7 +1099,7 @@ QS_38_quest_end
 0x10490	0x98	Pyxia	#18S	Here on Remnant Island,	
 				#18SI'll make a painting that	
 				#18Swill go down in history!!	
-0x1052e	0x98	Pyxia	#18S	I will graduate from being a egg of an artist,	
+0x1052e	0x98	Pyxia	#18S	I will graduate from being an egg of an artist,	
 				#18Sand become a chicken in one big leap!!	
 0x105c9	0x6B	Pyxia		Unknown	
 0x105fc	0x6B	ALTO		Sweatdrop	
@@ -1262,7 +1262,7 @@ QS_11_second_hint
 				hole peering at the sky.	
 0x12d1e	0x06	ALTO		ANI_LOOK_AROUND	
 0x12d71	0x6B	ALTO		Surprise	
-0x12dc7	0x98	ALTO		Huh? Is this... a note?	
+0x12dc7	0x98	ALTO		Huh? Is this...a note?	
 0x12dff	0x06	ALTO		ANI_THINK2	
 0x12e27	0x98	ALTO		'A place where you can go up stairs	
 				 and see over everyone's heads'...	
@@ -1295,8 +1295,8 @@ QS_11_fourth_hint
 0x13654	0x98	Dorado		Hey, what's wrong, Nayuta?	
 				Is there something on my face?	
 0x136b3	0x06	ALTO		ANI_THINK2	
-0x136db	0x98	ALTO	#6A	(The note said it was stuck	
-				 on the knight's backside...)	
+0x136db	0x98	ALTO	#6A	(The note said it to check	
+				 the knight's backside...)	
 0x13739	0x98	ALTO	#6A	(If someone mentions a knight in this town,	
 				 they're probably talking about Dorado...)	
 0x137bd	0x06	ALTO		ANI_GESTURE2	
@@ -1454,7 +1454,7 @@ QS_12_quest_end
 0x15a7a	0x06	ALTO		ANI_HANDOVER	
 0x15ad0	0x40	UNDEF		Handed the Eternal Rose to Sculp.	
 0x15b91	0x06	Sculp		ANI_SURPRISE	
-0x15bbc	0x98	Sculp		I-It's... an immensely beautiful flower!?	
+0x15bbc	0x98	Sculp		I-It's...an immensely beautiful flower!?	
 0x15c08	0x06	Sculp		ANI_COMPLAIN	
 0x15c33	0x98	Sculp		I've never seen a flower like this...	
 0x15c79	0x06	ALTO		ANI_GESTURE1	
@@ -1525,7 +1525,7 @@ QS_34_think_and_flash
 0x17020	0x6B	ALTO		Ellipsis	
 0x17052	0x6B	ALTO		Surprise	
 0x1709a	0x06	ALTO		ANI_GOODIDEA	
-0x170ea	0x98	ALTO		(Oh yeah, I think there was a	
+0x170ea	0x98	ALTO		(Oh yeah, I think there was an	
 				 herb shop in Saint Cerise	
 				 that specialized in incense.)	
 0x17150	0x98	ALTO		(They were pretty popular, and they had	
@@ -1609,7 +1609,7 @@ tuto_museum_force1
 				Please follow me if	
 				you're interested.	
 0x185c6	0x06	Volans		ANI_WAIT0	
-0x185ef	0x98	Volans		Few visitors have come so far,	
+0x185ef	0x98	Volans		Few visitors have come so far.	
 				If you'd like, allow me to	
 				show you around.	
 0x18689	0x06	ALTO		ANI_THINK	
@@ -1655,7 +1655,7 @@ EV_0_S02_morn_town
 				beautiful meteor shower.	
 				I was totally distracted!	
 0x19781	0x06	ALTO		ANI_RUB_EYE	
-0x197c8	0x98	ALTO		Mmm, mmm... sleepy...	
+0x197c8	0x98	ALTO		Mmm, mmm...sleepy...	
 0x19804	0x06	Signa		ANI_GESTURE1	
 0x1982f	0x98	Signa	#6A	Well, get home quickly and have	
 				Eartha make you breakfast. You'll 	

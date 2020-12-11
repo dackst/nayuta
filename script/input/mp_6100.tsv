@@ -62,7 +62,7 @@ EV_0_S15_find_noi
 0x1fd3	0x98	ALTO	#1W#6A	Cygna, what's that?	
 0x2023	0x98	Signa	#2W#6A	Wh-What IS that...?	
 0x227c	0x06	ALTO		ANI_SIT6	
-0x22d0	0x98	Signa	#2W#N	A little... girl?	
+0x22d0	0x98	Signa	#2W#N	A little...girl?	
 0x2319	0x98	Signa	#1W#N	No, she's small, but she	
 				doesn't look like a kid.	
 0x238b	0x98	ALTO	#0W#6A	...Almost like a 'fairy'	
@@ -71,7 +71,7 @@ EV_0_S15_find_noi
 0x243d	0x98	Signa	#2W#N	A f-fairy? Hey, come on,	
 				do you really think that	
 				stuff actually exists?	
-0x24ba	0x98	ALTO	#1W#6A	I dunno... but this girl is	
+0x24ba	0x98	ALTO	#1W#6A	I dunno... But this girl is	
 				right here in front of us.	
 0x2542	0x98	ALTO	#0W#6A	Where did she even come from...?	
 0x2595	0x3F	Name		Fairy?	mp_0110 0x1ca75

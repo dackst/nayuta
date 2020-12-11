@@ -10,7 +10,7 @@ EV_3_S21_get_yupina
 0x618	0x06	NOI		ANI_SURPRISE	
 0x649	0x98	ALTO	#2W#6A	Ah...!?	
 0xa31	0x06	ALTO		ANI_SIT6	
-0xa67	0x98	ALTO	#0W#6A	They're still... withered and dying...	
+0xa67	0x98	ALTO	#0W#6A	They're still...withered and dying...	
 0xab0	0x98	NOI		Things are looking a	
 				little better, but...	
 0xafd	0x98	NOI		Even with Heimmel's normal climate,	
@@ -30,7 +30,7 @@ EV_3_S21_get_yupina
 				I'm sorry, I...	
 0xeea	0x98	ALTO	#0W#6A	...It's not your fault, Noi.	
 0xf2c	0xBC	ALTO		Ellipsis	
-0xf88	0x98	ALTO	#0W#6A	(But my sister... can't be saved anymore...)	
+0xf88	0x98	ALTO	#0W#6A	(But Eartha...can't be saved anymore...)	
 0xfe4	0x98	ALTO	#0W#6A	(I don't want to give up, but...	
 				 There's nothing more that can be done...)	
 0x1055	0x06	st		ANI_PATA1	
@@ -62,7 +62,7 @@ EV_3_S21_get_yupina
 0x2139	0x98	NOI	#0W	...The Shining Wing of the Mitos!	
 0x2282	0x06	Creha		ANI_PRAY	
 0x233a	0x98	Creha	#1W#20M	Please...	
-0x237f	0x98	Creha	#1W#20M	Bloom one more time!	
+0x237f	0x98	Creha	#1W#20M	Bloom once more!	
 0x2615	0xBC	ALTO	noi	Exclamation	
 0x264b	0xBC	NOI		Exclamation	
 0x2693	0x06	NOI		ANI_LOOK_AROUND	
@@ -75,13 +75,13 @@ EV_3_S21_get_yupina
 0x2af3	0x98	ALTO	#6A	Creha, what did you just do!?	
 0x2b7d	0x06	Creha		ANI_DENY	
 0x2bac	0x98	Creha	#0W	...I don't know.	mp_3002c 0x5634
-0x2be1	0x98	Creha	#0W	My body just... acted on its own...	
+0x2be1	0x98	Creha	#0W	My body just...acted on its own...	
 0x2c61	0x98	NOI	#6A	The Shining Wing of the Mitos appears 	
 				when Lady Creha uses her powers.	
 0x2d06	0x98	NOI	#6A	Lady Creha must have resurrected	
 				the Yupina Grass by manipulating	
 				astral power!	
-0x2da4	0x98	Creha		I can... do that...?	
+0x2da4	0x98	Creha		I can...do that...?	
 0x2e0a	0x06	Creha		ANI_NOD	
 0x2e30	0x98	Creha		Though, I'm glad I could be of help.	
 0x2e7d	0x06	ALTO		ANI_THINK2	

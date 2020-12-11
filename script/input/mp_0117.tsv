@@ -349,8 +349,8 @@ QS_11_quest_end
 0x53af	0x98	Bell	#6A	Vel has more like that	
 				that are a lot better.	
 0x53fd	0x06	ALTO		ANI_THANKS	
-0x5425	0x98	ALTO		I-Is that so...?	
-				Then, thanks, I'll keep it.	
+0x5425	0x98	ALTO		R-Really...?	
+				Well, thanks, I'll keep it.	
 0x5475	0x06	Bell		ANI_WAIT2	
 0x549c	0x98	Bell	#6A	Yeah, take care of it!	
 0x54d5	0x06	Bell		ANI_GUTSPOSE	

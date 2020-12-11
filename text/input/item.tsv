@@ -713,7 +713,7 @@
 0xc2c0	name	Pacific Flying Squid
 0xc2d8	desc	Remnant Island specialty. Sun-dried.
 0xc34c	name	Ruins Rock Salt
-0xc364	desc	Remnant Island specialty. Salt crystals created by nature.
+0xc364	desc	Remnant Island specialty. Naturally ocurring salt crystals.
 0xc3d8	name	Island Loco Moco
 0xc3f0	desc	Remnant Island specialty. A dish full of local ingredients.
 0xc464	name	Moon Bird Eggs
@@ -1663,69 +1663,69 @@
 0x1c684	name	Trilobite
 0x1c69c	desc	Ancient fossil through which the time it was alive can be examined.
 0x1c710	name	Swallowtail
-0x1c728	desc	Wild arthropod living in nature.
+0x1c728	desc	Wild arthropod found living in nature.
 0x1c79c	name	Cabbage White
-0x1c7b4	desc	Wild arthropod living in nature.
+0x1c7b4	desc	Wild arthropod found living in nature.
 0x1c828	name	Marbled Fritillary
-0x1c840	desc	Wild arthropod living in nature.
+0x1c840	desc	Wild arthropod found living in nature.
 0x1c8b4	name	Morpho Butterfly
-0x1c8cc	desc	Wild arthropod living in nature.
+0x1c8cc	desc	Wild arthropod found living in nature.
 0x1c940	name	Chinese Grasshopper
-0x1c958	desc	Wild arthropod living in nature.
+0x1c958	desc	Wild arthropod found living in nature.
 0x1c9cc	name	Locust
-0x1c9e4	desc	Wild arthropod living in nature.
+0x1c9e4	desc	Wild arthropod found living in nature.
 0x1ca58	name	Giant Praying Mantis
-0x1ca70	desc	Wild arthropod living in nature.
+0x1ca70	desc	Wild arthropod found living in nature.
 0x1cae4	name	Bell Cricket
-0x1cafc	desc	Wild arthropod living in nature.
+0x1cafc	desc	Wild arthropod found living in nature.
 0x1cb70	name	Singing Cicada
-0x1cb88	desc	Wild arthropod living in nature.
+0x1cb88	desc	Wild arthropod found living in nature.
 0x1cbfc	name	Yezo Cicada
-0x1cc14	desc	Wild arthropod living in nature.
+0x1cc14	desc	Wild arthropod found living in nature.
 0x1cc88	name	Walker's Cicada
-0x1cca0	desc	Wild arthropod living in nature.
+0x1cca0	desc	Wild arthropod found living in nature.
 0x1cd14	name	Evening Cicada
-0x1cd2c	desc	Wild arthropod living in nature.
+0x1cd2c	desc	Wild arthropod found living in nature.
 0x1cda0	name	Jumbo Dragonfly
-0x1cdb8	desc	Wild arthropod living in nature.
+0x1cdb8	desc	Wild arthropod found living in nature.
 0x1ce2c	name	Damselfly
-0x1ce44	desc	Wild arthropod living in nature.
+0x1ce44	desc	Wild arthropod found living in nature.
 0x1ceb8	name	Banded Darter
-0x1ced0	desc	Wild arthropod living in nature.
+0x1ced0	desc	Wild arthropod found living in nature.
 0x1cf44	name	Flutterer
-0x1cf5c	desc	Wild arthropod living in nature.
+0x1cf5c	desc	Wild arthropod found living in nature.
 0x1cfd0	name	Large Stag Beetle
-0x1cfe8	desc	Wild arthropod living in nature.
+0x1cfe8	desc	Wild arthropod found living in nature.
 0x1d05c	name	Sawtooth Stag Beetle
-0x1d074	desc	Wild arthropod living in nature.
+0x1d074	desc	Wild arthropod found living in nature.
 0x1d0e8	name	Longhorn Beetle
-0x1d100	desc	Wild arthropod living in nature.
+0x1d100	desc	Wild arthropod found living in nature.
 0x1d174	name	Goliath Beetle
-0x1d18c	desc	Wild arthropod living in nature.
+0x1d18c	desc	Wild arthropod found living in nature.
 0x1d200	name	Hercules Beetle
-0x1d218	desc	Wild arthropod living in nature.
+0x1d218	desc	Wild arthropod found living in nature.
 0x1d28c	name	Caucasus Beetle
-0x1d2a4	desc	Wild arthropod living in nature.
+0x1d2a4	desc	Wild arthropod found living in nature.
 0x1d318	name	Elephant Beetle
-0x1d330	desc	Wild arthropod living in nature.
+0x1d330	desc	Wild arthropod found living in nature.
 0x1d3a4	name	Jap. Rhino Beetle
-0x1d3bc	desc	Wild arthropod living in nature.
+0x1d3bc	desc	Wild arthropod found living in nature.
 0x1d430	name	Silk Moth
-0x1d448	desc	Wild arthropod living in nature.
+0x1d448	desc	Wild arthropod found living in nature.
 0x1d4bc	name	Honey Bee
-0x1d4d4	desc	Wild arthropod living in nature.
+0x1d4d4	desc	Wild arthropod found living in nature.
 0x1d548	name	Fly
-0x1d560	desc	Wild arthropod living in nature.
+0x1d560	desc	Wild arthropod found living in nature.
 0x1d5d4	name	Mosquito
-0x1d5ec	desc	Wild arthropod living in nature.
+0x1d5ec	desc	Wild arthropod found living in nature.
 0x1d660	name	Scorpion
-0x1d678	desc	Wild arthropod living in nature.
+0x1d678	desc	Wild arthropod found living in nature.
 0x1d6ec	name	Tarantula
-0x1d704	desc	Wild arthropod living in nature.
+0x1d704	desc	Wild arthropod found living in nature.
 0x1d778	name	Dung Beetle
-0x1d790	desc	Wild arthropod living in nature.
+0x1d790	desc	Wild arthropod found living in nature.
 0x1d804	name	Ant Lion Larva
-0x1d81c	desc	Wild arthropod living in nature.
+0x1d81c	desc	Wild arthropod found living in nature.
 0x1d890	name	Seahorse
 0x1d8a8	desc	Marine animal trapped in a mysterious water crystal.
 0x1d91c	name	Pufferfish
@@ -1791,69 +1791,69 @@
 0x1e984	name	Sea Cucumber
 0x1e99c	desc	Marine animal trapped in a mysterious water crystal.
 0x1ea10	name	Cursed Armor: Head
-0x1ea28	desc	Precious artifact of ancient times.
+0x1ea28	desc	Precious artifact from ancient times.
 0x1ea9c	name	Amber
 0x1eab4	desc	A precious gemstone of high value.
 0x1eb28	name	Cursed Armor: Body
-0x1eb40	desc	Precious artifact of ancient times.
+0x1eb40	desc	Precious artifact from ancient times.
 0x1ebb4	name	Ritual Mural
-0x1ebcc	desc	Precious artifact of ancient times.
+0x1ebcc	desc	Precious artifact from ancient times.
 0x1ec40	name	Cursed Armor: Arm
-0x1ec58	desc	Precious artifact of ancient times.
+0x1ec58	desc	Precious artifact from ancient times.
 0x1eccc	name	Lapis Lazuli
 0x1ece4	desc	A precious gemstone of high value.
 0x1ed58	name	Cursed Armor: Foot
-0x1ed70	desc	Precious artifact of ancient times.
+0x1ed70	desc	Precious artifact from ancient times.
 0x1ede4	name	Tome of Alchemy
-0x1edfc	desc	Precious artifact of ancient times.
+0x1edfc	desc	Precious artifact from ancient times.
 0x1ee70	name	Golden Armor: Head
-0x1ee88	desc	Precious artifact of ancient times.
+0x1ee88	desc	Precious artifact from ancient times.
 0x1eefc	name	Amethyst
 0x1ef14	desc	A precious gemstone of high value.
 0x1ef88	name	Golden Armor: Body
-0x1efa0	desc	Precious artifact of ancient times.
+0x1efa0	desc	Precious artifact from ancient times.
 0x1f014	name	Crystal Ball
-0x1f02c	desc	Precious artifact of ancient times.
+0x1f02c	desc	Precious artifact from ancient times.
 0x1f0a0	name	Golden Armor: Arm
-0x1f0b8	desc	Precious artifact of ancient times.
+0x1f0b8	desc	Precious artifact from ancient times.
 0x1f12c	name	Ruby
 0x1f144	desc	A precious gemstone of high value.
 0x1f1b8	name	Golden Armor: Foot
-0x1f1d0	desc	Precious artifact of ancient times.
+0x1f1d0	desc	Precious artifact from ancient times.
 0x1f244	name	Bronze Instrument
-0x1f25c	desc	Precious artifact of ancient times.
+0x1f25c	desc	Precious artifact from ancient times.
 0x1f2d0	name	Silver Armor: Head
-0x1f2e8	desc	Precious artifact of ancient times.
+0x1f2e8	desc	Precious artifact from ancient times.
 0x1f35c	name	Emerald
 0x1f374	desc	A precious gemstone of high value.
 0x1f3e8	name	Silver Armor: Body
-0x1f400	desc	Precious artifact of ancient times.
+0x1f400	desc	Precious artifact from ancient times.
 0x1f474	name	Angel Statue
-0x1f48c	desc	Precious artifact of ancient times.
+0x1f48c	desc	Precious artifact from ancient times.
 0x1f500	name	Silver Armor: Arm
-0x1f518	desc	Precious artifact of ancient times.
+0x1f518	desc	Precious artifact from ancient times.
 0x1f58c	name	Diamond
 0x1f5a4	desc	A precious gemstone of high value.
 0x1f618	name	Silver Armor: Foot
-0x1f630	desc	Precious artifact of ancient times.
+0x1f630	desc	Precious artifact from ancient times.
 0x1f6a4	name	Judgment Mirror
-0x1f6bc	desc	Precious artifact of ancient times.
+0x1f6bc	desc	Precious artifact from ancient times.
 0x1f730	name	Steel Armor: Head
-0x1f748	desc	Precious artifact of ancient times.
+0x1f748	desc	Precious artifact from ancient times.
 0x1f7bc	name	Aquamarine
 0x1f7d4	desc	A precious gemstone of high value.
 0x1f848	name	Steel Armor: Body
-0x1f860	desc	Precious artifact of ancient times.
+0x1f860	desc	Precious artifact from ancient times.
 0x1f8d4	name	Model Flying Machine
-0x1f8ec	desc	Precious artifact of ancient times.
+0x1f8ec	desc	Precious artifact from ancient times.
 0x1f960	name	Steel Armor: Arm
-0x1f978	desc	Precious artifact of ancient times.
+0x1f978	desc	Precious artifact from ancient times.
 0x1f9ec	name	Pink Diamond
 0x1fa04	desc	A precious gemstone of high value.
 0x1fa78	name	Steel Armor: Foot
-0x1fa90	desc	Precious artifact of ancient times.
+0x1fa90	desc	Precious artifact from ancient times.
 0x1fb04	name	Terrestrial Globe
-0x1fb1c	desc	Precious artifact of ancient times.
+0x1fb1c	desc	Precious artifact from ancient times.
 0x1fb90	name	
 0x1fba8	desc	
 0x1fc1c	name	

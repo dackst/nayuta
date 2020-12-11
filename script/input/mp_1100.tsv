@@ -56,7 +56,7 @@ talk_Reticul
 				accomplishment I've been looking for.	
 SUB_meet_adventurer					
 0xfe0	0x06	ALTO		ANI_GESTURE2	
-0x100a	0x98	ALTO	#6A	It's Cetus... and Reticul!	
+0x100a	0x98	ALTO	#6A	It's Cetus... And Reticul!	
 0x1046	0x06	NOI		ANI_LOOK_AROUND	
 0x1072	0x98	NOI	#6A	So that's where those	
 				two adventurers went.	

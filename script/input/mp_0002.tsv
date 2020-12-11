@@ -72,7 +72,7 @@ talk_Aulbath_sub
 0x1911	0x98	Aulbath		One day our paths	
 				will cross again...	
 				I look forward to it.	
-0x1a17	0x98	Aulbath		...Snow... on Remnant Island...	
+0x1a17	0x98	Aulbath		...Snow...on Remnant Island...	
 0x1a6e	0x98	Aulbath		I pray this is not	
 				an ill omen...	
 0x1af2	0x98	Aulbath		Creha, was it...?	
@@ -759,7 +759,7 @@ QS_02_stopperB
 				you going? Come back here.	
 0xd9bc	0x98	ALTO		Y-Yes!	mp_0002 0xd4f0
 QS_11_get_treasure					
-0xdbc0	0x98	ALTO		'A vehicle for setting out on a journey...?'	
+0xdbc0	0x98	ALTO		'A vehicle for setting off on a journey...?'	mp_0000 0x13e59
 0xdc0f	0x98	ALTO		It sounds like the hiding place	
 				is under this boat, but there's	
 				no space for Vel to have put it..	

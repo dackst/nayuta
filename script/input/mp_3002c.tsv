@@ -190,8 +190,8 @@ EV_4_S03_help_algorl
 0x5b3c	0x06	Algorl		ANI_USE_POWER	
 0x5da7	0xC1	System		#3CNoi learned 『Gear Shield』!	
 0x5e4a	0x07	System	#4C	Noi learned 'Gear Shield.'	
-				You can now guard against	
-				enemy attacks and poisonous swamps.	
+				You can now guard against enemy	
+				attacks and poisonous swamps.	
 0x5ef1	0x06	Algorl		ANI_WAIT	
 0x5f48	0x06	NOI		ANI_GESTURE2	
 0x5f79	0x98	NOI	#6A	So this is your power, Algol...	

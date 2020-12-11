@@ -428,8 +428,9 @@ More monster changes:
 
 * Suikesu Keeper/Sukeisu Keeper -> Scissor Keeper (a version of the Root Keeper than uses "leaf blade magic")
 * Ice Velg -> Tempano (pretty sure it was just the English word "Iceberg". Now it's Spanish)
-* Evil Tycoon -> Evil [Typhon](https://en.wikipedia.org/wiki/Typhon) (a version of the Evil Dragon, which is, of course, a dragon, not a capitalist)
+* Evil Tycoon -> Evil <del>[Typhon](https://en.wikipedia.org/wiki/Typhon) (a version of the Evil Dragon, which is, of course, a dragon, not a capitalist)</del>
   * the red Ragnard copy in Sky 3rd is called "R-Tycoon" but that also makes no sense, at least in the English usage of the word "tycoon" (which turns out is actually a loanword from Japanese, with an original meaning that does actually make some sense)
+  * switching to "Taikun", more modern romanization of the Japanese word
 * Expert Lion/Expatrion -> Expeltron (another robot that was translated into a lion)
 * Gerou Aspis -> Guerra Aspis ("aspis" is a Latin word, so use another one)
 * Vulganon -> Vulkanon (supposed to be evocative of volcanos, not zelda)
@@ -452,6 +453,7 @@ More monster changes:
     * warden: rename to admin(instrator)? (maybe better fit Terra/Astrolabe being giant futuristic computer-like thing with computery term)
   * geo: how does one even speak like an old man
   * algol: ye elizabethan english?
+  * noi is supposed to have some verbal tic with the way she ends sentences too
 * remove multiple exclamation points (!!) except in cases of extreme exclamation
 
 * head (Zext, as in "head of the mythos") -> chief, leader, director?

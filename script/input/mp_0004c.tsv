@@ -96,7 +96,7 @@ EV_6_S01_stop_warp
 0x3199	0x06	ALTO_pj		ANI_COMPLAIN	
 0x31ce	0x98	ALTO_pj	#16S#6A	...Come on, work!	
 				#16SPlease, take me to Terra!	
-0x3225	0x98	ALTO_pj	#16S#6A	Cygna... and Creha...	
+0x3225	0x98	ALTO_pj	#16S#6A	Cygna...and Creha...	
 				#16SI need to talk to them!	
 0x32a8	0x06	ALTO		ANI_WAIT	
 0x3460	0x98	NOI	#6A	Nayuta...	mp_0000d 0x7671
