@@ -2,25 +2,25 @@ mp_4002d
 init					
 ev_goal					
 ev_hint01					
-0x4ef	0x07	System	#i#359c	Offer up the [Color of Sea] and inspect me.	
-0x6e6	0x07	System	#i#359c	Offer up the [Color of Sea] and inspect me.	mp_4002d 0x4ef
+0x4ef	0x07	System	#i#359c	Return to me after showing the [Color of Sea].	
+0x6e6	0x07	System	#i#359c	Return to me after showing the [Color of Sea].	mp_4002d 0x4ef
 ev_hint02					
-0x7ba	0x07	System	#i#359c	Offer up four different colors, and inspect me.	
-0x14e5	0x07	System	#i#359c	Offer up four different colors, and inspect me.	mp_4002d 0x7ba
-0x1585	0x07	System	#i#359c	Offer the [Color of Flame] and [Color of Trees]	
-				[Color of Sea] and [Color of Darkness].	
-0x15f6	0x07	System	#i#359c	The darkness is close to the trees and	
-				ocean, The trees are above the fire, the sea is to	
-				the right of the flame. You must offer them up.	
+0x7ba	0x07	System	#i#359c	Return to me after showing four different colors.	
+0x14e5	0x07	System	#i#359c	Return to me after showing four different colors.	mp_4002d 0x7ba
+0x1585	0x07	System	#i#359c	Show me the [Color of Flame], [Color of Trees]	
+				[Color of Sea], and [Color of Darkness].	
+0x15f6	0x07	System	#i#359c	Shadows are always nearby trees and oceans.	
+				Trees rise above the flame, yet the fire is	
+				sinistral of water.	
 0x169a	0x06	ob_400_01		ANI_WAIT	
 0x16c5	0x06	ob_400_02		ANI_WAIT	
 0x16f0	0x06	ob_400_03		ANI_WAIT	
 0x171b	0x06	ob_400_04		ANI_WAIT	
-0x195e	0x07	System	#i#359c	Offer the [Color of Flame] and [Color of Trees]	mp_4002d 0x1585
-				[Color of Sea] and [Color of Darkness].	
-0x19cf	0x07	System	#i#359c	The darkness is close to the trees and ocean,	
-				The trees are above the fire, the sea is to the right of the flame.	
-				You must offer them up.	
+0x195e	0x07	System	#i#359c	Show me the [Color of Flame], [Color of Trees]	mp_4002d 0x1585
+				[Color of Sea], and [Color of Darkness].	
+0x19cf	0x07	System	#i#359c	Shadows are always nearby trees and oceans.	mp_4002d 0x15f6
+				Trees rise above the flame, yet the fire is	
+				sinistral of water.	
 ev_ob_400_00					
 0x1aeb	0x06	ob_400_00		ANI_CHANGE_RED	
 0x1b5c	0x06	ob_400_00		ANI_CHANGE_GREEN	

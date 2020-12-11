@@ -1,7 +1,7 @@
 mp_7099a					
 init					
 boss_start					
-0x1ec	0xCE	Objective		I'll never lose. We will stop the Remaking!	
+0x1ec	0xCE	Objective		We can't lose! We must stop the Recreation!	
 0x42f	0x06	console1		ANI_BEGIN	
 0x496	0x06	PLAYER1		ANI_KEN_WO_KAMAERU_A_2	
 0x52b	0x06	b007		ANI_BARRIER	
@@ -44,7 +44,7 @@ boss_demo2
 0x1908	0x06	console1		ANI_C1ROTATE_DEMO2	
 boss_dead					
 bossfirst					
-0x1e0e	0xCE	Objective		I'll never lose. We will stop the Remaking!	mp_7099a 0x1ec
+0x1e0e	0xCE	Objective		We can't lose! We must stop the Recreation!	mp_7099a 0x1ec
 0x1ef5	0x06	console1		ANI_BEGIN	
 0x1fc2	0x06	b007		ANI_BARRIER	
 0x1feb	0x06	console1		ANI_ROTATE	

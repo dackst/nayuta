@@ -4,22 +4,21 @@ dead_EV1
 open_door1					
 EV_2_S22_temple2_front					
 0x5ff	0x06	ALTO		ANI_THINK2	
-0x627	0x98	ALTO		So this is the <Rieseweld> temple...	
+0x627	0x98	ALTO		So this is the Rieseweld temple...	
 0x66b	0x06	ALTO		ANI_WAIT	
-0x6ae	0x98	ALTO		According to Elislette,	
-				Zext should still be	
-				inside.	
+0x6ae	0x98	ALTO		According to Erisette,	
+				Zext should be inside.	
 0x708	0x06	NOI		ANI_GESTURE1	
-0x731	0x98	NOI		And look, the light	
-				of the <Power of Stars>	
-				is still around the temple!	
-0x7cd	0x98	NOI		It looks like they haven't used	
-				the emergency stop feature of	
-				the <Master Gear> yet!	
+0x731	0x98	NOI		And look, the light from	
+				the astral power still	
+				surrounds the temple...!	
+0x7cd	0x98	NOI		Looks like the emergency shutdown	
+				function of the Master Gear hasn't	
+				been activated yet!	
 0x83e	0x06	ALTO		ANI_WAIT	
-0x87f	0x98	ALTO		Certainly, now might	
-				still not be too late.	
+0x87f	0x98	ALTO		It definitely seems like	
+				we're not too late.	
 0x8c9	0x06	ALTO		ANI_JOY	
-0x8ee	0x98	ALTO		I'm sure Cygna is inside!	
+0x8ee	0x98	ALTO		Cygna must be inside too!	
 0x92f	0x06	NOI		ANI_GUTSPOSE	
-0x958	0x98	NOI		Anyway, let's hurry!	
+0x958	0x98	NOI		Either way, we have to hurry!	

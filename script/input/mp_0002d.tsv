@@ -1,96 +1,99 @@
 mp_0002d					
 init					
 talk_Aulbath_sub					
-0x64c	0x98	Aulbath		Though that man called Zext is	
-				a very strong opponent...	
-0x6a6	0x98	Aulbath		Before I knew it, Nayuta...	
-				You too have become strong.	
-0x6ff	0x98	Aulbath		If it is you, you can probably	
-				defeat that man.	
-0x750	0x98	ALTO		Yes, I will absolutely	
-				not lose!	
-0x78f	0x98	ALTO		I want to speak with	
-				Kureha again, too...	
-0x7d7	0x98	Aulbath		Is that so...	mp_0001 0xcecd
+0x64c	0x98	Aulbath		That Zext man is a	
+				formidable opponent...	
+0x6a6	0x98	Aulbath		And without us knowing, Nayuta...	
+				You, too, have grown strong.	
+0x6ff	0x98	Aulbath		Perhaps you have the power	
+				to overcome that man.	
+0x750	0x98	ALTO		Yeah, I won't lose!	
+0x78f	0x98	ALTO		I want to see	
+				Creha again...	
+0x7d7	0x98	Aulbath		I see...	mp_0001 0xcecd
 0x807	0x98	Aulbath		..................	mp_0002 0x1b64
-				..................	
 0x84e	0x98	ALTO		...Master?	
-0x878	0x98	Aulbath		...No, don't worry about it.	
-0x8b7	0x98	Aulbath		I will entrust that girl to you.	
-0x8fa	0x98	Aulbath		I leave the rest to you, my pupil.	
+0x878	0x98	Aulbath		...It's nothing.	
+0x8b7	0x98	Aulbath		I entrust the care of	
+				that young lady to you.	
+0x8fa	0x98	Aulbath		Take care, my student.	
 0x93f	0x98	ALTO		...Yes!!	
-0x9a1	0x98	Aulbath		Though with this wound,	
-				I cannot help...	
-0x9eb	0x98	Aulbath		If it is you, you can probably	
-				reach that man.	
-0xa3b	0x98	Aulbath		...............	
-				I leave the rest to you, my pupil.	
-0xa8f	0x98	ALTO		(Master... It's possible	
-				 that you're worried	
-				 about Cygna.)	
+0x9a1	0x98	Aulbath		I cannot be of much	
+				assistance with these	
+				injuries...	
+0x9eb	0x98	Aulbath		You may have the power	
+				to overcome that man.	
+0xa3b	0x98	Aulbath		......................	
+				Take care, my student.	
+0xa8f	0x98	ALTO		(Master... Maybe he's	
+				 worried about Cygna.)	
 0xae9	0x98	ALTO		(...Cygna...)	
-0xb3e	0x98	Aulbath		If you do not give up,	
-				you should definitely be able	
-				to reach the man called Zext.	
-0xbb1	0x98	Aulbath		My pupil...	
-				Show me you can do whatever	
-				it takes to bring back that girl.	
+0xb3e	0x98	Aulbath		If you don't give up,	
+				I'm sure you will find the	
+				power to overcome that man.	
+0xbb1	0x98	Aulbath		My student... Do whatever	
+				it takes to bring that	
+				young lady back.	
 talk_Aulbath					
-0xd04	0x07	System	#4C	If you show Orvus the "Training Book"	mp_0002 0x41e5
-				you can receive skills or items.	
+0xd04	0x07	System	#4C	If you show Orvus the Training Book,	mp_0002 0x41e5
+				you can receive new skills or items.	
 0xdc0	0x36	Choice		Talk	mp_0002 0x42a1
 0xdea	0x36	Choice		Show Training Book	mp_0002 0x42cb
 0xe36	0x36	Choice		Hear Tactics Instruction	mp_0002 0x4317
 0xe5e	0x36	Choice		Quit	mp_0002 0x433f
 check_growth					
-0xfcf	0x98	Aulbath		Oh, it's Nayuta.	mp_0002 0x44ae
-				That thing you have is...	
-				A training book, is it not?	
-0x1036	0x98	ALTO		Yes, I received it	mp_0002 0x4515
-				from Cygna.	
-0x1073	0x98	ALTO		I has been useful in my training.	mp_0002 0x4552
-0x10b4	0x98	Aulbath		Hmm, is that so...	mp_0002 0x4593
-0x111d	0x98	Aulbath		It seems you've collected the	mp_0002 0x45fc
-				stamps little by little.	
+0xfcf	0x98	Aulbath		Oh, it's you, Nayuta.	mp_0002 0x44ae
+				You have... That is a	
+				training book, is it not?	
+0x1036	0x98	ALTO		Yes, Cygna gave it to me earlier.	mp_0002 0x4515
+0x1073	0x98	ALTO		He said it would be	mp_0002 0x4552
+				useful in my training.	
+0x10b4	0x98	Aulbath		Hmm, is that so...?	mp_0002 0x4593
+0x111d	0x98	Aulbath		It seems you've been gradually	mp_0002 0x45fc
+				collecting all the seals.	
 0x1175	0x98	Aulbath		...Yes, if you collect a few more	mp_0002 0x4654
-				stamps, you should be able to	
-				learn a new sword skill.	
-0x11ee	0x98	ALTO		Wha...a skill?	mp_0002 0x46cd
-0x121c	0x98	ALTO		Oh, Cygna used them often	mp_0002 0x46fb
-				when extermination monsters...	
-0x1273	0x98	Aulbath		Mm, when facing formidable foes,	mp_0002 0x4752
-				they will be extremely useful.	
-0x12d4	0x98	Aulbath		In time, I plan to teach you the	mp_0002 0x47b3
-				same skills as Cygna.	
-0x132c	0x98	Aulbath		Nayuta, you are very diligent.	mp_0002 0x480b
-				When the time comes, I will train you.	
-0x1393	0x98	ALTO		Ahaha...somehow, I'm happy.	mp_0002 0x4872
-0x13ce	0x98	ALTO		Master, please take care of me	mp_0002 0x48ad
-				when that time comes!	
-0x144d	0x07	System	#4C	If you show Orvus the "Training Book"	mp_0002 0x41e5
-				you can receive skills or items.	
-0x14a1	0x07	System	#4C	Speak with Orvus once you've accumulated	mp_0002 0x4980
-				a fixed amount of stamps in the training book.	
-0x1518	0x98	Aulbath		The number of stamps in the training	mp_0002 0x49f7
-				book show the extent to which you have	
-				tested yourself.	
-0x1595	0x98	Aulbath		...Let see, if it's this many, then	mp_0002 0x4a74
-				you should be able to learn	
-				a new skill.	
-0x1602	0x98	ALTO		Wha...a skill?	mp_0002 0x46cd
-0x1630	0x98	ALTO		Oh, Cygna used them often	mp_0002 0x46fb
-				when extermination monsters...	
-0x1687	0x98	Aulbath		Mm, when facing formidable foes,	mp_0002 0x4752
-				they will be extremely useful.	
+				seals, you should be able to	
+				learn a new sword technique.	
+0x11ee	0x98	ALTO		Huh...? A sword technique?	mp_0002 0x46cd
+0x121c	0x98	ALTO		Oh, yeah, Cygna used them	mp_0002 0x46fb
+				often to slay monsters...	
+0x1273	0x98	Aulbath		Hmm... They will prove to	mp_0002 0x4752
+				be very useful when facing	
+				formidable foes.	
+0x12d4	0x98	Aulbath		In time, I plan to teach you	mp_0002 0x47b3
+				the same skills as Cygna.	
+0x132c	0x98	Aulbath		Be patient, Nayuta.	mp_0002 0x480b
+				When the time comes,	
+				I will teach you.	
+0x1393	0x98	ALTO		Haha... I'm rather	mp_0002 0x4872
+				glad to hear that.	
+0x13ce	0x98	ALTO		Until then, Master!	mp_0002 0x48ad
+0x144d	0x07	System	#4C	If you show Orvus the Training Book,	mp_0002 0x41e5
+				you can receive new skills or items.	
+0x14a1	0x07	System	#4C	Speak with Orvus once you've	mp_0002 0x4980
+				collected a sufficient number	
+				of seals in the Training Book.	
+0x1518	0x98	Aulbath		The number of seals in the	mp_0002 0x49f7
+				Training Book shows how many	
+				challenges you've accomplished.	
+0x1595	0x98	Aulbath		...Let's see, if you've done this	mp_0002 0x4a74
+				much, you should be able to learn	
+				a new sword technique.	
+0x1602	0x98	ALTO		Huh...? A sword technique?	mp_0002 0x46cd
+0x1630	0x98	ALTO		Oh, yeah, Cygna used them	mp_0002 0x46fb
+				often to slay monsters...	
+0x1687	0x98	Aulbath		Hmm... They will prove to	mp_0002 0x4752
+				be very useful when facing	
+				formidable foes.	
 tuto_Aulbath					
-0x1719	0x98	Aulbath		Hmm...You want to hear something?	mp_0002 0x4bf8
+0x1719	0x98	Aulbath		Hmm... What do you want to know?	mp_0002 0x4bf8
 0x17bd	0x36	Choice		About CHAIN	mp_0002 0x4c9c
 0x17f8	0x36	Choice		About CHAIN②	mp_0002 0x4cd7
 0x1835	0x36	Choice		About Spinning Cut/Vacuum Blade	mp_0002 0x4d14
 0x187c	0x36	Choice		About Spinning Cut	mp_0002 0x4d5b
 0x18be	0x36	Choice		About Down Thrust/Meteor Attack	mp_0002 0x4d9d
 0x1905	0x36	Choice		About Down Thrust	mp_0002 0x4de4
-0x1946	0x36	Choice		About Kamaitachi/Whirlwind	mp_0002 0x4e25
+0x1946	0x36	Choice		About Kamaitachi/Divine Wind	mp_0002 0x4e25
 0x1988	0x36	Choice		About Kamaitachi	mp_0002 0x4e67
 0x19c8	0x36	Choice		About Swallow Return/Fallen Lotus	mp_0002 0x4ea7
 0x1a11	0x36	Choice		About Swallow Return	mp_0002 0x4ef0
@@ -98,118 +101,111 @@ tuto_Aulbath
 0x1a62	0x36	Choice		About Status Abnormalities	mp_0002 0x4f41
 0x1a8a	0x36	Choice		Quit	mp_0002 0x433f
 0x1af0	0x98	Aulbath		By continuously landing hits,	mp_0002 0x4fcf
-				you will gain various benefits	
-				by accumulating CHAIN.	
+				you will accumulate CHAIN and	
+				gain various benefits.	
 0x1b64	0x98	Aulbath		For example, increased attack power.	mp_0002 0x5043
-				If you gain a benefit, it will be very	
-				advantageous for you to continue fighting.	
-0x1bfb	0x98	Aulbath		However, CHAIN will be	mp_0002 0x50da
-				interrupted after a fixed time.	
-				It will also be interrupted if you take damage.	
-0x1c82	0x98	Aulbath		To use CHAIN effectively,	mp_0002 0x5161
-				you need to cooperate with your allies,	
-				and figure how not to interrupt your attacks.	
-0x1d28	0x98	Aulbath		There are stronger benefits	mp_0002 0x5207
-				of CHAIN.	
-0x1d6f	0x98	Aulbath		If CHAIN is 80 or higher, earned experience will increase,	mp_0002 0x524e
-				If CHAIN is 100 or higher, all sword attacks will be criticals.	
+				With these benefits, you can very	
+				much turn a fight in your favor.	
+0x1bfb	0x98	Aulbath		However, CHAIN will be interrupted	mp_0002 0x50da
+				after a certain amount of time. It will	
+				also be interrupted after taking damage.	
+0x1c82	0x98	Aulbath		To use CHAIN effectively, you will need	mp_0002 0x5161
+				to cooperate with your allies to keep	
+				your attacks from being interrupted.	
+0x1d28	0x98	Aulbath		There are more powerful	mp_0002 0x5207
+				benefits of CHAIN.	
+0x1d6f	0x98	Aulbath		If CHAIN is 80 or more, the experience	mp_0002 0x524e
+				you earn will increase. At 100 or more,	
+				all sword attacks will be critical hits.	
 0x1e0b	0x98	Aulbath		Furthermore, if CHAIN is 120 or higher,	mp_0002 0x52ea
-				you will gain a benefit that steadily restores your stamina.	
-0x1e91	0x98	Aulbath		Though it is difficult to accumulate that much,	mp_0002 0x5370
-				these benefit should be your ally	
-				in tough battles.	
-0x1f15	0x98	Aulbath		Bear in mind that when you are aiming at something,	mp_0002 0x53f4
-				aim at it with a positive attitude.	
-0x1fa4	0x98	Aulbath		If you unleash "Spinning Cut,"	mp_0002 0x5483
-				you can hit even 	
-				flying enemies.	
-0x2005	0x98	Aulbath		You can also launch	mp_0002 0x54e4
-				small enemies into the sky.	
-				If you master it, it will improve your battles.	
-0x2085	0x98	Aulbath		However, it is impossible to launch	mp_0002 0x5564
-				large-build enemies. You should	
-				bear that in mind.	
-0x211c	0x98	Aulbath		As for the secret technique, "Vacuum Blade," that is	mp_0002 0x55fb
-				unleashed when CHAIN is 20 or higher, it has even more power.	
-				You should confirm that for yourself in battle.	
-0x21f7	0x98	Aulbath		"Down Thrust" is an attack that grows in strength	mp_0002 0x56d6
-				with the force of the drop.	
-0x2266	0x98	Aulbath		Its distinguishing feature is that,	mp_0002 0x5745
-				of all the sword techniques, it	
-				boasts the highest attack power.	
-0x22eb	0x98	Aulbath		Though it leaves a large gap,	mp_0002 0x57ca
-				there are many chances to use it.	
-				Please try using it in your own way.	
-0x2390	0x98	Aulbath		As for the secret technique "Meteor Attack" that is unleashed	mp_0002 0x586f
-				when CHAIN is 20 or more, it has even more attack power.	
-				You should confirm that for yourself in battle.	
-0x246f	0x98	Aulbath		"Kamaitachi" is unleashing an	mp_0002 0x594e
+				you will gradually restore your health.	
+0x1e91	0x98	Aulbath		Though it is difficult to accumulate	mp_0002 0x5370
+				that much, these benefits can be a	
+				powerful ally in a tough battle.	
+0x1f15	0x98	Aulbath		It is a good idea to keep this in mind,	mp_0002 0x53f4
+				and to fight actively when possible.	
+0x1fa4	0x98	Aulbath		If you unleash 'Spinning Cut,'	mp_0002 0x5483
+				you can hit flying monsters.	
+0x2005	0x98	Aulbath		You can also launch smaller monsters into	mp_0002 0x54e4
+				the air. If you can master it, you can gain	
+				an advantage in your battles.	
+0x2085	0x98	Aulbath		However, it is impossible	mp_0002 0x5564
+				to launch larger enemies.	
+				Something to keep in mind.	
+0x211c	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x55fb
+				more powerful secret technique, 'Vacuum Blade.'	
+				You can confirm its true nature in battle.	
+0x21f7	0x98	Aulbath		'Down Thrust' is an attack that uses the	mp_0002 0x56d6
+				momentum of a fall to increase its power.	
+0x2266	0x98	Aulbath		Its distinguishing feature is	mp_0002 0x5745
+				that, of all the sword techniques,	
+				it boasts the highest power.	
+0x22eb	0x98	Aulbath		Although it can leave a wide opening,	mp_0002 0x57ca
+				there are many different ways to use it.	
+				You can try finding them out on your own.	
+0x2390	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x586f
+				more powerful secret technique, 'Meteor Attack.'	
+				You can confirm its true nature in battle.	
+0x246f	0x98	Aulbath		'Kamaitachi' unleashes an	mp_0002 0x594e
 				intense stroke of your sword	
 				with a quick step.	
-0x24dd	0x98	Aulbath		This technique with strong sword power	mp_0002 0x59bc
+0x24dd	0x98	Aulbath		This technique, infused with sword chi,	mp_0002 0x59bc
 				can damage enemies against which sword	
-				attacks are ineffective.	
-0x2564	0x98	Aulbath		Additionally, that power extends over a wide range.	mp_0002 0x5a43
-				The possibility of long-range attacks	
-				is a feature of this technique.	
-0x261e	0x98	Aulbath		As for the secret technique "Whirlwind" that is unleashed	mp_0002 0x5afd
-				when CHAIN is 20 or more, it has even more attack power.	
-				You should confirm that for yourself in battle.	
-0x26f9	0x98	Aulbath		"Swallow Return" is cutting	mp_0002 0x5bd8
-				down all surrounding enemies	
-				in an instant.	
-0x2761	0x98	Aulbath		It also has the effect of pulling surrounding enemies	mp_0002 0x5c40
-				towards you. In melee, it exhibits a terrible power.	
-0x27ed	0x98	Aulbath		Though among the sword techniques it is the	mp_0002 0x5ccc
-				most difficult, if you master it, it will be a strong power.	
-				Do not tire of this, and endeavor to train.	
-0x28c2	0x98	Aulbath		As for the secret technique "Fallen Lotus" that is unleashed	mp_0002 0x5da1
-				when CHAIN is 20 or more, it has even more attack power.	
-				You should confirm that for yourself in battle.	
-0x29a0	0x98	Aulbath		Among swords there exist	mp_0002 0x5e7f
-				"One-Handed Swords" and	
-				"Two-Handed Sword."	
-0x2a05	0x98	Aulbath		One-handed swords are maneuverable	mp_0002 0x5ee4
-				and can unleash quick, successive attacks.	
-				Generally, you can say they are easy to handle.	
-0x2aa3	0x98	Aulbath		On the other hand, two-handed swords have high attack power,	mp_0002 0x5f82
-				and easily bringing down enemies is their characteristic.	
-				However, they leave a large gap and are hard to handle.	
+				attacks are otherwise ineffective.	
+0x2564	0x98	Aulbath		Additionally, its power lies in its	mp_0002 0x5a43
+				longer reach. It is possible to attack	
+				from a distance with this technique.	
+0x261e	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x5afd
+				more powerful secret technique, 'Divine Wind.'	
+				You can confirm its true nature in battle.	
+0x26f9	0x98	Aulbath		'Swallow Return' can cut down all	mp_0002 0x5bd8
+				surrounding enemies in an instant.	
+0x2761	0x98	Aulbath		It also has the effect of pulling the enemies	mp_0002 0x5c40
+				towards you. This is very powerful in melee.	
+0x27ed	0x98	Aulbath		It is one of the most difficult sword techniques,	mp_0002 0x5ccc
+				but if mastered, it can be a powerful tool.	
+				Never tire, and keep practicing.	
+0x28c2	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x5da1
+				more powerful secret technique, 'Fallen Lotus.'	
+				You can confirm its true nature in battle.	
+0x29a0	0x98	Aulbath		There exist two types of swords:	mp_0002 0x5e7f
+				One-handed and two-handed swords.	
+0x2a05	0x98	Aulbath		One-handed swords have great maneuverability, and	mp_0002 0x5ee4
+				are capable of delivering quick, successive attacks.	
+				Generally, they are considered easier to handle.	
+0x2aa3	0x98	Aulbath		On the other hand, two-handed swords have higher power,	mp_0002 0x5f82
+				and easily knock down enemies. However, they leave a	
+				larger opening between attacks and are harder to handle.	
 0x2b72	0x98	Aulbath		Each has its advantages and disadvantages...	mp_0002 0x6051
-				I cannot say which is superior.	
-				You should choose a sword which is easy for you to use.	
-0x2c2d	0x98	Aulbath		Among monsters there are those	mp_0002 0x610c
-				which can cause various abnormal	
-				statuses.	
-0x2c97	0x98	Aulbath		There is "poison" which saps your stamina,	mp_0002 0x6176
-				and "paralysis" which substantially lowers	
-				your movement ability...	
-0x2d26	0x98	Aulbath		"Freeze" which stops your movements,	mp_0002 0x6205
-				and "confuse" which derails your actions.	
-0x2d96	0x98	Aulbath		Though with time, all are restored,	mp_0002 0x6275
-				there exists equipment which offers	
-				resistance and recovery items.	
+				I cannot say which is superior. Choose a	
+				sword most comfortable for you to use.	
+0x2c2d	0x98	Aulbath		Some monsters can cause	mp_0002 0x610c
+				various status conditions.	
+0x2c97	0x98	Aulbath		'Poison' rapidly saps your health, and	mp_0002 0x6176
+				'paralysis' greatly slows your movement...	
+0x2d26	0x98	Aulbath		'Freezing' can stop your movements.	mp_0002 0x6205
+				'Panic' derails your actions.	
+0x2d96	0x98	Aulbath		Though all can be reversed with time,	mp_0002 0x6275
+				there exists equipment that improves	
+				resistance and status recovery items.	
 0x2e1d	0x98	Aulbath		If you are heading to a dangerous	mp_0002 0x62fc
-				battle, you should get your	
-				preparations in order.	
+				battle, make sure to be prepared.	
 talk_Michy					
 QS_58_find_Michy1					
-0x321a	0x3F	Name		Mysterious Animal	
+0x321a	0x3F	Name		Mysterious Creature	
 0x3233	0x98	Michy		Mishishi.	
 0x325d	0x6B	ALTO		Surprise	
 0x3297	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x32e6	0x98	ALTO		Ah...There it is!!	
-0x3322	0x98	ALTO		Could it be that this one	
-				is Michey!?	
+0x32e6	0x98	ALTO		Ah... There he is!!	
+0x3322	0x98	ALTO		Could this be Mishy!?	
 0x3385	0x6B	Michy		Exclamation	
 0x33b8	0x98	Michy		Miー!	
 0x3428	0x6B	ALTO		Exclamation	
 0x348a	0x06	ALTO		ANI_DEJECTED	
-0x34b4	0x98	ALTO		Aah...	
-				It got away!	
+0x34b4	0x98	ALTO		Ooh... He got away!	
 0x34e6	0x06	ALTO		ANI_JOY	
-0x350b	0x98	ALTO		I've got to chase it immediately!	
-				I wonder if anyone saw it?	
+0x350b	0x98	ALTO		I have to chase after him!	
+				Maybe someone else saw where he went?	
 QS_58_RunAway_Michy1					
 SB_4_S30_dead_KnightA					
 0x39ba	0x06	KnightA		ANI_DEAD	
@@ -235,16 +231,16 @@ EV_4_S30_help_creha
 0x4547	0x06	Aulbath		ANI_WAIT_ARMED	
 0x4643	0x98	Lyra	#6A#0W	H-He did it!?	
 0x467e	0x98	Creha	#0W	Amazing...	
-0x48aa	0x98	Zext		I see...even among humans there	
-				are those with a little skill, it seems.	
+0x48aa	0x98	Zext		I see... Even among humans there	
+				exist those with a little skill.	
 0x49d1	0x98	Zext		However...	
 0x4b79	0x06	Zext		ANI_HIT_GROUND	
 0x4e22	0x06	Aulbath		ANI_WAIT_ARMED	
-0x5008	0x98	Aulbath		One after the next...	
-0x5040	0x98	Aulbath		No matter how many you create,	
-				they are like puppets before my sword.	
-0x50af	0x98	Zext	#6A	Hmph, if that's the case,	
-				then how about this?	
+0x5008	0x98	Aulbath		One after the other...	
+0x5040	0x98	Aulbath		No matter how many more you create,	
+				they are mere puppets before my sword.	
+0x50af	0x98	Zext	#6A	Hmph, if that's how it is,	
+				then how about now?	
 0x5107	0x06	Zext		ANI_PUT_UP_ROD	
 0x5262	0x6B	Aulbath		Exclamation	
 0x52b8	0x6B	Lyra		Exclamation	
@@ -253,104 +249,102 @@ EV_4_S30_help_creha
 0x537c	0x06	Creha		ANI_SURPRISE_WEAK	
 0x542a	0x06	Aulbath		ANI_DRAIN	
 0x5454	0x6B	Lyra		Unknown	
-0x548c	0x98	Aulbath	#1W	Gwooh!?	
-				My power is...being stolen!?	
+0x548c	0x98	Aulbath	#1W	Gwooh!? My strength...	
+				...It's being drained!?	
 0x54e5	0x06	Lyra		ANI_COMPLAIN	
 0x5531	0x98	Lyra	#3W#16S	O-Orvus!	
-0x556e	0x98	Zext	#1W#6A	Hehe, the <Power of Stars>,	
-				the source of all life...	
-				If I manipulate that, then there will be no trouble.	
-0x560a	0x98	Zext	#2W#6A	Now, out of my way.	
-				I have business with my daughter.	
+0x556e	0x98	Zext	#1W#6A	Heheh, astral power, the source of all life...	
+				If I twist it, no obstacle can stand before me.	
+0x560a	0x98	Zext	#2W#6A	Now, step aside. I have	
+				business with my daughter.	
 0x58b2	0x06	Zext		ANI_WAIT	
 0x58f3	0x06	KnightA		ANI_WAIT	
 0x5937	0x06	KnightB		ANI_WAIT	
 0x59be	0x6B	Creha		Ellipsis	
 0x5baf	0x06	Lyra		ANI_AFRAID2	
-0x5be6	0x98	Lyra	#1W	Wait...Kureha!?	
-0x5cb0	0x98	Creha	#0W#16S	──I will not let you lay hands on	
-				#16SLyra and the others any more!	
+0x5be6	0x98	Lyra	#1W	Wha... Creha!?	
+0x5cb0	0x98	Creha	#0W#16S	...I will not let you hurt Lyra	
+				#16Sor anyone else any further!	
 0x5e12	0x06	Creha		ANI_PRAY	
 0x60ea	0x6B	Lyra		Exclamation	
 0x611c	0x6B	Aulbath		Exclamation	
 0x61f8	0x98	Aulbath	#2W#6A	Hmm!?	
 0x6226	0x06	Lyra		ANI_SURPRISE	
-0x627c	0x98	Lyra	#1W	W-What is that!?	
+0x627c	0x98	Lyra	#1W	Wh-What is that!?	
 0x62b7	0x06	Creha		ANI_WAIT	
 0x654b	0x06	Creha		ANI_GESTURE1	
-0x6584	0x98	Creha	#1W#6A	It is me you want,	
-				is it not?	
-0x65e9	0x98	Creha	#0W#6A#16S	If that's the case,	
-				#16Sthen I will be your opponent!	
-0x66c0	0x98	Zext	#2W	Hehe, the <Shining Wing of the Mythos>...	
-				So it has manifested this much.	
-0x6794	0x98	Zext	#1W	Influenced by the crisis in <Terra>,	
-				it seems our aim of quickening your	
-				awakening has gone well.	
+0x6584	0x98	Creha	#1W#6A	I am the one that	
+				you want, correct?	
+0x65e9	0x98	Creha	#0W#6A	In that case, then	
+				#16SI shall be your opponent!	
+0x66c0	0x98	Zext	#2W	Heheh, the Shining Wing of the Mitos...	
+				It has already manifested this much?	
+0x6794	0x98	Zext	#1W	It seems that our aim of quickening	
+				your awakening with the crisis in	
+				Terra has gone well.	
 0x681e	0x06	Creha		ANI_WAIT	
-0x6853	0x98	Creha	#0W#6A	What are you saying?	
+0x6853	0x98	Creha	#0W#6A	What are you saying...?	
 0x6954	0x98	Zext	#2W	My daughter...	
-				Kureha Lem Ordene.	
-0x69a5	0x98	Zext	#2W	Recall the words of I, Zext,	
-				head of the Mythos.	
-0x6a59	0x98	Zext	#1W	As for that power's purpose...	
-0x6b04	0x98	Zext	#1W	──It is to erase the people	
-				you now protect.	
+				Creha Lem Ordene.	
+0x69a5	0x98	Zext	#2W	Heed the words of I, Zext,	
+				the head of the Mitos.	
+0x6a59	0x98	Zext	#1W	That power you now wield...	
+0x6b04	0x98	Zext	#1W	It is meant to erase those	
+				that you now seek to protect.	
 0x6b5c	0x06	Creha		ANI_SURPRISE_WEAK	
-0x6b9a	0x98	Creha	#300x#300y#1W	Eh──	
+0x6b9a	0x98	Creha	#300x#300y#1W	Eh...	
 0x6d38	0x6B	Creha		Exclamation	
 0x6d63	0x06	Creha		ANI_HEADACHE	
 0x6e1d	0x06	Creha		ANI_HEADACHE2	
 0x6fef	0x98	Creha	#2W	...Ooo...!	
-0x7033	0x98	Lyra	#1W	K-Kureha!?	
-0x70ae	0x98	Creha	#2W	...Ze...xt...	
-				...You are a...Mythos...!?	
-0x713f	0x98	Creha	#3W	...I am...I am...!	
+0x7033	0x98	Lyra	#1W	C-Creha!?	
+0x70ae	0x98	Creha	#2W	...Ze...xt...you're..	
+				...a..Mitos...!?	
+0x713f	0x98	Creha	#3W	...I...I...!	
 0x71b9	0x3F	Name		Nayuta's Voice	mp_0001 0x1090f
-0x71dd	0x98	ALTO	#1W#16S#500x#100y	Kureha────!	
+0x71dd	0x98	ALTO	#1W#16S#450x#100y	Crehaaa!	
 0x7500	0x06	Creha		ANI_HEADACHE2	
 0x75bc	0x06	Aulbath		ANI_DRAIN_LOOP	
 0x786e	0x06	Lyra		ANI_JOY	
-0x7893	0x98	Lyra		Nayuta!	mp_0000c 0x734d
-0x78c2	0x98	Aulbath		...You've come.	
-0x7948	0x98	ALTO		I'm late!	
-0x7971	0x98	ALTO		Kureha, Lyra...	
+0x7893	0x98	Lyra		Nayuta...!	mp_0000c 0x734d
+0x78c2	0x98	Aulbath		...So you've come.	
+0x7948	0x98	ALTO		Sorry I'm late!	
+0x7971	0x98	ALTO		Creha, Lyra...	
 				Are you all right!?	
 0x79ff	0x98	Creha	#1W	...Nayu...ta....	
 0x7b21	0x06	Creha		ANI_SIT7	
-0x7b6f	0x98	Zext	#6A	...It's been awhile since you	
-				interrupted me like this,	
-				human child.	
-0x7bd4	0x98	Zext	#6A	However, now, I do not have time	
-				to care.	
-				...Out of my way.	
+0x7b6f	0x98	Zext	#6A	...It has been quite some time	
+				since you have interrupted me	
+				like this, human child.	
+0x7bd4	0x98	Zext	#6A	However, this time, I have	
+				not the time to indulge you.	
+				...Stay out of my way.	
 0x7c38	0x06	ALTO		ANI_TENSION_STRONG_DENY	
-0x7cb1	0x98	ALTO		You...Why have you	
-				appeared here all of a sudden!?	
-0x7d02	0x98	ALTO		You attacked the village...	
-				And you're even going to	
-				kidnap Kureha!	
-0x7daf	0x98	Zext	#6A	It's a very simple explanation.	
-0x7df1	0x98	Zext	#6A	The final <Key> to undo the	
-				"Seal" of Terra...	
-0x7e41	0x98	Zext	#6A	I will leave when	
-				I have finished it.	
+0x7cb1	0x98	ALTO		You... Why are you	
+				here all of a sudden!?	
+0x7d02	0x98	ALTO		You raid the village...	
+				And now you're trying to	
+				kidnap Creha!	
+0x7daf	0x98	Zext	#6A	It is quite simple.	
+0x7df1	0x98	Zext	#6A	The final key to unlock	
+				the seal on Terra...	
+0x7e41	0x98	Zext	#6A	Now that it is ready,	
+				I came to pick it up.	
 0x7e90	0x6B	ALTO		Exclamation	
 0x7ec2	0x06	ALTO		ANI_TENSION_SURPRISE	
-0x7f12	0x98	ALTO		Then, the <Key> to release the seal is...	
-				Are you talking about Kureha!?	
+0x7f12	0x98	ALTO		The key to unlock the seal...	
+				Are you referring to Creha!?	
 0x7f81	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
-0x7fd1	0x98	ALTO		...If that's the case, it's all the more	
-				reason I can't get out the way!	
-0x8038	0x98	ALTO		To protect <Terra>...	
-				I will not hand Kureha over to you!	
-0x8098	0x98	Zext	#6A	...So you will stand in my	
-				way until the bitter end.	
-0x80ee	0x98	Zext	#6A	Kureha's awakening	
-				is a start though,	
-				I will let you go free...	
-0x814e	0x98	Zext	#6A	Very soon, your efforts will be futile.	
-				...Hurry and disappear.	
+0x7fd1	0x98	ALTO		...In that case, that's all the	
+				more reason why I can't back down!	
+0x8038	0x98	ALTO		To protect Terra... I will not hand	
+				Creha over to the likes of you!	
+0x8098	0x98	Zext	#6A	...So, you wish to stay defiant	
+				until the bitter end.	
+0x80ee	0x98	Zext	#6A	Though I was going to let you continue	
+				to aid in Creha's awakening...	
+0x814e	0x98	Zext	#6A	I have no further use for you.	
+				...Get out of my sight.	
 0x81af	0x06	Zext		ANI_HIT_GROUND	
 0x82eb	0x06	ALTO		ANI_TENSION_WAIT	
 0x83f1	0x06	Aulbath		ANI_WAIT	
@@ -359,27 +353,26 @@ EV_4_S30_help_creha
 0x84b7	0x06	KnightB		ANI_WAIT	
 0x85f6	0x06	Aulbath		ANI_RUN_ARMED	
 0x8678	0x06	Aulbath		ANI_WAIT_ARMED	
-0x86f3	0x98	Aulbath		...Nayuta, I'll take over	
-				here.	
-0x8734	0x98	Aulbath		Take that lady and Lyra	
-				and run.	
+0x86f3	0x98	Aulbath		...Nayuta, I'll take 	
+				over from here.	
+0x8734	0x98	Aulbath		Take the young lady and Lyra and run.	
 0x8776	0x6B	ALTO		Exclamation	
 0x87df	0x98	ALTO		Master...	mp_0002 0x16e8
 0x883a	0x98	ALTO		...Understood.	
-				I'll leave the rest to you!	
+				I'll let you take care of him!	
 0x88b9	0x98	ALTO		This way, you two!	
 0x893c	0x06	Lyra		ANI_NOD	
 0x89f1	0x98	Lyra		O-Okay!	
 0x8a28	0x06	Creha		ANI_STAND_UP	
 0x8a5b	0x06	Creha		ANI_HEADACHE	
 0x8a93	0x98	Creha	#1W	...Ooh...	mp_0001c 0x4b32
-0x8e3c	0x98	Zext		Hehe, it's impossible...	
-0x8e7c	0x98	Aulbath	#0W#6A	I do not yet know	
-				whether it's impossible.	
+0x8e3c	0x98	Zext		Heheh, don't waste your breath...	
+0x8e7c	0x98	Aulbath	#0W#6A	Whether or not it is a	
+				waste remains to be seen.	
 0x8ed6	0x06	Aulbath		ANI_KEN_WO_KAMAERU	
-0x8f3b	0x98	Aulbath	#0W#6A	Though this retired man's body may	
-				be insufficient,	
-				I'll oppose you as much as I can.	
+0x8f3b	0x98	Aulbath	#0W#6A	Though this retired old man's	
+				body might not be enough, I will	
+				oppose you with all I have left.	
 0x8fbf	0x98	Zext	#0W	...Very well...	
 0x9095	0x06	Zext		ANI_PUT_UP_ROD	
 0x913b	0x06	KnightA		ANI_DEMO1_1	

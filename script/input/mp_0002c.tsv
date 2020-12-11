@@ -1,116 +1,117 @@
 mp_0002c					
 init					
 talk_Aulbath_sub					
-0x34c	0x98	Aulbath		The situation is strong monsters	
-				appearing near the island	
-				many times.	
-0x3b3	0x98	Aulbath		Though we haven't been able to	
-				wound them, I should devote myself	
-				to protection of the village.	
-0x433	0x98	Aulbath		Please take care of the young lady	
-				called Kureha, and Cygna as well.	
-0x4c1	0x98	Aulbath		Please take care of the young lady	mp_0002c 0x433
-				called Kureha, and Cygna as well.	
-0x527	0x98	Aulbath		If it is you, I'm certain you'll be able	
-				to accomplish your task. I believe	
-				in you, my pupil.	
+0x34c	0x98	Aulbath		Strong monsters have appeared	
+				near the island multiple times.	
+0x3b3	0x98	Aulbath		Although my injuries are still getting	
+				better, I will continue to devote myself	
+				towards the protection of the village.	
+0x433	0x98	Aulbath		Please take care of the young	
+				Creha, and Cygna as well.	
+0x4c1	0x98	Aulbath		Please take care of the young	mp_0002c 0x433
+				Creha, and Cygna as well.	
+0x527	0x98	Aulbath		I know you can do it.	
+				I believe in you, my	
+				student.	
 0x5db	0x98	Aulbath		If you are prepared, I am certain	
-				you'll be able to return the blows	
-				of Zext.	
-0x649	0x98	Aulbath		You should save the young lady called	
-				Kureha, no matter what it takes.	
-0x6b1	0x98	Aulbath		And, as for that idiot...	
-				As a substitute for me, please bring	
-				him an extra-large scolding.	
+				you will be able to stand up to Zext.	
+0x649	0x98	Aulbath		You should save the young Creha,	
+				no matter what it takes.	
+0x6b1	0x98	Aulbath		As for that idiot... Please	
+				serve him an extra-large	
+				scolding in my stead.	
 0x755	0x98	Aulbath		If you are prepared, I am certain	mp_0002c 0x5db
-				you'll be able to return the blows	
-				of Zext.	
-0x7c3	0x98	Aulbath		And, as for that idiot...	mp_0002c 0x6b1
-				As a substitute for me, please bring	
-				him an extra-large scolding.	
+				you will be able to stand up to Zext.	
+0x7c3	0x98	Aulbath		As for that idiot... Please	mp_0002c 0x6b1
+				serve him an extra-large	
+				scolding in my stead.	
 talk_Pyxia					
-0x867	0x98	Pyxia		I've started drawing pictures of	
-				the people of this island.	
-0x8c2	0x98	Pyxia		In this situation,	
-				the contest might	
-				be cancelled though...	
-0x91c	0x98	Pyxia		In any kind of bad situation,	
-				the image of people standing up	
-				should encourage various people.	
-0x9c1	0x98	Pyxia		In any kind of bad situation,	mp_0002c 0x91c
-				the image of people standing up	
-				should encourage various people.	
-0xa3e	0x98	Pyxia		I've got to do my best and	
-				finish this drawing!	
+0x867	0x98	Pyxia		I've started painting pictures	
+				of the people of this island.	
+0x8c2	0x98	Pyxia		With the current situation	
+				being as it is, the contest	
+				is probably canceled though...	
+0x91c	0x98	Pyxia		In any kind of bad situation, the image of everyone	
+				standing up and working together through adversity	
+				should be encouraging to lots of people.	
+0x9c1	0x98	Pyxia		In any kind of bad situation, the image of everyone	mp_0002c 0x91c
+				standing up and working together through adversity	
+				should be encouraging to lots of people.	
+0xa3e	0x98	Pyxia		I'll do my best to	
+				finish this painting!	
 talk_Horolo					
-0xabb	0x98	Horolo		There's stones that are usable	
+0xabb	0x98	Horolo		There are stones that seem usable	
 				for statues all over the place...	
-0xb1c	0x98	Horolo		I wonder if I should make	
+0xb1c	0x98	Horolo		Maybe I should make	
 				a statue of you guys.	
-0xb6c	0x98	Horolo		You guys seem to be doing whatever	
+0xb6c	0x98	Horolo		You all seem to be doing whatever	
 				you can in this situation...	
-				I get that feeling, you know?	
-0xc11	0x98	Horolo		I wonder if I should make	mp_0002c 0xb1c
+				I get that, you know～?	
+0xc11	0x98	Horolo		Maybe I should make	mp_0002c 0xb1c
 				a statue of you guys.	
-0xc61	0x98	Horolo		You guys seem to be doing whatever	mp_0002c 0xb6c
+0xc61	0x98	Horolo		You all seem to be doing whatever	mp_0002c 0xb6c
 				you can in this situation...	
-				I get that feeling, you know?	
+				I get that, you know～?	
 talk_Aulbath					
-0xdcd	0x07	System	#4C	If you show Orvus the "Training Book"	mp_0002 0x41e5
-				you can receive skills or items.	
+0xdcd	0x07	System	#4C	If you show Orvus the Training Book,	mp_0002 0x41e5
+				you can receive new skills or items.	
 0xe89	0x36	Choice		Talk	mp_0002 0x42a1
 0xeb3	0x36	Choice		Show Training Book	mp_0002 0x42cb
 0xeff	0x36	Choice		Hear Tactics Instruction	mp_0002 0x4317
 0xf27	0x36	Choice		Quit	mp_0002 0x433f
 check_growth					
-0x1098	0x98	Aulbath		Oh, it's Nayuta.	mp_0002 0x44ae
-				That thing you have is...	
-				A training book, is it not?	
-0x10ff	0x98	ALTO		Yes, I received it	mp_0002 0x4515
-				from Cygna.	
-0x113c	0x98	ALTO		I has been useful in my training.	mp_0002 0x4552
-0x117d	0x98	Aulbath		Hmm, is that so...	mp_0002 0x4593
-0x11e6	0x98	Aulbath		It seems you've collected the	mp_0002 0x45fc
-				stamps little by little.	
+0x1098	0x98	Aulbath		Oh, it's you, Nayuta.	mp_0002 0x44ae
+				You have... That is a	
+				training book, is it not?	
+0x10ff	0x98	ALTO		Yes, Cygna gave it to me earlier.	mp_0002 0x4515
+0x113c	0x98	ALTO		He said it would be	mp_0002 0x4552
+				useful in my training.	
+0x117d	0x98	Aulbath		Hmm, is that so...?	mp_0002 0x4593
+0x11e6	0x98	Aulbath		It seems you've been gradually	mp_0002 0x45fc
+				collecting all the seals.	
 0x123e	0x98	Aulbath		...Yes, if you collect a few more	mp_0002 0x4654
-				stamps, you should be able to	
-				learn a new sword skill.	
-0x12b7	0x98	ALTO		Wha...a skill?	mp_0002 0x46cd
-0x12e5	0x98	ALTO		Oh, Cygna used them often	mp_0002 0x46fb
-				when extermination monsters...	
-0x133c	0x98	Aulbath		Mm, when facing formidable foes,	mp_0002 0x4752
-				they will be extremely useful.	
-0x139d	0x98	Aulbath		In time, I plan to teach you the	mp_0002 0x47b3
-				same skills as Cygna.	
-0x13f5	0x98	Aulbath		Nayuta, you are very diligent.	mp_0002 0x480b
-				When the time comes, I will train you.	
-0x145c	0x98	ALTO		Ahaha...somehow, I'm happy.	mp_0002 0x4872
-0x1497	0x98	ALTO		Master, please take care of me	mp_0002 0x48ad
-				when that time comes!	
-0x1516	0x07	System	#4C	If you show Orvus the "Training Book"	mp_0002 0x41e5
-				you can receive skills or items.	
-0x156a	0x07	System	#4C	Speak with Orvus once you've accumulated	mp_0002 0x4980
-				a fixed amount of stamps in the training book.	
-0x15e1	0x98	Aulbath		The number of stamps in the training	mp_0002 0x49f7
-				book show the extent to which you have	
-				tested yourself.	
-0x165e	0x98	Aulbath		...Let see, if it's this many, then	mp_0002 0x4a74
-				you should be able to learn	
-				a new skill.	
-0x16cb	0x98	ALTO		Wha...a skill?	mp_0002 0x46cd
-0x16f9	0x98	ALTO		Oh, Cygna used them often	mp_0002 0x46fb
-				when extermination monsters...	
-0x1750	0x98	Aulbath		Mm, when facing formidable foes,	mp_0002 0x4752
-				they will be extremely useful.	
+				seals, you should be able to	
+				learn a new sword technique.	
+0x12b7	0x98	ALTO		Huh...? A sword technique?	mp_0002 0x46cd
+0x12e5	0x98	ALTO		Oh, yeah, Cygna used them	mp_0002 0x46fb
+				often to slay monsters...	
+0x133c	0x98	Aulbath		Hmm... They will prove to	mp_0002 0x4752
+				be very useful when facing	
+				formidable foes.	
+0x139d	0x98	Aulbath		In time, I plan to teach you	mp_0002 0x47b3
+				the same skills as Cygna.	
+0x13f5	0x98	Aulbath		Be patient, Nayuta.	mp_0002 0x480b
+				When the time comes,	
+				I will teach you.	
+0x145c	0x98	ALTO		Haha... I'm rather	mp_0002 0x4872
+				glad to hear that.	
+0x1497	0x98	ALTO		Until then, Master!	mp_0002 0x48ad
+0x1516	0x07	System	#4C	If you show Orvus the Training Book,	mp_0002 0x41e5
+				you can receive new skills or items.	
+0x156a	0x07	System	#4C	Speak with Orvus once you've	mp_0002 0x4980
+				collected a sufficient number	
+				of seals in the Training Book.	
+0x15e1	0x98	Aulbath		The number of seals in the	mp_0002 0x49f7
+				Training Book shows how many	
+				challenges you've accomplished.	
+0x165e	0x98	Aulbath		...Let's see, if you've done this	mp_0002 0x4a74
+				much, you should be able to learn	
+				a new sword technique.	
+0x16cb	0x98	ALTO		Huh...? A sword technique?	mp_0002 0x46cd
+0x16f9	0x98	ALTO		Oh, yeah, Cygna used them	mp_0002 0x46fb
+				often to slay monsters...	
+0x1750	0x98	Aulbath		Hmm... They will prove to	mp_0002 0x4752
+				be very useful when facing	
+				formidable foes.	
 tuto_Aulbath					
-0x17e2	0x98	Aulbath		Hmm...You want to hear something?	mp_0002 0x4bf8
+0x17e2	0x98	Aulbath		Hmm... What do you want to know?	mp_0002 0x4bf8
 0x1886	0x36	Choice		About CHAIN	mp_0002 0x4c9c
 0x18c1	0x36	Choice		About CHAIN②	mp_0002 0x4cd7
 0x18fe	0x36	Choice		About Spinning Cut/Vacuum Blade	mp_0002 0x4d14
 0x1945	0x36	Choice		About Spinning Cut	mp_0002 0x4d5b
 0x1987	0x36	Choice		About Down Thrust/Meteor Attack	mp_0002 0x4d9d
 0x19ce	0x36	Choice		About Down Thrust	mp_0002 0x4de4
-0x1a0f	0x36	Choice		About Kamaitachi/Whirlwind	mp_0002 0x4e25
+0x1a0f	0x36	Choice		About Kamaitachi/Divine Wind	mp_0002 0x4e25
 0x1a51	0x36	Choice		About Kamaitachi	mp_0002 0x4e67
 0x1a91	0x36	Choice		About Swallow Return/Fallen Lotus	mp_0002 0x4ea7
 0x1ada	0x36	Choice		About Swallow Return	mp_0002 0x4ef0
@@ -118,99 +119,94 @@ tuto_Aulbath
 0x1b2b	0x36	Choice		About Status Abnormalities	mp_0002 0x4f41
 0x1b53	0x36	Choice		Quit	mp_0002 0x433f
 0x1bb9	0x98	Aulbath		By continuously landing hits,	mp_0002 0x4fcf
-				you will gain various benefits	
-				by accumulating CHAIN.	
+				you will accumulate CHAIN and	
+				gain various benefits.	
 0x1c2d	0x98	Aulbath		For example, increased attack power.	mp_0002 0x5043
-				If you gain a benefit, it will be very	
-				advantageous for you to continue fighting.	
-0x1cc4	0x98	Aulbath		However, CHAIN will be	mp_0002 0x50da
-				interrupted after a fixed time.	
-				It will also be interrupted if you take damage.	
-0x1d4b	0x98	Aulbath		To use CHAIN effectively,	mp_0002 0x5161
-				you need to cooperate with your allies,	
-				and figure how not to interrupt your attacks.	
-0x1df1	0x98	Aulbath		There are stronger benefits	mp_0002 0x5207
-				of CHAIN.	
-0x1e38	0x98	Aulbath		If CHAIN is 80 or higher, earned experience will increase,	mp_0002 0x524e
-				If CHAIN is 100 or higher, all sword attacks will be criticals.	
+				With these benefits, you can very	
+				much turn a fight in your favor.	
+0x1cc4	0x98	Aulbath		However, CHAIN will be interrupted	mp_0002 0x50da
+				after a certain amount of time. It will	
+				also be interrupted after taking damage.	
+0x1d4b	0x98	Aulbath		To use CHAIN effectively, you will need	mp_0002 0x5161
+				to cooperate with your allies to keep	
+				your attacks from being interrupted.	
+0x1df1	0x98	Aulbath		There are more powerful	mp_0002 0x5207
+				benefits of CHAIN.	
+0x1e38	0x98	Aulbath		If CHAIN is 80 or more, the experience	mp_0002 0x524e
+				you earn will increase. At 100 or more,	
+				all sword attacks will be critical hits.	
 0x1ed4	0x98	Aulbath		Furthermore, if CHAIN is 120 or higher,	mp_0002 0x52ea
-				you will gain a benefit that steadily restores your stamina.	
-0x1f5a	0x98	Aulbath		Though it is difficult to accumulate that much,	mp_0002 0x5370
-				these benefit should be your ally	
-				in tough battles.	
-0x1fde	0x98	Aulbath		Bear in mind that when you are aiming at something,	mp_0002 0x53f4
-				aim at it with a positive attitude.	
-0x206d	0x98	Aulbath		If you unleash "Spinning Cut,"	mp_0002 0x5483
-				you can hit even 	
-				flying enemies.	
-0x20ce	0x98	Aulbath		You can also launch	mp_0002 0x54e4
-				small enemies into the sky.	
-				If you master it, it will improve your battles.	
-0x214e	0x98	Aulbath		However, it is impossible to launch	mp_0002 0x5564
-				large-build enemies. You should	
-				bear that in mind.	
-0x21e5	0x98	Aulbath		As for the secret technique, "Vacuum Blade," that is	mp_0002 0x55fb
-				unleashed when CHAIN is 20 or higher, it has even more power.	
-				You should confirm that for yourself in battle.	
-0x22c0	0x98	Aulbath		"Down Thrust" is an attack that grows in strength	mp_0002 0x56d6
-				with the force of the drop.	
-0x232f	0x98	Aulbath		Its distinguishing feature is that,	mp_0002 0x5745
-				of all the sword techniques, it	
-				boasts the highest attack power.	
-0x23b4	0x98	Aulbath		Though it leaves a large gap,	mp_0002 0x57ca
-				there are many chances to use it.	
-				Please try using it in your own way.	
-0x2459	0x98	Aulbath		As for the secret technique "Meteor Attack" that is unleashed	mp_0002 0x586f
-				when CHAIN is 20 or more, it has even more attack power.	
-				You should confirm that for yourself in battle.	
-0x2538	0x98	Aulbath		"Kamaitachi" is unleashing an	mp_0002 0x594e
+				you will gradually restore your health.	
+0x1f5a	0x98	Aulbath		Though it is difficult to accumulate	mp_0002 0x5370
+				that much, these benefits can be a	
+				powerful ally in a tough battle.	
+0x1fde	0x98	Aulbath		It is a good idea to keep this in mind,	mp_0002 0x53f4
+				and to fight actively when possible.	
+0x206d	0x98	Aulbath		If you unleash 'Spinning Cut,'	mp_0002 0x5483
+				you can hit flying monsters.	
+0x20ce	0x98	Aulbath		You can also launch smaller monsters into	mp_0002 0x54e4
+				the air. If you can master it, you can gain	
+				an advantage in your battles.	
+0x214e	0x98	Aulbath		However, it is impossible	mp_0002 0x5564
+				to launch larger enemies.	
+				Something to keep in mind.	
+0x21e5	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x55fb
+				more powerful secret technique, 'Vacuum Blade.'	
+				You can confirm its true nature in battle.	
+0x22c0	0x98	Aulbath		'Down Thrust' is an attack that uses the	mp_0002 0x56d6
+				momentum of a fall to increase its power.	
+0x232f	0x98	Aulbath		Its distinguishing feature is	mp_0002 0x5745
+				that, of all the sword techniques,	
+				it boasts the highest power.	
+0x23b4	0x98	Aulbath		Although it can leave a wide opening,	mp_0002 0x57ca
+				there are many different ways to use it.	
+				You can try finding them out on your own.	
+0x2459	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x586f
+				more powerful secret technique, 'Meteor Attack.'	
+				You can confirm its true nature in battle.	
+0x2538	0x98	Aulbath		'Kamaitachi' unleashes an	mp_0002 0x594e
 				intense stroke of your sword	
 				with a quick step.	
-0x25a6	0x98	Aulbath		This technique with strong sword power	mp_0002 0x59bc
+0x25a6	0x98	Aulbath		This technique, infused with sword chi,	mp_0002 0x59bc
 				can damage enemies against which sword	
-				attacks are ineffective.	
-0x262d	0x98	Aulbath		Additionally, that power extends over a wide range.	mp_0002 0x5a43
-				The possibility of long-range attacks	
-				is a feature of this technique.	
-0x26e7	0x98	Aulbath		As for the secret technique "Whirlwind" that is unleashed	mp_0002 0x5afd
-				when CHAIN is 20 or more, it has even more attack power.	
-				You should confirm that for yourself in battle.	
-0x27c2	0x98	Aulbath		"Swallow Return" is cutting	mp_0002 0x5bd8
-				down all surrounding enemies	
-				in an instant.	
-0x282a	0x98	Aulbath		It also has the effect of pulling surrounding enemies	mp_0002 0x5c40
-				towards you. In melee, it exhibits a terrible power.	
-0x28b6	0x98	Aulbath		Though among the sword techniques it is the	mp_0002 0x5ccc
-				most difficult, if you master it, it will be a strong power.	
-				Do not tire of this, and endeavor to train.	
-0x298b	0x98	Aulbath		As for the secret technique "Fallen Lotus" that is unleashed	mp_0002 0x5da1
-				when CHAIN is 20 or more, it has even more attack power.	
-				You should confirm that for yourself in battle.	
-0x2a69	0x98	Aulbath		Among swords there exist	mp_0002 0x5e7f
-				"One-Handed Swords" and	
-				"Two-Handed Sword."	
-0x2ace	0x98	Aulbath		One-handed swords are maneuverable	mp_0002 0x5ee4
-				and can unleash quick, successive attacks.	
-				Generally, you can say they are easy to handle.	
-0x2b6c	0x98	Aulbath		On the other hand, two-handed swords have high attack power,	mp_0002 0x5f82
-				and easily bringing down enemies is their characteristic.	
-				However, they leave a large gap and are hard to handle.	
+				attacks are otherwise ineffective.	
+0x262d	0x98	Aulbath		Additionally, its power lies in its	mp_0002 0x5a43
+				longer reach. It is possible to attack	
+				from a distance with this technique.	
+0x26e7	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x5afd
+				more powerful secret technique, 'Divine Wind.'	
+				You can confirm its true nature in battle.	
+0x27c2	0x98	Aulbath		'Swallow Return' can cut down all	mp_0002 0x5bd8
+				surrounding enemies in an instant.	
+0x282a	0x98	Aulbath		It also has the effect of pulling the enemies	mp_0002 0x5c40
+				towards you. This is very powerful in melee.	
+0x28b6	0x98	Aulbath		It is one of the most difficult sword techniques,	mp_0002 0x5ccc
+				but if mastered, it can be a powerful tool.	
+				Never tire, and keep practicing.	
+0x298b	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	mp_0002 0x5da1
+				more powerful secret technique, 'Fallen Lotus.'	
+				You can confirm its true nature in battle.	
+0x2a69	0x98	Aulbath		There exist two types of swords:	mp_0002 0x5e7f
+				One-handed and two-handed swords.	
+0x2ace	0x98	Aulbath		One-handed swords have great maneuverability, and	mp_0002 0x5ee4
+				are capable of delivering quick, successive attacks.	
+				Generally, they are considered easier to handle.	
+0x2b6c	0x98	Aulbath		On the other hand, two-handed swords have higher power,	mp_0002 0x5f82
+				and easily knock down enemies. However, they leave a	
+				larger opening between attacks and are harder to handle.	
 0x2c3b	0x98	Aulbath		Each has its advantages and disadvantages...	mp_0002 0x6051
-				I cannot say which is superior.	
-				You should choose a sword which is easy for you to use.	
-0x2cf6	0x98	Aulbath		Among monsters there are those	mp_0002 0x610c
-				which can cause various abnormal	
-				statuses.	
-0x2d60	0x98	Aulbath		There is "poison" which saps your stamina,	mp_0002 0x6176
-				and "paralysis" which substantially lowers	
-				your movement ability...	
-0x2def	0x98	Aulbath		"Freeze" which stops your movements,	mp_0002 0x6205
-				and "confuse" which derails your actions.	
-0x2e5f	0x98	Aulbath		Though with time, all are restored,	mp_0002 0x6275
-				there exists equipment which offers	
-				resistance and recovery items.	
+				I cannot say which is superior. Choose a	
+				sword most comfortable for you to use.	
+0x2cf6	0x98	Aulbath		Some monsters can cause	mp_0002 0x610c
+				various status conditions.	
+0x2d60	0x98	Aulbath		'Poison' rapidly saps your health, and	mp_0002 0x6176
+				'paralysis' greatly slows your movement...	
+0x2def	0x98	Aulbath		'Freezing' can stop your movements.	mp_0002 0x6205
+				'Panic' derails your actions.	
+0x2e5f	0x98	Aulbath		Though all can be reversed with time,	mp_0002 0x6275
+				there exists equipment that improves	
+				resistance and status recovery items.	
 0x2ee6	0x98	Aulbath		If you are heading to a dangerous	mp_0002 0x62fc
-				battle, you should get your	
-				preparations in order.	
+				battle, make sure to be prepared.	
 EV_6_S12_look_aulbath_h					
 atari					

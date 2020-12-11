@@ -16,19 +16,19 @@ dead_skill
 open_door5_6					
 0x107b	0x07	System	#3C	Defeated high-rank monster [Solar Sphere]!	
 0x113d	0x06	NOI		ANI_TAMEATK1	
-0x11a0	0x07	System	#1C	Noi recovered the summer magic #4C『#771ICorona Laser』#1C!	
+0x11a0	0x07	System	#1C	Noi recovered the summer magic, #4C『#771ICorona Laser』#1C!	
 0x122e	0xC1	System		obtained.	mp_0000 0x7558
 talk_SpiritC					
 QS_54_discovery_SpiritC					
-0x15d6	0x6B	SpiritC		Exclamation	
+0x15d6	0x6B	SpiritC		Exclamation	# this is probably all dummy text. nothing happens in La Worg in QS_54 outside the temple
 0x160b	0x06	ALTO		ANI_GESTURE1	
 0x1635	0x98	ALTO		You're Nemeas' messenger...right?	
 0x1676	0x98	SpiritC		...～?	
 0x169f	0x06	NOI		ANI_COMPLAIN	
-0x16c8	0x98	NOI	#6A	Nayuta has an	
-				urgent wish for you!	
+0x16c8	0x98	NOI	#6A	We have an urgent matter	
+				to ask of you!	
 0x170b	0x40	UNDEF		Nayuta explained that, to receive	
-				Nemeas' art, the "Sprout Magatama"	
+				Nemeas' art, the 'Sprout Magatama'	
 				is necessary.	
 0x177c	0x98	SpiritC		...(*gulp, gulp*)	
 0x17c5	0x98	NOI	#6A	It seems it understands.	

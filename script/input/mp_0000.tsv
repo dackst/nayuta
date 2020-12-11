@@ -2,679 +2,659 @@ mp_0000
 first_init					
 init					
 LP_Shop1					
-0x254e	0x41	None		～  Bar & Inn <Moon View Pavillion>  ～	
+0x254e	0x41	None		～  Moonlight Pavilion Bar & Inn   ～	
 				  We have tasty food and warm rooms	
-				    ready for you.	
+				    ready for you to enjoy.	
 LP_Shop2					
-0x262e	0x41	None		★Welcome to general store <Sunset>!★	
+0x262e	0x41	None		★Welcome to Sunset General Store!★	
 				  From daily necessities to souvenirs,	
-				  leave it to <Sunset>!	
-				  Would you like to try <Star Shards>,	
-				  Remnant Island's most popular product?	
+				    Sunset is the place to go!	
+				  Take a look at our star shards,	
+				  a specialty of Remnant Island!	
 talk_Dorado					
-0x2773	0x98	Dorado		When monsters come out this	
-				time, I, Dorado, will take care	
-				of them in the blink of an eye.	
-0x27ee	0x98	Dorado		Lately, I haven't seen monsters or	
-				anything at all around, and	
-				that's why I can say that, hahaha.	
-0x2879	0x98	Dorado		I too, pleaded with Orvus to	
-				receive training this year.	
-0x28d2	0x98	Dorado		Because I wasn't useful during	
-				the strange events a year ago,	
-				somehow, I want to become stronger.	
-0x2953	0x98	Dorado		When monsters come out this	mp_0000 0x2773
-				time, I, Dorado, will take care	
-				of them in the blink of an eye.	
+0x2773	0x98	Dorado		Next time that monsters appear,	
+				I, Dorado, will take care	
+				of them in a flash.	
+0x27ee	0x98	Dorado		But I haven't seen any monsters around	
+				anywhere lately, so that's why I can	
+				say that so confidently, hahaha.	
+0x2879	0x98	Dorado		This past year, I've begged Orvus	
+				to start training me, too.	
+0x28d2	0x98	Dorado		I wasn't useful at all during the	
+				strange events last year, so I'm	
+				trying to become stronger.	
+0x2953	0x98	Dorado		Next time that monsters appear,	mp_0000 0x2773
+				I, Dorado, will take care	
+				of them in a flash.	
 0x2a20	0x98	Dorado		It sure is peaceful...	
-0x2a58	0x98	Dorado		That strange events like the ones	
-				last year could occur,	
-				It's on the level where you can't believe it.	
-0x2ae8	0x98	Dorado		*Yawn*...	
-				Even so, there's peace now.	
-0x2b2e	0x98	Dorado		We removed the rubble,	
-				and that broken building	
-				is completely cleaned up now...	
-0x2b9d	0x98	Dorado		That strange events like the ones	mp_0000 0x2a58
-				last year could occur,	
-				It's on the level where you can't believe it.	
-0x2c5d	0x98	Dorado		Wha...I-It's COLD!	
-0x2c91	0x98	Dorado		It doesn't look like rain but...	
-				What the hell is this anyway!?	
-0x2d25	0x98	Dorado		I can't believe a girl that	
-				beautiful would come to	
-				Remnant Island for homestay...	
-0x2d97	0x98	Dorado		And what's more, it seems she	
-				is an acquaintance of yours, Nayuta.	
-				Why did you keep her a secret from me?	
-0x2e20	0x98	ALTO		You're talking about Kureha?	
-				Hmm, I wasn't really keeping	
-				secrets or anything...	
-0x2e8e	0x98	Dorado		Tch. However...	
-				I regret that I'm not the	
-				same age as you.	
-0x2ee8	0x98	Dorado		If she was one or two years older,	
-				she would've been in the	
-				strike zone...	
+0x2a58	0x98	Dorado		It's hard to believe something so	
+				crazy happened only a year ago.	
+0x2ae8	0x98	Dorado		*yawn*... But it's	
+				so peaceful now.	
+0x2b2e	0x98	Dorado		The fallen rubble has been cleared out, 	
+				and all the building damage has been	
+				completely repaired...	
+0x2b9d	0x98	Dorado		It's hard to believe something so	mp_0000 0x2a58
+				crazy happened only a year ago.	
+0x2c5d	0x98	Dorado		Wha... It's C-COLD!	
+0x2c91	0x98	Dorado		This doesn't look like rain...	
+				What the hell is this stuff!?	
+0x2d25	0x98	Dorado		I can't believe such a beautiful	
+				girl would come to Remnant Island	
+				to stay over...	
+0x2d97	0x98	Dorado		And she's a friend of yours, Nayuta?	
+				Why the hell didn't you tell me?	
+0x2e20	0x98	ALTO		Are you talking about Creha?	
+				Umm, I wasn't really keeping	
+				her a secret or anything...	
+0x2e8e	0x98	Dorado		Tch, even so...	
+				It sucks I'm not	
+				your age anymore.	
+0x2ee8	0x98	Dorado		If only she were another year or two older,	
+				then she'd be in the strike zone...	
 0x2f52	0x6B	ALTO		Sweatdrop	
-0x2f84	0x98	ALTO		(Dorado is quite like an old man already...	
-				 Even though he's only 20.)	
-0x3024	0x98	Dorado		If Kureha was one or two years older,	
-				she would've been in the	
-				strike zone...	
-0x3091	0x98	Dorado		Nah, for right now, if I make	
-				a good impression on her,	
-				then later, later...	
+0x2f84	0x98	ALTO		(Dorado is only 20, but	
+				 he's already sounding	
+				 like a dirty old man...)	
+0x3024	0x98	Dorado		If she were a year or two older,	
+				she'd be in the strike zone...	
+0x3091	0x98	Dorado		Nah, maybe if I make a good	
+				impression on her now, then	
+				later... later...	
 0x30fd	0x98	ALTO		(Is he serious...?)	
-0x3158	0x98	Dorado		For now, I've got to make	
-				a good impression on Kureha.	
-0x31af	0x98	Dorado		Then, she'll be in the strike	
-				zone in one or two years...	
-				Ah, I've got to think about the rose color.	
+0x3158	0x98	Dorado		For now, I just have to make	
+				a good impression on Creha.	
+0x31af	0x98	Dorado		Then, a year or two later, I strike...	
+				Ah, I see a bright future ahead, man.	
 0x3234	0x6B	ALTO		Sweatdrop	
-0x32b4	0x98	Dorado		Crap, while I was fascinated,	
-				I lost sight of her!	
-0x3307	0x98	Dorado		I've got to find her somehow...	
-				At the very least, I've	
-				got to ask her name!	
-0x339b	0x98	Dorado		There's no mistake that she's some	
-				young lady who came to the island.	
-0x3401	0x98	Dorado		...Ah, it's useless.	
-				Just by thinking about that girl,	
-				I get heart palpitations!	
+0x32b4	0x98	Dorado		Crap, I was so mesmerized	
+				that I lost sight of her!	
+0x3307	0x98	Dorado		I've gotta find her again somehow...	
+				And at least ask for her name...!	
+0x339b	0x98	Dorado		She must be the daughter of some	
+				noble visiting the island.	
+0x3401	0x98	Dorado		...Aah, it's no use.	
+				Just thinking about her	
+				makes my heart race!	
 0x34a7	0x98	Dorado		N-Nayuta!?	
-				...T-T-This is an emergency!!	
-0x34f0	0x98	ALTO		What's wrong, Dorado?	
-				Is it monsters on the island	
-				again?	
-0x3547	0x98	Dorado		J-Just now...	
-				An unbelievably pretty	
-				girl passed by here...	
+				...I-I-It's an emergency!!	
+0x34f0	0x98	ALTO		What's the matter, Dorado?	
+				Are there monsters on the	
+				island again?	
+0x3547	0x98	Dorado		J-Just now... This amazing	
+				beauty walked by...	
 0x35a2	0x98	Dorado		I only caught a glimpse,	
-				but that grace...	
-				Maybe I saw a dream or something!?	
+				but what a stunner... 	
+				Was I just daydreaming!?	
 0x360f	0x6B	ALTO		Sweatdrop	
-0x3641	0x98	ALTO		Y-Yeah...	
-				(As I thought, it's	
-				 about Kureha...)	
-0x36b6	0x98	Dorado		Like a white angel...no, a goddess!?	
+0x3641	0x98	ALTO		Um, well...	
+				(I knew it, it's	
+				 about Creha...)	
+0x36b6	0x98	Dorado		Like a pure angel...	
+				No, a goddess...!	
 				And that peerless beauty...	
-0x3717	0x98	Dorado		Somehow it seems that Ada	
-				has pulled her into her shop...	
-				Why??	
-0x37ae	0x98	Dorado		Wha, Eartha collapsed～!?	
+0x3717	0x98	Dorado		It looks like that damn Ada	
+				pulled her into her shop for	
+				some reason... Why...?	
+0x37ae	0x98	Dorado		Wah, Eartha collapsed!?	
 0x37e9	0x98	Dorado		This is big trouble...	
-				I-I'll go visit her soon!!	
-0x383b	0x98	Lupus		It's good that Doctor Hydol	
-				just arrived at the island.	
-0x3892	0x98	Lupus		Well, if it's Dorado's older brother,	
-				you'd have to think that.	
-0x3919	0x98	Dorado		Wh-wh-wha...The beautiful Eartha is...	
-0x3961	0x98	Dorado		Things can't be like this.	
-				I've got to visit her immediately!!	
+				I-I'll be there for her soon!!	
+0x383b	0x98	Lupus		It's a good thing that Dr. Hydrol	
+				is here on the island.	
+0x3892	0x98	Lupus		Well, no one would disagree with that	
+				right now, especially you, Dorado.	
+0x3919	0x98	Dorado		W-Wah... The beautiful Eartha...	
+0x3961	0x98	Dorado		This can't be. I have to	
+				see her immediately!!	
 0x3a0e	0x98	Dorado		Ada from the weapon shop	
-				is removed from my taste...	
-0x3a63	0x98	Dorado		When the conversation turns to weapons	
-				and stuff, she can't stop talking about them,	
-				but she has cute points too.	
-0x3af4	0x98	Dorado		...When I submit my spear for repair,	
-				it's always, "Your technique is unacceptable!"	
-				and I'm hit every time.	
+				is not my type...	
+0x3a63	0x98	Dorado		She's cute, but when she starts talking	
+				about stuff like weapons, she gets so	
+				carried away and won't stop.	
+0x3af4	0x98	Dorado		...Whenever I take my spear in for repairs,	
+				she's always all, 'You're not using it right!'	
+				and I get lectured at for half an hour.	
 0x3b80	0x6B	ALTO		Sweatdrop	
-0x3bda	0x98	Dorado		When it comes to Ada talking about	
-				weapons, even an older companion	
-				wouldn't forgive her.	
-0x3c53	0x98	Dorado		Mine is the graceful type,	
-				like Sasha or Eartha...	
-0x3cb2	0x98	Dorado		Eh, Cygna?	
-				I saw him a little while ago.	
-0x3cfb	0x98	Dorado		He was in a hurry, and	
-				didn't want to talk at all.	
+0x3bda	0x98	Dorado		If someone comes between Ada and her weapons,	
+				even a superior officer would get no mercy.	
+0x3c53	0x98	Dorado		I prefer the more the more gentle and	
+				ladylike type, like Sasha or Eartha...	
+0x3cb2	0x98	Dorado		Huh, Cygna? I just	
+				saw him a minute ago.	
+0x3cfb	0x98	Dorado		Looked like he was in a hurry.	
+				He didn't respond when I called	
+				out to him.	
 0x3d4e	0x98	Dorado		I wonder what happened...	
-0x3dbf	0x98	Dorado		Don't you think Sasha	
-				from the general store is lovely?	
-0x3e17	0x98	Dorado		She is still young, but she	
-				manages the store by herself.	
-				How industrious!	
-0x3e81	0x98	Dorado		From the atmosphere surrounding	
-				her, I think she's the daughter	
-				of a wealthy family somewhere...	
-0x3f01	0x98	Dorado		When her true identity isn't revealed,	
-				the mystery is good too.	
-0x3f89	0x98	Dorado		I think Sasha from the general store is	
-				the daughter of a rich family somewhere...	
+0x3dbf	0x98	Dorado		Isn't Sasha from the	
+				general store lovely?	
+0x3e17	0x98	Dorado		She's still so young, yet she	
+				runs the store all by herself.	
+				Oh～, how industrious!	
+0x3e81	0x98	Dorado		From the air about her, I'd say	
+				she's the daughter of some	
+				wealthy family somewhere...	
+0x3f01	0x98	Dorado		With her true identity kept secret, the	
+				sense of mystery is attractive, too.	
+0x3f89	0x98	Dorado		I think Sasha from the general store is the	
+				daughter of some wealthy family somewhere...	
 				She always dodges the question when I ask.	
-0x4026	0x98	Dorado		But, when her true identity isn't revealed,	
-				the mystery is good too.	
-0x40c1	0x98	Dorado		Hmmhmm, it seems it's good	
-				to not get any closer for a little while.	
-0x4126	0x98	Dorado		...Alright, I'll assume the guard!	
-				I won't let anyone past here!	
-0x4187	0x98	Dorado		That's why I'm leaving the	
-				monster extermination to you, Nayuta.	
-0x41e8	0x98	ALTO		Now that you mention it, I've never	
-				seen you fight Dorado...	
-0x4243	0x98	Dorado		H-Hey, hey,	
-				don't damage my reputation.	
+0x4026	0x98	Dorado		But the sense of mystery from keeping her	
+				true identity secret is attractive, too.	
+0x40c1	0x98	Dorado		Mmhmm, it seems like it's good	
+				to not get any closer for now.	
+0x4126	0x98	Dorado		...All right, I'll	
+				take up guard here!	
+				None shall pass!	
+0x4187	0x98	Dorado		So I'll let you handle the	
+				monster extermination, Nayuta.	
+0x41e8	0x98	ALTO		Come to think of it, I don't	
+				think I've never seen you	
+				fight before, Dorado...	
+0x4243	0x98	Dorado		H-Hey now, don't damage my reputation.	
 0x428b	0x98	Dorado		E-Even I...!	
-0x42d9	0x98	Dorado		I...I'll do it when I have to, right?	
+0x42d9	0x98	Dorado		I...I can do it if I have to, right?	
 0x4320	0x6B	ALTO		Sweatdrop	
 0x437a	0x98	Dorado		There's monsters in that	
 				fallen ruin for sure...	
-0x43cb	0x98	Dorado		I've got to protect everyone	
-				here, see?	
-0x4413	0x98	Dorado		I can't move from this place.	
-				I'll leave the monster extermination	
-				to you guys!	
-0x44d6	0x98	Dorado		Now you seeー	
-				It's not the case that I forgot my lunch	
-				because I wanted to eat Eartha's...	
-0x4550	0x98	Dorado		Truly, that was not my intention!!	
-0x459e	0x98	Dorado		Now you seeー	mp_0000 0x44d6
-				It's not the case that I forgot my lunch	
-				because I wanted to eat Eartha's...	
-0x4618	0x98	Dorado		Truly, that was not my intention!!	mp_0000 0x4550
-0x465c	0x98	ALTO		Y-Yeah, understood.	
-				(He just himself declared	
-				 his true feelings...)	
-0x4702	0x98	Dorado		Hey, Nayuta! Did you finish	
-				greeting Eartha?	
+0x43cb	0x98	Dorado		I have to protect everyone here, got it?	
+0x4413	0x98	Dorado		I can't leave my post here.	
+				You guys can handle the	
+				monster extermination!	
+0x44d6	0x98	Dorado		I-I, uh... It's not like I purposely	
+				forgot my lunch because I wanted one	
+				made by Eartha or anything...	
+0x4550	0x98	Dorado		Really, it's not true!!	
+0x459e	0x98	Dorado		I-I, uh... It's not like I purposely	mp_0000 0x44d6
+				forgot my lunch because I wanted one	
+				made by Eartha or anything...	
+0x4618	0x98	Dorado		Really, it's not true!!	mp_0000 0x4550
+0x465c	0x98	ALTO		Y-Yeah, sure.	
+				(He just blurted out his true	
+				 intentions all by himself...)	
+0x4702	0x98	Dorado		Heya, Nayuta! Have you	
+				finished greeting Eartha?	
 0x474f	0x98	ALTO		Oh, Dorado. Yeah, I just finished	
-				stowing my luggage.	
-0x47a3	0x98	ALTO		Haha, at any rate, it's been awhile since I've seen you.	
-				How are you doing with your guard duties?	
-0x4824	0x98	Dorado		Well, it's as always.	
-0x485b	0x98	Dorado		Because this village is peace itself,	
-				honestly speaking, there's almost no	
-				work.	
-0x48cb	0x98	ALTO		Ahaha....is that so.	
-				My sis is her usual peaceful	
-				self too, no doubt about it.	
+				putting away my luggage.	
+0x47a3	0x98	ALTO		Ha, anyway, it's been so long	
+				since I've seen you. How's the	
+				guard duty going?	
+0x4824	0x98	Dorado		Well, same as always.	
+0x485b	0x98	Dorado		This village is the embodiment of	
+				peace itself, so there's almost	
+				nothing to do, really.	
+0x48cb	0x98	ALTO		Haha... I see. Eartha was	
+				the same as always, so	
+				it's definitely peaceful.	
 0x4937	0x6B	Dorado		Ellipsis	
 0x496b	0x6B	ALTO		Question	
-0x499d	0x98	Dorado		Huh-?...	
-				I'm jealous of you as expected.	
-				You have such a lovely sister.	
-0x4a04	0x98	Dorado		What's more, she's not merely beautiful.	
-				She is kind, and a skilled cook.	
-0x4a6e	0x98	Dorado		...Nayuta...	
-				Do you want an older brother?	
+0x499d	0x98	Dorado		Ooh... I envy you so much, man,	
+				having such a lovely sister.	
+0x4a04	0x98	Dorado		What's more, not only is she beautiful,	
+				but she's also kind and a great cook.	
+0x4a6e	0x98	Dorado		...Nayuta. How would you like	
+				to get a new older brother?	
 0x4ab9	0x6B	ALTO		Sweatdrop	
-0x4aeb	0x98	ALTO		(That he likes girls hasn't changed...	
-				 It's true proof of peace.)	
-0x4b74	0x98	Dorado		I'm jealous of you, Nayuta.	
-				You have such a lovely sister.	
-0x4bcf	0x98	Dorado		Ah, I don't have a chance.	
-				We're not on the same level.	
+0x4aeb	0x98	ALTO		(His womanizing hasn't changed...	
+				 Perhaps that's the true sign of peace.)	
+0x4b74	0x98	Dorado		I'm so jealous of you, Nayuta. You're	
+				lucky to have such a lovely sister.	
+0x4bcf	0x98	Dorado		Ooh, I don't stand a chance.	
+				She's out of my league.	
 talk_Lupus					
 0x4cb7	0x98	Lupus		With a sudden flash of light, the fairy	
-				Noi fell down onto the ruined tower.	
-0x4d23	0x98	Lupus		But, you lost those	
-				memories...huh.	
-0x4d66	0x98	Lupus		Oh, this and that.	
-				Either way, if we don't have excitement	
-				like this, life isn't worth living.	
+				Noi fell down onto the Tower Ruins.	
+0x4d23	0x98	Lupus		But her memories are gone...?	
+0x4d66	0x98	Lupus		Oh, here it comes. Life's not	
+				worth living without drama	
+				like this, am I right?	
 0x4de3	0x6B	ALTO		Sweatdrop	
 0x4e0d	0x6B	NOI		Sweatdrop	
-0x4e3e	0x98	NOI		Even though he's enjoying	
-				himself, he's troubled...	
-0x4e8f	0x98	ALTO		Haha, you're always like	
-				this, Lupus.	
-				I'll leave you alone.	
-0x4f2a	0x98	Lupus		Either way, if we don't have excitement	
-				like this, life isn't worth living.	
-0x4f95	0x98	Lupus		Though I don't understand what's what,	
-				again you caused various events to	
-				happen for me.	
-0x5034	0x98	Lupus		Nayuta, Noi.	
-				Again you caused various events to	
-				happen for me.	
-0x50c9	0x98	Lupus		Yo, Nayuta. Lately, it seems you've	
-				been working hard somehow.	
-0x5127	0x98	Lupus		What interesting thing have you	
-				dug up for me this time?	
-0x517f	0x98	ALTO		(H-Hmm...	
-				 that's a little vague.)	
-0x51e8	0x98	Lupus		Nothing interesting has happened	
-				lately.	
-0x5230	0x98	Lupus		...Because Cygna, Kureha and	
-				Noi aren't here, something's	
-				lacking...	
-0x52af	0x98	Lupus		So this is "snow"...	
-				I heard about it in a rumor...	
-0x5302	0x98	Lupus		Something like cold, white powder	
-				falling from the sky, it's like	
-				a strange phenomenon...	
-0x53ae	0x98	Lupus		Oh, Kureha...Ahem.	
-				I check each person coming to and	
-				leaving the village every day, you see...	
+0x4e3e	0x98	NOI		I don't want to be this	
+				guy's entertainment...	
+0x4e8f	0x98	ALTO		Haha, Lupus is always like	
+				that. Just let him be.	
+0x4f2a	0x98	Lupus		Life's not worth living without	
+				drama like this, am I right?	
+0x4f95	0x98	Lupus		I'm still not entirely sure what's going	
+				on, but you're going to cause all kinds	
+				of trouble again, aren't you? ♪	
+0x5034	0x98	Lupus		Nayuta, Noi. You're going to	
+				cause all kinds of trouble	
+				again, aren't you? ♪	
+0x50c9	0x98	Lupus		Yo, Nayuta. It looks like you've	
+				been working pretty hard recently.	
+0x5127	0x98	Lupus		Next time, go find something	
+				interesting for me, will ya～?	
+0x517f	0x98	ALTO		(Um, well... That's a little vague.)	
+0x51e8	0x98	Lupus		Nothing interesting has	
+				happened lately.	
+0x5230	0x98	Lupus		...Now that Cygna, Creha, and	
+				Noi are gone, it feels like	
+				something's missing...	
+0x52af	0x98	Lupus		So this is snow...	
+				I've heard rumors...	
+0x5302	0x98	Lupus		It's like this freaky phenomenon	
+				where cold white powder falls	
+				from the sky...	
+0x53ae	0x98	Lupus		Oh, I was wondering about Creha...	
+				I watch all the people coming to and	
+				from the island every day, you see...	
 0x542b	0x98	Lupus		When exactly did she come	
 				to Nayuta's house?	
-0x5477	0x98	ALTO		(Gulp...)	
-0x54a0	0x98	Lupus		Heh, well that's fine.	
-				Though she's shrouded in mysteries,	
-				she's cute.	
-0x552d	0x98	Lupus		But somehow, I get the feeling that	
-				mysterious things are occurring around you	
-				often lately.	
-0x55a8	0x98	Lupus		This is a coincidence, right?	
-0x561c	0x98	Lupus		Hey, Nayuta, did you hear?	
-				A super-beautiful girl came to	
-				the island recently...	
-0x568b	0x98	Lupus		According to my investigation, the	
-				witnesses were Dorado, Sculp and	
-				Ada.	
-0x56f2	0x98	Lupus		...Somehow, it doesn't seem false...	
-				I should investigate it myself...	
-0x5758	0x98	ALTO		(H-Hmm, with this,	
-				 it's just a matter of time before	
-				 rumors spread...)	
-0x57e6	0x98	Lupus		Hmmm, it seems she's pretty	
-				close with Sculp.	
-0x5833	0x98	Lupus		I've got to gather information	
-				for now...	
-0x58b2	0x98	Lupus		Say, Nayuta...	
-				Where did you get the medicinal herb	
-				used to cure Eartha's illness?	
-0x5923	0x98	Lupus		Is the fact I haven't seen Cygna around	
-				connected in any way?	
-0x5980	0x98	ALTO		Well, you see...	
-0x59b0	0x98	Lupus		Haha, well that's fine.	
-0x59e8	0x98	Lupus		Though there's various things that pique	
-				my interest, in the end, it's good	
-				that everything worked out fine.	
-0x5a73	0x98	Lupus		Well, when you can talk about it,	
-				please tell me.	
-				I think my interest is deepening.	
-0x5ae5	0x98	ALTO		Y-Yeah...It's a promise.	
-0x5b5f	0x98	Lupus		The medicinal herb used to cure	
-				Eartha's illness, and the reason	
-				Cygna's not around...	
-0x5bd4	0x98	Lupus		Though there's various things that pique	mp_0000 0x59e8
-				my interest, in the end, it's good	
-				that everything worked out fine.	
-0x5c5f	0x98	Lupus		Well, when you can talk about it,	mp_0000 0x5a73
-				please tell me.	
-				I think my interest is deepening.	
-0x5cf9	0x98	Lupus		Though there's various things that pique	mp_0000 0x59e8
-				my interest, in the end, it's good	
-				that everything worked out fine.	
-0x5d84	0x98	Lupus		Well, when you can talk about it,	mp_0000 0x5a73
-				please tell me.	
-				I think my interest is deepening.	
-0x5e2e	0x98	Dorado		Wha, Eartha collapsed～!?	mp_0000 0x37ae
+0x5477	0x98	ALTO		*gulp*...	
+0x54a0	0x98	Lupus		Hehe, well, it's okay.	
+				She's cute, even though	
+				she's shrouded in mystery.	
+0x552d	0x98	Lupus		But somehow, I've been getting the	
+				feeling that mysterious things have	
+				been happening around you lately.	
+0x55a8	0x98	Lupus		Coincidence～? I think not.	
+0x561c	0x98	Lupus		Hey Nayuta, did you hear?	
+				A super beautiful girl came	
+				to the island recently...	
+0x568b	0x98	Lupus		According to my investigation,	
+				eyewitnesses include my brother	
+				Dorado, Mr. Sculp, and Ada.	
+0x56f2	0x98	Lupus		...Their reports corroborate the idea...	
+				Perhaps I should investigate myself...	
+0x5758	0x98	ALTO		(H-Hmm, with the way he is, it's	
+				 only a matter of time before	
+				 rumors start to spread...)	
+0x57e6	0x98	Lupus		Hmmm, I have a feeling this is	
+				going to be a pretty good scoop.	
+0x5833	0x98	Lupus		I'll have to investigate	
+				further for now...	
+0x58b2	0x98	Lupus		Say, Nayuta... Just where did	
+				you obtain the medicinal herb	
+				to cure Eartha's illness?	
+0x5923	0x98	Lupus		Does it have to do with the fact that	
+				I haven't seen Cygna around lately?	
+0x5980	0x98	ALTO		W-Well, umm...	
+0x59b0	0x98	Lupus		Haha, it's all good though.	
+0x59e8	0x98	Lupus		Even though there's lots of things about this	
+				case that pique my interest, it's all good as	
+				long as everything worked out fine in the end.	
+0x5a73	0x98	Lupus		Anyway, tell me about it when	
+				you get the chance. It seems	
+				pretty interesting.	
+0x5ae5	0x98	ALTO		Y-Yeah... It's a promise.	
+0x5b5f	0x98	Lupus		The source of the medicinal herb that	
+				cured Eartha's illness, and why Cygna	
+				hasn't been around lately...	
+0x5bd4	0x98	Lupus		Even though there's lots of things about this	mp_0000 0x59e8
+				case that pique my interest, it's all good as	
+				long as everything worked out fine in the end.	
+0x5c5f	0x98	Lupus		Anyway, tell me about it when	mp_0000 0x5a73
+				you get the chance. It seems	
+				pretty interesting.	
+0x5cf9	0x98	Lupus		Even though there's lots of things about this	mp_0000 0x59e8
+				case that pique my interest, it's all good as	
+				long as everything worked out fine in the end.	
+0x5d84	0x98	Lupus		Anyway, tell me about it when	mp_0000 0x5a73
+				you get the chance. It seems	
+				pretty interesting.	
+0x5e2e	0x98	Dorado		Wah, Eartha collapsed!?	mp_0000 0x37ae
 0x5e69	0x98	Dorado		This is big trouble...	mp_0000 0x37e9
-				I-I'll go visit her soon!!	
-0x5ebb	0x98	Lupus		It's good that Doctor Hydol	mp_0000 0x383b
-				just arrived at the island.	
-0x5f12	0x98	Lupus		Well, if it's Dorado's older brother,	mp_0000 0x3892
-				you'd have to think that.	
+				I-I'll be there for her soon!!	
+0x5ebb	0x98	Lupus		It's a good thing that Dr. Hydrol	mp_0000 0x383b
+				is here on the island.	
+0x5f12	0x98	Lupus		Well, no one would disagree with that	mp_0000 0x3892
+				right now, especially you, Dorado.	
 0x5f99	0x98	Lupus		I'll go see how she's doing later.	
-0x5fdc	0x98	Lupus		...But before that,	
-				I've got to inform the old man.	
-0x6065	0x98	Lupus		In this world, it seems there	
-				are some who think,	
-				"The world is a sphere."	
-0x60ce	0x98	Lupus		Of course, there's people	
-				who think differently, too.	
-0x6123	0x98	Lupus		If the ground were round, the people	
-				on the lower half would	
-				fall off.	
-0x6188	0x98	ALTO		Hmm, but...	
-				You might be surprised to learn	
-				that I think the world is round too.	
-0x61f6	0x98	ALTO		See, the sea horizon	
-				curves gently...	
-0x623a	0x98	ALTO		This truth is such that wherever	
-				you go in the world, it's the same.	
-				No explanation can contradict it...	
+0x5fdc	0x98	Lupus		...Sorry, but I should let	
+				my grandpa know first.	
+0x6065	0x98	Lupus		There exist some people who	
+				claim this world is spherical.	
+0x60ce	0x98	Lupus		There sure are some weirdos	
+				out there, aren't there?	
+0x6123	0x98	Lupus		If the world were round,	
+				people on the lower half	
+				would fall right off.	
+0x6188	0x98	ALTO		Hmm, but... I also think	
+				the world is spherical.	
+0x61f6	0x98	ALTO		You see, if you look out at the	
+				horizon, it's slightly curved...	
+0x623a	0x98	ALTO		This fact stays true no matter	
+				where you go in the world.	
+				Nothing else can explain it...	
 0x62c0	0x6B	Lupus		Sweatdrop	
-0x62f3	0x98	Lupus		...Ah, I see, I see.	
-				Good grief, even you say things I	
-				don't understand sometimes.	
-0x6364	0x98	Lupus		Hehe...As expected, you're	
-				on a pretty strange heading,	
-				Nayuta.	
+0x62f3	0x98	Lupus		...Oh, okay, okay. Jeez,	
+				you don't know what you're	
+				talking about sometimes.	
+0x6364	0x98	Lupus		Heh... You're a bit of a	
+				weirdo yourself, Nayuta.	
 0x63c2	0x6B	ALTO		Sweatdrop	
 0x63f4	0x98	ALTO		(Soundly rejected...)	
-0x646b	0x98	Lupus		The curvature of the sea is just	
-				an ordinary optical illusion...	
-				That's what common sense says anyway.	
-0x64f0	0x98	Lupus		Nayuta, even you say things	
-				I don't understand sometimes.	
-0x6549	0x98	Lupus		Hehe...Well, I think you're	
-				on a pretty strange heading.	
-0x65c9	0x98	Lupus		So because the sea horizon curves,	
-				the world is round, eh?	
-0x6623	0x98	Lupus		Hehe...As expected, you're	mp_0000 0x6364
-				on a pretty strange heading,	
-				Nayuta.	
-0x66b9	0x98	Lupus		Nayuta, did you guys just now...	
-				transport a small doll-like	
-				thing to your house?	
+0x646b	0x98	Lupus		The curvature of the horizon	
+				is an optical illusion...	
+				That's just common sense.	
+0x64f0	0x98	Lupus		Nayuta, you don't know	
+				what you're talking	
+				about sometimes.	
+0x6549	0x98	Lupus		Hehe... Well, I always thought	
+				you were a bit of a weirdo.	
+0x65c9	0x98	Lupus		So the world is round because	
+				the horizon is curved, eh?	
+0x6623	0x98	Lupus		Heh... You're a bit of a	mp_0000 0x6364
+				weirdo yourself, Nayuta.	
+0x66b9	0x98	Lupus		Nayuta, you guys just now...	
+				Did you carry something like	
+				a little doll into your house?	
 0x6729	0x98	Lupus		Did you find it in the ruins?	
-0x6767	0x98	ALTO		U-Uummm...	
-				(A doll...he must be talking about Noi.)	
-0x67b9	0x98	ALTO		(We wrapped her in cloth just to be sure	
-				 and brought her to my house, but even so,	
-				 there was a person who saw...)	
+0x6767	0x98	ALTO		Umm, uh...	
+				(A doll... He must mean Noi.)	
+0x67b9	0x98	ALTO		(We wrapped her in cloth	
+				 to hide her just in case,	
+				 but someone still saw...)	
 0x684a	0x6B	ALTO		Unknown	
-0x687c	0x98	ALTO		(B-But...	
-				 How should I explain this, I wonder?)	
-0x68cb	0x98	Lupus		(...Hmmm,	
-				 When things can't be explained,	
-				 something must be behind it...)	
-0x6935	0x98	Lupus		...Well, that's fine.	
-				Show it to me sooner or later.	
-0x6989	0x98	ALTO		OK, I will.	
-0x69dc	0x98	Lupus		So there was a doll you guys	
-				secretly transported from the	
-				ruins...	
-0x6a3e	0x98	Lupus		...Hehe, somehow, it seems like	
-				something good will happen.	
-0x6acf	0x98	Lupus		My master's stories,	
-				and Dorado's fear...	
-				These are fine.	
-0x6b27	0x98	Lupus		But, as for the things that	
-				happened when you guys returned...	
-0x6b85	0x98	Lupus		Hehe, let's just say you lived up to	
-				your reputation as a troublemaker.	
+0x687c	0x98	ALTO		(S-So... How do	
+				 I explain this?)	
+0x68cb	0x98	Lupus		(...Hmm, if he's not answering, then	
+				 they really did find something...)	
+0x6935	0x98	Lupus		...Hehe, oh well. You'll show	
+				it to me one of these days.	
+0x6989	0x98	ALTO		Umm, yeah, one day.	
+0x69dc	0x98	Lupus		So there WAS a doll you	
+				guys secretly carried	
+				home from the ruins...	
+0x6a3e	0x98	Lupus		...Hehe, feels like something	
+				fun is about to happen.	
+0x6acf	0x98	Lupus		Hearing my grandpa's stories, and	
+				freaking out my brother Dorado...	
+				Those are entertaining enough. 	
+0x6b27	0x98	Lupus		But all this stuff happening only the	
+				morning after you guys come back...	
+0x6b85	0x98	Lupus		Hehe, you've certainly lived up to	
+				your reputations as troublemakers.	
 0x6bec	0x6B	ALTO		Sweatdrop	
-0x6c1e	0x98	ALTO		(Such unthinkable accusations...)	
-0x6c87	0x98	Lupus		But it's too bad.	
-				If it's tourist season, it should	
+0x6c1e	0x98	ALTO		(That's a heck of an accusation...)	
+0x6c87	0x98	Lupus		But it's still a shame. If it were	
+				tourist season right now, it would	
 				be even more exciting...	
-0x6cf2	0x98	Lupus		Sightseeing fees...Hmmm...	
+0x6cf2	0x98	Lupus		I could even charge a	
+				spectator fee... Hmm...	
 0x6d2d	0x6B	ALTO		Sweatdrop	
-0x6d95	0x98	Lupus		Yo, Nayuta.	
-				You look well.	
+0x6d95	0x98	Lupus		Yo, Nayuta. You're	
+				looking good.	
 0x6dcf	0x98	ALTO		You too, Lupus.	
-0x6dfe	0x98	ALTO		...is what I want to say but,	
-				why are you smiling happily	
+0x6dfe	0x98	ALTO		...I mean, is there a reason	
+				why you're smiling at me	
 				like that?	
-0x6e60	0x98	Lupus		Oh, you want to know?	
-0x6e96	0x98	Lupus		No matter what you say,	
-				it's because a troublemaker like	
-				you has returned to the village.	
-0x6f0e	0x98	Lupus		It's because I'm excited for something	
-				interesting to happen in this peaceful,	
-				boring village of ours.	
+0x6e60	0x98	Lupus		Oh, you really want to know?	
+0x6e96	0x98	Lupus		Whatever you say. It's because	
+				you troublemakers have returned	
+				to the village.	
+0x6f0e	0x98	Lupus		It's about time something interesting	
+				happened in this overly peaceful and	
+				boring village.	
 0x6f93	0x6B	ALTO		Sweatdrop	
-0x6fc5	0x98	ALTO		A troublemaker?	
-				Maybe, if you're talking	
-				about Cygna.	
-0x7018	0x98	Lupus		No, no.	
-				Though you might be unaware, you too have	
-				plenty of that nature too, don't you think so?	
-0x7097	0x98	Lupus		Hehe, so that's why I'm excited	
-				for summer vacation.	
-0x712d	0x98	Lupus		This village is too peaceful,	
-				and a little boring.	
-0x717f	0x98	Lupus		But you troublemakers,	
-				Nayuta and Cygna,	
-				have returned...	
-0x71d7	0x98	Lupus		Hehe, so that's why I'm excited	mp_0000 0x7097
-				for summer vacation.	
-0x7253	0x98	Lupus		This village is too peaceful,	mp_0000 0x712d
-				and a little boring.	
-0x72a5	0x98	Lupus		Hehe, so that's why I'm excited	mp_0000 0x7097
-				for summer vacation.	
+0x6fc5	0x98	ALTO		Troublemakers?	
+				Maybe, if we're talking	
+				about Cygna, sure.	
+0x7018	0x98	Lupus		No, no. Though you may act innocent,	
+				you have plenty of inclinations of	
+				that nature as well, don't you think?	
+0x7097	0x98	Lupus		Hehe, that's why I'm so excited	
+				for this summer vacation, anyway.	
+0x712d	0x98	Lupus		It's way too peaceful in this village,	
+				and more than a little boring.	
+0x717f	0x98	Lupus		But now the two troublemakers,	
+				Nayuta and Cygna, are back...	
+0x71d7	0x98	Lupus		Hehe, that's why I'm so excited	mp_0000 0x7097
+				for this summer vacation, anyway.	
+0x7253	0x98	Lupus		It's way too peaceful in this village,	mp_0000 0x712d
+				and more than a little boring.	
+0x72a5	0x98	Lupus		Hehe, that's why I'm so excited	mp_0000 0x7097
+				for this summer vacation, anyway.	
 talk_Aquela					
-0x7370	0x98	Aquela		My, you are...	
-0x73a0	0x98	Aquela		Huhu, you have good eyes, don't you.	
-0x73e6	0x98	Aquela		And so, this spinning star shows you	
-				are burdened with a great fate.	
+0x7370	0x98	Aquela		Oh my, you...	
+0x73a0	0x98	Aquela		Hehe, you have lovely eyes, don't you?	
+0x73e6	0x98	Aquela		And so, in my reading of the stars,	
+				I can see you are one burdened	
+				with a great destiny.	
 0x744b	0x6B	Aquela		Ellipsis	
-0x747f	0x98	ALTO		Um, you are...?	
-0x74ae	0x98	Aquela		Huhuhu...as an astrologer, I have	
-				great interest in you.	
-0x7507	0x98	Aquela		That's right young man.	
+0x747f	0x98	ALTO		Uh, and you are...?	
+0x74ae	0x98	Aquela		Hehehe... As an astrologer, I	
+				take great interest in you.	
+0x7507	0x98	Aquela		That is how it seems to me, boy.	
 				I want you to keep this.	
 0x7558	0xC1	System		obtained.	
-0x75d7	0x98	Aquela		You will receive some very	
-				interesting hints...	
-				This is my thanks to you.	
-0x7692	0x98	Aquela		...Though I didn't plan on visiting	
-				this island again.	
-0x76e9	0x98	Aquela		This presence...It seems some	
+0x75d7	0x98	Aquela		I get some very interesting	
+				premonitions from you...	
+				This is thanks for that.	
+0x7692	0x98	Aquela		...Though I didn't plan on	
+				visiting this island again.	
+0x76e9	0x98	Aquela		This presence... It seems that	
 				fate has again begun to turn.	
-0x7745	0x98	Aquela		Huhu, rest easy.	
-				I don't intend to impede you.	
-0x77bc	0x98	Aquela		It seems the fate that was severed from	
-				the island has again begun to turn.	
-0x7828	0x98	Aquela		My astrology did not see any omens.	
-				It's possible some great	
-				power is moving about.	
+0x7745	0x98	Aquela		Hehe, relax, boy. There's	
+				nothing sinister at work.	
+0x77bc	0x98	Aquela		It seems that the fate that was severed	
+				from this island has again begun to turn.	
+0x7828	0x98	Aquela		My astrology did not foresee this.	
+				It's possible some major forces are	
+				at work here.	
 talk_Sculp					
-0x7935	0x98	Sculp		Heya Nayuta,	
-				I've got something I want you to hear.	
+0x7935	0x98	Sculp		Heya Nayuta, I've got	
+				a question for you.	
 0x7988	0x98	ALTO		Eh, for me?	
-				What in the world is it?	
-0x79cb	0x98	Sculp		The truth is, I heard this story	
+				What is it?	
+0x79cb	0x98	Sculp		I actually heard this	
 				from Antlia recently...	
-0x7a23	0x98	Sculp		It seems using fertile "soils"	
-				will improve crops greatly.	
-0x7a7d	0x98	Sculp		It's better than manure, and	
-				it's pretty popular on the continent.	
+0x7a23	0x98	Sculp		Apparently using fertile soil	
+				will greatly improve crop yield.	
+0x7a7d	0x98	Sculp		It's supposed to be better than manure,	
+				and pretty popular on the continent.	
 0x7adf	0x98	Sculp		But here on Remnant Island,	
-				I can't find much good soil...	
+				I can't find any good soil...	
 				Do you have any ideas, Nayuta?	
-0x7b57	0x98	ALTO		Hmm, fertile soil, eh?	
-				I don't think I have any	
-				good ideas.	
-0x7bb0	0x98	ALTO		From the start, Remnant Island soil	
-				is full of salt and hard, probably...	
+0x7b57	0x98	ALTO		Hmm, fertile soil, huh?	
+				I don't think so.	
+0x7bb0	0x98	ALTO		To begin with, Remnant Island soil	
+				is probably rocky and full of salt...	
 0x7c18	0x98	Sculp		I thought that might be the case...	
-				It's probably as you say.	
-0x7c75	0x98	Sculp		Haha, it seems I heard an	
-				impossible story, eh? Sorry,	
-				my bad.	
-0x7cd2	0x98	Sculp		But if you get some good "soil"	
-				somewhere, I'd be a help	
-				if you could give me some.	
-0x7d44	0x98	Sculp		Will you keep that in mind	
-				for me?	
+				If you say so, it must be true.	
+0x7c75	0x98	Sculp		Haha, it seems like it's	
+				nothing but a fantasy for	
+				us here, eh? Sorry, my bad.	
+0x7cd2	0x98	Sculp		But if you ever do find some	
+				good soil somewhere, it'd be	
+				great if I could use it.	
+0x7d44	0x98	Sculp		Just keep an eye out for it.	
 0x7d86	0x98	ALTO		Yeah, got it.	
-0x7db3	0x98	ALTO		(Fertile "soil," was it?	
-				 If I find some, I should try	
-				 bringing it to Sculp, right?)	
-0x7f0a	0x98	Sculp		Somehow, Bootie has gotten	
-				fired up about helping with	
-				the house.	
-0x7f6a	0x98	Sculp		Maybe that kid who has been	
-				nothing but trouble has	
-				grown up a little.	
-0x7fcf	0x98	Sculp		Haha, since it's a rare	
-				chance, I've got to teach	
-				him well.	
-0x8051	0x98	Sculp		Somehow, Bootie has gotten	mp_0000 0x7f0a
-				fired up about helping with	
-				the house.	
-0x80b1	0x98	Sculp		Haha, since it's a rare	mp_0000 0x7fcf
-				chance, I've got to teach	
-				him well.	
-0x8141	0x98	Sculp		Oh, if it isn't Nayuta.	
-				Thanks for helping me with milking	
-				Jessica all this time.	
-0x81b1	0x98	Sculp		If only Bootie would let me	
-				teach him about work then...	
-0x8209	0x98	ALTO		Ahaha, it can't be helped.	
-				Bootie's at the time in his life when	
-				he only wants to play.	
-0x827e	0x98	ALTO		I'll help you out with that	
-				anytime you need, so	
-				please ask me anytime.	
+0x7db3	0x98	ALTO		(Fertile soil, huh?	
+				 If I find any, Maybe I should	
+				 try bringing it to Sculp?)	
+0x7f0a	0x98	Sculp		You know, Boote has gotten all	
+				fired up about helping with the	
+				house for some reason.	
+0x7f6a	0x98	Sculp		Maybe that kid who has been nothing	
+				but trouble until now is starting	
+				to grow up a little.	
+0x7fcf	0x98	Sculp		Haha, since it's a rare chance,	
+				I've got to teach him a lesson	
+				while we're at it.	
+0x8051	0x98	Sculp		You know, Boote has gotten all	mp_0000 0x7f0a
+				fired up about helping with the	
+				house for some reason.	
+0x80b1	0x98	Sculp		Haha, since it's a rare chance,	mp_0000 0x7fcf
+				I've got to teach him a lesson	
+				while we're at it.	
+0x8141	0x98	Sculp		Oh, it's Nayuta. Thanks for	
+				helping me with milking	
+				Jessica the other day.	
+0x81b1	0x98	Sculp		If only I could get Boote to	
+				help me with this work...	
+0x8209	0x98	ALTO		Ahaha, he can't help it. Boote's only	
+				old enough to be interested in playing.	
+0x827e	0x98	ALTO		I'm always here if you need any	
+				help, so feel free to ask.	
 0x82e3	0x98	Sculp		Haha, I think I'll do that.	
-0x8347	0x98	Sculp		I want to teach Bootie too, but	
-				he's not the least bit interested.	
-0x83a9	0x98	Sculp		Good grief, when it comes to	
-				summertime, all I can do	
-				is rely on you, Nayuta.	
-0x8431	0x98	Sculp		I-It's cold!...What happened!?	
-0x8470	0x98	Sculp		It's no good.	
-				I've got to check on the fields...	
-0x84c0	0x98	Sculp		For all the crops we grew	
-				I can't afford to lose my babies.	
-0x854f	0x98	Sculp		Oh, Nayuta.	
-				If you're looking for Kureha, she passed	
-				by here just a little while ago.	
+0x8347	0x98	Sculp		I've been trying to teach Boote too,	
+				but he's not the least bit interested.	
+0x83a9	0x98	Sculp		Good grief, I guess I'll just	
+				have to rely on you for the	
+				summer months, Nayuta.	
+0x8431	0x98	Sculp		I-It's cold...! What's happening!?	
+0x8470	0x98	Sculp		This is not good. I have	
+				to check on the crops...	
+0x84c0	0x98	Sculp		I can't let my babies raised with	
+				my own blood, sweat, and tears die!	
+0x854f	0x98	Sculp		Oh, Nayuta. If you're looking	
+				for Creha, she just passed by	
+				here a minute ago.	
 0x85c3	0x98	Sculp		She said she was going	
 				on an errand somewhere.	
-0x8611	0x98	ALTO		Is that so...	
-				Thanks, Sculp!	
+0x8611	0x98	ALTO		I see...	
+				Thanks, Mr. Sculp!	
 0x8674	0x98	Sculp		Are you looking for her?	
-0x86ad	0x98	Sculp		If that's the case, you might	
-				want to look over there. She	
-				hasn't returned yet.	
-0x8751	0x98	Sculp		Today, that beautiful girl	
-				helped me with the	
-				harvesting work.	
-0x87ae	0x98	Sculp		That girl said she was	
-				staying at your place, but...	
-				Is it really true?	
-0x8814	0x98	ALTO		Yeah, various things	
-				happened, and now	
-				she is homestaying.	
-0x886c	0x98	Sculp		Oh, is that right.	
+0x86ad	0x98	Sculp		In that case, you might	
+				want to look over that way.	
+				She hasn't come back yet.	
+0x8751	0x98	Sculp		I had a very sweet young	
+				lady assist me with the	
+				harvesting work today.	
+0x87ae	0x98	Sculp		She said she was staying	
+				at your place, Nayuta...	
+				Is that really true?	
+0x8814	0x98	ALTO		Yeah, it's kind of a long story,	
+				but she's staying over now.	
+0x886c	0x98	Sculp		Ha, really?	
 0x889f	0x98	Sculp		Man, I was surprised when she	
-				came to me saying she wants	
-				to help, but...	
-0x8907	0x98	Sculp		Thanks to her help, I finished work	
-				quickly today. Yeah, she was a	
-				big help.	
-0x899a	0x98	Sculp		Kureha...I think was her name.	
-0x89d9	0x98	Sculp		She's beautiful, graceful, and	
-				above all, she's considerate.	
-				Hmm, she's a good girl.	
-0x8ab4	0x98	Sculp		Just now, Canie went	
-				for a sick visit.	
-0x8afa	0x98	Sculp		Though various trouble happened...	
-				as long as we are able to help,	
-				you can rely on us.	
-0x8b97	0x98	Sculp		Anyway, everyone is searching	
-				for a way to cure Eartha.	
-0x8bee	0x98	Sculp		Though I don't have anything like a	
-				vegetable that is effective, we'll see	
-				if something like that exists.	
-0x8c9c	0x98	Sculp		Eartha collapsed, didn't she.	
-0x8cda	0x98	Sculp		Our Canie said she was going	
-				for a sick visit but...	
-				Is she not feeling well?	
+				approached me out of the blue	
+				saying she wants to help, but...	
+0x8907	0x98	Sculp		Thanks to her, I was able to	
+				do my work much faster today.	
+				Haha, she was a big help.	
+0x899a	0x98	Sculp		Creha... was it?	
+0x89d9	0x98	Sculp		She's beautiful, graceful,	
+				and above all, considerate.	
+				Yup, she's a good kid.	
+0x8ab4	0x98	Sculp		Canie just left to visit Eartha.	
+0x8afa	0x98	Sculp		It will be difficult moving forward...	
+				If you ever need any help, you can	
+				always rely on us.	
+0x8b97	0x98	Sculp		Anyway, we're all looking for	
+				a way to cure Eartha together.	
+0x8bee	0x98	Sculp		I'm going to go through and see if	
+				I can find if any of my vegetables	
+				have medicinal properties.	
+0x8c9c	0x98	Sculp		I heard Eartha collapsed.	
+0x8cda	0x98	Sculp		Canie said she was going to go visit her...	
+				Is she still not feeling well?	
 0x8d46	0x6B	ALTO		Ellipsis	
 0x8d78	0x98	Sculp		...Right...	
-				Anyhow, cheer up.	
-0x8ddd	0x98	Sculp		Though Eartha collapsed...	
-				You should cheer up somehow.	
-0x8e86	0x98	Sculp		We have a small field on the	
-				rear side of the island.	
-				Somehow, the weather's been strange lately.	
-0x8f06	0x98	Sculp		Is strangely hot, with continuing rain...	
+				Hopefully she starts	
+				feeling better soon.	
+0x8ddd	0x98	Sculp		I never would have expected Eartha to collapse...	
+				Hopefully she starts feeling better soon.	
+0x8e86	0x98	Sculp		We have a small farm on the back side	
+				of the island... But the weather has	
+				been pretty erratic lately.	
+0x8f06	0x98	Sculp		It's been strangely hot and rainy...	
 				Thanks to that, the vegetables	
-				aren't doing so well.	
-0x8f83	0x98	Sculp		However, I heard a rumor that the weather	
-				is strange only on Remnant Island.	
-0x8fef	0x98	Sculp		Here and there on the island, it's	
-				strange this year, and everyone	
-				is troubled.	
-0x9085	0x98	Sculp		It seems the weather is strange	
-				only on Remnant Island.	
-0x90dc	0x98	Sculp		Hmm, working in the fields is difficult.	
-				The gods in heaven do as they please.	
-0x9166	0x98	Sculp		Man, that scared me.	
-				It's the first time I've seen one that big.	
-0x91c6	0x98	Sculp		...Anyhow, I've got to check the field	
-				later to see if it was damaged.	
-0x9260	0x98	Sculp		Oh, Nayuta!	
-				As expected, in the little time I haven't	
-				seen you, you've grown.	
-0x92cc	0x98	Sculp		In an instant, you've become a giant	
-				or something.	
-0x931e	0x98	ALTO		Ahaha...	
-				You exaggerate too much, Sculp.	
-0x9365	0x98	ALTO		Only four months have passed	
+				haven't been growing very well.	
+0x8f83	0x98	Sculp		However, rumor has it that Remnant	
+				Island isn't the only place where	
+				the weather's been acting up.	
+0x8fef	0x98	Sculp		All over these islands people have	
+				been finding that the weather's	
+				just not right this year.	
+0x9085	0x98	Sculp		Apparently Remnant Island isn't	
+				the only place where the weather's	
+				been strange.	
+0x90dc	0x98	Sculp		Hmm, it's tough working the fields.	
+				You're subject to the whims of the	
+				gods in heaven.	
+0x9166	0x98	Sculp		Wow, that scared me. I've never	
+				seen one that big before.	
+0x91c6	0x98	Sculp		...At any rate, I have to check the field	
+				later to see if there's any damage.	
+0x9260	0x98	Sculp		Oh, Nayuta! You've definitely grown	
+				in the short time you were away.	
+0x92cc	0x98	Sculp		For a minute there, I thought you	
+				were a giant or something.	
+0x931e	0x98	ALTO		Haha... You exaggerate too much, Sculp.	
+0x9365	0x98	ALTO		It's only been four months	
 				since I left.	
-0x93ae	0x98	Sculp		Yeah, I exaggerated a bit.	
-				You're steadily growing	
-				during your growth period.	
-0x944d	0x98	Sculp		Come now, say hi to	
-				Jessica for me.	
+0x93ae	0x98	Sculp		Haha, it's not that much of an exaggeration.	
+				You can never really tell how tall you're	
+				getting during a growth spurt.	
+0x944d	0x98	Sculp		Here, Jessica, say	
+				hi to Nayuta too.	
 0x94b4	0x98	Cow		Moooooooo～...	
-0x94e1	0x98	ALTO		Ahaha...I'm back, Jessica.	
-0x9551	0x98	Sculp		Well, you'll be here awhile during your	
+0x94e1	0x98	ALTO		Haha... I'm home, Jessica.	
+0x9551	0x98	Sculp		Well, you'll be here a while during your	
 				summer break, right? You should take	
-				it easy.	
-0x9606	0x98	Sculp		Since you'll be here awhile,	
+				it easy and relax while you're here.	
+0x9606	0x98	Sculp		Since you'll be here a while,	
 				you should take it easy.	
-0x965b	0x98	Sculp		Since it's your summer vacation,	
-				don't let anything distract you.	
+0x965b	0x98	Sculp		Just make sure not to catch a cold	
+				during your summer vacation.	
 talk_Sculp_add					
 0x974f	0x98	Sculp		Hmm!? Hey, Nayuta...	
-				Isn't that pretty good "soil!?"	
-0x97a3	0x98	Sculp		It is dark, has a soft feel and has a fragrant	
-				earthy scent... There's no mistake- It is	
-				of excellent quality.	
-0x9830	0x98	ALTO		Yeah, the truth is, I found it	
-				someplace...	
-0x987a	0x98	ALTO		That's right, if it's all right with you,	
-				can I give it to you?	
+				Isn't that pretty good soil!?	
+0x97a3	0x98	Sculp		It's dark, has a soft texture and a fragrant,	
+				earthy scent... There's no mistaking it─	
+				It's of excellent quality.	
+0x9830	0x98	ALTO		Yeah, I actually found it somewhere...	
+0x987a	0x98	ALTO		Oh right, if you want it,	
+				shall I give it to you?	
 0x9907	0x98	Sculp		Oh, what a big help!	
 0x993c	0x98	Sculp		If I have this, I'll be able to	
 				quickly raise vegetables and	
 				have more free time than usual.	
-0x99b7	0x98	Sculp		...By the way, Sasha of the general	
-				store came to tell me she wants to	
+0x99b7	0x98	Sculp		...By the way, Sasha from the general	
+				store came by and said she wanted to	
 				stock my vegetables.	
-0x9a31	0x98	Sculp		Because she said she wants to stock	
-				my vegetables, I'm honored by the request	
-				and I thought I would respond to it somehow.	
-0x9aca	0x98	Sculp		Anyhow, you helped me out, Nayuta.	
+0x9a31	0x98	Sculp		I was so honored by her request,	
+				I thought I would respond in turn.	
+0x9aca	0x98	Sculp		Anyway, you've helped me out, Nayuta.	
 				Please use this well for me.	
 0x9b29	0x98	ALTO		I'm glad you found it useful.	
-0x9b66	0x98	ALTO		If something happens again,	
-				I won't hesitate to tell you.	
-0x9bbe	0x98	Sculp		Yeah, you helped me out.	
-				I'll look forward to then, Nayuta.	
+0x9b66	0x98	ALTO		If you need anything else,	
+				don't hesitate to ask.	
+0x9bbe	0x98	Sculp		Haha, thank you. Good to know	
+				I'm in good hands, Nayuta.	
 0x9c4d	0x07	System	#3C	New vegetables have been added	
 				to the general store lineup.	
-0x9c9e	0x07	System	#4C	If you give "soil" to Sculp,	
-				the lineup of vegetables the general	
-				store is able to sell will be enhanced.	
-0x9d16	0x07	System	#4C	If you find "soil,"	
-				proactively bring it here.	
+0x9c9e	0x07	System	#4C	If you give soil to Sculp,	
+				the lineup of vegetables for sale at	
+				the general store will increase.	
+0x9d16	0x07	System	#4C	If you find soil,	
+				be sure to bring it to him.	
 0x9dac	0x98	Sculp		Hmm, Nayuta...	
-				It looks like you again have	
-				some good soil.	
-0x9e06	0x98	Sculp		If it's all right with you, please give it here.	
-				I've again got some things I want to try	
-				on the field.	
+				It looks like you have	
+				some good soil again.	
+0x9e06	0x98	Sculp		If you don't mind, can you please	
+				give it to me? I've got some things	
+				I want to try on the field again.	
 0x9e8c	0x98	ALTO		Yeah, sure.	
-				If it is useful to you, Sculp.	
-0x9f04	0x98	Sculp		Yeah, this too is very fertile.	
-0x9f44	0x98	Sculp		Alright...Time to go try it.	
-0x9f81	0x98	Sculp		I've got to quickly sell the vegetables	
-				I'm able to grow now.	
+				If it's useful to you, Sculp.	
+0x9f04	0x98	Sculp		Mmm, this is very fertile, too.	
+0x9f44	0x98	Sculp		All right... Time to go try it out.	
+0x9f81	0x98	Sculp		There'll be new vegetables for	
+				sale as soon as possible.	
 0xa012	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
 				to the general store lineup.	
 0xa09d	0x98	Sculp		Hmm, Nayuta...	mp_0000 0x9dac
-				It looks like you again have	
-				some good soil.	
-0xa0f7	0x98	Sculp		What's more, it's of unthinkably	
-				fine quality. ...Hmm, just where	
-				on Remnant Island did you get his...	
-0xa17c	0x98	ALTO		Yeah, various things happened.	
-0xa1ba	0x98	ALTO		Anyhow, I'm giving this to	
-				you, Sculp.	
-0xa22e	0x98	Sculp		Thank you as always.	
+				It looks like you have	
+				some good soil again.	
+0xa0f7	0x98	Sculp		What's more, it's ridiculously high	
+				quality... Hmm, just where on	
+				Remnant Island did you get his...?	
+0xa17c	0x98	ALTO		There's, uh, various places.	
+0xa1ba	0x98	ALTO		Anyway, I'm giving	
+				this to you, Sculp.	
+0xa22e	0x98	Sculp		Thanks as always.	
 				You're a great help.	
-0xa277	0x98	Sculp		With just this good soil,	
-				there's no mistake I can produce	
-				even more vegetable varieties!	
-0xa2ef	0x98	Sculp		Haha, as a farmer, I'm happy to	
-				say that there's none better	
-				than this.	
-0xa355	0x98	Sculp		I should be able to sell these raised	
-				vegetables to the general store. Nayuta,	
-				I'm glad you found this for me.	
+0xa277	0x98	Sculp		With soil this good,	
+				I should be able produce	
+				even more vegetables!	
+0xa2ef	0x98	Sculp		Haha, for a farmer, there's	
+				no better happiness than this.	
+0xa355	0x98	Sculp		I should be able to sell these new	
+				vegetables to the general store.	
+				Nayuta, I'm glad you found this for me.	
 0xa416	0x07	System	#3C	New vegetables have been added	mp_0000 0x9c4d
 				to the general store lineup.	
 talk_Sculp_addmes					
@@ -682,551 +662,530 @@ talk_Sculp_addmes
 0xa653	0xC1	System		handed over.	mp_0000 0xa553
 0xa753	0xC1	System		handed over.	mp_0000 0xa553
 talk_Bootie					
-0xa7f5	0x98	Bootie		...Nayuta, you're always thinking	
-				that I'm a child, aren't you.	
-0xa855	0x98	Bootie		No way.	
-				Even I help with the house.	
-0xa899	0x98	Bootie		...Every once in awhile, that is.	
-0xa8dc	0x98	ALTO		Haha, is that right.	
-				You're growing, Bootie.	
-0xa927	0x98	Bootie		...As I thought, you're irritating.	
-0xa994	0x98	Bootie		Because I'm already 11,	
-				I can look after Jessica	
+0xa7f5	0x98	Bootie		...Nayuta, you still think	
+				of me as a kid, don't you?	
+0xa855	0x98	Bootie		Not anymore. I even help	
+				around the house.	
+0xa899	0x98	Bootie		...Sometimes, anyway.	
+0xa8dc	0x98	ALTO		Haha, is that right?	
+				You HAVE grown, Boote.	
+0xa927	0x98	Bootie		...I knew it, you really	
+				piss me off, you know?	
+0xa994	0x98	Bootie		I'm already 11. I can	
+				take care of Jessica	
 				all by myself.	
-0xa9f3	0x98	Bootie		I'll never again ask for help	
-				from the Handyman Shop.	
-				Remember that, Nayuta!	
-0xaa95	0x98	Bootie		Ur-sa-mi-na-!	
-				This stuff called	
-				snow is COLD!!	
+0xa9f3	0x98	Bootie		We don't need a handyman	
+				like you for that anymore.	
+				Don't forget it, Nayuta!	
+0xaa95	0x98	Bootie		Wow, it got cloudy all of	
+				a sudden! Is this snow?	
+				It's so COLD!!	
 0xaae3	0x98	Bootie		...Achoo!!	
-0xab0f	0x98	Bootie		Erm...	
-				As I thought, I should wait at home...	
-0xab85	0x98	Bootie		Though it's my first time seeing snow,	
-				I finally understand it.	
-0xabe5	0x98	Bootie		I don't like	
-				cold things...	
-0xac63	0x98	Bootie		Huh, didn't you see Cygna?	
+0xab0f	0x98	Bootie		Erm... Maybe I should stay home after all...	
+0xab85	0x98	Bootie		Even though it's my first time	
+				seeing snow, I finally understand...	
+0xabe5	0x98	Bootie		That's why they call it a	
+				cold when you get sick...	
+0xac63	0x98	Bootie		Huh, have I seen Cygna?	
 0xac9f	0x98	Bootie		...I just saw him earlier, see─.	
-				Somehow, he had a serious face, though.	
-0xad09	0x98	ALTO		A serious face...?	
-0xad3b	0x98	Bootie		Well, I don't really know, y'know.	
-				I felt like it was hard to invite	
-				him to play.	
-0xadac	0x98	Bootie		Though he went to the beach once,	
-				I haven't seen him since then.	
-0xae0d	0x98	ALTO		Is that right...Thanks.	
-0xae6c	0x98	Bootie		In this general store, there's	
-				some "Star Shard" souvenirs	
-				on display.	
-0xaed2	0x98	Bootie		They're not the small ones I	
-				throw away, and you can see	
-				the other world properly in them.	
+				He kind of had a poopy look on his face.	
+0xad09	0x98	ALTO		A poopy look...?	
+0xad3b	0x98	Bootie		Well, I dunno. It just felt	
+				like it would be hard to get	
+				him to come play with me.	
+0xadac	0x98	Bootie		I think I saw him going to the beach,	
+				but I haven't seen him since then.	
+0xae0d	0x98	ALTO		Got it... Thanks.	
+0xae6c	0x98	Bootie		The general store has some star	
+				shards for sale on display.	
+0xaed2	0x98	Bootie		They're not like the tiny ones I	
+				usually pick up. You can actually	
+				see another world with them.	
 0xaf4c	0x98	Bootie		...Man, those are nice.	
-				I haven't even found one...	
-0xafd6	0x98	Bootie		D-Damn...	
-				I want to go too...	
+				I want one...	
+0xafd6	0x98	Bootie		D-Dammit... I wanna go, too...	
 0xb014	0x98	Bootie		Nayuta, no fair!	
 				Take me with you!	
-0xb057	0x98	ALTO		S-Sorry, Bootie.	
-				It's dangerous as you'd expect.	
-0xb0a6	0x98	Bootie		...Damn it...	
-				It's because the Handyman Shop's	
-				doing it that you're so impertinent!	
+0xb057	0x98	ALTO		S-Sorry, Boote.	
+				It's still dangerous.	
+0xb0a6	0x98	Bootie		Damn it... So arrogant just because	
+				you're working for the Handyman Shop!	
 0xb119	0x6B	ALTO		Sweatdrop	
-0xb173	0x98	Bootie		Nayuta, don't take so much of	
-				a head start.	
-0xb1bf	0x98	Bootie		Even I'll be after you-	
-				I'll go see it, you hear!?	
+0xb173	0x98	Bootie		Nayuta, don't take too	
+				much of a head start.	
+0xb1bf	0x98	Bootie		I'll still be coming after you─	
+				I'm gonna see it too, you hear!?	
 talk_Pyxia					
-0xb25a	0x98	Pyxia		Huhu, I came again to	
-				search for a picture subject.	
-0xb2ad	0x98	Pyxia		In the art contest this year,	
-				I'm sure I'll take first place.	
-0xb30a	0x98	Pyxia		They will be no match for	
-				I, who have stepped up to a chick	
-				from the egg of an artist.	
-0xb3a7	0x98	Pyxia		They will be no match for	mp_0000 0xb30a
-				I, who have stepped up to a chick	
-				from the egg of an artist.	
-0xb41c	0x98	Pyxia		And, this year for sure,	
-				I will become a chicken!	
+0xb25a	0x98	Pyxia		Hehe, I'm here again in search	
+				of a subject for my painting.	
+0xb2ad	0x98	Pyxia		In the art contest this year, I'm sure	
+				to be the one to take first place.	
+0xb30a	0x98	Pyxia		There's no way I won't win, now	
+				that I've leveled up as an artist	
+				from an 'egg' to 'chick!'	
+0xb3a7	0x98	Pyxia		There's no way I won't win, now	mp_0000 0xb30a
+				that I've leveled up as an artist	
+				from an 'egg' to 'chick!'	
+0xb41c	0x98	Pyxia		And this is the year I will finally	
+				become a full-fledged chicken!	
 0xb46d	0x6B	ALTO		Sweatdrop	
-0xb4d5	0x98	Pyxia		It seems the specialty product called	
-				"Star Shards" project amazingly	
-				beautiful scenery.	
-0xb54c	0x98	Pyxia		Though it seems there are people	
-				who sketch that scenery...	
-				...I can't lose to them.	
-0xb5bf	0x98	Pyxia		If it's like this, 	
-				I'll have to make good use of my image,	
-				and make the landscape only I can make!	
-0xb641	0x98	Horolo		Pyxia, I think that's an abstract-.	
-0xb6cc	0x98	Pyxia		Doing something like sketching	
-				<Star Shard> scenery...	
-				I think that's a pretty good idea.	
-0xb744	0x98	Pyxia		Huhu, I can't lose...	
-				As the egg of an artist.	
-0xb792	0x98	ALTO		(Has an unseen challenger	
+0xb4d5	0x98	Pyxia		I hear these specialty 'star shards'	
+				project amazingly beautiful scenery.	
+0xb54c	0x98	Pyxia		And there are people who	
+				sketch that scenery...	
+				...I can't lose to them!	
+0xb5bf	0x98	Pyxia		If that's the case, I'll have to paint	
+				the landscapes only I could make, using	
+				the images inside my head!	
+0xb641	0x98	Horolo		Hey, Pyxia, I think that's	
+				called abstract art～.	
+0xb6cc	0x98	Pyxia		Something like sketching the	
+				scenes from star shards...	
+				That's a pretty good idea.	
+0xb744	0x98	Pyxia		Hehe, I can't lose...	
+				Not to an egg-level artist.	
+0xb792	0x98	ALTO		(Has an unseen rival	
 				 to my sister appeared?)	
-0xb81f	0x98	Pyxia		You, thank you very much!	
-0xb859	0x98	Pyxia		If I have these pigments, I should	
-				be able to draw an amazing picture!	
-0xb8d3	0x98	Pyxia	#18S	My goal is the chicken of the artist!	
-0xb941	0x98	Pyxia		This is <Remnant Island>...	
-				It sure is a carefree place.	
-0xb999	0x98	Pyxia		Though it seems there's	
-				various interesting things, too...	
-0xb9f3	0x98	Pyxia		If it's this place,	
-				I feel like a good inspiration	
-				will spring forth!	
-0xba7f	0x98	Pyxia		...Say, why is everyone	
-				so down?	
-0xbabf	0x98	Pyxia		Though, I'm not good with ink.	
+0xb81f	0x98	Pyxia		You! Thank you so much!	
+0xb859	0x98	Pyxia		With these pigments, I should be	
+				able to paint an amazing picture!	
+0xb8d3	0x98	Pyxia	#18S	My goal is to be a chicken-level artist!	
+0xb941	0x98	Pyxia		This is Remnant Island...	
+				Sure is a relaxed place.	
+0xb999	0x98	Pyxia		Though it looks like there's lots	
+				of interesting things here, too...	
+0xb9f3	0x98	Pyxia		I feel like I can get some great	
+				inspiration from this place!	
+0xba7f	0x98	Pyxia		...Say, why is	
+				everyone so down?	
+0xbabf	0x98	Pyxia		I'm not good with inky	
+				situations like this.	
 talk_Horolo					
-0xbb48	0x98	Horolo		Pyxia,	
-				so you made Remnant Island the	
-				theme of your painting last year.	
-0xbbaf	0x98	Horolo		With that, you took the special	
-				prize in the small picture contest.	
-0xbc13	0x98	Horolo		Huhu, I haven't ever once	
-				not won a prize in a contest...	
-0xbc6d	0x98	Horolo		I've got to do my best again	
-				this year.	
-0xbcb5	0x98	ALTO		(...Just now, didn't she say	
-				 something amazing inadvertantly?)	
-0xbd3b	0x98	Horolo		Since Pyxia is doing her best,	
-				I've got to do my best too.	
-0xbd96	0x98	Horolo		I should try to again	
-				find a good motif.	
-0xbe15	0x98	Pyxia		It seems the specialty product called	mp_0000 0xb4d5
-				"Star Shards" project amazingly	
-				beautiful scenery.	
-0xbe8c	0x98	Pyxia		Though it seems there are people	mp_0000 0xb54c
-				who sketch that scenery...	
-				...I can't lose to them.	
-0xbeff	0x98	Pyxia		If it's like this, 	mp_0000 0xb5bf
-				I'll have to make good use of my image,	
-				and make the landscape only I can make!	
-0xbf81	0x98	Horolo		Pyxia, I think that's an abstract-.	mp_0000 0xb641
-0xc00c	0x98	Horolo		Sketching <Star Shards>...	
-				In contrast to normal paintings,	
-				it seems they are very difficult.	
-0xc089	0x98	Horolo		I long for them～,	
-				as the egg of a sculptor.	
-0xc112	0x98	Horolo		Huhu, Pyxia,	
-				I would be glad to～.	
-0xc155	0x98	Horolo		I've got to say	
-				thanks to you.	
-0xc194	0x98	Horolo		You've got to cheer up too～.	
-0xc1f7	0x98	Horolo		This time, it'll be a bigger	
-				art contest than the one	
-				on the continent.	
-0xc25e	0x98	Horolo		Though with my friend Pyxia	
-				I'm searching to see if there	
-				are any good motifs...	
-0xc2ce	0x98	Horolo		Somehow, it seems the people	
-				of the village have gloomy faces.	
-0xc32d	0x98	Horolo		Even though it's such a beautiful place...	
-				...Did something happen?	
-0xc3b9	0x98	Horolo		Somehow, it seems the people	mp_0000 0xc2ce
-				of the village have gloomy faces.	
-0xc418	0x98	Horolo		Even though it's such a beautiful place...	mp_0000 0xc32d
-				...Did something happen?	
+0xbb48	0x98	Horolo		So, Pyxia, I made Remnant Island the	
+				theme of my painting last year.	
+0xbbaf	0x98	Horolo		With that, I won the grand prize	
+				in another art contest.	
+0xbc13	0x98	Horolo		Hehe, I've never not won	
+				the prize in a contest...	
+0xbc6d	0x98	Horolo		I've got to work even harder	
+				this year, right?	
+0xbcb5	0x98	ALTO		(...Did she just casually admit	
+				 something amazing just now?)	
+0xbd3b	0x98	Horolo		Since Pyxia is working hard,	
+				I have to do my best too.	
+0xbd96	0x98	Horolo		Hopefully I can find	
+				a good motif again.	
+0xbe15	0x98	Pyxia		I hear these specialty 'star shards'	mp_0000 0xb4d5
+				project amazingly beautiful scenery.	
+0xbe8c	0x98	Pyxia		And there are people who	mp_0000 0xb54c
+				sketch that scenery...	
+				...I can't lose to them!	
+0xbeff	0x98	Pyxia		If that's the case, I'll have to paint	mp_0000 0xb5bf
+				the landscapes only I could make, using	
+				the images inside my head!	
+0xbf81	0x98	Horolo		Hey, Pyxia, I think that's	mp_0000 0xb641
+				called abstract art～.	
+0xc00c	0x98	Horolo		Sketching star shards... Seems like	
+				it would pose a challenge different	
+				from making a normal painting.	
+0xc089	0x98	Horolo		I'm a fan of it～, even though I'm	
+				an 'egg' of a sculptor myself.	
+0xc112	0x98	Horolo		Hehe, Pyxia is so happy～.	
+0xc155	0x98	Horolo		I want to thank you as well.	
+0xc194	0x98	Horolo		You should cheer up too～.	
+0xc1f7	0x98	Horolo		They're holding a big art 	
+				contest on the continent.	
+0xc25e	0x98	Horolo		I'm here with my friend Pyxia	
+				to search for a good motif to	
+				enter it with...	
+0xc2ce	0x98	Horolo		The people of the village seem	
+				to be a bit gloomy, even though	
+				it's such a beautiful place...	
+0xc32d	0x98	Horolo		...Did something happen?	
+0xc3b9	0x98	Horolo		The people of the village seem	mp_0000 0xc2ce
+				to be a bit gloomy, even though	
+				it's such a beautiful place...	
+0xc418	0x98	Horolo		...Did something happen?	mp_0000 0xc32d
 talk_Mensa					
-0xc4c6	0x98	Mensa		And so...	
-				What about the issue?	
-0xc505	0x98	Ophiuchus		Yes, while I was able to	
-				somehow confirm its appearance...	
-0xc563	0x98	Ophiuchus		When it saw my appearance,	
-				it ran away at full speed.	
-0xc5bc	0x98	Mensa		...Hmph, as expected,	
-				it seems this won't be easy.	
-0xc654	0x98	Mensa		It seems its escape is as fast as ever...	
-0xc69e	0x98	Mensa		However, we have to do whatever it takes to find it.	
+0xc4c6	0x98	Mensa		So... how are things progressing?	
+0xc505	0x98	Ophiuchus		*sigh*, I managed to	
+				catch sight of him...	
+0xc563	0x98	Ophiuchus		But as soon he saw	
+				me, he bolted.	
+0xc5bc	0x98	Mensa		...Hmph, as I thought,	
+				this won't be easy.	
+0xc654	0x98	Mensa		Looks like he's still as fast as ever...	
+0xc69e	0x98	Mensa		We have to do whatever it takes to find him.	
 talk_Ophiuchus					
-0xc73b	0x98	Mensa		And so...	mp_0000 0xc4c6
-				What about the issue?	
-0xc77a	0x98	Ophiuchus		Yes, while I was able to	mp_0000 0xc505
-				somehow confirm its appearance...	
-0xc7d8	0x98	Ophiuchus		When it saw my appearance,	mp_0000 0xc563
-				it ran away at full speed.	
-0xc831	0x98	Mensa		...Hmph, as expected,	mp_0000 0xc5bc
-				it seems this won't be easy.	
-0xc8c9	0x98	Ophiuchus		Let's continue our	
-				search for it.	
-0xc90e	0x98	Ophiuchus		To finally determine the	
-				place where "he" belongs.	
+0xc73b	0x98	Mensa		So... how are things progressing?	mp_0000 0xc4c6
+0xc77a	0x98	Ophiuchus		*sigh*, I managed to	mp_0000 0xc505
+				catch sight of him...	
+0xc7d8	0x98	Ophiuchus		But as soon he saw	mp_0000 0xc563
+				me, he bolted.	
+0xc831	0x98	Mensa		...Hmph, as I thought,	mp_0000 0xc5bc
+				this won't be easy.	
+0xc8c9	0x98	Ophiuchus		Let's keep looking for him.	
+0xc90e	0x98	Ophiuchus		We've finally succeeded	
+				in tracking him down.	
 talk_Serpent					
-0xc97a	0x98	Serpent		T-This is strange...	
-				Surely this is Remnant Island...	
-0xc9d1	0x98	Serpent		...O-Ouch...	
-				Because it got cold, my back...!	
+0xc97a	0x98	Serpent		Th-This is peculiar...	
+				Here, on Remnant Island...	
+0xc9d1	0x98	Serpent		...O-Ouch... Is it because 	
+				of the cold...? My back...!	
 talk_Vavo					
-0xca6d	0x98	Vavo		Umm, I wonder where that giant	
-				ruin that fell recently is...	
+0xca6d	0x98	Vavo		Umm, I wonder where is this giant	
+				ruin that fell recently...?	
 0xcac8	0x98	Vavo		For an incident like this to happen	
-				while I was away from the island,	
-				it seems unlucky...	
-0xcb67	0x98	Vavo		Anyhow, I've got to report	
-				to Lord Volans...	
-0xcbb2	0x98	Vavo		Umm, the point where the	
-				ruins fell is...	
+				only while I was off the island,	
+				such a shame...	
+0xcb67	0x98	Vavo		Anyway, I have to report	
+				to Professor Volans...	
+0xcbb2	0x98	Vavo		Umm... The impact site	
+				of the ruin...	
 talk_Ursaminor					
-0xcc28	0x98	Ursaminor		...Nothing can be done about	
-				talking to father...	
-0xcc7d	0x98	Ursaminor		...Sister...	
+0xcc28	0x98	Ursaminor		...It would be no use	
+				talking to Father...	
+0xcc7d	0x98	Ursaminor		...Sis...	
 0xccae	0x6B	Ursaminor		Surprise	
-0xcd29	0x98	Ursaminor		...This story has nothing to do with you.	
+0xcd29	0x98	Ursaminor		...It's none of your business.	
 				Leave me alone.	
-0xcdae	0x98	Ursaminor		...Sister...	mp_0000 0xcc7d
+0xcdae	0x98	Ursaminor		...Sis...	mp_0000 0xcc7d
 talk_Cow					
 talk_Cat					
 talk_Chicken					
 talk_Aulbath					
-0xcef7	0x98	Aulbath		Though Cygna is skilled,	
+0xcef7	0x98	Aulbath		Although Cygna is skilled,	
 				he can be a bit reckless.	
-0xcf4b	0x98	Aulbath		...Well, if you are there too,	
-				he isn't so impertinent.	
-0xcfa4	0x98	Aulbath		I don't know what kind of dangers	
-				await you in the ruins.	
-				Support each other well.	
-0xd03f	0x98	Aulbath		Remember that the purpose of	
-				your ruins investigation is to ensure	
-				the safety of the village.	
-0xd0bd	0x98	Aulbath		Nayuta, brace yourself.	
+0xcf4b	0x98	Aulbath		...Well, he wouldn't push it too far	
+				with you there with him, Nayuta.	
+0xcfa4	0x98	Aulbath		We do not know what kind of dangers	
+				await within the ruins. Support	
+				each other well.	
+0xd03f	0x98	Aulbath		Remember, your ruins investigation	
+				is solely to ensure the safety of	
+				the village.	
+0xd0bd	0x98	Aulbath		Nayuta, stay vigilant.	
 talk_Sasha					
-0xd127	0x98	Sasha		Though I was surprised...	
-				It seems there's no real danger.	
-0xd181	0x98	Sasha		Because it seems Ada returned to	
-				her shop, I should probably return as well.	
-0xd1ed	0x98	Sasha		Even so...Remnant Island is	
-				sure a mysterious island...	
-0xd26c	0x98	Sasha		Though it's been two years since	
-				I opened a shop on this island,	
-				there are still things that surprise me.	
-0xd2f4	0x98	Sasha		Remnant Island in the Ciencia Sea...	
+0xd127	0x98	Sasha		That was a surprise... But there seems	
+				to be no real danger, right?	
+0xd181	0x98	Sasha		Looks like Ada returned to her shop. I	
+				should probably go back to mine as well.	
+0xd1ed	0x98	Sasha		But still... Remnant Island	
+				sure is a mysterious island...	
+0xd26c	0x98	Sasha		It's been two years since I	
+				started my shop on this island	
+				and I'm still surprised.	
+0xd2f4	0x98	Sasha		Ciencia Sea's Remnant Island...	
 				It is truly a strange place.	
 talk_Lyra					
-0xd383	0x98	Lyra		Even so...	
-				You guys are always sticking	
-				your noses into everything.	
-0xd3e4	0x98	Lyra		I think you should study difficult	
-				things and have a little more	
-				adult composure.	
-0xd453	0x98	ALTO		Ahaha, it's only been four months	
-				since I went to Saint Cerize	
-				academy.	
-0xd4b8	0x98	Lyra		Hmph...Well whatever.	
-				At least don't get hurt.	
-0xd551	0x98	Lyra		(*sigh*, even though my heart was prepared	
-				 since it was our first meeting in awhile, to	
-				 think something like this this would happen...)	
-0xd5f8	0x98	Lyra		(...No, somehow, I'll seize	
-				 the next chance...!)	
+0xd383	0x98	Lyra		You guys are still always sticking	
+				your noses into everything, huh?	
+0xd3e4	0x98	Lyra		I thought you'd have learned your	
+				lesson in the academic world and	
+				become a little more mature by now.	
+0xd453	0x98	ALTO		Haha. Well, I only started	
+				at Saint Cerise Academy	
+				four months ago.	
+0xd4b8	0x98	Lyra		Hmph... Oh, whatever.	
+				Just don't get hurt.	
+0xd551	0x98	Lyra		(*sigh*, even though I mentally prepared	
+				 myself for our first meeting in a long time,	
+				 something like this happens instead...)	
+0xd5f8	0x98	Lyra		(...No, I'll just have to seize	
+				 the next opportunity somehow...!)	
 0xd648	0x98	ALTO		...Lyra, what's wrong?	
 0xd67e	0x6B	Lyra		Unknown	
 0xd6cc	0x98	Lyra		N-Nothing!!	
 0xd6f7	0x6B	ALTO		Sweatdrop	
-0xd763	0x98	Lyra		Now, now, get going	
-				you two.	
-0xd79e	0x98	Lyra		Anyhow, you were dazzled by something	
-				interesting and couldn't sit still.	
-0xd806	0x98	Lyra		...Hmph.	
-				What? Get going already!	
-0xd846	0x98	ALTO		(S-Somehow she's mad...)	
+0xd763	0x98	Lyra		Come on, come on, hurry up	
+				and get going, you guys!	
+0xd79e	0x98	Lyra		You can't help but get distracted	
+				by something that looks interesting,	
+				can you?	
+0xd806	0x98	Lyra		...Hmph. Come on,	
+				get going, already!	
+0xd846	0x98	ALTO		(Wh-What's she so angry about...?)	
 talk_Michy					
 quest_Dorado					
 0xdca1	0x98	Dorado		Oh, you want to look at that	
-				paper from just now again?	
+				paper from earlier again?	
 				Here you go.	
 0xdd0d	0x41	None		You're doing pretty well.	
 				The next one is the last.	
-					
+				 	
 				The treasure you are searching for should be	
-				"beneath a vehicle for setting off on a journey."	
-0xdef4	0x98	Dorado		Ask Eartha to make a lunch box	
-				for me with those ingredients.	
-0xdf52	0x98	Dorado		Not having a lunch box at noon	
-				is a life-or-death issue!	
+				beneath a vehicle for setting off on a journey.	
+0xdef4	0x98	Dorado		Go and get Eartha to make me a	
+				lunch box with those ingredients.	
+0xdf52	0x98	Dorado		Not having any lunch at lunchtime	
+				is a matter of life or death!	
 				Please hurry!	
 quest_Sculp					
-0xe083	0x98	Sculp		Oh, that offering thing, is it?	
-				If that's the case, I heard about it.	
-0xe0e8	0x98	Sculp		Canie is inside the house, so please	
-				accept the offering from her.	
-0xe1ff	0x98	Sculp		Please pick out a nice present	
-				with the sense of one	
-				from the city.	
-0xe261	0x98	Sculp		I'll pay for it properly later,	
-				so please pay for me.	
+0xe083	0x98	Sculp		Oh, that offering thing, eh?	
+				I heard about that.	
+0xe0e8	0x98	Sculp		My wife is inside. Please	
+				take the offering from her.	
+0xe1ff	0x98	Sculp		Please pick out a nice	
+				present using your taste	
+				as a young city-dweller.	
+0xe261	0x98	Sculp		I'll pay you back properly later,	
+				so please take the advance for now.	
 quest_Pyxia					
-0xe37a	0x98	Pyxia		No matter what I do,	
-				I can't get "pigments."	
-0xe3c6	0x98	Pyxia		If I had red, blue and yellow,	
-				I could make most other	
-				colors though.	
+0xe37a	0x98	Pyxia		I can't seem to find any	
+				pigments for my paintings.	
+0xe3c6	0x98	Pyxia		If I only had red, blue, and	
+				yellow, I could make almost	
+				any other color.	
 quest_Horolo					
-0xe4ec	0x98	Horolo		Pigments are normally taken	
-				from the geologic strata	
-				of high mountains.	
-0xe553	0x98	Horolo		It doesn't seem like there's any	
-				place like that on the island, though.	
+0xe4ec	0x98	Horolo		Pigments are usually taken	
+				from the geological strata	
+				of tall mountains.	
+0xe553	0x98	Horolo		There doesn't seem to be any place	
+				like that on this island, though.	
 QS_38_quest_start					
-0xe796	0x98	ALTO	#6A	Umm...You are	
-				Pyxia...aren't you?	
+0xe796	0x98	ALTO	#6A	Umm... You are...	
+				Pyxia... Right?	
 0xe7d9	0x06	Pyxia		ANI_GESTURE2	
-0xe804	0x98	Pyxia		Ah...could it be that	
-				you're the one from	
-				the Handyman Shop?	
+0xe804	0x98	Pyxia		Ah... Could you be the guy	
+				from the Handyman Shop?	
 0xe85f	0x98	Pyxia		Did you see my request?	
 0xe897	0x06	Horolo		ANI_TALK	
-0xe8bf	0x98	Horolo		Sorry about the	
-				troubled air.	
-0xe8fd	0x98	Horolo		If it's all right with you, will	
-				you listen to her story?	
+0xe8bf	0x98	Horolo		Sorry about the gloomy	
+				atmosphere around here.	
+0xe8fd	0x98	Horolo		If you don't mind, can you	
+				listen to her request?	
 0xe957	0x06	Horolo		ANI_WAIT	
 0xe9a7	0x06	Pyxia		ANI_GESTURE2	
 0xe9d2	0x98	Pyxia		Ah... Handyman Shop guy,	
-				you'll take my request, won't you?	
+				you'll take my request?	
 0xea2d	0x06	Horolo		ANI_TALK	
-0xea55	0x98	Horolo		If it's all right with you,	
-				will you at least listen?	
+0xea55	0x98	Horolo		If you don't mind, can you	mp_0000 0xe8fd
+				listen to her request?	
 0xeaab	0x06	Horolo		ANI_WAIT	
 0xeaf5	0x36	Choice		[Accept]	
 0xeb0b	0x36	Choice		[Quit]	
 0xebab	0x06	ALTO		ANI_DENY	
-0xebd1	0x98	ALTO	#6A	I'm sorry, but as you might expect...	
-				I have something else to do now.	
+0xebd1	0x98	ALTO	#6A	I'm so sorry, I'm still...	
+				I'm still busy with something	
+				else at the moment.	
 0xec39	0x06	Pyxia		ANI_DEJECTED	
-0xec64	0x98	Pyxia		Is that so...	
+0xec64	0x98	Pyxia		I see...	
 				Hmm, too bad.	
-0xec9f	0x98	Pyxia		Ah, my way of the	
-				artist is...	
+0xec9f	0x98	Pyxia		M-M-My path to become an artist is...	
 0xecdd	0x06	Horolo		ANI_GESTURE1	
-0xed09	0x98	Horolo		Well, don't worry about it.	
-0xed46	0x98	Horolo		If you get free time again,	
-				I'll be happy if you come	
-				talk to us.	
+0xed09	0x98	Horolo		Oh～, don't worry about it.	
+0xed46	0x98	Horolo		It'd be great if you'd come to	
+				us again when you have time.	
 QS_38_ask_reason					
-0xee3f	0x98	ALTO	#6A	...Then, will you tell me	
-				about the job?	
+0xee3f	0x98	ALTO	#6A	...So what can you tell	
+				me about the job?	
 0xee89	0x06	Pyxia		ANI_TALK	
 0xeeb0	0x98	Pyxia		Okay, okay.	
-0xeedc	0x98	Pyxia		The thing I want you to do is...	
-				to supply "pigment."	
+0xeedc	0x98	Pyxia		What I wanted to ask you to	
+				do is... supply pigment.	
 0xef31	0x06	Pyxia		ANI_WAIT	
 0xef58	0x06	ALTO		ANI_THINK2	
-0xef80	0x98	ALTO	#6A	"Pigment"...you mean for paint?	
-				Why this...	
+0xef80	0x98	ALTO	#6A	Pigment...? Like for paint?	
+				What for...?	
 0xefcd	0x06	Horolo		ANI_TALK	
-0xeff5	0x98	Horolo		Well you see, Pyxia and I	
+0xeff5	0x98	Horolo		Well, you see, Pyxia and I	
 				are artists in the making.	
 0xf04a	0x98	Horolo		Pyxia is a painter,	
-				while I am a sculptor.	
+				and I am a sculptor.	
 0xf095	0x06	Horolo		ANI_WAIT	
 0xf0bd	0x06	Pyxia		ANI_GESTURE2	
-0xf0e8	0x98	Pyxia		I wanted to come to	
-				<Remnant Island>	
-				for a long time.	
-0xf13c	0x98	Pyxia		I thought the fallen ruins and	
-				<Star Shards> and such	
-				would be a good stimulus.	
+0xf0e8	0x98	Pyxia		We've been wanting to come to	
+				Remnant Island for a long time.	
+0xf13c	0x98	Pyxia		The falling ruins, the star shards...	
+				I thought mysterious stuff like that	
+				would make for good inspiration.	
 0xf1aa	0x06	Pyxia		ANI_DEJECTED	
-0xf1d5	0x98	Pyxia		But...Phew...	
+0xf1d5	0x98	Pyxia		But... Ugh～...	
 0xf203	0x06	ALTO		ANI_GESTURE2	
 0xf22d	0x98	ALTO	#6A	Umm...?	
 0xf257	0x06	Horolo		ANI_GESTURE2	
 0xf283	0x98	Horolo		You see, Pyxia here...	
-0xf2bb	0x98	Horolo		On the ship here, she	
-				lost all of her art supplies.	
+0xf2bb	0x98	Horolo		She lost all of her art	
+				supplies on the ship.	
 0xf30f	0x06	Pyxia		ANI_COMPLAIN	
-0xf33a	0x98	Pyxia		A wave hit and	
-				everything fell into the	
-				sea in an instant.	
-0xf393	0x98	Pyxia		On top of that, it	
-				destroyed Horolo's	
-				drawing paper.	
+0xf33a	0x98	Pyxia		A big wave hit, and I dropped	
+				all my brushes and stuff into	
+				the ocean...	
+0xf393	0x98	Pyxia		What's more, Horolo's chisel	
+				just destroys my canvases.	
 0xf3e6	0x6B	ALTO		Sweatdrop	
 0xf418	0x98	ALTO	#6A	That's...a problem.	
 0xf44e	0x06	Pyxia		ANI_GESTURE2	
-0xf479	0x98	Pyxia		Well, if it's painting materials,	
-				various things can be	
-				substituted though.	
-0xf4e3	0x98	Pyxia		For example,	
-				I can draw with my	
-				fingers.	
+0xf479	0x98	Pyxia		Well, with art supplies,	
+				you can use various things	
+				as substitutes instead.	
+0xf4e3	0x98	Pyxia		Like, if I wanted to, I could	
+				paint with my fingers instead	
+				of a brush.	
 0xf52a	0x06	Pyxia		ANI_DENY	
-0xf551	0x98	Pyxia		But...no matter what I do,	
-				the only thing I can't get	
-				is "pigment."	
+0xf551	0x98	Pyxia		But... pigments are the only things	
+				I can't find a replacement for.	
 0xf5b3	0x06	Pyxia		ANI_THINK	
-0xf5db	0x98	Pyxia		If I had three colors: red, blue and yellow,	
-				I could make most of the other colors.	
+0xf5db	0x98	Pyxia		If I only had red, blue, and	mp_0000 0xe3c6
+				yellow, I could make almost	
+				any other color.	
 0xf64e	0x06	Pyxia		ANI_WAIT	
 0xf675	0x06	ALTO		ANI_THINK2	
-0xf69d	0x98	ALTO	#6A	Hmm, they don't stock them	
-				at the general store, do they?	
-0xf6f8	0x98	ALTO	#6A	So if you had red, blue and yellow...	
-				Somehow, it would be enough.	
+0xf69d	0x98	ALTO	#6A	Hmm, they don't stock them at	
+				the general store, do they?	
+0xf6f8	0x98	ALTO	#6A	So just the three colors	
+				red, blue, and yellow...	
+				That's all you need?	
 0xf75c	0x06	Pyxia		ANI_NOD	
 0xf782	0x98	Pyxia		Yeah, exactly!	
 0xf7b1	0x06	Horolo		ANI_THINK	
-0xf7da	0x98	Horolo		...But, is that really all right?	
-0xf81d	0x98	Horolo		Pigments are usually taken	
-				from geological strata	
-				of high mountains...	
+0xf7da	0x98	Horolo		...But are you really gonna do it?	
+0xf81d	0x98	Horolo		Pigments are usually taken	mp_0000 0xe4ec
+				from the geological strata	
+				of tall mountains.	
 0xf883	0x06	Horolo		ANI_GESTURE2	
-0xf8af	0x98	Horolo		Somehow, it seems the village	
-				has a huge problem too...	
-				Don't overdo it, OK?	
+0xf8af	0x98	Horolo		It feels like the village has its	
+				own problems right now, too...	
+				No need to push yourself, okay～?	
 0xf91b	0x06	ALTO		ANI_DENY	
-0xf941	0x98	ALTO	#6A	...Well, I'll try searching for them somehow.	
-0xf991	0x98	ALTO	#6A	(Certainly, my sister	
-				 is having a rough time too, but...)	
+0xf941	0x98	ALTO	#6A	...Well, I'll try to find them somehow.	
+0xf991	0x98	ALTO	#6A	(Sure, my sister is having	
+				 a rough time too, but...)	
 0xf9ed	0x06	ALTO		ANI_NOD	
-0xfa12	0x98	ALTO	#6A	(...As the Handyman Shop,	
-				 I can't let this pass.)	
+0xfa12	0x98	ALTO	#6A	(...As a handyman,	
+				 I can't overlook this.)	
 0xfa66	0x06	Pyxia		ANI_JOY	
-0xfa8c	0x98	Pyxia		Hehe, that's what you gotta do!	
-0xfacc	0x98	Pyxia		For my path as an artist,	
-				please help me!	
+0xfa8c	0x98	Pyxia		Hehe, now that's what I'm talking about!	
+0xfacc	0x98	Pyxia		Please help me on my path	
+				to become an artist!	
 0xfb15	0x06	Horolo		ANI_GESTURE2	
-0xfb41	0x98	Horolo		Oh, Pyxia...	
-0xfb6f	0x98	Horolo		Well, do your	
-				best anyway.	
+0xfb41	0x98	Horolo		Jeez, Pyxia...	
+0xfb6f	0x98	Horolo		Well, good luck.	
 0xfbaa	0x06	ALTO		ANI_JOY	
-0xfbcf	0x98	ALTO	#6A	Yes, leave it to me!	
-0xfc06	0x98	ALTO	#6A	(So I need to take three kinds	
-				 of "pigment' from the geologic	
-				 strata of a high mountain...)	
-0xfc84	0x98	ALTO	#6A	(I might be able to get them	
-				 if I go to <Terra>.	
+0xfbcf	0x98	ALTO	#6A	Yeah, leave it all to me!	
+0xfc06	0x98	ALTO	#6A	(So I need to find three kinds	
+				 of pigment from the geological	
+				 strata of tall mountains...)	
+0xfc84	0x98	ALTO	#6A	(Maybe I could get them in Terra.	
 				 ...I'll try searching there!)	
-0xfd29	0x07	System	#3C	Quest [Pigments Supply] started!	
+0xfd29	0x07	System	#3C	Quest [Pigment Supply] started!	
 QS_38_quest_end					
-0xffa0	0x98	ALTO	#6A	Pyxia, I found and brought you	
-				some pigments that seem usable.	
+0xffa0	0x98	ALTO	#6A	Pyxia, I found some pigments	
+				that you could use.	
 0x10000	0x06	Pyxia		ANI_JOY	
-0x10026	0x98	Pyxia		Really!?	
-				S-Show me, show me!	
+0x10026	0x98	Pyxia		Really!? L-Lemme see, lemme see!	
 0x10062	0x06	ALTO		ANI_NOD	
-0x10087	0x98	ALTO	#6A	Yeah, here you go.	
-0x100e0	0x40	UNDEF		Handed over the three pigment colors.	
+0x10087	0x98	ALTO	#6A	Yeah, here.	
+0x100e0	0x40	UNDEF		Nayuta handed over the three colored pigments.	
 0x10126	0x06	Pyxia		ANI_SURPRISE	
 0x10151	0x98	Pyxia		...!?	
-				T-These hues without	
-				any impurities...	
+				Th-These hues,	
+				such purity...	
 0x1019c	0x06	Pyxia		ANI_GESTURE1	
-0x101c7	0x98	Pyxia		Look at this, Horolo!!	
+0x101c7	0x98	Pyxia		Look, Horolo!!	
 0x101fe	0x06	Horolo		ANI_TALK	
-0x10226	0x98	Horolo		Wow, that's pretty rare～.	
-				There were some pretty	
-				pigments like this, huh.	
-0x10290	0x98	Horolo		You can't get your hands on something	
-				like this unless it's a place untouched by man.	
+0x10226	0x98	Horolo		Wow～, that's pretty rare.	
+				Those are some beautiful pigments～.	
+0x10290	0x98	Horolo		You could only have gotten your hands	
+				on something like this if you went	
+				somewhere untouched by man.	
 0x10306	0x06	Horolo		ANI_WAIT	
-0x1032e	0x98	ALTO	#6A	Well, that's the general idea.	
+0x1032e	0x98	ALTO	#6A	W-Well, that was the general idea.	
 0x1036f	0x98	Pyxia		A-As expected from Remnant Island...	
-				The day I can use colors like	
-				this has finally arrived!!	
+				The day I can use colors like these	
+				has finally arrived!!	
 0x103eb	0x06	Pyxia		ANI_GUTSPOSE	
-0x10416	0x98	Pyxia		Horolo, I will...do it!	
-0x10490	0x98	Pyxia	#18S	On this Remnant Island,	
-				#18SI will show you I can...	
-				#18Spaint a picture to stand the test of history!!	
-0x1052e	0x98	Pyxia	#18S	I will graduate from being a fledgling artist,	
-				#18Sand become a chicken in one go!!	
+0x10416	0x98	Pyxia		Horolo, I'm... I'm gonna do it!	
+0x10490	0x98	Pyxia	#18S	Here on Remnant Island,	
+				#18SI'll make a painting that	
+				#18Swill go down in history!!	
+0x1052e	0x98	Pyxia	#18S	I will graduate from being an egg of an artist,	
+				#18Sand become a chicken in one big leap!!	
 0x105c9	0x6B	Pyxia		Unknown	
 0x105fc	0x6B	ALTO		Sweatdrop	
-0x1062e	0x98	ALTO	#6A	It seems she's a little out	
-				of alignment...	
+0x1062e	0x98	ALTO	#6A	There's something off about her...	
 0x1067b	0x06	Horolo		ANI_LAUGH	
-0x106a4	0x98	Horolo		Hehe, for Pyxia,	
-				anything is a straight line.	
+0x106a4	0x98	Horolo		Hehe, for Pyxia, this	
+				is totally normal.	
 0x106f2	0x06	Horolo		ANI_NOD	
-0x10719	0x98	Horolo		Now then, take this	
+0x10719	0x98	Horolo		Here, take this	
 				as my thanks～.	
 0x10775	0xC1	System		obtained.	mp_0000 0x7558
 0x107f8	0xC1	System		obtained.	mp_0000 0x7558
 0x1086f	0x06	Horolo		ANI_GESTURE2	
-0x1089b	0x98	Horolo		It's one I made during	
-				this time～.	
+0x1089b	0x98	Horolo		I made it in the meantime.	
 				Use it well.	
 0x108ed	0x06	ALTO		ANI_THANKS	
-0x10915	0x98	ALTO	#6A	Yeah, thank you very much.	
+0x10915	0x98	ALTO	#6A	Th-Thank you very much.	
 0x10952	0x6B	Horolo		Ellipsis	
 0x10986	0x06	Horolo		ANI_THINK	
-0x109af	0x98	Horolo		Hmm, you show a shady face even	
-				to the people of this town, but...	
-0x10a12	0x98	Horolo		I think that, on this beautiful island,	
-				the bad things won't continue for long.	
+0x109af	0x98	Horolo		Hmm, even though you and the other	
+				villagers seem pretty gloomy...	
+0x10a12	0x98	Horolo		On such a beautiful island,	
+				I don't think bad things	
+				will last for very long.	
 0x10a82	0x06	Horolo		ANI_GESTURE1	
-0x10aae	0x98	Horolo		I'm sure there are good things,	
-				so cheer up.	
+0x10aae	0x98	Horolo		Things will get better	
+				soon, so cheer up.	
 0x10afb	0x06	ALTO		ANI_NOD	
-0x10b20	0x98	ALTO	#6A	Yes...I'll do that.	
+0x10b20	0x98	ALTO	#6A	Yeah... You're right.	
 0x10b56	0x06	ALTO		ANI_JOY	
-0x10b7b	0x98	ALTO	#6A	(To save my sister too,	
-				 I've got to be positive and do my best!)	
-0x10c12	0x07	System	#3C	Quest [Pigments Supply] completed!	
+0x10b7b	0x98	ALTO	#6A	(I gotta stay positive and keep	
+				 working to save my sister, too!)	
+0x10c12	0x07	System	#3C	Quest [Pigment Supply] completed!	
 quest_Lupus					
-0x10e3d	0x98	Lupus		A small girl...?	
-				No, she hasn't come here.	
-0x10e87	0x98	Lupus		Maybe she went the other direction?	
+0x10e3d	0x98	Lupus		A little girl...?	
+				No, she hasn't come by here.	
+0x10e87	0x98	Lupus		Maybe she went the other way?	
 QS_01_quest_start					
-0x11033	0x98	Dorado		Yo, I heard.	
-				About your Handyman Shop,	
-				you revived it.	
-0x11089	0x98	Dorado		Though I submitted my request quickly...	
-				Will you be handling things today, Nayuta?	
+0x11033	0x98	Dorado		Yo, I heard. Your	
+				Handyman Shop is	
+				back in business.	
+0x11089	0x98	Dorado		I immediately came to put in my request...	
+				Will you be handling it today, Nayuta?	
 0x110fd	0x06	ALTO		ANI_NOD	
-0x11122	0x98	ALTO	#6A	Yeah, I'm in charge of the	
-				work this time around.	
+0x11122	0x98	ALTO	#6A	Yeah, I'm in charge	
+				of this job.	
 0x11175	0x06	ALTO		ANI_THINK2	
 0x1119d	0x98	ALTO	#6A	If I remember correctly, you	
-				said you forgot your lunch...	
+				said you forgot your lunch...?	
 0x111f9	0x06	Dorado		ANI_NOD	
-0x11220	0x98	Dorado		Ah, I always prepare it every morning	
-				myself, but...	
-0x11275	0x98	Dorado		Today, I foolishly	
-				forgot it.	
-0x112b3	0x98	Dorado		Since it's available, I thought I'd	
+0x11220	0x98	Dorado		Oh, I usually prepare it myself	
+				every morning, but...	
+0x11275	0x98	Dorado		Today, I carelessly forgot.	
+0x112b3	0x98	Dorado		Since it's available now, I thought I'd	
 				request help from the Handyman Shop.	
 0x1131c	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x1134a	0x98	ALTO	#6A	Ahaha...I get it.	
+0x1134a	0x98	ALTO	#6A	Ahaha... I understand.	
 0x1137e	0x06	ALTO		ANI_GESTURE2	
-0x113a8	0x98	ALTO	#6A	But, if that's the case,	
-				it should be fine to eat at	
-				the local bar...	
+0x113a8	0x98	ALTO	#6A	But in that case, couldn't you	
+				always just eat at the bar...?	
 0x1140e	0x06	Dorado		ANI_NOD	
-0x11435	0x98	Dorado		Oh, that's right...	
-				But, there should someone I	
-				can rely on at your home.	
+0x11435	0x98	Dorado		Ah, you're right...	
+				But there should be someone	
+				I can rely on at your place.	
 0x1149e	0x98	Dorado		Yes, a lunch box master whose	
-				cooking skill puts other	
-				cooks to shame!	
+				skill puts other cooks to shame!	
 0x11504	0x06	Dorado		ANI_COMPLAIN	
 0x11530	0x98	Dorado		The lovely Eartha!	
 0x11564	0x6B	ALTO		Sweatdrop	
 0x11596	0x06	ALTO		ANI_GESTURE1	
-0x115c0	0x98	ALTO	#6A	Umm...so, in a word,	
-				you want to eat one of Eartha's	
+0x115c0	0x98	ALTO	#6A	Umm... So, in other words, you	
+				want to eat one of Eartha's	
 				handmade lunch boxes, right?	
 0x1166a	0x98	Dorado		Well for now,	
-				please accept this.	
+				please take this.	
 0x116ac	0x06	Dorado		ANI_HANDOVER	
 0x116e0	0xC1	System		obtained.	mp_0000 0x7558
-0x117bd	0x98	Dorado		I brought those from	
-				my house.	
+0x117bd	0x98	Dorado		I brought those from home.	
 0x117fc	0x98	Dorado		Please bring those to Eartha and	
-				ask her to make a lunch box for me.	
+				have her make a lunch box for me.	
 0x11861	0x06	ALTO		ANI_THANKS	
 0x11889	0x98	ALTO	#6A	Yep, understood.	
 				Leave everything to me.	
-0x118d3	0x98	ALTO	#6A	(Even though he forgot his lunch box,	
-				 just having ingredients gives	
-				 me a strange feeling about this...)	
+0x118d3	0x98	ALTO	#6A	(He said he forgot his lunch, yet	
+				 he's carrying the ingredients.	
+				 I have a strange feeling about this...)	
 0x1195d	0x06	Dorado		ANI_JOY	
 0x11984	0x98	Dorado		Well then, good luck!	
 0x119ef	0x07	System	#3C	Quest [Lunch Prep Agent] started!	
@@ -1234,378 +1193,368 @@ QS_01_quest_end
 0x11cd4	0x6B	Dorado		Exclamation	
 0x11d08	0x06	Dorado		ANI_JOY	
 0x11d2f	0x98	Dorado		Fuwaah...	
-				Could this delicious scent	
-				possibly be...!?	
-0x11d84	0x98	ALTO	#6A	Here you go, Dorado.	
-				It's my sister's lunch box.	
+				This delicious scent,	
+				could it be...!?	
+0x11d84	0x98	ALTO	#6A	Here you go, Dorado. It's a 	
+				lunch box from my sister.	
 0x11e06	0x06	ALTO		ANI_HANDOVER	
 0x11e5c	0x40	UNDEF		Handed Eartha's lunch box to Dorado.	
 0x11ebf	0x6B	Dorado		Unknown	
 0x11f4d	0x06	Dorado		ANI_NOD	
-0x11f74	0x98	Dorado		Ah, thanks Nayuta!	
+0x11f74	0x98	Dorado		Oh, thanks, Nayuta!	
 				I won't have the strength to	
 				guard the village if I'm hungry!	
-0x11fe4	0x98	Dorado		This lunch box with Eartha's	
-				love and sincerity...	
+0x11fe4	0x98	Dorado		This lunch box, crafted with	
+				Eartha's love and affection...	
 				I will enjoy it later!	
 0x1204d	0x06	ALTO		ANI_GESTURE1	
-0x12077	0x98	ALTO	#6A	Haha, that's fine but...	
-				By the way Dorado.	
-0x120c4	0x98	Dorado		Mm, what is it?	
+0x12077	0x98	ALTO	#6A	Haha, that's great.	
+				But, by the way, Dorado...	
+0x120c4	0x98	Dorado		Wh-What is it?	
 0x120f5	0x06	ALTO		ANI_THINK2	
-0x1211d	0x98	ALTO	#6A	It seems the same situation	
-				as now happened many times...	
-0x12178	0x98	ALTO	#6A	Could it be that you	
-				forgot your lunch on purpose?	
-0x121fa	0x98	Dorado		Gulp.	
+0x1211d	0x98	ALTO	#6A	It seems the same situation as	
+				just now has happened a lot...	
+0x12178	0x98	ALTO	#6A	Could you be forgetting	
+				your lunch on purpose?	
+0x121fa	0x98	Dorado		*gulp*	
 0x12221	0x06	ALTO		ANI_GESTURE2	
-0x1224b	0x98	ALTO	#6A	U-uhmm...	
-				If you want to eat my sister's cooking,	
-				why not try asking her directly?	
-0x122be	0x98	ALTO	#6A	Even if you don't take the	
-				roundabout way, I think sis	
-				would be glad to cook for you.	
+0x1224b	0x98	ALTO	#6A	Well, umm... If you really want	
+				to eat Eartha's cooking, why	
+				not just ask her directly?	
+0x122be	0x98	ALTO	#6A	Even if you didn't do it in such	
+				a roundabout way, I think she	
+				would be happy to cook for you.	
 0x1235a	0x6B	Dorado		Unknown	
 0x1238e	0x98	Dorado		Stupid, I could never, ever	
 				do anything like that...	
 0x123e3	0x06	Dorado		ANI_COMPLAIN	
-0x1240f	0x98	Dorado		...I would never do anything on	
-				purpose like that!!	
+0x1240f	0x98	Dorado		...I would never be able to do that,	
+				regardless of whether or not I	
+				forgot on purpose!!	
 0x12463	0x6B	ALTO		Sweatdrop	
 0x12495	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x124c3	0x98	ALTO	#6A	(It seems it's best to	
+0x124c3	0x98	ALTO	#6A	(It's probably best to just	
 				 leave it at that...)	
-0x12511	0x98	Dorado		Hahaha...	
-				Anyway, thank Nayuta.	
+0x12511	0x98	Dorado		Hahaha... A-Anyway,	
+				thanks, Nayuta.	
 0x12551	0x98	Dorado		This isn't much, but	
-				please take it.	
+				please, take it.	
 0x12596	0xC1	System		received.	
-0x1260f	0x98	Dorado		See you then.	
-				I'll let you know if I need something again.	
+0x1260f	0x98	Dorado		Well, I'll be seeing you then. I'll let	
+				you know if I need something again.	
 0x1266a	0x06	ALTO		ANI_THANKS	
-0x12692	0x98	ALTO	#6A	Sure.	
-				From here on, you're our	
-				Handyman Shop customer.	
-0x1271d	0x07	System	#3C	Quest [Lunch Prep Agent] Completed!	
+0x12692	0x98	ALTO	#6A	Sure. From now on, you're a valued	
+				customer of the Handyman Shop.	
+0x1271d	0x07	System	#3C	Quest [Lunch Prep Agent] completed!	
 0x1287f	0x06	ALTO		ANI_THINK2	
-0x128a7	0x98	ALTO		With this, the requested work	
-				it completed.	
+0x128a7	0x98	ALTO		I'm done with the requests	
+				I was assigned.	
 0x128f1	0x98	ALTO		Cygna should be about done with	
-				his work by now too...	
+				his requests by now, too...	
 0x12946	0x06	ALTO		ANI_NOD	
 0x1296b	0x98	ALTO		I should return home for now.	
-0x129b0	0xCE	Objective		I'll return home and let Cygna know I'm done with work.	
+0x129b0	0xCE	Objective		Let's return home and let Cygna know I'm done with the work.	
 QS_11_second_hint					
-0x12b33	0x41	None		You have already received the treasure.	
-					
-				If you would put it in your hand,	
-				it's good to look through the	
-				"hole peering at the sky."	
+0x12b33	0x41	None		You already have the treasure.	
+				 	
+				 	
+				You should look through the	
+				hole peering at the sky.	
 0x12d1e	0x06	ALTO		ANI_LOOK_AROUND	
 0x12d71	0x6B	ALTO		Surprise	
-0x12dc7	0x98	ALTO		Huh? This is...a poster?	
+0x12dc7	0x98	ALTO		Huh? Is this...a note?	
 0x12dff	0x06	ALTO		ANI_THINK2	
-0x12e27	0x98	ALTO		"Second floors are good, in a place	
-				 where everyone's heads can be seen"...	
+0x12e27	0x98	ALTO		'A place where you can go up stairs	
+				 and see over everyone's heads'...	
 0x12e91	0x06	ALTO		ANI_GOODIDEA	
-0x12ebb	0x98	ALTO		Right, what Vel said	
-				really shines a light on this place,	
-				the second floor of the general store.	
+0x12ebb	0x98	ALTO		Right, what Vel said was really	
+				referring to the second floor	
+				of the general store.	
 0x12f39	0x06	ALTO		ANI_SIT6	
 0x13023	0x98	ALTO	#6A	Hmm, let's see...	
-0x1305f	0x41	None		You have already received the treasure.	mp_0000 0x12b33
-				If you would put it in your hand,	
-				it's good to look through the	
-				"hole peering at the sky."	
+0x1305f	0x41	None		You already have the treasure.	mp_0000 0x12b33
+				 	
+				 	
+				You should look through the	
+				hole peering at the sky.	
 0x13138	0xBC	ALTO		Sweatdrop	
-0x13176	0x98	ALTO	#6A	I-I see...	
-				I don't get the treasure	
-				just by solving one riddle.	
+0x13176	0x98	ALTO	#6A	I-I see... I don't get	
+				the treasure just by	
+				solving one riddle.	
 0x131d6	0x06	ALTO		ANI_WAIT	
-0x132cc	0x98	ALTO		...But, it's a little more like real	
-				treasure hunting, and that makes	
-				me excited maybe.	
+0x132cc	0x98	ALTO		...But it's a little more like	
+				a real treasure hunt, so it's	
+				kind of exciting.	
 0x13341	0x06	ALTO		ANI_THINK	
-0x13368	0x98	ALTO		The hint is, "The hole peering at the sky"...	
-				If I think about a place like that in town...	
+0x13368	0x98	ALTO		The hint says 'the hole peering at the sky'...	
+				Is there a place like that in the village...?	
 0x133f6	0x06	ALTO		ANI_WAIT	
 QS_11_fourth_hint					
 0x13566	0x06	Vavo		ANI_WAIT	
 0x13620	0x6B	Dorado		Question	
-0x13654	0x98	Dorado		Hey, what's wrong Nayuta.	
-				Is there something stuck to my face?	
+0x13654	0x98	Dorado		Hey, what's wrong, Nayuta?	
+				Is there something on my face?	
 0x136b3	0x06	ALTO		ANI_THINK2	
-0x136db	0x98	ALTO	#6A	(It said the poster was stuck	
-				 to the back of the knight...)	
-0x13739	0x98	ALTO	#6A	(If you're talking about a knight in this town,	
-				 there's a strong possibility that it's Dorado...)	
+0x136db	0x98	ALTO	#6A	(The note said it to check	
+				 the knight's backside...)	
+0x13739	0x98	ALTO	#6A	(If someone mentions a knight in this town,	
+				 they're probably talking about Dorado...)	
 0x137bd	0x06	ALTO		ANI_GESTURE2	
-0x137e7	0x98	ALTO	#6A	Sorry Dorado.	
-				Will you turn around	
-				for a sec?	
-0x13835	0x98	Dorado		...I don't particularly mind, no...	
-				You're pretty strange, you know.	
-0x138b4	0x40	UNDEF		There's a paper stuck in Dorado's belt.	
+0x137e7	0x98	ALTO	#6A	Excuse me, Dorado. Do you mind	
+				turning around for a sec?	
+0x13835	0x98	Dorado		...Sure, I don't mind, but...	
+				You're pretty strange, you know that?	
+0x138b4	0x40	UNDEF		A paper is stuck in Dorado's belt.	
 0x13904	0x6B	ALTO		Sweatdrop	
 0x13936	0x06	ALTO		ANI_DEJECTED	
-0x13960	0x98	ALTO	#6A	Yep, as expected...	
+0x13960	0x98	ALTO	#6A	Yep, I knew it...	
 0x139c6	0x06	ALTO		ANI_HANDOVER	
 0x13a1c	0x40	UNDEF		Nayuta took the paper stuck in Dorado's belt.	
 0x13afc	0x06	ALTO		ANI_HOLD	
 0x13b2a	0x41	None		You're doing pretty well.	mp_0000 0xdd0d
 				The next one is the last.	
+				 	
 				The treasure you are searching for should be	
-				"beneath a vehicle for setting off on a journey."	
+				beneath a vehicle for setting off on a journey.	
 0x13c13	0x06	Dorado		ANI_SURPRISE	
-0x13c3f	0x98	Dorado		W-When did something like that get in there...!	
-0x13c90	0x98	Dorado		These are Vel's letters...?	
-				I did talk to her just now...	
-0x13cea	0x98	Dorado		...To think that she'd sneak up behind me!	
+0x13c3f	0x98	Dorado		Wh-When did that get there...!?	
+0x13c90	0x98	Dorado		Vel wrote this...? I DID just	
+				talk to her a minute ago...	
+0x13cea	0x98	Dorado		...To think that she stuck these on my back!	
 0x13d4e	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x13d7c	0x98	ALTO	#6A	Ahaha...	
-				It must've been done skillfully	
-				when you were tired.	
-0x13dda	0x98	ALTO	#6A	Err, it looks like the	
-				hint this time is the last one.	
+0x13d7c	0x98	ALTO	#6A	Ahaha... She must've deftly done	
+				it when you weren't looking.	
+0x13dda	0x98	ALTO	#6A	Uh, looks like this	
+				is the last hint.	
 0x13e32	0x06	ALTO		ANI_THINK	
-0x13e59	0x98	ALTO	#6A	"A vehicle for setting off on a journey"...?	
-0x13ea8	0x98	Dorado		Hmm, if it's that, then probably,	
-				they're talking about a boat?	
-0x13f08	0x98	Dorado		When you're leaving on a trip from	
-				this island, usually it's by sea...	
-0x13f6f	0x98	Dorado		If it's Vel, the fisherman's daughter,	
-				just hearing the phraseology	
-				is strange.	
+0x13e59	0x98	ALTO	#6A	'A vehicle for setting off on a journey'...?	
+0x13ea8	0x98	Dorado		Hmm, in that case, then maybe	
+				it's talking about a boat?	
+0x13f08	0x98	Dorado		If you're setting off on a journey from this	
+				island, it would probably be by boat...	
+0x13f6f	0x98	Dorado		It wouldn't be strange for someone like	
+				Vel, the fisherman's daughter, to phrase	
+				it like that.	
 0x13fde	0x06	ALTO		ANI_GESTURE1	
-0x14008	0x98	ALTO	#6A	So, it's beneath a boat, huh...	
-				It seems it's worth searching there.	
+0x14008	0x98	ALTO	#6A	So it's beneath a boat, eh...?	
+				Seems to be worth looking into.	
 0x1406e	0x06	ALTO		ANI_THANKS	
-0x14096	0x98	ALTO	#6A	Thanks for helping me Dorado.	
+0x14096	0x98	ALTO	#6A	Thanks for the help, Dorado.	
 0x140d6	0x06	Dorado		ANI_NOD	
 0x140fd	0x98	Dorado		Don't worry about it.	
-				...I don't know what you're doing though.	
+				...I still don't know what it	
+				is that you're doing, though.	
 QS_12_quest_start					
 0x14432	0x98	Sculp		I'm worried about what	
-				present I should give to	
-				Canie...	
-0x14489	0x98	Sculp		How 'bout it?	
-				Can you start immediately	
-				for me?	
-0x144e1	0x98	Sculp		Say, Jessica, what in the world	
-				should I do about this?...	
+				present I should give	
+				to Canie...	
+0x14489	0x98	Sculp		How 'bout it? Can you	
+				help me out at once?	
+0x144e1	0x98	Sculp		Oh, Jessica, what the heck am	
+				I gonna do about this...?	
 0x1455f	0x98	Cow		Moooooooo～...	mp_0000 0x94b4
 0x1458c	0x6B	ALTO		Sweatdrop	
 0x145be	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x145ec	0x98	ALTO	#6A	(Mister Sculp talks	
+0x145ec	0x98	ALTO	#6A	(Mr. Sculp is talking	
 				 to Jessica...)	
 0x14631	0x6B	Sculp		Surprise	
 0x14698	0x06	Sculp		ANI_SURPRISE	
-0x146c3	0x98	Sculp		Oh, Nayuta.	
-				What you need today?...	
-0x14706	0x98	Sculp		...Could it be that you came	
-				because of the situation in my request?	
+0x146c3	0x98	Sculp		Oh, Nayuta. What do you need today?	
+0x14706	0x98	Sculp		...Could you be here regarding	
+				the matter in my request?	
 0x1476a	0x06	ALTO		ANI_NOD	
 0x1478f	0x98	ALTO	#6A	Yeah, that's right.	
-0x147c5	0x98	ALTO	#6A	Somehow, it seems you're worried	
-				about what present to give to	
-				Canie...	
+0x147c5	0x98	ALTO	#6A	Anyway, it seems you're worried	
+				about a present to give to Canie...	
 0x1482d	0x06	Sculp		ANI_GESTURE1	
-0x14858	0x98	Sculp		Yeah.	
-				That's exactly right.	
-0x14893	0x98	Sculp		How 'bout it? I want you to start	
-				right away though...	
+0x14858	0x98	Sculp		Yeah, that's exactly right.	
+0x14893	0x98	Sculp		How 'bout it? I want you to	
+				start right away though...	
 				Do you have enough time?	
 0x14941	0x36	Choice		[Accept]	mp_0000 0xeaf5
 0x14957	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0x149f7	0x06	ALTO		ANI_DENY	
-0x14a1d	0x98	ALTO	#6A	Sorry, mister...	
+0x14a1d	0x98	ALTO	#6A	Sorry, Mr. Sculp...	
 				I'm in the middle of	
 				something right now.	
 0x14a78	0x06	Sculp		ANI_WAIT3	
-0x14aa0	0x98	Sculp		Oh, is that so...	
-				You must be busy since	
-				you've got work to do.	
-0x14afe	0x98	Sculp		If by chance you get free,	
-				it'll be a help if you see me	
-				again. Take care.	
+0x14aa0	0x98	Sculp		Oh. I see... You must be	
+				busy with work to do.	
+0x14afe	0x98	Sculp		If you ever get the chance,	
+				it'll be a huge help if you	
+				come see me again. Take care.	
 QS_12_ask_reason					
 0x14c0d	0x06	ALTO		ANI_THANKS	
-0x14c35	0x98	ALTO	#6A	Yeah, I'm good.	
-				Can I hear the details?	
+0x14c35	0x98	ALTO	#6A	Yeah, I'm good. Can I get	
+				some more details about	
+				the situation?	
 0x14c7e	0x06	Sculp		ANI_JOY	
-0x14ca4	0x98	Sculp		Oh, you're a big help, Nayuta!	
+0x14ca4	0x98	Sculp		Oh, thank you, Nayuta!	
 				I'm in a real pinch here.	
-0x14d1a	0x98	Sculp		That's great Jessica,	
-				Nayuta will help us out!	
+0x14d1a	0x98	Sculp		Isn't that great, Jessica?	
+				Nayuta's helping us out!	
 0x14d8c	0x98	Cow		Moooooo...	
 0x14db5	0x6B	ALTO		Sweatdrop	
 0x14de7	0x06	ALTO		ANI_GESTURE1	
-0x14e11	0x98	ALTO	#6A	Um, the info please...	
-0x14e69	0x98	Sculp		Oh, right.	
-				I got carried away there.	
+0x14e11	0x98	ALTO	#6A	Um, the details please...	
+0x14e69	0x98	Sculp		Oh, right. I got carried	
+				away for a second there.	
 0x14ead	0x06	Sculp		ANI_COMPLAIN	
-0x14ed8	0x98	Sculp		What I really need your help with is...	
-				picking out Canie's wedding	
+0x14ed8	0x98	Sculp		So what I really need your help with...	
+				It's picking out Canie's wedding	
 				anniversary present.	
 0x14f4f	0x06	ALTO		ANI_THINK2	
-0x14f77	0x98	ALTO	#6A	An anniversary, huh...	
-				Is it soon?	
+0x14f77	0x98	ALTO	#6A	An anniversary, eh? Is it soon?	
 0x14fbb	0x06	Sculp		ANI_DENY	
-0x14fe2	0x98	Sculp		...Ah, well you see...	
-				I of all people completely	
+0x14fe2	0x98	Sculp		...Ah, well, you see...	
+				I, of all people, completely	
 				forgot when it was.	
 0x15046	0x98	Sculp		And when I remembered,	
 				it had already passed.	
 0x15093	0x06	ALTO		ANI_GESTURE2	
-0x150bd	0x98	ALTO	#6A	Haha...that was a failure then.	
+0x150bd	0x98	ALTO	#6A	Haha... That sucks.	
 0x150ff	0x06	Sculp		ANI_WAIT3	
-0x15127	0x98	Sculp		Yeah...Canie also forgot	
-				and she hasn't gotten angry but...	
-0x15182	0x98	Sculp		Since it's our long awaited anniversary,	
-				I was thinking of what I can do to end	
-				this situation.	
-0x15200	0x98	Sculp		I want to put some thought into it and	
+0x15127	0x98	Sculp		Yeah... But luckily Canie forgot	
+				too, so she didn't mind, but...	
+0x15182	0x98	Sculp		I just thought it would be a shame to leave	
+				things like that for our anniversary.	
+0x15200	0x98	Sculp		I want to show my appreciation and	
 				give her a special, beautiful gift.	
 0x1526a	0x06	ALTO		ANI_WAIT3	
-0x15291	0x98	ALTO	#6A	And so, you want me to help you	
-				with picking out a present, right?	
+0x15291	0x98	ALTO	#6A	And you want me to help you with	
+				picking out a present, right?	
 0x152f5	0x06	Sculp		ANI_NOD	
 0x1531b	0x98	Sculp		Yeah, I'll leave the rest	
 				to your good sense.	
-0x15368	0x98	Sculp		More than I, who was born in the country,	
-				it seems a young city-dweller	
-				like yourself will be able to pick a good one.	
+0x15368	0x98	Sculp		I'm sure a cool young city-dweller such	
+				as yourself will be able to pick a better	
+				gift than a country bumpkin like me.	
 0x153fd	0x06	ALTO		ANI_LAUGH	
-0x15424	0x98	ALTO	#6A	Ahaha, it does seem like I'm	
-				very different from you, mister...	
-0x15485	0x98	ALTO	#6A	Then, if it's just searching,	
-				I'll try searching.	
+0x15424	0x98	ALTO	#6A	Haha, I don't think I'm	
+				THAT different from you...	
+0x15485	0x98	ALTO	#6A	But if it's just looking	
+				for something, I can try.	
 0x154d8	0x06	Sculp		ANI_NOD	
 0x154fe	0x98	Sculp		Yeah, thanks for your help!	
-0x1553a	0x98	Sculp		I'll pay the cost later,	
-				but here's an advance	
-				for now.	
+0x1553a	0x98	Sculp		I'll pay you back properly later,	mp_0000 0xe261
+				so please take the advance for now.	
 0x15590	0x06	ALTO		ANI_JOY	
 0x155b5	0x98	ALTO	#6A	Yeah, got it.	mp_0000 0x7d86
-0x155e5	0x98	ALTO	#6A	(Though, in situations like this	
-				 I don't have any idea of what's	
-				 good...)	
+0x155e5	0x98	ALTO	#6A	(Though, I have no idea of what would	
+				 be good for something like this...)	
 0x15651	0x98	ALTO	#6A	(First up, I should try asking	
 				 Sasha at the general store.)	
 0x156e3	0x07	System	#3C	Quest [A Thankful Gift] started!	
 QS_12_quest_end					
 0x159a1	0x98	Sculp		Oh, Nayuta.	
-				Did you choose a good	
-				present for me?	
+				Did you pick out a	
+				nice present for me?	
 0x159f1	0x06	ALTO		ANI_NOD	
 0x15a16	0x98	ALTO	#6A	Yeah, it's this...	
 0x15a7a	0x06	ALTO		ANI_HANDOVER	
 0x15ad0	0x40	UNDEF		Handed the Eternal Rose to Sculp.	
 0x15b91	0x06	Sculp		ANI_SURPRISE	
-0x15bbc	0x98	Sculp		T-This is...	
-				an immensely beautiful flower!?	
+0x15bbc	0x98	Sculp		I-It's...an immensely beautiful flower!?	
 0x15c08	0x06	Sculp		ANI_COMPLAIN	
 0x15c33	0x98	Sculp		I've never seen a flower like this...	
 0x15c79	0x06	ALTO		ANI_GESTURE1	
-0x15ca3	0x98	ALTO		It is a flower of Eastern origin	
-				that cannot wilt.	
-				It's called Eternal Rose.	
-0x15d0d	0x98	ALTO	#6A	Sasha said in flower language,	
-				it means, "eternal love."	
+0x15ca3	0x98	ALTO		It's called the Eternal Rose.	
+				It's a flower from the East	
+				that's supposed to never wither.	
+0x15d0d	0x98	ALTO	#6A	Sasha said in the language of flowers,	
+				it means, 'eternal love.'	
 0x15d67	0x06	Sculp		ANI_WAIT2	
 0x15d8f	0x98	Sculp		N-Nayuta, you...	
 				Just how did you bring me	
-				such a lovely thing!?	
+				such a wonderful thing!?	
 0x15dee	0x98	Sculp		Now, accept a kiss	
 				from this old man!!	
 0x15e34	0x6B	ALTO		Sweatdrop	
 0x15e66	0x06	ALTO		ANI_DENY	
-0x15e8c	0x98	ALTO	#6A	Um, ah, I'm fine, really...	
+0x15e8c	0x98	ALTO	#6A	Um, ah, I'm good, really...	
 0x15eca	0x06	ALTO		ANI_GESTURE2	
-0x15ef4	0x98	ALTO	#6A	That aside, how about	
-				giving the present to Canie?	
+0x15ef4	0x98	ALTO	#6A	More importantly, why don't you	
+				go give the present to Canie?	
 0x15f48	0x06	Sculp		ANI_NOD	
 0x15f6e	0x98	Sculp		Oh, that's right!!	
 0x15fa1	0x06	Sculp		ANI_JOY	
-0x15fc7	0x98	Sculp		She's playing with Bootie right now...	
+0x15fc7	0x98	Sculp		Boote is out playing right now...	
 				I'll give it to her right away!	
 0x161a4	0x6B	Sculp		Surprise	
 0x16282	0x06	Sculp		ANI_TALK	
-0x162a9	0x98	Sculp		I almost forgot to say it.	
+0x162a9	0x98	Sculp		I almost forgot to tell you.	
 				Truly, thank you very much!	
 0x162ff	0x98	Sculp		Though I don't think just	
-				saying thank is enough...	
-0x16352	0x98	Sculp		If it's all right with you,	
+				saying it is enough...	
+0x16352	0x98	Sculp		If you don't mind,	
 				will you take this?	
 0x163a1	0x06	Sculp		ANI_HANDOVER	
 0x163d4	0xC1	System		received.	mp_0000 0x12596
 0x1644b	0xC1	System		received.	mp_0000 0x12596
 0x164c4	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x164f3	0x98	ALTO	#6A	Ah, is that really okay?	
+0x164f3	0x98	ALTO	#6A	Ah, is this really okay?	
 				Thank you.	
 0x16538	0x06	Sculp		ANI_WAIT4	
-0x16560	0x98	Sculp		Yeah, my true feelings are in it.	
-0x165a2	0x98	Sculp		Then, I'll see you later!!	
-0x16869	0x98	ALTO	#6A	...With this, the case is closed.	
+0x16560	0x98	Sculp		Yeah, it's just a small	
+				token of my appreciation.	
+0x165a2	0x98	Sculp		Then I'll see you later!!	
+0x16869	0x98	ALTO	#6A	...I guess that settles that.	
 0x168ad	0x06	ALTO		ANI_THINK2	
-0x168d5	0x98	ALTO	#6A	Thanks to "Terra,"	
-				I can get the flower but...	
-				I wonder if it's really okay.	
-0x16942	0x98	ALTO	#6A	It seems that things that	
-				are not normally possible	
-				have become so.	
+0x168d5	0x98	ALTO	#6A	Thanks to Terra, I was able to obtain	
+				that flower, but... I wonder if it	
+				was really a good idea.	
+0x16942	0x98	ALTO	#6A	It feels like, with Terra,	
+				the impossible has suddenly	
+				become possible.	
 0x169ca	0x98	Cow		Moooooo～...	
 0x16a2d	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x16a5b	0x98	ALTO	#6A	Haha...	
-				It's not good to rely on it too much.	
-				Take care, Jessica.	
+0x16a5b	0x98	ALTO	#6A	Haha... Better not to rely on	
+				it too much. Goodbye, Jessica.	
 0x16af1	0x07	System	#3C	Quest [A Thankful Gift] completed!	
 QS_34_think_and_flash					
 0x16e4e	0x06	ALTO		ANI_THINK	
-0x16e75	0x98	ALTO		(Though I want to hear	
-				 Sasha and Camelope's	
-				 conversation...)	
-0x16ed1	0x98	ALTO		(Though it's certain that they	
-				 want to reconcile, it seems	
-				 they can't be honest with each other.)	
-0x16f52	0x98	ALTO		(...At a time like this,	
-				 I wonder what I should do.)	
-0x16fa6	0x98	ALTO		(If they could calm down and	
-				 discuss things, it seems they	
-				 could understand each other...)	
+0x16e75	0x98	ALTO		(I've heard both Sasha and Camelope's	
+				 sides of the story...)	
+0x16ed1	0x98	ALTO		(It seems that they both want to	
+				 reconcile, but they just can't	
+				 be honest with each other.)	
+0x16f52	0x98	ALTO		(...I just don't know what	
+				 to do in cases like these.)	
+0x16fa6	0x98	ALTO		(If only they could both just	
+				 calm down and talk it over...)	
 0x17020	0x6B	ALTO		Ellipsis	
 0x17052	0x6B	ALTO		Surprise	
 0x1709a	0x06	ALTO		ANI_GOODIDEA	
-0x170ea	0x98	ALTO		(That's right, there are herb	
-				 specialty shops on Saint	
-				 Cerize, right?)	
-0x17150	0x98	ALTO		(There are herbs that, if you smell them,	
-				 they calm the heart, and they're pretty	
-				 popular. If I just had something like that...)	
+0x170ea	0x98	ALTO		(Oh yeah, I think there was an	
+				 herb shop in Saint Cerise	
+				 that specialized in incense.)	
+0x17150	0x98	ALTO		(They were pretty popular, and they had	
+				 one where the fragrance was supposed	
+				 to make you feel at peace.) 	
 0x171f0	0x06	ALTO		ANI_WAIT4	
-0x17217	0x98	ALTO		(...Ooh, but I've completely forgotten	
-				 the name of it...)	
-0x17270	0x98	ALTO		(It can't be helped. I'll try asking	
-				 Gio of "Oltapia."	
-				 He knows much about plants.)	
+0x17217	0x98	ALTO		(...Ugh, I don't even remember	
+				 what it's called...)	
+0x17270	0x98	ALTO		(It's no use. I should try	
+				 asking Geo in Oltapia. He	
+				 knows a lot about plants.)	
 0x172f3	0x06	ALTO		ANI_WAIT	
 tuto_quest_talk					
 0x17407	0x6B	ALTO		Surprise	
-0x1748f	0x98	ALTO		Oh, it's Dorado.	
-0x174bf	0x98	ALTO		I've got to ask him for information	
-				since he submitted a request.	
-0x1755b	0x07	System	#4C	If you talk with □,	
-				You can have a quest related conversation.	
-0x176aa	0x98	ALTO		Now then...	
-				There's a cemetery on the cape.	
-0x176f4	0x98	ALTO		...I've got to report my return	
-				to father and mother, too.	
+0x1748f	0x98	ALTO		Oh, there's Dorado.	
+0x174bf	0x98	ALTO		I have to ask him for information	
+				about the request he submitted.	
+0x1755b	0x07	System	#4C	Initiate a quest related conversation	
+				by pressing the □ button.	
+0x176aa	0x98	ALTO		And... the cemetery's on	
+				the cape right over there.	
+0x176f4	0x98	ALTO		...I have to check in	
+				with Mom and Dad, too.	
 tuto_quest_memo					
 0x177fb	0x07	System	#4C	You can view quest progress	
 				under [Quest] from the	
 				camp menu.	
 0x17847	0x07	System	#4C	Quest memos are updated	
-				automatically, so please check it	
+				automatically, so please check them	
 				when you are not sure what to do.	
 tuto_museum_force1					
 0x17b08	0x3F	Name		Man's Voice	
@@ -1614,66 +1563,67 @@ tuto_museum_force1
 0x17b7a	0x6B	ALTO		Surprise	
 0x17d3e	0x06	Volans		ANI_WAIT0	
 0x17d6f	0x06	ALTO		ANI_GESTURE2	
-0x17d99	0x98	ALTO		Umm, you are?	
-0x17e6a	0x98	Volans		I am Volans. I am from the Empire,	
-				and I arrived on Remnant Island	
+0x17d99	0x98	ALTO		Umm... And you are?	
+0x17e6a	0x98	Volans		I am Volans, an Imperial scientist	
+				who arrived here on Remnant Island	
 				a few days ago.	
-0x17edc	0x98	Volans		Now, thanks to a favor from the elder,	
-				he has entrusted me with the	
+0x17edc	0x98	Volans		Courtesy of the village elder, I have	
+				been entrusted with operating the	
 				Remnant Island Museum.	
 0x17f56	0x06	Volans		ANI_GESTURE1	
 0x17f82	0x98	Volans		In short, I am its director.	
 0x17fc0	0x06	Volans		ANI_WAIT0	
-0x17fe9	0x98	Volans		Because I just finished remodeling,	
-				I am coming around to introduce	
-				myself.	
+0x17fe9	0x98	Volans		Because we have just finished	
+				remodeling, I am coming around	
+				to introduce myself.	
 0x1805c	0x6B	ALTO		Exclamation	
 0x18086	0x06	ALTO		ANI_SURPRISE	
-0x180b8	0x98	ALTO	#6A	A-A museum!?	
+0x180b8	0x98	ALTO	#6A	A m-museum...!?	
 0x180ff	0x06	ALTO		ANI_THINK2	
 0x18127	0x98	ALTO	#6A	Now that you mention it,	
 				I saw that poster...	
-0x18176	0x98	ALTO	#6A	B-But, I can't believe there's	
+0x18176	0x98	ALTO	#6A	B-But there's no way there's	
 				a museum on this island...	
 0x181db	0x06	ALTO		ANI_COMPLAIN	
 0x18205	0x98	ALTO	#6A	No way, there's no way there's	
-				anything like a museum on the island...	
+				a museum on this island...	
 0x18277	0x06	Volans		ANI_LAUGH	
-0x182a0	0x98	Volans		Hahaha...I just said it,	
-				I just finished remodeling.	
+0x182a0	0x98	Volans		Hahaha... I just said it is so.	
+				We just finished remodeling.	
 0x182f5	0x06	Volans		ANI_WAIT0	
-0x1831e	0x98	Volans		You, I wonder what your name is.	
+0x1831e	0x98	Volans		You... What did you say	
+				your name was again?	
 0x18368	0x06	ALTO		ANI_GESTURE2	
-0x18392	0x98	ALTO	#6A	Umm, I am Nayuta Herschel.	
+0x18392	0x98	ALTO	#6A	Umm... I am Nayuta Herschel.	
 0x183d7	0x6B	Volans		Surprise	
-0x1840b	0x98	Volans		Hmm, Herschel?	
-				(Certainly, that name was	
-				 that astronomer's...)	
-0x18472	0x98	ALTO	#6A	...? Umm, what is it?	
+0x1840b	0x98	Volans		Hmm, Herschel...?	
+				(If I recall, the name of	
+				 that astronomer was...)	
+0x18472	0x98	ALTO	#6A	Uh... Is something wrong...?	
 0x184b2	0x06	Volans		ANI_DENY	
-0x184da	0x98	Volans		Huhu, no...	
-				I was thinking this was an	
-				interesting chance meeting.	
+0x184da	0x98	Volans		Heh, not at all...	
+				I just thought that this was	
+				an interesting coincidence.	
 0x18544	0x06	Volans		ANI_NOD	
 0x1856b	0x98	Volans		Very well, Nayuta.	
-				If you are interested,	
-				please follow me.	
+				Please follow me if	
+				you're interested.	
 0x185c6	0x06	Volans		ANI_WAIT0	
-0x185ef	0x98	Volans		Though not many have come yet,	
-				if it would please you, allow me	
-				to show you the way.	
+0x185ef	0x98	Volans		Few visitors have come so far.	
+				If you'd like, allow me to	
+				show you around.	
 0x18689	0x06	ALTO		ANI_THINK	
-0x186b0	0x98	ALTO	#6A	Gulp...	
-				(He's serious, it seems...)	
-0x186f5	0x98	ALTO	#6A	(And, it's this kind of new story...	
-				 If it was the usual Cygna,	
-				 he'd want to drop in.)	
+0x186b0	0x98	ALTO	#6A	*gulp*...	
+				(Seems like he's serious...)	
+0x186f5	0x98	ALTO	#6A	(This is a new development...	
+				 If Cygna were here like usual,	
+				 he'd definitely want to stop by.)	
 0x187a2	0x06	ALTO		ANI_JOY	
-0x187c7	0x98	ALTO	#6A	...Umm, well then,	
-				nice to meet you!	
+0x187c7	0x98	ALTO	#6A	...Umm, then,	
+				of course!	
 0x18815	0x06	Volans		ANI_GESTURE2	
-0x18841	0x98	Volans		Haha, a good reply.	
-				Then, come with me!	
+0x18841	0x98	Volans		Haha, good answer.	
+				Then... Come with me!	
 SB_0_S02_appear_ALTO					
 SB_0_S02_appear_Signa					
 SB_0_S02_move_ALTO					
@@ -1682,18 +1632,18 @@ EV_0_S02_morn_town
 0x190ec	0xBC	Sculp		Unknown	
 0x19123	0x06	Sculp		ANI_LAUGH	
 0x19337	0x06	Signa		ANI_WAIT2	
-0x1935f	0x98	Signa	#6A	Ahhh, as expected from a long journey.	
+0x1935f	0x98	Signa	#6A	Ahhh, that was quite a long trip.	
 0x193b1	0x06	ALTO		ANI_GESTURE2	
-0x193db	0x98	ALTO		It's because there's 1760 Selge between	
-				here and the port of Saint Cerize.	
+0x193db	0x98	ALTO		There's 1760 selge between	
+				Remnant Island and Saint Cerise.	
 0x19444	0x06	ALTO		ANI_THINK	
-0x1946b	0x98	ALTO		Because Captain Puppis'	
-				ferry is so fast, it took us	
-				only half a day... Wow...	
+0x1946b	0x98	ALTO		Even though Captain Puppis' ferry	
+				is pretty fast, it still took us	
+				12 hours... Waah...	
 0x194df	0x6B	Signa		Question	
 0x19512	0x6B	ALTO		Ellipsis	
 0x19544	0x06	ALTO		ANI_YAWN	
-0x1956a	0x98	ALTO		......*Yaaaaawn*......	
+0x1956a	0x98	ALTO		...(*yaaaawn*)...	
 0x195a8	0x6B	Signa		Sweatdrop	
 0x195db	0x06	Signa		ANI_DEJECTED	
 0x19606	0x98	Signa	#6A	What a huge yawn!	
@@ -1701,21 +1651,20 @@ EV_0_S02_morn_town
 0x19663	0x98	Signa	#6A	Sheesh. That's why I told you	
 				to get some proper sleep.	
 0x196dc	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x1970a	0x98	ALTO		Ahaha, it's because I watched that	
+0x1970a	0x98	ALTO		Ahaha, I was watching that	
 				beautiful meteor shower.	
-				I'm completely awake!	
+				I was totally distracted!	
 0x19781	0x06	ALTO		ANI_RUB_EYE	
-0x197c8	0x98	ALTO		Mmm, mmm...	
-				Sleepy...	
+0x197c8	0x98	ALTO		Mmm, mmm...sleepy...	
 0x19804	0x06	Signa		ANI_GESTURE1	
-0x1982f	0x98	Signa	#6A	Well, return home quickly and	
-				have Eartha make you breakfast.	
-				Once you eat that, you'll be refreshed.	
+0x1982f	0x98	Signa	#6A	Well, get home quickly and have	
+				Eartha make you breakfast. You'll 	
+				feel better once you've eaten.	
 0x198d4	0x06	Signa		ANI_WAIT4	
-0x198fc	0x98	Signa	#6A	I'll go to Master's place and	
-				put away my luggage.	
+0x198fc	0x98	Signa	#6A	I'm going to Master's place	
+				to drop off my things.	
 0x19970	0x06	ALTO		ANI_NOD	
-0x19995	0x98	ALTO		Alright, got it.	
+0x19995	0x98	ALTO		Yeah, all right.	
 				See you later.	
 SB_0_S09_appear_ATLO					
 SB_0_S09_appear_Signa					
@@ -1729,122 +1678,115 @@ EV_0_S09_see_riot
 0x1a145	0x06	Eida		ANI_WAIT0	
 0x1a1de	0x06	Sasha		ANI_WAIT0	
 0x1a36c	0x06	Lupus		ANI_GESTURE1	
-0x1a397	0x98	Lupus		Hey, hey!	
-				Are you all right?	
+0x1a397	0x98	Lupus		Hey, come on, man! Are you	
+				really sure about this?	
 0x1a3f4	0x06	Sasha		ANI_WAIT4	
-0x1a41c	0x98	Sasha	#6A	To think that such	
-				a large ruin fell...	
+0x1a41c	0x98	Sasha	#6A	I can't believe such a	
+				huge ruin could fall...	
 0x1a487	0x06	Bootie		ANI_DIRECT	
-0x1a4b1	0x98	Bootie	#6A	At least let us see	
-				what it looks like!	
+0x1a4b1	0x98	Bootie	#6A	At least let us go see it!	
 0x1a51e	0x6B	Dorado		Unknown	
 0x1a560	0x06	Dorado		ANI_COMPLAIN	
-0x1a58c	0x98	Dorado		Hey, everyone!	
-				Just calm down a bit,	
-				please!	
+0x1a58c	0x98	Dorado		Hey, everyone! Just calm	
+				down for a bit, please!	
 0x1a834	0x06	ALTO		ANI_GESTURE1	
-0x1a85e	0x98	ALTO	#6A	Dorado!	
-				How is the ruin that fell!?	
+0x1a85e	0x98	ALTO	#6A	Dorado! How's the ruin that fell...!?	
 0x1a8e1	0x98	Dorado		Oh, it's you guys.	
 0x1a915	0x06	Dorado		ANI_NOD	
-0x1a93c	0x98	Dorado		Well for now,	
-				everything is all right.	
+0x1a93c	0x98	Dorado		Well for now, it looks like	
+				everything's in tip-top shape.	
 0x1a993	0x06	Lyra		ANI_DIRECT	
-0x1a9bb	0x98	Lyra	#6A	Just wait a second here.	
-				Why are you standing guard	
-				in a place like this?	
-0x1aa25	0x98	Lyra	#6A	Is is really the work	
-				of a guard to be the 	
-				vanguard in this situation?	
+0x1a9bb	0x98	Lyra	#6A	Wait a minute. What are you doing	
+				just standing around here for?	
+0x1aa25	0x98	Lyra	#6A	Shouldn't it be the guard's job	
+				to be scouting ahead in this	
+				kind of situation?	
 0x1aa95	0x06	Dorado		ANI_SURPRISE	
-0x1aac1	0x98	Dorado		Guh, we're making sure	
-				there's shoals to stand on.	
-0x1ab14	0x98	Dorado		I was told by Orvus to	
-				stand guard to keep	
-				everyone out!	
+0x1aac1	0x98	Dorado		Gah, when you put it like that,	
+				I don't have a leg to stand on	
+				for being here...	
+0x1ab14	0x98	Dorado		I was actually told by Orvus to stand	
+				guard and keep everyone else out!	
 0x1ab74	0x6B	ALTO		Surprise	
 0x1aba6	0x6B	Signa		Surprise	
 0x1abd9	0x6B	Lyra		Surprise	
 0x1ac13	0x06	Signa		ANI_WAIT3	
-0x1ac3b	0x98	Signa	#6A	Orvus...?	
-0x1ac89	0x98	Dorado		Yes, he said he would	
-				check things out and return.	
+0x1ac3b	0x98	Signa	#6A	Master...?	
+0x1ac89	0x98	Dorado		Yeah, he said he would go	
+				check things out himself.	
 0x1acdc	0x06	Dorado		ANI_GESTURE1	
-0x1ad08	0x98	Dorado		Even if monsters come out	
-				of the ruin, Orvus will	
-				take care of 'em.	
+0x1ad08	0x98	Dorado		If monsters come out of the	
+				ruin, Orvus will take care	
+				of 'em in a heartbeat.	
 0x1ad8b	0x06	Dorado		ANI_LAUGH	
-0x1adb4	0x98	Dorado		Yahaha, he's a very	
-				reliable person.	
+0x1adb4	0x98	Dorado		Yahaha, he's very	
+				reliable.	
 0x1ae01	0x06	Lyra		ANI_ANGRYTALK	
-0x1ae2c	0x98	Lyra	#6A	Don't "Ya-ha-ha: me,	
-				you untrained guardian!	
+0x1ae2c	0x98	Lyra	#6A	Don't 'Yahaha' me,	
+				you spineless guard!	
 0x1ae82	0x06	Dorado		ANI_DEJECTED	
-0x1aeae	0x98	Dorado		Ouch! That really	
-				hurts Miss Lyra!	
+0x1aeae	0x98	Dorado		Ouch! That's too	
+				much, Lyra!	
 0x1aef9	0x06	ALTO		ANI_THANKS	
-0x1af21	0x98	ALTO	#6A	-Anyway...	
-				Will you let us take	
-				a look?	
+0x1af21	0x98	ALTO	#6A	A-Anyway...	
+				Can you let us through	
+				to check up on him?	
 0x1af71	0x06	Signa		ANI_WAIT4	
 0x1af99	0x98	Signa	#6A	There's probably something we	
-				can do as the Handyman Shop guys.	
+				can do to help out as handymen.	
 0x1b003	0x06	Dorado		ANI_NOD	
-0x1b02a	0x98	Dorado		Yes, right.	
-				It's all right if	
-				you guys pass.	
-0x1b076	0x98	Dorado		But, exercise plenty of caution.	
-				You got that?	
+0x1b02a	0x98	Dorado		Y-Yeah, sure.	
+				Nayuta and Cygna	
+				can go through.	
+0x1b076	0x98	Dorado		But be careful.	
+				Understand?	
 0x1b0cd	0x06	ALTO		ANI_JOY	
-0x1b0f2	0x98	ALTO	#6A	Yes, of course we will.	
+0x1b0f2	0x98	ALTO	#6A	Yes, of course.	
 0x1b1ca	0x06	ALTO		ANI_GESTURE2	
-0x1b1f4	0x98	ALTO		...Is is the case that you'll	
-				remain here for me?	
-0x1b27a	0x98	Lyra	#6A	Yes, understood.	
+0x1b1f4	0x98	ALTO		...So Lyra, can you	
+				wait for us here?	
+0x1b27a	0x98	Lyra	#6A	Yeah, okay.	
 0x1b2c1	0x06	Lyra		ANI_WAIT3	
-0x1b2e8	0x98	Lyra	#6A	If you guys get injured,	
-				return at once, OK!?	
+0x1b2e8	0x98	Lyra	#6A	Neither of you are allowed	
+				to get hurt, got it!?	
 0x1b347	0x06	Signa		ANI_JOY	
-0x1b36d	0x98	Signa		Haha, leave this to us.	
-0x1b3db	0x98	Signa		Alright then. Let's go, Nayuta!	
+0x1b36d	0x98	Signa		Haha, you can leave this to me.	
+0x1b3db	0x98	Signa		All right then, let's go, Nayuta!	
 SB_2_S05_move_ALTO					
 0x1b62c	0x06	ALTO		ANI_WAIT	
 SB_2_S05_exit_Hydol					
 EV_2_S05_meet_hydol					
 0x1b805	0x06	ALTO		ANI_WALK_SLOW	
 0x1ba35	0x3F	Name		Man's Voice	mp_0000 0x17b08
-0x1ba48	0x98	Hydol		Oh...	
-				If it isn't Nayuta.	
+0x1ba48	0x98	Hydol		Oh... If it isn't Nayuta!	
 0x1bab9	0x06	ALTO		ANI_WAIT	
 0x1badf	0x6B	ALTO		Surprise	
 0x1bd13	0x06	ALTO		ANI_OJIGI	
-0x1bd3a	0x98	ALTO	#6A	Ah...Dr. Hydol!	
-				It's been awhile.	
+0x1bd3a	0x98	ALTO	#6A	Ah... Dr. Hydrol!	
+				It's been a while.	
 0x1bd7d	0x06	ALTO		ANI_GOODIDEA	
 0x1bda7	0x98	ALTO	#6A	That's right, you're returning	
 				to the island for us this month.	
 0x1be10	0x06	Hydol		ANI_NOD	
-0x1be36	0x98	Hydol		Yes, the ferryboat just	
-				arrived.	
+0x1be36	0x98	Hydol		Yes, the ferry just arrived.	
 0x1be76	0x06	Hydol		ANI_WAIT4	
-0x1be9e	0x98	Hydol		Wow, though it happens every	
-				month, the half-day boat trip	
-				is great.	
-0x1bf01	0x98	Hydol		Well, I hope it'll	
-				be a calm trip.	
+0x1be9e	0x98	Hydol		Wow, even though I make the trip every	
+				month, that 12-hour boat trip still	
+				takes a lot out of me.	
+0x1bf01	0x98	Hydol		Man, it never gets any easier.	
 0x1bf4b	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x1bf79	0x98	ALTO	#6A	Ahaha...you must be exhausted.	
+0x1bf79	0x98	ALTO	#6A	Ahaha... You must be exhausted.	
 0x1bfba	0x06	ALTO		ANI_THANKS	
 0x1bfe2	0x98	ALTO	#6A	You came all the way from the Saint	
-				Cerize medical clinic just for us...	
+				Cerise Medical Clinic just for us...	
 				You always help everyone a lot.	
 0x1c073	0x06	Hydol		ANI_DENY	
-0x1c09a	0x98	Hydol		No, this is the normal thing	
+0x1c09a	0x98	Hydol		No, this is normal	
 				for us doctors to do.	
 0x1c0f4	0x06	Hydol		ANI_GESTURE2	
-0x1c11f	0x98	Hydol		Speaking of that, I heard you	
-				enrolled at Saint Cerize	
-				academy...	
+0x1c11f	0x98	Hydol		Speaking of which, I heard	
+				you left to enroll in Saint	
+				Cerise Academy...	
 0x1c17f	0x06	Hydol		ANI_WAIT2	
 0x1c1a7	0x98	Hydol		Oh, right, it's summer vacation now.	
 0x1c1f4	0x06	ALTO		ANI_NOD	
@@ -1853,10 +1795,10 @@ EV_2_S05_meet_hydol
 0x1c283	0x6B	ALTO		Ellipsis	
 0x1c2b5	0x6B	Hydol		Question	
 0x1c2e8	0x06	Hydol		ANI_WAIT3	
-0x1c310	0x98	Hydol		Hmm, I don't really get it but...	
+0x1c310	0x98	Hydol		Hmm, I'm not sure why, but...	
 				You seem a little down.	
-0x1c371	0x98	Hydol		I'll be renting this room	
-				for a little while.	
+0x1c371	0x98	Hydol		I'll be renting a room	
+				at the inn for a while.	
 0x1c3be	0x06	Hydol		ANI_GESTURE1	
 0x1c3e9	0x98	Hydol		If you're not feeling well,	
 				come see me immediately.	
@@ -1870,50 +1812,49 @@ SB_4_S07_move_Creha
 SB_4_S07_move_Eida					
 EV_4_S07_creha_scene_1st					
 0x1cbb9	0x98	Creha		...There's lots of people...	
-0x1cc55	0x98	Creha		And, buildings I haven't seen before...	
+0x1cc55	0x98	Creha		And buildings I haven't seen before...	
 0x1cece	0x6B	Eida		Surprise	
 0x1cf1e	0x98	Eida		...Hmm?	
 0x1d1bd	0x6B	Creha		Surprise	
 0x1d254	0x06	Eida		ANI_SURPRISE	
-0x1d27e	0x98	Eida		My, you are a lovely one.	
+0x1d27e	0x98	Eida		My, you're a pretty one.	
 0x1d2b7	0x06	Eida		ANI_GESTURE2	
-0x1d2e1	0x98	Eida		I haven't seen your face before, though...	
-				Could it be that you're on a trip?	
+0x1d2e1	0x98	Eida		I've never seen you before...	
+				Are you here on a trip?	
 0x1d355	0x6B	Creha		Ellipsis	
 0x1d388	0x6B	Creha		Exclamation	
 0x1d3b3	0x06	Creha		ANI_CHAGRINED	
-0x1d3e7	0x98	Creha	#6A#0W	(A girl...	
-				 but different from Eartha.)	
-0x1d45b	0x98	Creha	#6A#0W	(...As for her showing her belly	
-				 button, does it have some meaning?)	
+0x1d3e7	0x98	Creha	#6A#0W	(A girl... But different from Eartha.)	
+0x1d45b	0x98	Creha	#6A#0W	(...Is there a reason she's	
+				 showing her belly button?)	
 0x1d4ce	0x6B	Eida		Question	
 0x1d500	0x06	Eida		ANI_GESTURE1	
-0x1d52a	0x98	Eida		Hello?	
-				Why are you so surprised?	
+0x1d52a	0x98	Eida		Hello? Why do you	
+				seem so surprised?	
 0x1d571	0x6B	Creha		Surprise	
 0x1d5bb	0x98	Creha	#6A	Umm...	
 0x1d5e5	0x06	Creha		ANI_WAIT2	
-0x1d60d	0x98	Creha	#6A	I am homestaying	
+0x1d60d	0x98	Creha	#6A	I am 'staying over'	
 				at Nayuta's house.	
 0x1d65b	0x06	Eida		ANI_NOD	
-0x1d680	0x98	Eida		Wow! Then, you must	
-				be an acquaintance of his	
-				from Saint Cerize.	
+0x1d680	0x98	Eida		Wow! Then you must	
+				be a friend of his	
+				from Saint Cerise.	
 0x1d6de	0x06	Eida		ANI_WAIT3	
-0x1d705	0x98	Eida		Could it be...	
-				That you're his girlfriend?	
+0x1d705	0x98	Eida		Could you be...?	
+				Are you his girlfriend?	
 0x1d756	0x06	Creha		ANI_WAIT4	
-0x1d77e	0x98	Creha	#6A	(What is a girlfriend?)	
+0x1d77e	0x98	Creha	#6A	(What is a 'girlfriend'?)	
 0x1d887	0x06	Eida		ANI_LAUGH	
-0x1d8ae	0x98	Eida	#6A	Hmmhmm, something interesting	
-				came for me today!☆	
+0x1d8ae	0x98	Eida	#6A	Hmm... Something interesting	
+				came to me today! ☆	
 0x1d902	0x06	Eida		ANI_TALK	
-0x1d928	0x98	Eida	#6A	Say, come over to my house.	
-				I'll show you some interesting things	
-				from the city.	
+0x1d928	0x98	Eida	#6A	Hey, come visit over at my place!	
+				I can show you some interesting	
+				things you won't find in the city.	
 0x1d9a1	0x06	Eida		ANI_WAIT	
 0x1d9c7	0x06	Creha		ANI_NOD	
-0x1d9ed	0x98	Creha		O...Okay.	
+0x1d9ed	0x98	Creha		O...okay.	
 0x1da1f	0x06	Eida		ANI_JOY	
-0x1da44	0x98	Eida	#6A	Huhu, it's decided.	
+0x1da44	0x98	Eida	#6A	Heheh, then it's settled.	
 				Follow me.	

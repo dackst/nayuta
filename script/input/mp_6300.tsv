@@ -1,20 +1,19 @@
 mp_6300					
 init					
 talk_Erislet					
-0x75a	0x98	Erislet		Huhu...	
-				I can't believe you are this	
-				strong already.	
-0x7af	0x98	Erislet		These are my feelings...	
-				And, the strength of your	
-				bond may serve you.	
-0x816	0x98	Erislet		If it is you two,	
-				I am sure...	
-0x856	0x98	Erislet		About Kureha and the others...	
+0x75a	0x98	Erislet		Hehe... I never thought	
+				you guys could ever get	
+				so strong.	
+0x7af	0x98	Erislet		Maybe that's what	
+				passion and bonds	
+				are all about, huh?	
+0x816	0x98	Erislet		Perhaps you guys could actually...	
+0x856	0x98	Erislet		Lady Creha and the others...	
 				Please, take care of them.	
-0x8d9	0x98	Erislet		If it is you two who have	
-				become this strong, then	
-				I am sure...	
-0x939	0x98	Erislet		About Kureha and the others...	mp_6300 0x856
+0x8d9	0x98	Erislet		I'm sure that with how	
+				strong you've grown,	
+				you'll be able to...	
+0x939	0x98	Erislet		Lady Creha and the others...	mp_6300 0x856
 				Please, take care of them.	
 boss_demo1					
 0xb2b	0x06	b010		ANI_DEMO2	
@@ -29,149 +28,150 @@ SB_6_S20_appear_NOI
 EV_6_S20_in_bossmap2					
 0x1655	0x06	st		ANI_PATA1	
 0x1881	0x06	ALTO		ANI_LOOK_AROUND	
-0x18ae	0x98	ALTO		This is the interior	
-				of the "Pillar"...	
-0x192c	0x98	ALTO	#6A	It certainly is the	
-				place that supplies the	
-				continent with <Power of Stars>.	
-0x19d1	0x98	NOI		Yeah, exactly right.	
+0x18ae	0x98	ALTO		So this is the interior	
+				of the Pillar...	
+0x192c	0x98	ALTO	#6A	You said this is where the	
+				continent receives its	
+				supply of astral power?	
+0x19d1	0x98	NOI		Yeah, that's right.	
 0x1a04	0x06	NOI		ANI_GESTURE2	
-0x1a2d	0x98	NOI		The <Stellagear> should be	
-				installed in the center of	
-				this place.	
+0x1a2d	0x98	NOI		The Stellagear should be	
+				kept right at the center	
+				of the base.	
 0x1a93	0x06	ALTO		ANI_JOY	
-0x1ab8	0x98	ALTO	#6A	Anyway, let's try looking for it!	
+0x1ab8	0x98	ALTO	#6A	Well, let's find it!	
 EV_6_S25_usi_boss					
 0x1d16	0x06	ALTO		ANI_SIT6	
-0x1fe3	0x98	ALTO	#0W	*pant, pant*...	
-				I can't believe we	
-				fell into a place like this.	
+0x1fe3	0x98	ALTO	#0W	*huff*, *huff*...	
+				I didn't expect to	
+				fall into the floor.	
 0x204b	0x06	NOI		ANI_NOD	
-0x206f	0x98	NOI	#0W	As you'd expected I was	
-				surprised, but...	
+0x206f	0x98	NOI	#0W	That was quite a surprise...	
 0x20b9	0x06	NOI		ANI_GESTURE2	
-0x20e2	0x98	NOI		Anyway, let's search	
-				for the <Stellagear>!	
+0x20e2	0x98	NOI		But we need to focus on	
+				finding the Stellagear!	
 0x215d	0x06	ALTO		ANI_WAIT	
 0x21a6	0x06	ALTO		ANI_NOD	
-0x220d	0x41	None	#1W#2E#029c	──So you have come.#0E	
+0x220d	0x41	None	#1W#2E#029c	...So you came.#0E	
 0x228a	0x6B	ALTO		Exclamation	
 0x231b	0x6B	NOI		Exclamation	
 0x276d	0x06	NOI		ANI_SURPRISE	
-0x2796	0x98	NOI	#6A	E-Elis!?	
-0x2812	0x98	Erislet		I'm sorry but, I've	
-				hidden the <Stellagear>.	
-0x28aa	0x98	Erislet		Leave immediately.	
+0x2796	0x98	NOI	#6A	E-Eris!?	
+0x2812	0x98	Erislet		I'm sorry, but I have	
+				hidden the Stellagear.	
+0x28aa	0x98	Erislet		Please, leave at once.	
 0x2908	0x6B	ALTO		Exclamation	
 0x293a	0x6B	NOI		Exclamation	
 0x296b	0x06	ALTO		ANI_COMPLAIN	
-0x2995	0x98	ALTO	#6A	W-Why!?	
+0x2995	0x98	ALTO	#6A	Wh-Why!?	
 0x2a11	0x06	NOI		ANI_GESTURE1	
-0x2a3a	0x98	NOI	#6A	It can't be...Elis!!	
-0x2ada	0x98	Erislet		...We finally know	
+0x2a3a	0x98	NOI	#6A	Oh, no...	
+				Eris!!	
+0x2ada	0x98	Erislet		...We finally understand	
 				the truth.	
-0x2b5b	0x98	Erislet		The mission of the <Mythos>...	
-				And the true reason for the	
-				existence of <Terra>.	
+0x2b5b	0x98	Erislet		The duty of the Mitos...	
+				And the real reason for	
+				the creation of Terra.	
 0x2bf5	0x06	Erislet		ANI_GESTURE1	
-0x2c43	0x98	Erislet		As a <Warden> of the continents,	
-				I cannot allow you to interfere in	
-				the <Remaking> of Master Kureha and the others.	
+0x2c43	0x98	Erislet		As warden of the continent, I cannot allow	
+				you to interfere in the Recreation planned	
+				by Lady Creha and the others.	
 0x2d00	0x06	NOI		ANI_COMPLAIN	
-0x2d29	0x98	NOI	#6A	...What do you mean, Elis!?	
-0x2d9f	0x98	NOI	#6A	Something like erasing the	
-				surface where Nayuta is...	
+0x2d29	0x98	NOI	#6A	...Stop it, Eris!	
+0x2d9f	0x98	NOI	#6A	Erasing the surface where Nayuta	
+				and all those people live...	
 0x2df5	0x06	NOI		ANI_DENY	
-0x2e1a	0x98	NOI	#6A	We don't want to let Master	
-				Kureha do that!	
+0x2e1a	0x98	NOI	#6A	We can't let Lady	
+				Creha do that!	
 0x2e6e	0x06	ALTO		ANI_JOY	
-0x2e93	0x98	ALTO	#6A	Yeah, we've got to stop her,	
-				no matter what!	
+0x2e93	0x98	ALTO	#6A	Yeah, we have to stop this	
+				thing, no matter what!	
 0x2f54	0x06	Erislet		ANI_DENY	
-0x2f7d	0x98	Erislet		...How naive.	
-0x2fad	0x98	Erislet		Do you think you can stand	
-				in their way with an attitude	
-				like that!?	
-0x3070	0x98	Erislet	#16S	──Don't make me laugh!!	
+0x2f7d	0x98	Erislet		...How sweet.	
+0x2fad	0x98	Erislet		Do you really intend to challenge	
+				them with wishy-washy crap like that!?	
+0x3070	0x98	Erislet	#16S	...Don't make me laugh!!	
 0x312d	0x06	Erislet		ANI_DENY	
 0x3156	0x98	Erislet		...I'm sorry, you two.	
 0x31fa	0x06	Erislet		ANI_GESTURE2	
-0x3227	0x98	Erislet		I've hidden the	
-				<Stellagear>.	
+0x3227	0x98	Erislet		I had to hide	
+				the Stellagear.	
 0x328f	0x06	NOI		ANI_COMPLAIN	
-0x32b8	0x98	NOI	#6A	Elis...You too!?	
-0x332b	0x98	Erislet		...Noi, though you are	
-				a dear friend...	
-0x33be	0x98	Erislet		If it is for Master Kureha,	
-				my heart can be an ogre.	
-0x348f	0x98	Erislet		Even if I have to	
-				be your opponent!	
+0x32b8	0x98	NOI	#6A	Eris... You, too!?	
+0x332b	0x98	Erislet		...Noi, you're my	
+				dear friend, but...	
+0x33be	0x98	Erislet		For the sake of Lady Creha	
+				and the others, I would gladly	
+				become a heartless demon.	
+0x348f	0x98	Erislet		Even if you guys are	
+				to be my opponent!	
 0x34dc	0x06	ALTO		ANI_CHAGRINED	
 0x3507	0x98	ALTO	#6A	Tch...!	
 0x3580	0x06	Erislet		ANI_WAIT	
 0x36b7	0x06	Erislet		ANI_USE_POWER	
-0x38a6	0x98	Erislet	#0W#240x#0y	I'll say this in advance...	
-				Don't expect me to hold back.	
-0x3922	0x98	Erislet	#1W#240x#0y	<Song Maiden> Elislette...	
-				I will give you a melody of frost!	
+0x38a6	0x98	Erislet	#0W#240x#0y	Let me be very clear...	
+				Don't expect me to show	
+				you any mercy, all right?	
+0x3922	0x98	Erislet	#1W#240x#0y	As Song Maiden Erisette...	
+				Listen to my melody of frost!	
 0x4022	0x06	b010		ANI_DEMO1	
 0x41ee	0x06	NOI		ANI_GESTURE1	
-0x4242	0x98	NOI	#1W	I-It's Elis' true form!!	
+0x4242	0x98	NOI	#1W	I-It's Eris' true form!!	
 0x42a1	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
 0x43a0	0x98	ALTO	#0W	...We have no choice but to fight!	
 SB_6_S25_equip_se					
 EV_6_S26_bye_erislet					
 0x47c8	0x06	Erislet		ANI_WAIT	
 0x4cb7	0x06	Erislet		ANI_DENY	
-0x4d38	0x98	Erislet	#4W	Phew...I lost.	
+0x4d38	0x98	Erislet	#4W	Phew... I lost.	
 0x4d74	0x06	Erislet		ANI_GESTURE2	
-0x4df9	0x98	Erislet	#0W	As expected from you two...	
-				You're a pretty good combination.	
+0x4df9	0x98	Erislet	#0W	I should have known, you two...	
+				You make quite a good team.	
 0x4e69	0x06	NOI		ANI_GESTURE1	
-0x4e9a	0x98	NOI	#6A	Elis...	
+0x4e9a	0x98	NOI	#6A	Eris...	
 0x4f2d	0x98	Erislet		I'm sorry, Noi.	
-0x4fa9	0x98	Erislet		To me, Master Kureha	
-				is most important...	
-0x501d	0x98	Erislet		If she desires it,	
-				is what I thought.	
+0x4fa9	0x98	Erislet		What's most important to	
+				me is Lady Creha...	
+0x501d	0x98	Erislet		If she wills it, then	
+				that is what I desire.	
 0x50ae	0x06	Erislet		ANI_GESTURE1	
-0x50db	0x98	Erislet		In the end, your thoughts	
-				were stronger.	
+0x50db	0x98	Erislet		In the end, her	
+				desires become mine.	
 0x512d	0x06	ALTO		ANI_GESTURE2	
-0x5157	0x98	ALTO	#6A	Elislette...	
-0x51ab	0x98	NOI	#6A	...I understand your feelings	
-				so much, it hurts.	
+0x5157	0x98	ALTO	#6A	Erisette...	
+0x51ab	0x98	NOI	#6A	...I know very	
+				well how you feel.	
 0x5234	0x06	NOI		ANI_COMPLAIN	
-0x525d	0x98	NOI	#6A	Even so, we've	
+0x525d	0x98	NOI	#6A	But still, I've	
 				decided to fight!	
 0x529e	0x06	NOI		ANI_GUTSPOSE	
-0x52c7	0x98	NOI	#6A	Something like the surface where	
-				everyone lives being destroyed by Master Kureha...	
-				We absolutely can't let her do that!	
+0x52c7	0x98	NOI	#6A	Letting Lady Creha destroy the	
+				surface where everyone lives...	
+				We can never let that happen!	
 0x5390	0x06	Erislet		ANI_LAUGH	
-0x5404	0x98	Erislet		...Huhu, you've become strong.	
+0x5404	0x98	Erislet		...Hehe, you've grown strong.	
 0x5bfd	0x06	NOI		ANI_TAKE_OUT	
-0x5cd3	0x40	Erislet		That is the <Stellagear> of this place.	
-0x5d1d	0x40	Erislet		Please, take it with you.	
+0x5cd3	0x40	Erislet		Here is the Stellagear.	
+0x5d1d	0x40	Erislet		Please, take it.	
 0x5dbd	0xC1	System		obtained.	mp_0000 0x7558
 0x5f7c	0x06	NOI		ANI_WAIT	
 0x601d	0x06	ALTO		ANI_THANKS	
-0x604d	0x98	ALTO	#6A	Thank you very much,	
-				Elislette.	
+0x604d	0x98	ALTO	#6A	Thank you for this,	
+				Erisette.	
 0x6096	0x06	Erislet		ANI_GESTURE1	
-0x60e4	0x98	Erislet		This ends my turn...	
-				I entrust the rest	
-				to you two.	
+0x60e4	0x98	Erislet		This is the end for me...	
+				I leave everything else	
+				up to you two.	
 0x6138	0x06	Erislet		ANI_NOD	
-0x61fc	0x98	Erislet		Master Kureha...	
-				Please take care of her.	
+0x61fc	0x98	Erislet		Lady Creha...	
+				Please, look after her.	
 0x624f	0x06	NOI		ANI_GUTSPOSE	
 0x6278	0x98	NOI	#6A	Yeah, leave it to us!	mp_0112 0x1e6fb
 0x637b	0x06	NOI		ANI_GESTURE2	
-0x63a4	0x98	NOI	#6A	Anyway with this, we've	
-				gathered all of the <Stellagears>!	
+0x63a4	0x98	NOI	#6A	Anyway, now we've collected	
+				all of the Stellagears!	
 0x640f	0x06	ALTO		ANI_JOY	
-0x6434	0x98	ALTO		Let's go to the <Astrolabe>...	
-				and chase after Kureha and the others!	
+0x6434	0x98	ALTO		Let's go to the Astrolabe...	
+				We have to get to Creha and the others!	
 EV_6_S38_check_bossmap2					
-0x690c	0x40	UNDEF		Elislette is not here.	
+0x690c	0x40	UNDEF		There is no trace of Erisette.	

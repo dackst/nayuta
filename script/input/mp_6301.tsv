@@ -1,22 +1,22 @@
 mp_6301					
 init					
 talk_Algorl					
-0x71e	0x98	Algorl		So those who would	
-				defeat me have appeared...	
-0x76c	0x98	Algorl		Hmph...A long time has passed	
+0x71e	0x98	Algorl		So the time has come for one capable	
+				of standing against me to appear...	
+0x76c	0x98	Algorl		Hmph... A long time has passed	
 				since something like this happened.	
-0x7ce	0x98	Algorl		Now, already you no longer	
-				have need of this place...	
-				Hurry ahead.	
-0x830	0x98	Algorl		From now on, steel yourselves	
-				against the appearance of deceit...	
-				I will watch over you from here.	
-0x8da	0x98	Algorl		Now, already you no longer	mp_6301 0x7ce
-				have need of this place...	
-				Hurry ahead.	
-0x93c	0x98	Algorl		From now on, steel yourselves	mp_6301 0x830
-				against the appearance of deceit...	
-				I will watch over you from here.	
+0x7ce	0x98	Algorl		You have no further	
+				need of this place...	
+				Hurry, onwards.	
+0x830	0x98	Algorl		Show me how you will demonstrate	
+				your courage from now on...	
+				I will be watching.	
+0x8da	0x98	Algorl		You have no further	mp_6301 0x7ce
+				need of this place...	
+				Hurry, onwards.	
+0x93c	0x98	Algorl		Show me how you will demonstrate	mp_6301 0x830
+				your courage from now on...	
+				I will be watching.	
 boss_demo1					
 0xab9	0x06	PLAYER1		ANI_WAIT	
 0xb1e	0x06	PLAYER2		ANI_WAIT	
@@ -43,86 +43,86 @@ SB_6_S21_appear_NOI
 EV_6_S21_in_bossmap3					
 0x1bc3	0x06	st		ANI_PATA1	
 0x1def	0x06	ALTO		ANI_LOOK_AROUND	
-0x1e1c	0x98	ALTO		This is the interior	mp_6300 0x18ae
-				of the "Pillar"...	
-0x1e9a	0x98	ALTO	#6A	It certainly is the	mp_6300 0x192c
-				place that supplies the	
-				continent with <Power of Stars>.	
-0x1f3f	0x98	NOI		Yeah, exactly right.	mp_6300 0x19d1
+0x1e1c	0x98	ALTO		So this is the interior	mp_6300 0x18ae
+				of the Pillar...	
+0x1e9a	0x98	ALTO	#6A	You said this is where the	mp_6300 0x192c
+				continent receives its	
+				supply of astral power?	
+0x1f3f	0x98	NOI		Yeah, that's right.	mp_6300 0x19d1
 0x1f72	0x06	NOI		ANI_GESTURE2	
-0x1f9b	0x98	NOI		The <Stellagear> should be	mp_6300 0x1a2d
-				installed in the center of	
-				this place.	
+0x1f9b	0x98	NOI		The Stellagear should be	mp_6300 0x1a2d
+				kept right at the center	
+				of the base.	
 0x2001	0x06	ALTO		ANI_JOY	
-0x2026	0x98	ALTO	#6A	Anyway, let's try looking for it!	mp_6300 0x1ab8
+0x2026	0x98	ALTO	#6A	Well, let's find it!	mp_6300 0x1ab8
 EV_6_S27_sisi_boss					
-0x258e	0x41	None	#1W#2E#030c	──Stop.#0E	mp_5098 0x2155
+0x258e	0x41	None	#1W#2E#030c	...Stop.#0E	mp_5098 0x2155
 0x25ff	0x6B	ALTO		Exclamation	
 0x264f	0x6B	NOI		Exclamation	
 0x2aa3	0x06	NOI		ANI_SURPRISE	
 0x2acc	0x98	NOI	#6A	Algol!?	
 0x2afd	0x06	Algorl		ANI_NOD	
-0x2b24	0x98	Algorl		Nayuta, and Noi too.	
-0x2b5a	0x98	Algorl		I cannot hand over the	
-				<Stellagear> to you.	
+0x2b24	0x98	Algorl		Nayuta and Noi.	
+0x2b5a	0x98	Algorl		I cannot allow you to	
+				take the Stellagear.	
 0x2ba6	0x06	Algorl		ANI_GESTURE2	
-0x2bd2	0x98	Algorl		You should leave immediately.	
+0x2bd2	0x98	Algorl		Leave at once.	
 0x2c19	0x6B	ALTO		Exclamation	
 0x2c4b	0x6B	NOI		Exclamation	
 0x2c7c	0x06	ALTO		ANI_COMPLAIN	
 0x2ca6	0x98	ALTO	#6A	Why!?	mp_0004c 0x3162
 0x2cd6	0x06	NOI		ANI_GESTURE2	
-0x2cff	0x98	NOI	#6A	I-It can't be!!	
-0x2d4f	0x98	Algorl		...I finally learned the truth.	
-0x2db0	0x98	Algorl		About the mission of the <Mythos>...	
-				And the true reason for the existence	
-				of <Terra>.	
+0x2cff	0x98	NOI	#6A	Oh, no...!!	
+0x2d4f	0x98	Algorl		...We have finally learned the truth.	
+0x2db0	0x98	Algorl		The duty of the Mitos...	
+				And the true reason for	
+				the creation of Terra.	
 0x2e4e	0x06	Algorl		ANI_GESTURE1	
-0x2e7a	0x98	Algorl		As a <Warden> of the continents,	mp_6300 0x2c43
-				I cannot allow you to interfere in	
-				the <Remaking> of Master Kureha and the others.	
+0x2e7a	0x98	Algorl		As warden of the continent, I cannot allow	mp_6300 0x2c43
+				you to interfere in the Recreation planned	
+				by Lady Creha and the others.	
 0x2f15	0x06	NOI		ANI_COMPLAIN	
-0x2f3e	0x98	NOI	#6A	...What do you mean, Algol!?	
-0x2f93	0x98	NOI	#6A	Something like erasing the	mp_6300 0x2d9f
-				surface where Nayuta is...	
+0x2f3e	0x98	NOI	#6A	...Stop it, Algol!	
+0x2f93	0x98	NOI	#6A	Erasing the surface where Nayuta	mp_6300 0x2d9f
+				and all those people live...	
 0x2fe9	0x06	NOI		ANI_DENY	
-0x300e	0x98	NOI	#6A	We don't want to let Master	mp_6300 0x2e1a
-				Kureha do that!	
+0x300e	0x98	NOI	#6A	We can't let Lady	mp_6300 0x2e1a
+				Creha do that!	
 0x3062	0x06	ALTO		ANI_JOY	
-0x3087	0x98	ALTO	#6A	Yeah, we've got to stop her,	mp_6300 0x2e93
-				no matter what!	
+0x3087	0x98	ALTO	#6A	Yeah, we have to stop this	mp_6300 0x2e93
+				thing, no matter what!	
 0x3105	0x06	Algorl		ANI_DENY	
-0x312d	0x98	Algorl		...If you say you will stand in the way	
-				of the <Mythos>' mission with an	
-				attitude like that...	
-0x31e7	0x98	Algorl	#16S	──That is absurd!!	
+0x312d	0x98	Algorl		...So you wish to challenge	
+				the Mitos with that kind	
+				of resolve...	
+0x31e7	0x98	Algorl	#16S	...Ridiculous!!	
 0x3233	0x06	Algorl		ANI_DENY	
-0x325b	0x98	Algorl		You will not go further	
-				than you already have.	
+0x325b	0x98	Algorl		You will go no further.	
 0x32aa	0x06	Algorl		ANI_GESTURE2	
-0x32d6	0x98	Algorl		I cannot hand over the	mp_6301 0x2b5a
-				<Stellagear> to you.	
+0x32d6	0x98	Algorl		I cannot allow you to	mp_6301 0x2b5a
+				take the Stellagear.	
 0x332a	0x06	NOI		ANI_COMPLAIN	
 0x3353	0x98	NOI	#6A	Algol!!	
 				You too!?	
-0x33a4	0x98	Algorl		...The edge is	
-				already drawn.	
-0x3402	0x98	Algorl		Everything is because of	
-				my loyalty to the <Mythos>...	
+0x33a4	0x98	Algorl		...The die has	
+				been cast.	
+0x3402	0x98	Algorl		All is in the name of my	
+				loyalty to the Mitos...	
 0x3481	0x98	Algorl		At the very least,	
-				I will have you get out of my way.	
+				I will make you stand down.	
 0x34df	0x06	ALTO		ANI_DENY	
-0x3505	0x98	ALTO	#6A	....We can't do that.	
+0x3505	0x98	ALTO	#6A	...We can't do that.	
 0x353d	0x06	ALTO		ANI_JOY	
-0x3562	0x98	ALTO	#6A	Because we need	
-				the <Stellagear>!	
+0x3562	0x98	ALTO	#6A	We need to have	
+				the Stellagear!	
 0x35d5	0x06	Algorl		ANI_NOD	
-0x35fc	0x98	Algorl		...Then, I will not forgive you.	
+0x35fc	0x98	Algorl		...Then I will show no mercy.	
 0x368d	0x06	Algorl		ANI_WAIT	
 0x37c3	0x06	Algorl		ANI_USE_POWER	
-0x3914	0x98	Algorl	#1W#240x#0y	<Guardian King> Algol...	
-				Now is the time to show you my essence.	
-0x3996	0x98	Algorl	#6W#240x#0y	Come at me!	
+0x3914	0x98	Algorl	#1W#240x#0y	As the Guardian King Algol...	
+				Allow me to show you the	
+				true extent of my power.	
+0x3996	0x98	Algorl	#6W#240x#0y	Come at me with all your might!	
 0x4155	0x06	b009		ANI_DEMO1	
 0x433d	0x06	NOI		ANI_GESTURE1	
 0x4391	0x98	NOI	#2W	It's Algol's true form...	
@@ -133,57 +133,57 @@ SB_6_S27_equip_se
 EV_6_S28_bye_algorl					
 0x4910	0x06	Algorl		ANI_WAIT	
 0x4fe4	0x06	Algorl		ANI_DENY	
-0x501a	0x98	Algorl		So those who would	mp_6301 0x71e
-				defeat me have appeared...	
+0x501a	0x98	Algorl		So the time has come for one capable	mp_6301 0x71e
+				of standing against me to appear...	
 0x507e	0x98	Algorl	#3W	This too, must be fate.	
 0x50d0	0x06	ALTO		ANI_GESTURE2	
 0x50fa	0x98	ALTO	#6A	Algol...	
-0x5145	0x98	Algorl		You two tested my power...	
-				There are no words for the defeated.	
-0x51c4	0x98	Algorl		...The <Mythos> granted me	
-				power, yet I stand where I	
-				am now.	
+0x5145	0x98	Algorl		You two have truly become a	
+				force to be reckoned with...	
+				There are no words for losers.	
+0x51c4	0x98	Algorl		...Creha and the other Mitos	
+				have yet more power and	
+				determination than I do now.	
 0x5249	0x06	Algorl		ANI_GESTURE1	
-0x5275	0x98	Algorl		If I would question the <Remaking>	
-				I would need even more power	
-				than you two have now.	
+0x5275	0x98	Algorl		If you wish to question the merits	
+				of the Recreation, you will need to	
+				show even more strength and courage.	
 0x52f3	0x06	NOI		ANI_NOD	
-0x5317	0x98	NOI	#6A	...I understand.	mp_5098 0x5e64
+0x5317	0x98	NOI	#6A	...Okay.	mp_5098 0x5e64
 0x5351	0x06	ALTO		ANI_GESTURE1	
-0x537b	0x98	ALTO	#6A	Honestly speaking,	
-				I haven't measured the	
-				<Mythos>' power.	
+0x537b	0x98	ALTO	#6A	To be honest, the power of	
+				the Mitos is immeasurable.	
 0x53ee	0x06	ALTO		ANI_DENY	
-0x5414	0x98	ALTO	#6A	However, we absolutely	
-				cannot lose.	
+0x5414	0x98	ALTO	#6A	But we can't	
+				afford to lose.	
 0x5459	0x06	ALTO		ANI_JOY	
-0x547e	0x98	ALTO	#6A	We'll definitely stop	
-				Cygna and Kureha!	
+0x547e	0x98	ALTO	#6A	We'll stop Cygna and	
+				Creha for sure!	
 0x54cf	0x06	Algorl		ANI_GESTURE2	
 0x54fb	0x98	Algorl		...I have heard your words.	
 0x5d10	0x06	NOI		ANI_TAKE_OUT	
-0x5dee	0x40	Algorl	#0W	The <Jade Stellagear>.	
-				...You should take it with you.	
+0x5dee	0x40	Algorl	#0W	The Jade Stellagear.	
+				...Take it with you.	
 0x5eac	0xC1	System		obtained.	mp_0000 0x7558
 0x6064	0x06	NOI		ANI_WAIT	
 0x6105	0x06	NOI		ANI_NOD	
 0x6129	0x98	NOI	#6A	Thank you, Algol...	
-0x617d	0x98	Algorl		You have defeated me,	
+0x617d	0x98	Algorl		The two of you defeated me,	
 				and that is your spoils.	
-				...That is all.	
-0x6203	0x98	Algorl		From now on, steel yourselves	
-				against the appearance of deceit...	
+				...Nothing more.	
+0x6203	0x98	Algorl		What the future holds from this	
+				point on depends on how well	
+				you demonstrate your courage...	
 0x6265	0x06	Algorl		ANI_NOD	
-0x628c	0x98	Algorl		From this place,	
-				I will watch over you.	
+0x628c	0x98	Algorl		I shall be watching	
+				over you from here.	
 0x62dc	0x06	ALTO		ANI_THANKS	
-0x6304	0x98	ALTO	#6A	Yes...	
-				Leave the rest to us!	
+0x6304	0x98	ALTO	#6A	Yeah... Leave it to us!	
 0x640e	0x06	NOI		ANI_GESTURE2	
-0x6437	0x98	NOI	#6A	Anyway with this, we've	mp_6300 0x63a4
-				gathered all of the <Stellagears>!	
+0x6437	0x98	NOI	#6A	Anyway, now we've collected	mp_6300 0x63a4
+				all of the Stellagears!	
 0x64a2	0x06	ALTO		ANI_JOY	
-0x64c7	0x98	ALTO		Let's go to the <Astrolabe>...	mp_6300 0x6434
-				and chase after Kureha and the others!	
+0x64c7	0x98	ALTO		Let's go to the Astrolabe...	mp_6300 0x6434
+				We have to get to Creha and the others!	
 EV_6_S39_check_bossmap3					
-0x69a7	0x40	UNDEF		Algol is not here.	
+0x69a7	0x40	UNDEF		There is no trace of Algol.	

@@ -1,488 +1,488 @@
 0x14	quest name	Lunch Prep Agent
 0x44	client	Dorado
-0x64	line	I forgot my lunch
-0x98	line	today... I'll be around
-0xcc	line	the plaza. Please have
-0x100	line	someone make it for me!
-0x1a0	line	I'll give the ingredients from
+0x64	line	I forgot my lunch today...
+0x98	line	I'll be around the plaza.
+0xcc	line	Please have someone make it
+0x100	line	for me!
+0x1a0	line	Let's give the ingredients from
 0x1d4	line	Dorado to my sister and have
 0x208	line	her make the lunch box.
 0x23c	line	
-0x2dc	line	I spoke to my sister. She'll
-0x310	line	make the lunch box for me.
+0x2dc	line	Spoke with Eartha. She'll
+0x310	line	make the lunch box.
 0x344	line	
 0x378	line	
 0x418	line	The lunch box is complete!
-0x44c	line	I'll take it to Dorado right
-0x480	line	away.
+0x44c	line	Let's take it to Dorado
+0x480	line	right away.
 0x4b4	line	
-0x504	quest name	Fencing Practice
+0x504	quest name	Sword Practice
 0x534	client	Orvus
 0x554	line	I'm glad you are well. It has
-0x588	line	been awhile and I would like
-0x5bc	line	like to train you two. Please
-0x5f0	line	meet me on the beach together.
-0x690	line	I'll equip my sword and then
-0x6c4	line	speak with master again.
+0x588	line	been some time. I wish to
+0x5bc	line	resume your training. Please
+0x5f0	line	meet me together on the beach.
+0x690	line	Let's equip my sword and
+0x6c4	line	speak with Master again.
 0x6f8	line	
 0x72c	line	
-0x7cc	line	I'll destroy those scarecrows
+0x7cc	line	Let's destroy those scarecrows
 0x800	line	with normal attacks!
 0x834	line	
 0x868	line	
-0x908	line	I'll defeat those monsters
+0x908	line	Let's defeat those monsters
 0x93c	line	while jumping and evading!
 0x970	line	
 0x9a4	line	
 0x9f4	quest name	Vel's Challenge
 0xa24	client	Vel
-0xa44	line	Play with Vel!
-0xa78	line	I've got a nice prize for you!
-0xaac	line	I'm at my home near the
+0xa44	line	Play a game with Vel! There's
+0xa78	line	a nice prize in it for you!
+0xaac	line	I'll be at my house near the
 0xae0	line	harbor!
-0xb80	line	"Second floors are good,
-0xbb4	line	 in a place where everyone
-0xbe8	line	 can see."
-0xc1c	line	That's where it is.
-0xcbc	line	"In the hole through which
-0xcf0	line	 you can see the sky," huh?
-0xd24	line	If it's in the village, then...
+0xb80	line	'A place where you can go
+0xbb4	line	 up stairs and see over 
+0xbe8	line	 everyone's heads.'
+0xc1c	line	Apparently that's all I get.
+0xcbc	line	'Look throught the hole
+0xcf0	line	 peering at the sky'...?
+0xd24	line	In that case...
 0xd58	line	
-0xdf8	line	"The back of the knight," huh?
+0xdf8	line	'The back of the knight'?
 0xe2c	line	It's probably the person
-0xe60	line	wearing that armor.
+0xe60	line	always wearing armor.
 0xe94	line	
-0xf34	line	"Where you set off on a trip"...
-0xf68	line	It's probably under a boat.
-0xf9c	line	I wonder where it is.
-0xfd0	line	
+0xf34	line	'A vehicle for setting off
+0xf68	line	 on a journey'...
+0xf9c	line	It's probably under a boat.
+0xfd0	line	Which boat could it be?
 0x1020	quest name	A Thankful Gift
 0x1050	client	Sculp
 0x1070	line	I want you to pick out a gift
 0x10a4	line	for my wife. I'll be waiting
 0x10d8	line	taking care of the cow, so
-0x110c	line	please lend me your strength!
-0x11ac	line	Sasha of the general store
-0x11e0	line	might know something that's
-0x1214	line	good for a present. I'll speak
+0x110c	line	please lend me your help!
+0x11ac	line	Sasha at the general store
+0x11e0	line	might know of something that's
+0x1214	line	good for a present. Let's speak
 0x1248	line	with her right away.
-0x12e8	line	I'll search for the eternal
-0x131c	line	rose that grows where cherries
-0x1350	line	bloom. It might be on Terra's
-0x1384	line	forest continent.
-0x1424	line	Found an eternal rose.
-0x1458	line	I'll bring it to Sculp!
+0x12e8	line	Look for the Eternal Rose
+0x131c	line	that grows where cherries
+0x1350	line	blossoms fall. It might be on 
+0x1384	line	Terra's Forest Continent.
+0x1424	line	Found an Eternal Rose.
+0x1458	line	Let's bring it to Sculp!
 0x148c	line	
 0x14c0	line	
-0x1510	quest name	Gathering Star Shards
-0x1540	client	Bootie
-0x1560	line	I dropped all the star shards
-0x1594	line	I just collected...
-0x15c8	line	If you have free time,
-0x15fc	line	meet me on the cape!
-0x169c	line	It seems there are nine
-0x16d0	line	star shards in total.
-0x1704	line	I'll help look for them
+0x1510	quest name	Finding Star Shards
+0x1540	client	Boote
+0x1560	line	I just dropped all the star
+0x1594	line	shards I found...
+0x15c8	line	If you have time,
+0x15fc	line	meet me at the cape!
+0x169c	line	It seems like there are
+0x16d0	line	nine star shards in total.
+0x1704	line	Let's help look for them
 0x1738	line	immediately!
-0x1788	quest name	Supreme Fruit Sake
+0x1788	quest name	Fine Fruit Liqueur
 0x17b8	client	Ada
-0x17d8	line	This year, I'm thinking it's
-0x180c	line	time to do the sake soak.
-0x1840	line	If you feel like helping, meet
-0x1874	line	me at the weapon shop.
-0x1914	line	A fruit to soak in sake...
-0x1948	line	Someone at the inn may know
-0x197c	line	something. I'll speak to 
-0x19b0	line	various people.
+0x17d8	line	I'm thinking it's about time
+0x180c	line	I made some fruit liqueur
+0x1840	line	this year. If you want to
+0x1874	line	help, see me at the armory.
+0x1914	line	A fruit to macerate...
+0x1948	line	Someone at the bar might
+0x197c	line	know something. Let's try
+0x19b0	line	asking around.
 0x1a50	line	I obtained a 100-Year Peach
-0x1a84	line	sapling that fruits in summer.
-0x1ab8	line	I wonder if I can raise it
-0x1aec	line	somewhere in <Terra>.
-0x1b8c	line	I tried planting it in spring
-0x1bc0	line	of "Shaded Animal Trail."
-0x1bf4	line	I'll change the season to
+0x1a84	line	Sapling that bears fruit in
+0x1ab8	line	the summer. Maybe I can raise
+0x1aec	line	it somewhere in Terra?
+0x1b8c	line	I tried planting it in the 
+0x1bc0	line	spring of Shaded Animal Trail.
+0x1bf4	line	Let's change the season to
 0x1c28	line	summer and go check on it.
 0x1cc8	line	The 100-Year Peach matured!
-0x1cfc	line	I'll bring it to Ada right
+0x1cfc	line	Let's bring it to Ada right
 0x1d30	line	away.
 0x1d64	line	
-0x1db4	quest name	Medical Exam Aid
-0x1de4	client	Dr. Hydol
-0x1e04	line	I want you to call people
-0x1e38	line	for their medical exams.
-0x1e6c	line	If you are free, please help.
-0x1ea0	line	
-0x1f40	line	I'll let Mrs. Janis of the
-0x1f74	line	Elder's house know about
+0x1db4	quest name	Medical Exam Aide
+0x1de4	client	Dr. Hydrol
+0x1e04	line	I want you to remind people
+0x1e38	line	about their checkups.
+0x1e6c	line	If you are available,
+0x1ea0	line	please come help.
+0x1f40	line	Tell Janis from the
+0x1f74	line	Elder's house about
 0x1fa8	line	her exam.
 0x1fdc	line	
-0x207c	line	I'll let Carina of the
-0x20b0	line	fisherman's house know
-0x20e4	line	about her exam.
+0x207c	line	Tell Carina from the
+0x20b0	line	fisherman's house
+0x20e4	line	about her exam. 
 0x2118	line	
-0x21b8	line	I'll let Bootie of the
-0x21ec	line	farmer's house know
+0x21b8	line	Tell Boote from the
+0x21ec	line	farmer's house
 0x2220	line	about his exam.
 0x2254	line	
-0x22f4	line	I wonder where Bootie went.
-0x2328	line	Sasha of the general store
+0x22f4	line	Where could Boote have gone?
+0x2328	line	Sasha at the general store
 0x235c	line	might know something.
-0x2390	line	
-0x23e0	quest name	Island Products
-0x2410	client	Lychnis Gio
+0x2390	line	 
+0x23e0	quest name	Island Specialties
+0x2410	client	Geo
 0x2430	line	Nayuta, will you listen to
 0x2464	line	my request? I'll be waiting
-0x2498	line	in the sanctum of Oltapia
-0x24cc	line	Temple.
-0x256c	line	Island famous products...
-0x25a0	line	I'll ask Elder Serpent the
-0x25d4	line	details. I'll speak with him
-0x2608	line	right away.
-0x26a8	line	It seems I can find the
-0x26dc	line	"Ruins Rock Salt" on the
+0x2498	line	in the sanctum of the
+0x24cc	line	Oltapia temple.
+0x256c	line	Remnant Island specialties...
+0x25a0	line	Maybe Elder Serpent knows
+0x25d4	line	anything? I'll speak with
+0x2608	line	him right away.
+0x26a8	line	Seems like Ruins Rock Salt
+0x26dc	line	can be found on the
 0x2710	line	Remnant Island Beach.
-0x2744	line	I'll search carefully.
-0x27e4	line	The person whose specialty
-0x2818	line	is local cuisine is someone
+0x2744	line	Let's get a closer look.
+0x27e4	line	The person specializing in
+0x2818	line	local cuisine is someone
 0x284c	line	you wouldn't think of as a
-0x2880	line	chef. ...Just who is it?
-0x2920	line	Collected the famous
-0x2954	line	products. I'll take them
-0x2988	line	to Gio.
+0x2880	line	chef... Who could it be?
+0x2920	line	Collected the specialties.
+0x2954	line	Let's take them to Geo.
+0x2988	line	 
 0x29bc	line	
-0x2a0c	quest name	Tool Repair
+0x2a0c	quest name	Work Repair
 0x2a3c	client	Eartha
 0x2a5c	line	The important tool I use for
-0x2a90	line	my Star Shard observation
-0x2ac4	line	work has broken. I wonder
-0x2af8	line	if you can fix it?
-0x2b98	line	It seems the "Elumi Resin"
-0x2bcc	line	is in "Fall" of the forest
-0x2c00	line	continent. Let's search for
+0x2a90	line	my star shard observation
+0x2ac4	line	work is broken.
+0x2af8	line	Can you fix it?
+0x2b98	line	It seems the Elemi Resin can be
+0x2bcc	line	found in autumn of the Forest
+0x2c00	line	Continent. Let's search for
 0x2c34	line	a tree in a dark place.
-0x2cd4	line	Obtained the "Elumi Resin."
-0x2d08	line	I'll let Eartha know.
+0x2cd4	line	Obtained the Elemi Resin.
+0x2d08	line	Let's tell Eartha.
 0x2d3c	line	
 0x2d70	line	
-0x2dc0	quest name	Spirit's Request
-0x2df0	client	Oltapia Spirit
+0x2dc0	quest name	A Nymph's Request
+0x2df0	client	Oltapia Nymph
 0x2e10	line	？×～△●③〆∴
 0x2e44	line	＊＠↑○×☆～！
 0x2e78	line	
 0x2eac	line	
 0x2f4c	line	It seems a ferocious monster
-0x2f80	line	has appeared. When we're
-0x2fb4	line	ready, let's head to "Winter"
-0x2fe8	line	of "Shaded Animal Trail."
-0x3088	line	Defeated monster, "Bismarck!"
-0x30bc	line	Let's report it immediately.
-0x30f0	line	
+0x2f80	line	has appeared. When ready,
+0x2fb4	line	let's head to winter
+0x2fe8	line	of Shaded Animal Trail.
+0x3088	line	Defeated the monster, 
+0x30bc	line	'Bismarck!'
+0x30f0	line	Let's report back immediately.
 0x3124	line	
 0x3174	quest name	Pigment Supply
 0x31a4	client	Pyxia
-0x31c4	line	My path as an artist is in
-0x31f8	line	an unprecedented pinch!
-0x322c	line	Please, meet me in the
-0x3260	line	plaza!
-0x3300	line	It seems I need red, blue
-0x3334	line	and yellow pigments. It
-0x3368	line	seems I can get them from
-0x339c	line	high mountains, but...
+0x31c4	line	My path to become an artist
+0x31f8	line	is facing an unprecedented
+0x322c	line	hurdle! Please, come meet 
+0x3260	line	me in the plaza!
+0x3300	line	Seems like she needs red,
+0x3334	line	blue, and yellow pigments.
+0x3368	line	Supposedly they can be found
+0x339c	line	from high mountains, but...
 0x343c	line	Managed to get the three
 0x3470	line	pigments. I'll give them
 0x34a4	line	to Pyxia.
 0x34d8	line	
 0x3528	quest name	Extinct Bird
-0x3558	client	Elislette
-0x3578	line	I want your help with
+0x3558	client	Erisette
+0x3578	line	I need your help with
 0x35ac	line	some important work.
 0x35e0	line	I'll be waiting at the
 0x3614	line	sanctum of Rieseweld.
-0x36b4	line	I'll build the "Moon Bird"
-0x36e8	line	nest where it's as cold as
-0x371c	line	possible. I'll find a good
-0x3750	line	spot in winter of Rieseweld.
+0x36b4	line	Build the Moon Bird nest in
+0x36e8	line	an especially cold place.
+0x371c	line	Let's find a good spot in
+0x3750	line	the winter of Rieseweld.
 0x37f0	line	Found a good spot in winter
-0x3824	line	of "Dragon River Cavern."
-0x3858	line	I'll change to summer to
-0x388c	line	promote their growth.
+0x3824	line	of Dragon River Cavern.
+0x3858	line	Let's change to summer
+0x388c	line	so they can hatch.
 0x392c	line	Safely hatched the Moon
-0x3960	line	Bird eggs. I'll go report
-0x3994	line	to Elislette.
+0x3960	line	Bird eggs. Let's go     
+0x3994	line	report to Erisette.
 0x39c8	line	
-0x3a18	quest name	Helping Sister
+0x3a18	quest name	A Clue About Sis
 0x3a48	client	Ursamina
 0x3a68	line	There's something I want
 0x3a9c	line	you to do. I'm waiting at
 0x3ad0	line	the cape on the other side
 0x3b04	line	of the island.
 0x3ba4	line	Reticul should still be
-0x3bd8	line	somewhere in <Terra>.
-0x3c0c	line	I'll borrow the Astrolabe's
-0x3c40	line	power and search for her.
-0x3ce0	line	It seems Reticul is in
-0x3d14	line	Rieseweld. I'll search in
+0x3bd8	line	somewhere in Terra.
+0x3c0c	line	Let's use the Astrolabe's
+0x3c40	line	power to search for her.
+0x3ce0	line	It seems that Reticul is in
+0x3d14	line	Rieseweld. Let's search the
 0x3d48	line	various seasons for her.
 0x3d7c	line	
-0x3e1c	line	It seems I lost sight of
-0x3e50	line	Reticul in "Dragon River
-0x3e84	line	Cavern." I'll hurry and
-0x3eb8	line	search for her.
+0x3e1c	line	Reticul was last seen
+0x3e50	line	in Dragon River Cavern.
+0x3e84	line	Let's keep searching
+0x3eb8	line	for her.
 0x3f58	line	I got a message from
 0x3f8c	line	Reticul. I'll bring it
 0x3fc0	line	to Ursamina.
 0x3ff4	line	
-0x4044	quest name	Spirit's Request
-0x4074	client	Rieseweld Spirit
+0x4044	quest name	A Nymph's Request
+0x4074	client	Rieseweld Nymph
 0x4094	line	＃＆～？♪∠†
 0x40c8	line	※♭△↑×☆～！
 0x40fc	line	
 0x4130	line	
 0x41d0	line	It seems a ferocious monster
 0x4204	line	has appeared. When we're
-0x4238	line	ready, let's head to "Fall"
-0x426c	line	of "Scrying Pool Caves."
-0x430c	line	Defeated monster, "Albion!"
-0x4340	line	Let's report it immediately.
-0x4374	line	
+0x4238	line	ready, let's head to autumn
+0x426c	line	of Scrying Pool Caves.
+0x430c	line	Defeated the monster,
+0x4340	line	'Albion!'
+0x4374	line	Let's report back immediately.
 0x43a8	line	
-0x43f8	quest name	Lost Daughter
+0x43f8	quest name	Missing Daughter
 0x4428	client	Baron Victor
-0x4448	line	My only daughter Equlea
+0x4448	line	My only daughter Equulea
 0x447c	line	has disappeared! 
 0x44b0	line	I am in a room at the inn,
 0x44e4	line	so please come quickly!
-0x4584	line	It seems Equlea was
+0x4584	line	It seems Equulea was
 0x45b8	line	interested in the weapon
 0x45ec	line	shop. I'll ask the people
 0x4620	line	there about it.
-0x46c0	line	It seems Equlea left the
-0x46f4	line	shop to "Look at the
-0x4728	line	fish." I wonder if anyone
-0x475c	line	saw her.
-0x47fc	line	It seems like we missed
-0x4830	line	each other. I'll try
-0x4864	line	asking about it.
-0x4898	line	
+0x46c0	line	It seems Equulea left the
+0x46f4	line	shop to 'watch the fish.'
+0x4728	line	Maybe someone else saw
+0x475c	line	her.
+0x47fc	line	Seems like we just missed
+0x4830	line	each other. Let's try
+0x4864	line	asking around more
+0x4898	line	about her.
 0x4938	line	The result of the fortune-
 0x496c	line	telling was that she's no
 0x49a0	line	longer on the island.
-0x49d4	line	Does this mean...?
+0x49d4	line	What does this mean...?
 0x4a24	quest name	Lost Power
-0x4a54	client	Guardian Algol
+0x4a54	client	Algol
 0x4a74	line	I want you to lend me your
 0x4aa8	line	strength. I wait at the
-0x4adc	line	Heimmel sanctum.
+0x4adc	line	Heimmel temple.
 0x4b10	line	
 0x4bb0	line	Algol's power is in three
-0x4be4	line	light balls scattered across
-0x4c18	line	the origin continent.
+0x4be4	line	light orbs scattered across
+0x4c18	line	the Origin Continent.
 0x4c4c	line	Let's find them all!
-0x4cec	line	According to the color
-0x4d20	line	jewel, we've recovered all
-0x4d54	line	of Algol's power. Let's
+0x4cec	line	We've recovered all of
+0x4d20	line	Algol's power into the 
+0x4d54	line	Colored Jewel. Let's
 0x4d88	line	bring it to him.
-0x4dd8	quest name	Employer Arbitrage
+0x4dd8	quest name	Employer Arbitration
 0x4e08	client	Norma
-0x4e28	line	I want milady and the lady
-0x4e5c	line	of the house to reconcile.
-0x4e90	line	I'm waiting in front of
-0x4ec4	line	the museum.
+0x4e28	line	I want Milady and the
+0x4e5c	line	Mistress to reconcile.
+0x4e90	line	I'll be waiting in front
+0x4ec4	line	of the museum.
 0x4f64	line	I'll try asking Mrs. Camelope
 0x4f98	line	at the inn about her
 0x4fcc	line	disagreement with Sasha.
 0x5000	line	
-0x50a0	line	I'll ask Sasha of the
+0x50a0	line	I'll ask Sasha in the
 0x50d4	line	general store about
 0x5108	line	her disagreement with
 0x513c	line	Mrs. Camelope.
 0x51dc	line	An herb that calms the
-0x5210	line	heart... Gio of Oltapia
-0x5244	line	Temple may know
-0x5278	line	something.
-0x5318	line	If I had a Byakuda tree,
-0x534c	line	something might happen.
-0x5380	line	I'll search for it in summer
-0x53b4	line	of "Wind Cutting Valley."
-0x5454	line	Got the Byakuda tree.
-0x5488	line	I'll bring it to Norma and
+0x5210	line	heart... Geo at the
+0x5244	line	Oltapia temple might
+0x5278	line	know something.
+0x5318	line	If we had a sandalwood tree,
+0x534c	line	I might be able to do something.
+0x5380	line	Let's search for one in summer
+0x53b4	line	of Wind Cutting Valley.
+0x5454	line	Found a sandalwood tree.
+0x5488	line	Let's bring it to Norma and
 0x54bc	line	discuss meeting strategies.
 0x54f0	line	
-0x5540	quest name	Spirit's Request
-0x5570	client	Heimmel Spirit
+0x5540	quest name	A Nymph's Request
+0x5570	client	Heimmel Nymph
 0x5590	line	×□ＴＬ＊√▽
 0x55c4	line	∀∃↑◇☆―！
 0x55f8	line	
 0x562c	line	
 0x56cc	line	It seems a ferocious monster
-0x5700	line	has appeared. When we're
-0x5734	line	ready, let's head to "Spring"
-0x5768	line	of "Sacred Mountain."
-0x5808	line	Defeated monster, "Lindblum!"
-0x583c	line	Let's report it immediately.
-0x5870	line	
+0x5700	line	has appeared. When ready,
+0x5734	line	let's head to the spring
+0x5768	line	of Heavenly Mountain.
+0x5808	line	Defeated the monster, 
+0x583c	line	'Lindworm!'
+0x5870	line	Let's report back immediately.
 0x58a4	line	
-0x58f4	quest name	Finding Spirits
-0x5924	client	Sage Nemeas
-0x5944	line	I am very troubled with
-0x5978	line	regard to my spirits.
+0x58f4	quest name	Where Are the Nymphs?
+0x5924	client	Nemeas
+0x5944	line	I am facing trouble
+0x5978	line	regarding my nymphs.
 0x59ac	line	I wait at the sanctum
 0x59e0	line	in La Worg.
 0x5a80	line	The other wardens may
 0x5ab4	line	know the location of
-0x5ae8	line	the spirits. Let's ask
+0x5ae8	line	the nymphs. Let's ask
 0x5b1c	line	at each temple.
 0x5bbc	line	It seems the presence of
-0x5bf0	line	a spirit is in summer of
-0x5c24	line	"Hermit's Path" in
+0x5bf0	line	a nymph is in the summer
+0x5c24	line	of Hermit's Path in
 0x5c58	line	Oltapia. Let's look there.
 0x5cf8	line	It seems the presence of
-0x5d2c	line	a spirit is in winter of
-0x5d60	line	"Scrying Pool Caves" in
+0x5d2c	line	a nymph is in the winter
+0x5d60	line	of Scrying Pool Caves in
 0x5d94	line	Rieseweld. Let's look there.
 0x5e34	line	It seems the presence of
-0x5e68	line	a spirit is in fall of
-0x5e9c	line	"Wind Cutting Valley" in
+0x5e68	line	a nymph is in the fall
+0x5e9c	line	of Wind Cutting Valley in
 0x5ed0	line	Heimmel. Let's look there.
 0x5f70	line	We were able to find all
-0x5fa4	line	of the spirits safely.
+0x5fa4	line	of the nymphs safely.
 0x5fd8	line	Let's return to Nemeas.
 0x600c	line	
 0x605c	quest name	Search for Heir
-0x608c	client	Mrs. Mensa
-0x60ac	line	I want your help with
-0x60e0	line	my important work.
-0x6114	line	I'm waiting at the inn.
+0x608c	client	Mensa
+0x60ac	line	We need your help with
+0x60e0	line	some important work.
+0x6114	line	We'll be waiting at the inn.
 0x6148	line	
 0x61e8	line	I'm asked to search for the
-0x621c	line	animal Michey which cries,
-0x6250	line	"Mishishi." He should be
+0x621c	line	animal Mishy which cries,
+0x6250	line	'Mishishi.' He should be
 0x6284	line	hiding in the village.
-0x6324	line	Michey ran away. ...I
-0x6358	line	wonder were he ran to.
-0x638c	line	Is there anyone who
-0x63c0	line	saw him?
-0x6460	line	...He ran again. I'll
+0x6324	line	Mishy ran away...
+0x6358	line	Did anyone else see
+0x638c	line	where he ran off to?
+0x63c0	line	 
+0x6460	line	...He ran away again. Let's
 0x6494	line	search for him by asking
-0x64c8	line	people. There might be
-0x64fc	line	people indoors who saw.
-0x659c	line	It seems Michey went to
-0x65d0	line	<Terra>. I wonder where,
-0x6604	line	exactly... Anyway, I'll
-0x6638	line	try searching for him.
-0x66d8	line	It seems Michey is in
-0x670c	line	<La Worg>.
-0x6740	line	I'll try searching in a season
-0x6774	line	where he would come out.
-0x6814	line	Found him in Winter of La
-0x6848	line	Worg! But, he ran into
-0x687c	line	"Ancient Reef." I wonder
+0x64c8	line	around. There might be
+0x64fc	line	someone indoors who saw.
+0x659c	line	It seems Mishy went to
+0x65d0	line	Terra. I wonder where,
+0x6604	line	exactly... Anyway, let's
+0x6638	line	keep looking for him.
+0x66d8	line	Mishy seems to be in
+0x670c	line	La Worg.
+0x6740	line	Let's try looking in a season
+0x6774	line	where he might come out.
+0x6814	line	Found him in the winter of
+0x6848	line	La Worg! But, he ran into
+0x687c	line	Ancient Reef. I wonder
 0x68b0	line	where he's hiding...
-0x6950	line	Found Michey safe.
-0x6984	line	I'll bring him to
+0x6950	line	Found Mishy safely.
+0x6984	line	Let's bring him to
 0x69b8	line	Mrs. Mensa.
 0x69ec	line	
-0x6a3c	quest name	Spirit's Request
-0x6a6c	client	Heimmel Spirit
+0x6a3c	quest name	A Nymph's Request
+0x6a6c	client	La Worg Nymph
 0x6a8c	line	×□ＴＬ＊√▽
 0x6ac0	line	∀∃↑◇☆―！
 0x6af4	line	
 0x6b28	line	
 0x6bc8	line	It seems a ferocious monster
-0x6bfc	line	has appeared. When we're
-0x6c30	line	ready, let's head to "Summer"
-0x6c64	line	of "Hell Crater."
-0x6d04	line	Defeated monster,
-0x6d38	line	"Yakuto Duga!"
-0x6d6c	line	Let's report it
+0x6bfc	line	has appeared. When ready,
+0x6c30	line	let's head to the summer
+0x6c64	line	of Infernal Crater.
+0x6d04	line	Defeated the monster,
+0x6d38	line	'Yak Drudger!'
+0x6d6c	line	Let's report back
 0x6da0	line	immediately.
-0x6df0	quest name	New Menu
+0x6df0	quest name	New Dish Development
 0x6e20	client	Gruz
-0x6e40	line	Especially now, I want to
-0x6e74	line	treat everyone to my new
-0x6ea8	line	menu. I want to borrow
-0x6edc	line	your strength.
+0x6e40	line	In these trying times, I
+0x6e74	line	want to treat everyone to
+0x6ea8	line	my new dish. I need to 
+0x6edc	line	borrow your strength.
 0x6f7c	line	Gruz needs
-0x6fb0	line	3 fresh red meat,
-0x6fe4	line	5 meat from the bone,
-0x7018	line	and 2 olm shell.
-0x7068	quest name	Terra Search
-0x7098	client	Dr. Volans
+0x6fb0	line	3 Fresh Red Meat,
+0x6fe4	line	5 meat From The Bone,
+0x7018	line	and 2 Olm Shells.
+0x7068	quest name	Terra Research
+0x7098	client	Professor Volans
 0x70b8	line	There is something I want
 0x70ec	line	to request of you, Nayuta.
 0x7120	line	Allow me to explain at
 0x7154	line	the museum.
-0x71f4	line	I'll search for clues
+0x71f4	line	Let's search for clues
 0x7228	line	about the destruction
 0x725c	line	of the surface in Star
 0x7290	line	Capital Lexendria.
-0x7330	line	I'll search for tablets in
+0x7330	line	Let's search for tablets in
 0x7364	line	Star Capital Lexendria. We
-0x7398	line	may understand something
-0x73cc	line	about surface destruction.
-0x746c	line	Collected recordings of each
-0x74a0	line	tablet with ancient letters.
-0x74d4	line	I'll check the contents
-0x7508	line	together with Dr. Volans.
-0x7558	quest name	Unopened Box
+0x7398	line	may learn something about the
+0x73cc	line	destruction of the surface.
+0x746c	line	Copied down each tablet
+0x74a0	line	in the ancient script.
+0x74d4	line	Let's check the contents
+0x7508	line	together with Prof. Volans.
+0x7558	quest name	Locked Box
 0x7588	client	Orvus
 0x75a8	line	There is something I need
 0x75dc	line	your help with, Nayuta.
-0x7610	line	I'll be waiting on the
+0x7610	line	I will be waiting on the
 0x7644	line	beach.
-0x76e4	line	On each continent where the
-0x7718	line	wardens were sealed...There
-0x774c	line	may be some clue there.
-0x7780	line	"Each season in order."
+0x76e4	line	Where the wardens were
+0x7718	line	were sealed... There
+0x774c	line	may be some clue in
+0x7780	line	'each season in order.'
 0x7820	line	The locks were finally
-0x7854	line	released. I'll check the
-0x7888	line	contents with Master
+0x7854	line	released. Let's review
+0x7888	line	the contents with Master
 0x78bc	line	Orvus.
-0x790c	quest name	Ancestor Offering
+0x790c	quest name	Ancestral Offering 
 0x793c	client	Elder Serpent
 0x795c	line	I want to entrust you with
 0x7990	line	an important role in the
-0x79c4	line	"Star Festival" that will
-0x79f8	line	be held soon.
-0x7a98	line	I'll ask at Farmer Sculp's
+0x79c4	line	upcoming Star Festival.
+0x79f8	line	 
+0x7a98	line	Ask at the farmer Sculp's
 0x7acc	line	house regarding the
 0x7b00	line	offering.
 0x7b34	line	
-0x7bd4	line	I'll ask at Fisherman
-0x7c08	line	Axe's house regarding
+0x7bd4	line	Ask at the fisherman
+0x7c08	line	Ax's house regarding
 0x7c3c	line	the offering.
 0x7c70	line	
-0x7d10	line	I'll ask Trader Antlia
-0x7d44	line	about his offering of
-0x7d78	line	flowers for "Repose
-0x7dac	line	of the Soul."
-0x7e4c	line	I'll search for pure white
-0x7e80	line	"Fiona Flowers." Perhaps
-0x7eb4	line	they are those flowers I
-0x7ee8	line	see quite often.
+0x7d10	line	Ask the trader Antlia about
+0x7d44	line	his ceremonial flowers
+0x7d78	line	for the offering.
+0x7dac	line	 
+0x7e4c	line	Let's try searching for pure
+0x7e80	line	white Fiona Flowers. Perhaps
+0x7eb4	line	they're those flowers I've
+0x7ee8	line	seen quite often before?
 0x7f88	line	Assembled all the
 0x7fbc	line	offerings. I'll bring
 0x7ff0	line	them to the Elder.
 0x8024	line	
-0x8074	quest name	Crush the 4 Idols
+0x8074	quest name	Crush the Four Idols
 0x80a4	client	Noi
-0x80c4	line	It seems the idols of each
+0x80c4	line	Seems thats the idols of each
 0x80f8	line	continent have revived with
-0x812c	line	strong powers. Let's
-0x8160	line	defeat them together!
+0x812c	line	even stronger powers.
+0x8160	line	Let's defeat them together!
 0x8200	line	Let's defeat the revived
-0x8234	line	idol at Oltapia Temple!
+0x8234	line	idol at the Oltapia temple!
 0x8268	line	
 0x829c	line	
 0x833c	line	Let's defeat the revived
-0x8370	line	idol at Rieseweld Temple!
+0x8370	line	idol at the Rieseweld temple!
 0x83a4	line	
 0x83d8	line	
 0x8478	line	Let's defeat the revived
-0x84ac	line	idol at Heimmel Temple!
+0x84ac	line	idol at the Heimmel temple!
 0x84e0	line	
 0x8514	line	
 0x85b4	line	Let's defeat the revived
-0x85e8	line	idol at La Worg Temple!
+0x85e8	line	idol at the La Worg temple!
 0x861c	line	
 0x8650	line	

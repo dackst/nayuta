@@ -17,8 +17,8 @@ EV_1_S11_move_gear
 0x12b7	0x6B	NOI		Question	
 0x12e8	0x98	NOI	#6A	Huh...?	mp_0003 0x133b2
 0x1434	0x98	ALTO		Noi, what's wrong?	mp_0004 0x6aa2
-0x1481	0x98	NOI	#6A	Yeah, even though the light outside	
-				disappeared, it seems the inside is	
-				moving...	
-0x14f2	0x98	NOI	#6A	It's strange somehow.	
-				I wonder what happened...	
+0x1481	0x98	NOI	#6A	Mmm, the outside light turned	
+				off, but it seems like the	
+				inside one is still on...	
+0x14f2	0x98	NOI	#6A	That's strange.	
+				What does this mean...?	

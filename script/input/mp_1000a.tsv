@@ -9,33 +9,31 @@ tbox
 crystal					
 QS_21_plant_a_seedling					
 0x106a	0x06	ALTO		ANI_THINK2	
-0x1092	0x98	ALTO		(It looks like there's high-quality	
-				 soil around here.)	
-0x10e8	0x98	ALTO		(It looks like I might be able to	
-				 raise the Hundred-Year Peach	
-				 here.)	
+0x1092	0x98	ALTO		(Looks like there's some high	
+				 quality soil around here.)	
+0x10e8	0x98	ALTO		(I might be able to raise	
+				 the 100-Year Peach here.)	
 0x114d	0x6B	NOI		Question	
 0x11ae	0x98	NOI		Nayuta, what's wrong?	
-0x121a	0x98	ALTO	#6A	Noi, is it alright if I try planting	
-				a sapling here?	
+0x121a	0x98	ALTO	#6A	Noi, is it okay if I try planting	
+				this sapling here?	
 0x1270	0x06	NOI		ANI_NOD	
-0x1294	0x98	NOI		Hmm, if it's just that,	
-				I think it should be fine, but...	
+0x1294	0x98	NOI		Hmm, it should be fine,	
+				I think, but...	
 0x12eb	0x06	NOI		ANI_GESTURE1	
 0x1314	0x98	NOI		Just what are you planning?	
 0x134e	0x06	ALTO		ANI_LAUGH	
-0x1375	0x98	ALTO	#6A	Hehe, look forward to that later.	
+0x1375	0x98	ALTO	#6A	Hehe, you'll find out soon enough.	
 0x1491	0x06	ALTO		ANI_SIT6	
-0x1532	0x40	UNDEF		Planted the 100-Year Peach sapling.	
+0x1532	0x40	UNDEF		Planted the 100-Year Peach Sapling.	
 0x15ab	0x06	ALTO		ANI_WAIT	
-0x1617	0x98	ALTO		(I'll try changing the continent's season	
-				 to "Summer" and returning here once	
-				 again.)	
+0x1617	0x98	ALTO		(Let's try changing the season to	
+				 summer and coming back here.)	
 QS_21_LookPoint					
-0x1815	0x40	UNDEF		The 100-Year Peach sapling is planted.	
-0x185c	0x98	ALTO		(I'll change the season to "Summer"	
-				 and return here once more.	
-				 If I do that, then surely...)	
+0x1815	0x40	UNDEF		The 100-Year Peach Sapling is planted.	
+0x185c	0x98	ALTO		(Let's try changing the season to	
+				 summer and coming back here.	
+				 Then, I'm sure...)	
 SB_1_S01_appear_ALTO					
 0x19b6	0x06	ALTO		ANI_TIRED_WALK	
 0x1a18	0x06	ALTO		ANI_TIRED_WAIT	
@@ -43,131 +41,129 @@ SB_1_S01_appear_NOI
 SB_1_S01_appear_Signa					
 EV_1_S01_jungle1_start					
 0x2118	0x06	st		ANI_PATA2	
-0x2324	0x98	ALTO		(pant, pant...)	
-				L-Looks like we made it...?	
+0x2324	0x98	ALTO		*huff*, *huff* I-I think...we're here...?	
 0x2376	0x06	Signa		ANI_WAIT4	
-0x239e	0x98	Signa		Hmmm...	
-				We sure got here in	
-				the blink of an eye.	
-0x2429	0x98	Signa		Hey, are you alright, Nayuta?	
+0x239e	0x98	Signa		Hmmm... We sure got here	
+				in the blink of an eye.	
+0x2429	0x98	Signa		Hey, are you all right, Nayuta?	
 0x24a3	0x06	ALTO		ANI_TIRED_WAIT	
-0x24cf	0x98	ALTO	#6A	Ah, no, I was just a little	
-				surprised by the transporter device...	
-0x2533	0x98	ALTO	#6A	I guess I'm not used to the	
-				sensation of my body being	
-				hurled at super speed by that thing.	
-0x25e7	0x98	NOI	#6A	Geez, humans are so careless...	
-0x265d	0x98	NOI	#6A	...Hey, it looks like	
-				Cygna is relatively OK.	
+0x24cf	0x98	ALTO	#6A	Ah, I'm okay, just a little winded	
+				by the teleporter device...	
+0x2533	0x98	ALTO	#6A	I guess I'm just not used to	
+				the sensation of my body being	
+				hurled around at high speeds.	
+0x25e7	0x98	NOI	#6A	Jeez, humans are so feeble...	
+0x265d	0x98	NOI	#6A	...Hey, but Cygna seems	
+				to be doing fine.	
 0x26e5	0x98	Signa		Oh, yeah.	
 0x270f	0x06	Signa		ANI_WAIT3	
-0x2737	0x98	Signa		It might be because I train daily	
-				in the vigilante corps.	
+0x2737	0x98	Signa		It might be because I train	
+				daily for the city guard.	
 0x2798	0x98	ALTO	#6A	Ahaha, Cygna...	
-				I've got to get used to this quickly too.	
+				I gotta get used	
+				to this soon, too.	
 0x280f	0x06	ALTO		ANI_WAIT4	
-0x2840	0x98	ALTO	#6A	...Anyhow,	
-				This is the <Forest Continent>, huh.	
+0x2840	0x98	ALTO	#6A	...Anyway, so this is the	
+				Forest Continent?	
 0x2899	0x06	ALTO		ANI_WAIT	
 0x28da	0x06	ALTO		ANI_LOOK_AROUND	
-0x2907	0x98	ALTO		The cherry trees are blooming	
-				and it's a very beautiful place.	
-0x2979	0x98	ALTO		It also looks like plants we	
-				haven't seen before are	
-				growing all over the place...	
+0x2907	0x98	ALTO		The cherry trees are in full bloom.	
+				It's a very beautiful place.	
+0x2979	0x98	ALTO		And there's plants I've never seen	
+				before growing everywhere...	
 0x29e9	0x06	ALTO		ANI_THINK2	
-0x2a11	0x98	ALTO		In a place like this, I'd like to	
-				try flower viewing with Eartha	
-				and Lyra maybe...	
-0x2aa6	0x98	NOI	#6A	Beautful is beautiful but...	
-				To me, it's weird.	
+0x2a11	0x98	ALTO		Maybe we should try viewing	
+				the flowers with Eartha	
+				and Lyra sometime...	
+0x2aa6	0x98	NOI	#6A	It IS beautiful, but...	
+				To me, it's also kind of eerie.	
 0x2af6	0x06	ALTO		ANI_WAIT	
 0x2b1c	0x06	Signa		ANI_WAIT0	
 0x2b44	0x06	NOI		ANI_GESTURE1	
-0x2b6d	0x98	NOI	#6A	Normally, there should be a	
-				verdant green forest beneath the	
-				sun's rays in this season.	
-0x2c01	0x98	NOI	#6A	But, due to the <Master Gear>	
-				being stolen, the climate is	
-				going crazy in a big way.	
+0x2b6d	0x98	NOI	#6A	Normally, there should be hot	
+				sun and an ocean of verdant	
+				foliage at this time of year.	
+0x2c01	0x98	NOI	#6A	But since the Master Gear	
+				was stolen, the climate has	
+				been all screwed up.	
 0x2c7d	0x06	ALTO		ANI_GESTURE2	
-0x2ca7	0x98	ALTO		Sudden abnormal weather has	
-				destroyed this ecosystem...	
-				It's not a good situation.	
-0x2d3c	0x98	NOI	#6A	Anyway, we must hurry	
+0x2ca7	0x98	ALTO		Rapid and extreme weather changes	
+				can wreak havoc on the ecosystem...	
+				This isn't good.	
+0x2d3c	0x98	NOI	#6A	Anyway, let's hurry up	
 				and take back the	
-				<Master Gear>...!	
+				Master Gear...!	
 0x2d95	0x06	NOI		ANI_GUTSPOSE	
-0x2dbe	0x98	NOI		Let's depart immediately, you two!	
+0x2dbe	0x98	NOI		Let's go, you two!	
 				Zext should definitely be	
-				further ahead!	
+				further up ahead!	
 0x2e2e	0x06	ALTO		ANI_NOD	
 0x2e53	0x98	ALTO		Yeah!	mp_0001 0x1174e
 0x2e80	0x06	Signa		ANI_JOY	
-0x2ea6	0x98	Signa		It looks like there are monsters here.	
+0x2ea6	0x98	Signa		Looks like there are monsters here.	
 				We should proceed with caution.	
 0x2f5e	0x07	System	#4C	[NOI] has been added to the camp menu.	
 					
 0x2f9b	0x07	System	#4C	Noi has been added to your companions,	
 				and you can now control her.	
 0x2fec	0x07	System	#4C	Noi is a partner who can fight	
-				using magic called "Arts."	
-				Use her well with Nayuta to proceed ahead.	
-0x3315	0x07	System	#4C	Stage clear status is now	
-				displayed on the sub-menu.	
-0x3357	0x07	System	#4C	Additionally, location movement buttons	
-				have been added to the sub-menu.	
+				using magic called 'arts.'	
+				Use her well with Nayuta to continue.	
+0x3315	0x07	System	#4C	Stage Clear status is now	
+				displayed on the submenu.	
+0x3357	0x07	System	#4C	Fast travel has also been	
+				added to the submenu.	
 EV_1_S02_jungle1_end					
 0x3c73	0x06	ALTO		ANI_GESTURE1	
-0x3c9d	0x98	ALTO		That thing over there looks like...	
-				another transporter device.	
+0x3c9d	0x98	ALTO		Right over there...	
+				Looks like another	
+				teleporter device!	
 0x3d03	0x06	NOI		ANI_GESTURE2	
-0x3d2c	0x98	NOI	#6A	If you use that, you	
-				can proceed deeper in.	
+0x3d2c	0x98	NOI	#6A	We can use that to	
+				proceed further inland.	
 0x3df6	0x06	NOI		ANI_THINK	
-0x3e1c	0x98	NOI	#6A	Speaking of Zext...	
-				Where is he planning on going with	
-				the <Master Gear> I wonder...	
+0x3e1c	0x98	NOI	#6A	Zext... Wonder where he's	
+				planning on taking the	
+				Master Gear...	
 0x3f22	0x06	Signa		ANI_WAIT4	
-0x3f4a	0x98	Signa		Anyway, it looks like he's no	
-				longer here. Let's keep	
-				going forward.	
+0x3f4a	0x98	Signa		Anyway, looks like he's not	
+				here anymore. Let's just	
+				keep moving forward.	
 0x3fb5	0x06	NOI		ANI_WAIT	
 0x4029	0x6B	Signa		Surprise	
 0x407b	0x06	Signa		ANI_WAIT	
-0x40bf	0x98	Signa		Oh, right...Nayuta,	
-				I'm giving you this.	
+0x40bf	0x98	Signa		Oh, right... Nayuta, I	
+				was gonna give you this.	
 0x4172	0x06	Signa		ANI_HANDOVER	
 0x419d	0x06	ALTO		ANI_RECEIVE	
 0x41ce	0xC1	System		obtained.	mp_0000 0x7558
-0x4368	0x40	ALTO		Oh, this is...	
-				Isn't this the fencing training	
+0x4368	0x40	ALTO		Oh, that's...? Isn't this	
+				that swordsmanship training	
 				book you use all the time?	
-0x43cf	0x40	ALTO		It's for recording training events	
-				by putting stamps on them...	
-0x4435	0x40	Signa		Yeah, I received it from Master and	
-				I've been using it this whole time.	
-0x449c	0x40	Signa		I think it's about time	
-				I turned it over to you.	
+0x43cf	0x40	ALTO		It's for recording significant	
+				milestones in your training	
+				with seals...	
+0x4435	0x40	Signa		Yeah, I've used it since Master	
+				gave it to me a while back.	
+0x449c	0x40	Signa		I figured it's about time	
+				I passed it down to you.	
 0x455c	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x458b	0x98	ALTO		I-Is that really ok!?	
-				Someone like me	
-				getting this...	
+0x458b	0x98	ALTO		I-Is that really okay!?	
+				Giving this to me...	
 0x45e6	0x06	Signa		ANI_WAIT3	
-0x460e	0x98	Signa		Hey, hey, why are you surprised?	
-				You are Master's pupil too,	
-				and you are natural with a sword.	
-0x468b	0x98	Signa		I've mostly finished my training.	
-				You should use it.	
-				I'm sure you'll find it useful.	
-0x46fe	0x98	Signa		...Nayuta, when you've accumulated training	
-				stamps, you should show them to Master.	
-				He'll give you some training advice, probably.	
+0x460e	0x98	Signa		Oh, come on, why are you so surprised?	
+				You are Master's student too, and you	
+				already have a pretty good feel for swords.	
+0x468b	0x98	Signa		I've pretty much finished the	
+				training in it. You should use	
+				it so it won't go to waste.	
+0x46fe	0x98	Signa		...Nayuta, when you've collected enough	
+				training seals, you should show Master.	
+				He'll probably give you some advice.	
 0x47a7	0x06	ALTO		ANI_NOD	
-0x47cc	0x98	ALTO		Okay, got it.	
-				Well then, thank you	
-				for letting me have this.	
-0x482e	0x98	Signa		Yeah, do your best for me.	
-0x487f	0x98	Signa		Sorry Noi, I lost track of time.	
+0x47cc	0x98	ALTO		Ha, okay then, thanks for	
+				letting me have this.	
+0x482e	0x98	Signa		Yeah, good luck.	
+0x487f	0x98	Signa		Sorry, Noi, I got distracted.	
 				Let's get going!	
 0x48e4	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e

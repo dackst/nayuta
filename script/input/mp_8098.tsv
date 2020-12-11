@@ -17,39 +17,38 @@ EV_8_S11_boss_battle
 0x27a2	0x98	ALTO	#2W	...Ooh...	mp_0001c 0x4b32
 0x27d6	0x06	ALTO		ANI_STAGGER_STAND_UP	
 0x282e	0x06	ALTO		ANI_LOOK_AROUND	
-0x2863	0x98	ALTO		This is, the world inside	
-				the Astrolabe...	
-0x297c	0x98	ALTO		There are giant gears	
-				moving here and there...	
-0x29c9	0x98	ALTO		Surely it reveals	
-				the interior of the Astrolabe.	
+0x2863	0x98	ALTO		Is this... the world	
+				inside the Astrolabe...?	
+0x297c	0x98	ALTO		There are giant	
+				gears everywhere...	
+0x29c9	0x98	ALTO		It's like a glimpse into the	
+				inner workings of the Astrolabe.	
 0x2ae2	0x06	ALTO		ANI_TONTON_SHUE	
-0x2b0f	0x98	ALTO		Though I'm in spirit form right now,	
-				it seems there won't be any problem	
-				moving my body as I have up until now.	
+0x2b0f	0x98	ALTO		Even though I'm not in my physical	
+				body right now, it seems like I	
+				can move around like normal.	
 0x2b9c	0x06	ALTO		ANI_WAIT4	
-0x2be1	0x98	ALTO		I've got to search for Cygna and Kureha immediately...	
+0x2be1	0x98	ALTO		Now, on to finding	
+				Cygna and Creha...	
 0x2c77	0x6B	ALTO		Exclamation	
 0x2cbf	0x06	ALTO		ANI_TENSION_SURPRISE	
-0x2cf9	0x98	ALTO	#16S	W-What is that!?	mp_0002d 0x627c
+0x2cf9	0x98	ALTO	#16S	Wh-What is that!?	mp_0002d 0x627c
 0x2def	0x06	b005		ANI_DEMO0	
-0x3377	0x98	ALTO	#1W#6A	This...	
-				Could it be...an idol!?	
-0x33d1	0x41	None	#3W#2E#6C	One entering the sacred	
-				area, leave at once...#0E	
-0x3472	0x41	None	#2W#2E#6C	Otherwise, you will	
-				be confined in a dark	
-				prison for all eternity...#0E	
-0x3528	0x98	ALTO	#1W#6A	Tch...Cygna and Kureha	
-				were done in by this thing!	
+0x3377	0x98	ALTO	#1W#6A	Is... Is that... an idol!?	
+0x33d1	0x41	None	#3W#2E#6C	O ye who enter this sacred realm,	
+				leave this place at once...#0E	
+0x3472	0x41	None	#2W#2E#6C	Else be cast into an unyielding	
+				prison of eternal darkness...#0E	
+0x3528	0x98	ALTO	#1W#6A	Crap... This is the thing that	
+				defeated Cygna and Creha!	
 0x35a5	0x06	ALTO		ANI_BATTOU2	
 0x35fa	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
-0x366e	0x41	None	#1W#2E#6C	...It seems you will not step aside...	
-0x3705	0x41	None	#2W#2E#6C	I will eliminate you as soon as possible!!#0E	
-0x387b	0x98	ALTO	#0W	Those two lost to this opponent...	
-				And what's more, I don't have Noi	
-				with me now...	
+0x366e	0x41	None	#1W#2E#6C	...It seems that you do not intend to leave...	
+0x3705	0x41	None	#2W#2E#6C	Prepare to be promptly eliminated!!#0E	
+0x387b	0x98	ALTO	#0W	The two of them lost to this...	
+				And I don't have Noi anymore...	
 0x393f	0x06	ALTO		ANI_TENSION_STRONG_DENY	
 0x397c	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
-0x39bc	0x98	ALTO	#0W#16S	...However, there's no way I can lose!!	
+0x39bc	0x98	ALTO	#0W#16S	...But I can't	
+				#16Slet them down!!	
 0x3a58	0x06	ALTO		ANI_WAIT	

@@ -8,90 +8,90 @@
 0xe2	Heliograd Center
 0x102	Heliograd Top
 0x122	Oltapia
-0x142	Animal Trail・春
-0x162	Tree Path Spring
-0x182	Hermit's Path・春
-0x1a2	Animal Trail・夏
-0x1c2	Tree Path Summer
-0x1e2	Hermit's Path・夏
-0x202	Animal Trail・秋
-0x222	Tree Path Autumn
-0x242	Hermit's Path・秋
-0x262	Animal Trail・冬
-0x282	Tree Path Winter
-0x2a2	Hermit's Path・冬
+0x142	Animal Trail/Sp
+0x162	Lake Tree Path/Sp
+0x182	Hermit's Path/Sp
+0x1a2	Animal Trail/Su
+0x1c2	Lake Tree Path/Su
+0x1e2	Hermit's Path/Su
+0x202	Animal Trail/Au
+0x222	Lake Tree Path/Au
+0x242	Hermit's Path/Au
+0x262	Animal Trail/Wi
+0x282	Lake Tree Path/Wi
+0x2a2	Hermit's Path/Wi
 0x2c2	Oltapia Temple
 0x2e2	Oltapia Sanctum
 0x302	Oltapia Sanctum
 0x322	Rieseweld
-0x342	Echoing Caves・春
-0x362	Scrying Pool・春
-0x382	Dragon River・春
-0x3a2	Echoing Caves・夏
-0x3c2	Scrying Pool・夏
-0x3e2	Dragon River・夏
-0x402	Echoing Caves Fall
-0x422	Scrying Pool Fall
-0x442	Dragon River Fall
-0x462	Echoing Caves・冬
-0x482	Scrying Pool・冬
-0x4a2	Dragon River・冬
+0x342	Echoing Caves/Sp
+0x362	Scrying Pool/Sp
+0x382	Dragon River/Sp
+0x3a2	Echoing Caves/Su
+0x3c2	Scrying Pool/Su
+0x3e2	Dragon River/Su
+0x402	Echoing Caves/Au
+0x422	Scrying Pool/Au
+0x442	Dragon River/Au
+0x462	Echoing Caves/Wi
+0x482	Scrying Pool/Wi
+0x4a2	Dragon River/Wi
 0x4c2	Rieseweld Temple
 0x4e2	Rieseweld Sanctum
 0x502	Rieseweld Sanctum
 0x522	Heimmel
-0x542	Wind Valley Spring
-0x562	Dragon Grave・春
-0x582	Holy Mountain・春
-0x5a2	Wind Valley Summer
-0x5c2	Dragon Grave・春
-0x5e2	Holy Mountain・春
-0x602	Wind Valley Fall
-0x622	Dragon Grave Fall
-0x642	Holy Mountain Fall
-0x662	Hidden Grove Fall
-0x682	Wind Valley Winter
-0x6a2	Dragon Grave・冬
-0x6c2	Holy Mountain・冬
-0x6e2	Hidden Grove・冬
+0x542	Wind-Cut Valley/Sp
+0x562	DragonGraveyard/Sp
+0x582	HeavenlyMtn/Sp
+0x5a2	Wind-Cut Valley/Su
+0x5c2	DragonGraveyard/Su
+0x5e2	HeavenlyMtn/Su
+0x602	Wind-Cut Valley/Au
+0x622	DragonGraveyard/Au
+0x642	HeavenlyMtn/Au
+0x662	Hidden Grove
+0x682	Wind-Cut Valley/Wi
+0x6a2	DragonGraveyard/Wi
+0x6c2	HeavenlyMtn/Wi
+0x6e2	Hidden Grove
 0x702	Heimmel Temple
 0x722	Heimmel Sanctum
 0x742	Heimmel Sanctum
 0x762	La Worg
-0x782	Ancient Reef・春
-0x7a2	Pulsing Fault・春
-0x7c2	Crater Spring
-0x7e2	Ancient Reef・春
-0x802	Pulsing Fault・春
-0x822	Crater Summer
-0x842	Ancient Reef・春
-0x862	Pulsing Fault・春
-0x882	Crater Fall
-0x8a2	Ancient Reef・春
-0x8c2	Pulsing Fault・春
-0x8e2	Crater Winter
+0x782	Ancient Reef/Sp
+0x7a2	PulsatingFault/Sp
+0x7c2	Infernal Crater/Sp
+0x7e2	Ancient Reef/Su
+0x802	PulsatingFault/Su
+0x822	Infernal Crater/Su
+0x842	Ancient Reef/Au
+0x862	PulsatingFault/Au
+0x882	Infernal Crater/Au
+0x8a2	Ancient Reef/Wi
+0x8c2	PulsatingFault/Wi
+0x8e2	Infernal Crater/Wi
 0x902	La Worg Temple
 0x922	La Worg Sanctum
 0x942	La Worg Sanctum
 0x962	Star Garden
-0x982	Heliograd Lower
-0x9a2	Heliograd Center
+0x982	Lower Stratum
+0x9a2	Center Stratum
 0x9c2	Under Olt Pillar
-0x9e2	City District Ⅰ
+0x9e2	Urban District Ⅰ
 0xa02	Olt Pillar
 0xa22	Under Riese
-0xa42	City District Ⅱ
+0xa42	Urban District Ⅱ
 0xa62	Riese Pillar
 0xa82	Under Heim
-0xaa2	City District Ⅲ
+0xaa2	Urban District Ⅲ
 0xac2	Heim Pillar
 0xae2	Under Wor
-0xb02	City District Ⅳ
+0xb02	Urban District Ⅳ
 0xb22	Wor Pillar
 0xb42	Stellarium
 0xb62	Astrolabe
 0xb82	Astrolabe
-0xba2	Cradle Area
-0xbc2	Star Core Temple
-0xbe2	Glowing Dust Area
-0xc02	Center Planetarium
+0xba2	Birthing Chamber
+0xbc2	Core Temple
+0xbe2	Shining Shard Area
+0xc02	Planetarium Core

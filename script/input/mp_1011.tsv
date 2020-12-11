@@ -28,22 +28,22 @@ EV_1_S09_vs_seram_after
 0x1ca3	0x06	stop		ANI_OPEN	
 0x1d11	0x06	ALTO		ANI_WAIT	
 0x1e33	0x06	NOI		ANI_WAIT_TIRED	
-0x1e6c	0x98	NOI		(pant, pant...)	
-				With this, we should be	
+0x1e6c	0x98	NOI		*huff*, *huff*...	
+				We should now be	
 				about halfway up.	
 0x1eca	0x06	ALTO		ANI_WIPE_SWEAT	
-0x1ef6	0x98	ALTO		As expected, this is a real pain...	
-0x1f39	0x98	ALTO		(I wonder if Cygna's alright.	
+0x1ef6	0x98	ALTO		As I thought, this is a real pain...	
+0x1f39	0x98	ALTO		(Wonder if Cygna's all right.	
 				 I sure hope he is, but...)	
-0x1fc9	0x98	NOI	#6A	Anyway, it's a little further	
-				to the top floor.	
+0x1fc9	0x98	NOI	#6A	Anyway, it's a little	
+				further to the top.	
 0x2019	0x98	NOI	#6A	Let's hurry and chase Cygna!	
 0x208f	0x06	ALTO		ANI_NOD	
 0x20b4	0x98	ALTO		Yeah!	mp_0001 0x1174e
-0x213b	0x07	System	#4C	※Oltapia Temple is a long stage divided into	
-				  first and second halves.	
-0x2191	0x07	System	#4C	※On stages like this, you can withdraw in the	
-				  middle and resume from the second half.	
-				 (But, you need to have reached the halfway point.)	
+0x213b	0x07	System	#4C	※Oltapia Temple is a long stage	
+				  divided into two halves.	
+0x2191	0x07	System	#4C	※You can exit in the middle of long stages 	
+				  and resume from the second half.	
+				 (The halfway point must be reached first.)	
 0x227b	0x06	ALTO		ANI_WAIT	
 0x2336	0x06	stop		ANI_WAIT	

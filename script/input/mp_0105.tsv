@@ -2,51 +2,50 @@ mp_0105
 init					
 EV_7_S00_in_elevator					
 0x235	0x06	ALTO		ANI_WAIT3	
-0x50f	0x98	ALTO	#0W	Kureha...I wonder if she's all right.	
-0x55f	0x98	NOI	#6A	...For now, all we can do is believe in her.	
-0x5ad	0x98	NOI	#6A	If I think even for an instant that	
-				Zext is Master Kureha's father...	
-				I don't think he'll do anything to hurt her.	
+0x50f	0x98	ALTO	#0W	Creha... Hope she's all right.	
+0x55f	0x98	NOI	#6A	...All we can do is believe in her for now.	
+0x5ad	0x98	NOI	#6A	Zext is supposed to be	
+				Lady Creha's father...	
+				I don't think he'd hurt her.	
 0x647	0x06	ALTO		ANI_THINK2	
-0x66f	0x98	ALTO	#1W	...............	mp_0001 0xc917
+0x66f	0x98	ALTO	#1W	.......	mp_0001 0xc917
 0x6a9	0x6B	NOI		Surprise	
 0x70a	0x98	NOI	#6A	Nayuta...?	
 0x753	0x06	ALTO		ANI_GESTURE2	
-0x77d	0x98	ALTO		No...If I think about it,	
-				I think it's pretty strange.	
-0x7d2	0x98	ALTO		From the start, why did Zext	
-				appear on <Terra> again, I wonder.	
-0x894	0x40	ALTO		Kureha showed us the "Ancient Memories"...	
-0x8de	0x40	ALTO		In that picture, he certainly	
-				should have breathed his last.	
-0x941	0x40	NOI		C-Certainly...	
-0x96e	0x40	NOI		And...I feel that the personality of	
-				the current Zext is too cruel.	
-0x9cf	0x40	NOI		Even though I heard from Master Kureha	
-				that he was a very kind person...	
-0xaa9	0x98	NOI	#6A	But, ever since Master Kureha	
-				followed Zext for the	
-				mission of the <Mythos>...	
-0xb17	0x98	NOI	#6A	There should be no mistake	
-				that he is the real one.	
+0x77d	0x98	ALTO		No... Now that I think about it,	
+				this whole thing with Zext is	
+				pretty suspicious.	
+0x7d2	0x98	ALTO		First of all, how is Zext	
+				here on Terra again?	
+0x894	0x40	ALTO		Creha showed us the Ancient Memory...	
+0x8de	0x40	ALTO		In that image, he should have	
+				already taken his last breath.	
+0x941	0x40	NOI		T-True...	
+0x96e	0x40	NOI		And... I feel that Zext's current	
+				personality is too cruel.	
+0x9cf	0x40	NOI		I heard from Lady Creha that	
+				he was a very kind person...	
+0xaa9	0x98	NOI	#6A	But Lady Creha has been	
+				following Zext for the	
+				mission of the Mitos...	
+0xb17	0x98	NOI	#6A	He's definitely Zext,	
+				I'm sure of it.	
 0xb73	0x06	ALTO		ANI_GESTURE2	
-0xb9d	0x98	ALTO		...Anyway,	
-				It seems all we can do	
-				is check that directly.	
+0xb9d	0x98	ALTO		...Anyway, it seems all we can do	
+				is confront him directly about it.	
 0xbfc	0x06	NOI		ANI_NOD	
 0xc20	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
-0xc85	0x98	NOI	#6A	Deep inside here, there's	
-				a <Planetarium>, a crystallization	
-				of Power of Stars.	
-0xcf4	0x98	NOI	#6A	Zext plans to use it	
-				to execute the <Remaking>...	
+0xc85	0x98	NOI	#6A	Deep inside here, there's the	
+				Planetarium, a crystallization	
+				of astral power.	
+0xcf4	0x98	NOI	#6A	Zext plans to use it to	
+				perform the Recreation...	
 0xd4e	0x06	ALTO		ANI_NOD	
-0xd73	0x98	ALTO		Before then, we'll do whatever	
-				we can to reach him.	
+0xd73	0x98	ALTO		Let's do whatever we can	
+				to get to him before that.	
 0xdc5	0x06	ALTO		ANI_GUTSPOSE	
 0xdef	0x98	ALTO		This is probably the final battle...	
-				Let's brace ourselves and go!	
+				Let's brace ourselves!	
 0xe58	0x06	NOI		ANI_GUTSPOSE	
-0xe81	0x98	NOI	#6A	Yeah...	
-				Let's do this!	
-0x1257	0xCE	Objective		Kureha and Cygna are in the lower stratum. Let's hurry!	
+0xe81	0x98	NOI	#6A	Yeah... Let's do this!	
+0x1257	0xCE	Objective		Creha and Cygna are in the lower stratum. Let's hurry!	

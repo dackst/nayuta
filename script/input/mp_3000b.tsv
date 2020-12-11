@@ -10,19 +10,20 @@ open_door3
 QS_34_pick_up_tree					
 0xcfc	0x06	NOI		ANI_GUTSPOSE	
 0xd25	0x98	NOI	#6A	Ah, this scent...	
-				This is a Byakuda Tree!	
+				It's a sandalwood tree!	
 0xd6f	0x06	NOI		ANI_JOY	
-0xd93	0x98	NOI	#6A	If you use this tree's fragrance,	
-				it has the effect of calming the heart!	
+0xd93	0x98	NOI	#6A	You can create incense out of this	
+				tree to produce a calming effect!	
 0xdfd	0x06	NOI		ANI_WAIT	
 0xe22	0x06	ALTO		ANI_THANKS	
-0xe4a	0x98	ALTO		Thank goodness,	
-				it looks like we found it.	
+0xe4a	0x98	ALTO		Oh, good, guess	
+				we found it then.	
 0xec5	0xC1	System		obtained.	mp_0000 0x7558
 0xfe3	0x06	ALTO		ANI_GESTURE2	
-0x100d	0x98	ALTO		Let's return to Remnant Island	
+0x100d	0x98	ALTO		Let's go back to Remnant Island	
 				and bring this to Norma.	
-0x11f2	0x40	UNDEF		There is a tree with a refreshing scent.	
-0x1255	0x98	ALTO		What is with this thing...?	
-0x1290	0x98	ALTO		Well, it seems unrelated	
-				to our forward progress.	
+0x11f2	0x40	UNDEF		There is a tree that	
+				smells clean and fresh.	
+0x1255	0x98	ALTO		What is this thing...?	mp_1002a 0x1fbb
+0x1290	0x98	ALTO		Well, it doesn't seem to have	mp_1002a 0x1ff4
+				any bearing on our progress.	

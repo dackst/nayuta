@@ -1,340 +1,325 @@
 mp_0002					
 init					
 talk_Aulbath_sub					
-0xc54	0x98	Aulbath		Please give that Star Shard	
+0xc54	0x98	Aulbath		Please give that star shard	
 				to Cygna when he awakens.	
-0xcab	0x98	Aulbath		Even though it will be a happy time...	
-				Don't forget that.	
-0xd06	0x98	Aulbath		And, if you plan to bring him and Kureha	
-				here once again,	
-				I plan to give them a warm welcome.	
-0xd84	0x98	Aulbath		Though it has been a short time,	
-				I work as a substitute for the man	
-				called Zext.	
+0xcab	0x98	Aulbath		Just don't forget during what I'm	
+				sure will be a joyous occasion...	
+0xd06	0x98	Aulbath		And if you were ever to bring him	
+				and Creha here again, I will 	
+				welcome them back with open arms.	
+0xd84	0x98	Aulbath		In the short time we had together,	
+				I could only ever be a temporary	
+				replacement for Zext.	
 0xdf5	0x98	Aulbath		Nayuta, please take care of them.	
-0xe61	0x98	Aulbath		If you plan to bring Cygna and Kureha	
-				here once again, I plan to give them	
-				a warm welcome.	
-0xedc	0x98	Aulbath		Though it has been a short time,	mp_0002 0xd84
-				I work as a substitute for the man	
-				called Zext.	
+0xe61	0x98	Aulbath		If you were to ever bring Cygna and	
+				Creha here again, I will be sure	
+				to welcome them back with open arms.	
+0xedc	0x98	Aulbath		In the short time we had together,	mp_0002 0xd84
+				I could only ever be a temporary	
+				replacement for Zext.	
 0xf4d	0x98	Aulbath		Nayuta, we're counting on you.	
-0xfb4	0x98	ALTO		That's right...I've got to	
-				notify Master.	
+0xfb4	0x98	ALTO		Oh, yeah... I should tell Master.	
 0xffc	0x6B	Aulbath		Question	
-0x1031	0x98	Aulbath		Nayuta, what's wrong.	
-				Somehow, you seem happy, but...	
-0x1088	0x98	ALTO		Yes, the truth is...	
-0x10bc	0x40	UNDEF		Nayuta explained the general	
+0x1031	0x98	Aulbath		Nayuta, what is it?	
+				You look happy for	
+				some reason...	
+0x1088	0x98	ALTO		Yeah, actually...	
+0x10bc	0x40	UNDEF		Nayuta explained the	
 				situation to Orvus.	
 0x1114	0x6B	Aulbath		Ellipsis	
-0x1151	0x98	Aulbath		...Good grief...	
-				That stupid son of mine!	
-0x119c	0x98	Aulbath		Haha, while I was worrying about	
-				you, you were sleeping without	
-				a care in the world.	
-0x1211	0x98	ALTO		Ahahahaha...	
-				I guess that's true.	
+0x1151	0x98	Aulbath		...For crying out loud...	
+				That idiot son of mine!	
+0x119c	0x98	Aulbath		Haha, while I was left here	
+				worrying, you were sleeping	
+				without a care in the world.	
+0x1211	0x98	ALTO		Haha... It's just as you say.	
 0x1251	0x98	Aulbath		...Nayuta, Noi.	
 				Please wake him up.	
-0x1296	0x98	Aulbath		As the parent who raised him...	
-				I must scold him well for his	
-				dishonorable actions up until now.	
-0x1317	0x98	ALTO		Yes, leave it to me!	mp_0000 0xfbcf
+0x1296	0x98	Aulbath		As the father who raised him...	
+				I must discipline him for his	
+				dishonorable conduct.	
+0x1317	0x98	ALTO		Yeah, leave it all to me!	mp_0000 0xfbcf
 0x134b	0x98	NOI		We'll do our best.	
-0x13b6	0x98	Aulbath		The truth is, before long,	
-				I will begin fencing classes	
-				targeted at the children.	
+0x13b6	0x98	Aulbath		In fact, I intend to start	
+				teaching swordsmanship	
+				classes for children soon.	
 0x1428	0x98	Aulbath		Once Cygna is awakened,	
-				I'll have him help me as a means	
-				of repaying his debt to me.	
-0x149d	0x98	Aulbath		Nayuta, Noi.	
-				Please take care of him.	
-0x150c	0x98	Aulbath		Nayuta, Noi.	
-				Please take care of Cygna.	
-0x1555	0x98	Aulbath		As the parent who raised him...	mp_0002 0x1296
-				I must scold him well for his	
-				dishonorable actions up until now.	
-0x160e	0x98	Aulbath		It's been more than one year	
-				since Cygna left. It seems like	
-				only yesterday.	
-0x167b	0x98	Aulbath		Huhu, though he left without saying	
-				goodbye...	
-				He lacked manners to the end.	
+				I will have him help me to repay	
+				everything I've done for him.	
+0x149d	0x98	Aulbath		Nayuta, Noi. Please take care of him.	
+0x150c	0x98	Aulbath		Nayuta, Noi. Please take care of Cygna.	
+0x1555	0x98	Aulbath		As the father who raised him...	mp_0002 0x1296
+				I must discipline him for his	
+				dishonorable conduct.	
+0x160e	0x98	Aulbath		It's been over a year since	
+				Cygna left. It feels like	
+				it was only yesterday.	
+0x167b	0x98	Aulbath		Heh, he left without saying goodbye...	
+				He lacked manners to the very end.	
 0x16e8	0x98	ALTO		Master...	
-0x1711	0x98	Aulbath		...He returned to the place he is from.	
-				I think that is fine.	
-0x1770	0x98	Aulbath		However, his days	
-				as my son were no	
-				lie.	
-0x17b9	0x98	Aulbath		I do not know when it will happen	
-				but, the day when those paths	
-				cross will come...	
-0x182c	0x98	Aulbath		I am looking forward to that day.	
-0x1870	0x98	ALTO		...Yes, that's right.	
-0x18cd	0x98	Aulbath		Cygna's days	
-				as my son were no	
-				lie.	
-0x1911	0x98	Aulbath		The days when those paths	
-				cross will come...	
-				I'm looking forward to it.	
-0x1a17	0x98	Aulbath		...Snow...	
-				Certainly, when I look at	
-				Remnant Island...	
-0x1a6e	0x98	Aulbath		It would be good if this	
-				is not an ill omen...	
-0x1af2	0x98	Aulbath		So she was called Kureha...	
-				Though somehow, she has a	
-				mysterious air about her...	
+0x1711	0x98	Aulbath		...He went back to where he	
+				came from. That is fine by me.	
+0x1770	0x98	Aulbath		However, his days as	
+				my son were no lie.	
+0x17b9	0x98	Aulbath		I do not know when, but	
+				the day will come when	
+				we cross paths again...	
+0x182c	0x98	Aulbath		I look forward to it.	
+0x1870	0x98	ALTO		...Yeah, me too.	
+0x18cd	0x98	Aulbath		Cygna's days as my	
+				son were no lie.	
+0x1911	0x98	Aulbath		One day our paths	
+				will cross again...	
+				I look forward to it.	
+0x1a17	0x98	Aulbath		...Snow...on Remnant Island...	
+0x1a6e	0x98	Aulbath		I pray this is not	
+				an ill omen...	
+0x1af2	0x98	Aulbath		Creha, was it...?	
+				There's something strange	
+				about that young lady...	
 0x1b64	0x98	Aulbath		..................	
-				..................	
 0x1bab	0x6B	ALTO		Question	
-0x1bdd	0x98	Aulbath		Huhu, don't worry about it.	
-				It's not a big deal.	
-0x1c2f	0x98	Aulbath		She is your friend, is she?	
-				You should make her feel welcome.	
-0x1cc8	0x98	Aulbath		Hmm, however, as for	
-				that stupid son of mine...	
-0x1d19	0x98	Aulbath		Why in the world did he...	
-				..................?	
-0x1d69	0x98	ALTO		(As expected, Master	
-				 realizes how unnatural	
-				 she is.)	
-0x1dbd	0x98	ALTO		(I've got to find Cygna soon!)	
-0x1e23	0x98	Aulbath		Hmm, however, as for	mp_0002 0x1cc8
-				that stupid son of mine...	
-0x1e74	0x98	Aulbath		Why in the world did he...	mp_0002 0x1d19
-				..................?	
-0x1efa	0x98	Aulbath		I can't believe that Hell Fever	
-				was repelled...	
-				As you'd expect, I was surprised.	
-0x1f6c	0x98	Aulbath		The rumor is, you supplied that	
+0x1bdd	0x98	Aulbath		Haha, don't worry about it.	
+				It's not a huge concern.	
+0x1c2f	0x98	Aulbath		She's your friend, right?	
+				Make sure she feels welcome.	
+0x1cc8	0x98	Aulbath		Hmm, but as for that	
+				damned son of mine...	
+0x1d19	0x98	Aulbath		...I just have no	
+				idea what to do...	
+0x1d69	0x98	ALTO		(Of course, Master would	
+				 be the one to realize	
+				 that something's wrong.)	
+0x1dbd	0x98	ALTO		(I've gotta find Cygna soon!)	
+0x1e23	0x98	Aulbath		Hmm, but as for that	mp_0002 0x1cc8
+				damned son of mine...	
+0x1e74	0x98	Aulbath		...I just have no	mp_0002 0x1d19
+				idea what to do...	
+0x1efa	0x98	Aulbath		I never would have anticipated someone	
+				recovering from that demonic disease...	
+				I am as shocked as can be.	
+0x1f6c	0x98	Aulbath		The rumor is that you were	
+				the one that supplied that	
 				phantom Yupina Grass...	
 0x1fc5	0x6B	Aulbath		Ellipsis	
-0x1ffa	0x98	ALTO		U-Umm...	
-				(As you'd expect, I wonder	
-				 if I'm suspected...)	
-0x2051	0x98	Aulbath		Huhu, well fine.	
-				For now, I will congratulate	
-				you on her recovery.	
-0x20b4	0x98	Aulbath		Well done, Nayuta.	
-				That is exactly why	
-				you are my son.	
-0x210b	0x98	ALTO		Ahaha...Thank you very much.	
-0x2181	0x98	Aulbath		The rumor is, you supplied that	mp_0002 0x1f6c
+0x1ffa	0x98	ALTO		Well, umm...	
+				(That is pretty	
+				 suspicious, huh?)	
+0x2051	0x98	Aulbath		Heheh, well, I will overlook this	
+				for now. Let us just celebrate	
+				her successful recovery.	
+0x20b4	0x98	Aulbath		Well done, Nayuta, my student.	
+0x210b	0x98	ALTO		Haha... Thank you.	
+0x2181	0x98	Aulbath		The rumor is that you were	mp_0002 0x1f6c
+				the one that supplied that	
 				phantom Yupina Grass...	
-0x21da	0x98	Aulbath		...Huhu, I will not inquire too deeply.	
-				At the very least, Eartha was saved.	
-0x2248	0x98	Aulbath		Well done, Nayuta.	
-				As you would expect,	
-				you are my son.	
-0x22c8	0x98	Aulbath		Well done, Nayuta.	mp_0002 0x2248
-				As you would expect,	
-				you are my son.	
-0x2320	0x98	Aulbath		Now, you should reflect	
-				on your sister's recovery.	
-0x23aa	0x98	Aulbath		It seems Eartha collapsed	
-				due to sudden illness.	
-0x23fc	0x98	Aulbath		Hmm, though I thought	
-				her complexion was good	
-				lately...	
-0x2454	0x98	Aulbath		That girl's heart is strong	
-				and mends your weaknesses.	
-0x24ac	0x98	Aulbath		Nayuta, especially now,	
-				you should support her.	
-0x24fd	0x98	ALTO		Yes!	mp_0001 0xfd91
-0x2549	0x98	Aulbath		That girl's heart is strong	mp_0002 0x2454
-				and mends your weaknesses.	
-0x25a1	0x98	Aulbath		Nayuta, especially now,	mp_0002 0x24ac
-				you should support her.	
-0x2628	0x98	Aulbath		An uproar over Cygna leaving	
-				home has just started.	
-				I hope it is not serious.	
-0x2696	0x98	Aulbath		Rather, since he was a child,	
-				he has been doing this sort of thing,	
-				though it has been awhile since the last time.	
-0x2729	0x98	Aulbath		...However, it has been five years since then...	
-				Time passes quickly, it seems...	
-0x27c4	0x98	Aulbath		...It has been five years since then, huh...	
-				Time passes quickly, it seems...	
-0x2883	0x98	Aulbath		Nayuta, though you returned from the	
-				ruins...	
-				I wonder if anything happened there.	
-0x28f6	0x98	ALTO		Y-Yes.	
-				Neither me nor Cygna	
-				got a single wound.	
-0x2943	0x98	Aulbath		Hmm...then that is good.	
-0x297e	0x98	ALTO		(..It seems I kept Noi a secret,	
-				 and there's no way I can talk about	
-				 the incident at the ruins or <Terra>.)	
-0x2a09	0x98	Aulbath		For a moment, I sensed an	
-				unusual presence in those ruins...	
-				Somehow, it must have been my imagination.	
-0x2a91	0x98	Aulbath		...I too have grown old.	
+0x21da	0x98	Aulbath		...Heheh, I will not pry into it.	
+				Above all, Eartha was saved.	
+0x2248	0x98	Aulbath		Well done, Nayuta, my student.	mp_0002 0x20b4
+0x22c8	0x98	Aulbath		Well done, Nayuta, my student.	mp_0002 0x20b4
+0x2320	0x98	Aulbath		For now, you should celebrate	
+				your sister's recovery.	
+0x23aa	0x98	Aulbath		I hear Eartha has	
+				fallen ill recently.	
+0x23fc	0x98	Aulbath		Hmm, I had thought her	
+				constitution seemed	
+				rather frail lately...	
+0x2454	0x98	Aulbath		She has a strong spirit, but	
+				she has a tendency to hide	
+				her own shortcomings.	
+0x24ac	0x98	Aulbath		Nayuta, it is especially during times 	
+				like this that you should support her.	
+0x24fd	0x98	ALTO		Yes...!	mp_0001 0xfd91
+0x2549	0x98	Aulbath		She has a strong spirit, but	mp_0002 0x2454
+				she has a tendency to hide	
+				her own shortcomings.	
+0x25a1	0x98	Aulbath		Nayuta, it is especially during times 	mp_0002 0x24ac
+				like this that you should support her.	
+0x2628	0x98	Aulbath		This is not the first	
+				time that Cygna has	
+				run away from home.	
+0x2696	0x98	Aulbath		He used to always be doing things like	
+				this as a child, though it has been a	
+				long time since it last happened.	
+0x2729	0x98	Aulbath		...But, it's been five years, huh?	
+				Time flies, it seems...	
+0x27c4	0x98	Aulbath		...It's been five years, huh?	
+				Time flies, it seems...	
+0x2883	0x98	Aulbath		Nayuta, I see you have returned	
+				safely from the ruins...	
+				I trust no one was seriously hurt?	
+0x28f6	0x98	ALTO		Y-Yes. Neither of us	
+				were seriously injured.	
+0x2943	0x98	Aulbath		Hmm... That is good.	
+0x297e	0x98	ALTO		(..It seems that we kept Noi a secret.	
+				 There's no way we can tell him about	
+				 the incident at the ruins or Terra.)	
+0x2a09	0x98	Aulbath		For a moment, I sensed inside	
+				those ruins an unusual presence...	
+				It must have been my imagination.	
+0x2a91	0x98	Aulbath		...I, too, must be getting old.	
 0x2acc	0x6B	ALTO		Sweatdrop	
-0x2afe	0x98	ALTO		(As expected from Master...	
-				 If I'm not real careful, everything	
-				 will be exposed immediately.)	
-0x2bb5	0x98	Aulbath		For a moment, I sensed an	mp_0002 0x2a09
-				unusual presence in those ruins...	
-				Somehow, it must have been my imagination.	
-0x2c3d	0x98	Aulbath		...I too have grown old.	
-				I must train you more.	
-0x2cb6	0x98	Aulbath		Anyhow, if anything happens,	
+0x2afe	0x98	ALTO		(That's Master for you...	
+				 If we're not careful, he's bound	
+				 to find out everything immediately.)	
+0x2bb5	0x98	Aulbath		For a moment, I sensed inside	mp_0002 0x2a09
+				those ruins an unusual presence...	
+				It must have been my imagination.	
+0x2c3d	0x98	Aulbath		...I, too, must be getting old.	
+				I must redouble my training.	
+0x2cb6	0x98	Aulbath		At any rate, if you need anything,	
 				please speak with me immediately.	
 0x2d16	0x98	Aulbath		I will train you anytime.	
-0x2dc0	0x98	Aulbath		Now, now, if Cygna were here,	
-				it would be a little better training.	
-0x2e25	0x98	Aulbath		Although he is in the town's vigilante	
-				corps, his spirit has not much experience.	
-0x2e98	0x98	Aulbath		Before long, I'll need	
-				to personally scold him.	
-0x2f05	0x98	Aulbath		Life is discipline itself...	
+0x2dc0	0x98	Aulbath		For goodness' sake, if Cygna	
+				were here, this would have been	
+				a better training session.	
+0x2e25	0x98	Aulbath		Even though he joined the city guard,	
+				his mind is still in its adolescence.	
+0x2e98	0x98	Aulbath		I must discipline	
+				him for this soon.	
+0x2f05	0x98	Aulbath		Life is about discipline...	
 				Never neglect your training.	
-0x2f60	0x98	Aulbath		Though rest is necessary,	
-				people learn laziness and	
-				go with the flow.	
-0x2fc6	0x98	Aulbath		...I'll need to teach Cygna	
-				that once again.	
-0x303c	0x98	Aulbath		Life is discipline itself...	mp_0002 0x2f05
+0x2f60	0x98	Aulbath		Of course, we must rest, but people	
+				learn to be lazy, and end up just	
+				going through the motions.	
+0x2fc6	0x98	Aulbath		...I shall remind Cygna	
+				of that once again.	
+0x303c	0x98	Aulbath		Life is about discipline...	mp_0002 0x2f05
 				Never neglect your training.	
-0x3097	0x98	Aulbath		...I'll need to teach Cygna	mp_0002 0x2fc6
-				that once again.	
-0x3109	0x98	Aulbath		Use that sword freely, and	
-				show me you can destroy	
-				those scarecrows.	
-0x316e	0x98	Aulbath		Nayuta, if it is you,	
-				you will recover your	
-				intuition immediately.	
-0x322e	0x98	Aulbath		Hmm, it seems you	
-				have equipped a sword.	
-0x3278	0x98	Aulbath		Then, if your heart is ready,	
-				you should call on me again.	
-0x3300	0x07	System	#4C	Please talk to Orvus using □.	
-0x3335	0x98	Aulbath		Good grief. Though I asked	
-				Cygna to come, he skipped	
-				out on training all of a sudden.	
-0x33ab	0x98	Aulbath		Well, fine.	
-				This time, I will watch	
-				you closely, Nayuta.	
+0x3097	0x98	Aulbath		...I shall remind Cygna	mp_0002 0x2fc6
+				of that once again.	
+0x3109	0x98	Aulbath		Use that sword in your hands	
+				to destroy those scarecrows.	
+0x316e	0x98	Aulbath		Nayuta, I am sure you can regain	
+				your instincts soon enough.	
+0x322e	0x98	Aulbath		Hmm, I see you have	
+				equipped your sword.	
+0x3278	0x98	Aulbath		Now, if you are ready,	
+				speak to me once again.	
+0x3300	0x07	System	#4C	Speak to Orvus using the □ button.	
+0x3335	0x98	Aulbath		Oh, bother. Even though I asked	
+				Cygna to come, he suddenly decided	
+				to skip out on training...	
+0x33ab	0x98	Aulbath		Oh, well. I can get a closer	
+				look at you this time, Nayuta.	
 0x3440	0x07	System	#4C	Equip weapons and armor by selecting	
 				[Equip] from the camp menu.	
 0x348e	0x07	System	#4C	Equip Nayuta with a sword,	
 				and push □ button to talk.	
-0x34ee	0x98	Aulbath		That Cygna, I expected he'd run.	
-0x3531	0x98	Aulbath		Hmm, though it's been four months,	
-				It seems you haven't grown...	
-0x3593	0x98	Aulbath		...Nayuta, once you are ready,	
+0x34ee	0x98	Aulbath		That Cygna, still running away.	
+0x3531	0x98	Aulbath		Hmm, it's been four months, but it 	
+				seems he hasn't matured at all...	
+0x3593	0x98	Aulbath		...Nayuta, whenever you are ready,	
 				call on me once again.	
-0x3616	0x07	System	#4C	To begin training, please talk	
-				to Orvus using the □ button.	
+0x3616	0x07	System	#4C	To begin the training session,	
+				talk to Orvus using the □ button.	
 talk_Pyxia					
-0x36a0	0x98	Pyxia		Wawa...	
-				Horolo! It's snow!	
-0x36da	0x98	Pyxia		Falling snow on the island of	
-				everlasting summer! It seems an	
-				amazing inspiration has fallen!	
-0x3756	0x98	Pyxia		I've got to sketch this at once!	
-0x37bf	0x98	Pyxia		Falling snow on the island of	
-				everlasting summer! I've got to	
+0x36a0	0x98	Pyxia		Whoa... Horolo! It's snowing!	
+0x36da	0x98	Pyxia		Falling snow on an isle of	
+				everlasting summer! Looks like	
+				some HUGE inspiration has struck!	
+0x3756	0x98	Pyxia		Gotta sketch this at once!	
+0x37bf	0x98	Pyxia		Falling snow on an island of	
+				everlasting summer! Gotta	
 				sketch this at once...	
-0x3832	0x98	Pyxia		...Eek, my drawing	
-				paper got wet!	
-0x38a9	0x98	Pyxia		Heading for the contest,	
-				I can't decide what to draw.	
-0x38fe	0x98	Pyxia		...That old man over	
-				there has atmosphere.	
-0x3948	0x98	Pyxia		"Master Fencer-Waiting for His	
-				 Old Enemy."	
-0x3993	0x98	Pyxia		...If I were to put a title on it,	
-				it would be like this.	
+0x3832	0x98	Pyxia		...Eek, the paper got wet!	
+0x38a9	0x98	Pyxia		I can't decide what to	
+				paint for the contest.	
+0x38fe	0x98	Pyxia		...See that old geezer over there?	
+				He has a special atmosphere about him.	
+0x3948	0x98	Pyxia		'The Master Swordsman Awaits His Nemesis.'	
+0x3993	0x98	Pyxia		...If I were to give it a title,	
+				it would go something like that.	
 0x39ec	0x6B	ALTO		Sweatdrop	
-0x3a46	0x98	Pyxia		Heading for the contest,	mp_0002 0x38a9
-				I can't decide what to draw.	
-0x3a9b	0x98	Pyxia		That old man over there...	
-				I'll sketch him secretly.	
+0x3a46	0x98	Pyxia		I can't decide what to	mp_0002 0x38a9
+				paint for the contest.	
+0x3a9b	0x98	Pyxia		That old geezer over there...	
+				I'll just sketch him in secret.	
 talk_Horolo					
-0x3b70	0x98	Horolo		Though snow is not rare	
-				on the continent...	
-0x3bbc	0x98	Horolo		As you'd expect, when it falls here,	
-				it has a strange feeling.	
-0x3c1b	0x98	Horolo		Pyxia saved a	
-				painting of it.	
+0x3b70	0x98	Horolo		Snow is not unusual on	
+				the continent, but...	
+0x3bbc	0x98	Horolo		When it falls here, it's	
+				definitely bizarre～!	
+0x3c1b	0x98	Horolo		I'll have to ask Pyxia to preserve	
+				this feeling in the painting.	
 0x3c81	0x98	Horolo		Though the snow is pretty,	
 				when it falls on this island,	
-				it has a strange feeling.	
-0x3cf3	0x98	Horolo		...If it accumulates, I'll make	
-				a snow sculpture.	
-0x3d7b	0x98	Horolo		I too think that man would	
-				make a good model for	
-				a statue, maybe.	
-0x3ddc	0x98	Horolo		Huhu, the hair part would	
-				be pretty difficult though.	
-0x3e32	0x98	ALTO		(A statue of Master huh...	
-				 It seems just placing it would	
-				 be protection against monsters.)	
-0x3ed4	0x98	Horolo		I too think that man would	mp_0002 0x3d7b
-				make a good model for	
-				a statue, maybe.	
-0x3f35	0x98	Horolo		If I asked him, I wonder if I could	
-				make a full-body mould.	
+				it's definitely bizarre～!	
+0x3cf3	0x98	Horolo		...If it sticks, maybe I	
+				can make a snow sculpture.	
+0x3d7b	0x98	Horolo		I think that man would make a	
+				good model for a statue, too～.	
+0x3ddc	0x98	Horolo		Heh, the beard part would	
+				be pretty difficult, though.	
+0x3e32	0x98	ALTO		(A statue of Master...?	
+				 Feels as if just placing it somewhere	
+				 would grant protection from monsters.)	
+0x3ed4	0x98	Horolo		I think that man would make a	mp_0002 0x3d7b
+				good model for a statue, too～.	
+0x3f35	0x98	Horolo		If I asked, I wonder if he'd	
+				let me make a full-body mold.	
 0x3f91	0x6B	ALTO		Sweatdrop	
 talk_Aulbath					
-0x41e5	0x07	System	#4C	If you show Orvus the "Training Book"	
-				you can receive skills or items.	
+0x41e5	0x07	System	#4C	If you show Orvus the Training Book,	
+				you can receive new skills or items.	
 0x42a1	0x36	Choice		Talk	
 0x42cb	0x36	Choice		Show Training Book	
 0x4317	0x36	Choice		Hear Tactics Instruction	
 0x433f	0x36	Choice		Quit	
 check_growth					
-0x44ae	0x98	Aulbath		Oh, it's Nayuta.	
-				That thing you have is...	
-				A training book, is it not?	
-0x4515	0x98	ALTO		Yes, I received it	
-				from Cygna.	
-0x4552	0x98	ALTO		I has been useful in my training.	
-0x4593	0x98	Aulbath		Hmm, is that so...	
-0x45fc	0x98	Aulbath		It seems you've collected the	
-				stamps little by little.	
+0x44ae	0x98	Aulbath		Oh, it's you, Nayuta.	
+				You have... That is a	
+				training book, is it not?	
+0x4515	0x98	ALTO		Yes, Cygna gave it to me earlier.	
+0x4552	0x98	ALTO		He said it would be	
+				useful in my training.	
+0x4593	0x98	Aulbath		Hmm, is that so...?	
+0x45fc	0x98	Aulbath		It seems you've been gradually	
+				collecting all the seals.	
 0x4654	0x98	Aulbath		...Yes, if you collect a few more	
-				stamps, you should be able to	
-				learn a new sword skill.	
-0x46cd	0x98	ALTO		Wha...a skill?	
-0x46fb	0x98	ALTO		Oh, Cygna used them often	
-				when extermination monsters...	
-0x4752	0x98	Aulbath		Mm, when facing formidable foes,	
-				they will be extremely useful.	
-0x47b3	0x98	Aulbath		In time, I plan to teach you the	
-				same skills as Cygna.	
-0x480b	0x98	Aulbath		Nayuta, you are very diligent.	
-				When the time comes, I will train you.	
-0x4872	0x98	ALTO		Ahaha...somehow, I'm happy.	
-0x48ad	0x98	ALTO		Master, please take care of me	
-				when that time comes!	
-0x492c	0x07	System	#4C	If you show Orvus the "Training Book"	mp_0002 0x41e5
-				you can receive skills or items.	
-0x4980	0x07	System	#4C	Speak with Orvus once you've accumulated	
-				a fixed amount of stamps in the training book.	
-0x49f7	0x98	Aulbath		The number of stamps in the training	
-				book show the extent to which you have	
-				tested yourself.	
-0x4a74	0x98	Aulbath		...Let see, if it's this many, then	
-				you should be able to learn	
-				a new skill.	
-0x4ae1	0x98	ALTO		Wha...a skill?	mp_0002 0x46cd
-0x4b0f	0x98	ALTO		Oh, Cygna used them often	mp_0002 0x46fb
-				when extermination monsters...	
-0x4b66	0x98	Aulbath		Mm, when facing formidable foes,	mp_0002 0x4752
-				they will be extremely useful.	
+				seals, you should be able to	
+				learn a new sword technique.	
+0x46cd	0x98	ALTO		Huh...? A sword technique?	
+0x46fb	0x98	ALTO		Oh, yeah, Cygna used them	
+				often to slay monsters...	
+0x4752	0x98	Aulbath		Hmm... They will prove to	
+				be very useful when facing	
+				formidable foes.	
+0x47b3	0x98	Aulbath		In time, I plan to teach you	
+				the same skills as Cygna.	
+0x480b	0x98	Aulbath		Be patient, Nayuta.	
+				When the time comes,	
+				I will teach you.	
+0x4872	0x98	ALTO		Haha... I'm rather	
+				glad to hear that.	
+0x48ad	0x98	ALTO		Until then, Master!	
+0x492c	0x07	System	#4C	If you show Orvus the Training Book,	mp_0002 0x41e5
+				you can receive new skills or items.	
+0x4980	0x07	System	#4C	Speak with Orvus once you've	
+				collected a sufficient number	
+				of seals in the Training Book.	
+0x49f7	0x98	Aulbath		The number of seals in the	
+				Training Book shows how many	
+				challenges you've accomplished.	
+0x4a74	0x98	Aulbath		...Let's see, if you've done this	
+				much, you should be able to learn	
+				a new sword technique.	
+0x4ae1	0x98	ALTO		Huh...? A sword technique?	mp_0002 0x46cd
+0x4b0f	0x98	ALTO		Oh, yeah, Cygna used them	mp_0002 0x46fb
+				often to slay monsters...	
+0x4b66	0x98	Aulbath		Hmm... They will prove to	mp_0002 0x4752
+				be very useful when facing	
+				formidable foes.	
 tuto_Aulbath					
-0x4bf8	0x98	Aulbath		Hmm...You want to hear something?	
+0x4bf8	0x98	Aulbath		Hmm... What do you want to know?	
 0x4c9c	0x36	Choice		About CHAIN	
 0x4cd7	0x36	Choice		About CHAIN②	
 0x4d14	0x36	Choice		About Spinning Cut/Vacuum Blade	
 0x4d5b	0x36	Choice		About Spinning Cut	
 0x4d9d	0x36	Choice		About Down Thrust/Meteor Attack	
 0x4de4	0x36	Choice		About Down Thrust	
-0x4e25	0x36	Choice		About Kamaitachi/Whirlwind	
+0x4e25	0x36	Choice		About Kamaitachi/Divine Wind	
 0x4e67	0x36	Choice		About Kamaitachi	
 0x4ea7	0x36	Choice		About Swallow Return/Fallen Lotus	
 0x4ef0	0x36	Choice		About Swallow Return	
@@ -342,381 +327,363 @@ tuto_Aulbath
 0x4f41	0x36	Choice		About Status Abnormalities	
 0x4f69	0x36	Choice		Quit	mp_0002 0x433f
 0x4fcf	0x98	Aulbath		By continuously landing hits,	
-				you will gain various benefits	
-				by accumulating CHAIN.	
+				you will accumulate CHAIN and	
+				gain various benefits.	
 0x5043	0x98	Aulbath		For example, increased attack power.	
-				If you gain a benefit, it will be very	
-				advantageous for you to continue fighting.	
-0x50da	0x98	Aulbath		However, CHAIN will be	
-				interrupted after a fixed time.	
-				It will also be interrupted if you take damage.	
-0x5161	0x98	Aulbath		To use CHAIN effectively,	
-				you need to cooperate with your allies,	
-				and figure how not to interrupt your attacks.	
-0x5207	0x98	Aulbath		There are stronger benefits	
-				of CHAIN.	
-0x524e	0x98	Aulbath		If CHAIN is 80 or higher, earned experience will increase,	
-				If CHAIN is 100 or higher, all sword attacks will be criticals.	
+				With these benefits, you can very	
+				much turn a fight in your favor.	
+0x50da	0x98	Aulbath		However, CHAIN will be interrupted	
+				after a certain amount of time. It will	
+				also be interrupted after taking damage.	
+0x5161	0x98	Aulbath		To use CHAIN effectively, you will need	
+				to cooperate with your allies to keep	
+				your attacks from being interrupted.	
+0x5207	0x98	Aulbath		There are more powerful	
+				benefits of CHAIN.	
+0x524e	0x98	Aulbath		If CHAIN is 80 or more, the experience	
+				you earn will increase. At 100 or more,	
+				all sword attacks will be critical hits.	
 0x52ea	0x98	Aulbath		Furthermore, if CHAIN is 120 or higher,	
-				you will gain a benefit that steadily restores your stamina.	
-0x5370	0x98	Aulbath		Though it is difficult to accumulate that much,	
-				these benefit should be your ally	
-				in tough battles.	
-0x53f4	0x98	Aulbath		Bear in mind that when you are aiming at something,	
-				aim at it with a positive attitude.	
-0x5483	0x98	Aulbath		If you unleash "Spinning Cut,"	
-				you can hit even 	
-				flying enemies.	
-0x54e4	0x98	Aulbath		You can also launch	
-				small enemies into the sky.	
-				If you master it, it will improve your battles.	
-0x5564	0x98	Aulbath		However, it is impossible to launch	
-				large-build enemies. You should	
-				bear that in mind.	
-0x55fb	0x98	Aulbath		As for the secret technique, "Vacuum Blade," that is	
-				unleashed when CHAIN is 20 or higher, it has even more power.	
-				You should confirm that for yourself in battle.	
-0x56d6	0x98	Aulbath		"Down Thrust" is an attack that grows in strength	
-				with the force of the drop.	
-0x5745	0x98	Aulbath		Its distinguishing feature is that,	
-				of all the sword techniques, it	
-				boasts the highest attack power.	
-0x57ca	0x98	Aulbath		Though it leaves a large gap,	
-				there are many chances to use it.	
-				Please try using it in your own way.	
-0x586f	0x98	Aulbath		As for the secret technique "Meteor Attack" that is unleashed	
-				when CHAIN is 20 or more, it has even more attack power.	
-				You should confirm that for yourself in battle.	
-0x594e	0x98	Aulbath		"Kamaitachi" is unleashing an	
+				you will gradually restore your health.	
+0x5370	0x98	Aulbath		Though it is difficult to accumulate	
+				that much, these benefits can be a	
+				powerful ally in a tough battle.	
+0x53f4	0x98	Aulbath		It is a good idea to keep this in mind,	
+				and to fight actively when possible.	
+0x5483	0x98	Aulbath		If you unleash 'Spinning Cut,'	
+				you can hit flying monsters.	
+0x54e4	0x98	Aulbath		You can also launch smaller monsters into	
+				the air. If you can master it, you can gain	
+				an advantage in your battles.	
+0x5564	0x98	Aulbath		However, it is impossible	
+				to launch larger enemies.	
+				Something to keep in mind.	
+0x55fb	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	
+				more powerful secret technique, 'Vacuum Blade.'	
+				You can confirm its true nature in battle.	
+0x56d6	0x98	Aulbath		'Down Thrust' is an attack that uses the	
+				momentum of a fall to increase its power.	
+0x5745	0x98	Aulbath		Its distinguishing feature is	
+				that, of all the sword techniques,	
+				it boasts the highest power.	
+0x57ca	0x98	Aulbath		Although it can leave a wide opening,	
+				there are many different ways to use it.	
+				You can try finding them out on your own.	
+0x586f	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	
+				more powerful secret technique, 'Meteor Attack.'	
+				You can confirm its true nature in battle.	
+0x594e	0x98	Aulbath		'Kamaitachi' unleashes an	
 				intense stroke of your sword	
 				with a quick step.	
-0x59bc	0x98	Aulbath		This technique with strong sword power	
+0x59bc	0x98	Aulbath		This technique, infused with sword chi,	
 				can damage enemies against which sword	
-				attacks are ineffective.	
-0x5a43	0x98	Aulbath		Additionally, that power extends over a wide range.	
-				The possibility of long-range attacks	
-				is a feature of this technique.	
-0x5afd	0x98	Aulbath		As for the secret technique "Whirlwind" that is unleashed	
-				when CHAIN is 20 or more, it has even more attack power.	
-				You should confirm that for yourself in battle.	
-0x5bd8	0x98	Aulbath		"Swallow Return" is cutting	
-				down all surrounding enemies	
-				in an instant.	
-0x5c40	0x98	Aulbath		It also has the effect of pulling surrounding enemies	
-				towards you. In melee, it exhibits a terrible power.	
-0x5ccc	0x98	Aulbath		Though among the sword techniques it is the	
-				most difficult, if you master it, it will be a strong power.	
-				Do not tire of this, and endeavor to train.	
-0x5da1	0x98	Aulbath		As for the secret technique "Fallen Lotus" that is unleashed	
-				when CHAIN is 20 or more, it has even more attack power.	
-				You should confirm that for yourself in battle.	
-0x5e7f	0x98	Aulbath		Among swords there exist	
-				"One-Handed Swords" and	
-				"Two-Handed Sword."	
-0x5ee4	0x98	Aulbath		One-handed swords are maneuverable	
-				and can unleash quick, successive attacks.	
-				Generally, you can say they are easy to handle.	
-0x5f82	0x98	Aulbath		On the other hand, two-handed swords have high attack power,	
-				and easily bringing down enemies is their characteristic.	
-				However, they leave a large gap and are hard to handle.	
+				attacks are otherwise ineffective.	
+0x5a43	0x98	Aulbath		Additionally, its power lies in its	
+				longer reach. It is possible to attack	
+				from a distance with this technique.	
+0x5afd	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	
+				more powerful secret technique, 'Divine Wind.'	
+				You can confirm its true nature in battle.	
+0x5bd8	0x98	Aulbath		'Swallow Return' can cut down all	
+				surrounding enemies in an instant.	
+0x5c40	0x98	Aulbath		It also has the effect of pulling the enemies	
+				towards you. This is very powerful in melee.	
+0x5ccc	0x98	Aulbath		It is one of the most difficult sword techniques,	
+				but if mastered, it can be a powerful tool.	
+				Never tire, and keep practicing.	
+0x5da1	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	
+				more powerful secret technique, 'Fallen Lotus.'	
+				You can confirm its true nature in battle.	
+0x5e7f	0x98	Aulbath		There exist two types of swords:	
+				One-handed and two-handed swords.	
+0x5ee4	0x98	Aulbath		One-handed swords have great maneuverability, and	
+				are capable of delivering quick, successive attacks.	
+				Generally, they are considered easier to handle.	
+0x5f82	0x98	Aulbath		On the other hand, two-handed swords have higher power,	
+				and easily knock down enemies. However, they leave a	
+				larger opening between attacks and are harder to handle.	
 0x6051	0x98	Aulbath		Each has its advantages and disadvantages...	
-				I cannot say which is superior.	
-				You should choose a sword which is easy for you to use.	
-0x610c	0x98	Aulbath		Among monsters there are those	
-				which can cause various abnormal	
-				statuses.	
-0x6176	0x98	Aulbath		There is "poison" which saps your stamina,	
-				and "paralysis" which substantially lowers	
-				your movement ability...	
-0x6205	0x98	Aulbath		"Freeze" which stops your movements,	
-				and "confuse" which derails your actions.	
-0x6275	0x98	Aulbath		Though with time, all are restored,	
-				there exists equipment which offers	
-				resistance and recovery items.	
+				I cannot say which is superior. Choose a	
+				sword most comfortable for you to use.	
+0x610c	0x98	Aulbath		Some monsters can cause	
+				various status conditions.	
+0x6176	0x98	Aulbath		'Poison' rapidly saps your health, and	
+				'paralysis' greatly slows your movement...	
+0x6205	0x98	Aulbath		'Freezing' can stop your movements.	
+				'Panic' derails your actions.	
+0x6275	0x98	Aulbath		Though all can be reversed with time,	
+				there exists equipment that improves	
+				resistance and status recovery items.	
 0x62fc	0x98	Aulbath		If you are heading to a dangerous	
-				battle, you should get your	
-				preparations in order.	
+				battle, make sure to be prepared.	
 quest_Aulbath					
 0x6442	0x98	Aulbath		According to Noi,	
-				this is written on	
-				the unopened box.	
-0x6499	0x98	Aulbath	#6A	"This box is sealed	
-				 with four locks."	
-0x64e4	0x98	Aulbath	#6A	"If you would release	
-				 them, offer up this box	
-				 as the seasons change"...	
-0x6551	0x98	Aulbath		If it is you, Nayuta, you may have	
-				some idea where in <Terra> that is.	
-0x6676	0x98	Aulbath		Use that sword freely, and	mp_0002 0x3109
-				show me you can destroy	
-				those scarecrows.	
-0x66db	0x98	Aulbath		If you think destroying	
-				the scarecrows with a wooden	
-				sword is difficult...	
-0x6746	0x98	Aulbath		Nayuta, if it is you,	mp_0002 0x316e
-				you will recover your	
-				intuition immediately.	
-0x6844	0x98	Aulbath		Hmm, it seems your equipment	
-				is still not prepared.	
-0x6899	0x98	Aulbath		Nayuta, equip yourself with a sword	
-				and call on me again.	
+				the Locked Box reads:	
+0x6499	0x98	Aulbath	#6A	'This box is sealed	
+				 with four locks.'	
+0x64e4	0x98	Aulbath	#6A	'If you wish to release the locks,	
+				 offer up this box in order of the seasons,	
+				 with them changed as they should be...'	
+0x6551	0x98	Aulbath		Maybe you have some idea	
+				where in Terra to take it.	
+0x6676	0x98	Aulbath		Use that sword in your hands	mp_0002 0x3109
+				to destroy those scarecrows.	
+0x66db	0x98	Aulbath		It will be difficult to destroy the	
+				scarecrows with a wooden sword, but...	
+0x6746	0x98	Aulbath		Nayuta, I am sure you can regain	mp_0002 0x316e
+				your instincts soon enough.	
+0x6844	0x98	Aulbath		Hmm, it seems that you	
+				are still not ready.	
+0x6899	0x98	Aulbath		Nayuta, call me again once	
+				you have equipped your sword.	
 0x6928	0x07	System	#4C	Equip weapons and armor by selecting	mp_0002 0x3440
 				[Equip] from the camp menu.	
-0x6976	0x07	System	#4C	Please equip Nayuta with a sword.	
+0x6976	0x07	System	#4C	Then equip Nayuta with a sword.	
 QS_02_quest_start					
 0x6ad9	0x06	Aulbath		ANI_WAIT4	
-0x6ba5	0x98	Aulbath		I wanted to see if you two	
-				could do this job together...	
-				Well, this isn't really work.	
-0x6c1c	0x98	Aulbath		I want to begin the training immediately.	
+0x6ba5	0x98	Aulbath		I wanted to see the two of	
+				you together for this...	
+				Well, I guess it is no problem.	
+0x6c1c	0x98	Aulbath		I would like to begin immediately.	
 				Nayuta, are you ready?	
-0x6e78	0x98	Aulbath	#2W	Endless ocean and infinite waves.	
-0x6ecd	0x98	Aulbath	#1W	However, there is nothing	
-				whose appearance is unchanging.	
-				All things always flow.	
-0x705b	0x98	Aulbath	#1W	...It's been awhile, Nayuta.	
+0x6e78	0x98	Aulbath	#2W	There are infinite waves	
+				in the vast blue sea.	
+0x6ecd	0x98	Aulbath	#1W	However, none of them can	
+				ever stop and stay the same.	
+				Everything is always changing.	
+0x705b	0x98	Aulbath	#1W	...It has been some time, Nayuta.	
 0x70cd	0x06	ALTO		ANI_OJIGI	
-0x7102	0x98	ALTO	#0W#6A	It has been a long time, Master Orvus!	
-0x7164	0x98	Aulbath		Hmph...It seems you've become	
+0x7102	0x98	ALTO	#0W#6A	It has been a while, Master Orvus!	
+0x7164	0x98	Aulbath		Hmph... You look to have become	
 				a little stronger while away.	
-0x71dc	0x98	Aulbath		Hmph...You have good eyes as	
-				always. It seems you've seen the	
-				outside world and grown.	
+0x71dc	0x98	Aulbath		Hmmm... You have good eyes,	
+				as always. It seems you've grown	
+				after seeing the outside world.	
 0x7253	0x06	Aulbath		ANI_WAIT2	
-0x727d	0x98	Aulbath		However...Where is Cygna?	
-				I asked for both of you to come.	
+0x727d	0x98	Aulbath		However... where is Cygna? I asked	
+				for the two of you to come together.	
 0x72d9	0x6B	ALTO		Unknown	
 0x730b	0x06	ALTO		ANI_GESTURE2	
-0x7335	0x98	ALTO	#6A	Uumm...it seems he's a	
-				little busy right now...	
-0x7386	0x98	Aulbath		...He sure is a troublemaker.	
+0x7335	0x98	ALTO	#6A	Umm... He's a little	
+				busy right now, so...	
+0x7386	0x98	Aulbath		...Oh, what a troublemaker.	
 0x73c6	0x06	Aulbath		ANI_DENY	
-0x73ef	0x98	Aulbath		Good grief, he hasn't changed at all.	
+0x73ef	0x98	Aulbath		My goodness, he hasn't changed at all.	
 0x7437	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x7465	0x98	ALTO	#6A	Ahaha...	
-				(It look like he's been exposed.)	
+0x7465	0x98	ALTO	#6A	Hahaha...	
+				(I guess it's pretty	
+				 obvious now.)	
 0x74b1	0x06	ALTO		ANI_GESTURE1	
-0x74db	0x98	ALTO	#6A	Um, you were talking	
-				about today's training	
-				for us.	
-0x752f	0x98	Aulbath		Yes, if possible, I want to see	
-				if you two could do it together	
-				though...	
+0x74db	0x98	ALTO	#6A	Um, you said you wanted	
+				to train us today?	
+0x752f	0x98	Aulbath		Yes, but I would have liked to see	
+				both of you together, though...	
 0x7599	0x06	Aulbath		ANI_WAIT4	
-0x75c3	0x98	Aulbath		Well, nothing can be done about that.	
-				This time, just you will be fine.	
-0x762c	0x98	Aulbath		I want to begin immediately...	
-				are you ready?	
-0x76bb	0x36	Choice		[Take the Training]	
-0x76dc	0x36	Choice		[Don't Take the Training]	
+0x75c3	0x98	Aulbath		Well, it can't be helped.	
+				Just you will be fine for now.	
+0x762c	0x98	Aulbath		I wish to begin immediately...	
+				Are you ready?	
+0x76bb	0x36	Choice		[Take the Training Lesson]	
+0x76dc	0x36	Choice		[Don't Take the Training Lesson]	
 0x7792	0x06	ALTO		ANI_THANKS	
-0x77ba	0x98	ALTO	#6A	I'm sorry, my heart	
-				is not yet ready...	
+0x77ba	0x98	ALTO	#6A	Sorry, I'm not ready yet...	
 0x7803	0x06	Aulbath		ANI_WAIT0	
-0x782d	0x98	Aulbath		Hmph, well then,	
-				I'll wait here.	
+0x782d	0x98	Aulbath		Hmph, then I will wait here.	
 0x786f	0x98	Aulbath		Once you are ready,	
-				call on me again.	
+				talk to me again.	
 QS_02_ALTO_moveA					
 QS_02_normal_attack					
 0x79f0	0x06	ALTO		ANI_THANKS	
-0x7a18	0x98	ALTO	#6A	Yes! I'm in your care!	
+0x7a18	0x98	ALTO	#6A	Yes, sir!	
 0x7a51	0x06	Aulbath		ANI_NOD	
-0x7a79	0x98	Aulbath		Hmph, a good reply.	
-0x7ac9	0x98	Aulbath		But, before that...	
+0x7a79	0x98	Aulbath		Hmm, good answer.	
+0x7ac9	0x98	Aulbath		But first...	
 				Take this.	
 0x7b3a	0x06	Aulbath		ANI_HANDOVER	
 0x7b6f	0xC1	System		obtained.	mp_0000 0x7558
 0x7c04	0x06	ALTO		ANI_HOLD	
-0x7c93	0x98	ALTO	#6A	I used this during my	
-				entire time on the island...	
+0x7c93	0x98	ALTO	#6A	I used to use this all the	
+				time here on the Island...	
 0x7ce7	0x06	Aulbath		ANI_WAIT0	
-0x7d11	0x98	Aulbath		Mm, I've taken care of it	
-				ever since you left.	
-0x7d61	0x98	Aulbath		Different from Cygna's vigilante corps,	
-				you'd have hardly any reason to use a	
-				sword at the academy.	
-0x7de5	0x98	Aulbath		Coming back to the matter at hand,	
-				today, I want to once again train	
-				you in the sword.	
-0x7e75	0x98	ALTO	#6A	Yes, thank you very much!	
-0x7ebb	0x98	Aulbath		Though you've trained many times before now,	
-				today, I want to once again train you	
-				in the sword.	
-0x7f3c	0x98	ALTO	#6A	Yes!	mp_0001 0xfd91
-0x7f99	0x07	System	#3C	Quest [Fencing Training] Started!	
-0x7fd7	0x98	Aulbath		Now, before we get into it,	
-				I'll have you equip that sword.	
-0x8034	0x98	Aulbath		Once you've made your preparations,	
-				speak with me again.	
+0x7d11	0x98	Aulbath		Mm, I've taken care of	
+				it ever since you left.	
+0x7d61	0x98	Aulbath		Unlike Cygna's position in the city guard,	
+				you would have hardly had a reason to use	
+				a sword at the academy.	
+0x7de5	0x98	Aulbath		I want you to train with	
+				that sword as you once did.	
+0x7e75	0x98	ALTO	#6A	Yes, sir!	
+0x7ebb	0x98	Aulbath		Though you've had lots of practice in the past,	
+				today, I want you to try to go back to your	
+				roots and start from the beginning.	
+0x7f3c	0x98	ALTO	#6A	Yes...!	mp_0001 0xfd91
+0x7f99	0x07	System	#3C	Quest [Sword Practice] started!	
+0x7fd7	0x98	Aulbath		Now, before we start, you will	
+				need to equip your sword.	
+0x8034	0x98	Aulbath		Once you are ready,	
+				speak to me again.	
 0x80f2	0x06	Aulbath		ANI_WAIT0	
 0x820b	0x07	System	#4C	Equip weapons and armor by selecting	mp_0002 0x3440
 				[Equip] from the camp menu.	
-0x8259	0x07	System	#4C	Please equip Nayuta with a sword.	mp_0002 0x6976
+0x8259	0x07	System	#4C	Then equip Nayuta with a sword.	mp_0002 0x6976
 QS_02_normal_attack2					
 0x8393	0x06	ALTO		ANI_WAIT	
 0x841a	0x06	Aulbath		ANI_WAIT0	
-0x8564	0x98	Aulbath		Alright, let's begin the training.	
-0x85a9	0x98	Aulbath		Here I've prepared some	
-				training dummies.	
-0x85f4	0x98	Aulbath		Use that sword freely and	
-				show me you can destroy them.	
+0x8564	0x98	Aulbath		All right, let's begin the lesson.	
+0x85a9	0x98	Aulbath		Here, I've prepared some	
+				scarecrows as training dummies.	
+0x85f4	0x98	Aulbath		Feel free to use that sword	
+				and destroy them all.	
 0x864d	0x06	ALTO		ANI_NOD	
 0x8672	0x98	ALTO		Yes!!	
-0x86cb	0x07	System	#4C	Press ○ to perform	
-				normal attacks.	
+0x86cb	0x07	System	#4C	Press ○ to perform a normal	
+				attack with a weapon.	
 0x86fc	0x07	System	#4C	If you push the button repeatedly,	
-				you can unleash a chain of at most	
+				you can unleash a combo of up to	
 				four attacks.	
 QS_02_dead_countA					
 QS_02_jump_avoid					
 0x8a76	0x06	ALTO		ANI_PLEASE_WAIT_LOOP	
 0x8afd	0x06	Aulbath		ANI_WAIT2	
-0x8bd1	0x98	ALTO	#6A	(pant... pant...)	
-				S-somehow, I destroyed them.	
-0x8c21	0x98	Aulbath		...As expected, you have good muscles.	
-				Though you were away from the sword for	
-				awhile, it seems it comes back quickly.	
-0x8cb8	0x98	Aulbath		Though Cygna is a natural at	
-				the sword, you never	
-				fell behind him.	
+0x8bd1	0x98	ALTO	#6A	*huff*...*huff*...	
+				I-I managed to destroy them.	
+0x8c21	0x98	Aulbath		...You still have good muscles. Though you	
+				have been away from the sword for a while,	
+				your instincts seem to return quickly.	
+0x8cb8	0x98	Aulbath		Cygna is a natural at the sword, but...	
+				You never fell too far behind, huh?	
 0x8d34	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x8d62	0x98	ALTO	#6A	A-Ahaha...	
-				That's excessive flattery, Master.	
-0x8db1	0x98	ALTO	#6A	Cygna's sword is a real one.	
-				Someone like me could never	
-				stand up to it.	
+0x8d62	0x98	ALTO	#6A	H-Haha... You flatter me, Master.	
+0x8db1	0x98	ALTO	#6A	Cygna's swordsmanship	
+				is the real deal. I	
+				could never match him.	
 0x8e1a	0x06	ALTO		ANI_DENY	
-0x8e40	0x98	ALTO	#6A	He's helped me out of	
-				dangerous situations many	
-				times...	
+0x8e40	0x98	ALTO	#6A	He's rescued me out of	
+				dangerous situations	
+				so many times...	
 0x8e99	0x06	Aulbath		ANI_WAIT0	
-0x8ec3	0x98	Aulbath		Hmph...	
-0x8eed	0x98	Aulbath		(Maybe a training method	
-				 without so much restraint	
-				 would be good.)	
+0x8ec3	0x98	Aulbath		Hmmm...	
+0x8eed	0x98	Aulbath		(Perhaps he needs more training	
+				 to get past these reservations.)	
 0x8f52	0x6B	ALTO		Question	
 0x8f84	0x06	Aulbath		ANI_WAIT4	
-0x8fae	0x98	Aulbath		No, nevermind.	
+0x8fae	0x98	Aulbath		No, it's nothing.	
 0x8fdf	0x98	Aulbath		No matter how you look at it,	
 				you are more suited to the way	
 				of the scholar than the sword.	
 0x905b	0x06	Aulbath		ANI_GESTURE2	
 0x9088	0x98	Aulbath		In order to search for	
-				<Lost Heaven>.	
+				Lost Heaven, right?	
 0x90d7	0x06	ALTO		ANI_NOD	
 0x90fc	0x98	ALTO	#6A	...Yes.	
-0x9126	0x98	ALTO	#6A	My father headed for the	
-				other side of <End of the World>,	
-				believing it existed.	
-0x9197	0x98	ALTO	#6A	The truth is, this world	
-				has nothing like an <End>.	
-				Surely there must be something beyond.	
+0x9126	0x98	ALTO	#6A	My parents believed it existed	
+				beyond the End of the World.	
+0x9197	0x98	ALTO	#6A	The truth is, there is no such	
+				thing as an 'end' to this world.	
+				There must be something more.	
 0x921a	0x06	ALTO		ANI_THANKS	
-0x9242	0x98	ALTO	#6A	So saying, my father	
-				sought it, seeking to confirm	
-				it with his own eyes.	
-0x92ab	0x98	ALTO	#6A	I'm still a boy.	
-				I don't know how many	
-				years have passed since then...	
-0x9312	0x98	ALTO	#6A	If possible, I'd like to be a	
-				researcher like that in the future.	
+0x9242	0x98	ALTO	#6A	What my parents sought...	
+				I want to see it with my	
+				own eyes.	
+0x92ab	0x98	ALTO	#6A	I'm still just a kid,	
+				and I don't know how	
+				long it will take...	
+0x9312	0x98	ALTO	#6A	But I'd like to be involved	
+				in the same kind of research	
+				in the future.	
 0x937d	0x06	Aulbath		ANI_WAIT0	
 0x93a7	0x6B	Aulbath		Ellipsis	
-0x93dc	0x98	Aulbath		...Hmph, if it's you, Nayuta, then	
-				someday you will reach that world.	
+0x93dc	0x98	Aulbath		...Heheh, if you say so, Nayuta,	
+				then maybe you will make it to	
+				that other world someday.	
 0x944b	0x06	Aulbath		ANI_WAIT4	
-0x9475	0x98	Aulbath		Now then, the warm-up	
-				is finished...	
-0x94bb	0x98	Aulbath		Since you're here, how	
-				about trying a contest	
-				with me next?	
+0x9475	0x98	Aulbath		Well, now that our	
+				warm-up is finished...	
+0x94bb	0x98	Aulbath		Since you're here,	
+				how about taking me	
+				on in a match?	
 0x951f	0x6B	ALTO		Unknown	
 0x9551	0x06	ALTO		ANI_SURPRISE	
-0x957b	0x98	ALTO	#6A	W-with you!?	
-0x95aa	0x98	ALTO	#6A	I only ever saw Cygna	
-				defeat you once.	
+0x957b	0x98	ALTO	#6A	W-With you!?	
+0x95aa	0x98	ALTO	#6A	I've never even	
+				beat Cygna once.	
 0x95f2	0x06	Aulbath		ANI_GESTURE2	
 0x961f	0x98	Aulbath		I will go easy on you.	
-				To measure your strength	
-				to the bitter end-	
+				I just want to gauge how	
+				much you have improved─	
 0x975e	0x6B	ALTO		Exclamation	
 0x9790	0x6B	Aulbath		Exclamation	
 0x9aa0	0x06	ALTO		ANI_BATTOU	
-0x9b12	0x98	ALTO	#6A	M-monsters?	
+0x9b12	0x98	ALTO	#6A	M-Monsters?	
 0x9b40	0x98	Aulbath		They have been appearing on the	
 				island more often lately...	
 				To appear at a time like this...	
-0x9bbd	0x98	Aulbath		They don't look to be	
-				very fearsome...	
+0x9bbd	0x98	Aulbath		They don't look to	
+				be very fearsome...	
 0x9c1e	0x98	Aulbath		Nayuta, how about I	
-				try letting you handle	
-				these?	
-0x9c89	0x98	ALTO	#6A	Ehh...you mean me!?	
+				let you handle this?	
+0x9c89	0x98	ALTO	#6A	Huh...? Me!?	
 0x9cbf	0x98	Aulbath		I think this is the perfect	
-				chance for me to see	
-				your strength.	
+				chance for me to see what	
+				you're capable of.	
 0x9d1f	0x98	Aulbath		Don't worry. I will protect	
 				the road to the village.	
 				...Want to give it a try?	
 0x9da2	0x06	ALTO		ANI_NOD	
-0x9dc7	0x98	ALTO	#6A	...U-understood!	
-				Somehow...I will do it!	
-0x9e11	0x98	Aulbath		Hmph...	
-				Well then, leave this to me!	
+0x9dc7	0x98	ALTO	#6A	...U-Understood!	
+				I'll try to get this done!	
+0x9e11	0x98	Aulbath		Hmm... Well then,	
+				go right ahead!	
 0x9f02	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_1	
-0x9f62	0x98	ALTO		Alright...here I go!	
-0x9fca	0x07	System	#4C	Jump with the × button.	
-				Please use it for enemies or	
-				climbing.	
-0xa018	0x07	System	#4C	Also, use the △ button to	
-				evade attacks. You will not take	
-				damage for a short period, so use it well.	
+0x9f62	0x98	ALTO		All right... Here I go!	
+0x9fca	0x07	System	#4C	Press the × button to jump.	
+				Use it to jump over enemies or obstacles.	
+0xa018	0x07	System	#4C	You can also use the △ button to evade attacks.	
+				You will not take damage for a short period,	
+				so use it to your advantage in battle.	
 0xa0bf	0x06	ALTO		ANI_WAIT	
 tuto_retry					
 QS_02_dead_countB					
 QS_02_quest_end					
-0xa669	0x98	ALTO		(pant... pant...)	
-				Somehow I defeated them...	
+0xa669	0x98	ALTO		*huff*...*huff*...	
+				I defeated them somehow...	
 0xa6bc	0x3F	Name		Orvus' Voice	
-0xa6d0	0x98	Aulbath		Hm, good work.	
+0xa6d0	0x98	Aulbath		Hmm, good work.	
 0xa832	0x98	ALTO	#6A	Master, is the	
 				village alright?	
 0xa87b	0x06	Aulbath		ANI_NOD	
-0xa8a3	0x98	Aulbath		Yes, though I was vigilant,	
-				no monsters entered.	
-0xa8f5	0x98	Aulbath		Nayuta, you didn't lose even one.	
+0xa8a3	0x98	Aulbath		Yes, though I was on the lookout,	
+				no monsters tried to enter.	
+0xa8f5	0x98	Aulbath		Nayuta, you didn't miss a single one.	
 				Well done in defeating them.	
 0xa955	0x06	ALTO		ANI_SCRATCH_HEAD	
-0xa983	0x98	ALTO	#6A	Ahaha...	
-				I was just lucky.	
-0xa9bf	0x98	ALTO	#6A	Because you were there behind	
-				me, Master, I had a feeling	
-				of security.	
+0xa983	0x98	ALTO	#6A	Hahaha...	
+				I just got lucky.	
+0xa9bf	0x98	ALTO	#6A	I had the peace of mind knowing you	
+				were right there behind me, Master. 	
 0xaa26	0x06	Aulbath		ANI_WAIT2	
-0xaa50	0x98	Aulbath		Hm...well that's fine.	
-0xaa89	0x98	Aulbath		There is no training better than	
-				real combat. This was better	
-				training than I expected.	
+0xaa50	0x98	Aulbath		Hmm... Well, that's fine.	
+0xaa89	0x98	Aulbath		There is no better training than	
+				real combat. This was a better	
+				training session than expected.	
 0xab01	0x98	Aulbath		We'll duel another time.	
-				Once you two are together,	
-				we'll begin training once more.	
+				Once the two of you are together,	
+				we'll resume our training again.	
 0xab75	0x06	ALTO		ANI_LAUGH	
-0xab9c	0x98	ALTO	#A	haha, that's right.	
-				When the time comes, I'll	
-				bring Cygna even if I have to drag him.	
+0xab9c	0x98	ALTO	#A	Haha, sure. I'll bring Cygna even	
+				if I have to drag him with me.	
 0xac11	0x06	Aulbath		ANI_WAIT0	
-0xac3b	0x98	Aulbath		Hm, if you do that, you'll	
-				be a big help.	
-0xac86	0x98	Aulbath		The soul becomes stronger through training.	
-				The sword if helpful in this purpose.	
-0xacf9	0x98	Aulbath		For the pursuit of your dream too,	
-				it is by no means useless.	
+0xac3b	0x98	Aulbath		Hm, it would help if you did.	
+0xac86	0x98	Aulbath		A strong mind is developed through discipline.	
+				The sword will serve you well in this purpose.	
+0xacf9	0x98	Aulbath		And it, too, will be of some use for	
+				you in the pursuit of your dream.	
 0xad58	0x98	Aulbath		While you are here,	
-				do not neglect your training.	
+				be sure not to neglect	
+				your training.	
 0xadab	0x06	ALTO		ANI_NOD	
 0xadd0	0x98	ALTO	#6A	Yes!!	mp_0002 0x8672
-0xae2c	0x07	System	#3C	Quest [Fencing Practice] Completed!	
+0xae2c	0x07	System	#3C	Quest [Sword Practice] completed!	
 0xaf11	0x06	Aulbath		ANI_WAIT	
 0xb046	0xC1	System		#3CLearned technique 『Spinning Cut』!	
 0xb13a	0xC1	System		#3CLearned technique 『Down Thrust』!	
@@ -740,310 +707,305 @@ QS_02_quest_end
 0xc037	0xC1	System		#3CLearned technique 『Swallow Return』!	
 0xc147	0xC1	System		obtained.	mp_0000 0x7558
 0xc1c8	0xC1	System		obtained.	mp_0000 0x7558
-0xc259	0xC1	System		#3C『Evasion』 fully mastered!	
+0xc259	0xC1	System		#3C『Evasion』 improved!	
 0xc345	0xC1	System		#3C『Mastery: Two-Handed Swords ②』 learned!	
-0xc440	0xC1	System		#3CLearned secret technique 『Whirlwind』!	
+0xc440	0xC1	System		#3CLearned secret technique 『Divine Wind』!	
 0xc538	0xC1	System		#3CLearned 『Counter』!	
 0xc61d	0xC1	System		#3C『Mastery: One-Handed Swords ③』 learned!	
 0xc718	0xC1	System		#3C『Magic Charge』 has been strengthened further!	
 0xc818	0xC1	System		#3C『CHAIN』 has been strengthened further!	
-0xc911	0xC1	System		#3C『Guard』 fully mastered!	
+0xc911	0xC1	System		#3C『Guard』 improved!	
 0xc9fb	0xC1	System		#3C『Consecutive Evasion』 learned!	
 0xcaec	0xC1	System		#3C『Mastery: Two-Handed Swords ③』 learned!	
 0xcbe7	0xC1	System		#3CLearned secret technique 『Fallen Lotus』!	
 0xccfc	0xC1	System		obtained.	mp_0000 0x7558
 0xcd7d	0xC1	System		obtained.	mp_0000 0x7558
 0xced6	0x06	ALTO		ANI_THINK2	
-0xcefe	0x98	ALTO		With this, the requested work	mp_0000 0x128a7
-				it completed.	
+0xcefe	0x98	ALTO		I'm done with the requests	mp_0000 0x128a7
+				I was assigned.	
 0xcf48	0x98	ALTO		Cygna should be about done with	mp_0000 0x128f1
-				his work by now too...	
+				his requests by now, too...	
 0xcf9d	0x06	ALTO		ANI_NOD	
 0xcfc2	0x98	ALTO		I should return home for now.	mp_0000 0x1296b
-0xd007	0xCE	Objective		I'll return home and let Cygna know I'm done with work.	mp_0000 0x129b0
+0xd007	0xCE	Objective		Let's return home and let Cygna know I'm done with the work.	mp_0000 0x129b0
 QS_02_Aulbath_moveA					
 QS_02_ALTO_moveB					
 0xd290	0x06	ALTO		ANI_NOUTOU	
 QS_02_stopperA					
-0xd36c	0x98	Aulbath		I'll protect the road to the village.	
-0xd3b4	0x98	Aulbath		Nayuta, don't mind me and	
-				concentrate on defeating those	
-				monsters.	
+0xd36c	0x98	Aulbath		I'll watch the road into the village.	
+0xd3b4	0x98	Aulbath		Nayuta, pay no mind to me,	
+				just concentrate on defeating	
+				those monsters.	
 0xd458	0x98	Aulbath		Nayuta, where are you going?	
 				You still haven't finished	
-				destroying the training dummies.	
+				destroying the dummies.	
 0xd4f0	0x98	ALTO		Y-Yes!	
-0xd57e	0x98	Aulbath		Though you said you'd take the training,	
-				where are you going now?	
-				Return here at once.	
+0xd57e	0x98	Aulbath		You said you would take the	
+				training lesson. Where are	
+				you going? Come back here.	
 0xd614	0x98	ALTO		Y-Yes!	mp_0002 0xd4f0
 QS_02_stopperB					
-0xd6e7	0x98	ALTO		(Master left the monster	
-				 extermination to me...	
-				 There's no way I can run!)	
-0xd792	0x98	Aulbath		Nayuta, that's my house.	
+0xd6e7	0x98	ALTO		(Master trusted me with the	
+				 task of slaying the monsters...	
+				 I can't run away!)	
+0xd792	0x98	Aulbath		Nayuta, that is my house.	
 0xd7cd	0x98	Aulbath		You still haven't finished	
-				destroying the training dummies.	
-				Return here at once.	
+				destroying the dummies.	
+				Get back over here.	
 0xd85d	0x98	ALTO		Y-Yes!	mp_0002 0xd4f0
-0xd8eb	0x98	Aulbath		Nayuta, that's my house.	mp_0002 0xd792
-0xd926	0x98	Aulbath		Though you said you'd take the training,	mp_0002 0xd57e
-				where are you going now?	
-				Return here at once.	
+0xd8eb	0x98	Aulbath		Nayuta, that is my house.	mp_0002 0xd792
+0xd926	0x98	Aulbath		You said you would take the	mp_0002 0xd57e
+				training lesson. Where are	
+				you going? Come back here.	
 0xd9bc	0x98	ALTO		Y-Yes!	mp_0002 0xd4f0
 QS_11_get_treasure					
-0xdbc0	0x98	ALTO		"A vehicle for setting out on a journey,"	
-				huh...	
-0xdc0f	0x98	ALTO		It looks like there's a place to hide something	
-				under the boat. As for whether the thing Vel	
-				hid is in there...	
+0xdbc0	0x98	ALTO		'A vehicle for setting off on a journey...?'	mp_0000 0x13e59
+0xdc0f	0x98	ALTO		It sounds like the hiding place	
+				is under this boat, but there's	
+				no space for Vel to have put it..	
 0xdc9c	0x6B	ALTO		Exclamation	
 0xdcce	0x06	ALTO		ANI_SIT6	
-0xddb8	0x98	ALTO		Ah...	
-				I looks like something's buried	
-				beneath the boat!	
+0xddb8	0x98	ALTO		Ah... Looks like something's	
+				buried underneath the boat!	
 0xde0d	0x98	ALTO		Here we go...	
-0xde5c	0x40	UNDEF		Found a cracked crystal.	
+0xde5c	0x40	UNDEF		Found a small shard.	
 0xde9f	0xC1	System		obtained.	mp_0000 0x7558
 0xdf16	0x06	ALTO		ANI_WAIT	
-0xdf66	0x98	ALTO		It was there...	
-				Is this the "treasure" that Vel	
-				spoke of, I wonder?	
-0xdfc7	0x98	ALTO		I'll try showing her immediately.	
+0xdf66	0x98	ALTO		Here it is... Is this 	
+				the 'treasure' that	
+				Vel was talking about?	
+0xdfc7	0x98	ALTO		Let's show her right away.	
 QS_24_get_salt					
 0xe1a6	0x98	ALTO		Beautiful white crystals have	
 				formed in the shade of the ruins.	
-0xe204	0x98	ALTO		This looks the "Ruins Rock	
-				Salt" that the elder mentioned.	
+0xe204	0x98	ALTO		This looks like the Ruins Rock Salt	
+				that the elder was talking about.	
 0xe293	0x06	ALTO		ANI_HANDOVER	
 0xe2c5	0xC1	System		obtained.	mp_0000 0x7558
 0xe39c	0x06	ALTO		ANI_WAIT4	
 0xe3f7	0x06	ALTO		ANI_GUTSPOSE	
-0xe421	0x98	ALTO		With this, I've collected three	
-				famous island products. I'll	
-				bring them to Gio.	
+0xe421	0x98	ALTO		Now I've gathered three famous	
+				island specialties. Let's go	
+				bring them to Geo.	
 0xe4d4	0x06	ALTO		ANI_THINK2	
-0xe4fc	0x98	ALTO		The last one is the "local cuisine"	
-				that the elder mentioned, huh...	
-0xe55f	0x98	ALTO		It's the specialty dish of someone	
-				you wouldn't think is a cook though...	
-				...Just who is it, I wonder?	
+0xe4fc	0x98	ALTO		Isn't there still the 'local cuisine'	
+				that the elder mentioned...?	
+0xe55f	0x98	ALTO		But it's the specialty dish of someone	
+				you wouldn't think of as a cook...	
+				...Just who could it be?	
 QS_81_quest_start					
 0xe73e	0x06	ALTO		ANI_WAIT	
-0xe88c	0x98	Aulbath		There is something related to <Terra>	
-				that I would like to request of you two,	
-				but...	
+0xe88c	0x98	Aulbath		There is a matter related to	
+				Terra that I would like to the	
+				two of you for help with, but...	
 0xe902	0x98	Aulbath		If you have time, will you accept?	
 0xe951	0x98	Aulbath		You two, you've come at a good time.	
-0xe998	0x98	Aulbath		The truth is, there is something I	
-				earnestly request of you.	
+0xe998	0x98	Aulbath		As a matter of fact, I have	
+				a special favor to ask of you.	
 0xe9f6	0x06	ALTO		ANI_GESTURE2	
-0xea20	0x98	ALTO	#6A	It's rare for you to have	
-				a request, Master.	
+0xea20	0x98	ALTO	#6A	It's rare for you to	
+				need a favor, Master.	
 0xea6e	0x06	NOI		ANI_GESTURE1	
 0xea97	0x98	NOI	#6A	Did something happen?	
 0xeace	0x06	Aulbath		ANI_NOD	
-0xeaf6	0x98	Aulbath		Hmm, the truth is, it is	
-				related to <Terra>.	
+0xeaf6	0x98	Aulbath		Hmm, the truth is, it has	
+				something to do with Terra.	
 0xeb44	0x98	Aulbath		If you have time, will you accept?	mp_0002 0xe902
 0xebc9	0x36	Choice		[Accept]	mp_0000 0xeaf5
 0xebdf	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0xec7e	0x06	ALTO		ANI_OJIGI	
-0xeca5	0x98	ALTO	#6A	I'm sorry, I have a	
-				little something to do now...	
+0xeca5	0x98	ALTO	#6A	I'm sorry, I have something	
+				else to do right now...	
 0xecf8	0x06	Aulbath		ANI_WAIT3	
-0xed22	0x98	Aulbath		Hmm, if that's the case	
+0xed22	0x98	Aulbath		Hmm, if that's the case,	
 				then it can't be helped.	
-0xed74	0x98	Aulbath		When it is convenient	
-				to you, please come again.	
+0xed74	0x98	Aulbath		Please, come back when	
+				it is more convenient.	
 QS_81_undertake					
 0xef1d	0x06	ALTO		ANI_THANKS	
 0xef45	0x98	ALTO	#6A	Yes, nothing comes above my	
-				Master's request. Please allow us	
-				to accept.	
-0xefcf	0x98	Aulbath		Huhu, I am in your debt.	
+				Master's request. Please, go	
+				on and we'll take care of it.	
+0xefcf	0x98	Aulbath		Heheh, I am in your debt.	
 0xf00a	0x98	Aulbath		Though it's sudden, first,	
 				please accept this.	
 0xf09e	0x06	Aulbath		ANI_HANDOVER	
 0xf0d3	0xC1	System		obtained.	mp_0000 0x7558
 0xf204	0x06	ALTO		ANI_HANDOVER1	
-0xf286	0x98	ALTO	#6A	This is?	
+0xf286	0x98	ALTO	#6A	What's this...?	
 0xf2b1	0x06	NOI		ANI_THINK	
-0xf2d7	0x98	NOI	#6A	A small box?	
+0xf2d7	0x98	NOI	#6A	A little box?	
 0xf305	0x06	Aulbath		ANI_GESTURE1	
-0xf332	0x98	Aulbath		It has been six years...	
-				This was nearby when I	
-				found young Cygna.	
-0xf395	0x98	Aulbath		At that time, I took interest	
-				in it and stowed it away,	
-				but...	
-0xf3f4	0x98	Aulbath		Recently, I found it while	
-				sorting Cygna's belongings.	
-0xf44c	0x98	ALTO	#6A	This is...	
-0xf479	0x98	ALTO	#6A	Hmm...It looks like this	
-				box doesn't have a keyhole.	
+0xf332	0x98	Aulbath		It's been six years now...	
+				This fell nearby the day	
+				I found young Cygna.	
+0xf395	0x98	Aulbath		I was distracted by him at the	
+				time, so I stowed it away	
+				without a second thought, but...	
+0xf3f4	0x98	Aulbath		Recently, I found it again while	
+				sorting through Cygna's belongings.	
+0xf44c	0x98	ALTO	#6A	It's...	
+0xf479	0x98	ALTO	#6A	Hmm... This box doesn't	
+				seem to have a keyhole.	
 0xf508	0x06	NOI		ANI_WAIT	
-0xf52d	0x98	ALTO		Though it has a lid, it's not	
-				giving an inch...	
-				How can we open this?	
+0xf52d	0x98	ALTO		There's a lid, but	
+				it won't budge...	
+				How do we open this?	
 0xf590	0x06	Aulbath		ANI_THINK	
-0xf5ba	0x98	Aulbath		Though I have tried various	
-				things, I have no idea.	
-0xf60f	0x98	Aulbath		It seems made of a strange	
-				metal, and I could not even	
-				scratch it once.	
+0xf5ba	0x98	Aulbath		I have tried everything,	
+				but I cannot figure it out.	
+0xf60f	0x98	Aulbath		It seems to be made of some	
+				strange metal. I could not	
+				even scratch it.	
 0xf6ad	0x06	Aulbath		ANI_WAIT2	
-0xf6d7	0x98	Aulbath		Thinking you could find a way	
-				to open it, I called you here.	
-0xf75e	0x98	ALTO	#6A	I see...	
-				So that's the situation.	
-0xf7a1	0x98	ALTO	#6A	Hmm, you might say	
-				we don't have even one clue...	
+0xf6d7	0x98	Aulbath		So, I thought you two could	
+				figure out how to open it.	
+0xf75e	0x98	ALTO	#6A	I see... So that's	
+				what you wanted.	
+0xf7a1	0x98	ALTO	#6A	Hmm, but we don't even	
+				have a single clue...	
 0xf7f4	0x6B	ALTO		Surprise	
-0xf826	0x98	ALTO	#6A	Huh, when I look at the box closely...	
-				Doesn't it seem like some kind of letters	
-				are carved in it?	
-0xf8a9	0x98	NOI	#6A	These are...	
-				The ancient letters of the Mythos?	
-0xf911	0x98	Aulbath		It is likely they contain a	
+0xf826	0x98	ALTO	#6A	Huh, if I look closely at the box...	
+				Doesn't it look like some kind of	
+				writing is engraved in it?	
+0xf8a9	0x98	NOI	#6A	That's... the ancient	
+				script of the Mitos...?	
+0xf911	0x98	Aulbath		Perhaps it contains a	
 				hint for opening the box.	
-0xf968	0x98	Aulbath		Noi, you can read those	
-				letters, can you not?	
+0xf968	0x98	Aulbath		Noi, you can read	
+				that writing, no?	
 0xf9b7	0x06	NOI		ANI_NOD	
-0xf9db	0x98	NOI	#6A	I-I'll try.	
+0xf9db	0x98	NOI	#6A	I-I can try.	
 				...Ehem, umm...	
-0xfa30	0x98	NOI	#6A	"This box is sealed	mp_0002 0x6499
-				 with four locks."	
-0xfa77	0x98	NOI	#6A	"If you would release them,	
-				 offer up this box	
-				 as the seasons change"...	
-0xfb18	0x98	NOI	#6A	It looks like that's what's written.	
+0xfa30	0x98	NOI	#6A	'This box is sealed	mp_0002 0x6499
+				 with four locks.'	
+0xfa77	0x98	NOI	#6A	'If you wish to release the locks,	mp_0002 0x64e4
+				 offer up this box in order of the seasons,	
+				 with them changed as they should be...'	
+0xfb18	0x98	NOI	#6A	That's what it looks	
+				like is written.	
 0xfbb3	0x06	ALTO		ANI_WAIT	
 0xfbe3	0x06	ALTO		ANI_THINK2	
 0xfc17	0x98	ALTO		Four locks...	
 				And we have to offer it up	
 				as the seasons change?	
-0xfc74	0x98	ALTO		Disregarding the first half,	
-				I don't get what it means by offer	
-				it up as the seasons change."	
+0xfc74	0x98	ALTO		Ignoring the first half for now,	
+				I don't get what it means by 'offer	
+				it up in order of the seasons.'	
 0xfcef	0x06	NOI		ANI_GESTURE1	
-0xfd18	0x98	NOI	#6A	It probably means to shower it	
-				in Power of Stars that is attuned	
-				to each season.	
-0xfd88	0x98	NOI	#6A	We can use the <Astrolabe>	
-				to change the season...	
-0xfddb	0x98	NOI	#6A	This was made	
-				using the same technology.	
+0xfd18	0x98	NOI	#6A	It probably means to shower	
+				it in the astral power most	
+				attuned to each season.	
+0xfd88	0x98	NOI	#6A	The Mitos created a device called	
+				the Astrolabe that is able to to	
+				control the seasons...	
+0xfddb	0x98	NOI	#6A	I guess this was made using	
+				the same kind of technology.	
 0xfe24	0x06	ALTO		ANI_WAIT	
-0xfe5f	0x98	ALTO		Hmm...Using something like that	
-				expressly for that device,	
-				there must be something important inside.	
-0xfee1	0x98	ALTO		...But, what should we do.	
-				We can't manipulate the Power of Stars.	
+0xfe5f	0x98	ALTO		Hmm... After going through the trouble	
+				of setting up something like that, there	
+				must be something important inside.	
+0xfee1	0x98	ALTO		...But, what can we do?	
+				We can't manipulate	
+				astral power.	
 0xff42	0x06	NOI		ANI_GESTURE1	
-0xff6b	0x98	NOI	#6A	You're right, then...	
-0xffa2	0x98	NOI	#6A	Then we should probably	
-				search for the "Power Place"	
-				of the Power of Stars.	
+0xff6b	0x98	NOI	#6A	All right, then...	
+0xffa2	0x98	NOI	#6A	Then we should probably search	
+				for the 'power stations' of	
+				astral power.	
 0x1000d	0x06	ALTO		ANI_GESTURE2	
-0x10037	0x98	ALTO		The "Power Place" of the	
-				Power of Stars?	
+0x10037	0x98	ALTO		'Power stations?'	
 0x1007e	0x06	Aulbath		ANI_THINK	
-0x100a8	0x98	Aulbath		Hmm...It seems like something	
-				that could be called a power gathering	
-				place.	
-0x1012c	0x98	NOI	#6A	The one I took over for, the	
-				"Past Noi" had some relevant	
-				knowledge.	
-0x10190	0x98	NOI	#6A	In <Terra> on the four continents,	
-				there seem to be places where the Power of Stars	
-				flows more strongly than the surroundings...	
+0x100a8	0x98	Aulbath		Hmm... It sounds like they are a	
+				place where power congregates.	
+0x1012c	0x98	NOI	#6A	It's a part of the knowledge	
+				the old Noi passed down to me.	
+0x10190	0x98	NOI	#6A	In each of Terra's four continents, there	
+				are places where the astral power is	
+				stronger than the surrounding area...	
 0x10230	0x98	NOI	#6A	If we use places like that,	
-				we can fake out the "mechanism	
-				that uses the seasons."	
+				we can simulate changing	
+				the seasons for the device.	
 0x102c3	0x06	ALTO		ANI_GOODIDEA	
-0x102ed	0x98	ALTO		I see, if we take the box	
-				to those places...	
+0x102ed	0x98	ALTO		I see, if we take the	
+				box to those places...	
 0x10338	0x06	ALTO		ANI_THINK2	
-0x10360	0x98	ALTO		But, as for places like that,	
-				where are they, I wonder?	
+0x10360	0x98	ALTO		But where are they...?	
 0x103be	0x6B	ALTO		Surprise	
-0x103f0	0x98	ALTO		(Speaking of that...during my adventures	
-				 a year ago, I saw devices that use the seasons	
-				 many times...)	
-0x10476	0x98	ALTO		(Could it be the locations on	
-				 each continent where the	
-				 "wardens were imprisoned?")	
-0x104f0	0x98	ALTO		(And, "the way the seasons	
-				 change," huh?)	
-0x10539	0x98	ALTO		(The order the seasons change...	
-				 ...It seems I'll need to	
-				 think about that.)	
+0x103f0	0x98	ALTO		(Speaking of which... During my	
+				 adventures last year, I saw devices that	
+				 react to the seasons a few times...)	
+0x10476	0x98	ALTO		(Those places on each continent where	
+				 the wardens were imprisoned...	
+				 Could they be...?)	
+0x104f0	0x98	ALTO		(And, 'changed as they should be?')	
+0x10539	0x98	ALTO		(The proper order of the seasons...	
+				 ...Maybe we'll need to put some	
+				 thought into this.)	
 0x105bc	0x06	Aulbath		ANI_WAIT3	
-0x105e6	0x98	Aulbath		Huhu, it seems you have	
-				some idea, Nayuta.	
-0x10632	0x98	Aulbath		If you open the box,	
-				please come notify me.	
-				I am interested in it now.	
+0x105e6	0x98	Aulbath		Heheh, you seem to	
+				have an idea, Nayuta.	
+0x10632	0x98	Aulbath		Let me know if you manage	
+				to open the box. It has	
+				bothered me for so long.	
 0x106ba	0x06	ALTO		ANI_NOD	
-0x106df	0x98	ALTO	#6A	Yes, I wonder what is	
-				in the box...	
+0x106df	0x98	ALTO	#6A	Yeah, I'm curious about	
+				what's in the box, too...	
 				I'm looking forward to it.	
 0x10776	0x06	ALTO		ANI_JOY	
 0x1079b	0x98	ALTO		Let's try it out, Noi.	
 0x107ec	0x06	NOI		ANI_NOD	
-0x10810	0x98	NOI	#6A	Yes, understood.	mp_0000 0x1b27a
-0x10876	0x07	System	#3C	Quest [Unopened Box] accepted!	
+0x10810	0x98	NOI	#6A	Yeah, okay.	mp_0000 0x1b27a
+0x10876	0x07	System	#3C	Quest [Locked Box] started!	
 QS_81_quest_end					
 0x10c06	0x98	Aulbath		Oh, Nayuta.	
-				Could it be...	
+				Did you...?	
 0x10c42	0x06	ALTO		ANI_THANKS	
-0x10c6a	0x98	ALTO	#6A	Yes, somehow we managed to	
-				release the locks on this unopened	
-				box.	
-0x10ccd	0x98	ALTO	#6A	Allow me to hand it over to you.	
+0x10c6a	0x98	ALTO	#6A	Yeah, we managed to	
+				release the locks on 	
+				the Locked Box.	
+0x10ccd	0x98	ALTO	#6A	Let me give it to you.	
 0x10d35	0x06	ALTO		ANI_HANDOVER	
-0x10d8b	0x40	UNDEF		Handed over the unopened box.	
+0x10d8b	0x40	UNDEF		Handed over the Locked Box.	
 0x10e4a	0x06	NOI		ANI_GUTSPOSE	
-0x10e73	0x98	NOI	#6A	Master, try opening	
-				it immediately!	
-0x10ecf	0x98	Aulbath		Huhu, you're in such a rush.	
+0x10e73	0x98	NOI	#6A	Master, get on with it	
+				and open it up already!	
+0x10ecf	0x98	Aulbath		Heheh, don't be so worked up.	
 0x10f72	0x06	Aulbath		ANI_HAVE_A_BOX	
 0x10ffb	0x98	Aulbath		Let's see...	
 0x1102a	0x40	UNDEF		Orvus slowly opened the lid of the box.	
-0x11072	0x40	UNDEF		There was a small "Star Shard" in the box.	
+0x11072	0x40	UNDEF		Inside the box was a small star shard.	
 0x110c5	0x6B	ALTO		Ellipsis	
 0x110f7	0x6B	NOI		Ellipsis	
 0x11128	0x6B	Aulbath		Ellipsis	
 0x1115d	0x06	NOI		ANI_THINK	
-0x11183	0x98	NOI		A Star Shard...indeed.	
+0x11183	0x98	NOI		A star shard...?	
 0x111b8	0x98	Aulbath		Hmm, this is...	
-				Just what is it showing us?	
+				What does it project?	
 0x11226	0x06	ALTO		ANI_GESTURE1	
-0x11250	0x98	ALTO	#6A	Please allow my sister and her	
-				observation machine to investigate	
-				it at least once.	
+0x11250	0x98	ALTO	#6A	Should I ask my sister	
+				to examine it with her	
+				observation machine?	
 0x1131c	0x06	Aulbath		ANI_WAIT	
 0x11380	0x06	NOI		ANI_WAIT	
-0x113a5	0x98	Aulbath		Hmm...Please do.	
-0x1142a	0x40	UNDEF		Everyone decided to head to Herschel House,	
-				explain the situation to Eartha, and have her	
-				perform Star Shard observation.	
+0x113a5	0x98	Aulbath		Hmm... Please do.	
+0x1142a	0x40	UNDEF		Nayuta and the others decided to head to the	
+				Herschels' house. They explained the situation	
+				to Eartha, who performed the star shard analysis.	
 EV_2_S04_under_noi					
 0x11760	0x98	ALTO		(...In the end, Cygna wasn't	
 				 on Remnant Island.)	
 0x117b0	0x06	ALTO		ANI_THINK2	
-0x117d8	0x98	ALTO		(It's hard to imagine that	
-				 we missed each other in	
-				 this small village.)	
-0x1183f	0x98	ALTO		(Maybe he had already finished	
-				 what he needed to do when we	
-				 arrived in the garden....)	
+0x117d8	0x98	ALTO		(It's hard to imagine that he	
+				 would get mistaken for someone	
+				 else in such a small village.)	
+0x1183f	0x98	ALTO		(Maybe he had already left by the	
+				 time we arrived in the garden...)	
 0x118b5	0x6B	ALTO		Ellipsis	
 0x118e7	0x06	ALTO		ANI_WAIT	
-0x1190d	0x98	ALTO		Speaking of that...	
-				I made Noi wait for me, didn't I?	
-0x11979	0x98	ALTO		I said nothing and left...	
-				I should return to <Terra> quickly.	
+0x1190d	0x98	ALTO		Speaking of which...	
+				Noi is still waiting, isn't she?	
+0x11979	0x98	ALTO		I left without saying anything...	
+				I should go back to Terra.	
 0x11ab9	0xCE	Objective		Looks like Cygna's not here. I should return to Terra for Noi.	
 atari					
