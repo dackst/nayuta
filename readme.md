@@ -27,7 +27,7 @@ But I'm not a big creative writer, and again, don't know Japanese, so maybe I ju
 
 I would appreciate reporting of any issues: technical bugs, glaring mistranslations, lore inconsistencies, or even just general language weirdness and typos. I did a playthrough or two with my changes and fixed a number of less obvious mistakes, but it is possible that I missed some. There are a few remaining [issues](#known-issues). 
 
-If you're interested in more detail on the changes I made, you can look at my [script notes](./notes.md) file (definitely spoilers to be found here). If you're *really* interested, you can easily view almost all the text changes from the original at once [here](https://github.com/dackst/nayuta/compare/4a29660d089c19bac592742a5796b7ecf398dcaf...original).
+If you're interested in more detail on the changes I made, you can look at my [script notes](./notes.md) file (definitely spoilers to be found here). If you're *really* interested, you can easily view almost all the text changes from the original at once [here](https://github.com/dackst/nayuta/compare/a6cecc6651f386ab3fabcab64cf440e021fa99bd...original).
 
 <!-- or you can [compare]((https://github.com/dackst/nayuta/compare/original...master)) any of the changed files directly to their originals in this repo. 
 broken on github since I moved files around
