@@ -1,0 +1,35 @@
+mp_2001a					
+init					
+ev_goal					
+ob_sw_cb					
+0x6e9	0x06	ob_sw_00		ANI_CHANGE_GREEN	
+0x71b	0x06	ob_sw_01		ANI_CHANGE_GREEN	
+0x74d	0x06	ob_sw_02		ANI_CHANGE_GREEN	
+0x77f	0x06	ob_sw_03		ANI_CHANGE_GREEN	
+0x8bc	0x06	ob_sw_00		ANI_CHANGE_RED	
+0x8ec	0x06	ob_sw_01		ANI_CHANGE_RED	
+0x91c	0x06	ob_sw_02		ANI_CHANGE_RED	
+0x94c	0x06	ob_sw_03		ANI_CHANGE_RED	
+point					
+ob_sw_cb2					
+0xc52	0x06	ob_sw_00		ANI_CHANGE_GREEN	
+0xc84	0x06	ob_sw_01		ANI_CHANGE_GREEN	
+0xcb6	0x06	ob_sw_02		ANI_CHANGE_GREEN	
+0xce8	0x06	ob_sw_03		ANI_CHANGE_GREEN	
+0xea4	0x06	ob_sw_00		ANI_CHANGE_RED	
+0xed4	0x06	ob_sw_01		ANI_CHANGE_RED	
+0xf04	0x06	ob_sw_02		ANI_CHANGE_RED	
+0xf34	0x06	ob_sw_03		ANI_CHANGE_RED	
+boss_battle01					
+0x10e3	0x6B	ALTO		Exclamation	
+dead_EV01					
+open_door1					
+battle_skill					
+0x14fb	0x06	mahouzin2		ANI_STOP2	
+0x153d	0x6B	ALTO		Exclamation	
+dead_skill					
+open_door02_03					
+0x1c76	0x07	System	#3C	Defeated high-rank monster [Noire Pulse]!	
+0x1d37	0x06	NOI		ANI_TAMEATK1	
+0x1d9a	0x07	System	#1C	Noi recovered the fall magic #4C『#782INoire Haze』#1C!	
+0x1e24	0xC1	System		obtained.	mp_0000 0x7558

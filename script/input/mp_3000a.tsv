@@ -1,0 +1,11 @@
+mp_3000a					
+init					
+ev_goal					
+open_door2					
+0x2e7	0x06	switch1		ANI_LEVER_ON_LOCK	
+close_door3					
+0x34f	0x6B	ALTO		Exclamation	
+dead_EV01					
+open_door3					
+open_door3b					
+0x923	0x06	switch2		ANI_LEVER_ON_LOCK	

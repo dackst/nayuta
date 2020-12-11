@@ -1,0 +1,22 @@
+mp_2000c					
+init					
+ev_goal					
+open_door1					
+boss_battle01					
+0x422	0x6B	ALTO		Exclamation	
+dead_EV01					
+set_switch					
+open_door2					
+boss_battle02					
+0x8e5	0x6B	ALTO		Exclamation	
+dead_EV02					
+open_door3					
+boss_battle03					
+0xd86	0x06	mgc03		ANI_STOP2	
+0xdc4	0x6B	ALTO		Exclamation	
+dead_EV03					
+open_door4					
+0x143c	0x07	System	#3C	Defeated high-rank monster [Volganos]!	
+0x14fa	0x06	NOI		ANI_TAMEATK1	
+0x155d	0x07	System	#1C	Noi recovered the fall magic #4C『#777ISpeed Fire』#1C!	
+0x15e7	0xC1	System		obtained.	mp_0000 0x7558

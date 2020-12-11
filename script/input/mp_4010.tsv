@@ -1,0 +1,10 @@
+mp_4010					
+init					
+open_door1					
+0x27b	0x06	switch1		ANI_LEVER_ON_LOCK	
+open_door2					
+0x3cf	0x06	switch2		ANI_LEVER_ON_LOCK	
+battle					
+0x44e	0x6B	ALTO		Exclamation	
+dead_ev01					
+open_door3					

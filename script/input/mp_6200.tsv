@@ -1,0 +1,246 @@
+mp_6200					
+init					
+mp6200_retrySet					
+mp6200_monsterSet					
+tutorial_crystal					
+0xf5f	0x07	System	#4C	The "Shining Crystals" found in	
+				each stage can be used as money.	
+tutorial_find_monster					
+0x1107	0x6B	ALTO		Exclamation	
+0x11dd	0x98	ALTO		As expected, it looks like	
+				there are monsters here!	
+0x122f	0x06	Signa		ANI_WAIT3	
+0x1257	0x98	Signa		We've got to defeat them	
+				before they enter the island.	
+0x12ad	0x06	Signa		ANI_JOY	
+0x12d3	0x98	Signa		Alright, let's defeat them quickly!	
+tutorial_stopper_cmb					
+0x13fd	0x98	ALTO		...Whoops, it would be	
+				trouble if monsters invaded the island.	
+				Let's proceed after we've defeated them.	
+dead_ev00					
+tutorial_combo					
+0x1601	0x07	System	#4C	When you continue to attack without taking damage,	
+				[CHAIN] will accumulate in the lower-right of the screen.	
+0x167b	0x07	System	#4C	When [CHAIN] is higher than fixed amounts,	
+				various bonuses such as increased attack	
+				power will be added.	
+0x16f2	0x07	System	#4C	While your [CHAIN] continues,	
+				the bonus will continue to be added.	
+tutorial_collect					
+0x1adc	0x98	ALTO		It looks like rubble has blocked the path.	
+				Though it looks like we can proceed by	
+				jumping over it.	
+0x1b64	0x98	Signa	#6A	Hmph...if it's this kind of rubble,	
+				you can probably clear it with your	
+				sword.	
+0x1bd4	0x06	Signa		ANI_GESTURE2	
+0x1bff	0x98	Signa	#6A	If you destroy it, interesting	
+				things might come out, y'know?	
+0x1c7e	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x1cac	0x98	ALTO		Ahaha... Well then,	
+				let me try it out this time.	
+tutorial_jump					
+0x208d	0x98	Signa		What's this? It's completely	
+				collapsed.	
+0x20dc	0x98	ALTO		Ah, what a waste.	
+				If it was like it was originally,	
+				we might understand something!	
+0x21c5	0x06	ALTO		ANI_CHAGRINED	
+0x2204	0x6B	Signa		Sweatdrop	
+0x224e	0x06	Signa		ANI_JOY	
+0x2274	0x98	Signa		Well, let's just proceed for now.	
+				It looks like all we can do to	
+				proceed is jump.	
+0x2310	0x07	System	#4C	During exploration, if you	
+				press × during a jump, you	
+				perform a double-jump.	
+0x236c	0x07	System	#4C	By using the double-jump,	
+				you can reach places that cannot	
+				be reached normally.	
+tutorial_find_door					
+0x2549	0x98	ALTO		(What in the world is that...?)	
+tutorial_stopper_door					
+0x2623	0x07	System	#3C	A mysterious energy is	
+				preventing you from proceeding.	
+tutorial_stopper_sw					
+0x2765	0x98	ALTO		That thing back there	
+				interests me...	
+tutorial_switch					
+0x2871	0x06	sw01		ANI_LEVER_ON_LOCK	
+0x29e3	0x06	sw01		ANI_LEVER_ON_LOCK	
+0x2a8b	0x6B	ALTO		Exclamation	
+0x2abd	0x06	ALTO		ANI_SURPRISE_WEAK	
+0x2aec	0x98	ALTO		Ah, the light went out!	
+0x2b2b	0x06	Signa		ANI_WAIT2	
+0x2b53	0x98	Signa		So, that device back there	
+				was to deactivate the barrier,	
+				huh?	
+0x2bb0	0x98	Signa		Haha, this is more	
+				fun that I thought!	
+0x2bfe	0x06	ALTO		ANI_NOD	
+0x2c23	0x98	ALTO		Yeah, nothing excites me	
+				more than rare things!	
+0x2c96	0x98	ALTO		...Cygna, don't proceed	
+				all by yourself, OK?	
+0x2ce1	0x6B	Signa		Sweatdrop	
+0x2d31	0x06	Signa		ANI_GESTURE2	
+0x2d5c	0x98	Signa		Alright, alright. I got it.	
+0x2d98	0x98	Signa		Anyhow, it looks like we still	
+				have a bit more to go.	
+tutorial_stopper_fd					
+0x2edb	0x98	ALTO		It looks like monsters have gathered.	
+				Let's defeat them.	
+tutorial_food					
+0x300f	0x07	System	#4C	When you defeat monsters,	
+				They sometimes drop ingredients.	
+dead_ev01					
+stp_cape					
+0x3364	0x98	ALTO		It's dangerous to return right now...	
+				Let's proceed like this to the top floor.	
+dead_ev02					
+dead_ev03					
+SB_0_S12_alto_move					
+0x3579	0x06	ALTO		ANI_LOOK_AROUND	
+SB_0_S11_alto_move2					
+SB_0_S12_signa_move					
+0x3686	0x06	Signa		ANI_WAIT2	
+EV_0_S12_in_remain					
+0x3a5d	0x98	Signa		Oh, the inside is quite vast...	
+				This looks harder than I thought.	
+0x3ac6	0x06	ALTO		ANI_GUTSPOSE	
+0x3af0	0x98	ALTO		Amazing...amazing Cygna!	
+0x3b28	0x98	ALTO		To think a day when I can explore	
+				such a huge ruin would ever come!	
+0x3b8a	0x06	ALTO		ANI_THINK2	
+0x3bb2	0x98	ALTO		There might be <Star Shards>	
+				or clues to unravel the mystery of the	
+				falling ruins phenomenon...!	
+0x3c38	0x6B	Signa		Sweatdrop	
+0x3c88	0x06	Signa		ANI_GESTURE2	
+0x3cb3	0x98	Signa	#6A	...Hey, Nayuta.	
+				You just said you'd	
+				brace yourself, right?	
+0x3d17	0x6B	ALTO		Unknown	
+0x3d75	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x3da3	0x98	ALTO		Oh, guess I got carried away...	
+0x3dea	0x06	Signa		ANI_LAUGH	
+0x3e12	0x98	Signa	#6A	Haha, well that's fine.	
+				I've calmed down a little	
+				thanks to you.	
+0x3e93	0x98	Signa	#6A	Judging by appearances,	
+				various spots are crumbling	
+				due to the impact.	
+0x3f12	0x98	Signa	#6A	For now, let's proceed	
+				carefully, partner.	
+0x3f67	0x06	ALTO		ANI_NOD	
+0x3f8c	0x98	ALTO		Yeah!	mp_0001 0x1174e
+0x3fb1	0x06	ALTO		ANI_KOBUSI_WO_AWASERU	
+0x3fe4	0x06	Signa		ANI_KOBUSI_WO_AWASERU	
+0x4054	0x07	System	#3C	Cygna is accompanying you.	
+SB_0_S13_alto_move					
+EV_0_S13_break_floor					
+0x4365	0x06	ALTO		ANI_WAIT	
+0x43f1	0x06	Signa		ANI_WAIT3	
+0x441b	0x06	ALTO		ANI_LOOK_AROUND	
+0x4450	0x98	ALTO		It seems we've reached a high place.	
+0x4494	0x06	ALTO		ANI_THINK2	
+0x44bc	0x98	ALTO		...Even so, I wonder why	
+				these ruins are so big.	
+0x450b	0x98	ALTO		It looks like there are gear-like	
+				things moving around here and there...	
+0x4572	0x98	ALTO		I've got to search this place	
+				from corner to corner!	
+0x4657	0x6B	Signa		Exclamation	
+0x46a7	0x98	Signa	#16S	Hey, it's dangerous──!	
+0x47ea	0x06	ALTO		ANI_SURPRISE	
+0x4814	0x6B	ALTO		Exclamation	
+0x49d2	0x06	ALTO		ANI_JUMP	
+0x4a82	0x06	ALTO		ANI_HANGED	
+0x4ae0	0x06	Signa		ANI_GRASP_FALL_MAN	
+0x4b56	0x98	ALTO	#6A	Wah...!	
+0x4b88	0x98	Signa		You alright!?	
+				I'll pull you up!	
+0x4d42	0x06	ALTO		ANI_SIT6	
+0x4db5	0x98	ALTO		(pant... pant...)...	
+				Thanks Cygna.	
+				You saved me...	
+0x4e0d	0x06	Signa		ANI_WAIT2	
+0x4e35	0x98	Signa		Phew, it looks like you're	
+				safe somehow.	
+0x4e7d	0x98	Signa		Sheesh...	
+				If you looked at your footing a little,	
+				you'd understand that it's unstable, right?	
+0x4f18	0x98	ALTO	#6A	Ahaha, sorry.	
+				It seems I haven't been paying	
+				attention since we got here.	
+0x4f82	0x06	ALTO		ANI_STAGGER_STAND_UP	
+0x4fbc	0x98	ALTO	#6A	Even so, you've had	
+				a sharp intuition ever since we got here.	
+				You're pretty reliable you know.	
+0x5043	0x98	Signa		"Sharpen your mind no matter	
+				the situation..." It's because Master's	
+				teachings have soaked in.	
+0x50c0	0x98	Signa		Enough of that.	
+				Let's proceed ahead.	
+0x5104	0x98	Signa		Don't lose your focus	
+				until the end, OK?	
+0x5154	0x06	ALTO		ANI_NOD	
+0x5179	0x98	ALTO	#6A	Yeah, understood.	mp_0001 0x7ee5
+0x523d	0x98	ALTO		If it's this distance,	
+				it seems we can cross	
+				it somehow.	
+0x52f8	0x06	ALTO		ANI_WAIT	
+SB_4_S33_appear_ALTO					
+SB_4_S33_appear_Creha					
+EV_4_S33_in_remain					
+0x5773	0x98	Creha		This place is...	
+0x57ac	0x06	ALTO		ANI_WAIT4	
+0x57d3	0x98	ALTO		It's a ruin that fell a short time ago.	
+0x581a	0x98	ALTO		I met Noi with Cygna here.	
+0x5854	0x06	ALTO		ANI_WAIT	
+0x591a	0x98	ALTO	#6A	Let's go to the top floor, Kureha.	
+0x595f	0x06	ALTO		ANI_GESTURE2	
+0x5989	0x98	ALTO	#6A	I want to check on	
+				the condition of the village...	
+0x59e5	0x06	Creha		ANI_NOD	
+0x5a0b	0x98	Creha		...Okay, understood.	
+0x5b38	0x07	System	#3C	Kureha is following you.	
+0x5c27	0xCE	Objective		I'll go to the summit and check on the state of the village.	
+mp6200_retry					
+SB_4_S34_appear_ALTO					
+SB_4_S34_appear_Creha					
+EV_4_S34_see_flashback					
+0x6288	0x06	Creha		ANI_HEADACHE	
+0x62b3	0x98	Creha	#1W	...Ooh...	mp_0001c 0x4b32
+0x62e0	0x06	Creha		ANI_HEADACHE_SIT	
+0x637d	0x06	ALTO		ANI_SIT6	
+0x644f	0x98	ALTO	#180x#70y	A-Are you all right!?	
+0x648d	0x98	ALTO	#180x#70y	Shall we rest	
+				for a bit?	
+0x6515	0x06	Creha		ANI_HEADACHE_SIT2	
+0x654d	0x98	Creha	#0W#6A#300x#220y	...I'm sorry, don't worry about it.	
+				Because I'm fine...	
+0x65bc	0x6B	ALTO		Ellipsis	
+0x65ee	0x06	ALTO		ANI_SHAKE_HAND_PLEASE3	
+0x6649	0x98	ALTO		Whenever you're in pain,	
+				don't hold back and tell me	
+				about it.	
+0x66a5	0x98	ALTO	#200x#70y	I will──definitely protect you.	
+0x671e	0x98	Creha	#1W#6A#300x#220y	Thank you...	mp_0100a 0xf684
+0x6763	0x06	Creha		ANI_HEADACHE_SIT_HOLD_HAND	
+0x6885	0x3F	Name		???	mp_0101 0xda14
+0x6890	0x40	ALTO	#0W	──This way, Kureha!	mp_0101c 0x941
+0x68c8	0x40	ALTO	#0W	Hurry...You've got to run!!	
+0x69c7	0x98	ALTO	#0W#200x#70y	...Kureha?	
+0x6a39	0x98	Creha	#2W#6A#300x#220y	...No, it's nothing.	mp_0001 0x165cc
+0x6a8e	0x06	ALTO		ANI_WAIT	
+0x6ab4	0x06	Creha		ANI_WAIT	
+0x6ba1	0x06	ALTO		ANI_GESTURE2	
+0x6bd3	0x98	ALTO		Then, let's proceed ahead.	
+				Watch your step.	
+0x6c1d	0x06	Creha		ANI_NOD	
+0x6c43	0x98	Creha	#1W#6A	...Okay.	mp_0004c 0x10d2
+0x6ca1	0x98	Creha	#0W#6A	(...That just now...	
+				 did something like that	
+				 happen before...?)	

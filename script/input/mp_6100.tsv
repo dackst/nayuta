@@ -1,0 +1,253 @@
+mp_6100					
+init					
+talk_Michy					
+0x657	0x3F	Name		Mysterious Animal	mp_0002d 0x321a
+0x696	0x98	Michy		Mishishi♪	mp_0112 0x15a92
+0x6c1	0x98	Michy		............	mp_0001 0x15fd5
+0x768	0x07	System	#3C	The mysterious animal spit something out!!	
+0x7a7	0x07	System	#3C	The mysterious animal spit something out!!	mp_6100 0x768
+0x802	0xC1	System		obtained.	mp_0000 0x7558
+0x883	0xC1	System		obtained.	mp_0000 0x7558
+0x916	0x6B	ALTO		Sweatdrop	
+0x968	0x98	ALTO		T-thanks...	
+0x993	0x98	ALTO		(It's the same mysterious animal as always...	
+				 Looks like it's doing well.)	
+0xa27	0x98	ALTO		W-what is with this strange animal...	
+0xa6c	0x98	ALTO		(It's an animal I haven't seen anywhere.	
+				 I wonder where it disappeared to.)	
+0xb41	0x98	ALTO		(I found it again, but...)	
+0xb7b	0x98	ALTO		(...Hmm... In the end, just what	
+				 kind of animal is it, I wonder.)	
+0xbf2	0x98	ALTO		(Just what was that...?	
+				 I still don't understand anything...)	
+SB_0_S14_signa_move					
+EV_0_S14_out_remain					
+0x1123	0x98	Signa		Oh, it seems we're now outside.	
+0x1183	0x06	ALTO		ANI_SURPRISE	
+0x11ad	0x6B	ALTO		Exclamation	
+0x11df	0x98	ALTO		Ah...look at that Cygna!	
+0x13cf	0x06	ALTO		ANI_LOOK_AROUND	
+0x1404	0x98	ALTO		(pant... pant...)...Amazing!	
+				It's a sea-horizon panorama!	
+0x146c	0x06	Signa		ANI_WAIT2	
+0x1494	0x98	Signa		Yes, it's certainly a thing to behold.	
+0x14db	0x98	Signa		Before we knew it, it seems	
+				we climbed a significant distance.	
+0x15dd	0x06	Signa		ANI_WAIT4	
+0x1624	0x98	Signa		There's no monsters around...	
+				For now, let's end our investigation here.	
+0x16a3	0x98	Signa		How about it, Nayuta?	
+				Everyone in the village seems fine.	
+0x1738	0x98	ALTO		It looks like there's still more above us.	
+				Since we're here, let's go where	
+				we can go!	
+0x17ac	0x06	ALTO		ANI_JOY	
+0x17d1	0x98	ALTO		There might be places we haven't checked,	
+				or some kind of books!	
+0x1855	0x06	Signa		ANI_LAUGH	
+0x187d	0x98	Signa		Haha, I was thinking the same thing.	
+0x18c2	0x98	Signa		Then, watch your footing, and	
+				try climbing a little higher.	
+0x195b	0x06	ALTO		ANI_WAIT	
+0x1a40	0xCE	Objective		Just a little further. Let's try going where we can!	
+EV_0_S15_find_noi					
+0x1cdc	0x06	NOI		ANI_SLEEP_WITH_ORBMENT	
+0x1d80	0x06	komono07		ANI_STOP	
+0x1ebd	0xBC	ALTO		Exclamation	
+0x1ef3	0xBC	Signa		Exclamation	
+0x1f2a	0x06	ALTO		ANI_SURPRISE_WEAK	
+0x1f59	0x06	Signa		ANI_SURPRISE	
+0x1fd3	0x98	ALTO	#1W#6A	Cygna, what is that?	
+0x2023	0x98	Signa	#2W#6A	What indeed.	
+0x227c	0x06	ALTO		ANI_SIT6	
+0x22d0	0x98	Signa	#2W#N	Is it a small...girl?	
+0x2319	0x98	Signa	#1W#N	No. Though she is small,	
+				she doesn't seem like a child.	
+0x238b	0x98	ALTO	#0W#6A	...She is like a "Fairy" that	
+				appears in fairy tales.	
+0x2404	0x06	Signa		ANI_GESTURE2	
+0x243d	0x98	Signa	#2W#N	Wait, a fairy? Do such	
+				things really exist?	
+0x24ba	0x98	ALTO	#1W#6A	I don't know, but...	
+				This girl is really in front of us.	
+0x2542	0x98	ALTO	#0W#6A	I wonder where the heck	
+				she came from.	
+0x2595	0x3F	Name		Fairy?	mp_0110 0x1ca75
+0x25b1	0x98	NOI	#2W#12S#4W	...O-Ooh...	
+0x25f3	0x98	NOI	#12S#4W	...the gear...	
+				#12S...couldn't...protect...	
+0x26fd	0x6B	ALTO		Surprise	
+0x2727	0x6B	Signa		Surprise	
+0x2778	0x06	Signa		ANI_WAIT3	
+0x27bf	0x98	Signa		...Did she just talk?	
+0x27fd	0x98	ALTO	#6A	...It sounds like she's having a	
+				nightmare. I couldn't hear it	
+				well but...	
+0x2868	0x98	ALTO	#6A	What's more, I was interested in	
+				it before, that	
+				"Shining Thing"...	
+0x28cc	0x98	ALTO	#6A	Looking at it closely,	
+				it seems to be some kind	
+				of machine.	
+0x2930	0x98	Signa		Yeah, she's holding it tightly.	
+				It must be a very important thing.	
+0x299a	0x06	Signa		ANI_WAIT2	
+0x29e1	0x98	Signa		...Anyway, why is she in a place	
+				like this. We should take her back	
+				to the village and look after her...	
+0x2ab2	0x41	None	#0W#1E#833c	──I will not allow you to do anything unnecessary.#0E	
+0x2b4e	0x6B	ALTO		Exclamation	
+0x2bb4	0x6B	Signa		Exclamation	
+0x2e96	0x06	ALTO		ANI_WAIT	
+0x3077	0x06	ALTO		ANI_SURPRISE_WEAK	
+0x30d8	0x98	ALTO	#18S	Waugh...!	
+0x310d	0x06	Signa		ANI_SURPRISE	
+0x316b	0x98	Signa	#18S	What happened!?	
+0x358c	0x98	Signa	#200x#270y	...............!?	
+0x35d0	0x98	ALTO	#330x#270y	S-Someone appeared	
+				out of thin air!?	
+0x378b	0x98	Zext	#1W#6A	Hmph... it seems some	
+				kids are present.	
+0x397a	0x06	NOI		ANI_SLEEP_WITH_ORBMENT	
+0x39da	0x98	Zext	#1W#6A	<Noi>...	
+				You have been a thorn in my side.	
+0x3a3f	0x98	Zext	#1W#6A	Of all things, to think that	
+				you would bring the final <Master	
+				Gear> to this side...	
+0x3acd	0x06	Zext		ANI_HIT_GROUND	
+0x3c99	0x06	NOI		ANI_SLEEP_WITH_ORBMENT	
+0x3ccc	0x06	komono07		ANI_WAIT	
+0x3ded	0x06	NOI		ANI_FLY_BY_POWER	
+0x3eb9	0x98	Signa	#18S	Waugh...!?	
+0x402f	0x06	NOI		ANI_FLY_BY_POWER_LOOP	
+0x4138	0x98	Zext		Hmph, even though you've lost	
+				consciousness, you won't let it	
+				go.	
+0x41e3	0x98	Zext	#6A	Your tenacity is to be praised for	
+				sticking so closely to your mission.	
+0x4290	0x98	Zext	#6A	But, to me, it is indispensable,	
+				and I will have it.	
+0x42ee	0x06	Zext		ANI_HIT_GROUND	
+0x4465	0x06	NOI		ANI_FLY_BY_POWER_END	
+0x45b6	0x06	NOI		ANI_FLY_BY_POWER_END2	
+0x4688	0x3F	Name		Fairy?	mp_0110 0x1ca75
+0x4696	0x98	NOI	#190x#160y	...Tch...	mp_0115 0x14718
+0x46d8	0x98	ALTO	#0x#100y	Ah...!?	mp_3003d 0x695
+0x47ed	0x06	Zext		ANI_TAKE_OUT_LOOP	
+0x4906	0x98	Zext		With this, all preparations	
+				are in order...	
+0x4958	0x98	Zext		This time for sure,	
+				we will fulfill our	
+				dearest wish.	
+0x4a03	0x98	Zext		Quickly, we must continue with	
+				the plan to obtain the "Key."	
+0x4aaa	0x06	Zext		ANI_TAKE_OUT_END	
+0x4c42	0x98	Signa	#0W#18S#240x#250y	──Wait right there!	
+0x4f65	0x06	Signa		ANI_KEN_WO_KAMAERU_A_1	
+0x4ff4	0x98	ALTO	#1W#420x#150y	Are you okay?	
+0x5036	0x3F	Name		Fairy?	mp_0110 0x1ca75
+0x5044	0x98	NOI	#380x#270y#1W#6A	......Tch.........	
+0x50e1	0x98	Zext		What do you want, boy?	
+0x5117	0x98	Zext	#N	I'm a little busy right now.	
+				I don't have time to be	
+				your opponent.	
+0x5182	0x98	Signa	#6A	You can't just do	
+				whatever you want!	
+0x51c9	0x98	Signa	#6A	To take that thing she was	
+				holding by force while she was	
+				unconscious...	
+0x5233	0x98	Signa	#6A	I will never let something like	
+				that pass before my eyes!!	
+0x52d3	0x98	Zext		I see, you wish to put on	
+				chivalrous airs, huh?	
+0x5321	0x98	Zext	#N	...I acknowledge your strong spirit.	
+				But, measuring your worth as an opponent,	
+				going against me will be painful for you...	
+0x53da	0x98	Zext		──Deal with him for me.	
+0x5432	0x98	Seram		...By your command.	
+0x55e5	0x06	Seram		ANI_GRIP_SWORD_HANDLE	
+0x5681	0x98	Seram	#2W	Haha, come at me!	
+0x56c4	0x98	Seram	#1W	With this body, I will	
+				teach you how powerless	
+				you truly are!	
+0x5806	0x98	Signa	#0W#6A	Tch, so high and mighty...	
+				Don't draw a frown on me!	
+0x5a16	0x06	Signa		ANI_JUMP_ATTACK	
+0x5ab0	0x06	Seram		ANI_IAI_GUARD	
+0x5c39	0x98	Seram	#6A	...Yah!...	
+0x5e3b	0x98	Signa	#6A#16S	......What.........!?	
+				#16S(What is this feeling...!?)	
+0x5eaf	0x98	Seram	#6A#18S	...Ha!!	
+0x6007	0x06	Seram		ANI_ATK1-5	
+0x605e	0x98	ALTO	#16S	Cygna!!	
+0x60b0	0x98	Signa	#6A	I-I'm alright...	
+				You protect the girl!	
+0x6223	0x98	Zext		...What's wrong. That isn't like you.	
+				To have so much trouble with	
+				an opponent.	
+0x6298	0x98	Seram	#0W	...It's...nothing...	
+0x62ef	0xBC	Zext		Surprise	
+0x634b	0x98	Zext		...Oh...I see.	
+0x63bd	0x98	Zext		...It seems your coming to this world	
+				was not necessarily a coincidence.	
+0x642c	0x98	Zext		Everything is guided	
+				by the stars...	
+0x6477	0x98	Signa	#6A	What're you	
+				complaining about!?	
+0x6505	0x98	Zext		Haha, well that's fine.	
+				It seems that time has already come.	
+0x6560	0x98	Zext		Now, there is something we	
+				must do on the "other side."	
+				...Let us go.	
+0x67d2	0x06	Seram		ANI_NOUTOU	
+0x68ed	0x98	Seram	#1W	...Later.	
+0x6ce5	0x98	ALTO		Ah...	mp_0004 0x6a21
+0x6d12	0x06	Signa		ANI_WAIT	
+0x6d39	0x98	Signa		Tch...	
+				I let them get away.	
+0x6d74	0x98	Signa		I don't get it at all...	
+0x6f31	0xBC	ALTO		Ellipsis	
+0x6f67	0xBC	Signa		Ellipsis	
+0x6fe3	0x98	ALTO		Hey Cygna, who in the	
+				world were those people?	
+0x7030	0x98	ALTO		It seems they had a mysterious	
+				power, but in the end they just	
+				talked...	
+0x70d2	0x06	Signa		ANI_WAIT3	
+0x70fa	0x98	Signa	#6A	...I don't know	
+				anything.	
+0x7136	0x98	Signa	#6A	"This side" and "that side," and	
+				on top of all that, "Somekinda Gear"...	
+				There's too many things I don't know.	
+0x71ce	0x98	ALTO		That's true.	
+				But I'm interested by the various things...	
+0x7242	0x98	ALTO		...They called her Noi	
+				if I remember correctly.	
+0x7290	0x98	ALTO		For now, let's look	
+				after this girl.	
+0x72db	0x06	Signa		ANI_WAIT2	
+0x7303	0x98	Signa	#6A	Right.	
+				Let's go to your	
+				house for now.	
+0x73c9	0x40	UNDEF		After that, Nayuta and Cygna	
+				wrapped Noi in a cloth and...	
+0x7423	0x40	UNDEF		Taking care not to show her form to the islanders,	
+				headed for Nayuta's house.	
+SB_0_S15_seram_move					
+SB_0_S15_nayuta_move					
+0x76ac	0xBC	ALTO		Exclamation	
+0x771b	0x06	ALTO		ANI_SURPRISE_WEAK	
+SB_0_S15_signa_move					
+0x776a	0xBC	Signa		Exclamation	
+0x77dc	0x06	Signa		ANI_SURPRISE_WEAK	
+SB_0_S15_nayuta_move2					
+0x7870	0x06	ALTO		ANI_SIT6	
+SB_0_S15_signa_move2					
+0x79a9	0x06	Signa		ANI_BACKSTEP	
+0x7a23	0x06	Signa		ANI_KEN_WO_KAMAERU_A_2	
+SB_0_S15_equip_4					
+stp_back					
+0x7a98	0x98	ALTO		It seems there's still	
+				more ruins above...	
+0x7ae1	0x98	ALTO		Since we've come all this way,	
+				let's go as far as we can!	

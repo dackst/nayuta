@@ -1,0 +1,51 @@
+mp_2001c					
+init					
+ev_goal					
+move_marker00					
+move_marker01					
+open_mushroom1					
+0x855	0x06	swt01		ANI_LEVER_ON_LOCK	
+open_mushroom2					
+0x958	0x06	swt02		ANI_LEVER_ON_LOCK	
+open_mushroom3					
+0xa78	0x06	swt03		ANI_LEVER_ON_LOCK	
+boss_battle01					
+0xae6	0x6B	ALTO		Exclamation	
+dead_EV01					
+open_door1					
+boss_battle02					
+0xec7	0x6B	ALTO		Exclamation	
+dead_EV02					
+open_door2					
+dead_EV04					
+0x117c	0x07	System	#3C	Defeated high-rank monster [Albion]!	
+0x1239	0x06	ALTO		ANI_TAMEATK1	
+0x126b	0xC1	System		obtained.	mp_0000 0x7558
+0x146d	0x06	ALTO		ANI_NOD	
+0x1492	0x98	ALTO		Phew...We defeated it somehow.	mp_1000d 0x15cc
+0x14d0	0x06	ALTO		ANI_GESTURE2	
+0x14fa	0x98	ALTO		Does it seem like that monster	mp_1000d 0x1634
+				appeared due to the abnormalities?	
+0x155a	0x06	NOI		ANI_NOD	
+0x1596	0x98	NOI	#6A	Yes, that power...	mp_1000d 0x16d0
+				There's no mistake.	
+0x15dd	0x06	NOI		ANI_LAUGH	
+0x1603	0x98	NOI	#6A	But with this, this region	mp_1000d 0x173d
+				should be a little more peaceful.	
+0x1660	0x98	NOI	#6A	Nayuta, let's report to the	mp_1000d 0x179a
+				spirit that made the request!	
+0x16c4	0x98	NOI	#6A	Yeah, there's no mistake.	mp_1000d 0x17fe
+0x16ff	0x06	NOI		ANI_LAUGH	
+0x1725	0x98	NOI	#6A	With this, this region	mp_1000d 0x185f
+				should be a little more peaceful.	
+0x177e	0x98	NOI	#6A	Nayuta, let's report to the	mp_1000d 0x179a
+				spirit that made the request!	
+0x17da	0x06	ALTO		ANI_GUTSPOSE	
+0x1804	0x98	ALTO		Yeah!	mp_0001 0x1174e
+encount_secret					
+0x1aa1	0x6B	ALTO		Exclamation	
+0x1acb	0x6B	NOI		Exclamation	
+0x1bb8	0x98	NOI		That monster...!	mp_1000d 0x1c91
+0x1bef	0x98	ALTO		It's the monster that spirit asked	mp_1000d 0x1cc8
+				us to defeat...	
+				Let's fight it carefully!	

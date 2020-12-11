@@ -1,0 +1,110 @@
+mp_6000					
+init					
+ev_goal					
+ev_bridge_00					
+0x6cc	0x06	ob_br_00		ANI_PATA1	
+ev_bridge_01					
+0x77e	0x06	ob_br_01		ANI_PATA1	
+ev_bridge_02					
+0x830	0x06	ob_br_02		ANI_PATA1	
+ev_bridge_03					
+0x8e2	0x06	ob_br_03		ANI_PATA1	
+sw_timer_st					
+0xa28	0x06	t_sw01		ANI_LEVER_OFF	
+0xa89	0x06	t_sw02		ANI_LEVER_OFF	
+0xaea	0x06	t_sw03		ANI_LEVER_OFF	
+0xb4b	0x06	t_sw04		ANI_LEVER_OFF	
+0xbfc	0x06	t_sw01		ANI_STOP1	
+0xc25	0x06	t_sw02		ANI_STOP1	
+0xc4e	0x06	t_sw03		ANI_STOP1	
+0xc77	0x06	t_sw04		ANI_STOP1	
+sw_timer_ct					
+ev_timer					
+0xf0c	0x06	t_sw_st		ANI_LEVER_OFF	
+sw_door03					
+0xfe2	0x06	switch1		ANI_LEVER_ON_LOCK	
+boss_battle					
+0x104a	0x6B	ALTO		Exclamation	
+dead_EV01					
+open_door4_5_6					
+sw_door07					
+0x1496	0x06	switch2		ANI_LEVER_ON_LOCK	
+sw_roll					
+0x1796	0x06	r_sw01		ANI_LEVER_OFF	
+sw_door08					
+0x183b	0x06	switch3		ANI_LEVER_ON_LOCK	
+boss_battle2					
+0x18ea	0x06	mahouzin2		ANI_STOP2	
+0x192c	0x6B	ALTO		Exclamation	
+dead_EV02					
+open_door9_10					
+0x2058	0x07	System	#3C	Defeated high-rank monster [Expatrion]!	
+0x2117	0x06	NOI		ANI_TAMEATK1	
+0x217a	0x07	System	#1C	Noi recovered the spring magic, #4C『#780ITri-Blossom』#1C!	
+0x2208	0xC1	System		obtained.	mp_0000 0x7558
+QS_42_Lithograph					
+0x240f	0x40	UNDEF		Something is written in ancient letters.	
+0x2482	0x98	ALTO		This tablet...	
+				Some sentence is	
+				written on it.	
+0x24ce	0x98	NOI		Hmm, they do look like	
+				ancient letters, but...	
+0x251a	0x98	NOI		We don't have time to	
+				read them right now.	
+				Let's come check it later!	
+0x257c	0x98	ALTO		Oh...You're right.	
+0x25ae	0x98	ALTO		(For now, I should memorize	
+				 this location.)	
+0x262f	0x40	UNDEF		Something is written in ancient letters.	mp_6000 0x240f
+QS_42_Lithograph_Ev					
+0x27c0	0x06	ALTO		ANI_WAIT	
+0x2921	0x06	ALTO		ANI_GESTURE2	
+0x294b	0x98	ALTO	#6A	It looks like something	
+				is written on this tablet.	
+0x299f	0x06	ALTO		ANI_THINK2	
+0x29c7	0x98	ALTO	#6A	Maybe something important	
+				is written here?	
+0x2a13	0x06	NOI		ANI_GESTURE1	
+0x2a3c	0x98	NOI	#6A	They look like ancient	
+				letters. I'll read them.	
+0x2a8c	0x98	NOI	#6A	Let's see...	mp_0002 0x10ffb
+0x2aba	0x6B	NOI		Question	
+0x2aeb	0x06	NOI		ANI_THINK	
+0x2b11	0x98	NOI	#6A	...It looks like only one	
+				part of the message	
+				is written here.	
+0x2b6f	0x98	NOI	#6A	To read it properly,	
+				I think we need the other	
+				parts as well.	
+0x2bcc	0x98	ALTO	#6A	Is that so...	mp_0001 0xcecd
+0x2bfc	0x06	ALTO		ANI_GESTURE2	
+0x2c26	0x98	ALTO	#6A	Then for now, I'll write down	
+				the letters on this tablet.	
+0x2c81	0x98	ALTO	#6A	We'll search for the other tablets,	
+				write them all down, and head	
+				to Dr. Volans to inspect them.	
+0x2d02	0x06	NOI		ANI_NOD	
+0x2d26	0x98	NOI	#6A	Yeah, got it!	mp_0101 0x956b
+0x2dbd	0x98	NOI	#6A	There it is, a tablet!	
+0x2df5	0x06	ALTO		ANI_GESTURE2	
+0x2e1f	0x98	ALTO	#6A	Alright, I'll record	
+				the written letters.	
+0x2e6c	0x40	UNDEF		Nayuta wrote down the tablet's letters.	
+0x2ebc	0xC1	System		obtained.	mp_0000 0x7558
+0x2fbf	0x6B	NOI		Exclamation	
+0x2ff0	0x06	NOI		ANI_SURPRISE	
+0x3019	0x98	NOI	#6A	Ah...	
+				If we put together the memos we've taken up until	
+				now, it seems they make a single composition!	
+0x309e	0x06	ALTO		ANI_GESTURE2	
+0x30c8	0x98	ALTO	#6A	It looks like we've gathered	
+				the information.	
+0x3117	0x98	ALTO	#6A	Let's take it to Dr. Volans	
+				immediately.	
+0x31af	0x06	NOI		ANI_THINK	
+0x31d5	0x98	NOI	#6A	Hmm...	
+				It still doesn't look like it makes	
+				a proper composition.	
+0x3235	0x06	ALTO		ANI_GESTURE2	
+0x325f	0x98	ALTO	#6A	Then, let's search	
+				for the other tablets.	

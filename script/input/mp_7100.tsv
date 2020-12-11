@@ -1,0 +1,60 @@
+mp_7100					
+init					
+EV_7_S02_enter_cradle					
+0x53b	0x6B	ALTO		Exclamation	
+0x56d	0x6B	NOI		Exclamation	
+0x59e	0x06	ALTO		ANI_SURPRISE	
+0x5c8	0x06	NOI		ANI_SURPRISE	
+0x605	0x98	ALTO	#6A#18S	W-Wah!?	
+0x63b	0x98	NOI	#6A	A-A monster!?	
+0x672	0x6B	ALTO		Ellipsis	
+0x69c	0x6B	NOI		Ellipsis	
+0x6cd	0x06	ALTO		ANI_GESTURE2	
+0x6f7	0x98	ALTO	#6A	It looks like it won't	
+				come attack us...	
+0x741	0x98	ALTO	#6A	What is with this thing?	
+0x784	0x06	NOI		ANI_DENY	
+0x7a9	0x98	NOI	#6A	It's an ancient species...	
+				Though I've never seen	
+				one this big.	
+0x808	0x98	NOI	#6A	...Let's have a look around!	
+0xca4	0x06	ALTO		ANI_LOOK_AROUND	
+0xcd1	0x98	ALTO		It looks like there are	
+				squirming things here and there...	
+0xd32	0x06	NOI		ANI_THINK	
+0xd58	0x98	NOI	#6A	The atmosphere of this place...	
+				Somehow, it's completely changed.	
+0xdba	0x98	NOI	#6A	Originally, this section was to store	
+				the eggs of ancient species, but...	
+0xe24	0x06	NOI		ANI_WAIT	
+0xe51	0x06	ALTO		ANI_NOD	
+0xe76	0x98	ALTO		..It seems we should	
+				proceed carefully.	
+0xf54	0x06	ALTO		ANI_WAIT	
+EV_7_S03_look_up_statue					
+0x1208	0x06	ALTO		ANI_SURPRISE	
+0x1232	0x98	ALTO	#6A	Ah, that sinister statue is!?	
+0x127a	0x06	NOI		ANI_THINK	
+0x12a0	0x98	NOI	#6A	That should be the	
+				goddess statue that is the	
+				symbol of all life...	
+0x1303	0x06	NOI		ANI_DEJECTED	
+0x132c	0x98	NOI	#6A	Maybe because of the influence	
+				of the <Planetarium> being used, this	
+				whole section has changed...	
+0x13b5	0x06	ALTO		ANI_GESTURE2	
+0x13df	0x98	ALTO	#6A	This whole section has changed...	
+				This huge place!?	
+0x1434	0x06	ALTO		ANI_THINK2	
+0x145c	0x98	ALTO	#6A	The <Planetarium>...	
+				It's holding that much	
+				energy, huh...	
+0x14bf	0x06	NOI		ANI_DENY	
+0x14e4	0x98	NOI	#6A	The structure itself is changing.	
+				I don't know what will happen	
+				to the path past here, but...	
+0x1561	0x06	NOI		ANI_GUTSPOSE	
+0x158a	0x98	NOI	#6A	...Let's go now!	
+				For Master Kureha!	
+0x15d6	0x06	ALTO		ANI_NOD	
+0x15fb	0x98	ALTO	#6A	...Yeah!	mp_0001c 0x406c

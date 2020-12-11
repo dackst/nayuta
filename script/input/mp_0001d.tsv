@@ -1,0 +1,128 @@
+mp_0001d					
+init					
+stp_tower					
+0x484	0x98	ALTO		I don't have time for any detours...	
+				I've got to look for Kureha!	
+quest_Pyxia					
+0x548	0x98	Pyxia		...Michey? What is that?	
+				I haven't seen him.	
+0x594	0x98	Pyxia		At least, I don't think he's	
+				gone to the ruined tower.	
+talk_Pyxia					
+0x616	0x98	Pyxia		Though I asked that pretty girl	
+				to model for my picture...	
+0x670	0x98	Pyxia		...She said she doesn't have	
+				time for that sort of thing.	
+0x6c9	0x98	Pyxia		I'm going to sock that man in	
+				black with a spatula the	
+				next time I see him!	
+0x75b	0x98	Pyxia		That man in black...	
+				I won't forgive him.	
+0x7a4	0x98	Pyxia		If I find him,	
+				I'll sock him with a spatula!	
+talk_Horolo					
+0x81e	0x98	Horolo		It looks like there are hardly	
+				any buildings on the island	
+				that are all right.	
+0x88c	0x98	Horolo		It also looks like there are	
+				plenty of injured people resisting...	
+0x8ef	0x98	Horolo		I really get the feeling that	
+				he came to the island just	
+				to steal away that girl...	
+0x98a	0x98	Horolo		Just why did that man in black	
+				come to the island to steal	
+				that girl?	
+0x9ef	0x98	Horolo		Somehow, I wonder if there was	
+				some special reason...?	
+talk_Lyra					
+0xa74	0x98	Lyra		Nayuta...	mp_0000d 0x7671
+0xa9d	0x98	ALTO		Lyra...	
+				If you're here now, you'll get hurt.	
+0xae8	0x98	Lyra		Yeah, I know that, but...	
+0xb21	0x98	Lyra		...Kureha...	
+				Why was she taken away, I wonder...	
+0xb70	0x98	Lyra		If she hated us that much,	
+				then why...	
+0xbb5	0x98	ALTO		I don't know, but...	
+0xbe9	0x98	ALTO		Kureha thanked	
+				everyone on the island...	
+				She said she had fun here.	
+0xc4a	0x98	ALTO		That's why I am sure, this kind of	
+				Kureha wouldn't want anything	
+				like this.	
+0xcb3	0x98	ALTO		...That's reason enough for me.	
+0xcf2	0x98	Lyra		Nayuta...	mp_0000d 0x7671
+0xd1b	0x98	Lyra		...Yeah, got it.	
+				I believe in you, Nayuta.	
+0xd64	0x98	Lyra		When you say it like that,	
+				I wonder what kind of impossible	
+				task you're trying to accomplish.	
+0xddf	0x98	ALTO		Ahaha...that might be true.	
+0xe1a	0x98	Lyra		Unfortunately, it's like that, *sigh*...	
+0xe62	0x98	Lyra		Well, fine.	
+				It also seems	
+				Cygna went to that world.	
+0xeb3	0x98	Lyra		Nayuta, please look after	
+				those two. I'm sure you	
+				can bring them back for us!	
+0xf46	0x98	Lyra		Nayuta...	
+				I'm sure you'll bring back	
+				Cygna and Kureha for us!	
+0xfa1	0x98	Lyra		I'll be waiting on this island.	
+				For your return.	
+talk_Dog_before					
+0x1092	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
+0x10bc	0x6B	ALTO		Surprise	
+0x10ee	0x98	ALTO		Now that you mention it...	mp_0001 0x391b
+				I bought a "doghouse"	
+				at the general store, didn't I?	
+0x115c	0x98	ALTO		If I have this, I can give	mp_0001 0x3989
+				this one a place protected	
+				from wind and rain, but...	
+0x11ca	0x6B	ALTO		Ellipsis	
+0x11fc	0x98	ALTO		Hey you, want to come to my place?	mp_0001 0x3a29
+0x123e	0x6B	Dog		Unknown	
+0x126f	0x98	Dog		Ruff, ruff♪	mp_0001 0x3a9c
+0x129a	0x98	ALTO		Ahaha, is that so.	mp_0001 0x3ac7
+0x12cc	0x98	ALTO		Alright...I'll consult with Eartha	mp_0001 0x3af9
+				about it immediately.	
+0x1349	0x40	UNDEF		Nayuta returned home, and consulted	mp_0001 0x3b76
+				with Eartha about the stray dog.	
+0x13ad	0x40	UNDEF		Though Eartha was surprised at first, she heard	mp_0001 0x3bda
+				the information and gladly OK'd the idea.	
+0x1540	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
+0x156a	0x98	ALTO		Huh, I haven't seen you before.	mp_0001 0x3d94
+0x15a9	0x98	ALTO		I wonder if you wandered onto	mp_0001 0x3dd3
+				the ferry and came ashore	
+				onto this island.	
+0x1610	0x6B	Dog		Unknown	
+0x1641	0x98	Dog		Wafu, wafu...	mp_0001 0x3e6b
+0x166d	0x98	ALTO		Ahaha, you're cute.	mp_0001 0x3e97
+0x16a0	0x98	ALTO		(...That's right, I wonder	mp_0001 0x3f89
+				 if I can keep him at home?)	
+0x16f6	0x98	ALTO		(If I had a proper doghouse	mp_0001 0x3fdf
+				 it would be fine... I wonder if	
+				 I could look for one at the general store.)	
+0x17f7	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
+0x1821	0x98	ALTO		(If I had a doghouse,	mp_0001c 0x3ddd
+				 I could keep him at home, but...)	
+talk_Michy					
+0x1994	0x06	ALTO		ANI_SURPRISE_WEAK	
+0x19c3	0x98	ALTO		Ah, in this kind of place...!	
+0x1a1d	0x6B	Michy		Exclamation	
+0x1a50	0x98	Michy		Mi-, mii!	
+0x1ac3	0x6B	ALTO		Exclamation	
+0x1b1d	0x6B	ALTO		Sweatdrop	
+0x1b4f	0x06	ALTO		ANI_DEJECTED	
+0x1b79	0x98	ALTO		W-Wait...!	
+0x1ba3	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x1bd1	0x98	ALTO		Ooh, I wonder where he's	
+				gone this time.	
+				I've gotta search immediately!	
+QS_58_RunAway_Michy					
+LP_haka					
+0x1fab	0x41	None		William Herschel	mp_0001 0x4982
+				  Mary Herschel	
+				Their souls are with god,	
+				in peace.	
+EV_4_S32_go_remain					

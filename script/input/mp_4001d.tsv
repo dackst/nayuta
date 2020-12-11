@@ -1,0 +1,18 @@
+mp_4001d					
+init					
+ev_goal					
+open_door1					
+0x3ab	0x06	switch		ANI_LEVER_ON_LOCK	
+boss_battle					
+0x412	0x6B	ALTO		Exclamation	
+dead_ev01					
+open_jump					
+battle_skill					
+0x8bf	0x06	mahouzin2		ANI_STOP2	
+0x901	0x6B	ALTO		Exclamation	
+dead_skill					
+open_door02_03					
+0xe6d	0x07	System	#3C	Defeated high-rank monster [Serpentia]!	
+0xf2c	0x06	NOI		ANI_TAMEATK1	
+0xf8f	0x07	System	#1C	Noi recovered the winter magic #4C『#778IBlizzard』#1C!	
+0x1019	0xC1	System		obtained.	mp_0000 0x7558

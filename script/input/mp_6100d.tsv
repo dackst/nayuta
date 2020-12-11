@@ -1,0 +1,125 @@
+mp_6100d					
+init					
+stp_back					
+0x380	0x98	ALTO		Anyway, let's try going as high as we can.	
+				I've got to check on the village!	
+SB_4_S35_appear_ALTO					
+SB_4_S35_appear_Creha					
+SB_4_S35_appear_Seram					
+SB_4_S35_exit_Seram					
+SB_4_S35_exit_Creha					
+EV_4_S35_byebye_creha					
+0xe57	0x06	ALTO		ANI_NOD	
+0xe9a	0x98	ALTO		Alright, if we've come this far...	
+0xf86	0x06	ALTO		ANI_LOOK_AROUND	
+0xfd1	0x98	ALTO		Anyhow, from here	
+				it would be good to check	
+				on the condition of the village...	
+0x106b	0x06	Creha		ANI_NOD	
+0x1125	0x98	Creha	#0W	Yes...	mp_0111 0x794d
+0x119f	0x41	None	#1W#1E#889c	──You're late.#0E	
+0x1217	0x6B	ALTO		Exclamation	
+0x125f	0x06	ALTO		ANI_SURPRISE_WEAK	
+0x1296	0x6B	Creha		Exclamation	
+0x12e0	0x06	Creha		ANI_SURPRISE	
+0x1841	0x98	Creha	#400x#280y#1W	Ah...	mp_0004 0x6a21
+0x187c	0x06	Seram		ANI_DENY	
+0x18e9	0x98	Seram		Hehe, how shallow.	
+0x191c	0x06	Seram		ANI_GESTURE2	
+0x198d	0x98	Seram		Did you really think	
+				you could run away from us?	
+0x1a88	0x06	ALTO		ANI_BATTOU2	
+0x1b03	0x98	ALTO	#6A	Get back, Kureha!	
+				I'll fight him──!!	
+0x1b8f	0x98	Seram		Without even Noi...	
+				I can't think you're a match for me.	
+0x1be7	0x06	Seram		ANI_GESTURE1	
+0x1c12	0x98	Seram		For the sake of your body,	
+				you should stop being irresponsible	
+				and recognize the difference in our strengths.	
+0x1ca6	0x06	ALTO		ANI_TENSION_STRONG_DENY	
+0x1cdb	0x98	ALTO	#6A	Even so...	
+				I will protect Kureha!	
+0x1d1e	0x98	ALTO	#6A	As if I could stand	
+				giving her to you!!	
+0x1d6f	0x06	Seram		ANI_LAUGH	
+0x1d97	0x98	Seram		...Hehe, whatever.	
+				I don't intend to take	
+				her from you.	
+0x1e2b	0x98	Seram		Kureha herself should understand.	
+				...Who will she must follow.	
+0x1e99	0x06	Creha		ANI_SURPRISE_WEAK	
+0x1ec9	0x98	Creha	#0W#6A	...Eh...	
+0x1f00	0x06	ALTO		ANI_TENSION_WAIT	
+0x1f2e	0x98	ALTO	#0W#6A	W-What are you...!	
+0x2188	0x98	Seram	#1W#240x#0y	Kureha, you should	
+				be remembering.	
+0x2202	0x98	Seram	#2W#240x#0y	The mission of the <Mythos>...	
+				What we must do.	
+0x22b0	0x98	Seram	#1W#240x#0y	Remember your birthplace, your family...	
+				...and as for the ones who took everything from us...	
+0x238d	0x98	Seram	#1W#240x#0y	──I speak of none other	
+				than "humanity."	
+0x258f	0x98	Creha	#1W#16S	───────────!!	
+0x26a8	0x06	Creha		ANI_HEADACHE_SIT	
+0x2761	0x98	Creha	#2W#16S	...Aaaaaah...!!	
+0x2aa6	0x06	ALTO		ANI_SIT6	
+0x2c49	0x98	Creha	#2W#6A	...Ooh...	mp_0001c 0x4b32
+0x2cd9	0x98	ALTO	#0W#16S	Kureha, Kureha!?	
+0x2d18	0x06	Creha		ANI_HEADACHE_SIT2SIT8	
+0x2df0	0x06	Creha		ANI_HEADACHE_SIT_END	
+0x2e2b	0x6B	ALTO		Surprise	
+0x2e5d	0x06	ALTO		ANI_WAIT	
+0x2f3b	0x98	Creha	#6A#2W	............	mp_0001 0x15fd5
+0x2f76	0x06	ALTO		ANI_GESTURE2	
+0x2fbe	0x98	ALTO		Are you all right, Kureha!?	
+0x301f	0x06	Creha		ANI_NOD	
+0x304d	0x98	Creha	#0W#6A	...I'm fine.	
+				The pain has...subsided...	
+0x309a	0x06	ALTO		ANI_THANKS	
+0x3152	0x98	ALTO		T-Then, that's great!	
+0x32a5	0x98	ALTO	#6A	Just what in the world did you	
+				do to Kureha!?	
+0x32f4	0x98	ALTO	#6A	I won't just let you do	
+				whatever you like!	
+0x3348	0x06	Seram		ANI_LAUGH	
+0x33b6	0x98	Seram		Hehe...	mp_0110 0x20945
+0x3422	0x98	Creha	#0W#6A	...Nayuta, I am──	
+0x348b	0x98	Creha	#0W#6A	I'm going to follow him.	
+0x34d2	0x6B	ALTO		Ellipsis	
+0x3559	0x98	ALTO		Eh.	
+0x371f	0x06	ALTO		ANI_COMPLAIN	
+0x3767	0x98	ALTO	#0W	W-Wait...	
+				What's wrong all of a sudden!?	
+0x3844	0x98	Creha	#0W	...I'm sorry.	mp_0110 0x2cf25
+0x3875	0x98	Creha	#0W	I remembered.	
+				The mission I must accomplish...	
+0x38e5	0x98	Creha	#0W	Our destiny does not	
+				lie with "humans."	
+0x3992	0x98	Creha	#1W	I cannot be with	
+				you anymore.	
+0x3a15	0x06	ALTO		ANI_GESTURE1	
+0x3acf	0x98	ALTO	#1W	N-No way...	mp_0111 0x86c0
+0x3c07	0x98	Seram	#1W	──Nayuta Herschel.	
+				Though you thought you	
+				could do a little something...	
+0x3c73	0x06	Seram		ANI_DENY	
+0x3cee	0x98	Seram	#1W	In the end, you didn't	
+				protect anything at all.	
+0x3d40	0x06	Seram		ANI_GESTURE2	
+0x3dbf	0x98	Seram	#1W	In the end,	
+				it's because of your attitude.	
+0x3e14	0x06	ALTO		ANI_SURPRISE_WEAK	
+0x3e57	0x98	ALTO	#1W#6A#16S	......!!	mp_5098 0x4e28
+0x3ee5	0x98	Seram	#0W	Let's go, Kureha.	
+0x3f1a	0x06	Seram		ANI_GESTURE1	
+0x3f53	0x98	Seram	#1W	<Terra>...	
+				It's waiting for us.	
+0x3fe3	0x06	Creha		ANI_NOD	
+0x4105	0x98	Creha	#1W	...Goodbye...	
+0x418a	0x98	ALTO	#1W	Wait──	
+0x433d	0x06	ALTO		ANI_HAND_EXTENDED_RUN	
+0x43a6	0x06	ALTO		ANI_HAND_EXTENDED_RUN_END	
+0x44f3	0x98	ALTO	#3W	............	mp_0001 0x15fd5
+0x4592	0x98	ALTO	#3W	...Why...	
+EV_4_S35_bye_creha_cs					

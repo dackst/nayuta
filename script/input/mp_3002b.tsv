@@ -1,0 +1,28 @@
+mp_3002b					
+init					
+ev_goal					
+tg_on					
+close_door1					
+0x855	0x6B	ALTO		Exclamation	
+dead_ev01					
+open_door_1					
+battle					
+0xd8f	0x6B	ALTO		Exclamation	
+dead_ev03					
+open_door_2					
+put_plate					
+sw02					
+0x14a9	0x06	sw02		ANI_LEVER_ON_LOCK	
+sw03					
+0x153b	0x06	sw03		ANI_LEVER_ON_LOCK	
+sw04					
+0x15cd	0x06	sw04		ANI_LEVER_ON_LOCK	
+put_tg					
+sw234_timer					
+0x1819	0x06	sw02		ANI_STOP1	
+0x1840	0x06	sw03		ANI_STOP1	
+0x1867	0x06	sw04		ANI_STOP1	
+sw05					
+0x1966	0x06	sw05		ANI_LEVER_ON_LOCK	
+put_jump					
+0x1be3	0x06	sw05		ANI_STOP1	

@@ -1,0 +1,221 @@
+mp_3002c					
+init					
+0x5c6	0x06	hana00		ANI_STOP2	
+0x5ef	0x06	hana01		ANI_STOP2	
+0x618	0x06	hana02		ANI_STOP2	
+0x641	0x06	hana03		ANI_STOP2	
+0x66a	0x06	hana04		ANI_STOP2	
+0x693	0x06	hana05		ANI_STOP2	
+0x6bc	0x06	hana06		ANI_STOP2	
+0x6e5	0x06	hana07		ANI_STOP2	
+0x70e	0x06	hana08		ANI_STOP2	
+0x737	0x06	hana09		ANI_STOP2	
+0x760	0x06	hana10		ANI_STOP2	
+0x789	0x06	hana11		ANI_STOP2	
+0x7b2	0x06	hana12		ANI_STOP2	
+0x7db	0x06	hana13		ANI_STOP2	
+0x804	0x06	hana14		ANI_STOP2	
+ev_goal					
+hashira1					
+0xa4a	0x06	nobi1		ANI_DOWN	
+hashira1_Cmd					
+0xb19	0x06	nobi1		ANI_UP	
+0xb64	0x06	swt01		ANI_LEVER_OFF	
+hashira2					
+0xc73	0x06	nobi2		ANI_DOWN	
+hashira2_Cmd					
+0xd34	0x06	nobi2		ANI_UP	
+0xd7f	0x06	swt02		ANI_LEVER_OFF	
+hashira3					
+0xe8e	0x06	nobi3		ANI_DOWN	
+hashira3_Cmd					
+0xf4f	0x06	nobi3		ANI_UP	
+0xf9a	0x06	swt03		ANI_LEVER_OFF	
+hashira4					
+0x10a9	0x06	nobi4		ANI_DOWN	
+hashira4_Cmd					
+0x116a	0x06	nobi4		ANI_UP	
+0x11b5	0x06	swt04		ANI_LEVER_OFF	
+boss_battle					
+0x1227	0x6B	ALTO		Exclamation	
+dead_EV01					
+put_hana01					
+QS_81_check_altar					
+0x188a	0x40	UNDEF		Tried holding out the unopened box.	
+0x18d6	0x40	UNDEF		...It seems there's no reaction.	
+0x1931	0x98	ALTO		H-Huh...?	
+				I thought it was this place, but...	
+0x197d	0x98	NOI		I see...Certainly, this "Cage"	
+				used the "Power Place" of the Power	
+				of Stars and was manufactured, it seems.	
+0x1a05	0x98	NOI		But somehow, the process	
+				may have been insufficient.	
+0x1a57	0x98	ALTO		"If you would release this box,	
+				 when the ideal season comes around,	
+				 offer up this box"...was it.	
+0x1ad7	0x98	ALTO		(Somehow, I need to think about	
+				 the order as it relates to	
+				 the seasons, maybe.)	
+0x1b6e	0x98	ALTO		("If you would release this box,	
+				 when the ideal season comes around,	
+				 offer up this box"...)	
+0x1be9	0x98	ALTO		(Somehow, I need to think about	mp_3002c 0x1ad7
+				 the order as it relates to	
+				 the seasons, maybe.)	
+QS_81_hang_out_box					
+0x1e37	0x06	ALTO		ANI_HANDOVER1	
+0x1edd	0x40	UNDEF		Nayuta put up the unopened box.	
+0x1f1d	0x6B	ALTO		Ellipsis	
+0x1f4f	0x6B	NOI		Ellipsis	
+0x1fac	0x6B	ALTO		Exclamation	
+0x1fd6	0x6B	NOI		Exclamation	
+0x2024	0x98	ALTO		There...	
+				It seems the third lock is released!	
+0x20a8	0x98	NOI	#6A	With this, there is only one remaining.	
+0x20f1	0x98	NOI	#6A	I wonder just what	
+				is in this box.	
+0x219d	0x06	ALTO		ANI_WAIT	
+0x21fd	0x98	ALTO		Yeah, I'm interested in it too.	
+0x223c	0x06	ALTO		ANI_GESTURE1	
+0x2266	0x98	ALTO		Because it's a size I can carry around,	
+				I don't think it's that bulky of	
+				a thing, but...	
+0x22dc	0x06	ALTO		ANI_JOY	
+0x2301	0x98	ALTO		...Alright, the next one should be the last.	
+				Let's head for the <Abyss Continent>!	
+SB_4_S03_escape_ALTO					
+SB_4_S03_move_ALTO					
+SB_4_S03_move_NOI					
+EV_4_S03_help_algorl					
+0x2c6b	0x06	ALTO		ANI_SURPRISE	
+0x2c95	0x98	ALTO		There was a great block of ice there, but...	
+				It completely melted!	
+0x304a	0x06	NOI		ANI_GESTURE1	
+0x3073	0x98	NOI	#6A	Algol, are you all right!?	
+0x30e3	0x41	None	#0W#2E#030c	You are Noi and the human, are you...?#0E	
+0x3169	0x41	None	#0W#2E#030c	It seems the time has finally come	
+				for me to be released from this "Cage."#0E	
+0x32b8	0x06	NOI		ANI_GUTSPOSE	
+0x32e1	0x98	NOI	#6A	Nayuta...	
+				Please break the "Stones" that	
+				govern the barrier for me!	
+0x337c	0x06	ALTO		ANI_NOD	
+0x3431	0x98	ALTO		Got it!	mp_0101b 0x4859
+0x34d4	0x06	ALTO		ANI_BATTOU	
+0x3627	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_2	
+0x36f3	0x06	ALTO		ANI_2_ATK0	
+0x383d	0x98	ALTO		That was the first one!	
+				Next is that one──	
+0x3890	0x41	None	#0W#2E#030c	──No, that is fine.	
+				You should stand back...#0E	
+0x39ec	0x98	ALTO	#6A	Huh...	mp_0001 0x166ea
+0x3b97	0x06	Algorl		ANI_USE_POWER	
+0x3c28	0x41	None	#2E#030c#4W	Oooooooo...#0E	
+0x3d7f	0x41	None	#2E#030c#16S	──Haa!!#0E	
+0x42c3	0x06	Algorl		ANI_WAIT	
+0x434d	0x98	Algorl	#0W	...I have not completely recovered.	
+0x43ab	0x98	Algorl	#1W	As expected, it seems	
+				most of my power was stolen	
+				by Zext...	
+0x4420	0x06	Algorl		ANI_DENY	
+0x4456	0x98	Algorl	#2W	No...The first thing is	
+				to leave this place.	
+0x45f3	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x462f	0x98	ALTO	#1W#6A	I only broke one though...	
+0x4677	0x06	NOI		ANI_JOY	
+0x46a9	0x98	NOI	#1W#6A	That's Algol for you!	
+0x46eb	0x06	NOI		ANI_WAIT	
+0x4710	0x06	Algorl		ANI_NOD	
+0x4745	0x98	Algorl	#1W	It seems I wasted your time.	
+				...I will say thanks to you.	
+0x47f7	0x98	Algorl	#1W	...Hmm, as far as I can see,	
+				you are a strange combination.	
+0x488c	0x98	Algorl	#0W	I do not care if it is simple. Tell me.	
+				Tell me the particulars of how things	
+				became like this...	
+0x4c66	0x06	Algorl		ANI_NOD	
+0x4c8d	0x98	Algorl		I see, that masked man...	
+				He called himself by the name	
+				of Master Selam, yes...	
+0x4d24	0x98	Algorl	#0W	...I thought as much.	
+0x4d66	0x06	NOI		ANI_GESTURE1	
+0x4d8f	0x98	NOI	#6A	Algol...	
+				Do you have some idea about this?	
+0x4df9	0x98	Algorl		...As for his swordsmanship,	
+				it is certainly that of Selam himself.	
+0x4e6b	0x98	Algorl		He used the gap in my defenses	
+				created due to my doubt,	
+				and I was sadly captured.	
+0x4ee4	0x06	ALTO		ANI_THINK2	
+0x4f0c	0x98	ALTO	#6A	Now then, as I expected,	
+				that person is a real...	
+0x4f84	0x98	NOI	#0W#6A	..................	mp_0000d 0x70fd
+0x4fc3	0x06	Algorl		ANI_GESTURE1	
+0x4fef	0x98	Algorl		...The Selam from before	
+				did not bear a grudge	
+				against <Terra>.	
+0x504e	0x06	ALTO		ANI_WAIT	
+0x5074	0x98	Algorl		He hated acts that run counter to moral principles,	
+				and wielded his power for the weak...	
+				He was that kind of person.	
+0x5109	0x06	Algorl		ANI_DENY	
+0x5131	0x98	Algorl		If he is the head of that race,	
+				then he will follow that Zext...	
+0x519a	0x06	ALTO		ANI_THINK	
+0x51c1	0x98	ALTO	#6A	If he is an imposter, then...	
+				Or possibly, he is being manipulated...?	
+0x5231	0x98	ALTO	#6A	...Even so,	
+				I can certainly feel a sense of "belief"	
+				from him, but...	
+0x5333	0x3F	Name		Masked Youth	mp_0004 0x112a2
+0x5347	0x40	ALTO	#2W	My name is Selam...	
+				Selam Il Ordene.	
+0x53a3	0x40	ALTO	#1W	As for our mission,	
+				It is to restore the world's true appearance.	
+				That is all.	
+0x54a8	0x06	ALTO		ANI_WAIT	
+0x557b	0x98	ALTO	#6A	They said they will do it,	
+				but what exactly do they mean,	
+				I wonder...	
+0x5607	0x06	NOI		ANI_DENY	
+0x5634	0x98	NOI	#6A	...I do not know.	
+0x566f	0x06	Algorl		ANI_GESTURE2	
+0x569b	0x98	Algorl		...This is a bit of a difficult topic	
+				to be discussing in this place.	
+0x5719	0x98	Algorl		Anyway, hurry ahead you two,	
+				and inquire as to their real intentions.	
+0x579e	0x98	Algorl		A "power" for that purpose,	
+				I will grant you, Noi.	
+0x57f1	0x98	Algorl		...Please come here.	
+0x582f	0x6B	ALTO		Surprise	
+0x5861	0x6B	NOI		Surprise	
+0x5956	0x98	ALTO	#6A	Noi!	mp_0004 0x1a9c3
+0x599a	0x98	NOI		Y-Yeah!	mp_0004 0x64d8
+0x5af7	0x06	NOI		ANI_PRAY	
+0x5b3c	0x06	Algorl		ANI_USE_POWER	
+0x5da7	0xC1	System		#3CNoi learned 『Gear Shield』!	
+0x5e4a	0x07	System	#4C	Noi learned "Gear Shield."	
+				It is a technique that completely	
+				protects against enemy attacks and poison swamps.	
+0x5ef1	0x06	Algorl		ANI_WAIT	
+0x5f48	0x06	NOI		ANI_GESTURE2	
+0x5f79	0x98	NOI	#6A	So this is your "power," Algol...	
+0x5fc4	0x98	Algorl		My power will protect you	
+				from everything.	
+0x600f	0x98	Algorl		As I am now with my power stolen,	
+				I cannot reach them...	
+0x6088	0x98	Algorl		Though I cannot help you directly,	
+				at least allow me to watch over this temple.	
+0x6100	0x06	ALTO		ANI_THANKS	
+0x6128	0x98	ALTO	#6A	Thank you very much!	
+0x6167	0x06	NOI		ANI_GUTSPOSE	
+0x6190	0x98	NOI	#6A	We'll leave the rest to you!	
+0x6520	0x06	NOI		ANI_NOD	
+0x6561	0x98	NOI		With this, Algol is all right.	
+0x65a6	0x06	NOI		ANI_GESTURE2	
+0x65ec	0x98	NOI		Let's go, Nayuta...	
+				To the <La Worg> continent!	
+0x665e	0x06	ALTO		ANI_JOY	
+0x6683	0x98	ALTO		Yeah!	mp_0001 0x1174e
+0x6994	0x07	System	#4C	Activate "Shield" by holding the R button.	
+0x6c53	0xCE	Objective		Cygna and Zext are at the Origin Continent. Let's chase them!	

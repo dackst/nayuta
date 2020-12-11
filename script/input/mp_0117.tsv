@@ -1,0 +1,485 @@
+mp_0117					
+init					
+0x74a	0x06	Axe		ANI_WAIT	
+talk_Carina					
+0xd97	0x98	Carina		I'm happy Noi has	
+				returned to the village.	
+0xde2	0x98	Carina		Now the abnormalities of that	
+				time are no longer occurring...	
+0xe40	0x98	Carina		If it's all right with you,	
+				please play with Vel	
+				and Collie.	
+0xec4	0x98	Carina		I'm happy Noi has	mp_0117 0xd97
+				returned to the village.	
+0xf0f	0x98	Carina		It would be nice if you	
+				could bring back	
+				Cygna and Kureha too...	
+0xfa5	0x98	Carina		It looks like the coastal seas	
+				are terribly stormy.	
+0xff9	0x98	Carina		Though Axe said he	
+				went out to fish tonight...	
+				...I'm worried...	
+0x1059	0x98	Carina		...God, please protect	
+				my husband...	
+0x109e	0x98	baby		Babu...	mp_0003 0x77d4
+0x10ed	0x98	Carina		I have two cute children, you see.	
+				Axe must absolutely return	
+				safely.	
+0x1152	0x98	Carina		...God, please protect	mp_0117 0x1059
+				my husband...	
+0x11cd	0x98	Carina		Truly, thank you	
+				for saving Vel, but...	
+0x1215	0x98	Carina		Monsters as strong as that one	
+				have not appeared on the island	
+				until now.	
+0x127e	0x98	Carina		I'm worried...	
+				I wonder just what will happen.	
+0x12f5	0x98	Carina		Monsters as strong as that one	mp_0117 0x1215
+				have not appeared on the island	
+				until now.	
+0x135e	0x98	Carina		I'm worried...	mp_0117 0x127e
+				I wonder just what will happen.	
+0x13e3	0x98	Carina		I can't believe scary things such	
+				as that are happening on this island.	
+				It was unexpected...	
+0x145f	0x98	Carina		Though we were able to	
+				run and hide...	
+0x14a6	0x98	Carina		...I hope Kureha is all right.	
+0x150e	0x98	Carina		Thank goodness Collie, Vel	
+				and Axe are safe...	
+0x155d	0x98	Carina		But, I'm not happy at all.	
+				I hope this is the end.	
+0x164c	0x98	Carina		Cygna came earlier to ask	
+				us for some dried fish.	
+0x169e	0x98	Carina		He took our excess and stroked	
+				Collie's head while saying,	
+				"May you be protected."...	
+0x1713	0x98	Carina		Nayuta, are you surviving	
+				together with Cygna?	
+0x1762	0x98	ALTO		N-No, I don't think	
+				that's the case, but...	
+0x17d4	0x98	Carina		Cygna had a scary	
+				face somehow.	
+				I wonder what happened.	
+0x182b	0x98	Carina		It's your long awaited summer vacation.	
+				You should do more fun things.	
+talk_Carina_and_Bell					
+0x18f6	0x98	Carina		Listen up, Vel.	
+				Mommy is going to	
+				Nayuta's house for a bit.	
+0x1951	0x98	Carina		Please look after	
+				Collie for a little while.	
+0x199e	0x98	Bell		Okay.	
+talk_Bell					
+0x1a3b	0x98	Bell		Ah, big brother Nayuta.	
+				...Sorry but, I can't	
+				play now!	
+0x1a90	0x98	Bell		I was just about to teach	
+				Collie the place of a	
+				younger brother!	
+0x1b24	0x98	Bell		Big brother, Miss Fairy...	
+				No, Noi, wasn't it?	
+				Thanks for earlier.	
+0x1b84	0x98	Bell		You defeated that	
+				huge monster, and	
+				were super-cool!	
+0x1bd6	0x98	ALTO		Ahaha, thanks.	
+0x1c04	0x98	NOI		Though you're small,	
+				you've got guts.	
+0x1c47	0x98	Bell		If you say I'm small, you're	
+				downright tiny, you know?	
+0x1c9c	0x98	NOI		T-That's none of your business!	
+0x1d14	0x98	Bell		That reminds me big brother.	
+				Big sister Lyra didn't	
+				kiss you～.	
+0x1d71	0x98	Bell		It was a special atmosphere.	
+				It would have been good if	
+				she did～.	
+0x1dd1	0x98	ALTO		(As expected, she's precocious.)	
+0x1e39	0x98	Bell		Ehehe, Noi...	
+				Let's play again sometime.	
+0x1e80	0x98	NOI		Y-Yeah...	
+				If I'm free.	
+0x1eea	0x98	Bell		Big sister Kureha...	
+				When that scary man came,	
+				she encouraged Vel and the others.	
+0x1f59	0x98	Bell		And when Collie wouldn't stop	
+				crying, she comforted him and	
+				he calmed down immediately...	
+0x1fd0	0x98	Bell		...Big brother Nayuta...	
+				Please help her!	
+0x2040	0x98	Bell		Big brother Nayuta...	
+				Please help big sister Kureha.	
+0x2093	0x98	Bell		Because Vel is cheering for you.	
+0x2123	0x98	Bell		La la la...♪	
+0x2150	0x98	Bell		Vel will be the one to take	
+				care of Collie this time.	
+0x21a4	0x98	Bell		In a little while,	
+				mom and the	
+				others will return!	
+0x221c	0x98	Bell		Vel will take care	
+				of Collie this time.	
+0x2262	0x98	Bell		Vel is already	
+				a big sister!	
+0x22d3	0x98	Bell		Big sister Lyra came	
+				by today.	
+0x232e	0x98	Bell		She played lots	
+				with Collie!	
+0x2369	0x98	baby		Abubu...Babbu.	
+0x23bf	0x98	Bell		Big brother Cygna isn't	
+				here and Vel is sad...	
+0x240c	0x98	Bell		Big sister Eartha was cured,	
+				and will someday return.	
+0x2460	0x98	Bell		Even so,	
+				Vel is smiling!	
+0x24cd	0x98	Bell		If you need my mom,	
+				she just went to your	
+				house, big brother.	
+0x2528	0x98	Bell		Big sister Eartha...	
+				I heard she wasn't feeling well...	
+				Is she all right...?	
+0x2592	0x98	Bell		I hope she gets better soon.	
+0x25ce	0x98	baby		Babu.	
+0x261b	0x98	Bell		He's worried about big sister Eartha too...	
+				I haven't seen big brother Cygna lately...	
+0x2690	0x98	Bell		Though big sister's in trouble,	
+				where did he go...	
+0x2769	0x98	Bell		I was absolutely sure you	
+				wouldn't find it though.	
+0x27ba	0x98	Bell		Ehehe, as expected from	
+				big brother Nayuta.	
+0x2804	0x98	Bell		Vel wants to play with big brother	
+				Cygna too next time!	
+0x287e	0x98	Bell		You know, Vel hid various	
+				treasures here.	
+0x28c6	0x98	Bell		Sometimes, daddy	
+				goes to trap fish	
+				with nets～.	
+0x2913	0x98	Bell		Ehehe, I'm jealous☆	
+0x296f	0x98	Bell		Sometimes, daddy	mp_0117 0x28c6
+				goes to trap fish	
+				with nets～.	
+0x29bc	0x98	Bell		Ehehe, I'm jealous☆	mp_0117 0x2913
+0x2a28	0x98	Bell		I was so surprised～.	
+				Vel fell on her bottom.	
+0x2a74	0x98	Bell		And I just cleaned too.	
+				...Vel's depressed.	
+0x2ae6	0x98	Bell		Vel thought she would clean	
+				until daddy returns!	
+0x2b6b	0x98	Bell		Ah──!	
+				It's big brother Nayuta!	
+0x2baa	0x98	ALTO		Good day, Vel.	
+				Have you been well?	
+0x2beb	0x98	Bell		Yeah!	
+				Vel's always well!	
+0x2c22	0x98	Bell		Hey, is big brother Cygna	
+				with you?	
+				Play with Vel!	
+0x2c72	0x98	ALTO		Umm...	
+				I'm in the middle of something now.	
+0x2cbb	0x98	Bell		Really～～～...	
+0x2cea	0x98	Bell		...Well, whatever!	
+				We'll play again sometime!	
+0x2d36	0x98	ALTO		Yeah, understood.	
+				(Huhu, she's really	
+				 energetic.)	
+0x2dc0	0x98	Bell		I wanted to play with	
+				big brother Nayuta～...	
+0x2e0c	0x98	Bell		Ah, but Vel's	
+				cleaning house.	
+0x2e48	0x98	Bell		Ahem, that's great, isn't it?	
+				No matter what you say, Vel's	
+				already a big sister!	
+0x2edf	0x98	Bell		Vel doesn't just clean, but also	
+				helps out with various things～.	
+0x2f3f	0x98	Bell		Ahem, that's great, isn't it?	mp_0117 0x2e48
+				No matter what you say, Vel's	
+				already a big sister!	
+talk_Bell_and_Collie					
+0x3012	0x98	Bell		Collie, play with your	
+				big sister today!	
+0x3059	0x98	Collie		No.	
+0x307e	0x98	Bell		Hmm, you little one.	
+				You're impertinent!	
+0x30c5	0x98	Bell		For kids like that, take this!	
+				Coochie coochie coo...	
+0x3119	0x6B	Collie		Unknown	
+0x314d	0x98	Collie		Kyahahaha...	
+				Stop that big sister～.	
+talk_Axe					
+0x321c	0x98	Axe		I've been taking a break	
+				since yesterday.	
+0x3263	0x98	Axe		Now that the abnormalities of	
+				a year ago are over, fish numbers	
+				have been rising.	
+0x32d1	0x98	Axe		Every once in awhile, I have to	
+				make time for my family.	
+0x334f	0x98	Axe		But, our Collie has	
+				gotten pretty big.	
+0x3393	0x98	Axe		Maybe it's because I spend	
+				long periods at sea, but...	
+				Before I knew it, he'd grown.	
+0x343a	0x98	Axe		I heard from Lyra.	
+				You saved Vel from	
+				a dangerous situation.	
+0x3493	0x98	Axe		Please accept my thanks.	
+				...Truly, thank you.	
+0x3506	0x98	Axe		In this kind of situation, we may need	
+				to be more careful with our children	
+				than we were before.	
+0x3583	0x98	Axe		Anyway, truly, thanks.	
+talk_Collie					
+0x3624	0x98	Collie		Kububububu...	
+				Stop that, big sister～.	
+quest_Bell					
+0x372b	0x98	Bell		Looking at your face,	
+				it seems you found	
+				the poster.	
+0x377d	0x98	Bell		Ehehe, getting ahold of	
+				the treasure isn't that easy～.	
+0x37d3	0x98	Bell		Do your best searching for it!	
+0x3833	0x98	Bell		The treasure search hint is...	
+				"Second floor places are good."	
+0x3890	0x98	Bell		Well then, good luck!	mp_0000 0x11984
+quest_Carina					
+0x3990	0x98	Carina		When the Star Festival ends,	
+				we always eat the offerings.	
+0x39ea	0x98	Carina		At that time, please enjoy	
+				the delicious dried food	
+				that we have made.	
+0x3b10	0x98	Carina		Dr. Hydol has been examining	
+				me at fixed intervals after I	
+				gave birth.	
+0x3b76	0x98	Carina		Huhu, he always helps me.	
+				He is truly a good doctor.	
+QS_11_quest_start					
+0x3daa	0x06	Bell		ANI_TALK	
+0x3dd0	0x98	Bell		You know, Vel has hidden the treasure	
+				at a secret place on the island.	
+0x3e35	0x98	Bell	#6A	Big brother Nayuta, you have to	
+				find the treasure based on the	
+				hint Vel gives you.	
+0x3ea8	0x06	Bell		ANI_WAIT3	
+0x3ecf	0x98	Bell	#6A	Ehehe, doesn't that seem fun?	
+				Then, let's play immediately!	
+0x3f36	0x98	Bell	#6A	Oh, big brother Nayuta?	
+0x3f70	0x98	Bell	#6A	Did you by any chance	
+				read Vel's letter?	
+0x3fba	0x06	ALTO		ANI_NOD	
+0x3fdf	0x98	ALTO		Yeah, once.	
+0x400a	0x98	ALTO		If I remember correctly, you wrote	
+				that you wanted to play a game together...	
+0x4076	0x06	ALTO		ANI_THINK2	
+0x409e	0x98	ALTO		(...Now that I think about it,	
+				 this isn't a work request, is it...)	
+0x4101	0x98	Bell	#6A	Whaー?	
+0x412a	0x06	ALTO		ANI_LAUGH	
+0x4151	0x98	ALTO		Ahaha, well anyway, it's fine.	
+				What game do you want to play?	
+0x41ad	0x06	Bell		ANI_TALK	
+0x41d3	0x98	Bell	#6A	Well you see, Vel has	
+				hidden treasure in a secret	
+				place on this island.	
+0x423b	0x98	Bell	#6A	Big brother Nayuta will	
+				find the treasure according	
+				to the hints I give.	
+0x42a4	0x06	Bell		ANI_WAIT3	
+0x42cb	0x98	Bell	#6A	Ehehe, doesn't that seem fun?	
+0x430b	0x06	ALTO		ANI_GOODIDEA	
+0x4335	0x98	ALTO		I see...it's a treasure-finding game, huh.	
+				It certainly does seem interesting.	
+0x43a2	0x06	Bell		ANI_GESTURE2	
+0x43cc	0x98	Bell	#6A	Then, let's play!	
+0x4440	0x36	Choice		[Game Start!]	
+0x445b	0x36	Choice		[Quit Now]	
+0x44ff	0x06	ALTO		ANI_THANKS	
+0x4527	0x98	ALTO		Sorry, I can't	
+				play right now.	
+0x4564	0x06	Bell		ANI_DULL	
+0x458a	0x98	Bell	#6A	Eeeeh?...	
+				What's with you...	
+0x45c8	0x06	Bell		ANI_WAIT	
+0x45ee	0x98	Bell	#6A	...Well then,	
+				If I become able to play,	
+				I'll definitely come see you!	
+QS_11_first_hint					
+0x46d8	0x06	ALTO		ANI_THANKS	
+0x4700	0x98	ALTO		Yeah, got it.	
+				Now then, I'll hang out	
+				with you for a bit.	
+0x4757	0x06	Bell		ANI_JOY	
+0x477c	0x98	Bell	#6A	Awesome!	
+0x47a7	0x98	Bell	#6A	It would be better if	
+				big brother Cygna	
+				was here too...	
+0x47ff	0x98	Bell	#6A	We'll have to do with just big	
+				brother Nayuta for today, eh?	
+0x485d	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x488b	0x98	ALTO		(Ahaha...Vel might be a little	
+				 attached to Cygna.)	
+0x48dd	0x98	Bell	#6A	Yeah, now then,	
+				I'll give the clue to the	
+				hiding place!	
+0x4935	0x06	Bell		ANI_WAIT2	
+0x495c	0x98	Bell	#6A	Ahem, umm...	
+0x498b	0x98	Bell	#6A	..."Second floors are good, in a place	
+				 where everyone's heads can be seen."	
+0x49f9	0x6B	ALTO		Ellipsis	
+0x4a2b	0x06	ALTO		ANI_GESTURE2	
+0x4a55	0x98	ALTO		...That's it?	
+0x4a82	0x06	Bell		ANI_NOD	
+0x4aa7	0x98	Bell	#6A	Yeah☆	
+0x4ad0	0x6B	ALTO		Sweatdrop	
+0x4b02	0x06	ALTO		ANI_DEJECTED	
+0x4b2c	0x98	ALTO		(T-This is harder	
+				 than I expected...)	
+0x4b71	0x06	ALTO		ANI_THINK	
+0x4b98	0x98	ALTO		(Second floors are good...	
+				 For now, I'll look around houses	
+				 that have a second floor.)	
+0x4c0e	0x06	Bell		ANI_GUTSPOSE	
+0x4c38	0x98	Bell	#6A	Well then, do your best!	
+0x4c73	0x98	Bell	#6A	Vel will wait here.	
+				Come again if you find the treasure!	
+0x4ccd	0x06	ALTO		ANI_JOY	
+0x4cf2	0x98	ALTO		Yeah, I'll try my best somehow.	
+0x4d65	0x07	System	#3C	Quest [Vel's Challenge] started!	
+QS_11_quest_end					
+0x4fc6	0x6B	Bell		Unknown	
+0x4ff0	0x06	Bell		ANI_JOY	
+0x501d	0x98	Bell	#6A	Big brother, you're amaaazing!	
+				You found the treasure!	
+0x5075	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x50a3	0x98	ALTO		Haha, somehow, yeah.	
+0x50d7	0x98	ALTO		Well, it was harder than	
+				I thought it'd be.	
+0x5121	0x06	Bell		ANI_WAIT3	
+0x5148	0x98	Bell	#6A	Hehee, Vel thought up	
+				all of those posters.	
+0x5195	0x98	Bell	#6A	Uncle Puppis gave them to me,	
+				and I made them like adventure	
+				picture books.	
+0x5201	0x06	Bell		ANI_GESTURE1	
+0x522b	0x98	Bell	#6A	Though it was tough,	
+				was it fun?	
+0x526d	0x06	ALTO		ANI_NOD	
+0x5292	0x98	ALTO		Yeah, I certainly did have fun.	
+0x52d1	0x98	ALTO		Then, I'll return this treasure	
+				to you, Vel.	
+0x531c	0x06	Bell		ANI_DENY	
+0x5342	0x98	Bell	#6A	No, that's okay!	
+				I'll give the treasure to you, big brother,	
+				just like that!	
+0x53af	0x98	Bell	#6A	Bell has lots of ones	
+				better than that, see.	
+0x53fd	0x06	ALTO		ANI_THANKS	
+0x5425	0x98	ALTO		I-Is that so...	
+				Then, I'll accept this	
+				thankfully.	
+0x5475	0x06	Bell		ANI_WAIT2	
+0x549c	0x98	Bell	#6A	Yeah, take care of it!	
+0x54d5	0x06	Bell		ANI_GUTSPOSE	
+0x54ff	0x98	Bell	#6A	Well then, let's play again sometime,	
+				big brother Nayuta!	
+0x555a	0x98	Bell	#6A	Next time, with big brother	
+				Cygna, too!	
+0x55a3	0x06	ALTO		ANI_JOY	
+0x55c8	0x98	ALTO		Haha, got it.	
+				Let's play again sometime.	
+0x5641	0xC1	System		obtained.	mp_0000 0x7558
+0x56de	0x07	System	#3C	Quest [Vel's Challenge] completed!	
+0x573b	0x07	System	#3C	Quest [Vel's Challenge] completed!	mp_0117 0x56de
+QS_25_speak_to_Carina					
+0x59fe	0x98	Carina		My, it's Nayuta.	
+				I wonder what's wrong.	
+0x5a46	0x06	ALTO		ANI_GESTURE1	
+0x5a70	0x40	UNDEF		Nayuta explained that Dr. Hydol said for Carina to	
+				come for a medical exam.	
+0x5adb	0x06	Carina		ANI_GOODIDEA	
+0x5b07	0x98	Carina		Well, the doctor has come, hasn't he?	
+				Thank you for telling me.	
+0x5b67	0x06	Carina		ANI_WAIT4	
+0x5b90	0x98	Carina		That's right, he said he wanted to	
+				come look at me now that I've	
+				given birth to Collie.	
+0x5c07	0x06	ALTO		ANI_GESTURE2	
+0x5c31	0x98	ALTO	#6A	"Now that"...Could it be,	
+				the doctor cared for you while	
+				you were giving birth?	
+0x5ca1	0x06	Carina		ANI_NOD	
+0x5cc8	0x98	Carina		Yeah, that's right.	
+				He gave me various advice starting	
+				from when Collie was still inside me.	
+0x5d44	0x06	Carina		ANI_TALK	
+0x5d6c	0x98	Carina		From the exams, I understood that	
+				the child would be a difficult	
+				delivery.	
+0x5dd6	0x98	Carina		The doctor prepared quickly,	
+				contacting a large clinic.	
+0x5e2e	0x06	Carina		ANI_WAIT2	
+0x5e57	0x98	Carina		Thanks to that, I was able	
+				to give birth easily.	
+0x5ea8	0x06	ALTO		ANI_WAIT4	
+0x5ecf	0x98	ALTO	#6A	Wow, is that so...	
+0x5f04	0x06	Carina		ANI_LAUGH	
+0x5f2d	0x98	Carina		Huhu, Janis who was planning	
+				to be the midwife had just	
+				a little regret, though.	
+0x5f9d	0x06	Carina		ANI_GESTURE2	
+0x5fc9	0x98	Carina		After childbirth, he has been	
+				examining me at fixed intervals.	
+0x6028	0x06	ALTO		ANI_THANKS	
+0x6050	0x98	ALTO	#6A	I see...	
+				As expected from the doctor.	
+0x6097	0x06	Carina		ANI_WAIT0	
+0x60c0	0x98	Carina		Huhu, then, will you tell	
+				the doctor that I'll stop	
+				by later?	
+0x611d	0x06	ALTO		ANI_NOD	
+0x6142	0x98	ALTO	#6A	Yes, understood.	mp_0000 0x1b27a
+0x61df	0x06	ALTO		ANI_THINK2	
+0x62a5	0x98	ALTO		Now then, only Bootie is left.	
+0x62e3	0x06	ALTO		ANI_TONTON_SHUE	
+0x6310	0x98	ALTO		Maybe he's returning home soon?	
+				I'll try going there.	
+0x636e	0x98	ALTO		Now then, the last one is Bootie, but...	
+				...Come to think of it, I haven't seen him.	
+0x63e1	0x06	ALTO		ANI_TONTON_SHUE	
+0x640e	0x98	ALTO		Could he be at home...?	
+				I'll try going there.	
+QS_82_get_dried_fish					
+0x668f	0x98	Carina		Good day, Nayuta and Noi.	
+				Is something wrong?	
+0x66dd	0x06	ALTO		ANI_GESTURE1	
+0x6707	0x98	ALTO	#6A	Umm, the truth is...	
+0x673e	0x40	UNDEF		Nayuta explained that he was here to accept the	
+				offerings for the ancestors that the Elder	
+				requested.	
+0x67c2	0x06	Carina		ANI_NOD	
+0x67e9	0x98	Carina		Ah, I see.	
+				We've prepared the	
+				offerings properly.	
+0x683a	0x06	Carina		ANI_GESTURE2	
+0x6866	0x98	Carina		I'll go get them, so	
+				please wait here.	
+0x69ef	0x06	Carina		ANI_HANDOVER	
+0x6a23	0xC1	System		obtained.	mp_0000 0x7558
+0x6ad2	0x06	NOI		ANI_NOD	
+0x6af6	0x98	NOI	#6A	A fragrant scent...	
+				They were all dried in the sun.	
+0x6bc7	0x98	Carina		Huhu, as expected, I don't	
+				think there will be a problem	
+				with offering the fish like that.	
+0x6c4f	0x06	Carina		ANI_WAIT2	
+0x6c78	0x98	Carina		When the Star Festival ends,	
+				we will eat the offerings, so	
+				please savor them at that time.	
+0x6cf2	0x06	ALTO		ANI_THANKS	
+0x6d1a	0x98	ALTO	#6A	Yes, I'll do that.	mp_0110 0x9557
+0x6d4f	0x98	ALTO	#6A	Then, I'll hang on	mp_0114 0x7b70
+				to these.	
+0x6e65	0x98	NOI	#6A	With this, we've collected	
+				all the requested offerings.	
+0x6ed2	0x06	ALTO		ANI_NOD	
+0x6ef7	0x98	ALTO		Yeah, we should bring them	
+				to the Elder immediately.	

@@ -1,0 +1,11 @@
+mp_4000b					
+init					
+ev_goal					
+open_door1					
+0x460	0x06	switch1		ANI_LEVER_ON_LOCK	
+open_door2					
+0x50a	0x06	switch2		ANI_LEVER_ON_LOCK	
+boss_battle					
+0x572	0x6B	ALTO		Exclamation	
+dead_ev01					
+open_door3					

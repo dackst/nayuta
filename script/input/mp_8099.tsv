@@ -1,0 +1,77 @@
+mp_8099					
+init					
+0x2e8	0x06	b013		ANI_DEMO0	
+BossJump					
+0x4e8	0x06	b013		ANI_WAIT	
+0x5e4	0x06	e155_0		ANI_WAIT	
+0x60c	0x06	e155_1		ANI_WAIT	
+0x634	0x06	e155_2		ANI_WAIT	
+0x65c	0x06	e155_3		ANI_WAIT	
+0x684	0x06	e155_4		ANI_WAIT	
+0x6ac	0x06	e155_5		ANI_WAIT	
+boss_trap					
+boss_winter					
+boss_fall					
+boss_summer					
+boss_spring					
+0xe66	0x06	e155_0		ANI_DEMO1	
+0xe8f	0x06	e155_1		ANI_DEMO1	
+0xeb8	0x06	e155_2		ANI_DEMO1	
+0xee1	0x06	e155_3		ANI_DEMO1	
+0xf0a	0x06	e155_4		ANI_DEMO1	
+0xf33	0x06	e155_5		ANI_DEMO1	
+flower0					
+0x1193	0x06	flower0		ANI_DESAPPER	
+flower1					
+0x12a1	0x06	flower1		ANI_DESAPPER	
+flower2					
+0x13af	0x06	flower2		ANI_DESAPPER	
+flower3					
+0x14bd	0x06	flower3		ANI_DESAPPER	
+flower4					
+0x15cb	0x06	flower4		ANI_DESAPPER	
+flower5					
+0x16d9	0x06	flower5		ANI_DESAPPER	
+boss_star_pop					
+0x1855	0x06	flower0		ANI_POP	
+0x187d	0x06	flower1		ANI_POP	
+0x18a5	0x06	flower2		ANI_POP	
+0x18cd	0x06	flower3		ANI_POP	
+0x18f5	0x06	flower4		ANI_POP	
+0x191d	0x06	flower5		ANI_POP	
+boss_star_bomb					
+0x1aca	0x06	flower0		ANI_DESAPPER	
+0x1af7	0x06	flower1		ANI_DESAPPER	
+0x1b24	0x06	flower2		ANI_DESAPPER	
+0x1b51	0x06	flower3		ANI_DESAPPER	
+0x1b7e	0x06	flower4		ANI_DESAPPER	
+0x1bab	0x06	flower5		ANI_DESAPPER	
+boss_star_bk					
+0x1d30	0x06	flower0		ANI_DESAPPER	
+0x1d5d	0x06	flower1		ANI_DESAPPER	
+0x1d8a	0x06	flower2		ANI_DESAPPER	
+0x1db7	0x06	flower3		ANI_DESAPPER	
+0x1de4	0x06	flower4		ANI_DESAPPER	
+0x1e11	0x06	flower5		ANI_DESAPPER	
+boss_dead					
+EV_8_S14_battle_noi					
+0x223b	0x06	ALTO		ANI_WAIT	
+0x244b	0x06	ALTO		ANI_LOOK_AROUND	
+0x24bc	0x98	ALTO	#0W	Just now...	
+				That wasn't a dream.	
+0x254a	0x98	ALTO	#1W	...Noi...	mp_0110 0x3022c
+0x257e	0x6B	ALTO		Exclamation	
+0x27b0	0x06	b013		ANI_APPEAR	
+0x280a	0x06	b013		ANI_DEMO1	
+0x2e32	0x06	e155_2		ANI_DEMO0	
+0x2e5b	0x06	e155_3		ANI_DEMO0_NOSE	
+0x300d	0x06	e155_1		ANI_DEMO0	
+0x3036	0x06	e155_4		ANI_DEMO0_NOSE	
+0x3174	0x06	e155_0		ANI_DEMO0	
+0x319d	0x06	e155_5		ANI_DEMO0_NOSE	
+0x3417	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_1	
+0x348d	0x98	ALTO	#2W#6A	(Cygna, Kureha, Noi...	
+				 Everyone, please wait for me!)	
+0x34f6	0x98	ALTO	#2W#6A#16S	(I will definitely...	
+				#16S free everyone!!)	
+0x358a	0x06	ALTO		ANI_WAIT	

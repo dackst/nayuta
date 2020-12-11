@@ -1,0 +1,116 @@
+mp_4000d					
+init					
+ev_goal					
+boss_battle					
+0x60a	0x6B	ALTO		Exclamation	
+dead_ev01					
+open_door1					
+SB_QS_58_alto_move					
+SB_QS_58_noi_move					
+QS_58_Find_Michy					
+0xbc9	0x06	st		ANI_STOP1	
+0xd02	0x06	st		ANI_PATA2	
+0xe4c	0x06	ALTO		ANI_SURPRISE	
+0xe76	0x98	ALTO		Ah...Michey!?	
+0xec3	0x06	NOI		ANI_SURPRISE	
+0xeec	0x98	NOI	#6A	That is...!!	
+0xf37	0x6B	Michy		Exclamation	
+0xf6a	0x98	Michy		Mi-Mimishii!!	
+0xfca	0x06	ALTO		ANI_COMPLAIN	
+0xff4	0x98	ALTO		This is bad...!	
+				Did it go inside!?	
+0x1035	0x06	NOI		ANI_COMPLAIN	
+0x105e	0x98	NOI	#6A	Let's hurry and chase it!	
+QS_58_RunAway_Michy					
+OS_58_TBOX					
+0x1602	0x06	OS_58_TBOX		ANI_OPEN	
+0x1636	0x3F	Name		Voice	mp_0000d 0x4c24
+0x1667	0x98	Michy		...Mishishi...	
+0x16a6	0x6B	ALTO		Surprise	
+0x16d8	0x6B	NOI		Surprise	
+0x1709	0x06	ALTO		ANI_SURPRISE	
+0x1733	0x98	ALTO	#6A	I-It can't be...	
+0x1804	0x6B	ALTO		Sweatdrop	
+0x1836	0x6B	NOI		Sweatdrop	
+0x1867	0x06	NOI		ANI_DEJECTED	
+0x1890	0x98	NOI	#6A	H-Hiding in	
+				a place like this...	
+0x1a5c	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x1a8a	0x98	ALTO	#6A	Haha, well...	
+				I'm glad you're safe.	
+0x1acf	0x98	Michy		...Mishishi...	mp_4000d 0x1667
+0x1afe	0x06	ALTO		ANI_THINK2	
+0x1b26	0x98	ALTO	#6A	...Umm, I don't know if I can	
+				communicate with words, but...	
+0x1b84	0x06	ALTO		ANI_COMPLAIN	
+0x1bae	0x98	ALTO	#6A	I would never do anything	
+				to hurt you.	
+0x1bf6	0x98	ALTO	#6A	Mensa and Ophiuchus are waiting,	
+				so want to come back with us?	
+0x1c56	0x6B	Michy		Ellipsis	
+0x1ca2	0x98	Michy		...Mishishi.	
+0x1ccf	0x06	NOI		ANI_THINK	
+0x1cf5	0x98	NOI	#6A	Umm...If it's me,	
+				I think I can understand	
+				his words.	
+0x1d4a	0x06	NOI		ANI_WAIT	
+0x1d6f	0x98	Michy		...Mishi, mishii.	
+0x1da1	0x06	NOI		ANI_GESTURE2	
+0x1dca	0x98	NOI	#6A	"Earlier, I came with my master	
+				 to sightsee on Remnant Island."	
+0x1e2b	0x98	NOI	#6A	"My master liked the island too,	
+				 and I have good memories of him."	
+0x1e8f	0x06	NOI		ANI_GESTURE1	
+0x1eb8	0x98	NOI	#6A	"Because of that, I feel like my	
+				 dead master is still here, and that	
+				 makes me want to do my best."	
+0x1f3c	0x98	ALTO	#6A	I-Is that so...	
+				It has a super amount	
+				of energy.	
+0x1f8d	0x98	ALTO	#6A	(It has a blunt way of	
+				 speaking though...)	
+0x1fda	0x06	ALTO		ANI_GESTURE2	
+0x2004	0x98	ALTO	#6A	Then, you ran from	
+				Mensa and Ophiuchus?	
+0x204d	0x98	Michy		Mishishi.	
+				Mishimishi, Mishishii.	
+0x208d	0x06	NOI		ANI_GESTURE1	
+0x20b6	0x98	NOI	#6A	"If those two found me, I would	
+				 be made to return to the estate	
+				 immediately."	
+0x2125	0x98	NOI	#6A	"I want to enjoy my memories	
+				 of my master awhile longer."	
+0x2180	0x06	ALTO		ANI_NOD	
+0x21a5	0x98	ALTO	#6A	...I see.	
+				I feel like I understand.	
+0x21ea	0x98	ALTO	#6A	But...Mensa and Ophiuchus	
+				are worried about you.	
+0x223c	0x06	ALTO		ANI_COMPLAIN	
+0x2266	0x98	ALTO	#6A	They are doing their best to	
+				complete the last request	
+				of that man...	
+0x22cc	0x98	ALTO	#6A	Maybe it would be good to	
+				not worry them so much?	
+0x231f	0x6B	Michy		Ellipsis	
+0x236b	0x98	Michy		...Mishishi, mishi.	
+0x239f	0x98	NOI	#6A	"That might be true.	
+				 I understand."	
+0x23e4	0x98	NOI	#6A	"Before long, the time will	
+				 come when I too can overcome	
+				 my sadness."	
+0x25d2	0x06	ALTO		ANI_SURPRISE	
+0x25fc	0x98	ALTO	#6A	Wha...!?	
+0x2627	0xC1	System		obtained.	mp_0000 0x7558
+0x26f3	0x3F	Name		Michey	
+0x2701	0x98	ALTO	#N#6A#4C#210x#170y	Mishishi!	
+0x274c	0x06	NOI		ANI_GESTURE2	
+0x2775	0x98	NOI	#6A	"Let me into	
+				 your pocket."	
+0x27b1	0x98	NOI	#6A	"Will you take me	
+				 to those two?"	
+0x27f3	0x6B	ALTO		Sweatdrop	
+0x2825	0x06	ALTO		ANI_SCRATCH_HEAD	
+0x2853	0x98	ALTO		Haha...I understand.	
+0x2887	0x06	ALTO		ANI_JOY	
+0x28ac	0x98	ALTO		Let's go together to Mensa	
+				and Ophiuchus!	
