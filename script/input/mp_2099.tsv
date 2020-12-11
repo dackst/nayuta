@@ -1016,7 +1016,7 @@ EV_2_S23_boss_battle
 0x1635a	0x06	Zext		ANI_PUT_UP_ROD	
 0x16508	0x6B	ALTO		Exclamation	
 0x1653a	0x6B	NOI		Exclamation	
-0x16597	0x98	Zext	#2W	Farewell, warden of the Garden...	
+0x16597	0x98	Zext	#2W	Farewell, warden of the garden...	
 				And uninvited human guest.	
 0x1660b	0x98	Zext	#2W	For standing against me,	
 				pay with your lives. 	
@@ -1086,7 +1086,7 @@ EV_2_S24_boss_end
 				It's the end of Terra!	
 0x194db	0x6B	ALTO		Ellipsis	
 0x19545	0x06	ALTO		ANI_GESTURE2	
-0x1956f	0x98	ALTO	#6A	...Anyway Noi, let's go to the Garden!	
+0x1956f	0x98	ALTO	#6A	...Anyway Noi, let's go to the garden!	
 0x195b8	0x06	ALTO		ANI_NOD	
 0x195dd	0x98	ALTO	#6A	Even if the Astrolabe	
 				is not powerful enough...	
@@ -1118,7 +1118,7 @@ EV_2_S26_get_gear_2nd
 0x1a308	0x06	NOI		ANI_COMPLAIN	
 0x1a331	0x98	NOI		I think... I think	
 				something's happened	
-				in the Garden!!	
+				in the garden!!	
 0x1a38f	0x06	ALTO		ANI_NOD	
 0x1a3b4	0x98	ALTO	#6A	Oh, yeah... Right!	
 0x1a430	0x98	ALTO	#6A	But first, we should	

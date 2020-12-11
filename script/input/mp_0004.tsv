@@ -261,7 +261,7 @@ subev_return_island3
 0x6f05	0x98	NOI	#6A	Anyway, it seems I'd better	
 				stay away from your house.	
 0x6f73	0x98	NOI	#6A	I'll wait for you in the	
-				Garden until you get back.	
+				garden until you get back.	
 0x6fbd	0x06	ALTO		ANI_NOD	
 0x6fe2	0x98	ALTO		Yeah, that's probably a good idea.	
 0x7024	0x06	ALTO		ANI_WAIT4	
@@ -513,7 +513,7 @@ EV_0_S08_fall_remain
 0xc36d	0x06	ALTO		ANI_GESTURE1	
 0xc397	0x98	ALTO		...Oh yeah, I've been collecting	
 				some interesting rocks from a	
-				cave near the Academy. 	
+				cave near the academy. 	
 0xc40e	0x98	ALTO		Since you're already here, how about	
 				taking a look at them? That'll make	
 				you feel better for sure!	
@@ -642,7 +642,7 @@ EV_0_S17_noi_warp
 				I can still give it a try!	
 0xfacd	0x06	NOI		ANI_USE_POWER	
 0xfb68	0x98	NOI	#1W#6A	...By my authority as warden,	
-				I command you to connect to the Garden...	
+				I command you to connect to the garden...	
 0xfbfe	0x98	NOI	#2W#6A#18S	...Yah!!	
 0xfe6f	0x06	NOI		ANI_WAIT	
 0xfeaa	0x98	NOI	#0W#6A	Oh good, it's alive!	
@@ -854,7 +854,7 @@ EV_2_S08_go_tera
 0x14b0f	0x98	NOI		Umm, well, I guess...	
 0x14b5a	0x98	NOI		I finished the thing I	
 				wanted to try, so went back	
-				to the Garden to get you.	
+				to the garden to get you.	
 0x14be4	0x98	NOI		But then I found you	
 				disappeared, so I...	
 0x14c33	0x06	ALTO		ANI_SCRATCH_HEAD	
@@ -875,7 +875,7 @@ EV_2_S08_go_tera
 0x14ed0	0x98	ALTO	#5W	Huh...?	
 0x14f1e	0x06	NOI		ANI_COMPLAIN	
 0x14f47	0x98	NOI		N-Nevermind.	
-				How about we head to the Garden now?	
+				How about we head to the garden now?	
 0x14f9c	0x98	NOI		I want to show you	
 				something, Nayuta!	
 0x14ff0	0x06	ALTO		ANI_THINK	
@@ -915,7 +915,7 @@ SB_3_S26_creha_move
 SB_3_S26_lyra_move					
 EV_3_S26_meet_lyra					
 0x165fb	0x98	Creha		This is the world where Nayuta lives...	
-0x16640	0x98	Creha		The atmosphere is different from the Garden.	
+0x16640	0x98	Creha		The atmosphere is different from the garden.	
 0x16697	0x06	ALTO		ANI_GESTURE2	
 0x166c1	0x98	ALTO	#6A	Ahaha... This is only one of the	
 				more remote areas of this world.	
@@ -1042,7 +1042,7 @@ EV_8_S05_remove_warp
 				with Terra right away.	
 0x19aad	0x06	NOI		ANI_USE_POWER	
 0x19b2c	0x98	NOI	#0W	...By my authority as warden,	mp_0004 0xfb68
-				I command you to connect to the Garden...	
+				I command you to connect to the garden...	
 0x19bb3	0x98	NOI		...Yah!!	mp_0004 0xfbfe
 0x19e12	0x06	NOI		ANI_WAIT	
 0x19e37	0x06	ALTO		ANI_SURPRISE	

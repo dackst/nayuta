@@ -318,7 +318,7 @@ EV_1_S07_temple_front
 				All we can do is take the	
 				Master Gear back from Zext!	
 0x5699	0x06	NOI		ANI_GESTURE1	
-0x56c2	0x98	NOI	#6A	If we bring it to the Garden,	
+0x56c2	0x98	NOI	#6A	If we bring it to the garden,	
 				we should at least be able to	
 				stop the abnormalities here!	
 0x5748	0x06	Signa		ANI_NOD	

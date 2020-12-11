@@ -509,7 +509,7 @@ QS_02_normal_attack
 				it ever since you left.	
 0x7d61	0x98	Aulbath		Unlike Cygna's position in the city guard,	
 				you would have hardly had a reason to use	
-				a sword at the Academy.	
+				a sword at the academy.	
 0x7de5	0x98	Aulbath		I want you to train with	
 				that sword as you once did.	
 0x7e75	0x98	ALTO	#6A	Yes, sir!	
@@ -1000,7 +1000,7 @@ EV_2_S04_under_noi
 				 would get mistaken for someone	
 				 else in such a small village.)	
 0x1183f	0x98	ALTO		(Maybe he had already left by the	
-				 time we arrived in the Garden...)	
+				 time we arrived in the garden...)	
 0x118b5	0x6B	ALTO		Ellipsis	
 0x118e7	0x06	ALTO		ANI_WAIT	
 0x1190d	0x98	ALTO		Speaking of which...	

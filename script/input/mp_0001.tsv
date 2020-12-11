@@ -216,7 +216,7 @@ subev_look_moon
 0x46ac	0x98	ALTO		Haha, the moons are beautiful too.	
 				Maybe it's because it's so sunny?	
 0x4783	0x6B	PLAYER1		Ellipsis	
-0x47b8	0x98	ALTO		(Although my time at the Academy was fun...	
+0x47b8	0x98	ALTO		(Although my time at the academy was fun...	
 				 I can finally feel at ease. I guess that's	
 				 the feeling of finally returning home.)	
 0x4856	0x06	ALTO		ANI_STREATCH	
@@ -273,7 +273,7 @@ subev_haka
 0x55fe	0x06	ALTO		ANI_DENY	
 0x5624	0x98	ALTO		(Now, I am still supported	
 				 by Eartha and Cygna, but..)	
-0x567a	0x98	ALTO		(I'm going to study hard at the Academy,	
+0x567a	0x98	ALTO		(I'm going to study hard at the academy,	
 				 and become an adult you can be proud of.)	
 0x5732	0x06	ALTO		ANI_NOD	
 0x5757	0x98	ALTO		(Your dream... Lost Heaven...	
@@ -866,7 +866,7 @@ QS_82_quest_end
 				places and learned many things...	
 0xf317	0x06	ALTO		ANI_THANKS	
 0xf33f	0x98	ALTO		At the end of next year, I'll graduate	
-				from the Academy, but... I don't have	
+				from the academy, but... I don't have	
 				any idea what I'll do after that.	
 0xf3ca	0x06	Serpent		ANI_LAUGH	
 0xf3f4	0x98	Serpent	#6A	Hoho, I have long thought	
@@ -1108,7 +1108,7 @@ EV_8_S02_meet_lyra
 				to thank you, Lyra.	
 0x14699	0x06	Lyra		ANI_GESTURE2	
 0x146c3	0x98	Lyra		...Thank me?	
-0x146f5	0x98	ALTO	#6A	Since I returned to the Academy,	
+0x146f5	0x98	ALTO	#6A	Since I returned to the academy,	
 				you were worried about me and	
 				sent me so many letters.	
 0x1476b	0x06	ALTO		ANI_THANKS	

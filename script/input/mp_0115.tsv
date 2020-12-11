@@ -762,7 +762,7 @@ tuto_museum_first
 0xc5a0	0x06	ALTO		ANI_COMPLAIN	
 0xc5ca	0x98	ALTO		...Amazing!! It's even	
 				more amazing than the	
-				Academy's library!	
+				academy's library!	
 0xc6e4	0x3F	Name		Man's Voice	mp_0000 0x17b08
 0xc6f7	0x98	Volans	#6A	Oh...? Who are you?	
 0xc736	0x6B	ALTO		Surprise	
@@ -819,7 +819,7 @@ tuto_museum_force3
 0xd658	0x06	ALTO		ANI_COMPLAIN	
 0xd682	0x98	ALTO		...Amazing!! It's even	mp_0115 0xc5ca
 				more amazing than the	
-				Academy's library!	
+				academy's library!	
 0xd6f8	0x3F	Name		Blonde-Haired Woman	mp_0115 0xc8bc
 0xd713	0x06	Caelum		ANI_LAUGH	
 0xd73c	0x98	Caelum		Ehehe, looks like you get the idea.	

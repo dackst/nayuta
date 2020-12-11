@@ -148,7 +148,7 @@ SB_5_S02_appear_ALTO
 0x2891	0x6B	ALTO		Exclamation	
 EV_5_S02_talk_noi					
 0x2d5f	0x98	ALTO	#0W#480x#270y	Wh-What the heck!?	
-				The sky and the Garden...	
+				The sky and the garden...	
 0x2e60	0x98	ALTO		...I have to find Noi!	
 0x3057	0x06	NOI		ANI_DENY	
 0x3084	0x98	NOI	#1W	N-No way...	
@@ -183,7 +183,7 @@ EV_5_S02_talk_noi
 0x37a5	0x06	NOI		ANI_GESTURE1	
 0x37ce	0x98	NOI		Because the four temples have shut down,	
 				all the astral power from each of the	
-				continents is flowing into the Garden.	
+				continents is flowing into the garden.	
 0x3862	0x06	NOI		ANI_DENY	
 0x3887	0x98	NOI		No, to be more precise...	
 				Into Heliograd.	

@@ -182,7 +182,7 @@ SB_6_S31_exit_Algorl
 SB_6_S31_exit_Nemeas					
 EV_6_S31_4gear_get					
 0x6fbe	0x40	UNDEF		Having gathered the four Stellagears,	
-				Nayuta and Noi hurried to the Garden.	
+				Nayuta and Noi hurried to the garden.	
 0x711e	0x98	Nemeas	#1W	.......	mp_0001 0xc917
 0x71a2	0x41	None	#1W#2E#310c	...I think they are gone.#0E	
 0x734e	0x06	Gio		ANI_WAIT	

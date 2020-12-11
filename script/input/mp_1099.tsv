@@ -1130,7 +1130,7 @@ EV_1_S08_vs_seram
 				come to better understand your destinies.	
 0x149f1	0x98	Zext	#1W	Now then... Noi should be here soon.	
 0x14a4e	0x98	Zext	#1W	Regretfully... I must prepare to give the	
-				warden of the Garden a good welcome.	
+				warden of the garden a good welcome.	
 SB_1_S08_signa_g_1					
 0x14c9f	0x06	Signa_g		ANI_STEP_F2	
 0x14cd3	0x06	Signa_g		ANI_ATK5	
@@ -1332,7 +1332,7 @@ EV_5_S10_signa_vs_seram
 0x1a32e	0x06	Seram		ANI_WAIT_DAMAGED	
 0x1a3fc	0x40	Signa	#0W	Until a few years back,	
 				I was actually asleep for a long	
-				time in the Garden with Creha.	
+				time in the garden with Creha.	
 0x1a46e	0x40	Signa	#0W	Why was I asleep...?	
 				Well, let's put that matter aside for now.	
 0x1a4d8	0x40	Signa	#0W	One day...	

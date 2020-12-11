@@ -15,7 +15,7 @@ stp_al
 0x1eb3	0x98	ALTO		Looks like you'd have to walk	
 				pretty far to get over there.	
 0x1f03	0x98	ALTO		Let's put that off for now	
-				and check out the Garden.	
+				and check out the garden.	
 lp_portal					
 0x2058	0x98	ALTO		Cygna and Creha should	
 				be over there...	
@@ -169,7 +169,7 @@ talk_Creha
 talk_Cetus					
 0x4a0c	0x98	Cetus		We'll return to the island together.	
 				Make sure to come back to us in one piece.	
-0x4a74	0x98	Cetus		We'll watch over this Garden	
+0x4a74	0x98	Cetus		We'll watch over this garden	
 				and the fairy until you return.	
 0x4ade	0x98	Cetus		It's the least we can do for you.	
 				Leave this place to us.	
@@ -455,7 +455,7 @@ QS_41_discovery_Equlea
 0x9967	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x99ac	0x06	NOI		ANI_DEJECTED	
 0x9a27	0x40	UNDEF		For a little bit, together the three toured the	
-				rest of the Garden, where it was less dangerous.	
+				rest of the garden, where it was less dangerous.	
 0x9aab	0x40	UNDEF		Afterwards, they delivered Equulea to her parents,	
 				who were still waiting in their room at the inn.	
 QS_41_sub_move_ALTO					
@@ -468,7 +468,7 @@ QS_82_get_flower
 				Fiona Flowers?	
 0xa099	0x98	NOI	#6A	...Yes, I think so.	
 0xa0eb	0x98	NOI	#6A	Beautiful, white flowers that	
-				adorn the Garden all year long...	
+				adorn the garden all year long...	
 0xa155	0x98	NOI	#6A	These are most likely	
 				Fiona Flowers.	
 0xa1bd	0x98	ALTO		They seem to be growing everywhere here...	
@@ -684,7 +684,7 @@ EV_1_S00_go_jungle
 0xf74c	0x06	NOI		ANI_DEJECTED	
 0xf7b7	0x98	NOI		Oh, I'm such an idiot...	
 				Letting humans into this	
-				sacred Garden...	
+				sacred garden...	
 0xf818	0x06	NOI		ANI_GUTSPOSE	
 0xf883	0x98	NOI		I-If it's come to this, I	
 				must protect Lady Creha!	
@@ -717,13 +717,13 @@ EV_1_S00_go_jungle
 				world call it that?	
 0xfe5c	0x06	NOI		ANI_GESTURE1	
 0xfe85	0x98	NOI		This world's name is Terra...	
-0xfec7	0x98	NOI		Together with the Garden on this island,	
+0xfec7	0x98	NOI		Together with the garden on this island,	
 				there are four continents that make up	
 				this impeccable world.	
 0xff53	0x06	ALTO		ANI_THINK2	
 0xff7b	0x98	ALTO	#6A	Terra... I think that means 'earth'	
 				in an ancient language, right?	
-0xffe8	0x98	ALTO		The Garden, and four continents...?	
+0xffe8	0x98	ALTO		The garden, and four continents...?	
 0x10033	0x98	ALTO	#6A	I wonder if it's beyond	
 				the 'End' of our world...?	
 0x1008d	0x06	ALTO		ANI_WAIT	
@@ -758,7 +758,7 @@ EV_1_S00_go_jungle
 				to be her caretaker or something?	
 0x1088e	0x98	NOI		Y-Yeah, something like that...	
 0x10909	0x98	NOI		While Lady Creha sleeps, my job	
-				is to watch over this Garden...	
+				is to watch over this garden...	
 				It's my duty as a warden.	
 0x1098d	0x06	ALTO		ANI_COMPLAIN	
 0x109b7	0x98	ALTO	#6A	You supervise a huge place	
@@ -793,7 +793,7 @@ EV_1_S00_go_jungle
 0x1143a	0x06	NOI		ANI_GUTSPOSE	
 0x11463	0x98	NOI		Lady Creha...	
 				I'll be back!	
-0x114ec	0x98	NOI		As the warden of the Garden...	
+0x114ec	0x98	NOI		As the warden of the garden...	
 				I'll stop Zext for sure!	
 0x11593	0x06	NOI		ANI_NOD	
 0x115b7	0x98	NOI		...Please, let me	
@@ -881,7 +881,7 @@ EV_1_S00_go_jungle
 0x12cc7	0x98	ALTO	#6A	Noi, what is that...？	
 0x12d1c	0x06	NOI		ANI_WAIT	
 0x12d75	0x98	NOI		This is a teleporter device	
-				that connects this Garden	
+				that connects this garden	
 				to the other continents!	
 0x12de5	0x98	NOI		Zext seemed to be headed for the	
 				continent of Oltapia, southwest	
@@ -948,7 +948,7 @@ EV_2_S01_look_around
 0x143d4	0x98	NOI	#6A	I couldn't find him over there either.	
 0x14419	0x98	NOI	#6A	As I thought...	
 				Maybe he already	
-				left the Garden.	
+				left the garden.	
 0x1447b	0x06	ALTO		ANI_GESTURE2	
 0x144a5	0x98	ALTO		But... he would've needed to use	
 				the teleporter device to go to	
@@ -1292,7 +1292,7 @@ EV_3_S24_meet_gio
 0x1cbbb	0x06	Gio		ANI_GESTURE1	
 0x1cbe4	0x98	Gio		Oh, it's you guys.	mp_0000 0x1a8e1
 0x1cc1d	0x06	ALTO		ANI_GESTURE2	
-0x1cc47	0x98	ALTO	#6A	Geo, you're here at the Garden?	
+0x1cc47	0x98	ALTO	#6A	Geo, you're here at the garden?	
 0x1ccc2	0x98	NOI	#6A	Only because I asked him to come	
 				when I go to Nayuta's world.	
 0x1cd83	0x98	NOI	#6A	I'm still worried about leaving	
@@ -1368,7 +1368,7 @@ EV_4_S02_hear_algo_voice
 				exchanged information with Algol.	
 0x1e307	0x40	UNDEF		According to Algol, it seems there's	
 				no doubt that the masked man is Selam.	
-0x1e374	0x40	UNDEF		Why he disappeared from the Garden and	
+0x1e374	0x40	UNDEF		Why he disappeared from the garden and	
 				why he follows Zext remains unknown.	
 0x1e514	0x41	None	#0W#2E#030c	...It is difficult to hold a	
 				discussion in this manner.#0E	
@@ -1465,7 +1465,7 @@ EV_8_S06_arrive_garden
 				and Creha sleeping?	
 0x20e70	0x06	NOI		ANI_GESTURE1	
 0x20e99	0x98	NOI	#6A	Umm... I moved them to the beds	
-				in the center of the Garden.	
+				in the center of the garden.	
 0x20eee	0x98	NOI	#6A	...Shall we check them out?	
 0x20f32	0x06	ALTO		ANI_NOD	
 0x20f57	0x98	ALTO		...Yeah.	

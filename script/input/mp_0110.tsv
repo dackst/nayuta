@@ -1926,7 +1926,7 @@ EV_3_S00_detect_disease
 				you say anything!?	
 0x22af5	0x98	Asa_b	#1W#12S#6A#170x#220y	I'm sorry...	
 0x22b4b	0x98	Asa_b	#2W#12S#6A#170x#220y	It was just after...	
-				#12S...After you left for the Academy.	
+				#12S...After you left for the academy.	
 0x22bd0	0x98	Asa_b	#3W#12S#6A#170x#220y	I didn't want...you to put your	
 				#12Sdream on hold because of me...	
 0x22c4c	0x98	Asa_b	#3W#12S#6A#170x#220y	...I'm really sorry...	
@@ -1936,7 +1936,7 @@ EV_3_S00_detect_disease
 				She's just sleeping.	
 0x22f59	0x98	ALTO	#6A	............	mp_0001 0x15fd5
 0x22f88	0x98	ALTO	#6A	Doctor, when did you find out she...?	
-0x23011	0x98	Hydol		...Right after you began at the Academy.	
+0x23011	0x98	Hydol		...Right after you began at the academy.	
 0x23058	0x98	Hydol		One day, she came to me about feeling ill.	
 				That's when I first diagnosed it.	
 0x23134	0x06	ALTO		ANI_GESTURE1	

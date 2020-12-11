@@ -124,10 +124,10 @@ Like before, this section mostly served so that *I* could keep these things cons
 
 * inconsistent capitalization, esp. for special terms that are originally always used in "quotes" or 《brackets》 in Japanese:
   * should now be always capitalized
-    * proper names: Garden (specific location), contintental epithets (Forest Continent, etc.), the End of the World/End (a specific location/border)
+    * proper names: full names or proper locations (Star Garden, Saint Cerise Academy), contintental epithets (Forest Continent, etc.), the End of the World/End (a specific location/border)
     * items that appear in your inventory
   * should now be always decapitalized (outside of dungeon names, etc.): 
-    * "arts", "crafts", "mira", "star shard", "shard", "shining stone", "selge", "ruins", "temple", "warden", season names (spring, summer, autumn, winter), "seal", "final key", "key"
+    * "arts", "crafts", "mira", "star shard", "shard", "shining stone", "selge", "ruins", "temple", "warden", season names (spring, summer, autumn, winter), "seal", "final key", "key", shortened names of proper locations (garden, academy)
   * names of positions/titles (elder, doctor) should now be decapitalized, and only capitalized if used in place or as part of a name, e.g. "Hello, Elder", "go see the elder", and "Elder Serpent"
 
 * inconsistent location names

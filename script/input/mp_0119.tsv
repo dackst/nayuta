@@ -44,7 +44,7 @@ EV_0_S00_night_ship
 				with bags under your eyes.	
 0x23e5	0x06	ALTO		ANI_USE_SEXTANT_END	
 0x250a	0x06	ALTO		ANI_THINK2	
-0x255e	0x98	ALTO	#0W#6A	Hmm... If this were the Academy's observatory,	
+0x255e	0x98	ALTO	#0W#6A	Hmm... If this were the academy's observatory,	
 				I could take more precise measurements, but...	
 0x25e1	0xBC	Signa		Sweatdrop	
 0x2618	0x06	Signa		ANI_DEJECTED	
