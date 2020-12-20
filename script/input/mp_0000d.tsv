@@ -100,7 +100,7 @@ talk_Chicken
 quest_Lupus					
 0x1e23	0x98	Lupus		That weird creature from earlier?	
 				Nah, it didn't come back here.	
-0x1e7d	0x98	Lupus		...What are really up to?	
+0x1e7d	0x98	Lupus		...What are you really up to?	
 0x1f02	0x98	Lupus		...Some sort of weird creature	
 				just passed by here...	
 0x1f5a	0x98	ALTO		Lupus, that creature...	
@@ -239,7 +239,7 @@ EV_4_S31_escape_village
 				to use you guys as bait!?	
 0x5d2a	0x06	Barton		ANI_NOD	
 0x5d51	0x98	Barton	#6A	No... That might not be a bad idea.	
-0x5d93	0x98	Barton	#6A	The museum is pretty study,	
+0x5d93	0x98	Barton	#6A	The museum is pretty sturdy,	
 				so it should be able to hold	
 				off attacks from those armors.	
 0x5e4c	0x98	Barton	#6A	We will be responsible	
