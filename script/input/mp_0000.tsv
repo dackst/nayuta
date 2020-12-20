@@ -254,7 +254,7 @@ talk_Lupus
 				to the island recently...	
 0x568b	0x98	Lupus		According to my investigation,	
 				eyewitnesses include my brother	
-				Dorado, Mr. Sculp, and Ada.	
+				Dorado, Sculp, and Ada.	
 0x56f2	0x98	Lupus		...Their reports corroborate the idea...	
 				Perhaps I should investigate myself...	
 0x5758	0x98	ALTO		(H-Hmm, with the way he is, it's	
@@ -505,7 +505,7 @@ talk_Sculp
 0x85c3	0x98	Sculp		She said she was going	
 				on an errand somewhere.	
 0x8611	0x98	ALTO		I see...	
-				Thanks, Mr. Sculp!	
+				Thanks, Sculp!	
 0x8674	0x98	Sculp		Are you looking for her?	
 0x86ad	0x98	Sculp		In that case, you might	
 				want to look over that way.	
@@ -571,11 +571,11 @@ talk_Sculp
 				later to see if there's any damage.	
 0x9260	0x98	Sculp		Oh, Nayuta! You've definitely grown	
 				in the short time you were away.	
-0x92cc	0x98	Sculp		For a minute there, I thought you	
-				were a giant or something.	
-0x931e	0x98	ALTO		Haha... You exaggerate too much, Sculp.	
-0x9365	0x98	ALTO		It's only been four months	
-				since I left.	
+0x92cc	0x98	Sculp		For a minute there, I thought	
+				you were a giant or something.	
+0x931e	0x98	ALTO		Haha... You exaggerate too much, Mr. Sculp.	
+0x9365	0x98	ALTO		It's only been four	
+				months since I left.	
 0x93ae	0x98	Sculp		Haha, it's not that much of an exaggeration.	
 				You can never really tell how tall you're	
 				getting during a growth spurt.	

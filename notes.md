@@ -206,10 +206,11 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * Because everyone addressing parents as "Father" and "Mother" as in the original is [weird](https://tvtropes.org/pmwiki/pmwiki.php/Main/ParentalTitleCharacterization), (except for Ada, they did this no matter what parental title they actually used in Japanese), the default (read: my default) names kids use for their parents are now referred to as "Dad" or "Mom".
     * "tousan-tachi" in Japanese should now be translated as "Mom and Dad" (or "Mother and Father", or even just "parents"), rather than simply "Father" or "[Father and Mother](https://english.stackexchange.com/questions/121756/mom-and-dad-vs-dad-and-mom)"
   * siblings should now usually use each other's names rather than referring to each other as "Brother" or "Sister" like they're in a monastery or in an [incest porn parody](https://www.youtube.com/watch?v=sxnJcZvuRK8)
-  * currently keeping most of Nayuta's use of Mr./Mrs. for most older adult villagers from original translation, rather than aunt/uncle
-    * otherwise might confusingly imply one of them is their actual aunt/uncle
+  * currently keeping most of Nayuta's use of Mr./Mrs. for some adults (Canie, Sculp, Janis, Columba, Barton) from original translation, rather than aunt/uncle
+    * otherwise might confusingly imply one of them is their actual aunt/uncle (and Lyra his cousin)
     * exception here is in Canie's case: In Japanese she insisted on Nayuta calling her older sister rather than aunt, his default for her and the rest of the adults. Meanwhile the original translation has Canie insist on Nayuta calling her Mrs. Canie rather than just Canie. I feel like a sister would normally be more familiar and younger than an aunt, and asking for a "Mrs." in front of her name implies the opposite of that.
     * keep "old man Barton" from original translation, he seems especially close to the Herschels, and was a good friend of William, so it's fine that it's only him
+    * at some points these same adults are addressed by him and others his age (Lyra, Lupus) with a more generic "-san", so no Mr./Mrs. for them in those cases
   * Ada no longer talks so much about Nayuta's sister (although Nayuta never reciprocates, she's calling herself nee-san, not randomly bringing up Eartha. currently changed to something like "your darling Ada")
   * remove the small kids (the polite ones, anyway) calling older kids (Nayuta, Cygna, Lyra) big brother/sister to be consistent with how the older kids address the young adults/even older kids (e.g. Ada, Dorado, Sasha)
 

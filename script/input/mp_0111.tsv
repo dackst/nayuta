@@ -930,7 +930,7 @@ QS_24_get_local_cuisine
 0xd2f6	0x98	ALTO	#6A	Umm, there's something	
 				I want to ask you...	
 0xd348	0x06	ALTO		ANI_GESTURE1	
-0xd372	0x98	ALTO	#6A	Mr. Columba, do you know anything	
+0xd372	0x98	ALTO	#6A	Columba, do you know anything	
 				about this island's local dish?	
 0xd3d5	0x06	Columha		ANI_THINK	
 0xd3ff	0x98	Columha		Local dish, eh?	
