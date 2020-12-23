@@ -518,7 +518,7 @@ Clearly, there were undocumented shenanigans that went on in the original fantra
 
 #### "Solutions"
 
-Here's how I solved or managed to work around each of the above problems. In about half of the cases where the programs themselves were actually bugged, I only managed to fix one. The rest were resolved more with workarounds, involving the use of bug-free files from the 4.15 release and/or a hex editor.
+Here's how I solved or managed to work around each of the above problems. In the cases where the programs themselves were actually bugged, I only managed to fix some. The remaining case was resolved with more of a workaround, involving the use of bug-free files from the 4.15 release and a hex editor.
 
 If you want to do a actual, proper retranslation of this game yourself and you're like me and not smart enough to write your own tools or fix the existing ones, you might have to do something similar.
 
@@ -530,7 +530,9 @@ If you want to do a actual, proper retranslation of this game yourself and you'r
   3. Chapter titles: like with #2, I copied the files from the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't.
   4. the correct objective text will be used if the story is continued to the next objective. It appears this is not at all the fault of the tools, and the text for the current objective is loaded directly from your savefile.
   5. The Mishy issue was also not entirely the fault of the tools. For some reason, Mishy's internal name ("Michy") was exposed in `chr_names.tsv` as well as his name that is displayed above his textboxes (originally "Michey"). For comparison, Mensa was called "Mrs. Mensa" in the original translation, and has an internal name of "Mensa", but only appeared once in `chr_names.tsv` (as "Mrs. Mensa"). I've also been able to break shopkeepers by changing the wrong names in `chr_names.tsv`, so just make sure you only change the right one? 
-  6. Extra Japanese text (underneath my English): I would usually be able to fix these by reformatting my English text to use an extra line in the text box. However, I encountered this again for two lines when reading the message at the end of Volans' sidequest, but wasn't able to fix it this way. I found that opening mp_0115.bin in a hex editor and changing the first byte of the phantom line to 00 worked. (after what *should* to be last line, there'll be some non-zero bytes, then zeros, then some non-zero bytes. Zero out the first of the non-zero bytes after the zeros. [Example](https://i.imgur.com/aospeqr.png): Zero out the highlighted byte)
+  6. Extra Japanese text (underneath my English): I would usually be able to fix these by reformatting my English text to use an extra line in the text box. However, I encountered this again for two lines when reading the message at the end of Volans' sidequest, but wasn't able to fix it this way.
+    * this appears to be fixable by increasing the max length for `0x41` op codes, as defined in the `bin` method, from 10 to 11. Now all the Japanese text is replaced as long as there is enough rows of English text. Due to a related logical error that should also now be fixed, it was truncated to 3 rows when I tried to add an additional row instead of 10
+    * so in conclusion, while other text boxes can be freely resized, `0x41` opcodes require as least the same number of rows of English text as Japanese text
 
 
 ### other stuff

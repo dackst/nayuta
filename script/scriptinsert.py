@@ -135,7 +135,7 @@ class Op(object):
             for arg, s in zip(range(1, 4), text):
                 args[arg] = format_string(s.encode('cp932'))
         elif self.opcode == 0x41:
-            text = copy.deepcopy(set_length(self.text, 10))
+            text = copy.deepcopy(set_length(self.text, 11))
             text[0] = self.code + self.text[0]
             for arg, s in zip(range(3, 13), text):
                 args[arg] = format_string(s.encode('cp932'))
@@ -149,8 +149,9 @@ def set_length(l, size, fillvalue = ''):
     '''extends l to size using fillvalue or truncates l to size'''
     if len(l) < size:
         l += [fillvalue] * (3 - len(l))
-    elif len(l) > 3:
-        l = l[:3]
+    elif len(l) > size:
+        print("Text will be truncated:", l)
+        l = l[:size]
     return l
     
 def argparse(filedata, pos):

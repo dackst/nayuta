@@ -81,7 +81,6 @@ You should have access to a clean Nayuta no Kiseki iso. Some of my [workarounds]
 4. Reinsert text by running using the insertion Python scripts from within each respective folder. With my changes, the dump scripts must be run at least once beforehand.
 5. Copy the new files to their correct locations. I would avoid using flame's `copy_text` script, since it led me to the second of the issues I described [here](./notes.md#why-not-just-use-flames-tools-directly). You can use `copy_all.py` if you don't want to do it manually.
     * If you made modifications to files that weren't modified before, you might have to run the pack editing part on a relevant file for your changes to appear. See the "final boss attack name texture" part of my `copy_all.py` for an example.
-    * If after testing, you run into the same issue I did with Volans's sidequest, you might want to do the same changes I describe at #6 [here](https://github.com/dackst/nayuta/blob/master/notes.md#solutions).
 6. Run `_build.bat` to build the new ISO with your changes, named `output.iso`.
 
    * You should be able to do steps 4-6 in one go with `build_all.bat` or `build_all.sh`
