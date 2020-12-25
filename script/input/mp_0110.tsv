@@ -1828,9 +1828,9 @@ EV_2_S09_disease_symptom
 0x20763	0x98	Asa		Lyra, you need to come	
 				up with your next move.	
 0x207a6	0x06	Asa		ANI_WAIT3	
-0x207cc	0x98	Asa		Who knows, maybe next time you	
-				meet he'll be snatched up by an	
-				elf or angel or something?	
+0x207cc	0x98	Asa		Who knows, maybe next time you meet	
+				he'll be spoken for by that fairy	
+				or angel or whatever she is?	
 0x2082a	0x6B	Lyra		Unknown	
 0x20894	0x06	Lyra		ANI_COMPLAIN	
 0x208be	0x98	Lyra	#6A	H-Hey, wait...	
