@@ -7,7 +7,7 @@ lp_portal
 				we should be able to go to Heliograd!	
 0x6ee	0x98	ALTO		We've got to hurry...	
 				Anyway, let's do this!	
-0x7ad	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
+0x7ad	0xC9	YesNoBox		Use the warp device?	mp_0101 0x2651
 0x94f	0x06	st		ANI_PATA1	
 EV_entry3					
 LP_Monsyo					

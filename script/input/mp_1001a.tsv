@@ -34,8 +34,8 @@ SB_1_S03_appear_Signa
 EV_1_S03_jungle2_start					
 0x19a1	0x06	st		ANI_PATA2	
 0x1b81	0x06	ALTO		ANI_WAIT4	
-0x1ba8	0x98	ALTO		Phew... I think I'm starting to get	
-				used to the teleporter devices.	
+0x1ba8	0x98	ALTO		Phew... I think I'm starting to	
+				get used to the warp devices.	
 0x1c0a	0x06	ALTO		ANI_LOOK_AROUND	
 0x1c3f	0x98	ALTO		It's an amazing place this time too.	
 0x1c8b	0x98	Signa		...Looks like the tops of giant	

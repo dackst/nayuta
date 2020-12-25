@@ -186,12 +186,25 @@ Like before, this section mostly served so that *I* could keep these things cons
   * Cory should now always be male
   * the animals Mishy and Nora (the dog) are now referred to by those that know them using male and female pronouns, respectively, rather than being (almost) always genderless.
 
-* transfer/transport(er) gate/device -> "transfer gate" should now exclusively refer to the large physical gates you walk through, and "teleporter device" for the small pads on the ground
+* transfer/transport(er) gate/device -> "transfer gate" should now exclusively refer to the large physical gates you walk through, and "warp device" for the small pads on the ground
 * Training Book: stamp/seal -> seal
 
 * Pyxia should no longer switch between making paintings and drawings
   * I guess it's okay if she makes sketches before starting a painting
 
+* translate terms consistently with other games in kiseki series:
+  * 古代遺物: artifact (instead of relic)
+  * 崩壊: collapse (when discussing world-ending disasters)
+  * 貴族: noble/nobility
+  * 執行者: Enforcer
+  * 転位装置: warp device (circular pads used for teleportation in CSII)
+
+  * deliberately kept different:
+    * 亜空間: pocket dimension
+      * originally translated as "hyperspace" or just "space", which I changed to "subspace"
+      * appears a few times in CSIV, and translated as "dimension" or "dimensional". However, other dimensions/spaces are brought up in prior games like Sky as well (usually 空間 without the [亜](https://en.wiktionary.org/wiki/%E4%BA%9C) in front). What seems to be different in these cases is that they're more of an artificial [pocket dimension](https://tvtropes.org/pmwiki/pmwiki.php/Main/PocketDimension) created by a dweller of the usual, "higher" dimension.
+      * Since not even "Subdimension" fits in the menu location text, I'll keep it as "Subspace" there. Location names given in the menu are rarely directly referenced in dialogue anyway.
+    * 転位門: transfer gate (appears twice in CSIV, translated once as "portal" and another time as "teleportation gateway", but these instances appear more as a casted magical teleportation spell with no physical presence to be walked through, rather than a literal arched gate that still exists even when the teleportation is no longer active.
 
 
 ## Terminology Changes ##

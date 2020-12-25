@@ -3,7 +3,7 @@ init
 0x220	0x06	gate_a		ANI_PATA2	
 0x259	0x06	st		ANI_PATA3	
 lp_portal					
-0x2a6	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
+0x2a6	0xC9	YesNoBox		Use the warp device?	mp_0101 0x2651
 0x446	0x06	st		ANI_PATA1	
 LP_Monsyo					
 0x591	0x40	UNDEF		A strange crest is engraved on the stone monument.	mp_0101 0x328b

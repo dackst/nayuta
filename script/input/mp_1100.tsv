@@ -110,11 +110,11 @@ SUB_meet_adventurer
 0x1b1c	0x98	NOI		No destroying Terra's facilities,	
 				and no taking stuff home with you!	
 				Got it!?	
-0x1b95	0x40	UNDEF		Noi explained how to use the teleporter	
-				devices and the way back to the island.	
-0x1c05	0x40	UNDEF		The two still didn't seem to understand the	
-				teleporter devices very well, but Nayuta and Noi	
-				were able to patiently explain it to them again.	
+0x1b95	0x40	UNDEF		Noi explained how to use the warp devices	
+				and the way back to the island.	
+0x1c05	0x40	UNDEF		The two still didn't seem to understand the warp	
+				devices very well, but Nayuta and Noi were able	
+				to patiently explain it to them a second time.	
 0x1dd3	0x06	Cetus		ANI_WAIT3	
 0x1e44	0x06	Reticul		ANI_WAIT	
 0x1e85	0x98	Cetus		I see... So those round devices	

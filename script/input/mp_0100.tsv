@@ -316,7 +316,7 @@ EV_2_S13_use_astrolabe
 0xa4ae	0x98	NOI	#6A	I'm sure Geo would help us!	
 0xa4fe	0x06	ALTO		ANI_NOD	
 0xa523	0x98	ALTO		Well, let's head to the	
-				teleporter device for now.	
+				warp device for now.	
 0xa579	0x98	ALTO		I guess we'll have to decide	
 				which one to do first.	
 0xa658	0x07	System	#3C	The Abyss Continent Rieseweld	
@@ -693,9 +693,9 @@ EV_8_S08_emergency_al
 0x152d2	0x41	None	#0W#995c#1E	In order to stop the abnormalities,	
 				the two used the technology of	
 				the Mitos.#0E	
-0x15377	0x41	None	#0W#995c#1E	A subspace exists inside the Astrolabe,	
-				formed by the vast amount of	
-				astral power contained within...#0E	
+0x15377	0x41	None	#0W#995c#1E	A pocket dimension exists inside the Astrolabe,	
+				formed by the vast amount of astral power	
+				contained within...#0E	
 0x15422	0x41	None	#0W#995c#1E	In that 'Inner World'	
 				they placed their own souls.#0E	
 0x154b0	0x41	None	#0W#995c#1E	They did so in an attempt to	
