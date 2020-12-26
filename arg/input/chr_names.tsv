@@ -276,7 +276,7 @@ mp_0100	0xab0	chr name	mp_0000 0x1a26
 mp_0100	0xb45	chr name	mp_0000 0x1708
 mp_0100	0xbda	chr name	mp_0000 0x1a26
 mp_0100	0xc72	chr name	mp_0000 0x1708
-mp_0100	0xd07	chr name	Planetarium
+mp_0100	0xd07	chr name	Planisphere
 mp_0100	0xda6	chr name	オーブメント
 mp_0100	0xe36	chr name	mp_0100 0xda6
 mp_0100	0xec6	chr name	mp_0100 0xda6

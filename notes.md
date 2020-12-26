@@ -376,6 +376,9 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * Glowing Dust Area -> Shining Shard Area (consistency with shining stones/star shards)
 
 
+* Planetarium (星座球) -> [Planisphere](https://en.wikipedia.org/wiki/Planisphere)
+  * I can't seem to figure out what, if any, astronomical tool this is supposed to be. The characters seem to literally translate to constellation/zodiac sphere/ball, and googling them together mainly gives images of spherical trikets with astrological signs printed on them, rather than any actual tool 
+  * also considered [Stellarium](https://en.wikipedia.org/wiki/Stellarium) (the existing uses of which are spelled out as "ステラリウム", but 星座球 is never actually pronounced as ステラリウム), [Astrarium](https://en.wikipedia.org/wiki/Astrarium) (same meaning as "Planetarium", but more obvious pairing with "Astrolabe"), and Celestial Sphere 
 
 #### Characters
 

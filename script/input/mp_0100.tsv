@@ -864,7 +864,7 @@ EV_8_S17_happy_end
 0x1a078	0x98	Signa2		...I see.	mp_0004c 0x4434
 0x1a0a3	0x98	Signa2		Besides us Mitos, the only other	
 				entity capable of doing this is...	
-0x1a151	0x98	Signa2		Planetarium... Is that you?	
+0x1a151	0x98	Signa2		Planisphere... Is that you?	
 0x1a1d8	0x98	ALTO		Huh!?	
 0x1a514	0x6B	ALTO		Exclamation	
 0x1a546	0x6B	NOI		Exclamation	
@@ -952,7 +952,7 @@ EV_8_S17_happy_end
 				That's amazing!	
 0x1b9ed	0x06	Signa2		ANI_NOD	
 0x1ba22	0x98	Signa2	#1W#6A	Well, as expected from	
-				the Planetarium...	
+				the Planisphere...	
 0x1bb83	0x98	NOI	#2W#6A	...Thank you so much for this...	
 0x1bc2a	0x06	NOI		ANI_WIPE_TEAR	
 0x1bc54	0x98	NOI	#2W#6A	...*sniff*...	
@@ -971,7 +971,7 @@ EV_8_S17_happy_end
 0x1c131	0x98	Signa2	#1W#6A	Haha... Never thought we'd be able to	
 				see each other again so soon, huh?	
 0x1c375	0x06	NOI		ANI_WIPE_TEAR	
-0x1c3ad	0x98	Signa2	#1W#6A	Planetarium, I don't think	
+0x1c3ad	0x98	Signa2	#1W#6A	Planisphere, I don't think	
 				I can thank you enough.	
 0x1c41a	0x98	Zext	#1W	...As I previously said,	
 				I was simply trying to	
@@ -1056,7 +1056,7 @@ EV_8_S17_happy_end
 0x1db72	0x98	Zext	#2W	Farewell, Mitos. And...	
 				child of the surface.	
 0x1dcc9	0x06	NOI		ANI_NOD	
-0x1dcfb	0x98	NOI	#2W#6A	Goodbye, Planetarium!	
+0x1dcfb	0x98	NOI	#2W#6A	Goodbye, Planisphere!	
 0x1dd3d	0x06	Creha2		ANI_GESTURE2	
 0x1dd77	0x98	Creha2	#2W	Please take care of all	
 				the life on this world.	

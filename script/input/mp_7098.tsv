@@ -15,7 +15,7 @@ EV_7_S04_temple5_front
 0x1b94	0x06	ALTO		ANI_LOOK_AROUND	
 0x1bc1	0x98	ALTO		Is this... some kind of temple?	
 0x1c9d	0x98	NOI		This is where the command center	
-				for the Planetarium, the most	
+				for the Planisphere, the most	
 				important part of Terra, is kept.	
 0x1d10	0x06	NOI		ANI_GESTURE1	
 0x1d39	0x98	NOI		...Zext and the others	
@@ -31,7 +31,7 @@ EV_7_S05_check_starball
 0x22ee	0x06	NOI		ANI_SURPRISE	
 0x2317	0x98	NOI		There it is!	
 0x24d1	0x06	ALTO		ANI_SURPRISE	
-0x24fb	0x98	ALTO		Is that the Planetarium...!?	
+0x24fb	0x98	ALTO		Is that the Planisphere...!?	
 0x2543	0x06	NOI		ANI_NOD	
 0x2567	0x98	NOI	#6A	Yep, looks like it hasn't	
 				been activated yet...	
@@ -47,7 +47,7 @@ EV_7_S05_check_starball
 0x2917	0x98	NOI		That voice...	
 0x2953	0x06	ALTO		ANI_COMPLAIN	
 0x2991	0x98	ALTO	#16S	...Cygna!!	
-0x29c8	0x41	None	#0W#1E#889c	The Planetarium will eventually drop to	
+0x29c8	0x41	None	#0W#1E#889c	The Planisphere will eventually drop to	
 				the surface and assume the role of the	
 				partially destroyed planet's new core.#0E	
 0x2a99	0x41	None	#0W#1E#889c	What that, the world can	
@@ -77,7 +77,7 @@ EV_7_S06_meet_seram
 0x36bf	0x98	Seram		They are continuing their	
 				preparations elsewhere.	
 0x371f	0x98	Seram		This is only a remote interface	
-				point for the Planetarium...	
+				point for the Planisphere...	
 0x377a	0x06	Seram		ANI_GESTURE2	
 0x37a5	0x98	Seram		In order to run the Recreation,	
 				Creha and I both need to	
@@ -304,7 +304,7 @@ EV_7_S09_seram_stone
 0x7b83	0x06	Seram		ANI_TAKE_HELMET2-1	
 0x7bf4	0x06	Signa		ANI_TAKE_HELMET2-2	
 0x7d4a	0x98	Signa	#2W	I'll be heading to the	
-				Planetarium with you guys.	
+				Planisphere with you guys.	
 0x7dfe	0x06	Signa		ANI_DENY	
 0x7e33	0x98	Signa	#1W	Not as Selam Il Ordene	
 				of the Mitos...	
@@ -422,9 +422,9 @@ EV_7_S09_seram_stone
 0xb72c	0x98	Zext_b		My children, your sacrifices	
 				will not go in vain.	
 0xb906	0x06	Zext_b		ANI_PUT_UP_ROD	
-0xb9ba	0x98	Zext_b	#1W	Planetarium...!	
+0xb9ba	0x98	Zext_b	#1W	Planisphere...!	
 				Awaken!!	
-0xc305	0x98	NOI	#0W#0x#500y	The Planetarium...	
+0xc305	0x98	NOI	#0W#0x#500y	The Planisphere...	
 				It's beginning to start!!	
 0xc361	0x98	Zext_b	#0W#500x#500y	Heheh, beautiful...	
 0xc4d6	0x98	Zext_b		...Farewell, son of man.	
@@ -450,7 +450,7 @@ EV_7_S09_seram_stone
 0xcf2a	0x06	gl		ANI_STOP1	
 0xd131	0x98	NOI		Is that a...warp device!?	
 0xd17d	0x06	Signa		ANI_SLEEP2	
-0xd223	0x98	Signa	#0W#6A#180x#220y	The Planetarium... It's just	
+0xd223	0x98	Signa	#0W#6A#180x#220y	The Planisphere... It's just	
 				past the next area...	
 0xd2ac	0x98	Signa	#2W#6A#180x#220y	Hurry, go...!	
 0xd337	0x98	ALTO		Cygna!!	mp_6100 0x605e
@@ -495,6 +495,6 @@ EV_7_S09_seram_stone
 0xe128	0x98	ALTO		(Hold on, Cygna...	
 				 I'll save you for sure!!)	
 0xe202	0x06	ALTO		ANI_WAIT	
-0xe2af	0xCE	Objective		Zext headed for the Planetarium. Hurry, before it's too late!	
+0xe2af	0xCE	Objective		Zext headed for the Planisphere. Hurry, before it's too late!	
 test					
 0xe7ec	0x06	test		ANI_LEVER_OFF	

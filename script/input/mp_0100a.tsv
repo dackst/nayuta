@@ -304,7 +304,7 @@ EV_6_S36_break_up_creha
 				my daughter with such worthless thoughts.	
 0x9ea9	0x06	Zext		ANI_CAPTURE_CREHA	
 0x9ee8	0x06	Creha		ANI_CAPTURED	
-0x9f8c	0x98	Zext	#1W	Creha! Come, the Planetarium	
+0x9f8c	0x98	Zext	#1W	Creha! Come, the Planisphere	
 				will be ready soon.	
 0xa01d	0x98	Zext	#2W	We need you to take care of	
 				some finishing touches...	
@@ -380,7 +380,7 @@ EV_7_S19_use_astrolabe
 0xccfa	0x98	ALTO	#6A	The idol of the Astrolabe!?	
 0xcd42	0x06	Creha		ANI_GESTURE2	
 0xcda3	0x98	Creha	#6A	The counterpart idol to the	
-				one in the Planetarium core...	
+				one in the Planisphere core...	
 				That is Noi.	
 0xce19	0x98	Creha	#6A	An entity that exists to preserve	
 				and protect all life here, using 	
@@ -438,7 +438,7 @@ EV_7_S19_use_astrolabe
 0xdc3f	0x06	Noi		ANI_DENY	
 0xdcbc	0x98	Noi	#0W	...I'm sorry. This is	
 				really all we have left.	
-0xdd09	0x98	Noi	#0W	The Planetarium managed to	
+0xdd09	0x98	Noi	#0W	The Planisphere managed to	
 				hold back the collapse.	
 				We can use that power now.	
 0xddc2	0x98	Noi	#0W	If we don't act now...	
