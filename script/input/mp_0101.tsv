@@ -503,7 +503,7 @@ EV_0_S19_arrive_garden
 0xb6e5	0x06	Signa		ANI_WAIT2	
 0xb70d	0x98	Signa		I don't even have the words	
 				to describe this...	
-0xb75d	0x98	Signa		Haha, but who knows, we might not exist	
+0xb75d	0x98	Signa		Haha, but who knows, we might not 'exist'	
 				in 'this world' any longer ourselves.	#in case it's still not clear, he was trying to imply they died and went to the afterlife, not that he immediately (and correctly) guessed they just discovered a new world
 0xb7f2	0x06	ALTO		ANI_SURPRISE	
 0xb81c	0x98	ALTO	#6A	Huh? Don't say	
@@ -604,11 +604,11 @@ EV_0_S20_meet_creha
 0xd823	0x41	None	#0W#2E	...Even so, I finally reached it.	
 				The lost paradise of Lost Heaven...#0E	
 0xd8c4	0x41	None	#0W#2E	...And then...#0E	
-0xda14	0x3F	Name		???	
+0xda14	0x3F	Name		？？？	
 0xda1f	0x98	Creha	#200x#40y#1W	.........	mp_0003 0xc610
 0xdbc3	0x98	Signa	#1W#6A	I-Is this...?	
 0xdbfe	0x98	ALTO	#1W#6A	A g-girl...?	
-0xdca6	0x41	None	#1W#2E	─In this beautiful world,	
+0xdca6	0x41	None	#1W#2E	In this beautiful world,	
 				we met a girl.#0E	
 0xdd43	0x41	None	#1W#2E	That was the start of our	
 				long summer vacation...#0E	
@@ -704,7 +704,7 @@ EV_1_S00_go_jungle
 0xfb90	0x98	ALTO	#6A	Haha, that's good to hear.	
 0xfbc6	0x98	ALTO	#6A	By the way... There's a bunch	
 				of things we wanted to ask you.	
-0xfc3e	0x98	NOI		Th-Things?	
+0xfc3e	0x98	NOI		'Th-Things'?	
 0xfc6e	0x06	ALTO		ANI_GESTURE1	
 0xfc98	0x98	ALTO	#6A	This world...	
 				Lost Heaven.	
@@ -747,7 +747,7 @@ EV_1_S00_go_jungle
 0x1051e	0x98	NOI	#6A	A long time ago, a lot of	
 				things happened and she	
 				fell asleep, though...	
-0x10585	0x98	ALTO	#6A	The Mitos... created this world!?	
+0x10585	0x98	ALTO	#6A	The Mitos...created this world!?	
 0x105d0	0x98	ALTO	#6A	And... she fell asleep...?	
 				Do you mean she's been	
 				sleeping here ever since?	
@@ -871,14 +871,14 @@ EV_1_S00_go_jungle
 0x127b9	0x06	Signa		ANI_WAIT3	
 0x127ee	0x06	st		ANI_STOP2	
 0x1286b	0x06	NOI		ANI_USE_POWER	
-0x1292a	0x98	NOI	#16S#6A	Yah...！	
+0x1292a	0x98	NOI	#16S#6A	Yah...!	
 0x12960	0x06	st		ANI_PATA3	
 0x129b1	0x6B	ALTO		Exclamation	
 0x129db	0x06	ALTO		ANI_SURPRISE	
 0x12a05	0x6B	Signa		Exclamation	
 0x12a30	0x06	Signa		ANI_SURPRISE_WEAK	
 0x12ca1	0x06	ALTO		ANI_FIND	
-0x12cc7	0x98	ALTO	#6A	Noi, what is that...？	
+0x12cc7	0x98	ALTO	#6A	Noi, what is that...?	
 0x12d1c	0x06	NOI		ANI_WAIT	
 0x12d75	0x98	NOI		This is a warp device that	
 				connects this garden to	
@@ -1163,7 +1163,7 @@ EV_2_S30_talk_creha
 EV_3_S04_meet_creha					
 0x1962a	0x06	Creha		ANI_SIT5	
 0x196f1	0xBC	Creha		Ellipsis	
-0x19776	0x98	Creha	#0W	This is a beautiful place... Really.	
+0x19776	0x98	Creha	#0W	This is a beautiful place... really.	
 0x197c2	0xBC	Creha		Surprise	
 0x1995d	0x06	ALTO		ANI_LOOK_AROUND	
 0x19992	0x98	ALTO		(...Noi might have some idea	
@@ -1229,7 +1229,7 @@ EV_3_S04_meet_creha
 0x1b0f1	0x98	ALTO		I know it's selfish, but...	
 				Please, help me out.	
 0x1b158	0x98	ALTO		Could you do a search with the	
-				Astrolabe to find if there is	
+				Astrolabe to see if there is	
 				any Yupina Grass in this world?	
 0x1b1dd	0x06	NOI		ANI_NOD	
 0x1b21e	0x98	NOI	#6A	...Okay. You've helped	

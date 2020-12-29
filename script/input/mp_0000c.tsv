@@ -17,7 +17,7 @@ talk_Dorado
 0xbde	0x98	Bootie		...Hey, don't ignore me.	
 				Take me with you too!	
 0xc2d	0x6B	Dorado		Sweatdrop	
-0xc8f	0x98	Dorado		Ah, you're so annoying!!	
+0xc8f	0x98	Dorado		Ugh, you're so annoying!!	
 				This is a job for adults!	
 0xcdf	0x98	Dorado		Besides, didn't you just get scared	
 				when I was attacked by that monster	
@@ -202,7 +202,7 @@ talk_Sculp_add
 				the lineup of vegetables for sale at	
 				the general store will increase.	
 0x30ba	0x07	System	#4C	If you find soil,	mp_0000 0x9d16
-				be sure to bring it here.	
+				be sure to bring it to him.	
 0x3150	0x98	Sculp		Hmm, Nayuta...	mp_0000 0x9dac
 				It looks like you have	
 				some good soil again.	
@@ -288,7 +288,7 @@ talk_Aquela
 				 caused those wars in the past...?)	
 0x43dd	0x98	NOI		(I-It's not impossible... Maybe.)	
 0x4429	0x98	Aquela		I am sure my ancestors will be watching	
-				over you as you two go about the mission	
+				over you two as you go about the mission	
 				you must complete...	
 0x44a3	0x98	Aquela		I will not pry into the details,	
 				but please, do your best.	

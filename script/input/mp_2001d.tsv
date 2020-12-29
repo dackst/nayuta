@@ -106,7 +106,7 @@ QS54_talk_SpiritB
 				tell Nemeas!	
 0x2b42	0x06	ALTO		ANI_NOD	
 0x2b67	0x98	ALTO		Yeah!	mp_0001 0x1174e
-0x2bd2	0x98	NOI	#6A	Yeah... but there should	mp_1002b 0x242e
+0x2bd2	0x98	NOI	#6A	Yeah... But there should	mp_1002b 0x242e
 				be three missing nymphs.	
 0x2c21	0x98	NOI	#6A	Nayuta, let's try	mp_1002b 0x24a6
 				looking for them.	
@@ -228,7 +228,7 @@ EV_3_S11_help_eris
 0x697d	0x98	ALTO		Zext is supposed to come	
 				from a long time ago...!	
 0x6a27	0x98	NOI	#6A	Well, I mean, so does Lady Creha, but...	
-0x6a7a	0x98	NOI	#6A	The Mitos are long lived. They live	
+0x6a7a	0x98	NOI	#6A	Mitos are long-lived. They live	
 				dozens of times longer than humans.	
 0x6ae0	0x6B	ALTO		Sweatdrop	
 0x6b12	0x06	ALTO		ANI_DEJECTED	

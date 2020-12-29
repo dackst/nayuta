@@ -13,14 +13,14 @@ lp_smallfish1
 0x1500	0x41	None		[Seahorse] Hippocampus	
 				Strange fish that swims upright.	
 				Because the male rears its children in its stomach,	
-				it is considered as a symbol for easy childbirth.	
+				it is considered a symbol for easy childbirth.	
 0x1655	0x41	None		[Pufferfish] Tetraodontidae	
 				Small, round fish.	
 				Though known to be extremely delicious,	
 				some of its internal organs hold lethal poison.	
 0x1798	0x41	None		[Koi Carp] Cyprinus carpio	
 				Medium size fish that prefers gentle waters.	
-				Because it has 36 rows of scales, it is known as the 6-6 fish,	
+				Because it has 36 rows of scales, it is known as the 6-6 fish.	
 				In some regions, it is considered a symbol of success in life.	
 0x190e	0x41	None		[Goldfish] Carassius auratus	
 				Small fish with a mixed red-and-white body.	
@@ -274,7 +274,7 @@ talk_Vavo
 				be unthinkable, but...	
 0x6c1d	0x98	Vavo		To repay him, I want to	
 				show him great results	
-				of my research someday.	
+				from my research someday.	
 0x6caa	0x98	Vavo		Back in the Empire, I begged	mp_0115c 0x6b3e
 				Professor Volans to take me	
 				on his research assistant.	

@@ -73,7 +73,7 @@ talk_Dorado
 				And at least ask for her name...!	
 0x339b	0x98	Dorado		She must be the daughter of some	
 				noble visiting the island.	
-0x3401	0x98	Dorado		...Aah, it's no use.	
+0x3401	0x98	Dorado		...*sigh*, it's no use.	
 				Just thinking about her	
 				makes my heart race!	
 0x34a7	0x98	Dorado		N-Nayuta!?	
@@ -272,8 +272,8 @@ talk_Lupus
 0x5980	0x98	ALTO		W-Well, umm...	
 0x59b0	0x98	Lupus		Haha, it's all good though.	
 0x59e8	0x98	Lupus		Even though there's lots of things about this	
-				case that pique my interest, it's all good as	
-				long as everything worked out fine in the end.	
+				case that pique my interest, it's all good,	
+				as everything worked out fine in the end.	
 0x5a73	0x98	Lupus		Anyway, tell me about it when	
 				you get the chance. It seems	
 				pretty interesting.	
@@ -282,14 +282,14 @@ talk_Lupus
 				cured Eartha's illness, and why Cygna	
 				hasn't been around lately...	
 0x5bd4	0x98	Lupus		Even though there's lots of things about this	mp_0000 0x59e8
-				case that pique my interest, it's all good as	
-				long as everything worked out fine in the end.	
+				case that pique my interest, it's all good,	
+				as everything worked out fine in the end.	
 0x5c5f	0x98	Lupus		Anyway, tell me about it when	mp_0000 0x5a73
 				you get the chance. It seems	
 				pretty interesting.	
 0x5cf9	0x98	Lupus		Even though there's lots of things about this	mp_0000 0x59e8
-				case that pique my interest, it's all good as	
-				long as everything worked out fine in the end.	
+				case that pique my interest, it's all good,	
+				as everything worked out fine in the end.	
 0x5d84	0x98	Lupus		Anyway, tell me about it when	mp_0000 0x5a73
 				you get the chance. It seems	
 				pretty interesting.	
@@ -302,7 +302,7 @@ talk_Lupus
 				right now, especially you, Dorado.	
 0x5f99	0x98	Lupus		I'll go see how she's doing later.	
 0x5fdc	0x98	Lupus		...Sorry, but I should let	
-				my grandpa know first.	
+				Grandpa know first.	# he's still talking directly to Dorado here
 0x6065	0x98	Lupus		There exist some people who	
 				claim this world is spherical.	
 0x60ce	0x98	Lupus		There sure are some weirdos	
@@ -1295,7 +1295,7 @@ QS_11_fourth_hint
 0x13654	0x98	Dorado		Hey, what's wrong, Nayuta?	
 				Is there something on my face?	
 0x136b3	0x06	ALTO		ANI_THINK2	
-0x136db	0x98	ALTO	#6A	(The note said it to check	
+0x136db	0x98	ALTO	#6A	(The note said to check	
 				 the knight's backside...)	
 0x13739	0x98	ALTO	#6A	(If someone mentions a knight in this town,	
 				 they're probably talking about Dorado...)	
@@ -1462,7 +1462,7 @@ QS_12_quest_end
 				It's a flower from the East	
 				that's supposed to never wither.	
 0x15d0d	0x98	ALTO	#6A	Sasha said in the language of flowers,	
-				it means, 'eternal love.'	
+				it means 'eternal love.'	
 0x15d67	0x06	Sculp		ANI_WAIT2	
 0x15d8f	0x98	Sculp		N-Nayuta, you...	
 				Just how did you bring me	

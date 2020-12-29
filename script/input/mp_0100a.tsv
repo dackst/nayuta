@@ -72,7 +72,8 @@ AL_shop
 0x2e20	0x07	System	#3C	On Infinity difficulty, enemy levels	mp_0100 0x333e
 				will now scale without limit.	
 0x2e98	0x07	System	#4C	※ 'Infinity Enemy Restore' has been added.	mp_0100 0x33b6
-				If used, enemy level scaling will return to a fixed limit.	
+				If used, enemy levels will return to scaling	
+				with a fixed limit.	
 0x300a	0x07	System	#3C	On Infinity difficulty, enemy levels	mp_0100 0x3528
 				will scale to a fixed limit.	
 0x3141	0x07	System	#3C	On Infinity difficulty, enemy levels	mp_0100 0x333e
@@ -246,7 +247,7 @@ EV_6_S36_break_up_creha
 				on this pretense to test you.	
 0x8777	0x98	Creha		I betrayed you guys...	
 				I know it is unforgivable.	
-0x87f8	0x98	Creha	#0W	If... you would still	
+0x87f8	0x98	Creha	#0W	If...you would still	
 				accept me after this...	
 0x8855	0x06	ALTO		ANI_NOD	
 0x8882	0x98	ALTO	#6A	...Haha, of course.	
@@ -338,7 +339,7 @@ EV_6_S36_break_up_creha
 0xb2e8	0x98	NOI	#0W#6A	Lady Creha should be	
 				in the lower stratum...	
 				In the Stellarium!	
-0xb360	0x98	NOI	#0W#6A	Hurry up and chase after them!!	
+0xb360	0x98	NOI	#0W#6A	Let's hurry and chase after them!!	
 0xb3af	0x06	ALTO		ANI_NOD	
 0xb3e2	0x98	ALTO	#2W	Yeah!	mp_0001 0x1174e
 0xb412	0x06	ALTO		ANI_JOY	
@@ -376,7 +377,7 @@ EV_7_S19_use_astrolabe
 0xcbed	0x98	Noi	#0W	Although I am the warden	
 				of the garden, I actually	
 				have another role...	
-0xcca3	0x98	Noi	#0W	That is... the idol of the Astrolabe.	
+0xcca3	0x98	Noi	#0W	That is...the idol of the Astrolabe.	
 0xccfa	0x98	ALTO	#6A	The idol of the Astrolabe!?	
 0xcd42	0x06	Creha		ANI_GESTURE2	
 0xcda3	0x98	Creha	#6A	The counterpart idol to the	
@@ -423,8 +424,8 @@ EV_7_S19_use_astrolabe
 				that goes beyond the limits	
 				of the Astrolabe's power.	
 0xd894	0x98	Creha		Afterwards, it's likely that	
-				all of the systems will stop.	
-0xd93e	0x98	Creha	#0W	The existence of Noi, contained within...	
+				all of its systems will stop.	
+0xd93e	0x98	Creha	#0W	Noi, who exists as a part of those systems...	
 				...Will disappear along with it...	
 0xd9d9	0x06	ALTO		ANI_SURPRISE	
 0xda21	0x98	ALTO	#18S#6A	！！！！	

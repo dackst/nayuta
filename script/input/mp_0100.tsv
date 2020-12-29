@@ -74,7 +74,7 @@ AL_shop
 0x333e	0x07	System	#3C	On Infinity difficulty, enemy levels	
 				will now scale without limit.	
 0x33b6	0x07	System	#4C	※ 'Infinity Enemy Restore' has been added.	
-				If used, enemy levels will return to scaling
+				If used, enemy levels will return to scaling	
 				with a fixed limit.	
 0x3528	0x07	System	#3C	On Infinity difficulty, enemy levels	
 				will scale to a fixed limit.	
@@ -454,7 +454,7 @@ EV_3_S07_use_astrolabe
 				things important to us!	
 0xe874	0x98	NOI		Yeah!	mp_0001 0x1174e
 0xe8a0	0x98	NOI	#6A	Then let the search for	
-				Yupina Grass, Cygna and	
+				Yupina Grass, Cygna, and	
 				Zext begin!	
 0xe942	0x98	Creha		I, uh, umm...	
 0xe9b4	0x06	ALTO		ANI_GESTURE2	
@@ -472,9 +472,9 @@ EV_3_S07_use_astrolabe
 				 Terra by instinct...)	
 0xebe8	0x98	ALTO		(Zext... Did he expect	
 				 this would happen?)	
-0xec56	0x98	ALTO		(In that case, then was	
-				 his goal to wake up	
-				 Creha...?)	
+0xec56	0x98	ALTO		(In that case, then	
+				 was his goal to	
+				 wake up Creha...?)	
 0xecbf	0xBC	NOI		Exclamation	
 0xecfc	0x98	NOI	#6A#16S	...There's a reaction!	
 0xedc3	0x98	NOI	#6A	First, the Yupina Grass...	
@@ -675,9 +675,9 @@ EV_8_S08_emergency_al
 0x147bd	0x3F	Name		Voice	mp_0000d 0x4c24
 0x147ca	0x41	None	#0W#995c#1E	After Terra drifted away	
 				from the planet a year ago...#0E	
-0x14863	0x41	None	#0W#995c#1E	The two Mitos	
-				immediately set about repairing	
-				the Astrolabe.#0E	
+0x14863	0x41	None	#0W#995c#1E	The two Mitos immediately	
+				set about repairing the	
+				Astrolabe.#0E	
 0x14930	0x41	None	#0W#995c#1E	The extensive repairs took some time,	
 				but they made steady progress by	
 				using astral power.#0E	
@@ -717,7 +717,7 @@ EV_8_S08_emergency_al
 				completely disappeared, but...#0E	
 0x15f59	0x41	None	#0W#995c#1E	No matter her fate, an entity with	
 				the same abilities as before manifested.#0E	
-0x1600a	0x41	None	#0W#995c#1E	This is the story of the unusual	
+0x1600a	0x41	None	#0W#995c#1E	That is the story of the unusual	
 				events happening on Terra right now...#0E	
 EV_8_S10_in_astrolabe					
 0x16272	0x98	ALTO		(I need to go into the	
@@ -931,7 +931,7 @@ EV_8_S17_happy_end
 0x1b4cf	0x98	Zext	#1W	To be more precise, you were	
 				merged with the new Noi.	
 0x1b534	0x98	Zext	#1W	You have memories of going to the	
-				surface this time, do you not?	
+				surface recently, do you not?	
 0x1b59b	0x06	NOI		ANI_GESTURE1	
 0x1b5e7	0x98	NOI	#1W#6A	Umm... Now that you	
 				mention it, I do.	
@@ -1060,7 +1060,7 @@ EV_8_S17_happy_end
 0x1dd3d	0x06	Creha2		ANI_GESTURE2	
 0x1dd77	0x98	Creha2	#2W	Please take care of all	
 				the life on this world.	
-0x1de28	0x98	Signa2	#2W	...Well, then.	
+0x1de28	0x98	Signa2	#2W	...Well, later.	
 0x1deb0	0x98	Signa2	#1W	Ha, thanks for showing us	
 				our dad for one last time.	
 0x1df72	0x98	ALTO	#1W	Thank you for all your help...	

@@ -113,7 +113,7 @@
 0x1e6c	line	If you are available,
 0x1ea0	line	please come help.
 0x1f40	line	Tell Janis from the
-0x1f74	line	Elder's house about
+0x1f74	line	elder's house about
 0x1fa8	line	her exam.
 0x1fdc	line	
 0x207c	line	Tell Carina from the
@@ -380,7 +380,7 @@
 0x68b0	line	where he's hiding...
 0x6950	line	Found Mishy safely.
 0x6984	line	Let's bring him to
-0x69b8	line	Mrs. Mensa.
+0x69b8	line	Mensa.
 0x69ec	line	
 0x6a3c	quest name	A Nymph's Request
 0x6a6c	client	La Worg Nymph
@@ -462,7 +462,7 @@
 0x7ee8	line	seen quite often before?
 0x7f88	line	Assembled all the
 0x7fbc	line	offerings. I'll bring
-0x7ff0	line	them to the Elder.
+0x7ff0	line	them to the elder.
 0x8024	line	
 0x8074	quest name	Crush the Four Idols
 0x80a4	client	Noi

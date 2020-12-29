@@ -212,7 +212,7 @@ EV_6_S31_4gear_get
 0x7e19	0x98	Gio	#1W#6A	Since our true idols were	
 				lost, it is unavoidable...	
 0x7e7c	0x06	Erislet		ANI_GESTURE1	
-0x7ed8	0x98	Erislet	#2W	Aah, this is starting to get sad.	
+0x7ed8	0x98	Erislet	#2W	*sigh*, this is starting to get sad.	
 0x7f9c	0x98	Erislet	#0W	...Perhaps we should have	
 				at least said goodbye.	
 0x8180	0x06	Nemeas		ANI_NOD	

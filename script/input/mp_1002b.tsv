@@ -60,7 +60,7 @@ QS54_talk_SpiritA
 				tell Nemeas!	
 0x239e	0x06	ALTO		ANI_NOD	
 0x23c3	0x98	ALTO		Yeah!	mp_0001 0x1174e
-0x242e	0x98	NOI	#6A	Yeah... but there should	
+0x242e	0x98	NOI	#6A	Yeah... But there should	
 				be three missing nymphs.	
 0x247d	0x06	NOI		ANI_GUTSPOSE	
 0x24a6	0x98	NOI	#6A	Nayuta, let's try	
@@ -161,10 +161,10 @@ EV_2_S20_help_gio
 0x4a65	0x06	NOI		ANI_GESTURE1	
 0x4a8e	0x98	NOI	#6A	Geo, are you all right!?	
 				We came to save you!!	
-0x4b11	0x41	None	#0W#2E#310c	Oh, Noi... and the human child!	
+0x4b11	0x41	None	#0W#2E#310c	Oh, Noi...and the human child!	
 				I've been waiting for you!#0E	
 0x4ba0	0x41	None	#0W#2E#310c	Thanks to your help in getting the	
-				climate back to normal,the barrier has	
+				climate back to normal, the barrier has	
 				weakened considerably.#0E	
 0x4c5d	0x41	None	#0W#2E#310c	Now, for my final request...	
 				Can you break the stones around here?#0E	
@@ -283,7 +283,7 @@ EV_2_S20_help_gio
 0x7ed9	0x6B	ALTO		Question	
 0x7f03	0x6B	NOI		Question	
 0x7f34	0x06	NOI		ANI_THINK	
-0x7f5a	0x98	NOI	#6A	Power?	
+0x7f5a	0x98	NOI	#6A	'Power'?	
 0x7fc0	0x98	Gio		Noi, come closer.	
 0x8117	0x06	NOI		ANI_PRAY	
 0x815c	0x06	Gio		ANI_USE_POWER	

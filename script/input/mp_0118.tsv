@@ -53,14 +53,14 @@ EV_2_S03_visit_aulbath
 0x1ae8	0x98	ALTO		(Cygna isn't here either...?)	
 0x1b4f	0x6B	ALTO		Exclamation	
 0x1ba5	0x06	ALTO		ANI_SURPRISE	
-0x1bcf	0x98	ALTO		I-Is this...!?	mp_0115a 0x6232
+0x1bcf	0x98	ALTO		I-Is that...!?	
 0x1d3a	0x98	ALTO		Cygna's sword!!	
 0x1d90	0x06	sword		ANI_SAYA_ON	
 0x1e15	0x06	ALTO		ANI_KATANA_WO_NUKU	
 0x1eeb	0x06	sword		ANI_SAYA_OFF	
 0x1f4f	0x6B	ALTO		Exclamation	
-0x1f95	0x98	ALTO	#6A#16S	It-It's split in two!!	
-0x1fdd	0x98	ALTO	#6A	What the hell happened!?	
+0x1f95	0x98	ALTO	#6A#16S	I-It's split in two!!	
+0x1fdd	0x98	ALTO	#6A	What the heck happened!?	
 0x2046	0x06	ALTO		ANI_WAIT	
 0x2164	0x98	ALTO		And this letter he left...	
 				It's barely a scribble...	
@@ -132,7 +132,7 @@ EV_6_S13_talk_aulbath
 0x3c1a	0x06	NOI		ANI_GESTURE1	
 0x3c51	0x98	NOI	#1W	I feel the same way!	
 0x3c8b	0x06	NOI		ANI_GUTSPOSE	
-0x3cc2	0x98	NOI	#1W	For Terra... and for the	
+0x3cc2	0x98	NOI	#1W	For Terra...and for the	
 				sake of this planet!	
 0x3d1a	0x06	Aulbath		ANI_NOD	
 0x3d50	0x98	Aulbath	#2W	...Hehe, very well.	
@@ -175,7 +175,7 @@ EV_6_S13_talk_aulbath
 0x5038	0x06	Aulbath		ANI_WAIT3	
 0x5062	0x98	Aulbath	#0W#6A	Several years ago, shortly after I had	
 				started to live on Remnant Island...	
-0x50d6	0x98	Aulbath	#0W#6A	On one occasion, when I was slaying monsters,	
+0x50d6	0x98	Aulbath	#0W#6A	On one occasion, while I was slaying monsters,	
 				I stumbled upon this place by accident.	
 0x51bf	0x40	Aulbath	#0W	Here I came across a collapsed boy, looking	
 				as if he had jumped out of the gate.	
@@ -196,12 +196,11 @@ EV_6_S13_talk_aulbath
 				him until he became an adult, or at	
 				least until he recovered his memories.	
 0x5701	0x40	Aulbath	#0W	Naming him Cygna Alhazen,	
-				I taught him how to live	
-				from scratch.	
+				I taught him how to live from scratch.	
 0x5781	0x40	Aulbath	#0W	From there, Cygna met Nayuta...	
 0x57c6	0x40	Aulbath	#0W	...The rest is as you remember.	
 0x587d	0x06	ALTO		ANI_NOD	
-0x58a2	0x98	ALTO	#0W	I'm sorry...	mp_0101 0x8b6b
+0x58a2	0x98	ALTO	#0W	So that's what happened...	
 0x5935	0x98	Aulbath	#6A	...Nayuta. Cygna was	
 				originally from Terra.	
 0x5987	0x98	Aulbath	#6A	Now that he has regained his memories,	

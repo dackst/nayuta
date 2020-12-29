@@ -169,7 +169,7 @@
 0x1f9e	mon name	Ruby Lizard
 0x1fbe	line	Lizard that eats minerals.
 0x1fde	line	Gemstones are its favorite,  
-0x1ffe	line	turning its skin ruby red.
+0x1ffe	line	turning its skin ruby-red.
 0x205e	mon name	Gigant Ogre
 0x207e	line	Large humanoid boasting massive
 0x209e	line	strength. Its fire-infused arms
@@ -262,7 +262,7 @@
 0x30fe	line	Crab idol guarding temple.
 0x311e	line	An army of countless crabs
 0x313e	line	that can change its shape.
-0x319e	mon name	Lupine Armor
+0x319e	mon name	Doggy Armor
 0x31be	line	Canine monster wearing armor.
 0x31de	line	Uses its full weight to 
 0x31fe	line	unleash rabid attacks.
@@ -368,8 +368,8 @@
 0x44be	line	arms, burning up everything.
 0x451e	mon name	Salamander
 0x453e	line	Mythical fire dragon. Its blood
-0x455e	line	is said to 10k degrees. All are
-0x457e	line	fallen before its flame breath.
+0x455e	line	is said to be 10k degrees. All
+0x457e	line	fall before its flame breath.
 0x45de	mon name	Sagicheiron
 0x45fe	line	Shapeless idol guarding temple.
 0x461e	line	Manipulates its body of lava

@@ -76,9 +76,9 @@ lp_cicada
 				They cry their 'gii, gii' monotone call.	
 0x2e18	0x41	None		[Walker's Cicada] Meimuna opalifera	
 				Cicada active from summer to fall. Because you	
-				can hear their 'tsuku-tsuku-boushi' cry,	
+				can hear their 'tsuku-tsuku-boshi' cry,	
 				that is how they get their Japanese common	
-				name of 'Tsukutsukuboushi.' .	
+				name of 'Tsukutsukuboshi.'	
 0x2fe2	0x41	None		[Evening Cicada] Tanna japonensis	
 				Cicada living in forests of Japanese	
 				cypress and cedar. From summer to fall,	
@@ -260,9 +260,9 @@ talk_Coron
 0x6a47	0x98	Coron		She doesn't have to look so uncool all	
 				the time. I have to take it upon myself	
 				to dress her up every now and then! ㈱	
-0x6adb	0x98	Coron		She's just as nice and beautiful as 	mp_0115a 0x69d6
-				me, after all, so I didn't want that	
-				to go to waste.	
+0x6adb	0x98	Coron		She's just as nice and beautiful 	mp_0115a 0x69d6
+				as me, after all, so I didn't	
+				want that to go to waste.	
 0x6b4c	0x98	Coron		But... I'm afraid she's at her limit.	
 				If I tease her too much, she'll cry.	
 0x6bda	0x3F	Name		Researcher Caelum	mp_0115 0xb4da

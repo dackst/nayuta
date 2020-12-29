@@ -101,7 +101,7 @@ EV_1_S06_look_cage_1st
 				path opens up here.	
 0x3334	0x98	Signa		It finally feels like we're at the center...	
 				Noi, what's past here?	
-0x3419	0x98	NOI		Past here's... the temple of Oltapia.	
+0x3419	0x98	NOI		Past here's...the temple of Oltapia.	
 0x3467	0x06	ALTO		ANI_THINK2	
 0x348f	0x98	ALTO	#6A	The temple...?	
 0x34dc	0x98	NOI		Umm, it's hard to explain, but...	
@@ -128,7 +128,7 @@ EV_1_S06_look_cage_1st
 0x393b	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x396a	0x98	ALTO	#6A	Wh-What was that just now!?	
 0x39af	0x06	Signa		ANI_WAIT3	
-0x39d7	0x98	Signa		Someone's... voice?	
+0x39d7	0x98	Signa		Someone's...voice?	
 0x3a0a	0x98	Signa		It's not one of Zext's	
 				companions, is it?	
 0x3a64	0x06	NOI		ANI_DENY	
@@ -143,7 +143,7 @@ EV_1_S06_look_cage_1st
 0x3c2b	0x41	None	#0W#2E#310c	Oh... This must be the guidance of the stars.	
 				What a godsend!#0E	
 0x3ccb	0x41	None	#0W#2E#310c	This way, this way!#0E	
-0x3f2e	0x98	Signa	#500x#500y	Is it... in there!?	
+0x3f2e	0x98	Signa	#500x#500y	Is it...in there!?	
 0x3f79	0x98	ALTO	#250x#500y	I know I've taken interest in lots of things	
 				since we started fighting monsters, but...	
 				Noi, what is that?	

@@ -246,7 +246,7 @@ EV_1_S07_temple_front
 				rising into the sky everywhere...	
 0x4214	0x06	ALTO		ANI_USE_SEXTANT_END	
 0x4308	0x98	ALTO		Noi, what the heck are they?	
-0x43c3	0x98	NOI	#6A	That's... astral power.	
+0x43c3	0x98	NOI	#6A	That's...astral power.	
 0x440c	0x6B	ALTO		Question	
 0x443e	0x6B	Signa		Question	
 0x4471	0x06	ALTO		ANI_THINK2	

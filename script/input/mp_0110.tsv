@@ -461,12 +461,12 @@ talk_Lyra
 0x82a8	0x98	ALTO		So, Lyra... Just hang in there.	
 0x82ea	0x98	Lyra		Okay... But don't push	
 				yourself too hard..	
-0x8326	0x98	Lyra		If something were to happen,	
+0x8326	0x98	Lyra		If something were to happen	
 				to you, Nayuta, I think Eartha	
 				would be devastated.	
 0x83ae	0x98	Lyra		Good luck, Nayuta.	
 				Don't push yourself too hard.	
-0x83f8	0x98	Lyra		If something were to happen,	mp_0110 0x8326
+0x83f8	0x98	Lyra		If something were to happen	mp_0110 0x8326
 				to you, Nayuta, I think Eartha	
 				would be devastated.	
 0x851a	0x06	Lyra		ANI_GOODIDEA	
@@ -555,7 +555,7 @@ talk_Creha
 				I want to do what I can.	
 0x9479	0x98	Creha		I'll try visiting	
 				the village later...	
-0x94be	0x98	ALTO		Just don't overdo... whatever	
+0x94be	0x98	ALTO		Just don't overdo...whatever	
 				it is that you're doing.	
 0x950a	0x98	ALTO		Leave Terra to me.	
 				You should take it	
@@ -752,7 +752,7 @@ QS_01_talk_Asa
 0xc5fa	0x98	Asa		A lunch box for Dorado...	
 				Hehe, this again, eh?	
 0xc649	0x06	ALTO		ANI_GESTURE1	
-0xc673	0x98	ALTO	#6A	...Again?	
+0xc673	0x98	ALTO	#6A	...'Again'?	
 0xc6a7	0x06	Asa		ANI_WAIT4	
 0xc6cd	0x98	Asa		When the Handyman Shop was closed	
 				while you and Cygna were away...	
@@ -959,12 +959,12 @@ QS_22_quest_start
 0xf9a7	0x06	Asa		ANI_DENY	
 0xf9cc	0x98	Asa		That's what I don't understand...	
 0xfa02	0x06	Asa		ANI_GESTURE2	
-0xfa2b	0x98	Asa		I was wondering, could you help	
+0xfa2b	0x98	Asa		I was wondering, could you	
 				help me with the repairs?	
 0xfaa8	0x06	Asa		ANI_GESTURE2	
 0xfad1	0x98	Asa		There seems to be something wrong with	mp_0110 0xf844
 				my star shard observation machine.	
-0xfb41	0x98	Asa		I was wondering, could you help	mp_0110 0xfa2b
+0xfb41	0x98	Asa		I was wondering, could you	mp_0110 0xfa2b
 				help me with the repairs?	
 0xfbb8	0x36	Choice		[Accept]	mp_0000 0xeaf5
 0xfbce	0x36	Choice		[Quit]	mp_0000 0xeb0b
@@ -1000,7 +1000,7 @@ QS_22_undertake
 0x10523	0x98	ALTO	#6A	Maybe...	
 0x1054e	0x98	ALTO	#6A	It looks like the lens that projects the	
 				inside of the star shards is damaged.	
-0x105bb	0x98	ALTO	#6A	It's been a while since it's been replaced,	
+0x105bb	0x98	ALTO	#6A	It's been a while since it was last replaced,	
 				so I guess it's time for some maintenance.	
 0x10630	0x06	Asa		ANI_GOODIDEA	
 0x10659	0x98	Asa		Huh, I see... It was already overdue.	
@@ -1065,7 +1065,7 @@ QS_22_undertake
 0x110db	0x06	NOI		ANI_GESTURE1	
 0x11104	0x98	NOI	#6A	If I remember correctly, it can be	
 				taken from a tree that grows in	
-				the dark during autumn of Oltapia.	
+				the dark during autumn in Oltapia.	
 0x1118d	0x98	NOI	#6A	It's supposed to shine beautifully	
 				in the dark. If we look for it,	
 				I'm sure we can find it!	
@@ -1128,7 +1128,7 @@ QS_22_quest_end
 0x12309	0x98	Lyra		As you'd expect from doing	
 				Handyman Shop work for so long.	
 0x123ad	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x123db	0x98	ALTO	#6A	Haha, small detail-oriented jobs	
+0x123db	0x98	ALTO	#6A	Haha. Small, detail-oriented jobs	
 				like this one are my specialty.	
 0x1242c	0x98	ALTO	#6A	If I let Cygna do them,	
 				it wouldn't end well...	
@@ -1211,7 +1211,7 @@ QS_81_quest_end
 0x13b26	0x98	NOI		Just what could even	
 				be in there...?	
 0x13b73	0x6B	Asa		Ellipsis	
-0x13ba4	0x98	Asa		This is... Cygna and Creha,	
+0x13ba4	0x98	Asa		This is...Cygna and Creha,	
 				when they were little...?	
 0x13bf6	0x6B	ALTO		Surprise	
 0x13c28	0x6B	NOI		Surprise	
@@ -1316,7 +1316,7 @@ EV_0_S04_asa_entry
 0x15914	0x98	Asa	#1W	Yes! ♪ You can see it	
 				much more clearly now.	
 0x15a23	0x40	Asa	#1W	Wow, it's beautiful!	
-0x15a66	0x40	Asa	#0W	Is this some kind of... tower?	
+0x15a66	0x40	Asa	#0W	Is this some kind of...tower?	
 0x15abd	0x40	Asa	#0W	It's rare to be able to see something so clearly.	
 0x15c08	0x98	Asa	#1W	This star shard...	
 				It could fetch a	
@@ -1389,7 +1389,7 @@ EV_0_S06_breakfast
 0x1777a	0x98	Asa		But the one from this morning	
 				seems like a rare one...	
 0x177fb	0x6B	ALTO		Surprise	
-0x1782d	0x98	ALTO	#6A	Rare...?	
+0x1782d	0x98	ALTO	#6A	'Rare'...?	
 0x17855	0x06	ALTO		ANI_SIT2_GESTURE1	
 0x17884	0x98	ALTO	#6A	What kind of view could you	
 				see in the star shard?	
@@ -1423,7 +1423,7 @@ EV_0_S06_breakfast
 				an image of a beautiful other world.	
 				  	
 0x18450	0x41	None	#0W#2E	People have taken to calling that world	
-				'Lost Heaven', and hold a wide array	
+				'Lost Heaven,' and hold a wide array	
 				of theories about its nature.	
 0x18596	0x06	horogram		ANI_PATA1	
 0x18695	0x40	ALTO		Awesome! This is amazing, Eartha!	
@@ -1482,7 +1482,7 @@ EV_0_S06_breakfast
 0x19409	0x98	Signa		Haha, oh man...	mp_0101 0x626e
 0x1948a	0x98	Signa		(Lost Heaven, eh...?)	
 0x194c2	0x98	Signa		(I wonder if this has anything to do	
-				 with Nayuta's parents' accident...)	
+				 with their parents' accident...)	
 0x1953f	0xBC	Signa		Sweatdrop	
 0x1957e	0x06	Signa		ANI_WAIT3	
 0x195ec	0x98	Signa		But Nayuta... Once he's like this,	
@@ -1565,7 +1565,7 @@ EV_0_S06_breakfast
 				this place our office to	
 				collect requests, right?	
 0x1aea4	0x98	Signa		Exactly... On that note, since we came	
-				back, I've been asking around, listening	
+				back, I've been asking around. Listening	
 				to the voice of the people.	
 0x1af41	0x98	Signa		I think there should already be requests	
 				waiting for you in the mailbox right now.	
@@ -1638,7 +1638,7 @@ EV_0_S16_noi_wakeup
 0x1d076	0xBC	NOI		Unknown	
 0x1d125	0x98	NOI	#18S	Humans!?	
 0x1d1c0	0x98	NOI	#0W#16S	D-Don't come any closer!	
-				Don't touch me!	
+				#16SDon't touch me!	
 0x1d21f	0x98	NOI	#1W#16S	Bringing me to a place like this...	
 				#16SJust what are you planning!?	
 0x1d296	0x98	NOI	#1W#16S	I... I...	
@@ -1712,7 +1712,7 @@ EV_0_S16_noi_wakeup
 0x1e4ce	0x98	NOI		...Zext! I can't believe that he	
 				would pursue me all the way here...!	
 0x1e546	0x06	Signa		ANI_WAIT3	
-0x1e58d	0x98	Signa		...Zext...	
+0x1e58d	0x98	Signa		...'Zext'...	
 0x1e5e0	0x98	ALTO	#6A	That's, umm... That's the name	
 				of the man in black, right?	
 0x1e641	0x06	ALTO		ANI_SIT1_GESTURE2	
@@ -1728,7 +1728,7 @@ EV_0_S16_noi_wakeup
 				throw our world into chaos!	
 0x1e8a9	0x06	ALTO		ANI_SIT1_SURPRISE	
 0x1e915	0x98	ALTO	#6A	W-Wait a minute.	
-				'Our world!?'	
+				'Our world'!?	
 				'Throw into chaos'...?	
 0x1e97d	0x06	Signa		ANI_COMPLAIN	
 0x1e9c7	0x98	Signa		Hey, come on, you can	
@@ -1755,7 +1755,7 @@ EV_2_S07_lecture_on_noi
 0x1f4a0	0x98	ALTO	#6A	So...	
 0x1f4cf	0x06	ALTO		ANI_SIT2_GESTURE1	
 0x1f4fe	0x98	ALTO	#6A	I met Noi in that huge ruin, and she's	
-				a real-life fairy... or something.	
+				a real-life fairy...or something.	
 0x1f55b	0x98	ALTO	#6A	It would probably cause a	
 				fright if people found out,	
 				so I didn't tell anyone.	
@@ -1926,7 +1926,7 @@ EV_3_S00_detect_disease
 				you say anything!?	
 0x22af5	0x98	Asa_b	#1W#12S#6A#170x#220y	I'm sorry...	
 0x22b4b	0x98	Asa_b	#2W#12S#6A#170x#220y	It was just after...	
-				#12S...After you left for the academy.	
+				#12S...after you left for the academy.	
 0x22bd0	0x98	Asa_b	#3W#12S#6A#170x#220y	I didn't want...you to put your	
 				#12Sdream on hold because of me...	
 0x22c4c	0x98	Asa_b	#3W#12S#6A#170x#220y	...I'm really sorry...	
@@ -1978,7 +1978,7 @@ EV_3_S00_detect_disease
 				Is Eartha...going to be okay?	
 0x23c68	0x06	Lyra		ANI_COMPLAIN	
 0x23c92	0x98	Lyra	#1W	...She's not gonna die or	
-				or anything...right!?	
+				or anything... right!?	
 0x23ce3	0x06	ALTO		ANI_NOD	
 0x23d2e	0x98	ALTO	#6A	...Don't worry, she'll be fine.	
 0x23d6e	0x98	ALTO	#6A	Eartha, I'll...	
@@ -2880,7 +2880,7 @@ EV_8_S04_talk_noi
 0x36668	0x98	Asa		Yeah, go.	
 0x366ac	0x06	Asa		ANI_GESTURE2	
 0x366d5	0x98	Asa		For the sake of Cygna	
-				and Creha... and Noi,	
+				and Creha...and Noi,	
 				too, do your best.	
 0x36738	0x06	ALTO		ANI_WAIT0	
 0x3675f	0x98	Lyra	#6A	Take care, Nayuta!	

@@ -244,7 +244,7 @@ talk_Dog_before
 				with Eartha immediately.	
 0x3905	0x40	UNDEF		Nayuta returned home, and talked	mp_0001 0x3b76
 				to Eartha about the stray dog.	
-0x3969	0x40	UNDEF		Though Eartha was surprised at first, she gladly 	mp_0001 0x3bda
+0x3969	0x40	UNDEF		Though Eartha was surprised at first, she gladly	mp_0001 0x3bda
 				approved of the idea once informed of the situation.	
 0x3afc	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
 0x3b26	0x98	ALTO		Huh, I haven't seen a dog around before.	mp_0001 0x3d94
@@ -374,7 +374,7 @@ EV_6_S09_help_dorado
 0x600f	0x98	ALTO		Dorado!	
 0x603e	0x06	NOI		ANI_COMPLAIN	
 0x6067	0x98	NOI		Are you all right!?	
-0x60c9	0x98	Dorado	#0W#6A#275x#230y	Oh, it's, it's Nayuta...	
+0x60c9	0x98	Dorado	#0W#6A#275x#230y	Oh, i-it's Nayuta...	
 0x6110	0x98	Dorado	#0W#6A#275x#230y	Shit, how could a monster like that appear...	
 0x6177	0x98	ALTO		The monster...	
 				Where's Vel!?	
