@@ -12,6 +12,7 @@
     - [Characters](#characters)
     - [Monsters](#monsters)
   - [tentative/unsure/wanted to change at some point](#tentativeunsurewanted-to-change-at-some-point)
+  - [changes from official sources](#changes-from-official-sources)
 - [technical notes](#technical-notes)
   - [Why not just use flame's tools directly?](#why-not-just-use-flames-tools-directly)
     - ["Solutions"](#solutions)
@@ -43,7 +44,6 @@ where they don't make sense in English
   * ..........everyone uses...so much...ellipsis........
     * ...................
     * ...................
-    * I never paid attention to this before, spaces are typically put after ellipses, like... this. Japanese simply has no spaces.
   * "quotes" and \<brackets\> and Capitalization for terms specific to the story 
   * for no apparent  
 
@@ -97,7 +97,6 @@ Here's a nonexhaustive list of suggestions for possible (i.e. not always done) r
 
 * remote/country/backcountry:  boonies, hick, rural, small town
   * not "country", they're literally on a tiny island with barely any land
-* this side/other side: this world/other world (this isn't some Persona 1/2 alternate version of the same world kind of deal, and the characters who tend to use this phrasing already know that. you can't say they're referring to "this side of the gate", as these characters aren't limited to only use that one gate like nayuta is)
 * trainings -> lesson, training session 
 
 * fulfill mission: perform duties, complete plan
@@ -111,7 +110,7 @@ Here's a nonexhaustive list of suggestions for possible (i.e. not always done) r
 
 ---
 
-In summary, there seemed to be almost consistent translation of [Japanese stock phrases](https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/StockJapanesePhrases?from=UsefulNotes.JapaneseStockPhrases) to English phrase, even in situations where that particular translation wouldn't make sense in English. 
+In summary, there seemed to be almost consistent translation of [Japanese stock phrases](https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/StockJapanesePhrases?from=UsefulNotes.JapaneseStockPhrases) to English phrases, even in situations where that particular translation wouldn't make sense in English. 
 
 In my edit, many of the out of place words/phrasings are replaced with something I believe to be more appropriate and sound more natural in English. Reformatting sentences was also done throughout.
 
@@ -184,7 +183,7 @@ Like before, this section mostly served so that *I* could keep these things cons
 * gender issues 
   * Nimeas should now always be female
   * Cory should now always be male
-  * the animals Mishy and Nora (the dog) are now referred to by those that know them using male and female pronouns, respectively, rather than being (almost) always genderless.
+  * the animals Mishy and Nora (the dog) are now referred to by those that know them using male and female pronouns, respectively, rather than being (almost) always referred to as "this one".
 
 * transfer/transport(er) gate/device -> "transfer gate" should now exclusively refer to the large physical gates you walk through, and "warp device" for the small pads on the ground
 * Training Book: stamp/seal -> seal
@@ -195,14 +194,14 @@ Like before, this section mostly served so that *I* could keep these things cons
 * translate terms consistently with other games in kiseki series:
   * 古代遺物: artifact (instead of relic)
   * 崩壊: collapse (when discussing world-ending disasters)
-  * 貴族: noble/nobility
+  * 貴族: noble/nobility (and not other words that translate as such, but don't actually denote a hereditary aristocracy)
   * 執行者: Enforcer
   * 転位装置: warp device (circular pads used for teleportation in CSII)
 
   * deliberately kept different:
     * 亜空間: pocket dimension
       * originally translated as "hyperspace" or just "space", which I changed to "subspace"
-      * appears a few times in CSIV, and translated as "dimension" or "dimensional". However, other dimensions/spaces are brought up in prior games like Sky as well (usually 空間 without the [亜](https://en.wiktionary.org/wiki/%E4%BA%9C) in front). What seems to be different in these cases is that they're more of an artificial [pocket dimension](https://tvtropes.org/pmwiki/pmwiki.php/Main/PocketDimension) created by a dweller of the usual, "higher" dimension.
+      * appears a few times in CSIV, and translated as "dimension" or "dimensional". However, other dimensions/spaces are brought up in prior games like Sky as well (usually 空間 without the [亜](https://en.wiktionary.org/wiki/%E4%BA%9C) in front). What seems to be different in these cases is that they're more of an artificial [pocket dimension](https://tvtropes.org/pmwiki/pmwiki.php/Main/PocketDimension) created by a dweller of the usual, "higher" dimension, rather than one that could just naturally exist by itself
       * Since not even "Subdimension" fits in the menu location text, I'll keep it as "Subspace" there. Location names given in the menu are rarely directly referenced in dialogue anyway.
     * 転位門: transfer gate (appears twice in CSIV, translated once as "portal" and another time as "teleportation gateway", but these instances appear more as a casted magical teleportation spell with no physical presence to be walked through, rather than a literal arched gate that still exists even when the teleportation is no longer active.
 
@@ -240,14 +239,14 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * Nayuta and Cygna fight with swords, but don't exactly seem to use fencing swords like laxia in Ys VIII
 
 * Mythos -> Mitos 
-  * rather than have a race named after a random English word, (oh so they're named Mythos because they're an ancient, mythical race? okay, that would be like Charlemagne declaring himself the king of the Medievals), use a random (not shared with English) Greek word instead. apparently means "warp thread", like the root for the word "mitosis". It also still means "myths" in Spanish and Portuguese.  
+  * rather than have a race named after a random English word, (oh so they're named Mythos because they're an ancient, mythical race? okay, that would be like Charlemagne declaring himself the king of the Medievals), use a random (not shared with English) Greek word instead. apparently means "warp thread", like the root for the word "mitosis" and "mitochondria". It also still means "myths" in Spanish and Portuguese.  
   Although by all likelihood what I'm doing to Greek (and Spanish) is what the the Japanese text did to English, at least the rest of the text isn't also Greek (or Spanish).
-  * connection with mitosis could relate to their apparent ability to create, resurrect, and manipulate life. 
-  * Possibly related that hajimari no kiseki [promo art](https://static.wikia.nocookie.net/kiseki/images/8/80/Key_Visual_(Hajimari).jpg) shows the grandmaster with similar white hair and holding some kind of yarn
+  * based on the [soundtrack](https://music.apple.com/us/album/nayuta-no-kiseki-original-soundtrack/561940857), Falcom's "official" name appears to be "Mythus", but that [has the same problem](https://www.merriam-webster.com/dictionary/mythus) as "mythos".
+  * connection with mitosis/mitochondria could relate to their apparent ability to create, resurrect, and manipulate life. 
+  * Possibly related that hajimari no kiseki [promo art](https://static.wikia.nocookie.net/kiseki/images/8/80/Key_Visual_(Hajimari).jpg) shows the grandmaster with similar white hair and holding some kind of glowing yarn
     * even if they do ultimately turn out to be unrelated to the grandmaster, both could still be a reference to similar immortal beings who exert control over the destiny of the world and its life with [thread-related powers](https://en.wikipedia.org/wiki/Moirai). 
-  * maybe sprinkle in some fun veiled sewing metaphors: "cut short", "thread of history/fate", "weave/twist", "seams"
+  * maybe sprinkle in some additional veiled sewing metaphors: "cut short", "thread of history/fate", "weave/twist", "seams"
     * adding more metaphors or such in general is probably a good idea
-    * LMAO A FIBER OF INTENT
 * god/God -> a god/the gods (cough, iwonderwhothiscouldreferto, cough)
 * master -> lady/lord (for wardens addressing mitos)
   * their historical role and actions are remarkably similar to the Eldeen from Ys, and this is consistent with how Feena and Reah are addressed in Origin by their followers
@@ -258,10 +257,10 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * "nymph" fits with the whole "personifications of nature, typically tied to a specific place or landform"
 * Remake/Remaking -> Recreate/Recreation, and not necessarily always capitalized
 * Power of Stars -> astral power
-  * see [here](https://kiseki.fandom.com/wiki/Mythus) (though I still have the same problem with "Mythus" as "Mythos", being also a word that exists in English) and [here](https://en.wiktionary.org/wiki/astral#English) (all three definitions could now relate somehow)
+  * see [here](https://kiseki.fandom.com/wiki/Mythus) and [here](https://en.wiktionary.org/wiki/astral#English) (all three definitions could now relate somehow)
   * stuff like [this](https://en.wikipedia.org/wiki/Astral_plane) seems to heavily inspire Falcom's cosmology
   * also considered: star/planetary/celestial/cosmic power/force/energy
-    * from what we're shown, it really seems to have nothing to do with actual stars and is more of a universal life-granting power like [the Force](https://en.wikipedia.org/wiki/The_Force) It would make just as much sense to replace "Power of Stars" with "the Force" if this game were to somehow share a universe with Star Wars.
+    * celestial/cosmic: more literally relates to "sky" and "space", respectively, instead of stars. but from what we're told, it really seems to have nothing to do with actual stars and is more of a universal life-granting power like [the Force](https://en.wikipedia.org/wiki/The_Force). It would make just as much sense to replace "Power of Stars" with "the Force" and "Mythos" with "Force-sensitives" if this game were to somehow share a universe with Star Wars.
     * if it was "planetary" (alternate translation of word for star), it could be interpreted to mean it is derived from the planet itself, and could possibly explain why their race might want to fix the old planet instead of living on an artifical replacement like Terra
     * i'm still shaky on using "power" vs "energy"
 
@@ -271,6 +270,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
     * Nayuta recognizes the meaning of the word "Terra" when he first hears it, so there's another thing to think about. apparently in Latin there's a similar ambiguity between the substance and the specific entity
   * humans definitely shouldn't call it anything but "world" until at least after moon reveal. except for William's theories, Lost Heaven almost seems to be commonly thought of as an alternate dimension or something and most think the world is flat (and therefore would definitely not be [considered a planet](https://en.wikipedia.org/wiki/Classical_planet))
     * let's just say the researchers, as smart dudes into astronomy, understand by the time they read zext's message. meanwhile maybe most others would probably find out by the epilogue, if they even bring it up at all
+* this side/other side: this world/other world (this isn't some Persona 1/2 alternate version of the same world kind of deal, and the characters who tend to use this phrasing already know that. you can't say they're referring to "this side of the gate", as these characters aren't limited to only use that one gate like nayuta is)
 
 * cliff: chasm (when referring to the gap between two natural cliffs), wall (when referring to the sides of an artificial building)
 * transfer gates "work" or "connect" when teleportation is available and "don't work" or "disconnect" when unavailable, rather than "moving" or "stopping" 
@@ -299,6 +299,12 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 
 * Pyxia has this thing where she talks about being an egg/chicken. Since I also ran into the egg thing elsewhere, I'm guessing this is a normal Japanese metaphor for being a beginner/master at something. It's definitely not a normal English metaphor. Since Nayuta seems to think Pyxia is a little weird and has sweat drops whenever she mentions it, I'll let her keep her strange poultry metaphors.
 
+* half-day trip -> 12-hour trip
+  * "half day" seems to be the literal translation, but I don't know how this would be interpreted in Japan. I would most likely interpret a "half day" to mean something like half a work day (so 4-5 hours) or half of the daytime hours between morning and evening (~12 hours for a tropical climate, even in summer, so about 6 hours) rather than half a calendar day. The way everyone complains about how long makes it seem like it should be more than 4-6 hours, so I went something that more clearly denotes "half a calendar day."
+  * Making some narrow-minded cultural assumptions and doing some math: 
+    * The prologue starts with Nayuta staying up past everyone's bedtimes to look at the stars, which I would assume would be no later than 2 a.m. When the ship arrives, it's late morning, everyone is already up and at work, shops are open, and Nayuta assumes his sister has already eaten breakfast. I would assume they probably arrived no earlier than 7 a.m.
+    * We're already within my "typical" interpretation of "half-day", but we should also account for their time at sea before the opening of the prologue: the ship starts off approximately 1000 selge (or [100 km](https://kiseki.fandom.com/wiki/Metric_system)) away from its city of departure. Even if we assume Puppis' ship rivals [early Industrial ships in their best wind conditions](https://voxeu.org/article/speed-under-sail-during-early-industrial-revolution) at 8 knots, that still gives another [7 hours](https://www.wolframalpha.com/input/?i=100+km+%2F+8+knots) between departure from the city and the opening of the prologue.
+      * Or more simply, the total trip is stated to be [1760 selge](https://www.wolframalpha.com/input/?i=176+km+%2F+8+knots)
 
 
 ### Name Changes
@@ -366,6 +372,8 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * I can't figure out what the Japanese means beyond "moon", but "Moonlight" sounds better than "Moon View"? at least, "moon" and "light" are used often enough together in English to have its own word. Also "pavillion" is supposedly an obsolete spelling
     * maybe "Luna Vista" to keep the Spanish thing going?
 * Herschel House -> Herschels' House
+* Ruined Tower -> Tower Ruins 
+  * the whole island is full of fallen ruins, this is another such ruin that happens to be an intact tower (and not a regular old tower than happens to be in ruins)
 
 * "Giant Dragon Graveyard" -> "Dragon Graveyard"
   * original name is too long to be displayed on world map screen
@@ -378,7 +386,8 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 
 * Planetarium (星座球) -> [Planisphere](https://en.wikipedia.org/wiki/Planisphere)
   * I can't seem to figure out what, if any, astronomical tool this is supposed to be. The characters seem to literally translate to constellation/zodiac sphere/ball, and googling them together mainly gives images of spherical trikets with astrological signs printed on them, rather than any actual tool 
-  * also considered [Stellarium](https://en.wikipedia.org/wiki/Stellarium) (the existing uses of which are spelled out as "ステラリウム", but 星座球 is never actually pronounced as ステラリウム), [Astrarium](https://en.wikipedia.org/wiki/Astrarium) (same meaning as "Planetarium", but more obvious pairing with "Astrolabe"), and Celestial Sphere 
+  * also considered [Stellarium](https://en.wikipedia.org/wiki/Stellarium) (the existing uses of which are spelled out as "ステラリウム", but 星座球 is never actually pronounced as ステラリウム), [Astrarium](https://en.wikipedia.org/wiki/Astrarium) (same meaning as "Planetarium", but more obvious pairing with "Astrolabe"), and Celestial Sphere (not so much a tool but a concept) 
+  * also you can see it actually looks spherical when seen from afar, which makes sense given that it's a replacement core for the planet  
 
 #### Characters
 
@@ -515,6 +524,58 @@ More monster changes:
 * Rieseweld - Riese[woerd](https://en.wikipedia.org/wiki/Terp) or some other variation (instead of something deriving from Wald, meaning "forest" when that continent has no forests)
   * apparently there are [some](https://en.wiktionary.org/wiki/wold#English) [derivations](https://en.wiktionary.org/wiki/weald#English) of "wald" that can also denote an *un*forested place
 
+* Asa/Eartha/Ursa: I think there are valid reasons to want to pick any one of them, but not enough for me to confidently pick one over the other, short of Falcom coming out and elaborating somehow on what they were thinking. It's currently left at the original translation's "Eartha"
+  * Asa:
+    * arguments for:
+      * official romanization
+      * a potentially related character from Erebonia is also named after a seemingly random Japanese word (永遠: [eternity](https://en.wiktionary.org/wiki/%E3%81%A8%E3%82%8F#Japanese)) while surrounded by otherwise Western-inspired names
+    * arguments against:
+      * name likely comes from Japanese origins (朝/あさ:morning), unlike pretty much every other character name in the setting
+        * don't see it as nearly as likely for it to be referencing a Judaic king or coming from any of these [other languages](https://en.wikipedia.org/wiki/Asa_(name)) where it exists as a name
+      * "morning" doesn't have much apparent thematic relevance that I can think of
+      * Falcom's official romanizations don't tend to mean much, and are often changed in official localizations
+  * Eartha:
+    * arguments for:
+      * thematically relevant, as almost every other character has a spacey name, including her family
+      * she "grounds" Nayuta, who always has his head in the (infinite) stars, thinking about Lost Heaven/Terra/rocks/whatever, esp. after she gets sick
+    * arguments against:
+      * overlaps in meaning with Geo
+  * Ursa/Yrsa/some other derivation based on Ursa Major:
+    * arguments for:
+      * thematically relevant, as most human characters are named after constellations
+      * "mama bear": she basically raised Nayuta after their parents disappeared
+      * Major: she's a big sister, do you get it, major means bigger/older, and she's the bigger sibling, get it? Did you get the hidden meaning?
+    * arguments against:
+      * All of her known family (William, Mary, Nayuta) and some other humans (Sasha, Barton) are *not* named after constellations
+      * Easily confused with another character clearly named after Ursa Minor (Ursamina)
+
+### changes from official sources
+
+what appear to be official romanizations/translations aren't always followed.
+
+* characters (from [wallpapers](https://www.falcom.co.jp/download/w_paper/nayuta.html))
+  * Signa (Cygna - keeping because constellation)
+  * Serum (Selam - keeping because he's not a liquid. if anything, given his personality, he should be a hardened solid)
+  * Asa (Eartha - see above)
+  * Burton (Barton - I think it matches the voice's pronounciation better)
+  * Aulbath (Orvus - constellation)
+  * Gio (Geo - explained above in [Characters](#characters))
+  * Erislet (Erisette - ok so "[-let](https://en.wiktionary.org/wiki/-let)" is a dimunative, but is it's "almost... never" used for names, and "is generally depreciative, connoting pettiness and conveying contempt" when it is)
+  * Argol (Algol - explained above)
+  * Cealam (Caelum - constellation)
+  * Colon (Coron - constellation)
+  * Michey (Mishy - explained above)
+* From [soundtrack](https://music.apple.com/us/album/nayuta-no-kiseki-original-soundtrack/561940857). 
+  * The Island Left Behind (Remnant Island - the name is explained that it's from being made of the ruins that fall, not that the island itself is ruined. Though this might be more of a poetic description of the rural culture on Remnant Island)
+  * Tower of Ruins (Tower Ruins - explained above, it's a single ruin that happens to be an intact tower)
+  * Naraku Disease (Hell Fever - while it comes from [Naraka](https://en.wikipedia.org/wiki/Naraka), "naraku" is already [often translated](https://en.wiktionary.org/wiki/%E5%A5%88%E8%90%BD) as "hell". the (different) Japanese word for [purgatory](https://en.wiktionary.org/wiki/%E7%85%89%E7%8D%84) is translated as "Gehenna" in other games)
+  * Planetary Metropolis Lexandria (Star Capital Lexendria - too lazy to change the textures if I don't have to, and the city isn't even on the planet anyway)
+  * The Place Where The Planet Is (Where the Stars Rest - makes no sense, it's a place where the planet is not. Not that "Where the Stars Rest" makes much sense either)
+  * Mythus (Mitos - explained above)
+  * Administrator (Warden - dunno, I like administrator for its greater technological connotations, but also like warden for implying they act as protectors or guardians to the giant wildlife preservation that is Terra)
+  * Icon (Idol - "idol" is usable for personifications (like Noi and 'Zext') as well as religous images)
+
+
 ## technical notes
 
 ### Why not just use flame's tools directly?
@@ -523,7 +584,7 @@ Before I started, I extracted everything from an iso of the original fantranslat
 
 However, once I started testing the output, it seemed the released tools only *mostly* work as is. Even if I were to revert all of my changes and try to use them as <del>God</del> flame intended, I ran into a number of issues not present in the 4.15 fantranslation release:
   1. item/money received messages in cutscenes are broken (those with opcode `0xC1`)
-  2. Some text remains in their original Japanese forms, with no Enlish displayed: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
+  2. Some text remains in their original Japanese forms, with no English displayed: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
   3. chapter start/end graphics are still in Japanese
   4. The text about your next objective that appears when pressing select is not updated
   5. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact. He remained perfectly in in Chapter 2 and after starting Chapter 5.
@@ -545,10 +606,10 @@ If you want to do a actual, proper retranslation of this game yourself and you'r
       * However, any changes made in `pc`, `foodarea` and `helplib` are still not reflected. I'm not entirely sure how to fix this. Currently I'm stuck using the versions of these files originating from flame's fantranslation. `foodarea.bin` and `pc.bin` seem to be easily modifiable with a hex editor. 
   3. Chapter titles: like with #2, I copied the files from the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't.
   4. the correct objective text will be used if the story is continued to the next objective. It appears this is not at all the fault of the tools, and the text for the current objective is loaded directly from your savefile.
-  5. The Mishy issue was also not entirely the fault of the tools. For some reason, Mishy's internal name ("Michy") was exposed in `chr_names.tsv` as well as his name that is displayed above his textboxes (originally "Michey"). For comparison, Mensa was called "Mrs. Mensa" in the original translation, and has an internal name of "Mensa", but only appeared once in `chr_names.tsv` (as "Mrs. Mensa"). I've also been able to break shopkeepers by changing the wrong names in `chr_names.tsv`, so just make sure you only change the right one? 
+  5. The Mishy issue was also not entirely the fault of the tools. For some reason, Mishy's internal name ("Michy") was exposed in `chr_names.tsv` as well as his name that is displayed above his textboxes (originally "Michey"). For comparison, Mensa was called "Mrs. Mensa" in the original translation, and has an internal name of "Mensa", but only appeared once in `chr_names.tsv` (as "Mrs. Mensa"). I've also been able to break shopkeepers by changing the wrong names in `chr_names.tsv`, so just make sure you only change the right one? I recommend not changing any character names that appear to already be in English in the jp dump. 
   6. Extra Japanese text (underneath my English): I would usually be able to fix these by reformatting my English text to use an extra line in the text box. However, I encountered this again for two lines when reading the message at the end of Volans' sidequest, but wasn't able to fix it this way.
-    * this appears to be fixable by increasing the max length for `0x41` op codes, as defined in the `bin` method, from 10 to 11. Now all the Japanese text is replaced as long as there is enough rows of English text. Due to a related logical error that should also now be fixed, it was truncated to 3 rows when I tried to add an additional row instead of 10
-    * so in conclusion, while other text boxes can be freely resized, `0x41` opcodes require as least the same number of rows of English text as Japanese text
+      * this appears to be fixable by increasing the max length for `0x41` op codes, as defined in the `bin` method, from 10 to 11. Now all the Japanese text is replaced as long as there is enough rows of English text. Due to a related logical error that should also now be fixed, it was truncated to 3 rows when I tried to add an additional row instead of 10
+      * so in conclusion, while other text boxes can be freely resized, `0x41` opcodes require as least the same number of rows of English text as Japanese text
 
 
 ### other stuff
@@ -584,12 +645,19 @@ some nonsensical, but spoilerly one-liners I didn't want to screenshot:
 
 #### mishy guide
 prologue: center of town, outside elder's house
+
 ch1: harbor, outside fisherman's house
+
 ch2: cape, underneath stairs
+
 ch4: harbor, outside museum
+
 ch5: southwest corner of beach (before sidequest); bar (after sidequest)
+
 ch6: ouside nayuta's house, by sheep
+
 epilogue: ruins northeast of cape
+
 sequel: top of tower ruins
 
 ----
