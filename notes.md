@@ -388,6 +388,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * I can't seem to figure out what, if any, astronomical tool this is supposed to be. The characters seem to literally translate to constellation/zodiac sphere/ball, and googling them together mainly gives images of spherical trikets with astrological signs printed on them, rather than any actual tool 
   * also considered [Stellarium](https://en.wikipedia.org/wiki/Stellarium) (the existing uses of which are spelled out as "ステラリウム", but 星座球 is never actually pronounced as ステラリウム), [Astrarium](https://en.wikipedia.org/wiki/Astrarium) (same meaning as "Planetarium", but more obvious pairing with "Astrolabe"), and Celestial Sphere (not so much a tool but a concept) 
   * also you can see it actually looks spherical when seen from afar, which makes sense given that it's a replacement core for the planet  
+  * Given that it's inside the Stellarium, I'd say it's most likely *supposed* to refer to spherical "star ball" planetarium projectors, but "Planisphere" sounds less silly than "star ball", and I like how Wikipedia describes it as a successor to the astrolabe
 
 #### Characters
 
@@ -560,7 +561,7 @@ what appear to be official romanizations/translations aren't always followed.
   * Burton (Barton - I think it matches the voice's pronounciation better)
   * Aulbath (Orvus - constellation)
   * Gio (Geo - explained above in [Characters](#characters))
-  * Erislet (Erisette - ok so "[-let](https://en.wiktionary.org/wiki/-let)" is a dimunative, but is it's "almost... never" used for names, and "is generally depreciative, connoting pettiness and conveying contempt" when it is)
+  * Erislet (Erisette - ok so "[-let](https://en.wiktionary.org/wiki/-let)" is a diminutive, but it's "almost... never" used for names, and "is generally depreciative, connoting pettiness and conveying contempt" when it is)
   * Argol (Algol - explained above)
   * Cealam (Caelum - constellation)
   * Colon (Coron - constellation)
