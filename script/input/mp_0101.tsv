@@ -630,10 +630,10 @@ EV_1_S00_go_jungle
 0xe5bb	0x06	ALTO		ANI_FIND	
 0xe6c9	0x98	ALTO	#0W#0x#400y#5A	(...She feels...mysterious, somehow.)	
 0xe719	0x98	ALTO	#0W#0x#400y#5A	(Her hair and skin are so beautiful...	
-				I've never seen a girl like her.)	
+				 I've never seen a girl like her.)	
 0xe7b6	0x98	Signa	#0W#0x#30y#12S	...y...ta...	
 0xe802	0x98	ALTO	#0W#0x#400y#5A	(...What is happening?	
-				...My heart is pounding.)	
+				 ...My heart is pounding.)	
 0xe892	0x98	Signa	#0x#30y#16S	...Hey, Nayuta! Can you hear me!?	
 0xe8e7	0x06	Signa		ANI_ANGRYTALK	
 0xe9ad	0x6B	ALTO		Exclamation	
@@ -712,7 +712,7 @@ EV_1_S00_go_jungle
 				Where is it in relation	
 				to our world? And...	
 0xfd52	0x06	NOI		ANI_THINK	
-0xfdba	0x98	NOI		Lost Heaven...?	
+0xfdba	0x98	NOI		'Lost Heaven'...?	
 				People from the other	
 				world call it that?	
 0xfe5c	0x06	NOI		ANI_GESTURE1	
@@ -721,10 +721,10 @@ EV_1_S00_go_jungle
 				there are four continents that make up	
 				this impeccable world.	
 0xff53	0x06	ALTO		ANI_THINK2	
-0xff7b	0x98	ALTO	#6A	Terra... I think that means 'earth'	
+0xff7b	0x98	ALTO	#6A	'Terra'... I think that means 'earth'	
 				in an ancient language, right?	
-0xffe8	0x98	ALTO		The garden, and four continents...?	
-0x10033	0x98	ALTO	#6A	I wonder if it's beyond	
+0xffe8	0x98	ALTO		The garden, and four continents...	
+0x10033	0x98	ALTO	#6A	I wonder if they're beyond	
 				the 'End' of our world...?	
 0x1008d	0x06	ALTO		ANI_WAIT	
 0x100d8	0x06	NOI		ANI_DULL	

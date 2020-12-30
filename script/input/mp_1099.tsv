@@ -1125,7 +1125,7 @@ EV_1_S08_vs_seram
 0x14319	0x06	Seram		ANI_STEP_B	
 0x1434a	0x06	Signa_g		ANI_WAIT3	
 0x14374	0x06	Seram		ANI_WAIT3	
-0x14896	0x98	Zext	#1W	Hmph... Fight to your heart's content.	
+0x14896	0x98	Zext	#1W	Hmph... Fight to your hearts' content.	
 0x1492e	0x98	Zext	#1W	At the end of the battle, you will both	
 				come to better understand your destinies.	
 0x149f1	0x98	Zext	#1W	Now then... Noi should be here soon.	
