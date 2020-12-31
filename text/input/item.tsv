@@ -1278,32 +1278,32 @@
 0x15d10	desc	
 0x15d84	name	
 0x15d9c	desc	
-0x15e10	name	Twin Crags
-0x15e28	desc	Defeated <Twin Crags> Duokuroi.
-0x15e9c	name	Lightning Caller
-0x15eb4	desc	Defeated <Lightning Caller> Pallichthya.
+0x15e10	name	Twin Colossi
+0x15e28	desc	Defeated <Twin Colossi> Duoqurois.
+0x15e9c	name	Caller of Lightning
+0x15eb4	desc	Defeated <Caller of Lightning> Palreschia.
 0x15f28	name	Armor of Annihilation
-0x15f40	desc	Defeated <Armor of Annihilation> Cravaltarf.
-0x15fb4	name	Scorching Beast
-0x15fcc	desc	Defeated <Scorching Beast> Sagicheiron.
+0x15f40	desc	Defeated <Armor of Annihilation> Krabaltarf.
+0x15fb4	name	Scorching Fury
+0x15fcc	desc	Defeated <Scorching Fury> Sagiscellan.
 0x16040	name	Wheel of Judgment
 0x16058	desc	Defeated <Wheel of Judgment> Libradigger.
 0x160cc	name	Amber Wing
-0x160e4	desc	Defeated <Amber Wing> Raprivern.
+0x160e4	desc	Defeated <Amber Wing> Raegipan.
 0x16158	name	Azure Ogre
 0x16170	desc	Defeated <Azure Ogre> Ishtauros.
 0x161e4	name	Jade Sword King
 0x161fc	desc	Defeated <Jade Sword King> Gladarieon.
-0x16270	name	Crimson Demon Emperor
-0x16288	desc	Defeated <Crimson Demon Emperor> Armadilleos.
+0x16270	name	Crimson Demon Lord
+0x16288	desc	Defeated <Crimson Demon Lord> Armadalleos.
 0x162fc	name	Starfall Knight
 0x16314	desc	Defeated <Starfall Knight> Selam Il Ordene.
-0x16388	name	Guide of Legends
-0x163a0	desc	Defeated <Guide of Legends> Zext Ji Quarius.
-0x16414	name	Star Core of Void
-0x1642c	desc	Defeated <Star Core of Void> Stell Arcorion.
-0x164a0	name	Divine Armor
-0x164b8	desc	Defeated <Divine Armor of Purity> Labe Virgos.
+0x16388	name	Guide of Mythos
+0x163a0	desc	Defeated <Guide of Mythos> Zext Ji Quarius.
+0x16414	name	Vacuous Planetary Core
+0x1642c	desc	Defeated <Vacuous Planetary Core> Stell Alaqran.
+0x164a0	name	Pure Celestial Armor
+0x164b8	desc	Defeated <Pure Celestial Armor> Labe Virgos.
 0x1652c	name	Weaver of Paradise
 0x16544	desc	Defeated <Weaver of Paradise> Noi Stelladia.
 0x165b8	name	Start of a Handyman

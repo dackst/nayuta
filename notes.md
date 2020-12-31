@@ -423,18 +423,22 @@ For character names based off of constellations, change spellings to more closel
 
 The bosses you fight throughout the story are supposed to be related somehow to the zodiac constellations:
 
-* Duoqurois -> Duokuroi (from Gemini, or [Dioskuroi](https://en.wikipedia.org/wiki/Castor_and_Pollux) + Duo)
-* Palreschia -> Pallichthya (Pisces, or ikthyos or ichthyos in Greek + maybe Pallas?)
-* Sagiscellan -> Sagicheiron (Sagittarius + Hecatoncheir?)
-
+* Duoqurois <del>-> Duokuroi (from Gemini, or [Dioskuroi](https://en.wikipedia.org/wiki/Castor_and_Pollux) + Duo)</del>
+  * turns out original comes from an [archaic Latin](https://en.wikipedia.org/wiki/Castor_and_Pollux#Italy_and_the_Roman_Empire) transliteration of the Greek *κούροις* (kourois). came off to me as trying to sound French, but ok. 
+* Palreschia <del>-> Pallichthya (Pisces, or ikthyos or ichthyos in Greek + maybe Pallas?) </del>
+  * from [Alreschia](https://en.wikipedia.org/wiki/Alpha_Piscium)
+* Sagiscellan <del>-> Sagicheiron (Sagittarius + Hecatoncheir?)</del>
+  * from [Ascella](https://en.wikipedia.org/wiki/Zeta_Sagittarii)
+* Cravaltarf -> Krabaltarf
+  * (from [Altarf](https://en.wikipedia.org/wiki/Beta_Cancri), now with "krab" to look more Proto-Germanic/romanized Arabic looking)
 * Livadrigger -> Libradigger (Libra)
 
-* Raigivern -> Raprivern (Capricorn + wyvern)
+* Raigivern -> Raegipan (Capricorn: Aegipan, a half goat dude)
 * Ishtaros -> Ishtauros (Taurus + maybe Ishtar)
 * Gradleon -> Gladarieon (supposed to be Aries, not Leo. Also "Glad" from the Latin "gladius" because the boss is associated with swords)
-* Armadaries -> Armadilleos (supposed to be Leo, not Aries. also an armadillo)
-* Stell Alaqran -> Stell Arcorion (Scorpio + Stella)
-
+* Armadaries -> Armadalleos (supposed to be Leo, not Aries. also an armadillo, but with weapons)
+* Stell Alaqran <del>-> Stell Arcorion (Scorpio + Stella)</del>
+  * from [Al-Aqrab](https://en.wikipedia.org/wiki/Beta_Scorpii)
 
 More monster changes:
 
