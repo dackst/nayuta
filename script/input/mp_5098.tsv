@@ -141,7 +141,7 @@ EV_5_S09_meet_seram
 EV_5_S11_last_advise					
 0x4a1f	0x06	Signa		ANI_GESTURE2	
 0x4aec	0x98	Signa	#1W	...My final warning:	
-0x4b51	0x98	Signa	#1W	The plan is moving into	
+0x4b51	0x98	Signa	#1W	Our plan is moving into	
 				its final stage.	
 0x4bed	0x98	Signa	#1W	If you wish to go any further...	
 				Brace yourselves.	
@@ -155,7 +155,7 @@ EV_5_S11_last_advise
 0x4e7b	0x98	NOI	#1W#6A	............	mp_0001 0x15fd5
 0x4fdc	0x06	Signa		ANI_TAKE_HELMET1	
 0x508d	0x06	Seram		ANI_TAKE_HELMET2	
-0x51dc	0x98	Seram	#1W	See ya.	
+0x51dc	0x98	Seram	#1W	Later.	
 0x5241	0x98	Seram	#1W	I pray that you guys	
 				don't use that elevator.	
 0x556e	0x6B	ALTO		Ellipsis	

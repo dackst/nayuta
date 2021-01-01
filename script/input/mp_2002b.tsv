@@ -71,7 +71,7 @@ SUB_meet_adventurer
 				She's called Noi.	
 0x23bd	0x06	ALTO		ANI_GESTURE1	
 0x23fe	0x98	NOI		N-Nayuta, what's	
-				an 'adventurer?'	
+				an 'adventurer'?	
 0x245b	0x98	ALTO		Someone who travels to all	
 				sorts of places, pursuing	
 				dreams and romance.	
@@ -162,7 +162,7 @@ SUB_meet_adventurer
 0x3471	0x06	Reticul		ANI_ANGRYTALK	
 0x349f	0x98	Reticul		Ah, but as for the treasure, we'll	
 				be keeping that all for ourselves.	
-				Don't forget!	
+				Don't forget it!	
 0x36d7	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x3705	0x98	ALTO		W-Well... I didn't get	
 				a chance to speak...	
@@ -177,7 +177,7 @@ SUB_meet_adventurer
 				Ooh, this is so unsettling...	
 0x3944	0x06	ALTO		ANI_GESTURE2	
 0x396e	0x98	ALTO		They don't seem like bad people. I don't think	
-				they're going to lay waste to anything.	
+				they're going to 'lay waste' to anything.	
 0x39e4	0x06	ALTO		ANI_THINK2	
 0x3a0c	0x98	ALTO		We should be on the lookout for next	
 				time we run into each other, though.	

@@ -1,7 +1,7 @@
 mp_6100					
 init					
 talk_Michy					
-0x657	0x3F	Name		Mysterious Creature	mp_0002d 0x321a
+0x657	0x3F	Name		Strange Animal	mp_0002d 0x321a
 0x696	0x98	Michy		Mishishi! ♪	mp_0112 0x15a92
 0x6c1	0x98	Michy		............	mp_0001 0x15fd5
 0x768	0x07	System	#3C	The mysterious creature spit something out!!	
@@ -161,7 +161,7 @@ EV_0_S15_find_noi
 				But I must warn you, attacking	
 				me will not end well for you...	
 0x53da	0x98	Zext		Deal with him for me.	
-0x5432	0x98	Seram		...By your command.	
+0x5432	0x98	Seram		...As you wish.	
 0x55e5	0x06	Seram		ANI_GRIP_SWORD_HANDLE	
 0x5681	0x98	Seram	#2W	Hmph! Come at me!	
 0x56c4	0x98	Seram	#1W	I will show you how	

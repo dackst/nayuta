@@ -77,7 +77,7 @@ EV_6_S11_help_lyra
 0x34cb	0x98	ALTO		Yeah, if we work	
 				together...	
 0x3516	0x06	ALTO		ANI_SURPRISE_WEAK	
-0x3562	0x98	ALTO	#1W	...O-Oh.	
+0x3562	0x98	ALTO	#1W	...Oh, um.	
 0x3593	0x06	NOI		ANI_GESTURE2	
 0x35bc	0x98	NOI	#1W#6A	...Y'know...	
 0x35f5	0x6B	ALTO		Ellipsis	
@@ -139,7 +139,7 @@ EV_6_S11_help_lyra
 0x4e07	0x6B	Bell		Surprise	
 0x523b	0x98	ALTO	#6A	Master!	mp_0001 0x10925
 0x526d	0x06	Lyra		ANI_GESTURE2	
-0x52b5	0x98	Lyra		Mr. Orvus, didn't you	
+0x52b5	0x98	Lyra		Orvus, didn't you	
 				leave on patrol?	
 0x5335	0x98	Aulbath		Yes, that is right, but...	
 				I came running when I heard a	
@@ -219,7 +219,7 @@ EV_6_S11_help_lyra
 0x6dae	0x98	NOI	#6A	The Mitos...	
 				Zext and Lady Creha...	
 				They're really powerful.	
-0x6e2f	0x98	NOI	#6A	I thought... maybe I could	
+0x6e2f	0x98	NOI	#6A	I thought...maybe I could	
 				never stop their mission...	
 0x6e90	0x98	NOI	#6A	So... I didn't want to	
 				tell you about this	

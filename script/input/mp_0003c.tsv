@@ -38,7 +38,7 @@ talk_Puppis
 				I don't have enough space in my	
 				head to worry about that, too.	
 0xa7f	0x6B	ALTO		Surprise	
-0xab1	0x98	ALTO		'Too...?' What do	
+0xab1	0x98	ALTO		'Too'...? What do	
 				you mean by that?	
 0xb03	0x98	Puppis		Well, rumor has it... war	
 				has finally broken out on	
@@ -79,7 +79,7 @@ talk_Crux
 0x1174	0x98	Crux		M-Maybe I'm overthinking	
 				things. Hahahaha...	
 0x11e6	0x98	Crux		Even during a time like this,	
-				the people of Remnant Island and	
+				the people of Remnant Island are	
 				in no hurry to start panicking...	
 0x1249	0x98	Crux		Ooh, I've got to follow	
 				their example a little more.	
@@ -175,8 +175,8 @@ talk_Vavo
 0x2334	0x98	Vavo		As for what will come next...	
 				Examining the rubble may prove	
 				effective in predicting that.	
-0x23cc	0x98	Vavo		It's times like these are an	
-				academic's time to shine. I	
+0x23cc	0x98	Vavo		It's times like these that are	
+				an academic's time to shine. I	
 				must do my part well.	
 0x246b	0x98	Vavo		It's precisely because of this baffling situation	
 				that we find ourselves in that academics should	

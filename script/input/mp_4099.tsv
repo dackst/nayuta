@@ -127,7 +127,7 @@ QS_54_ask_reason
 0x4241	0x06	NOI		ANI_SURPRISE	
 0x426a	0x98	NOI	#6A	What!?	mp_0111 0x10f9c
 0x4292	0x06	ALTO		ANI_GESTURE1	
-0x42bc	0x98	ALTO	#6A	How the hell could that happen...?	
+0x42bc	0x98	ALTO	#6A	How could that have happened...?	
 0x4301	0x06	ALTO		ANI_THINK2	
 0x4329	0x98	ALTO	#6A	Could they... Could they	
 				have been killed by Zext...?	
@@ -438,7 +438,7 @@ quest_SpiritD
 0x83e9	0x06	SpiritD		ANI_NOD	
 0x8411	0x98	SpiritD		.......	mp_1099 0xaafd
 0x843b	0x06	ALTO		ANI_THINK	
-0x8462	0x98	ALTO		Because of... the abnormalities...	mp_1099 0xab4e
+0x8462	0x98	ALTO		The abnormalities...	mp_1099 0xab4e
 0x84a9	0x06	ALTO		ANI_NOD	
 0x84ce	0x98	ALTO		These little ones must	mp_1099 0xabba
 				really be in a tough spot.	
@@ -639,7 +639,7 @@ QS_83_quest_end
 0xc3e0	0x98	Erislet		Hehe, it's been a year.	mp_1099 0xe963
 				How have you two been?	
 0xc438	0x06	NOI		ANI_COMPLAIN	
-0xc461	0x98	NOI	#6A	Y-You guys are... the wardens	mp_1099 0xe9e4
+0xc461	0x98	NOI	#6A	Y-You guys are...the wardens	mp_1099 0xe9e4
 				of the continents!?	
 0xc4b4	0x98	NOI	#6A	The wardens were supposed	mp_1099 0xea37
 				to have disappeared during	
@@ -816,7 +816,7 @@ EV_4_S19_boss_battle
 0xffde	0x06	b003		ANI_DEMO1	
 0x10102	0x98	NOI	#1W#16S#6A	The idol of La Worg...!!	
 0x10155	0x98	ALTO	#1W	Such extreme heat...	
-				Is it... made of lava!?	
+				Is it...made of lava!?	
 0x101ac	0x06	ALTO		ANI_BATTOU2	
 0x1023d	0x98	ALTO	#2W	But... we can't back down!	
 0x10280	0x06	NOI		ANI_GUTSPOSE	

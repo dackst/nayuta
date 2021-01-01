@@ -72,7 +72,7 @@ talk_Volans
 				that is in our power.	
 0x1b67	0x98	Volans		...If I can put together the truth of these	
 				abnormalities and publish them with the Baron's	
-				connections we could relieve some of the chaos.	
+				connections, we could relieve some of the chaos.	
 0x1c07	0x98	Volans		Hehe, there is nothing more satisfying than	
 				being able to influence the world with a	
 				single paper. I shall do my best to help.	
@@ -164,7 +164,7 @@ talk_Volans
 0x2dda	0x98	Volans		That medicinal herb was supposed to be extinct.	
 				On a remote island like this, there's no way you	
 				could have obtained some in such a short time.	
-0x2e82	0x98	Volans		Unless... star shards, this island's	
+0x2e82	0x98	Volans		Unless...star shards, this island's	
 				specialty, and the brilliant world	
 				projected from within them...	
 0x2f1c	0x98	Volans		Nayuta, could you... Could you have	
@@ -570,7 +570,7 @@ talk_Coron
 				studying the behavior of marine life in the	
 				vicinity of this island in great detail.	
 0x96fa	0x98	Coron		The natural instincts of the animals could	
-				help us identify locations that are safe	
+				help us identify locations that are safe,	
 				even in the event of a major disaster...	
 0x9787	0x98	Coron		As expected from the professor...	
 				He has a unique way of looking at things.	
@@ -870,7 +870,7 @@ tuto_museum_common
 0xe534	0x98	Caelum		From the looks of it, maybe you	
 				would understand Professor Volans'	
 				research of Remnant Island.	
-0xe67e	0x98	ALTO	#6A	Research of Remnant Island...?	
+0xe67e	0x98	ALTO	#6A	'Research of Remnant Island'...?	
 0xe761	0x06	Volans		ANI_WAIT0	
 0xe78a	0x98	Volans		Heh, my main research interests are	
 				in the history of the Ciencia Sea and	
@@ -1038,7 +1038,7 @@ QS_42_undertake
 0x108e1	0x98	Volans		There are people on the continent	
 				who believe the world is ending.	
 0x10967	0x98	Volans		No doubt that these anomalies are	
-				likely connected to this 'Terra',	
+				likely connected to this 'Terra,'	
 				as you call it?	
 0x109e8	0x06	Volans		ANI_WAIT	
 0x10a10	0x98	NOI	#6A	Um, ah, w-well...	mp_0003 0xa418
@@ -1262,9 +1262,10 @@ LithographMes
 				vast knowledge and technology,	
 				and walked together on the same	
 				path towards prosperity.	
+					
 				However,	
 				the humans who had obtained this	
-				knowledge and technology misused it.#0E	#stray line of Japanese text after this
+				knowledge and technology misused it.#0E	
 0x135e2	0x41	None	#2E#0W	Environmental devastation,	
 				overrunning other life forms...	
 				And eventually, humans started	
@@ -1289,9 +1290,10 @@ LithographMes
 				There, they built a great city,	
 				naming it after the continent of Lexendria,	
 				to shelter the humans...	
+					
 				However, the end came sooner than	
 				expected, and many Mitos and humans	
-				met the same fate as the planet.#0E	#can't seem to get rid of the last Japanese line here either without turning all of sentences 2 and 3 to Japanese 
+				met the same fate as the planet.#0E	
 0x13a26	0x41	None	#2E#0W	To the few sons of man who survived:	
 				I want you to know the sight of the Star Capital,	
 				where no one exists anymore. I want you to	

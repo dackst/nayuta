@@ -122,12 +122,12 @@ talk_Eida_sub
 0x28dd	0x98	Eida		I still miss our best	
 				customer, Cygna...	
 0x296f	0x98	Eida		I heard from Orvus.	
-				You guys... fought on	
+				You guys...fought on	
 				that shattered moon.	
 0x29c6	0x98	Eida		...No matter what, we islanders	
 				are all in this together.	
-0x2a22	0x98	Eida		You can't forget:	
-				we're on your side.	
+0x2a22	0x98	Eida		Don't forget: we're	
+				on your side.	
 0x2a98	0x98	Eida		No matter what, we islanders	
 				are all in this together.	
 0x2af4	0x98	Eida		Come back to us if things get tough.	
@@ -210,7 +210,7 @@ talk_Eida_sub
 				wanted to try hammering the swords.	
 0x39bd	0x6B	ALTO		Sweatdrop	
 0x39ef	0x98	ALTO		Sorry, Ada. Creha is a	
-				little... unworldly.	
+				little...unworldly.	
 0x3a38	0x98	ALTO		It'd be great if you'd	
 				watch over her for me.	
 0x3a98	0x98	Eida		Hehehe, leave it to me! ♪	
@@ -282,14 +282,14 @@ talk_Eida_sub
 0x4782	0x98	Eida		The only people we have on the	
 				island who can fight them are you,	
 				Cygna, and Master Orvus, right?	
-0x47f4	0x98	Eida		Well, maybe you're not quite	
-				as skilled as the other two...	
-0x4858	0x98	Eida		But you should still buy a nice	
+0x47f4	0x98	Eida		Well, maybe you're not quite as	
+				skilled as those two, but...	
+0x4858	0x98	Eida		You should still buy a nice	
 				weapon just in case! ☆	
 0x48e2	0x98	Eida		Lately, it seems monsters	mp_0111 0x471f
 				have been popping up more	
 				frequently on the island.	
-0x4945	0x98	Eida		But you should still buy a nice	mp_0111 0x4858
+0x4945	0x98	Eida		You should still buy a nice	mp_0111 0x4858
 				weapon just in case! ☆	
 0x49dd	0x98	Eida		According to Orvus, it didn't look	
 				like it was going to be a big deal,	
@@ -345,7 +345,7 @@ talk_Columha
 0x5589	0x98	Columha		How did you even find that much...?	
 				...No, it's not a problem, but...	
 0x55ee	0x98	Columha		...Anyway, give them to me, and	
-				I can forge them into weapons...	
+				I can forge them into a weapon...	
 0x569f	0x98	Columha		With four pieces of Zemurian Ore,	
 				I could make one hell of a weapon...	
 0x5716	0x98	Columha		Nayuta, if you happen to come	
@@ -428,7 +428,7 @@ talk_Columha
 				Creha, was it?	
 0x66e5	0x98	Columha		Mmm... If only Ada had	
 				that kind of grace...	
-0x6775	0x98	Eida		Something you want to	
+0x6775	0x98	Eida		Something you wanna	
 				say to me, old man? ㈱	
 0x67ce	0x98	Columha		...N-Nevermind.	
 0x6821	0x6B	ALTO		Sweatdrop	
@@ -812,7 +812,7 @@ QS_21_ask_work
 0xba2d	0x98	Eida		What I want you to do is supply the	
 				fruit to macerate in the alcohol.	
 0xbac1	0x06	ALTO		ANI_THINK	
-0xbae8	0x98	ALTO	#6A	Supply the fruit...?	
+0xbae8	0x98	ALTO	#6A	'Supply the fruit'...?	
 0xbb29	0x98	ALTO	#6A	I don't know too much about it, but	
 				I think plums, apples, or apricots are	
 				usually used for this kind of thing.	
@@ -868,7 +868,7 @@ QS_21_quest_end
 0xc5b7	0x06	ALTO		ANI_HANDOVER	
 0xc60d	0x40	UNDEF		Handed over 100-Year Peach.	
 0xc667	0x06	Eida		ANI_WAIT4	
-0xc68e	0x98	Eida		Is this a... peach?	
+0xc68e	0x98	Eida		Is this a...peach?	
 				I've never seen one like	
 				this before though...	
 0xc6e6	0x06	ALTO		ANI_GESTURE1	
@@ -878,7 +878,7 @@ QS_21_quest_end
 				eternal youth, but it's	
 				very delicious too.	
 0xc7de	0x06	Eida		ANI_SURPRISE	
-0xc808	0x98	Eida		Huh, Huh!? So a peach like that exists?	
+0xc808	0x98	Eida		Huh, huh!? So a peach like that exists?	
 0xc850	0x98	Eida		Looks like you found me something	
 				pretty fascinating! ㈱	
 0xc8a2	0x06	ALTO		ANI_SCRATCH_HEAD	
@@ -930,7 +930,7 @@ QS_24_get_local_cuisine
 0xd2f6	0x98	ALTO	#6A	Umm, there's something	
 				I want to ask you...	
 0xd348	0x06	ALTO		ANI_GESTURE1	
-0xd372	0x98	ALTO	#6A	Mr. Columba, do you know anything	
+0xd372	0x98	ALTO	#6A	Columba, do you know anything	
 				about this island's local dish?	
 0xd3d5	0x06	Columha		ANI_THINK	
 0xd3ff	0x98	Columha		Local dish, eh?	
@@ -945,7 +945,7 @@ QS_24_get_local_cuisine
 				specialties at the moment.	
 0xd5ce	0x06	ALTO		ANI_GESTURE2	
 0xd5f8	0x98	ALTO	#6A	What kind of dish is	
-				this 'Island Loco Moco?'	
+				this 'Island Loco Moco'?	
 0xd647	0x06	Columha		ANI_TALK	
 0xd670	0x98	Columha		It's white rice topped with steak,	
 				fried eggs, and local island vegetables.	
@@ -962,7 +962,7 @@ QS_24_get_local_cuisine
 0xd87e	0x98	ALTO	#6A	Ah, then, thank you!	
 0xd8be	0x98	ALTO	#6A	A friend of mine said he	
 				wants to eat it, so can	
-				you wrap that up for me?	
+				you wrap it up for me?	
 0xd92f	0x06	Columha		ANI_NOD	
 0xd957	0x98	Columha		Mmm... Wait right there then.	
 0xdadb	0x98	Columha		...It's done.	
@@ -986,7 +986,7 @@ QS_24_get_local_cuisine
 0xdef8	0x98	ALTO	#6A	A-Anyway...	
 				Thank you very much.	
 0xdf6e	0x06	ALTO		ANI_JOY	
-0xdf93	0x98	ALTO	#6A	(Now I have island specialties.	
+0xdf93	0x98	ALTO	#6A	(Now I have three island specialties.	
 				 Let's bring them to Geo.)	
 0xe056	0x06	ALTO		ANI_THINK2	
 0xe07e	0x98	ALTO	#6A	(There's still the Ruins Rock Salt	
@@ -1056,7 +1056,7 @@ QS_41_getting_information
 				exactly, though.	
 0xefa8	0x06	Columha		ANI_WAIT	
 0xefd1	0x06	ALTO		ANI_THINK2	
-0xeff9	0x98	ALTO	#6A	'Fish?'	
+0xeff9	0x98	ALTO	#6A	'Fish'?	
 				I can think of lots of	
 				places that could be.	
 0xf048	0x06	ALTO		ANI_OJIGI	
@@ -1132,7 +1132,7 @@ QS_41_getting_information2
 				exactly, though.	
 0x1013a	0x06	Columha		ANI_WAIT	
 0x10163	0x06	ALTO		ANI_THINK2	
-0x10197	0x98	ALTO	#6A	'Fish?'	mp_0111 0xeff9
+0x10197	0x98	ALTO	#6A	'Fish'?	mp_0111 0xeff9
 				I can think of lots of	
 				places that could be.	
 0x101e6	0x06	ALTO		ANI_OJIGI	

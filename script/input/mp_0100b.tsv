@@ -5,7 +5,7 @@ EV_6_S35_bombard_earth
 0xcee	0x06	ALTO		ANI_FIND	
 0xd14	0x98	ALTO	#1W#6A	.....	mp_0000d 0x70fd
 0xd54	0x98	ALTO	#1W#6A	...That's...our world...	
-0xda8	0x98	ALTO	#0W#6A	That's... what's... beyond	
+0xda8	0x98	ALTO	#0W#6A	That's...what's...beyond	
 				the End of the World...?	
 0xe25	0x06	NOI		ANI_DENY	
 0xe52	0x98	NOI	#1W#6A	...No way...	
@@ -45,15 +45,15 @@ EV_6_S35_bombard_earth
 				definitely not temporary.	
 0x1c02	0x98	NOI		Nayuta...	mp_0000d 0x7671
 0x1c7e	0x98	ALTO	#6A	When viewed from the god-like perspective	
-				of the Mitos, it's true this world is	
-				tiny and inconsequential...	
+				of the Mitos, it's true this world may	
+				seem tiny and inconsequential...	
 0x1cfe	0x98	ALTO	#6A	Perhaps it's only natural you	
 				would think of it as temporary.	
 0x1db0	0x98	ALTO	#1W#6A	But...	
 0x1f61	0x98	ALTO	#0W#100x#270y	Even though it wasn't for very long,	
 				you spent some time at my house, Creha.	
-0x1ff6	0x98	ALTO	#0W#100x#270y	The past five years, Cygna has	
-				worked at the Handyman Shop	
+0x1ff6	0x98	ALTO	#0W#100x#270y	For the past five years, Cygna	
+				has worked at the Handyman Shop	
 				with me on Remnant Island.	
 0x208d	0x98	ALTO	#1W#100x#270y	You two should understand	
 				already, shouldn't you?	
@@ -114,7 +114,7 @@ EV_7_S20_byebye_tera
 0x43c3	0x06	Creha3		ANI_THINK	
 0x4402	0x98	Creha3	#0W	...After some thinking, we...	
 0x4445	0x06	Creha3		ANI_DENY	
-0x447b	0x98	Creha3	#2W	We can't leave Noi behind.	
+0x447b	0x98	Creha3	#2W	We still can't leave Noi behind.	
 0x44f5	0x98	ALTO	#2W#6A	...Ah...	mp_0001 0xd6a4
 0x452b	0x06	Signa		ANI_GESTURE2	
 0x4564	0x98	Signa	#1W	We're going to try to fix the	

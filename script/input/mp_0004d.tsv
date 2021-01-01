@@ -5,7 +5,7 @@ lp_post
 				to check the mail!	
 0x8a0	0x98	ALTO		Huh...? Looks like there's a	mp_0004 0x2113
 				strange letter inside here.	
-0x8f3	0x98	ALTO		It seems to be from a warden...	mp_0004 0x2165
+0x8f3	0x98	ALTO		It seems to be from an assistant of a warden...	mp_0004 0x2165
 0x956	0x98	ALTO		We should go to the temple and at least	mp_0004 0x21c4
 				listen to what they have to say.	
 lp_ladder_u					
@@ -49,7 +49,7 @@ subev_get_dog2
 0x1a71	0x98	Asa		But now, she needs a name.	mp_0004 0x3ed5
 0x1ab2	0x98	Asa		What we should call her...?	mp_0004 0x3f16
 0x1b06	0x06	ALTO		ANI_THINK	
-0x1b2d	0x98	ALTO		Hmm, how about... Nora?	mp_0004c 0x2182
+0x1b2d	0x98	ALTO		Hmm, how about...Nora?	mp_0004c 0x2182
 				Let's go with Nora.	
 0x1b82	0x06	ALTO		ANI_WAIT	
 0x1bbd	0x06	Asa		ANI_NOD	

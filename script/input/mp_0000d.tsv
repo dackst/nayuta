@@ -100,7 +100,7 @@ talk_Chicken
 quest_Lupus					
 0x1e23	0x98	Lupus		That weird creature from earlier?	
 				Nah, it didn't come back here.	
-0x1e7d	0x98	Lupus		...What are really up to?	
+0x1e7d	0x98	Lupus		...What are you really up to?	
 0x1f02	0x98	Lupus		...Some sort of weird creature	
 				just passed by here...	
 0x1f5a	0x98	ALTO		Lupus, that creature...	
@@ -205,7 +205,7 @@ EV_4_S31_escape_village
 				#16SI'll...!!	
 0x4c24	0x3F	Name		Voice	
 0x4c31	0x98	Barton	#16S#140x#500y	...Huuh!!	
-0x5052	0x98	ALTO		O-Old man Barton, Mr. Columba!	
+0x5052	0x98	ALTO		O-Old man Barton, Columba!	
 0x50b3	0x98	Barton	#6A	Please!	
 				Take care of it!	
 0x50ef	0x98	Columha		Mmm...!!	
@@ -239,7 +239,7 @@ EV_4_S31_escape_village
 				to use you guys as bait!?	
 0x5d2a	0x06	Barton		ANI_NOD	
 0x5d51	0x98	Barton	#6A	No... That might not be a bad idea.	
-0x5d93	0x98	Barton	#6A	The museum is pretty study,	
+0x5d93	0x98	Barton	#6A	The museum is pretty sturdy,	
 				so it should be able to hold	
 				off attacks from those armors.	
 0x5e4c	0x98	Barton	#6A	We will be responsible	
@@ -340,7 +340,7 @@ EV_5_S00_talk_islander
 				that other world and must have survived	
 				many trials and tribulations.	
 0x8090	0x06	Aulbath		ANI_WAIT2	
-0x80ba	0x98	Aulbath		That young lady... and Cygna.	
+0x80ba	0x98	Aulbath		That young lady...and Cygna.	
 				We should be able to trust	
 				them to do the right thing.	
 0x812a	0x06	ALTO		ANI_THANKS	

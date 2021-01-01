@@ -86,7 +86,7 @@ talk_Dog_before
 				with Eartha immediately.	
 0x1349	0x40	UNDEF		Nayuta returned home, and talked	mp_0001 0x3b76
 				to Eartha about the stray dog.	
-0x13ad	0x40	UNDEF		Though Eartha was surprised at first, she gladly 	mp_0001 0x3bda
+0x13ad	0x40	UNDEF		Though Eartha was surprised at first, she gladly	mp_0001 0x3bda
 				approved of the idea once informed of the situation.	
 0x1540	0x98	Dog		Ruff, ruff.	mp_0001 0x38bf
 0x156a	0x98	ALTO		Huh, I haven't seen a dog around before.	mp_0001 0x3d94

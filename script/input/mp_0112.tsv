@@ -267,13 +267,13 @@ talk_Barton
 				anything back.	
 0x575e	0x98	Barton		Considering that, perhaps the	
 				abnormalities occurring on this	
-				sea are... our just deserts.	
+				sea are...our just deserts.	
 0x57e1	0x98	Barton		Even so, I want to protect my	
 				precious family and friends.	
 				...That is my heartfelt wish.	
 0x5886	0x98	Barton		The abnormalities occurring on	
 				this sea may be humanity's	
-				just deserts..	
+				just deserts.	
 0x58f2	0x98	Barton		Even so, I want to protect my	mp_0112 0x57e1
 				precious family and friends.	
 				...That is my heartfelt wish.	
@@ -283,7 +283,7 @@ talk_Barton
 				You just keep helping us out, eh?	
 0x5a51	0x98	ALTO		No, I'm the one who's always	
 				constantly worrying Lyra.	
-0x5aa1	0x98	ALTO		Also... Because of what happened,	
+0x5aa1	0x98	ALTO		Also... because of what happened,	
 				I've finally made up my mind.	
 0x5af9	0x98	ALTO		I should be thanking	
 				Lyra for this.	
@@ -402,7 +402,7 @@ talk_Barton
 				able to provide some assistance.	
 0x7006	0x98	Barton		Ax and Sculp often	
 				come here for drinks.	
-0x704f	0x98	Barton		Heh, I heard they're childhood friends.	
+0x704f	0x98	Barton		Heh, I hear they're childhood friends.	
 				They have a lot of stories to tell.	
 0x70af	0x98	Barton		Nayuta, maybe you will come here	
 				for a drink with Cygna someday.	
@@ -532,17 +532,17 @@ talk_Gruz
 0x8698	0x98	Gruz		If you call yourself a man, you'd	mp_0112 0x85a0
 				better make sure to listen to her	
 				carefully, Nayu, my boy.	
-0x872f	0x98	Gruz		Going hungry goes a long way...	
-				You know, there's an old saying:	
+0x872f	0x98	Gruz		You know, there's an old saying...	
+				Going hungry goes a long way.	
 0x87a5	0x98	Gruz		The most important thing for	
 				getting over a huge barrier	
 				is your physical health.	
-0x8806	0x98	Gruz		Anyway, just eat plenty of food,	
+0x8806	0x98	Gruz		Anyway, just eat plenty of food	
 				and build up your strength, and	
 				you can handle anything!	
-0x88a9	0x98	Gruz		Going hungry goes a long way...	mp_0112 0x872f
-				You know, there's an old saying:	
-0x891f	0x98	Gruz		Anyway, just eat plenty of food,	mp_0112 0x8806
+0x88a9	0x98	Gruz		You know, there's an old saying...	mp_0112 0x872f
+				Going hungry goes a long way.	
+0x891f	0x98	Gruz		Anyway, just eat plenty of food	mp_0112 0x8806
 				and build up your strength, and	
 				you can handle anything!	
 0x89d6	0x98	Gruz		Gwahaha, developing my new dish this	
@@ -950,10 +950,9 @@ talk_Antlia
 talk_Antlia_and_Cetus					
 0xd7d2	0x98	Antlia		Cetus, I'm glad to see you	
 				two again safe and sound. 	
-0xd82b	0x98	Antlia		I haven't heard from her since	
-				she left home, and now there's	
-				this current strangeness...	
-				I was truly worried.	
+0xd82b	0x98	Antlia		I haven't heard from her since she left	
+				home, and now there's this current	
+				strangeness... I was truly worried.	
 0xd8c1	0x98	Cetus		I'm sorry, Uncle Antlia. I took	
 				Reticul around with me much	
 				longer than I thought I would.	
@@ -1215,7 +1214,7 @@ talk_Sculp_add
 				the lineup of vegetables for sale at	
 				the general store will increase.	
 0x1101d	0x07	System	#4C	If you find soil,	mp_0000 0x9d16
-				be sure to bring it here.	
+				be sure to bring it to him.	
 0x110b3	0x98	Sculp		Hmm, Nayuta...	mp_0000 0x9dac
 				It looks like you have	
 				some good soil again.	
@@ -1396,9 +1395,9 @@ talk_Hydol
 				days I visit here, too.	
 0x135dc	0x98	Hydol		Umm, for now, I'll pay a visit	
 				to the elder, and then...	
-0x13629	0x98	Hydol		...Hmm, but I'm in a bit of a bind...	
-				But I'm not sure if I can do anything	
-				about it today...	
+0x13629	0x98	Hydol		...Hmm, I'm in a bit of a bind...	
+				But I'm not sure if I can do	
+				anything about it today...	
 0x13697	0x6B	ALTO		Question	
 0x136c9	0x98	ALTO		(I wonder if something's	
 				 up with Dr. Hydrol.)	
@@ -1588,9 +1587,9 @@ talk_Victor
 				that the debris that rained down was not a	
 				weapon, but the product of another world.	
 0x15d11	0x98	Victor		Perhaps we could advise the	
-				Emperor through the prince...	
+				emperor through the prince...	
 0x15dac	0x98	Victor		Perhaps we could advise the	mp_0112 0x15d11
-				Emperor through the prince...	
+				emperor through the prince...	
 0x15e1f	0x98	Victor		Of course, I'll need to return	
 				to the Empire alone...	
 0x15eeb	0x98	Victor		I'm certain Professor Volans will find a	
@@ -1608,7 +1607,7 @@ talk_Victor
 0x16186	0x98	Victor		For now, I'm going to stay on this	mp_0112 0x160e6
 				island. There may be something	
 				that only I can do here.	
-0x161fe	0x98	Victor		Besides... My family will be	
+0x161fe	0x98	Victor		Besides... my family will be	
 				much safer on this island.	
 0x16267	0x98	Victor		Mmm... I never thought I'd	
 				get caught up in all this.	
@@ -1789,7 +1788,7 @@ talk_Eida_Creha
 				to return, you come back all wet.	
 0x186b4	0x98	Lyra		...Here, I'll lend you a towel,	
 				so dry yourself off properly, okay?	
-0x18711	0x98	Creha		'Towel'...?	
+0x18711	0x98	Creha		'Tao-el'...?	
 0x1873b	0x6B	Lyra		Sweatdrop	
 0x1876d	0x98	Lyra		F-Forget it, just hold still.	
 				(Oh, all right, if I have to...)	
@@ -1913,7 +1912,7 @@ QS_58_ask_reason
 0x1a2ae	0x98	Mensa		Oh, thank you.	
 0x1a2f5	0x98	Mensa		...Ophiuchus.	
 0x1a323	0x98	Ophiuchus		Yes... Then allow me to explain for	
-				the both of us incompenent hacks.	
+				the both of us incompetent hacks.	
 0x1a38e	0x06	Ophiuchus		ANI_TALK	
 0x1a3b9	0x98	Ophiuchus		We operate a property management	
 				company on the continent.	
@@ -1952,14 +1951,14 @@ QS_58_ask_reason
 				the request to you.	
 0x1a9e9	0xBC	ALTO		Question	
 0x1aa27	0x06	ALTO		ANI_GESTURE1	
-0x1aa51	0x98	ALTO	#6A	C-Catch him...?	
+0x1aa51	0x98	ALTO	#6A	'C-Catch him'...?	
 0x1aa7f	0x98	ALTO	#6A	Besides, in a village this small,	
 				I feel like it would be difficult	
 				not to run into him...	
 0x1aae4	0x06	Mensa		ANI_SIT1_DENY	
 0x1ab10	0x98	Mensa		...An understandable question.	
 0x1ab4d	0x06	Mensa		ANI_SIT1_GESTURE2	
-0x1ab7d	0x98	Mensa		But that's only if... the one	
+0x1ab7d	0x98	Mensa		But that's only if...the one	
 				we're looking for is a human.	
 0x1abe1	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1ac10	0x98	ALTO	#6A	Huh...!?	
@@ -1995,7 +1994,7 @@ QS_58_ask_reason
 0x1b17b	0x98	Mensa		I know it sounds	
 				strange, but...	
 0x1b1c8	0x98	Mensa		A will is a powerful thing.	
-0x1b210	0x98	Mensa		And...this was our client's final request.	
+0x1b210	0x98	Mensa		And... this was our client's final request.	
 				We're obligated to fulfill it at all costs.	
 0x1b28c	0x06	Mensa		ANI_SIT1_GESTURE2	
 0x1b2bc	0x98	Mensa		You should understand. You're	
@@ -2262,7 +2261,7 @@ QS_13_quest_end
 0x1ee4f	0x98	Gruz		Come, Nayu and Noi, my children.	
 				Take your seat at a table.	
 0x1eeae	0x98	Gruz		I'll cook it up immediately,	
-				and serve you to the first	
+				and serve to you the first	
 				commemorative prototype.	
 0x1ef16	0x06	NOI		ANI_JOY	
 0x1ef3a	0x98	NOI	#6A	Huh, really?	
@@ -2273,7 +2272,7 @@ QS_13_quest_end
 				..............................	
 0x1f020	0x06	ALTO		ANI_SURPRISE	
 0x1f05e	0x6B	ALTO		Unknown	
-0x1f088	0x98	ALTO	#6A#16S	...Wha, whaaaat!?	
+0x1f088	0x98	ALTO	#6A#16S	...Wh-Whaaaat!?	
 0x1f0c0	0x06	Gruz		ANI_GESTURE1	
 0x1f0f8	0x98	Gruz		What's the matter with	
 				you, yelling like that?	
@@ -2341,7 +2340,7 @@ QS_13_quest_end
 				I made plenty, so eat as	
 				much as you like!	
 0x201ed	0x40	UNDEF		And so, Nayuta and Noi ate Gruz's	
-				new dish to their heart's content.	
+				new dish to their hearts' content.	
 0x202d7	0x06	ALTO		ANI_WAIT	
 0x20346	0x06	NOI		ANI_WAIT	
 0x203b7	0x06	Gruz		ANI_WAIT0	
@@ -2351,7 +2350,7 @@ QS_13_quest_end
 0x20503	0x98	Gruz		But still, my girl Noi	
 				ate five servings...	
 0x2054f	0x98	Gruz		Of course, the gluttony of	
-				fairies puts people to shame!	
+				fairies puts humans to shame!	
 				Wahahahaha...	
 0x205b9	0x06	NOI		ANI_DEJECTED	
 0x205e2	0x98	NOI	#6A	Ooh, I knew I ate too much...	
@@ -2369,11 +2368,11 @@ QS_13_quest_end
 				ingredient to it, so there wasn't much of a twist...	
 				It should be sufficient for energy-boosting food.	
 0x20836	0x98	Gruz		Let's serve it to everyone,	
-				and together we'll ride out	
+				and together, we'll ride out	
 				this catastrophe. Wahaha!	
 0x20897	0x6B	ALTO		Sweatdrop	
 0x208c9	0x98	ALTO	#6A	(I-I see, so he usually adds	
-				 these secret ingredients...)	
+				 these 'secret ingredients'...)	
 0x20920	0x98	ALTO	#6A	(Anyway, I'm glad it	
 				 worked out this time.)	
 0x20971	0x98	Gruz		Oh, yes, I must thank my boy	
@@ -2402,7 +2401,7 @@ QS_21_get_seedling
 0x2129e	0x98	Antlia		Oh Nayuta. Can I help	
 				you with anything?	
 0x212e9	0x06	ALTO		ANI_GESTURE1	
-0x21313	0x98	ALTO	#6A	Mr. Antlia, I'd like to	
+0x21313	0x98	ALTO	#6A	Antlia, I'd like to	
 				ask you something...	
 0x2136c	0x40	UNDEF		Nayuta explained he was looking for a	
 				fruit to macerate in alcohol.	
@@ -2953,7 +2952,7 @@ QS_82_get_in_information
 				 Doesn't that sound kinda familiar?)	
 0x29468	0x98	NOI	#6A	(Yes, I believe I've seen them growing	
 				 somewhere with you very recently.)	
-0x294d1	0x98	NOI	#6A	(And, I... I feel like I've looked at	
+0x294d1	0x98	NOI	#6A	(And, I... I feel like I've watched over	
 				 those white flowers for a long time...)	
 0x29548	0x06	ALTO		ANI_GESTURE2	
 0x29572	0x98	ALTO		(We can't be sure if those flowers	

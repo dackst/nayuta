@@ -39,14 +39,14 @@ EV_7_S03_look_up_statue
 0x12a0	0x98	NOI	#6A	It SHOULD be a statue	
 				of a goddess of life...	
 0x1303	0x06	NOI		ANI_DEJECTED	
-0x132c	0x98	NOI	#6A	Maybe the Planetarium's	
+0x132c	0x98	NOI	#6A	Maybe the Planisphere's	
 				influence altered this	
 				entire area...	
 0x13b5	0x06	ALTO		ANI_GESTURE2	
 0x13df	0x98	ALTO	#6A	The entire area changed...?	
 				This massive place!?	
 0x1434	0x06	ALTO		ANI_THINK2	
-0x145c	0x98	ALTO	#6A	The Planetarium...	
+0x145c	0x98	ALTO	#6A	The Planisphere...	
 				It holds that	
 				much power...?	
 0x14bf	0x06	NOI		ANI_DENY	

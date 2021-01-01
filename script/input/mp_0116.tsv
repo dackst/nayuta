@@ -46,7 +46,7 @@ talk_Serpent
 0x13ab	0x98	Serpent		This year's Star Festival is coming up...	mp_0116 0x12a8
 				I hope we can rely on you for your help.	
 0x144d	0x98	Serpent		The look of that moon...	
-				No matter how much I see at it, I always get	
+				No matter how much I see it, I always get	
 				the feeling that the end times are near.	
 0x14c3	0x98	Serpent		But as elder of Remnant Island, I have	
 				a responsibility to ensure our future.	
@@ -130,7 +130,7 @@ talk_Serpent
 				I know of nothing else that can be	
 				done regarding Eartha's illness.	
 0x24a8	0x98	Serpent		I wish I knew of some folk	
-				remedy that could help, when	
+				remedy that could help when	
 				it comes to Hell Fever...	
 0x251d	0x98	Serpent		The only thing I'm still good for is	
 				the knowledge I've built up over the	
@@ -187,7 +187,7 @@ talk_Serpent
 				There are plans to start an unusual	
 				establishment on this island soon.	
 0x3020	0x6B	ALTO		Question	
-0x3052	0x98	ALTO		An unusual establishment...?	
+0x3052	0x98	ALTO		'An unusual establishment'...?	
 0x308a	0x98	Serpent		Yes, I was rather surprised myself	
 				when I first heard about it.	
 0x30e0	0x98	Serpent		It's located down near the harbor.	
@@ -281,13 +281,13 @@ talk_Canis
 0x42a5	0x98	Canis		I'm sure it's because your Auntie is frail.	
 0x431c	0x98	Canis		It's almost time for the	
 				annual Star Festival.	
-0x4380	0x98	Canis		Aah, I love festivals, so I was	
+0x4380	0x98	Canis		*sigh*, I love festivals, so I was	
 				looking forward to it, but...	
 0x43e0	0x98	Canis		Under these circumstances, we	
 				just might have to cancel it.	
 0x4461	0x98	Canis		We can't really afford to hold	
 				a festival right now, can we?	
-0x44b1	0x98	Canis		Aah, what a pity. This year's	
+0x44b1	0x98	Canis		*sigh*, what a pity. This year's	
 				Star Festival is canceled.	
 0x4543	0x98	Canis		I couldn't protect Creha...	
 0x4580	0x98	Canis		Waaaaaah... I'm a failure	
@@ -447,8 +447,8 @@ quest_Serpent
 0x651a	0x98	Serpent		If you carefully search the ruins by	
 				the beach, you should be able to gather	
 				some crystallized Ruins Rock Salt.	
-0x65a6	0x98	Serpent		Now, about the local cuisine that	
-				used to be popular on the island...	
+0x65a6	0x98	Serpent		Now, about the local dish that used	
+				to be popular on the island...	
 				Hmm, whose specialty was that again?	
 0x663e	0x98	Serpent		Another specialty of our village are	
 				the crystals of Ruins Rock Salt that	
@@ -641,7 +641,7 @@ QS_82_undertake
 0x9040	0x98	NOI	#6A	We'll help you with	
 				whatever we can.	
 0x9085	0x98	NOI	#6A	Umm, so... What is	
-				the 'Star Festival?'	
+				the 'Star Festival'?	
 0x90ea	0x98	ALTO		It is a festival held on	
 				Remnant Island every year.	
 0x9152	0x98	ALTO		It's named because of the clear	

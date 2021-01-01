@@ -192,7 +192,7 @@ tuto_Aulbath
 				battle, make sure to be prepared.	
 talk_Michy					
 QS_58_find_Michy1					
-0x321a	0x3F	Name		Mysterious Creature	
+0x321a	0x3F	Name		Strange Animal	
 0x3233	0x98	Michy		Mishishi.	
 0x325d	0x6B	ALTO		Surprise	
 0x3297	0x06	ALTO		ANI_SURPRISE_WEAK	

@@ -74,7 +74,7 @@ AL_shop
 0x333e	0x07	System	#3C	On Infinity difficulty, enemy levels	
 				will now scale without limit.	
 0x33b6	0x07	System	#4C	※ 'Infinity Enemy Restore' has been added.	
-				If used, enemy levels will return to scaling
+				If used, enemy levels will return to scaling	
 				with a fixed limit.	
 0x3528	0x07	System	#3C	On Infinity difficulty, enemy levels	
 				will scale to a fixed limit.	
@@ -316,7 +316,7 @@ EV_2_S13_use_astrolabe
 0xa4ae	0x98	NOI	#6A	I'm sure Geo would help us!	
 0xa4fe	0x06	ALTO		ANI_NOD	
 0xa523	0x98	ALTO		Well, let's head to the	
-				teleporter device for now.	
+				warp device for now.	
 0xa579	0x98	ALTO		I guess we'll have to decide	
 				which one to do first.	
 0xa658	0x07	System	#3C	The Abyss Continent Rieseweld	
@@ -454,7 +454,7 @@ EV_3_S07_use_astrolabe
 				things important to us!	
 0xe874	0x98	NOI		Yeah!	mp_0001 0x1174e
 0xe8a0	0x98	NOI	#6A	Then let the search for	
-				Yupina Grass, Cygna and	
+				Yupina Grass, Cygna, and	
 				Zext begin!	
 0xe942	0x98	Creha		I, uh, umm...	
 0xe9b4	0x06	ALTO		ANI_GESTURE2	
@@ -472,9 +472,9 @@ EV_3_S07_use_astrolabe
 				 Terra by instinct...)	
 0xebe8	0x98	ALTO		(Zext... Did he expect	
 				 this would happen?)	
-0xec56	0x98	ALTO		(In that case, then was	
-				 his goal to wake up	
-				 Creha...?)	
+0xec56	0x98	ALTO		(In that case, then	
+				 was his goal to	
+				 wake up Creha...?)	
 0xecbf	0xBC	NOI		Exclamation	
 0xecfc	0x98	NOI	#6A#16S	...There's a reaction!	
 0xedc3	0x98	NOI	#6A	First, the Yupina Grass...	
@@ -675,9 +675,9 @@ EV_8_S08_emergency_al
 0x147bd	0x3F	Name		Voice	mp_0000d 0x4c24
 0x147ca	0x41	None	#0W#995c#1E	After Terra drifted away	
 				from the planet a year ago...#0E	
-0x14863	0x41	None	#0W#995c#1E	The two Mitos	
-				immediately set about repairing	
-				the Astrolabe.#0E	
+0x14863	0x41	None	#0W#995c#1E	The two Mitos immediately	
+				set about repairing the	
+				Astrolabe.#0E	
 0x14930	0x41	None	#0W#995c#1E	The extensive repairs took some time,	
 				but they made steady progress by	
 				using astral power.#0E	
@@ -693,9 +693,9 @@ EV_8_S08_emergency_al
 0x152d2	0x41	None	#0W#995c#1E	In order to stop the abnormalities,	
 				the two used the technology of	
 				the Mitos.#0E	
-0x15377	0x41	None	#0W#995c#1E	A subspace exists inside the Astrolabe,	
-				formed by the vast amount of	
-				astral power contained within...#0E	
+0x15377	0x41	None	#0W#995c#1E	A pocket dimension exists inside the Astrolabe,	
+				formed by the vast amount of astral power	
+				contained within...#0E	
 0x15422	0x41	None	#0W#995c#1E	In that 'Inner World'	
 				they placed their own souls.#0E	
 0x154b0	0x41	None	#0W#995c#1E	They did so in an attempt to	
@@ -717,7 +717,7 @@ EV_8_S08_emergency_al
 				completely disappeared, but...#0E	
 0x15f59	0x41	None	#0W#995c#1E	No matter her fate, an entity with	
 				the same abilities as before manifested.#0E	
-0x1600a	0x41	None	#0W#995c#1E	This is the story of the unusual	
+0x1600a	0x41	None	#0W#995c#1E	That is the story of the unusual	
 				events happening on Terra right now...#0E	
 EV_8_S10_in_astrolabe					
 0x16272	0x98	ALTO		(I need to go into the	
@@ -864,7 +864,7 @@ EV_8_S17_happy_end
 0x1a078	0x98	Signa2		...I see.	mp_0004c 0x4434
 0x1a0a3	0x98	Signa2		Besides us Mitos, the only other	
 				entity capable of doing this is...	
-0x1a151	0x98	Signa2		Planetarium... Is that you?	
+0x1a151	0x98	Signa2		Planisphere... Is that you?	
 0x1a1d8	0x98	ALTO		Huh!?	
 0x1a514	0x6B	ALTO		Exclamation	
 0x1a546	0x6B	NOI		Exclamation	
@@ -931,7 +931,7 @@ EV_8_S17_happy_end
 0x1b4cf	0x98	Zext	#1W	To be more precise, you were	
 				merged with the new Noi.	
 0x1b534	0x98	Zext	#1W	You have memories of going to the	
-				surface this time, do you not?	
+				surface recently, do you not?	
 0x1b59b	0x06	NOI		ANI_GESTURE1	
 0x1b5e7	0x98	NOI	#1W#6A	Umm... Now that you	
 				mention it, I do.	
@@ -952,7 +952,7 @@ EV_8_S17_happy_end
 				That's amazing!	
 0x1b9ed	0x06	Signa2		ANI_NOD	
 0x1ba22	0x98	Signa2	#1W#6A	Well, as expected from	
-				the Planetarium...	
+				the Planisphere...	
 0x1bb83	0x98	NOI	#2W#6A	...Thank you so much for this...	
 0x1bc2a	0x06	NOI		ANI_WIPE_TEAR	
 0x1bc54	0x98	NOI	#2W#6A	...*sniff*...	
@@ -971,7 +971,7 @@ EV_8_S17_happy_end
 0x1c131	0x98	Signa2	#1W#6A	Haha... Never thought we'd be able to	
 				see each other again so soon, huh?	
 0x1c375	0x06	NOI		ANI_WIPE_TEAR	
-0x1c3ad	0x98	Signa2	#1W#6A	Planetarium, I don't think	
+0x1c3ad	0x98	Signa2	#1W#6A	Planisphere, I don't think	
 				I can thank you enough.	
 0x1c41a	0x98	Zext	#1W	...As I previously said,	
 				I was simply trying to	
@@ -1056,11 +1056,11 @@ EV_8_S17_happy_end
 0x1db72	0x98	Zext	#2W	Farewell, Mitos. And...	
 				child of the surface.	
 0x1dcc9	0x06	NOI		ANI_NOD	
-0x1dcfb	0x98	NOI	#2W#6A	Goodbye, Planetarium!	
+0x1dcfb	0x98	NOI	#2W#6A	Goodbye, Planisphere!	
 0x1dd3d	0x06	Creha2		ANI_GESTURE2	
 0x1dd77	0x98	Creha2	#2W	Please take care of all	
 				the life on this world.	
-0x1de28	0x98	Signa2	#2W	...Well, then.	
+0x1de28	0x98	Signa2	#2W	...Well, later.	
 0x1deb0	0x98	Signa2	#1W	Ha, thanks for showing us	
 				our dad for one last time.	
 0x1df72	0x98	ALTO	#1W	Thank you for all your help...	

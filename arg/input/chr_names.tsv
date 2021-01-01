@@ -203,7 +203,7 @@ mp_0004	0x275	chr name	mp_0004 0x1c7
 mp_0004	0x320	chr name	Nora
 mp_0004	0x3c2	chr name	mp_0000d 0xecb
 mp_0004	0x467	chr name	mp_0000 0x1708
-mp_0004	0x50d	chr name	Youth with Rucksack
+mp_0004	0x50d	chr name	Youth in Travel Gear
 mp_0004	0x5b9	chr name	Spirited Girl
 mp_0004	0x762	chr name	ポスト
 mp_0004	0x807	chr name	はしご上る
@@ -276,7 +276,7 @@ mp_0100	0xab0	chr name	mp_0000 0x1a26
 mp_0100	0xb45	chr name	mp_0000 0x1708
 mp_0100	0xbda	chr name	mp_0000 0x1a26
 mp_0100	0xc72	chr name	mp_0000 0x1708
-mp_0100	0xd07	chr name	Planetarium
+mp_0100	0xd07	chr name	Planisphere
 mp_0100	0xda6	chr name	オーブメント
 mp_0100	0xe36	chr name	mp_0100 0xda6
 mp_0100	0xec6	chr name	mp_0100 0xda6
@@ -375,7 +375,7 @@ mp_0110	0x1589	chr name	Asa_b
 mp_0111	0x206	chr name	エイダ
 mp_0111	0x2a4	chr name	mp_0000 0x1846
 mp_0111	0x353	chr name	mp_0000c 0x5be
-mp_0111	0x40a	chr name	Youth with Rucksack
+mp_0111	0x40a	chr name	Youth in Travel Gear
 mp_0111	0x4bc	chr name	mp_0004 0x5b9
 mp_0111	0x56e	chr name	Eida
 mp_0111	0x5a1	chr name	mp_0000 0x1a26

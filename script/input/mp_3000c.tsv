@@ -69,7 +69,7 @@ QS54_talk_SpiritC
 				tell Nemeas!	
 0x1820	0x06	ALTO		ANI_NOD	
 0x1845	0x98	ALTO		Yeah!	mp_0001 0x1174e
-0x18b0	0x98	NOI	#6A	Yeah... but there should	mp_1002b 0x242e
+0x18b0	0x98	NOI	#6A	Yeah... But there should	mp_1002b 0x242e
 				be three missing nymphs.	
 0x18ff	0x98	NOI	#6A	Nayuta, let's try	mp_1002b 0x24a6
 				looking for them.	

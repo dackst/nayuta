@@ -16,7 +16,7 @@ lp_post
 				in the corner of the screen.	
 0x2113	0x98	ALTO		Huh...? Looks like there's a	
 				strange letter inside here.	
-0x2165	0x98	ALTO		It seems to be from a warden...	
+0x2165	0x98	ALTO		It seems to be from an assistant of a warden...	
 0x21c4	0x98	ALTO		We should go to the temple and at least	
 				listen to what they have to say.	
 lp_ladder_u					
@@ -92,7 +92,7 @@ subev_get_dog2
 0x3ed5	0x98	Asa		But now, she needs a name.	
 0x3f16	0x98	Asa		What we should call her...?	
 0x3f6a	0x06	ALTO		ANI_THINK	
-0x3f91	0x98	ALTO		Hmm, how about... Nora?	
+0x3f91	0x98	ALTO		Hmm, how about...Nora?	
 				Let's go with Nora.	
 0x4007	0x06	ALTO		ANI_WAIT	
 0x4042	0x06	Asa		ANI_NOD	
@@ -102,7 +102,7 @@ subev_get_dog2
 0x4112	0x98	Dog		Ruff, ruff! *whine*	
 subev_return_island1					
 0x47de	0x06	ALTO		ANI_LOOK_AROUND	
-0x480b	0x98	ALTO		Looks like... we're back safe?	
+0x480b	0x98	ALTO		Looks like...we're back safe?	
 0x484c	0x06	Signa		ANI_SCRATCH_HEAD	
 0x487b	0x98	Signa		Yeah, that's a relief, huh?	
 0x48af	0x98	Signa		Noi said she 'forgot to disconnect the transfer gate'	
@@ -158,8 +158,8 @@ subev_return_island1
 0x50ca	0x98	ALTO		Hmm, what to say...	
 0x5114	0x06	Signa		ANI_SCRATCH_HEAD	
 0x5143	0x98	Signa		For now, we should just keep	
-				keep it casual so she doesn't	
-				get suspicious...	
+				it casual so she doesn't get	
+				suspicious...	
 0x51ad	0x98	Signa		Oh yeah, Nayuta. What	
 				about our work for	
 				the Handyman Shop?	
@@ -179,7 +179,7 @@ subev_return_island1
 0x5402	0x98	Signa		Haha, that's a bit greedy, but	
 				it's a worthwhile opportunity.	
 0x546f	0x06	Signa		ANI_WAIT4	
-0x5497	0x98	Signa		Well, I'll go back home for now.	
+0x5497	0x98	Signa		Well, I'll go back to your place for now.	
 				I've got a few more requests to do.	
 0x5500	0x98	Signa		Don't worry, when you want to go	
 				to Terra, I'll be right behind you.	
@@ -323,7 +323,7 @@ QS_11_third_hint
 				you should search the	
 				knight's backside.	
 0x80be	0x06	ALTO		ANI_THINK2	
-0x80e6	0x98	ALTO		'The hole peeping at the sky...'	
+0x80e6	0x98	ALTO		'The hole peeping at the sky'...	
 				It sure sounds like my astronomical	
 				telescope, doesn't it?	
 0x815a	0x98	ALTO		The note said 'look through' it...	
@@ -655,7 +655,7 @@ EV_0_S17_noi_warp
 0x102c5	0x98	ALTO	#0W	...Did you see that, Cygna...?	
 0x1030c	0x98	Signa	#6A	...Yeah, she disappeared.	
 0x10349	0x06	Signa		ANI_WAIT3	
-0x10371	0x98	Signa	#6A	Did she just say... it connects to	
+0x10371	0x98	Signa	#6A	Did she just say...it connects to	
 				the world where she's from...?	
 0x103d6	0x98	Signa	#6A	I don't know, there's just too	
 				much going on one after another.	
@@ -852,9 +852,9 @@ EV_2_S08_go_tera
 				end up in this world again?	
 0x14aea	0x06	NOI		ANI_DULL	
 0x14b0f	0x98	NOI		Umm, well, I guess...	
-0x14b5a	0x98	NOI		I finished the thing I	
-				wanted to try, so went back	
-				to the garden to get you.	
+0x14b5a	0x98	NOI		I finished the thing I wanted	
+				to try, so I went back to the	
+				garden to get you.	
 0x14be4	0x98	NOI		But then I found you	
 				disappeared, so I...	
 0x14c33	0x06	ALTO		ANI_SCRATCH_HEAD	

@@ -162,9 +162,8 @@ talk_Crux
 0x4964	0x98	Crux		I-It's c-cold...	
 				Or should I say,	
 				I'm cold...	
-0x49ae	0x98	Crux		There's no way this should	
-				be happening in the middle	
-				of the Ciencia Sea...	
+0x49ae	0x98	Crux		There's no way this should be happening	
+				in the middle of the Ciencia Sea...	
 				...Brr! Seriously, what's going on!?	
 0x4a4c	0x98	Crux		The ship is leaving soon, so we've	
 				got to load up the passengers.	
@@ -344,8 +343,8 @@ talk_Axe
 				this all the time.	
 0x6d40	0x98	ALTO		Yeah, I know! ♪	
 0x6d6e	0x98	Axe		Oh man... I can't convince you of	
-				anything I have to say you've got	
-				that twinkle in your eyes.	
+				anything I have to say when you've	
+				got that twinkle in your eyes.	
 0x6e19	0x98	Axe		Though I WAS a little scared back there,	
 				I still gotta to get the job done.	
 0x6e89	0x98	Axe		Now then, it's time to	
@@ -370,7 +369,7 @@ talk_Carina
 				children again.	
 0x7289	0x98	Carina		We WERE out catching fish...	
 				The weather became strange, so	
-				he returned earlier than usual.	
+				we returned earlier than usual.	
 0x730a	0x98	Carina		I wonder what's happening...	
 				I've never seen weather	
 				like this before...	
@@ -414,7 +413,7 @@ talk_Carina
 0x7b54	0x98	Carina		Hehe, but I'm glad he came	
 				home in one piece! ㈱	
 				Family safety is first.	
-0x7c13	0x98	Carina		Look Cory, your father's home!	
+0x7c13	0x98	Carina		Look Cory, Daddy's home!	
 0x7c54	0x98	baby		Gaga.	
 0x7cbd	0x98	Carina		Heh, Nayuta.	
 				Have you finished	
@@ -495,7 +494,7 @@ talk_Bell
 0x8b7e	0x98	Bell		Hey, Cory, what's that stuff	
 				drying out in front of our house?	
 0x8bd7	0x98	Bell		Too bad, time's up!	
-				The answer was 'fish!!'	
+				The answer was 'fish'!!	
 0x8c1f	0x98	baby		Abubu...	
 talk_Collie					
 0x8ca2	0x98	Collie		Aah...	
@@ -591,8 +590,8 @@ talk_Ursaminor_Reticul
 				What are you doing here?	
 0x9ffb	0x3F	Name		Spirited Girl	
 0xa010	0x98	Reticul		You're the one who's surprised me.	
-				Why are you here...?	
-0xa060	0x98	Reticul		Oh right, Father has done business in	
+				Why are YOU here...?	
+0xa060	0x98	Reticul		Oh right, Papa has done business in	
 				this area for a long time, hasn't he?	
 				...Sorry, I forgot.	
 0xa0db	0x3F	Name		Youth with Rucksack	
@@ -624,10 +623,10 @@ talk_Ursaminor_Reticul2
 talk_Vavo					
 0xa4f0	0x98	Vavo		There is a legend that on the	
 				other side of the End of the	
-				World is a never-ending 'Hell.'	
+				World is a bottomless 'Hell.'	
 0xa55f	0x98	Vavo		Since it mainly only affects the northern reaches	
-				of the continent, which is close to the End, the	
-				disease was named 'Hell Fever,' but...	
+				of the continent close to the End, the disease	
+				was named 'Hell Fever,' but...	
 0xa5f0	0x98	Vavo		...As a matter of fact, there have been	
 				recent reports that the 'End' has been	
 				gradually expanding towards this island...	
@@ -652,7 +651,7 @@ talk_Vavo
 				him from time to time to	
 				further your own studies.	
 0xaa1e	0x98	Vavo		Professor Volans' ideas are strange,	
-				strange, but very thought-provoking.	
+				but very thought-provoking.	
 0xaa6c	0x98	Vavo		You might want to talk with	mp_0003 0xa99c
 				him from time to time to	
 				further your own studies.	
@@ -676,7 +675,7 @@ talk_Creha
 0xad80	0x98	ALTO		Anyway, just stay healthy,	
 				and don't overdo it.	
 0xadd1	0x98	ALTO		If you collapsed, Eartha,	
-				Noi and I would all be	
+				Noi, and I would all be	
 				worried about you...	
 0xae34	0x98	Creha		...Understood.	
 				I'll be careful.	
@@ -987,7 +986,7 @@ QS_41_fortunetelling
 0xf472	0x98	ALTO	#6A	U-Understood. Uh, thank you	
 				for the information.	
 quest_Axe					
-0xf606	0x98	Axe		Oh, about the Elder's request	
+0xf606	0x98	Axe		Oh, about the elder's request	
 				for an offering from before.	
 0xf666	0x98	Axe		We already have it ready for him.	
 				Just head on over to my place	
@@ -1381,9 +1380,9 @@ EV_4_S09_creha_scene_3rd
 0x16be1	0x98	Lyra	#2W#6A	...But even so,	
 				I'm curious.	
 0x16c36	0x06	Lyra		ANI_WAIT3	
-0x16c8a	0x98	Lyra	#1W#6A	You're somehow... different from other girls.	
+0x16c8a	0x98	Lyra	#1W#6A	You're somehow...different from other girls.	
 0x16ce0	0x06	Lyra		ANI_GESTURE2	
-0x16d18	0x98	Lyra	#1W#6A	It's like you're... broken, somehow...	
+0x16d18	0x98	Lyra	#1W#6A	It's like you're...broken, somehow...	
 				That's just how it feels to me.	
 0x16ddf	0x98	Creha	#2W	.......	mp_0001 0xc917
 0x16e7f	0x06	Creha		ANI_NOD	

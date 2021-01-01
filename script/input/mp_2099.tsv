@@ -76,7 +76,7 @@ talk_Erislet
 				need me. Keep up the good	
 				work going forward!	
 0x2749	0x98	Erislet		I've only heard about	
-				Zext secondhandedly.	
+				Zext secondhanded.	
 0x2791	0x98	Erislet		Apparently, he's Lady Creha's father.	
 				But... what the hell happened to him?	
 0x27f1	0x98	Erislet		...In any case, he's clearly wreaking	
@@ -444,7 +444,7 @@ quest_SpiritD
 0x78d4	0x06	SpiritD		ANI_NOD	
 0x78fc	0x98	SpiritD		.......	mp_1099 0xaafd
 0x7926	0x06	ALTO		ANI_THINK	
-0x794d	0x98	ALTO		Because of... the abnormalities...	mp_1099 0xab4e
+0x794d	0x98	ALTO		The abnormalities...	mp_1099 0xab4e
 0x79a1	0x06	ALTO		ANI_NOD	
 0x79c6	0x98	ALTO		These little ones must	mp_1099 0xabba
 				really be in a tough spot.	
@@ -649,7 +649,7 @@ QS_83_quest_end
 0xc20b	0x98	Erislet		Hehe, it's been a year.	mp_1099 0xe963
 				How have you two been?	
 0xc263	0x06	NOI		ANI_COMPLAIN	
-0xc28c	0x98	NOI	#6A	Y-You guys are... the wardens	mp_1099 0xe9e4
+0xc28c	0x98	NOI	#6A	Y-You guys are...the wardens	mp_1099 0xe9e4
 				of the continents!?	
 0xc2df	0x98	NOI	#6A	The wardens were supposed	mp_1099 0xea37
 				to have disappeared during	
@@ -896,7 +896,7 @@ SB_2_S23_exit_NOI
 SB_2_S23_se_ev_0064					
 EV_2_S23_boss_battle					
 0x124a4	0x06	ALTO		ANI_WAIT4	
-0x1255b	0x98	ALTO		Looks like... we're at the summit.	
+0x1255b	0x98	ALTO		Looks like...we're at the summit.	
 0x125ac	0x06	NOI		ANI_NOD	
 0x1265c	0x98	NOI		Yeah... but in the end, we 	
 				never ran into anybody...	
@@ -951,7 +951,7 @@ EV_2_S23_boss_battle
 				You met Cygna!?	
 0x143ac	0x06	ALTO		ANI_COMPLAIN	
 0x143f4	0x98	ALTO		Tell me! Where is he now!?	
-0x14474	0x98	Zext	#6A	...'Cygna?' I know no such	
+0x14474	0x98	Zext	#6A	...'Cygna'? I know no such	
 				person with that name.	
 0x144c1	0x98	Zext	#6A	Even if I did, I would have	
 				no obligation to tell you.	

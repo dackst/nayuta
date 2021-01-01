@@ -3,7 +3,7 @@ init
 0x220	0x06	gate_a		ANI_PATA2	
 0x259	0x06	st		ANI_PATA3	
 lp_portal					
-0x2a6	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
+0x2a6	0xC9	YesNoBox		Use the warp device?	mp_0101 0x2651
 0x446	0x06	st		ANI_PATA1	
 LP_Monsyo					
 0x591	0x40	UNDEF		A strange crest is engraved on the stone monument.	mp_0101 0x328b
@@ -50,7 +50,7 @@ EV_6_S18_search_key
 				Star Capital Lexendria.	
 0x1f04	0x40	NOI		A residential district the	
 				Mitos created for the humans.	
-0x1f55	0x40	ALTO		Star Capital... Lexendria...	
+0x1f55	0x40	ALTO		Star Capital...Lexendria...	
 0x1f98	0x40	NOI		It's supposedly named after	
 				an ancient continent.	
 0x1fe8	0x40	NOI		There are four 'Pillars' here	
@@ -74,7 +74,7 @@ EV_6_S18_search_key
 0x24f0	0x98	ALTO		Wh-What was that rumble just now!?	
 0x2569	0x98	NOI	#6A	Some of the things most important	
 				to Terra are stored in the	
-				lower-most stratum.	
+				lowermost stratum.	
 0x25d9	0x06	NOI		ANI_GESTURE2	
 0x2602	0x98	NOI	#6A	A great body of crystallized astral	
 				power to be used for the Recreation...	

@@ -256,7 +256,7 @@ talk_Bootie
 0x3938	0x98	Bootie		I think I'll take a break from	
 				collecting star shards for a while.	
 0x39c8	0x98	Bootie		Hey, Nayuta, what's up with you...?	
-0x3a06	0x98	Bootie		...Y-You... did good	
+0x3a06	0x98	Bootie		...Y-You...did good	
 				a while back there.	
 0x3a46	0x98	Bootie		Well, I'll give you credit	
 				where it's due. Rejoice.	
@@ -278,7 +278,7 @@ talk_Bootie
 0x3d41	0x98	ALTO		...Haha, thanks, Boote.	
 				I'll just accept the gesture.	
 0x3dc0	0x98	Bootie		Don't be such a prick!	
-				It's just... my collection	
+				It's just...my collection	
 				grew too big...	
 0x3e1f	0x98	Bootie		It's not like I want to	
 				cheer you up or anything.	
@@ -391,7 +391,7 @@ talk_Sculp_add
 				the lineup of vegetables for sale at	
 				the general store will increase.	
 0x53b5	0x07	System	#4C	If you find soil,	mp_0000 0x9d16
-				be sure to bring it here.	
+				be sure to bring it to him.	
 0x544b	0x98	Sculp		Hmm, Nayuta...	mp_0000 0x9dac
 				It looks like you have	
 				some good soil again.	
@@ -488,7 +488,7 @@ QS_25_ask_destination
 0x6b73	0x06	ALTO		ANI_GESTURE1	
 0x6b9d	0x98	ALTO		Umm, well, I guess...	mp_0004 0x14b0f
 0x6bcc	0x40	UNDEF		Nayuta told Canie that Dr. Hydrol wanted	mp_0114 0x6551
-				him to come in for a medical exam.	
+				Boote to come in for a medical exam.	
 0x6c2f	0x06	Keny		ANI_WAIT4	
 0x6c56	0x98	Keny		Oh, I see.	mp_0114 0x65b4
 0x6c85	0x98	Keny		In that case, then maybe...	

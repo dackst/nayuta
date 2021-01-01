@@ -101,8 +101,8 @@ QS_44_quest_start
 0x454a	0x98	Algorl		I have an important favor	
 				to ask of you, my friend.	
 0x45a4	0x98	Algorl		How about it...?	
-				Will you... help me?	
-0x45ee	0x98	Algorl		...Noi... and Nayuta?	
+				Will you...help me?	
+0x45ee	0x98	Algorl		...Noi...and Nayuta?	
 0x4629	0x98	Algorl		I have an important	
 				favor to ask of you...	
 0x467c	0x06	ALTO		ANI_SURPRISE_WEAK	
@@ -448,7 +448,7 @@ quest_SpiritD
 0x9645	0x06	SpiritD		ANI_NOD	
 0x966d	0x98	SpiritD		.......	mp_1099 0xaafd
 0x9697	0x06	ALTO		ANI_THINK	
-0x96be	0x98	ALTO		Because of... the abnormalities...	mp_1099 0xab4e
+0x96be	0x98	ALTO		The abnormalities...	mp_1099 0xab4e
 0x9705	0x06	ALTO		ANI_NOD	
 0x972a	0x98	ALTO		These little ones must	mp_1099 0xabba
 				really be in a tough spot.	
@@ -525,7 +525,7 @@ quest_SpiritD
 0xa400	0x98	SpiritD		...!	mp_1099 0xb874
 0xa490	0xC1	System		received.	mp_0000 0x12596
 0xa509	0x06	ALTO		ANI_SURPRISE_WEAK	
-0xa538	0x98	ALTO		Oh... Is this... an advance payment?	
+0xa538	0x98	ALTO		Oh... Is this...an advance payment?	
 0xa5a7	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xa5d5	0x98	ALTO		Ahaha, you're pretty organized...	
 0xa60c	0x06	NOI		ANI_GUTSPOSE	
@@ -653,7 +653,7 @@ QS_83_quest_end
 0xdedb	0x98	Erislet		Hehe, it's been a year.	mp_1099 0xe963
 				How have you two been?	
 0xdf33	0x06	NOI		ANI_COMPLAIN	
-0xdf5c	0x98	NOI	#6A	Y-You guys are... the wardens	mp_1099 0xe9e4
+0xdf5c	0x98	NOI	#6A	Y-You guys are...the wardens	mp_1099 0xe9e4
 				of the continents!?	
 0xdfaf	0x98	NOI	#6A	The wardens were supposed	mp_1099 0xea37
 				to have disappeared during	

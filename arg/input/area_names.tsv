@@ -134,11 +134,11 @@ mp_7020	0x53	area name	 Shining Shard Area/First Half
 mp_7021	0x53	area name	 Shining Shard Area/Second Half
 mp_7098	0x53	area name	 Planetary Core Temple
 mp_7099	0x53	area name	 Planetary Core Temple/Subspace
-mp_7099a	0x55	area name	 Planetarium/Interior
+mp_7099a	0x55	area name	 Planisphere/Interior
 mp_7099b	0x55	area name	mp_7099a 0x55
 mp_7099c	0x55	area name	mp_7099a 0x55
 mp_7100	0x53	area name	 Birthing Chamber
-mp_7200	0x53	area name	 Planetarium Core
+mp_7200	0x53	area name	 Planisphere Core
 mp_8098	0x53	area name	 Observatory/Interior
 mp_8099	0x53	area name	mp_8098 0x53
 mp_8100	0x53	area name	 Noi's Spirit World

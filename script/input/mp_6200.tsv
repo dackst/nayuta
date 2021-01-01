@@ -228,7 +228,7 @@ EV_4_S34_see_flashback
 0x66a5	0x98	ALTO	#200x#70y	I WILL protect you.	
 0x671e	0x98	Creha	#1W#6A#300x#220y	Thank you...	mp_0100a 0xf684
 0x6763	0x06	Creha		ANI_HEADACHE_SIT_HOLD_HAND	
-0x6885	0x3F	Name		???	mp_0101 0xda14
+0x6885	0x3F	Name		？？？	mp_0101 0xda14
 0x6890	0x40	ALTO	#0W	This way, Creha!	mp_0101c 0x941
 0x68c8	0x40	ALTO	#0W	Hurry... We have to get out of here!!	
 0x69c7	0x98	ALTO	#0W#200x#70y	...Creha?	
@@ -241,4 +241,4 @@ EV_4_S34_see_flashback
 0x6c1d	0x06	Creha		ANI_NOD	
 0x6c43	0x98	Creha	#1W#6A	...Okay.	mp_0004c 0x10d2
 0x6ca1	0x98	Creha	#0W#6A	(That just now...	
-				 Has this... happened before...?)	
+				 Has this...happened before...?)	

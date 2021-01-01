@@ -28,7 +28,7 @@ waterwheel02_miss_1
 0x1a0d	0x98	PLAYER2		Huh? Nothing's happening?	
 0x1a4b	0x98	PLAYER1		But there's definitely	
 				a device here...	
-0x1b4e	0x98	PLAYER1		Maybe... the orientation	
+0x1b4e	0x98	PLAYER1		Maybe...the orientation	
 				of that statue has	
 				something to do with it?	
 battle01					
@@ -57,7 +57,7 @@ waterwheel03_miss
 0x3536	0x98	PLAYER2		Huh? Nothing's happening?	mp_2010 0x1a0d
 0x3574	0x98	PLAYER1		But there's definitely	mp_2010 0x1a4b
 				a device here...	
-0x3799	0x98	PLAYER1		Maybe... the orientation	mp_2010 0x1b4e
+0x3799	0x98	PLAYER1		Maybe...the orientation	mp_2010 0x1b4e
 				of that statue has	
 				something to do with it?	
 jamp_dai02					

@@ -630,13 +630,13 @@ QS_35_quest_start
 				 before somewhere...)	
 0xb96a	0x98	Ursaminor		...I found it in front of the inn.	
 0xb9d4	0x06	Ursaminor		ANI_WAIT2	
-0xba00	0x98	Ursaminor		I think... it belonged to my	
+0xba00	0x98	Ursaminor		I think...it belonged to my	
 				sister who ran away home.	
 0xba44	0x6B	ALTO		Exclamation	
 0xba76	0x06	ALTO		ANI_SURPRISE_WEAK	
 0xbaa5	0x98	ALTO	#6A	Y-Your runaway sister!?	
 0xbaf0	0x06	ALTO		ANI_COMPLAIN	
-0xbb1a	0x98	ALTO	#6A	That means... she could	
+0xbb1a	0x98	ALTO	#6A	That means...she could	
 				be on Remnant Island!?	
 0xbb86	0x06	Ursaminor		ANI_NOD	
 0xbbb0	0x98	Ursaminor		...Possibly.	
@@ -712,7 +712,7 @@ QS_35_undertake
 0xc9b9	0x98	ALTO	#6A#16S	Eeeeeeeeh!?	
 0xc9eb	0x06	ALTO		ANI_GESTURE1	
 0xca15	0x98	ALTO	#6A	R-Reticul...	
-				Is she that... adventurer!?	
+				Is she that...adventurer!?	
 0xca64	0x6B	Ursaminor		Exclamation	
 0xca9b	0x06	Ursaminor		ANI_ANGRYTALK	
 0xcacb	0x98	Ursaminor		...What do you mean?	
@@ -746,7 +746,7 @@ QS_35_undertake
 				Can you give this to her?	
 0xcff2	0x06	Ursaminor		ANI_HANDOVER	
 0xd029	0xC1	System		obtained.	mp_0000 0x7558
-0xd107	0x98	ALTO	#6A	It's a... letter?	
+0xd107	0x98	ALTO	#6A	It's a...letter?	
 0xd13d	0x06	Ursaminor		ANI_NOD	
 0xd167	0x98	Ursaminor		...I at least want her to know	
 				that Father and I are well.	
@@ -1146,7 +1146,7 @@ EV_8_S02_meet_lyra
 				always by my side.	
 0x14dba	0x06	ALTO		ANI_GESTURE1	
 0x14de4	0x98	ALTO	#6A	Since now is a good	
-				opportunity, I want	
+				opportunity, I want to	
 				say thank you.	
 0x14e48	0x06	Lyra		ANI_NOD	
 0x14e8b	0x98	Lyra	#1W	Y-Yeah...	
@@ -1192,7 +1192,7 @@ EV_4_S13_meet_creha
 0x16236	0x98	ALTO	#6A	Phew, thank goodness...	
 				Seems like nothing happened.	
 0x1628e	0x06	ALTO		ANI_WAIT	
-0x162b4	0x98	Creha		Nothing...?	
+0x162b4	0x98	Creha		'Nothing'...?	
 0x162e8	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x16316	0x98	ALTO	#6A	No, there was just something	
 				I was a little worried about.	
@@ -1251,7 +1251,7 @@ EV_4_S13_meet_creha
 0x16fcb	0x98	Creha	#1W	I am sure that is what it	
 				means to be 'human.'	
 0x1702f	0x06	ALTO		ANI_THINK	
-0x17064	0x98	ALTO	#2W#6A	Help others...?	
+0x17064	0x98	ALTO	#2W#6A	'Help others'...?	
 				You might be right.	
 0x170bf	0x98	ALTO	#1W#6A	That is pretty much the core	
 				principle of Cygna's Handyman	

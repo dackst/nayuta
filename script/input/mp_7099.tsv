@@ -18,7 +18,7 @@ EV_7_S07_battle_seram
 0xa81	0x06	ALTO		ANI_SURPRISE_WEAK	
 0xabe	0x98	ALTO	#1W#6A	What's this...!?	
 0xaf5	0x06	Seram		ANI_GESTURE1	
-0xb2e	0x98	Seram	#1W	I created a subspace around us.	
+0xb2e	0x98	Seram	#1W	I created a pocket dimension around us.	
 0xbc2	0x06	Seram		ANI_DENY	
 0xbf7	0x98	Seram	#1W	A separate realm that	
 				not even Zext can enter,	

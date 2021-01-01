@@ -88,7 +88,7 @@ EV_7_S14_battle_zext
 0x2495	0x98	Zext	#16S	That is why...	
 				#16SThis Plan must be completed!!	
 0x2818	0x98	ALTO	#6A	Wh-What is that!?	mp_0002d 0x627c
-0x2853	0x98	NOI		The Planetarium terminal	
+0x2853	0x98	NOI		The Planisphere terminal	
 				has initialized!	
 0x2978	0x06	Zext		ANI_POINT	
 0x29d1	0x98	Zext	#0W#6A	Now is the time	
@@ -107,7 +107,7 @@ EV_7_S14_battle_zext
 0x2f25	0x98	ALTO	#6A	A...keystone!?	
 0x2f90	0x98	Zext	#140x#120y	Yes, and Terra will use it to anchor	
 				itself deeply into the ground...	
-0x2ffd	0x98	Zext	#140x#120y	And so, the Planetarium can then	
+0x2ffd	0x98	Zext	#140x#120y	And so, the Planisphere can then	
 				descend into the surface, and then	
 				the Plan will finally be complete.	
 0x30c9	0x98	Zext	#140x#120y	The temporary history created by	
@@ -233,7 +233,7 @@ EV_7_S15_last_battle
 0x6fd6	0x98	NOI	#6A	...!! Lady Creha, is he...?	
 0x703e	0xBC	Creha		Ellipsis	
 0x707d	0x98	Creha	#0W#6A	His true identity...	
-0x7125	0x98	Creha	#0W#6A	...Is the idol of the Planetarium.	
+0x7125	0x98	Creha	#0W#6A	...Is the idol of the Planisphere.	
 0x71c5	0x3F	Name		Zext	mp_7099c 0x69d5
 0x71d1	0x98	ZextRobo	#0x#250y#16S#6A	！！！！	mp_0100a 0xda21
 0x721c	0x98	ALTO		An idol...!?	
@@ -242,7 +242,7 @@ EV_7_S15_last_battle
 0x72cd	0x98	ZextRobo	#0x#250y#6A	My daughter, you should be able	
 				to see this better than anyone!	
 0x738c	0x98	Creha	#6A	...After our father died...	
-				The Planetarium captured	
+				The Planisphere captured	
 				his form and his memories.	
 0x73fa	0x98	Creha	#6A	It manifested them	
 				as an idol...	
@@ -271,7 +271,7 @@ EV_7_S15_last_battle
 0x7a11	0x98	Creha	#6A	But... the one thing you	
 				could never forget was	
 				the Recreation mission.	
-0x7a83	0x98	Creha	#6A	As the Planetarium, that was the	
+0x7a83	0x98	Creha	#6A	As the Planisphere, that was the	
 				whole reason you were created...	
 0x7b0a	0x98	ZextRobo	#1W	...Damn it...!	mp_0110 0x31601
 0x7b43	0x98	Creha	#6A	Then, to complete the mission,	
@@ -330,10 +330,10 @@ EV_7_S15_last_battle
 				Let it all return to nothingness...!#0E	
 0x9b19	0x41	None	#2E#733c#1W#16S	...Now is the time for the	
 				Recreation to take place...!#0E	
-0x9d5a	0x98	NOI	#6A#16S	That's the idol of the Planetarium!	
+0x9d5a	0x98	NOI	#6A#16S	That's the idol of the Planisphere!	
 0x9da7	0x98	NOI	#6A#16S	It's 'Zext's' true form! 	
 0x9df2	0x98	ALTO	#16S	Wh-What can we do!?	mp_2099 0x4f2e
-0x9e52	0x98	Creha	#6A	The Planetarium has given	
+0x9e52	0x98	Creha	#6A	The Planisphere has given	
 				itself the final command!!	
 0x9edc	0x98	NOI	#6A	Nayuta, we have to stop this!!	
 0x9f1b	0x98	NOI	#6A	If this goes on, the surface will─	
@@ -408,7 +408,7 @@ EV_7_S16_defeat_zext
 0xc80e	0x06	NOI		ANI_THINK	
 0xc834	0xBC	NOI		Ellipsis	
 0xc871	0x98	NOI	#6A	...He was the embodiment	
-				of the Planetarium itself.	
+				of the Planisphere itself.	
 0xc8b6	0x98	NOI	#6A	The Recreation was the sole	
 				reason for his existence.	
 0xc910	0x06	NOI		ANI_WAIT	
@@ -535,7 +535,7 @@ EV_7_S18_go_astrolabe
 				'Zext' dropped to the	
 				surface a while ago...	
 0xf21e	0x40	NOI		That crystal acts as an anchor to	
-				attach the Planetarium to the surface...	
+				attach the Planisphere to the surface...	
 0xf286	0x40	NOI		'Zext' said it could connect	
 				Terra to the surface!	
 0xf3ce	0x06	NOI		ANI_GESTURE1	
@@ -543,7 +543,7 @@ EV_7_S18_go_astrolabe
 				crystal, we could control the	
 				planet with the Astrolabe!	
 0xf45c	0x98	NOI	#6A	Meanwhile, we could also	
-				send in the Planetarium's	
+				send in the Planisphere's	
 				astral power...	
 0xf4c9	0x98	NOI	#6A	Not only could we stop the world	
 				from ending, we might be able to	
@@ -566,7 +566,7 @@ EV_7_S18_go_astrolabe
 0xf862	0x06	Creha		ANI_SURPRISE	
 0xfa10	0x98	Signa		Shit... This whole place is	
 				starting to fall apart!!	
-0xfa89	0x98	Creha		The Planetarium's	
+0xfa89	0x98	Creha		The Planisphere's	
 				idol HAS fallen...	
 0xfafe	0x98	NOI	#6A#1W	.........	mp_0003 0xc610
 0xfb8d	0x98	NOI	#6A	...Nayuta, Lady Creha, everyone,	
@@ -574,9 +574,9 @@ EV_7_S18_go_astrolabe
 0xfce7	0x98	ALTO		Huh...? What about you, Noi!?	
 0xfd2c	0x06	NOI		ANI_GUTSPOSE	
 0xfd55	0x98	NOI	#6A	I'm going to try to stop the	
-				collapse of the Planetarium!	
+				collapse of the Planisphere!	
 0xfdb1	0x98	NOI	#6A	For this to work, we need	
-				the Planetarium's power...	
+				the Planisphere's power...	
 				We can't just leave it be!	
 0xfe1d	0x98	NOI	#6A	You guys go on ahead	
 				and get ready!	
@@ -602,7 +602,7 @@ EV_7_S18_go_astrolabe
 0x107ae	0x98	NOI	#1W	.....	mp_0000d 0x70fd
 0x107f0	0x98	NOI	#2W	...Nayuta, Lady Creha, Cygna...	
 0x10867	0x98	NOI	#1W	...I'm sorry.	
-0x108ef	0x98	NOI	#1W	The Planetarium...	
+0x108ef	0x98	NOI	#1W	Planisphere...	
 				Sorry for not recognizing	
 				you until now.	
 0x1095a	0x98	NOI	#2W	But it'll be all right.	

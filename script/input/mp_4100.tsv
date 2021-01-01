@@ -18,11 +18,10 @@ EV_4_S10_meet_seram
 0xe17	0x98	ALTO		From the looks of it, it doesn't	
 				seem like it's been shut down yet.	
 0xe7d	0x06	NOI		ANI_DENY	
-0xea2	0x98	NOI	#6A	But, it's overflowing with lava,	
-				I'm sure it will be dangerous inside.	
+0xea2	0x98	NOI	#6A	But, it's overflowing with even more lava	
+				than other places on this continent...	
 0x1165	0x06	NOI		ANI_GESTURE1	
-0x118e	0x98	NOI	#6A	Even more so than other places	
-				on this continent...	
+0x118e	0x98	NOI	#6A	I'm sure it will be dangerous inside.	
 0x11ef	0x06	ALTO		ANI_NOD	
 0x121c	0x98	ALTO		All right, let's	
 				proceed with caution─	
@@ -82,7 +81,7 @@ EV_4_S10_meet_seram
 0x228e	0x06	Seram		ANI_GESTURE1	
 0x22b9	0x98	Seram		From here on out, our actions won't	
 				be so repetitive and predictable.	
-0x231b	0x98	ALTO	#6A	The... k-key?	
+0x231b	0x98	ALTO	#6A	The...k-key?	
 0x234e	0x06	NOI		ANI_GESTURE2	
 0x2377	0x98	NOI	#6A	Wh-What are you saying!?	mp_0101 0x1f77e
 0x23b8	0x06	Seram		ANI_WAIT	

@@ -128,13 +128,13 @@ talk_Aulbath_sub
 0x2454	0x98	Aulbath		She has a strong spirit, but	
 				she has a tendency to hide	
 				her own shortcomings.	
-0x24ac	0x98	Aulbath		Nayuta, it is especially during times 	
+0x24ac	0x98	Aulbath		Nayuta, it is especially during a time	
 				like this that you should support her.	
 0x24fd	0x98	ALTO		Yes...!	mp_0001 0xfd91
 0x2549	0x98	Aulbath		She has a strong spirit, but	mp_0002 0x2454
 				she has a tendency to hide	
 				her own shortcomings.	
-0x25a1	0x98	Aulbath		Nayuta, it is especially during times 	mp_0002 0x24ac
+0x25a1	0x98	Aulbath		Nayuta, it is especially during a time	mp_0002 0x24ac
 				like this that you should support her.	
 0x2628	0x98	Aulbath		This is not the first	
 				time that Cygna has	
@@ -759,7 +759,7 @@ QS_02_stopperB
 				you going? Come back here.	
 0xd9bc	0x98	ALTO		Y-Yes!	mp_0002 0xd4f0
 QS_11_get_treasure					
-0xdbc0	0x98	ALTO		'A vehicle for setting off on a journey...?'	mp_0000 0x13e59
+0xdbc0	0x98	ALTO		'A vehicle for setting off on a journey'...?	mp_0000 0x13e59
 0xdc0f	0x98	ALTO		It sounds like the hiding place	
 				is under this boat, but there's	
 				no space for Vel to have put it..	
@@ -788,9 +788,9 @@ QS_24_get_salt
 				island specialties. Let's go	
 				bring them to Geo.	
 0xe4d4	0x06	ALTO		ANI_THINK2	
-0xe4fc	0x98	ALTO		Isn't there still the 'local cuisine'	
+0xe4fc	0x98	ALTO		Isn't there still the 'local dish'	
 				that the elder mentioned...?	
-0xe55f	0x98	ALTO		But it's the specialty dish of someone	
+0xe55f	0x98	ALTO		But it's the specialty of someone	
 				you wouldn't think of as a cook...	
 				...Just who could it be?	
 QS_81_quest_start					
@@ -914,7 +914,7 @@ QS_81_undertake
 				for the 'power stations' of	
 				astral power.	
 0x1000d	0x06	ALTO		ANI_GESTURE2	
-0x10037	0x98	ALTO		'Power stations?'	
+0x10037	0x98	ALTO		'Power stations'?	
 0x1007e	0x06	Aulbath		ANI_THINK	
 0x100a8	0x98	Aulbath		Hmm... It sounds like they are a	
 				place where power congregates.	
@@ -938,7 +938,7 @@ QS_81_undertake
 0x10476	0x98	ALTO		(Those places on each continent where	
 				 the wardens were imprisoned...	
 				 Could they be...?)	
-0x104f0	0x98	ALTO		(And, 'changed as they should be?')	
+0x104f0	0x98	ALTO		(And, 'changed as they should be'?)	
 0x10539	0x98	ALTO		(The proper order of the seasons...	
 				 ...Maybe we'll need to put some	
 				 thought into this.)	

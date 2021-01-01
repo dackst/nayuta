@@ -34,20 +34,20 @@ lp_portal
 				and search for Creha...!	
 0x2485	0x98	ALTO		Now's not the time to go exploring.	
 				I gotta hurry up and find Cygna...!	
-0x2567	0x98	ALTO		Looks like some kind of artifact...	
+0x2567	0x98	ALTO		Looks like some kind of relic...	
 				What the heck is this thing?	
-0x2651	0xC9	YesNoBox		Use the teleporter device?	
+0x2651	0xC9	YesNoBox		Use the warp device?	
 0x280e	0x06	st		ANI_PATA1	
 0x2b1f	0x06	st		ANI_PATA1	
 lp_portal2					
 0x2ce8	0x98	ALTO		Huh, is this a new	
-				teleporter device...?	
+				warp device...?	
 0x2d30	0x98	NOI		I know you're interested...	
 				But right now, we should	
 				check on Lady Creha.	
-0x2e2b	0x07	System	#4C	By using this teleporter device,	
+0x2e2b	0x07	System	#4C	By using this warp device,	
 				you can go to Star Capital Lexendria.	
-0x2ec5	0xC9	YesNoBox		Use the teleporter device?	mp_0101 0x2651
+0x2ec5	0xC9	YesNoBox		Use the warp device?	mp_0101 0x2651
 0x3056	0x06	st_later		ANI_PATA1	
 LP_Saku					
 0x317a	0x98	ALTO		(It looks like the way into the other	
@@ -69,9 +69,9 @@ talk_Signa
 0x356b	0x98	Signa		Well, uh... The more	
 				I see of this world,	
 				the stranger it seems.	
-0x35ce	0x98	Signa		Noi's powers or this teleporter	
-				device are things we could never	
-				imagine possible where we're from.	
+0x35ce	0x98	Signa		Noi's powers or this warp device	
+				are things we could never imagine	
+				possible where we're from.	
 0x364e	0x98	NOI		The truth is, this world and	
 				your world aren't supposed to	
 				interact with each other.	
@@ -503,7 +503,7 @@ EV_0_S19_arrive_garden
 0xb6e5	0x06	Signa		ANI_WAIT2	
 0xb70d	0x98	Signa		I don't even have the words	
 				to describe this...	
-0xb75d	0x98	Signa		Haha, but who knows, we might not exist	
+0xb75d	0x98	Signa		Haha, but who knows, we might not 'exist'	
 				in 'this world' any longer ourselves.	#in case it's still not clear, he was trying to imply they died and went to the afterlife, not that he immediately (and correctly) guessed they just discovered a new world
 0xb7f2	0x06	ALTO		ANI_SURPRISE	
 0xb81c	0x98	ALTO	#6A	Huh? Don't say	
@@ -604,11 +604,11 @@ EV_0_S20_meet_creha
 0xd823	0x41	None	#0W#2E	...Even so, I finally reached it.	
 				The lost paradise of Lost Heaven...#0E	
 0xd8c4	0x41	None	#0W#2E	...And then...#0E	
-0xda14	0x3F	Name		???	
+0xda14	0x3F	Name		？？？	
 0xda1f	0x98	Creha	#200x#40y#1W	.........	mp_0003 0xc610
 0xdbc3	0x98	Signa	#1W#6A	I-Is this...?	
 0xdbfe	0x98	ALTO	#1W#6A	A g-girl...?	
-0xdca6	0x41	None	#1W#2E	─In this beautiful world,	
+0xdca6	0x41	None	#1W#2E	In this beautiful world,	
 				we met a girl.#0E	
 0xdd43	0x41	None	#1W#2E	That was the start of our	
 				long summer vacation...#0E	
@@ -630,10 +630,10 @@ EV_1_S00_go_jungle
 0xe5bb	0x06	ALTO		ANI_FIND	
 0xe6c9	0x98	ALTO	#0W#0x#400y#5A	(...She feels...mysterious, somehow.)	
 0xe719	0x98	ALTO	#0W#0x#400y#5A	(Her hair and skin are so beautiful...	
-				I've never seen a girl like her.)	
+				 I've never seen a girl like her.)	
 0xe7b6	0x98	Signa	#0W#0x#30y#12S	...y...ta...	
 0xe802	0x98	ALTO	#0W#0x#400y#5A	(...What is happening?	
-				...My heart is pounding.)	
+				 ...My heart is pounding.)	
 0xe892	0x98	Signa	#0x#30y#16S	...Hey, Nayuta! Can you hear me!?	
 0xe8e7	0x06	Signa		ANI_ANGRYTALK	
 0xe9ad	0x6B	ALTO		Exclamation	
@@ -704,7 +704,7 @@ EV_1_S00_go_jungle
 0xfb90	0x98	ALTO	#6A	Haha, that's good to hear.	
 0xfbc6	0x98	ALTO	#6A	By the way... There's a bunch	
 				of things we wanted to ask you.	
-0xfc3e	0x98	NOI		Th-Things?	
+0xfc3e	0x98	NOI		'Th-Things'?	
 0xfc6e	0x06	ALTO		ANI_GESTURE1	
 0xfc98	0x98	ALTO	#6A	This world...	
 				Lost Heaven.	
@@ -712,7 +712,7 @@ EV_1_S00_go_jungle
 				Where is it in relation	
 				to our world? And...	
 0xfd52	0x06	NOI		ANI_THINK	
-0xfdba	0x98	NOI		Lost Heaven...?	
+0xfdba	0x98	NOI		'Lost Heaven'...?	
 				People from the other	
 				world call it that?	
 0xfe5c	0x06	NOI		ANI_GESTURE1	
@@ -721,10 +721,10 @@ EV_1_S00_go_jungle
 				there are four continents that make up	
 				this impeccable world.	
 0xff53	0x06	ALTO		ANI_THINK2	
-0xff7b	0x98	ALTO	#6A	Terra... I think that means 'earth'	
+0xff7b	0x98	ALTO	#6A	'Terra'... I think that means 'earth'	
 				in an ancient language, right?	
-0xffe8	0x98	ALTO		The garden, and four continents...?	
-0x10033	0x98	ALTO	#6A	I wonder if it's beyond	
+0xffe8	0x98	ALTO		The garden, and four continents...	
+0x10033	0x98	ALTO	#6A	I wonder if they're beyond	
 				the 'End' of our world...?	
 0x1008d	0x06	ALTO		ANI_WAIT	
 0x100d8	0x06	NOI		ANI_DULL	
@@ -747,7 +747,7 @@ EV_1_S00_go_jungle
 0x1051e	0x98	NOI	#6A	A long time ago, a lot of	
 				things happened and she	
 				fell asleep, though...	
-0x10585	0x98	ALTO	#6A	The Mitos... created this world!?	
+0x10585	0x98	ALTO	#6A	The Mitos...created this world!?	
 0x105d0	0x98	ALTO	#6A	And... she fell asleep...?	
 				Do you mean she's been	
 				sleeping here ever since?	
@@ -871,18 +871,18 @@ EV_1_S00_go_jungle
 0x127b9	0x06	Signa		ANI_WAIT3	
 0x127ee	0x06	st		ANI_STOP2	
 0x1286b	0x06	NOI		ANI_USE_POWER	
-0x1292a	0x98	NOI	#16S#6A	Yah...！	
+0x1292a	0x98	NOI	#16S#6A	Yah...!	
 0x12960	0x06	st		ANI_PATA3	
 0x129b1	0x6B	ALTO		Exclamation	
 0x129db	0x06	ALTO		ANI_SURPRISE	
 0x12a05	0x6B	Signa		Exclamation	
 0x12a30	0x06	Signa		ANI_SURPRISE_WEAK	
 0x12ca1	0x06	ALTO		ANI_FIND	
-0x12cc7	0x98	ALTO	#6A	Noi, what is that...？	
+0x12cc7	0x98	ALTO	#6A	Noi, what is that...?	
 0x12d1c	0x06	NOI		ANI_WAIT	
-0x12d75	0x98	NOI		This is a teleporter device	
-				that connects this garden	
-				to the other continents!	
+0x12d75	0x98	NOI		This is a warp device that	
+				connects this garden to	
+				the other continents!	
 0x12de5	0x98	NOI		Zext seemed to be headed for the	
 				continent of Oltapia, southwest	
 				of here, but...	
@@ -950,8 +950,8 @@ EV_2_S01_look_around
 				Maybe he already	
 				left the garden.	
 0x1447b	0x06	ALTO		ANI_GESTURE2	
-0x144a5	0x98	ALTO		But... he would've needed to use	
-				the teleporter device to go to	
+0x144a5	0x98	ALTO		But... he would've needed to	
+				use the warp device to go to	
 				another continent, right?	
 0x1450c	0x98	ALTO		I don't know how he'd have	
 				managed to control it...	
@@ -1163,7 +1163,7 @@ EV_2_S30_talk_creha
 EV_3_S04_meet_creha					
 0x1962a	0x06	Creha		ANI_SIT5	
 0x196f1	0xBC	Creha		Ellipsis	
-0x19776	0x98	Creha	#0W	This is a beautiful place... Really.	
+0x19776	0x98	Creha	#0W	This is a beautiful place... really.	
 0x197c2	0xBC	Creha		Surprise	
 0x1995d	0x06	ALTO		ANI_LOOK_AROUND	
 0x19992	0x98	ALTO		(...Noi might have some idea	
@@ -1229,7 +1229,7 @@ EV_3_S04_meet_creha
 0x1b0f1	0x98	ALTO		I know it's selfish, but...	
 				Please, help me out.	
 0x1b158	0x98	ALTO		Could you do a search with the	
-				Astrolabe to find if there is	
+				Astrolabe to see if there is	
 				any Yupina Grass in this world?	
 0x1b1dd	0x06	NOI		ANI_NOD	
 0x1b21e	0x98	NOI	#6A	...Okay. You've helped	
@@ -1546,7 +1546,7 @@ EV_8_S09_go_astrolabe
 				open the gate to the Inner World.#0E	
 0x22807	0x41	None	#0W#995c#1E	After all, the Astrolabe	
 				is also Noi herself.#0E	
-0x2288d	0x41	None	#0W#995c#1E	However, what is why...	
+0x2288d	0x41	None	#0W#995c#1E	However, that is why...	
 				Noi cannot accompany you	
 				against herself.#0E	
 0x2292a	0x98	NOI	#6A	Th-Then... Nayuta	

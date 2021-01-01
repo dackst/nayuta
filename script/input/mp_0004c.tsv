@@ -3,7 +3,7 @@ init
 lp_post					
 0x708	0x98	ALTO		Huh...? Looks like there's a	mp_0004 0x2113
 				strange letter inside here.	
-0x75f	0x98	ALTO		It seems to be from a warden...	mp_0004 0x2165
+0x75f	0x98	ALTO		It seems to be from an assistant of a warden...	mp_0004 0x2165
 0x7b9	0x98	ALTO		We should go to the temple and at least	mp_0004 0x21c4
 				listen to what they have to say.	
 lp_ladder_u					
@@ -33,7 +33,7 @@ talk_Ophiuchus
 0x1416	0x98	Ophiuchus		I just came out for a	
 				walk with Master Mishy...	
 0x146e	0x98	Ophiuchus		He seems to prefer secluded	
-				places without many people.	
+				places without much people.	
 0x1507	0x98	Ophiuchus		I'm terribly sorry for the intrusion.	mp_0004c 0x13be
 0x1563	0x98	Ophiuchus		I'll be careful to ensure he	
 				does not scare your sheep...	
@@ -70,7 +70,7 @@ subev_get_dog2
 0x20c6	0x98	Asa		But now, she needs a name.	mp_0004 0x3ed5
 0x2107	0x98	Asa		What we should call her...?	mp_0004 0x3f16
 0x215b	0x06	ALTO		ANI_THINK	
-0x2182	0x98	ALTO		Hmm, how about... Nora?	mp_0004 0x3f91
+0x2182	0x98	ALTO		Hmm, how about...Nora?	mp_0004 0x3f91
 				Let's go with Nora.	
 0x21d7	0x06	ALTO		ANI_WAIT	
 0x2212	0x06	Asa		ANI_NOD	
@@ -124,7 +124,7 @@ EV_6_S01_stop_warp
 0x389f	0x98	NOI	#6A	They probably did it to 	
 				prevent us from interfering	
 				more than we already have.	
-0x3915	0x98	NOI	#6A	Lady Creha... and Lord Selam.	
+0x3915	0x98	NOI	#6A	Lady Creha...and Lord Selam.	
 0x3963	0x98	ALTO_pj	#1W	.....	mp_0000d 0x70fd
 0x39b2	0x98	ALTO_pj		...I'm still not sure	
 				what's happening.	

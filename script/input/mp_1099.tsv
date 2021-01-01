@@ -361,7 +361,7 @@ QS_24_quest_end
 0x6128	0x98	ALTO	#6A	(Hmm, he seems to like the dried squid...	
 				 As expected from an elderly person.)	
 0x6196	0x98	Gio		Next is this package,	
-				'Island Loco Moco', was it?	
+				'Island Loco Moco,' was it?	
 0x61ee	0x06	Gio		ANI_THINK	
 0x6214	0x98	Gio		Hmm, this meaty quality...	
 				It's perfect for those	
@@ -400,7 +400,7 @@ QS_24_quest_end
 0x67ff	0x98	ALTO	#6A	As the name implies, it's rock salt from	
 				ruins that fell on the island's shore.	
 0x6879	0x6B	Gio		Surprise	
-0x68bf	0x98	Gio		Ruins that 'fell', you say?	
+0x68bf	0x98	Gio		Ruins that 'fell,' you say?	
 0x68f8	0x06	ALTO		ANI_GESTURE1	
 0x6922	0x98	ALTO	#6A	Yeah, umm... In my world, ruins	
 				sometimes fall from the sky.	
@@ -473,7 +473,7 @@ QS_24_quest_end
 0x75b4	0x06	Gio		ANI_TALK	
 0x75d9	0x98	Gio		Nayuta, we will need your cooperation for	
 				the continued betterment of this world.	
-0x7642	0x98	Gio		I look forward to continuing to work with you.	
+0x7642	0x98	Gio		I look forward to continue working with you.	
 0x768f	0x06	Gio		ANI_WAIT	
 0x77a7	0x07	System	#1C	Noi learned the summer magic, #4C『#784ISol Erase』.	
 0x785f	0x06	NOI		ANI_SURPRISE	
@@ -533,7 +533,7 @@ QS_34_consultation
 0x86fa	0x98	Gio		Well, if you want to calm two people,	
 				you need something better than an herb.	
 0x8773	0x06	ALTO		ANI_GESTURE1	
-0x879d	0x98	ALTO	#6A	Something... better?	
+0x879d	0x98	ALTO	#6A	'Something...better'?	
 0x87d3	0x06	Gio		ANI_NOD	
 0x87f7	0x98	Gio		Yes, oil from an aromatic tree	
 				has a superior calming effect.	
@@ -562,8 +562,8 @@ QS_34_consultation
 0x8c0a	0x98	Gio		If you look in Wind Cutting Valley, you	
 				should be able to find a big enough tree.	
 0x8c80	0x06	ALTO		ANI_NOD	
-0x8ca5	0x98	ALTO	#6A	Right, so summer of Heimmel	
-				in Wind Cutting Valley?	
+0x8ca5	0x98	ALTO	#6A	Right, so Wind Cutting Valley	
+				in Heimmel during summer?	
 0x8d01	0x06	ALTO		ANI_JOY	
 0x8d26	0x98	ALTO	#6A	Got it. We'll try looking for it!	
 0x8d8d	0x98	Gio		Hoho, best of luck to you, Nayuta.	
@@ -618,7 +618,7 @@ QS_54_talk_gio
 				the season summer and	
 				start searching!	
 0x9ab1	0x06	ALTO		ANI_JOY	
-0x9ad6	0x98	ALTO	#6A	Gio, thanks so much!	
+0x9ad6	0x98	ALTO	#6A	Geo, thanks so much!	
 0x9b12	0x06	Gio		ANI_NOD	
 0x9b36	0x98	Gio		Hmm, of course. Send my	
 				regards to Nemeas!	
@@ -691,7 +691,7 @@ quest_SpiritD
 0xaad5	0x06	SpiritD		ANI_NOD	
 0xaafd	0x98	SpiritD		.......	
 0xab27	0x06	ALTO		ANI_THINK	
-0xab4e	0x98	ALTO		Because of... the abnormalities...	
+0xab4e	0x98	ALTO		The abnormalities...	
 0xab95	0x06	ALTO		ANI_NOD	
 0xabba	0x98	ALTO		These little ones must	
 				really be in a tough spot.	
@@ -892,7 +892,7 @@ QS_83_quest_end
 0xe963	0x98	Erislet		Hehe, it's been a year.	
 				How have you two been?	
 0xe9bb	0x06	NOI		ANI_COMPLAIN	
-0xe9e4	0x98	NOI	#6A	Y-You guys are... the wardens	
+0xe9e4	0x98	NOI	#6A	Y-You guys are...the wardens	
 				of the continents!?	
 0xea37	0x98	NOI	#6A	The wardens were supposed	
 				to have disappeared during	
@@ -1053,7 +1053,7 @@ EV_1_S08_vs_seram
 0x11797	0x6B	Zext		Exclamation	
 0x117c1	0x6B	Seram		Exclamation	
 0x118cc	0x06	Signa		ANI_WAIT4	
-0x11902	0x98	Signa	#2W	Zext... was it?	
+0x11902	0x98	Signa	#2W	Zext...was it?	
 0x11941	0x98	Signa	#1W	And you, maskey...	
 				I finally managed to	
 				catch up with you.	
@@ -1082,7 +1082,7 @@ EV_1_S08_vs_seram
 				to come alone?	
 0x12356	0x98	Seram		Wouldn't it have been wiser to come	
 				along with Noi and that other boy?	
-0x123bd	0x98	Signa	#6A	I came alone... to have	
+0x123bd	0x98	Signa	#6A	I came alone...to have	
 				a proper fight with you.	
 0x12433	0x98	Seram		What...?	
 0x125f9	0x06	Signa		ANI_DULL	
@@ -1125,7 +1125,7 @@ EV_1_S08_vs_seram
 0x14319	0x06	Seram		ANI_STEP_B	
 0x1434a	0x06	Signa_g		ANI_WAIT3	
 0x14374	0x06	Seram		ANI_WAIT3	
-0x14896	0x98	Zext	#1W	Hmph... Fight to your heart's content.	
+0x14896	0x98	Zext	#1W	Hmph... Fight to your hearts' content.	
 0x1492e	0x98	Zext	#1W	At the end of the battle, you will both	
 				come to better understand your destinies.	
 0x149f1	0x98	Zext	#1W	Now then... Noi should be here soon.	
@@ -1234,7 +1234,7 @@ EV_1_S12_battle_end
 0x174e4	0x98	ALTO	#6A	Noi...? Is something wrong...?	
 0x17539	0x06	NOI		ANI_DENY	
 0x175a0	0x98	NOI		N-No, umm...	
-0x17652	0x3F	Name		Young Man's Voice	
+0x17652	0x3F	Name		Youth's Voice	mp_0119 0x1517
 0x1766b	0x98	Signa	#1W	...You two. Seems	
 				like you're safe.	
 0x176c1	0xBC	Seram		Exclamation	
