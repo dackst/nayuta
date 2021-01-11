@@ -50,7 +50,7 @@ EV_7_S05_check_starball
 0x29c8	0x41	None	#0W#1E#889c	The Planisphere will eventually drop to	
 				the surface and assume the role of the	
 				partially destroyed planet's new core.#0E	
-0x2a99	0x41	None	#0W#1E#889c	What that, the world can	
+0x2a99	0x41	None	#0W#1E#889c	With that, the world can	
 				regain its original form,	
 				and a new era will begin.#0E	
 0x2b53	0x06	ALTO		ANI_THINK	
@@ -88,7 +88,7 @@ EV_7_S06_meet_seram
 0x389a	0x06	ALTO		ANI_GESTURE2	
 0x38c4	0x98	ALTO	#6A	She told me she was going	
 				to stop the Recreation!	
-0x393b	0x98	Seram		Yeah... Thanks to you guys'	
+0x393b	0x98	Seram		Yeah... Thanks to your	
 				little intervention.	
 0x399d	0x06	Seram		ANI_GESTURE1	
 0x39c8	0x98	Seram		Thanks to you, she's now...	
@@ -409,7 +409,7 @@ EV_7_S09_seram_stone
 0xac36	0x06	Zext		ANI_PIERCE3	
 0xac5f	0x06	Signa		ANI_PIERCED2	
 0xad3c	0x98	ALTO	#N#16S	...Cygna!!	mp_7098 0x2991
-0xad75	0x98	Zext	#6A#0x#50y	It is unlike you lose your composure	
+0xad75	0x98	Zext	#6A#0x#50y	It is unlike you to lose your composure	
 				over something as simple as this...	
 0xade8	0x98	Zext	#6A#0x#50y	You, too, have become impure after	
 				mixing with humans, it seems.	
