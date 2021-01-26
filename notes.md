@@ -437,8 +437,9 @@ The bosses you fight throughout the story are supposed to be related somehow to 
 * Ishtaros -> Ishtauros (Taurus + maybe Ishtar)
 * Gradleon -> Gladarieon (supposed to be Aries, not Leo. Also "Glad" from the Latin "gladius" because the boss is associated with swords)
 * Armadaries -> Armadalleos (supposed to be Leo, not Aries. also an armadillo, but with weapons)
-* Stell Alaqran <del>-> Stell Arcorion (Scorpio + Stella)</del>
-  * from [Al-Aqrab](https://en.wikipedia.org/wiki/Beta_Scorpii)
+* Stell Alaqran -> Stell Alacran
+  * original is from stellar and [Al-Aqrab](https://en.wikipedia.org/wiki/Beta_Scorpii)
+  * While Al-Aqrab is probably a more modern romanization (ex. [al-aqrab prison](https://en.wikipedia.org/wiki/Scorpion_Prison)), none of the traditional names for the star romanize the Arabic with a *q* (Acrab, Akrab or Elacrab, with Acrab seeminlgy being the most common, and officially approved by the IAU in 2016). Meanwhile *alacrán* exists in Spanish, and it also matches up with the final *n* sound
 
 More monster changes:
 
