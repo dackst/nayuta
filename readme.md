@@ -73,7 +73,6 @@ You should have access to a clean Nayuta no Kiseki iso. Some of my [workarounds]
     1. Drag your iso over `_extract_new.bat`, or run `python extract.py nayuta.iso ISO`, where `nayuta.iso` is the name of your file.
     2. Run `setup.py`
 2. Copy the `PSP_GAME/USRDIR/pack` and `PSP_GAME/USRDIR/visual/event` from within the 4.15 patched ISO and replace their equivalents within the `ISO` folder in the environment set up from the previous step. Open the patched 4.15 ISO by mounting it with your OS or file explorer, or with UMDGen, 7-Zip, or anything else that works, really.
-    * Also copy over `pc.tbb` and `helplib.tbb` from `PSP_GAME/USRDIR/text/` 
 3. Copy and overwrite the files in this repository into the environment. Overwrite files if necessary. Modify text or images to your liking. 
 4. Reinsert text by running using the insertion Python scripts from within each respective folder. With my changes, the dump scripts must be run at least once beforehand.
 5. Copy the new files to their correct locations. I would avoid using flame's `copy_text` script, since it led to part of one of the issues I describe [here](./notes.md#why-not-just-use-flames-tools-directly). You can use `copy_all.py` if you don't want to do it manually.

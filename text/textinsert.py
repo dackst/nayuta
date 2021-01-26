@@ -21,7 +21,7 @@ def insert(filename, insert_col, compression_offset, length_limits = None):
     with open(os.path.join(INPUT_FOLDER, filename + '.tsv'), 'r', encoding = 'utf-8') as f:
         for line in f:
             line = line.rstrip('\r\n').split('\t')
-            if len(line) < 3:           #skip line at EOF
+            if len(line) < insert_col + 1:           #skip line at EOF
                 continue
             if line[insert_col] == '':  #skip blanks
                 continue
@@ -76,14 +76,12 @@ insert('monslib',   insert_col = 2, compression_offset = 0x1F,
        length_limits = {'mon name': 31, 'line': 31})
 insert('questlib',  insert_col = 2, compression_offset = 0x1F,
        length_limits = {'quest name': 47, 'client': 31, 'line': 51})
-# the following three insertions don't seem to work, the output
-# ends up the same as the input
-#insert('foodarea',  insert_col = 1, compression_offset = 0x1F,
-#       length_limits = 25)
-#insert('helplib',   insert_col = 1, compression_offset = 0x1F,
-#       length_limits = 31)
-#insert('pc',        insert_col = 1, compression_offset = 0x23,
-#       length_limits = 15)
+insert('foodarea',  insert_col = 1, compression_offset = 0x1F,
+      length_limits = 25)
+insert('helplib',   insert_col = 1, compression_offset = 0x1F,
+      length_limits = 31)
+insert('pc',        insert_col = 1, compression_offset = 0x23,
+      length_limits = 15)
 #has description:
 #fldlist[0123], item, monslib, questlib
 #no description:
