@@ -710,7 +710,7 @@
 0xc1c0	desc	Strange peach with a deep sweet flavor. Said to give eternal youth.
 0xc234	name	Elemi Resin
 0xc24c	desc	Colorless and transparent resin. Used to repair broken lenses.
-0xc2c0	name	Pacific Flying Squid
+0xc2c0	name	Flying Squid
 0xc2d8	desc	Remnant Island specialty. Sun-dried.
 0xc34c	name	Ruins Rock Salt
 0xc364	desc	Remnant Island specialty. Naturally occurring salt crystals.
@@ -1039,9 +1039,9 @@
 0x11be4	name	Hot Dog
 0x11bfc	desc	Easy dish with sausage between bread.
 0x11c70	name	Jungle Rice
-0x11c88	desc	Boxed lunch packed with deluxe spicy meat and rice.
+0x11c88	desc	Boxed lunch packed with spicy meat and rice.
 0x11cfc	name	Roast
-0x11d14	desc	Teriyaki-cooked meat. Mouthwatering is inevitable.
+0x11d14	desc	Teriyaki-cooked meat. Makes your mouth water.
 0x11d88	name	Half-Cooked Burger
 0x11da0	desc	Half-cooked sunny side up eggs with a round burger.
 0x11e14	name	Noble Boxed Lunch
@@ -1103,7 +1103,7 @@
 0x12d64	name	Darkness Stew
 0x12d7c	desc	Mysterious soup. Its appearance and flavor are incredible.
 0x12df0	name	Getty Dog
-0x12e08	desc	Made of mystery meat. Herbs enhance the flavor.
+0x12e08	desc	Made of mystery meat. Herbs enhance its flavor.
 0x12e7c	name	Dynasty Tripe
 0x12e94	desc	Guts stew with traditional seasoning.
 0x12f08	name	Boiled Eyes

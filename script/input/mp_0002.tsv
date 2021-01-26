@@ -650,7 +650,7 @@ QS_02_quest_end
 0xa6bc	0x3F	Name		Orvus' Voice	
 0xa6d0	0x98	Aulbath		Hmm, good work.	
 0xa832	0x98	ALTO	#6A	Master, is the	
-				village alright?	
+				village all right?	
 0xa87b	0x06	Aulbath		ANI_NOD	
 0xa8a3	0x98	Aulbath		Yes, though I was on the lookout,	
 				no monsters tried to enter.	
@@ -868,7 +868,7 @@ QS_81_undertake
 0xf826	0x98	ALTO	#6A	Huh, if I look closely at the box...	
 				Doesn't it look like some kind of	
 				writing is engraved in it?	
-0xf8a9	0x98	NOI	#6A	That's... the ancient	
+0xf8a9	0x98	NOI	#6A	That's...the ancient	
 				script of the Mitos...?	
 0xf911	0x98	Aulbath		Perhaps it contains a	
 				hint for opening the box.	
@@ -990,7 +990,7 @@ QS_81_quest_end
 0x11380	0x06	NOI		ANI_WAIT	
 0x113a5	0x98	Aulbath		Hmm... Please do.	
 0x1142a	0x40	UNDEF		Nayuta and the others decided to head to the	
-				Herschels' house. They explained the situation	
+				Herschel residence. They explained the situation	
 				to Eartha, who performed the star shard analysis.	
 EV_2_S04_under_noi					
 0x11760	0x98	ALTO		(...In the end, Cygna wasn't	

@@ -55,7 +55,7 @@
 0x21fe90	キャンプメニューを終了しますか？	35	Close camp menu?			
 0x21fed0	#4C今はセーブする事ができません。	35	#4CYou can't save now.			
 0x21fef4	#4C※ステージ攻略中にセーブしたデータは、{ 0a }　ロードするとワールドマップからの再開となります。	95	#4C※Loading data saved during a stage{ 0a }restarts you from the world map.			75
-0x21ff64	タイトル画面に戻りますか？{ 0a }（ゲームの途中経過は失われます）	59	Return to title?{ 0a }(Game progress will be lost)			50
+0x21ff64	タイトル画面に戻りますか？{ 0a }（ゲームの途中経過は失われます）	59	Return to title?{ 0a }(Unsaved progress will be lost)			50
 0x22003c	現在は実行できません。	23	Can't practice now.			19
 0x220054	これ以上は作成できません。	27	Can't make any more.			20
 0x220070	ステージ攻略中は調理を行うことが出来ません。	47	Can't prepare food during a stage.			34
@@ -85,17 +85,17 @@
 0x220424	頭飾りを装備します。	23	Equip headgear.			21
 0x22043c	衣服を装備します。	19	Equip clothes.			
 0x220450	装飾品を装備します。	23	Equip accessories.			
-0x220468	使用アイテムの確認と使用を行います。	39	Check or use usable items.			
-0x220490	食材アイテムを確認します。	27	Check food items.			
-0x2204ac	コレクトアイテムを確認します。	31	Check collectible items.			
-0x2204cc	イベントアイテムを確認します。	31	Check event items.			
+0x220468	使用アイテムの確認と使用を行います。	39	View or use usable items.			
+0x220490	食材アイテムを確認します。	27	View food items.			
+0x2204ac	コレクトアイテムを確認します。	31	View collectible items.			
+0x2204cc	イベントアイテムを確認します。	31	View event items.			
 0x2204ec	弁当の作成を行います。	23	Prepare food.			
-0x220504	クエストの情報を確認します。	31	Check quest info.			
-0x220524	敵の情報を確認します。	23	Check enemy info.			
-0x22053c	獲得した実績を確認します。	27	Check earned trophies.			22
-0x220558	マニュアルを確認します。	27	Check the manual.			
+0x220504	クエストの情報を確認します。	31	View quest information.			
+0x220524	敵の情報を確認します。	23	View enemy information.			
+0x22053c	獲得した実績を確認します。	27	View earned trophies.			22
+0x220558	マニュアルを確認します。	27	View the manual.			
 0x220574	現在の進行状況を保存します。	31	Save current progress.			
-0x220594	セーブデータを読み込みます。	31	Loading saved data.			
+0x220594	セーブデータを読み込みます。	31	Load saved data.			
 0x2205b4	各種セーブデータを削除します。	31	Erase saved data.			
 0x2205d4	ゲームの設定を変更します。	27	Change game settings.			21
 0x2205f0	タイトル画面に戻ります。	27	Return to title screen.			23
@@ -105,12 +105,12 @@
 0x22069c	戦闘ボイスとシステムボイスのＯＮ／ＯＦＦを切り替えます。	59	Turn battle and system voices on and off.			
 0x2206d8	イベントボイスのＯＮ／ＯＦＦを切り替えます。	47	Turn event voices on and off.			
 0x220708	ゲームの難易度を変更します。	35	Change difficulty.			
-0x22072c	状態回復	11	St.Recovery			11
-0x220738	STR上昇	11	STR Up			
-0x220744	INT上昇	11	INT Up			
-0x220750	ｸﾘﾃｨｶﾙUP	3	Crit Up			
-0x22075c	経験値UP	11	EXP Up			
-0x220768	ミラUP	11	Mira Up			
+0x22072c	状態回復	11	 CureStatus			11
+0x220738	STR上昇	11	 STR Up			
+0x220744	INT上昇	11	 INT Up			
+0x220750	ｸﾘﾃｨｶﾙUP	3	 Crit Up			
+0x22075c	経験値UP	11	 EXP Up			
+0x220768	ミラUP	11	 Mira Up			
 0x220774	【HEAL%4d  EXP%5d%s】 %s	27	[HEAL%4d EXP%5d%s] %s			
 0x220790	【%3dP】  %s	15	[%3dP]  %s			
 0x2207a0	【%3dP】  %s　[%.1f％]	23	[%3dP]  %s　[%.1f％]			
@@ -120,10 +120,10 @@
 0x2207ec	片手／	7	1H/			
 0x2207f4	両手／	7	2H/			
 0x2207fc	STR%3d	7	STR%3d			
-0x220804	INT%3d	11	INT%3d			
-0x220810	DEF%3d	11	DEF%3d			
+0x220804	INT%3d	11	 INT%3d			
+0x220810	DEF%3d	11	 DEF%3d			
 0x22081c	DEF%3d	7	DEF%3d			
-0x220824	STR%3d	11	STR%3d			
+0x220824	STR%3d	11	 STR%3d			
 0x220830	INT%3d	7	INT%3d			
 0x220838	】	7	]			
 0x220840	%s	3	%s			
@@ -207,7 +207,7 @@
 0x220fa4	特殊効果	15	Effect			6
 0x220fb4	作成回数	15	Qty Made			8
 0x220fc4	：	3	：			
-0x220fd8	状態異常回復	15	Recover Status			15
+0x220fd8	状態異常回復	15	   Cure Status			15
 0x220fe8	ＳＴＲ上昇	15	　　　　STR Up			12
 0x220ff8	ＩＮＴ上昇	15	　　　　INT Up			12
 0x221008	ｸﾘﾃｨｶﾙ率UP	15	　Crit Rate Up			14
@@ -251,12 +251,12 @@
 0x221578	セーブする	11	Save			
 0x221584	タイトル画面に戻る	19	Return to Title			15
 0x221598	先に進む	11	Proceed			
-0x2215b8	状態回復	11	St.Recovery			
-0x2215c4	STR上昇	11	STR Up			
-0x2215d0	INT上昇	11	INT Up			
-0x2215dc	ｸﾘﾃｨｶﾙUP	3	Crit Up			
-0x2215e8	経験値UP	11	EXP Up			
-0x2215f4	ミラUP	11	Mira Up			
+0x2215b8	状態回復	11	 CureStatus			
+0x2215c4	STR上昇	11	 STR Up			
+0x2215d0	INT上昇	11	 INT Up			
+0x2215dc	ｸﾘﾃｨｶﾙUP	3	 Crit Up			
+0x2215e8	経験値UP	11	 EXP Up			
+0x2215f4	ミラUP	11	 Mira Up			
 0x221600	【HEAL%4d  EXP%5d%s】 %s	27	[HEAL%4d EXP%5d%s] %s			
 0x22161c	【	3	[			
 0x221620	片手／	7	1H/			
@@ -325,10 +325,10 @@
 0x222918	習得した四季魔法とレベル、魔法スロットの状態を引き継ぎます。	63	Keep learned magic, magic levels, and slots.			44
 0x222958	習得したギアクラフトを引き継ぎます。	39	Keep learned gear crafts.			25
 0x222980	各ステージのリザルト評価状態を引き継ぎます。	47	Keep stage results.			19
-0x2229b0	所持しているお弁当と食材、料理ガイド、調理履歴、弁当箱の数を引き継ぎます。	75	Keep ingredients and food, cooking guides, cooking history and lunch boxes.			75
+0x2229b0	所持しているお弁当と食材、料理ガイド、調理履歴、弁当箱の数を引き継ぎます。	75	Keep food ingredients, cooking guides, cooking history, and lunch boxes.			75
 0x2229fc	所持しているコレクトアイテムと、博物館への寄贈状態を引き継ぎます。	67	Keep collectibles and museum donation status.			
-0x222a40	敵情報の状態を引き継ぎます。	31	Keep enemy info.			
-0x222a60	武器屋、雑貨屋の販売状態と、ノラのランクを引き継ぎます。	59	Keep weapon and general store and farm status.			51
+0x222a40	敵情報の状態を引き継ぎます。	31	Keep enemy information.			
+0x222a60	武器屋、雑貨屋の販売状態と、ノラのランクを引き継ぎます。	59	Keep weapon, general store, and farm status.			51
 0x222a9c	所持している星の欠片を引き継ぎます。	39	Keep owned star shards.			
 0x222ac4	以上の項目を引き継ぎ、ゲームを開始します。	43	Keep selected items and start game.			41
 0x222af0	タイトル画面に戻ります。	27	Return to title screen.			

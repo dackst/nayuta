@@ -371,7 +371,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * Moon View Pavillion -> Moonlight Pavilion
   * I can't figure out what the Japanese means beyond "moon", but "Moonlight" sounds better than "Moon View"? at least, "moon" and "light" are used often enough together in English to have its own word. Also "pavillion" is supposedly an obsolete spelling
     * maybe "Luna Vista" to keep the Spanish thing going?
-* Herschel House -> Herschels' House
+* Herschel House -> Herschel Residence
 * Ruined Tower -> Tower Ruins 
   * the whole island is full of fallen ruins, this is another such ruin that happens to be an intact tower (and not a regular old tower than happens to be in ruins)
 

@@ -1125,7 +1125,7 @@ QS_34_undertake
 0x10f8a	0x06	Norma		ANI_NOD	
 0x10fb0	0x98	Norma	#6A	Yes, that is correct.	mp_0003 0x10455
 0x10fe7	0x06	Norma		ANI_WAIT2	
-0x1100f	0x98	Norma	#6A	...Can you grant my request?	
+0x1100f	0x98	Norma	#6A	...Will you grant my request?	
 0x1104f	0x06	ALTO		ANI_GESTURE2	
 0x11079	0x98	ALTO		It won't be easy, but...	
 				I'll try to do as much as I can.	

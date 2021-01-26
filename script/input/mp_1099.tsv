@@ -261,7 +261,7 @@ QS_24_undertake
 0x4996	0x06	ALTO		ANI_TALK	
 0x49bc	0x98	ALTO	#6A	I see... I think I get the idea.	
 0x4a19	0x98	ALTO	#6A	But, what, specifically,	
-				should I do?.	
+				should I do?	
 0x4a71	0x06	ALTO		ANI_THINK2	
 0x4a99	0x98	ALTO	#6A	Don't tell me you want	
 				to come to my world too?	
@@ -330,7 +330,7 @@ QS_24_quest_end
 0x5a52	0x98	ALTO	#6A	Yes. If you want,	
 				please take them.	
 0x5add	0x06	ALTO		ANI_HANDOVER	
-0x5b33	0x40	UNDEF		Handed over Pacific Flying Squid.	
+0x5b33	0x40	UNDEF		Handed over Flying Squid.	
 0x5b75	0x40	UNDEF		Handed over Island Loco Moco.	
 0x5bb3	0x40	UNDEF		Handed over Ruins Rock Salt.	
 0x5d05	0x98	Gio		Hmm, well, well, well...	
@@ -533,7 +533,7 @@ QS_34_consultation
 0x86fa	0x98	Gio		Well, if you want to calm two people,	
 				you need something better than an herb.	
 0x8773	0x06	ALTO		ANI_GESTURE1	
-0x879d	0x98	ALTO	#6A	'Something...better'?	
+0x879d	0x98	ALTO	#6A	Something...better?	
 0x87d3	0x06	Gio		ANI_NOD	
 0x87f7	0x98	Gio		Yes, oil from an aromatic tree	
 				has a superior calming effect.	
