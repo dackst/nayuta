@@ -236,7 +236,7 @@ talk_Volans
 				the world. It all will be settled someday.	
 0x3c77	0x98	Volans		Wouldn't you agree?	
 0x3cbb	0x6B	ALTO		Surprise	
-0x3ced	0x98	ALTO		Y-Yes!	mp_0002 0xd4f0
+0x3ced	0x98	ALTO		Y-Yes, sir!	mp_0002 0xd4f0
 0x3d13	0x98	ALTO		(One day, definitely, I will...)	
 0x3d53	0x98	Volans		Hahaha...! It seems you are	
 				a natural-born scientist.	
@@ -1057,7 +1057,7 @@ QS_42_undertake
 0x10c54	0x98	ALTO		We can't allow for the same	
 				mistakes to repeat themselves...	
 0x10cbb	0x06	Volans		ANI_NOD	
-0x10ce2	0x98	Volans		Yes, that is correct.	mp_0003 0x10455
+0x10ce2	0x98	Volans		Yes, that is correct.	
 0x10d17	0x98	Volans		There must be some connection	
 				between Terra and the current	
 				history of this planet...	

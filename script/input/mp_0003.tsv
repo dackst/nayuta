@@ -269,7 +269,7 @@ talk_Norma
 0x5f28	0x98	Camelope		Shut up, Norma.	
 				We're going.	
 0x5f69	0x6B	Norma		Unknown	
-0x5f9c	0x98	Norma		Y-Yes...	
+0x5f9c	0x98	Norma		Y-Yes, ma'am...	
 0x5ffd	0x98	Norma		(Milady...	
 				 I hope you are well.)	
 0x6032	0x98	Norma		(Ooh, I'm sure you'll be	
@@ -1060,7 +1060,7 @@ QS_34_undertake
 0x103cc	0x98	ALTO		Are you talking about the Sasha	
 				from the general store?	
 0x1042f	0x06	Norma		ANI_NOD	
-0x10455	0x98	Norma	#6A	Yes, that is correct.	
+0x10455	0x98	Norma	#6A	Yes, sir, that is correct.	
 0x1048c	0x06	Norma		ANI_GESTURE2	
 0x104b7	0x98	Norma	#6A	Lady Sasha is the rightful daughter of	
 				the Camelope family, one of the most	
@@ -1123,7 +1123,7 @@ QS_34_undertake
 0x10f2f	0x98	ALTO		In short, you want to have Sasha	
 				and Mrs. Camelope make up, right?	
 0x10f8a	0x06	Norma		ANI_NOD	
-0x10fb0	0x98	Norma	#6A	Yes, that is correct.	mp_0003 0x10455
+0x10fb0	0x98	Norma	#6A	Yes, sir, that is correct.	mp_0003 0x10455
 0x10fe7	0x06	Norma		ANI_WAIT2	
 0x1100f	0x98	Norma	#6A	...Will you grant my request?	
 0x1104f	0x06	ALTO		ANI_GESTURE2	

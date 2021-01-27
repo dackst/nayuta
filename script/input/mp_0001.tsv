@@ -908,7 +908,7 @@ QS_82_quest_end
 0xfcfc	0x98	Serpent	#6A	The festival will be held very soon.	
 				Please take care of yourself until then.	
 0xfd69	0x06	ALTO		ANI_THANKS	
-0xfd91	0x98	ALTO		Yes...!	
+0xfd91	0x98	ALTO		Yes, sir...!	
 0xfdb5	0x06	NOI		ANI_GESTURE2	
 0xfdde	0x98	NOI		I'm looking forward to this Star Festival.	
 0xfe81	0x07	System	#3C	Quest [Offering for Ancestors] completed!	

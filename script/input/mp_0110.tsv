@@ -1280,7 +1280,7 @@ QS_81_quest_end
 				time comes, too. Please take	
 				good care of those two.	
 0x14a8f	0x06	ALTO		ANI_NOD	
-0x14ab4	0x98	ALTO	#6A	Yes...!	mp_0001 0xfd91
+0x14ab4	0x98	ALTO	#6A	Yes, sir...!	mp_0001 0xfd91
 0x14b03	0xC1	System		received as payment.	
 0x14b92	0xC1	System		received.	mp_0000 0x12596
 0x14c37	0x07	System	#3C	Quest [Locked Box] completed!	

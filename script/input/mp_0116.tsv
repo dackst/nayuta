@@ -619,7 +619,7 @@ QS_82_quest_start
 0x8b8b	0x06	NOI		ANI_GESTURE2	
 0x8bb4	0x98	NOI		It was something about	
 				the Star Festival?	
-0x8c23	0x98	Serpent		Yes, that is correct.	mp_0003 0x10455
+0x8c23	0x98	Serpent		Yes, that is correct.	
 0x8c59	0x98	Serpent		Can you two work on this	mp_0116 0x8a82
 				as soon as possible?	
 0x8ce9	0x36	Choice		[Accept]	mp_0000 0xeaf5
