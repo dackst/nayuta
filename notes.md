@@ -16,8 +16,10 @@
 - [technical notes](#technical-notes)
   - [Why not just use flame's tools directly?](#why-not-just-use-flames-tools-directly)
     - ["Solutions"](#solutions)
+  - [other bugs you may encounter](#other-bugs-you-may-encounter)
   - [other stuff](#other-stuff)
 - [lol](#lol)
+    - [more comparisons](#more-comparisons)
     - [mishy guide](#mishy-guide)
     - [ys](#ys)
     - [zemuria references](#zemuria-references)
@@ -305,6 +307,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
     * The prologue starts with Nayuta staying up past everyone's bedtimes to look at the stars, which I would assume would be no later than 2 a.m. When the ship arrives, it's late morning, everyone is already up and at work, shops are open, and Nayuta assumes his sister has already eaten breakfast. I would assume they probably arrived no earlier than 7 a.m.
     * We're already within my "typical" interpretation of "half-day", but we should also account for their time at sea before the opening of the prologue: the ship starts off approximately 1000 selge (or [100 km](https://kiseki.fandom.com/wiki/Metric_system)) away from its city of departure. Even if we assume Puppis' ship rivals [early Industrial ships in their best wind conditions](https://voxeu.org/article/speed-under-sail-during-early-industrial-revolution) at 8 knots, that still gives another [7 hours](https://www.wolframalpha.com/input/?i=100+km+%2F+8+knots) between departure from the city and the opening of the prologue.
       * Or more simply, the total trip is stated to be [1760 selge](https://www.wolframalpha.com/input/?i=176+km+%2F+8+knots)
+  * has an unlikely chance to introduce problems with the assumption that [one day is 24 hours](https://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalUniverseTime).
 
 
 ### Name Changes
@@ -385,7 +388,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 
 
 * Planetarium (星座球) -> [Planisphere](https://en.wikipedia.org/wiki/Planisphere)
-  * I can't seem to figure out what, if any, astronomical tool this is supposed to be. The characters seem to literally translate to constellation/zodiac sphere/ball, and googling them together mainly gives images of spherical trikets with astrological signs printed on them, rather than any actual tool 
+  * I can't seem to figure out what, if any, astronomical tool this is supposed to be. The characters seem to literally translate to constellation/zodiac sphere/ball, and googling them together mainly gives images of spherical trinkets with astrological signs printed on them, rather than any actual tool 
   * also considered [Stellarium](https://en.wikipedia.org/wiki/Stellarium) (the existing uses of which are spelled out as "ステラリウム", but 星座球 is never actually pronounced as ステラリウム), [Astrarium](https://en.wikipedia.org/wiki/Astrarium) (same meaning as "Planetarium", but more obvious pairing with "Astrolabe"), and Celestial Sphere (not so much a tool but a concept) 
   * also you can see it actually looks spherical when seen from afar, which makes sense given that it's a replacement core for the planet  
   * Given that it's inside the Stellarium, I'd say it's most likely *supposed* to refer to spherical "star ball" planetarium projectors, but "Planisphere" sounds less silly than "star ball", and I like how Wikipedia describes it as a successor to the astrolabe
@@ -426,7 +429,7 @@ The bosses you fight throughout the story are supposed to be related somehow to 
 * Duoqurois <del>-> Duokuroi (from Gemini, or [Dioskuroi](https://en.wikipedia.org/wiki/Castor_and_Pollux) + Duo)</del>
   * turns out original comes from an [archaic Latin](https://en.wikipedia.org/wiki/Castor_and_Pollux#Italy_and_the_Roman_Empire) transliteration of the Greek *κούροις* (kourois). came off to me as trying to sound French, but ok. 
 * Palreschia <del>-> Pallichthya (Pisces, or ikthyos or ichthyos in Greek + maybe Pallas?) </del>
-  * from [Alreschia](https://en.wikipedia.org/wiki/Alpha_Piscium)
+  * from [Alrescha](https://en.wikipedia.org/wiki/Alpha_Piscium)
 * Sagiscellan <del>-> Sagicheiron (Sagittarius + Hecatoncheir?)</del>
   * from [Ascella](https://en.wikipedia.org/wiki/Zeta_Sagittarii)
 * Cravaltarf -> Krabaltarf
@@ -526,6 +529,7 @@ More monster changes:
   * doesn't appear during the corresponding quest it's listed under, and the phrase "芽吹きの勾玉" only appears in these same two files in the original Japanese. Unused dummy text?
 
 * (N.S.) - I previously removed this because I wanted to avoid [real world references](https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates), same as how the original translation would sometimes call the surface "Earth." However, this one might also serve as a hint that there are at least [two calendar systems](#zemuria-references) currently in use.
+  * the term used here in Japanese is actually [新暦](https://en.wiktionary.org/wiki/%E6%96%B0%E6%9A%A6), which seems to usually refer to the Gregorian calendar, or more literally "New Calendar", as opposed to the "old" traditional Japanese calendar. N.S. was once used in the same way, with the "old" calendar being the Julian calendar.
 
 * Rieseweld - Riese[woerd](https://en.wikipedia.org/wiki/Terp) or some other variation (instead of something deriving from Wald, meaning "forest" when that continent has no forests)
   * apparently there are [some](https://en.wiktionary.org/wiki/wold#English) [derivations](https://en.wiktionary.org/wiki/weald#English) of "wald" that can also denote an *un*forested place
@@ -579,8 +583,9 @@ what appear to be official romanizations/translations aren't always followed.
   * The Place Where The Planet Is (Where the Stars Rest - makes no sense, it's a place where the planet is not. Not that "Where the Stars Rest" makes much sense either)
   * Mythus (Mitos - explained above)
   * Administrator (Warden - dunno, I like administrator for its greater technological connotations, but also like warden for implying they act as protectors or guardians to the giant wildlife preservation that is Terra)
-  * Icon (Idol - "idol" is usable for personifications (like Noi and 'Zext') as well as religous images)
+  * Icon (Idol - "idol" is usable for personifications (like Noi and 'Zext') as well as religious images)
 
+---
 
 ## technical notes
 
@@ -589,12 +594,11 @@ what appear to be official romanizations/translations aren't always followed.
 Before I started, I extracted everything from an iso of the original fantranslation. The addresses of each line in the English script then did not match up with the addresses of each line of the Japanese script, breaking the script insertion, well, script. My changes to the tools were mainly just so that the addresses from the dumped Japanese files are used instead of the addresses of each line of the input files.
 
 However, once I started testing the output, it seemed the released tools only *mostly* work as is. Even if I were to revert all of my changes and try to use them as <del>God</del> flame intended, I ran into a number of issues not present in the 4.15 fantranslation release:
-  1. item/money received messages in cutscenes are broken (those with opcode `0xC1`)
+  1. item/money received messages in cutscenes are broken (those with opcode `0xC1`) [example](https://i.imgur.com/Or5dajg.jpg)
   2. Some text remains in their original Japanese forms, with no English displayed: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
   3. chapter start/end graphics are still in Japanese
-  4. The text about your next objective that appears when pressing select is not updated
   5. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact. He remained perfectly in in Chapter 2 and after starting Chapter 5.
-  6. I would occasionally encounter some stray lines of Japanese text underneath my English text in long text boxes (`0x41` op codes)
+  6. I would occasionally encounter some stray lines of Japanese text underneath my English text in long text boxes (`0x41` op codes) [example](https://i.imgur.com/tPViMoM.jpg)
 
 Clearly, there were undocumented shenanigans that went on in the original fantranslation, given that none of these issues exist in its final release.
 
@@ -609,14 +613,21 @@ If you want to do a actual, proper retranslation of this game yourself and you'r
       * Switching to [Flame's earlier Python 2 script inserter](https://pastebin.com/vtVwq338) released in 2015 seemed to fix this, but it had its own problems. But looking through it, I noticed there was a special case that applied only to these particular problematic textboxes 
       * changing a 1 to a 3 in for the `0xC1` entry in the dictionary defined in the beginning of the Python 3 inserter fixed #1 without introducing any other problems. The inserter in this repo should include this change.
   2. Only Japanese text in places (no English): copying `PSP_GAME/USRDIR/pack` folder from the 4.15 translation solved the Japanese appearing for the `noi` and `system` files. To me, this seemed to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for those files. At least, this isn't done successfully.
-      * However, any changes made in `pc`, `foodarea` and `helplib` were still not reflected after this. This was fixed by modifying how `textinsert.py` chose to skip lines that were too short, as `pc`, `foodarea` and `helplib` has less rows than all the other `text` files. 
+      * However, any changes made in `pc`, `foodarea` and `helplib` were still not reflected after this. This was fixed by modifying how `textinsert.py` chose to skip rows that were too short. Since `pc`, `foodarea` and `helplib` have less columns than all the other `text` files, they were previously skipped entirely. 
   3. Chapter titles: like with #2, I copied the files from the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't.
-  4. the correct objective text will be used if the story is continued to the next objective. It appears this is not at all the fault of the tools, and the text for the current objective is loaded directly from your savefile.
-  5. The Mishy issue was also not entirely the fault of the tools. For some reason, Mishy's internal name ("Michy") was exposed in `chr_names.tsv` as well as his name that is displayed above his textboxes (originally "Michey"). For comparison, Mensa was called "Mrs. Mensa" in the original translation, and has an internal name of "Mensa", but only appeared once in `chr_names.tsv` (as "Mrs. Mensa"). I've also been able to break shopkeepers by changing the wrong names in `chr_names.tsv`, so just make sure you only change the right one? I recommend not changing any character names that appear to already be in English in the jp dump. 
+  5. The Mishy issue was not entirely the fault of the tools. For some reason, Mishy's internal name ("Michy") was exposed in `chr_names.tsv` as well as his name that is displayed above his textboxes (originally "Michey"). For comparison, Mensa was called "Mrs. Mensa" in the original translation, and has an internal name of "Mensa", but only appeared once in `chr_names.tsv` (as "Mrs. Mensa"). I've also been able to break shopkeepers by changing the wrong names in `chr_names.tsv`, so just make sure you only change the right one? I recommend not changing any character names that appear to already use Latin characters when dumped from Japanese. 
   6. Extra Japanese text (underneath my English): I would usually be able to fix these by reformatting my English text to use an extra line in the text box. However, I encountered this again for two lines when reading the message at the end of Volans' sidequest, but wasn't able to fix it this way.
-      * this appears to be fixable by increasing the max length for `0x41` op codes, as defined in the `bin` method, from 10 to 11. Now all the Japanese text is replaced as long as there is enough rows of English text. Due to a related logical error that should also now be fixed, it was truncated to 3 rows when I tried to add an additional row instead of 10
+      * this appears to be fixable by increasing the max length for `0x41` op codes, as defined in the `bin` method, from 10 to 11. Now all the Japanese text is replaced as long as there is enough rows of English text. Due to a related logical error that should also now be fixed, it was [truncated to 3 rows](https://i.imgur.com/FEP7Gk1.jpg) when I tried to add an additional row instead of 10
       * so in conclusion, while other text boxes can be freely resized, `0x41` opcodes require as least the same number of rows of English text as Japanese text
 
+### other bugs you may encounter
+
+entirely unrelated to the tools
+
+* The text about your next objective that appears when pressing select is not updated
+  * the correct objective text will be used if the story is continued to the next objective. It appears the text for the current objective is loaded directly from your savefile, so this will happen upon loading a savefile created from where the objective was last updated in another version.
+* glitchy effects on dialogue boxes ([example](https://user-images.githubusercontent.com/73907314/101234594-bf705c80-368e-11eb-837b-098794bf1673.jpg))
+  * this seems to be caused by the the size of the text boxes and the positional arguments sometimes given in the fourth column of the dumped scripts. It can be fixed by [increasing the size of the box](https://user-images.githubusercontent.com/73907314/101234598-ca2af180-368e-11eb-9b98-14d1bbb4fcdd.jpg) to more closely resemble the original Japanese, or by [modifying the given positions](https://user-images.githubusercontent.com/35816592/101244338-e69d4d00-36d3-11eb-911e-03118378458c.jpg).
 
 ### other stuff
   * accented characters, like for Soufflé or Boötie don't work
@@ -633,15 +644,81 @@ xdelta3 -9 -S djw -B 1812725760 -evfs "nayuta.iso" "output.iso" "patch.xdelta"
 ## lol
 ---
 
-some nonsensical, but spoilerly one-liners I didn't want to screenshot:
+#### more comparisons
+
+full-on conversations not conducive to individual screenshots:
+
+yupina
+> * ...It is said that this illness is an incurable disease whose cause is unknown.
+> * There is only one cure... The herb called \<Yupina Grass\> that is exceedingly rare.
+> * I searched for it too...
+> * It is a cruel thing... We don't have much time.
+> * ...I searched for one month...
+> * ...!!
+> * ...I'm sorry. I was not strong enough...
+> * ...If that's the case...
+> * I will show you I can get this \<Yupina Grass\>...!
+
+> * ...The disease is considered terminal, and it is unknown what causes it.
+> * There is only one known cure... It's a certain particularly rare herb called Yupina Grass.
+> * I've been attempting to track some down myself...
+> * This is a hard thing to say, but... I don't think she has much time left.
+> * ...A month at most...
+> * ...!!
+> * ...I'm sorry. There's just not much more I can do...
+> * In that case...
+> * I will get you this Yupina Grass...!
+
+a trifle
+> * ...At this time, the \<Core\> of the planet suffered a grave injury.
+> * Even now, the "destruction" is advancing.
+> * Now, to the humans that have built up the surface, it is but a trifle...
+> * Anyhow, before long... complete "death" will visit the surface.
+> * Because of us, this beautiful planet's appearance can be restored.
+> * ...Even so...
+> * Even so, are you saying what we're doing is a mistake!?
+> * Answer me, Nayuta!
+> * ...Master Kureha...
+> * ..................... .....................
+> * ...Even so...
+> * ──You are wrong.
+> * On the surface, people are eagerly living out "history."
+> * Even though there's little land left, and their lifespans are short, people can take over various things...
+> * And as for the surface world they have made, various literature and ruins are proof of it.
+> * To me, that world is absolutely not a "trifle."
+> * Nayuta...
+> * When the god-like gaze of the \<Mythos\> looks down on us, the surface must seem small...
+> * But I can't imagine our world as a "trifle," no matter what.
+
+> * ...At the time, the core of the planet suffered terrible damage.
+> * Even today, the planet's complete destruction continues to advance.
+> * The world established by the humans up until now is only temporary...
+> * At this rate, before long... The complete annihilation of the planet will occur.
+> * Yet we have the power to restore the world back to its beautiful former state.
+> * ...Still...
+> * Still can you say what we're trying to do is wrong!?
+> * Answer me, Nayuta!
+> * ...Lady Creha...
+> * ..................... .....................
+> * ...Still...
+> * You guys are wrong.
+> * People have lived out their lives on the surface, carving out history.
+> * Even though there's little land left, and their lifespans are short, people can learn from the past...
+> * The various archaeological ruins and literature left behind are proof of this.
+> * To us, our world is definitely not temporary.
+> * Nayuta...
+> * When viewed from the god-like perspective of the Mitos, it's true this world may seem tiny and inconsequential...
+> * Perhaps it's only natural you would think of it as temporary.
+
+---
+
+some nonsensical, but spoilerly one-liners:
 * moons 
   * One of the twin moons started	
     to break apart, and this	
     creepy-looking thing emerged.
   * The two moons became one, and eerily,
     they've started to wane.
-
-* doctor prognosis: she has a month to live vs he personally spent a month searching for yupina grass 
 
 * Sasha
   * Milady was trained	
@@ -697,7 +774,7 @@ in my mind the whole game is thematically a retelling of ys i and ii, with some 
     * mishy theme park on continent
   * same measurement units (selge, arge, etc.) and money (mira)
     * current year is 1579 as opposed to early 1200s, so either far in the future (Loewe: "mankind will repeat its mistakes forever") or using a different calendar (no mention of Aidios, though Nayuta brings up the lack of a church on Remnant Island to the doctor so churches must exist elsewhere)
-      * use of N.S. means there must be at least 1 other "Old Style" calendar system in place
+      * calendar name implies there must be at least 1 other "old" calendar system
   
 assuming the continent *is* the zemuria that we know (and not some parallel version of it), the conditions at the end of this game (only one moon, but fully accessible planet) could only mean:
 
