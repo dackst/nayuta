@@ -79,15 +79,15 @@ talk_Keny
 0x1754	0x98	Keny		If you got hurt or anything,	mp_0114 0x15cd
 				Eartha would be sad, you know.	
 0x17ce	0x98	Keny		Ah, this can't be good...	
-0x1804	0x98	Keny		The weather has never been like	
-				this ever since I came to Remnant	
-				Island after I got married.	
+0x1804	0x98	Keny		I came to Remnant Island after I	
+				got married and the weather has	
+				never been like this before.	
 0x1883	0x98	Keny		After what happened to Eartha...	
 				I'll have to be careful not to	
 				let Boote get sick too.	
-0x1920	0x98	Keny		The weather has never been like	mp_0114 0x1804
-				this ever since I came to Remnant	
-				Island after I got married.	
+0x1920	0x98	Keny		I came to Remnant Island after I	mp_0114 0x1804
+				got married and the weather has	
+				never been like this before.	
 0x199f	0x98	Keny		After what happened to Eartha...	mp_0114 0x1883
 				I'll have to be careful not to	
 				let Boote get sick too.	
@@ -120,7 +120,7 @@ talk_Keny
 0x1f21	0x98	Keny		This isn't good...	
 				I've gotta go visit her.	
 0x1f6c	0x98	Keny		Hmm, I'll bring tomatoes, and carrots, and...	
-				maybe I shouldn't bring eggplant...	
+				Maybe I shouldn't bring eggplant...	
 0x201a	0x98	Keny		That Boote, he even lied	
 				to Sasha to help him hide.	
 0x2063	0x98	Keny		Jeez, this definitely deserves	

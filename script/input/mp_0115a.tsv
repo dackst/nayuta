@@ -201,12 +201,12 @@ lp_sandbug
 0x57f1	0x36	Choice		Quit	mp_0002 0x433f
 0x5877	0x41	None		[Scorpion] Scorpiones	
 				Arthropod that lives in wasteland and arid regions.	
-				Has a stinger containing deadly poison on its tail,	
+				Has a stinger containing deadly venom on its tail,	
 				which can easily kill a human.	
 0x59cc	0x41	None		[Tarantula] Theraphosidae	
 				Large spider living in tropical regions.	
 				With a hairy body, it walks around on the ground,	
-				and holds poison in its strong fangs.	
+				and holds venom in its strong fangs.	
 0x5b20	0x41	None		[Dung Beetle] Scarabaeus	
 				A species of scarab beetle (Scarabaeidae).	
 				Has the strange characteristic of rolling animal	

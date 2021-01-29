@@ -279,8 +279,8 @@ subev_return_garden
 				world for a breather, but...	
 				what the hell were you guys doing?	
 0x6c86	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x6cb4	0x98	ALTO		Sorry, sorry, we said we would	
-				get ready to explore, too.	
+0x6cb4	0x98	ALTO		Sorry, sorry, we said we would be	
+				getting ready to explore, too.	
 0x6d15	0x06	Signa		ANI_GESTURE2	
 0x6d40	0x98	Signa		Hey, what's up with you?	
 				Were you lonely without us?	
@@ -1034,8 +1034,8 @@ EV_2_S14_hear_gio_voice
 				proper climate with the Astrolabe.	
 				Allow me to thank you.#0E	
 0x16a29	0x06	ALTO		ANI_THANKS	
-0x16a51	0x98	ALTO		Oh, that's right.	
-				Haha, that's good.	
+0x16a51	0x98	ALTO		Oh, right.	
+				Haha, that's good to hear.	
 0x16a95	0x41	None	#0W#2E#310c	Oh... I thought I felt two	
 				human children before...#0E	
 0x16b23	0x41	None	#0W#2E#310c	Where did the	
@@ -1044,7 +1044,7 @@ EV_2_S14_hear_gio_voice
 0x16bf4	0x6B	ALTO		Ellipsis	
 0x16c26	0x6B	NOI		Ellipsis	
 0x16c6c	0x41	None	#0W#2E#310c	...It seems that the situation	
-				has changed. If it's all right,	
+				has changed. If you don't mind,	
 				can you tell me what happened?#0E	
 0x16e32	0x40	UNDEF		Noi and Nayuta exchanged	
 				information with Geo.	
@@ -1059,8 +1059,8 @@ EV_2_S14_hear_gio_voice
 0x171d7	0x41	None	#0W#2E#310c	If you need anything,	
 				feel free to come visit.	
 				...Farewell.#0E	
-0x1738d	0x98	NOI	#6A	...Seems like we can't hear	
-				him anymore.	
+0x1738d	0x98	NOI	#6A	...Seems like we can't	
+				hear him anymore.	
 0x1740e	0x98	ALTO		Well... Looks like	
 				Geo is all right now.	
 0x17459	0x06	ALTO		ANI_GESTURE1	
@@ -1385,7 +1385,7 @@ EV_4_S02_hear_algo_voice
 				To the continent of La Worg!	
 0x1e956	0x06	ALTO		ANI_NOD	
 0x1e97b	0x98	ALTO		Yeah!	mp_0001 0x1174e
-0x1ea35	0xCE	Objective		Cygna and Zext are at the Origin Continent. Let's follow them!	
+0x1ea35	0xCE	Objective		Cygna and Zext are in the Origin Continent. Let's follow them!	
 SB_4_S27_biribiri					
 SB_4_S27_biribiri_2					
 EV_4_S27_talk_signa					

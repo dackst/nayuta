@@ -1180,7 +1180,7 @@ talk_Sculp
 0x1086c	0x98	Sculp		*belch*... Thank goodness...	
 				Truly, thank goodness...	
 0x10928	0x98	Sculp		*hic*... I really am drunk.	
-				Can't speak very clearly.	
+				Can't shpeak very clearly.	
 0x10985	0x98	Sculp		This damn Ax... You can never let	
 				your guard down around him.	
 talk_Sculp_add					
@@ -1812,7 +1812,7 @@ quest_Gruz
 0x18c28	0x98	Gruz		The three ingredients I want	
 				you to procure are...	
 0x18c7e	0x98	Gruz		Three Fresh Red Meat,	
-				five Meat From The Bone,	
+				five Meat On The Bone,	
 				and two Olm Shells.	
 0x18cdf	0x98	Gruz		Thanks and good luck to you,	
 				Nayu and Noi, my children!	
@@ -2208,7 +2208,7 @@ QS_13_ask_request
 0x1e27a	0x98	Gruz		The three ingredients I want	mp_0112 0x18c28
 				you to procure are...	
 0x1e2c9	0x98	Gruz		First, three Fresh Red Meat.	
-				Next, five Meat From The Bone.	
+				Next, five Meat On The Bone.	
 				And finally, two Olm Shells.	
 0x1e373	0x06	ALTO		ANI_HOLD	
 0x1e399	0x98	ALTO	#6A	(*memo*, *memo*)...	
@@ -2519,7 +2519,7 @@ QS_25_undertake
 0x22a99	0x06	ALTO		ANI_GESTURE2	
 0x22ac3	0x98	ALTO	#6A	Uh, Dr. Hydrol. I can help	
 				you, if you'd like.	
-0x22b11	0x98	ALTO	#6A	Well if it's something	
+0x22b11	0x98	ALTO	#6A	Well, if it's something	
 				I can do, that is.	
 0x22b95	0x06	Hydol		ANI_GESTURE2	
 0x22bc0	0x98	Hydol		Really? That'd be great!	

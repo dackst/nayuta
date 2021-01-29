@@ -136,7 +136,7 @@
 0x193e	line	throw rocks in ambush attacks.
 0x199e	mon name	Girinos
 0x19be	line	Mutated monster. Spits bubbles
-0x19de	line	containing paralyzing poison
+0x19de	line	containing paralyzing venom
 0x19fe	line	to slowly kill its enemies.
 0x1a5e	mon name	Bladelion
 0x1a7e	line	Powerful medium-sized monster.
@@ -209,7 +209,7 @@
 0x271e	mon name	Poisonfish
 0x273e	line	Fish that lives in swamps.
 0x275e	line	Rams those near water's
-0x277e	line	edge with its poisoned body.
+0x277e	line	edge with its venomous body.
 0x27de	mon name	Arachne
 0x27fe	line	Giant female spider beastman.
 0x281e	line	Uses its many legs to unleash
@@ -316,7 +316,7 @@
 0x3afe	line	never lets its prey escape.
 0x3b5e	mon name	Flier
 0x3b7e	line	A swarm of countless flies.
-0x3b9e	line	On top of spreading poison,
+0x3b9e	line	On top of spreading disease,
 0x3bbe	line	it is resistant to attacks.
 0x3c1e	mon name	Zorropino
 0x3c3e	line	Fox wearing pinecones like
@@ -628,7 +628,7 @@
 0x757e	line	parts to buff its attacks.
 0x75de	mon name	Evil Taikun
 0x75fe	line	Tyrannical large demon dragon.
-0x761e	line	Manipules wind freely, mowing
+0x761e	line	Manipulates wind freely, mowing
 0x763e	line	down the area in a flash.
 0x769e	mon name	Guerra Aspis
 0x76be	line	Vicious bug that shields itself

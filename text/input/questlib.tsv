@@ -44,11 +44,11 @@
 0xbb4	line	 up stairs and see over 
 0xbe8	line	 everyone's heads.'
 0xc1c	line	Apparently that's all I get.
-0xcbc	line	'Look throught the hole
+0xcbc	line	'Look through the hole
 0xcf0	line	 peering at the sky'...?
 0xd24	line	In that case...
 0xd58	line	
-0xdf8	line	'The back of the knight'?
+0xdf8	line	'The knight's backside'?
 0xe2c	line	It's probably the person
 0xe60	line	always wearing armor.
 0xe94	line	
@@ -136,7 +136,7 @@
 0x24cc	line	Oltapia temple.
 0x256c	line	Remnant Island specialties...
 0x25a0	line	Maybe Elder Serpent knows
-0x25d4	line	anything? I'll speak with
+0x25d4	line	something? I'll speak with
 0x2608	line	him right away.
 0x26a8	line	Seems like Ruins Rock Salt
 0x26dc	line	can be found on the
@@ -213,9 +213,9 @@
 0x3a18	quest name	A Clue About Sis
 0x3a48	client	Ursamina
 0x3a68	line	There's something I want
-0x3a9c	line	you to do. I'm waiting at
-0x3ad0	line	the cape on the other side
-0x3b04	line	of the island.
+0x3a9c	line	you to do. I'll be waiting at
+0x3ad0	line	the cape on the other side of
+0x3b04	line	the island.
 0x3ba4	line	Reticul should still be
 0x3bd8	line	somewhere in Terra.
 0x3c0c	line	Let's use the Astrolabe's
@@ -288,11 +288,11 @@
 0x4e5c	line	Mistress to reconcile.
 0x4e90	line	I'll be waiting in front
 0x4ec4	line	of the museum.
-0x4f64	line	I'll try asking Mrs. Camelope
+0x4f64	line	Let's try asking Mrs. Camelope
 0x4f98	line	at the inn about her
 0x4fcc	line	disagreement with Sasha.
-0x5000	line	
-0x50a0	line	I'll ask Sasha in the
+0x5000	line	 
+0x50a0	line	Let's ask Sasha in the
 0x50d4	line	general store about
 0x5108	line	her disagreement with
 0x513c	line	Mrs. Camelope.
@@ -375,7 +375,7 @@
 0x6740	line	Let's try looking in a season
 0x6774	line	where he might come out.
 0x6814	line	Found him in the winter of
-0x6848	line	La Worg! But, he ran into
+0x6848	line	La Worg! But he ran into
 0x687c	line	Ancient Reef. I wonder
 0x68b0	line	where he's hiding...
 0x6950	line	Found Mishy safely.
@@ -404,7 +404,7 @@
 0x6edc	line	borrow your strength.
 0x6f7c	line	Gruz needs
 0x6fb0	line	3 Fresh Red Meat,
-0x6fe4	line	5 meat From The Bone,
+0x6fe4	line	5 Meat On The Bone,
 0x7018	line	and 2 Olm Shells.
 0x7068	quest name	Terra Research
 0x7098	client	Professor Volans
@@ -438,7 +438,7 @@
 0x7854	line	released. Let's review
 0x7888	line	the contents with Master
 0x78bc	line	Orvus.
-0x790c	quest name	Ancestral Offering 
+0x790c	quest name	Ancestral Offering
 0x793c	client	Elder Serpent
 0x795c	line	I want to entrust you with
 0x7990	line	an important role in the
