@@ -29,7 +29,7 @@ talk_Volans
 				was suddenly turned on its head, after all.	
 0x1270	0x98	ALTO		From now on, I can only wonder what	
 				will happen to the Ciencia Sea...	
-				As well as the rest of our world.	
+				as well as the rest of our world.	
 0x12da	0x98	Volans		There's no way of knowing...	
 				No matter how much research you do,	
 				no one can determine the future.	
@@ -66,12 +66,12 @@ talk_Volans
 				through this chaos somehow, you would think	
 				we should also be able to stop the war.	
 0x1a70	0x98	Volans		...If I can put together the truth of these	
-				abnormalities and publish them with the Baron's	
+				abnormalities and publish them with the baron's	
 				connections, then it should be possible.	
 0x1af9	0x98	Volans		Hehe, we must do all	
 				that is in our power.	
 0x1b67	0x98	Volans		...If I can put together the truth of these	
-				abnormalities and publish them with the Baron's	
+				abnormalities and publish them with the baron's	
 				connections, we could relieve some of the chaos.	
 0x1c07	0x98	Volans		Hehe, there is nothing more satisfying than	
 				being able to influence the world with a	
@@ -191,13 +191,13 @@ talk_Volans
 0x334b	0x98	Volans		...To put it bluntly, it would	
 				be all but impossible to obtain	
 				any more of it today.	
-0x33c8	0x98	Volans		It may sound cruel, but...	
-				Do not get your hopes up.	
+0x33c8	0x98	Volans		This may sound cruel, but...	
+				try not to be too discouraged.	
 0x3445	0x98	Volans		The Yupina Grass herb	mp_0115 0x32e8
 				is already extinct.	
 0x34a8	0x98	Volans		Unless some miracle happens...	
 				It would be impossible to obtain.	
-0x3594	0x98	Volans		Heh, the Baron is	
+0x3594	0x98	Volans		Heh, the baron is	
 				a little thick.	
 0x35dd	0x98	Volans		A carefree work environment is the	
 				first step in advancing research.	
@@ -215,7 +215,7 @@ talk_Volans
 				be an astronomer, by any chance?	
 0x389a	0x6B	ALTO		Exclamation	
 0x38cc	0x98	ALTO		Yes, that's true, but...	
-				You knew my father!?	
+				you knew my father!?	
 0x3924	0x98	Volans		Only his name.	
 0x3954	0x98	Volans		As I recall, he was the one who first	
 				proposed a connection between the End	
@@ -225,7 +225,7 @@ talk_Volans
 				beyond the End of the World.	
 0x3a4c	0x98	Volans		My specialty is archaeology and natural history,	
 				so it's a bit of a different field, but...	
-				His paper was very interesting to read.	
+				his paper was very interesting to read.	
 0x3aed	0x98	ALTO		I see...	mp_0001 0xcecd
 0x3b1a	0x98	ALTO		But I heard that his hypothesis was never	
 				accepted by the academic community...	
@@ -506,7 +506,7 @@ talk_Caelum_sub
 				chaperone Professor Volans.	
 0x8a82	0x98	Caelum		...What an unfortunate	
 				duty for him!	
-0x8aef	0x98	Caelum		The Baron was forced to chaperone	
+0x8aef	0x98	Caelum		The baron was forced to chaperone	
 				Professor Volans in the Empire as well.	
 0x8b4b	0x98	Caelum		Hehe, that's why the two of them	
 				seem to get along so well.	
@@ -674,7 +674,7 @@ talk_Pecula
 				thought of coming with him.	
 0xab40	0x98	Pecula		But... being unable to control a man	
 				of such low ranking is just pathetic.	
-0xab96	0x98	Pecula		Hmph. In the end, his rank of Baron is	
+0xab96	0x98	Pecula		Hmph. In the end, his rank of baron is	
 				merely a sham. He's of no import whatsoever.	
 0xac35	0x98	Pecula		The way my husband lets others exert	
 				such control over him is pathetic.	
@@ -791,7 +791,7 @@ tuto_museum_first
 				Caelum. Nice to meet you! ♪	
 0xcd8f	0x06	Caelum		ANI_WAIT	
 0xcdb7	0x06	ALTO		ANI_COMPLAIN	
-0xcde1	0x98	ALTO	#6A	Th-Then... This really IS a museum!?	
+0xcde1	0x98	ALTO	#6A	Th-Then... this really IS a museum!?	
 0xce2d	0x98	ALTO	#6A	Where you can come and see rare	
 				insects and valuable works of art...?	
 0xcebb	0x6B	ALTO		Unknown	
@@ -891,7 +891,7 @@ tuto_museum_common
 0xeaa9	0x98	ALTO	#6A	I see...! That makes sense.	
 0xeaef	0x06	ALTO		ANI_COMPLAIN	
 0xeb19	0x98	ALTO	#6A	Umm, I know it's sudden, but...	
-				Is it okay if I see the exhibits?	
+				is it okay if I see the exhibits?	
 0xeb7f	0x98	Caelum		Ehehe, of course～ ㈱	
 				...Is what I would say.	
 0xebd3	0x06	Caelum		ANI_WAIT4	
@@ -996,7 +996,7 @@ QS_42_quest_start
 0x100d6	0x06	Volans		ANI_THINK	
 0x100ff	0x98	Volans		I realize that these are	
 				difficult times, but...	
-				This is very important.	
+				this is very important.	
 0x1015f	0x98	Volans		How about it,	
 				can you accept?	
 0x101c6	0x06	Volans		ANI_GESTURE2	
@@ -1020,13 +1020,13 @@ QS_42_undertake
 0x1059b	0x06	ALTO		ANI_THANKS	
 0x105c3	0x98	ALTO		Yeah, okay.	mp_0000 0x1b27a
 0x105f3	0x98	NOI	#6A	I'm worried about Lady Creha, but...	
-				We can't leave the surface alone either.	
+				we can't leave the surface alone either.	
 0x10663	0x06	Volans		ANI_NOD	
 0x1068a	0x98	Volans		Mm, I am in your debt.	
 				Allow me to explain.	
 0x106e1	0x06	Volans		ANI_GESTURE1	
 0x1070d	0x98	Volans		What I need you to do for me...	
-				Is, quite frankly, research on	
+				is, quite frankly, research on	
 				this 'other world.'	
 0x10783	0x6B	ALTO		Exclamation	
 0x107b5	0x6B	NOI		Exclamation	
@@ -1206,7 +1206,7 @@ QS_42_quest_end
 				learn from our mistakes.	
 				We're only human.	
 0x12a3e	0x98	ALTO	#6A	And if we don't give up...	
-				There has to be some way	
+				there has to be some way	
 				to make things right.	
 0x12aa5	0x06	NOI		ANI_NOD	
 0x12ac9	0x98	NOI	#6A	...I agree.	
@@ -1492,7 +1492,7 @@ EV_6_S07_meet_volans
 				This world has never been flat.	
 0x16d14	0x98	Volans		I still need more time to	
 				prove this hypothesis, but...	
-				This is a historic discovery!	
+				this is a historic discovery!	
 0x16d90	0x6B	ALTO		Ellipsis	
 0x16dba	0x06	ALTO		ANI_THINK2	
 0x16e46	0x40	ALTO		(It's foggy, but...	

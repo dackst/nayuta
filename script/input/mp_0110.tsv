@@ -261,7 +261,7 @@ talk_Asa_sub
 				exploring somewhere again.	
 0x5d09	0x98	Asa		I won't stop you. No matter what I do,	
 				you wouldn't listen anyway, but...	
-				Don't do anything too dangerous, okay?	
+				don't do anything too dangerous, okay?	
 0x5d95	0x98	Asa		...Hehe, you're 15 now, maybe	
 				I shouldn't worry so much.	
 0x5dfa	0x98	ALTO		Yeah, I'm fine.	
@@ -520,7 +520,7 @@ talk_Lyra
 				lose to some kind of fairy!	
 0x8eb8	0x98	ALTO		Haha, I don't know what	
 				you're trying to do, but...	
-				Good luck, Lyra.	
+				good luck, Lyra.	
 0x8f0b	0x6B	Lyra		Sweatdrop	
 0x8f75	0x98	Lyra		Umm, you slice the	
 				cabbage like this...	
@@ -970,7 +970,7 @@ QS_22_quest_start
 0xfbce	0x36	Choice		[Quit]	mp_0000 0xeb0b
 0xfc6d	0x06	ALTO		ANI_DENY	
 0xfc93	0x98	ALTO	#6A	Hmm, I'm sorry, but...	
-				Now's a bad time.	
+				now's a bad time.	
 0xfce5	0x06	NOI		ANI_DEJECTED	
 0xfd0e	0x98	NOI		(I've got to search for Cygna right now...)	
 0xfd52	0x06	Asa		ANI_THINK	
@@ -1739,7 +1739,7 @@ EV_0_S16_noi_wakeup
 				Now that the Master Gear has been	
 				stolen, there's no time to waste!	
 0x1eb9e	0x98	NOI		I do appreciate your help today, but...	
-				Forget everything that transpired here!	
+				forget everything that transpired here!	
 0x1ec09	0x98	NOI		Anyway, I gotta get back now!	
 0x1ec58	0x06	NOI		ANI_LOOK_AROUND	
 0x1ed65	0x6B	NOI		Unknown	
@@ -2006,7 +2006,7 @@ EV_3_S22_recovery_asa
 0x24e1e	0x98	Hydol	#6A	As a matter of fact, Nayuta brought me	
 				some Yupina Grass not too long ago.	
 0x24e7a	0x98	Hydol	#6A	Of course, I was shocked, but...	
-				It certainly seems to be effective.	
+				it certainly seems to be effective.	
 0x24eeb	0x98	Hydol	#6A	If this is the grass... you should	
 				be able to make a complete recovery	
 				from Hell Fever in a few days.	
@@ -2267,7 +2267,7 @@ EV_3_S23_confide_asa
 0x2a6a9	0x06	ALTO		ANI_SIT1_GESTURE1	
 0x2a6d8	0x98	ALTO	#6A	Eartha, this is kind of	
 				a long story, but...	
-				Please listen.	
+				please listen.	
 0x2a7a7	0x40	UNDEF		Nayuta explained all the events that	
 				occurred in Terra one by one.	
 0x2a80f	0x40	UNDEF		He explained as carefully as he	

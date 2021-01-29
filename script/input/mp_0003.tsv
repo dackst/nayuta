@@ -90,8 +90,8 @@ talk_Puppis
 				nothing at the End of the 	
 				World but a huge storm.	
 0x3bb6	0x98	Puppis		If you continue going southwest	
-				on the Ciencia Sea, you would	
-				end up at the End of the World.	
+				on the Ciencia Sea, you'll end	
+				up at the End of the World.	
 0x3c31	0x98	Puppis		But because of that huge storm,	
 				nobody has ever seen the true End.	
 0x3ce8	0x98	Puppis		Just when I was about to	
@@ -857,7 +857,7 @@ quest_Norma
 				better than I could.	
 0xd5f8	0x98	Norma		I am sorry to bother you with this	
 				sort of private matter, but...	
-				Thank you very much for your support.	
+				thank you very much for your support.	
 quest_Puppis					
 0xd70e	0x98	Puppis		That Equulea girl walked	
 				off towards the village.	
@@ -1147,7 +1147,7 @@ QS_34_undertake
 0x1139e	0x06	Norma		ANI_WAIT0	
 0x113c6	0x98	Norma	#6A	I am sorry to bother you with this	mp_0003 0xd5f8
 				sort of private matter, but...	
-				Thank you very much for your support.	
+				thank you very much for your support.	
 0x1142e	0x06	ALTO		ANI_THANKS	
 0x11456	0x98	ALTO		Yeah, leave it to me.	
 0x1148a	0x98	ALTO		(The general store and a room at the inn...	

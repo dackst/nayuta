@@ -1303,7 +1303,7 @@ QS_11_fourth_hint
 0x137e7	0x98	ALTO	#6A	Excuse me, Dorado. Do you mind	
 				turning around for a sec?	
 0x13835	0x98	Dorado		...Sure, I don't mind, but...	
-				You're pretty strange, you know that?	
+				you're pretty strange, you know that?	
 0x138b4	0x40	UNDEF		A paper is stuck in Dorado's belt.	
 0x13904	0x6B	ALTO		Sweatdrop	
 0x13936	0x06	ALTO		ANI_DEJECTED	
@@ -1559,7 +1559,7 @@ tuto_quest_memo
 tuto_museum_force1					
 0x17b08	0x3F	Name		Man's Voice	
 0x17b1b	0x98	Volans	#0x#270y	Oh, you are...	
-				A child of this island?	
+				a child of this island?	
 0x17b7a	0x6B	ALTO		Surprise	
 0x17d3e	0x06	Volans		ANI_WAIT0	
 0x17d6f	0x06	ALTO		ANI_GESTURE2	
@@ -1623,7 +1623,7 @@ tuto_museum_force1
 				of course!	
 0x18815	0x06	Volans		ANI_GESTURE2	
 0x18841	0x98	Volans		Haha, good answer.	
-				Then... Come with me!	
+				Then... come with me!	
 SB_0_S02_appear_ALTO					
 SB_0_S02_appear_Signa					
 SB_0_S02_move_ALTO					
@@ -1796,7 +1796,7 @@ EV_2_S05_meet_hydol
 0x1c2b5	0x6B	Hydol		Question	
 0x1c2e8	0x06	Hydol		ANI_WAIT3	
 0x1c310	0x98	Hydol		Hmm, I'm not sure why, but...	
-				You seem a little down.	
+				you seem a little down.	
 0x1c371	0x98	Hydol		I'll be renting a room	
 				at the inn for a while.	
 0x1c3be	0x06	Hydol		ANI_GESTURE1	

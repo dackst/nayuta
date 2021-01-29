@@ -277,7 +277,7 @@ subev_return_garden
 0x6bb6	0x98	NOI	#6A	You guys are so slow!	
 0x6bed	0x98	NOI	#6A	I knew you went back to the other	
 				world for a breather, but...	
-				What the hell were you guys doing?	
+				what the hell were you guys doing?	
 0x6c86	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x6cb4	0x98	ALTO		Sorry, sorry, we said we would	
 				get ready to explore, too.	
@@ -989,7 +989,7 @@ EV_2_S01_look_around
 0x1509f	0x98	ALTO		(Leaving without saying a word to Master...	
 				 That wouldn't be like Cygna at all!)	
 0x1510b	0x98	ALTO		(Could he have...?)	
-0x15228	0x98	ALTO	#0x#270y	(Sorry Noi, but...	
+0x15228	0x98	ALTO	#0x#270y	(Sorry, Noi...	
 				 Let's try returning to	
 				 Remnant Island for now.)	
 0x15291	0x98	ALTO	#0x#270y	(Maybe I'll find more clues there!)	
@@ -1111,7 +1111,7 @@ EV_2_S30_talk_creha
 				This can't be...	
 0x188fb	0x06	NOI		ANI_COMPLAIN	
 0x1892c	0x98	NOI	#6A	Then what about me...	
-				And the Mitos...!?	
+				and the Mitos...!?	
 0x18992	0x6B	Creha		Ellipsis	
 0x18a0b	0x06	Creha		ANI_SIT1_DENY	
 0x18a3f	0x98	Creha	#0W	...I'm sorry.	
@@ -1227,7 +1227,7 @@ EV_3_S04_meet_creha
 0x1b067	0x98	NOI	#6A	Nayuta, your sister...!	
 0x1b0ab	0x06	ALTO		ANI_THANKS	
 0x1b0f1	0x98	ALTO		I know it's selfish, but...	
-				Please, help me out.	
+				please, help me out.	
 0x1b158	0x98	ALTO		Could you do a search with the	
 				Astrolabe to see if there is	
 				any Yupina Grass in this world?	
@@ -1532,7 +1532,7 @@ EV_8_S09_go_astrolabe
 0x2249d	0x41	None	#0W#995c#1E	And here is the heart of the matter.	
 				...Nayuta Herschel.#0E	
 0x2252d	0x41	None	#0W#995c#1E	If you want to save the Mitos...	
-				You must head for the Inner	
+				you must head for the Inner	
 				World of the Astrolabe.#0E	
 0x225ea	0x6B	ALTO		Exclamation	
 0x22614	0x6B	NOI		Exclamation	

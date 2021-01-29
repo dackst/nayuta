@@ -422,7 +422,7 @@ EV_0_S07_check_post
 0xa28a	0x06	ALTO		ANI_NOD	
 0xa2af	0x98	ALTO	#6A	Okay, I get it.	
 0xa2df	0x06	ALTO		ANI_THINK2	
-0xa307	0x98	ALTO	#6A	Hey, but... This request	
+0xa307	0x98	ALTO	#6A	Hey, but... this request	
 				from Master seems to say,	
 				'Please meet me together.'	
 0xa37b	0x06	Signa		ANI_SURPRISE	
@@ -734,7 +734,7 @@ EV_0_S18_check_gate
 				quick goodbye to Eartha and Lyra...	
 0x11cc4	0x06	ALTO		ANI_NOD	
 0x11ce9	0x98	ALTO	#6A	Yeah, I know, but...	
-				We've got to hurry now.	
+				we've got to hurry now.	
 0x11d3b	0x98	ALTO	#6A	Besides, if we can't come	
 				back through here, we can	
 				find another way back.	

@@ -189,7 +189,7 @@ EV_2_S11_set_gear_1st
 0x6e05	0x06	ALTO		ANI_FIND	
 0x6e2b	0x98	ALTO	#6A	...Umm, is this it?	
 0x6e61	0x98	ALTO	#6A	(It sure looks amazing, but...	
-				 Is this a machine...?)	
+				 is this a machine...?)	
 0x6ee7	0x98	NOI	#6A	Just watch.	
 0x70cf	0x06	NOI		ANI_TAKE_OUT	
 0x7178	0x06	komono07		ANI_STOP	
@@ -421,7 +421,7 @@ EV_3_S07_use_astrolabe
 				be returned to normal!	
 0xe1e6	0x06	ALTO		ANI_GESTURE1	
 0xe210	0x98	ALTO		Noi, this is kind of sudden, but...	
-				Can you search for the Yupina Grass	
+				can you search for the Yupina Grass	
 				for me now?	
 0xe286	0x98	ALTO		The encyclopedia said it has 'pale blue petals'	
 				and is 'found in the northern highlands'...	

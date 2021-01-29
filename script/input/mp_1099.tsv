@@ -66,7 +66,7 @@ talk_Gio
 				Perhaps it was part of his plan.	
 0x21b4	0x98	ALTO		Oh, no...	mp_0100 0x1c977
 0x21dd	0x98	Gio		It is only a guess, but...	
-				The two of you should keep	
+				the two of you should keep	
 				your eyes open.	
 0x2270	0x98	Gio		Speaking of which, you seem	
 				to be searching for something.	
@@ -805,12 +805,12 @@ quest_SpiritD_End
 0xc3da	0x06	ALTO		ANI_JOY	
 0xc3ff	0x98	ALTO		Haha, thanks. I'll accept this.	
 0xc481	0x06	NOI		ANI_THINK	
-0xc4bf	0x98	NOI	#6A	We're going to have to go, but...	
+0xc4bf	0x98	NOI	#6A	We're going to have to go...	
 				Please, keep up the good work.	
 0xc528	0x06	NOI		ANI_GESTURE1	
 0xc551	0x98	NOI	#6A	If you have any more	
 				problems, please contact us.	
-0xc5b4	0x98	NOI	#6A	We're going to have to go, but...	mp_1099 0xc4bf
+0xc5b4	0x98	NOI	#6A	We're going to have to go...	mp_1099 0xc4bf
 				Please, keep up the good work.	
 0xc61d	0x06	NOI		ANI_GESTURE1	
 0xc646	0x98	NOI	#6A	If you have any more	
@@ -939,7 +939,7 @@ QS_83_quest_end
 0xf1fe	0x98	Nemeas		Noi... I understand that you are a new	
 				Noi and have no recollection of the past.	
 0xf262	0x98	Nemeas		I know you may have doubts, but...	
-				Even so, you are still Noi.	
+				even so, you are still Noi.	
 0xf2c8	0x06	Nemeas		ANI_NOD	
 0xf2ef	0x98	Nemeas		Together with Nayuta, I am certain	
 				you are capable of saving Lady	
@@ -1000,7 +1000,7 @@ QS_83_quest_end
 0xffc7	0x98	ALTO	#2W#6A	Is that so...? We'll definitely miss you.	
 0x1000d	0x06	Gio		ANI_GESTURE2	
 0x10044	0x98	Gio	#0W	Heheh, I'm sorry to say this, but...	
-				It is unavoidable.	
+				it is unavoidable.	
 0x100bf	0x98	Gio	#6A	We will always be watching over you.	
 				Be sure to do your part well.	
 0x1012d	0x06	Erislet		ANI_NOD	
@@ -1198,7 +1198,7 @@ EV_1_S11_boss_battle
 0x16947	0x06	ALTO		ANI_BATTOU	
 0x16977	0x06	ALTO		ANI_KEN_WO_KAMAERU_C	
 0x169b7	0x98	ALTO	#1W#6A	Tch, I don't know what's going on, but...	
-				Looks like the altar went into the floor!	
+				looks like the altar went into the floor!	
 0x16a24	0x98	ALTO	#0W#6A	In this case, we have no	
 				choice but to fight...	
 				Let's go, Noi!	
@@ -1218,7 +1218,7 @@ EV_1_S12_battle_end
 				Wh-Why did those idols	
 				attack us...	
 0x17184	0x98	ALTO	#6A	Y-You called it that before, but...	
-				What in the world is an 'idol'...?	
+				what in the world is an 'idol'...?	
 0x17213	0x06	NOI		ANI_WAIT	
 0x17268	0x98	NOI		...They're beings created by	
 				Mitos to protect the temple.	
@@ -1294,8 +1294,8 @@ EV_1_S12_battle_end
 0x18639	0x06	NOI		ANI_COMPLAIN	
 0x1866a	0x98	NOI		Wh-What are you saying...!?	
 0x186d8	0x98	ALTO	#6A	W-Wait...! What's wrong, Cygna?	
-0x18727	0x98	ALTO	#6A	You seem to have run	
-				into Zext, but...	
+0x18727	0x98	ALTO	#6A	You seem to have	
+				run into Zext...	
 				What happened...?	
 0x18793	0x98	Signa	#1W#6A	.........	mp_0003 0xc610
 0x18809	0x98	ALTO	#16S#6A	Say something, Cygna...!	

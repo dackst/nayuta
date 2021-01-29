@@ -262,13 +262,13 @@ talk_Eida_sub
 				to drink it～! ㈱	
 0x43e7	0x98	Eida		I'll share some with you when it's done,	
 				so you'll have to wait and see, okay?	
-0x446c	0x98	Eida		Hey, Nayuta, did	
+0x446c	0x98	Eida		Hey, Nayuta. Did	
 				something happen	
 				to Cygna?	
 0x44b5	0x98	ALTO		Huh...? What do you mean?	
 0x44ec	0x98	Eida		I dunno, he just dropped by to	
 				shop for some weapons, but...	
-0x4540	0x98	Eida		He looked so serious, it was	
+0x4540	0x98	Eida		He looked so serious; it was	
 				hard to make conversation.	
 0x45a0	0x98	ALTO		I-Is that so...?	mp_0101 0x51b9
 0x45cf	0x98	ALTO		(Cygna...	
@@ -460,7 +460,7 @@ talk_Columha
 0x6ed1	0x98	Columha		Such a good-natured girl,	
 				falling ill all of a sudden...	
 0x6f24	0x98	Columha		I wish I could help, but...	
-				Hammering swords is all I can do.	
+				hammering swords is all I can do.	
 0x6f84	0x98	Columha		But at least, with each stroke,	
 				I pray for Eartha's recovery...	
 0x700b	0x98	Columha		...Hammering swords is all I can do.	

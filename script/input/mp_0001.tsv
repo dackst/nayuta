@@ -123,7 +123,7 @@ talk_Aquela
 				This is thanks for that.	
 0x2e86	0x98	Aquela		The old myths tell of a story.	
 0x2ec2	0x98	Aquela		Once, in the age of creation...	
-				Only one moon floated in the sky.	
+				only one moon floated in the sky.	
 0x2f32	0x98	Aquela		People lived underneath this	
 				moon, together with the gods.	
 0x2f8f	0x98	ALTO		O-Only one moon? I've never	
@@ -365,7 +365,7 @@ QS_15_quest_start
 				to help you collect them.	
 0x6fe8	0x06	ALTO		ANI_GESTURE2	
 0x7012	0x98	ALTO	#6A	Oh, and speaking of which...	
-				This is the first request I've	
+				this is the first request I've	
 				ever gotten from you, Boote.	
 0x7082	0x98	ALTO	#6A	Haha, I'm a little flattered.	
 0x70bf	0x06	Bootie		ANI_ANGRYTALK	
@@ -1224,7 +1224,7 @@ EV_4_S13_meet_creha
 0x1693d	0x06	ALTO		ANI_COMPLAIN	
 0x16967	0x98	ALTO	#6A	Same as the people	
 				from this world...	
-				Like a normal girl.	
+				like a normal girl.	
 0x169d0	0x6B	Creha		Ellipsis	
 0x16a03	0x6B	ALTO		Surprise	
 0x16a35	0x06	ALTO		ANI_SCRATCH_HEAD	

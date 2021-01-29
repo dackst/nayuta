@@ -154,7 +154,7 @@ QS_33_quest_start
 0x384a	0x98	Erislet		It's a matter related to the	
 				management of this continent.	
 				I could really use your help.	
-0x38cc	0x98	Erislet		I'm hoping that's okay, but...	
+0x38cc	0x98	Erislet		I'm hoping that's okay...	
 				Is now a good time?	
 0x3938	0x98	ALTO	#6A	Yeah, I can do it...	
 0x39ba	0x06	NOI		ANI_GESTURE2	
@@ -560,12 +560,12 @@ quest_SpiritD_End
 0x9226	0x06	ALTO		ANI_JOY	
 0x924b	0x98	ALTO		Haha, thanks. I'll accept this.	mp_1099 0xc3ff
 0x92cd	0x06	NOI		ANI_THINK	
-0x930b	0x98	NOI	#6A	We're going to have to go, but...	mp_1099 0xc4bf
+0x930b	0x98	NOI	#6A	We're going to have to go...	mp_1099 0xc4bf
 				Please, keep up the good work.	
 0x9374	0x06	NOI		ANI_GESTURE1	
 0x939d	0x98	NOI	#6A	If you have any more	mp_1099 0xc551
 				problems, please contact us.	
-0x9400	0x98	NOI	#6A	We're going to have to go, but...	mp_1099 0xc4bf
+0x9400	0x98	NOI	#6A	We're going to have to go...	mp_1099 0xc4bf
 				Please, keep up the good work.	
 0x9469	0x06	NOI		ANI_GESTURE1	
 0x9492	0x98	NOI	#6A	If you have any more	mp_1099 0xc646
@@ -696,7 +696,7 @@ QS_83_quest_end
 0xcaa6	0x98	Nemeas		Noi... I understand that you are a new	mp_1099 0xf1fe
 				Noi and have no recollection of the past.	
 0xcb0a	0x98	Nemeas		I know you may have doubts, but...	mp_1099 0xf262
-				Even so, you are still Noi.	
+				even so, you are still Noi.	
 0xcb70	0x06	Nemeas		ANI_NOD	
 0xcb97	0x98	Nemeas		Together with Nayuta, I am certain	mp_1099 0xf2ef
 				you are capable of saving Lady	
@@ -757,7 +757,7 @@ QS_83_quest_end
 0xd86f	0x98	ALTO	#2W#6A	Is that so...? We'll definitely miss you.	mp_1099 0xffc7
 0xd8b5	0x06	Gio		ANI_GESTURE2	
 0xd8ec	0x98	Gio	#0W	Heheh, I'm sorry to say this, but...	mp_1099 0x10044
-				It is unavoidable.	
+				it is unavoidable.	
 0xd967	0x98	Gio	#6A	We will always be watching over you.	mp_1099 0x100bf
 				Be sure to do your part well.	
 0xd9d5	0x06	Erislet		ANI_NOD	
@@ -898,7 +898,7 @@ EV_2_S23_boss_battle
 0x124a4	0x06	ALTO		ANI_WAIT4	
 0x1255b	0x98	ALTO		Looks like...we're at the summit.	
 0x125ac	0x06	NOI		ANI_NOD	
-0x1265c	0x98	NOI		Yeah... but in the end, we 	
+0x1265c	0x98	NOI		Yeah... but in the end, we	
 				never ran into anybody...	
 0x12720	0x98	ALTO		(...Cygna...	
 				 Where the hell did you go?)	
@@ -1058,7 +1058,7 @@ EV_2_S24_boss_end
 0x18b9d	0x98	NOI	#N#500x#500y	He just left it behind again...	
 0x18c93	0x06	ALTO		ANI_GESTURE1	
 0x18cbd	0x98	ALTO	#6A	I don't know why he did that, but...	
-				Whatever, let's get it out of here!	
+				whatever, let's get it out of here!	
 0x18d27	0x06	ALTO		ANI_JOY	
 0x18d4c	0x98	ALTO	#6A	If we put it in the Astrolabe,	
 				then these abnormalities can...!	
@@ -1090,7 +1090,7 @@ EV_2_S24_boss_end
 0x195b8	0x06	ALTO		ANI_NOD	
 0x195dd	0x98	ALTO	#6A	Even if the Astrolabe	
 				is not powerful enough...	
-				We should do what we can!	
+				we should do what we can!	
 0x19682	0x98	NOI		Yeah...	mp_1100 0x68da
 0x196ce	0x98	ALTO	#6A	If we don't do something,	
 				somewhere out there,	
