@@ -594,7 +594,7 @@ talk_Ursaminor_Reticul
 0xa060	0x98	Reticul		Oh right, Papa has done business in	
 				this area for a long time, hasn't he?	
 				...Sorry, I forgot.	
-0xa0db	0x3F	Name		Youth with Rucksack	
+0xa0db	0x3F	Name		Young Man in Travel Gear	
 0xa0f6	0x98	Cetus		They say Remnant Island was	
 				at the center of the recent	
 				meteorological anomalies.	
@@ -717,7 +717,7 @@ talk_Lyra
 				 about this girl...)	
 0xb50a	0x6B	ALTO		Question	
 talk_Cetus					
-0xb5c2	0x3F	Name		Youth with Rucksack	mp_0003 0xa0db
+0xb5c2	0x3F	Name		Young Man in Travel Gear	mp_0003 0xa0db
 0xb5dd	0x98	Cetus		As an adventurer, visiting Remnant Island has	
 				been something I've wanted to do for some time...	
 				But of course, I'm a bit late to the party.	
