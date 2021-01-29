@@ -321,14 +321,14 @@
 0x222898	ゲームの難易度を変更します。	31	Change difficulty.			
 0x2228b8	ナユタのレベルを引き継ぎます。	31	Keep Nayuta's level.			
 0x2228d8	所持金を引き継ぎます。	23	Keep money.			
-0x2228f0	ナユタとノイの装備品を引き継ぎます。	39	Keep Nayuta and Noi's equipment.			32
+0x2228f0	ナユタとノイの装備品を引き継ぎます。	39	Keep Nayuta's and Noi's equipment.			32
 0x222918	習得した四季魔法とレベル、魔法スロットの状態を引き継ぎます。	63	Keep learned magic, magic levels, and slots.			44
 0x222958	習得したギアクラフトを引き継ぎます。	39	Keep learned gear crafts.			25
 0x222980	各ステージのリザルト評価状態を引き継ぎます。	47	Keep stage results.			19
 0x2229b0	所持しているお弁当と食材、料理ガイド、調理履歴、弁当箱の数を引き継ぎます。	75	Keep food ingredients, cooking guides, cooking history, and lunch boxes.			75
 0x2229fc	所持しているコレクトアイテムと、博物館への寄贈状態を引き継ぎます。	67	Keep collectibles and museum donation status.			
 0x222a40	敵情報の状態を引き継ぎます。	31	Keep enemy information.			
-0x222a60	武器屋、雑貨屋の販売状態と、ノラのランクを引き継ぎます。	59	Keep weapon, general store, and farm status.			51
+0x222a60	武器屋、雑貨屋の販売状態と、ノラのランクを引き継ぎます。	59	Keep weapon shop, general store, and farm status.			51
 0x222a9c	所持している星の欠片を引き継ぎます。	39	Keep owned star shards.			
 0x222ac4	以上の項目を引き継ぎ、ゲームを開始します。	43	Keep selected items and start game.			41
 0x222af0	タイトル画面に戻ります。	27	Return to title screen.			
