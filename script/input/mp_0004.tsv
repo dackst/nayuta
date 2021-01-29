@@ -90,7 +90,7 @@ subev_get_dog2
 0x3e5a	0x98	NOI		She seems to like it.	mp_0004 0x3e14
 0x3eaf	0x06	Asa		ANI_THINK	
 0x3ed5	0x98	Asa		But now, she needs a name.	
-0x3f16	0x98	Asa		What we should call her...?	
+0x3f16	0x98	Asa		What should we call her...?	
 0x3f6a	0x06	ALTO		ANI_THINK	
 0x3f91	0x98	ALTO		Hmm, how about...Nora?	
 				Let's go with Nora.	
@@ -473,7 +473,7 @@ EV_0_S08_fall_remain
 0xb546	0x98	Lyra	#0W	'Hello Nayuta! ☆ Long time no see! ♪'	
 				...That's way too out of character!	
 0xb5c6	0x06	Lyra		ANI_WORRIED	
-0xb5fd	0x98	Lyra	#1W	Oooh, come on! This our	
+0xb5fd	0x98	Lyra	#1W	Oooh, come on! This is our	
 				four-month reunion. It's	
 				no time to be nervous...!	
 0xb76d	0x06	Lyra		ANI_WORRIED	
