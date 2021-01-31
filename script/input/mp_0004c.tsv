@@ -33,7 +33,7 @@ talk_Ophiuchus
 0x1416	0x98	Ophiuchus		I just came out for a	
 				walk with Master Mishy...	
 0x146e	0x98	Ophiuchus		He seems to prefer secluded	
-				places without much people.	
+				places without many people.	
 0x1507	0x98	Ophiuchus		I'm terribly sorry for the intrusion.	mp_0004c 0x13be
 0x1563	0x98	Ophiuchus		I'll be careful to ensure he	
 				does not scare your sheep...	
@@ -68,7 +68,7 @@ subev_get_dog2
 0x204b	0x98	NOI		She seems to like it.	mp_0004 0x3e14
 0x20a0	0x06	Asa		ANI_THINK	
 0x20c6	0x98	Asa		But now, she needs a name.	mp_0004 0x3ed5
-0x2107	0x98	Asa		What we should call her...?	mp_0004 0x3f16
+0x2107	0x98	Asa		What should we call her...?	mp_0004 0x3f16
 0x215b	0x06	ALTO		ANI_THINK	
 0x2182	0x98	ALTO		Hmm, how about...Nora?	mp_0004 0x3f91
 				Let's go with Nora.	

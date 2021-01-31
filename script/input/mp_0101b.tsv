@@ -101,14 +101,14 @@ SUB_meet_adventurer
 0x1dc8	0x06	Reticul		ANI_WAIT3	
 0x1df2	0x98	Cetus		Well, that's what we 	
 				planned to do, but...	
-				We changed our mind.	
+				we changed our mind.	
 0x1e41	0x06	ALTO		ANI_SURPRISE_WEAK	
 0x1e70	0x98	ALTO		Huh...?	mp_0004 0x392d
 0x1e94	0x06	NOI		ANI_THINK	
 0x1eba	0x98	NOI	#6A	Wh-Why?	mp_0101 0x8930
 0x1ee2	0x06	NOI		ANI_WAIT	
 0x1f07	0x06	Reticul		ANI_DIRECT	
-0x1f32	0x98	Reticul		Well, I mean... What, you think	
+0x1f32	0x98	Reticul		I mean... What, you think	
 				we should just leave you two	
 				and run away from here?	
 0x1f8c	0x06	Reticul		ANI_WAIT3	
@@ -186,7 +186,7 @@ EV_5_S02_talk_noi
 				continents is flowing into the garden.	
 0x3862	0x06	NOI		ANI_DENY	
 0x3887	0x98	NOI		No, to be more precise...	
-				Into Heliograd.	
+				into Heliograd.	
 0x38d7	0x6B	ALTO		Surprise	
 0x3909	0x06	ALTO		ANI_THINK2	
 0x3931	0x98	ALTO	#6A	Th-That's what	

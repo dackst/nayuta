@@ -4,7 +4,7 @@ init
 talk_Keny					
 0x8bd	0x98	Keny		It's nice to be able to	
 				see Noi again, but...	
-				She lost her memory, right?	
+				she lost her memory, right?	
 0x922	0x98	Keny		But life is full of enjoyment.	
 0x96d	0x98	Keny		You can always make as many new	
 				memories as you want in the future.	
@@ -79,15 +79,15 @@ talk_Keny
 0x1754	0x98	Keny		If you got hurt or anything,	mp_0114 0x15cd
 				Eartha would be sad, you know.	
 0x17ce	0x98	Keny		Ah, this can't be good...	
-0x1804	0x98	Keny		The weather has never been like	
-				this ever since I came to Remnant	
-				Island after I got married.	
+0x1804	0x98	Keny		I came to Remnant Island after I	
+				got married and the weather has	
+				never been like this before.	
 0x1883	0x98	Keny		After what happened to Eartha...	
 				I'll have to be careful not to	
 				let Boote get sick too.	
-0x1920	0x98	Keny		The weather has never been like	mp_0114 0x1804
-				this ever since I came to Remnant	
-				Island after I got married.	
+0x1920	0x98	Keny		I came to Remnant Island after I	mp_0114 0x1804
+				got married and the weather has	
+				never been like this before.	
 0x199f	0x98	Keny		After what happened to Eartha...	mp_0114 0x1883
 				I'll have to be careful not to	
 				let Boote get sick too.	

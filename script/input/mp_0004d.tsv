@@ -47,7 +47,7 @@ subev_get_dog2
 0x19f6	0x98	NOI		She seems to like it.	mp_0004 0x3e14
 0x1a4b	0x06	Asa		ANI_THINK	
 0x1a71	0x98	Asa		But now, she needs a name.	mp_0004 0x3ed5
-0x1ab2	0x98	Asa		What we should call her...?	mp_0004 0x3f16
+0x1ab2	0x98	Asa		What should we call her...?	mp_0004 0x3f16
 0x1b06	0x06	ALTO		ANI_THINK	
 0x1b2d	0x98	ALTO		Hmm, how about...Nora?	mp_0004c 0x2182
 				Let's go with Nora.	

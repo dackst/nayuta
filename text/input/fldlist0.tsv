@@ -27,25 +27,25 @@
 0xf48	mission	Defeat at least \n10 monsters
 0xf7a	name	Lakeside Tree Path
 0x10b0	mission	Get at least 50 \nshining stones
-0x10e2	name	Hermit's Path
+0x10e2	name	Fruitful Hermit's Way
 0x1218	mission	Destroy at least \n25 objects
 0x124a	name	Shaded Animal Trail
 0x1380	mission	Build a CHAIN \n of at least 30
 0x13b2	name	Lakeside Tree Path
 0x14e8	mission	Take damage \nat most 10 times
-0x151a	name	Hermit's Path
+0x151a	name	Fruitful Hermit's Way
 0x1650	mission	Clear \nwithin 3:00
 0x1682	name	Shaded Animal Trail
 0x17b8	mission	Defeat at least \n38 monsters
 0x17ea	name	Lakeside Tree Path
 0x1920	mission	Clear \nwithin 1:30
-0x1952	name	Hermit's Path
+0x1952	name	Fruitful Hermit's Way
 0x1a88	mission	Don't even take \ndamage once
 0x1aba	name	Shaded Animal Trail
 0x1bf0	mission	Defeat 25 foes \nwith magic
 0x1c22	name	Lakeside Tree Path
 0x1d58	mission	Jump at most \n10 times
-0x1d8a	name	Hermit's Path
+0x1d8a	name	Fruitful Hermit's Way
 0x1ec0	mission	Get at least 30 \nshining stones
 0x1ef2	name	Oltapia Temple
 0x1f46	desc	mp_1011
@@ -59,27 +59,27 @@
 0x2460	mission	ミッション説明
 0x2492	name	Great Echoing Caves
 0x25c8	mission	Get at least 40 \nshining stones
-0x25fa	name	Scrying Pool Caves
+0x25fa	name	Scrying Pool Cavern
 0x2730	mission	Clear without \nusing a lunchbox
-0x2762	name	Dragon River Cavern
+0x2762	name	Dragon River Grotto
 0x2898	mission	Defeat 15 foes \nwith your sword
 0x28ca	name	Great Echoing Caves
 0x2a00	mission	Destroy at least \n16 objects
-0x2a32	name	Scrying Pool Caves
+0x2a32	name	Scrying Pool Cavern
 0x2b68	mission	Defeat 10 foes \nwith magic
-0x2b9a	name	Dragon River Cavern
+0x2b9a	name	Dragon River Grotto
 0x2cd0	mission	Get at least 30 \nshining stones
 0x2d02	name	Great Echoing Caves
 0x2e38	mission	Eat 5 or more \nlunch boxes
-0x2e6a	name	Scrying Pool Caves
+0x2e6a	name	Scrying Pool Cavern
 0x2fa0	mission	Fall at most \n5 times
-0x2fd2	name	Dragon River Cavern
+0x2fd2	name	Dragon River Grotto
 0x3108	mission	Defeat at most \n3 monsters
 0x313a	name	Great Echoing Caves
 0x3270	mission	Take damage \nat most 10 times
-0x32a2	name	Scrying Pool Caves
+0x32a2	name	Scrying Pool Cavern
 0x33d8	mission	Fall at most \n3 times
-0x340a	name	Dragon River Cavern
+0x340a	name	Dragon River Grotto
 0x3540	mission	Destroy at least \n40 objects
 0x3572	name	Rieseweld Temple
 0x35c6	desc	mp_2011
@@ -91,19 +91,19 @@
 0x39aa	name	Heimmel
 0x39fe	desc	Go to Holy Mountain Continent Heimmel.
 0x3ae0	mission	ミッション説明
-0x3b12	name	Wind Cutting Valley
+0x3b12	name	Canyon of Biting Wind
 0x3c48	mission	Defeat 20 foes \nwith magic
 0x3c7a	name	Dragon Graveyard
 0x3db0	mission	Get at least 40 \nshining stones
 0x3de2	name	Heavenly Mountain
 0x3f18	mission	Fall at most \n5 times
-0x3f4a	name	Wind Cutting Valley
+0x3f4a	name	Canyon of Biting Wind
 0x4080	mission	Clear w/o using \nlunch boxes
 0x40b2	name	Dragon Graveyard
 0x41e8	mission	Fall at most \n3 times
 0x421a	name	Heavenly Mountain
 0x4350	mission	Clear \nwithin 2:30
-0x4382	name	Wind Cutting Valley
+0x4382	name	Canyon of Biting Wind
 0x44b8	mission	Fall at most \n3 times
 0x44ea	name	Dragon Graveyard
 0x4620	mission	Destroy at least \n45 objects
@@ -111,7 +111,7 @@
 0x4788	mission	Defeat at least \n30 monsters
 0x47ba	name	Hidden Plateau
 0x48f0	mission	ミッション説明
-0x4922	name	Wind Cutting Valley
+0x4922	name	Canyon of Biting Wind
 0x4a58	mission	Clear \nwithin 1:30
 0x4a8a	name	Dragon Graveyard
 0x4bc0	mission	Defeat 50 foes \nwith your sword

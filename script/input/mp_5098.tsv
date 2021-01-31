@@ -197,8 +197,8 @@ EV_5_S11_last_advise
 0x6023	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x6051	0x98	ALTO	#6A	Haha, thanks.	
 0x6089	0x06	ALTO		ANI_GESTURE2	
-0x60b3	0x98	ALTO	#6A	If we're decided...	
-				Let's hurry up and	
+0x60b3	0x98	ALTO	#6A	If that's decided...	
+				Let's go ahead and	
 				ride the elevator.	
 0x6114	0x06	ALTO		ANI_WAIT4	
 0x613b	0x98	ALTO	#6A	Brace yourself.	

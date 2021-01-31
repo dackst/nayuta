@@ -90,7 +90,7 @@ subev_get_dog2
 0x3e5a	0x98	NOI		She seems to like it.	mp_0004 0x3e14
 0x3eaf	0x06	Asa		ANI_THINK	
 0x3ed5	0x98	Asa		But now, she needs a name.	
-0x3f16	0x98	Asa		What we should call her...?	
+0x3f16	0x98	Asa		What should we call her...?	
 0x3f6a	0x06	ALTO		ANI_THINK	
 0x3f91	0x98	ALTO		Hmm, how about...Nora?	
 				Let's go with Nora.	
@@ -422,7 +422,7 @@ EV_0_S07_check_post
 0xa28a	0x06	ALTO		ANI_NOD	
 0xa2af	0x98	ALTO	#6A	Okay, I get it.	
 0xa2df	0x06	ALTO		ANI_THINK2	
-0xa307	0x98	ALTO	#6A	Hey, but... This request	
+0xa307	0x98	ALTO	#6A	Hey, but... this request	
 				from Master seems to say,	
 				'Please meet me together.'	
 0xa37b	0x06	Signa		ANI_SURPRISE	
@@ -473,7 +473,7 @@ EV_0_S08_fall_remain
 0xb546	0x98	Lyra	#0W	'Hello Nayuta! ☆ Long time no see! ♪'	
 				...That's way too out of character!	
 0xb5c6	0x06	Lyra		ANI_WORRIED	
-0xb5fd	0x98	Lyra	#1W	Oooh, come on! This our	
+0xb5fd	0x98	Lyra	#1W	Oooh, come on! This is our	
 				four-month reunion. It's	
 				no time to be nervous...!	
 0xb76d	0x06	Lyra		ANI_WORRIED	
@@ -711,7 +711,7 @@ EV_0_S17_noi_warp
 0x1120c	0x06	Signa		ANI_WAIT4	
 0x11253	0x40	Signa		..........!?	
 				(What is this feeling...!?)	
-0x112a2	0x3F	Name		Masked Youth	
+0x112a2	0x3F	Name		Masked Young Man	
 0x112b6	0x40	ALTO		.......	mp_0001 0xc917
 0x11377	0x98	Signa		(The way I felt facing off	
 				 against that guy in the mask...	
@@ -734,7 +734,7 @@ EV_0_S18_check_gate
 				quick goodbye to Eartha and Lyra...	
 0x11cc4	0x06	ALTO		ANI_NOD	
 0x11ce9	0x98	ALTO	#6A	Yeah, I know, but...	
-				We've got to hurry now.	
+				we've got to hurry now.	
 0x11d3b	0x98	ALTO	#6A	Besides, if we can't come	
 				back through here, we can	
 				find another way back.	

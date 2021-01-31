@@ -44,11 +44,11 @@
 0xbb4	line	 up stairs and see over 
 0xbe8	line	 everyone's heads.'
 0xc1c	line	Apparently that's all I get.
-0xcbc	line	'Look throught the hole
+0xcbc	line	'Look through the hole
 0xcf0	line	 peering at the sky'...?
 0xd24	line	In that case...
 0xd58	line	
-0xdf8	line	'The back of the knight'?
+0xdf8	line	'The knight's backside'?
 0xe2c	line	It's probably the person
 0xe60	line	always wearing armor.
 0xe94	line	
@@ -67,7 +67,7 @@
 0x1214	line	good for a present. Let's speak
 0x1248	line	with her right away.
 0x12e8	line	Look for the Eternal Rose
-0x131c	line	that grows where cherries
+0x131c	line	that grows where cherry
 0x1350	line	blossoms fall. It might be on 
 0x1384	line	Terra's Forest Continent.
 0x1424	line	Found an Eternal Rose.
@@ -113,7 +113,7 @@
 0x1e6c	line	If you are available,
 0x1ea0	line	please come help.
 0x1f40	line	Tell Janis from the
-0x1f74	line	Elder's house about
+0x1f74	line	elder's house about
 0x1fa8	line	her exam.
 0x1fdc	line	
 0x207c	line	Tell Carina from the
@@ -136,7 +136,7 @@
 0x24cc	line	Oltapia temple.
 0x256c	line	Remnant Island specialties...
 0x25a0	line	Maybe Elder Serpent knows
-0x25d4	line	anything? I'll speak with
+0x25d4	line	something? I'll speak with
 0x2608	line	him right away.
 0x26a8	line	Seems like Ruins Rock Salt
 0x26dc	line	can be found on the
@@ -203,7 +203,7 @@
 0x371c	line	Let's find a good spot in
 0x3750	line	the winter of Rieseweld.
 0x37f0	line	Found a good spot in winter
-0x3824	line	of Dragon River Cavern.
+0x3824	line	of Dragon River Grotto.
 0x3858	line	Let's change to summer
 0x388c	line	so they can hatch.
 0x392c	line	Safely hatched the Moon
@@ -213,9 +213,9 @@
 0x3a18	quest name	A Clue About Sis
 0x3a48	client	Ursamina
 0x3a68	line	There's something I want
-0x3a9c	line	you to do. I'm waiting at
-0x3ad0	line	the cape on the other side
-0x3b04	line	of the island.
+0x3a9c	line	you to do. I'll be waiting at
+0x3ad0	line	the cape on the other side of
+0x3b04	line	the island.
 0x3ba4	line	Reticul should still be
 0x3bd8	line	somewhere in Terra.
 0x3c0c	line	Let's use the Astrolabe's
@@ -225,7 +225,7 @@
 0x3d48	line	various seasons for her.
 0x3d7c	line	
 0x3e1c	line	Reticul was last seen
-0x3e50	line	in Dragon River Cavern.
+0x3e50	line	in Dragon River Grotto.
 0x3e84	line	Let's keep searching
 0x3eb8	line	for her.
 0x3f58	line	I got a message from
@@ -241,7 +241,7 @@
 0x41d0	line	It seems a ferocious monster
 0x4204	line	has appeared. When we're
 0x4238	line	ready, let's head to autumn
-0x426c	line	of Scrying Pool Caves.
+0x426c	line	of Scrying Pool Cavern.
 0x430c	line	Defeated the monster,
 0x4340	line	'Albion!'
 0x4374	line	Let's report back immediately.
@@ -288,11 +288,11 @@
 0x4e5c	line	Mistress to reconcile.
 0x4e90	line	I'll be waiting in front
 0x4ec4	line	of the museum.
-0x4f64	line	I'll try asking Mrs. Camelope
+0x4f64	line	Let's try asking Mrs. Camelope
 0x4f98	line	at the inn about her
 0x4fcc	line	disagreement with Sasha.
-0x5000	line	
-0x50a0	line	I'll ask Sasha in the
+0x5000	line	 
+0x50a0	line	Let's ask Sasha in the
 0x50d4	line	general store about
 0x5108	line	her disagreement with
 0x513c	line	Mrs. Camelope.
@@ -303,7 +303,7 @@
 0x5318	line	If we had a sandalwood tree,
 0x534c	line	I might be able to do something.
 0x5380	line	Let's search for one in summer
-0x53b4	line	of Wind Cutting Valley.
+0x53b4	line	of the Canyon of Biting Wind.
 0x5454	line	Found a sandalwood tree.
 0x5488	line	Let's bring it to Norma and
 0x54bc	line	discuss meeting strategies.
@@ -332,17 +332,17 @@
 0x5ab4	line	know the location of
 0x5ae8	line	the nymphs. Let's ask
 0x5b1c	line	at each temple.
-0x5bbc	line	It seems the presence of
-0x5bf0	line	a nymph is in the summer
-0x5c24	line	of Hermit's Path in
+0x5bbc	line	It seems the presence of a
+0x5bf0	line	nymph is in the summer of
+0x5c24	line	Fruitful Hermit's Way in
 0x5c58	line	Oltapia. Let's look there.
 0x5cf8	line	It seems the presence of
 0x5d2c	line	a nymph is in the winter
-0x5d60	line	of Scrying Pool Caves in
+0x5d60	line	of Scrying Pool Cavern in
 0x5d94	line	Rieseweld. Let's look there.
 0x5e34	line	It seems the presence of
-0x5e68	line	a nymph is in the fall
-0x5e9c	line	of Wind Cutting Valley in
+0x5e68	line	a nymph is in autumn of the
+0x5e9c	line	Canyon of Biting Wind in
 0x5ed0	line	Heimmel. Let's look there.
 0x5f70	line	We were able to find all
 0x5fa4	line	of the nymphs safely.
@@ -375,12 +375,12 @@
 0x6740	line	Let's try looking in a season
 0x6774	line	where he might come out.
 0x6814	line	Found him in the winter of
-0x6848	line	La Worg! But, he ran into
+0x6848	line	La Worg! But he ran into
 0x687c	line	Ancient Reef. I wonder
 0x68b0	line	where he's hiding...
 0x6950	line	Found Mishy safely.
 0x6984	line	Let's bring him to
-0x69b8	line	Mrs. Mensa.
+0x69b8	line	Mensa.
 0x69ec	line	
 0x6a3c	quest name	A Nymph's Request
 0x6a6c	client	La Worg Nymph
@@ -404,7 +404,7 @@
 0x6edc	line	borrow your strength.
 0x6f7c	line	Gruz needs
 0x6fb0	line	3 Fresh Red Meat,
-0x6fe4	line	5 meat From The Bone,
+0x6fe4	line	5 Meat On The Bone,
 0x7018	line	and 2 Olm Shells.
 0x7068	quest name	Terra Research
 0x7098	client	Professor Volans
@@ -438,7 +438,7 @@
 0x7854	line	released. Let's review
 0x7888	line	the contents with Master
 0x78bc	line	Orvus.
-0x790c	quest name	Ancestral Offering 
+0x790c	quest name	Ancestral Offering
 0x793c	client	Elder Serpent
 0x795c	line	I want to entrust you with
 0x7990	line	an important role in the
@@ -462,11 +462,11 @@
 0x7ee8	line	seen quite often before?
 0x7f88	line	Assembled all the
 0x7fbc	line	offerings. I'll bring
-0x7ff0	line	them to the Elder.
+0x7ff0	line	them to the elder.
 0x8024	line	
 0x8074	quest name	Crush the Four Idols
 0x80a4	client	Noi
-0x80c4	line	Seems thats the idols of each
+0x80c4	line	Seems that the idols of each
 0x80f8	line	continent have revived with
 0x812c	line	even stronger powers.
 0x8160	line	Let's defeat them together!

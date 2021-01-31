@@ -166,7 +166,7 @@ EV_6_S30_bye_nemeas
 0x60b1	0x98	Nemeas		Please, take care of Lady	
 				Creha and the others.	
 0x610b	0x06	ALTO		ANI_THANKS	
-0x6133	0x98	ALTO	#6A	Yes...!	mp_0001 0xfd91
+0x6133	0x98	ALTO	#6A	Yes...!	
 0x6226	0x06	NOI		ANI_GESTURE2	
 0x624f	0x98	NOI	#6A	Anyway, now we've collected	mp_6300 0x63a4
 				all of the Stellagears!	

@@ -215,7 +215,7 @@ EV_1_S04_defeat_mons
 				need to build up our strength.	
 0x4796	0x06	Signa		ANI_JOY	
 0x47bc	0x98	Signa		They might be tough, but...	
-				If we see any, let's be sure	
+				if we see any, let's be sure	
 				to take them down.	
 0x4848	0x06	NOI		ANI_NOD	
 0x486c	0x98	NOI		Th-Thanks for the help.	

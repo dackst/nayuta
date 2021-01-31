@@ -123,7 +123,7 @@ talk_Aquela
 				This is thanks for that.	
 0x2e86	0x98	Aquela		The old myths tell of a story.	
 0x2ec2	0x98	Aquela		Once, in the age of creation...	
-				Only one moon floated in the sky.	
+				only one moon floated in the sky.	
 0x2f32	0x98	Aquela		People lived underneath this	
 				moon, together with the gods.	
 0x2f8f	0x98	ALTO		O-Only one moon? I've never	
@@ -173,7 +173,7 @@ talk_Dog_before
 				give this little guy a place	
 				shielded from wind and rain...	
 0x39f7	0x6B	ALTO		Ellipsis	
-0x3a29	0x98	ALTO		Hey, girl, wanna to come	
+0x3a29	0x98	ALTO		Hey, girl, wanna come	
 				over to my house?	
 0x3a6b	0x6B	Dog		Unknown	
 0x3a9c	0x98	Dog		Ruff, ruff! ♪	
@@ -209,7 +209,7 @@ talk_Dog_before
 subev_get_dog_return					
 subev_look_moon					
 0x4510	0x98	ALTO		The cape behind the island...	
-				There's usually not much people here.	
+				There's usually not many people here.	
 0x4572	0x98	ALTO		The view is nice, and the only sound	
 				is the echo of the waves...	
 0x45d4	0x6B	ALTO		Surprise	
@@ -365,7 +365,7 @@ QS_15_quest_start
 				to help you collect them.	
 0x6fe8	0x06	ALTO		ANI_GESTURE2	
 0x7012	0x98	ALTO	#6A	Oh, and speaking of which...	
-				This is the first request I've	
+				this is the first request I've	
 				ever gotten from you, Boote.	
 0x7082	0x98	ALTO	#6A	Haha, I'm a little flattered.	
 0x70bf	0x06	Bootie		ANI_ANGRYTALK	
@@ -908,10 +908,10 @@ QS_82_quest_end
 0xfcfc	0x98	Serpent	#6A	The festival will be held very soon.	
 				Please take care of yourself until then.	
 0xfd69	0x06	ALTO		ANI_THANKS	
-0xfd91	0x98	ALTO		Yes...!	
+0xfd91	0x98	ALTO		Yes, sir...!	
 0xfdb5	0x06	NOI		ANI_GESTURE2	
 0xfdde	0x98	NOI		I'm looking forward to this Star Festival.	
-0xfe81	0x07	System	#3C	Quest [Offering for Ancestors] completed!	
+0xfe81	0x07	System	#3C	Quest [Ancestral Offering] completed!	
 LP_osonae					
 0x100cf	0x40	UNDEF		There is an offering of crops,	
 				dried fish, and white flowers.	
@@ -1224,7 +1224,7 @@ EV_4_S13_meet_creha
 0x1693d	0x06	ALTO		ANI_COMPLAIN	
 0x16967	0x98	ALTO	#6A	Same as the people	
 				from this world...	
-				Like a normal girl.	
+				like a normal girl.	
 0x169d0	0x6B	Creha		Ellipsis	
 0x16a03	0x6B	ALTO		Surprise	
 0x16a35	0x06	ALTO		ANI_SCRATCH_HEAD	

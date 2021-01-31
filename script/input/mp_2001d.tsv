@@ -129,7 +129,7 @@ EV_3_S11_help_eris
 				continent, aren't you?	
 0x39d8	0x06	ALTO		ANI_GESTURE2	
 0x3a02	0x98	ALTO	#6A	Yeah, sorry for the delay, but...	
-				We're breaking the barrier now!	
+				we're breaking the barrier now!	
 0x3a92	0x06	NOI		ANI_GUTSPOSE	
 0x3ad8	0x98	NOI		Please, do it, Nayuta!	
 0x3b5b	0x06	ALTO		ANI_NOD	
@@ -245,7 +245,7 @@ EV_3_S11_help_eris
 				Please, don't worry about it.	
 0x6fbf	0x06	ALTO		ANI_WAIT4	
 0x6fe6	0x98	ALTO	#6A	(Hmm, now I'm curious, but...	
-				 It seems they don't want to	
+				 it seems they don't want to	
 				 tell me about it.)	
 0x707b	0x98	NOI	#6A	...Sorry, Nayuta. I've been keeping	
 				so many secrets from you...	

@@ -62,9 +62,9 @@ talk_Lyra
 				Sorry for always worrying you.	
 0x30f9	0x98	ALTO		...From now on, we will	
 				be heading off to where	
-				Creha the others are.	
+				Creha and the others are.	
 0x314d	0x98	ALTO		I don't want to make you worry again, but...	
-				Please, just bear with me a little more.	
+				please, just bear with me a little more.	
 0x31ab	0x98	Lyra		...I understand. If you say	
 				so, then I won't stop you.	
 0x31fd	0x98	Lyra		Noi, take care of	
@@ -86,7 +86,7 @@ talk_Lyra
 0x359b	0x98	ALTO		I see... Sorry about that.	
 				Do you know where she went?	
 0x35e3	0x98	Lyra		Hmm... She went to the elder's place, but...	
-				She should have been back by now...	
+				she should have been back by now...	
 0x3650	0x98	Lyra		She might have stopped somewhere along the way.	
 				...It's been bothering me for a while now, too.	
 0x36c8	0x98	ALTO		Well, I'll try looking for her.	
@@ -164,7 +164,7 @@ talk_Lyra
 0x4477	0x98	Lyra		Wh-What are you saying?	
 				...Weirdo Nayuta.	
 0x44fe	0x98	Lyra		I don't know what's up between you, but...	
-				It's good that you're close with Cygna.	
+				it's good that you're close with Cygna.	
 0x4565	0x98	Lyra		I've gotta go to Eartha for	
 				a cooking lesson after this.	
 0x45bd	0x98	Lyra		I don't have time to deal with	
@@ -294,7 +294,7 @@ talk_Barton
 0x5ba4	0x98	Barton		Hehe, please take care	
 				of her from now on.	
 0x5c29	0x98	Barton		I told Lyra to take the day off, but...	
-				Looks like that girl has a mind of her own.	
+				looks like that girl has a mind of her own.	
 0x5c97	0x98	Barton		Anyway, please continue	
 				watching out for her.	
 0x5ce5	0x98	Barton		And please, come back	
@@ -1180,7 +1180,7 @@ talk_Sculp
 0x1086c	0x98	Sculp		*belch*... Thank goodness...	
 				Truly, thank goodness...	
 0x10928	0x98	Sculp		*hic*... I really am drunk.	
-				Can't speak very clearly.	
+				Can't shpeak very clearly.	
 0x10985	0x98	Sculp		This damn Ax... You can never let	
 				your guard down around him.	
 talk_Sculp_add					
@@ -1490,7 +1490,7 @@ talk_Mensa
 0x14799	0x98	Mensa		Our client hired us to find and take	
 				care of Mishy, and to manage the land	
 				that will be his legacy.	
-0x1481b	0x98	Mensa		Well, it's a pain in the ass...	
+0x1481b	0x98	Mensa		Honestly, it's a pain in the ass...	
 				But we have to finish what he	
 				asked us to do.	
 0x148c4	0x98	Mensa		Hmm... If we still	
@@ -1598,7 +1598,7 @@ talk_Victor
 				use to him as well.	
 0x15fe0	0x98	Victor		The state of affairs in the Empire	
 				is decidedly not looking good.	
-0x16052	0x98	Victor		...As Baron, I may have to	
+0x16052	0x98	Victor		...As a baron, I may have to	
 				return to the Empire with	
 				the war starting...	
 0x160e6	0x98	Victor		For now, I'm going to stay on this	
@@ -1788,7 +1788,7 @@ talk_Eida_Creha
 				to return, you come back all wet.	
 0x186b4	0x98	Lyra		...Here, I'll lend you a towel,	
 				so dry yourself off properly, okay?	
-0x18711	0x98	Creha		'Tao-el'...?	
+0x18711	0x98	Creha		'Towel'...?	
 0x1873b	0x6B	Lyra		Sweatdrop	
 0x1876d	0x98	Lyra		F-Forget it, just hold still.	
 				(Oh, all right, if I have to...)	
@@ -1812,7 +1812,7 @@ quest_Gruz
 0x18c28	0x98	Gruz		The three ingredients I want	
 				you to procure are...	
 0x18c7e	0x98	Gruz		Three Fresh Red Meat,	
-				five Meat From The Bone,	
+				five Meat On The Bone,	
 				and two Olm Shells.	
 0x18cdf	0x98	Gruz		Thanks and good luck to you,	
 				Nayu and Noi, my children!	
@@ -1884,7 +1884,7 @@ QS_58_quest_start
 0x19ceb	0x06	Mensa		ANI_SIT1_DENY	
 0x19d17	0x98	Mensa		I know it must be tough for you	
 				after the recent attack, but...	
-				This is an emergency.	
+				this is an emergency.	
 0x19dad	0x98	Mensa		Do you mind if we ask	
 				you about the job now?	
 0x19e18	0x06	Ophiuchus		ANI_GESTURE2	
@@ -1951,10 +1951,10 @@ QS_58_ask_reason
 				the request to you.	
 0x1a9e9	0xBC	ALTO		Question	
 0x1aa27	0x06	ALTO		ANI_GESTURE1	
-0x1aa51	0x98	ALTO	#6A	'C-Catch him'...?	
+0x1aa51	0x98	ALTO	#6A	'Catch him'...?	
 0x1aa7f	0x98	ALTO	#6A	Besides, in a village this small,	
 				I feel like it would be difficult	
-				not to run into him...	
+				NOT to run into him...	
 0x1aae4	0x06	Mensa		ANI_SIT1_DENY	
 0x1ab10	0x98	Mensa		...An understandable question.	
 0x1ab4d	0x06	Mensa		ANI_SIT1_GESTURE2	
@@ -2208,7 +2208,7 @@ QS_13_ask_request
 0x1e27a	0x98	Gruz		The three ingredients I want	mp_0112 0x18c28
 				you to procure are...	
 0x1e2c9	0x98	Gruz		First, three Fresh Red Meat.	
-				Next, five Meat From The Bone.	
+				Next, five Meat On The Bone.	
 				And finally, two Olm Shells.	
 0x1e373	0x06	ALTO		ANI_HOLD	
 0x1e399	0x98	ALTO	#6A	(*memo*, *memo*)...	
@@ -2519,7 +2519,7 @@ QS_25_undertake
 0x22a99	0x06	ALTO		ANI_GESTURE2	
 0x22ac3	0x98	ALTO	#6A	Uh, Dr. Hydrol. I can help	
 				you, if you'd like.	
-0x22b11	0x98	ALTO	#6A	Well if it's something	
+0x22b11	0x98	ALTO	#6A	Well, if it's something	
 				I can do, that is.	
 0x22b95	0x06	Hydol		ANI_GESTURE2	
 0x22bc0	0x98	Hydol		Really? That'd be great!	
@@ -2632,7 +2632,7 @@ QS_34_ask_Camelope
 0x244b4	0x98	ALTO	#6A	Umm, excuse me. You're	
 				Mrs. Camelope, right?	
 0x24500	0x06	Camelope		ANI_SIT1_NOD	
-0x2452e	0x98	Camelope		I am indeed, but...	
+0x2452e	0x98	Camelope		I am indeed...	
 				Do you have some business with me?	
 0x24587	0x06	ALTO		ANI_OJIGI	
 0x245ae	0x98	ALTO	#6A	My name is Nayuta, and I'm from this island.	
@@ -2664,8 +2664,8 @@ QS_34_ask_Camelope
 0x24aa0	0x06	ALTO		ANI_GESTURE1	
 0x24aca	0x98	ALTO	#6A	I mean, don't you want Sasha to	
 				take over the family estate...?	
-0x24b42	0x98	Camelope		Though I want her to inherit it, but...	
-				It is her life, after all.	
+0x24b42	0x98	Camelope		I do want her to inherit it, but...	
+				it is her life, after all.	
 0x24bbc	0x98	Camelope		It's just... Whenever I talk to that girl,	
 				I get so upset. I don't know why.	
 0x24c19	0x06	Camelope		ANI_SIT1_GESTURE2	
@@ -2766,7 +2766,7 @@ QS_41_undertake
 				without saying anything...	
 0x261e8	0x06	Victor		ANI_WAIT3	
 0x26211	0x98	Victor		I'd rather not consider it, but...	
-				This could be a kidnapping.	
+				this could be a kidnapping.	
 0x26286	0x98	Victor		It must be an attempt to get at my	
 				wealth by holding her for ransom...!	
 0x262ee	0x06	ALTO		ANI_SCRATCH_HEAD	

@@ -314,9 +314,9 @@ EV_2_S20_help_gio
 0x89c4	0x06	Gio		ANI_NOD	
 0x8a05	0x98	Gio		I know the road ahead	
 				will be difficult, but...	
-				Please, help out Noi.	
+				please, help out Noi.	
 0x8a54	0x06	ALTO		ANI_THANKS	
-0x8a7c	0x98	ALTO	#6A	Yes...!	mp_0001 0xfd91
+0x8a7c	0x98	ALTO	#6A	Yes...!	
 0x8aab	0x06	Gio		ANI_LAUGH	
 0x8b13	0x98	Gio		Heheheh, you have a good face.	
 0x8b9a	0x98	Gio		I will be going back to my	

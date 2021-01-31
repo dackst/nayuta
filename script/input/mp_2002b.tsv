@@ -31,7 +31,7 @@ SUB_meet_adventurer
 0x19be	0x98	NOI	#16S	H-Humans!?	
 0x19eb	0x6B	Reticul		Surprise	
 0x1a68	0x6B	Cetus		Surprise	
-0x1b04	0x3F	Name		Youth with Rucksack	mp_0003 0xa0db
+0x1b04	0x3F	Name		Young Man in Travel Gear	mp_0003 0xa0db
 0x1b1f	0x06	Cetus		ANI_GESTURE2	
 0x1b4a	0x98	Cetus		Oh, I didn't think we'd run into	
 				anyone all the way out here.	
@@ -51,7 +51,7 @@ SUB_meet_adventurer
 0x2042	0x98	Reticul		I-It talked!? There's	
 				something funny going	
 				on here.	
-0x2091	0x3F	Name		Youth with Rucksack	mp_0003 0xa0db
+0x2091	0x3F	Name		Young Man in Travel Gear	mp_0003 0xa0db
 0x20ac	0x06	Cetus		ANI_WAIT2	
 0x20d4	0x98	Cetus		Hmm, so it's called 'Terra'...	
 				It's certainly a strange world	

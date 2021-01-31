@@ -87,7 +87,7 @@ training_Aulbath
 0x3189	0x06	Aulbath		ANI_GESTURE2	
 0x31b6	0x98	Aulbath		Never tire, and always endeavor	
 				to train yourself.	
-0x3201	0x98	ALTO	#6A	Yes...!	mp_0001 0xfd91
+0x3201	0x98	ALTO	#6A	Yes, sir...!	mp_0001 0xfd91
 0x3252	0x06	Aulbath		ANI_WAIT2	
 0x329c	0x98	Aulbath		Now then...	
 				I shall grant you a new skill.	
@@ -100,7 +100,7 @@ training_Aulbath
 0x33e0	0x98	Aulbath		I shall begin right away.	
 				...Are you ready?	
 0x342c	0x06	ALTO		ANI_NOD	
-0x3451	0x98	ALTO	#6A	Yes...	
+0x3451	0x98	ALTO	#6A	Yes, sir...	
 				Thank you for training me!	
 0x3504	0x06	ALTO		ANI_KEN_WO_KAMAERU_A_2	
 0x3557	0x06	Aulbath		ANI_WAIT3	
@@ -171,7 +171,7 @@ training_Aulbath
 				obstacle. Push on, following the path	
 				that you believe in.	
 0x5e89	0x06	ALTO		ANI_THANKS	
-0x5eb1	0x98	ALTO		Yes!	
+0x5eb1	0x98	ALTO		Yes, sir!	
 				Thank you very much!	
 0x5f89	0x07	System	#4C	You can reference the newly acquired skill under 'Manual'	
 				in the menu. If you speak with Master and select 'Hear	

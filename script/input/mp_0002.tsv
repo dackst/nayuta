@@ -130,7 +130,7 @@ talk_Aulbath_sub
 				her own shortcomings.	
 0x24ac	0x98	Aulbath		Nayuta, it is especially during a time	
 				like this that you should support her.	
-0x24fd	0x98	ALTO		Yes...!	mp_0001 0xfd91
+0x24fd	0x98	ALTO		Yes, sir...!	mp_0001 0xfd91
 0x2549	0x98	Aulbath		She has a strong spirit, but	mp_0002 0x2454
 				she has a tendency to hide	
 				her own shortcomings.	
@@ -516,7 +516,7 @@ QS_02_normal_attack
 0x7ebb	0x98	Aulbath		Though you've had lots of practice in the past,	
 				today, I want you to try to go back to your	
 				roots and start from the beginning.	
-0x7f3c	0x98	ALTO	#6A	Yes...!	mp_0001 0xfd91
+0x7f3c	0x98	ALTO	#6A	Yes, sir...!	mp_0001 0xfd91
 0x7f99	0x07	System	#3C	Quest [Sword Practice] started!	
 0x7fd7	0x98	Aulbath		Now, before we start, you will	
 				need to equip your sword.	
@@ -535,7 +535,7 @@ QS_02_normal_attack2
 0x85f4	0x98	Aulbath		Feel free to use that sword	
 				and destroy them all.	
 0x864d	0x06	ALTO		ANI_NOD	
-0x8672	0x98	ALTO		Yes!!	
+0x8672	0x98	ALTO		Yes, sir!!	
 0x86cb	0x07	System	#4C	Press ○ to perform a normal	
 				attack with a weapon.	
 0x86fc	0x07	System	#4C	If you push the button repeatedly,	
@@ -551,7 +551,7 @@ QS_02_jump_avoid
 				have been away from the sword for a while,	
 				your instincts seem to return quickly.	
 0x8cb8	0x98	Aulbath		Cygna is a natural at the sword, but...	
-				You never fell too far behind, huh?	
+				you never fell too far behind, huh?	
 0x8d34	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x8d62	0x98	ALTO	#6A	H-Haha... You flatter me, Master.	
 0x8db1	0x98	ALTO	#6A	Cygna's swordsmanship	
@@ -650,7 +650,7 @@ QS_02_quest_end
 0xa6bc	0x3F	Name		Orvus' Voice	
 0xa6d0	0x98	Aulbath		Hmm, good work.	
 0xa832	0x98	ALTO	#6A	Master, is the	
-				village alright?	
+				village all right?	
 0xa87b	0x06	Aulbath		ANI_NOD	
 0xa8a3	0x98	Aulbath		Yes, though I was on the lookout,	
 				no monsters tried to enter.	
@@ -682,7 +682,7 @@ QS_02_quest_end
 				be sure not to neglect	
 				your training.	
 0xadab	0x06	ALTO		ANI_NOD	
-0xadd0	0x98	ALTO	#6A	Yes!!	mp_0002 0x8672
+0xadd0	0x98	ALTO	#6A	Yes, sir!!	mp_0002 0x8672
 0xae2c	0x07	System	#3C	Quest [Sword Practice] completed!	
 0xaf11	0x06	Aulbath		ANI_WAIT	
 0xb046	0xC1	System		#3CLearned technique 『Spinning Cut』!	
@@ -739,11 +739,11 @@ QS_02_stopperA
 0xd458	0x98	Aulbath		Nayuta, where are you going?	
 				You still haven't finished	
 				destroying the dummies.	
-0xd4f0	0x98	ALTO		Y-Yes!	
+0xd4f0	0x98	ALTO		Y-Yes, sir!	
 0xd57e	0x98	Aulbath		You said you would take the	
 				training lesson. Where are	
 				you going? Come back here.	
-0xd614	0x98	ALTO		Y-Yes!	mp_0002 0xd4f0
+0xd614	0x98	ALTO		Y-Yes, sir!	mp_0002 0xd4f0
 QS_02_stopperB					
 0xd6e7	0x98	ALTO		(Master trusted me with the	
 				 task of slaying the monsters...	
@@ -752,12 +752,12 @@ QS_02_stopperB
 0xd7cd	0x98	Aulbath		You still haven't finished	
 				destroying the dummies.	
 				Get back over here.	
-0xd85d	0x98	ALTO		Y-Yes!	mp_0002 0xd4f0
+0xd85d	0x98	ALTO		Y-Yes, sir!	mp_0002 0xd4f0
 0xd8eb	0x98	Aulbath		Nayuta, that is my house.	mp_0002 0xd792
 0xd926	0x98	Aulbath		You said you would take the	mp_0002 0xd57e
 				training lesson. Where are	
 				you going? Come back here.	
-0xd9bc	0x98	ALTO		Y-Yes!	mp_0002 0xd4f0
+0xd9bc	0x98	ALTO		Y-Yes, sir!	mp_0002 0xd4f0
 QS_11_get_treasure					
 0xdbc0	0x98	ALTO		'A vehicle for setting off on a journey'...?	mp_0000 0x13e59
 0xdc0f	0x98	ALTO		It sounds like the hiding place	
@@ -823,7 +823,7 @@ QS_81_quest_start
 				it is more convenient.	
 QS_81_undertake					
 0xef1d	0x06	ALTO		ANI_THANKS	
-0xef45	0x98	ALTO	#6A	Yes, nothing comes above my	
+0xef45	0x98	ALTO	#6A	Yes, nothing comes before my	
 				Master's request. Please, go	
 				on and we'll take care of it.	
 0xefcf	0x98	Aulbath		Heheh, I am in your debt.	
@@ -868,7 +868,7 @@ QS_81_undertake
 0xf826	0x98	ALTO	#6A	Huh, if I look closely at the box...	
 				Doesn't it look like some kind of	
 				writing is engraved in it?	
-0xf8a9	0x98	NOI	#6A	That's... the ancient	
+0xf8a9	0x98	NOI	#6A	That's...the ancient	
 				script of the Mitos...?	
 0xf911	0x98	Aulbath		Perhaps it contains a	
 				hint for opening the box.	
@@ -990,7 +990,7 @@ QS_81_quest_end
 0x11380	0x06	NOI		ANI_WAIT	
 0x113a5	0x98	Aulbath		Hmm... Please do.	
 0x1142a	0x40	UNDEF		Nayuta and the others decided to head to the	
-				Herschels' house. They explained the situation	
+				Herschel residence. They explained the situation	
 				to Eartha, who performed the star shard analysis.	
 EV_2_S04_under_noi					
 0x11760	0x98	ALTO		(...In the end, Cygna wasn't	

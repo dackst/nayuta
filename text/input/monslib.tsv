@@ -34,7 +34,7 @@
 0x63e	line	Powerful autonomous tank.
 0x65e	line	Spits tiny bombs and tramples
 0x67e	line	surrounding wildlife.
-0x6de	mon name	Duokuroi
+0x6de	mon name	Duoqurois
 0x6fe	line	Pair of idols guarding temple.
 0x71e	line	Hits the floor with their huge
 0x73e	line	arms, shaking its foundation.
@@ -136,7 +136,7 @@
 0x193e	line	throw rocks in ambush attacks.
 0x199e	mon name	Girinos
 0x19be	line	Mutated monster. Spits bubbles
-0x19de	line	containing paralyzing poison
+0x19de	line	containing paralyzing venom
 0x19fe	line	to slowly kill its enemies.
 0x1a5e	mon name	Bladelion
 0x1a7e	line	Powerful medium-sized monster.
@@ -146,7 +146,7 @@
 0x1b3e	line	Shadow monster summoned by
 0x1b5e	line	Zext. Its strong magical wards
 0x1b7e	line	repel enemy attacks.
-0x1bde	mon name	Pallichthya
+0x1bde	mon name	Palreschia
 0x1bfe	line	Fish idol guarding temple.
 0x1c1e	line	Manipulates lightning at will,
 0x1c3e	line	reducing intruders to ashes.
@@ -169,7 +169,7 @@
 0x1f9e	mon name	Ruby Lizard
 0x1fbe	line	Lizard that eats minerals.
 0x1fde	line	Gemstones are its favorite,  
-0x1ffe	line	turning its skin ruby red.
+0x1ffe	line	turning its skin ruby-red.
 0x205e	mon name	Gigant Ogre
 0x207e	line	Large humanoid boasting massive
 0x209e	line	strength. Its fire-infused arms
@@ -209,7 +209,7 @@
 0x271e	mon name	Poisonfish
 0x273e	line	Fish that lives in swamps.
 0x275e	line	Rams those near water's
-0x277e	line	edge with its poisoned body.
+0x277e	line	edge with its venomous body.
 0x27de	mon name	Arachne
 0x27fe	line	Giant female spider beastman.
 0x281e	line	Uses its many legs to unleash
@@ -258,11 +258,11 @@
 0x303e	line	Ancient mythological creature.
 0x305e	line	Scorches the earth, exhaling
 0x307e	line	black flames it produces.
-0x30de	mon name	Cravaltarf
+0x30de	mon name	Krabaltarf
 0x30fe	line	Crab idol guarding temple.
 0x311e	line	An army of countless crabs
 0x313e	line	that can change its shape.
-0x319e	mon name	Lupine Armor
+0x319e	mon name	Doggy Armor
 0x31be	line	Canine monster wearing armor.
 0x31de	line	Uses its full weight to 
 0x31fe	line	unleash rabid attacks.
@@ -316,7 +316,7 @@
 0x3afe	line	never lets its prey escape.
 0x3b5e	mon name	Flier
 0x3b7e	line	A swarm of countless flies.
-0x3b9e	line	On top of spreading poison,
+0x3b9e	line	On top of spreading disease,
 0x3bbe	line	it is resistant to attacks.
 0x3c1e	mon name	Zorropino
 0x3c3e	line	Fox wearing pinecones like
@@ -368,9 +368,9 @@
 0x44be	line	arms, burning up everything.
 0x451e	mon name	Salamander
 0x453e	line	Mythical fire dragon. Its blood
-0x455e	line	is said to 10k degrees. All are
-0x457e	line	fallen before its flame breath.
-0x45de	mon name	Sagicheiron
+0x455e	line	is said to be 10k degrees. All
+0x457e	line	fall before its flame breath.
+0x45de	mon name	Sagiscellan
 0x45fe	line	Shapeless idol guarding temple.
 0x461e	line	Manipulates its body of lava
 0x463e	line	to take on various forms.
@@ -510,7 +510,7 @@
 0x5f7e	line	Exceptionally powerful giant.
 0x5f9e	line	Drives steel spikes into its
 0x5fbe	line	body to raise its strength.
-0x601e	mon name	Raprivern
+0x601e	mon name	Raegipan
 0x603e	line	Idol guarding the underground
 0x605e	line	central district. Uses mighty
 0x607e	line	wings to create tornados.
@@ -522,7 +522,7 @@
 0x61be	line	Idol guarding the underground
 0x61de	line	central district. Tears apart
 0x61fe	line	the battlefield with swords.
-0x625e	mon name	Armadilleos
+0x625e	mon name	Armadalleos
 0x627e	line	Idol guarding the underground
 0x629e	line	district. Installed with many 
 0x62be	line	weapons of mass destruction.
@@ -566,8 +566,8 @@
 0x69fe	line	Head of the Mitos, the race of
 0x6a1e	line	the gods. Seeks to end humanity
 0x6a3e	line	and spin up a new planet.
-0x6a9e	mon name	Stell Arcorion
-0x6abe	line	Idol of the Planetarium,
+0x6a9e	mon name	Stell Alacran
+0x6abe	line	Idol of the Planisphere,
 0x6ade	line	bound to ancient mission to
 0x6afe	line	erase and recreate the world.
 0x6b5e	mon name	隠し
@@ -628,7 +628,7 @@
 0x757e	line	parts to buff its attacks.
 0x75de	mon name	Evil Taikun
 0x75fe	line	Tyrannical large demon dragon.
-0x761e	line	Manipules wind freely, mowing
+0x761e	line	Manipulates wind freely, mowing
 0x763e	line	down the area in a flash.
 0x769e	mon name	Guerra Aspis
 0x76be	line	Vicious bug that shields itself
@@ -646,19 +646,19 @@
 0x78fe	line	A small, mutated living sun.
 0x791e	line	Its hot rays burn away at
 0x793e	line	its surroundings.
-0x799e	mon name	New Duokuroi
+0x799e	mon name	New Duoqurois
 0x79be	line	Revived idols. With more power
 0x79de	line	than before, they cooperate to
 0x79fe	line	butcher intruders.
-0x7a5e	mon name	New Pallichthya
+0x7a5e	mon name	New Palreschia
 0x7a7e	line	Revived fish idol. With its
 0x7a9e	line	rigid tusks and lightning,
 0x7abe	line	it devours all.
-0x7b1e	mon name	New Cravaltarf
+0x7b1e	mon name	New Krabaltarf
 0x7b3e	line	Revived crab idol. Guards the
 0x7b5e	line	temple with its countless wea-
 0x7b7e	line	pons and invincible pincers.
-0x7bde	mon name	New Sagicheiron
+0x7bde	mon name	New Sagiscellan
 0x7bfe	line	Revived lava idol.
 0x7c1e	line	Hiding great energy, it
 0x7c3e	line	manipulates lava freely.

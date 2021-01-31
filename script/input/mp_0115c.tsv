@@ -102,7 +102,7 @@ lp_middlefish
 0x34f6	0x41	None		[Northern Sea Nettle] Chrysaora melanaster	
 				Jellyfish with 16 red stripes on its umbrella.	
 				When it is washed ashore and dries, the	
-				poison in its tentacles becomes a fine	
+				venom in its tentacles becomes a fine	
 				powder that causes violent sneezing.	
 0x3752	0x41	None		[Nomura's Jellyfish] Nemopilema	
 				A large jellyfish.	
@@ -197,7 +197,7 @@ lp_largefish
 0x57df	0x41	None		[Ray] Myliobatiformes	
 				Horizontally flat large fish.	
 				It swims gracefully through the sea as though flying.	
-				It holds a paralyzing poison at the base of its tail.	
+				It holds a paralyzing venom at the base of its tail.	
 0x5931	0x41	None		[Hammerhead Shark] Sphyrnidae	
 				Ferocious fish with a strangely shaped head.	
 				With eyes at the ends of its face that stretches	
@@ -280,7 +280,7 @@ talk_Vavo
 				on his research assistant.	
 0x6d18	0x98	Vavo		To repay him, I want to	mp_0115c 0x6c1d
 				show him great results	
-				of my research someday.	
+				from my research someday.	
 0x6db3	0x98	Vavo		All the aquatic organisms in this room	
 				were found suspended inside ice crystals.	
 0x6e0e	0x98	Vavo		Using a special process, we are	

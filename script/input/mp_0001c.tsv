@@ -16,8 +16,8 @@ talk_Dorado
 				I'm concerned another could appear	
 				in the future...	
 0xd49	0x98	Dorado		I'll have to consult with Orvus	
-				and see if we can't do something	
-				to protect the village.	
+				about trying to protect the	
+				village somehow.	
 0xdab	0x98	Dorado		Thank you for saving	
 				Lyra and Vel for me.	
 0xdf9	0x98	Dorado		...But I never thought I'd	
@@ -235,7 +235,7 @@ talk_Dog_before
 				give this little guy a place	
 				shielded from wind and rain...	
 0x3786	0x6B	ALTO		Ellipsis	
-0x37b8	0x98	ALTO		Hey, girl, wanna to come	mp_0001 0x3a29
+0x37b8	0x98	ALTO		Hey, girl, wanna come	mp_0001 0x3a29
 				over to my house?	
 0x37fa	0x6B	Dog		Unknown	
 0x382b	0x98	Dog		Ruff, ruff! ♪	mp_0001 0x3a9c

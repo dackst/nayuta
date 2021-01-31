@@ -84,7 +84,7 @@ quest_Algorl
 				For that, I give my thanks.	
 0x3f98	0x98	Algorl		The life signature of Nemeas' nymph	
 				is in the southwest part of Heimmel,	
-				near Wind Cutting Valley.	
+				near the Canyon of Biting Wind.	
 0x4025	0x98	Algorl		You might wish to search 	
 				with the season set to autumn.	
 0x4078	0x98	Algorl		It seems the signature is considerably	
@@ -363,9 +363,9 @@ QS_54_talk_Algorl
 0x83ff	0x06	ALTO		ANI_GESTURE1	
 0x8429	0x98	ALTO	#6A	Thank goodness... Do you know where?	mp_1099 0x98b9
 0x8478	0x06	Algorl		ANI_GESTURE1	
-0x84a4	0x98	Algorl		It was located near	
-				Wind Cutting Valley	
-				in southwestern Heimmel.	
+0x84a4	0x98	Algorl		It was located near the	
+				Canyon of Biting Wind in	
+				southwestern Heimmel.	
 0x8515	0x98	Algorl		It seemed considerably distraught,	
 				you should try and go during the	
 				normal season.	
@@ -566,12 +566,12 @@ quest_SpiritD_End
 0xb162	0x06	ALTO		ANI_JOY	
 0xb187	0x98	ALTO		Haha, thanks. I'll accept this.	mp_1099 0xc3ff
 0xb209	0x06	NOI		ANI_THINK	
-0xb247	0x98	NOI	#6A	We're going to have to go, but...	mp_1099 0xc4bf
+0xb247	0x98	NOI	#6A	We're going to have to go...	mp_1099 0xc4bf
 				Please, keep up the good work.	
 0xb2b0	0x06	NOI		ANI_GESTURE1	
 0xb2d9	0x98	NOI	#6A	If you have any more	mp_1099 0xc551
 				problems, please contact us.	
-0xb33c	0x98	NOI	#6A	We're going to have to go, but...	mp_1099 0xc4bf
+0xb33c	0x98	NOI	#6A	We're going to have to go...	mp_1099 0xc4bf
 				Please, keep up the good work.	
 0xb3a5	0x06	NOI		ANI_GESTURE1	
 0xb3ce	0x98	NOI	#6A	If you have any more	mp_1099 0xc646
@@ -700,7 +700,7 @@ QS_83_quest_end
 0xe776	0x98	Nemeas		Noi... I understand that you are a new	mp_1099 0xf1fe
 				Noi and have no recollection of the past.	
 0xe7da	0x98	Nemeas		I know you may have doubts, but...	mp_1099 0xf262
-				Even so, you are still Noi.	
+				even so, you are still Noi.	
 0xe840	0x06	Nemeas		ANI_NOD	
 0xe867	0x98	Nemeas		Together with Nayuta, I am certain	mp_1099 0xf2ef
 				you are capable of saving Lady	
@@ -761,7 +761,7 @@ QS_83_quest_end
 0xf53f	0x98	ALTO	#2W#6A	Is that so...? We'll definitely miss you.	mp_1099 0xffc7
 0xf585	0x06	Gio		ANI_GESTURE2	
 0xf5bc	0x98	Gio	#0W	Heheh, I'm sorry to say this, but...	mp_1099 0x10044
-				It is unavoidable.	
+				it is unavoidable.	
 0xf637	0x98	Gio	#6A	We will always be watching over you.	mp_1099 0x100bf
 				Be sure to do your part well.	
 0xf6a5	0x06	Erislet		ANI_NOD	
@@ -814,7 +814,7 @@ EV_3_S15_temple3_top
 0x10b7e	0x98	ALTO		It seems eerily quiet.	
 0x10be8	0x98	NOI	#6A	This time around Zext and	
 				everyone else are already gone...	
-0x10c37	0x98	NOI	#6A	The altar is just up ahead, but...	
+0x10c37	0x98	NOI	#6A	The altar is just up ahead...	
 				Don't let your guard down.	
 0x10cb9	0x06	ALTO		ANI_NOD	
 0x10cde	0x98	ALTO		Yeah, let's stay focused.	

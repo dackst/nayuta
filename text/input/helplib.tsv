@@ -14,8 +14,8 @@
 0x210	World Map ②
 0x238	World Map ③
 0x260	Stage Results
-0x288	Four Season Magic ①
-0x2b0	Four Season Magic ②
+0x288	4 Season Magic ①
+0x2b0	4 Season Magic ②
 0x2d8	Gear Crafts ①
 0x300	Gear Crafts ②
 0x328	Gear Crafts ③
@@ -30,4 +30,4 @@
 0x490	Mastery/Guarding
 0x4b8	Mastery/Evasion
 0x4e0	Mastery/CHAIN
-0x508	Mastery/Magic Charge
+0x508	Mastery/MagicCharge

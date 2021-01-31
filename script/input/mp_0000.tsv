@@ -148,7 +148,7 @@ talk_Dorado
 0x4187	0x98	Dorado		So I'll let you handle the	
 				monster extermination, Nayuta.	
 0x41e8	0x98	ALTO		Come to think of it, I don't	
-				think I've never seen you	
+				think I've ever seen you	
 				fight before, Dorado...	
 0x4243	0x98	Dorado		H-Hey now, don't damage my reputation.	
 0x428b	0x98	Dorado		E-Even I...!	
@@ -202,7 +202,7 @@ talk_Dorado
 				She's out of my league.	
 talk_Lupus					
 0x4cb7	0x98	Lupus		With a sudden flash of light, the fairy	
-				Noi fell down onto the Tower Ruins.	
+				Noi fell down onto the ruins.	
 0x4d23	0x98	Lupus		But her memories are gone...?	
 0x4d66	0x98	Lupus		Oh, here it comes. Life's not	
 				worth living without drama	
@@ -367,7 +367,7 @@ talk_Lupus
 0x6b85	0x98	Lupus		Hehe, you've certainly lived up to	
 				your reputations as troublemakers.	
 0x6bec	0x6B	ALTO		Sweatdrop	
-0x6c1e	0x98	ALTO		(That's a heck of an accusation...)	
+0x6c1e	0x98	ALTO		(That's one heck of an accusation...)	
 0x6c87	0x98	Lupus		But it's still a shame. If it were	
 				tourist season right now, it would	
 				be even more exciting...	
@@ -1303,7 +1303,7 @@ QS_11_fourth_hint
 0x137e7	0x98	ALTO	#6A	Excuse me, Dorado. Do you mind	
 				turning around for a sec?	
 0x13835	0x98	Dorado		...Sure, I don't mind, but...	
-				You're pretty strange, you know that?	
+				you're pretty strange, you know that?	
 0x138b4	0x40	UNDEF		A paper is stuck in Dorado's belt.	
 0x13904	0x6B	ALTO		Sweatdrop	
 0x13936	0x06	ALTO		ANI_DEJECTED	
@@ -1559,7 +1559,7 @@ tuto_quest_memo
 tuto_museum_force1					
 0x17b08	0x3F	Name		Man's Voice	
 0x17b1b	0x98	Volans	#0x#270y	Oh, you are...	
-				A child of this island?	
+				a child of this island?	
 0x17b7a	0x6B	ALTO		Surprise	
 0x17d3e	0x06	Volans		ANI_WAIT0	
 0x17d6f	0x06	ALTO		ANI_GESTURE2	
@@ -1623,7 +1623,7 @@ tuto_museum_force1
 				of course!	
 0x18815	0x06	Volans		ANI_GESTURE2	
 0x18841	0x98	Volans		Haha, good answer.	
-				Then... Come with me!	
+				Then... come with me!	
 SB_0_S02_appear_ALTO					
 SB_0_S02_appear_Signa					
 SB_0_S02_move_ALTO					
@@ -1796,7 +1796,7 @@ EV_2_S05_meet_hydol
 0x1c2b5	0x6B	Hydol		Question	
 0x1c2e8	0x06	Hydol		ANI_WAIT3	
 0x1c310	0x98	Hydol		Hmm, I'm not sure why, but...	
-				You seem a little down.	
+				you seem a little down.	
 0x1c371	0x98	Hydol		I'll be renting a room	
 				at the inn for a while.	
 0x1c3be	0x06	Hydol		ANI_GESTURE1	

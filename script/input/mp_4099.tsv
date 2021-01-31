@@ -347,7 +347,7 @@ stp_qs54_last
 				who should be thanking you.	
 0x6fb4	0x98	Nemeas		I do not know if this fully	
 				returns the favor, but...	
-				Please, use this power.	
+				please, use this power.	
 0x70e4	0x07	System	#1C	Noi learned the spring magic, #4C『#787IGospel Flower』#1C.	
 0x716a	0x06	Nemeas		ANI_NOD	
 0x7191	0x98	Nemeas		It is a difficult art to master,	
@@ -552,12 +552,12 @@ quest_SpiritD_End
 0x9d12	0x06	ALTO		ANI_JOY	
 0x9d37	0x98	ALTO		Haha, thanks. I'll accept this.	mp_1099 0xc3ff
 0x9db9	0x06	NOI		ANI_THINK	
-0x9df7	0x98	NOI	#6A	We're going to have to go, but...	mp_1099 0xc4bf
+0x9df7	0x98	NOI	#6A	We're going to have to go...	mp_1099 0xc4bf
 				Please, keep up the good work.	
 0x9e60	0x06	NOI		ANI_GESTURE1	
 0x9e89	0x98	NOI	#6A	If you have any more	mp_1099 0xc551
 				problems, please contact us.	
-0x9eec	0x98	NOI	#6A	We're going to have to go, but...	mp_1099 0xc4bf
+0x9eec	0x98	NOI	#6A	We're going to have to go...	mp_1099 0xc4bf
 				Please, keep up the good work.	
 0x9f55	0x06	NOI		ANI_GESTURE1	
 0x9f7e	0x98	NOI	#6A	If you have any more	mp_1099 0xc646
@@ -686,7 +686,7 @@ QS_83_quest_end
 0xcc7b	0x98	Nemeas		Noi... I understand that you are a new	mp_1099 0xf1fe
 				Noi and have no recollection of the past.	
 0xccdf	0x98	Nemeas		I know you may have doubts, but...	mp_1099 0xf262
-				Even so, you are still Noi.	
+				even so, you are still Noi.	
 0xcd45	0x06	Nemeas		ANI_NOD	
 0xcd6c	0x98	Nemeas		Together with Nayuta, I am certain	mp_1099 0xf2ef
 				you are capable of saving Lady	
@@ -747,7 +747,7 @@ QS_83_quest_end
 0xda44	0x98	ALTO	#2W#6A	Is that so...? We'll definitely miss you.	mp_1099 0xffc7
 0xda8a	0x06	Gio		ANI_GESTURE2	
 0xdac1	0x98	Gio	#0W	Heheh, I'm sorry to say this, but...	mp_1099 0x10044
-				It is unavoidable.	
+				it is unavoidable.	
 0xdb3c	0x98	Gio	#6A	We will always be watching over you.	mp_1099 0x100bf
 				Be sure to do your part well.	
 0xdbaa	0x06	Erislet		ANI_NOD	

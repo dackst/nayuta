@@ -90,8 +90,8 @@ talk_Puppis
 				nothing at the End of the 	
 				World but a huge storm.	
 0x3bb6	0x98	Puppis		If you continue going southwest	
-				on the Ciencia Sea, you would	
-				end up at the End of the World.	
+				on the Ciencia Sea, you'll end	
+				up at the End of the World.	
 0x3c31	0x98	Puppis		But because of that huge storm,	
 				nobody has ever seen the true End.	
 0x3ce8	0x98	Puppis		Just when I was about to	
@@ -269,7 +269,7 @@ talk_Norma
 0x5f28	0x98	Camelope		Shut up, Norma.	
 				We're going.	
 0x5f69	0x6B	Norma		Unknown	
-0x5f9c	0x98	Norma		Y-Yes...	
+0x5f9c	0x98	Norma		Y-Yes, ma'am...	
 0x5ffd	0x98	Norma		(Milady...	
 				 I hope you are well.)	
 0x6032	0x98	Norma		(Ooh, I'm sure you'll be	
@@ -346,7 +346,7 @@ talk_Axe
 				anything I have to say when you've	
 				got that twinkle in your eyes.	
 0x6e19	0x98	Axe		Though I WAS a little scared back there,	
-				I still gotta to get the job done.	
+				I still gotta get the job done.	
 0x6e89	0x98	Axe		Now then, it's time to	
 				unload today's catch.	
 talk_Carina					
@@ -504,7 +504,7 @@ talk_Collie
 0x8d53	0x98	NOI		N-Not quite right...	
 0x8d82	0x98	ALTO		Well, it's just baby sounds.	
 0x8dfa	0x98	Collie		A big bug...	
-				(Waah...)	
+				(Woah...)	
 0x8e3f	0x98	Collie		A big bug...	
 0x8e6d	0x98	Collie		I want one too.	
 0x8e9e	0x98	ALTO		W-Well, I can't	
@@ -525,9 +525,9 @@ talk_Hydol
 0x91d1	0x98	Hydol		Haha, since I've stayed here for	
 				so long, the work is sure to have	
 				piled up. I'm afraid to go back.	
-0x9282	0x98	Hydol		Though there's still some time until we	
-				set sail, I've got to sort out my medical	
-				charts, so I'll be boarding early.	
+0x9282	0x98	Hydol		There's still some time until we set sail,	
+				but I've got to sort out my medical charts,	
+				so I'll be boarding early.	
 0x9311	0x98	Hydol		Though I'd like to live life at	
 				a leisurely pace here awhile	
 				longer, work won't wait.	
@@ -594,7 +594,7 @@ talk_Ursaminor_Reticul
 0xa060	0x98	Reticul		Oh right, Papa has done business in	
 				this area for a long time, hasn't he?	
 				...Sorry, I forgot.	
-0xa0db	0x3F	Name		Youth with Rucksack	
+0xa0db	0x3F	Name		Young Man in Travel Gear	
 0xa0f6	0x98	Cetus		They say Remnant Island was	
 				at the center of the recent	
 				meteorological anomalies.	
@@ -717,7 +717,7 @@ talk_Lyra
 				 about this girl...)	
 0xb50a	0x6B	ALTO		Question	
 talk_Cetus					
-0xb5c2	0x3F	Name		Youth with Rucksack	mp_0003 0xa0db
+0xb5c2	0x3F	Name		Young Man in Travel Gear	mp_0003 0xa0db
 0xb5dd	0x98	Cetus		As an adventurer, visiting Remnant Island has	
 				been something I've wanted to do for some time...	
 				But of course, I'm a bit late to the party.	
@@ -857,7 +857,7 @@ quest_Norma
 				better than I could.	
 0xd5f8	0x98	Norma		I am sorry to bother you with this	
 				sort of private matter, but...	
-				Thank you very much for your support.	
+				thank you very much for your support.	
 quest_Puppis					
 0xd70e	0x98	Puppis		That Equulea girl walked	
 				off towards the village.	
@@ -1060,7 +1060,7 @@ QS_34_undertake
 0x103cc	0x98	ALTO		Are you talking about the Sasha	
 				from the general store?	
 0x1042f	0x06	Norma		ANI_NOD	
-0x10455	0x98	Norma	#6A	Yes, that is correct.	
+0x10455	0x98	Norma	#6A	Yes, sir, that is correct.	
 0x1048c	0x06	Norma		ANI_GESTURE2	
 0x104b7	0x98	Norma	#6A	Lady Sasha is the rightful daughter of	
 				the Camelope family, one of the most	
@@ -1123,9 +1123,9 @@ QS_34_undertake
 0x10f2f	0x98	ALTO		In short, you want to have Sasha	
 				and Mrs. Camelope make up, right?	
 0x10f8a	0x06	Norma		ANI_NOD	
-0x10fb0	0x98	Norma	#6A	Yes, that is correct.	mp_0003 0x10455
+0x10fb0	0x98	Norma	#6A	Yes, sir, that is correct.	mp_0003 0x10455
 0x10fe7	0x06	Norma		ANI_WAIT2	
-0x1100f	0x98	Norma	#6A	...Can you grant my request?	
+0x1100f	0x98	Norma	#6A	...Will you grant my request?	
 0x1104f	0x06	ALTO		ANI_GESTURE2	
 0x11079	0x98	ALTO		It won't be easy, but...	
 				I'll try to do as much as I can.	
@@ -1147,7 +1147,7 @@ QS_34_undertake
 0x1139e	0x06	Norma		ANI_WAIT0	
 0x113c6	0x98	Norma	#6A	I am sorry to bother you with this	mp_0003 0xd5f8
 				sort of private matter, but...	
-				Thank you very much for your support.	
+				thank you very much for your support.	
 0x1142e	0x06	ALTO		ANI_THANKS	
 0x11456	0x98	ALTO		Yeah, leave it to me.	
 0x1148a	0x98	ALTO		(The general store and a room at the inn...	
