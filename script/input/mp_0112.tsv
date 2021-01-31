@@ -1951,10 +1951,10 @@ QS_58_ask_reason
 				the request to you.	
 0x1a9e9	0xBC	ALTO		Question	
 0x1aa27	0x06	ALTO		ANI_GESTURE1	
-0x1aa51	0x98	ALTO	#6A	'C-Catch him'...?	
+0x1aa51	0x98	ALTO	#6A	'Catch him'...?	
 0x1aa7f	0x98	ALTO	#6A	Besides, in a village this small,	
 				I feel like it would be difficult	
-				not to run into him...	
+				NOT to run into him...	
 0x1aae4	0x06	Mensa		ANI_SIT1_DENY	
 0x1ab10	0x98	Mensa		...An understandable question.	
 0x1ab4d	0x06	Mensa		ANI_SIT1_GESTURE2	
