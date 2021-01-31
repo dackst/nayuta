@@ -84,7 +84,7 @@ quest_Algorl
 				For that, I give my thanks.	
 0x3f98	0x98	Algorl		The life signature of Nemeas' nymph	
 				is in the southwest part of Heimmel,	
-				near Wind Cutting Valley.	
+				near the Canyon of Biting Wind.	
 0x4025	0x98	Algorl		You might wish to search 	
 				with the season set to autumn.	
 0x4078	0x98	Algorl		It seems the signature is considerably	
@@ -363,9 +363,9 @@ QS_54_talk_Algorl
 0x83ff	0x06	ALTO		ANI_GESTURE1	
 0x8429	0x98	ALTO	#6A	Thank goodness... Do you know where?	mp_1099 0x98b9
 0x8478	0x06	Algorl		ANI_GESTURE1	
-0x84a4	0x98	Algorl		It was located near	
-				Wind Cutting Valley	
-				in southwestern Heimmel.	
+0x84a4	0x98	Algorl		It was located near the	
+				Canyon of Biting Wind in	
+				southwestern Heimmel.	
 0x8515	0x98	Algorl		It seemed considerably distraught,	
 				you should try and go during the	
 				normal season.	

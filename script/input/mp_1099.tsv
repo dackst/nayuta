@@ -146,9 +146,9 @@ quest_Gio
 				who should be in tune with nature.	
 0x31b3	0x98	Gio		I do not know why, but maybe	
 				it was in a terrible hurry.	
-0x3216	0x98	Gio		I feel the presence of Nemeas'	
-				nymph in midwestern Oltapia, in	
-				the forest known as 'Hermit's Path'.	
+0x3216	0x98	Gio		I feel the presence of Nemeas' nymph	
+				in midwestern Oltapia, in the forest	
+				known as 'Fruitful Hermit's Way'.	
 0x32af	0x98	Gio		You might want to set the season	
 				to summer and look for it there.	
 0x3307	0x98	Gio		I imagine it would be pretty confused.	
@@ -160,7 +160,7 @@ quest_Gio
 				You should go to them as soon as possible.	
 0x34c7	0x98	Gio		The sandalwood tree grows	
 				in the summer of Heimmel.	
-0x3513	0x98	Gio		If you search Wind Cutting Valley,	
+0x3513	0x98	Gio		If you search the Canyon of Biting Wind,	
 				you should find a pretty big one.	
 0x357a	0x98	Gio		If you use it as incense, the two	
 				humans will feel more relaxed and	
@@ -559,10 +559,10 @@ QS_34_consultation
 0x8b9a	0x06	Gio		ANI_GESTURE2	
 0x8bc3	0x98	Gio		You should search in	
 				the summer of Heimmel.	
-0x8c0a	0x98	Gio		If you look in Wind Cutting Valley, you	
+0x8c0a	0x98	Gio		If you look in the Canyon of Biting Wind, you	
 				should be able to find a big enough tree.	
 0x8c80	0x06	ALTO		ANI_NOD	
-0x8ca5	0x98	ALTO	#6A	Right, so Wind Cutting Valley	
+0x8ca5	0x98	ALTO	#6A	Right, so the Canyon of Biting Wind	
 				in Heimmel during summer?	
 0x8d01	0x06	ALTO		ANI_JOY	
 0x8d26	0x98	ALTO	#6A	Got it. We'll try looking for it!	

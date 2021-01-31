@@ -10,16 +10,16 @@
 0x122	Oltapia
 0x142	Animal Trail/Sp
 0x162	Lake Tree Path/Sp
-0x182	Hermit's Path/Sp
+0x182	Hermit's Way/Sp
 0x1a2	Animal Trail/Su
 0x1c2	Lake Tree Path/Su
-0x1e2	Hermit's Path/Su
+0x1e2	Hermit's Way/Su
 0x202	Animal Trail/Au
 0x222	Lake Tree Path/Au
-0x242	Hermit's Path/Au
+0x242	Hermit's Way/Au
 0x262	Animal Trail/Wi
 0x282	Lake Tree Path/Wi
-0x2a2	Hermit's Path/Wi
+0x2a2	Hermit's Way/Wi
 0x2c2	Oltapia Temple
 0x2e2	Oltapia Sanctum
 0x302	Oltapia Sanctum
@@ -40,17 +40,17 @@
 0x4e2	Rieseweld Sanctum
 0x502	Rieseweld Sanctum
 0x522	Heimmel
-0x542	Wind-Cut Valley/Sp
+0x542	Canyon of Wind/Sp
 0x562	DragonGraveyard/Sp
 0x582	Heavenly Mount/Sp
-0x5a2	Wind-Cut Valley/Su
+0x5a2	Canyon of Wind/Su
 0x5c2	DragonGraveyard/Su
 0x5e2	Heavenly Mount/Su
-0x602	Wind-Cut Valley/Au
+0x602	Canyon of Wind/Au
 0x622	DragonGraveyard/Au
 0x642	Heavenly Mount/Au
 0x662	Hidden Grove
-0x682	Wind-Cut Valley/Wi
+0x682	Canyon of Wind/Wi
 0x6a2	DragonGraveyard/Wi
 0x6c2	Heavenly Mount/Wi
 0x6e2	Hidden Grove

@@ -378,8 +378,19 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * Ruined Tower -> Tower Ruins 
   * the whole island is full of fallen ruins, this is another such ruin that happens to be an intact tower (and not a regular old tower than happens to be in ruins)
 
+* Scrying Pool Caves -> Scrying Pool Cavern, Dragon River Cavern -> Dragon River Grotto
+  * too many cave dungeons in 2nd continent, even though the last parts are different in Japanese, and they all seem to translate to something like cave (洞穴/洞/巌窟). 
+    * since they share a kanji character, first two are now similar, but not identical, while third is a different word altogether
+
+* Hermit's Path -> Fruitful Hermit's Way
+  * similar to above, different kanji were both turned into the identical "Path". It's actually identical to one in "Shaded Animal Trail", but I also wanted include the missing adjective
+
 * "Giant Dragon Graveyard" -> "Dragon Graveyard"
   * original name is too long to be displayed on world map screen
+
+* Wind Cutting Valley -> Canyon of Biting Wind
+  * Cutting wind can refer to flatulence
+  * Canyon/Gorge also seems to be acceptable translations instead of valley, which better characterize the extreme cliffs in this dungeon
 
 * Muncipial District -> Urban District (no mention at all of any government, just a city part of Terra that humans were intended to live in. "Residential District" might be even better?)
 * Cradle Area -> Birthing Chamber (formerly used for raising animals, also pretty creepy looking)
@@ -531,8 +542,10 @@ More monster changes:
 * (N.S.) - I previously removed this because I wanted to avoid [real world references](https://en.wikipedia.org/wiki/Old_Style_and_New_Style_dates), same as how the original translation would sometimes call the surface "Earth." However, this one might also serve as a hint that there are at least [two calendar systems](#zemuria-references) currently in use.
   * the term used here in Japanese is actually [新暦](https://en.wiktionary.org/wiki/%E6%96%B0%E6%9A%A6), which seems to usually refer to the Gregorian calendar, or more literally "New Calendar", as opposed to the "old" traditional Japanese calendar. N.S. was once used in the same way, with the "old" calendar being the Julian calendar.
 
-* Rieseweld - Riese[woerd](https://en.wikipedia.org/wiki/Terp) or some other variation (instead of something deriving from Wald, meaning "forest" when that continent has no forests)
+* Rieseweld - Riese[werd](https://en.wikipedia.org/wiki/Terp) or some other variation instead of something deriving from Wald, meaning "forest" when that continent has no forests
   * apparently there are [some](https://en.wiktionary.org/wiki/wold#English) [derivations](https://en.wiktionary.org/wiki/weald#English) of "wald" that can also denote an *un*forested place
+  * It'd probably more accurate to German if it was *Riesenwurt*, or maybe *Ruezenwerd* in Dutch, but the other continent names seem pretty corrupted, if not total nonsense (Heimmel is obviously from [Himmel](https://en.wiktionary.org/wiki/Himmel), Oltapia *could* be [alta](https://en.wiktionary.org/wiki/altus#Latin) [pia](https://en.wiktionary.org/wiki/pius#Latin), no idea where La Worg even comes from)
+  * currently aborted b/c can't get partial transparencies in graphics to show up right
 
 * Asa/Eartha/Ursa: I think there are valid reasons to want to pick any one of them, but not enough for me to confidently pick one over the other, short of Falcom coming out and elaborating somehow on what they were thinking. It's currently left at the original translation's "Eartha"
   * Asa:

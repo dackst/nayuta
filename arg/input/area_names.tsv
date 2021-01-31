@@ -51,10 +51,10 @@ mp_1001a	0x55	area name	 Lakeside Tree Path/Spring
 mp_1001b	0x55	area name	 Lakeside Tree Path/Summer
 mp_1001c	0x55	area name	 Lakeside Tree Path/Autumn
 mp_1001d	0x55	area name	 Lakeside Tree Path/Winter
-mp_1002a	0x55	area name	 Hermit's Path/Spring
-mp_1002b	0x55	area name	 Hermit's Path/Summer
-mp_1002c	0x55	area name	 Hermit's Path/Autumn
-mp_1002d	0x55	area name	 Hermit's Path/Winter
+mp_1002a	0x55	area name	 Fruitful Hermit's Way/Spring
+mp_1002b	0x55	area name	 Fruitful Hermit's Way/Summer
+mp_1002c	0x55	area name	 Fruitful Hermit's Way/Autumn
+mp_1002d	0x55	area name	 Fruitful Hermit's Way/Winter
 mp_1010	0x53	area name	 Oltapia Temple/First Half
 mp_1011	0x53	area name	 Oltapia Temple/Second Half
 mp_1099	0x53	area name	 Oltapia Temple/Inner Sanctum
@@ -63,22 +63,22 @@ mp_2000a	0x55	area name	 Great Echoing Caves/Spring
 mp_2000b	0x55	area name	 Great Echoing Caves/Summer
 mp_2000c	0x55	area name	 Great Echoing Caves/Autumn
 mp_2000d	0x55	area name	 Great Echoing Caves/Winter
-mp_2001a	0x55	area name	 Scrying Pool Caves/Spring
-mp_2001b	0x55	area name	 Scrying Pool Caves/Summer
-mp_2001c	0x55	area name	 Scrying Pool Caves/Autumn
-mp_2001d	0x55	area name	 Scrying Pool Caves/Winter
-mp_2002a	0x55	area name	 Dragon River Cavern/Spring
-mp_2002b	0x55	area name	 Dragon River Cavern/Summer
-mp_2002c	0x55	area name	 Dragon River Cavern/Autumn
-mp_2002d	0x55	area name	 Dragon River Cavern/Winter
+mp_2001a	0x55	area name	 Scrying Pool Cavern/Spring
+mp_2001b	0x55	area name	 Scrying Pool Cavern/Summer
+mp_2001c	0x55	area name	 Scrying Pool Cavern/Autumn
+mp_2001d	0x55	area name	 Scrying Pool Cavern/Winter
+mp_2002a	0x55	area name	 Dragon River Grotto/Spring
+mp_2002b	0x55	area name	 Dragon River Grotto/Summer
+mp_2002c	0x55	area name	 Dragon River Grotto/Autumn
+mp_2002d	0x55	area name	 Dragon River Grotto/Winter
 mp_2010	0x53	area name	 Rieseweld Temple/First Half
 mp_2011	0x53	area name	 Rieseweld Temple/Second Half
 mp_2099	0x53	area name	 Rieseweld Temple/Inner Sanctum
 mp_2100	0x53	area name	 Rieseweld Temple
-mp_3000a	0x55	area name	 Wind Cutting Valley/Spring
-mp_3000b	0x55	area name	 Wind Cutting Valley/Summer
-mp_3000c	0x55	area name	 Wind Cutting Valley/Autumn
-mp_3000d	0x55	area name	 Wind Cutting Valley/Winter
+mp_3000a	0x55	area name	 Canyon of Biting Wind/Spring
+mp_3000b	0x55	area name	 Canyon of Biting Wind/Summer
+mp_3000c	0x55	area name	 Canyon of Biting Wind/Autumn
+mp_3000d	0x55	area name	 Canyon of Biting Wind/Winter
 mp_3001a	0x55	area name	 Dragon Graveyard/Spring
 mp_3001b	0x55	area name	 Dragon Graveyard/Summer
 mp_3001c	0x55	area name	 Dragon Graveyard/Autumn

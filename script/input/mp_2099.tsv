@@ -120,7 +120,7 @@ quest_Erislet
 				Please give my regards to Nemeas.	
 0x2fa6	0x98	Erislet		On the presence of Nemeas' nymph,	
 				it was somewhere around Scrying	
-				Pool Caves in mid-eastern Rieseweld.	
+				Pool Cavern in mid-eastern Rieseweld.	
 0x3054	0x98	Erislet		You should search for it with	
 				the season set to winter.	
 0x30b7	0x98	Erislet		It seemed quite disoriented, so	
@@ -504,13 +504,13 @@ quest_SpiritD
 0x8344	0x98	SpiritD		............!	mp_1099 0xb4fd
 0x8374	0x06	NOI		ANI_GESTURE2	
 0x83b5	0x98	NOI	#6A	It says it appeared during the	
-				autumn of Scrying Pool Caves	
+				autumn of Scrying Pool Cavern	
 				in central Rieseweld!	
 0x8445	0x98	NOI	#6A	It says it doesn't want to	mp_1099 0xb5ed
 				force you to rush, so go when	
 				you're ready and have time.	
 0x84bf	0x98	NOI	#6A	It seems to have appeared in the	
-				autumn of Scrying Pool Caves	
+				autumn of Scrying Pool Cavern	
 				in central Rieseweld!	
 0x8543	0x98	NOI	#6A	It says it doesn't want to	mp_1099 0xb5ed
 				force you to rush, so go when	
@@ -528,9 +528,9 @@ quest_SpiritD
 				comforted it a little.	
 0x876e	0x06	NOI		ANI_GUTSPOSE	
 0x87af	0x98	NOI	#6A	Nayuta, let's try heading to the	
-				autumn of Scrying Pool Caves soon!	
+				autumn of Scrying Pool Cavern soon!	
 0x8825	0x98	NOI	#6A	Let's try heading to the autumn	
-				of Scrying Pool Caves soon!	
+				of Scrying Pool Cavern soon!	
 0x88bf	0x07	System	#3C	Quest [A Nymph's Request] started!	
 0x89d3	0x06	ALTO		ANI_WAIT	
 0x89f9	0x06	NOI		ANI_WAIT	
@@ -852,7 +852,7 @@ QS_54_talk_Erislet
 0xf6dc	0x06	Erislet		ANI_GESTURE1	
 0xf709	0x98	Erislet		It seems to be in the mid-eastern part	
 				of Rieseweld, in the area called the	
-				'Scrying Pool Caves.'	
+				'Scrying Pool Cavern.'	
 0xf79f	0x98	Erislet		It seems pretty confused,	
 				so you should go during	
 				the normal season.	

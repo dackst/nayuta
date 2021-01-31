@@ -203,7 +203,7 @@
 0x371c	line	Let's find a good spot in
 0x3750	line	the winter of Rieseweld.
 0x37f0	line	Found a good spot in winter
-0x3824	line	of Dragon River Cavern.
+0x3824	line	of Dragon River Grotto.
 0x3858	line	Let's change to summer
 0x388c	line	so they can hatch.
 0x392c	line	Safely hatched the Moon
@@ -225,7 +225,7 @@
 0x3d48	line	various seasons for her.
 0x3d7c	line	
 0x3e1c	line	Reticul was last seen
-0x3e50	line	in Dragon River Cavern.
+0x3e50	line	in Dragon River Grotto.
 0x3e84	line	Let's keep searching
 0x3eb8	line	for her.
 0x3f58	line	I got a message from
@@ -241,7 +241,7 @@
 0x41d0	line	It seems a ferocious monster
 0x4204	line	has appeared. When we're
 0x4238	line	ready, let's head to autumn
-0x426c	line	of Scrying Pool Caves.
+0x426c	line	of Scrying Pool Cavern.
 0x430c	line	Defeated the monster,
 0x4340	line	'Albion!'
 0x4374	line	Let's report back immediately.
@@ -303,7 +303,7 @@
 0x5318	line	If we had a sandalwood tree,
 0x534c	line	I might be able to do something.
 0x5380	line	Let's search for one in summer
-0x53b4	line	of Wind Cutting Valley.
+0x53b4	line	of the Canyon of Biting Wind.
 0x5454	line	Found a sandalwood tree.
 0x5488	line	Let's bring it to Norma and
 0x54bc	line	discuss meeting strategies.
@@ -332,17 +332,17 @@
 0x5ab4	line	know the location of
 0x5ae8	line	the nymphs. Let's ask
 0x5b1c	line	at each temple.
-0x5bbc	line	It seems the presence of
-0x5bf0	line	a nymph is in the summer
-0x5c24	line	of Hermit's Path in
+0x5bbc	line	It seems the presence of a
+0x5bf0	line	nymph is in the summer of
+0x5c24	line	Fruitful Hermit's Way in
 0x5c58	line	Oltapia. Let's look there.
 0x5cf8	line	It seems the presence of
 0x5d2c	line	a nymph is in the winter
-0x5d60	line	of Scrying Pool Caves in
+0x5d60	line	of Scrying Pool Cavern in
 0x5d94	line	Rieseweld. Let's look there.
 0x5e34	line	It seems the presence of
-0x5e68	line	a nymph is in the fall
-0x5e9c	line	of Wind Cutting Valley in
+0x5e68	line	a nymph is in autumn of the
+0x5e9c	line	Canyon of Biting Wind in
 0x5ed0	line	Heimmel. Let's look there.
 0x5f70	line	We were able to find all
 0x5fa4	line	of the nymphs safely.
