@@ -33,7 +33,12 @@ Go to the [release page](https://github.com/dackst/nayuta/releases) for a change
 
 ## Patching Instructions
 1. Download an xdelta file from latest [release](https://github.com/dackst/nayuta/releases). Choose clean.xdelta to apply the patch to an unmodified Japanese ISO, or choose 4.15.xdelta to apply to an ISO patched with version 4.15 of the previous fan-translation.
-2. Apply your respective xdelta patch to your respective iso. If on Windows, the easiest thing to do would probably be to use [xdeltaUI](https://www.romhacking.net/utilities/598/).
+2. Apply your respective xdelta patch to your respective iso. If on Windows, the easiest thing to do would probably be to use [xdeltaUI](https://www.romhacking.net/utilities/598/):
+
+    1. Click **Open...** next to **Patch:** and select the xdelta file you downloaded.
+    2. Click **Open..** next to **Source File:** and select the corresponding ISO disk image.
+    3. Click **...** next to **Output File:** to specify the name and location of the new patched ISO disk image. The new name should end in ".iso" or ".ISO" in order to be recognized by PSP CFWs and emulators. [Here is an example](https://i.imgur.com/6Z65wjP.png) with all the inputs filled in. Your exact names and locations are likely to be different.
+    4. Click **Patch** and wait for the new file to be generated. This may take a while and cause the program to appear to stop responding.
 
    Otherwise, if you have xdelta3 installed elsewhere, you should also be able to run something similar to this with the desired filenames swapped in:
 ```
@@ -74,7 +79,7 @@ You should have access to a clean Nayuta no Kiseki iso. The workaround for the r
 1. Download [flame's 2017 tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and set up an environment with a clean Japanese iso (Step 1 in the readme.txt included with the tools):
     1. Drag your iso over `_extract_new.bat`, or run `python extract.py nayuta.iso ISO`, where `nayuta.iso` is the name of your file.
     2. Run `setup.py`
-2. Copy the `PSP_GAME/USRDIR/pack` and `PSP_GAME/USRDIR/visual/event` from within the 4.15 patched ISO and replace their equivalents within the `ISO` folder in the environment set up from the previous step. Open the patched 4.15 ISO by mounting it with your OS or file explorer, or with UMDGen, 7-Zip, or anything else that works, really.
+2. Copy the `PSP_GAME/USRDIR/pack` and `PSP_GAME/USRDIR/visual/event` folders from within the 4.15 patched ISO and replace their equivalents within the `ISO` folder in the environment set up from the previous step. Open the patched 4.15 ISO by mounting it with your OS or file explorer, or with UMDGen, 7-Zip, or anything else that works, really.
 3. [Download](https://github.com/dackst/nayuta/archive/master.zip) the files in this repository and paste them into the environment. Overwrite files if necessary. Modify text or images to your liking. 
 4. Reinsert text by running using the insertion Python scripts from within each respective folder. With my changes, the dump scripts must be run at least once beforehand.
 5. Copy the new files to their correct locations. I would avoid using flame's `copy_text` script, since it led to part of one of the issues described [here](./notes.md#why-not-just-use-flames-tools-directly), avoided by our copying of the `PSP_GAME/USRDIR/pack` folder. You can use `copy_all.py` if you don't want to do it manually.
