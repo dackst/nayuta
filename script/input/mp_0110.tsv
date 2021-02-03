@@ -2000,7 +2000,7 @@ EV_3_S22_recovery_asa
 0x24ba9	0x98	Hydol	#6A	Hmm, it seems that you're awake.	
 0x24bf3	0x98	Hydol	#6A	How's your body feeling?	
 0x24cb2	0xBC	Asa		Ellipsis	
-0x24cef	0x98	Asa_b	#0W#6A	...I feel so much better.,,	
+0x24cef	0x98	Asa_b	#0W#6A	...I feel so much better...	
 0x24db1	0x98	Asa_b	#0W#6A	...Doctor, is this...?	
 0x24df6	0x06	Hydol		ANI_WAIT3	
 0x24e1e	0x98	Hydol	#6A	As a matter of fact, Nayuta brought me	

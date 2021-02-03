@@ -110,7 +110,7 @@ EV_5_S06_help_nemeas
 0x3e82	0x98	NOI	#0W	.....	mp_0000d 0x70fd
 0x3f7e	0x98	Nemeas		Anyway... It seems you are	
 				seeking a way to scale the	
-				walls of Heliograd,	
+				walls of Heliograd.	
 0x407e	0x06	Nemeas		ANI_GESTURE1	
 0x40ca	0x98	Nemeas		Giving Noi some of my power	
 				should solve that problem.	
