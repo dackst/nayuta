@@ -330,7 +330,7 @@ EV_7_S09_seram_stone
 0x8464	0x98	NOI		With Creha also	
 				on our side...	
 0x84a3	0x06	NOI		ANI_GUTSPOSE	
-0x84e9	0x98	NOI		We have two of the Shining	
+0x84e9	0x98	NOI		We have two of the Radiant	
 				Wings of the Mitos. We can	
 				stop the Recreation!	
 0x8578	0x06	Signa		ANI_GESTURE1	
@@ -372,7 +372,7 @@ EV_7_S09_seram_stone
 0x95e9	0x06	Signa		ANI_GESTURE1	
 0x9614	0x98	Signa	#6A	Hey, wait... This feeling...	
 0x965d	0x06	Signa		ANI_COMPLAIN	
-0x9688	0x98	Signa	#6A	It's...the Shining	
+0x9688	0x98	Signa	#6A	It's...the Radiant	
 				Wing of the Mitos...!	
 0x96e1	0x6B	NOI		Exclamation	
 0x9712	0x06	ALTO		ANI_TENSION_SURPRISE	
@@ -389,7 +389,7 @@ EV_7_S09_seram_stone
 0x9948	0x98	Zext		I was planning to reshape her	
 				identity, but... she proved	
 				to be a little too stubborn.	
-0x99b3	0x98	Zext		I reclaimed the Shining Wing necessary	
+0x99b3	0x98	Zext		I reclaimed the Radiant Wing necessary	
 				for the Recreation, as well as stripped	
 				her of all her power.	
 0x9a51	0x98	Zext		She will never wake again.	
@@ -416,7 +416,7 @@ EV_7_S09_seram_stone
 0xafcb	0x06	Zext		ANI_THUNDER	
 0xb45e	0x06	ALTO		ANI_KEN_WO_KAMAERU_B	
 0xb64f	0x06	NOI		ANI_SURPRISE	
-0xb678	0x98	NOI	#6A	Ah... Cygna's Shining Wing!	
+0xb678	0x98	NOI	#6A	Ah... Cygna's Radiant Wing!	
 0xb6be	0x98	Zext_b		Heheheh... The power that I once	
 				shared has returned to my hand.	
 0xb72c	0x98	Zext_b		My children, your sacrifices	
@@ -470,7 +470,7 @@ EV_7_S09_seram_stone
 0xdb30	0x06	NOI		ANI_GESTURE1	
 0xdb59	0x98	NOI		A large amount of astral power	
 				was probably stolen from him 	
-				along with the Shining Wing...	
+				along with the Radiant Wing...	
 0xdbd5	0x98	ALTO	#6A	A 'near-death state'...?	
 				So we can still save him, then!?	
 0xdc39	0x06	NOI		ANI_GESTURE2	

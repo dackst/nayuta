@@ -59,7 +59,7 @@ EV_3_S21_get_yupina
 0x205c	0x06	ALTO		ANI_SURPRISE	
 0x2086	0x06	NOI		ANI_SURPRISE	
 0x20f2	0x98	ALTO	#0W	Th-That wing-looking thing...!	
-0x2139	0x98	NOI	#0W	...The Shining Wing of the Mitos!	
+0x2139	0x98	NOI	#0W	...The Radiant Wing of the Mitos!	
 0x2282	0x06	Creha		ANI_PRAY	
 0x233a	0x98	Creha	#1W#20M	Please...	
 0x237f	0x98	Creha	#1W#20M	Bloom once more!	
@@ -76,7 +76,7 @@ EV_3_S21_get_yupina
 0x2b7d	0x06	Creha		ANI_DENY	
 0x2bac	0x98	Creha	#0W	...I don't know.	mp_3002c 0x5634
 0x2be1	0x98	Creha	#0W	My body just...acted on its own...	
-0x2c61	0x98	NOI	#6A	The Shining Wing of the Mitos appears 	
+0x2c61	0x98	NOI	#6A	The Radiant Wing of the Mitos appears 	
 				when Lady Creha uses her powers.	
 0x2d06	0x98	NOI	#6A	Lady Creha must have resurrected	
 				the Yupina Grass by manipulating	

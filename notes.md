@@ -266,6 +266,9 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
     * if it was "planetary" (alternate translation of word for star), it could be interpreted to mean it is derived from the planet itself, and could possibly explain why their race might want to fix the old planet instead of living on an artifical replacement like Terra
     * i'm still shaky on using "power" vs "energy"
 
+* Shining Wing -> Radiant Wing
+  * Japanese is 洸翼, and the same kanji (洸) is used all over the place in Laura and Victor Arseid's crafts, and always rendered as "Radiant". Laura even has a "Radiant Wings" (洸翼陣) craft
+
 * earth/Earth/surface (or surface world) -> surface, world, or planet
   * originally *almost* always translated as "surface", but it seems weird to always specifically refer the surface of a planet rather than just the whole planet itself (especially when you can eventually see for yourself that a lot more than just the surface of the planet has been affected by things, and most who actually knew it was a planet in the first place already knew this)
   * ground/earth/Earth seems to be an acceptable translation of the Japanese word used here, but in English the first two most often refer to the substance, while the latter refers specifically to *our* planet
