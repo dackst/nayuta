@@ -419,9 +419,9 @@ talk_Carina
 				Have you finished	
 				greeting Eartha?	
 0x7d0a	0x98	ALTO		Yeah, just now.	
-0x7d39	0x98	ALTO		Speaking of that, that baby...	
-				He was born while we	
-				were gone, wasn't he?	
+0x7d39	0x98	ALTO		Speaking of which, that baby...	
+				He was born while we were gone,	
+				wasn't he?	
 0x7d9f	0x98	Carina		Hehe, that's right.	
 				His name is Cory.	
 0x7e09	0x98	Carina		Now, Cory.	
@@ -434,7 +434,7 @@ talk_Carina
 				more work now that he's born, huh?	
 0x7f72	0x98	ALTO		Don't hesitate to call the Handyman Shop	
 				if you need help with anything.	
-0x7fe7	0x98	Carina		Heheh, then when that time comes, I'll	
+0x7fe7	0x98	Carina		Heheh, when that time comes, I'll	
 				be sure to ask for your help, then.	
 0x807a	0x98	Carina		My husband Ax left on	
 				a fishing trip just now.	

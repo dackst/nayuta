@@ -1198,7 +1198,7 @@ QS_01_quest_end
 0x11d84	0x98	ALTO	#6A	Here you go, Dorado. It's a 	
 				lunch box from my sister.	
 0x11e06	0x06	ALTO		ANI_HANDOVER	
-0x11e5c	0x40	UNDEF		Handed Eartha's lunch box to Dorado.	
+0x11e5c	0x40	UNDEF		Handed Eartha's Boxed Lunch to Dorado.	
 0x11ebf	0x6B	Dorado		Unknown	
 0x11f4d	0x06	Dorado		ANI_NOD	
 0x11f74	0x98	Dorado		Oh, thanks, Nayuta!	

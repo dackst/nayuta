@@ -605,7 +605,7 @@
 0xa538	name	Juicy Thick Meat
 0xa550	desc	[White Meat] Thick, juicy flesh that seems filling.
 0xa5c4	name	Choice White Meat
-0xa5dc	desc	[White Meat] Rare meat taken from backwoods creatures.
+0xa5dc	desc	[White Meat] Rare meat only found from monsters in remote regions.
 0xa650	name	Snow White God Meat
 0xa668	desc	[White Meat] Supreme meat with miraculous balance of fat.
 0xa6dc	name	Firm Meat
@@ -619,13 +619,13 @@
 0xa90c	name	Crimson Demon Meat
 0xa924	desc	[Red Meat] Top-class meat. Always delicious, no matter the dish.
 0xa998	name	Easy-Cut Meat
-0xa9b0	desc	[Fish Meat] Soft fish meat with few blemishes. Can eat raw.
+0xa9b0	desc	[Fish Meat] Soft fish meat with few blemishes. Can be eaten raw.
 0xaa24	name	Tender White Meat
 0xaa3c	desc	[Fish Meat] White fish meat. The body is tender.
 0xaab0	name	Fresh Red Meat
 0xaac8	desc	[Fish Meat] Red fish meat. Doesn't smell as long as it's fresh.
 0xab3c	name	Full Tail
-0xab54	desc	[Fish Meat] Meat of the tail of a large beast. Is full of fat.
+0xab54	desc	[Fish Meat] Meat of the tail of a large beast. Full of fat.
 0xabc8	name	Sea King Tuna
 0xabe0	desc	[Fish Meat] Exquisite fish meat that melts in your mouth.
 0xac54	name	Inner Liver
