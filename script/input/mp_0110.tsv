@@ -407,10 +407,10 @@ talk_Keny
 0x78b1	0x98	Keny		Eartha... She was always so healthy.	
 				How did she end up getting sick from	
 				Hell Fever...?	
-0x792b	0x98	Keny		Anyway, everyone all hopes	
-				that Eartha will recover...	
-0x79ab	0x98	Keny		Anyway, everyone all hopes	mp_0110 0x792b
-				that Eartha will recover...	
+0x792b	0x98	Keny		Anyway, everyone hopes that	
+				Eartha will recover...	
+0x79ab	0x98	Keny		Anyway, everyone hopes that	mp_0110 0x792b
+				Eartha will recover...	
 talk_Carina					
 0x7a31	0x98	Carina		Nayuta... I'm worried about Eartha.	
 0x7a75	0x98	Carina		I wish I could be of	
@@ -2437,7 +2437,7 @@ EV_3_S27_bring_creha
 				are you suggesting?	
 0x2d729	0x98	ALTO	#6A	Creha is a girl, so I don't think	
 				it's very appropriate to...	
-0x2d799	0x98	Asa	#6A	Well, I think it'd better	
+0x2d799	0x98	Asa	#6A	Well, I think it'd be better	
 				than leaving her to live	
 				somewhere out by herself.	
 0x2d816	0x98	Asa	#6A	Not to mention, spending time with the	

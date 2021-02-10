@@ -95,11 +95,11 @@ QS_38_get_colors1
 QS_38_get_colors2					
 0x3216	0x06	ALTO		ANI_WAIT	
 0x333e	0x06	ALTO		ANI_GESTURE2	
-0x3368	0x98	ALTO	#6A	Nayuta, this sediment layer...	mp_3002d 0x2db4
+0x3368	0x98	ALTO	#6A	This sediment layer...	
 0x33a3	0x06	NOI		ANI_JOY	
 0x33c7	0x98	NOI	#6A	That looks like it could	
 				be used for yellow pigment.	
-				...I'll collect some.	
+				...Let's collect some!	
 0x3425	0x06	NOI		ANI_WAIT	
 0x344a	0xC1	System		obtained.	mp_0000 0x7558
 0x350b	0x06	ALTO		ANI_JOY	
@@ -111,11 +111,11 @@ QS_38_get_colors2
 QS_38_get_colors3					
 0x3824	0x06	ALTO		ANI_WAIT	
 0x394c	0x06	NOI		ANI_SURPRISE	
-0x3975	0x98	NOI	#6A	Nayuta, this sediment layer...	mp_3002d 0x2db4
+0x3975	0x98	NOI	#6A	This sediment layer...!	
 0x39af	0x06	ALTO		ANI_NOD	
 0x39d4	0x98	ALTO	#6A	That looks like it could	
 				be used for blue pigment.	
-				...I'll collect some.	
+				...I should collect some.	
 0x3a31	0xC1	System		obtained.	mp_0000 0x7558
 0x3af2	0x06	ALTO		ANI_JOY	
 0x3b17	0x98	ALTO	#6A	Red, blue, and yellow...	mp_3002d 0x2f5a

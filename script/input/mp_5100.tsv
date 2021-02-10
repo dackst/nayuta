@@ -65,7 +65,7 @@ EV_5_S04_hear_many_voice
 0x1b90	0x41	None	#0W#2E#310c	Perhaps you are having some	
 				difficulty ascending Heliograd?#0E	
 0x1c3d	0x06	ALTO		ANI_NOD	
-0x1c62	0x98	ALTO		Yeah... Do you know how?	
+0x1c62	0x98	ALTO		Yeah... Do you know any way how?	
 0x1cc1	0x41	None	#0W#2E#029c	I'm sorry, we cannot	
 				aid you ourselves.#0E	
 0x1d47	0x41	None	#0W#2E#029c	But we do have one suggestion.#0E	
@@ -86,7 +86,7 @@ EV_5_S04_hear_many_voice
 0x20da	0x06	ALTO		ANI_GESTURE1	
 0x2104	0x98	ALTO		The climate of La Worg has	
 				been restored to normal, so we	
-				should be able save her now.	
+				should be able to save her now.	
 0x2175	0x06	ALTO		ANI_JOY	
 0x219a	0x98	ALTO		All right... Then first,	
 				we'll go to Nemeas!	
