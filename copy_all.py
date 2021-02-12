@@ -41,17 +41,18 @@ def copy_arb():
     tgt_path = target_dir + r'/PSP_GAME/USRDIR/map'
     filelist = os.listdir(src_path)
 
-    for filename in filelist:
+    for i, filename in enumerate(filelist):
         shutil.copy(
             '{}/{}/{}.arb'.format(src_path, filename, filename),
             '{}/{}/{}.arb'.format(tgt_path, filename, filename)
         )
+        filelist[i] = filename + '.arb'
 
-    # packed_path = target_dir + r'/PSP_GAME/USRDIR/pack/map'
-    # packed_list = tuple(filter(lambda x: '.mpp' in x, os.listdir(packed_path)))
-    # packed_list = ['{}/{}'.format(packed_path, i) for i in packed_list]
+    packed_path = target_dir + r'/PSP_GAME/USRDIR/pack/map'
+    packed_list = tuple(filter(lambda x: '.mpp' in x, os.listdir(packed_path)))
+    packed_list = ['{}/{}'.format(packed_path, i) for i in packed_list]
 
-    # packed_update(filelist, packed_list)
+    packed_update(filelist, packed_list)
 
 def copy_script():
     script_path = r'script/output'
@@ -64,11 +65,11 @@ def copy_script():
             '{}/{}'.format(text_path, filename)
         )
 
-    # packed_path = target_dir + r'/PSP_GAME/USRDIR/pack/map'
-    # packed_list = list(filter(lambda x: '.mpp' in x, os.listdir(packed_path)))
-    # packed_list = ['{}/{}'.format(packed_path, i) for i in packed_list]
+    packed_path = target_dir + r'/PSP_GAME/USRDIR/pack/map'
+    packed_list = list(filter(lambda x: '.mpp' in x, os.listdir(packed_path)))
+    packed_list = ['{}/{}'.format(packed_path, i) for i in packed_list]
 
-    # packed_update(filelist, packed_list)
+    packed_update(filelist, packed_list)
 
 def copy_img():
     src_path = 'img'
@@ -128,19 +129,19 @@ def copy_text():
             '{}/{}'.format(tgt_path, filename)
         )
 
-    # packed_path = target_dir + r'/PSP_GAME/USRDIR/pack/map'
-    # packed_list = list(filter(lambda x: '.mpp' in x, os.listdir(packed_path)))
-    # packed_list = ['{}/{}'.format(packed_path, x) for x in packed_list]
-    # packed_list.append(target_dir + r'/PSP_GAME/USRDIR/pack/global/first.dat')
-    # packed_list.append(target_dir + r'/PSP_GAME/USRDIR/pack/global/global.dat')
-    # packed_update(filelist, packed_list)
+    packed_path = target_dir + r'/PSP_GAME/USRDIR/pack/map'
+    packed_list = list(filter(lambda x: '.mpp' in x, os.listdir(packed_path)))
+    packed_list = ['{}/{}'.format(packed_path, x) for x in packed_list]
+    packed_list.append(target_dir + r'/PSP_GAME/USRDIR/pack/global/first.dat')
+    packed_list.append(target_dir + r'/PSP_GAME/USRDIR/pack/global/global.dat')
+    packed_update(filelist, packed_list)
 
-    # #questlib.tbb and m_quest.itp are in these
-    # #that's all that's there so we're just going to delete them
-    # with suppress(FileNotFoundError):
-    #     os.remove(target_dir + r'/PSP_GAME/USRDIR/pack/script/mp_0004.2pp')
-    #     os.remove(target_dir + r'/PSP_GAME/USRDIR/pack/script/mp_0004c.2pp')
-    #     os.remove(target_dir + r'/PSP_GAME/USRDIR/pack/script/mp_0004d.2pp')
+    #questlib.tbb and m_quest.itp are in these
+    #that's all that's there so we're just going to delete them
+    with suppress(FileNotFoundError):
+        os.remove(target_dir + r'/PSP_GAME/USRDIR/pack/script/mp_0004.2pp')
+        os.remove(target_dir + r'/PSP_GAME/USRDIR/pack/script/mp_0004c.2pp')
+        os.remove(target_dir + r'/PSP_GAME/USRDIR/pack/script/mp_0004d.2pp')
 
 def copy_eboot_misc():
     #EBOOT
