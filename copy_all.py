@@ -1,12 +1,9 @@
-# copy pasta of flame's copy_* python scripts, but without the
-# packing parts that doesn't seem to totally work
+# copy pasta of flame's copy_* python scripts
 
 # it should also now work outside of a windows python installation. 
 # Of course, it should also work in a windows python installation
 
-# uncommenting the packing reintroduces some of the problems I was 
-# having with the original scripts, namely, the names and some dialogue 
-# of the player characters reverting to Japanese
+# also now works for script/system, script/noi, and new final boss texture
 
 import os
 import shutil
@@ -66,8 +63,9 @@ def copy_script():
         )
 
     packed_path = target_dir + r'/PSP_GAME/USRDIR/pack/map'
-    packed_list = list(filter(lambda x: '.mpp' in x, os.listdir(packed_path)))
+    packed_list = list(os.listdir(packed_path))
     packed_list = ['{}/{}'.format(packed_path, i) for i in packed_list]
+    packed_list.append(target_dir + r'/PSP_GAME/USRDIR/pack/global/first.dat')
 
     packed_update(filelist, packed_list)
 

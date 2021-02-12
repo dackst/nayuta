@@ -621,15 +621,17 @@ Clearly, there were undocumented shenanigans that went on in the original fantra
 
 #### "Solutions"
 
-Here's how I solved or managed to work around each of the above problems. In the cases where the programs themselves were actually bugged, I only managed to fix some. The remaining case was resolved with more of a workaround, involving the use of bug-free files from the 4.15 release and a hex editor.
+Here's how I solved each of the above problems.
 
-If you want to do a actual, proper retranslation of this game yourself and you're like me and not smart enough to write your own tools or fix the existing ones, you might have to do something similar.
+If you want to do a actual, proper retranslation of this game yourself not smart/motivated enough to write your own tools or fix the existing ones, you might have to do something similar.
 
   1. the broken item messages do not occur if I simply do not run the provided script inserter, but obviously, that leaves me unable to insert any of my script changes. This seemed to indicate something was wrong the script inserter.
       * Switching to [Flame's earlier Python 2 script inserter](https://pastebin.com/vtVwq338) released in 2015 seemed to fix this, but it had its own problems. But looking through it, I noticed there was a special case that applied only to these particular problematic textboxes 
       * changing a 1 to a 3 in for the `0xC1` entry in the dictionary defined in the beginning of the Python 3 inserter fixed #1 without introducing any other problems. The inserter in this repo should include this change.
-  2. Only Japanese text in places (no English): copying `PSP_GAME/USRDIR/pack` folder from the 4.15 translation solved the Japanese appearing for the `noi` and `system` files. To me, this seemed to indicate something is wrong with the `copy_*.py` files. Along with copying your new files to the extracted ISO, they also are intended to modify the files in the `pack` folder so that your new files are read instead of a compressed Japanese version. This doesn't seem to actually be done for those files. At least, this isn't done successfully.
-      * However, any changes made in `pc`, `foodarea` and `helplib` were still not reflected after this. This was fixed by modifying how `textinsert.py` chose to skip rows that were too short. Since `pc`, `foodarea` and `helplib` have less columns than all the other `text` files, they were previously skipped entirely. 
+  2. Only Japanese text in places (no English):
+      * removing `noi.bin` from the `.3se` files as well as the `.mpp` files inside `pack/map` in the pack editing script makes the text in `noi.bin` appear correctly
+      * removing `system.bin` from `pack/global/first.dat` in the pack editing script makes the text in `system.bin` appear correctly
+      * Changes are successfully made in `pc`, `foodarea` and `helplib` after modifying how `textinsert.py` chose to skip rows that were too short. Since `pc`, `foodarea` and `helplib` have less columns than all the other `text` files, they were previously skipped entirely. 
   3. Chapter titles: like with #2, I copied the files from the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't.
   5. The Mishy issue was not entirely the fault of the tools. For some reason, Mishy's internal name ("Michy") was exposed in `chr_names.tsv` as well as his name that is displayed above his textboxes (originally "Michey"). For comparison, Mensa was called "Mrs. Mensa" in the original translation, and has an internal name of "Mensa", but only appeared once in `chr_names.tsv` (as "Mrs. Mensa"). I've also been able to break shopkeepers by changing the wrong names in `chr_names.tsv`, so just make sure you only change the right one? I recommend not changing any character names that appear to already use Latin characters when dumped from Japanese. 
   6. Extra Japanese text (underneath my English): I would usually be able to fix these by reformatting my English text to use an extra line in the text box. However, I encountered this again for two lines when reading the message at the end of Volans' sidequest, but wasn't able to fix it this way.

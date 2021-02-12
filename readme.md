@@ -72,17 +72,16 @@ These are all issues that exist in the original fantranslation that I don't know
 
 ## How do I use the files in this repo?
 
-The original tools require Windows and Python 3. They seem to ["work"](./notes.md#why-not-just-use-flames-tools-directly) just as well in Wine if you install a Windows version of Python in a wineprefix. With the changes made in this repo, some (but not all) of the problems with the released versions of the tools are fixed. Also, the Python scripts for the dumping and inserting of binary files no longer require Windows or Wine, but the beginning extraction step and the final rebuilding step still do.
+The original tools require Windows and Python 3. They seem to ["work"](./notes.md#why-not-just-use-flames-tools-directly) just as well in Wine if you install a Windows version of Python in a wineprefix. With the changes made in this repo, all of the non-working parts of the released versions of the tools should be fixed. Also, the Python scripts for the dumping and inserting of binary files no longer require Windows or Wine, but the beginning extraction step and the final rebuilding step still do.
 
-You should have access to a clean Nayuta no Kiseki iso. The workaround for the remaining problem with the released tools requires access to a [version 4.15 patched](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=73) translated iso.
+You should have access to a clean Nayuta no Kiseki iso.
 
 1. Download [flame's 2017 tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and set up an environment with a clean Japanese iso (Step 1 in the readme.txt included with the tools):
     1. Drag your iso over `_extract_new.bat`, or run `python extract.py nayuta.iso ISO`, where `nayuta.iso` is the name of your file.
     2. Run `setup.py`
-2. Copy the `PSP_GAME/USRDIR/pack` and `PSP_GAME/USRDIR/visual/event` folders from within the 4.15 patched ISO and replace their equivalents within the `ISO` folder in the environment set up from the previous step. Open the patched 4.15 ISO by mounting it with your OS or file explorer, or with UMDGen, 7-Zip, or anything else that works, really.
 3. [Download](https://github.com/dackst/nayuta/archive/master.zip) the files in this repository and paste them into the environment. Overwrite files if necessary. Modify text or images to your liking. 
 4. Reinsert text by running using the insertion Python scripts from within each respective folder. With my changes, the dump scripts must be run at least once beforehand.
-5. Copy the new files to their correct locations. I would avoid using flame's `copy_text` script, since it led to part of one of the issues described [here](./notes.md#why-not-just-use-flames-tools-directly), avoided by our copying of the `PSP_GAME/USRDIR/pack` folder. You can use `copy_all.py` if you don't want to do it manually.
+5. Copy the new files to their correct locations. Use `copy_all.py` instead of flame's individual `copy_*.py` scripts.
     * If you made modifications to files that weren't modified before, you might have to run the pack editing part on a relevant file for your changes to appear. See the "final boss attack name texture" part of my `copy_all.py` for an example.
 6. Run `_build.bat` to build the new ISO with your changes, named `output.iso`.
 
