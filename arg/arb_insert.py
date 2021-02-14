@@ -16,6 +16,8 @@ def ensure_dir(dirname):
 
 ensure_dir(OUTPUT_FOLDER)
 
+if not os.path.exists("dumped"):
+    import arb_dump
 mapping = address_mapper.get_mapping('dumped', INPUT_FOLDER, "arb")
 
 inputdata = {}

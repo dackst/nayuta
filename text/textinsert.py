@@ -7,6 +7,8 @@ import address_mapper
 INPUT_FOLDER = 'input'
 OUTPUT_FOLDER = 'output'
 
+if not os.path.exists("dumped"):
+    import textdump
 mapping = address_mapper.get_mapping('dumped', INPUT_FOLDER, "text")
 
 def ensure_dir(dirname):

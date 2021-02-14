@@ -42,6 +42,8 @@ INPUT_FOLDER = 'input'
 OUTPUT_FOLDER = 'output'
 INSERT_COL = 4
 
+if not os.path.exists("dumped"):
+    import scriptdump
 mapping = address_mapper.get_mapping('dumped', INPUT_FOLDER)
 
 #Holds: addr, opcode/microcode number
