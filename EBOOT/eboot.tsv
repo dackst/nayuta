@@ -9,14 +9,14 @@
 0x21d9ac	五章	7	Chapter 5	0x23469c	1	
 0x21d9b4	六章	7	Chapter 6	0x2346a0	1	
 0x21d9bc	終章	7	Epilogue	0x2346a4	1	
-0x21d9c4	後日譚	7	Sequel	0x2346a8	1	
+0x21d9c4	後日譚	7	After Story	0x2346a8	1	
 0x21d9cc	「クリアデータ」{ 0a }	19	「Clear Data」{ 0a }			14
 0x21d9e0	★～%s終了～{ 0a }	15	★~%s End~{ 0a }			
 0x21d9f0	～%s終了～{ 0a }	15	~%s End~{ 0a }			
 0x21da00	★%s 「%s」{ 0a }	15	★%s 「%s」{ 0a }			
 0x21da10	%s「%s」{ 0a }	11	%s「%s」{ 0a }			
-0x21da1c	Lv　　　　    %d{ 0a }	23	Level:　%d{ 0a }			
-0x21da34	PlayTime　  %02d:%02d:%02d{ 0a }	31	Playtime:　%02d:%02d:%02d{ 0a }			
+0x21da1c	Lv　　　　    %d{ 0a }	23	Lv:　　　     %d{ 0a }			
+0x21da34	PlayTime　  %02d:%02d:%02d{ 0a }	31	PlayTime:　%02d:%02d:%02d{ 0a }			
 0x21da54	実績　　        %02d/48{ 0a }	31	Trophies:　 %02d/48{ 0a }			27
 0x21da74	難易度　        %s	23	Difficulty:　%s			
 0x21db78	%s/%s	7	%s/%s			
@@ -31,7 +31,7 @@
 0x21f2dc	#1C四季魔法の装備スロットが一つ増えた！！	43	#1CFour Season Magic equip slot opened!			
 0x21f308	#4Cノイが複数のアーツを{ 0a }セットできるようになりました。	55	#4CNoi is now able to{ 0a }equip multiple arts.			46
 0x21f340	#4C複数のアーツをセットすると、{ 0a }戦闘中にＬボタンを押すことで{ 0a }使用するアーツを素早く切り替えることができます。	111	#4CEquip multiple arts,{ 0a }and push L in battle{ 0a }to quickly switch between them.			85
-0x21f3b0	#4C%dミラ#1Cを手に入れた。	27	#1CGot #4C%d #1Cmira.			21
+0x21f3b0	#4C%dミラ#1Cを手に入れた。	27	#1CGot #4C%d mira#1C.			21
 0x21f3cc	#4C『#%dI%s×%d』#1Cを手に入れた。	35	#1CGot #4C『#%dI%s×%d』#1C.			
 0x21f3f0	#4C『#%dI%s』#1Cを手に入れた。	35	#1CGot #4C『#%dI%s』#1C.			
 0x21f440	#2C「%s」#4Cを使った。	23	#4CUsed #2C「%s」#4C.			
@@ -127,7 +127,7 @@
 0x220830	INT%3d	7	INT%3d			
 0x220838	】	7	]			
 0x220840	%s	3	%s			
-0x220844	PlayTime  %02d:%02d:%02d{ 0a }	27	Playtime: %02d:%02d:%02d{ 0a }			
+0x220844	PlayTime  %02d:%02d:%02d{ 0a }	27	PlayTime: %02d:%02d:%02d{ 0a }			
 0x2208c0	%sへ移動しますか？	20	Move to %s?			11
 0x220a64	ビューモード	19	View Mode			
 0x220b18	WEAPON	7	WEAPON			
@@ -334,7 +334,7 @@
 0x222af0	タイトル画面に戻ります。	27	Return to title screen.			
 0x226e74	イベントエフェクト読み込み数オーバー{ 0a }	39	Probably an error message.			26
 0x226e9c	を手に入れた。	15	got.			
-0x226eac	#4C『%d ミラ』#1C%s	19	#1CObtained #4C%d #1Cmira.	0x08942840	2	26
+0x226eac	#4C『%d ミラ』#1C%s	19	#1CObtained #4C%d mira#1C%s.	0x08942840	2	26
 0x226ec0	#4C『#%dI%s×%d』#1C%s	23	#4C『#%dI%s×%d』 #1C%s	0x08942874	2	20
 0x226ed8	#4C『#%dI%s』#1C%s	19	#4C『#%dI%s』 #1C%s	0x089428AC	3	17
 0x226eec	#4C『#%dI %s』#1C%s	19	#4C『#%dI %s』 #1C%s	0x089428BC	2	18
