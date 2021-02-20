@@ -319,8 +319,8 @@ tuto_Aulbath
 0x4d5b	0x36	Choice		About Spinning Cut	
 0x4d9d	0x36	Choice		About Down Thrust/Meteor Attack	
 0x4de4	0x36	Choice		About Down Thrust	
-0x4e25	0x36	Choice		About Kamaitachi/Divine Wind	
-0x4e67	0x36	Choice		About Kamaitachi	
+0x4e25	0x36	Choice		About Wind Slash/Divine Wind	
+0x4e67	0x36	Choice		About Wind Slash	
 0x4ea7	0x36	Choice		About Swallow Return/Fallen Lotus	
 0x4ef0	0x36	Choice		About Swallow Return	
 0x4f14	0x36	Choice		About One and Two-Handed Swords	
@@ -372,7 +372,7 @@ tuto_Aulbath
 0x586f	0x98	Aulbath		When CHAIN is 20 or more, you can unleash the	
 				more powerful secret technique, 'Meteor Attack.'	
 				You can confirm its true nature in battle.	
-0x594e	0x98	Aulbath		'Kamaitachi' unleashes an	
+0x594e	0x98	Aulbath		'Wind Slash' unleashes an	
 				intense stroke of your sword	
 				with a quick step.	
 0x59bc	0x98	Aulbath		This technique, infused with sword chi,	
@@ -693,7 +693,7 @@ QS_02_quest_end
 0xb4f4	0xC1	System		#3CLearned secret technique 『Meteor Attack』!	
 0xb60a	0xC1	System		obtained.	mp_0000 0x7558
 0xb68b	0xC1	System		obtained.	mp_0000 0x7558
-0xb71c	0xC1	System		#3CLearned technique 『Kamaitachi』!	
+0xb71c	0xC1	System		#3CLearned technique 『Wind Slash』!	
 0xb80e	0xC1	System		#3C『CHAIN』 has been strengthened!	
 0xb8ff	0xC1	System		#3C『Magic Charge』 has been strengthened!	
 0xba11	0xC1	System		obtained.	mp_0000 0x7558

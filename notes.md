@@ -313,6 +313,9 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * has an unlikely chance to introduce problems with the assumption that [one day is 24 hours](https://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalUniverseTime).
 
 
+* Kamaitachi -> Wind Slash
+  * I was okay with keeping at first glace, since it appears to be the name of a yokai (that, and because I was unable to change an instance where it appeared at the time). However, I later learned that the name is also applicable to the [wind-based slicing attacks](https://tvtropes.org/pmwiki/pmwiki.php/Main/RazorWind) that these yokai are thought to inflict.
+
 ### Name Changes
 
 
