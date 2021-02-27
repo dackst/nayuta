@@ -341,23 +341,23 @@
 0x5d08	name	Angel Wings
 0x5d20	desc	[Reduce Fall Damage] Posable doll accessory shaped like angel wings.
 0x5d94	name	Anklet
-0x5dac	desc	[Plyze Resist/Add] Finely decorated anklet of pure gold.
+0x5dac	desc	[Resist/Inflict Paralysis] Finely decorated anklet of pure gold.
 0x5e20	name	Pom Pouch
 0x5e38	desc	[Reduce Trap Damage] Doll pouch shaped like an inexplicable Pom creature.
 0x5eac	name	Silver Bracelet
-0x5ec4	desc	[Panic Resist/Add] Beautiful silver bracelet with holy inscriptions.
+0x5ec4	desc	[Resist/Inflict Panic] Beautiful silver bracelet with holy inscriptions.
 0x5f38	name	Butterfly Wings
 0x5f50	desc	[No Fall Damage] Posable doll accessory shaped like butterfly wings.
 0x5fc4	name	Periwinkle Anklet
-0x5fdc	desc	[Poison Resist/Poison Add] Heavy and carved with complex patterns.
+0x5fdc	desc	[Resist/Inflict Poison] Heavy and carved with complex patterns.
 0x6050	name	Devil Tail
 0x6068	desc	[Trap Damage Halved] Slippery ornament made with mischief in mind.
 0x60dc	name	Halo Ring
-0x60f4	desc	[Freeze Resist/Add] Metal halo ornament that absorbs heat.
+0x60f4	desc	[Resist/Inflict Freeze] Metal halo ornament that absorbs heat.
 0x6168	name	Cat Tail
 0x6180	desc	[No Fall Damage/Greatly Reduce Trap Damage] Cat tail that moves somehow.
 0x61f4	name	Belt Choker
-0x620c	desc	[All Resist/Add] Holy belted choker that repels all maladies.
+0x620c	desc	[Resist/Inflict All] Holy belted choker that repels all maladies.
 0x6280	name	
 0x6298	desc	
 0x630c	name	
@@ -951,21 +951,21 @@
 0x103d4	name	
 0x103ec	desc	
 0x10460	name	Master Gear of Earth
-0x10478	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
+0x10478	desc	Mysterious internal machine part. Can be placed in the Astrolabe.
 0x104ec	name	Master Gear of Water
-0x10504	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
+0x10504	desc	Mysterious internal machine part. Can be placed in the Astrolabe.
 0x10578	name	Master Gear of Wind
-0x10590	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
+0x10590	desc	Mysterious internal machine part. Can be placed in the Astrolabe.
 0x10604	name	Master Gear of Fire
-0x1061c	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
+0x1061c	desc	Mysterious internal machine part. Can be placed in the Astrolabe.
 0x10690	name	Amber Stellagear
-0x106a8	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
+0x106a8	desc	Mysterious internal machine part. Can be placed in the Astrolabe.
 0x1071c	name	Azure Stellagear
-0x10734	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
+0x10734	desc	Mysterious internal machine part. Can be placed in the Astrolabe.
 0x107a8	name	Jade Stellagear
-0x107c0	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
+0x107c0	desc	Mysterious internal machine part. Can be placed in the Astrolabe.
 0x10834	name	Crimson Stellagear
-0x1084c	desc	Mysterious part with machines inside. Can be placed in the Astrolabe.
+0x1084c	desc	Mysterious internal machine part. Can be placed in the Astrolabe.
 0x108c0	name	
 0x108d8	desc	
 0x1094c	name	

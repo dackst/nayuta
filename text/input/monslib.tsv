@@ -6,7 +6,7 @@
 0xfe	line	A small monster with a pair
 0x11e	line	of long antennae. Pollen
 0x13e	line	adheres to its fluffy fur.
-0x19e	mon name	Floral Foot
+0x19e	mon name	Floralfoot
 0x1be	line	A hairy ape-like monster.
 0x1de	line	It mimics a flower and
 0x1fe	line	stores food underground.
@@ -66,10 +66,10 @@
 0xc3e	line	Ape-like monster that enhanced
 0xc5e	line	its defense with hard leaves.
 0xc7e	line	Attacks with brute force.
-0xcde	mon name	Flowerois
+0xcde	mon name	Flower Roy
 0xcfe	line	Dangerous plant-like monster.
 0xd1e	line	Holds seeds in its petals to
-0xd3e	line	release them all at once.
+0xd3e	line	release them in bursts.
 0xd9e	mon name	Gathermoth
 0xdbe	line	Swarm of countless moths.
 0xdde	line	Can dodge attacks as well as
@@ -98,7 +98,7 @@
 0x123e	line	Strange spider-like monster
 0x125e	line	with shields on its four limbs.
 0x127e	line	Its defense is hard to break.
-0x12de	mon name	Crosstail
+0x12de	mon name	Clothtail
 0x12fe	line	Mischievous fox monster. Hangs
 0x131e	line	in trees with strong thread
 0x133e	line	to toy with its prey.
@@ -257,12 +257,12 @@
 0x301e	mon name	Evil Dragon
 0x303e	line	Ancient mythological creature.
 0x305e	line	Scorches the earth, exhaling
-0x307e	line	black flames it produces.
+0x307e	line	the black flames it produces.
 0x30de	mon name	Krabaltarf
 0x30fe	line	Crab idol guarding temple.
 0x311e	line	An army of countless crabs
 0x313e	line	that can change its shape.
-0x319e	mon name	Doggy Armor
+0x319e	mon name	Armored Doggy
 0x31be	line	Canine monster wearing armor.
 0x31de	line	Uses its full weight to 
 0x31fe	line	unleash rabid attacks.
@@ -479,11 +479,11 @@
 0x599e	line	
 0x59be	line	
 0x5a1e	mon name	Patroller
-0x5a3e	line	Mechanical doll used for city
+0x5a3e	line	Humanoid machine used for city
 0x5a5e	line	patrols. Equipped with a laser
 0x5a7e	line	cutter to subdue intruders.
 0x5ade	mon name	Riderion
-0x5afe	line	Mechanical heavy combat doll.
+0x5afe	line	Humanoid heavy combat machine.
 0x5b1e	line	Transforms into a bike to
 0x5b3e	line	greatly raise its mobility.
 0x5b9e	mon name	Duel Armor
@@ -491,7 +491,7 @@
 0x5bde	line	ancient set of armor. Strikes
 0x5bfe	line	down any enemies of Zext.
 0x5c5e	mon name	Titan
-0x5c7e	line	Heavy combat doll for home
+0x5c7e	line	Heavy combat machine for home
 0x5c9e	line	security. Lunges with its huge
 0x5cbe	line	arms, mowing down its enemies.
 0x5d1e	mon name	Vesper
@@ -536,7 +536,7 @@
 0x643e	line	Fires heat rays in groups.
 0x649e	mon name	Proto-Golem
 0x64be	line	Ancient transforming mechanical
-0x64de	line	doll. Can fight in multiple
+0x64de	line	puppet. Can fight in multiple
 0x64fe	line	forms at long and close range.
 0x655e	mon name	Oltaroid
 0x657e	line	The ancestor of many aquatic
@@ -576,7 +576,7 @@
 0x6bbe	line	
 0x6c1e	mon name	Labe Virgos
 0x6c3e	line	Astrolabe defense mechanism,
-0x6c5e	line	embodied as a suit of armor.
+0x6c5e	line	a being in a suit of armor.
 0x6c7e	line	Forcefully repels intruders.
 0x6cde	mon name	Noi Stelladia
 0x6cfe	line	Idol that rules the Astrolabe. 
@@ -619,11 +619,11 @@
 0x73de	line	magic that dances like a butt-
 0x73fe	line	erfly, yet stings like a bee.
 0x745e	mon name	Death Freezer
-0x747e	line	Mechanical doll that was
+0x747e	line	Humanoid machine that was
 0x749e	line	discontinued due to its deadly
 0x74be	line	nature. Uses ice magic.
 0x751e	mon name	Expeltron
-0x753e	line	Mechanical doll for intruder
+0x753e	line	Humanoid machine for intruder
 0x755e	line	interception. Unites its three
 0x757e	line	parts to buff its attacks.
 0x75de	mon name	Evil Taikun

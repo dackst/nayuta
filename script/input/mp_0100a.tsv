@@ -498,7 +498,7 @@ EV_7_S19_use_astrolabe
 0xef8e	0x98	ALTO	#1W#6A	So... you've already	
 				made up your mind, huh?	
 0xeffd	0xBC	ALTO		Ellipsis	
-0xf066	0x98	ALTO	#1W#6A	Will... Will we ever	
+0xf066	0x98	ALTO	#1W#6A	Will...we ever	
 				see you again?	
 0xf0ba	0x06	Noi		ANI_DENY	
 0xf12f	0x98	Noi	#2W	I'm sure you will...	
@@ -515,7 +515,7 @@ EV_7_S19_use_astrolabe
 0xf43e	0x06	Noi		ANI_NOD	
 0xf4b2	0x98	Noi	#3W	...Yeah!	mp_0001c 0x406c
 0xf5eb	0x06	Creha		ANI_WAIT2	
-0xf629	0x98	Creha	#3W#6A	...Noi, I... I'm really	
+0xf629	0x98	Creha	#3W#6A	...Noi, I'm...really	
 				glad to have met you.	
 0xf684	0x98	Creha	#1W#6A	Thank you...	
 0xf703	0x06	Signa		ANI_WAIT4	
