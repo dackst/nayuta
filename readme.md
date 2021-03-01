@@ -17,7 +17,7 @@
 ---
 ## Introduction
 
-I wasn't happy with the [existing Nayuta no Kiseki English fantranslation](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=73), so I used their [publicly available tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) to make my own edit.
+I wasn't happy with the English in the [existing Nayuta no Kiseki fantranslation](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=73), so I used their [publicly available tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) to make my own edit.
 
 
 Initially I only wanted to only fix various inconsistencies, nonsensical lines, and the awkward direct-from-Japanese punctuation and formatting. Since I can read zero Japanese, I started out by using Google Translate and Linguee for help on trying to gauge what the more confusing parts were even trying to say, and editing the rest of the English myself.
@@ -50,7 +50,7 @@ xdelta3 -ds original.iso patch.xdelta patched.iso
 
 * Clean Japanese ISO : `02adefbdef8197cca872268d5c01b277`
 * ISO patched with flame's 4.15 release: `6cc975153b7998db4242baa17eb8d276`
-* ISO patched with this current release (1.04): `f39ca4df67aabe378198a16291a69914`
+* ISO patched with this current release (1.05): `d444f637618088b91f72fbea2ba46ba2`
 
 
 ## Known Issues
@@ -76,13 +76,14 @@ The original tools require Windows and Python 3. They seem to ["work"](./notes.m
 
 You should have access to a clean Nayuta no Kiseki iso.
 
-1. Download [flame's 2017 tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and set up an environment with a clean Japanese iso (Step 1 in the readme.txt included with the tools):
+1. Download and extract [flame's 2017 tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and paste the [contents of this repository](https://github.com/dackst/nayuta/archive/master.zip) into the extracted tools. Overwrite files if necessary.
+2. Set up an environment with a clean Japanese iso (Step 1 in the readme.txt included with the tools):
     1. Drag your iso over `_extract_new.bat`, or run `python extract.py nayuta.iso ISO`, where `nayuta.iso` is the name of your file.
     2. Run `setup.py`
-3. [Download](https://github.com/dackst/nayuta/archive/master.zip) the files in this repository and paste them into the environment. Overwrite files if necessary. Modify text or images to your liking. 
+3. Modify files to your liking. See flame's `readme.txt` for more on this.
 4. Reinsert text by running using the insertion Python scripts from within each respective folder.
 5. Copy the new files to their correct locations. Use `copy_all.py` instead of flame's individual `copy_*.py` scripts.
-    * If you made modifications to files that weren't modified before, you *might* have to run the pack editing part on a relevant file for your changes to appear. See the "final boss attack name texture" part of my `copy_all.py` for an example.
+    * If you made modifications to files that weren't modified before, you *might* have to run the pack editing function in `copy_all.py` on a relevant file for your changes to appear. See the "final boss attack name texture" section of `copy_all.py` for an example.
 6. Run `_build.bat` to build the new ISO with your changes, named `output.iso`.
 
    * You should be able to do steps 4-6 in one go with `build_all.bat` or `build_all.sh`

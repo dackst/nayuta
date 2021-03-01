@@ -6,11 +6,10 @@
   - [fixed inconsistencies](#fixed-inconsistencies)
 - [Terminology Changes](#terminology-changes)
   - [miscellaneous terminology changes](#miscellaneous-terminology-changes)
-  - [Name Changes](#name-changes)
-    - [Items/Museum](#itemsmuseum)
-    - [Locations](#locations)
-    - [Characters](#characters)
-    - [Monsters](#monsters)
+  - [Items/Museum](#itemsmuseum)
+  - [Locations](#locations)
+  - [Characters](#characters)
+  - [Monsters](#monsters)
   - [tentative/unsure/wanted to change at some point](#tentativeunsurewanted-to-change-at-some-point)
   - [changes from official sources](#changes-from-official-sources)
 - [technical notes](#technical-notes)
@@ -193,6 +192,14 @@ Like before, this section mostly served so that *I* could keep these things cons
 * Pyxia should no longer switch between making paintings and drawings
   * I guess it's okay if she makes sketches before starting a painting
 
+* Chapter names:
+  * Secret of the Mythos/Truth of Mythos -> Secret of the Mitos
+    * there might be a double meaning here that is lost where it is learned that certain *myths* are *true*, and they were *secretly* related to the *Mythos* race all along
+  * Sequel/After Story -> After Story
+
+* Confuse -> Panic (Status effect)
+  * there's an animated pop up (already in English) that says "PANIC" when it is inflicted.
+
 * translate terms consistently with other games in kiseki series:
   * 古代遺物: artifact (instead of relic)
   * 崩壊: collapse (when discussing world-ending disasters)
@@ -242,7 +249,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 
 * Mythos -> Mitos 
   * rather than have a race named after a random English word, (oh so they're named Mythos because they're an ancient, mythical race? okay, that would be like Charlemagne declaring himself the king of the Medievals), use a random (not shared with English) Greek word instead. apparently means "warp thread", like the root for the word "mitosis" and "mitochondria". It also still means "myths" in Spanish and Portuguese.  
-  Although by all likelihood what I'm doing to Greek (and Spanish) is what the the Japanese text did to English, at least the rest of the text isn't also Greek (or Spanish).
+  Although by all likelihood what I'm doing to Greek (and Spanish) is what the Japanese text did to English, at least the rest of the text isn't also Greek (or Spanish).
   * based on the [soundtrack](https://music.apple.com/us/album/nayuta-no-kiseki-original-soundtrack/561940857), Falcom's "official" name appears to be "Mythus", but that [has the same problem](https://www.merriam-webster.com/dictionary/mythus) as "mythos".
   * connection with mitosis/mitochondria could relate to their apparent ability to create, resurrect, and manipulate life. 
   * Possibly related that hajimari no kiseki [promo art](https://static.wikia.nocookie.net/kiseki/images/8/80/Key_Visual_(Hajimari).jpg) shows the grandmaster with similar white hair and holding some kind of glowing yarn
@@ -255,8 +262,8 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * '"Cage"' -> 'prison' (the magical vase things that the Wardens are trapped in)
   * Wardens are "imprisoned", and their "prison" is sealed within a "barrier"
 * spirit -> [nymph](https://en.wikipedia.org/wiki/Nymph)
-  * removes overlap between "spirit" referring to both the little sprite-like followers of the Wardens and the non-corporeal ghost-like forms characters take at some points
-  * "nymph" fits with the whole "personifications of nature, typically tied to a specific place or landform"
+  * removes overlap between "spirit" referring to both the little sprite-like followers of the Wardens and non physical stuff like the non-corporeal ghost-like forms characters take at some points. From original: 'Those are Gio's "spirits." They are spiritual life forms...'
+  * "nymph" fits with the whole "personifications of nature, typically tied to a specific place or landform", and what are "nature deities" if not a type of spirit?
 * Remake/Remaking -> Recreate/Recreation, and not necessarily always capitalized
 * Power of Stars -> astral power
   * see [here](https://kiseki.fandom.com/wiki/Mythus) and [here](https://en.wiktionary.org/wiki/astral#English) (all three definitions could now relate somehow)
@@ -316,10 +323,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * Kamaitachi -> Wind Slash
   * I was okay with keeping at first glace, since it appears to be the name of a yokai (that, and because I was unable to change an instance where it appeared at the time). However, I later learned that the name is also applicable to the [wind-based slicing attacks](https://tvtropes.org/pmwiki/pmwiki.php/Main/RazorWind) that these yokai are thought to inflict.
 
-### Name Changes
-
-
-#### Items/Museum
+### Items/Museum
 
 * removed Japanese characters for some numbered items (book volumes 1, 2, etc.)
 * item names longer than 20-21 characters should be shortened so they don't overlap with their quantity indicators.
@@ -367,7 +371,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * "bronze" items are no longer described as made of "copper"
 
 
-#### Locations
+### Locations
 
 * St. Cerize -> <del>St. Cerise</del> <del>San Ceres?</del> <del> San Ceriz </del> Saint Cerise
   * google translate romanizes it (サンセリーゼ) as something like "sanserize", which is different than say, the romanized name for St. Louis (セントルイス - Sentoruisu) and more like that of San Salvador (サンサルバドル - Sansarubadoru), so I think "San" is better here. It also fits together with the Spanish "Ciencia"
@@ -385,11 +389,11 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * the whole island is full of fallen ruins, this is another such ruin that happens to be an intact tower (and not a regular old tower than happens to be in ruins)
 
 * Scrying Pool Caves -> Scrying Pool Cavern, Dragon River Cavern -> Dragon River Grotto
-  * too many cave dungeons in 2nd continent, even though the last parts are different in Japanese, and they all seem to translate to something like cave (洞穴/洞/巌窟). 
-    * since they share a kanji character, first two are now similar, but not identical, while third is a different word altogether
+  * too many cave dungeons in 2nd continent (Caves/Caves/Cavern), even though the last parts are different in Japanese, and they all seem to translate to something like cave (洞穴/洞/巌窟). 
+    * since they share a kanji character, first two are now similar, but not identical, while third is a different word altogether (Caves/Cavern/Grotto)
 
 * Hermit's Path -> Fruitful Hermit's Way
-  * similar to above, different kanji were both turned into the identical "Path". It's actually identical to one in "Shaded Animal Trail", but I also wanted include the missing adjective
+  * similar to above, different kanji were both turned into the identical "Path". It's actually identical to one in "Shaded Animal Trail", but I also wanted include the missing adjective, and any names over 21 characters are cut off on the world map
 
 * "Giant Dragon Graveyard" -> "Dragon Graveyard"
   * original name is too long to be displayed on world map screen
@@ -400,8 +404,8 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 
 * Muncipial District -> Urban District (no mention at all of any government, just a city part of Terra that humans were intended to live in. "Residential District" might be even better?)
 * Cradle Area -> Birthing Chamber (formerly used for raising animals, also pretty creepy looking)
-  * not written the same way as the the Cradle District in SC, or used for the same purpose (not a human residential district)
-* Glowing Dust Area -> Shining Shard Area (consistency with shining stones/star shards)
+  * not written the same way as the Cradle District in SC, or used for the same purpose (not a human residential district)
+* Glowing Dust Area -> Shining Shard Area (more obvious connection with shining stones/star shards)
 
 
 * Planetarium (星座球) -> [Planisphere](https://en.wikipedia.org/wiki/Planisphere)
@@ -410,7 +414,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * also you can see it actually looks spherical when seen from afar, which makes sense given that it's a replacement core for the planet  
   * Given that it's inside the Stellarium, I'd say it's most likely *supposed* to refer to spherical "star ball" planetarium projectors, but "Planisphere" sounds less silly than "star ball", and I like how Wikipedia describes it as a successor to the astrolabe
 
-#### Characters
+### Characters
 
 
 * Michey -> Mishy (match official localizations)
@@ -439,7 +443,7 @@ For character names based off of constellations, change spellings to more closel
   * keeping it, since at least Victor is an actual name. same goes for Janis (from Canis)
 
 
-#### Monsters 
+### Monsters 
 
 The bosses you fight throughout the story are supposed to be related somehow to the zodiac constellations:
 
@@ -472,8 +476,9 @@ More monster changes:
 * Warcat -> Werecat
 * Beowulf -> Werewolf
 * Zoropino -> Zorropino (Spanish for fox + pine)
-
+* Crosstail -> Clothtail (it hangs from a thread from its behind like a spider)
 * Flame Spirit -> Flamme Geist (the Japanese is literally "fureimugaisuto")
+* Lavaganth -> Lavacanth (from lava and ceolacanth)
 * Soldart -> Soldat (soldier, nothing about darting)
 * Shuvalgrif -> Chevalgriff (it's a just hippogriff, but I guess they opted to use the French word for "horse" instead of the Greek one)
 * Demon Zerob -> Demon's Robe (it's a robe brought to life)
@@ -514,7 +519,7 @@ More monster changes:
 "this world"), the events weren't as far-reaching as they were previously mentioned to be, or if it literally implies the Cienca Sea is the only sea in the world
   * 0115 0xb313
   * <del>I'm assuming the latter is true</del>, "the continent" is implied to be the sole remaining continent in the world
-    * however, when Antlia is talking about a flower that grows on the western continent, he says something like "it doesn't grow in the Ciencia Sea". and since the northern part of the continent gets cold, while Renmant Island is always warm, it can be assumed that Remnant Island (and at least part of the Ciencia Sea with it) is south of the continent, and what is considered the Ciencia Sea doesn't extend to the west.
+    * however, when Antlia is talking about a flower that grows on the western continent, he says something like "it doesn't grow in the Ciencia Sea". and since the northern part of the continent gets cold, while Remnant Island is always warm, it can be assumed that Remnant Island (and at least part of the Ciencia Sea with it) is south of the continent, and what is considered the Ciencia Sea doesn't extend to the west.
     * Cetus separately lists the Ciencia sea, eastern island(s), and the northern continent as places he's explored
     * Remnant Island is suggested to be part of some archipelago, with various dialogue talking about other islands
       * Ciencia Sea could possibly just refer to the region around the archipelago, like the Carribean or the Sea of Japan
@@ -583,16 +588,16 @@ More monster changes:
 what appear to be official romanizations/translations aren't always followed.
 
 * characters (from [wallpapers](https://www.falcom.co.jp/download/w_paper/nayuta.html))
-  * Signa (Cygna - keeping because constellation)
+  * Signa (Cygna - keeping because constellation Cygnus)
   * Serum (Selam - keeping because he's not a liquid. if anything, given his personality, he should be a hardened solid)
   * Asa (Eartha - see above)
   * Burton (Barton - I think it matches the voice's pronounciation better)
-  * Aulbath (Orvus - constellation)
+  * Aulbath (Orvus - constellation Corvus)
   * Gio (Geo - explained above in [Characters](#characters))
   * Erislet (Erisette - ok so "[-let](https://en.wiktionary.org/wiki/-let)" is a diminutive, but it's "almost... never" used for names, and "is generally depreciative, connoting pettiness and conveying contempt" when it is)
   * Argol (Algol - explained above)
   * Cealam (Caelum - constellation)
-  * Colon (Coron - constellation)
+  * Colon (Coron - one of the Corona constellations)
   * Michey (Mishy - explained above)
 * From [soundtrack](https://music.apple.com/us/album/nayuta-no-kiseki-original-soundtrack/561940857). 
   * The Island Left Behind (Remnant Island - the name is explained that it's from being made of the ruins that fall, not that the island itself is ruined. Though this might be more of a poetic description of the rural culture on Remnant Island)
@@ -603,6 +608,20 @@ what appear to be official romanizations/translations aren't always followed.
   * Mythus (Mitos - explained above)
   * Administrator (Warden - dunno, I like administrator for its greater technological connotations, but also like warden for implying they act as protectors or guardians to the giant wildlife preservation that is Terra)
   * Icon (Idol - "idol" is usable for personifications (like Noi and 'Zext') as well as religious images)
+* strings in the internal files could also be a source of offical romanizations/translations. Only listed here if what they differ from or are not included in other sources.
+  * Seram (Selam - Selam seems to be an actual word/name with Arabic origins. Although the Latin meaning of seram could still be relevant, as he's all about taking action)
+  * Eida (Ada - her name in the wallpapers, and closer in spelling to the constellation Ara)
+  * Algorl (Algol - explained above)
+  * Bell (Vel - constellation Vela)
+  * Canis (Janis - a real female name, and still similar enough in spelling to the Canis constellations)
+  * Columha (Columba - constellation)
+  * Keny (Canie - another instance of one of the Canis constellations)
+  * Ursaminor (Ursamina - keeping because it looks closer to a name, as a compound of the real names Ursa and Mina)
+  * Vavo (Pavo - constellation)
+  * Spirits (Nymphs - explained [above](#miscellaneous-terminology-changes))
+
+  With the exception of *Creha*, *Erislet*, and *Pecula*, the names used prior to my changes listed [here](#characters) also match up with these strings.
+
 
 ---
 
@@ -619,14 +638,14 @@ However, once I started testing the output, it seemed the released tools only *m
   5. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact. He remained perfectly in in Chapter 2 and after starting Chapter 5.
   6. I would occasionally encounter some stray lines of Japanese text underneath my English text in long text boxes (`0x41` op codes) [example](https://i.imgur.com/tPViMoM.jpg)
 
-Clearly, there were undocumented shenanigans that went on in the original fantranslation, given that none of these issues exist in its final release.
+Clearly, there were shenanigans done in the original fantranslation that aren't fully documented by the tools released in 2017, given that none of these issues exist in the 2016 patch.
 
 
 #### "Solutions"
 
 Here's how I solved each of the above problems.
 
-If you want to do a actual, proper retranslation of this game yourself not smart/motivated enough to write your own tools or fix the existing ones, you might have to do something similar.
+If you want to do a actual, proper retranslation of this game yourself and are not smart/motivated enough to write your own tools or fix the existing ones, you might have to do something similar.
 
   1. the broken item messages do not occur if I simply do not run the provided script inserter, but obviously, that leaves me unable to insert any of my script changes. This seemed to indicate something was wrong the script inserter.
       * Switching to [Flame's earlier Python 2 script inserter](https://pastebin.com/vtVwq338) released in 2015 seemed to fix this, but it had its own problems. But looking through it, I noticed there was a special case that applied only to these particular problematic textboxes 
@@ -635,7 +654,7 @@ If you want to do a actual, proper retranslation of this game yourself not smart
       * removing `noi.bin` from the `.3se` files as well as the `.mpp` files inside `pack/map` in the pack editing script makes the text in `noi.bin` appear correctly
       * removing `system.bin` from `pack/global/first.dat` in the pack editing script makes the text in `system.bin` appear correctly
       * Changes are successfully made in `pc`, `foodarea` and `helplib` after modifying how `textinsert.py` chose to skip rows that were too short. Since `pc`, `foodarea` and `helplib` have less columns than all the other `text` files, they were previously skipped entirely. 
-  3. Chapter titles: like with #2, I copied the files from the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't.
+  3. Chapter titles: These are copied the files from the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't.
   5. The Mishy issue was not entirely the fault of the tools. For some reason, Mishy's internal name ("Michy") was exposed in `chr_names.tsv` as well as his name that is displayed above his textboxes (originally "Michey"). For comparison, Mensa was called "Mrs. Mensa" in the original translation, and has an internal name of "Mensa", but only appeared once in `chr_names.tsv` (as "Mrs. Mensa"). I've also been able to break shopkeepers by changing the wrong names in `chr_names.tsv`, so just make sure you only change the right one? I recommend not changing any character names that appear to already use Latin characters when dumped from Japanese. 
   6. Extra Japanese text (underneath my English): I would usually be able to fix these by reformatting my English text to use an extra line in the text box. However, I encountered this again for two lines when reading the message at the end of Volans' sidequest, but wasn't able to fix it this way.
       * this appears to be fixable by increasing the max length for `0x41` op codes, as defined in the `bin` method, from 10 to 11. Now all the Japanese text is replaced as long as there is enough rows of English text. Due to a related logical error that should also now be fixed, it was [truncated to 3 rows](https://i.imgur.com/FEP7Gk1.jpg) when I tried to add an additional row instead of 10
@@ -648,7 +667,7 @@ entirely unrelated to the tools
 * The text about your next objective that appears when pressing select is not updated
   * the correct objective text will be used if the story is continued to the next objective. It appears the text for the current objective is loaded directly from your savefile, so this will happen upon loading a savefile created from where the objective was last updated in another version.
 * glitchy effects on dialogue boxes ([example](https://user-images.githubusercontent.com/73907314/101234594-bf705c80-368e-11eb-837b-098794bf1673.jpg))
-  * this seems to be caused by the the size of the text boxes and the positional arguments sometimes given in the fourth column of the dumped scripts. It can be fixed by [increasing the size of the box](https://user-images.githubusercontent.com/73907314/101234598-ca2af180-368e-11eb-9b98-14d1bbb4fcdd.jpg) to more closely resemble the original Japanese, or by [modifying the given positions](https://user-images.githubusercontent.com/35816592/101244338-e69d4d00-36d3-11eb-911e-03118378458c.jpg).
+  * this seems to be caused by the size of the text boxes and the positional arguments sometimes given in the fourth column of the dumped scripts. It can be fixed by [increasing the size of the box](https://user-images.githubusercontent.com/73907314/101234598-ca2af180-368e-11eb-9b98-14d1bbb4fcdd.jpg) to more closely resemble the original Japanese, or by [modifying the given positions](https://user-images.githubusercontent.com/35816592/101244338-e69d4d00-36d3-11eb-911e-03118378458c.jpg).
 
 ### other stuff
   * accented characters, like for Soufflé or Boötie don't work
@@ -801,15 +820,16 @@ assuming the continent *is* the zemuria that we know (and not some parallel vers
 
 - this game is in the distant past of other games (before Great Collapse)  
   - humanity eventually returns to its old problems and cause another disaster, the Great Collapse, and maybe a third one looms again in the S.1200s
+  - unless it is a completely different park, the fact that Mishelam was established only very recently in other games makes this seem unlikely
 
 - this game is in the near past of other games (after Great Collapse)  
   - needs to be distant enough that worldwide abnormal weather, rocks falling from the sky, and disappearance of the second moon become overshadowed by other events, like the Orbal Revolution or multiple wars, and for star shards from Terra to become extremely rare
-  - not much of the new area is made known before humanity falls back to its old problems and End of the World returns or something to prevent people from exploring the rest of the world, threatening another cataclysmic disaster unknown to humans
+    - same thing about Mishelam as above, the events in this game seem too world altering to be forgotten in only the few years since Mishelam was established
 
 - if this game was in the distant future of other games (i.e. other games are before the Great Flood), more than one continent should exist and be accessible
 - if this game was in the near future of other games (i.e. other games are after the Great Flood), there should be [two moons visible in the sky](https://i.imgur.com/b2SXfaI.jpg)
 
-And of course, they could always be in some alternate dimension like the Aureole was or something.
+And of course, the similarities could always be explained away by having it take place in some alternate dimension or branching timeline or something.
 
 ---
 
