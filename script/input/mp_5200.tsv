@@ -97,7 +97,7 @@ EV_5_S19_meet_zext
 				it did actually happen.	
 0x37c8	0x98	Zext		...However, we had anticipated	
 				this to some extent...	
-0x3811	0x98	Zext		We had a Plan ready to protect the	
+0x3811	0x98	Zext		We had a 'plan' ready to protect the	
 				world in case of imminent destruction.	
 0x3882	0x98	NOI	#1W#20x#270y	...'Plan'...?	
 0x38be	0x98	Zext		We created a beautiful new world tailored for the 	
@@ -133,8 +133,8 @@ EV_5_S19_meet_zext
 0x4267	0x98	Zext		Our time is coming to an end.	
 0x42a0	0x98	Zext		Selam, Creha.	
 				Release it.	
-0x42db	0x98	Zext		The symbol of the Enforcers of the Plan...	
-				The power of the Shining Wings of the Mitos!	
+0x42db	0x98	Zext		The symbol of the Enforcers of the plan...	
+				The power of the Radiant Wings of the Mitos!	
 0x435a	0x98	Seram	#6A	As you wish.	mp_5200 0x919
 0x43e0	0x06	Creha		ANI_NOD	
 0x440e	0x98	Creha	#0W#6A	......(*nod*)	
@@ -222,7 +222,7 @@ EV_5_S19_meet_zext
 0x65bf	0x98	ALTO	#16S	...!?	mp_5200 0x2fd4
 0x6629	0x98	Zext	#6A	Heheh... The answer is quite simple.	
 0x666e	0x98	Zext	#6A	Noi is an entity originally	
-				created by Creha and Cygna...	
+				created by Creha and Selam...	
 0x66ce	0x98	Zext	#6A	In order to achieve the	
 				Mitos' mission, she cannot	
 				disobey their orders.	

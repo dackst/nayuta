@@ -277,7 +277,7 @@ EV_6_S36_break_up_creha
 0x8e63	0x06	NOI		ANI_GUTSPOSE	
 0x8e8c	0x98	NOI	#6A	Oh, that's a good idea!	
 0x8ec7	0x98	NOI	#6A	Only Lady Creha and Lord Selam, with	
-				the Shining Wings of the Mitos, can	
+				the Radiant Wings of the Mitos, can	
 				execute the Recreation.	
 0x8f5f	0x98	NOI	#6A	All we have to do now is convince	
 				Lord Selam to stop the Recreation!	
@@ -317,7 +317,7 @@ EV_6_S36_break_up_creha
 				#16Swith them, as a human!	
 0xa2f7	0x98	Zext	#2W	What drivel...	
 0xa382	0x98	Zext	#2W	Very well, all we need	
-				is the Shining Wings... 	
+				is the Radiant Wings... 	
 				Your will matters not.	
 0xa4fa	0x06	ALTO		ANI_WAKE_UP_HALF	
 0xa53e	0x98	ALTO	#4W#6A#16S	L-Let go of Creha!!	
@@ -356,7 +356,7 @@ EV_7_S19_use_astrolabe
 0xc382	0x06	Creha		ANI_WAIT	
 0xc3ca	0x98	Creha		...There, we're ready.	
 0xc415	0x98	Creha		Now, if we use the power	
-				of the Shining Wings...	
+				of the Radiant Wings...	
 0xc470	0x06	Signa		ANI_WAIT4	
 0xc498	0x98	Signa	#6A	This could be a little tough...	
 				I could die trying this in my state.	
@@ -498,7 +498,7 @@ EV_7_S19_use_astrolabe
 0xef8e	0x98	ALTO	#1W#6A	So... you've already	
 				made up your mind, huh?	
 0xeffd	0xBC	ALTO		Ellipsis	
-0xf066	0x98	ALTO	#1W#6A	Will... Will we ever	
+0xf066	0x98	ALTO	#1W#6A	Will...we ever	
 				see you again?	
 0xf0ba	0x06	Noi		ANI_DENY	
 0xf12f	0x98	Noi	#2W	I'm sure you will...	
@@ -515,7 +515,7 @@ EV_7_S19_use_astrolabe
 0xf43e	0x06	Noi		ANI_NOD	
 0xf4b2	0x98	Noi	#3W	...Yeah!	mp_0001c 0x406c
 0xf5eb	0x06	Creha		ANI_WAIT2	
-0xf629	0x98	Creha	#3W#6A	...Noi, I... I'm really	
+0xf629	0x98	Creha	#3W#6A	...Noi, I'm...really	
 				glad to have met you.	
 0xf684	0x98	Creha	#1W#6A	Thank you...	
 0xf703	0x06	Signa		ANI_WAIT4	

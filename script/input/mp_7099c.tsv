@@ -86,7 +86,7 @@ EV_7_S14_battle_zext
 				world from destruction at the	
 				hands of those foolish humans...	
 0x2495	0x98	Zext	#16S	That is why...	
-				#16SThis Plan must be completed!!	
+				#16SThis plan must be completed!!	
 0x2818	0x98	ALTO	#6A	Wh-What is that!?	mp_0002d 0x627c
 0x2853	0x98	NOI		The Planisphere terminal	
 				has initialized!	
@@ -109,7 +109,7 @@ EV_7_S14_battle_zext
 				itself deeply into the ground...	
 0x2ffd	0x98	Zext	#140x#120y	And so, the Planisphere can then	
 				descend into the surface, and then	
-				the Plan will finally be complete.	
+				the plan will finally be complete.	
 0x30c9	0x98	Zext	#140x#120y	The temporary history created by	
 				foolish humans is now at an end...!	
 0x314c	0x06	ALTO		ANI_TENSION_STRONG_DENY	

@@ -407,10 +407,10 @@ talk_Keny
 0x78b1	0x98	Keny		Eartha... She was always so healthy.	
 				How did she end up getting sick from	
 				Hell Fever...?	
-0x792b	0x98	Keny		Anyway, everyone all hopes	
-				that Eartha will recover...	
-0x79ab	0x98	Keny		Anyway, everyone all hopes	mp_0110 0x792b
-				that Eartha will recover...	
+0x792b	0x98	Keny		Anyway, everyone hopes that	
+				Eartha will recover...	
+0x79ab	0x98	Keny		Anyway, everyone hopes that	mp_0110 0x792b
+				Eartha will recover...	
 talk_Carina					
 0x7a31	0x98	Carina		Nayuta... I'm worried about Eartha.	
 0x7a75	0x98	Carina		I wish I could be of	
@@ -577,7 +577,7 @@ talk_Creha
 talk_Hydol					
 0x980d	0x98	Hydol		Hell Fever was originally a disease	
 				said to be contracted when one	
-				approached the End of the World.	
+				approaches the End of the World.	
 0x9886	0x98	Hydol		Much of the cases that have been	
 				reported are especially concentrated	
 				in regions of the Empire near the End.	
@@ -2000,7 +2000,7 @@ EV_3_S22_recovery_asa
 0x24ba9	0x98	Hydol	#6A	Hmm, it seems that you're awake.	
 0x24bf3	0x98	Hydol	#6A	How's your body feeling?	
 0x24cb2	0xBC	Asa		Ellipsis	
-0x24cef	0x98	Asa_b	#0W#6A	...I feel so much better.,,	
+0x24cef	0x98	Asa_b	#0W#6A	...I feel so much better...	
 0x24db1	0x98	Asa_b	#0W#6A	...Doctor, is this...?	
 0x24df6	0x06	Hydol		ANI_WAIT3	
 0x24e1e	0x98	Hydol	#6A	As a matter of fact, Nayuta brought me	
@@ -2437,7 +2437,7 @@ EV_3_S27_bring_creha
 				are you suggesting?	
 0x2d729	0x98	ALTO	#6A	Creha is a girl, so I don't think	
 				it's very appropriate to...	
-0x2d799	0x98	Asa	#6A	Well, I think it'd better	
+0x2d799	0x98	Asa	#6A	Well, I think it'd be better	
 				than leaving her to live	
 				somewhere out by herself.	
 0x2d816	0x98	Asa	#6A	Not to mention, spending time with the	

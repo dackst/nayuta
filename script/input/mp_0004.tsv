@@ -12,7 +12,7 @@ lp_post
 				select [Quest] to check the contents	
 				of accepted requests.	
 0x1dfa	0x07	System	#4C	When new requests are available,	
-				A notification icon will be displayed	
+				a notification icon will be displayed	
 				in the corner of the screen.	
 0x2113	0x98	ALTO		Huh...? Looks like there's a	
 				strange letter inside here.	
@@ -27,7 +27,7 @@ lp_telescope_sub
 0x275b	0x98	ALTO		Haha, that Eartha,	
 				she got it ready	
 				for when I got home.	
-0x27bf	0x98	ALTO		Looks like she kept	
+0x27bf	0x98	ALTO		Looks like she kept it	
 				well-maintained too...	
 0x281a	0x98	ALTO		The sun is still up, but	
 				maybe I can take a quick look.	

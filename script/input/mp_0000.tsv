@@ -117,8 +117,8 @@ talk_Dorado
 0x3b80	0x6B	ALTO		Sweatdrop	
 0x3bda	0x98	Dorado		If someone comes between Ada and her weapons,	
 				even a superior officer would get no mercy.	
-0x3c53	0x98	Dorado		I prefer the more the more gentle and	
-				ladylike type, like Sasha or Eartha...	
+0x3c53	0x98	Dorado		I prefer the more gentle and ladylike	
+				type, like Sasha or Eartha...	
 0x3cb2	0x98	Dorado		Huh, Cygna? I just	
 				saw him a minute ago.	
 0x3cfb	0x98	Dorado		Looked like he was in a hurry.	
@@ -950,17 +950,17 @@ QS_38_quest_start
 				from the Handyman Shop?	
 0xe85f	0x98	Pyxia		Did you see my request?	
 0xe897	0x06	Horolo		ANI_TALK	
-0xe8bf	0x98	Horolo		Sorry about the gloomy	
-				atmosphere around here.	
-0xe8fd	0x98	Horolo		If you don't mind, can you	
-				listen to her request?	
+0xe8bf	0x98	Horolo		Sorry to bother you despite the	
+				gloomy atmosphere around here.	
+0xe8fd	0x98	Horolo		If you don't mind, can	
+				you hear her request?	
 0xe957	0x06	Horolo		ANI_WAIT	
 0xe9a7	0x06	Pyxia		ANI_GESTURE2	
 0xe9d2	0x98	Pyxia		Ah... Handyman Shop guy,	
 				you'll take my request?	
 0xea2d	0x06	Horolo		ANI_TALK	
-0xea55	0x98	Horolo		If you don't mind, can you	mp_0000 0xe8fd
-				listen to her request?	
+0xea55	0x98	Horolo		If you don't mind, can	mp_0000 0xe8fd
+				you hear her request?	
 0xeaab	0x06	Horolo		ANI_WAIT	
 0xeaf5	0x36	Choice		[Accept]	
 0xeb0b	0x36	Choice		[Quit]	
@@ -1198,7 +1198,7 @@ QS_01_quest_end
 0x11d84	0x98	ALTO	#6A	Here you go, Dorado. It's a 	
 				lunch box from my sister.	
 0x11e06	0x06	ALTO		ANI_HANDOVER	
-0x11e5c	0x40	UNDEF		Handed Eartha's lunch box to Dorado.	
+0x11e5c	0x40	UNDEF		Handed Eartha's Boxed Lunch to Dorado.	
 0x11ebf	0x6B	Dorado		Unknown	
 0x11f4d	0x06	Dorado		ANI_NOD	
 0x11f74	0x98	Dorado		Oh, thanks, Nayuta!	

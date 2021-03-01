@@ -174,9 +174,9 @@ EV_4_S03_help_algorl
 0x5607	0x06	NOI		ANI_DENY	
 0x5634	0x98	NOI	#6A	...I don't know.	
 0x566f	0x06	Algorl		ANI_GESTURE2	
-0x569b	0x98	Algorl		...This somewhat of a difficult	
-				conversation to be having at	
-				this location, is it not?	
+0x569b	0x98	Algorl		...This is somewhat of a difficult	
+				conversation to be having at this	
+				location, is it not?	
 0x5719	0x98	Algorl		Nevertheless, forge on ahead, you two,	
 				and inquire into their real intentions.	
 0x579e	0x98	Algorl		I will grant you, Noi,	

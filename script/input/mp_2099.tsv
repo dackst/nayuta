@@ -25,9 +25,9 @@ talk_Erislet
 0x1d42	0x98	Erislet		If you can recover the last remaining Master	
 				Gear from the Origin Continent, then the	
 				Astrolabe can be completely restored.	
-0x1dd0	0x98	Erislet		Speaking of which, all the Master	
-				Gears up until now have been just	
-				left at the altars.	
+0x1dd0	0x98	Erislet		Speaking of which, all of the	
+				Master Gears so far were simply	
+				left at the altars, right?	
 0x1e40	0x98	Erislet		Zext... I don't know WHAT	
 				he is trying to do, but	
 				he's doing it for a reason...	
@@ -1009,7 +1009,7 @@ EV_2_S23_boss_battle
 0x161e3	0x98	NOI	#6A	Then, you're really...!?	
 0x16258	0x98	Zext		Heheh... Regardless, this is it.	
 				The final key is now in place.	
-0x162b1	0x98	Zext		The Plan is almost ready	
+0x162b1	0x98	Zext		The 'plan' is almost ready	
 				for the next phase.	
 0x16302	0x98	ALTO	#6A	'Plan'...!?	
 				'Final key'...!?	
