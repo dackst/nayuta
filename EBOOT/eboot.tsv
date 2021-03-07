@@ -334,7 +334,7 @@
 0x222af0	タイトル画面に戻ります。	27	Return to title screen.			
 0x226e74	イベントエフェクト読み込み数オーバー{ 0a }	39	Probably an error message.			26
 0x226e9c	を手に入れた。	15	got.			
-0x226eac	#4C『%d ミラ』#1C%s	19	#1CObtained #4C%d mira#1C%s.	0x08942840	2	26
+0x226eac	#4C『%d ミラ』#1C%s	19	#1CObtained #4C%d mira#1C.	0x08942840	2	26
 0x226ec0	#4C『#%dI%s×%d』#1C%s	23	#4C『#%dI%s×%d』 #1C%s	0x08942874	2	20
 0x226ed8	#4C『#%dI%s』#1C%s	19	#4C『#%dI%s』 #1C%s	0x089428AC	3	17
 0x226eec	#4C『#%dI %s』#1C%s	19	#4C『#%dI %s』 #1C%s	0x089428BC	2	18
