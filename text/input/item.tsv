@@ -1666,7 +1666,7 @@
 0x1c728	desc	Wild arthropod found living in nature.
 0x1c79c	name	Cabbage White
 0x1c7b4	desc	Wild arthropod found living in nature.
-0x1c828	name	Marbled Fritillary
+0x1c828	name	Fritillary
 0x1c840	desc	Wild arthropod found living in nature.
 0x1c8b4	name	Morpho Butterfly
 0x1c8cc	desc	Wild arthropod found living in nature.
@@ -1678,9 +1678,9 @@
 0x1ca70	desc	Wild arthropod found living in nature.
 0x1cae4	name	Bell Cricket
 0x1cafc	desc	Wild arthropod found living in nature.
-0x1cb70	name	Singing Cicada
+0x1cb70	name	Robust Cicada
 0x1cb88	desc	Wild arthropod found living in nature.
-0x1cbfc	name	Yezo Cicada
+0x1cbfc	name	Ezo Cicada
 0x1cc14	desc	Wild arthropod found living in nature.
 0x1cc88	name	Walker's Cicada
 0x1cca0	desc	Wild arthropod found living in nature.
@@ -1730,7 +1730,7 @@
 0x1d8a8	desc	Marine animal trapped in a mysterious water crystal.
 0x1d91c	name	Pufferfish
 0x1d934	desc	Marine animal trapped in a mysterious water crystal.
-0x1d9a8	name	Koi Carp
+0x1d9a8	name	Koi
 0x1d9c0	desc	Marine animal trapped in a mysterious water crystal.
 0x1da34	name	Goldfish
 0x1da4c	desc	Marine animal trapped in a mysterious water crystal.
@@ -1738,7 +1738,7 @@
 0x1dad8	desc	Marine animal trapped in a mysterious water crystal.
 0x1db4c	name	Coelacanth
 0x1db64	desc	Marine animal trapped in a mysterious water crystal.
-0x1dbd8	name	Catfish
+0x1dbd8	name	Amur Catfish
 0x1dbf0	desc	Marine animal trapped in a mysterious water crystal.
 0x1dc64	name	Alligator Gar
 0x1dc7c	desc	Marine animal trapped in a mysterious water crystal.

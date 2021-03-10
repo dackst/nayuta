@@ -336,8 +336,10 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
 * pterodactyl -> [pteranodon](https://en.wikipedia.org/wiki/Pteranodon)
   * someone originally decided to translate [プテラノドン](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%86%E3%83%A9%E3%83%8E%E3%83%89%E3%83%B3) as [Pterodactyl](https://en.wikipedia.org/wiki/Pterodactylus) for some reason unknown to me. I thought maybe the skeleton looks more like a pterodactyl instead, but it doesn't, it has that huge crest
 * It may be the case that they're *all* commonly called "kabuto" beetles in Japanese (not sure), but at least in English, [stag beetles](https://en.wikipedia.org/wiki/Stag_beetle) are not considered a type of [rhinoceros beetle](https://en.wikipedia.org/wiki/Dynastinae). Descriptions should now correctly distinguish between them, rather than calling everything a rhinoceros beetle.
-  * same goes with every prehistoric reptile being called a "dinosaur"
+  * same goes with every prehistoric reptile being called a "dinosaur"/dragon
   * ammonites aren't snails
+  * sea cucumbers aren't mollusks
+  * man of wars aren't jellyfish
 * Googled the scientific names to fix English names of museum animals, or add missing common names
   * lots of common names for various species of Asian grasshoppers and cicadas that I don't care to list
   * White Butterfly -> Cabbage White

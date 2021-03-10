@@ -9,7 +9,7 @@ lp_butterfly
 0x176c	0x36	Choice		？？？？？？	
 0x17a8	0x36	Choice		Cabbage White	
 0x17cf	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x180b	0x36	Choice		Marbled Fritillary	
+0x180b	0x36	Choice		Fritillary	
 0x1835	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x1871	0x36	Choice		Morpho Butterfly	
 0x1899	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -22,14 +22,14 @@ lp_butterfly
 				Medium-size butterfly with white wings. As its caterpillar,	
 				the cabbageworm, they eat rapeseed blossoms and other leaves.	
 				They emerge from their chrysalis in spring.	
-0x1c0e	0x41	None		[Marbled Fritillary] Argynnini	
+0x1c0e	0x41	None		[Fritillary] Argynnini	# the marbled fritilllary isn't in Argynnini (and ARE active in the summer)
 				Orange butterfly with a leopard pattern on its wings.	
-				In the heat of the summer season, they stop moving	
-				and sleep until the fall.	
+				Adults remain inactive in the midsummer heat,	
+				and sleep until autumn.	
 0x1d68	0x41	None		[Morpho Butterfly] Morpho	
 				Beautiful butterfly inhabiting the tropics.	
-				They prefer rotting fruits and animal corpses.	
-				Males instinctually patrol the riverside.	
+				They feed on rotting fruit and decomposing animal corpses.	
+				Males habitually patrol the riverside in the mornings.	
 lp_grasshopper					
 0x2060	0x36	Choice		Chinese Grasshopper	
 0x2083	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -41,9 +41,9 @@ lp_grasshopper
 0x21a5	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x21c1	0x36	Choice		Quit	mp_0002 0x433f
 0x2247	0x41	None		[Chinese Grasshopper] Acrida cinerea	
-				Grasshopper known as the 'inviting grasshopper.'	
-				With a triangular head, males make a	
-				'kachi-kachi-kachi' sound when they fly.	
+				Grasshopper known as the 'spirit grasshopper.'	
+				It has a long, triangular head, and males make a	
+				'kichi-kichi-kichi' sound when they fly.	
 0x2395	0x41	None		[Locust] Locusta migratoria	
 				Large grasshopper living mainly in grassy plains.	
 				When there is not much food, they swarm and	
@@ -54,35 +54,34 @@ lp_grasshopper
 				movements, it is king of the grassy plains.	
 0x2685	0x41	None		[Bell Cricket] Homoeogryllus japonicus	
 				Nocturnal insect living mainly in warm areas.	
-				In fall, males rub their wings together,	
+				In autumn, males rub their wings together,	
 				making a beautiful ringing sound.	
 lp_cicada					
-0x290c	0x36	Choice		Singing Cicada	
+0x290c	0x36	Choice		Robust Cicada	
 0x2932	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x296e	0x36	Choice		Yezo Cicada	
+0x296e	0x36	Choice		Ezo Cicada	
 0x2991	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x29cd	0x36	Choice		Walker's Cicada	
 0x29eb	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2a27	0x36	Choice		Evening Cicada	
 0x2a4d	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2a69	0x36	Choice		Quit	mp_0002 0x433f
-0x2b13	0x41	None		[Singing Cicada] Hyalessa maculaticollis	
+0x2b13	0x41	None		[Robust Cicada] Hyalessa maculaticollis	# common name from Animal Crossing
 				Large cicada with a black sturdy body.	
-				With a grand ringing call in summer, their	
-				lifespan is exhausted at summer's end.	
-0x2c98	0x41	None		[Yezo Cicada] Lyristes japonicus	
+				They make a loud 'min-min' sound in the summer, but	
+				their lifespan is exhausted with the season's end.	
+0x2c98	0x41	None		[Ezo Cicada] Lyristes japonicus	
 				Large cicada that lives in northern regions and	
 				dense mountains. Perching upside down on tree bark,	
-				They cry their 'gii, gii' monotone call.	
+				they cry their 'gii-gii' monotone call.	
 0x2e18	0x41	None		[Walker's Cicada] Meimuna opalifera	
-				Cicada active from summer to fall. Because you	
-				can hear their 'tsuku-tsuku-boshi' cry,	
-				that is how they get their Japanese common	
-				name of 'Tsukutsukuboshi.'	
+				Cicada active from summer to autumn.	
+				Their Japanese common name comes from the noise	
+				they make, which sounds like 'tsuku-tsuku-boshi.'	
 0x2fe2	0x41	None		[Evening Cicada] Tanna japonensis	
-				Cicada living in forests of Japanese	
-				cypress and cedar. From summer to fall,	
-				their sad 'kana-kana-kana' cry resounds.	
+				Cicada that lives in cypress and cedar forests.	
+				From summer to autumn, they make a loud, mournful	
+				'kana-kana-kana' cry at dusk.	
 lp_dragonfly					
 0x32cf	0x36	Choice		Jumbo Dragonfly	
 0x32ef	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -95,8 +94,8 @@ lp_dragonfly
 0x3430	0x36	Choice		Quit	mp_0002 0x433f
 0x34b6	0x41	None		[Jumbo Dragonfly] Anotogaster sieboldii	
 				Large dragonfly with striped black and yellow body pattern.	
-				Though it is wild, twirling a finger will	
-				lure it to one's hand.	
+				It has a quick temper, but twirling one's finger will	
+				grab its attention.	
 0x360a	0x41	None		[Damselfly] Zygoptera	
 				Small dragonfly that lives near water.	
 				When it stops on a leaf, it gently folds its	
@@ -104,11 +103,11 @@ lp_dragonfly
 0x3753	0x41	None		[Banded Darter] Sympetrum pedemontanum elatum	
 				Dragonfly with crimson body and wings.	
 				When mating, the male and female pair up and	
-				take flight. Popularly called the red dragonfly.	
+				take flight. Popularly called the 'red dragonfly.'	
 0x38bd	0x41	None		[Flutterer] Rhyothemis fuliginosa	
 				Small dragonfly with shining black and blue wings.	
 				Can only live near water, and flutters 	
-				like butterflies during flight.	
+				like a butterfly during flight.	
 lp_stagbeetle					
 0x3bc6	0x36	Choice		Longhorn Beetle	
 0x3bed	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -121,20 +120,20 @@ lp_stagbeetle
 0x3d38	0x36	Choice		Quit	mp_0002 0x433f
 0x3dbe	0x41	None		[Giant Stag Beetle] Dorcus hopei binodulosus	
 				Large stag beetle that prefers the sap of	
-				sawtooth oak. Males grow a horn that looks	
-				like a hoe changing the shape of its jaw.	
+				sawtooth oak. Males have horns resembling a stag,	
+				which are actually greatly enlarged jaws.	
 0x3f2e	0x41	None		[Sawtooth Stag Beetle] Prosopocoilus inclinatus	
-				Stag beetle that grows a horn that looks like a saw.	
-				It has a belligerent nature. When it receives	
-				a shock, it pretends to be dead and falls.	
+				Stag beetle with jagged mandibles resembling a saw.	
+				It has a belligerent nature, but when frightened,	
+				it plays dead and falls to the ground.	
 0x40b2	0x41	None		[Longhorn Beetle] Cerambycidae	
-				Species of beetle with long antennae.	
+				Family of beetles with long antennae.	
 				Boring into wood with powerful mandibles,	
 				they occasionally collapse buildings.	
 0x41be	0x41	None		[Goliath Beetle] Goliathus	
-				Giant beetle boasting an exceptionally heavy weight.	
-				Though it feeds on nectar and pollen, it is the	
-				heaviest of all known insects.	
+				Giant beetle with an exceptionally heavy weight.	
+				A flower scarab that feeds on nectar and pollen.	
+				It is the heaviest of all known insects.	
 lp_beetle					
 0x4447	0x36	Choice		Jap. Rhino Beetle	
 0x4470	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -146,23 +145,24 @@ lp_beetle
 0x4592	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x45ae	0x36	Choice		Quit	mp_0002 0x433f
 0x4634	0x41	None		[Hercules Beetle] Dynastes hercules	
-				Large rhinoceros beetle crowned with the name of a legendary	
-				hero. Has one large horn. As the name implies, it is king of	
+				Large rhinoceros beetle named after a mythical hero.	
+				Has one large horn. As the name implies, it is king of	
 				the forest, boasting the largest size among all insects.	
 0x47c6	0x41	None		[Caucasus Beetle] Chalcosoma chiron	
 				Large rhinoceros beetle with a characteristic	
-				three-pronged horn. Though it lives in the high	
-				mountain zone, it has a fierce belligerence, and	
-				rivals the hercules beetle as the strongest	
-				of the rhinoceros beetle species.	
+				three-pronged horn. It lives in mountainous areas,	
+				and has a fierce belligerence. It rivals the	
+				hercules beetle as the strongest of the rhinoceros	
+				beetle species.	
 0x496d	0x41	None		[Elephant Beetle] Megasoma elephas	
-				Extra-large rhinoceros beetle with a heavy body weight.	
-				When it is an adult, it is too large to be placed	
-				on one hand. It lives by feeding on sap.	
+				Extra-large rhinoceros beetle with a heavy body.	
+				As an adult, it grows to a size too big to be	
+				carried in one hand. It has a mild temperament	
+				and lives by feeding on sap.	
 0x4adb	0x41	None		[Japanese Rhinoceros Beetle] Trypoxylus dichotomus	
-				With a large body and strong legs, it is an exemplar	
-				rhinoceros beetle. The horn that males have is split	
-				in two, and is likened to a decorative kabuto helmet.	
+				Common rhinoceros beetle with a large body and	
+				strong legs. Males have horns that are split in two,	
+				and are likened to a decorative kabuto helmet.	
 lp_fly					
 0x4d81	0x36	Choice		Silk Moth	
 0x4dab	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -178,16 +178,16 @@ lp_fly
 				Because their caterpillars make beautiful, green-tinged	
 				cocoons, humans keep them as pets.	
 0x50f1	0x41	None		[Honey Bee] Apis	
-				Small social insects that live in large groups.	
-				Though they store honey in their nest, enemies	
-				can't easily approach due to their sharp stingers.	
+				Small social insects that live in large colonies.	
+				They store sweet honey in their hives, but enemies are	
+				kept away due to their sharp, venomous stingers.	
 0x5270	0x41	None		[Fly] Muscomorpha	
 				Insect that flies about with quick movements.	
 				In addition to eating fruits and feces, their larvae,	
-				known as maggots, appear on animal corpses.	
+				known as 'maggots,' appear on animal corpses.	
 0x53eb	0x41	None		[Mosquito] Culicidae	
 				The sound made by the wings of this flying insect is grating	
-				to the ears. The females feed on humans and animals, sucking	
+				to the ears. Females feed on humans and animals by sucking	
 				their blood, and sometimes spread infectious disease.	
 lp_sandbug					
 0x5697	0x36	Choice		Ant Lion Larva	
@@ -200,21 +200,21 @@ lp_sandbug
 0x57d5	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x57f1	0x36	Choice		Quit	mp_0002 0x433f
 0x5877	0x41	None		[Scorpion] Scorpiones	
-				Arthropod that lives in wasteland and arid regions.	
+				Arthropod that lives in wastelands and arid regions.	
 				Has a stinger containing deadly venom on its tail,	
 				which can easily kill a human.	
 0x59cc	0x41	None		[Tarantula] Theraphosidae	
 				Large spider living in tropical regions.	
 				With a hairy body, it walks around on the ground,	
-				and holds venom in its strong fangs.	
+				and holds venom in its powerful fangs.	
 0x5b20	0x41	None		[Dung Beetle] Scarabaeus	
-				A species of scarab beetle (Scarabaeidae).	
+				A type of scarab beetle.	
 				Has the strange characteristic of rolling animal	
 				dung into balls for transport to its nest as food.	
 0x5c8b	0x41	None		[Antlion Larva] Myrmeleontidae	
 				The larva of the antlion.	
-				Makes a nest in dry sandy soil in the shape of a mortar,	
-				eating insects that fall into it.	
+				It makes a bowl-shaped nest in dry sandy soil,	
+				eating insects that fall inside.	
 lp_nodata					
 0x5de8	0x41	None		【？？？？？？】	
 					
