@@ -223,7 +223,7 @@ talk_Volans
 0x39d7	0x98	Volans		He hypothesized that the other	
 				world, Lost Heaven, might exist	
 				beyond the End of the World.	
-0x3a4c	0x98	Volans		My specialty is archaeology and natural history,	
+0x3a4c	0x98	Volans		My specialties are archaeology and natural history,	
 				so it's a bit of a different field, but...	
 				his paper was very interesting to read.	
 0x3aed	0x98	ALTO		I see...	mp_0001 0xcecd
@@ -516,7 +516,7 @@ talk_Caelum_sub
 				a cute boy like Nayuta in a	
 				remote place like this. ㈱	
 0x8ccd	0x98	Caelum		We actually have two more members	
-				of the research team, but Vavo	
+				of the research team, but Pavo	
 				is out of town...	
 0x8d33	0x98	Caelum		And Coron is very shy～!	
 0x8d69	0x98	Caelum		...She's my younger twin sister,	
@@ -840,7 +840,7 @@ tuto_museum_force3
 				 has stopped by here...)	
 0xddd5	0x06	ALTO		ANI_NOD	
 0xddfa	0x98	ALTO		(...I should try looking elsewhere.	
-				There has to be clues somewhere.)	
+				 There has to be clues somewhere.)	
 tuto_museum_common					
 0xe020	0x06	ALTO		ANI_GESTURE2	
 0xe04a	0x98	ALTO	#6A	Umm, what is that moving thing	

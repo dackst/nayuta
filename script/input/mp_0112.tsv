@@ -1415,14 +1415,14 @@ talk_Dorado
 0x1397b	0x98	Dorado		That would be Remnant Island's...	mp_0112 0x13888
 				No, the whole Ciencia Sea's loss!	
 talk_Mensa					
-0x13a2b	0x98	Mensa		We have traveled the area around the Cienca	
+0x13a2b	0x98	Mensa		We have traveled the area around the Ciencia	
 				Sea in search of a certain individual.	
 0x13a88	0x98	Mensa		According to our source,	
 				it seems likely that he	
 				is on this island, but...	
 0x13afa	0x98	Mensa		...Phew, he's been giving	
 				us quite a hard time.	
-0x13b60	0x98	Mensa		We have traveled the area around the Cienca	mp_0112 0x13a2b
+0x13b60	0x98	Mensa		We have traveled the area around the Ciencia	mp_0112 0x13a2b
 				Sea in search of a certain individual.	
 0x13bbd	0x98	Mensa		We have to find him soon...	
 				He's been giving us quite a	

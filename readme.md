@@ -50,7 +50,7 @@ xdelta3 -ds original.iso patch.xdelta patched.iso
 
 * Clean Japanese ISO : `02adefbdef8197cca872268d5c01b277`
 * ISO patched with flame's 4.15 release: `6cc975153b7998db4242baa17eb8d276`
-* ISO patched with this current release (1.05): `d444f637618088b91f72fbea2ba46ba2`
+* ISO patched with this current release (1.06): `3261389b793c4d81a2c42687b9f54ae6`
 
 
 ## Known Issues
@@ -59,7 +59,7 @@ These are all issues that exist in the original fantranslation that I don't know
 
 * boss and new area intro graphics still untranslated ([example](https://i.imgur.com/xizzVel.jpg))
 * erasing save data from in-game menu doesn't work
-* there is some strange text spacing in some longer spell and item descriptions ([example](https://i.imgur.com/Crf076h.jpg))
+* strange text spacing in some (but not all) longer spell and item descriptions ([example](https://i.imgur.com/Crf076h.jpg))
 * long achievement names are cut off in the notification box when unlocking them, e.g. "armor of anhillat"
   * the above two *could* be solved by shortening them, but I'm not willing to butcher them further
 * characters that use idiosyncratic manners of speaking in Japanese probably still don't here
@@ -71,6 +71,8 @@ These are all issues that exist in the original fantranslation that I don't know
 
 
 ## How do I use the files in this repo?
+
+This repository contains modifications of [flame's tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) for modifying the text and images in Nayuta no Kiseki, as well as modifications of the original project's English text and images.
 
 The original tools require Windows and Python 3. They seem to ["work"](./notes.md#why-not-just-use-flames-tools-directly) just as well in Wine if you install a Windows version of Python in a wineprefix. With the changes made in this repo, all of the non-working parts of the released versions of the tools should be fixed. Also, the Python scripts for the dumping and inserting of binary files no longer require Windows or Wine, but the beginning extraction step and the final rebuilding step still do.
 

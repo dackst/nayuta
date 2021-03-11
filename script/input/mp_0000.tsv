@@ -1513,7 +1513,7 @@ QS_12_quest_end
 0x16af1	0x07	System	#3C	Quest [A Thankful Gift] completed!	
 QS_34_think_and_flash					
 0x16e4e	0x06	ALTO		ANI_THINK	
-0x16e75	0x98	ALTO		(I've heard both Sasha and Camelope's	
+0x16e75	0x98	ALTO		(I've heard both Sasha's and Camelope's	
 				 sides of the story...)	
 0x16ed1	0x98	ALTO		(It seems that they both want to	
 				 reconcile, but they just can't	

@@ -233,7 +233,7 @@
 0x221338	実績ポイントが足りません。	27	Not enough achv. points.			24
 0x221354	#4C%s#1Cを%dPで開放しますか？	31	#1CUnlock #4C%s#1C with %dP?			
 0x221374	以上のアイテムを寄贈しますか？	31	Donate these items?			
-0x221394	現在は実行できません。	23	Can't practice now.			
+0x221394	現在は実行できません。	23	Currently unavailable.			
 0x2213ac	これ以上は作成できません。	27	Can't make any more.			
 0x2213c8	#4C%s#1Cを作りますか？	23	#1CMake #4C%s#1C?			
 0x2213e0	はい	7	Yes			
@@ -262,10 +262,10 @@
 0x221620	片手／	7	1H/			
 0x221628	両手／	7	2H/			
 0x221630	STR%3d	7	STR%3d			
-0x221638	INT%3d	11	INT%3d			
-0x221644	DEF%3d	11	DEF%3d			
+0x221638	INT%3d	11	 INT%3d			
+0x221644	DEF%3d	11	 DEF%3d			
 0x221650	DEF%3d	7	DEF%3d			
-0x221658	STR%3d	11	STR%3d			
+0x221658	STR%3d	11	 STR%3d			
 0x221664	INT%3d	7	INT%3d			
 0x22166c	】	7	]			
 0x221674	%s	3	%s			
