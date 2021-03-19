@@ -424,6 +424,10 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * Previous translators picked her brother's name to look more Arabic. I personally know less about Arabic that I do about Japanese, but at least "Creha" looks less Japanese. Not that they're always the best (see: [Dalk Fukt](https://www.falcom.co.jp/ys12_psp/character.html)), but "Creha" also seems to be the [official romanization](https://falcom-collections.net/Nayuta%20No%20Kiseki/nayuta04s.jpg.html) of her name
     * on her brother's name, it could be that any variation of vowels between ["SLM"](https://en.wikipedia.org/wiki/%C5%A0-L-M) would work. (rather than the official romanization "Serum" or his internal name "Seram")
   * the downside here is that her name appears in voiced scenes pretty frequently, where you can hear it starting with an audible "ku" sound
+  * Ordene -> Ordeen
+    * more Arabic: https://en.wikipedia.org/wiki/Ad-Din, https://en.wikipedia.org/wiki/Din_(Arabic)
+    * less ambiguous English pronunciation than *din*, which is unlikely to match Japanese (or likely Arabic) pronunciation, e.g. *Alad**din*** vs *alāʾad-**dīn***. *dene* is also ambiguous (Or-deh-neh?) 
+    * Japanese pronunciation matches [Ordine's](https://kiseki.fandom.com/wiki/Ordine) English pronunciation, but not its Japanese pronunciation
 * Dr. Volans -> Professor Volans
 
 3/4 of the wardens now (alongside Algol) directly refer to astronomical objects (they all do if you consider Nemeas to reference the Nemean Lion, which is associated with the constellation Leo)
@@ -593,7 +597,7 @@ what appear to be official romanizations/translations aren't always followed.
   * Signa (Cygna - keeping because constellation Cygnus)
   * Serum (Selam - keeping because he's not a liquid. if anything, given his personality, he should be a hardened solid)
   * Asa (Eartha - see above)
-  * Burton (Barton - I think it matches the voice's pronounciation better)
+  * Burton (Barton - I think it matches the voice's pronunciation better)
   * Aulbath (Orvus - constellation Corvus)
   * Gio (Geo - explained above in [Characters](#characters))
   * Erislet (Erisette - ok so "[-let](https://en.wiktionary.org/wiki/-let)" is a diminutive, but it's "almost... never" used for names, and "is generally depreciative, connoting pettiness and conveying contempt" when it is)

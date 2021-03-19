@@ -72,13 +72,13 @@ These are all issues that exist in the original fantranslation that I don't know
 
 ## How do I use the files in this repo?
 
-This repository contains modifications of [flame's tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) for modifying the text and images in Nayuta no Kiseki, as well as modifications of the original project's English text and images.
+This repository contains modifications of [flame's 2017 tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) for modifying the text and images in Nayuta no Kiseki, as well as modifications of the English text and images dumped from version 4.15 of original project from 2016.
 
-The original tools require Windows and Python 3. They seem to ["work"](./notes.md#why-not-just-use-flames-tools-directly) just as well in Wine if you install a Windows version of Python in a wineprefix. With the changes made in this repo, all of the non-working parts of the released versions of the tools should be fixed. Also, the Python scripts for the dumping and inserting of binary files no longer require Windows or Wine, but the beginning extraction step and the final rebuilding step still do.
+The original tools require a Windows installation of Python 3 to ["work"](./notes.md#why-not-just-use-flames-tools-directly). With the changes made in this repo, all of the non-working parts of these tools should be fixed. Also, the Python scripts for the dumping and inserting of binary files no longer require a Windows-based version of Python, but the beginning extraction/setup scripts and the final rebuilding scripts still do.
 
 You should have access to a clean Nayuta no Kiseki iso.
 
-1. Download and extract [flame's 2017 tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and paste the [contents of this repository](https://github.com/dackst/nayuta/archive/master.zip) into the extracted tools. Overwrite files if necessary.
+1. Download and extract [the original tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and paste the [contents of this repository](https://github.com/dackst/nayuta/archive/master.zip) into the extracted folder. Overwrite files if necessary.
 2. Set up an environment with a clean Japanese iso (Step 1 in the readme.txt included with the tools):
     1. Drag your iso over `_extract_new.bat`, or run `python extract.py nayuta.iso ISO`, where `nayuta.iso` is the name of your file.
     2. Run `setup.py`
@@ -105,7 +105,6 @@ Based on the work of a previous fan translation project:
 
 This project:
 * Wandering-Heiho - video editing, image editing assistance
-* dackst - everything else
 
 Also thanks to anyone who [reported](https://github.com/dackst/nayuta/issues) any specific issues.
 
