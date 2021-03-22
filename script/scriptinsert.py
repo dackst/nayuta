@@ -105,7 +105,7 @@ class Op(object):
         #speed (characters per frame) is time divided by length
         #Rounds down. You could try rounding nearest.
         #I found rounding down gives a better experience. YMMV.
-        new_speed = int(orig_time / new_len) - 1
+        new_speed = int(orig_time / new_len)
         if new_speed < 0:   #0 is the fastest it can go (1 character per frame)
             new_speed = 0
        
