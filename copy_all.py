@@ -91,8 +91,9 @@ def copy_img():
     shutil.copy(r'{}/icon0.png'.format(src_path), target_dir + r'/PSP_GAME/ICON0.PNG')
     shutil.copy(r'{}/pic1.png'.format(src_path), target_dir + r'/PSP_GAME/PIC1.PNG')
 
-    # op movie
+    # movies
     shutil.copy(r'{}/nyt_op.pmf'.format(src_path), target_dir + r'/PSP_GAME/USRDIR/movie')
+    shutil.copy(r'{}/nyt_ed1.pmf'.format(src_path), target_dir + r'/PSP_GAME/USRDIR/movie')
 
     #"system" images
     filelist = [
