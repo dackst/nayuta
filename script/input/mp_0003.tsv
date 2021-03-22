@@ -498,16 +498,16 @@ talk_Bell
 0x8c1f	0x98	baby		Abubu...	
 talk_Collie					
 0x8ca2	0x98	Collie		Aah...	
-0x8cc9	0x98	Collie		...A big bug.	
+0x8cc9	0x98	Collie		...Big bug.	
 0x8cf8	0x6B	ALTO		Sweatdrop	
 0x8d22	0x6B	NOI		Sweatdrop	
 0x8d53	0x98	NOI		N-Not quite right...	
 0x8d82	0x98	ALTO		Well, it's just baby sounds.	
 0x8dfa	0x98	Collie		A big bug...	
-				(Woah...)	
+				(No fair...)	
 0x8e3f	0x98	Collie		A big bug...	
 0x8e6d	0x98	Collie		I want one too.	
-0x8e9e	0x98	ALTO		W-Well, I can't	
+0x8e9e	0x98	ALTO		Ah, um, I can't	
 				just give you Noi.	
 talk_Hydol					
 0x8f4e	0x98	Hydol		Wh-What is this...?	
