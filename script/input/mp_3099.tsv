@@ -194,7 +194,7 @@ QS_44_undertake
 				So that's where	
 				Algol's power is...	
 0x5900	0x06	ALTO		ANI_NOD	
-0x5925	0x98	ALTO		Understood.	
+0x5925	0x98	ALTO	#6A	Understood.	
 				By all means, let	
 				us do this for you.	
 0x597a	0x06	ALTO		ANI_GESTURE2	
@@ -270,7 +270,7 @@ QS_44_quest_end
 0x6d39	0x98	Algorl		...No, it is not that simple.	
 0x6d78	0x98	Algorl		With my power, I can	
 				certainly hold him back	
-				for a short while, but..	
+				for a short while, but...	
 0x6de5	0x98	Algorl		In the end, that would be all I could do. Although	
 				the head of the Mitos may have been corrupted,	
 				he is still the creator of this world of Terra.	
@@ -297,7 +297,7 @@ QS_44_quest_end
 0x71d6	0x98	Algorl		Hmm... You can count on me.	
 0x7213	0x98	Algorl		And... please, take this.	
 0x7266	0xC1	System		received.	mp_0000 0x12596
-0x73b9	0x07	System	#1C	Noi learned the autumn magic, #4C『#786IGround Terra』.	
+0x73b9	0x07	System	#1C	Noi learned the autumn magic, #4C『#786IGrand Terror』.	
 0x7437	0x06	NOI		ANI_GESTURE2	
 0x7460	0x98	NOI	#6A	This art...!	
 				Seems super strong!	

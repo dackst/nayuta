@@ -460,7 +460,7 @@ talk_Lyra
 0x8259	0x98	ALTO		...I'm gonna help Eartha, I promise.	
 0x82a8	0x98	ALTO		So, Lyra... Just hang in there.	
 0x82ea	0x98	Lyra		Okay... But don't push	
-				yourself too hard..	
+				yourself too hard.	
 0x8326	0x98	Lyra		If something were to happen	
 				to you, Nayuta, I think Eartha	
 				would be devastated.	
@@ -559,7 +559,7 @@ talk_Creha
 				it is that you're doing.	
 0x950a	0x98	ALTO		Leave Terra to me.	
 				You should take it	
-				easy for a while..	
+				easy for a while.	
 0x9557	0x98	Creha		Yes, I'll do that.	
 0x958a	0x98	Creha		You too, Nayuta...	
 				Do your best with Noi for me.	
@@ -767,7 +767,7 @@ QS_01_talk_Asa
 				He's pretty scatterbrained.	
 0xc882	0x6B	ALTO		Sweatdrop	
 0xc8b4	0x06	ALTO		ANI_DEJECTED	
-0xc8de	0x98	ALTO		(#6AThat Dorado...	
+0xc8de	0x98	ALTO	#6A	(That Dorado...	
 				 I guess this really is all just about	
 				 wanting to eat my sister's food.)	
 0xc958	0x06	ALTO		ANI_GESTURE2	
@@ -789,12 +789,11 @@ QS_01_talk_Asa
 0xcd2d	0x98	ALTO	#6A	What's more... You looked so happy	
 				the entire time you were making it.	
 0xcda9	0x98	ALTO	#6A	It's been a long time since	
-				I've seen an older sister	
-				character like this...	
+				I've seen you like that...	
 0xce0e	0x06	Asa		ANI_LAUGH	
 0xce34	0x98	Asa		Come on now, Nayuta.	
-				Don't start talking	
-				nonsense all of a sudden.	
+				Don't start saying weird	
+				things all of a sudden.	
 0xcec3	0x98	Asa		Oh, that's right... I'll make	
 				lunch boxes for you too, Nayuta.	
 				Don't hesitate to call on me.	
@@ -1608,8 +1607,8 @@ EV_0_S16_noi_wakeup
 0x1c6ef	0x98	Signa		We gotta be careful until	
 				we've determined just what	
 				is going on with this girl.	
-0x1c752	0x98	Signa		No one would probably believe us	
-				even if we did tell them about	
+0x1c752	0x98	Signa		It's likely no one would believe	
+				us even if we did tell them about	
 				what happened in the ruins.	
 0x1c7c7	0x06	ALTO		ANI_SIT1_NOD	
 0x1c835	0x98	ALTO		Right... Good thing my	
@@ -1847,8 +1846,8 @@ EV_2_S09_disease_symptom
 				but don't overdo it, okay?	
 0x20b32	0x98	Asa		...Hehe, right.	
 0x20b60	0x06	Asa		ANI_NOD	
-0x20b84	0x98	Asa		I'm all right. I don't	
-				have a fever or anything.	
+0x20b84	0x98	Asa		I'm fine. I don't have	
+				a fever or anything.	
 				It'll go away soon.	
 0x20be3	0x06	Asa		ANI_WAIT4	
 0x20c09	0x98	Asa		More importantly, didn't	
@@ -2463,7 +2462,7 @@ EV_3_S27_bring_creha
 0x2dc18	0x98	Asa	#6A	Then welcome, at least for 	
 				a little while, Creha! ♪ 	
 0x2dc74	0x06	Creha		ANI_SIT1_NOD	
-0x2dc9f	0x98	Creha		...*gulp*	
+0x2dc9f	0x98	Creha		...(*gulp*)	
 0x2dcd3	0x98	ALTO	#6A	(H-Haha... Of course she'd	
 				 give in. She's powerless	
 				 against my sister.)	

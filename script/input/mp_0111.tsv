@@ -385,7 +385,7 @@ talk_Columha
 0x5dbe	0x98	Columha		And come back safe...	
 				That is all.	
 0x5e29	0x98	Columha		...Be careful, Nayuta.	mp_0111 0x5d85
-0x5e62	0x98	Columha		And return safely...	
+0x5e62	0x98	Columha		And come back safe...	
 0x5ecf	0x98	Columha		I'm making hammers for everyone	
 				working on removing the rubble...	
 0x5f37	0x98	Columha		Due to the abnormalities, distribution has	
@@ -848,7 +848,7 @@ QS_21_ask_work
 0xc063	0x06	Eida		ANI_WAIT2	
 0xc08a	0x98	Eida		...Well, are you up for it?	
 0xc0c2	0x06	ALTO		ANI_THANKS	
-0xc0ea	0x98	ALTO		Sure, I guess. I don't know	
+0xc0ea	0x98	ALTO	#6A	Sure, I guess. I don't know	
 				much about alcohol, but	
 				I'll try to do what I can.	
 0xc159	0x06	ALTO		ANI_THINK2	

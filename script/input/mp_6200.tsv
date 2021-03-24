@@ -107,7 +107,7 @@ SB_0_S11_alto_move2
 SB_0_S12_signa_move					
 0x3686	0x06	Signa		ANI_WAIT2	
 EV_0_S12_in_remain					
-0x3a5d	0x98	Signa		Oh, it's pretty roomy inside..	
+0x3a5d	0x98	Signa		Oh, it's pretty roomy inside...	
 				This might be more difficult than expected.	
 0x3ac6	0x06	ALTO		ANI_GUTSPOSE	
 0x3af0	0x98	ALTO		Wow... Amazing, Cygna!	
@@ -163,7 +163,7 @@ EV_0_S13_break_floor
 0x4b88	0x98	Signa		You all right!?	
 				I'll pull you up!	
 0x4d42	0x06	ALTO		ANI_SIT6	
-0x4db5	0x98	ALTO		*huff*, *huff*...	
+0x4db5	0x98	ALTO	#6A	*huff*, *huff*...	
 				Thanks, Cygna.	
 				You saved me...	
 0x4e0d	0x06	Signa		ANI_WAIT2	
@@ -222,7 +222,7 @@ EV_4_S34_see_flashback
 				I'm fine, I'm fine...	
 0x65bc	0x6B	ALTO		Ellipsis	
 0x65ee	0x06	ALTO		ANI_SHAKE_HAND_PLEASE3	
-0x6649	0x98	ALTO		Don't be afraid to ask for	
+0x6649	0x98	ALTO	#200x#70y	Don't be afraid to ask for	
 				help if you're having trouble.	
 				You can always count on me.	
 0x66a5	0x98	ALTO	#200x#70y	I WILL protect you.	

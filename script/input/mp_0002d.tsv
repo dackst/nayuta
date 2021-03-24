@@ -285,7 +285,7 @@ EV_4_S30_help_creha
 0x681e	0x06	Creha		ANI_WAIT	
 0x6853	0x98	Creha	#0W#6A	What are you saying...?	
 0x6954	0x98	Zext	#2W	My daughter...	
-				Creha Lem Ordene.	
+				Creha Lem Ordeen.	
 0x69a5	0x98	Zext	#2W	Heed the words of I, Zext,	
 				the head of the Mitos.	
 0x6a59	0x98	Zext	#1W	That power you now wield...	
@@ -298,7 +298,7 @@ EV_4_S30_help_creha
 0x6e1d	0x06	Creha		ANI_HEADACHE2	
 0x6fef	0x98	Creha	#2W	...Ooo...!	
 0x7033	0x98	Lyra	#1W	C-Creha!?	
-0x70ae	0x98	Creha	#2W	...Ze...xt...you're..	
+0x70ae	0x98	Creha	#2W	...Ze...xt...you're...	
 				...a..Mitos...!?	
 0x713f	0x98	Creha	#3W	...I...I...!	
 0x71b9	0x3F	Name		Nayuta's Voice	mp_0001 0x1090f
@@ -306,7 +306,7 @@ EV_4_S30_help_creha
 0x7500	0x06	Creha		ANI_HEADACHE2	
 0x75bc	0x06	Aulbath		ANI_DRAIN_LOOP	
 0x786e	0x06	Lyra		ANI_JOY	
-0x7893	0x98	Lyra		Nayuta...!	mp_0000c 0x734d
+0x7893	0x98	Lyra	#N	Nayuta...!	mp_0000c 0x734d
 0x78c2	0x98	Aulbath		...So you've come.	
 0x7948	0x98	ALTO		Sorry I'm late!	
 0x7971	0x98	ALTO		Creha, Lyra...	

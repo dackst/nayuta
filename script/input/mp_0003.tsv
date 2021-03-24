@@ -153,7 +153,7 @@ talk_Crux
 0x479a	0x98	Crux		One day, I'll travel all over the	mp_0003 0x4673
 				Ciencia Sea like the captain and	
 				be a real full-fledged sailor!	
-0x485c	0x98	Crux		(*shiver*)	
+0x485c	0x98	Crux		*shiver*	
 				...What's happening?	
 0x4895	0x98	Crux		It looks like white powder	
 				is falling into the ocean.	
@@ -498,16 +498,16 @@ talk_Bell
 0x8c1f	0x98	baby		Abubu...	
 talk_Collie					
 0x8ca2	0x98	Collie		Aah...	
-0x8cc9	0x98	Collie		...A big bug.	
+0x8cc9	0x98	Collie		...Big bug.	
 0x8cf8	0x6B	ALTO		Sweatdrop	
 0x8d22	0x6B	NOI		Sweatdrop	
 0x8d53	0x98	NOI		N-Not quite right...	
 0x8d82	0x98	ALTO		Well, it's just baby sounds.	
 0x8dfa	0x98	Collie		A big bug...	
-				(Woah...)	
+				(No fair...)	
 0x8e3f	0x98	Collie		A big bug...	
 0x8e6d	0x98	Collie		I want one too.	
-0x8e9e	0x98	ALTO		W-Well, I can't	
+0x8e9e	0x98	ALTO		Ah, um, I can't	
 				just give you Noi.	
 talk_Hydol					
 0x8f4e	0x98	Hydol		Wh-What is this...?	
@@ -567,7 +567,7 @@ talk_Antlia
 0x9a4b	0x98	Antlia		However, this sudden chill...	
 				It doesn't feel quite natural...	
 talk_Ursaminor					
-0x9bcb	0x98	Ursaminor		I'm glad that my sister	
+0x9bcb	0x98	Ursaminor		I'm glad that Reticul	
 				and Cetus are okay.	
 0x9c23	0x98	Ursaminor		Wonder what kind of treasures they	
 				found on their adventures this time?	
@@ -734,8 +734,8 @@ talk_Cetus
 0xb869	0x98	Cetus		Reticul's become a bona fide adventurer.	
 				Though she still acts the same as ever,	
 				she's gained some skills.	
-0xb8f6	0x98	NOI		An adventurer, huh...?	
-				I would love that.	
+0xb8f6	0x98	NOI		Adventure, huh...?	
+				Sounds like fun.	
 0xb936	0x98	Cetus		Haha, if you'd like, you	
 				should just go on another	
 				adventure with Nayuta.	

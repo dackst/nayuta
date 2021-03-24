@@ -201,7 +201,7 @@ talk_Serpent
 0x3277	0x98	Serpent		Even my back is feeling	
 				better than ever.	
 0x32fb	0x98	Serpent		It seems it will be a little while	
-				longer before it officially opens..	
+				longer before it officially opens.	
 0x3368	0x98	Serpent		Even my back is feeling	
 				better than ever.	
 				Hohoho...	
@@ -248,7 +248,7 @@ talk_Canis
 0x3be0	0x98	Canis		Last year's was canceled, but...	
 				the fields and fish this year	
 				were better than usual.	
-0x3c56	0x98	Canis		This must be a gift from the heavens for	
+0x3c56	0x98	Canis		This must be a gift from the heavens to	
 				us for overcoming the abnormalities.	
 				Hohoho, we'd better celebrate!	
 0x3d0a	0x98	Canis		In fact, your Auntie Janis plans	
@@ -617,7 +617,7 @@ QS_82_quest_start
 0x8b36	0x06	ALTO		ANI_GESTURE2	
 0x8b60	0x98	ALTO		Yes, Elder.	
 0x8b8b	0x06	NOI		ANI_GESTURE2	
-0x8bb4	0x98	NOI		It was something about	
+0x8bb4	0x98	NOI	#6A	It was something about	
 				the Star Festival?	
 0x8c23	0x98	Serpent		Yes, that is correct.	
 0x8c59	0x98	Serpent		Can you two work on this	mp_0116 0x8a82
@@ -745,7 +745,7 @@ EV_6_S06_meet_chief
 				I thank you, I thank you...	
 0xaaf9	0x6B	NOI		Sweatdrop	
 0xab68	0x06	NOI		ANI_GESTURE1	
-0xab91	0x98	NOI	#6A	Like I've said, I'm not divine..	
+0xab91	0x98	NOI	#6A	Like I've said, I'm not divine...	
 0xac0e	0x06	Lupus		ANI_DENY	
 0xac35	0x98	Lupus		Man, once my grandpa gets something	
 				in his head, it's not coming out.	
@@ -786,8 +786,8 @@ EV_6_S06_meet_chief
 0xb382	0x98	Lupus		Well, the entire village is working	
 				hard to try to weather this storm.	
 0xb41f	0x06	Lupus		ANI_GESTURE2	
-0xb44a	0x98	Lupus		Nayuta, since you've recovered, we	
-				need you help out wherever you can.	
+0xb44a	0x98	Lupus		Nayuta, since you've recovered, we need	
+				you to help out wherever you can.	
 0xb4b1	0x06	Lupus		ANI_DIRECT	
 0xb4da	0x98	Lupus		Are you ready for this, handyman?	
 0xb522	0x06	ALTO		ANI_SCRATCH_HEAD	

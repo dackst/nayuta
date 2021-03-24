@@ -486,7 +486,7 @@ QS_25_ask_destination
 0x6b13	0x98	Keny		He should be back soon enough...	mp_0114 0x64c2
 				You need him for something?	
 0x6b73	0x06	ALTO		ANI_GESTURE1	
-0x6b9d	0x98	ALTO		Umm, well, I guess...	mp_0004 0x14b0f
+0x6b9d	0x98	ALTO	#6A	Umm, well, I guess...	mp_0004 0x14b0f
 0x6bcc	0x40	UNDEF		Nayuta told Canie that Dr. Hydrol wanted	mp_0114 0x6551
 				Boote to come in for a medical exam.	
 0x6c2f	0x06	Keny		ANI_WAIT4	

@@ -107,18 +107,18 @@ QS_83_quest_start
 				they're stronger than	
 				they were before.	
 0x252f	0x98	NOI		It looks like the climate has turned	
-				strange again, so we can't get close	
-				to the temples...	
+				strange again, so we'd better stay	
+				away from the temples...	
 0x25bc	0x6B	ALTO		Ellipsis	
-0x25ee	0x98	ALTO	#6A	No... Let's try it.	
+0x25ee	0x98	ALTO	#6A	No... Let's go and see.	
 0x2626	0x98	ALTO	#6A	It's possible the idols are stopping	
 				the temples from functioning.	
 				I can't leave things like this.	
 0x26ac	0x98	ALTO	#6A	And, I have to become stronger	
 				to repair the abnormalities in	
 				the Astrolabe.	
-0x2717	0x98	ALTO	#6A	The reason those idols exist is to	
-				be the ideal opponents, right?	
+0x2717	0x98	ALTO	#6A	In a way, these idols can serve as the	
+				perfect training opponents, right?	
 0x278c	0x98	NOI		Nayuta... You're right.	
 0x27c1	0x98	NOI		I'm not only doing this	
 				for the Mitos...	

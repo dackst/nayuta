@@ -58,7 +58,7 @@ QS_33_set_nest_and_egg
 0x242d	0x98	NOI	#6A	Once we leave, let's change	
 				the season to summer and	
 				come back here again.	
-0x24b9	0x98	NOI		Hopefully there'll be some	mp_2002d 0x1b3b
+0x24b9	0x98	NOI	#6A	Hopefully there'll be some	mp_2002d 0x1b3b
 				adorable chicks waiting for us...	
 QS_33_look_map					
 0x28a0	0x6B	ALTO		Surprise	

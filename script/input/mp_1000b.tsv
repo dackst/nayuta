@@ -29,7 +29,7 @@ QS_21_get_fruit
 0x1848	0x06	NOI		ANI_GESTURE2	
 0x1871	0x98	NOI		Th-That was pretty clever for a human.	
 0x18ab	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x18d9	0x98	ALTO		Ahaha... It might not be	
+0x18d9	0x98	ALTO	#6A	Ahaha... It might not be	
 				the way it's supposed to	
 				be used, though...	
 0x193c	0x98	ALTO	#6A	Okay, let's go take this	

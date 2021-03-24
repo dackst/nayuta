@@ -83,7 +83,7 @@ QS54_talk_SpiritB
 0x24c0	0x06	NOI		ANI_DEJECTED	
 0x24e9	0x98	NOI	#6A	Nymphs don't normally leave their own	
 				continent, so this one seems to have	
-				gotten lost in the unfamiliar terrain..	
+				gotten lost in the unfamiliar terrain.	
 0x258a	0x06	ALTO		ANI_NOD	
 0x25af	0x98	ALTO	#6A	I see...	
 				(But why would it have wandered	

@@ -670,7 +670,7 @@ QS_02_quest_end
 				Once the two of you are together,	
 				we'll resume our training again.	
 0xab75	0x06	ALTO		ANI_LAUGH	
-0xab9c	0x98	ALTO	#A	Haha, sure. I'll bring Cygna even	
+0xab9c	0x98	ALTO	#6A	Haha, sure. I'll bring Cygna even	
 				if I have to drag him with me.	
 0xac11	0x06	Aulbath		ANI_WAIT0	
 0xac3b	0x98	Aulbath		Hm, it would help if you did.	
@@ -761,8 +761,8 @@ QS_02_stopperB
 QS_11_get_treasure					
 0xdbc0	0x98	ALTO		'A vehicle for setting off on a journey'...?	mp_0000 0x13e59
 0xdc0f	0x98	ALTO		It sounds like the hiding place	
-				is under this boat, but there's	
-				no space for Vel to have put it..	
+				is under this boat, but there's no	
+				space for Vel to have put it...	
 0xdc9c	0x6B	ALTO		Exclamation	
 0xdcce	0x06	ALTO		ANI_SIT6	
 0xddb8	0x98	ALTO		Ah... Looks like something's	
@@ -848,7 +848,7 @@ QS_81_undertake
 0xf479	0x98	ALTO	#6A	Hmm... This box doesn't	
 				seem to have a keyhole.	
 0xf508	0x06	NOI		ANI_WAIT	
-0xf52d	0x98	ALTO		There's a lid, but	
+0xf52d	0x98	ALTO	#6A	There's a lid, but	
 				it won't budge...	
 				How do we open this?	
 0xf590	0x06	Aulbath		ANI_THINK	

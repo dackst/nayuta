@@ -3,7 +3,7 @@ init
 lp_smallfish1					
 0x132a	0x36	Choice		Pufferfish	
 0x134a	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x1386	0x36	Choice		Koi Carp	
+0x1386	0x36	Choice		Koi	
 0x13a6	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x13e2	0x36	Choice		Goldfish	
 0x1402	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -12,15 +12,15 @@ lp_smallfish1
 0x147a	0x36	Choice		Quit	mp_0002 0x433f
 0x1500	0x41	None		[Seahorse] Hippocampus	
 				Strange fish that swims upright.	
-				Because the male rears its children in its stomach,	
+				Because the male rears its children in its front pouch,	
 				it is considered a symbol for easy childbirth.	
 0x1655	0x41	None		[Pufferfish] Tetraodontidae	
 				Small, round fish.	
 				Though known to be extremely delicious,	
 				some of its internal organs hold lethal poison.	
-0x1798	0x41	None		[Koi Carp] Cyprinus carpio	
+0x1798	0x41	None		[Koi] Cyprinus carpio	
 				Medium size fish that prefers gentle waters.	
-				Because it has 36 rows of scales, it is known as the 6-6 fish.	
+				Since it has 36 scale types, it is known as the 6-6 fish.	# ??? There are more than 36 varieties, but all you need to do is look at a picture to see there's more than '36 scales' on each fish
 				In some regions, it is considered a symbol of success in life.	
 0x190e	0x41	None		[Goldfish] Carassius auratus	
 				Small fish with a mixed red-and-white body.	
@@ -43,16 +43,16 @@ lp_smallfish2
 0x1ea6	0x41	None		[Guppy] Poecilia reticulata	
 				Small tropical fish.	
 				Though they are the same species, no two are	
-				exactly alike in color. By raising them, you can	
-				enjoy their wonderful colors.	
+				exactly alike in color. They are raised in captivity	
+				in appreciation of their colorful appearance.	
 0x200a	0x41	None		[Clownfish] Amphiprioninae	
-				Small fish with beautiful reddish-brown color.	
+				Small fish with a beautiful reddish-brown color.	
 				Swimming in the coral reefs of warm seas,	
-				it can be seen playing in sea anemones.	
+				they can be seen frolicking in sea anemones.	
 0x215e	0x41	None		[Altum Angelfish] Pterophyllum altum	
-				Beautiful fish called the phantom tropical fish.	
+				Beautiful fish called the 'phantom tropical fish.'	
 				It can only live in the purest of waters,	
-				and dies if microorganisms proliferate.	
+				and quickly dies if microorganisms proliferate.	
 lp_middlefish					
 0x242b	0x36	Choice		Giant Isopod	
 0x244f	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -80,56 +80,57 @@ lp_middlefish
 0x287f	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x289b	0x36	Choice		Quit	mp_0002 0x433f
 0x29f7	0x41	None		[Shrimp] Decapoda	
-				Aquatic crustacean with many parts.	
+				Aquatic crustacean with many body segments.	
 				They are distributed throughout the world. In some	
 				regions, they are seen as a symbol of longevity.	
 0x2c1f	0x41	None		[Crab] Brachyura	
 				Aquatic crustacean with a large pair of pincers.	
 				They have the strange property of only being able	
-				to walk sideways, and it is easy to capture them.	
+				to walk sideways, and are easily captured.	
 0x2e54	0x41	None		[Nautilus] Nautilidae	
-				Large shellfish living in tropical waters.	
+				Large mollusk living in tropical waters.	
 				It is an ancient species. Their fossils have	
 				been found even in ancient geological strata.	
 0x307e	0x41	None		[Giant Isopod] Bathynomus giganteus	
-				Large sea arthropod.	
-				Living in the deep sea, it consumes the corpses of animals.	
-				The 'cleaner of the seas' that returns the living to dust.	
+				Large aquatic arthropod.	
+				Living in the deep sea, it feeds on the corpses of animals.	
+				The 'cleaner of the seas' that returns the dead to dust.	
 0x32ba	0x41	None		[Moon Jellyfish] Aurelia	
-				Sea animal floating on the waves.	
+				Marine animal that drifts gently with the waves.	
 				Nearly colorless and transparent, it uses the tentacles	
-				beneath its umbrella to eat plankton and the like.	
+				beneath its umbrella to eat plankton and other organisms.	
 0x34f6	0x41	None		[Northern Sea Nettle] Chrysaora melanaster	
 				Jellyfish with 16 red stripes on its umbrella.	
-				When it is washed ashore and dries, the	
-				venom in its tentacles becomes a fine	
-				powder that causes violent sneezing.	
+				When it washes ashore and dries, the venom in	
+				its tentacles becomes a fine powder that	
+				causes violent sneezing.	
 0x3752	0x41	None		[Nomura's Jellyfish] Nemopilema	
-				A large jellyfish.	
-				For its thick, soft gelatin quality,	
+				A large jellyfish that can outsize a human.	
+				For its thick, soft, gelatinous quality,	
 				the umbrella is eaten as food.	
 0x3956	0x41	None		[Portuguese Man o' War] Physalia physalis	
-				Jellyfish with various organs suspended below the umbrella.	
-				Because sharp pain runs through the body if stung,	
-				it has earned the name 'electric jellyfish.'	
+				Jellyfish-like siphonophore with clusters of various	# not a jellyfish
+				organs underneath its float. Because its sting is	# float: pneumatophore is not ever called an umbrella
+				capable of delivering intense pain, it is sometimes	
+				referred to as the 'floating terror.'	# denki kurage - electric jelly
 0x3bac	0x41	None		[Goosefish] Lophiidae	
-				Deep-sea fish with a shining antenna on its head.	
-				Because in the deep sea there is not much bait,	
-				it lures its prey with light and eats it.	
+				Deep-sea fish with a glowing appendage on its head.	
+				In the deep sea, where food is scarce, it uses its	
+				light to lure other fish to eat.	
 0x3ddc	0x41	None		[Stoplight Loosejaw] Malacosteus niger	
-				Deep-sea fish with a huge jaw at its end.	
-				When it sees luminescent prey below,	
-				it violently attacks.	
+				Deep-sea fish with a huge, seemingly detached jaw.	
+				It emits a glowing red light from near its eyes	
+				to spot prey, then strikes furiously.	
 0x3fef	0x41	None		[Whiptail Gulper Eel] Saccopharyngidae	
 				Deep-sea fish with a grotesque head.	
-				With a long, thin body and a strangely	
+				With a long, thin body and unusually	
 				large jaw, it swallows its prey whole.	
 0x4217	0x41	None		[Deep-sea Hatchetfish] Sternoptychidae	
 				Deep-sea fish whose whole body is luminescent.	
-				Even when not luminescent, its body is silver like a mirror,	
-				reflecting its surroundings and confusing its enemies.	
+				Even when not emitting light, its silvery body reflects	
+				its surroundings like a mirror, confusing its enemies.	
 lp_largefish					
-0x45e5	0x36	Choice		Catfish	
+0x45e5	0x36	Choice		Amur Catfish	
 0x4604	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x4640	0x36	Choice		Swordfish	
 0x4661	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -155,53 +156,53 @@ lp_largefish
 0x4a0a	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x4a26	0x36	Choice		Quit	mp_0002 0x433f
 0x4aac	0x41	None		[Swordfish] Xiphioidei	
-				Large fish whose jaw is long and sharp.	
-				Swimming at high speed in the temperate	
-				zone, its speed has no equal.	
+				Large fish with a long and pointed bill.	
+				Swims at high speeds through the temperate ocean.	
+				Among the fastest fish.	
 0x4be9	0x41	None		[Coelacanth] Coelacanthiformes	
 				Ancient fish living in the deep sea.	
 				Though once thought to be extinct, living	
 				specimens have been found in recent years.	
-0x4d3c	0x41	None		[Japanese Catfish] Silurus asotus	
+0x4d3c	0x41	None		[Amur Catfish] Silurus asotus	
 				Fish with a flat face and long whiskers.	
-				They habitually prefer river and sea bottoms.	
+				They habitually prefer river bottoms.	# this species is a freshwater fish, even though all the fresh and salt water fish are mixed together everywhere lol
 				It is said they can sense earthquake portents.	
 0x4e93	0x41	None		[Alligator Gar] Atractosteus spatula	
-				Large fish with a mouth that sticks out.	
-				Because of its hard scales and large body, it has hardly any	
-				natural enemies. It feeds leisurely on fish and crustaceans.	
+				Large fish with a prominent snout.	
+				Because of its hard scales and large body, it has few	
+				natural predators. It eats fish and crustaceans with ease.	
 0x5013	0x41	None		[Octopus] Octopoda	
-				Soft-bodied organism with 8 limbs.	
+				Soft-bodied mollusk with 8 limbs.	
 				Each limb is outfitted with large suckers.	
 				It prefers to live in cramped places.	
 0x5150	0x41	None		[Squid] Decapodiformes	
-				Soft-bodied organism with 10 limbs.	
+				Soft-bodied mollusk with 10 limbs.	
 				When it meets an enemy, it squirts	
 				black ink and escapes.	
 0x527c	0x41	None		[Sea Anemone] Actiniaria	
-				Sea animal that lives clinging to barren rock.	
+				Marine animal that lives attached to rock surfaces.	
 				Opening its many tentacles, it lies in wait,	
 				preying on fish that get too close.	
 0x53ce	0x41	None		[Sea Cucumber] Holothuroidea	
 				Echinoderm with a short, stout body that crawls about.	
-				Though its appearance is strange, it is delicious. When	
-				dehydrated, it is a top-class cooking ingredient.	
+				Though they may look strange, they taste delicious,	
+				and are served dried as a delicacy.	
 0x5541	0x41	None		[Ocean Sunfish] Mola mola	
-				Tropical, vertically flat fish.	
-				It is known to produce a large	
-				number of eggs when spawning.	
+				Large tropical fish with a flat and vertical body.	
+				It is known to produce a large number	
+				of eggs when spawning.	
 0x566c	0x41	None		[Whale Shark] Rhincodon typus	
 				Inhabiting warm seas, it is the world's largest fish.	
-				It has a calm nature uncharacteristic of its large size.	
+				Despite its huge size, it has a gentle nature.	
 				It lives by feeding on small fish and plankton.	
 0x57df	0x41	None		[Ray] Myliobatiformes	
-				Horizontally flat large fish.	
-				It swims gracefully through the sea as though flying.	
+				A large fish with a horizontally flattened body.	
+				It swims gracefully, as though flying through the water.	
 				It holds a paralyzing venom at the base of its tail.	
 0x5931	0x41	None		[Hammerhead Shark] Sphyrnidae	
 				Ferocious fish with a strangely shaped head.	
-				With eyes at the ends of its face that stretches	
-				horizontally, it chases and eats small fish.	
+				Its eyes are mounted at the ends of its horizontally	
+				stretched face. It stalks and devours small fish.	
 lp_nodata					
 0x5ab6	0x41	None		【？？？？？？】	mp_0115a 0x5de8
 				　　　　　　（ＮＯ　ＤＡＴＡ）　　　　　　	

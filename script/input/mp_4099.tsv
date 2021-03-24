@@ -112,7 +112,7 @@ QS_54_quest_start
 				vital for the sake of this continent.	
 QS_54_ask_reason					
 0x4037	0x06	ALTO		ANI_NOD	
-0x405c	0x98	ALTO		Yeah, it's fine. Let's hear	
+0x405c	0x98	ALTO	#6A	Yeah, it's fine. Let's hear	
 				what you have to say.	
 0x40a5	0x06	Nemeas		ANI_TALK	
 0x40cd	0x98	Nemeas		Thank you, Nayuta.	
@@ -425,7 +425,7 @@ quest_SpiritD
 0x8208	0x98	NOI	#6A	It says it's not one of those,	mp_1099 0xa8c5
 				but it's just as powerful, or more...	
 0x8265	0x06	NOI		ANI_COMPLAIN	
-0x828e	0x98	NOI		'Unnatural creatures, spawned by the	mp_1099 0xa71e
+0x828e	0x98	NOI	#6A	'Unnatural creatures, spawned by the	mp_1099 0xa71e
 				abnormalities, have been wandering	
 				the world wreaking havoc.'	
 0x82ec	0x98	NOI	#6A	'If we don't do anything, a lot	mp_1099 0xa7ae

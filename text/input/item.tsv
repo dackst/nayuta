@@ -561,7 +561,7 @@
 0x9930	name	Rare Truffle
 0x9948	desc	[Natural Food] Edible shroom raised underground. Commands a high price.
 0x99bc	name	Mandragora
-0x99d4	desc	[Natural Food] Person-shaped tree root used by wizards for medicine.
+0x99d4	desc	[Natural Food] Person-shaped tree root used by magicians for medicine.
 0x9a48	name	Swallow Base
 0x9a60	desc	[Natural Food] Bird nest. An Eastern delicacy. Unique texture.
 0x9ad4	name	Dragon Fruit
@@ -1029,19 +1029,19 @@
 0x11928	name	Grand Boxed Lunch
 0x11940	desc	Boxed lunch packed with luxurious side dishes.
 0x119b4	name	Jerky
-0x119cc	desc	Dried, smoked thin strips of meat. Have it for a snack.
+0x119cc	desc	Dried, smoked thin strips of meat. Great for a snack.
 0x11a40	name	Meat Bun
 0x11a58	desc	Steamed bun with meat filling.
 0x11acc	name	3-Star Spaghetti
 0x11ae4	desc	Standard dish with minced meat and tomato sauce.
-0x11b58	name	Meatball
-0x11b70	desc	You're happy if this is in your lunch.
+0x11b58	name	Meatballs
+0x11b70	desc	Meatballs popularly included in boxed lunches.
 0x11be4	name	Hot Dog
 0x11bfc	desc	Easy dish with sausage between bread.
 0x11c70	name	Jungle Rice
 0x11c88	desc	Boxed lunch packed with spicy meat and rice.
 0x11cfc	name	Roast
-0x11d14	desc	Teriyaki-cooked meat. Makes your mouth water.
+0x11d14	desc	Simple yet mouthwatering teriyaki-cooked meat.
 0x11d88	name	Half-Cooked Burger
 0x11da0	desc	Half-cooked sunny side up eggs with a round burger.
 0x11e14	name	Noble Boxed Lunch
@@ -1071,7 +1071,7 @@
 0x124a4	name	Royal Paella
 0x124bc	desc	Boxed lunch of seafood mixed in perfect harmony.
 0x12530	name	Grilled Fish
-0x12548	desc	Thoroughly grilled fish. A companion for rice.
+0x12548	desc	Thoroughly grilled fish with a side of rice.
 0x125bc	name	Seafood Roll
 0x125d4	desc	Cabbage-wrapped fish boiled over low flame.
 0x12648	name	Fine Seafood Plate
@@ -1111,7 +1111,7 @@
 0x12f94	name	Dark Spaghetti
 0x12fac	desc	Tooth blackening is inevitable, but worth it.
 0x13020	name	Dream Confection
-0x13038	desc	Can't imagine its taste based on ingredients.
+0x13038	desc	Unimaginably delicious candy ball.
 0x130ac	name	Live Seafood
 0x130c4	desc	Food made of live ingredients. Unexpectedly delicious.
 0x13138	name	Pudding
@@ -1297,7 +1297,7 @@
 0x16270	name	Crimson Demon Lord
 0x16288	desc	Defeated <Crimson Demon Lord> Armadalleos.
 0x162fc	name	Starfall Knight
-0x16314	desc	Defeated <Starfall Knight> Selam Il Ordene.
+0x16314	desc	Defeated <Starfall Knight> Selam Il Ordeen.
 0x16388	name	He Who Guides Myths
 0x163a0	desc	Defeated <He Who Guides Myths> Zext Ji Quarius.
 0x16414	name	Vacuous Planetary Core
@@ -1666,7 +1666,7 @@
 0x1c728	desc	Wild arthropod found living in nature.
 0x1c79c	name	Cabbage White
 0x1c7b4	desc	Wild arthropod found living in nature.
-0x1c828	name	Marbled Fritillary
+0x1c828	name	Fritillary
 0x1c840	desc	Wild arthropod found living in nature.
 0x1c8b4	name	Morpho Butterfly
 0x1c8cc	desc	Wild arthropod found living in nature.
@@ -1678,9 +1678,9 @@
 0x1ca70	desc	Wild arthropod found living in nature.
 0x1cae4	name	Bell Cricket
 0x1cafc	desc	Wild arthropod found living in nature.
-0x1cb70	name	Singing Cicada
+0x1cb70	name	Robust Cicada
 0x1cb88	desc	Wild arthropod found living in nature.
-0x1cbfc	name	Yezo Cicada
+0x1cbfc	name	Ezo Cicada
 0x1cc14	desc	Wild arthropod found living in nature.
 0x1cc88	name	Walker's Cicada
 0x1cca0	desc	Wild arthropod found living in nature.
@@ -1730,7 +1730,7 @@
 0x1d8a8	desc	Marine animal trapped in a mysterious water crystal.
 0x1d91c	name	Pufferfish
 0x1d934	desc	Marine animal trapped in a mysterious water crystal.
-0x1d9a8	name	Koi Carp
+0x1d9a8	name	Koi
 0x1d9c0	desc	Marine animal trapped in a mysterious water crystal.
 0x1da34	name	Goldfish
 0x1da4c	desc	Marine animal trapped in a mysterious water crystal.
@@ -1738,7 +1738,7 @@
 0x1dad8	desc	Marine animal trapped in a mysterious water crystal.
 0x1db4c	name	Coelacanth
 0x1db64	desc	Marine animal trapped in a mysterious water crystal.
-0x1dbd8	name	Catfish
+0x1dbd8	name	Amur Catfish
 0x1dbf0	desc	Marine animal trapped in a mysterious water crystal.
 0x1dc64	name	Alligator Gar
 0x1dc7c	desc	Marine animal trapped in a mysterious water crystal.

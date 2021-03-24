@@ -94,7 +94,7 @@ EV_1_S01_jungle1_start
 				and take back the	
 				Master Gear...!	
 0x2d95	0x06	NOI		ANI_GUTSPOSE	
-0x2dbe	0x98	NOI		Let's go, you two!	
+0x2dbe	0x98	NOI	#6A	Let's go, you two!	
 				Zext should definitely be	
 				further up ahead!	
 0x2e2e	0x06	ALTO		ANI_NOD	

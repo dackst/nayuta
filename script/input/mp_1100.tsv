@@ -289,7 +289,7 @@ EV_1_S07_temple_front
 0x4f05	0x98	ALTO		Looks like it disappeared...	
 0x4f53	0x6B	NOI		Unknown	
 0x4fa1	0x98	NOI	#6A	It's got to be Zext!	
-0x5015	0x98	NOI		Temples have an emergency shutdown	
+0x5015	0x98	NOI	#6A	Temples have an emergency shutdown	
 				function in case something goes wrong.	
 0x508a	0x06	NOI		ANI_COMPLAIN	
 0x50b3	0x98	NOI	#6A	Zext used the Master Gear to cut	

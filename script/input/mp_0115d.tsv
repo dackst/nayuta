@@ -20,33 +20,33 @@ lp_jewel
 0x1864	0x36	Choice		Quit	mp_0002 0x433f
 0x18ea	0x41	None		[Amber]	
 				Gemstone of yellow amber, made of hardened tree sap.	
-				With a warm character, it has been appreciated	
-				and used as decoration since ancient times.	
+				It has been used as jewelry since ancient times for	
+				its uniquely warm characteristics.	
 0x1a3a	0x41	None		[Lapis Lazuli]	
 				Vivid ultramarine gemstone.	
 				One of the most ancient gemstones, they	
 				are often found buried with ancient kings.	
 0x1b70	0x41	None		[Amethyst]	
 				Violet gemstone.	
-				A symbol of sincerity,	
-				honest people prefer them.	
+				It is considered a symbol of sincerity,	
+				and favored by people of faith.	# buddhism apparently
 0x1c76	0x41	None		[Ruby]	
 				Vivid crimson gemstone.	
 				Those that sparkle like stars when reflecting	
-				light are known as 'Star Rubies.'	
+				light are known as 'star rubies.'	
 0x1d9d	0x41	None		[Emerald]	
-				Bright, transparent green gemstone.	
+				Clear, bright green gemstone.	
 				Known to be a rare gemstone since ancient times,	
 				they are said to have the power to predict the future.	
 0x1eeb	0x41	None		[Diamond]	
 				Transparent and colorless beautiful gemstone.	
-				Known to be the hardest mineral, they are popular	
-				in wedding rings to show the bond between	
-				husband and wife.	
+				Known to be the hardest mineral, they are	
+				popular in wedding rings to show the bond	
+				between husband and wife.	
 0x2050	0x41	None		[Aquamarine]	
-				Highly transparent ocean-colored gemstone.	
-				They have been used for a long time by sea-goers	
-				as charms with the power of the sea.	
+				Clear, ocean-colored gemstone.	
+				They have been used since ancient times by sailors	
+				as protective charms possessing the power of the sea.	
 0x21a0	0x41	None		[Pink Diamond]	
 				Diamond tinged with a faint red color.	
 				They are even rarer than the colorless diamonds,	
@@ -62,7 +62,7 @@ lp_treasure1
 0x2657	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2673	0x36	Choice		Quit	mp_0002 0x433f
 0x26f9	0x41	None		Angel Statue	
-				A statue with the image of a beautiful angel.	
+				A statue depicting a beautiful angel.	
 				Angels that appear as messengers of the gods have	
 				been the subject of worship since ancient times.	
 0x2859	0x41	None		Judgment Mirror	
@@ -107,45 +107,45 @@ lp_treasure2
 				a bird out of a desire to fly through the sky, but	
 				further details are unknown.	
 lp_armor					
-0x38a1	0x36	Choice		Golden Arms	
+0x38a1	0x36	Choice		Golden Armor	
 0x38c4	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x38f8	0x36	Choice		Cursed Arms	
+0x38f8	0x36	Choice		Cursed Armor	
 0x391b	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x394f	0x36	Choice		Silver Arms	
+0x394f	0x36	Choice		Silver Armor	
 0x3972	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x39a6	0x36	Choice		Steel Arms	
+0x39a6	0x36	Choice		Steel Armor	
 0x39c8	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x39e4	0x36	Choice		Quit	mp_0002 0x433f
-0x3b40	0x41	None		Golden Arms	
-				Shining armor and helm made of solid gold.	
+0x3b40	0x41	None		Golden Armor	
+				Shining armor made of solid gold.	
 				According to one theory, it was commissioned by	
 				a legendary hero king who united the world.	
-0x3c39	0x41	None		Golden Arms	
-				Shining armor and helm made of solid gold.	
-				Because part of it is missing, the details are unknown.	
-0x3e37	0x41	None		Cursed Arms	
-				Ominous ghostly armor and helm.	
+0x3c39	0x41	None		Golden Armor	
+				Shining armor made of solid gold.	
+				Because part of it is missing, further details are unknown.	
+0x3e37	0x41	None		Cursed Armor	
+				Armor cloaked in an ominous aura.	
 				Though it is not known from which age it comes,	
 				it is agreed that this was equipment for a	
 				berserk warrior appearing in legends.	
-0x3f47	0x41	None		Cursed Arms	
-				Ominous ghostly armor and helm.	
-				Because part of it is missing, the details are unknown.	
-0x413a	0x41	None		Silver Arms	
-				Armor and helm with a dignified elegance.	
+0x3f47	0x41	None		Cursed Armor	
+				Armor cloaked in an ominous aura.	
+				Because part of it is missing, further details are unknown.	
+0x413a	0x41	None		Silver Armor	
+				Armor that exudes dignity and elegance.	
 				Because of the arcane words carved on it, it is thought	
 				to be equipment for warriors of an ancient civilization	
 				that could manipulate magic.	
-0x4260	0x41	None		Silver Arms	
-				Armor and helm with a dignified elegance.	
-				Because part of it is missing, the details are unknown.	
-0x445d	0x41	None		Steel Arms	
-				Female-use armor and helm made from steel.	
+0x4260	0x41	None		Silver Armor	
+				Armor that exudes dignity and elegance.	
+				Because part of it is missing, further details are unknown.	
+0x445d	0x41	None		Steel Armor	
+				Armor for women made from iron and steel.	
 				It seems to have belonged to an ancient valkyrie	
 				who stood up for the common people.	
-0x4551	0x41	None		Steel Arms	
-				Female-use armor and helm made from steel.	
-				Because part of it is missing, the details are unknown.	
+0x4551	0x41	None		Steel Armor	
+				Armor for women made from iron and steel.	
+				Because part of it is missing, further details are unknown.	
 lp_nodata					
 0x469c	0x41	None		【？？？？？？】	mp_0115a 0x5de8
 				　　　　　　（ＮＯ　ＤＡＴＡ）　　　　　　	

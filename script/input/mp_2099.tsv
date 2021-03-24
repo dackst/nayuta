@@ -281,7 +281,7 @@ QS_33_undertake
 0x51a1	0x98	ALTO	#6A	I see... There are birds	
 				from my world that also	
 				have a similar life cycle.	
-0x520f	0x98	ALTO	#6A	'Penguins,' I think they're called..	
+0x520f	0x98	ALTO	#6A	'Penguins,' I think they're called...	
 0x5267	0x06	ALTO		ANI_WAIT	
 0x528d	0x06	NOI		ANI_THINK	
 0x52b3	0x98	NOI	#6A	Now that we've got the Master Gear back,	
@@ -962,7 +962,7 @@ EV_2_S23_boss_battle
 0x14742	0x06	NOI		ANI_NOD	
 0x14766	0x98	NOI		...Yeah!	
 				It's the only way...!	
-0x147b9	0x98	Zext		Hmmm...	mp_0002 0x8ec3
+0x147b9	0x98	Zext	#6A	Hmmm...	mp_0002 0x8ec3
 0x14a21	0x06	Zext		ANI_PUT_UP_ROD	
 0x14c0b	0x6B	ALTO		Exclamation	
 0x14c3d	0x6B	NOI		Exclamation	
@@ -1073,7 +1073,7 @@ EV_2_S24_boss_end
 0x18f45	0x06	ALTO		ANI_COMPLAIN	
 0x18f6f	0x98	ALTO	#6A	N-No way...	mp_0111 0x86c0
 0x18fe5	0x06	ALTO		ANI_SURPRISE	
-0x1900f	0x98	ALTO		Wha..!?	
+0x1900f	0x98	ALTO	#6A	Wha..!?	
 0x1903e	0x06	NOI		ANI_GESTURE2	
 0x19067	0x98	NOI		I-It's not safe here...	
 				Let's go somewhere with	

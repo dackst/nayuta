@@ -354,7 +354,7 @@ QS_24_quest_end
 0x601c	0x98	Gio		Hoho, a human 'snack'...	
 				Let's try one.	
 0x606c	0x06	Gio		ANI_NOD	
-0x6090	0x98	Gio		*chew*, *chew*	
+0x6090	0x98	Gio		(*chew*, *chew*)	
 				Hmm, crunchy and salty!	
 				Excellent!	
 0x6101	0x06	ALTO		ANI_LAUGH	
@@ -382,7 +382,7 @@ QS_24_quest_end
 0x64c7	0x98	Gio		Food is an inseparable part	
 				of the local culture.	
 0x6534	0x06	Gio		ANI_NOD	
-0x6558	0x98	Gio		*chew*, *chew*	
+0x6558	0x98	Gio		(*chew*, *chew*)	
 				Mmm, it's good!	
 0x65a8	0x98	Gio		...Well, I'm sure Nayuta will learn	
 				many such things in the future as	
@@ -456,7 +456,7 @@ QS_24_quest_end
 0x7248	0x98	NOI	#6A	...Surely Nayuta and his	
 				sister are just exceptions.	
 0x729b	0x06	NOI		ANI_COMPLAIN	
-0x72c4	0x98	NOI		Humans are savage and brutal,	
+0x72c4	0x98	NOI	#6A	Humans are savage and brutal,	
 				and they'll turn on you if	
 				you're not careful!	
 0x7335	0x06	ALTO		ANI_SCRATCH_HEAD	
@@ -879,7 +879,7 @@ QS_83_quest_end
 				Can you show yourselves?	
 0xe4aa	0x06	NOI		ANI_THINK	
 0xe4d0	0x98	NOI	#6A	All...?	
-0xe514	0x41	None	#1W#2E#310c	...Gahaha, you're still a clever boy..#0E	
+0xe514	0x41	None	#1W#2E#310c	...Gahaha, you're still a clever boy.#0E	
 0xe7cc	0x6B	NOI		Exclamation	
 0xe7f5	0x06	NOI		ANI_SURPRISE	
 0xe826	0x06	ALTO		ANI_OJIGI	
@@ -1220,7 +1220,7 @@ EV_1_S12_battle_end
 0x17184	0x98	ALTO	#6A	Y-You called it that before, but...	
 				what in the world is an 'idol'...?	
 0x17213	0x06	NOI		ANI_WAIT	
-0x17268	0x98	NOI		...They're beings created by	
+0x17268	0x98	NOI		...They're golems created by	
 				Mitos to protect the temple.	
 0x172cc	0x98	NOI		Zext probably made that	
 				one go out of control...	

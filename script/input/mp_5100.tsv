@@ -105,7 +105,7 @@ EV_5_S04_hear_many_voice
 0x2695	0x07	System	#3C	The summer of Origin Continent	
 				La Worg has been unlocked.	
 0x27a0	0x07	System	#3C	The winter of Origin Continent	
-				La Worg has been unlocked..	
+				La Worg has been unlocked.	
 0x29ca	0xCE	Objective		Let's help Nemeas during the spring of the Origin Continent!	
 EV_5_S05_hear_neme_voice					
 0x2a9b	0x06	ALTO		ANI_WAIT	
@@ -154,5 +154,5 @@ EV_5_S05_hear_neme_voice
 0x378d	0x07	System	#3C	The summer of Origin Continent	mp_5100 0x2695
 				La Worg has been unlocked.	
 0x3890	0x07	System	#3C	The winter of Origin Continent	mp_5100 0x27a0
-				La Worg has been unlocked..	
+				La Worg has been unlocked.	
 0x3ab2	0xCE	Objective		Creha's in Heliograd... I have to find out her true motives!	

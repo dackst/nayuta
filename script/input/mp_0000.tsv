@@ -241,7 +241,7 @@ talk_Lupus
 				from the island every day, you see...	
 0x542b	0x98	Lupus		When exactly did she come	
 				to Nayuta's house?	
-0x5477	0x98	ALTO		*gulp*...	
+0x5477	0x98	ALTO		(*gulp*)...	
 0x54a0	0x98	Lupus		Hehe, well, it's okay.	
 				She's cute, even though	
 				she's shrouded in mystery.	
@@ -1458,7 +1458,7 @@ QS_12_quest_end
 0x15c08	0x06	Sculp		ANI_COMPLAIN	
 0x15c33	0x98	Sculp		I've never seen a flower like this...	
 0x15c79	0x06	ALTO		ANI_GESTURE1	
-0x15ca3	0x98	ALTO		It's called the Eternal Rose.	
+0x15ca3	0x98	ALTO	#6A	It's called the Eternal Rose.	
 				It's a flower from the East	
 				that's supposed to never wither.	
 0x15d0d	0x98	ALTO	#6A	Sasha said in the language of flowers,	
@@ -1513,7 +1513,7 @@ QS_12_quest_end
 0x16af1	0x07	System	#3C	Quest [A Thankful Gift] completed!	
 QS_34_think_and_flash					
 0x16e4e	0x06	ALTO		ANI_THINK	
-0x16e75	0x98	ALTO		(I've heard both Sasha and Camelope's	
+0x16e75	0x98	ALTO		(I've heard both Sasha's and Camelope's	
 				 sides of the story...)	
 0x16ed1	0x98	ALTO		(It seems that they both want to	
 				 reconcile, but they just can't	
@@ -1643,7 +1643,7 @@ EV_0_S02_morn_town
 0x194df	0x6B	Signa		Question	
 0x19512	0x6B	ALTO		Ellipsis	
 0x19544	0x06	ALTO		ANI_YAWN	
-0x1956a	0x98	ALTO		...(*yaaaawn*)...	
+0x1956a	0x98	ALTO		...*yaaaawn*...	
 0x195a8	0x6B	Signa		Sweatdrop	
 0x195db	0x06	Signa		ANI_DEJECTED	
 0x19606	0x98	Signa	#6A	What a huge yawn!	

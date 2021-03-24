@@ -48,9 +48,9 @@ EV_6_S21_in_bossmap3
 0x1e9a	0x98	ALTO	#6A	You said this is where the	mp_6300 0x192c
 				continent receives its	
 				supply of astral power?	
-0x1f3f	0x98	NOI		Yeah, that's right.	mp_6300 0x19d1
+0x1f3f	0x98	NOI	#6A	Yeah, that's right.	mp_6300 0x19d1
 0x1f72	0x06	NOI		ANI_GESTURE2	
-0x1f9b	0x98	NOI		The Stellagear should be	mp_6300 0x1a2d
+0x1f9b	0x98	NOI	#6A	The Stellagear should be	mp_6300 0x1a2d
 				kept right at the center	
 				of the base.	
 0x2001	0x06	ALTO		ANI_JOY	
@@ -133,7 +133,7 @@ SB_6_S27_equip_se
 EV_6_S28_bye_algorl					
 0x4910	0x06	Algorl		ANI_WAIT	
 0x4fe4	0x06	Algorl		ANI_DENY	
-0x501a	0x98	Algorl		So the time has come for one capable	mp_6301 0x71e
+0x501a	0x98	Algorl	#2W	So the time has come for one capable	mp_6301 0x71e
 				of standing against me to appear...	
 0x507e	0x98	Algorl	#3W	This too, must be fate.	
 0x50d0	0x06	ALTO		ANI_GESTURE2	

@@ -28,7 +28,7 @@ EV_1_S09_vs_seram_after
 0x1ca3	0x06	stop		ANI_OPEN	
 0x1d11	0x06	ALTO		ANI_WAIT	
 0x1e33	0x06	NOI		ANI_WAIT_TIRED	
-0x1e6c	0x98	NOI		*huff*, *huff*...	
+0x1e6c	0x98	NOI	#6A	*huff*, *huff*...	
 				We should now be	
 				about halfway up.	
 0x1eca	0x06	ALTO		ANI_WIPE_SWEAT	
