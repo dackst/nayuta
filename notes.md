@@ -156,8 +156,6 @@ Like before, this section mostly served so that *I* could keep these things cons
     * "awhile" also seems to be used incorrectly *almost* every time it's originally used (i.e. not as an adverb equivalent to "for a while")
   * Jeez/Geez -> Jeez
 * remove British English spellings (mould, enquire, traveller)
-* standardized sound effect punctuation (the original Japanese appears to have none)
-  * all actual sounds or things that produce a sound should now be \*sound*, while non-sounds should have parenthesis, e.g., (\*stare*), (\*nod*)
 * standardized sound effect words
   * "Fufu" (フフ) was translated as all kinds of different things (mostly "Huhu", but also "Fufu", "Haha" or "Hehe"), "Fufu" should now typically be something like "Hehe" or "Heheh"
   * crying sounds should now be \*sniff*, rather than \*cry* or \*Tear*
@@ -826,13 +824,13 @@ assuming the continent *is* the zemuria that we know (and not some parallel vers
 
 - this game is in the distant past of other games (before Great Collapse)  
   - humanity eventually returns to its old problems and cause another disaster, the Great Collapse, and maybe a third one looms again in the S.1200s
-  - unless it is a completely different park, the fact that Mishelam was established only very recently in other games makes this seem unlikely
+  - unless it is a completely different park, the fact that the theme park in Mishelam was established only very recently in other games makes this seem unlikely
 
 - this game is in the near past of other games (after Great Collapse)  
   - needs to be distant enough that worldwide abnormal weather, rocks falling from the sky, and disappearance of the second moon become overshadowed by other events, like the Orbal Revolution or multiple wars, and for star shards from Terra to become extremely rare
-    - same thing about Mishelam as above, the events in this game seem too world altering to be forgotten in only the few years since Mishelam was established
+    - same thing about Mishelam as above, the events in this game seem too world altering to be forgotten in only the few years since the Mishelam theme park was established
 
-- if this game was in the distant future of other games (i.e. other games are before the Great Flood), more than one continent should exist and be accessible
+- if this game was in the distant future of other games (i.e. other games are before the Great Flood), more than one continent should exist and be accessible from zemuria
 - if this game was in the near future of other games (i.e. other games are after the Great Flood), there should be [two moons visible in the sky](https://i.imgur.com/b2SXfaI.jpg)
 
 And of course, the similarities could always be explained away by having it take place in some alternate dimension or branching timeline or something.
