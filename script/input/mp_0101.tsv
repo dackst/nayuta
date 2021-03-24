@@ -170,7 +170,7 @@ talk_Cetus
 0x4a0c	0x98	Cetus		We'll return to the island together.	
 				Make sure to come back to us in one piece.	
 0x4a74	0x98	Cetus		We'll watch over this garden	
-				and the fairy until you return.	
+				until you and the fairy return.	
 0x4ade	0x98	Cetus		It's the least we can do for you.	
 				Leave this place to us.	
 0x4b36	0x98	Cetus		We'll return to the island together.	mp_0101 0x4a0c
@@ -498,13 +498,14 @@ EV_0_S19_arrive_garden
 0xb408	0x98	ALTO	#0W#6A	...This place...	
 0xb625	0x06	ALTO		ANI_GUTSPOSE	
 0xb64f	0x98	ALTO	#1W#6A	...I-Incredible!	
-0xb682	0x98	ALTO		To think that such a beautiful	
-				place exists in this world...	
+0xb682	0x98	ALTO	#6A	To think that we live in a world where	
+				such a beautiful place exists...	
 0xb6e5	0x06	Signa		ANI_WAIT2	
 0xb70d	0x98	Signa		I don't even have the words	
 				to describe this...	
-0xb75d	0x98	Signa		Haha, but who knows, we might not 'exist'	
-				in 'this world' any longer ourselves.	#in case it's still not clear, he was trying to imply they died and went to the afterlife, not that he immediately (and correctly) guessed they just discovered a new world
+0xb75d	0x98	Signa		Haha, but who knows, we could no	
+				longer be 'living' in the world	
+				ourselves.	#in case it's still not clear, he was trying to imply they died and went to the afterlife, not that he immediately (and correctly) guessed they just discovered a new world
 0xb7f2	0x06	ALTO		ANI_SURPRISE	
 0xb81c	0x98	ALTO	#6A	Huh? Don't say	
 				stuff like that...	
@@ -673,7 +674,7 @@ EV_1_S00_go_jungle
 0xf50f	0x98	Signa	#6A	We went chasing after you,	
 				and we got here just fine.	
 0xf55d	0x06	NOI		ANI_SURPRISE	
-0xf5f9	0x98	NOI		Wh-Whaaat...!?	
+0xf5f9	0x98	NOI	#16S	Wh-Whaaat...!?	
 0xf623	0x98	NOI		Now that you mention it...	
 				I forgot to disconnect	
 				the transfer gate!	
@@ -723,7 +724,7 @@ EV_1_S00_go_jungle
 0xff53	0x06	ALTO		ANI_THINK2	
 0xff7b	0x98	ALTO	#6A	'Terra'... I think that means 'earth'	
 				in an ancient language, right?	
-0xffe8	0x98	ALTO		The garden, and four continents...	
+0xffe8	0x98	ALTO	#6A	The garden, and four continents...	
 0x10033	0x98	ALTO	#6A	I wonder if they're beyond	
 				the 'End' of our world...?	
 0x1008d	0x06	ALTO		ANI_WAIT	
@@ -896,7 +897,7 @@ EV_1_S00_go_jungle
 0x12f77	0x06	ALTO		ANI_THINK2	
 0x12f9f	0x98	ALTO	#6A	I wonder how it	
 				works exactly...	
-0x12feb	0x98	ALTO		If I could figure it out, we could	
+0x12feb	0x98	ALTO	#6A	If I could figure it out, we could	
 				easily go from Remnant Island to	
 				Saint Cerise in an instant!	
 0x13072	0x6B	NOI		Unknown	

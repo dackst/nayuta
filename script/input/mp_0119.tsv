@@ -68,8 +68,8 @@ EV_0_S00_night_ship
 0x2b65	0x06	Signa		ANI_WAIT2	
 0x2b9b	0x98	Signa	#1W#6A	We're finally coming home.	
 				I'm planning to take it easy myself.	
-0x2c0c	0x98	Signa		And I caught a lucky break, being	
-				able to take a holiday from the city	
+0x2c0c	0x98	Signa	#1W#6A	And I got lucky, being able to	
+				take a holiday from the city	
 				guard in time for your break.	
 0x2cf2	0x98	ALTO	#0W	Yeah, I guess so.	
 0x2f74	0x40	ALTO		(Mom and Dad in heaven...	

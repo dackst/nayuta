@@ -232,7 +232,7 @@ quest_Carina
 				He truly is a great doctor.	
 QS_11_quest_start					
 0x3daa	0x06	Bell		ANI_TALK	
-0x3dd0	0x98	Bell		You see, Vel has hidden secret	
+0x3dd0	0x98	Bell	#6A	You see, Vel has hidden secret	
 				treasure somewhere on the island.	
 0x3e35	0x98	Bell	#6A	Nayuta, you need to find the	
 				treasure by following the	
@@ -311,7 +311,7 @@ QS_11_first_hint
 0x4b2c	0x98	ALTO		(Th-This might be harder	
 				 than I expected...)	
 0x4b71	0x06	ALTO		ANI_THINK	
-0x4b98	0x98	ALTO		(Where you can go up stairs..	
+0x4b98	0x98	ALTO		(Where you can go up stairs...	
 				 For now, I'll look around	
 				 houses with a second floor.)	
 0x4c0e	0x06	Bell		ANI_GUTSPOSE	

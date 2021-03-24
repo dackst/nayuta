@@ -204,7 +204,7 @@ EV_2_S11_set_gear_1st
 				functionality is restored!	
 0x8187	0x98	ALTO	#6A#1W	...Wh...Wh-Wha...	
 0x81e0	0x06	ALTO		ANI_SURPRISE	
-0x820a	0x98	ALTO	#18S#6A	...What the hell is that!?	
+0x820a	0x98	ALTO	#18S#6A	...What the heck is that!?	
 0x8268	0x98	NOI		This is the Astrolabe...	
 0x82a9	0x98	NOI		It's a machine that controls the	
 				climate and biosphere of Terra.	
@@ -237,7 +237,7 @@ EV_2_S13_use_astrolabe
 0x938b	0xBC	ALTO		Ellipsis	
 0x93c9	0x98	ALTO		...Th-This is too...	
 0x943c	0x06	ALTO		ANI_GUTSPOSE	
-0x9498	0x98	ALTO	#16S	It's too amazing, Noi!!	
+0x9498	0x98	ALTO	#16S	It's TOO amazing, Noi!!	
 0x94d3	0x98	ALTO	#16S	Of everything I've seen so far,	
 				#16Sthis is the most amazing of all!	
 0x962a	0x06	NOI		ANI_LAUGH	
@@ -269,14 +269,14 @@ EV_2_S13_use_astrolabe
 0x9b79	0x06	NOI		ANI_GESTURE1	
 0x9ba2	0x98	NOI	#6A	Umm... Astral power is	
 				the source of all life.	
-0x9c00	0x98	NOI		Not just for animals, for everything.	
+0x9c00	0x98	NOI	#6A	Not just for animals, for everything.	
 				The trees, the water, the wind,	
 				and the ground.	
-0x9c68	0x98	NOI		It constitutes just about	
+0x9c68	0x98	NOI	#6A	It constitutes just about	
 				everything in the entire world.	
 0x9cb3	0x06	ALTO		ANI_THINK	
 0x9d1e	0x98	ALTO		The world is made of...	
-0x9d5e	0x98	NOI		The Astrolabe can manipulate	
+0x9d5e	0x98	NOI	#6A	The Astrolabe can manipulate	
 				astral power in order to	
 				control the climate...	
 0x9dd2	0x98	NOI	#6A	It can also be used to detect	
@@ -298,7 +298,7 @@ EV_2_S13_use_astrolabe
 0xa155	0x98	ALTO		Huh...?	mp_0004 0x392d
 0xa181	0x06	NOI		ANI_DENY	
 0xa1a6	0x98	NOI	#6A	N-Nevermind.	
-0xa1da	0x98	NOI		Anyway, if we can take back the	
+0xa1da	0x98	NOI	#6A	Anyway, if we can take back the	
 				Master Gears, we should be able	
 				to stop the abnormalities!	
 0xa28d	0x98	ALTO		Then let's get to	
@@ -452,7 +452,7 @@ EV_3_S07_use_astrolabe
 0xe803	0x98	ALTO		Let's do this together.	
 				We have to protect the	
 				things important to us!	
-0xe874	0x98	NOI		Yeah!	mp_0001 0x1174e
+0xe874	0x98	NOI	#6A	Yeah!	mp_0001 0x1174e
 0xe8a0	0x98	NOI	#6A	Then let the search for	
 				Yupina Grass, Cygna, and	
 				Zext begin!	
@@ -888,7 +888,7 @@ EV_8_S17_happy_end
 0x1a926	0x06	ALTO		ANI_WAIT	
 0x1a980	0x98	ALTO	#2W	But at the end of the day...	
 				Noi couldn't be saved...	
-0x1aa00	0x98	Creha2	#1W#6A	...I agree.	mp_0100 0x17f91
+0x1aa00	0x98	Creha2	#1W#6A	...That's right.	
 0x1aa6e	0x98	Signa2	#0W	...It's a shame, that's for sure...	
 0x1aabf	0x98	Zext	#1W	.....	mp_0000d 0x70fd
 0x1ab02	0x98	Zext	#1W	...Hmm, I am afraid I do	
@@ -919,10 +919,10 @@ EV_8_S17_happy_end
 0x1b196	0x3F	Name		Everyone	
 0x1b1a6	0x98	ALTO	#18S#N#240x#136y	Whaaaat!?	
 0x1b2ac	0x06	ALTO		ANI_COMPLAIN	
-0x1b2e4	0x98	ALTO	#2W	I-Is it, is it...	
+0x1b2e4	0x98	ALTO	#2W	I-Is it really...	
 				Is it really you, Noi!?	
-0x1b356	0x98	NOI	#1W#6A	Well, umm, I can't really	
-				explain it very well, but...	
+0x1b356	0x98	NOI	#1W#6A	Well, umm, I can't explain	
+				it very well, but...	
 0x1b3b2	0x06	NOI		ANI_THINK	
 0x1b3e6	0x98	NOI	#1W#6A	...Back before I completely disappeared,	
 				I felt kind of a warm light.	
@@ -965,7 +965,7 @@ EV_8_S17_happy_end
 0x1bf0b	0x06	NOI		ANI_CRY	
 0x1bf6e	0x98	NOI	#6W#18S#6A	Uwaaaaaah...!!	
 0x1bfc3	0x98	ALTO	#2W	Noi...	mp_0005c 0x6fe1
-0x1c022	0x98	Creha2	#1W	*sniff*... Okay.	
+0x1c022	0x98	Creha2	#1W	*sniff*... You're right.	
 0x1c05c	0x06	Creha2		ANI_GESTURE2	
 0x1c0b6	0x98	Creha2	#1W	I am happy to see you again, too.	
 0x1c131	0x98	Signa2	#1W#6A	Haha... Never thought we'd be able to	
@@ -982,7 +982,7 @@ EV_8_S17_happy_end
 				Let me express my gratitude.	
 0x1c574	0x06	ALTO		ANI_GESTURE1	
 0x1c5ac	0x98	ALTO	#1W#6A	Thank you so much for	
-				saving my friend...!	
+				saving my friends...!	
 0x1c61a	0x98	Zext	#2W	Hehe... Well, fine.	
 0x1c665	0x98	Zext	#1W	More importantly...	
 				There is something	
@@ -1003,8 +1003,8 @@ EV_8_S17_happy_end
 0x1c9bb	0x98	Zext	#1W	The next approach to the planet could	
 				be decades, or even centuries, away...	
 				It is incalculable to me.	
-0x1ca74	0x98	Signa2	#1W#6A	...Even though we just had	
-				our reunion, we already	
+0x1ca74	0x98	Signa2	#1W#6A	...Tch, even though we just	
+				had our reunion, we already	
 				have to say goodbye...	
 0x1cb11	0x98	ALTO	#2W#6A	............	mp_0001 0x15fd5
 0x1cb59	0x98	Zext	#1W	Your fates are up to you to decide.	

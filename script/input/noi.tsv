@@ -83,7 +83,7 @@ talk_Noi
 				'Aaaaah!'	
 0xea1	0x98	NOI		A-aaaaah...	
 0xecb	0x98	NOI		Gulp...!	
-0xef2	0x98	NOI		(*munch*, *munch*, *munch*...)	
+0xef2	0x98	NOI		*munch*, *munch*, *munch*...	
 0xf29	0x98	NOI		Th-This is delicious!	
 0xf5c	0x98	NOI		What is this...?	
 				It's like a sweet	
@@ -93,7 +93,7 @@ talk_Noi
 0xff6	0x98	Asa		We have plenty more,	
 				so eat it and don't	
 				hold back.	
-0x1046	0x98	NOI		(*munch*, *munch*...)	
+0x1046	0x98	NOI		*munch*, *munch*...	
 0x1078	0x6B	ALTO		Sweatdrop	
 0x10a2	0x6B	Lyra		Sweatdrop	
 0x10d4	0x98	Lyra		Eartha is really adaptable, you know...	

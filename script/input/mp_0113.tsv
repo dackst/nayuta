@@ -612,7 +612,7 @@ quest_Sasha
 0x8362	0x98	Sasha		J-Jeez, paranoid much?	
 				It's no good when boys	
 				don't know when to stop. ☆	
-0x83c1	0x98	ALTO		(*stare*)	
+0x83c1	0x98	ALTO		*stare*	
 0x83ea	0x6B	Sasha		Unknown	
 0x841d	0x98	Sasha		...Hmm～hm～hmm～♪ *whistle*	
 0x845d	0x98	ALTO		(She's obviously being suspicious!)	
@@ -831,7 +831,7 @@ QS_34_ask_Sasha
 0xb24a	0x98	Sasha		I know that she thinks about	
 				me and has done a lot for me.	
 0xb2ae	0x06	ALTO		ANI_NOD	
-0xb2d3	0x98	ALTO		I see...	mp_0001 0xcecd
+0xb2d3	0x98	ALTO	#6A	I see...	mp_0001 0xcecd
 0xb327	0x06	Sasha		ANI_WAIT1	
 0xb34f	0x98	Sasha		...But still, whenever I see	mp_0113 0x8077
 				Grandmother's face, I can't	

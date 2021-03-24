@@ -828,7 +828,7 @@ tuto_museum_force3
 0xd952	0x98	Caelum		I'm the receptionist, Caelum.	
 				Nice to meet you! ♪	
 0xd9a1	0x06	ALTO		ANI_NOD	
-0xd9c6	0x98	ALTO		N-Nice to meet you too.	
+0xd9c6	0x98	ALTO	#6A	N-Nice to meet you too.	
 0xd9fd	0x06	ALTO		ANI_SCRATCH_HEAD	
 0xda2b	0x98	ALTO	#6A	...I'm sorry, I'm just	
 				surprised to see a place like	
@@ -1018,7 +1018,7 @@ QS_42_quest_start
 				please call on me again.	
 QS_42_undertake					
 0x1059b	0x06	ALTO		ANI_THANKS	
-0x105c3	0x98	ALTO		Yeah, okay.	mp_0000 0x1b27a
+0x105c3	0x98	ALTO	#6A	Yeah, okay.	mp_0000 0x1b27a
 0x105f3	0x98	NOI	#6A	I'm worried about Lady Creha, but...	
 				we can't leave the surface alone either.	
 0x10663	0x06	Volans		ANI_NOD	
@@ -1054,7 +1054,7 @@ QS_42_undertake
 0x10bd4	0x06	ALTO		ANI_THINK2	
 0x10bfc	0x98	ALTO	#6A	...Not at all.	
 0x10c2f	0x06	ALTO		ANI_NOD	
-0x10c54	0x98	ALTO		We can't allow for the same	
+0x10c54	0x98	ALTO	#6A	We can't allow for the same	
 				mistakes to repeat themselves...	
 0x10cbb	0x06	Volans		ANI_NOD	
 0x10ce2	0x98	Volans		Yes, that is correct.	
@@ -1294,7 +1294,7 @@ LithographMes
 				However, the end came sooner than	
 				expected, and many Mitos and humans	
 				met the same fate as the planet.#0E	
-0x13a26	0x41	None	#2E#0W	To the few sons of man who survived:	
+0x13a26	0x41	None	#2E#0W	To the few children of man who survived:	
 				I want you to know the sight of the Star Capital,	
 				where no one exists anymore. I want you to	
 				know this exceedingly empty and sad conclusion.	
@@ -1339,8 +1339,8 @@ EV_3_S02_meet_volans
 0x14482	0x06	Volans		ANI_DENY	
 0x144aa	0x98	Volans		Wait, listen for a minute...	
 0x144ef	0x06	ALTO		ANI_GESTURE2	
-0x14519	0x98	ALTO		I don't care how much it costs!	
-0x14558	0x98	ALTO		If I can't afford it now,	
+0x14519	0x98	ALTO	#6A	I don't care how much it costs!	
+0x14558	0x98	ALTO	#6A	If I can't afford it now,	
 				I-I'll definitely pay you	
 				back in the future!	
 0x145ca	0x06	Volans		ANI_WAIT2	
@@ -1472,7 +1472,7 @@ EV_6_S07_meet_volans
 				why does this bias exist?	
 0x1690b	0x06	ALTO		ANI_THINK2	
 0x16933	0x98	ALTO	#6A	...That's true...	
-0x16965	0x98	ALTO		There has to be some reason why they	
+0x16965	0x98	ALTO	#6A	There has to be some reason why they	
 				fall especially around Remnant Island.	
 0x16a12	0x06	Volans		ANI_NOD	
 0x16a39	0x98	Volans		Hehe, I thought so too.	

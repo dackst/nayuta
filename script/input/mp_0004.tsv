@@ -209,7 +209,7 @@ subev_return_island2
 0x5e8f	0x06	NOI		ANI_DENY	
 0x5eb4	0x98	NOI	#6A	No, I'll be fine on my own.	
 0x5f13	0x06	NOI		ANI_DULL	
-0x5f38	0x98	NOI		I realized at least Eartha and	
+0x5f38	0x98	NOI	#6A	I realized at least Eartha and	
 				Lyra are good people, so I wanted	
 				to try talking to them...	
 0x5fea	0x06	NOI		ANI_COMPLAIN	
@@ -226,7 +226,7 @@ subev_return_island2
 0x634c	0x06	NOI		ANI_GESTURE2	
 0x6375	0x98	NOI	#6A	Well then, I'm heading off.	
 0x63b0	0x06	NOI		ANI_GUTSPOSE	
-0x63d9	0x98	NOI		If you go to Terra, I'll go	
+0x63d9	0x98	NOI	#6A	If you go to Terra, I'll go	
 				with you, so don't worry.	
 0x6433	0x06	ALTO		ANI_GESTURE2	
 0x645d	0x98	ALTO		Haha, got it. Be nice	
@@ -283,7 +283,7 @@ talk_Asa
 0x741c	0x98	Asa		...Cygna was acting	
 				strange, wasn't he?	
 0x745b	0x98	Asa		I shouldn't have	
-				let him leave..	
+				let him leave...	
 talk_Signa					
 0x74d2	0x98	Signa		Hurry up, looks like we have	
 				some requests coming in.	
@@ -370,15 +370,15 @@ EV_0_S05_meet_asa
 				You must be tired from the long journey.	
 0x9484	0x98	ALTO	#6A	Haha, yeah.	
 0x94bc	0x06	ALTO		ANI_YAWN	
-0x94ff	0x98	ALTO	#6A	...(*yaaaawn*)...	
+0x94ff	0x98	ALTO	#6A	...*yaaaawn*...	
 0x95c5	0x98	Asa		My goodness, what's wrong?	
 				You seem so sleepy.	
 0x961c	0x06	Asa		ANI_ANGRYTALK	
 0x9663	0x98	Asa		In that case... You've	
 				been staying up late	
 				again, haven't you?	
-0x96cd	0x98	ALTO	#6A	Ahaha... I knew you'd	
-				be able to tell.	
+0x96cd	0x98	ALTO	#6A	Ahaha... You were able	
+				to tell after all.	
 0x9716	0x06	ALTO		ANI_GESTURE2	
 0x9740	0x06	Asa		ANI_WAIT	
 0x97cc	0x98	ALTO	#6A	Eartha, do you have any leftover	
@@ -747,7 +747,7 @@ EV_0_S18_check_gate
 0x11efc	0x98	Signa		Well then, let's jump	
 				in and see what happens.	
 0x120f1	0x06	ALTO		ANI_TENSION_WAIT	
-0x12127	0x98	ALTO	#6A	*gulp*...	mp_0000 0x5477
+0x12127	0x98	ALTO	#6A	(*gulp*)...	
 0x1215b	0x98	Signa		Jump on the count of three.	
 0x121a8	0x98	ALTO	#6A	G-Got it.	
 				I'm ready.	
@@ -834,7 +834,7 @@ EV_2_S06_help_noi
 				acquaintance of yours, Nayuta?	
 0x1422f	0x6B	ALTO		Sweatdrop	
 0x1426d	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x142a9	0x98	ALTO		Oh, uh...	mp_0003 0xad56
+0x142a9	0x98	ALTO	#0W#6A	Oh, uh...	mp_0003 0xad56
 0x142db	0x06	ALTO		ANI_DEJECTED	
 0x1431b	0x98	ALTO	#0W#6A	(...This might be a bit	
 				 difficult to explain...)	

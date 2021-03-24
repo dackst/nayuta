@@ -293,8 +293,9 @@ talk_Barton
 				you say that.	
 0x5ba4	0x98	Barton		Hehe, please take care	
 				of her from now on.	
-0x5c29	0x98	Barton		I told Lyra to take the day off, but...	
-				looks like that girl has a mind of her own.	
+0x5c29	0x98	Barton		I told Lyra to take the day off...	
+				But it looks like that girl has a	
+				mind of her own.	
 0x5c97	0x98	Barton		Anyway, please continue	
 				watching out for her.	
 0x5ce5	0x98	Barton		And please, come back	
@@ -313,7 +314,7 @@ talk_Barton
 				You're bound to be feeling tired.	
 0x5f9b	0x98	ALTO		Yeah... I understand.	
 0x6025	0x98	Barton		You're Noi, right?	
-0x605f	0x98	Barton		You seemed to be banged up, too..	
+0x605f	0x98	Barton		You seemed to be banged up, too...	
 				But please, look after Nayuta.	
 0x60bc	0x98	NOI		Y-Yeah, I will.	
 0x6112	0x98	Barton		Lyra should be back soon.	
@@ -335,7 +336,7 @@ talk_Barton
 				of noise outside, and it turns out	
 				something called 'snow' is falling.	
 0x6441	0x98	Barton		Sure, I had heard of it from	
-				around the time Orvus first	
+				Orvus around the time he first	
 				arrived at the island, but...	
 0x64a9	0x98	Barton		Supposedly it's a seasonal phenomenon	
 				often found in the northern parts of	
@@ -466,7 +467,7 @@ talk_Barton
 0x7b65	0x98	Barton		Anyway, I'm just glad none	
 				of our guests were hurt.	
 0x7c03	0x98	Barton		Oh... If it isn't Nayuta!	
-				Haha, you're back, eh?	
+				Haha, you came back, eh?	
 0x7c57	0x98	ALTO		Yes, just now. Good to	
 				see you, old man.	
 0x7c9f	0x98	ALTO		How's your bar doing?	
@@ -695,7 +696,7 @@ talk_Gruz
 0xa64e	0x98	Gruz		Come on, Nayu, my boy,	
 				how about you give it a	
 				try while you're here?	
-0xa6a7	0x98	ALTO		W-Well, umm..	
+0xa6a7	0x98	ALTO		W-Well, umm...	
 0xa6ce	0x98	ALTO		(I've sampled Gruz's new dishes	
 				 before, but they've all been	
 				 terrible...)	
@@ -2038,7 +2039,7 @@ QS_58_quest_end
 				memories of his master.	
 0x1bd9d	0x6B	Mensa		Ellipsis	
 0x1bdc8	0x6B	Ophiuchus		Ellipsis	
-0x1bdff	0x98	Ophiuchus		Well...	
+0x1bdff	0x98	Ophiuchus		Uh...	
 0x1be38	0x06	Mensa		ANI_SIT1_GESTURE2	
 0x1be68	0x98	Mensa		...And just how could you have	
 				possibly learned that?	
@@ -2048,7 +2049,7 @@ QS_58_quest_end
 				I just had a feeling.	
 0x1bf94	0x06	Mensa		ANI_SIT1_LAUGH	
 0x1bfc1	0x98	Mensa		...Hehe, what a strange boy.	
-0x1c004	0x98	Mensa		Well anyway, you've been a big help.	
+0x1c004	0x98	Mensa		Anyway, you've been a big help.	
 0x1c03f	0x06	Ophiuchus		ANI_TALK	
 0x1c06a	0x98	Ophiuchus		Thanks to you, we can bring this	
 				inheritance case to a close.	
@@ -2211,7 +2212,7 @@ QS_13_ask_request
 				Next, five Meat On The Bone.	
 				And finally, two Olm Shells.	
 0x1e373	0x06	ALTO		ANI_HOLD	
-0x1e399	0x98	ALTO	#6A	(*memo*, *memo*)...	
+0x1e399	0x98	ALTO	#6A	*memo*, *memo*...	
 0x1e3cb	0x06	Gruz		ANI_GESTURE2	
 0x1e3f5	0x98	Gruz		I usually pursue a wider selection	
 				of ingredients to try even more	
@@ -2355,7 +2356,7 @@ QS_13_quest_end
 0x205b9	0x06	NOI		ANI_DEJECTED	
 0x205e2	0x98	NOI	#6A	Ooh, I knew I ate too much...	
 0x20627	0x06	ALTO		ANI_LAUGH	
-0x2064e	0x98	ALTO		Ahahaha...	mp_0112 0x9c06
+0x2064e	0x98	ALTO	#6A	Ahahaha...	mp_0112 0x9c06
 0x2067a	0x06	ALTO		ANI_THANKS	
 0x206a2	0x98	ALTO	#6A	But the food was really	
 				good this time.	
@@ -2424,7 +2425,7 @@ QS_21_get_seedling
 				you could make some delicious	
 				fruit wine.	
 0x216f1	0x06	ALTO		ANI_SCRATCH_HEAD	
-0x2171f	0x98	ALTO		Th-That sounds great. 	
+0x2171f	0x98	ALTO	#6A	Th-That sounds great.	
 0x2175a	0x06	Antlia		ANI_SIT1_DENY	
 0x21787	0x98	Antlia		But unfortunately, I missed	
 				the harvest season.	
@@ -2947,7 +2948,7 @@ QS_82_get_in_information
 0x292bb	0x98	Antlia		Unfortunately, they don't seem	
 				to grow in the Ciencia Sea...	
 0x2931a	0x06	ALTO		ANI_NOD	
-0x2933f	0x98	ALTO		I see...	mp_0111 0xbeeb
+0x2933f	0x98	ALTO	#6A	I see...	mp_0111 0xbeeb
 0x293bf	0x98	ALTO		(Hey, Noi. White flowers...	
 				 Doesn't that sound kinda familiar?)	
 0x29468	0x98	NOI	#6A	(Yes, I believe I've seen them growing	

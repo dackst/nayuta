@@ -154,7 +154,7 @@ EV_2_S20_help_gio
 0x4673	0x98	NOI		This is the way to where Geo is trapped...	
 				We have to get over there!	
 0x499c	0x06	ALTO		ANI_WAIT4	
-0x49c3	0x98	ALTO		This prison that Zext built...	
+0x49c3	0x98	ALTO	#6A	This prison that Zext built...	
 				It's pretty big.	
 0x4a11	0x98	ALTO	#6A	To be able to just conjure	
 				something up like this...	
@@ -328,7 +328,7 @@ EV_2_S20_help_gio
 0x8fa3	0x98	ALTO	#6A	Well... looks like	
 				Geo is all right now.	
 0x8ff8	0x06	ALTO		ANI_GESTURE2	
-0x9022	0x98	ALTO		Let's head to Rieseweld next.	
+0x9022	0x98	ALTO	#6A	Let's head to Rieseweld next.	
 0x9072	0x06	NOI		ANI_NOD	
 0x9122	0x98	NOI		Yeah... Let's find Cygna and Zext!	
 0x9168	0x06	NOI		ANI_GUTSPOSE	

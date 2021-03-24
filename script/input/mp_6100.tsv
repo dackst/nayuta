@@ -39,11 +39,11 @@ EV_0_S14_out_remain
 				I'd say we can end our investigation for now.	
 0x16a3	0x98	Signa		How about it, Nayuta? Everyone	
 				in the village should be safe.	
-0x1738	0x98	ALTO		Looks like there's still some more	
+0x1738	0x98	ALTO	#6A	Looks like there's still some more	
 				space up there. Since we're already	
 				here, let's go up as far as we can!	
 0x17ac	0x06	ALTO		ANI_JOY	
-0x17d1	0x98	ALTO		There's still some places left that	
+0x17d1	0x98	ALTO	#6A	There's still some places left that	
 				we haven't checked. Maybe we can	
 				find some literature or something!	
 0x1855	0x06	Signa		ANI_LAUGH	
@@ -68,7 +68,7 @@ EV_0_S15_find_noi
 0x238b	0x98	ALTO	#0W#6A	...Almost like a 'fairy'	
 				out of a fairy tale.	
 0x2404	0x06	Signa		ANI_GESTURE2	
-0x243d	0x98	Signa	#2W#N	A f-fairy? Hey, come on,	
+0x243d	0x98	Signa	#1W#N	A f-fairy? Hey, come on,	
 				do you really think that	
 				stuff actually exists?	
 0x24ba	0x98	ALTO	#1W#6A	I dunno... But this girl is	
@@ -106,7 +106,7 @@ EV_0_S15_find_noi
 0x310d	0x06	Signa		ANI_SURPRISE	
 0x316b	0x98	Signa	#18S	What's happening!?	
 0x358c	0x98	Signa	#200x#270y	...!?	
-0x35d0	0x98	ALTO	#330x#270y	A-A person appeared	
+0x35d0	0x98	ALTO	#330x#270y	P-People appeared	
 				out of thin air...!?	
 0x378b	0x98	Zext	#1W#6A	Hmph... It appears some local	
 				children are in attendance.	
@@ -121,7 +121,7 @@ EV_0_S15_find_noi
 0x3ded	0x06	NOI		ANI_FLY_BY_POWER	
 0x3eb9	0x98	Signa	#18S	Wha...!?	
 0x402f	0x06	NOI		ANI_FLY_BY_POWER_LOOP	
-0x4138	0x98	Zext		Hmph, even while unconscious,	
+0x4138	0x98	Zext	#6A	Hmph, even while unconscious,	
 				you still won't let go.	
 0x41e3	0x98	Zext	#6A	Your tenacity is to be praised for	
 				staying so true to your mission.	

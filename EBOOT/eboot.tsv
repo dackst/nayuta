@@ -56,7 +56,7 @@
 0x21fed0	#4C今はセーブする事ができません。	35	#4CYou can't save now.			
 0x21fef4	#4C※ステージ攻略中にセーブしたデータは、{ 0a }　ロードするとワールドマップからの再開となります。	95	#4C※Loading data saved during a stage{ 0a }restarts you from the world map.			75
 0x21ff64	タイトル画面に戻りますか？{ 0a }（ゲームの途中経過は失われます）	59	Return to title?{ 0a }(Unsaved progress will be lost)			50
-0x22003c	現在は実行できません。	23	Can't practice now.			19
+0x22003c	現在は実行できません。	23	Currently unavailable.			19
 0x220054	これ以上は作成できません。	27	Can't make any more.			20
 0x220070	ステージ攻略中は調理を行うことが出来ません。	47	Can't prepare food during a stage.			34
 0x2200a0	#4C%s#1Cを作りますか？	23	#1CMake #4C%s#1C?			

@@ -561,7 +561,7 @@
 0x9930	name	Rare Truffle
 0x9948	desc	[Natural Food] Edible shroom raised underground. Commands a high price.
 0x99bc	name	Mandragora
-0x99d4	desc	[Natural Food] Person-shaped tree root used by wizards for medicine.
+0x99d4	desc	[Natural Food] Person-shaped tree root used by magicians for medicine.
 0x9a48	name	Swallow Base
 0x9a60	desc	[Natural Food] Bird nest. An Eastern delicacy. Unique texture.
 0x9ad4	name	Dragon Fruit
@@ -1029,19 +1029,19 @@
 0x11928	name	Grand Boxed Lunch
 0x11940	desc	Boxed lunch packed with luxurious side dishes.
 0x119b4	name	Jerky
-0x119cc	desc	Dried, smoked thin strips of meat. Have it for a snack.
+0x119cc	desc	Dried, smoked thin strips of meat. Great for a snack.
 0x11a40	name	Meat Bun
 0x11a58	desc	Steamed bun with meat filling.
 0x11acc	name	3-Star Spaghetti
 0x11ae4	desc	Standard dish with minced meat and tomato sauce.
-0x11b58	name	Meatball
-0x11b70	desc	You're happy if this is in your lunch.
+0x11b58	name	Meatballs
+0x11b70	desc	Meatballs popularly included in boxed lunches.
 0x11be4	name	Hot Dog
 0x11bfc	desc	Easy dish with sausage between bread.
 0x11c70	name	Jungle Rice
 0x11c88	desc	Boxed lunch packed with spicy meat and rice.
 0x11cfc	name	Roast
-0x11d14	desc	Teriyaki-cooked meat. Makes your mouth water.
+0x11d14	desc	Simple yet mouthwatering teriyaki-cooked meat.
 0x11d88	name	Half-Cooked Burger
 0x11da0	desc	Half-cooked sunny side up eggs with a round burger.
 0x11e14	name	Noble Boxed Lunch
@@ -1071,7 +1071,7 @@
 0x124a4	name	Royal Paella
 0x124bc	desc	Boxed lunch of seafood mixed in perfect harmony.
 0x12530	name	Grilled Fish
-0x12548	desc	Thoroughly grilled fish. A companion for rice.
+0x12548	desc	Thoroughly grilled fish with a side of rice.
 0x125bc	name	Seafood Roll
 0x125d4	desc	Cabbage-wrapped fish boiled over low flame.
 0x12648	name	Fine Seafood Plate
@@ -1111,7 +1111,7 @@
 0x12f94	name	Dark Spaghetti
 0x12fac	desc	Tooth blackening is inevitable, but worth it.
 0x13020	name	Dream Confection
-0x13038	desc	Can't imagine its taste based on ingredients.
+0x13038	desc	Unimaginably delicious candy ball.
 0x130ac	name	Live Seafood
 0x130c4	desc	Food made of live ingredients. Unexpectedly delicious.
 0x13138	name	Pudding
