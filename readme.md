@@ -50,7 +50,7 @@ xdelta3 -ds original.iso patch.xdelta patched.iso
 ### MD5 Checksums
 
 * Clean Japanese ISO : `02adefbdef8197cca872268d5c01b277`
-* ISO patched with this current release (1.07): `293805eec2b226edd0bb27f7215de9a7`
+* ISO patched with this current release (1.07): `ddffc276a942dd13d6a502a8693babcf`
 
 
 ## Known Issues
