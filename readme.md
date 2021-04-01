@@ -37,7 +37,7 @@ Go to the [release page](https://github.com/dackst/nayuta/releases) for a change
 
 2. Apply the xdelta patch to an unmodified Nayuta no Kiseki ISO<sup>[2](#note2)</sup>.
 
-    The easiest and most widely applicable method of doing this would probably be to use a web-based patcher, like those located [here](https://www.romhacking.net/patch/) or [here](https://hack64.net/tools/patcher.php). On Windows, you can also use [xdeltaUI](https://www.romhacking.net/utilities/598/). I've had success with [this](https://www.romhacking.net/utilities/959/) on Android.
+    The easiest and most widely applicable method of doing this would probably be to use a web-based patcher, like the one located [here](https://hack64.net/tools/patcher.php). On Windows, you can also use [xdeltaUI](https://www.romhacking.net/utilities/598/). I've had success with [this](https://www.romhacking.net/utilities/959/) on Android.
 
     Select the xdelta file you downloaded when prompted for a "Patch". Select your Nayuta no Kiseki ISO when asked for a "Source" or "ROM".
 
