@@ -250,7 +250,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   Although by all likelihood what I'm doing to Greek (and Spanish) is what the Japanese text did to English, at least the rest of the text isn't also Greek (or Spanish).
   * based on the [soundtrack](https://music.apple.com/us/album/nayuta-no-kiseki-original-soundtrack/561940857), Falcom's "official" name appears to be "Mythus", but that [has the same problem](https://www.merriam-webster.com/dictionary/mythus) as "mythos".
   * connection with mitosis/mitochondria could relate to their apparent ability to create, resurrect, and manipulate life. 
-  * Possibly related that hajimari no kiseki [promo art](https://static.wikia.nocookie.net/kiseki/images/8/80/Key_Visual_(Hajimari).jpg) shows the grandmaster with similar white hair and holding some kind of glowing yarn
+  * Possibly related that the grandmaster has similar white hair, holds some kind of [glowing yarn](https://static.wikia.nocookie.net/kiseki/images/8/80/Key_Visual_(Hajimari).jpg), and also speaks a lot of crpytic nonsense about destiny
     * even if they do ultimately turn out to be unrelated to the grandmaster, both could still be a reference to similar immortal beings who exert control over the destiny of the world and its life with [thread-related powers](https://en.wikipedia.org/wiki/Moirai). 
   * maybe sprinkle in some additional veiled sewing metaphors: "cut short", "thread of history/fate", "weave/twist", "seams"
     * adding more metaphors or such in general is probably a good idea
@@ -441,10 +441,6 @@ For character names based off of constellations, change spellings to more closel
 * Equlea -> Equulea (from Equuleus)
 * Hydol -> Hydrol (from Hydra/Hydrus)
 * Pencula -> Pecula (from Vulpecula)
-* <del>Serpent -> Serpen (from Serpens)</del>
-  * <del>keeping for the same reason I'm replacing "Saint" with "San", </del>there's a definite "to" sound present at the end of his name in Japanese
-* <del>Victor -> Pictor</del>
-  * keeping it, since at least Victor is an actual name. same goes for Janis (from Canis)
 
 
 ### Monsters 
@@ -623,8 +619,15 @@ what appear to be official romanizations/translations aren't always followed.
   * Ursaminor (Ursamina - keeping because it looks closer to a name, as a compound of the real names Ursa and Mina)
   * Vavo (Pavo - constellation)
   * Spirits (Nymphs - explained [above](#miscellaneous-terminology-changes))
+  * Michy (Mishy)
 
-  With the exception of *Creha*, *Erislet*, and *Pecula*, the names used prior to my changes listed [here](#characters) also match up with these strings.
+  With the exception of *Creha*, *Erislet*, and *Pecula*, the names used prior to my changes listed [here](#characters) also match up with these strings:
+  * Aquela
+  * Axe
+  * Bootie
+  * Collie
+  * Equlea
+  * Hydol
 
 
 ---
@@ -639,7 +642,7 @@ However, once I started testing the output, it seemed the released tools only *m
   1. item/money received messages in cutscenes are broken (those with opcode `0xC1`) [example](https://i.imgur.com/Or5dajg.jpg)
   2. Some text remains in their original Japanese forms, with no English displayed: Nayuta and Noi's names (stored in `text/pc.tsv`), tutorial menus (from `text/helplib.tsv`), food ingredient locations (`text/foodarea.tsv`) and some dialogue (namely, those in `script/noi.tsv` and `script/system.tsv`).
   3. chapter start/end graphics are still in Japanese
-  5. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact. He remained perfectly in in Chapter 2 and after starting Chapter 5.
+  5. can't talk to Mishy in first few chapters: an exclamation point appears when approaching, but nothing happens when you try to interact. He remained perfectly fine in Chapter 2 and after starting Chapter 5.
   6. I would occasionally encounter some stray lines of Japanese text underneath my English text in long text boxes (`0x41` op codes) [example](https://i.imgur.com/tPViMoM.jpg)
 
 Clearly, there were shenanigans done in the original fantranslation that aren't fully documented by the tools released in 2017, given that none of these issues exist in the 2016 patch.
@@ -658,7 +661,7 @@ If you want to do a actual, proper retranslation of this game yourself and are n
       * removing `noi.bin` from the `.3se` files as well as the `.mpp` files inside `pack/map` in the pack editing script makes the text in `noi.bin` appear correctly
       * removing `system.bin` from `pack/global/first.dat` in the pack editing script makes the text in `system.bin` appear correctly
       * Changes are successfully made in `pc`, `foodarea` and `helplib` after modifying how `textinsert.py` chose to skip rows that were too short. Since `pc`, `foodarea` and `helplib` have less columns than all the other `text` files, they were previously skipped entirely. 
-  3. Chapter titles: These are copied the files from the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, but for some reason the chapter start/end graphics aren't.
+  3. Chapter titles: These are copied from the files in the 4.15 ISO, in this case from `PSP_GAME/USRDIR/visual/event`. While other translated graphics are included with flame's tools, for some reason the chapter start/end graphics aren't.
   5. The Mishy issue was not entirely the fault of the tools. For some reason, Mishy's internal name ("Michy") was exposed in `chr_names.tsv` as well as his name that is displayed above his textboxes (originally "Michey"). For comparison, Mensa was called "Mrs. Mensa" in the original translation, and has an internal name of "Mensa", but only appeared once in `chr_names.tsv` (as "Mrs. Mensa"). I've also been able to break shopkeepers by changing the wrong names in `chr_names.tsv`, so just make sure you only change the right one? I recommend not changing any character names that appear to already use Latin characters when dumped from Japanese. 
   6. Extra Japanese text (underneath my English): I would usually be able to fix these by reformatting my English text to use an extra line in the text box. However, I encountered this again for two lines when reading the message at the end of Volans' sidequest, but wasn't able to fix it this way.
       * this appears to be fixable by increasing the max length for `0x41` op codes, as defined in the `bin` method, from 10 to 11. Now all the Japanese text is replaced as long as there is enough rows of English text. Due to a related logical error that should also now be fixed, it was [truncated to 3 rows](https://i.imgur.com/FEP7Gk1.jpg) when I tried to add an additional row instead of 10
@@ -681,9 +684,11 @@ entirely unrelated to the tools
   * search for all non ascii characters with `[^\x00-\x7F]`
   * creating a patch requires large buffer size, or resulting patch file will be huge
 ```
-xdelta3 -9 -S djw -B 1812725760 -evfs "nayuta.iso" "output.iso" "patch.xdelta"
+xdelta3 -9 -S none -B 1812725760 -evfs "nayuta.iso" "output.iso" "patch.xdelta"
 ```
 1812725760 is the max size in bytes of a psp umd, so it could probably made smaller
+
+Many patchers that claim to support xdelta do not support secondary compression. Secondary compression will be enabled by default unless explicitly disabled with ```-S none```. The output of ```printhdr``` is [currently bugged](https://github.com/jmacd/xdelta/issues/234) and will show secondary compression as enabled regardless.
 
 ## lol
 ---

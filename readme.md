@@ -35,14 +35,15 @@ Go to the [release page](https://github.com/dackst/nayuta/releases) for a change
 1. Download xdelta patch from latest<sup>[1](#note1)</sup> [release](https://github.com/dackst/nayuta/releases). 
 
 
-2. Apply the xdelta patch to an unmodified Japanese Nayuta no Kiseki iso<sup>[2](#note2)</sup>. If on Windows, the easiest thing to do would probably be to use [xdeltaUI](https://www.romhacking.net/utilities/598/):
+2. Apply the xdelta patch to an unmodified Nayuta no Kiseki ISO<sup>[2](#note2)</sup>.
 
-    1. Click **Open...** next to **Patch:** and select the xdelta file you downloaded.
-    2. Click **Open..** next to **Source File:** and select the corresponding ISO disk image.
-    3. Click **...** next to **Output File:** to specify the name and location of the new patched ISO disk image. The new name should end in ".iso" or ".ISO" in order to be recognized by PSP CFWs and emulators. [Here is an example](https://i.imgur.com/6Z65wjP.png) with all the inputs filled in. Your exact names and locations are likely to be different.
-    4. Click **Patch** and wait for the new file to be generated. This may take a while and cause the program to appear to stop responding.
+    The easiest and most widely applicable method of doing this would probably be to use a web-based patcher, like those located [here](https://www.romhacking.net/patch/) or [here](https://hack64.net/tools/patcher.php). On Windows, you can also use [xdeltaUI](https://www.romhacking.net/utilities/598/). I've had success with [this](https://www.romhacking.net/utilities/959/) on Android.
 
-   Otherwise, if you have xdelta3 installed elsewhere, you should also be able to run something similar to this with the desired filenames swapped in:
+    Select the xdelta file you downloaded when prompted for a "Patch". Select your Nayuta no Kiseki ISO when asked for a "Source" or "ROM".
+
+    Be sure to supply a name for the output file that ends in ".iso" or ".ISO" so that the patched file is recognized by PSP CFWs and emulators.
+
+    If xdelta3 is already installed on your system elsewhere, you should also be able to run something similar to this:
 ```
 xdelta3 -ds original.iso patch.xdelta patched.iso
 ```
@@ -50,7 +51,7 @@ xdelta3 -ds original.iso patch.xdelta patched.iso
 ### MD5 Checksums
 
 * Clean Japanese ISO : `02adefbdef8197cca872268d5c01b277`
-* ISO patched with this current release (1.07): `ddffc276a942dd13d6a502a8693babcf`
+* ISO patched with this current release (1.07-r2): `c92763dc98293c3f91e93bef93e3161b`
 
 
 ## Known Issues
@@ -77,10 +78,10 @@ This repository contains modifications of [flame's 2017 tools](https://heroesofl
 
 The original tools require a Windows installation of Python 3 to ["work"](./notes.md#why-not-just-use-flames-tools-directly). With the changes made in this repo, all of the non-working parts of these tools should be fixed. Also, the Python scripts for the dumping and inserting of binary files no longer require a Windows-based version of Python, but the beginning extraction/setup scripts and the final rebuilding scripts still do.
 
-You should still have access to an unmodified Nayuta no Kiseki iso<sup>[2](#note2)</sup>.
+You should still have access to an unmodified Nayuta no Kiseki ISO<sup>[2](#note2)</sup>.
 
 1. Download and extract [the original tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and paste the [contents of this repository](https://github.com/dackst/nayuta/archive/master.zip) into the extracted folder. Overwrite files if necessary.
-2. Set up an environment with a clean Japanese iso (Step 1 in the readme.txt included with the tools):
+2. Set up an environment with a clean Japanese ISO (Step 1 in the readme.txt included with the tools):
     1. Drag your iso over `_extract_new.bat`, or run `python extract.py nayuta.iso ISO`, where `nayuta.iso` is the name of your file.
     2. Run `setup.py`
 3. Modify files to your liking. See flame's `readme.txt` for more on this.
@@ -113,5 +114,5 @@ Also thanks to anyone who [reported](https://github.com/dackst/nayuta/issues) an
 
 <a name="note1">1</a>: Prior to 1.07, you could choose `clean.xdelta` to patch an unmodified Japanese ISO, or choose `4.15.xdelta` to patch to an ISO patched with version 4.15 of the previous fan-translation. The previous fan-translation is based on the same image that `clean.xdelta` is based on.
 
-<a name="note2">2</a>: This assumes an [ISO dumped from a physical UMD](https://datomatic.no-intro.org/index.php?page=show_record&s=62&n=2924) and not one extracted from a PSN PKG.
+<a name="note2">2</a>: This assumes an [ISO dumped from a physical UMD](https://datomatic.no-intro.org/index.php?page=show_record&s=62&n=2924) and NOT [one extracted from a PSN PKG](https://datomatic.no-intro.org/index.php?page=show_record&s=63&n=3569).
 
