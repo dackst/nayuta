@@ -607,8 +607,8 @@ QS_54_talk_gio
 0x988f	0x06	ALTO		ANI_GESTURE1	
 0x98b9	0x98	ALTO	#6A	Thank goodness... Do you know where?	
 0x9908	0x06	Gio		ANI_GESTURE1	
-0x9931	0x98	Gio		The presence is in the vicinity of	
-				the forest known as 'Hermit's Path'	
+0x9931	0x98	Gio		The presence is in the vicinity of the	
+				forest known as 'Fruitful Hermit's Way'	
 				in midwestern Oltapia.	
 0x99cc	0x98	Gio		It seems pretty confused,	
 				so you should go in the	
