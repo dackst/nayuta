@@ -22,7 +22,7 @@ I wasn't happy with the English in the [existing Nayuta no Kiseki fantranslation
 
 Initially I only wanted to only fix various inconsistencies, nonsensical lines, and the awkward direct-from-Japanese punctuation and formatting. Since I can read zero Japanese, I started out by using Google Translate and Linguee for help on trying to gauge what the more confusing parts were even trying to say, and editing the rest of the English myself.
 
-But in addition to some parts simply not making any sense, I later noticed others had made some modicum of sense, but the online translators (especially after discovering DeepL, which lets you fiddle with alternative translations to reword sentences) gave results that make much *more* sense than the original. It seems that knowledge of the context is something that the original English writers were missing when writing much of the dialogue. I ended up also editing the rest of the text to whatever *I*, as a native US English speaker, subjectively think might sound better, taking into account the original translation, any new machine translation(s), and what I knew about the context of the scene.
+But in addition to some parts simply not making any sense, I later noticed others had made some modicum of sense, but the online translators (especially after discovering DeepL, which lets you manually fiddle with alternative translations) gave results that make much *more* sense than the original. It seems that knowledge of the context is something that the original English writers were missing when writing much of the dialogue. Some of the more [drastic changes in meaning](https://i.imgur.com/YRqCdl3.png) have been things taken [almost literally from](https://i.imgur.com/tp5cbZ5.png) these online translators. I ended up also changing the rest of the text to whatever *I*, as a native US English speaker, subjectively think might sound better, taking into account the original translation, any new machine translation(s), and what I knew about the context.
 
 But I'm not a big creative writer, so I think it still might be drier and closer to literal Japanese compared to most previous official localizations: lines with simple phrases or sounds in Japanese like *eh* or *naruhodo* are replaced with simple phrases or sounds in English, rather something potentially more expressive, meaningful, or entertaining. However, now I believe the English to be actually comprehensible. For instance, *yappari* is no longer almost always 'as expected,' even when one of the [many alternatives](https://en.wiktionary.org/wiki/やはり) or similar English phrases make more sense. But again, I don't even know Japanese, so maybe I just made everything worse, especially for anything more nuanced.
 
@@ -81,16 +81,11 @@ The original tools require a Windows installation of Python 3 to ["work"](./note
 You should still have access to an unmodified Nayuta no Kiseki ISO<sup>[2](#note2)</sup>.
 
 1. Download and extract [the original tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and paste the [contents of this repository](https://github.com/dackst/nayuta/archive/master.zip) into the extracted folder. Overwrite files if necessary.
-2. Set up an environment with a clean Japanese ISO (Step 1 in the readme.txt included with the tools):
-    1. Drag your iso over `_extract_new.bat`, or run `python extract.py nayuta.iso ISO`, where `nayuta.iso` is the name of your file.
-    2. Run `setup.py`
+2. Drag your unmodified ISO over `_extract_new.bat` to set up a new environment (Run `_extract_new.bat path/to/original.iso`)
 3. Modify files to your liking. See flame's `readme.txt` for more on this.
-4. Reinsert text by running using the insertion Python scripts from within each respective folder.
-5. Copy the new files to their correct locations. Use `copy_all.py` instead of flame's individual `copy_*.py` scripts.
-    * If you made modifications to files that weren't modified before, you *might* have to run the pack editing function in `copy_all.py` on a relevant file for your changes to appear. See the "final boss attack name texture" section of `copy_all.py` for a simple example.
-6. Run `_build.bat` to build the new ISO with your changes, named `output.iso`.
+4. Run `build_all.bat` (or `build_all.sh`) to build the a new ISO out of the `ISO` folder with the changes, named `output.iso`. 
+  * If you changed files that weren't modified before, you will have to have to add them to `copy_all.py` or copy them to the correct location yourself. You also *might* have to run the pack editing function in `copy_all.py` on some relevant file for your changes to appear. 
 
-   * You should be able to do steps 4-6 in one go with `build_all.bat` or `build_all.sh`
 
 
 ## Credits
