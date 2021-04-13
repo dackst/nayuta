@@ -68,7 +68,7 @@ lp_middlefish
 0x2626	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2662	0x36	Choice		Nomura's Jellyfish	
 0x268c	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x26c8	0x36	Choice		Portuguese Man o' War	
+0x26c8	0x36	Choice		Man o' War	
 0x26f5	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2731	0x36	Choice		Goosefish	
 0x2752	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -108,7 +108,7 @@ lp_middlefish
 				A large jellyfish that can outsize a human.	
 				For its thick, soft, gelatinous quality,	
 				the umbrella is eaten as food.	
-0x3956	0x41	None		[Portuguese Man o' War] Physalia physalis	
+0x3956	0x41	None		[Man o' War] Physalia physalis	
 				Jellyfish-like siphonophore with clusters of various	# not a jellyfish
 				organs underneath its float. Because its sting is	# float: pneumatophore is not ever called an umbrella
 				capable of delivering intense pain, it is sometimes	
@@ -130,7 +130,7 @@ lp_middlefish
 				Even when not emitting light, its silvery body reflects	
 				its surroundings like a mirror, confusing its enemies.	
 lp_largefish					
-0x45e5	0x36	Choice		Amur Catfish	
+0x45e5	0x36	Choice		Common Catfish	
 0x4604	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x4640	0x36	Choice		Swordfish	
 0x4661	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -163,7 +163,7 @@ lp_largefish
 				Ancient fish living in the deep sea.	
 				Though once thought to be extinct, living	
 				specimens have been found in recent years.	
-0x4d3c	0x41	None		[Amur Catfish] Silurus asotus	
+0x4d3c	0x41	None		[Common Catfish] Silurus asotus	
 				Fish with a flat face and long whiskers.	
 				They habitually prefer river bottoms.	# this species is a freshwater fish, even though all the fresh and salt water fish are mixed together everywhere lol
 				It is said they can sense earthquake portents.	

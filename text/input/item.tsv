@@ -1670,7 +1670,7 @@
 0x1c840	desc	Wild arthropod found living in nature.
 0x1c8b4	name	Morpho Butterfly
 0x1c8cc	desc	Wild arthropod found living in nature.
-0x1c940	name	Chinese Grasshopper
+0x1c940	name	Oriental Grasshopper
 0x1c958	desc	Wild arthropod found living in nature.
 0x1c9cc	name	Locust
 0x1c9e4	desc	Wild arthropod found living in nature.
@@ -1708,7 +1708,7 @@
 0x1d2a4	desc	Wild arthropod found living in nature.
 0x1d318	name	Elephant Beetle
 0x1d330	desc	Wild arthropod found living in nature.
-0x1d3a4	name	Jap. Rhino Beetle
+0x1d3a4	name	Helmet Beetle
 0x1d3bc	desc	Wild arthropod found living in nature.
 0x1d430	name	Silk Moth
 0x1d448	desc	Wild arthropod found living in nature.
@@ -1738,7 +1738,7 @@
 0x1dad8	desc	Marine animal trapped in a mysterious water crystal.
 0x1db4c	name	Coelacanth
 0x1db64	desc	Marine animal trapped in a mysterious water crystal.
-0x1dbd8	name	Amur Catfish
+0x1dbd8	name	Common Catfish
 0x1dbf0	desc	Marine animal trapped in a mysterious water crystal.
 0x1dc64	name	Alligator Gar
 0x1dc7c	desc	Marine animal trapped in a mysterious water crystal.
