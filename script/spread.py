@@ -80,6 +80,12 @@ def scan_file_name(filename):
                 else:
                    text += " " + line[COL]   
 
+        # check last line of file
+        if (text and # skip rows with empty text column
+            not is_ani(text)): #skip animations
+            # store existing line of dialog
+            lines.append(text)
+
 
     return lines
 
