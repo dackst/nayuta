@@ -276,7 +276,7 @@ QS_44_quest_end
 				he is still the creator of this world of Terra.	
 0x6e8f	0x98	Algorl		This particular matter...	
 				It's far beyond the power of	
-				any single warden to solve it.	
+				any single warden to solve.	
 0x6f13	0x06	NOI		ANI_DEJECTED	
 0x6f3c	0x98	NOI	#6A	Y-You're right...	
 0x6f6f	0x06	ALTO		ANI_GESTURE1	
@@ -640,7 +640,7 @@ QS_83_quest_end
 				Can you show yourselves?	
 0xda22	0x06	NOI		ANI_THINK	
 0xda48	0x98	NOI	#6A	All...?	mp_1099 0xe4d0
-0xda8c	0x41	None	#1W#2E#310c	...Gahaha, you're still a clever boy..#0E	mp_1099 0xe514
+0xda8c	0x41	None	#1W#2E#310c	...Gahaha, you're still a clever boy.#0E	mp_1099 0xe514
 0xdd44	0x6B	NOI		Exclamation	
 0xdd6d	0x06	NOI		ANI_SURPRISE	
 0xdd9e	0x06	ALTO		ANI_OJIGI	
@@ -755,7 +755,7 @@ QS_83_quest_end
 0xf3c6	0x98	Nemeas	#0W	Having been assimilated to the continent,	mp_1099 0xfe4e
 				our sole mission is to monitor it.	
 0xf46b	0x98	Nemeas	#4A	We will no longer be able to	mp_1099 0xfef3
-				meet with you guys after this.	
+				meet with you after this.	
 0xf4d5	0x98	NOI	#1W#6A	Oh...	mp_0101 0x1ff08
 0xf507	0x06	ALTO		ANI_DEJECTED	
 0xf53f	0x98	ALTO	#2W#6A	Is that so...? We'll definitely miss you.	mp_1099 0xffc7

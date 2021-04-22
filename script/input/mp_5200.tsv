@@ -57,7 +57,7 @@ EV_5_S19_meet_zext
 				What is it that the Mitos want?	
 0x2bb2	0x98	ALTO	#6A	Plunging Terra into crisis...	
 				Invading Remnant Island...	
-				Just what are you guys trying to do?	
+				Just what are you trying to do?	
 0x2c7b	0x06	Zext		ANI_SIT2_NOD	
 0x2cad	0x98	Zext		...Keheh, very well, then.	
 				The plan has already	
@@ -133,7 +133,7 @@ EV_5_S19_meet_zext
 0x4267	0x98	Zext		Our time is coming to an end.	
 0x42a0	0x98	Zext		Selam, Creha.	
 				Release it.	
-0x42db	0x98	Zext		The symbol of the Enforcers of the plan...	
+0x42db	0x98	Zext		Your proof of being Enforcers of the mission...	
 				The power of the Radiant Wings of the Mitos!	
 0x435a	0x98	Seram	#6A	As you wish.	mp_5200 0x919
 0x43e0	0x06	Creha		ANI_NOD	

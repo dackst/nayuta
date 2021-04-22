@@ -173,7 +173,7 @@ subev_return_island1
 				Kinda seems like a waste.	
 0x532d	0x06	ALTO		ANI_WAIT0	
 0x5354	0x98	ALTO		Can we still continue the Handyman	
-				Shop work... and continue exploring	
+				Shop work...and continue exploring	
 				the world of Terra on the side?	
 0x53da	0x06	Signa		ANI_LAUGH	
 0x5402	0x98	Signa		Haha, that's a bit greedy, but	
@@ -393,7 +393,7 @@ EV_0_S05_meet_asa
 0x99d5	0x06	ALTO		ANI_WAIT4	
 0x99fc	0x98	ALTO	#6A	Mmm, now I'm getting even more	
 				hungry at the thought of eating	
-				my sister's homemade food.	
+				your homemade food.	
 0x9a74	0x06	Asa		ANI_LAUGH	
 0x9adc	0x98	Asa		Heheh, it'll be ready soon, so	
 				put your things away before then.	

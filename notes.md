@@ -425,7 +425,7 @@ You might find these changes *somewhat* more meaningful/controversal than my shu
   * Ordene -> Ordeen
     * more Arabic: https://en.wikipedia.org/wiki/Ad-Din, https://en.wikipedia.org/wiki/Din_(Arabic)
     * less ambiguous English pronunciation than *din*, which is unlikely to match Japanese (or likely Arabic) pronunciation, e.g. *Alad**din*** vs *alāʾad-**dīn***. *dene* is also ambiguous (Or-deh-neh?) 
-    * Japanese pronunciation matches [Ordine's](https://kiseki.fandom.com/wiki/Ordine) English pronunciation, but not its Japanese pronunciation
+    * Japanese pronunciation matches [Ordine's](https://kiseki.fandom.com/wiki/Ordine) English pronunciation, but not Ordine's Japanese pronunciation
 * Dr. Volans -> Professor Volans
 
 3/4 of the wardens now (alongside Algol) directly refer to astronomical objects (they all do if you consider Nemeas to reference the Nemean Lion, which is associated with the constellation Leo)
@@ -593,39 +593,44 @@ what appear to be official romanizations/translations aren't always followed.
   * Asa (Eartha - see above)
   * Burton (Barton - I think it matches the voice's pronunciation better)
   * Aulbath (Orvus - constellation Corvus)
-  * Gio (Geo - explained above in [Characters](#characters))
+  * Gio (Geo - explained above in [Characters](#characters). Honestly could go either way as both are possible derivations of Georgios/Giorgio/George)
   * Erislet (Erisette - ok so "[-let](https://en.wiktionary.org/wiki/-let)" is a diminutive, but it's "almost... never" used for names, and "is generally depreciative, connoting pettiness and conveying contempt" when it is)
   * Argol (Algol - explained above)
   * Cealam (Caelum - constellation)
   * Colon (Coron - one of the Corona constellations)
   * Michey (Mishy - explained above)
+* After Story credits
+  * Ordin (Ordeen - match voice pronunciation, which rhymes with "Rean bean machine" rather than with "Odin" or "Aladdin". It's entirely possible it's supposed to come from some non-Japanese word and it's the Japanese transcription/pronunciation that's wrong, but it's not clear either way)
+  * Bell (Vel - constellation Vela)
 * From [soundtrack](https://music.apple.com/us/album/nayuta-no-kiseki-original-soundtrack/561940857). 
   * The Island Left Behind (Remnant Island - the name is explained that it's from being made of the ruins that fall, not that the island itself is ruined. Though this might be more of a poetic description of the rural culture on Remnant Island)
   * Tower of Ruins (Tower Ruins - explained above, it's a single ruin that happens to be an intact tower)
   * Naraku Disease (Hell Fever - while it comes from [Naraka](https://en.wikipedia.org/wiki/Naraka), "naraku" is already [often translated](https://en.wiktionary.org/wiki/%E5%A5%88%E8%90%BD) as "hell". the (different) Japanese word for [purgatory](https://en.wiktionary.org/wiki/%E7%85%89%E7%8D%84) is translated as "Gehenna" in other games)
-  * Planetary Metropolis Lexandria (Star Capital Lexendria - too lazy to change the textures if I don't have to, and the city isn't even on the planet anyway)
-  * The Place Where The Planet Is (Where the Stars Rest - makes no sense, it's a place where the planet is not. Not that "Where the Stars Rest" makes much sense either)
+  * Planetary Metropolis Lexandria (Star Capital Lexendria - too lazy to change the textures if I don't have to)
+  * The Place Where The Planet Is (Where the Stars Rest - seems mostly nonsensical either way. and again, too lazy to change the textures)
   * Mythus (Mitos - explained above)
   * Administrator (Warden - dunno, I like administrator for its greater technological connotations, but also like warden for implying they act as protectors or guardians to the giant wildlife preservation that is Terra)
   * Icon (Idol - "idol" is usable for personifications (like Noi and 'Zext') as well as religious images)
 * strings in the internal files could also be a source of offical romanizations/translations. Only listed here if what they differ from or are not included in other sources.
-  * Seram (Selam - Selam seems to be an actual word/name with Arabic origins. Although the Latin meaning of seram could still be relevant, as he's all about taking action)
+  * Seram (Selam - Selam seems to be an actual word/name with Arabic origins. Although the Latin meaning of [seram](https://en.wiktionary.org/wiki/seram) could still be relevant)
   * Eida (Ada - her name in the wallpapers, and closer in spelling to the constellation Ara)
   * Algorl (Algol - explained above)
-  * Bell (Vel - constellation Vela)
   * Canis (Janis - a real female name, and still similar enough in spelling to the Canis constellations)
   * Columha (Columba - constellation)
-  * Keny (Canie - another instance of one of the Canis constellations)
+  * Keny (Canie - another instance of one of the Canis constellations. Canes Venatici and Centauris are also possibilities)
   * Ursaminor (Ursamina - keeping because it looks closer to a name, as a compound of the real names Ursa and Mina)
   * Vavo (Pavo - constellation)
   * Spirits (Nymphs - explained [above](#miscellaneous-terminology-changes))
   * Michy (Mishy)
+  * Zekst (Zext - some internal strings use "Zekst" in place of Zext. "Zext" is also used.)
+  * Starball (Planisphere)
+  * Alto (Nayuta - possible relation to Forte?)
 
   With the exception of *Creha*, *Erislet*, and *Pecula*, the names used prior to my changes listed [here](#characters) also match up with these strings:
   * Aquela
   * Axe
   * Bootie
-  * Collie
+  * Collie (*maybe* ***Ori***on, but seems like a stretch compared to ***Cor**ona.)
   * Equlea
   * Hydol
 
@@ -781,6 +786,8 @@ prologue: center of town, outside elder's house
 ch1: harbor, outside fisherman's house
 
 ch2: cape, underneath stairs
+
+ch3: outside general store
 
 ch4: harbor, outside museum
 
