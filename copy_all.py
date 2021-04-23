@@ -92,8 +92,10 @@ def copy_img():
     shutil.copy(r'{}/pic1.png'.format(src_path), target_dir + r'/PSP_GAME/PIC1.PNG')
 
     # movies
-    shutil.copy(r'{}/nyt_op.pmf'.format(src_path), target_dir + r'/PSP_GAME/USRDIR/movie')
-    shutil.copy(r'{}/nyt_ed1.pmf'.format(src_path), target_dir + r'/PSP_GAME/USRDIR/movie')
+    filelist = tuple('{}/{}'.format(src_path, x) for x in filter(
+        lambda x: x.endswith('.pmf'), os.listdir(src_path)))
+    for filename in filelist:
+        shutil.copy(filename, target_dir + r'/PSP_GAME/USRDIR/movie')
 
     #"system" images
     filelist = [
