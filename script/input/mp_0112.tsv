@@ -1577,9 +1577,9 @@ talk_Ophiuchus
 				him already, then we might	
 				be too late...	
 talk_Michy					
-0x15a92	0x98	Michy		Mee hee hee! ♪	
+0x15a92	0x98	Michy		Meeheehee! ♪	
 0x15abd	0x98	ALTO		(Ahaha, he sounds satisfied.)	
-0x15b5e	0x98	Michy		Mee hee hee! ♪	mp_0112 0x15a92
+0x15b5e	0x98	Michy		Meeheehee! ♪	mp_0112 0x15a92
 talk_Victor					
 0x15c2c	0x98	Victor		I have come to discuss with Professor Volans	
 				on how to end the war between the Empire and	
@@ -1966,7 +1966,7 @@ QS_58_ask_reason
 0x1ac38	0x06	Ophiuchus		ANI_TALK	
 0x1ac63	0x98	Ophiuchus		Before he died... the wealthy man	
 				grew fond of a certain creature.	
-0x1accc	0x98	Ophiuchus		His cry sounds like, 'Mee hee hee.'	
+0x1accc	0x98	Ophiuchus		His cry sounds like, 'Meeheehee.'	
 				He's even become an established	
 				mascot of a theme park.	
 0x1ad39	0x98	Ophiuchus		That's who the heir to the vast	
@@ -2025,13 +2025,13 @@ QS_58_quest_end
 				find him somehow.	
 0x1ba1b	0x06	ALTO		ANI_GESTURE2	
 0x1ba45	0x98	ALTO		Mishy, go ahead.	
-0x1ba94	0x98	Michy	#6A	Mee hee hee.	mp_0002d 0x3233
+0x1ba94	0x98	Michy	#6A	Meeheehee.	mp_0002d 0x3233
 0x1bb50	0x06	Mensa		ANI_SIT1_GESTURE2	
 0x1bb80	0x98	Mensa		Hehe, looks like you	
 				brought him here safely.	
 0x1bbd1	0x98	Mensa		You know, you just disappeared, and...	
 				Your master would be worried about you.	
-0x1bc3e	0x98	Michy	#6A#200x#300y	Mee hee...	
+0x1bc3e	0x98	Michy	#6A#200x#300y	Meehee...	
 0x1bc8b	0x06	ALTO		ANI_DENY	
 0x1bcb1	0x98	ALTO	#6A	No... He had a lot on his	
 				mind in that respect.	
@@ -2071,7 +2071,7 @@ QS_58_quest_end
 0x1c36f	0x98	Mensa		And you should do what	
 				you have to do.	
 0x1c3b1	0x98	ALTO	#6A	Yes... I'll try my best!	
-0x1c3f1	0x98	Michy	#6A#200x#300y	Mee hee hee! ♪	mp_0112 0x15a92
+0x1c3f1	0x98	Michy	#6A#200x#300y	Meeheehee! ♪	mp_0112 0x15a92
 0x1c465	0x07	System	#3C	Quest [Search for Heir] completed!	
 quest_Camelope					
 0x1c73f	0x98	Camelope		I don't know why, but whenever	

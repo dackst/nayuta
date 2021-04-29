@@ -15,7 +15,7 @@ QS_58_Find_Michy
 0xec3	0x06	NOI		ANI_SURPRISE	
 0xeec	0x98	NOI	#6A	That's...!!	
 0xf37	0x6B	Michy		Exclamation	
-0xf6a	0x98	Michy		M-Mee hee hee!!	
+0xf6a	0x98	Michy		M-Meeheehee!!	
 0xfca	0x06	ALTO		ANI_COMPLAIN	
 0xff4	0x98	ALTO		This is bad...!	
 				Did it go further in!?	
@@ -25,7 +25,7 @@ QS_58_RunAway_Michy
 OS_58_TBOX					
 0x1602	0x06	OS_58_TBOX		ANI_OPEN	
 0x1636	0x3F	Name		Voice	mp_0000d 0x4c24
-0x1667	0x98	Michy		...Mee hee hee...	
+0x1667	0x98	Michy		...Meeheehee...	
 0x16a6	0x6B	ALTO		Surprise	
 0x16d8	0x6B	NOI		Surprise	
 0x1709	0x06	ALTO		ANI_SURPRISE	
@@ -38,7 +38,7 @@ OS_58_TBOX
 0x1a5c	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x1a8a	0x98	ALTO	#6A	Haha, well...	
 				I'm glad you're safe.	
-0x1acf	0x98	Michy		...Mee hee hee...	mp_4000d 0x1667
+0x1acf	0x98	Michy		...Meeheehee...	mp_4000d 0x1667
 0x1afe	0x06	ALTO		ANI_THINK2	
 0x1b26	0x98	ALTO	#6A	...Umm, I don't know if you	
 				can understand me, but...	
@@ -47,12 +47,12 @@ OS_58_TBOX
 0x1bf6	0x98	ALTO	#6A	Mensa and Ophiuchus are waiting.	
 				Will you please come back with us?	
 0x1c56	0x6B	Michy		Ellipsis	
-0x1ca2	0x98	Michy		...Mee hee hee.	
+0x1ca2	0x98	Michy		...Meeheehee.	
 0x1ccf	0x06	NOI		ANI_THINK	
 0x1cf5	0x98	NOI	#6A	Umm... I think I might be able	
 				to tell what he's saying.	
 0x1d4a	0x06	NOI		ANI_WAIT	
-0x1d6f	0x98	Michy		...Mee hee, mee hee.	
+0x1d6f	0x98	Michy		...Meehee, meehee.	
 0x1da1	0x06	NOI		ANI_GESTURE2	
 0x1dca	0x98	NOI	#6A	'I came to the island before	
 				 with my master as tourists.'	
@@ -70,8 +70,8 @@ OS_58_TBOX
 0x1fda	0x06	ALTO		ANI_GESTURE2	
 0x2004	0x98	ALTO	#6A	So why did you run from	
 				Mensa and Ophiuchus, then?	
-0x204d	0x98	Michy		Mee hee hee.	
-				Mee hee, mee hee hee.	
+0x204d	0x98	Michy		Meeheehee.	
+				Meehee, meeheehee.	
 0x208d	0x06	NOI		ANI_GESTURE1	
 0x20b6	0x98	NOI	#6A	'If those two found me, they	
 				 would make me return to the	
@@ -90,7 +90,7 @@ OS_58_TBOX
 0x22cc	0x98	ALTO	#6A	Maybe it would be better not	
 				to worry them so much?	
 0x231f	0x6B	Michy		Ellipsis	
-0x236b	0x98	Michy		...Mee hee hee, mee hee.	
+0x236b	0x98	Michy		...Meeheehee, meehee.	
 0x239f	0x98	NOI	#6A	'That might be true.	
 				 I understand.'	
 0x23e4	0x98	NOI	#6A	'Before long, the time will	
@@ -100,7 +100,7 @@ OS_58_TBOX
 0x25fc	0x98	ALTO	#6A	Wha...!?	
 0x2627	0xC1	System		obtained.	mp_0000 0x7558
 0x26f3	0x3F	Name		Mishy	
-0x2701	0x98	ALTO	#N#6A#4C#210x#170y	Mee hee hee!	
+0x2701	0x98	ALTO	#N#6A#4C#210x#170y	Meeheehee!	
 0x274c	0x06	NOI		ANI_GESTURE2	
 0x2775	0x98	NOI	#6A	'Let me into	
 				 your pocket.'	

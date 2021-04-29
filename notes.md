@@ -208,8 +208,8 @@ Like before, this section mostly served so that *I* could keep these things cons
   * deliberately kept different:
     * 亜空間: pocket dimension
       * originally translated as "hyperspace" or just "space", which I changed to "subspace"
-      * appears a few times in CSIV, and translated as "dimension" or "dimensional". However, other dimensions/spaces are brought up in prior games like Sky as well (usually 空間 without the [亜](https://en.wiktionary.org/wiki/%E4%BA%9C) in front). What seems to be different in these cases is that they're more of an artificial [pocket dimension](https://tvtropes.org/pmwiki/pmwiki.php/Main/PocketDimension) created by a dweller of the usual, "higher" dimension, rather than one that could just naturally exist by itself
-      * Since not even "Subdimension" fits in the menu location text, I'll keep it as "Subspace" there. Location names given in the menu are rarely directly referenced in dialogue anyway.
+      * appears a few times in CSIV, ~~and translated as "dimension" or "dimensional". However, other dimensions/spaces are brought up in prior games like Sky as well (usually 空間 without the [亜](https://en.wiktionary.org/wiki/%E4%BA%9C) in front). What seems to be different in these cases is that they're more of an artificial [pocket dimension](https://tvtropes.org/pmwiki/pmwiki.php/Main/PocketDimension) created by a dweller of the usual, "higher" dimension, rather than one that could just naturally exist by itself~~
+        * 2/4 occurrences in cs iv script that I bothered to check manually were "dimension" and "dimensional", the others were literally "subspace"
     * 転位門: transfer gate (appears twice in CSIV, translated once as "portal" and another time as "teleportation gateway", but these instances appear more as a casted magical teleportation spell with no physical presence to be walked through, rather than a literal arched gate that still exists even when the teleportation is no longer active.
 
 
