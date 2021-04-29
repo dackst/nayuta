@@ -12,7 +12,7 @@
 <img src="https://i.imgur.com/1gWUK3w.jpg" width="360" height="204"> <img src="https://i.imgur.com/TT9smIn.jpg" width="360" height="204">
 
 
-[More comparison screenshots](https://imgur.com/a/yJB1fTj). These are mostly one-liners that were particularly non-sensical. There shouldn't be any major spoilers if you're interested in avoiding them.
+[More comparison screenshots](https://imgur.com/a/yJB1fTj). These are mostly one-liners that were particularly non-sensical. There shouldn't be any major spoilers if you're interested in avoiding them, but they might reveal some smaller details.
 
 ---
 ## Introduction
@@ -20,13 +20,13 @@
 I wasn't happy with the English in the [existing Nayuta no Kiseki fantranslation](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=73), so I used their [publicly available tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) to make my own edit.
 
 
-Initially I only wanted to only fix various inconsistencies, nonsensical lines, and the awkward direct-from-Japanese punctuation and formatting. Since I can read zero Japanese, I started out by using Google Translate and Linguee for help on trying to gauge what the more confusing parts were even trying to say, and editing the rest of the English myself.
+Initially I only wanted to only fix various inconsistencies, nonsensical lines, and the awkward direct-from-Japanese punctuation and sentence structure. Since I can read zero Japanese, I started out by using Google Translate and Linguee for help on trying to gauge what the more confusing parts were even trying to say, and editing the rest of the English myself.
 
-But in addition to some parts simply not making any sense, I later noticed others had made some modicum of sense, but the online translators (especially after discovering DeepL, which lets you manually fiddle with alternative translations) gave results that make much *more* sense than the original. It seems that knowledge of the context is something that the original English writers were missing when writing much of the dialogue. Some of the more [drastic changes in meaning](https://i.imgur.com/YRqCdl3.png) have been things taken [almost literally from](https://i.imgur.com/tp5cbZ5.png) these online translators. I ended up also changing the rest of the text to whatever *I*, as a native US English speaker, subjectively think might sound better, taking into account the original translation, any new machine translation(s), and what I knew about the context.
+But in addition to some parts simply not making any sense, I later noticed others had made some modicum of sense, but the online translators (especially after discovering DeepL, which lets you manually fiddle with alternative translations) made much *more* sense than the original. It seems that knowledge of the context is something that the original English writers were missing for much of the dialogue. Some of the more [drastic changes in meaning](https://i.imgur.com/YRqCdl3.png) have been things taken [almost literally from](https://i.imgur.com/M05LHD8.png) these online translators. I ended up also changing the rest of the text to whatever *I*, as a native US English speaker, subjectively think might sound better, taking into account the original translation, any new machine translation(s), and what I knew about the context.
 
-But I'm not a big creative writer, so I think it still might be drier and closer to literal Japanese compared to most previous official localizations: lines with simple phrases or sounds in Japanese like *eh* or *naruhodo* are replaced with simple phrases or sounds in English, rather something potentially more expressive, meaningful, or entertaining. However, now I believe the English to be actually comprehensible. For instance, *yappari* is no longer almost always 'as expected,' even when one of the [many alternatives](https://en.wiktionary.org/wiki/やはり) or similar English phrases make more sense. But again, I don't even know Japanese, so maybe I just made everything worse, especially for anything more nuanced.
+But I'm not a big creative writer, so I think it still might be drier and close*r* to literal Japanese compared to most previous official localizations: lines with simple phrases or sounds in Japanese like *eh* or *naruhodo* are replaced with simple phrases or sounds in English, rather something potentially more expressive, meaningful, or entertaining. However, now I believe the English to be actually comprehensible. For instance, *yappari* is no longer almost always 'as expected,' even when one of the [many alternatives](https://en.wiktionary.org/wiki/やはり) or similar English phrases make more sense. But again, I don't even know Japanese, so maybe I just made everything worse, especially for anything more nuanced.
 
-I would appreciate reporting of any issues: technical bugs, glaring mistranslations, lore inconsistencies, or even just general English weirdness and typos. I did a playthrough or two with my changes and fixed a number of mistakes, but it is possible that I missed some. There are a few remaining [issues](#known-issues). 
+I would appreciate reporting of any issues: technical bugs, mistranslations, lore inconsistencies, or even just general English weirdness and typos. I've fixed a number of mistakes, but it is possible that I missed some. There are a few remaining [issues](#known-issues). 
 
 Go to the [release page](https://github.com/dackst/nayuta/releases) for a changelog. If you're interested in more detail on the changes made from the original project, you can look at the [script notes](./notes.md) file. If you're *really* interested, you can easily view almost all the text changes from the original at once [here](https://github.com/dackst/nayuta/compare/a6cecc6651f386ab3fabcab64cf440e021fa99bd...original).
 
@@ -35,9 +35,12 @@ Go to the [release page](https://github.com/dackst/nayuta/releases) for a change
 1. Download xdelta patch from latest<sup>[1](#note1)</sup> [release](https://github.com/dackst/nayuta/releases). 
 
 
-2. Apply the xdelta patch to an unmodified Nayuta no Kiseki ISO<sup>[2](#note2)</sup>.
+2. Apply the xdelta patch to an unmodified<sup>[2](#note2)</sup> Nayuta no Kiseki ISO.
 
-    The easiest and most widely applicable method of doing this would probably be to use a web-based patcher, like the one located [here](https://hack64.net/tools/patcher.php). On Windows, you can also use [xdeltaUI](https://www.romhacking.net/utilities/598/). I've had success with [this](https://www.romhacking.net/utilities/959/) on Android.
+    Useful xdelta patching tools:
+    - [Web browser](https://hack64.net/tools/patcher.php)
+    - [Windows](https://www.romhacking.net/utilities/598/)
+    - [Android](https://www.romhacking.net/utilities/959/)
 
     Select the xdelta file you downloaded when prompted for a "Patch". Select your Nayuta no Kiseki ISO when asked for a "Source" or "ROM".
 
@@ -48,10 +51,17 @@ Go to the [release page](https://github.com/dackst/nayuta/releases) for a change
 xdelta3 -ds original.iso patch.xdelta patched.iso
 ```
 
-### MD5 Checksums
+### Checksums
 
-* Clean Japanese ISO : `02adefbdef8197cca872268d5c01b277`
-* ISO patched with this current release (1.07-r2): `c92763dc98293c3f91e93bef93e3161b`
+* Clean Japanese ISO : 
+    * CRC32: `c3b0c989`
+    * MD5: `02adefbdef8197cca872268d5c01b277`
+    * SHA-1: `126139a10911e02fa27f1e49b165887eac8759f2`
+
+* ISO patched with this current release (1.08): 
+    * CRC32: `75e466a9`
+    * MD5: `bda6803e59fdcc67a17829fb6b49e134`
+    * SHA-1: `b4b35037854abeeb9a1283ba3a77b602a6d58705`
 
 
 ## Known Issues
@@ -64,8 +74,8 @@ These are all issues that exist in the original fantranslation that I don't know
 * long achievement names are cut off in the notification box when unlocking them, e.g. "armor of anhillat"
   * the above two *could* be solved by shortening them, but I'm not willing to butcher them further
 * characters that use idiosyncratic manners of speaking in Japanese probably still don't here
-  * E.g. Geo is supposed to [sound like an old man](https://legendofheroes.fandom.com/wiki/Lychnis_Gio) (characters even comment on it several times in-game), Eris is supposed to sound [domineering](https://legendofheroes.fandom.com/wiki/Song_Priestess_Elislette) or something. Algol and Nemeas are definitely supposed to sound unique too
-  * Noi has her own verbal tic with the way she ends sentences in Japanese that is lost
+  * E.g. Geo is supposed to [sound like an old man](https://kiseki.fandom.com/wiki/Gio) (characters even comment on it several times in-game), Eris is supposed to sound [domineering](https://kiseki.fandom.com/wiki/Erislet) or something. Algol and Nemeas are definitely supposed to sound unique too
+  * Noi has her own verbal tic that is lost
   * things like slang or shifts in politeness or tone are probably still not accurately conveyed
 * text speed isn't as synced to voices as it is in Japanese (text speed should still be modified to be faster than the voices, if anything)
 
@@ -76,15 +86,15 @@ These are all issues that exist in the original fantranslation that I don't know
 
 This repository contains modifications of [flame's 2017 tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) for modifying the text and images in Nayuta no Kiseki, as well as modifications of the English text and images dumped from version 4.15 of original project from 2016.
 
-The original tools require a Windows installation of Python 3 to ["work"](./notes.md#why-not-just-use-flames-tools-directly). With the changes made in this repo, all of the non-working parts of these tools should be fixed. Also, the Python scripts for the dumping and inserting of binary files no longer require a Windows-based version of Python, but the beginning extraction/setup scripts and the final rebuilding scripts still do.
+The original tools require a Windows installation of Python 3 to ["work"](./notes.md#why-not-just-use-flames-tools-directly). With the changes made in this repo, all of the non-working parts of these tools should be fixed. Also, the Python scripts for the dumping and inserting of binary files no longer require a Windows-based version of Python, but the beginning ISO extraction/workspace setup scripts and the final ISO rebuilding scripts still do.
 
-You should still have access to an unmodified Nayuta no Kiseki ISO<sup>[2](#note2)</sup>.
+You should still have access to an unmodified<sup>[2](#note2)</sup> Nayuta no Kiseki ISO.
 
-1. Download and extract [the original tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340) and paste the [contents of this repository](https://github.com/dackst/nayuta/archive/master.zip) into the extracted folder. Overwrite files if necessary.
+1. Download and extract [the original tools](https://heroesoflegend.org/forums/viewtopic.php?f=22&t=340), and paste the [contents of this repository](https://github.com/dackst/nayuta/archive/master.zip) into the extracted folder. Overwrite files if necessary.
 2. Drag your unmodified ISO over `_extract_new.bat` to set up a new environment (Run `_extract_new.bat path/to/original.iso`)
 3. Modify files to your liking. See flame's `readme.txt` for more on this.
 4. Run `build_all.bat` (or `build_all.sh`) to build the a new ISO out of the `ISO` folder with the changes, named `output.iso`. 
-  * If you changed files that weren't modified before, you will have to have to add them to `copy_all.py` or copy them to the correct location yourself. You also *might* have to run the pack editing function in `copy_all.py` on some relevant file for your changes to appear. 
+    * If you changed files that weren't modified before, you will have to have to add them to `copy_all.py` or copy them to the correct location yourself. You also *might* have to run the pack editing function in `copy_all.py` on some relevant file for your changes to appear. 
 
 
 
