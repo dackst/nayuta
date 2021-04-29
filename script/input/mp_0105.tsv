@@ -3,7 +3,7 @@ init
 EV_7_S00_in_elevator					
 0x235	0x06	ALTO		ANI_WAIT3	
 0x50f	0x98	ALTO	#0W	Creha... Hope she's all right.	
-0x55f	0x98	NOI	#6A	...All we can do is believe in her for now.	
+0x55f	0x98	NOI	#6A	...All we can do is believe for now.	
 0x5ad	0x98	NOI	#6A	Zext is supposed to be	
 				Lady Creha's father...	
 				I don't think he'd hurt her.	

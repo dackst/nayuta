@@ -755,7 +755,7 @@
 0xce3c	name	Ingredients Bundle
 0xce54	desc	From Dorado. Contains vegetables and bacon.
 0xcec8	name	Mishy
-0xcee0	desc	Mysterious animal that cries, 'Misshi.' Understands human speech.
+0xcee0	desc	Mysterious animal that cries, 'Meeheehee.' Understands human speech.
 0xcf54	name	
 0xcf6c	desc	
 0xcfe0	name	
@@ -794,7 +794,7 @@
 0xd8b8	desc	Softly shining star shard. Use from your room to view another world.
 0xd92c	name	Shining Star Shard
 0xd944	desc	Filled with countless lights. Use from your room to view another world.
-0xd9b8	name	Dreams Shard
+0xd9b8	name	Dream Shard
 0xd9d0	desc	Filled with a pure light. Use from your room to view another world.
 0xda44	name	
 0xda5c	desc	
@@ -1297,9 +1297,9 @@
 0x16270	name	Crimson Demon Lord
 0x16288	desc	Defeated <Crimson Demon Lord> Armadalleos.
 0x162fc	name	Starfall Knight
-0x16314	desc	Defeated <Starfall Knight> Selam Il Ordeen.
+0x16314	desc	Defeated <Starfall Knight> Selam El Ordeen.
 0x16388	name	He Who Guides Myths
-0x163a0	desc	Defeated <He Who Guides Myths> Zext Ji Quarius.
+0x163a0	desc	Defeated <He Who Guides Myths> Zext di Quarius.
 0x16414	name	Vacuous Planetary Core
 0x1642c	desc	Defeated <Vacuous Planetary Core> Stell Alacran.
 0x164a0	name	Pure Celestial Armor
@@ -1670,7 +1670,7 @@
 0x1c840	desc	Wild arthropod found living in nature.
 0x1c8b4	name	Morpho Butterfly
 0x1c8cc	desc	Wild arthropod found living in nature.
-0x1c940	name	Chinese Grasshopper
+0x1c940	name	Oriental Grasshopper
 0x1c958	desc	Wild arthropod found living in nature.
 0x1c9cc	name	Locust
 0x1c9e4	desc	Wild arthropod found living in nature.
@@ -1708,7 +1708,7 @@
 0x1d2a4	desc	Wild arthropod found living in nature.
 0x1d318	name	Elephant Beetle
 0x1d330	desc	Wild arthropod found living in nature.
-0x1d3a4	name	Jap. Rhino Beetle
+0x1d3a4	name	Helmet Beetle
 0x1d3bc	desc	Wild arthropod found living in nature.
 0x1d430	name	Silk Moth
 0x1d448	desc	Wild arthropod found living in nature.
@@ -1724,7 +1724,7 @@
 0x1d704	desc	Wild arthropod found living in nature.
 0x1d778	name	Dung Beetle
 0x1d790	desc	Wild arthropod found living in nature.
-0x1d804	name	Ant Lion Larva
+0x1d804	name	Antlion Larva
 0x1d81c	desc	Wild arthropod found living in nature.
 0x1d890	name	Seahorse
 0x1d8a8	desc	Marine animal trapped in a mysterious water crystal.
@@ -1738,7 +1738,7 @@
 0x1dad8	desc	Marine animal trapped in a mysterious water crystal.
 0x1db4c	name	Coelacanth
 0x1db64	desc	Marine animal trapped in a mysterious water crystal.
-0x1dbd8	name	Amur Catfish
+0x1dbd8	name	Common Catfish
 0x1dbf0	desc	Marine animal trapped in a mysterious water crystal.
 0x1dc64	name	Alligator Gar
 0x1dc7c	desc	Marine animal trapped in a mysterious water crystal.

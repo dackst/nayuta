@@ -607,8 +607,8 @@ QS_54_talk_gio
 0x988f	0x06	ALTO		ANI_GESTURE1	
 0x98b9	0x98	ALTO	#6A	Thank goodness... Do you know where?	
 0x9908	0x06	Gio		ANI_GESTURE1	
-0x9931	0x98	Gio		The presence is in the vicinity of	
-				the forest known as 'Hermit's Path'	
+0x9931	0x98	Gio		The presence is in the vicinity of the	
+				forest known as 'Fruitful Hermit's Way'	
 				in midwestern Oltapia.	
 0x99cc	0x98	Gio		It seems pretty confused,	
 				so you should go in the	
@@ -994,7 +994,7 @@ QS_83_quest_end
 0xfe4e	0x98	Nemeas	#0W	Having been assimilated to the continent,	
 				our sole mission is to monitor it.	
 0xfef3	0x98	Nemeas	#4A	We will no longer be able to	
-				meet with you guys after this.	
+				meet with you after this.	
 0xff5d	0x98	NOI	#1W#6A	Oh...	mp_0101 0x1ff08
 0xff8f	0x06	ALTO		ANI_DEJECTED	
 0xffc7	0x98	ALTO	#2W#6A	Is that so...? We'll definitely miss you.	

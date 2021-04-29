@@ -636,7 +636,7 @@ QS_83_quest_end
 				Can you show yourselves?	
 0xbd44	0x06	NOI		ANI_THINK	
 0xbd6a	0x98	NOI	#6A	All...?	mp_1099 0xe4d0
-0xbdae	0x41	None	#1W#2E#310c	...Gahaha, you're still a clever boy..#0E	mp_1099 0xe514
+0xbdae	0x41	None	#1W#2E#310c	...Gahaha, you're still a clever boy.#0E	mp_1099 0xe514
 0xc074	0x6B	NOI		Exclamation	
 0xc09d	0x06	NOI		ANI_SURPRISE	
 0xc0ce	0x06	ALTO		ANI_OJIGI	
@@ -751,7 +751,7 @@ QS_83_quest_end
 0xd6f6	0x98	Nemeas	#0W	Having been assimilated to the continent,	mp_1099 0xfe4e
 				our sole mission is to monitor it.	
 0xd79b	0x98	Nemeas	#4A	We will no longer be able to	mp_1099 0xfef3
-				meet with you guys after this.	
+				meet with you after this.	
 0xd805	0x98	NOI	#1W#6A	Oh...	mp_0101 0x1ff08
 0xd837	0x06	ALTO		ANI_DEJECTED	
 0xd86f	0x98	ALTO	#2W#6A	Is that so...? We'll definitely miss you.	mp_1099 0xffc7
@@ -993,7 +993,7 @@ EV_2_S23_boss_battle
 0x15ea9	0x98	Zext		...Impersonate, you say?	
 				It seems that there has been	
 				a terrible misunderstanding.	
-0x15f24	0x98	Zext		My name is Zext Ji Quarius Dominador...	
+0x15f24	0x98	Zext		My name is Zext di Quarius Dominador...	
 0x15f6b	0x98	Zext		The veritable leader of the Mitos.	
 0x15fcb	0x98	Zext		Did you not know this already...	
 				Noi Stelladia?	

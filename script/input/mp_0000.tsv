@@ -53,14 +53,14 @@ talk_Dorado
 0x2ee8	0x98	Dorado		If only she were another year or two older,	
 				then she'd be in the strike zone...	
 0x2f52	0x6B	ALTO		Sweatdrop	
-0x2f84	0x98	ALTO		(Dorado is only 20, but	
+0x2f84	0x98	ALTO		(Dorado is only twenty, but	
 				 he's already sounding	
 				 like a dirty old man...)	
 0x3024	0x98	Dorado		If she were a year or two older,	
 				she'd be in the strike zone...	
 0x3091	0x98	Dorado		Nah, maybe if I make a good	
 				impression on her now, then	
-				later... later...	
+				later... Later...	
 0x30fd	0x98	ALTO		(Is he serious...?)	
 0x3158	0x98	Dorado		For now, I just have to make	
 				a good impression on Creha.	
@@ -84,7 +84,7 @@ talk_Dorado
 0x3547	0x98	Dorado		J-Just now... This amazing	
 				beauty walked by...	
 0x35a2	0x98	Dorado		I only caught a glimpse,	
-				but what a stunner... 	
+				but what a stunner...	
 				Was I just daydreaming!?	
 0x360f	0x6B	ALTO		Sweatdrop	
 0x3641	0x98	ALTO		Um, well...	
@@ -671,9 +671,9 @@ talk_Bootie
 				You HAVE grown, Boote.	
 0xa927	0x98	Bootie		...I knew it, you really	
 				piss me off, you know?	
-0xa994	0x98	Bootie		I'm already 11. I can	
-				take care of Jessica	
-				all by myself.	
+0xa994	0x98	Bootie		I'm already eleven. I can	
+				take care of Jessica all	
+				by myself.	
 0xa9f3	0x98	Bootie		We don't need a handyman	
 				like you for that anymore.	
 				Don't forget it, Nayuta!	
@@ -982,7 +982,7 @@ QS_38_ask_reason
 0xee89	0x06	Pyxia		ANI_TALK	
 0xeeb0	0x98	Pyxia		Okay, okay.	
 0xeedc	0x98	Pyxia		What I wanted to ask you to	
-				do is... supply pigment.	
+				do is...supply pigment.	
 0xef31	0x06	Pyxia		ANI_WAIT	
 0xef58	0x06	ALTO		ANI_THINK2	
 0xef80	0x98	ALTO	#6A	Pigment...? Like for paint?	
@@ -1412,7 +1412,7 @@ QS_12_ask_reason
 0x15046	0x98	Sculp		And when I remembered,	
 				it had already passed.	
 0x15093	0x06	ALTO		ANI_GESTURE2	
-0x150bd	0x98	ALTO	#6A	Haha... That sucks.	
+0x150bd	0x98	ALTO	#6A	Haha... That's too bad.	
 0x150ff	0x06	Sculp		ANI_WAIT3	
 0x15127	0x98	Sculp		Yeah... But luckily Canie forgot	
 				too, so she didn't mind, but...	

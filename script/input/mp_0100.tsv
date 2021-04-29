@@ -126,7 +126,7 @@ QS_35_use_astrolabe
 0x4c70	0x06	ALTO		ANI_THINK	
 0x4c97	0x98	ALTO		Without any idea where they are...	
 				We should play with the seasonal	
-				settings and search everywhere	
+				settings and search everywhere.	
 0x4d1a	0x06	NOI		ANI_NOD	
 0x4d3e	0x98	NOI		Yes, let's give it a look!	
 QS_58_use_astrolabe					
@@ -214,7 +214,7 @@ EV_2_S11_set_gear_1st
 				I misheard you...	
 0x8580	0x6B	ALTO		Exclamation	
 0x85b2	0x06	ALTO		ANI_SURPRISE	
-0x85dc	0x98	ALTO	#16S	S-Something came out of it!?	
+0x85dc	0x98	ALTO	#16S	S-Something popped out of it!?	
 0x8624	0x98	NOI		First of all, let's restore	
 				Oltapia's climate!	
 EV_2_S13_use_astrolabe					
@@ -693,7 +693,7 @@ EV_8_S08_emergency_al
 0x152d2	0x41	None	#0W#995c#1E	In order to stop the abnormalities,	
 				the two used the technology of	
 				the Mitos.#0E	
-0x15377	0x41	None	#0W#995c#1E	A pocket dimension exists inside the Astrolabe,	
+0x15377	0x41	None	#0W#995c#1E	A subspace exists inside the Astrolabe,	
 				formed by the vast amount of astral power	
 				contained within...#0E	
 0x15422	0x41	None	#0W#995c#1E	In that 'Inner World'	
@@ -824,9 +824,8 @@ EV_8_S17_happy_end
 0x195d8	0x98	ALTO		That reminds me, I didn't introduce	
 				you to Cygna and Creha.	
 0x19645	0x06	Signa2		ANI_GESTURE2	
-0x19671	0x98	Signa2		I am Cygna... I'm one	
-				of the Mitos, along	
-				with Creha over there.	
+0x19671	0x98	Signa2		I am Cygna... I'm a Mitos,	
+				along with Creha over there.	
 0x196d6	0x06	Creha2		ANI_TALK	
 0x196fe	0x98	Creha2		It is nice to meet you, Noi.	
 				And, um, thank you for saving us.	

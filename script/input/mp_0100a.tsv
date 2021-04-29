@@ -137,7 +137,7 @@ EV_6_S33_set_all_key
 0x59e5	0x06	NOI		ANI_SURPRISE	
 0x5c15	0x98	ALTO	#1W#16S#280x#270y	...!!	
 0x5c66	0x98	NOI	#1W#16S#200x#270y	L-Lady Creha!?	
-0x5f66	0x98	Creha	#0W	...You guys, of course.	
+0x5f66	0x98	Creha	#0W	...You two, of course.	
 0x5fa5	0x98	Creha	#0W	You were able to come all	
 				the way back here after all.	
 0x603a	0x06	Creha		ANI_DENY	
@@ -211,8 +211,8 @@ EV_6_S36_break_up_creha
 0x7c04	0x98	Creha		They had recovered from the disaster, and	
 				started building a new chapter in history.	
 0x7cbf	0x06	Creha		ANI_DENY	
-0x7cee	0x98	Creha		Destroying humanity in	
-				order to recreate it...	
+0x7cee	0x98	Creha		Destroying humanity in order	
+				to recreate the world...	
 				We couldn't do it.	
 0x7da4	0x98	Creha		And so, we both went to	
 				sleep in the garden instead.	
@@ -245,7 +245,7 @@ EV_6_S36_break_up_creha
 0x86f6	0x06	Creha		ANI_DENY	
 0x8725	0x98	Creha		...I am truly sorry for putting	
 				on this pretense to test you.	
-0x8777	0x98	Creha		I betrayed you guys...	
+0x8777	0x98	Creha		I betrayed you...	
 				I know it is unforgivable.	
 0x87f8	0x98	Creha	#0W	If...you would still	
 				accept me after this...	

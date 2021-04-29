@@ -35,13 +35,13 @@ talk_Sasha
 0xd7e	0x98	ALTO		(I hope this doesn't cause	
 				 any false rumors...)	
 0xe95	0x98	Sasha		Oh yeah... Nayuta, you	
-				don't have a cocoon or	
-				anything, do you?	
-0xeeb	0x98	ALTO		Cocoon...?	
-0xf15	0x98	Sasha		They're used for making	
+				don't have any cocoons	
+				or anything, do you?	
+0xeeb	0x98	ALTO		Cocoons...?	
+0xf15	0x98	Sasha		Their silk is used for making	
 				doll clothes, you see...	
-0xf6d	0x98	Sasha		Lately, my supply of them	
-				has been running low.	
+0xf6d	0x98	Sasha		Lately, my supply has	
+				been running low.	
 0xfbb	0x98	Sasha		Hmm, at this rate, I won't be	
 				able to make any new clothes...	
 0x101e	0x98	ALTO		(Cocoons, huh? ...If I find some,	
@@ -100,7 +100,7 @@ talk_Sasha_add
 0x1d2c	0x98	ALTO		Anyway, I'm giving	
 				this to you, Sasha.	
 0x1da0	0x98	Sasha		Thank you, you're always such a big help.	
-0x1de3	0x98	Sasha		With this cocoon, I could create	
+0x1de3	0x98	Sasha		With this silk, I could create	
 				better doll clothes than I could	
 				have ever dreamed of...	
 0x1e5a	0x98	Sasha		Ehehe, you're looking forward	

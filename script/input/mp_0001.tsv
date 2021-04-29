@@ -860,7 +860,7 @@ QS_82_quest_end
 0xf1a8	0x06	NOI		ANI_WAIT	
 0xf1cd	0x06	ALTO		ANI_DENY	
 0xf1f3	0x98	ALTO		Haha... It's nothing.	
-0xf265	0x98	Serpent	#6A	Hmm, you're 16 years 	
+0xf265	0x98	Serpent	#6A	Hmm, you're sixteen years 	
 				old now, aren't you?	
 0xf2ad	0x98	ALTO		Yeah... This past year I traveled to many	
 				places and learned many things...	

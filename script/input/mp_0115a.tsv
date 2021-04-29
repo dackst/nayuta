@@ -31,16 +31,16 @@ lp_butterfly
 				They feed on rotting fruit and decomposing animal corpses.	
 				Males habitually patrol the riverside in the mornings.	
 lp_grasshopper					
-0x2060	0x36	Choice		Chinese Grasshopper	
+0x2060	0x36	Choice		Oriental Grasshopper	
 0x2083	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x20bf	0x36	Choice		Locust	
 0x20dd	0x36	Choice		？？？？？？	mp_0115a 0x176c
-0x2119	0x36	Choice		Japanese Giant Mantis	
+0x2119	0x36	Choice		Giant Praying Mantis	
 0x2145	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x2181	0x36	Choice		Bell Cricket	
 0x21a5	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x21c1	0x36	Choice		Quit	mp_0002 0x433f
-0x2247	0x41	None		[Chinese Grasshopper] Acrida cinerea	
+0x2247	0x41	None		[Oriental Grasshopper] Acrida cinerea	
 				Grasshopper known as the 'spirit grasshopper.'	
 				It has a long, triangular head, and males make a	
 				'kichi-kichi-kichi' sound when they fly.	
@@ -48,7 +48,7 @@ lp_grasshopper
 				Large grasshopper living mainly in grassy plains.	
 				When there is not much food, they swarm and	
 				destroy crops everywhere as 'plagues.'	
-0x24ee	0x41	None		[Japanese Giant Mantis] Tenodera aridifolia	
+0x24ee	0x41	None		[Giant Praying Mantis] Tenodera aridifolia	
 				Predatory insect with large sickle-shaped forelegs.	
 				Capturing and eating various insects with quick	
 				movements, it is king of the grassy plains.	
@@ -76,8 +76,8 @@ lp_cicada
 				they cry their 'gii-gii' monotone call.	
 0x2e18	0x41	None		[Walker's Cicada] Meimuna opalifera	
 				Cicada active from summer to autumn.	
-				Their Japanese common name comes from the noise	
-				they make, which sounds like 'tsuku-tsuku-boshi.'	
+				It is commonly called 'tsuku-tsuku-boshi'	
+				due to the sound of its song.	
 0x2fe2	0x41	None		[Evening Cicada] Tanna japonensis	
 				Cicada that lives in cypress and cedar forests.	
 				From summer to autumn, they make a loud, mournful	
@@ -135,7 +135,7 @@ lp_stagbeetle
 				A flower scarab that feeds on nectar and pollen.	
 				It is the heaviest of all known insects.	
 lp_beetle					
-0x4447	0x36	Choice		Jap. Rhino Beetle	
+0x4447	0x36	Choice		Helmet Beetle	
 0x4470	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x44ac	0x36	Choice		Caucasus Beetle	
 0x44d3	0x36	Choice		？？？？？？	mp_0115a 0x176c
@@ -159,7 +159,7 @@ lp_beetle
 				As an adult, it grows to a size too big to be	
 				carried in one hand. It has a mild temperament	
 				and lives by feeding on sap.	
-0x4adb	0x41	None		[Japanese Rhinoceros Beetle] Trypoxylus dichotomus	
+0x4adb	0x41	None		[Helmet Beetle] Trypoxylus dichotomus	
 				Common rhinoceros beetle with a large body and	
 				strong legs. Males have horns that are split in two,	
 				and are likened to a decorative kabuto helmet.	
@@ -190,7 +190,7 @@ lp_fly
 				to the ears. Females feed on humans and animals by sucking	
 				their blood, and sometimes spread infectious disease.	
 lp_sandbug					
-0x5697	0x36	Choice		Ant Lion Larva	
+0x5697	0x36	Choice		Antlion Larva	
 0x56bd	0x36	Choice		？？？？？？	mp_0115a 0x176c
 0x56f9	0x36	Choice		Dung Beetle	
 0x571c	0x36	Choice		？？？？？？	mp_0115a 0x176c

@@ -221,7 +221,7 @@ talk_Serpent
 0x367b	0x98	Serpent		This must be all thanks to Eartha, who	
 				practically raised you like a mother.	
 				You have a lot to thank her for.	
-0x36fc	0x98	Serpent		Hmm, you're 15 years old already...	
+0x36fc	0x98	Serpent		Hmm, you're fifteen years old already...	
 				Now that you've entered Saint Cerise Academy,	
 				you can't keep playing as much as before.	
 0x3787	0x98	Serpent		Study hard like I did when I was younger,	
@@ -787,7 +787,7 @@ EV_6_S06_meet_chief
 				hard to try to weather this storm.	
 0xb41f	0x06	Lupus		ANI_GESTURE2	
 0xb44a	0x98	Lupus		Nayuta, since you've recovered, we need	
-				you to help out wherever you can.	
+				you helping out wherever you can.	
 0xb4b1	0x06	Lupus		ANI_DIRECT	
 0xb4da	0x98	Lupus		Are you ready for this, handyman?	
 0xb522	0x06	ALTO		ANI_SCRATCH_HEAD	

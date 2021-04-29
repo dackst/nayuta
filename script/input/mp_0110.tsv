@@ -607,7 +607,7 @@ LP_Viewer2
 0xa003	0x36	Choice		Enlightenment Shard	
 0xa047	0x36	Choice		Under the Sun Shard	
 0xa089	0x36	Choice		Shining Star Shard	
-0xa0ca	0x36	Choice		Dreams Shard	
+0xa0ca	0x36	Choice		Dream Shard	
 0xa0ed	0x36	Choice		Quit	mp_0002 0x433f
 0xa15b	0x06	ALTO		ANI_HANDOVER	
 0xa203	0x06	horogram2		ANI_PATA1	
@@ -1088,7 +1088,7 @@ QS_22_undertake
 0x1152b	0x06	Asa		ANI_GESTURE2	
 0x11554	0x98	Asa		Either way, I can't continue working...	
 				I would very much appreciate it if	
-				you do this for me.	
+				you could do this for me.	
 0x115ad	0x06	ALTO		ANI_JOY	
 0x115d2	0x98	ALTO	#6A	Yeah, just hang on then!	
 0x11613	0x06	NOI		ANI_NOD	
@@ -1226,7 +1226,7 @@ QS_81_quest_end
 				It's Cygna and Creha when they were little.	
 0x14019	0x40	ALTO		And the one in the middle is probably...	
 				Zext at the time.	
-0x14085	0x40	NOI		An image of three of the Mitos...	
+0x14085	0x40	NOI		An image of three Mitos...	
 0x140d7	0x40	NOI		It must be from ancient times,	
 				before the wars broke out.	
 0x14132	0x40	Aulbath		Hmm... I see.	
@@ -1977,7 +1977,7 @@ EV_3_S00_detect_disease
 				Is Eartha...going to be okay?	
 0x23c68	0x06	Lyra		ANI_COMPLAIN	
 0x23c92	0x98	Lyra	#1W	...She's not gonna die or	
-				or anything... right!?	
+				or anything...right!?	
 0x23ce3	0x06	ALTO		ANI_NOD	
 0x23d2e	0x98	ALTO	#6A	...Don't worry, she'll be fine.	
 0x23d6e	0x98	ALTO	#6A	Eartha, I'll...	
@@ -2175,7 +2175,7 @@ EV_3_S22_recovery_asa
 				It looks like my sister's	
 				examination is over.	
 0x28712	0x06	Hydol		ANI_WAIT2	
-0x2873a	0x98	Hydol	#6A	Hmm, the Hell Fever symptoms have	
+0x2873a	0x98	Hydol	#6A	Mmm, the Hell Fever symptoms have	
 				almost completely receded.	
 0x28797	0x98	Hydol	#6A	Now all she needs to do is	
 				to take it easy. Nayuta,	
@@ -2220,7 +2220,7 @@ EV_3_S23_confide_asa
 0x299ad	0x98	Asa_b		My, even you came	
 				to see me, Noi.	
 0x299ee	0x98	Asa_b		Yes, I'm doing much better.	
-0x29a7c	0x98	Asa_b		Plus... this is perfect timing.	
+0x29a7c	0x98	Asa_b		Plus...this is perfect timing.	
 0x29ac3	0x6B	ALTO		Question	
 0x29aed	0x6B	NOI		Question	
 0x29b64	0x98	Asa_b		Heheh. Well, anyway,	
@@ -2459,7 +2459,7 @@ EV_3_S27_bring_creha
 0x2db79	0x06	Asa		ANI_SIT1_LAUGH	
 0x2dba4	0x98	Asa	#6A	Hehe, it's like I made a new little	
 				sister. This is going to be fun!	
-0x2dc18	0x98	Asa	#6A	Then welcome, at least for 	
+0x2dc18	0x98	Asa	#6A	Then welcome, at least for	
 				a little while, Creha! ♪ 	
 0x2dc74	0x06	Creha		ANI_SIT1_NOD	
 0x2dc9f	0x98	Creha		...(*gulp*)	

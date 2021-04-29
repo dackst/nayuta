@@ -62,7 +62,7 @@ SUB_meet_adventurer
 				two adventurers went.	
 0x10f1	0x98	Cetus	#0W	H-Hey, you guys.	
 0x1124	0x06	Cetus		ANI_GESTURE1	
-0x114f	0x98	Cetus	#0W	You guys seem well...	
+0x114f	0x98	Cetus	#0W	You seem well...	
 				Haha, good to see you're safe...	
 0x11ae	0x06	ALTO		ANI_SCRATCH_HEAD	
 0x11dc	0x98	ALTO	#6A	Um, sure, Cetus, but you	
@@ -126,8 +126,8 @@ SUB_meet_adventurer
 0x1f80	0x98	NOI		I won't tell you how they work, but	
 				they're perfectly safe devices.	
 0x1fe2	0x06	NOI		ANI_SPEECH	
-0x2009	0x98	NOI		So just go do what we just taught you,	
-				and return to Remnant Island already!	
+0x2009	0x98	NOI		So just go do what we taught you, and	
+				return to Remnant Island already!	
 0x2063	0x06	Reticul		ANI_WAIT4	
 0x208d	0x98	Reticul		Thanks for your help.	
 0x20ce	0x98	Reticul		We didn't find any treasure,	

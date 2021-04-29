@@ -749,7 +749,7 @@ EV_1_S00_go_jungle
 				things happened and she	
 				fell asleep, though...	
 0x10585	0x98	ALTO	#6A	The Mitos...created this world!?	
-0x105d0	0x98	ALTO	#6A	And... she fell asleep...?	
+0x105d0	0x98	ALTO	#6A	And...she fell asleep...?	
 				Do you mean she's been	
 				sleeping here ever since?	
 0x10645	0x98	Signa	#6A	Hmmm... That's a little	
@@ -1164,7 +1164,8 @@ EV_2_S30_talk_creha
 EV_3_S04_meet_creha					
 0x1962a	0x06	Creha		ANI_SIT5	
 0x196f1	0xBC	Creha		Ellipsis	
-0x19776	0x98	Creha	#0W	This is a beautiful place... really.	
+0x19776	0x98	Creha	#0W	This is a beautiful place...	
+				It really is.	
 0x197c2	0xBC	Creha		Surprise	
 0x1995d	0x06	ALTO		ANI_LOOK_AROUND	
 0x19992	0x98	ALTO		(...Noi might have some idea	

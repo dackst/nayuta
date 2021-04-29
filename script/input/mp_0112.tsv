@@ -1375,14 +1375,14 @@ talk_Hydol
 				bound for Saint Cerise.	
 0x1316b	0x98	Hydol		Nayuta, please continue to take	
 				good care of your sister.	
-0x131fc	0x98	Hydol		And thank you for all the assistance	
-				you've given me with my work. You've	
-				been a big help.	
+0x131fc	0x98	Hydol		Thank you for all the assistance	
+				you've given me with my work.	
+				You've been a big help.	
 0x13259	0x98	Hydol		If you are ever not feeling well,	
-				you can always come visit me there.	
+				you can always come visit me here.	
 0x132af	0x98	Hydol		I plan to stay for a little	
-				while longer. I will check	
-				back in as soon as I can.	
+				while longer. We will likely	
+				see each other again soon.	# sister sickness foreshadowing (who he probably needs to see after his 'regular' visits)
 0x13351	0x98	Hydol		I've got some medical records to sort through.	
 				I doubt I'll be ready to start seeing patients soon.	
 0x133c0	0x98	Hydol		But I don't want to keep my	
@@ -1577,9 +1577,9 @@ talk_Ophiuchus
 				him already, then we might	
 				be too late...	
 talk_Michy					
-0x15a92	0x98	Michy		Mishishi! ♪	
+0x15a92	0x98	Michy		Meeheehee! ♪	
 0x15abd	0x98	ALTO		(Ahaha, he sounds satisfied.)	
-0x15b5e	0x98	Michy		Mishishi! ♪	mp_0112 0x15a92
+0x15b5e	0x98	Michy		Meeheehee! ♪	mp_0112 0x15a92
 talk_Victor					
 0x15c2c	0x98	Victor		I have come to discuss with Professor Volans	
 				on how to end the war between the Empire and	
@@ -1966,7 +1966,7 @@ QS_58_ask_reason
 0x1ac38	0x06	Ophiuchus		ANI_TALK	
 0x1ac63	0x98	Ophiuchus		Before he died... the wealthy man	
 				grew fond of a certain creature.	
-0x1accc	0x98	Ophiuchus		His cry sounds like, 'Mishishi.'	
+0x1accc	0x98	Ophiuchus		His cry sounds like, 'Meeheehee.'	
 				He's even become an established	
 				mascot of a theme park.	
 0x1ad39	0x98	Ophiuchus		That's who the heir to the vast	
@@ -2025,13 +2025,13 @@ QS_58_quest_end
 				find him somehow.	
 0x1ba1b	0x06	ALTO		ANI_GESTURE2	
 0x1ba45	0x98	ALTO		Mishy, go ahead.	
-0x1ba94	0x98	Michy	#6A	Mishishi.	mp_0002d 0x3233
+0x1ba94	0x98	Michy	#6A	Meeheehee.	mp_0002d 0x3233
 0x1bb50	0x06	Mensa		ANI_SIT1_GESTURE2	
 0x1bb80	0x98	Mensa		Hehe, looks like you	
 				brought him here safely.	
 0x1bbd1	0x98	Mensa		You know, you just disappeared, and...	
 				Your master would be worried about you.	
-0x1bc3e	0x98	Michy	#6A#200x#300y	Mishii...	
+0x1bc3e	0x98	Michy	#6A#200x#300y	Meehee...	
 0x1bc8b	0x06	ALTO		ANI_DENY	
 0x1bcb1	0x98	ALTO	#6A	No... He had a lot on his	
 				mind in that respect.	
@@ -2071,7 +2071,7 @@ QS_58_quest_end
 0x1c36f	0x98	Mensa		And you should do what	
 				you have to do.	
 0x1c3b1	0x98	ALTO	#6A	Yes... I'll try my best!	
-0x1c3f1	0x98	Michy	#6A#200x#300y	Mishishi! ♪	mp_0112 0x15a92
+0x1c3f1	0x98	Michy	#6A#200x#300y	Meeheehee! ♪	mp_0112 0x15a92
 0x1c465	0x07	System	#3C	Quest [Search for Heir] completed!	
 quest_Camelope					
 0x1c73f	0x98	Camelope		I don't know why, but whenever	
@@ -2540,7 +2540,7 @@ QS_25_undertake
 0x22e0e	0x98	Hydol		...Whoops. Let me explain	
 				what you have to do.	
 0x22e70	0x06	Hydol		ANI_GESTURE2	
-0x22e9b	0x98	Hydol		All I'm asking for you today is	
+0x22e9b	0x98	Hydol		All I'm asking from you today is	
 				to remind people who might need	
 				medical checkups.	
 0x22efd	0x06	ALTO		ANI_THINK	
