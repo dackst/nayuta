@@ -1048,7 +1048,7 @@ QS_83_quest_end
 0x110be	0x07	System	#3C	Quest [Crush the Four Idols] completed!	
 EV_1_S08_vs_seram					
 0x11489	0x06	Signa		ANI_WAIT3	
-0x11747	0x98	Signa	#0W#6A	...Hey, it's good to	
+0x11747	0x98	Signa	#0W#6A	...Yo, it's good to	
 				see you again, man.	
 0x11797	0x6B	Zext		Exclamation	
 0x117c1	0x6B	Seram		Exclamation	
