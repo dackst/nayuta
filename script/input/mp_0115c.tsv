@@ -20,7 +20,7 @@ lp_smallfish1
 				some of its internal organs hold lethal poison.	
 0x1798	0x41	None		[Koi] Cyprinus carpio	
 				Medium size fish that prefers gentle waters.	
-				Since it has 36 scale types, it is known as the 6-6 fish.	# ??? There are more than 36 varieties, but all you need to do is look at a picture to see there's more than '36 scales' on each fish
+				Since it has 36 scale types, it is known as the six-six fish.	# ??? There are more than 36 varieties, but all you need to do is look at a picture to see there's more than '36 scales' on each fish
 				In some regions, it is considered a symbol of success in life.	
 0x190e	0x41	None		[Goldfish] Carassius auratus	
 				Small fish with a mixed red-and-white body.	
@@ -172,7 +172,7 @@ lp_largefish
 				Because of its hard scales and large body, it has few	
 				natural predators. It eats fish and crustaceans with ease.	
 0x5013	0x41	None		[Octopus] Octopoda	
-				Soft-bodied mollusk with 8 limbs.	
+				Soft-bodied mollusk with eight limbs.	
 				Each limb is outfitted with large suckers.	
 				It prefers to live in cramped places.	
 0x5150	0x41	None		[Squid] Decapodiformes	

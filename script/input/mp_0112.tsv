@@ -167,8 +167,8 @@ talk_Lyra
 				it's good that you're close with Cygna.	
 0x4565	0x98	Lyra		I've gotta go to Eartha for	
 				a cooking lesson after this.	
-0x45bd	0x98	Lyra		I don't have time to deal with	
-				you guys 24 hours a day, okay?	
+0x45bd	0x98	Lyra		I don't have time to deal with you	
+				guys every waking minute, okay?	
 0x4643	0x98	Lyra		Anyway, if you're fighting with	
 				Cygna, you should make up as	
 				soon as possible.	
@@ -222,7 +222,7 @@ talk_Lyra_and_Creha
 				of the customers...	
 0x4f1f	0x98	Creha		...This one? It's	
 				still pretty full.	
-0x4f68	0x98	Lyra		N-No! That's 20-year-old	
+0x4f68	0x98	Lyra		N-No! That's twenty-year-old	
 				vintage wine...	
 				Please don't drop it!	
 talk_Barton					
@@ -428,7 +428,7 @@ talk_Barton
 0x747d	0x98	Barton		Remnant Island is almost in the center	
 				of the Ciencia Sea, so you can't call	
 				it easy to access by anyone's standards.	
-0x7510	0x98	Barton		The only ferry takes over 12 hours each way... 	
+0x7510	0x98	Barton		The only ferry takes over twelve hours each way... 	
 				Well, the rural environment is a nice place.	
 0x7584	0x98	Barton		However, the air is always so clear that	
 				you can easily see shooting stars.	
@@ -650,7 +650,7 @@ talk_Gruz
 				Gwahaha... I'm proud of her too.	
 0x9d4c	0x98	Gruz		I used to be the head chef of a high	
 				class restaurant in Saint Cerise.	
-0x9daf	0x98	Gruz		I've been a cook for 40 years...	
+0x9daf	0x98	Gruz		I've been a cook for forty years...	
 				You could say I've spent my whole	
 				life pursuing cooking.	
 0x9e33	0x98	Gruz		There's no way that the food I	
@@ -661,7 +661,7 @@ talk_Gruz
 0x9f18	0x98	ALTO		(Maybe if he didn't try to get	
 				 creative once in a while and	
 				 make some freaky dish...)	
-0x9fd0	0x98	Gruz		I've been a cook for 40 years...	
+0x9fd0	0x98	Gruz		I've been a cook for forty years...	
 				I've spent my whole life pursuing cooking.	
 0xa03b	0x98	Gruz		There's no way that the food I	mp_0112 0x9e33
 				make won't be delicious!	
@@ -1278,7 +1278,7 @@ talk_Axe
 				celebrate Eartha's recovery.	
 0x11f12	0x98	Axe		That girl has been working and	
 				supporting the house since her	
-				parents died when she was 15.	
+				parents died when she was fifteen.	
 0x11f94	0x98	Axe		She's had it rougher than any of us.	
 				She deserves another chance at survival.	
 0x12027	0x98	Axe		Oh man, now I can finally go fishing	
